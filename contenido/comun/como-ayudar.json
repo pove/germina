@@ -1,5 +1,12 @@
 [
   {
+    "es": "Mirad la semilla vosotros antes y proponedla a vuestro hijo o hija; no hace falta darle el móvil. Se puede jugar a cualquier hora, en casa o fuera: lo que importa es que sea en compañía.",
+    "va": "Mireu la llavor vosaltres abans i proposeu-la al vostre fill o filla; no cal donar-li el mòbil. Es pot jugar a qualsevol hora, a casa o fora: el que importa és que siga en companyia.",
+    "en": "Look at the seed yourselves first and suggest it to your child; the phone can stay in your hands. You can play at any time, at home or out and about: what matters is doing it together.",
+    "fr": "Regardez d'abord la graine vous-mêmes et proposez-la à votre enfant ; inutile de lui donner le téléphone. On peut jouer à tout moment, à la maison ou dehors : l'important, c'est de le faire ensemble.",
+    "ar": "اطّلعوا أنتم على البذرة أولًا ثم اقترحوها على ابنكم أو ابنتكم؛ لا حاجة إلى إعطائه الهاتف. يمكن اللعب في أي وقت، في البيت أو خارجه: المهم أن يكون ذلك معًا."
+  },
+  {
     "es": "Preguntad «¿cómo lo has pensado?» antes de decir nada. Muchas veces, al explicarlo, el propio niño o niña descubre lo que quería cambiar.",
     "va": "Pregunteu «com ho has pensat?» abans de dir res. Moltes vegades, en explicar-ho, el mateix xiquet o xiqueta descobreix el que volia canviar.",
     "en": "Ask “How did you work it out?” before saying anything. Often, while explaining, children find for themselves what they wanted to change.",
@@ -28,11 +35,11 @@
     "ar": "إذا تعثّر فاستعينوا بأشياء ورسوم: حبوب، عملات، أوراق لعب، خطوط على ورقة. ما نلمسه ونراه نفهمه أفضل."
   },
   {
-    "es": "Si no sale, se da la pista y se sigue con la cena. Las preguntas son para conversar, no para acertar a la primera.",
-    "va": "Si no ix, es dona la pista i es continua amb el sopar. Les preguntes són per a conversar, no per a encertar a la primera.",
-    "en": "If it doesn't come, give the hint and carry on with dinner. The questions are for chatting, not for getting right first time.",
-    "fr": "Si cela ne vient pas, on donne l'indice et on continue le repas. Les questions servent à bavarder, pas à réussir du premier coup.",
-    "ar": "إذا لم تأتِ الإجابة فأعطوا التلميح وتابعوا العشاء. الأسئلة للحوار، لا لإصابة الجواب من أول مرة."
+    "es": "Si no sale, se da la pista y se sigue con lo que venga después. Las preguntas son para conversar, no para acertar a la primera.",
+    "va": "Si no ix, es dona la pista i es continua amb el que vinga després. Les preguntes són per a conversar, no per a encertar a la primera.",
+    "en": "If it doesn't come, give the hint and move on to whatever comes next. The questions are for chatting, not for getting right first time.",
+    "fr": "Si cela ne vient pas, on donne l'indice et on passe à la suite. Les questions servent à bavarder, pas à réussir du premier coup.",
+    "ar": "إذا لم تأتِ الإجابة فأعطوا التلميح وانتقلوا إلى ما بعده. الأسئلة للحوار، لا لإصابة الجواب من أول مرة."
   },
   {
     "es": "No hace falta saber enseñar. Con escuchar, preguntar «¿y luego?» y dar las gracias por la explicación, ya estáis ayudando.",
