@@ -328,5 +328,104 @@
     "en": "We couldn't load this. Would you like to try again?",
     "fr": "Nous n'avons pas pu charger ceci. Voulez-vous réessayer ?",
     "ar": "لم نتمكن من تحميل هذا. هل تجرّبون مرة أخرى؟"
+  },
+
+  "pasar.vacio": {
+    "es": "Todavía no hay nada que llevar. Cuando marquéis algo, volved aquí.",
+    "va": "Encara no hi ha res per a portar. Quan marqueu alguna cosa, torneu ací.",
+    "en": "There is nothing to take yet. Once you tick something off, come back here.",
+    "fr": "Il n'y a encore rien à emporter. Quand vous aurez coché quelque chose, revenez ici.",
+    "ar": "لا يوجد شيء لنقله بعد. عندما تضعون علامة على شيء ما، عودوا إلى هنا."
+  },
+  "pasar.copiar_codigo": {
+    "es": "Copiar el código",
+    "va": "Copiar el codi",
+    "en": "Copy the code",
+    "fr": "Copier le code",
+    "ar": "انسخوا الرمز"
+  },
+  "pasar.tengo_codigo": {
+    "es": "¿Os han pasado un código?",
+    "va": "Us han passat un codi?",
+    "en": "Has someone sent you a code?",
+    "fr": "On vous a envoyé un code ?",
+    "ar": "هل وصلكم رمز؟"
+  },
+  "pasar.pegar": {
+    "es": "Pegad aquí el código o el enlace",
+    "va": "Apegueu ací el codi o l'enllaç",
+    "en": "Paste the code or the link here",
+    "fr": "Collez ici le code ou le lien",
+    "ar": "الصقوا هنا الرمز أو الرابط"
+  },
+  "pasar.continuar": {
+    "es": "Continuar",
+    "va": "Continuar",
+    "en": "Continue",
+    "fr": "Continuer",
+    "ar": "تابعوا"
+  },
+  "pasar.error_qr": {
+    "es": "No hemos podido hacer el código QR. Podéis usar el enlace o el código de texto.",
+    "va": "No hem pogut fer el codi QR. Podeu usar l'enllaç o el codi de text.",
+    "en": "We couldn't make the QR code. You can use the link or the text code.",
+    "fr": "Nous n'avons pas pu créer le code QR. Vous pouvez utiliser le lien ou le code texte.",
+    "ar": "لم نتمكن من إنشاء رمز QR. يمكنكم استخدام الرابط أو الرمز النصي."
+  },
+  "recibir.cursos": {
+    "es": "Cursos que se añaden",
+    "va": "Cursos que s'afigen",
+    "en": "Years being added",
+    "fr": "Années ajoutées",
+    "ar": "الصفوف التي ستُضاف"
+  },
+  "recibir.vacio": {
+    "es": "Este jardín no trae nada para añadir.",
+    "va": "Aquest jardí no porta res per a afegir.",
+    "en": "This garden has nothing to add.",
+    "fr": "Ce jardin n'a rien à ajouter.",
+    "ar": "هذا البستان لا يحمل شيئًا لإضافته."
+  },
+  "recibir.ver_jardin": {
+    "es": "Ver el jardín",
+    "va": "Veure el jardí",
+    "en": "See the garden",
+    "fr": "Voir le jardin",
+    "ar": "شاهدوا البستان"
+  },
+  "imprimir.semana": {
+    "es": "Semana",
+    "va": "Setmana",
+    "en": "Week",
+    "fr": "Semaine",
+    "ar": "الأسبوع"
+  },
+  "imprimir.juego": {
+    "es": "Juego",
+    "va": "Joc",
+    "en": "Game",
+    "fr": "Jeu",
+    "ar": "اللعبة"
+  },
+  "imprimir.record": {
+    "es": "Récord",
+    "va": "Rècord",
+    "en": "Record",
+    "fr": "Record",
+    "ar": "الرقم القياسي"
+  },
+  "imprimir.anotar": {
+    "es": "Anotad aquí",
+    "va": "Apunteu ací",
+    "en": "Write here",
+    "fr": "Notez ici",
+    "ar": "دوّنوا هنا"
+  },
+  "imprimir.sin_cursos": {
+    "es": "Elegid un curso en Ajustes para ver su hoja.",
+    "va": "Trieu un curs en Ajustos per a veure'n el full.",
+    "en": "Choose a year in Settings to see its sheet.",
+    "fr": "Choisissez une année dans les Réglages pour voir sa feuille.",
+    "ar": "اختاروا صفًا في الإعدادات لرؤية ورقته."
   }
 }

@@ -7,6 +7,7 @@ import { t, tDinamico } from '../idioma';
 import { borrar, datosVacios } from '../nucleo/almacen';
 import { cursosActivos, type Catalogo } from '../nucleo/catalogo';
 import { irA } from '../enrutador';
+import { construir } from '../nucleo/rutas';
 import { claveCurso } from '../nucleo/tipos';
 import { SelectorIdioma } from '../piezas/SelectorIdioma';
 import { Explicacion } from './Jardin';
@@ -58,6 +59,18 @@ export function Ajustes() {
           })}
         </div>
         <p>{t('bienvenida.curso_ayuda')}</p>
+      </section>
+
+      <section aria-labelledby="llevar">
+        <h2 id="llevar">{t('ajustes.pasar')}</h2>
+        <div class="acciones">
+          <a class="boton" href={construir({ tipo: 'pasar' })}>
+            {t('ajustes.pasar')}
+          </a>
+          <a class="boton" href={construir({ tipo: 'imprimirRecords' })}>
+            {t('ajustes.records')}
+          </a>
+        </div>
       </section>
 
       <section aria-labelledby="explicacion">

@@ -65,6 +65,8 @@ export interface EntradaMapa {
   tipo?: 'tema' | 'recordar';
   titulo: string;
   tema: string;
+  /** Juego de rapidez con cronómetro y récord. */
+  rapidez?: boolean;
 }
 
 export interface Mapa {
