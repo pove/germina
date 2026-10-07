@@ -20,7 +20,7 @@ Bienvenida, esta semana, pregunta del día, reto (con cronómetro y récord), ja
 
 ## Estado
 
-El trabajo va por etapas, en [docs/tareas.md](docs/tareas.md): esqueleto, validador de contenido, núcleo lógico, idiomas, pantallas, llevar el jardín a otro móvil y páginas legales están hechos. Quedan el funcionamiento sin conexión con su presupuesto de peso (etapa 7) y el contenido, por tandas (etapa 9). Por ahora solo existe la semana 7 de 3.º, que sirve de modelo.
+El trabajo va por etapas, en [docs/tareas.md](docs/tareas.md): esqueleto, validador de contenido, núcleo lógico, idiomas, pantallas, llevar el jardín a otro móvil, funcionamiento sin conexión y páginas legales están hechos. Queda el contenido, por tandas (etapa 9). Por ahora solo existe la semana 7 de 3.º, que sirve de modelo.
 
 ## Documentación
 

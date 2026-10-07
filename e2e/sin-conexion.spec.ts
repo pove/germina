@@ -62,7 +62,7 @@ test.describe('sin conexión', () => {
     await page.goto('./#/2/matematicas/3/aprenden');
     await expect(page.getByRole('heading', { level: 2 })).toHaveCount(3);
     await page.goto('./#/ayuda');
-    await expect(page.locator('.ideas li')).toHaveCount(6);
+    await expect(page.locator('.ideas li')).toHaveCount(7);
     await page.goto('./#/ajustes/pasar');
     await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('pasar.titulo', 'es'));
 
