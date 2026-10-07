@@ -613,20 +613,6 @@
     "fr": "Nous n'avons pas vérifié Germina avec tous les lecteurs d'écran ni avec tous les téléphones : il se peut que quelque chose ne fonctionne pas de la même façon sur le vôtre.",
     "ar": "لم نراجع Germina مع كل قارئات الشاشة ولا مع كل الهواتف: وقد لا يعمل شيء ما بالطريقة نفسها على هاتفكم."
   },
-  "accesibilidad.avisar_titulo": {
-    "es": "Si algo no os funciona",
-    "va": "Si alguna cosa no us funciona",
-    "en": "If something doesn't work for you",
-    "fr": "Si quelque chose ne fonctionne pas pour vous",
-    "ar": "إذا لم يعمل شيء ما معكم"
-  },
-  "accesibilidad.avisar": {
-    "es": "Contádselo al centro educativo de vuestros hijos e hijas, y el centro lo hará llegar a quienes mantienen Germina. Decid qué intentabais hacer, en qué móvil y con qué lector de pantalla, si usáis uno.",
-    "va": "Conteu-ho al centre educatiu dels vostres fills i filles, i el centre ho farà arribar a qui manté Germina. Digueu què intentàveu fer, en quin mòbil i amb quin lector de pantalla, si en useu un.",
-    "en": "Tell your children's school, and the school will pass it on to the people who look after Germina. Say what you were trying to do, on which phone and with which screen reader, if you use one.",
-    "fr": "Dites-le à l'école de vos enfants, qui le transmettra aux personnes qui s'occupent de Germina. Précisez ce que vous essayiez de faire, sur quel téléphone et avec quel lecteur d'écran, si vous en utilisez un.",
-    "ar": "أخبروا مدرسة أبنائكم وبناتكم، وستوصل المدرسة ذلك إلى القائمين على Germina. اذكروا ما كنتم تحاولون فعله، وعلى أي هاتف، ومع أي قارئ شاشة إن كنتم تستخدمون واحدًا."
-  },
 
   "bienvenida.adultos": {
     "es": "Germina es para que la uséis vosotros: miráis la semilla antes y se la proponéis a vuestro hijo o hija. Los retos y las preguntas se juegan sin pantalla y a cualquier hora.",
