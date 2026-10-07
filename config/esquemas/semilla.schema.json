@@ -94,7 +94,7 @@
     },
     "pictograma": {
       "description": "Nombre de un pictograma de la lista cerrada (docs/especificacion.md, apartado 4.6).",
-      "enum": ["dado", "cartas", "monedas", "billete", "reloj", "cronometro", "recta", "legumbres", "vaso", "plato", "galleta", "pizza", "papel", "lapiz", "regla", "cinta", "cuerda", "balanza", "botella", "bolsa", "calcetin", "pinza", "boton", "tablero", "palillos", "folleto", "ticket", "mapa", "brujula", "caja", "calendario", "termometro", "casa", "cocina", "sol", "manos", "bocadillo", "fruta"]
+      "enum": ["dado", "cartas", "monedas", "billete", "reloj", "cronometro", "recta", "legumbres", "vaso", "plato", "galleta", "pizza", "papel", "lapiz", "regla", "cinta", "cuerda", "balanza", "botella", "bolsa", "calcetin", "pinza", "boton", "tablero", "palillos", "folleto", "ticket", "mapa", "brujula", "caja", "calendario", "termometro", "casa", "cocina", "sol", "manos", "bocadillo", "fruta", "pan", "huevera", "nevera", "pelota", "domino", "tarjetas", "sobre", "tijeras", "tira", "lupa", "ojo", "conversacion", "huellas", "formas", "angulo", "barras", "arbol", "ascensor"]
     },
     "reto": {
       "type": "object",
