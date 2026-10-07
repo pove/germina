@@ -15,15 +15,37 @@
   src: url('./assets/fuentes/atkinson-hyperlegible-latin-700-normal.woff2') format('woff2');
 }
 
+/*
+ * Colores. Cada pareja de texto o de control con su fondo cumple WCAG 2.1 AA (4,5:1 el texto, 3:1 los bordes de
+ * los controles y los gráficos): lo comprueba scripts/__tests__/contraste.test.mjs. Si añades o cambias uno, añádelo allí.
+ */
 :root {
   color-scheme: light;
+  /* Fondos */
   --fondo: #fbf8f1;
-  --texto: #1f2a1f;
-  --acento: #2f6b3a;
-  --acento-suave: #e4efdf;
-  --flor: #9a3b12;
-  --borde: #b9c7b3;
   --tarjeta: #ffffff;
+  --acento-suave: #e4efdf;
+  --hierba-suave: #edf4e6;
+  --tierra-suave: #efe3d2;
+  --flor-suave: #fcebe3;
+  --sol-suave: #fbefc8;
+  --gris-suave: #f1efe7;
+  /* Texto y trazos */
+  --texto: #1f2a1f;
+  --texto-suave: #4a5a4a;
+  --acento: #2f6b3a;
+  --acento-oscuro: #1f4d29;
+  --sobre-acento: #ffffff;
+  --flor: #9a3b12;
+  --flor-rosa: #a8285e;
+  --flor-morada: #6b3fa0;
+  --tierra: #7a4f2c;
+  --borde-control: #6f8a68;
+  /* Solo adorno: no separan ni nombran nada */
+  --borde: #b9c7b3;
+  --sol: #d9961a;
+  --sombra: 0 1px 2px rgb(31 42 31 / 8%), 0 2px 8px rgb(31 42 31 / 6%);
+  --sombra-alta: 0 2px 4px rgb(31 42 31 / 10%), 0 6px 16px rgb(31 42 31 / 10%);
   --tipografia: 'Atkinson Hyperlegible', system-ui, sans-serif;
 }
 
@@ -160,7 +182,7 @@ a {
 .contexto,
 .subtitulo {
   margin-block: 0.25rem;
-  color: #4a5a4a;
+  color: var(--texto-suave);
 }
 
 .lema {
@@ -188,7 +210,7 @@ a {
 .boton-principal,
 .selector-idioma button[aria-pressed='true'] {
   background: var(--acento);
-  color: #fff;
+  color: var(--sobre-acento);
 }
 
 .boton[aria-expanded='true'] {
@@ -196,7 +218,44 @@ a {
 }
 
 .boton-principal[aria-pressed='true'] {
-  background: #1f4d29;
+  background: var(--acento-oscuro);
+}
+
+/* Al pasar el ratón y al pulsar: cambia el fondo, no solo el color del texto. */
+@media (hover: hover) {
+  .boton:not(:disabled):hover,
+  .selector-idioma button:hover,
+  .flecha:not(.inactiva):hover,
+  .cabecera nav a:hover {
+    background: var(--acento-suave);
+  }
+
+  .boton-principal:not(:disabled):hover,
+  .selector-idioma button[aria-pressed='true']:hover {
+    background: var(--acento-oscuro);
+  }
+}
+
+.boton,
+.selector-idioma button {
+  transition: background-color 0.15s, transform 0.1s;
+}
+
+.boton:not(:disabled):active {
+  transform: translateY(1px);
+}
+
+/* Un icono dentro de un botón, delante del texto */
+.icono.icono-boton {
+  inline-size: 1.5rem;
+  block-size: 1.5rem;
+  margin-inline-end: 0.5rem;
+  color: currentColor;
+}
+
+/* El signo de interrogación va al revés en árabe (؟) */
+html[dir='rtl'] .icono-ayuda {
+  transform: scaleX(-1);
 }
 
 .boton:disabled {
@@ -242,9 +301,10 @@ a {
 .tarjeta {
   margin-block: 1rem;
   padding: 0.5rem 1rem 1rem;
-  border: 2px solid var(--borde);
-  border-radius: 0.75rem;
+  border: 1px solid var(--borde);
+  border-radius: 1rem;
   background: var(--tarjeta);
+  box-shadow: var(--sombra);
 }
 
 .tarjeta h2,
@@ -341,7 +401,7 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
 
 .insignia.aviso {
   border-color: var(--borde);
-  background: #f1efe7;
+  background: var(--gris-suave);
 }
 
 .aviso-fin-de-semana,
@@ -360,7 +420,7 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
   margin: 0.5rem auto 0;
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
-  background: #f6e9c8;
+  background: var(--sol-suave);
 }
 
 .aviso-global p {
@@ -368,11 +428,35 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
   margin: 0;
 }
 
-.titulo-reto,
-.en-camino {
+.titulo-reto {
   display: flex;
   align-items: center;
   gap: 0.75rem;
+}
+
+/* Semilla en camino: la espera y, si la hay, otra semilla lista para jugar */
+.en-camino {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding-block: 1rem;
+  border-color: var(--sol);
+  background: var(--sol-suave);
+}
+
+.en-camino .icono-grande {
+  inline-size: 4rem;
+  block-size: 4rem;
+  color: var(--tierra);
+}
+
+.en-camino p {
+  margin-block: 0 0.75rem;
+}
+
+.en-camino-titulo {
+  font-size: 1.125rem;
+  font-weight: 700;
 }
 
 .lista-preguntas {
@@ -432,58 +516,128 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
   margin-block-end: 0.75rem;
 }
 
-/* El jardín: una planta por semana */
+/*
+ * El jardín: un bancal con una planta por semana. Cada parcela tiene cielo arriba y tierra abajo; el número va en la
+ * tierra, como la etiqueta de un semillero. El estado se distingue por el dibujo (semilla, brote, flor) y por el nombre
+ * accesible, nunca solo por el color.
+ */
 .jardin {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(4.25rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr));
   gap: 0.5rem;
   margin: 0;
-  padding: 0;
+  padding: 0.75rem;
+  border-radius: 1rem;
+  background: var(--hierba-suave);
   list-style: none;
 }
 
 .planta {
+  --cielo: var(--tarjeta);
+  --planta: var(--tierra);
+  position: relative;
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  min-block-size: 4.5rem;
-  border: 2px solid var(--borde);
-  border-radius: 0.5rem;
-  background: var(--tarjeta);
-  color: var(--acento);
+  justify-content: flex-end;
+  min-block-size: 5.25rem;
+  border: 2px solid var(--borde-control);
+  border-radius: 0.75rem;
+  background: linear-gradient(to top, var(--tierra-suave) 1.75rem, var(--cielo) 1.75rem);
+  color: var(--planta);
   text-decoration: none;
+  overflow: hidden;
 }
 
+/* La raya del suelo del dibujo cae justo donde empieza la tierra */
 .planta .icono {
-  inline-size: 2rem;
-  block-size: 2rem;
+  color: var(--planta);
+  inline-size: 2.5rem;
+  block-size: 2.5rem;
+  margin-block-end: -0.3rem;
+}
+
+.planta .icono path:first-child {
+  stroke: var(--tierra);
 }
 
 .planta .numero {
+  block-size: 1.75rem;
+  color: var(--texto);
   font-weight: 700;
-}
-
-.planta-flor {
-  border-color: var(--flor);
-  color: var(--flor);
-}
-
-.planta-flor .icono {
-  color: var(--flor);
+  line-height: 1.75rem;
 }
 
 .planta-brote {
+  --cielo: var(--acento-suave);
+  --planta: var(--acento);
   border-color: var(--acento);
 }
 
-.planta-sin-semilla {
-  border-style: dashed;
-  color: #4a5a4a;
+.planta-flor {
+  --cielo: var(--flor-suave);
+  --planta: var(--flor);
+  border-color: var(--planta);
 }
 
-.planta[aria-current='date'] {
-  box-shadow: 0 0 0 3px var(--acento);
+/* Flores de colores distintos, solo por gusto */
+.jardin li:nth-child(3n + 2) .planta-flor {
+  --planta: var(--flor-rosa);
+}
+
+.jardin li:nth-child(3n) .planta-flor {
+  --planta: var(--flor-morada);
+}
+
+.planta-sin-semilla {
+  --cielo: transparent;
+  --planta: var(--borde-control);
+  border: 2px dashed var(--borde);
+  background: linear-gradient(to top, rgb(122 79 44 / 8%) 1.75rem, transparent 1.75rem);
+}
+
+.planta-sin-semilla .icono path:first-child {
+  stroke: var(--borde-control);
+}
+
+/* Hoy: borde grueso y oscuro (se ve también en alto contraste) y un sol encima */
+.planta-hoy {
+  --cielo: var(--sol-suave);
+  border: 3px solid var(--texto);
+}
+
+.planta-sin-semilla.planta-hoy {
+  background: linear-gradient(to top, rgb(122 79 44 / 8%) 1.75rem, var(--sol-suave) 1.75rem);
+}
+
+.planta-hoy::before {
+  content: '';
+  position: absolute;
+  inset-block-start: 0.35rem;
+  inset-inline-end: 0.35rem;
+  inline-size: 0.75rem;
+  block-size: 0.75rem;
+  border-radius: 50%;
+  background: var(--sol);
+}
+
+a.planta {
+  box-shadow: var(--sombra);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+@media (hover: hover) {
+  a.planta:hover {
+    box-shadow: var(--sombra-alta);
+    transform: translateY(-2px);
+  }
+}
+
+@media (forced-colors: active) {
+  .planta-hoy {
+    outline: 3px solid CanvasText;
+    outline-offset: 2px;
+  }
 }
 
 /* Cronómetro y récord */

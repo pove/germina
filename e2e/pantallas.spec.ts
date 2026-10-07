@@ -80,6 +80,9 @@ for (const idioma of IDIOMAS) {
       await expect(page).toHaveURL(/semana\/8$/);
       await expect(page.getByText(T('semana.en_camino', idioma))).toBeVisible();
       await expect(page.getByRole('heading', { level: 1 })).toHaveText('La vuelta'); // el título del mapa, en español
+      // Mientras tanto, lleva a la semilla publicada más cercana.
+      await expect(page.getByText(T('semana.mientras_tanto', idioma))).toBeVisible();
+      await expect(page.getByRole('link', { name: T('semana.ir_a', idioma, { n: 7 }) })).toHaveAttribute('href', /semana\/7$/);
       await sinProblemasDeAccesibilidad(page);
 
       await page.getByRole('link', { name: T('semana.anterior', idioma) }).click();
@@ -190,6 +193,21 @@ for (const idioma of IDIOMAS) {
     });
   });
 }
+
+test('el jardín marca la semana de hoy aunque su semilla esté en camino', async ({ page }) => {
+  await preparar(page, { fecha: '2026-10-07T10:00:00', almacen: { idioma: 'es' } }); // miércoles de la semana 5
+  await page.goto('./#/2/matematicas/3/jardin');
+  const hoy = page.getByRole('img', { name: `${T('semana.titulo', 'es', { n: 5 })}: ${T('jardin.estado.en_camino', 'es')}` });
+  await expect(hoy).toHaveAttribute('aria-current', 'date');
+  await expect(page.locator('[aria-current="date"]')).toHaveCount(1);
+});
+
+test('sin ninguna semilla publicada en el curso, «en camino» no ofrece ir a otra', async ({ page }) => {
+  await preparar(page, { almacen: { idioma: 'es', cursos: [CURSO_4], cursoActivo: CURSO_4 } });
+  await page.goto('./#/2/matematicas/4/semana/7');
+  await expect(page.getByText(T('semana.en_camino', 'es'))).toBeVisible();
+  await expect(page.getByText(T('semana.mientras_tanto', 'es'))).toHaveCount(0);
+});
 
 test.describe('cursos y cambio de curso', () => {
   test('con dos cursos, un toque cambia de uno a otro', async ({ page }) => {

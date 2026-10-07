@@ -134,17 +134,25 @@
   },
   "semana.cambiar_curso": { "es": "Cambiar a {curso}", "va": "Canviar a {curso}", "en": "Switch to {curso}", "fr": "Passer en {curso}", "ar": "انتقلوا إلى {curso}" },
   "semana.en_camino": {
-    "es": "Esta semilla está en camino. Mientras tanto, podéis volver a cualquier semana anterior.",
-    "va": "Aquesta llavor està en camí. Mentrestant, podeu tornar a qualsevol setmana anterior.",
-    "en": "This seed is on its way. In the meantime, you can go back to any earlier week.",
-    "fr": "Cette graine est en route. En attendant, vous pouvez revenir à n'importe quelle semaine précédente.",
-    "ar": "هذه البذرة في الطريق. في هذه الأثناء يمكنكم العودة إلى أي أسبوع سابق."
+    "es": "Esta semilla está en camino.",
+    "va": "Aquesta llavor està en camí.",
+    "en": "This seed is on its way.",
+    "fr": "Cette graine est en route.",
+    "ar": "هذه البذرة في الطريق."
+  },
+  "semana.mientras_tanto": {
+    "es": "Mientras tanto, podéis jugar otra semilla que ya está lista.",
+    "va": "Mentrestant, podeu jugar una altra llavor que ja està llesta.",
+    "en": "In the meantime, you can play another seed that is ready.",
+    "fr": "En attendant, vous pouvez jouer avec une autre graine déjà prête.",
+    "ar": "في هذه الأثناء يمكنكم اللعب ببذرة أخرى جاهزة."
   },
   "semana.ir_a": { "es": "Ir a la semana {n}", "va": "Anar a la setmana {n}", "en": "Go to week {n}", "fr": "Aller à la semaine {n}", "ar": "اذهبوا إلى الأسبوع {n}" },
 
   "verano.titulo": { "es": "Reto de verano {n}", "va": "Repte d'estiu {n}", "en": "Summer challenge {n}", "fr": "Défi de l'été {n}", "ar": "تحدّي الصيف {n}" },
   "verano.anterior": { "es": "Reto de verano anterior", "va": "Repte d'estiu anterior", "en": "Previous summer challenge", "fr": "Défi de l'été précédent", "ar": "تحدّي الصيف السابق" },
   "verano.siguiente": { "es": "Reto de verano siguiente", "va": "Repte d'estiu següent", "en": "Next summer challenge", "fr": "Défi de l'été suivant", "ar": "تحدّي الصيف التالي" },
+  "verano.ir_a": { "es": "Ir al reto de verano {n}", "va": "Anar al repte d'estiu {n}", "en": "Go to summer challenge {n}", "fr": "Aller au défi de l'été {n}", "ar": "اذهبوا إلى تحدّي الصيف {n}" },
   "verano.intro": {
     "es": "Retos para el verano, cuando os venga bien. Elegid el que más os apetezca.",
     "va": "Reptes per a l'estiu, quan us vinga bé. Trieu el que més us abelleixi.",

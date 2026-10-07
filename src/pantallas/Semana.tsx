@@ -1,8 +1,9 @@
 // «Esta semana» (inicio) y los retos de verano: objetivo, pregunta de hoy, reto y selector de semana.
-import { cargarMapa, cargarSemilla, useCarga } from '../contenido';
+import { cargarIndice, cargarMapa, cargarSemilla, claveEnIndice, useCarga } from '../contenido';
 import { datos, hoyFecha, marcadoDe, situacionHoy } from '../estado';
 import { idioma, t, tDinamico } from '../idioma';
 import { hoy as hoyDe } from '../nucleo/calendario';
+import { semillaCercana } from '../nucleo/jardin';
 import { rutaDeSituacion } from '../nucleo/inicio';
 import { construir, type Ruta } from '../nucleo/rutas';
 import { SEMANAS, VERANOS, claveCurso, claveSemana, claveVerano, esElemento, type Curso } from '../nucleo/tipos';
@@ -46,15 +47,29 @@ function Selector({ curso, verano, n }: Props) {
 
 function EnCamino({ curso, verano, n }: Props) {
   const mapa = useCarga(() => cargarMapa(curso), [claveCurso(curso)]);
+  const indice = useCarga(cargarIndice, []);
   const entrada = mapa.estado === 'listo' ? (verano ? mapa.valor.verano : mapa.valor.cursos)[String(curso.curso)]?.[n - 1] : undefined;
+  const cercana =
+    indice.estado === 'listo' ? semillaCercana((m) => indice.valor.has(claveEnIndice(curso, verano, m)), n, verano ? VERANOS : SEMANAS) : null;
   return (
     <>
-      <h1 tabIndex={-1} lang={entrada ? 'es' : undefined}>
-        {entrada?.titulo ?? (verano ? t('verano.titulo', { n }) : t('semana.titulo', { n }))}
+      {/* El título del mapa va en español: <bdi> lo aísla para que no se desordene en árabe. */}
+      <h1 tabIndex={-1}>
+        {entrada ? <bdi lang="es">{entrada.titulo}</bdi> : verano ? t('verano.titulo', { n }) : t('semana.titulo', { n })}
       </h1>
       <section class="tarjeta en-camino">
-        <Icono nombre="espera" />
-        <p>{t('semana.en_camino')}</p>
+        <Icono nombre="espera" clase="icono-grande" />
+        <div>
+          <p class="en-camino-titulo">{t('semana.en_camino')}</p>
+          {cercana !== null && (
+            <>
+              <p>{t('semana.mientras_tanto')}</p>
+              <a class="boton boton-principal" href={construir(rutaDe(curso, verano, cercana))}>
+                {verano ? t('verano.ir_a', { n: cercana }) : t('semana.ir_a', { n: cercana })}
+              </a>
+            </>
+          )}
+        </div>
       </section>
     </>
   );

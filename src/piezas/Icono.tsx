@@ -3,7 +3,7 @@ const svgs = import.meta.glob<string>('../assets/ui/*.svg', { query: '?raw', imp
 
 const porNombre = new Map(Object.entries(svgs).map(([ruta, svg]) => [ruta.replace(/^.*\/(.+)\.svg$/, '$1'), svg]));
 
-export type NombreIcono = 'semilla' | 'brote' | 'flor' | 'jardin' | 'espera';
+export type NombreIcono = 'semilla' | 'brote' | 'flor' | 'jardin' | 'espera' | 'ayuda';
 
 /** Solo adorno: el texto de al lado dice lo mismo. */
 export function Icono({ nombre, clase = '' }: { nombre: NombreIcono; clase?: string }) {
