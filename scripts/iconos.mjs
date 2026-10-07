@@ -1,4 +1,5 @@
-// Genera los iconos de la aplicación (public/favicon.svg y public/iconos/*.png) a partir de un SVG propio.
+// Genera los iconos de la aplicación (public/favicon.svg, public/iconos/*.png y el de la cabecera,
+// src/assets/ui/marca.svg) a partir de un SVG propio.
 // Uso: node scripts/iconos.mjs   (necesita Playwright; PW_CANAL=chrome usa el Chrome instalado)
 // Los iconos ya generados se guardan en el repositorio: este script solo hace falta si se cambia el dibujo.
 import { mkdirSync, writeFileSync } from 'node:fs';
@@ -28,6 +29,8 @@ function icono({ redondeado, escala = 1 }) {
 const destino = join(raiz, 'public');
 mkdirSync(join(destino, 'iconos'), { recursive: true });
 writeFileSync(join(destino, 'favicon.svg'), `${icono({ redondeado: true })}\n`);
+// El mismo dibujo junto al nombre, en la cabecera: solo adorno, porque el nombre ya está escrito al lado.
+writeFileSync(join(raiz, 'src/assets/ui/marca.svg'), `${icono({ redondeado: true }).replace('<svg ', '<svg aria-hidden="true" ')}\n`);
 
 const navegador = await chromium.launch({ channel: process.env.PW_CANAL || undefined });
 const pagina = await navegador.newPage();

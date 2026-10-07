@@ -147,10 +147,18 @@ a {
 }
 
 .marca {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   margin: 0;
   color: var(--acento);
   font-size: 1.25rem;
   font-weight: 700;
+}
+
+.icono.icono-marca {
+  inline-size: 2rem;
+  block-size: 2rem;
 }
 
 .cabecera nav ul {

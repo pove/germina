@@ -8,6 +8,7 @@ import { idioma, t, tDinamico } from '../idioma';
 import { esCursoActivo, nombreDeArea, type Catalogo } from '../nucleo/catalogo';
 import { construir, type Ruta } from '../nucleo/rutas';
 import { leerClaveCurso, type Curso } from '../nucleo/tipos';
+import { Icono } from './Icono';
 
 const catalogo = catalogoJson as Catalogo;
 const avisoGuardadoVisto = signal(false);
@@ -71,7 +72,10 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
         {t('a11y.contenido')}
       </button>
       <header class="cabecera">
-        <p class="marca">{t('app.nombre')}</p>
+        <p class="marca">
+          <Icono nombre="marca" clase="icono-marca" />
+          {t('app.nombre')}
+        </p>
         {!sinMenu && (
           <nav aria-label={t('a11y.menu')}>
             <ul>
