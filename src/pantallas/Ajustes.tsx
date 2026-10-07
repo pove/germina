@@ -1,5 +1,5 @@
 // «Ajustes»: idioma, cursos, explicación de la semilla y el jardín, cómo instalar y empezar de cero.
-// «Llevar el jardín a otro móvil», privacidad, accesibilidad y la hoja de récords llegan en otras etapas.
+// Con enlaces a «Llevar el jardín a otro móvil», la hoja de récords, la privacidad y la accesibilidad.
 import catalogoJson from '../../config/catalogo.json';
 import { useState } from 'preact/hooks';
 import { anoCursoHoy, datos, guardar, almacen } from '../estado';
@@ -85,6 +85,18 @@ export function Ajustes() {
         <p>{t('instalar.iphone_pasos')}</p>
         <h3>{t('instalar.android')}</h3>
         <p>{t('instalar.android_pasos')}</p>
+      </section>
+
+      <section aria-labelledby="legal">
+        <h2 id="legal">{t('ajustes.legal')}</h2>
+        <div class="acciones">
+          <a class="boton" href={construir({ tipo: 'privacidad' })}>
+            {t('ajustes.privacidad')}
+          </a>
+          <a class="boton" href={construir({ tipo: 'accesibilidad' })}>
+            {t('ajustes.accesibilidad')}
+          </a>
+        </div>
       </section>
 
       <section aria-labelledby="cero">

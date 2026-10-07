@@ -12,6 +12,7 @@ import { Ayuda } from './pantallas/Ayuda';
 import { Bienvenida } from './pantallas/Bienvenida';
 import { CambioDeCurso } from './pantallas/CambioDeCurso';
 import { Jardin } from './pantallas/Jardin';
+import { Accesibilidad, Privacidad } from './pantallas/Legal';
 import { Pasar } from './pantallas/Pasar';
 import { Pregunta } from './pantallas/Pregunta';
 import { Recibir } from './pantallas/Recibir';
@@ -56,8 +57,12 @@ function Pantalla({ r }: { r: Ruta }) {
       return <Recibir codigo={r.codigo} />;
     case 'imprimirRecords':
       return <Records />;
+    case 'privacidad':
+      return <Privacidad />;
+    case 'accesibilidad':
+      return <Accesibilidad />;
     default:
-      return null; // inicio, desconocida, privacidad y accesibilidad: las legales llegan en otra etapa
+      return null; // inicio y desconocida: `redireccion` las lleva a otra parte
   }
 }
 

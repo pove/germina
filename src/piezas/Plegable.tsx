@@ -9,8 +9,8 @@ export function Plegable({
   children,
 }: {
   abierto?: boolean;
-  etiqueta: string;
-  etiquetaAbierto?: string;
+  etiqueta: preact.ComponentChildren;
+  etiquetaAbierto?: preact.ComponentChildren;
   clase?: string;
   children: preact.ComponentChildren;
 }) {
