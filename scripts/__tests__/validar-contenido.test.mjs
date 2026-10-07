@@ -242,6 +242,28 @@ describe('regla 6: palabras de Germina', () => {
     expect(e.campo).toBe(`objetivo.${idioma}`);
   });
 
+  it.each([
+    ['es', 'Hay que abrir un vaso.'],
+    ['es', 'Una en la que haya que abrir un paquete.'],
+    ['es', 'Tenéis que acabarlo.'],
+    ['va', 'Cal obrir un got.'],
+    ['en', 'You need to open a cup.'],
+    ['en', 'You have to win.'],
+    ['fr', 'Il faut ouvrir un verre.'],
+    ['ar', 'يجب فتح كوب.'],
+  ])('la obligación en %s: «%s»', (idioma, frase) => {
+    const s = clonar();
+    s.objetivo[idioma] = frase;
+    unError(validar(s), 'que Germina no usa');
+  });
+
+  it('quitar presión no es obligar: «no cal», «doesn\'t need to»', () => {
+    const s = clonar();
+    s.objetivo.va = 'No cal que ho diga perfecte.';
+    s.objetivo.en = "It doesn't need to be perfect.";
+    expect(validar(s).errores.filter((x) => x.motivo.includes('Germina'))).toEqual([]);
+  });
+
   it('no distingue mayúsculas ni se confunde con palabras que la contienen', () => {
     const s = clonar();
     s.comoAyudar.es = 'EXAMEN.';
