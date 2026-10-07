@@ -16,7 +16,8 @@
     "test": "vitest run --coverage",
     "test:e2e": "playwright test",
     "validar": "node scripts/validar-contenido.mjs && node scripts/mapa-semanas.mjs",
-    "check": "npm run tipos && npm test && npm run validar && npm run build && npm run test:e2e"
+    "check": "npm run tipos && npm test && npm run validar && npm run build && npm run peso && npm run test:e2e",
+    "peso": "node scripts/peso.mjs"
   },
   "dependencies": {
     "@preact/signals": "^2.11.3",
@@ -32,6 +33,7 @@
     "ajv": "^8.20.0",
     "typescript": "^7.0.2",
     "vite": "^8.3.3",
+    "vite-plugin-pwa": "^2.0.0",
     "vitest": "^5.0.3"
   }
 }

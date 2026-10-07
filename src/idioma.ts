@@ -40,6 +40,9 @@ export function aplicarIdioma(id: Idioma): void {
   document.documentElement.lang = config.lang;
   document.documentElement.dir = config.dir;
   if (id === 'ar') void import('./estilos-arabe.css');
+  // El manifiesto de la aplicación instalable, en el idioma elegido.
+  const manifiesto = document.querySelector<HTMLLinkElement>('link[rel="manifest"]');
+  if (manifiesto) manifiesto.href = `${import.meta.env.BASE_URL}${id === 'es' ? 'manifest.webmanifest' : `manifest-${id}.webmanifest`}`;
 }
 
 /** Idioma de partida: el guardado, si no el del navegador (si es uno de los cinco), si no el español. */
