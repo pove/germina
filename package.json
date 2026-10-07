@@ -15,7 +15,7 @@
     "tipos": "tsc --noEmit",
     "test": "vitest run",
     "test:e2e": "playwright test",
-    "validar": "node scripts/mapa-semanas.mjs",
+    "validar": "node scripts/validar-contenido.mjs && node scripts/mapa-semanas.mjs",
     "check": "npm run tipos && npm test && npm run validar && npm run build && npm run test:e2e"
   },
   "dependencies": {
@@ -27,6 +27,7 @@
     "@playwright/test": "^1.63.0",
     "@preact/preset-vite": "^2.10.6",
     "@types/node": "^26.6.4",
+    "ajv": "^8.20.0",
     "typescript": "^7.0.2",
     "vite": "^8.3.3",
     "vitest": "^5.0.3"
