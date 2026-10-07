@@ -202,6 +202,13 @@ test('el jardín marca la semana de hoy aunque su semilla esté en camino', asyn
   await expect(page.locator('[aria-current="date"]')).toHaveCount(1);
 });
 
+test('el nombre de la cabecera lleva a «Esta semana»', async ({ page }) => {
+  await preparar(page, { almacen: { idioma: 'es' } });
+  await page.goto('./#/ajustes');
+  await page.getByRole('banner').getByRole('link', { name: T('app.nombre', 'es') }).click();
+  await expect(page).toHaveURL(/semana\/7$/);
+});
+
 test('sin ninguna semilla publicada en el curso, «en camino» no ofrece ir a otra', async ({ page }) => {
   await preparar(page, { almacen: { idioma: 'es', cursos: [CURSO_4], cursoActivo: CURSO_4 } });
   await page.goto('./#/2/matematicas/4/semana/7');

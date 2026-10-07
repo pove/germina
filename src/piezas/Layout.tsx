@@ -72,9 +72,19 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
         {t('a11y.contenido')}
       </button>
       <header class="cabecera">
+        {/* El nombre lleva a «Esta semana», salvo en la bienvenida y el cambio de curso, donde aún no hay adónde ir. */}
         <p class="marca">
-          <Icono nombre="marca" clase="icono-marca" />
-          {t('app.nombre')}
+          {sinMenu ? (
+            <>
+              <Icono nombre="marca" clase="icono-marca" />
+              {t('app.nombre')}
+            </>
+          ) : (
+            <a href={construir({ tipo: 'inicio' })}>
+              <Icono nombre="marca" clase="icono-marca" />
+              {t('app.nombre')}
+            </a>
+          )}
         </p>
         {!sinMenu && (
           <nav aria-label={t('a11y.menu')}>
