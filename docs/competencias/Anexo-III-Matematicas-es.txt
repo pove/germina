@@ -1,0 +1,1431 @@
+                                            MATEMÁTICAS
+
+          1. Presentación.
+
+          Los diferentes aspectos descritos en esta introducción pretenden enmarcar y aclarar algunos puntos
+que se desarrollarán más adelante. Además de la estructura de este documento y de algunas cuestiones
+técnicas, resulta necesario conocer la contribución de esta área a los objetivos de la etapa y al perfil de salida.
+
+          En la sociedad actual, la alfabetización matemática resulta una necesidad básica para el desempeño
+de una ciudadanía reflexiva, crítica, participativa y responsable. Las formas propias de razonamiento
+matemático permiten realizar un análisis e interpretación precisos y rigurosos de las situaciones, procesos y
+resultados; son, por tanto, un instrumento esencial para desenvolverse satisfactoriamente en contextos
+personales, académicos, sociales, científicos y laborales. Aún más, como parte del currículo de la educación
+obligatoria, la alfabetización matemática también es un derecho que debe satisfacerse.
+
+          La aportación del área de matemáticas al perfil de salida debe hacerse desde una aproximación
+funcional, es decir, como una forma de comprensión del mundo, lo cual requiere enseñar y aprender
+matemáticas como una “manera de hacer”, potenciar el trabajo matemático a partir de contextos reales,
+utilizando materiales y herramientas que doten de sentido a la actividad matemática y faciliten el tránsito de
+lo concreto a lo abstracto. Esta área contribuye a la educación obligatoria mediante la adquisición y desarrollo
+de competencias específicas que refieren al conjunto de conocimientos, habilidades y actitudes necesarias
+para comprender y usar las formas de razonamiento, desarrollos, representación y expresiones propias de
+las matemáticas en una variedad de situaciones en las que ejercen o pueden ejercer un papel.
+
+          Las competencias específicas del área de matemáticas contribuyen, en consecuencia, a la
+adquisición de las competencias clave establecidas en el perfil de salida del alumnado. El pensamiento y
+lenguaje matemáticos están implicados en cualquier actividad que requiera estructurar, sistematizar y
+encontrar relaciones entre distintos atributos de la realidad. Por otra parte, el lenguaje matemático,
+fundamentalmente simbólico, es la forma de comunicación y expresión de esta materia y, en ese sentido, no
+puede desligarse de la competencia de comunicación lingüística y plurilingüe. La utilización de métodos,
+estrategias o herramientas matemáticas tiene a menudo reflejo en otras áreas, especialmente en las científico-
+tecnológicas, pero también en el resto de áreas. Así, la resolución de problemas y situaciones reales favorece
+el desarrollo de la competencia en conciencia y expresión culturales, la competencia emprendedora o también
+la competencia digital.
+
+          Desde el punto de vista de los procesos metacognitivos y socioemocionales, las matemáticas
+contribuyen de manera determinante a la adquisición de la competencia personal, social y de aprender a
+aprender, tan importante para el aprendizaje a lo largo de toda la vida, permitiendo así desarraigar prejuicios
+y falsas ideas preconcebidas relacionadas con el talento innato, la dificultad intrínseca de la materia o incluso
+el género. En suma, la alfabetización matemática permite desarrollar las habilidades necesarias para seguir
+aprendiendo a lo largo de la vida y para abordar los retos del siglo XXI desde una perspectiva colectiva y
+global, inclusiva y tolerante, facilitando que el conocimiento pueda aplicarse a situaciones nuevas y
+cambiantes. De igual modo, desde la educación matemática se trabajará la igualdad de género, la educación
+para la paz, la educación para el consumo responsable y para el desarrollo sostenible y la educación para la
+salud. Asimismo, se prestará especial atención a la educación emocional y en valores. Existen vías variadas
+para integrar la actividad matemática en temas transversales como, por ejemplo, la realización de proyectos
+significativos para el alumnado y la resolución colaborativa de problemas, que contribuyen a reforzarle la
+autoestima, la autonomía, la reflexión y la responsabilidad.
+
+          El desarrollo de las competencias específicas matemáticas que conducen a la alfabetización
+matemática, como parte del perfil de salida del alumnado, se fundamenta en procesos de matematización de
+contextos reales y de situaciones de aprendizaje. La actuación del alumnado requiere movilizar un conjunto
+de destrezas, procedimientos y conceptos matemáticos que le permitan abordar con éxito las situaciones de
+aprendizaje planteadas. Más allá del mero dominio procedimental, la resolución de problemas formará el
+núcleo de los aprendizajes de esta materia. Con este aporte de funcionalidad a los saberes básicos se
+posibilita el desbloqueo de los tradicionales prejuicios frente a las matemáticas como un cuerpo de saberes
+abstracto, desconectado de la realidad y compuesto por reglas, algoritmos y ejercicios. En suma, las
+competencias específicas son el elemento vertebrador en torno al cual se articulan los saberes básicos del
+área y los criterios de evaluación.
+
+          En las siguientes secciones se exponen y desarrollan los elementos fundamentales del currículo del
+área de matemáticas.
+
+          En la segunda sección se describen las competencias específicas del área de matemáticas, a saber:
+competencia en resolución de problemas, competencia en razonamiento y conexiones, competencia en
+modelización, competencia en pensamiento computacional, competencia en representaciones, competencia
+en comunicación, competencia en relevancia social y cultural, y competencia en gestión de las emociones y
+actitudes. Para cada una de ellas, se proporciona una descripción que incluye los hitos más importantes de
+su desarrollo en los tres ciclos de la etapa.
+
+          La tercera sección describe las principales conexiones de las competencias específicas de
+matemáticas entre sí, con las competencias específicas de otras áreas de la Educación Primaria y con las
+competencias clave.
+
+          En la cuarta sección se identifican los saberes básicos del área de matemáticas, estructurados en
+bloques asociados a los diferentes sentidos matemáticos. Para su mejor identificación, en este documento
+los saberes básicos se han distribuido entre los siguientes sentidos matemáticos: Sentido numérico y de las
+operaciones, Sentido espacial y geométrico, Sentido de la medida y la estimación, Sentido estocástico y
+pensamiento computacional.
+
+          En la quinta sección se presentan algunos principios presentes en las situaciones y actividades que
+facilitan y promueven el aprendizaje de las matemáticas y se ofrecen criterios y pautas para su diseño.
+
+          Por último, la sexta sección establece los criterios de evaluación para cada una de las competencias
+específicas al final del segundo ciclo (cuarto curso) y del tercer ciclo de la Educación Primaria.
+
+          2. Competencias específicas.
+
+                2.1. Competencia específica 1.
+
+                   Resolver problemas relacionados con situaciones reales del entorno personal, social y
+        educativo utilizando estrategias informales, representaciones y conceptos concretos.
+
+                     2.1.1. Descripción de la competencia.
+
+          La resolución de problemas es la principal actividad matemática, pues proporciona una oportunidad
+genuina de desarrollar razonamientos matemáticos y conexiones, de usar distintas representaciones, de
+conectar diferentes conceptos, de modelizar y aplicar matemáticas a situaciones reales y de comunicar ideas
+con el apoyo de las matemáticas. Además, requiere desarrollar competencias relacionadas con la gestión de
+las emociones, el trabajo colaborativo y las estrategias de autorregulación. Es decir, el aprendizaje a través
+de la resolución de problemas desencadena el desarrollo de todas las competencias específicas del área de
+matemáticas.
+
+          Pero, además, resolver un problema es una competencia en sí misma en la medida en que se
+compone de procesos como la comprensión y traducción de la situación problemática del enunciado, la
+matematización de dicha situación, la planificación de una estrategia de resolución, la aplicación de conceptos
+y procedimientos para obtener una solución, la comprobación del resultado y el planteamiento de nuevas
+preguntas y problemas que llevan a desarrollar más saber matemático. Resolver problemas, validar las
+soluciones y proponer nuevos problemas son los procesos principales que componen esta competencia.
+
+          El alumnado del primer ciclo de Educación Primaria tendría que abordar tareas, necesidades y retos
+en un contexto personal, es decir, en un entorno cercano y relacionado con su experiencia cotidiana, para las
+que tendría que ir construyendo de forma paulatina algoritmos elementales que permitan transformar en
+relaciones matemáticas concretas –de tipo aritmético, geométrico, de medidas, patrones, etc.– las relaciones
+del contexto real, apoyándose en herramientas tecnológicas básicas que ayuden tanto a su desarrollo como
+a su resolución.
+          A medida que avanza la etapa, las actuaciones del alumnado tendrían que abarcar contextos más
+amplios, propios del ámbito social o educativo. En las situaciones de aprendizaje, el alumnado debería ser
+capaz de movilizar competencias, saberes, recursos, entre ellos las herramientas TIC, y actitudes para
+abordar las problemáticas más generales y relevantes para la ciudadanía, encaminadas a introducir los
+grandes retos del siglo XXI.
+
+          El alumnado tendría que resolver situaciones de aprendizaje que demandan de manera directa
+movilizar competencias matemáticas, pero también tendría que ser capaz, de manera progresiva, de
+enfrentarse a situaciones en las que se les demanda una actuación de manera indirecta, y de emplear sus
+habilidades de comprensión lectora.
+
+          Al inicio el alumnado se enfrentará a situaciones en las que conoce toda la información necesaria
+para su resolución, pero a medida que avance en la etapa se enfrentará a algunas situaciones reales sencillas
+en las que debería completar información ausente o discriminar información relevante de la superflua.
+
+          Al finalizar la etapa, el alumnado tendría que ser capaz de resolver problemas de variadas tipologías:
+problemas de enunciado verbal con o sin ilustraciones de apoyo; problemas con alguna fuente de información
+distinta al enunciado; problemas con incorporación al enunciado de tablas, gráficos o recursos audiovisuales
+o TIC. Además, no solo tendría que ser capaz de resolver situaciones problemáticas de reproducción,
+cerradas y rutinarias, sino que debería tener recursos y actitudes para abordar problemas de conexión y
+reflexión, más complejos, en los que deba formular hipótesis, explorar posibilidades o investigar.
+
+          Para resolver este tipo de situaciones problemáticas, el alumnado, al final de la etapa, tendría que
+poder movilizar contenidos esenciales de tipo aritmético, de medida, geométricos, estadísticos o de
+probabilidad.
+
+          El alumnado se enfrentará a las situaciones problemáticas no sólo de manera individual, sino
+colaborando en parejas o en grupos cooperativos.
+
+          Al finalizar el tercer ciclo, los y las estudiantes tendrían que haber desarrollado de manera
+comprensiva estrategias informales, y también algunas formales, para abordar la resolución de problemas
+matemáticos, usando lenguaje simbólico-numérico, aunque apoyado en gráficos, dibujos, esquemas o tablas.
+Tendrían que ser capaces de abordar tareas sencillas que exijan formular conjeturas o buscar datos sobre la
+situación problemática porque falta información. También deberían trabajar en el planteamiento de nuevos
+problemas de un mismo tipo y deberían explorar cómo usar la solución de una situación en otros contextos.
+
+                2.2. Competencia específica 2.
+
+          Observar, formular, explorar y comprobar conjeturas sencillas sobre propiedades y relaciones
+matemáticas concretas, reconociendo y conectando procedimientos, patrones, regularidades y estructuras.
+
+                     2.2.1. Descripción de la competencia.
+
+          La competencia en razonar y conectar dentro de las matemáticas supone el dominio de los procesos
+mentales que permiten establecer el camino de lo concreto a lo abstracto propio del pensamiento matemático,
+es decir, que permiten construir contenido matemático. Son procesos tales como la exploración de conjeturas
+sobre propiedades, la comparación de características diferentes y similares, la identificación de regularidades,
+patrones (identificando series de variables constantes dentro de un conjunto de datos o formas) y relaciones,
+la comprobación y refutación de conjeturas, y el establecimiento de definiciones y de conexiones entre los
+conceptos definidos. También el reconocimiento de estructuras matemáticas (conjunto de objetos con
+características y relaciones asociadas; por ejemplo, los puntos del plano y la distancia, o los números
+naturales y las operaciones) y conexiones entre ellas (entre la estructura aritmética y las propiedades de la
+medida de magnitudes, por ejemplo).
+
+          El alumnado, en el primer ciclo, tendría que construir el conocimiento matemático a partir de contextos
+reales y situaciones concretas conectadas con el ámbito personal, y posteriormente relacionadas con el
+ámbito social y los retos del siglo XXI. El alumnado tendría que formular hipótesis y conjeturas, a partir de
+situaciones problemáticas, desarrollando conceptos y procedimientos matemáticos intuitivos, con un sentido
+concreto y funcional.
+          Los y las estudiantes tendrían que comenzar enfrentándose a tareas de reproducción, para desarrollar
+el razonamiento matemático de manera progresiva, abordando posteriormente situaciones de aprendizaje en
+las que deben conectar contenidos intra y extra-matemáticos, o reflexionar y argumentar matemáticamente.
+Por tanto, en el primer ciclo tendrían que construir los contenidos de manera intuitiva y ligada a contextos y
+experiencias cercanas. Durante el segundo y tercer ciclo tendrían que ir enriqueciendo sus contenidos
+matemáticos con conexiones y propiedades.
+
+          En particular, durante el primer ciclo el alumnado tendría que establecer conjeturas y tendría que
+hacerse preguntas sobre fenómenos y situaciones de su entorno cercano, cuya respuesta requiera razonar
+matemáticamente, aunque inicialmente sea de manera más intuitiva. Los procesos mentales propician la
+comprensión y definición intuitiva, ligada a la visualización y a la manipulación de conceptos y procedimientos
+relacionados con todos los grupos de contenidos básicos: Sentido numérico y de sus operaciones, Sentido
+espacial y geométrico, Sentido de la medida y de la estimación, Sentido estocástico y pensamiento
+computacional.
+
+          En el segundo ciclo, el alumnado tendría que ampliar y profundizar los sentidos de los conceptos y
+procedimientos matemáticos ya formados, y los tendría que comenzar a enriquecer con conexiones, al mismo
+tiempo que tendría que seguir desarrollando nuevo contenido matemático intuitivo a partir de situaciones de
+aprendizaje más complejas. El alumnado tendría que utilizar los procedimientos de manera flexible,
+conociendo y comparando distintas formas de transformar y manipular contenidos matemáticos.
+
+          Al finalizar la etapa, el alumnado tendría que haber ampliado su comprensión del contenido
+matemático y debería ser capaz de formalizar conceptos y procedimientos, así como de construir de manera
+comprensiva un sistema conectado de conceptos y procedimientos desligados de una situación concreta que
+pueden aplicarse en distintas situaciones. El alumnado tendría que poder analizar conceptos matemáticos
+más allá de su visualización y manipulación, convirtiendo algunas características concretas en propiedades
+generales. Además, debería haber adquirido fluidez procedimental, es decir, debería ser capaz de hacer un
+uso flexible de los procedimientos matemáticos, a la vez que tendría que intentar ser preciso y buscar las
+maneras más eficientes de ejecución.
+
+                2.3. Competencia específica 3.
+
+          Construir modelos matemáticos concretos y utilizar conceptos y procedimientos matemáticos
+sencillos para abordar e interpretar situaciones, fenómenos y problemas relevantes en el ámbito personal,
+educativo o social.
+
+                     2.3.1. Descripción de la competencia.
+
+          La competencia en identificar contenido matemático en situaciones reales y desarrollarlo a través de
+modelos matemáticos para interpretar dichas situaciones o fenómenos reales derivados implica la capacidad
+de construir matemáticas a partir de la realidad. Modelizar es recorrer un camino de ida y vuelta entre el
+mundo real y el mundo de las matemáticas, simplificando y estructurando una situación real, identificando las
+variables y características que intervienen en dicha situación, cuantificando sus elementos esenciales y
+trabajando matemáticamente para obtener un resultado, conclusión o predicción. Esta competencia también
+conlleva la capacidad de aplicar conceptos y procedimientos matemáticos en situaciones concretas de la
+realidad para sostener argumentos fundamentados, haciendo predicciones y desarrollando el pensamiento
+crítico. Los procesos que componen esta competencia permiten establecer conexiones entre las matemáticas
+y otras disciplinas, usando procesos inherentes a la investigación científica: identificar, verificar, inferir, medir,
+explicar, clasificar o predecir. El uso de herramientas digitales o tecnológicas puede ser de ayuda en el
+proceso de modelización matemática como, por ejemplo, en la exploración de patrones o en la simulación de
+fenómenos sencillos (por ejemplo: el lanzamiento de dos dados, el movimiento uniforme, etc.).
+
+          El alumnado se iniciará en la modelización y aplicación de las matemáticas en contextos reales
+cercanos a su experiencia, en el ámbito personal, social y educativo. En el primer ciclo el alumnado tendría
+que empezar a dar razones lógicas y matemáticas, de manera informal, sobre situaciones reales cercanas a
+su experiencia, mediante ejemplos que permitan fundamentar y defender sus conclusiones, empezando a
+comprender que hay que ir más allá del argumento inmediato e intuitivo sobre dicha situación. Por ejemplo,
+modelizando mediante material o dibujo situaciones de naturaleza aritmética (repartos, agrupamientos,
+combinaciones, etc.).
+
+          A lo largo de la etapa, el alumnado debería identificar relaciones y patrones en situaciones reales
+sencillas que le permitirán aplicar procedimientos y conceptos matemáticos, con ayuda de herramientas TIC,
+para extraer conclusiones útiles de sus argumentos, o contrastar una información para decidir sobre su
+veracidad.
+
+          Al final de la etapa, el alumnado tendría que ser capaz de desarrollar procedimientos y conceptos
+matemáticos a partir de situaciones reales, tanto informales como formales, que conduzcan a un modelo
+matemático que le permita interpretar y obtener conclusiones sencillas sobre las situaciones de partida.
+Modelizar matemáticamente una situación real implica, además, que discrimine información de la situación,
+formule hipótesis y la estructure.
+
+          Además, al finalizar el tercer ciclo, el alumnado tendría que haber sentado las bases de la aportación
+del razonamiento matemático al pensamiento crítico: ser capaz de fundamentar sus argumentaciones sobre
+situaciones reales cercanas y algunas situaciones de interés general para la ciudadanía, aplicando
+herramientas y lenguaje matemático tales como medir y estimar contrastando con la información que la
+situación proporciona, extraer datos, organizarlos y representarlos para obtener conclusiones estadísticas
+sobre la situación, estructurar una solución sencilla mediante algoritmos computacionales, o reflexionar sobre
+el grado de incertidumbre de un fenómeno. Además, tendría que ser capaz de detectar errores de tipo lógico
+o matemático en argumentaciones sobre situaciones reales concretas y algunas generales.
+
+                2.4. Competencia específica 4.
+
+          Construir y aplicar algoritmos sencillos para afrontar situaciones y resolver problemas relevantes del
+ámbito personal, educativo o social, organizando datos, descomponiendo un problema en partes,
+reconociendo patrones y empleando herramientas TIC.
+
+                     2.4.1. Descripción de la competencia.
+
+          Esta competencia implica que el alumnado resuelva problemas y situaciones del ámbito personal,
+educativo o social implementando un algoritmo o secuencia finita de instrucciones y reglas precisas. Esta
+solución puede ser ejecutada por un humano, un robot educativo o un sistema informático en un nivel de
+programación visual. Se usarán códigos como secuencias de flechas, lenguajes visuales o la iniciación a la
+programación por bloques. El diseño e implementación de un algoritmo implica habilidades como la
+descomposición de un problema en tareas más simples; la identificación de los aspectos relevantes de una
+situación para simplificarla y estructurarla, eliminando cualquier ambigüedad o imprecisión; la ordenación,
+clasificación y organización de un conjunto de datos; o la identificación de patrones en el desarrollo de una
+solución.
+
+          El alumnado abordará situaciones de aprendizaje del ámbito personal, educativo y social en los que
+la resolución de problemas a través del pensamiento computacional y el uso de recursos tecnológicos juegan
+un papel relevante. Durante la resolución de situaciones problemáticas mediante habilidades de pensamiento
+computacional, el alumnado deberá cooperar y colaborar en grupos, tomando distintos roles (programador,
+revisor, ejecutor, etc.).
+
+          En el primer ciclo el alumnado tendría que empezar a desarrollar las bases del pensamiento
+computacional a través de actividades desenchufadas (unplugged). Tendría que ser capaz de colaborar en
+grupos para reproducir o diseñar algoritmos sencillos que serán ejecutados por sí mismo, a través de su
+cuerpo o de materiales manipulativos, mediante códigos de programación visuales o con flechas. El alumnado
+también tendría que ser capaz de resolver situaciones en las que la solución debe ser implementada a un
+robot; por ejemplo, programar las instrucciones para que un robot siga una trayectoria que permita resolver el
+reto o problema.
+
+          En el segundo ciclo, el alumnado tendría que comenzar a utilizar la programación por bloques
+mediante alguna herramienta tecnológica o informática, reconociendo patrones y enfrentándose a problemas
+que requieren ser divididos en partes.
+          Al finalizar la etapa, los y las estudiantes deberían ser capaces de realizar diseños de algoritmos
+sencillos de programación por bloques, implementarlos con herramientas tecnológicas y, en algunos casos,
+hacer un análisis informal de sus limitaciones.
+
+                2.5. Competencia específica 5.
+
+          Utilizar con corrección el simbolismo matemático, haciendo transformaciones y algunas conversiones
+entre representaciones icónico-manipulativas, numéricas, geométricas y gráficas, para describir y analizar
+situaciones relevantes del ámbito personal, educativo o social.
+
+                     2.5.1. Descripción de la competencia.
+
+          La competencia en manejar el simbolismo matemático y sus representaciones implica que el
+alumnado conoce las reglas sintácticas del lenguaje matemático y las condiciones en que se producen
+símbolos que tienen significado matemático. En efecto, los objetos matemáticos son entidades abstractas que
+organizan y estructuran fenómenos, por lo que para construir un concepto mental permanente de dicho objeto
+el alumnado lo debe vehicular mediante algún registro de representación, es decir, mediante algún tipo de
+simbolización. El lenguaje matemático es complejo y está compuesto por capas conectadas de distintos
+registros, desde el lenguaje natural al simbólico-algebraico, pasando por el icónico-manipulativo, el numérico,
+el tabular, el funcional, el geométrico y el gráfico. Una construcción conceptual rica requiere competencia en
+el empleo de distintos registros de representación, su tratamiento (manipulación) y la conversión entre
+registros (ser capaz de traducir de un sistema de símbolos a otro, por ejemplo, del registro algebraico al
+geométrico). En la Educación Primaria, por el tipo de situaciones de aprendizaje al que se enfrenta y por su
+madurez cognitiva, el alumnado debe emplear representaciones icónico-manipulativas, numéricas,
+geométricas y gráficas.
+
+          En esta etapa, el alumnado debería desarrollar las capacidades para producir lenguaje matemático
+mediante diferentes representaciones en contextos reales del ámbito personal y social cercanos a su
+experiencia.
+
+          En el primer ciclo, el alumnado tendría que ser capaz de usar de manera informal los registros propios
+del lenguaje natural, icónico-manipulativo, numérico y geométrico para expresar matemáticamente una
+situación concreta de su entorno. El alumnado debería realizar algunas conversiones entre estos registros, al
+menos en una dirección; por ejemplo, traduciendo transformaciones manipulativas de materiales al registro
+numérico mediante operaciones aritméticas.
+
+          En el segundo ciclo, el alumnado tendría que empezar a producir simbolismo matemático respetando
+algunas reglas básicas de corrección, y tendría que hacer algunas conversiones bidireccionales entre
+registros de representación (por ejemplo, ser capaz de expresar en lenguaje natural el significado de una
+operación aritmética, y viceversa).
+
+          Al finalizar la etapa, el alumnado debería ser capaz de abordar situaciones de aprendizaje en las que
+debe interpretar información procedente de distintas fuentes y combinar varios registros de representación:
+enunciados verbales, imágenes, tablas y/o gráficos. Además, tendría que poder desenvolverse en situaciones
+diversas que requieren producir por escrito, con corrección, simbolismo matemático en los registros de
+representación icónico-manipulativos, numéricos, geométricos y gráficos. El alumnado tendría que haber
+adquirido, por tanto, la capacidad de representar los conceptos matemáticos relacionados con los grupos de
+saberes básicos y hacer conversiones entre dichos registros para conectar distintas representaciones de un
+mismo contenido. Por ejemplo, tendría que ser capaz de expresar el concepto de producto de dos cantidades
+oralmente, o representarlo numéricamente, o mediante la manipulación de objetos, o geométricamente, y
+debería poder explicar cómo se traduce el significado de una representación a otra.
+
+                2.6. Competencia específica 6.
+
+          Comprender y producir mensajes orales y escritos concretos de manera informal, empleando un
+lenguaje matemático sencillo para comunicar y argumentar sobre características, conceptos, procedimientos
+y resultados relacionados con situaciones del ámbito personal, educativo o social.
+
+                     2.6.1. Descripción de la competencia.
+          El uso del lenguaje matemático no se limita a conocer las reglas de producción de símbolos y sus
+sistemas de representación, sino que el alumnado debe ser también competente en su dimensión semántica
+y pragmática: ser capaz de comprender mensajes y textos que utilizan el lenguaje matemático para hablar
+sobre distintas situaciones o sobre las propias matemáticas, así como de comunicar de manera clara y
+apropiada con lenguaje matemático y sobre el lenguaje matemático. Se trata de que el lenguaje matemático
+sea un medio de comunicación, intercambio de ideas y transmisión de información sobre el mundo, un
+lenguaje que no se ciña exclusivamente a las matemáticas, sino que sirva de base a otras formas de
+transmisión de conocimientos, como el computacional.
+
+          En esta etapa, los alumnos y las alumnas tendrían que ir desarrollando la capacidad de comunicar
+mediante las matemáticas y sobre las matemáticas en situaciones de aprendizaje, primero vinculadas a su
+ámbito personal, y luego progresivamente al ámbito social y educativo. En estas situaciones no sólo tendrían
+que comunicar sus argumentos, también deberían escuchar y comprender los de sus compañeros, siendo
+capaces de establecer un debate o discusión. Por ejemplo, tendrían que ser capaces de argumentar y debatir
+sobre las características de una muestra (su clase, su entorno, etc.) o sobre un tema, utilizando datos
+numéricos y razonamientos de tipo estadístico para fundamentar sus ideas.
+
+          Al final del primer ciclo, el alumnado debería haber adquirido el vocabulario básico de los contenidos
+matemáticos que requieren las situaciones familiares en las que participa, siendo capaz de comprender y
+producir mensajes matemáticos sencillos e informales que expresen sus ideas, sobre todo de manera oral,
+aunque también por escrito.
+
+          Al final del segundo ciclo, el alumnado tendría que haber ampliado este vocabulario matemático y
+tendría que comenzar a afrontar situaciones de aprendizaje que exijan debatir con los compañeros y las
+compañeras, discutiendo, por ejemplo, cuántas personas podrían caber en su aula, basándose en
+estimaciones sencillas.
+
+          Al finalizar la etapa, el alumnado debería ser capaz de comunicar con las matemáticas ideas y
+argumentos útiles para afrontar los retos del siglo XXI, empleando un vocabulario lo suficientemente rico como
+para comunicar con claridad y eficacia sus ideas. Tendría que ser capaz de comunicar mensajes que integren
+los resultados matemáticos en un discurso oral o escrito más complejo. El alumnado debería poder afrontar
+situaciones grupales que exijan comunicarse, comparar y debatir ideas, argumentos, aspectos o necesidades
+de un contexto relevante empleando el lenguaje matemático. También tendría que ser capaz de comprender
+e interpretar información (procedente de una o varias fuentes, usando una o varias representaciones)
+presentada de manera directa o indirecta, discriminando la información relevante o debiendo completarla.
+
+                2.7. Competencia específica 7.
+
+          Identificar fenómenos y problemas importantes desde el punto de vista cultural y social en los que el
+conocimiento matemático juega un papel decisivo.
+
+                     2.7.1. Descripción de la competencia.
+
+          La competencia en la relevancia social y cultural de las matemáticas responde a la necesidad de que
+el alumnado perciba el sentido y la función de las matemáticas en la sociedad. Se trata de valorar el papel de
+las matemáticas en fenómenos y problemas importantes del ámbito cultural y social que tengan relación con
+la experiencia del alumnado de esta etapa, y también sentar las bases para que entiendan las matemáticas
+como parte de la cultura humana, relacionada con otras disciplinas como las ciencias, el arte o la economía.
+Destacan, por su relevancia en el escenario del siglo XXI, su relación con la digitalización y las nuevas
+tecnologías, especialmente los algoritmos y el tratamiento de datos. Esta competencia también se vincula a
+la motivación del aprendizaje, que más allá de su componente intrínseco (la consecución del propio
+aprendizaje de las matemáticas), requiere el desarrollo de la motivación extrínseca que puede favorecer la
+confirmación de que la matemática es una herramienta que permite transformar la realidad. Es una
+competencia con un fuerte componente actitudinal en tanto que pone en juego creencias, apreciación,
+motivación e interés.
+          A lo largo de la etapa, el alumnado tendría que ir adquiriendo experiencias que le permitan identificar
+el papel relevante que las matemáticas juegan en distintas situaciones y fenómenos vinculados a su entorno
+y experiencia familiar. Tendría que experimentar y reflexionar sobre la importancia y necesidad de las
+matemáticas, no sólo en el ámbito personal, enfrentándose a retos matemáticos y fomentando la confianza
+en sus propias habilidades, sino también en la sociedad, yendo siempre más allá de los prejuicios y
+estereotipos asociados a las STEM.
+
+          En el primer ciclo, el alumnado tendría que comenzar a reflexionar sobre la utilidad de las matemáticas
+en su experiencia, especialmente después de resolver problemas de la vida cotidiana utilizando conocimientos
+matemáticos.
+
+          En el segundo ciclo, el alumnado tendría que reflexionar también sobre la utilidad de las matemáticas
+en juegos y actividades sociales, y tendría que empezar a abordar situaciones y contextos en los que
+experimentar la función estética de las matemáticas.
+
+          Al finalizar la etapa, el alumnado tendría que haber comprendido la importancia y utilidad de las
+matemáticas en situaciones muy distintas, su carácter flexible y multidisciplinar, y tendría que valorarlo
+positivamente, reconociendo la importancia de la alfabetización matemática para desenvolverse no sólo en la
+vida cotidiana, sino también en la sociedad en general. Así mismo, el alumnado debería tener conocimiento
+y ser capaz de reflexionar sobre ejemplos variados del papel que han jugado las matemáticas en
+determinados avances culturales y sociales.
+
+                2.8. Competencia específica 8.
+
+          Gestionar las emociones y actitudes implicadas en los procesos matemáticos, aceptando la
+incertidumbre, las dificultades y los errores que dichos procesos conllevan, y controlando la atención para
+lograr un aprendizaje significativo y adaptable a diferentes situaciones.
+
+                     2.8.1. Descripción de la competencia.
+
+          En los procesos de aprendizaje de las matemáticas intervienen multitud de factores; hay componentes
+cognitivos, pero también afectivos, y son inseparables: no se puede razonar matemáticamente sin
+experimentar emociones. La confianza forma parte de un buen rendimiento en matemáticas, pero también
+surgen a menudo otro tipo de sentimientos ligados a dificultades que experimenta el alumnado: ansiedad,
+temor, frustración, inseguridad o desinterés. Es importante, en este sentido, asegurar unos procesos de
+enseñanza y aprendizaje de las matemáticas que promuevan un autoconcepto y autoestima positivos,
+evitando estereotipos de género u otro tipo de falsas creencias que llevan al rechazo de la materia.
+
+          Los tres descriptores esenciales del dominio afectivo son las emociones, las actitudes y las creencias.
+Es importante que el alumnado desarrolle estrategias de regulación de su propio aprendizaje, lo que implica
+el control de la atención, pero también regular el dominio afectivo. La consecuencia de la autorregulación es
+un refuerzo del interés del alumnado y de las creencias hacia las matemáticas y hacia cómo percibe sus
+capacidades en relación con las matemáticas. Esta competencia se compone, por tanto, de habilidades
+relacionadas con el dominio emocional y metacognitivo. La competencia moviliza actitudes, creencias,
+emociones y la atención al propio aprendizaje, logrando que los estudiantes adquieran un autoconcepto y una
+autoestima positivos en relación a las matemáticas.
+
+          Al finalizar el primer ciclo, el alumnado tendría que poder identificar y verbalizar emociones y actitudes
+en la resolución de problemas o en situaciones de aprendizaje relacionadas con las matemáticas, siendo
+capaz de mantener una actitud positiva y perseverante en la búsqueda de una solución.
+
+          Al finalizar el segundo ciclo, los y las estudiantes tendrían que haber adquirido destrezas emocionales
+y actitudes positivas, asumiendo los errores como una forma de aprendizaje. En este momento tendrían que
+desarrollar estrategias para regular la atención hacia sus propios procesos de aprendizaje de las matemáticas
+y para controlar en qué parte del proceso están, identificando dificultades y gestionando algunos recursos de
+tipo cognitivo y emocional.
+
+          Al finalizar la etapa, el alumnado tendría que haber desarrollado unas creencias y actitudes positivas
+sobre sus capacidades para aprender y realizar trabajo matemático a través de experiencias de éxito y del
+trabajo en la gestión y regulación de emociones. Además, debería tener conocimiento de su propio proceso
+de aprendizaje, siendo capaz de identificar los factores relevantes que intervienen en la atención, comprensión
+y gestión de los recursos cognitivos y emocionales necesarios para reconducir el proceso en momentos de
+dificultad o incertidumbre.
+
+          3. Conexiones de las competencias específicas entre sí, con las competencias específicas de otras
+                áreas y con las competencias clave.
+
+                3.1. Relaciones o conexiones entre las competencias específicas.
+
+          La CE1 Resolución de problemas es la actividad principal durante el proceso de enseñanza y
+aprendizaje de las matemáticas. Esta competencia está conectada con el resto de competencias específicas,
+ya que no se entiende la resolución de problemas que den respuesta a situaciones reales sin un traslado de
+la situación problemática real al mundo abstracto de la matemática, como contempla la CE3 Modelización, ni
+sin aplicar las relaciones y procedimientos matemáticos que desarrollan el razonamiento matemático al que
+se refiere la CE2 Razonamiento y conexiones. La resolución de problemas debe desarrollarse utilizando el
+simbolismo matemático correcto que es el foco de la CE5 Representaciones, y el proceso de resolución y sus
+resultados deben comunicarse y argumentarse como indica la CE6 Comunicación. Así mismo, cuando en la
+resolución del problema se utilizan procesos repetitivos y/o recursivos, debe acudirse a la implementación de
+algoritmos, actuación recogida en la CE4 Pensamiento computacional. La resolución de problemas referidos
+a los ámbitos social y personal más cercanos al alumnado le llevará a valorar la influencia y relevancia que
+históricamente han tenido las matemáticas en las situaciones más significativas de nuestra evolución como
+sociedad, conectando así con la CE7 Relevancia social y cultural. Además, en la resolución de problemas
+interviene la gestión de las emociones y actitudes implicadas, aceptando la incertidumbre y las dificultades
+para encontrar una solución, CE8.
+
+          La CE2 Razonamiento y conexiones se relaciona de forma inequívoca con los procesos de
+modelización que se trabajan una vez matematizada la situación, relacionándose por lo tanto directamente
+con la CE3 Modelización. El reconocimiento de patrones y estructuras asociado a esta competencia hace que
+esté conectada con la competencia CE4 Pensamiento computacional, mientras que no es posible construir
+contenido matemático sin el dominio de su simbología, razón por la cual es evidente la conexión con la
+competencia CE5 Representaciones. La CE8 Autorregulación es también esencial en los procesos de
+razonamiento matemático.
+
+          La construcción en matemáticas mediante la utilización correcta de su simbología específica proviene
+en multitud de ocasiones del abordaje de situaciones problemáticas reales. Siendo así, se establece una
+conexión inmediata entre esta competencia específica y las competencias CE1 Resolución de problemas y
+CE 3 Modelización. No es posible la construcción de objetos matemáticos sin emplear los procesos de
+exploración, formulación, comprobación y refutación propios de la CE2 Razonamiento y conexiones. Así
+mismo, la implementación de algoritmos a través de la utilización de herramientas tecnológicas para la
+construcción matemática conecta esta competencia con la CE4 Pensamiento computacional. Para pensar
+matemáticas y construirlas hay que comunicarlas, lo que conecta con la CE6 de Comunicación, a través de
+cuyo desempeño se argumentará, utilizando lenguaje específicamente matemático, sobre los pensamientos
+y objetos construidos.
+
+          La comunicación de contenido y razonamientos matemáticos (CE6 Comunicación; CE 2
+Razonamiento y conexiones) es transversal a todas las competencias específicas, pero se relaciona
+directamente con la CE5 Representaciones porque requieren de sistemas de representación como vehículo
+de comunicación de ideas matemáticas. Abordar situaciones reales requiere comprender información y
+explicar los resultados obtenidos interpretando el contenido matemático en el contexto real, por lo que CE6
+Comunicación también mantiene igualmente una estrecha relación con las competencias CE1 Resolución de
+problemas y CE3 Modelización.
+
+          3.2. Relaciones o conexiones con competencias específicas de otras áreas.
+
+           Las matemáticas tratan sobre estructuras y las relaciones entre ellas, y se caracterizan por la
+precisión y el rigor lógico. Por esa razón, son el lenguaje de la ciencia, que aspira a cuantificar o, al menos,
+describir con precisión los fenómenos físicos y naturales, valiéndose de modelos en los que las matemáticas
+son la herramienta para lograr esa descripción precisa de la realidad que permite contrastar hipótesis en forma
+de datos y realizar predicciones. Es natural, por lo tanto, que las conexiones más directas y numerosas de las
+CE del área de matemáticas se den con las ciencias y la tecnología. De hecho, las siglas STEM agrupan a
+todas estas áreas en un gran ámbito de actuación y/o influencia. En esta etapa, las ciencias y la tecnología
+forman parte del área de conocimiento del medio.
+
+          En consecuencia, la CE1, la CE2 y la CE5 de matemáticas se vinculan explícitamente con el área de
+conocimiento del medio, en particular con la CE3 Plantear y responder preguntas sobre cuestiones de la vida
+cotidiana relativas al entorno natural, social y cultural aplicando, con apoyo y guía, el razonamiento científico
+y la experimentación”, pues resolver problemas científicos abordables en el ámbito escolar implica, a menudo,
+resolver problemas matemáticos (CE1) inherentes a la cuantificación del fenómeno experimentado; por
+ejemplo, emplear una medición apropiada, realizar conversiones entre unidades de medida, etc. Además, el
+diseño experimental y la toma de datos a menudo requieren razonamiento matemático (CE2) y ser
+representados matemáticamente (CE5).
+
+          Las CE3 y CE4 de matemáticas se vinculan directamente con la CE2 del área de conocimiento del
+medio (“Desarrollar proyectos cooperativos acotados y realizar investigaciones sencillas de naturaleza
+interdisciplinar con la guía y ayuda del profesorado, utilizando estrategias elementales propias del
+pensamiento de diseño y computacional”). La utilización de herramientas matemáticas para interpretar
+fenómenos abordados por las ciencias naturales y sociales permite contrastar información y desarrollar el
+pensamiento crítico. Además, la modelización matemática forma parte del proceso de construcción de
+numerosos modelos científicos. El pensamiento computacional (CE4 de matemáticas) es un instrumento que
+ayuda a resolver problemas humanos y a desarrollar proyectos e investigaciones de naturaleza
+interdisciplinar.
+
+          Además de estas relaciones estrechas dentro del ámbito STEM, las matemáticas están presentes en
+todas las áreas de la actividad humana, en la medida que necesiten una descripción precisa –de tipo
+numérico, geométrica o estadística– del fenómeno o aspecto de la realidad abordados. Por ello, la CE2,
+relativa al razonamiento matemático y sus conexiones, la CE3, relativa a la construcción de modelos
+matemáticos que permiten interpretar cualquier tipo de fenómeno real, y la CE5, relacionada con la
+representación matemática, se relacionan con las ciencias sociales, las humanidades y las artes. En
+particular, la utilización de la geometría es esencial para desarrollar el lenguaje de la Educación Plástica,
+Visual y Audiovisual. Las competencias CE5 y CE6 de matemáticas garantizan utilizar y comunicar de manera
+adecuada representaciones geométricas y el sentido de la medida en contexto que permiten comprender los
+elementos configurativos, formatos, técnicas y materiales de las expresiones artísticas. De hecho, se ha
+propuesto el término STEAM para incluir a las artes en ese gran ámbito de actuación en el que las
+matemáticas juegan un papel relevante.
+
+          3.3. Relaciones o conexiones con las competencias clave.
+
+     CCL  CP  CMCT  CD  CPSAA  CC  CE  CCEC
+
+CE1           X     X   X      X   X
+
+CE2           X     X                  X
+
+CE3           X                X   X   X
+
+CE4           X     X              X
+
+CE5  X        X     X   X
+CE6  X  X  X        X
+
+CE7        X  X  X     X
+
+CE8        X  X     X
+
+          Competencias clave del perfil de salida del alumnado al término de la educación básica:
+
+                • CCL: Competencia en comunicación lingüística.
+                • CP: Competencia plurilingüe.
+                • CMCT: Competencia matemática y competencia en ciencia y tecnología.
+                • CD: Competencia digital.
+                • CPSAA: Competencia personal, social y de aprender a aprender.
+                • CC: Competencia ciudadana.
+                • CE: Competencia emprendedora.
+                • CCEC: Competencia en conciencia y expresión culturales.
+
+          La CE1 tiene una fuerte conexión con la competencia personal, social y de aprender a aprender
+(CPSAA), pues la complejidad de la resolución de un problema implica que el alumnado reflexione sobre en
+qué fase del proceso está y planifique, haga un seguimiento y evalúe su actividad. La resolución de problemas,
+con un sentido crítico, es indispensable para ejercer la competencia ciudadana (CC). En la competencia
+digital (CD) la resolución de problemas matemáticos tiene un papel instrumental destacado. Conviene
+destacar también la resolución de problemas matemáticos como una concreción de la resolución de
+problemas, competencia transversal necesaria para desarrollar la competencia emprendedora (CE).
+
+          La CE2 se relaciona con la competencia en conciencia y expresión culturales (CCEC), pues el
+pensamiento matemático es una forma de expresión cultural. Además, los procesos del razonamiento
+matemático conectan con la competencia clave personal, social y de aprender a aprender (CPSAA), en la
+medida en que el alumnado debe reflexionar sobre cuándo y cómo aplicarlos en determinadas situaciones de
+aprendizaje, valorando sus propios procesos y también los de sus compañeros. El razonamiento matemático
+es la base del pensamiento computacional y sustenta, por tanto, la competencia digital (CD) del alumnado.
+
+          La competencia específica en modelización (CE3) consiste en aplicar las matemáticas para reforzar
+y justificar argumentos en todo tipo de contextos reales, en todos los ámbitos de la realidad social y natural:
+científicos, tecnológicos y digitales, económicos, sociológicos, artísticos y culturales. Por lo tanto, se relaciona
+directamente con la competencia ciudadana (CC) y la competencia emprendedora (CE), además de con la
+competencia en conciencia la expresión culturales (CCEC).
+
+          La competencia específica en pensamiento computacional (CE4) se vincula directamente con la
+competencia clave en digitalización (CD). Además, es una herramienta necesaria para la competencia
+emprendedora (CE).
+
+          La CE5, que implica utilizar diversos registros de representación y realizar conversiones de un sistema
+de símbolos a otro, se relaciona con la competencia en comunicación lingüística (CCL), pues estos sistemas
+vehiculan la comunicación. Además, puesto que el lenguaje digital está vehiculado por registros de
+representación cercanos a los propios del lenguaje matemático, la CE5 también se vincula con la competencia
+digital (CD). La traducción de un mismo contenido a distintos modos de representación implica habilidades
+metacognitivas que relacionan CE5 con la competencia en aprender a aprender (CPSAA).
+
+          La competencia en comunicación matemática (CE6) forma parte de la competencia clave en
+comunicación lingüística (CCL). Además, las matemáticas conforman un lenguaje específico que se relaciona
+con distintas lenguas, por lo que la CE6 se relaciona con la competencia plurilingüe (CP). Comunicar ideas
+usando las matemáticas es, además, una habilidad necesaria para la competencia emprendedora (CE).
+          La CE7, que se relaciona con el papel que las matemáticas juegan en la realidad y en la propia
+experiencia del alumnado, está directamente vinculada con la competencia en conciencia y expresión
+culturales (CCEC) y con la competencia personal, social y de aprender a aprender (CPSAA).
+
+          Por último, la competencia en autorregulación y gestión de las emociones y actitudes (CE8) forma
+parte, de manera específica, de la competencia personal, social y de aprender a aprender (CPSAA). Además,
+la autorregulación y la gestión emocional son indispensables para ejercer la competencia emprendedora (CE).
+
+          4. Saberes básicos del área de matemáticas
+
+                4.1. Introducción
+
+          El desarrollo de la civilización a lo largo de la historia ha requerido de los saberes necesarios para la
+solución de diferentes desafíos y situaciones problemáticas. Estas diferentes situaciones han provocado en
+cada momento histórico la necesidad de descubrir o crear el conocimiento matemático necesario para su
+abordaje y/o solución.
+
+          En el presente, al igual que en otros períodos históricos, es necesario vehicular el desempeño de las
+competencias matemáticas específicas aquí propuestas mediante los saberes esenciales que permitan
+afrontar los retos y desafíos de nuestro siglo. Así, la necesidad de contar (número de componentes de una
+sociedad o núcleo poblacional, movimientos migratorios, movilidad, stocks de alimentos, monedas y billetes,
+etc) hace imprescindible el dominio de las estructuras numéricas y sus operaciones. La evolución social de la
+que forman parte, por ejemplo, el concepto de propiedad privada, las comunicaciones sociales, las
+construcciones emblemáticas o para la vida diaria, el transporte de mercancías, etc. no podrían desarrollarse
+sin los conocimientos geométricos y de la medida que se proponen como saberes básicos en este documento.
+Y, si de la adaptación tecnológica hablamos, un conocimiento mínimo del significado de algoritmo aconseja
+la inclusión de un bloque de pensamiento computacional. También es relevante, en términos de predicción y
+organización social, el papel de la estadística y la probabilidad en los estudios sobre esperanza de vida,
+protección social y gestión de datos.
+
+          En esta etapa, podemos diferenciar y categorizar los saberes básicos atendiendo a los diferentes
+sentidos intrínsecamente matemáticos: numérico y de las operaciones, de la medida, espacial y geométrico,
+de incertidumbre y probabilidad, de análisis de datos y estadística, y de pensamiento computacional. Estos
+sentidos hacen referencia al desarrollo de habilidades asociadas a las formas de razonamiento lógico, su
+relevancia social y cultural, al cálculo, la representación, el uso adecuado de elementos matemáticos y sus
+propiedades, además de las estrategias y herramientas que en cada caso se requieran. Por ello, estos
+sentidos representan la estructura que vertebra y permite desarrollar todas y cada una de las ocho
+competencias específicas anteriormente descritas. En cada uno de estos sentidos matemáticos se añaden,
+además, habilidades y saberes relacionados con el dominio afectivo y socioemocional, es decir, con la gestión
+de las emociones, con la motivación, y con la autorregulación de la atención y de los procesos de aprendizaje
+específicos del área de matemáticas.
+
+          En cada uno de los sentidos, a su vez, se señalan los contenidos o grupos de contenidos cuyo
+aprendizaje, articulación y movilización demandan la adquisición y desarrollo de las competencias específicas
+de la Educación Primaria. La secuencia de dichos contenidos se presenta por ciclos, ajustándose al momento
+de la etapa en el que se considera más indicado trabajarlos atendiendo al desarrollo competencial esperado.
+
+                4.2. Bloque 1.
+
+          El Sentido numérico y de las operaciones hace referencia a los saberes básicos relacionados con la
+comprensión del significado del concepto de número, su representación, simbolización y magnitud, además
+del uso adecuado de las mismas en las relaciones, propiedades y operaciones básicas para esta etapa.
+
+          Asociados al sentido numérico se establecen, para toda la etapa, tres bloques de contenidos:
+números naturales, las operaciones y sus propiedades, y el de decimales y fracciones.
+SABERES BÀSICOS                                                 1.er ciclo   2.º ciclo 3.er ciclo
+                                                                (1.º y 2.º)  (3.º y 4.º) (5.º y 6.º)
+
+                             NÚMEROS NATURALES
+
+Recuento de los elementos de un conjunto. Cardinalidad.         x
+
+Introducción a la decena.                                       x
+
+Descomposiciones y estructura del número, patrones y            x
+
+regularidades (par, impar).
+
+Comprensión del sistema de numeración decimal: composición      x            x
+
+y descomposición en unidades, decenas, y centenas.
+
+Lectura, escritura y representación de numerales superiores al               x  x
+millar.
+
+Estrategias de representación. Recta numérica. Comparación y    x            x
+
+ordenación.
+
+Múltiplos y divisores. Números primos y compuestos.                          x  x
+Propiedades y criterios de divisibilidad.
+
+Introducción al número negativo: comparación y ordenación.                      x
+
+Contribución de la humanidad al desarrollo numérico, entendido  x            x  x
+
+este como una necesidad básica. Usos sociales del sentido
+
+numérico.
+
+Técnicas cooperativas para estimular el trabajo en equipo       x            x  x
+
+relacionado con el sentido numérico y la aritmética.
+SABERES BÁSICOS                                                      1.er ciclo   2.º ciclo    3.er ciclo
+                                                                     (1.º y 2.º)  (3.º y 4.º)  (5.º y 6.º)
+
+                  OPERACIONES CON NATURALES Y SUS PROPIEDADES
+
+Significados, estrategias y representaciones para la suma            x            x
+
+(añadir, combinar, comparar) y la resta (detracción, diferencia,
+
+escala ascendente, escala descendente).
+
+Doble y mitad. Iniciación al significado de la multiplicación (suma  x
+
+reiterada, producto cartesiano) y de la división (reparto,
+
+agrupación).
+
+Significados, estrategias y representaciones para el producto y                   x            x
+el cociente (suma repetida, partición, producto cartesiano,
+diagrama de árbol).
+
+Significado y uso de la igualdad y las desigualdades en              x            x            x
+
+relaciones y expresiones aritméticas sencillas.
+
+Potencias y su relación con el producto. Cuadrados, cubos y                                    x
+
+potencias de 10.
+
+Relaciones y propiedades de las operaciones. Propiedad                            x            x
+conmutativa, asociativa y distributiva.
+
+Cálculo mental. Estimación y aproximación.                           x            x            x
+
+Contribución de la humanidad al desarrollo numérico                  x                  x           x
+                                                                                  x            x
+incorporando la perspectiva de género.
+
+Autonomía y tolerancia a la frustración frente a dificultades x
+relacionadas con las propiedades numéricas.
+SABERES BÁSICOS                                    1.er ciclo   2.º ciclo    3.er ciclo
+                                                   (1.º y 2.º)  (3.º y 4.º)  (5.º y 6.º)
+
+                                FRACCIONES Y DECIMALES
+
+La fracción como medida y como relación entre                   x            x
+las partes y el todo.
+                                                                x            x
+Fracción decimal. Números decimales (décimas,
+centésimas y milésimas). Operaciones básicas.                                x
+
+Aproximación y redondeo de números                              x            x
+decimales.
+                                                                x            x
+Cálculo mental: multiplicación y división de
+decimales por 10, 100, 1000.                                                 x
+
+Comparación y ordenación de números                                          x
+naturales y fracciones.
+
+Correspondencia entre fracciones decimales y
+porcentajes.
+
+Fracciones equivalentes.
+
+Proporcionalidad directa.                                                    x
+
+Introducción a la suma y resta de dos fracciones.                            x
+
+Valoración de situaciones en las que es útil el    x            x            x
+
+uso de fracciones y decimales.
+
+Estrategias de mejora en la perseverancia en la    x            x            x
+
+resolución de problemas aritméticos.
+                4.3. Bloque 2.
+
+          El Sentido de la medida está asociado a la capacidad de comprender y comparar magnitudes, a las
+técnicas y estrategias de medición, al cálculo y a la estimación de resultados obtenidos eligiendo las unidades
+apropiadas.
+
+          En este bloque se atiende al concepto de magnitud, partiendo de las magnitudes que resultan más
+significativas, en contextos reales, como monedas, tiempo, temperatura, longitud, masa, superficie, etc. Se
+desarrollarán habilidades y estrategias que van de lo informal (uso de unidades no estándar, experimentación,
+etc.) a lo formal, incorporando criterios de fiabilidad y precisión.
+
+SABERES BÁSICOS                                 1.er ciclo   2.º ciclo    3.er ciclo
+                                                (1.º y 2.º)  (3.º y 4.º)  (5.º y 6.º)
+
+            ESTIMACIÓN Y MEDICIÓN. MAGNITUDES Y UNIDADES.
+
+Unidades no convencionales para medir y         x
+
+estimar las dimensiones de los objetos
+
+cercanos y del propio cuerpo.
+
+Estrategias de medida y estimación de tiempo,   x            x
+
+longitud, capacidad, volumen y masa mediante
+
+unidades no convencionales en situaciones
+
+reales.
+
+Elección y utilización de los instrumentos                   x            x
+adecuados para medir con precisión diferentes
+magnitudes.
+
+Experimentación y conceptualización de          x            x            x
+
+magnitudes: tiempo, longitud, ángulos, masa,
+
+superficie, capacidad y volumen, temperatura
+
+y monedas.
+
+Unidades de magnitud convencionales.            x            x            x
+
+Relación, comparación directa, ordenación y
+
+conversión entre unidades de la misma
+
+magnitud. Valoración de resultados en
+
+mediciones y estimaciones realizadas.
+
+Contribución de la humanidad a la unificación   x            x            x
+
+de sistemas de medida y magnitudes, y
+
+valoración de sus usos sociales y científicos.
+Técnicas cooperativas para estimular el              x            x            x
+
+trabajo en equipo relacionado con la medida y
+
+estimación de magnitudes.
+
+                4.4. Bloque 3.
+
+          En esta etapa, este sentido está asociado a la capacidad de identificar y analizar los elementos
+básicos de formas y figuras, utilizando el vocabulario adecuado. También se relaciona con la capacidad de
+razonar a partir de dichos elementos geométricos básicos, de transformarlos o de realizar cálculos sobre sus
+medidas.
+
+          Abordar este bloque de contenidos permite que el alumnado pueda explorar, clasificar, representar y
+describir el entorno físico desde una perspectiva matemática y gradualmente más formal, con la posibilidad
+de iniciarlo en la manipulación y en el uso de herramientas tecnológicas.
+
+          Por otra parte, los contenidos asociados al sentido espacial y geométrico posibilitan el acercamiento
+a otras disciplinas, como el arte y la tecnología. Apreciar la belleza de las expresiones plásticas implica
+también que se ponga de manifiesto la importancia del desarrollo de la creatividad en el ámbito científico.
+
+SABERES BÁSICOS                                   1.er ciclo   2.º ciclo    3.er ciclo
+                                                  (1.º y 2.º)  (3.º y 4.º)  (5.º y 6.º)
+
+                           GEOMETRÍA PLANA Y ESPACIAL
+
+Localización y visualización de objetos.          x
+
+Orientación básica en el espacio (derecha,
+
+izquierda, delante, detrás, arriba, abajo, etc.)
+
+Localización de objetos (puntos) sobre los                     x            x
+ejes, el plano cartesiano. Localización en
+mapas a partir de puntos de referencia,
+incluidos los puntos cardinales.
+
+Elementos básicos: vértices y lados. Polígonos    x            x            x
+
+regulares.
+
+Poliedros regulares. Vocabulario básico.                       x            x
+Relación entre vértices, aristas y caras.
+
+Líneas rectas, curvas.                            x            x
+Intersección, paralelismo y perpendicularidad.        x  x
+Posiciones relativas de rectas en el plano.
+
+Identificación y descripción de diferentes         x  x  x
+
+polígonos. Composición y descomposición
+
+Cálculo de perímetros y áreas de polígonos.           x  x
+
+La circunferencia y el círculo. Elementos y        x  x  x
+
+propiedades.
+
+Longitud de la circunferencia y área del círculo.        x
+
+Número pi.
+
+Ángulos, medición y clasificación de ángulos.         x  x
+Clasificación de triángulos.
+
+Transformaciones: giros, traslaciones y               x  x
+simetrías en situaciones reales.
+
+Semejanza: identificación y generación a partir          x
+
+de patrones.
+
+Concavidad y convexidad de figuras planas.            x  x
+
+Desarrollo y clasificación de prismas y                  x
+
+pirámides.
+
+Programas informáticos de geometría                x  x  x
+
+dinámica.
+
+Desarrollo y usos de la geometría, tanto a nivel   x  x  x
+
+práctico como estético, incorporando la
+
+perspectiva de género.
+
+Estrategias de aprendizaje de conceptos            x  x  x
+
+geométricos y aceptación de dificultades.
+                4.5. Bloque 4.
+
+          En esta etapa, el sentido de la incertidumbre y probabilidad implica, por un lado, la capacidad de
+entender las situaciones o fenómenos de naturaleza estocástica y de la probabilidad como medida de la
+incertidumbre, y por otro, realizar estimaciones y transmitir de manera comprensible los resultados obtenidos
+utilizando el vocabulario, herramientas y estrategias más apropiados en cada caso.
+
+          Las diferentes temáticas susceptibles de tratamiento estocástico favorecen una aproximación
+experimental a las matemáticas. En este primer estadio del estudio de la probabilidad resulta crucial el uso
+de tablas y diagramas para el desarrollo de las diferentes estrategias que facilitan la comprensión y la toma
+de decisiones a la hora de resolver un problema de contexto real.
+
+SABERES BÁSICOS                                  1.er ciclo   2.º ciclo    3.er ciclo
+                                                 (1.º y 2.º)  (3.º y 4.º)  (5.º y 6.º)
+
+                          INCERTIDUMBRE Y PROBABILIDAD
+
+Concepto de situación aleatoria y situación      x            x            x
+
+determinista. Incertidumbre. Contribución de la
+
+humanidad al conocimiento de las leyes del
+
+azar y la incertidumbre.
+
+Idea intuitiva de probabilidad: ocurre siempre,  x            x
+
+muchas veces, algunas veces, pocas veces,
+
+nunca.
+
+Concepto de suceso y de suceso elemental.                     x            x
+
+Espacio muestral en experimentos aleatorios                   x            x
+simples sencillos: concepto y determinación.
+                                                                           x
+Uso de tablas de contingencia y diagramas de
+árbol para obtener el espacio muestral en                                  x
+experimentos compuestos sencillos.
+                                                              x            x
+Concepto de probabilidad como medida de la
+posibilidad de que ocurra un determinado                                   x
+suceso en un experimento aleatorio sencillo.
+
+Estimación de probabilidades a partir de la
+experimentación y simulación.
+
+Regla de Laplace en sucesos equiprobables.
+Relación entre la Regla de Laplace y la                                      x
+
+estimación de probabilidades en experimentos
+
+sencillos.
+
+Gestión de las emociones y utilización de          x            x            x
+
+estrategias que permiten afrontar la
+
+incertidumbre.
+
+                4.6. Bloque 5.
+
+          En este bloque se aborda la recogida, análisis y representación de la información (medios de
+comunicación, redes sociales, encuestas, etc.). El análisis estadístico de datos permite utilizar la información
+de forma crítica, precisa y rigurosa.
+
+          En este bloque cobra especial relevancia la transcripción de problemas o situaciones sencillas y
+cercanas al lenguaje gráfico y simbólico propios de la estadística. La elaboración e interpretación de
+diagramas de barras, histogramas, etc. facilitan que se produzca un análisis y uso crítico de la información, al
+tiempo que permite centrar el aprendizaje en la resolución de problemas.
+
+SABERES BÁSICOS                                    1.er ciclo   2.º ciclo    3.er ciclo
+                                                   (1.º y 2.º)  (3.º y 4.º)  (5.º y 6.º)
+
+                     ANÁLISIS DE DATOS Y CÁLCULOS ESTADÍSTICOS
+
+Elaboración de preguntas y encuestas               x            x            x
+
+sencillas para obtener datos.
+
+Variables cualitativas y cuantitativas discretas:  x            x            x
+
+recuento de casos y construcción de tablas de
+
+frecuencia.
+
+Elaboración de diagramas de barras.                x            x
+
+Representaciones (pictogramas, diagramas de        x            x            x
+
+sectores, polígonos de frecuencias…). Uso de
+
+herramientas tecnológicas para generar
+
+diferentes tipos de representaciones
+
+Interpretación de datos a partir de diferentes     x            x            x
+
+representaciones (tablas, gráficas), y análisis
+
+en casos sencillos.
+Significado e interpretación de las principales               x            x
+medidas centrales (moda, mediana y media
+aritmética).
+
+Significado e interpretación de la idea de                    x            x
+dispersión a partir de representaciones
+gráficas. Rango.
+
+Diferenciación entre población y muestra.                                  x
+
+Comparación entre muestras de la misma
+
+población.
+
+Introducción a las variables cuantitativas                                 x
+
+continuas. Histogramas.
+
+Contribución de la humanidad al desarrollo y     x            x            x
+
+evolución de la estadística y tratamiento de
+
+datos, incorporando la perspectiva de género.
+
+Respeto, sensibilidad y tolerancia ante          x            x            x
+
+diferentes interpretaciones sobre resultados
+
+estadísticos, mostrando rechazo ante
+
+actitudes discriminatorias.
+
+          3.7. Bloque 6.
+
+          El Pensamiento computacional permite desarrollar técnicas y estrategias para obtener soluciones
+eficientes utilizando secuencias de órdenes. En la educación primaria, este sentido matemático se aplica en
+la identificación de regularidades, la creación de algoritmos sencillos o la exploración de distintas opciones y
+estrategias ante una situación determinada.
+
+          Conviene destacar la importancia del uso de las TIC y la programación mediante bloques en la que
+se pone de manifiesto habilidades asociadas al reconocimiento, uso de patrones para el diseño y análisis de
+soluciones más complejas.
+
+SABERES BÁSICOS                                  1.er ciclo   2.º ciclo    3.er ciclo
+                                                 (1.º y 2.º)  (3.º y 4.º)  (5.º y 6.º)
+
+                             PENSAMIENTO COMPUTACIONAL
+
+Identificación de regularidades, interpretación  x            x
+
+de rutinas o instrucciones con pasos
+ordenados. Predicción de términos en
+secuencias de figuras o imágenes o números.
+
+Identificación de regularidades y predicción de     x  x
+términos de secuencias numéricas. Creación
+de patrones.
+
+Interpretación, modificación y creación de          x  x
+algoritmos sencillos.
+
+Interpretación y diseño de algoritmos sencillos        x
+
+en hojas de cálculo y mediante programación
+
+por bloques.
+
+Búsqueda y análisis de estrategias en juegos     x  x  x
+
+abstractos sin información oculta ni presencia
+
+de azar: ajedrez, damas, etc.
+
+Simbolización y obtención de datos sencillos     x  x  x
+
+desconocidos en expresiones con igualdades
+
+Valoración de la evolución del pensamiento       x  x  x
+
+computacional y su repercusión social,
+
+incorporando la perspectiva de género.
+
+Trabajo cooperativo en situaciones que           x  x  x
+
+involucran diseño y aplicación de algoritmos.
+
+Estrategias de aprendizaje específicas del
+
+pensamiento computacional.
+
+          5. Situaciones de aprendizaje.
+
+          Las situaciones de aprendizaje, vinculadas directamente con los “Principales retos del siglo XXI”, son
+aquellas que implican la realización de un conjunto de actividades próximas al alumnado, vinculadas a
+situaciones reales que permitan integrar todos los elementos que constituyen el proceso de enseñanza y
+aprendizaje competencial. Es decir, las situaciones de aprendizaje plantean tareas en las que el alumnado
+moviliza un conjunto de competencias y recursos y saberes para resolverlas. La capacidad de actuación del
+alumnado al enfrentarse a una situación de aprendizaje requiere, en efecto, movilizar todo tipo de saberes
+implicados en las competencias específicas: conceptos, procedimientos y actitudes y valores.
+
+          En esta etapa, la adquisición y desarrollo de las competencias específicas se ciñe al ámbito personal
+y educativo, hasta llegar al ámbito social cercano. En el caso de las matemáticas, las situaciones de
+aprendizaje deben proponer un problema real o potencial, cuyas tareas impliquen las capacidades y las
+actuaciones referidas en las competencias específicas: resolver problemas; razonar matemáticamente y
+establecer conexiones; modelizar y aplicar a la realidad las herramientas matemáticas; implementar
+algoritmos y métodos del pensamiento computacional; manejar simbolismo matemático y sus
+representaciones; comunicar con lenguaje matemático y sobre las matemáticas.
+
+          Algunos criterios para diseñar situaciones de aprendizaje desde esta perspectiva son los siguientes:
+
+     a) Las situaciones de aprendizaje deben plantear una problemática que se corresponda con una
+          situación real próxima al alumnado que sirva para desarrollar más de una competencia.
+
+     b) El diseño de situaciones de aprendizaje específicas en el área de matemáticas debe involucrar
+          conceptos, procedimientos y actitudes vinculados con los sentidos matemáticos propios de la etapa:
+          sentido espacial, sentido de la medida, sentido numérico, pensamiento computacional y sentido de la
+          estadística y la probabilidad.
+
+     c) Las situaciones de aprendizaje deben, en la medida de lo posible, ser abiertas y poder graduarse. Es
+          decir, deben ser suficientemente flexibles y relevantes para controlar el grado de accesibilidad y
+          profundización que permita su uso adaptado a los diferentes niveles del alumnado. En particular, las
+          situaciones de aprendizaje deben contribuir a erradicar ideas falsas preconcebidas relacionadas con
+          el género o el talento innato.
+
+     d) Las situaciones de aprendizaje deben incitar a la reflexión y promover la competencia clave de
+          aprender a aprender y un enfoque crítico.
+
+     e) Las situaciones de aprendizaje deben permitir un tratamiento interdisciplinar y conectar con otras
+          experiencias de aprendizaje matemático cercanas al alumnado. Desde el ámbito personal y educativo
+          se deberán abordar temas de interés que permitan aproximarse a los principales retos del siglo XXI.
+          El diseño de las situaciones de aprendizaje debe permitir que sean abordadas tanto de manera
+          individual como grupal, incorporando un enfoque inclusivo y técnicas de trabajo cooperativo o
+          colaborativo.
+
+     f) El diseño de las situaciones de aprendizaje incluirá situaciones en las que se conoce toda la
+          información necesaria para su resolución, pero también otras en las que se requiera completar, de
+          manera sencilla, alguna información ausente.
+
+     g) El diseño de las situaciones de aprendizaje debe contemplar formatos variados: enunciados verbales
+          con o sin ilustraciones de apoyo, enunciados con incorporación de distintas fuentes de información, y
+          enunciados con algunos gráficos sencillos.
+
+          6. Criterios de evaluación
+
+                6.1. Competencia específica 1.
+
+          Resolver problemas relacionados con situaciones reales del entorno personal, social y educativo
+utilizando estrategias informales, representaciones y conceptos concretos.
+
+4.º curso EP                               6.º curso EP
+
+1.1. Identificar la información relevante e irrelevante 1.1. Identificar la información del enunciado de un
+
+de un problema o situación problemática del entorno problema o situación planteada, relacionándola con
+
+personal y social del alumnado que permita su otras situaciones análogas de su entorno próximo y
+
+abordaje y resolución.                     con los conocimientos y procedimientos adquiridos.
+
+1.2. Desarrollar estrategias informales para obtener 1.2. Utilizar y aplicar estrategias formales básicas
+
+la solución correcta en un problema o situación aplicando los conceptos y procedimientos que le
+
+problemática y sistematizar procedimientos permitan obtener la solución correcta en un problema
+
+informales de resolución a nivel inicial.  o situación problemática.
+            4.º curso EP                                     6.º curso EP
+
+1.3. Comprobar si la solución obtenida en un 1.3. Reflexionar sobre la coherencia y la adecuación
+problema cumple las condiciones o exigencias del de la solución obtenida al problema planteado.
+enunciado.
+
+1.4. Extraer consecuencias de la situación 1.4. Conectar la situación problemática con su
+
+problemática planteada y obtener herramientas o entorno personal, educativo y social, y extraer
+
+estrategias aplicables en el ámbito personal o conclusiones que le permitan plantear problemas,
+
+educativo.                                     tanto del mismo como de otros contextos.
+
+                6.2. Competencia específica 2.
+
+          Observar, formular, explorar y comprobar conjeturas sencillas sobre propiedades y relaciones
+matemáticas concretas, reconociendo y conectando procedimientos, patrones, regularidades y estructuras.
+
+            4.º curso EP                                     6.º curso EP
+
+2.1. Comprobar conjeturas sobre relaciones 2.1. Realizar conjeturas matemáticas a partir de la
+matemáticas que permitan desarrollar de forma observación o experimentación de casos concretos,
+intuitiva nuevo contenido matemático de naturaleza y formalizar los conceptos y procedimientos
+numérica, métrica, espacial, geométrica o implicados.
+estocástica.
+
+2.2. Comprobar relaciones matemáticas en –y 2.2. Conectar conceptos y relaciones matemáticas
+
+mediante– los procedimientos de razonamiento en –y mediante– los procedimientos de
+
+matemático intuitivo.                          razonamiento matemático.
+
+2.3. Reconocer patrones o regularidades, 2.3. Analizar y justificar patrones o regularidades,
+
+construyendo intuitivamente contenido matemático construyendo contenido matemático de naturaleza
+
+de naturaleza numérica, métrica, espacial, numérica, métrica, espacial, geométrica o
+
+geométrica o estocástica.                      estocástica.
+
+2.4. Comparar distintos procedimientos matemáticos 2.4. Utilizar y comparar con fluidez y de manera
+
+relativos al cálculo, la medida, el sentido espacial y flexible distintos procedimientos matemáticos
+
+geométrico, el tratamiento de datos o los procesos relativos al cálculo, la medida, el sentido espacial y
+
+aleatorios, y utilizarlos de manera flexible.  geométrico, el tratamiento de datos o los procesos
+
+                                               aleatorios.
+
+                6.3. Competencia específica 3.
+
+          Construir modelos matemáticos concretos y utilizar conceptos y procedimientos matemáticos
+sencillos para abordar e interpretar situaciones, fenómenos y problemas relevantes en el ámbito personal,
+educativo o social.
+                      4.º curso EP                             6.º curso EP
+
+3.1. Identificar el contenido y las herramientas     3.1. Identificar el contenido y las herramientas
+matemáticas sencillas que permiten abordar           matemáticas sencillas que permiten abordar
+situaciones reales cercanas y relevantes,            situaciones reales del ámbito personal, educativo y
+posibilitando la construcción de modelos             social, posibilitando la construcción de modelos
+matemáticos básicos.                                 matemáticos concretos.
+
+3.2. Usar modelos matemáticos básicos que            3.2. Trabajar matemáticamente sobre un modelo
+permitan interpretar una situación real sencilla, y  concreto con la finalidad de obtener soluciones que
+extraer conclusiones.                                permitan describir, interpretar y extraer
+                                                     conclusiones sobre una situación real.
+
+3.3. Comparar modelos matemáticos 3.3. Identificar y justificar diferencias y similitudes
+
+correspondientes a situaciones reales en contextos entre modelos matemáticos correspondientes a
+
+similares.                                           situaciones reales en contextos similares.
+
+                                                     3.4. Validar la solución obtenida a partir de un
+                                                     modelo matemático y detectar errores básicos al
+                                                     contrastarla con la situación real.
+
+                6.4. Competencia específica 4.
+
+          Construir y aplicar algoritmos sencillos para afrontar situaciones y resolver problemas relevantes del
+ámbito personal, educativo o social, organizando datos, descomponiendo un problema en partes,
+reconociendo patrones y empleando herramientas TIC.
+
+                      4.º curso EP                             6.º curso EP
+
+4.1. Identificar regularidades en una secuencia de 4.1. Diseñar y aplicar algoritmos sencillos mediante
+
+datos y predecir resultados mediante el códigos visuales y/o herramientas tecnológicas
+
+reconocimiento de patrones sencillos.                básicas para resolver situaciones problemáticas.
+
+4.2. Interpretar y reproducir algoritmos sencillos 4.2. Descomponer patrones de cierta complejidad en
+
+mediante códigos visuales.                           otros más sencillos utilizando programación por
+
+                                                     bloques.
+
+4.3. Aplicar algoritmos sencillos mediante códigos 4.3. Utilizar la simbología básica de la programación
+visuales y/o herramientas tecnológicas básicas para por bloques para resolver problemas.
+resolver situaciones problemáticas.
+
+4.4. Analizar situaciones sencillas para definir y 4.4. Analizar situaciones de cierta dificultad,
+
+conseguir estrategias ganadoras en juegos de lógica valorando distintas posibilidades y combinaciones,
+
+o juegos de tablero.                                 para definir y conseguir estrategias ganadoras en
+
+                                                     juegos de lógica o juegos de tablero.
+                6.5. Competencia específica 5.
+
+          Utilizar con corrección el simbolismo matemático, haciendo transformaciones y algunas conversiones
+entre representaciones icónico-manipulativas, numéricas, geométricas y gráficas, para describir y analizar
+situaciones relevantes del ámbito personal, educativo o social.
+
+4.º curso EP                                                         6.º curso EP
+
+5.1. Utilizar correctamente las representaciones   5.1. Manejar las representaciones icónico-
+icónico-manipulativas de objetos y procesos        manipulativas, numéricas, geométricas y gráficas
+matemáticos en situaciones cercanas al alumnado,   de objetos matemáticos en situaciones reales del
+respetando las reglas básicas que los rigen.       ámbito personal, educativo y social, respetando las
+                                                   reglas que los rigen.
+
+5.2. Reconocer representaciones numéricas,         5.2. Realizar conversiones entre las
+geométricas y gráficas que describen objetos
+matemáticos elementales en contextos cercanos al   representaciones               icónico-manipulativas,
+alumnado.
+                                                   numéricas, geométricas y gráficas de objetos
+
+                                                   matemáticos en situaciones reales del ámbito
+
+                                                   personal, educativo y social.
+
+5.3. Usar representaciones numéricas, geométricas  5.3. Seleccionar el simbolismo matemático
+y gráficas de objetos matemáticos elementales en   adecuado para describir matemáticamente
+situaciones cercanas al alumnado.                  situaciones correspondientes al ámbito personal,
+                                                   educativo y social.
+
+                6.6. Competencia específica 6.
+
+          Comprender y producir mensajes orales y escritos concretos de manera informal, empleando un
+lenguaje matemático sencillo para comunicar y argumentar sobre características, conceptos, procedimientos
+y resultados relacionados con situaciones del ámbito personal, educativo o social.
+
+4.º curso EP                                       6.º curso EP
+
+6.1. Reconocer y comprender mensajes               6.1. Interpretar correctamente mensajes
+
+orales y escritos sencillos que contengan lenguaje orales y escritos que incluyan contenido
+
+matemático básico.                                 matemático.
+
+          6.2. Comunicar de manera informal                  6.2. Comunicar aspectos relacionados con
+aspectos relacionados con conceptos y              conceptos y procedimientos matemáticos,
+procedimientos matemáticos sencillos presentes en  empleando algunos elementos formales básicos.
+contextos cercanos al alumnado.
+          6.3. Justificar adecuadamente la validez de            6.3. Explicar y dar significado matemático a
+los resultados provenientes de situaciones             resultados provenientes de situaciones
+problemáticas del entorno personal o educativo del     problemáticas del ámbito personal, educativo o
+alumnado, a través de comunicaciones orales o          social.
+escritas informales.
+
+          6.4. Utilizar un lenguaje matemático                   6.4. Argumentar y debatir, contrastando
+adecuado para defender sus propios                     con sus compañeros y compañeras, sus propios
+razonamientos de forma argumentada.                    razonamientos, apoyándose en el lenguaje
+                                                       matemático.
+
+                6.7. Competencia específica 7.
+
+          Identificar fenómenos y problemas importantes desde el punto de vista cultural y social en los que el
+conocimiento matemático juega un papel decisivo.
+
+4.º curso EP                                           6.º curso EP
+
+7.1. Reconocer el contenido matemático presente        7.1. Reconocer la importancia de las matemáticas
+en juegos, actividades sociales y productos            para la comprensión y el tratamiento de algunas
+culturales cercanos a la experiencia del alumnado.     situaciones o cuestiones relevantes en la vida
+                                                       cotidiana del alumnado.
+
+7.2. Valorar la importancia de las matemáticas para    7.2. Reconocer el contenido matemático de
+resolver problemas de la vida cotidiana que            carácter numérico, geométrico o espacial presente
+involucren aspectos como el cálculo aritmético, la     en obras pictóricas, dibujos animados, cómics,
+incertidumbre, el razonamiento lógico, el              elementos arquitectónicos, esculturas y demás
+pensamiento computacional, el uso e interpretación     manifestaciones artísticas.
+de datos o el sentido geométrico y espacial.
+
+7.3. Apreciar el carácter polivalente de las           7.3. Reconocer y valorar la importancia de la
+matemáticas, tanto por su utilidad para la resolución  creación de conceptos, ideas y herramientas
+de problemas en diferentes áreas                       matemáticas, como elementos necesarios para el
+(instrumentalidad), como para favorecer el             avance social y cultural.
+desarrollo intelectual, creativo y cultural de las
+personas.
+
+                6.8. Competencia específica 8.
+
+          Gestionar las emociones y actitudes implicadas en los procesos matemáticos, aceptando la
+incertidumbre, las dificultades y los errores que dichos procesos conllevan, y controlando la atención para
+lograr un aprendizaje significativo y adaptable a diferentes situaciones.
+4.º curso EP                                         6.º curso EP
+
+8.1. Identificar y verbalizar emociones y actitudes  8.1. Asumir los errores como parte del proceso de
+en la resolución de problemas o en situaciones de    aprendizaje, sin ceder a la frustración y expresando
+aprendizaje relacionadas con las matemáticas.        emociones y actitudes positivas y adecuadas para
+                                                     su superación.
+
+8.2. Mostrar una actitud positiva y perseverante en  8.2. Identificar los factores relevantes que
+el trabajo matemático, tanto individual como         intervienen en la atención y la comprensión,
+colaborativo.                                        favoreciéndolas o dificultándolas, tanto en el trabajo
+                                                     individual como en el colaborativo.
+
+8.3. Mostrar una disposición favorable a la          8.3. Gestionar los recursos cognitivos y
+superación y mejora personal y del trabajo en        emocionales para reconducir el proceso de
+equipo en la realización de tareas y actividades     aprendizaje en momentos de dificultad o
+relacionadas con las matemáticas.                    incertidumbre, así como en las situaciones de
+                                                     conflicto derivadas del trabajo en equipo.
+
+                                                     8.4. Asumir retos y enfrentarse a situaciones
+                                                     problemáticas desde una perspectiva abierta,
+                                                     superando los prejuicios.
+
