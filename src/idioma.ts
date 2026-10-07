@@ -2,7 +2,7 @@
 import { computed, signal } from '@preact/signals';
 import idiomasConfig from '../config/idiomas.json';
 import textos from '../contenido/comun/textos-interfaz.json';
-import { almacenDelNavegador, escribir, leer } from './nucleo/almacen';
+import { datos, guardar } from './estado';
 import { detectarIdioma } from './nucleo/idiomas';
 import { elegir, faltaAlguno, interpolar } from './nucleo/textos';
 import { IDIOMAS, type Idioma } from './nucleo/tipos';
@@ -29,6 +29,11 @@ export function t(clave: ClaveTexto, valores?: Readonly<Record<string, string | 
   return interpolar(elegir(textos[clave], idioma.value).texto, valores);
 }
 
+/** Como `t`, para claves que se forman al vuelo (`curso.3`). Si no existe, devuelve la propia clave. */
+export function tDinamico(clave: string, valores?: Readonly<Record<string, string | number>>): string {
+  return clave in textos ? t(clave as ClaveTexto, valores) : clave;
+}
+
 /** Pone `lang` y `dir` en <html>, y carga la tipografía árabe solo si hace falta. */
 export function aplicarIdioma(id: Idioma): void {
   const config = IDIOMAS_CONFIG.find((c) => c.id === id) ?? IDIOMAS_CONFIG[0]!;
@@ -39,9 +44,8 @@ export function aplicarIdioma(id: Idioma): void {
 
 /** Idioma de partida: el guardado, si no el del navegador (si es uno de los cinco), si no el español. */
 export function iniciarIdioma(): Idioma {
-  const guardado = leer(almacenDelNavegador()).datos.idioma;
   const lenguas = typeof navigator === 'undefined' ? [] : navigator.languages?.length ? navigator.languages : [navigator.language];
-  const id = guardado ?? detectarIdioma(lenguas) ?? POR_DEFECTO;
+  const id = datos.value.idioma ?? detectarIdioma(lenguas) ?? POR_DEFECTO;
   idioma.value = id;
   aplicarIdioma(id);
   return id;
@@ -52,6 +56,5 @@ export function elegirIdioma(id: Idioma): void {
   if (!(IDIOMAS as readonly string[]).includes(id)) return;
   idioma.value = id;
   aplicarIdioma(id);
-  const almacen = almacenDelNavegador();
-  escribir(almacen, { ...leer(almacen).datos, idioma: id });
+  guardar({ ...datos.value, idioma: id });
 }

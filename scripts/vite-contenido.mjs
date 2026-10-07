@@ -1,6 +1,7 @@
 // Plugin de Vite: valida el contenido al construir y lo sirve en `contenido/…` (en desarrollo y en `dist`).
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs';
 import { join, relative } from 'node:path';
+import { indiceDeSemillas } from './lib/indice.mjs';
 import { validarContenido } from './validar-contenido.mjs';
 
 function* archivos(dir) {
@@ -35,15 +36,20 @@ export function contenido() {
       for (const ruta of archivos(dir)) {
         this.emitFile({ type: 'asset', fileName: relative(raiz, ruta).split('\\').join('/'), source: readFileSync(ruta) });
       }
+      this.emitFile({ type: 'asset', fileName: 'contenido/indice.json', source: JSON.stringify(indiceDeSemillas(raiz)) });
     },
     configureServer(servidor) {
       const prefijo = `${base}contenido/`;
       servidor.middlewares.use((req, res, next) => {
         const url = (req.url ?? '').split('?')[0];
         if (!url.startsWith(prefijo)) return next();
-        const ruta = join(raiz, 'contenido', decodeURIComponent(url.slice(prefijo.length)));
-        if (!ruta.startsWith(join(raiz, 'contenido')) || !ruta.endsWith('.json') || !existsSync(ruta)) return next();
         res.setHeader('Content-Type', 'application/json; charset=utf-8');
+        if (url === `${prefijo}indice.json`) return void res.end(JSON.stringify(indiceDeSemillas(raiz)));
+        const ruta = join(raiz, 'contenido', decodeURIComponent(url.slice(prefijo.length)));
+        if (!ruta.startsWith(join(raiz, 'contenido')) || !ruta.endsWith('.json') || !existsSync(ruta)) {
+          res.statusCode = 404;
+          return void res.end('{}');
+        }
         res.end(readFileSync(ruta));
       });
     },
