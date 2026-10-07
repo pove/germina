@@ -1,0 +1,228 @@
+{
+  "3": {
+    "1": [
+      {
+        "es": "Leen y escriben números hasta el 999 y llegan al 1000, entendiendo qué vale cada cifra.",
+        "va": "Lligen i escriuen nombres fins al 999 i arriben al 1000, entenent què val cada xifra.",
+        "en": "They read and write numbers up to 999 and reach 1000, understanding what each digit is worth.",
+        "fr": "Ils lisent et écrivent les nombres jusqu'à 999 et arrivent à 1000, en comprenant la valeur de chaque chiffre.",
+        "ar": "يقرؤون الأعداد ويكتبونها حتى 999 ثم يصلون إلى 1000، ويفهمون قيمة كل رقم."
+      },
+      {
+        "es": "Suman y restan con llevada, primero con material (legumbres, vasos), luego con dibujos y por último en papel.",
+        "va": "Sumen i resten amb llevada, primer amb material (llegums, gots), després amb dibuixos i finalment en paper.",
+        "en": "They add and subtract with regrouping, first with materials (beans, cups), then with drawings and finally on paper.",
+        "fr": "Ils additionnent et soustraient avec retenue, d'abord avec du matériel (grains, verres), puis avec des dessins et enfin sur papier.",
+        "ar": "يجمعون ويطرحون مع الاستلاف والاحتفاظ، أولًا بالمواد (حبوب وأكواب) ثم بالرسم وأخيرًا على الورق."
+      },
+      {
+        "es": "Calculan de cabeza sumando y restando de 10 en 10 y de 100 en 100, y leen la hora en el reloj.",
+        "va": "Calculen de cap sumant i restant de 10 en 10 i de 100 en 100, i lligen l'hora al rellotge.",
+        "en": "They calculate in their heads by adding and subtracting in tens and hundreds, and they read the time on a clock.",
+        "fr": "Ils calculent de tête en ajoutant et en soustrayant de 10 en 10 et de 100 en 100, et ils lisent l'heure sur l'horloge.",
+        "ar": "يحسبون ذهنيًا بالجمع والطرح بالعشرات والمئات، ويقرؤون الساعة."
+      },
+      {
+        "es": "Descubren que multiplicar es sumar grupos iguales y empiezan las tablas del 2, del 10 y del 5.",
+        "va": "Descobreixen que multiplicar és sumar grups iguals i comencen les taules del 2, del 10 i del 5.",
+        "en": "They discover that multiplying is adding equal groups and begin the 2, 10 and 5 times tables.",
+        "fr": "Ils découvrent que multiplier, c'est additionner des groupes égaux, et commencent les tables de 2, de 10 et de 5.",
+        "ar": "يكتشفون أن الضرب هو جمع مجموعات متساوية، ويبدؤون جداول ضرب 2 و10 و5."
+      },
+      {
+        "es": "Pagan y dan la vuelta con euros y céntimos, como en la tienda.",
+        "va": "Paguen i donen el canvi amb euros i cèntims, com a la botiga.",
+        "en": "They pay and give change with euros and cents, as in a shop.",
+        "fr": "Ils paient et rendent la monnaie avec des euros et des centimes, comme dans un magasin.",
+        "ar": "يدفعون ويعيدون الباقي باليورو والسنت، كما في المتجر."
+      }
+    ],
+    "2": [
+      {
+        "es": "Aprenden las tablas del 4, del 3 y del 6 con trucos, como el doble del doble, y ven que {{3 × 4}} es igual que {{4 × 3}}.",
+        "va": "Aprenen les taules del 4, del 3 i del 6 amb trucs, com el doble del doble, i veuen que {{3 × 4}} és igual que {{4 × 3}}.",
+        "en": "They learn the 4, 3 and 6 times tables with tricks, like doubling twice, and see that {{3 × 4}} is the same as {{4 × 3}}.",
+        "fr": "Ils apprennent les tables de 4, de 3 et de 6 avec des astuces, comme le double du double, et voient que {{3 × 4}} est égal à {{4 × 3}}.",
+        "ar": "يتعلمون جداول ضرب 4 و3 و6 بحيل، مثل ضعف الضعف، ويرون أن {{3 × 4}} يساوي {{4 × 3}}."
+      },
+      {
+        "es": "Cuentan de cuántas maneras se pueden combinar cosas, con dibujos.",
+        "va": "Compten de quantes maneres es poden combinar coses, amb dibuixos.",
+        "en": "They count how many ways things can be combined, using drawings.",
+        "fr": "Ils comptent de combien de façons on peut combiner des choses, avec des dessins.",
+        "ar": "يعدّون بكم طريقة يمكن الجمع بين الأشياء، بالرسم."
+      },
+      {
+        "es": "Dividen como repartir en partes iguales y como formar grupos, y ven qué pasa con lo que sobra.",
+        "va": "Divideixen com a repartir en parts iguals i com a formar grups, i veuen què passa amb el que sobra.",
+        "en": "They divide by sharing out equally and by making groups, and see what happens with what is left over.",
+        "fr": "Ils divisent en partageant en parts égales et en formant des groupes, et voient ce qui se passe avec ce qui reste.",
+        "ar": "يقسمون بتوزيع الأشياء بالتساوي وبتكوين مجموعات، ويرون ما يحدث للباقي."
+      },
+      {
+        "es": "Terminan las tablas del 7, del 8 y del 9 y resuelven problemas de dos pasos.",
+        "va": "Acaben les taules del 7, del 8 i del 9 i resolen problemes de dos passos.",
+        "en": "They finish the 7, 8 and 9 times tables and solve two-step problems.",
+        "fr": "Ils terminent les tables de 7, de 8 et de 9 et résolvent des problèmes en deux étapes.",
+        "ar": "يُنهون جداول ضرب 7 و8 و9 ويحلّون مسائل من خطوتين."
+      },
+      {
+        "es": "Conocen los polígonos y su perímetro, y hacen una encuesta en familia con su gráfico de barras.",
+        "va": "Coneixen els polígons i el seu perímetre, i fan una enquesta en família amb el seu gràfic de barres.",
+        "en": "They get to know polygons and their perimeter, and do a family survey with its bar chart.",
+        "fr": "Ils découvrent les polygones et leur périmètre, et font une enquête en famille avec son diagramme en barres.",
+        "ar": "يتعرفون على المضلعات ومحيطها، ويجرون استطلاعًا عائليًا مع مخطط أعمدة."
+      }
+    ],
+    "3": [
+      {
+        "es": "Multiplican por una cifra descomponiendo el número, y estiman antes de calcular.",
+        "va": "Multipliquen per una xifra descomponent el nombre, i estimen abans de calcular.",
+        "en": "They multiply by one digit by breaking the number apart, and they estimate before calculating.",
+        "fr": "Ils multiplient par un chiffre en décomposant le nombre, et estiment avant de calculer.",
+        "ar": "يضربون في رقم واحد بتفكيك العدد، ويقدّرون قبل أن يحسبوا."
+      },
+      {
+        "es": "Aprenden a ver qué datos hacen falta en un problema y cuáles sobran, y a elegir la operación.",
+        "va": "Aprenen a veure quines dades fan falta en un problema i quines sobren, i a triar l'operació.",
+        "en": "They learn to see which pieces of information a problem needs and which are extra, and to choose the operation.",
+        "fr": "Ils apprennent à voir quelles données sont utiles dans un problème et lesquelles sont en trop, et à choisir l'opération.",
+        "ar": "يتعلمون أن يميّزوا المعطيات اللازمة في المسألة من الزائدة، وأن يختاروا العملية."
+      },
+      {
+        "es": "Descubren la mitad, el cuarto y el tercio con objetos, y comparan trozos.",
+        "va": "Descobreixen la meitat, el quart i el terç amb objectes, i comparen trossos.",
+        "en": "They discover halves, quarters and thirds with objects, and compare pieces.",
+        "fr": "Ils découvrent la moitié, le quart et le tiers avec des objets, et comparent des morceaux.",
+        "ar": "يكتشفون النصف والربع والثلث بالأشياء، ويقارنون القطع."
+      },
+      {
+        "es": "Miden longitudes, pesos y capacidades con el metro, el kilo y el litro, y los estiman antes de medir.",
+        "va": "Mesuren longituds, pesos i capacitats amb el metre, el quilo i el litre, i els estimen abans de mesurar.",
+        "en": "They measure lengths, weights and capacities with the metre, the kilo and the litre, and estimate them before measuring.",
+        "fr": "Ils mesurent des longueurs, des masses et des capacités avec le mètre, le kilo et le litre, et les estiment avant de mesurer.",
+        "ar": "يقيسون الأطوال والأوزان والسعات بالمتر والكيلوغرام واللتر، ويقدّرونها قبل القياس."
+      },
+      {
+        "es": "Distinguen lo que es seguro, posible o imposible, y juegan a pensar estrategias.",
+        "va": "Distingeixen el que és segur, possible o impossible, i juguen a pensar estratègies.",
+        "en": "They tell apart what is certain, possible or impossible, and play at thinking up strategies.",
+        "fr": "Ils distinguent ce qui est certain, possible ou impossible, et jouent à imaginer des stratégies.",
+        "ar": "يميّزون ما هو مؤكّد وما هو ممكن وما هو مستحيل، ويلعبون بابتكار الاستراتيجيات."
+      }
+    ]
+  },
+  "4": {
+    "1": [
+      {
+        "es": "Leen, escriben y descomponen números de cuatro y cinco cifras, sabiendo cuánto vale cada una.",
+        "va": "Lligen, escriuen i descomponen nombres de quatre i cinc xifres, sabent quant val cadascuna.",
+        "en": "They read, write and break apart four- and five-digit numbers, knowing what each digit is worth.",
+        "fr": "Ils lisent, écrivent et décomposent des nombres à quatre et cinq chiffres, en sachant ce que vaut chacun.",
+        "ar": "يقرؤون الأعداد المكوّنة من أربعة وخمسة أرقام ويكتبونها ويفكّكونها، ويعرفون قيمة كل رقم."
+      },
+      {
+        "es": "Suman y restan números grandes, también con ceros en medio, y comprueban si el resultado tiene sentido.",
+        "va": "Sumen i resten nombres grans, també amb zeros pel mig, i comproven si el resultat té sentit.",
+        "en": "They add and subtract big numbers, even with zeros in the middle, and check whether the result makes sense.",
+        "fr": "Ils additionnent et soustraient de grands nombres, même avec des zéros au milieu, et vérifient que le résultat a du sens.",
+        "ar": "يجمعون ويطرحون أعدادًا كبيرة، حتى مع وجود أصفار في الوسط، ويتحققون من أن النتيجة منطقية."
+      },
+      {
+        "es": "Aprenden trucos para calcular de cabeza, como redondear y compensar.",
+        "va": "Aprenen trucs per a calcular de cap, com arrodonir i compensar.",
+        "en": "They learn tricks for calculating in their heads, such as rounding and compensating.",
+        "fr": "Ils apprennent des astuces pour calculer de tête, comme arrondir et compenser.",
+        "ar": "يتعلمون حيلًا للحساب الذهني، مثل التقريب والتعويض."
+      },
+      {
+        "es": "Calculan cuánto dura algo y leen horarios de 24 horas.",
+        "va": "Calculen quant dura una cosa i lligen horaris de 24 hores.",
+        "en": "They work out how long something lasts and read 24-hour timetables.",
+        "fr": "Ils calculent combien de temps dure quelque chose et lisent des horaires sur 24 heures.",
+        "ar": "يحسبون مدة حدث ما ويقرؤون الجداول الزمنية بنظام 24 ساعة."
+      },
+      {
+        "es": "Vuelven a todas las tablas con estrategias y multiplican por una cifra, por 10 y por 100.",
+        "va": "Tornen a totes les taules amb estratègies i multipliquen per una xifra, per 10 i per 100.",
+        "en": "They go back over all the times tables with strategies and multiply by one digit, by 10 and by 100.",
+        "fr": "Ils reviennent sur toutes les tables avec des stratégies et multiplient par un chiffre, par 10 et par 100.",
+        "ar": "يعودون إلى جميع جداول الضرب بطرق ذكية، ويضربون في رقم واحد وفي 10 وفي 100."
+      }
+    ],
+    "2": [
+      {
+        "es": "Multiplican por dos cifras descomponiendo, y estiman y comprueban el resultado.",
+        "va": "Multipliquen per dues xifres descomponent, i estimen i comproven el resultat.",
+        "en": "They multiply by two digits by breaking numbers apart, and estimate and check the result.",
+        "fr": "Ils multiplient par deux chiffres en décomposant, et estiment et vérifient le résultat.",
+        "ar": "يضربون في رقمين بالتفكيك، ويقدّرون النتيجة ويتحققون منها."
+      },
+      {
+        "es": "Usan que se puede cambiar el orden y agrupar de otra forma para calcular mejor de cabeza.",
+        "va": "Usen que es pot canviar l'ordre i agrupar d'una altra manera per a calcular millor de cap.",
+        "en": "They use the fact that the order can be changed and numbers grouped differently to calculate better in their heads.",
+        "fr": "Ils utilisent le fait qu'on peut changer l'ordre et regrouper autrement pour mieux calculer de tête.",
+        "ar": "يستفيدون من إمكان تغيير الترتيب والتجميع بطريقة أخرى ليحسبوا ذهنيًا بشكل أفضل."
+      },
+      {
+        "es": "Cuentan combinaciones con árboles y dividen entre una cifra repartiendo dinero.",
+        "va": "Compten combinacions amb arbres i divideixen entre una xifra repartint diners.",
+        "en": "They count combinations with tree diagrams and divide by one digit by sharing out money.",
+        "fr": "Ils comptent des combinaisons avec des arbres et divisent par un chiffre en partageant de l'argent.",
+        "ar": "يعدّون الاحتمالات المركّبة بالأشجار ويقسمون على رقم واحد بتوزيع النقود."
+      },
+      {
+        "es": "Comprueban una división con la multiplicación y descubren los múltiplos y los divisores.",
+        "va": "Comproven una divisió amb la multiplicació i descobreixen els múltiples i els divisors.",
+        "en": "They check a division with a multiplication and discover multiples and divisors.",
+        "fr": "Ils vérifient une division avec la multiplication et découvrent les multiples et les diviseurs.",
+        "ar": "يتحققون من القسمة بالضرب ويكتشفون المضاعفات والقواسم."
+      },
+      {
+        "es": "Resuelven problemas de dos pasos, miden perímetros y áreas contando cuadrados, y leen gráficos de barras.",
+        "va": "Resolen problemes de dos passos, mesuren perímetres i àrees comptant quadrats, i lligen gràfics de barres.",
+        "en": "They solve two-step problems, measure perimeters and areas by counting squares, and read bar charts.",
+        "fr": "Ils résolvent des problèmes en deux étapes, mesurent des périmètres et des aires en comptant des carrés, et lisent des diagrammes en barres.",
+        "ar": "يحلّون مسائل من خطوتين، ويقيسون المحيط والمساحة بعدّ المربعات، ويقرؤون مخططات الأعمدة."
+      }
+    ],
+    "3": [
+      {
+        "es": "Multiplican y dividen por 10, por 100 y por 1000.",
+        "va": "Multipliquen i divideixen per 10, per 100 i per 1000.",
+        "en": "They multiply and divide by 10, by 100 and by 1000.",
+        "fr": "Ils multiplient et divisent par 10, par 100 et par 1000.",
+        "ar": "يضربون ويقسمون على 10 وعلى 100 وعلى 1000."
+      },
+      {
+        "es": "Ven la fracción como parte de un todo y la colocan en la recta, con una cinta métrica o un metro de costura.",
+        "va": "Veuen la fracció com a part d'un tot i la col·loquen en la recta, amb una cinta mètrica o un metre de costura.",
+        "en": "They see a fraction as part of a whole and place it on the number line, using a tape measure or a sewing tape.",
+        "fr": "Ils voient la fraction comme une partie d'un tout et la placent sur la droite, avec un mètre ruban.",
+        "ar": "يرون الكسر جزءًا من كل ويضعونه على خط الأعداد، بشريط القياس أو شريط الخياطة."
+      },
+      {
+        "es": "Pasan de la fracción al número decimal con las décimas y las centésimas, con euros y céntimos y con metros y centímetros.",
+        "va": "Passen de la fracció al nombre decimal amb les dècimes i les centèsimes, amb euros i cèntims i amb metres i centímetres.",
+        "en": "They move from fractions to decimals with tenths and hundredths, using euros and cents and metres and centimetres.",
+        "fr": "Ils passent de la fraction au nombre décimal avec les dixièmes et les centièmes, avec des euros et des centimes et des mètres et des centimètres.",
+        "ar": "ينتقلون من الكسر إلى العدد العشري مع الأعشار والأجزاء من المئة، باليورو والسنت وبالمتر والسنتيمتر."
+      },
+      {
+        "es": "Experimentan con dados para ver qué puede salir y escogen la operación en problemas mezclados.",
+        "va": "Experimenten amb daus per a veure què pot eixir i trien l'operació en problemes mesclats.",
+        "en": "They experiment with dice to see what can come up and choose the operation in mixed problems.",
+        "fr": "Ils expérimentent avec des dés pour voir ce qui peut sortir et choisissent l'opération dans des problèmes variés.",
+        "ar": "يجرّبون بالنرد ليروا ما يمكن أن يظهر، ويختارون العملية في مسائل متنوعة."
+      },
+      {
+        "es": "Piensan estrategias ganadoras en juegos sin azar.",
+        "va": "Pensen estratègies guanyadores en jocs sense atzar.",
+        "en": "They think up winning strategies in games without luck.",
+        "fr": "Ils imaginent des stratégies gagnantes dans des jeux sans hasard.",
+        "ar": "يبتكرون استراتيجيات رابحة في ألعاب لا تعتمد على الحظ."
+      }
+    ]
+  }
+}

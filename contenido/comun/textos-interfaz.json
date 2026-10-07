@@ -1,0 +1,331 @@
+{
+  "a11y.contenido": { "es": "Saltar al contenido", "va": "Saltar al contingut", "en": "Skip to content", "fr": "Aller au contenu", "ar": "تخطّي إلى المحتوى" },
+  "a11y.menu": { "es": "Menú principal", "va": "Menú principal", "en": "Main menu", "fr": "Menu principal", "ar": "القائمة الرئيسية" },
+
+  "app.nombre": { "es": "Germina", "va": "Germina", "en": "Germina", "fr": "Germina", "ar": "Germina" },
+  "app.lema": {
+    "es": "10 minutos al día para crecer en casa",
+    "va": "10 minuts al dia per a créixer a casa",
+    "en": "10 minutes a day to grow at home",
+    "fr": "10 minutes par jour pour grandir à la maison",
+    "ar": "10 دقائق يوميًا للنمو في البيت"
+  },
+
+  "aviso.guardado": {
+    "es": "Este móvil no permite guardar lo que marquéis. Germina funciona igual, pero se olvidará al cerrar la página.",
+    "va": "Aquest mòbil no permet guardar el que marqueu. Germina funciona igual, però s'oblidarà en tancar la pàgina.",
+    "en": "This phone can't save what you tick off. Germina works the same, but it will be forgotten when you close the page.",
+    "fr": "Ce téléphone ne peut pas enregistrer ce que vous cochez. Germina fonctionne pareil, mais tout sera oublié à la fermeture de la page.",
+    "ar": "هذا الهاتف لا يسمح بحفظ ما تعلّمونه. تعمل Germina كالمعتاد، لكن سيُنسى كل شيء عند إغلاق الصفحة."
+  },
+  "aviso.instalar": {
+    "es": "Si añadís Germina a la pantalla de inicio, vuestro jardín estará más a salvo.",
+    "va": "Si afegiu Germina a la pantalla d'inici, el vostre jardí estarà més a bon recer.",
+    "en": "If you add Germina to your home screen, your garden will be safer.",
+    "fr": "Si vous ajoutez Germina à l'écran d'accueil, votre jardin sera plus en sécurité.",
+    "ar": "إذا أضفتم Germina إلى الشاشة الرئيسية، فسيكون بستانكم أكثر أمانًا."
+  },
+  "aviso.novedades": { "es": "Hay novedades", "va": "Hi ha novetats", "en": "There is something new", "fr": "Il y a du nouveau", "ar": "هناك جديد" },
+  "aviso.ver_ahora": { "es": "Ver ahora", "va": "Veure ara", "en": "See now", "fr": "Voir maintenant", "ar": "شاهدوا الآن" },
+  "aviso.traduccion_automatica": { "es": "Traducción automática", "va": "Traducció automàtica", "en": "Automatic translation", "fr": "Traduction automatique", "ar": "ترجمة آلية" },
+  "aviso.traduccion_incompleta": {
+    "es": "Algunos textos todavía están solo en español.",
+    "va": "Alguns textos encara estan només en castellà.",
+    "en": "Some texts are still only in Spanish.",
+    "fr": "Certains textes sont encore seulement en espagnol.",
+    "ar": "بعض النصوص ما زالت بالإسبانية فقط."
+  },
+
+  "bienvenida.titulo": { "es": "Os damos la bienvenida a Germina", "va": "Us donem la benvinguda a Germina", "en": "Welcome to Germina", "fr": "Bienvenue sur Germina", "ar": "أهلًا بكم في Germina" },
+  "bienvenida.idioma": { "es": "Idioma", "va": "Idioma", "en": "Language", "fr": "Langue", "ar": "اللغة" },
+  "bienvenida.curso": {
+    "es": "¿En qué curso está vuestro hijo o hija?",
+    "va": "En quin curs està el vostre fill o filla?",
+    "en": "Which year is your child in?",
+    "fr": "En quelle année est votre enfant ?",
+    "ar": "في أي صف ابنكم أو ابنتكم؟"
+  },
+  "bienvenida.curso_ayuda": {
+    "es": "Podéis elegir los dos si tenéis hijos o hijas en 3.º y en 4.º.",
+    "va": "Podeu triar-los tots dos si teniu fills o filles en 3r i en 4t.",
+    "en": "You can choose both if you have children in 3rd and 4th year.",
+    "fr": "Vous pouvez choisir les deux si vous avez des enfants en 3e et en 4e année.",
+    "ar": "يمكنكم اختيار الصفين معًا إذا كان لديكم أبناء وبنات في الثالث والرابع."
+  },
+  "bienvenida.empezar": { "es": "Empezar", "va": "Començar", "en": "Start", "fr": "Commencer", "ar": "ابدؤوا" },
+
+  "explicacion.titulo": {
+    "es": "Qué son la semilla y el jardín",
+    "va": "Què són la llavor i el jardí",
+    "en": "What the seed and the garden are",
+    "fr": "Ce que sont la graine et le jardin",
+    "ar": "ما هي البذرة وما هو البستان"
+  },
+  "explicacion.1": {
+    "es": "Cada semana os llega una semilla: una pregunta para cada día y un reto para jugar en familia, unos 10 minutos.",
+    "va": "Cada setmana us arriba una llavor: una pregunta per a cada dia i un repte per a jugar en família, uns 10 minuts.",
+    "en": "Every week a seed arrives: a question for each day and a challenge to play as a family, about 10 minutes.",
+    "fr": "Chaque semaine, une graine arrive : une question pour chaque jour et un défi à jouer en famille, environ 10 minutes.",
+    "ar": "كل أسبوع تصلكم بذرة: سؤال لكل يوم وتحدٍّ تلعبونه معًا في العائلة، نحو 10 دقائق."
+  },
+  "explicacion.2": {
+    "es": "Cuando la jugáis, la semilla brota. Todas juntas forman vuestro jardín.",
+    "va": "Quan la jugueu, la llavor brota. Totes juntes formen el vostre jardí.",
+    "en": "When you play it, the seed sprouts. All together they make your garden.",
+    "fr": "Quand vous la jouez, la graine germe. Toutes ensemble, elles forment votre jardin.",
+    "ar": "عندما تلعبونها تنبت البذرة. وكلها معًا تكوّن بستانكم."
+  },
+  "explicacion.3": {
+    "es": "Sin prisa: si una semana no puede ser, la semilla espera.",
+    "va": "Sense pressa: si una setmana no pot ser, la llavor espera.",
+    "en": "No rush: if one week doesn't work out, the seed waits.",
+    "fr": "Sans hâte : si une semaine ne s'y prête pas, la graine attend.",
+    "ar": "بلا استعجال: إذا لم يكن ممكنًا في أسبوع ما، فالبذرة تنتظر."
+  },
+
+  "curso.3": { "es": "3.º", "va": "3r", "en": "3rd year", "fr": "3e année", "ar": "الصف الثالث" },
+  "curso.4": { "es": "4.º", "va": "4t", "en": "4th year", "fr": "4e année", "ar": "الصف الرابع" },
+  "curso.etiqueta": { "es": "Curso", "va": "Curs", "en": "Year", "fr": "Année", "ar": "الصف" },
+  "ciclo.2": { "es": "2.º ciclo", "va": "2n cicle", "en": "2nd cycle", "fr": "2e cycle", "ar": "الحلقة الثانية" },
+
+  "cambio_curso.pregunta": {
+    "es": "¿Vuestro hijo o hija ha pasado a {curso}?",
+    "va": "El vostre fill o filla ha passat a {curso}?",
+    "en": "Has your child moved up to {curso}?",
+    "fr": "Votre enfant est-il passé en {curso} ?",
+    "ar": "هل انتقل ابنكم أو ابنتكم إلى {curso}؟"
+  },
+  "cambio_curso.si": { "es": "Sí, ya está en {curso}", "va": "Sí, ja està en {curso}", "en": "Yes, now in {curso}", "fr": "Oui, maintenant en {curso}", "ar": "نعم، هو الآن في {curso}" },
+  "cambio_curso.no": { "es": "No, sigue en el mismo curso", "va": "No, continua en el mateix curs", "en": "No, still in the same year", "fr": "Non, toujours dans la même année", "ar": "لا، ما زال في الصف نفسه" },
+  "cambio_curso.fin_ciclo": {
+    "es": "¡Ha terminado el 2.º ciclo! Si os apetece, podéis seguir con los retos de verano.",
+    "va": "Ha acabat el 2n cicle! Si us abelleix, podeu continuar amb els reptes d'estiu.",
+    "en": "The 2nd cycle is finished! If you like, you can carry on with the summer challenges.",
+    "fr": "Le 2e cycle est terminé ! Si vous en avez envie, vous pouvez continuer avec les défis de l'été.",
+    "ar": "انتهت الحلقة الثانية! إن أحببتم، يمكنكم متابعة تحديات الصيف."
+  },
+  "cambio_curso.ver_verano": { "es": "Ver los retos de verano", "va": "Veure els reptes d'estiu", "en": "See the summer challenges", "fr": "Voir les défis de l'été", "ar": "شاهدوا تحديات الصيف" },
+
+  "nav.inicio": { "es": "Esta semana", "va": "Aquesta setmana", "en": "This week", "fr": "Cette semaine", "ar": "هذا الأسبوع" },
+  "nav.jardin": { "es": "El jardín", "va": "El jardí", "en": "The garden", "fr": "Le jardin", "ar": "البستان" },
+  "nav.aprenden": { "es": "Qué aprenden", "va": "Què aprenen", "en": "What they learn", "fr": "Ce qu'ils apprennent", "ar": "ماذا يتعلمون" },
+  "nav.ayuda": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
+  "nav.ajustes": { "es": "Ajustes", "va": "Ajustos", "en": "Settings", "fr": "Réglages", "ar": "الإعدادات" },
+  "nav.volver": { "es": "Volver", "va": "Tornar", "en": "Back", "fr": "Retour", "ar": "رجوع" },
+
+  "semana.titulo": { "es": "Semana {n}", "va": "Setmana {n}", "en": "Week {n}", "fr": "Semaine {n}", "ar": "الأسبوع {n}" },
+  "semana.anterior": { "es": "Semana anterior", "va": "Setmana anterior", "en": "Previous week", "fr": "Semaine précédente", "ar": "الأسبوع السابق" },
+  "semana.siguiente": { "es": "Semana siguiente", "va": "Setmana següent", "en": "Next week", "fr": "Semaine suivante", "ar": "الأسبوع التالي" },
+  "semana.volver_actual": { "es": "Volver a esta semana", "va": "Tornar a aquesta setmana", "en": "Back to this week", "fr": "Revenir à cette semaine", "ar": "العودة إلى هذا الأسبوع" },
+  "semana.de_recordar": { "es": "Semana de recordar", "va": "Setmana de recordar", "en": "Week to remember", "fr": "Semaine pour se souvenir", "ar": "أسبوع التذكّر" },
+  "semana.objetivo": { "es": "Lo que descubren esta semana", "va": "El que descobreixen aquesta setmana", "en": "What they discover this week", "fr": "Ce qu'ils découvrent cette semaine", "ar": "ما يكتشفونه هذا الأسبوع" },
+  "semana.pregunta_hoy": { "es": "La pregunta de hoy", "va": "La pregunta d'avui", "en": "Today's question", "fr": "La question du jour", "ar": "سؤال اليوم" },
+  "semana.ver_pregunta": { "es": "Ver la pregunta", "va": "Veure la pregunta", "en": "See the question", "fr": "Voir la question", "ar": "شاهدوا السؤال" },
+  "semana.reto": { "es": "El reto de la semana", "va": "El repte de la setmana", "en": "This week's challenge", "fr": "Le défi de la semaine", "ar": "تحدّي الأسبوع" },
+  "semana.ver_reto": { "es": "Ver el reto", "va": "Veure el repte", "en": "See the challenge", "fr": "Voir le défi", "ar": "شاهدوا التحدّي" },
+  "semana.preguntas": { "es": "Las cinco preguntas", "va": "Les cinc preguntes", "en": "The five questions", "fr": "Les cinq questions", "ar": "الأسئلة الخمسة" },
+  "semana.fin_de_semana": {
+    "es": "Es fin de semana: buen momento para el reto.",
+    "va": "És cap de setmana: bon moment per al repte.",
+    "en": "It's the weekend: a good time for the challenge.",
+    "fr": "C'est le week-end : un bon moment pour le défi.",
+    "ar": "إنها عطلة نهاية الأسبوع: وقت مناسب للتحدّي."
+  },
+  "semana.cambiar_curso": { "es": "Cambiar a {curso}", "va": "Canviar a {curso}", "en": "Switch to {curso}", "fr": "Passer en {curso}", "ar": "انتقلوا إلى {curso}" },
+  "semana.en_camino": {
+    "es": "Esta semilla está en camino. Mientras tanto, podéis volver a cualquier semana anterior.",
+    "va": "Aquesta llavor està en camí. Mentrestant, podeu tornar a qualsevol setmana anterior.",
+    "en": "This seed is on its way. In the meantime, you can go back to any earlier week.",
+    "fr": "Cette graine est en route. En attendant, vous pouvez revenir à n'importe quelle semaine précédente.",
+    "ar": "هذه البذرة في الطريق. في هذه الأثناء يمكنكم العودة إلى أي أسبوع سابق."
+  },
+  "semana.ir_a": { "es": "Ir a la semana {n}", "va": "Anar a la setmana {n}", "en": "Go to week {n}", "fr": "Aller à la semaine {n}", "ar": "اذهبوا إلى الأسبوع {n}" },
+
+  "verano.titulo": { "es": "Reto de verano {n}", "va": "Repte d'estiu {n}", "en": "Summer challenge {n}", "fr": "Défi de l'été {n}", "ar": "تحدّي الصيف {n}" },
+  "verano.anterior": { "es": "Reto de verano anterior", "va": "Repte d'estiu anterior", "en": "Previous summer challenge", "fr": "Défi de l'été précédent", "ar": "تحدّي الصيف السابق" },
+  "verano.siguiente": { "es": "Reto de verano siguiente", "va": "Repte d'estiu següent", "en": "Next summer challenge", "fr": "Défi de l'été suivant", "ar": "تحدّي الصيف التالي" },
+  "verano.intro": {
+    "es": "Retos para el verano, cuando os venga bien. Elegid el que más os apetezca.",
+    "va": "Reptes per a l'estiu, quan us vinga bé. Trieu el que més us abelleixi.",
+    "en": "Challenges for the summer, whenever suits you. Pick the one you fancy most.",
+    "fr": "Des défis pour l'été, quand cela vous convient. Choisissez celui qui vous tente le plus.",
+    "ar": "تحدّيات للصيف في الوقت الذي يناسبكم. اختاروا ما تحبونه أكثر."
+  },
+
+  "dia.1": { "es": "Lunes", "va": "Dilluns", "en": "Monday", "fr": "Lundi", "ar": "الاثنين" },
+  "dia.2": { "es": "Martes", "va": "Dimarts", "en": "Tuesday", "fr": "Mardi", "ar": "الثلاثاء" },
+  "dia.3": { "es": "Miércoles", "va": "Dimecres", "en": "Wednesday", "fr": "Mercredi", "ar": "الأربعاء" },
+  "dia.4": { "es": "Jueves", "va": "Dijous", "en": "Thursday", "fr": "Jeudi", "ar": "الخميس" },
+  "dia.5": { "es": "Viernes", "va": "Divendres", "en": "Friday", "fr": "Vendredi", "ar": "الجمعة" },
+  "dia.6": { "es": "Sábado", "va": "Dissabte", "en": "Saturday", "fr": "Samedi", "ar": "السبت" },
+  "dia.7": { "es": "Domingo", "va": "Diumenge", "en": "Sunday", "fr": "Dimanche", "ar": "الأحد" },
+
+  "pregunta.titulo": { "es": "Pregunta {n}", "va": "Pregunta {n}", "en": "Question {n}", "fr": "Question {n}", "ar": "السؤال {n}" },
+  "pregunta.pista": { "es": "Pista", "va": "Pista", "en": "Hint", "fr": "Indice", "ar": "تلميح" },
+  "pregunta.ocultar_pista": { "es": "Ocultar la pista", "va": "Amagar la pista", "en": "Hide the hint", "fr": "Cacher l'indice", "ar": "أخفوا التلميح" },
+  "pregunta.ver_respuesta": { "es": "Ver la respuesta", "va": "Veure la resposta", "en": "See the answer", "fr": "Voir la réponse", "ar": "شاهدوا الإجابة" },
+  "pregunta.ocultar_respuesta": { "es": "Ocultar la respuesta", "va": "Amagar la resposta", "en": "Hide the answer", "fr": "Cacher la réponse", "ar": "أخفوا الإجابة" },
+  "pregunta.respuesta": { "es": "Respuesta", "va": "Resposta", "en": "Answer", "fr": "Réponse", "ar": "الإجابة" },
+  "pregunta.orientacion": { "es": "Para orientaros", "va": "Per a orientar-vos", "en": "A little guidance", "fr": "Pour vous guider", "ar": "للإرشاد" },
+  "pregunta.inventala": { "es": "Invéntala tú", "va": "Inventa-la tu", "en": "Make one up", "fr": "Invente-la", "ar": "لنخترع واحدة" },
+  "pregunta.hablado": { "es": "¡Lo hemos hablado!", "va": "Ho hem parlat!", "en": "We've talked about it!", "fr": "On en a parlé !", "ar": "تحدّثنا عنها!" },
+  "pregunta.hablado_marcado": { "es": "Hablada", "va": "Parlada", "en": "Talked about", "fr": "Dont on a parlé", "ar": "تم الحديث عنها" },
+  "pregunta.anterior": { "es": "Pregunta anterior", "va": "Pregunta anterior", "en": "Previous question", "fr": "Question précédente", "ar": "السؤال السابق" },
+  "pregunta.siguiente": { "es": "Pregunta siguiente", "va": "Pregunta següent", "en": "Next question", "fr": "Question suivante", "ar": "السؤال التالي" },
+
+  "reto.titulo": { "es": "El reto", "va": "El repte", "en": "The challenge", "fr": "Le défi", "ar": "التحدّي" },
+  "reto.material": { "es": "Material", "va": "Material", "en": "Materials", "fr": "Matériel", "ar": "المواد" },
+  "reto.minutos": { "es": "{n} minutos", "va": "{n} minuts", "en": "{n} minutes", "fr": "{n} minutes", "ar": "الدقائق: {n}" },
+  "reto.pasos": { "es": "Cómo se juega", "va": "Com es juga", "en": "How to play", "fr": "Comment jouer", "ar": "كيف نلعب" },
+  "reto.mas_facil": { "es": "Más fácil", "va": "Més fàcil", "en": "Easier", "fr": "Plus facile", "ar": "أسهل" },
+  "reto.mas_dificil": { "es": "Más difícil", "va": "Més difícil", "en": "Harder", "fr": "Plus difficile", "ar": "أصعب" },
+  "reto.para_que_sirve": { "es": "Para qué sirve", "va": "Per a què serveix", "en": "What it's for", "fr": "À quoi ça sert", "ar": "ما فائدته" },
+  "reto.aviso": { "es": "Un aviso", "va": "Un avís", "en": "A heads-up", "fr": "Un avertissement", "ar": "تنبيه" },
+  "reto.jugado": { "es": "¡Lo hemos jugado!", "va": "Hi hem jugat!", "en": "We've played it!", "fr": "On y a joué !", "ar": "لعبناه!" },
+  "reto.jugado_marcado": { "es": "Jugado", "va": "Jugat", "en": "Played", "fr": "Joué", "ar": "تم اللعب" },
+  "reto.ver_semana": { "es": "Volver a la semana", "va": "Tornar a la setmana", "en": "Back to the week", "fr": "Revenir à la semaine", "ar": "العودة إلى الأسبوع" },
+
+  "cronometro.titulo": { "es": "Cronómetro", "va": "Cronòmetre", "en": "Stopwatch", "fr": "Chronomètre", "ar": "المؤقّت" },
+  "cronometro.empezar": { "es": "Empezar", "va": "Començar", "en": "Start", "fr": "Démarrer", "ar": "ابدؤوا" },
+  "cronometro.parar": { "es": "Parar", "va": "Parar", "en": "Stop", "fr": "Arrêter", "ar": "أوقفوا" },
+  "cronometro.reiniciar": { "es": "Volver a empezar", "va": "Tornar a començar", "en": "Start again", "fr": "Recommencer", "ar": "ابدؤوا من جديد" },
+  "cronometro.tiempo": { "es": "Tiempo que queda: {tiempo}", "va": "Temps que queda: {tiempo}", "en": "Time left: {tiempo}", "fr": "Temps restant : {tiempo}", "ar": "الوقت المتبقي: {tiempo}" },
+  "cronometro.fin": { "es": "¡Se acabó el tiempo!", "va": "S'ha acabat el temps!", "en": "Time's up!", "fr": "Le temps est écoulé !", "ar": "انتهى الوقت!" },
+
+  "record.titulo": { "es": "Récord", "va": "Rècord", "en": "Record", "fr": "Record", "ar": "الرقم القياسي" },
+  "record.cuenta": { "es": "Se cuenta: {que}", "va": "Es compta: {que}", "en": "What counts: {que}", "fr": "On compte : {que}", "ar": "ما يُحتسب: {que}" },
+  "record.apuntar": { "es": "Apuntad cuántos habéis conseguido", "va": "Apunteu quants heu aconseguit", "en": "Write down how many you got", "fr": "Notez combien vous en avez eu", "ar": "دوّنوا كم حصلتم" },
+  "record.hoy": { "es": "Hoy: {n}", "va": "Hui: {n}", "en": "Today: {n}", "fr": "Aujourd'hui : {n}", "ar": "اليوم: {n}" },
+  "record.mejor": { "es": "Vuestro récord: {n}", "va": "El vostre rècord: {n}", "en": "Your record: {n}", "fr": "Votre record : {n}", "ar": "رقمكم القياسي: {n}" },
+  "record.sin": { "es": "Todavía no hay récord", "va": "Encara no hi ha rècord", "en": "No record yet", "fr": "Pas encore de record", "ar": "لا يوجد رقم قياسي بعد" },
+  "record.guardar": { "es": "Guardar el resultado", "va": "Guardar el resultat", "en": "Save the result", "fr": "Enregistrer le résultat", "ar": "احفظوا النتيجة" },
+  "record.nuevo": { "es": "¡Nuevo récord!", "va": "Nou rècord!", "en": "New record!", "fr": "Nouveau record !", "ar": "رقم قياسي جديد!" },
+
+  "jardin.titulo": { "es": "El jardín", "va": "El jardí", "en": "The garden", "fr": "Le jardin", "ar": "البستان" },
+  "jardin.ayuda": { "es": "Qué es el jardín", "va": "Què és el jardí", "en": "What the garden is", "fr": "Ce qu'est le jardin", "ar": "ما هو البستان" },
+  "jardin.semanas": { "es": "Las semanas del curso", "va": "Les setmanes del curs", "en": "The weeks of the year", "fr": "Les semaines de l'année", "ar": "أسابيع السنة الدراسية" },
+  "jardin.veranos": { "es": "Retos de verano", "va": "Reptes d'estiu", "en": "Summer challenges", "fr": "Défis de l'été", "ar": "تحدّيات الصيف" },
+  "jardin.estado.semilla": { "es": "Semilla", "va": "Llavor", "en": "Seed", "fr": "Graine", "ar": "بذرة" },
+  "jardin.estado.brote": { "es": "Brote", "va": "Borró", "en": "Sprout", "fr": "Pousse", "ar": "برعم" },
+  "jardin.estado.flor": { "es": "En flor", "va": "En flor", "en": "In bloom", "fr": "En fleur", "ar": "مزهرة" },
+  "jardin.estado.en_camino": { "es": "Semilla en camino", "va": "Llavor en camí", "en": "Seed on its way", "fr": "Graine en route", "ar": "بذرة في الطريق" },
+
+  "aprenden.titulo": { "es": "Qué aprenden este curso", "va": "Què aprenen aquest curs", "en": "What they learn this year", "fr": "Ce qu'ils apprennent cette année", "ar": "ماذا يتعلمون هذه السنة" },
+  "aprenden.trimestre": { "es": "Trimestre {n}", "va": "Trimestre {n}", "en": "Term {n}", "fr": "Trimestre {n}", "ar": "الفصل {n}" },
+
+  "ayuda.titulo": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
+
+  "ajustes.titulo": { "es": "Ajustes", "va": "Ajustos", "en": "Settings", "fr": "Réglages", "ar": "الإعدادات" },
+  "ajustes.idioma": { "es": "Idioma", "va": "Idioma", "en": "Language", "fr": "Langue", "ar": "اللغة" },
+  "ajustes.cursos": { "es": "Cursos", "va": "Cursos", "en": "Years", "fr": "Années", "ar": "الصفوف" },
+  "ajustes.pasar": { "es": "Llevar el jardín a otro móvil", "va": "Portar el jardí a un altre mòbil", "en": "Take the garden to another phone", "fr": "Emporter le jardin sur un autre téléphone", "ar": "نقل البستان إلى هاتف آخر" },
+  "ajustes.records": { "es": "Hoja de récords para imprimir", "va": "Full de rècords per a imprimir", "en": "Record sheet to print", "fr": "Feuille de records à imprimer", "ar": "ورقة الأرقام القياسية للطباعة" },
+  "ajustes.instalar": { "es": "Cómo instalar Germina", "va": "Com instal·lar Germina", "en": "How to install Germina", "fr": "Comment installer Germina", "ar": "كيف تثبّتون Germina" },
+  "ajustes.privacidad": { "es": "Privacidad", "va": "Privadesa", "en": "Privacy", "fr": "Confidentialité", "ar": "الخصوصية" },
+  "ajustes.accesibilidad": { "es": "Accesibilidad", "va": "Accessibilitat", "en": "Accessibility", "fr": "Accessibilité", "ar": "إمكانية الوصول" },
+  "ajustes.empezar_de_cero": { "es": "Empezar de cero", "va": "Començar de zero", "en": "Start from scratch", "fr": "Repartir de zéro", "ar": "ابدؤوا من الصفر" },
+  "ajustes.empezar_de_cero_aviso": {
+    "es": "Se borrará todo lo que habéis marcado en este móvil. ¿Seguro?",
+    "va": "S'esborrarà tot el que heu marcat en aquest mòbil. Segur?",
+    "en": "Everything you ticked off on this phone will be erased. Are you sure?",
+    "fr": "Tout ce que vous avez coché sur ce téléphone sera effacé. Vous êtes sûrs ?",
+    "ar": "سيُمحى كل ما علّمتموه على هذا الهاتف. هل أنتم متأكدون؟"
+  },
+  "ajustes.empezar_de_cero_si": { "es": "Sí, empezar de cero", "va": "Sí, començar de zero", "en": "Yes, start from scratch", "fr": "Oui, repartir de zéro", "ar": "نعم، ابدؤوا من الصفر" },
+
+  "instalar.titulo": { "es": "Cómo instalar Germina", "va": "Com instal·lar Germina", "en": "How to install Germina", "fr": "Comment installer Germina", "ar": "كيف تثبّتون Germina" },
+  "instalar.por_que": {
+    "es": "Así Germina se abre como una aplicación, funciona sin conexión y el móvil no borra lo que habéis marcado.",
+    "va": "Així Germina s'obri com una aplicació, funciona sense connexió i el mòbil no esborra el que heu marcat.",
+    "en": "That way Germina opens like an app, works without a connection, and your phone doesn't erase what you ticked off.",
+    "fr": "Ainsi Germina s'ouvre comme une application, fonctionne sans connexion et le téléphone n'efface pas ce que vous avez coché.",
+    "ar": "بهذه الطريقة تُفتح Germina كتطبيق، وتعمل دون اتصال، ولا يمحو الهاتف ما علّمتموه."
+  },
+  "instalar.iphone": { "es": "En iPhone (Safari)", "va": "A l'iPhone (Safari)", "en": "On iPhone (Safari)", "fr": "Sur iPhone (Safari)", "ar": "على آيفون (Safari)" },
+  "instalar.iphone_pasos": {
+    "es": "Tocad el botón de compartir y elegid «Añadir a pantalla de inicio».",
+    "va": "Toqueu el botó de compartir i trieu «Afegir a la pantalla d'inici».",
+    "en": "Tap the share button and choose “Add to Home Screen”.",
+    "fr": "Touchez le bouton de partage et choisissez « Sur l'écran d'accueil ».",
+    "ar": "المسوا زر المشاركة ثم اختاروا «إضافة إلى الشاشة الرئيسية»."
+  },
+  "instalar.android": { "es": "En Android (Chrome)", "va": "A Android (Chrome)", "en": "On Android (Chrome)", "fr": "Sur Android (Chrome)", "ar": "على أندرويد (Chrome)" },
+  "instalar.android_pasos": {
+    "es": "Abrid el menú de los tres puntos y elegid «Instalar aplicación» o «Añadir a pantalla de inicio».",
+    "va": "Obriu el menú dels tres punts i trieu «Instal·lar aplicació» o «Afegir a la pantalla d'inici».",
+    "en": "Open the three-dot menu and choose “Install app” or “Add to Home screen”.",
+    "fr": "Ouvrez le menu des trois points et choisissez « Installer l'application » ou « Ajouter à l'écran d'accueil ».",
+    "ar": "افتحوا قائمة النقاط الثلاث ثم اختاروا «تثبيت التطبيق» أو «إضافة إلى الشاشة الرئيسية»."
+  },
+
+  "pasar.titulo": { "es": "Llevar el jardín a otro móvil", "va": "Portar el jardí a un altre mòbil", "en": "Take the garden to another phone", "fr": "Emporter le jardin sur un autre téléphone", "ar": "نقل البستان إلى هاتف آخر" },
+  "pasar.explicacion": {
+    "es": "Abrid este enlace en el otro móvil. Lo que habéis marcado viaja dentro del propio enlace y no pasa por ningún servidor.",
+    "va": "Obriu aquest enllaç en l'altre mòbil. El que heu marcat viatja dins del mateix enllaç i no passa per cap servidor.",
+    "en": "Open this link on the other phone. What you ticked off travels inside the link itself and doesn't go through any server.",
+    "fr": "Ouvrez ce lien sur l'autre téléphone. Ce que vous avez coché voyage dans le lien lui-même et ne passe par aucun serveur.",
+    "ar": "افتحوا هذا الرابط على الهاتف الآخر. ما علّمتموه ينتقل داخل الرابط نفسه ولا يمرّ عبر أي خادم."
+  },
+  "pasar.enlace": { "es": "Enlace", "va": "Enllaç", "en": "Link", "fr": "Lien", "ar": "الرابط" },
+  "pasar.copiar_enlace": { "es": "Copiar el enlace", "va": "Copiar l'enllaç", "en": "Copy the link", "fr": "Copier le lien", "ar": "انسخوا الرابط" },
+  "pasar.copiado": { "es": "Copiado", "va": "Copiat", "en": "Copied", "fr": "Copié", "ar": "تم النسخ" },
+  "pasar.compartir": { "es": "Compartir", "va": "Compartir", "en": "Share", "fr": "Partager", "ar": "شاركوا" },
+  "pasar.qr": { "es": "Código QR", "va": "Codi QR", "en": "QR code", "fr": "Code QR", "ar": "رمز QR" },
+  "pasar.qr_ayuda": {
+    "es": "Escaneadlo con la cámara del otro móvil.",
+    "va": "Escanegeu-lo amb la càmera de l'altre mòbil.",
+    "en": "Scan it with the other phone's camera.",
+    "fr": "Scannez-le avec l'appareil photo de l'autre téléphone.",
+    "ar": "امسحوه بكاميرا الهاتف الآخر."
+  },
+  "pasar.texto": { "es": "Código para copiar a mano", "va": "Codi per a copiar a mà", "en": "Code to copy by hand", "fr": "Code à recopier à la main", "ar": "رمز للنسخ يدويًا" },
+  "pasar.texto_ayuda": {
+    "es": "Si no podéis abrir enlaces, copiad este código en el otro móvil.",
+    "va": "Si no podeu obrir enllaços, copieu aquest codi en l'altre mòbil.",
+    "en": "If you can't open links, copy this code on the other phone.",
+    "fr": "Si vous ne pouvez pas ouvrir de liens, recopiez ce code sur l'autre téléphone.",
+    "ar": "إذا تعذّر عليكم فتح الروابط، انسخوا هذا الرمز على الهاتف الآخر."
+  },
+
+  "recibir.titulo": { "es": "¿Añadir este jardín al vuestro?", "va": "Voleu afegir aquest jardí al vostre?", "en": "Add this garden to yours?", "fr": "Ajouter ce jardin au vôtre ?", "ar": "هل تضيفون هذا البستان إلى بستانكم؟" },
+  "recibir.explicacion": {
+    "es": "Se suma a lo que ya tenéis marcado. No se quita nada.",
+    "va": "Se suma al que ja teniu marcat. No s'hi lleva res.",
+    "en": "It adds to what you've already ticked off. Nothing is taken away.",
+    "fr": "Il s'ajoute à ce que vous avez déjà coché. Rien n'est enlevé.",
+    "ar": "يُضاف إلى ما علّمتموه من قبل. ولا يُحذف شيء."
+  },
+  "recibir.anadir": { "es": "Añadir", "va": "Afegir", "en": "Add", "fr": "Ajouter", "ar": "أضيفوا" },
+  "recibir.no": { "es": "No, gracias", "va": "No, gràcies", "en": "No, thanks", "fr": "Non, merci", "ar": "لا، شكرًا" },
+  "recibir.hecho": { "es": "Listo: vuestro jardín ya tiene lo nuevo.", "va": "Fet: el vostre jardí ja té el que és nou.", "en": "Done: your garden now has the new bits.", "fr": "C'est fait : votre jardin a maintenant du nouveau.", "ar": "تم: أصبح في بستانكم ما هو جديد." },
+  "recibir.error": {
+    "es": "Este código no se ha copiado bien. ¿Probáis a enviarlo otra vez?",
+    "va": "Aquest codi no s'ha copiat bé. Proveu d'enviar-lo una altra vegada?",
+    "en": "This code wasn't copied properly. Could you try sending it again?",
+    "fr": "Ce code n'a pas été bien copié. Pouvez-vous essayer de l'envoyer à nouveau ?",
+    "ar": "لم يُنسخ هذا الرمز جيدًا. هل تجرّبون إرساله مرة أخرى؟"
+  },
+
+  "imprimir.titulo": { "es": "Hoja de récords", "va": "Full de rècords", "en": "Record sheet", "fr": "Feuille de records", "ar": "ورقة الأرقام القياسية" },
+  "imprimir.ayuda": {
+    "es": "Pegadla en la nevera y apuntad ahí vuestros récords.",
+    "va": "Enganxeu-la a la nevera i apunteu-hi els vostres rècords.",
+    "en": "Stick it on the fridge and write your records there.",
+    "fr": "Collez-la sur le frigo et notez-y vos records.",
+    "ar": "ألصقوها على الثلاجة ودوّنوا فيها أرقامكم القياسية."
+  },
+  "imprimir.imprimir": { "es": "Imprimir", "va": "Imprimir", "en": "Print", "fr": "Imprimer", "ar": "اطبعوا" },
+
+  "boton.cancelar": { "es": "Cancelar", "va": "Cancel·lar", "en": "Cancel", "fr": "Annuler", "ar": "إلغاء" },
+  "boton.cerrar": { "es": "Cerrar", "va": "Tancar", "en": "Close", "fr": "Fermer", "ar": "إغلاق" },
+  "boton.reintentar": { "es": "Probar otra vez", "va": "Provar una altra vegada", "en": "Try again", "fr": "Réessayer", "ar": "جرّبوا مرة أخرى" },
+
+  "estado.cargando": { "es": "Cargando…", "va": "Carregant…", "en": "Loading…", "fr": "Chargement…", "ar": "جارٍ التحميل…" },
+  "error.cargar": {
+    "es": "No hemos podido cargar esto. ¿Probáis otra vez?",
+    "va": "No hem pogut carregar això. Ho proveu una altra vegada?",
+    "en": "We couldn't load this. Would you like to try again?",
+    "fr": "Nous n'avons pas pu charger ceci. Voulez-vous réessayer ?",
+    "ar": "لم نتمكن من تحميل هذا. هل تجرّبون مرة أخرى؟"
+  }
+}

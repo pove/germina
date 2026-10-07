@@ -15,17 +15,20 @@ const temporales = [];
 const clonar = () => structuredClone(EJEMPLO);
 
 /** Monta un contenido mínimo con la semilla dada y la valida. */
-function validar(semilla, archivo = 'semana-07.json', { cambiarMapa } = {}) {
+function validar(semilla, archivo = 'semana-07.json', { cambiarMapa, preparar } = {}) {
   const raiz = mkdtempSync(join(tmpdir(), 'germina-'));
   temporales.push(raiz);
   cpSync(join(RAIZ, 'config'), join(raiz, 'config'), { recursive: true });
   cpSync(join(RAIZ, 'src/assets/pictos'), join(raiz, 'src/assets/pictos'), { recursive: true });
+  cpSync(join(RAIZ, 'contenido/comun'), join(raiz, 'contenido/comun'), { recursive: true });
+  cpSync(join(RAIZ, 'contenido/ciclo-2/matematicas/objetivos.json'), join(raiz, 'contenido/ciclo-2/matematicas/objetivos.json'));
   const dirMapa = join(raiz, 'contenido/ciclo-2/matematicas');
   mkdirSync(join(dirMapa, '3'), { recursive: true });
   const mapa = JSON.parse(readFileSync(join(RAIZ, 'contenido/ciclo-2/matematicas/mapa-semanas.json'), 'utf8'));
   cambiarMapa?.(mapa);
   writeFileSync(join(dirMapa, 'mapa-semanas.json'), JSON.stringify(mapa));
   writeFileSync(join(dirMapa, '3', archivo), typeof semilla === 'string' ? semilla : JSON.stringify(semilla));
+  preparar?.(raiz);
   return validarContenido({ raiz });
 }
 
@@ -323,8 +326,9 @@ describe('regla 8: idiomas y marcado', () => {
 describe('regla 9: pictogramas', () => {
   it('un pictograma sin su SVG', () => {
     const s = clonar();
-    s.reto.pasos[0].pictograma = 'brujula'; // está en el esquema, pero aún no hay SVG
-    const e = unError(validar(s), 'falta el SVG');
+    s.reto.pasos[0].pictograma = 'brujula';
+    const r = validar(s, 'semana-07.json', { preparar: (raiz) => rmSync(join(raiz, 'src/assets/pictos/brujula.svg')) });
+    const e = unError(r, 'falta el SVG');
     expect(e.campo).toBe('reto.pasos[0].pictograma');
   });
 
@@ -332,5 +336,181 @@ describe('regla 9: pictogramas', () => {
     const s = clonar();
     s.reto.pasos[0].pictograma = 'dragon';
     unError(validar(s), 'pictograma');
+  });
+});
+
+// --- Archivos comunes y pictogramas ---
+
+/** Valida el contenido con una modificación en un archivo común (o en un pictograma). */
+function validarComun(archivoRelativo, cambiar) {
+  return validar(clonar(), 'semana-07.json', {
+    preparar: (raiz) => {
+      const ruta = join(raiz, archivoRelativo);
+      writeFileSync(ruta, cambiar(readFileSync(ruta, 'utf8')));
+    },
+  });
+}
+
+const comunError = (r, archivo, parte) => {
+  const e = r.errores.find((x) => x.archivo === archivo && `${x.campo} ${x.motivo}`.includes(parte));
+  expect(e, `ningún error de ${archivo} contiene «${parte}»: ${JSON.stringify(r.errores, null, 1)}`).toBeDefined();
+  return e;
+};
+
+/** Convierte una función que cambia el JSON en una que cambia el texto del archivo. */
+const sobreJson = (f) => (txt) => {
+  const j = JSON.parse(txt);
+  f(j);
+  return JSON.stringify(j);
+};
+
+describe('contenido/comun/textos-interfaz.json', () => {
+  const archivo = 'contenido/comun/textos-interfaz.json';
+
+  it('el real no tiene errores ni avisos', () => {
+    const r = validarContenido();
+    expect(r.errores).toEqual([]);
+    expect(r.avisos.filter((e) => e.archivo.startsWith('contenido/comun'))).toEqual([]);
+  });
+
+  it('falta un idioma', () => {
+    const r = validarComun(archivo, sobreJson((j) => delete j['boton.cancelar'].fr));
+    expect(comunError(r, archivo, 'boton.cancelar').motivo).toMatch(/falta «fr»/);
+  });
+
+  it('un texto vacío', () => {
+    const r = validarComun(archivo, sobreJson((j) => (j['boton.cancelar'].ar = '')));
+    comunError(r, archivo, 'boton.cancelar.ar');
+  });
+
+  it('una clave con tilde o mayúsculas', () => {
+    const r = validarComun(archivo, sobreJson((j) => (j['boton.Cancelación'] = j['boton.cancelar'])));
+    comunError(r, archivo, 'formato esperado');
+  });
+
+  it('una palabra de Germina en un idioma', () => {
+    const r = validarComun(archivo, sobreJson((j) => (j['boton.cancelar'].en = 'Do the homework')));
+    comunError(r, archivo, 'homework');
+  });
+
+  it('un hueco que cambia entre idiomas', () => {
+    const r = validarComun(archivo, sobreJson((j) => (j['semana.titulo'].va = 'Setmana {m}')));
+    comunError(r, archivo, 'huecos');
+  });
+
+  it('un hueco que falta en un idioma', () => {
+    const r = validarComun(archivo, sobreJson((j) => (j['semana.titulo'].fr = 'Semaine')));
+    comunError(r, archivo, 'huecos');
+  });
+
+  it('una llave suelta', () => {
+    const r = validarComun(archivo, sobreJson((j) => (j['semana.titulo'].es = 'Semana {n')));
+    comunError(r, archivo, 'llave suelta');
+  });
+
+  it('JSON roto y archivo ausente', () => {
+    comunError(validarComun(archivo, () => '{'), archivo, 'JSON');
+    const r = validar(clonar(), 'semana-07.json', { preparar: (raiz) => rmSync(join(raiz, archivo)) });
+    expect(comunError(r, archivo, 'no existe').campo).toBe('(archivo)');
+  });
+});
+
+describe('contenido/comun/glosario.json', () => {
+  const archivo = 'contenido/comun/glosario.json';
+
+  it('tiene al menos 40 términos', () => {
+    comunError(validarComun(archivo, sobreJson((j) => j.splice(10))), archivo, 'al menos 40');
+  });
+
+  it('un término sin traducción', () => {
+    const r = validarComun(archivo, sobreJson((j) => delete j[3].ar));
+    expect(comunError(r, archivo, '[3]').motivo).toMatch(/falta «ar»/);
+  });
+
+  it('un término repetido', () => {
+    comunError(validarComun(archivo, sobreJson((j) => (j[5].es = j[4].es))), archivo, 'ya está');
+  });
+
+  it('una palabra de Germina en una traducción o en la nota', () => {
+    comunError(validarComun(archivo, sobreJson((j) => (j[2].fr = 'devoirs'))), archivo, 'devoirs');
+    comunError(validarComun(archivo, sobreJson((j) => (j[2].nota = 'Es un ejercicio.'))), archivo, 'ejercicio');
+  });
+});
+
+describe('contenido/comun/como-ayudar.json', () => {
+  const archivo = 'contenido/comun/como-ayudar.json';
+
+  it('entre 5 y 7 ideas', () => {
+    comunError(validarComun(archivo, (txt) => JSON.stringify(JSON.parse(txt).slice(0, 4))), archivo, 'al menos 5');
+    comunError(validarComun(archivo, (txt) => JSON.stringify([...JSON.parse(txt), ...JSON.parse(txt)])), archivo, 'como mucho 7');
+  });
+
+  it('una idea con obligación', () => {
+    const r = validarComun(archivo, sobreJson((j) => (j[0].es = 'Hay que preguntar siempre.')));
+    comunError(r, archivo, 'hay que');
+  });
+});
+
+describe('objetivos.json', () => {
+  const archivo = 'contenido/ciclo-2/matematicas/objetivos.json';
+
+  it('el real está completo: 2 cursos × 3 trimestres', () => {
+    const j = JSON.parse(readFileSync(join(RAIZ, archivo), 'utf8'));
+    expect(Object.keys(j)).toEqual(['3', '4']);
+    for (const curso of Object.values(j)) expect(Object.keys(curso)).toEqual(['1', '2', '3']);
+  });
+
+  it('falta un trimestre', () => {
+    const r = validarComun(archivo, sobreJson((j) => delete j['4']['2']));
+    expect(comunError(r, archivo, '4').motivo).toMatch(/falta «2»/);
+  });
+
+  it('pocas frases', () => {
+    const r = validarComun(archivo, sobreJson((j) => (j['3']['1'] = j['3']['1'].slice(0, 2))));
+    comunError(r, archivo, 'al menos 3');
+  });
+
+  it('una operación que no cuadra o que cambia entre idiomas', () => {
+    const r = validarComun(archivo, (txt) => txt.replace('{{3 × 4}} es igual que {{4 × 3}}', '{{3 × 4 = 13}} es igual que {{4 × 3}}'));
+    comunError(r, archivo, 'no cuadra');
+    const r2 = validarComun(archivo, (txt) => txt.replace('{{3 × 4}} is the same', '{{3 × 5}} is the same'));
+    comunError(r2, archivo, 'no son idénticas');
+  });
+});
+
+describe('pictogramas', () => {
+  const ruta = (n) => `src/assets/pictos/${n}.svg`;
+  const esquema = JSON.parse(readFileSync(join(RAIZ, 'config/esquemas/semilla.schema.json'), 'utf8'));
+
+  it('los 38 de la lista del esquema existen y están bien hechos', () => {
+    expect(esquema.$defs.pictograma.enum).toHaveLength(38);
+    expect(validarContenido().errores.filter((e) => e.archivo.startsWith('src/assets/pictos'))).toEqual([]);
+  });
+
+  it('falta uno', () => {
+    const r = validar(clonar(), 'semana-07.json', { preparar: (raiz) => rmSync(join(raiz, ruta('dado'))) });
+    comunError(r, ruta('dado'), 'falta el SVG');
+  });
+
+  it('sobra uno que no está en el esquema', () => {
+    const r = validar(clonar(), 'semana-07.json', {
+      preparar: (raiz) => writeFileSync(join(raiz, ruta('dragon')), readFileSync(join(RAIZ, ruta('dado')))),
+    });
+    comunError(r, ruta('dragon'), 'no está en la lista');
+  });
+
+  it.each([
+    ['sin aria-hidden', (s) => s.replace(' aria-hidden="true"', ''), 'aria-hidden'],
+    ['con color fijo', (s) => s.replace('stroke="currentColor"', 'stroke="#2f6b3a"'), 'currentColor'],
+    ['con un color escondido', (s) => s.replace('<rect', '<rect fill="#f00"'), 'colores fijos'],
+    ['con un script', (s) => s.replace('</svg>', '<script>alert(1)</script></svg>'), 'no permitido'],
+    ['con un enlace externo', (s) => s.replace('<rect', '<image href="https://ejemplo.org/x.png"/><rect'), 'no permitido'],
+    ['con otra dirección', (s) => s.replace('</svg>', '<!-- https://ejemplo.org --></svg>'), 'otras direcciones'],
+    ['que no es un SVG', () => 'hola', 'no empieza con <svg>'],
+  ])('un SVG %s', (_nombre, cambiar, parte) => {
+    const r = validar(clonar(), 'semana-07.json', {
+      preparar: (raiz) => writeFileSync(join(raiz, ruta('dado')), cambiar(readFileSync(join(RAIZ, ruta('dado')), 'utf8'))),
+    });
+    comunError(r, ruta('dado'), parte);
   });
 });

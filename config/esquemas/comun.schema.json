@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://pove.github.io/germina/esquemas/comun.schema.json",
+  "title": "Archivos de contenido común de Germina",
+  "description": "Esquemas de textos-interfaz.json, glosario.json, como-ayudar.json y objetivos.json. Ver docs/especificacion.md, apartado 4.7.",
+  "$defs": {
+    "texto": {
+      "description": "Un texto en los cinco idiomas.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["es", "va", "en", "fr", "ar"],
+      "properties": {
+        "es": { "type": "string", "minLength": 1 },
+        "va": { "type": "string", "minLength": 1 },
+        "en": { "type": "string", "minLength": 1 },
+        "fr": { "type": "string", "minLength": 1 },
+        "ar": { "type": "string", "minLength": 1 }
+      }
+    },
+    "textosInterfaz": {
+      "description": "Clave en español sin tildes (boton.lo_hemos_jugado) → texto. Los huecos van entre llaves simples: {n}.",
+      "type": "object",
+      "minProperties": 1,
+      "propertyNames": { "pattern": "^[a-z][a-z0-9_]*(\\.[a-z0-9_]+)+$" },
+      "additionalProperties": { "$ref": "#/$defs/texto" }
+    },
+    "glosario": {
+      "description": "Vocabulario de clase en español y su traducción fija.",
+      "type": "array",
+      "minItems": 40,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["es", "va", "en", "fr", "ar"],
+        "properties": {
+          "es": { "type": "string", "minLength": 1 },
+          "va": { "type": "string", "minLength": 1 },
+          "en": { "type": "string", "minLength": 1 },
+          "fr": { "type": "string", "minLength": 1 },
+          "ar": { "type": "string", "minLength": 1 },
+          "nota": { "type": "string", "minLength": 1, "description": "Explicación en español para quien revise o traduzca." }
+        }
+      }
+    },
+    "comoAyudar": {
+      "description": "Cinco a siete ideas cortas, siempre las mismas a lo largo del curso.",
+      "type": "array",
+      "minItems": 5,
+      "maxItems": 7,
+      "items": { "$ref": "#/$defs/texto" }
+    },
+    "objetivos": {
+      "description": "Por curso y trimestre, de tres a cinco frases en lenguaje de familia.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["3", "4"],
+      "properties": {
+        "3": { "$ref": "#/$defs/objetivosDeUnCurso" },
+        "4": { "$ref": "#/$defs/objetivosDeUnCurso" }
+      }
+    },
+    "objetivosDeUnCurso": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["1", "2", "3"],
+      "properties": {
+        "1": { "$ref": "#/$defs/frases" },
+        "2": { "$ref": "#/$defs/frases" },
+        "3": { "$ref": "#/$defs/frases" }
+      }
+    },
+    "frases": { "type": "array", "minItems": 3, "maxItems": 5, "items": { "$ref": "#/$defs/texto" } }
+  }
+}

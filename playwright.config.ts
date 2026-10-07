@@ -12,6 +12,7 @@ export default defineConfig({
     baseURL: 'http://localhost:4173/germina/',
     ...devices['Pixel 5'],
     viewport: { width: 375, height: 812 },
+    locale: 'es-ES',
     channel,
   },
   webServer: {
