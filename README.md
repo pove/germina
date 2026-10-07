@@ -55,7 +55,8 @@ Requiere Node 22.
 ```bash
 npm ci
 npm run dev      # servidor local en http://localhost:5173/germina/
-npm run check    # tipos, tests, validación, construcción y extremo a extremo
+npm run check    # tipos, tests, validación, construcción, peso y extremo a extremo
+npm run peso     # presupuestos de peso de dist/ (200 KB la primera carga, 1,5 MB lo precargado)
 ```
 
 Otros comandos:

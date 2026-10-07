@@ -34,8 +34,8 @@ export interface Almacen {
  * Fija la fecha de hoy (el tiempo sigue corriendo y se puede adelantar con `page.clock`) y, si se pide,
  * deja guardado un estado inicial antes de abrir la web. Solo la primera carga de la pestaña.
  */
-export async function preparar(page: Page, opciones: { fecha?: string; almacen?: Almacen | null } = {}): Promise<void> {
-  await page.clock.install({ time: new Date(opciones.fecha ?? MIERCOLES_SEMANA_7) });
+export async function preparar(page: Page, opciones: { fecha?: string; almacen?: Almacen | null; sinReloj?: boolean } = {}): Promise<void> {
+  if (!opciones.sinReloj) await page.clock.install({ time: new Date(opciones.fecha ?? MIERCOLES_SEMANA_7) });
   const { almacen } = opciones;
   if (almacen) {
     const datos = { v: 1, idioma: null, cursos: [CURSO_3], cursoActivo: CURSO_3, ultimoAnoCurso: 2026, progreso: {}, ...almacen };
