@@ -169,6 +169,29 @@ describe('formato binario (6.3)', () => {
     expect(r.ok && r.recibido.cursos).toEqual(['2/matematicas/3', '1/matematicas/2', '2/matematicas/4', '2/lectura/3']);
   });
 
+  it('todos los cursos viajan, aunque no tengan nada marcado', () => {
+    const d: Datos = { ...datosVacios(), cursos: ['2/matematicas/3', '2/matematicas/4'], cursoActivo: '2/matematicas/3', ultimoAnoCurso: 2026 };
+    const r = decodificar(codigoDeDatos(d));
+    expect(r.ok && r.recibido.cursos).toEqual(['2/matematicas/3', '2/matematicas/4']);
+    expect(r.ok && r.recibido.progreso).toEqual({});
+  });
+
+  it('sin último año de curso se usa el que pasa quien llama; sin ninguno no se puede', () => {
+    const d: Datos = { ...datosVacios(), cursos: ['2/matematicas/3'], ultimoAnoCurso: null };
+    const con = decodificar(codigoDeDatos(d, 2026));
+    expect(con.ok && con.recibido.cursos).toEqual(['2/matematicas/3']);
+    expect(codificar(d, 2026)[2]).toBe(26);
+    const sin = decodificar(codigoDeDatos(d));
+    expect(sin.ok && sin.recibido.cursos).toEqual([]);
+    const raro = decodificar(codigoDeDatos(d, 1999));
+    expect(raro.ok && raro.recibido.cursos).toEqual([]);
+  });
+
+  it('un curso con progreso no se repite como bloque vacío', () => {
+    const d: Datos = { ...ejemplo, cursos: ['2/matematicas/3'] };
+    expect(codificar(d)[1]).toBe(2); // 2025 y 2026, ninguno más
+  });
+
   it('los cursos de un área sin código y las claves raras no se codifican', () => {
     const d: Datos = {
       ...datosVacios(),

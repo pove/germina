@@ -112,7 +112,7 @@ interface Bloque {
 const mascara = (hecho: readonly Elemento[]): number => hecho.reduce((m, e) => m | PESO[e], 0);
 const elementosDe = (m: number): Elemento[] => ELEMENTOS.filter((e) => m & PESO[e]);
 
-function bloquesDe(datos: Datos): Bloque[] {
+function bloquesDe(datos: Datos, anoRespaldo: number | null): Bloque[] {
   const bloques = new Map<string, Bloque>();
   const dar = (ano: number, curso: Curso): Bloque => {
     const clave = `${ano}/${claveCurso(curso)}`;
@@ -133,12 +133,14 @@ function bloquesDe(datos: Datos): Bloque[] {
       if (semilla.record !== undefined) b.records.set(id.verano ? 100 + id.n : id.n, semilla.record);
     }
   }
-  // Los cursos guardados sin nada marcado también viajan, como bloque vacío del último año de curso.
-  if (datos.ultimoAnoCurso !== null) {
+  // «Todos los cursos»: los guardados sin nada marcado también viajan, como bloque vacío del último año
+  // de curso (o, si no se sabe, del año de curso actual que pasa quien llama).
+  const anoVacios = datos.ultimoAnoCurso ?? anoRespaldo;
+  if (anoVacios !== null && anoVacios >= 2000 && anoVacios <= 2255) {
     for (const c of datos.cursos) {
       const curso = leerClaveCurso(c);
       if (!curso || CODIGOS_AREA[curso.area] === undefined) continue;
-      if (![...bloques.values()].some((b) => claveCurso(b.curso) === c)) dar(datos.ultimoAnoCurso, curso);
+      if (![...bloques.values()].some((b) => claveCurso(b.curso) === c)) dar(anoVacios, curso);
     }
   }
   return [...bloques.values()].sort(
@@ -153,8 +155,9 @@ function bitmap(marcados: Iterable<number>, bytes: number): number[] {
   return salida;
 }
 
-export function codificar(datos: Datos): Uint8Array {
-  const bloques = bloquesDe(datos);
+/** @param anoRespaldo año de curso actual: se usa para los cursos sin nada marcado si no se sabe `ultimoAnoCurso`. */
+export function codificar(datos: Datos, anoRespaldo: number | null = null): Uint8Array {
+  const bloques = bloquesDe(datos, anoRespaldo);
   if (bloques.length > 255) throw new RangeError('Hay demasiados cursos y años para un solo enlace');
   const bytes: number[] = [VERSION_ENLACE, bloques.length];
   for (const b of bloques) {
@@ -173,7 +176,7 @@ export function codificar(datos: Datos): Uint8Array {
 }
 
 /** El código en Base32, sin guiones. */
-export const codigoDeDatos = (datos: Datos): string => base32Codificar(codificar(datos));
+export const codigoDeDatos = (datos: Datos, anoRespaldo: number | null = null): string => base32Codificar(codificar(datos, anoRespaldo));
 
 class Lector {
   pos = 0;

@@ -54,7 +54,7 @@ Ejemplo: `#/2/matematicas/3/semana/7`. Una ruta desconocida o una semana inexist
 ```
 config/
   catalogo.json            ciclos y áreas; cuáles están activos (v1: solo 2 · matematicas)
-  curso.json               regla de la semana 1, inicioCurso opcional, 41 semanas, trimestres
+  curso.json               regla de la semana 1, 41 semanas, trimestres
   idiomas.json             es, va, en, fr, ar (dir: rtl)
   curriculo/matematicas.json  saberes de los tres ciclos y criterios por ciclo
   esquemas/semilla.schema.json  esquema JSON de una semilla
@@ -77,8 +77,8 @@ docs/                      especificación, tareas y documentos generados
 
 Sin calendario por año, sin festivos ni vacaciones.
 
-- **Semana 1** es la semana (de lunes a domingo) que contiene el **9 de septiembre**. Si `curso.json` trae `inicioCurso` para ese año (`{"2027": "2027-09-08"}`), manda esa fecha: la semana 1 es la que la contiene.
-- **Año de curso:** el año del 9 de septiembre más reciente cuya semana 1 ya haya empezado. Del 1 de enero al 6 de septiembre de 2027, el año de curso es 2026.
+- **Semana 1** es la primera semana completa de septiembre: la que empieza el primer lunes de septiembre (de lunes a domingo, entera dentro de septiembre). Es una regla, no una fecha: vale igual para cualquier año y no hay excepciones por año.
+- **Año de curso:** el año del primer lunes de septiembre más reciente que ya ha llegado. Del 1 de enero hasta el domingo anterior al primer lunes de septiembre, el año de curso es el anterior (en 2027, hasta el 5 de septiembre: año de curso 2026).
 - **Semanas 1 a 41:** curso. **Desde la 42 hasta la nueva semana 1:** verano (el inicio abre `…/verano/1` y el jardín muestra los 10 retos de verano).
 - **Trimestres:** semanas 1–15, 16–28 y 29–41 (solo para «Qué aprenden» y el mapa).
 - Fechas locales del dispositivo, calculadas con año, mes y día (sin horas) para evitar los saltos del horario de verano. Funciones puras y con tests.
@@ -216,7 +216,7 @@ Una planta por semana, en tres estados: semilla (nada marcado), brote (alguna pr
 
 ### 6.3 Enlace de progreso
 
-Lleva todos los cursos y años guardados. Formato binario, versión 1:
+Lleva todos los cursos y años guardados; un curso guardado sin nada marcado viaja como un bloque vacío del último año de curso. Formato binario, versión 1:
 
 ```
 byte  versión (1)

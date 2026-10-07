@@ -23,7 +23,7 @@ Cada etapa cabe en una sesión de trabajo y termina con su comprobación. No se 
 ## Etapa 3. Núcleo lógico, sin interfaz
 
 **Entrega:** módulos puros en `src/nucleo/` con tests de unidad:
-- `calendario.ts`: semana 1, año de curso, semana actual, verano, trimestre y «hoy» (pregunta 1–5 o fin de semana). Tests con fechas límite: 6, 7, 8 y 9 de septiembre, 31 de diciembre, semanas 41 y 42, cambio de horario de verano y `inicioCurso`.
+- `calendario.ts`: semana 1, año de curso, semana actual, verano, trimestre y «hoy» (pregunta 1–5 o fin de semana). Tests con fechas límite: el primer lunes de septiembre y el día anterior (con el 1 de septiembre en cada día de la semana), 31 de diciembre, semanas 41 y 42 y cambio de horario de verano.
 - `rutas.ts`: interpretar y construir las rutas del apartado 3.
 - `almacen.ts`: leer, escribir y migrar el formato del apartado 6.1, tolerando basura y la ausencia de `localStorage`.
 - `enlace.ts`: codificar y decodificar el formato binario del apartado 6.3 (Base32 de Crockford y CRC-16/CCITT-FALSE). Tests de ida y vuelta, código dañado, versión desconocida y lectura con O/0 e I/L/1.

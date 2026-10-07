@@ -10,17 +10,12 @@ export interface Fecha {
 }
 
 export interface ConfigCurso {
-  readonly diaReferencia: { readonly mes: number; readonly dia: number };
-  /** Año → fecha `AAAA-MM-DD` cuya semana es la semana 1 ese año. */
-  readonly inicioCurso: Readonly<Record<string, string>>;
   readonly semanas: number;
   readonly trimestres: readonly { readonly trimestre: number; readonly desde: number; readonly hasta: number }[];
 }
 
 /** Igual que `config/curso.json` (lo comprueba un test). */
 export const CURSO_POR_DEFECTO: ConfigCurso = {
-  diaReferencia: { mes: 9, dia: 9 },
-  inicioCurso: {},
   semanas: SEMANAS,
   trimestres: [
     { trimestre: 1, desde: 1, hasta: 15 },
@@ -55,22 +50,19 @@ export const lunesDe = (f: Fecha): Fecha => deDias(aDias(f) - diaDeLaSemana(f));
 
 export const mismaFecha = (x: Fecha, y: Fecha): boolean => x.a === y.a && x.m === y.m && x.d === y.d;
 
-function leerFechaIso(texto: string | undefined): Fecha | null {
-  const m = texto === undefined ? null : /^(\d{4})-(\d{2})-(\d{2})$/.exec(texto);
-  if (!m) return null;
-  const f = { a: Number(m[1]), m: Number(m[2]), d: Number(m[3]) };
-  return mismaFecha(deDias(aDias(f)), f) ? f : null; // descarta el 31 de febrero y similares
+/**
+ * Lunes de la semana 1 del año de curso que empieza en `ano`: el primer lunes de septiembre,
+ * que es donde empieza la primera semana (de lunes a domingo) entera dentro de septiembre.
+ * Es una regla, no una fecha: no depende de ningún año ni día concreto.
+ */
+export function inicioDelCurso(ano: number): Fecha {
+  const primero: Fecha = { a: ano, m: 9, d: 1 };
+  return deDias(aDias(primero) + ((7 - diaDeLaSemana(primero)) % 7));
 }
 
-/** Lunes de la semana 1 del año de curso que empieza en `ano`. */
-export function inicioDelCurso(ano: number, config: ConfigCurso = CURSO_POR_DEFECTO): Fecha {
-  const corregida = leerFechaIso(config.inicioCurso[String(ano)]);
-  return lunesDe(corregida ?? { a: ano, m: config.diaReferencia.mes, d: config.diaReferencia.dia });
-}
-
-/** El año del día de referencia más reciente cuya semana 1 ya ha empezado. */
-export function anoDeCurso(f: Fecha, config: ConfigCurso = CURSO_POR_DEFECTO): number {
-  return aDias(f) >= aDias(inicioDelCurso(f.a, config)) ? f.a : f.a - 1;
+/** El año del primer lunes de septiembre más reciente, es decir, de la semana 1 que ya ha empezado. */
+export function anoDeCurso(f: Fecha): number {
+  return aDias(f) >= aDias(inicioDelCurso(f.a)) ? f.a : f.a - 1;
 }
 
 /** Trimestre (1 a 3) de una semana del curso, o `null` si no es del curso. */
@@ -80,15 +72,15 @@ export function trimestreDe(semana: number, config: ConfigCurso = CURSO_POR_DEFE
 
 /** Dónde cae una fecha: una semana del curso (1 a 41) o el verano. */
 export function situacion(f: Fecha, config: ConfigCurso = CURSO_POR_DEFECTO): Situacion {
-  const anoCurso = anoDeCurso(f, config);
-  const semana = Math.floor((aDias(f) - aDias(inicioDelCurso(anoCurso, config))) / 7) + 1;
+  const anoCurso = anoDeCurso(f);
+  const semana = Math.floor((aDias(f) - aDias(inicioDelCurso(anoCurso))) / 7) + 1;
   const trimestre = trimestreDe(semana, config);
   return semana <= config.semanas && trimestre !== null ? { tipo: 'curso', anoCurso, semana, trimestre } : { tipo: 'verano', anoCurso };
 }
 
 /** Lunes de la semana `n` (1 a 41) del año de curso dado. */
-export function lunesDeSemana(anoCurso: number, n: number, config: ConfigCurso = CURSO_POR_DEFECTO): Fecha {
-  return deDias(aDias(inicioDelCurso(anoCurso, config)) + (n - 1) * 7);
+export function lunesDeSemana(anoCurso: number, n: number): Fecha {
+  return deDias(aDias(inicioDelCurso(anoCurso)) + (n - 1) * 7);
 }
 
 /** Pregunta de hoy: lunes = 1 … viernes = 5; sábado y domingo no hay. */

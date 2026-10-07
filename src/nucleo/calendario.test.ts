@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import {
   CURSO_POR_DEFECTO, anoDeCurso, diaDeLaSemana, fechaDeDate, hoy, inicioDelCurso, lunesDe, lunesDeSemana, mismaFecha,
-  situacion, trimestreDe, type ConfigCurso, type Fecha,
+  situacion, trimestreDe, type Fecha,
 } from './calendario';
 
 const f = (a: number, m: number, d: number): Fecha => ({ a, m, d });
@@ -10,10 +10,14 @@ const f = (a: number, m: number, d: number): Fecha => ({ a, m, d });
 describe('configuración', () => {
   it('coincide con config/curso.json', () => {
     const json = JSON.parse(readFileSync('config/curso.json', 'utf8'));
-    expect(CURSO_POR_DEFECTO.diaReferencia).toEqual(json.diaReferencia);
-    expect(CURSO_POR_DEFECTO.inicioCurso).toEqual(json.inicioCurso);
     expect(CURSO_POR_DEFECTO.semanas).toBe(json.semanas);
     expect(CURSO_POR_DEFECTO.trimestres).toEqual(json.trimestres);
+  });
+
+  it('la semana 1 no depende de ninguna fecha ni año concretos', () => {
+    const json = JSON.parse(readFileSync('config/curso.json', 'utf8'));
+    expect(Object.keys(json)).not.toContain('inicioCurso');
+    expect(Object.keys(json)).not.toContain('diaReferencia');
   });
 });
 
@@ -37,32 +41,41 @@ describe('días de la semana', () => {
   });
 });
 
-describe('semana 1 y año de curso: límites de septiembre', () => {
-  // 2026: el 9 de septiembre es miércoles, así que la semana 1 empieza el lunes 7.
-  it('2026: 6, 7, 8 y 9 de septiembre', () => {
+describe('semana 1: la primera semana completa de septiembre', () => {
+  // [año, día de la semana del 1 de septiembre, día de septiembre en que empieza la semana 1]
+  it.each([
+    [2025, 'lunes', 1],
+    [2026, 'martes', 7],
+    [2027, 'miércoles', 6],
+    [2022, 'jueves', 5],
+    [2023, 'viernes', 4],
+    [2029, 'sábado', 3],
+    [2024, 'domingo', 2],
+  ])('%i (el 1 de septiembre es %s): la semana 1 empieza el %i', (ano, _dia, lunes) => {
+    expect(inicioDelCurso(ano)).toEqual(f(ano, 9, lunes));
+    expect(diaDeLaSemana(inicioDelCurso(ano))).toBe(0);
+    // La semana 1 está entera dentro de septiembre.
+    expect(lunesDeSemana(ano, 1)).toEqual(f(ano, 9, lunes));
+    expect(lunes + 6).toBeLessThanOrEqual(30);
+    // El domingo anterior todavía es verano del año anterior; el lunes ya es la semana 1.
+    const antes = lunes === 1 ? f(ano, 8, 31) : f(ano, 9, lunes - 1);
+    expect(situacion(antes)).toEqual({ tipo: 'verano', anoCurso: ano - 1 });
+    expect(situacion(f(ano, 9, lunes))).toEqual({ tipo: 'curso', anoCurso: ano, semana: 1, trimestre: 1 });
+    expect(situacion(f(ano, 9, lunes + 6))).toMatchObject({ tipo: 'curso', anoCurso: ano, semana: 1 });
+    expect(situacion(f(ano, 9, lunes + 7))).toMatchObject({ tipo: 'curso', anoCurso: ano, semana: 2 });
+  });
+
+  it('el 9 de septiembre no tiene nada de especial', () => {
+    // 2025: la semana 1 ya empezó el día 1; 2024: empezó el día 2.
+    expect(situacion(f(2025, 9, 9))).toMatchObject({ semana: 2 });
+    expect(situacion(f(2024, 9, 9))).toMatchObject({ semana: 2 });
+    expect(situacion(f(2026, 9, 9))).toMatchObject({ semana: 1 });
+  });
+
+  it('septiembre de 2026, día a día', () => {
     expect(situacion(f(2026, 9, 6))).toEqual({ tipo: 'verano', anoCurso: 2025 });
-    expect(situacion(f(2026, 9, 7))).toEqual({ tipo: 'curso', anoCurso: 2026, semana: 1, trimestre: 1 });
-    expect(situacion(f(2026, 9, 8))).toEqual({ tipo: 'curso', anoCurso: 2026, semana: 1, trimestre: 1 });
-    expect(situacion(f(2026, 9, 9))).toEqual({ tipo: 'curso', anoCurso: 2026, semana: 1, trimestre: 1 });
-    expect(situacion(f(2026, 9, 13))).toMatchObject({ semana: 1 });
+    for (const d of [7, 8, 9, 10, 11, 12, 13]) expect(situacion(f(2026, 9, d))).toMatchObject({ semana: 1 });
     expect(situacion(f(2026, 9, 14))).toMatchObject({ semana: 2 });
-  });
-
-  it('el inicio del curso es el lunes de la semana del 9', () => {
-    expect(inicioDelCurso(2026)).toEqual(f(2026, 9, 7));
-    expect(inicioDelCurso(2027)).toEqual(f(2027, 9, 6)); // jueves
-    expect(inicioDelCurso(2028)).toEqual(f(2028, 9, 4)); // sábado
-    expect(inicioDelCurso(2024)).toEqual(f(2024, 9, 9)); // lunes
-  });
-
-  it('cuando el 9 es lunes, ese día empieza la semana 1 y el domingo anterior es verano', () => {
-    expect(situacion(f(2024, 9, 8))).toEqual({ tipo: 'verano', anoCurso: 2023 });
-    expect(situacion(f(2024, 9, 9))).toMatchObject({ tipo: 'curso', anoCurso: 2024, semana: 1 });
-  });
-
-  it('cuando el 9 es sábado, la semana 1 empieza el lunes 4', () => {
-    expect(situacion(f(2028, 9, 3))).toMatchObject({ tipo: 'verano', anoCurso: 2027 });
-    expect(situacion(f(2028, 9, 4))).toMatchObject({ tipo: 'curso', anoCurso: 2028, semana: 1 });
   });
 
   it('el año de curso cambia con el lunes de la semana 1, no con el 1 de enero', () => {
@@ -70,6 +83,11 @@ describe('semana 1 y año de curso: límites de septiembre', () => {
     expect(anoDeCurso(f(2027, 1, 1))).toBe(2026);
     expect(anoDeCurso(f(2027, 9, 5))).toBe(2026);
     expect(anoDeCurso(f(2027, 9, 6))).toBe(2027);
+  });
+
+  it('un año lejano funciona igual', () => {
+    expect(inicioDelCurso(2100)).toEqual(f(2100, 9, 6)); // 1 de septiembre de 2100: miércoles... el lunes siguiente
+    expect(diaDeLaSemana(inicioDelCurso(2100))).toBe(0);
   });
 });
 
@@ -103,30 +121,6 @@ describe('trimestres', () => {
   });
   it('lo dice la situación', () => {
     expect(situacion(f(2026, 12, 21))).toMatchObject({ semana: 16, trimestre: 2 });
-  });
-});
-
-describe('inicioCurso corrige un año concreto', () => {
-  const config: ConfigCurso = { ...CURSO_POR_DEFECTO, inicioCurso: { '2027': '2027-09-13' } };
-
-  it('la semana 1 pasa a ser la que contiene esa fecha', () => {
-    expect(inicioDelCurso(2027, config)).toEqual(f(2027, 9, 13));
-    expect(situacion(f(2027, 9, 12), config)).toEqual({ tipo: 'verano', anoCurso: 2026 });
-    expect(situacion(f(2027, 9, 13), config)).toMatchObject({ tipo: 'curso', anoCurso: 2027, semana: 1 });
-  });
-
-  it('no afecta a otros años', () => {
-    expect(inicioDelCurso(2026, config)).toEqual(f(2026, 9, 7));
-  });
-
-  it('una fecha corregida a mitad de semana vale igual', () => {
-    const c: ConfigCurso = { ...CURSO_POR_DEFECTO, inicioCurso: { '2027': '2027-09-08' } };
-    expect(inicioDelCurso(2027, c)).toEqual(f(2027, 9, 6));
-  });
-
-  it.each(['2027-02-31', 'mañana', '2027-9-8', ''])('ignora una fecha no válida («%s»)', (texto) => {
-    const c: ConfigCurso = { ...CURSO_POR_DEFECTO, inicioCurso: { '2027': texto } };
-    expect(inicioDelCurso(2027, c)).toEqual(f(2027, 9, 6));
   });
 });
 
