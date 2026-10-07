@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "nota": "Ciclos y áreas del artículo 9 del Decreto 106/2022 (redacción de 2026). El código numérico de cada área se usa en el enlace de progreso: nunca se reordena ni se reutiliza; las áreas nuevas se añaden al final.",
+  "areas": [
+    { "id": "matematicas", "codigo": 1, "nombre": { "es": "Matemáticas", "va": "Matemàtiques", "en": "Maths", "fr": "Mathématiques", "ar": "الرياضيات" } },
+    { "id": "lengua-castellana", "codigo": 2, "nombre": { "es": "Lengua Castellana", "va": "Llengua Castellana", "en": "Spanish", "fr": "Espagnol", "ar": "اللغة الإسبانية" } },
+    { "id": "valenciano", "codigo": 3, "nombre": { "es": "Valenciano", "va": "Valencià", "en": "Valencian", "fr": "Valencien", "ar": "اللغة البلنسية" } },
+    { "id": "lengua-extranjera", "codigo": 4, "nombre": { "es": "Lengua Extranjera", "va": "Llengua Estrangera", "en": "Foreign language", "fr": "Langue étrangère", "ar": "اللغة الأجنبية" } },
+    { "id": "conocimiento-medio", "codigo": 5, "nombre": { "es": "Conocimiento del Medio", "va": "Coneixement del Medi", "en": "Science and society", "fr": "Découverte du monde", "ar": "معرفة البيئة" } },
+    { "id": "lectura", "codigo": 6, "tiempoEspecifico": true, "nombre": { "es": "Tiempo de lectura", "va": "Temps de lectura", "en": "Reading time", "fr": "Temps de lecture", "ar": "وقت القراءة" } }
+  ],
+  "ciclos": [
+    { "ciclo": 1, "cursos": [1, 2], "areasActivas": [] },
+    { "ciclo": 2, "cursos": [3, 4], "areasActivas": ["matematicas"] },
+    { "ciclo": 3, "cursos": [5, 6], "areasActivas": [] }
+  ],
+  "nota2": "El selector de área solo aparece cuando un ciclo tiene más de un área activa."
+}

@@ -1,0 +1,24 @@
+:root {
+  color-scheme: light;
+  --fondo: #fbf8f1;
+  --texto: #1f2a1f;
+  --acento: #2f6b3a;
+}
+
+body {
+  margin: 0;
+  background: var(--fondo);
+  color: var(--texto);
+  font: 1rem/1.5 system-ui, sans-serif;
+}
+
+main {
+  max-inline-size: 40rem;
+  margin-inline: auto;
+  padding: 2rem 1rem;
+}
+
+h1 {
+  margin-block: 0 0.5rem;
+  color: var(--acento);
+}

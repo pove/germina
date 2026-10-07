@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s07",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 7,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Cuando no llega: abrir una decena",
+    "va": "Quan no n'hi ha prou: obrir una desena",
+    "en": "Not enough? Open a ten",
+    "fr": "Pas assez ? On ouvre une dizaine",
+    "ar": "لا يكفي؟ نفتح عشرة"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren qué hacer cuando, en una resta, arriba hay menos unidades que abajo: se abre una decena y se convierte en 10 unidades. En clase lo llaman «resta con llevada».",
+    "va": "Aquesta setmana descobreixen què fer quan, en una resta, dalt hi ha menys unitats que baix: s'obri una desena (decena) i es converteix en 10 unitats. A classe ho diuen en castellà: «resta con llevada».",
+    "en": "This week they discover what to do when, in a subtraction, there are fewer ones on top than below: you open a ten (decena) and turn it into 10 ones. In class, in Spanish, they call it «resta con llevada».",
+    "fr": "Cette semaine, on découvre quoi faire quand, dans une soustraction, il y a moins d'unités en haut qu'en bas : on ouvre une dizaine (decena) et on la change en 10 unités. En classe, en espagnol, on l'appelle « resta con llevada » (soustraction avec retenue).",
+    "ar": "هذا الأسبوع يكتشف الأطفال ماذا نفعل في الطرح عندما تكون الآحاد في الأعلى أقل منها في الأسفل: نفتح عشرة (decena) ونحوّلها إلى 10 آحاد. في القسم يسمّونها بالإسبانية «resta con llevada» (الطرح مع الاستلاف)."
+  },
+  "comoAyudar": {
+    "es": "Si sale un resultado raro, preguntad «¿cómo lo has pensado?» antes de decir nada. Muchas veces el despiste aparece solo al explicarlo.",
+    "va": "Si ix un resultat estrany, pregunteu «com ho has pensat?» abans de dir res. Moltes vegades la distracció apareix tota sola en explicar-ho.",
+    "en": "If an odd answer comes up, ask “How did you work it out?” before saying anything. Often the slip shows up by itself while explaining.",
+    "fr": "Si un résultat bizarre apparaît, demandez « Comment tu as réfléchi ? » avant de dire quoi que ce soit. Souvent, l'étourderie se voit toute seule en l'expliquant.",
+    "ar": "إذا ظهرت نتيجة غريبة، اسألوا «كيف فكّرت؟» قبل أن تقولوا أي شيء. كثيرًا ما يظهر السهو وحده أثناء الشرح."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.operaciones.frustracion"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Vasos de diez",
+      "va": "Gots de deu",
+      "en": "Cups of ten",
+      "fr": "Des verres de dix",
+      "ar": "أكواب العشرة"
+    },
+    "material": [
+      {
+        "es": "Un puñado de legumbres secas o botones",
+        "va": "Un grapat de llegums secs o botons",
+        "en": "A handful of dried beans or buttons",
+        "fr": "Une poignée de légumes secs ou de boutons",
+        "ar": "حفنة من البقول الجافة أو الأزرار"
+      },
+      {
+        "es": "5 vasos pequeños",
+        "va": "5 gots menuts",
+        "en": "5 small cups",
+        "fr": "5 petits verres",
+        "ar": "5 أكواب صغيرة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "Meted 10 legumbres en cada vaso hasta llenar 4 vasos y dejad 2 sueltas al lado. Eso es el número 42: 4 decenas y 2 unidades.",
+          "va": "Poseu 10 llegums en cada got fins a omplir-ne 4 i deixeu-ne 2 de solts al costat. Això és el número 42: 4 desenes i 2 unitats.",
+          "en": "Put 10 beans in each cup until 4 cups are full, and leave 2 loose beans beside them. That is the number 42: 4 tens and 2 ones.",
+          "fr": "Mettez 10 grains dans chaque verre jusqu'à remplir 4 verres, et laissez-en 2 à côté. C'est le nombre 42 : 4 dizaines et 2 unités.",
+          "ar": "ضعوا 10 حبات في كل كوب حتى تمتلئ 4 أكواب، واتركوا حبتين منفردتين بجانبها. هذا هو العدد 42: 4 عشرات و2 آحاد."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Hay que quitar 17. Las 7 sueltas no salen de 2, así que abrid un vaso y echad sus 10 legumbres con las sueltas. Ahora hay 3 vasos y 12 sueltas.",
+          "va": "Cal llevar-ne 17. Els 7 solts no ixen de 2, així que obriu un got i tireu-ne els 10 llegums amb els solts. Ara hi ha 3 gots i 12 solts.",
+          "en": "You need to take away 17. You can't take 7 loose beans from 2, so open a cup and pour its 10 beans in with the loose ones. Now there are 3 cups and 12 loose beans.",
+          "fr": "Il faut en enlever 17. On ne peut pas enlever 7 grains de 2, alors ouvrez un verre et versez ses 10 grains avec les autres. Maintenant, il y a 3 verres et 12 grains à côté.",
+          "ar": "علينا أن نأخذ 17. لا يمكن أخذ 7 حبات من حبتين، لذلك افتحوا كوبًا وضعوا حباته العشر مع الحبات المنفردة. الآن هناك 3 أكواب و12 حبة منفردة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Quitad 7 sueltas y 1 vaso. ¿Qué queda? 2 vasos y 5 sueltas: 25.",
+          "va": "Lleveu 7 solts i 1 got. Què queda? 2 gots i 5 solts: 25.",
+          "en": "Take away 7 loose beans and 1 cup. What is left? 2 cups and 5 loose beans: 25.",
+          "fr": "Enlevez 7 grains et 1 verre. Que reste-t-il ? 2 verres et 5 grains : 25.",
+          "ar": "خذوا 7 حبات منفردة وكوبًا واحدًا. ماذا بقي؟ كوبان و5 حبات منفردة: 25."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujadlo en papel (un palito por vaso, un punto por suelta) y escribid la resta: {{42 − 17 = 25}}.",
+          "va": "Dibuixeu-ho en paper (un pal per got, un punt per solt) i escriviu la resta: {{42 − 17 = 25}}.",
+          "en": "Draw it on paper (a line for each cup, a dot for each loose bean) and write the subtraction: {{42 − 17 = 25}}.",
+          "fr": "Dessinez-le sur papier (un trait par verre, un point par grain) et écrivez la soustraction : {{42 − 17 = 25}}.",
+          "ar": "ارسموا ذلك على الورق (خط لكل كوب ونقطة لكل حبة) واكتبوا عملية الطرح: {{42 − 17 = 25}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con restas en las que solo haya que abrir un vaso y quitar pocas sueltas, como {{23 − 8}}.",
+      "va": "Comenceu amb restes on només calga obrir un got i llevar pocs solts, com ara {{23 − 8}}.",
+      "en": "Start with subtractions where you only need to open one cup and take away a few loose beans, like {{23 − 8}}.",
+      "fr": "Commencez par des soustractions où il suffit d'ouvrir un verre et d'enlever peu de grains, comme {{23 − 8}}.",
+      "ar": "ابدؤوا بعمليات طرح لا تحتاج إلا إلى فتح كوب واحد وأخذ حبات قليلة، مثل {{23 − 8}}."
+    },
+    "masDificil": {
+      "es": "Añadid platos de 100 legumbres (o un papel que diga «100») y probad {{132 − 57}}: ¡hay que abrir un vaso y también un plato!",
+      "va": "Afegiu plats de 100 llegums (o un paper que diga «100») i proveu {{132 − 57}}: cal obrir un got i també un plat!",
+      "en": "Add plates of 100 beans (or a piece of paper that says “100”) and try {{132 − 57}}: you need to open a cup and a plate too!",
+      "fr": "Ajoutez des assiettes de 100 grains (ou un papier où il est écrit « 100 ») et essayez {{132 − 57}} : il faut ouvrir un verre et aussi une assiette !",
+      "ar": "أضيفوا صحونًا فيها 100 حبة (أو ورقة مكتوبًا عليها «100») وجرّبوا {{132 − 57}}: يجب فتح كوب وصحن أيضًا!"
+    },
+    "paraQueSirve": {
+      "es": "Ver con las manos qué significa «llevarse una» hace que la resta en papel tenga sentido y no sea un truco que se olvida.",
+      "va": "Veure amb les mans què vol dir «portar-se'n una» fa que la resta en paper tinga sentit i no siga un truc que s'oblida.",
+      "en": "Seeing with their hands what “borrowing” means makes subtraction on paper make sense, instead of being a trick that gets forgotten.",
+      "fr": "Voir avec les mains ce que veut dire « la retenue » donne du sens à la soustraction sur papier, au lieu d'un truc qu'on oublie.",
+      "ar": "رؤية معنى «الاستلاف» باليدين تجعل الطرح على الورق مفهومًا، بدل أن يكون حيلة تُنسى."
+    },
+    "aviso": {
+      "es": "Guardad las legumbres lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els llegums lluny de germans o germanes menuts.",
+      "en": "Keep the beans away from younger brothers and sisters.",
+      "fr": "Gardez les grains loin des petits frères et sœurs.",
+      "ar": "أبعدوا الحبوب عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Tenemos 32 galletas y en la merienda nos comemos 5. ¿Cuántas quedan?",
+        "va": "Tenim 32 galetes i en el berenar ens en mengem 5. Quantes en queden?",
+        "en": "We have 32 biscuits and we eat 5 at snack time. How many are left?",
+        "fr": "Nous avons 32 biscuits et nous en mangeons 5 au goûter. Combien en reste-t-il ?",
+        "ar": "عندنا 32 بسكويتة وأكلنا منها 5. كم بقي؟"
+      },
+      "pista": {
+        "es": "Las 5 no salen de las 2 sueltas: abre un paquete de 10. Ahora hay 2 paquetes y 12 sueltas.",
+        "va": "Les 5 no ixen de les 2 soltes: obri un paquet de 10. Ara hi ha 2 paquets i 12 soltes.",
+        "en": "You can't take 5 from the 2 loose ones: open a pack of 10. Now there are 2 packs and 12 loose biscuits.",
+        "fr": "On ne peut pas enlever 5 des 2 biscuits à part : ouvre un paquet de 10. Maintenant, il y a 2 paquets et 12 biscuits à part.",
+        "ar": "لا يمكن أخذ 5 من البسكويتتين المنفردتين: لنفتح علبة فيها 10. الآن هناك علبتان و12 بسكويتة منفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "32 - 5",
+        "resultado": 27,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 27 galletas.",
+          "va": "En queden 27.",
+          "en": "There are 27 biscuits left.",
+          "fr": "Il reste 27 biscuits.",
+          "ar": "بقيت 27 بسكويتة."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una de galletas en la que haya que abrir un paquete.",
+        "va": "Ara inventa'n tu una de galetes en què calga obrir un paquet.",
+        "en": "Now you make one up about biscuits where you have to open a pack.",
+        "fr": "Maintenant, invente un problème de biscuits où il faut ouvrir un paquet.",
+        "ar": "والآن لنخترع مسألة عن البسكويت نحتاج فيها إلى فتح علبة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En casa hay 41 pinzas y en casa de la abuela, 26. ¿Cuántas más hay en casa?",
+        "va": "A casa hi ha 41 pinces i a casa de l'àvia, 26. Quantes més n'hi ha a casa?",
+        "en": "There are 41 clothes pegs at home and 26 at Grandma's. How many more are there at home?",
+        "fr": "À la maison, il y a 41 pinces à linge et chez mamie, 26. Combien de plus y en a-t-il à la maison ?",
+        "ar": "في البيت 41 ملقط غسيل وفي بيت الجدة 26. كم ملقطًا زائدًا في البيت؟"
+      },
+      "pista": {
+        "es": "Puedes contar hacia arriba: de 26 a 30 van 4, y de 30 a 41 van 11.",
+        "va": "Pots comptar cap amunt: de 26 a 30 en van 4, i de 30 a 41 en van 11.",
+        "en": "You can count up: from 26 to 30 is 4, and from 30 to 41 is 11.",
+        "fr": "Tu peux compter en avançant : de 26 à 30, ça fait 4, et de 30 à 41, ça fait 11.",
+        "ar": "لنعدّ صعودًا: من 26 إلى 30 هي 4، ومن 30 إلى 41 هي 11."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "41 - 26",
+        "resultado": 15,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 15 pinzas más en casa.",
+          "va": "Hi ha 15 pinces més a casa.",
+          "en": "There are 15 more pegs at home.",
+          "fr": "Il y a 15 pinces de plus à la maison.",
+          "ar": "في البيت 15 ملقطًا زيادة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para comparar dos cosas de la cocina.",
+        "va": "Inventa'n tu una per a comparar dues coses de la cuina.",
+        "en": "Make one up comparing two things in the kitchen.",
+        "fr": "Invente un problème pour comparer deux choses de la cuisine.",
+        "ar": "لنخترع مسألة نقارن فيها بين شيئين في المطبخ."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Tu libro tiene 63 páginas y vas por la 38. ¿Cuántas te faltan para acabarlo?",
+        "va": "El teu llibre té 63 pàgines i vas per la 38. Quantes te'n falten per a acabar-lo?",
+        "en": "Your book has 63 pages and you are on page 38. How many pages are left to finish it?",
+        "fr": "Ton livre a 63 pages et tu en es à la page 38. Combien de pages te reste-t-il pour le finir ?",
+        "ar": "الكتاب فيه 63 صفحة ووصلنا إلى الصفحة 38. كم صفحة بقيت لإنهائه؟"
+      },
+      "pista": {
+        "es": "De 38 a 40 van 2, y de 40 a 63 van 23.",
+        "va": "De 38 a 40 en van 2, i de 40 a 63 en van 23.",
+        "en": "From 38 to 40 is 2, and from 40 to 63 is 23.",
+        "fr": "De 38 à 40, ça fait 2, et de 40 à 63, ça fait 23.",
+        "ar": "من 38 إلى 40 هي 2، ومن 40 إلى 63 هي 23."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "63 - 38",
+        "resultado": 25,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Te faltan 25 páginas.",
+          "va": "Te'n falten 25.",
+          "en": "25 pages are left.",
+          "fr": "Il te reste 25 pages.",
+          "ar": "بقيت 25 صفحة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿cuánto falta?» con los días que quedan para un cumpleaños.",
+        "va": "Inventa'n tu una de «quant falta?» amb els dies que queden per a un aniversari.",
+        "en": "Make up a “how many are left?” one with the days until a birthday.",
+        "fr": "Invente un problème « combien il manque ? » avec les jours avant un anniversaire.",
+        "ar": "لنخترع مسألة «كم بقي؟» بعدد الأيام الباقية حتى عيد ميلاد."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 4,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: tienes 38 canicas y te regalan 15. ¿Cuántas tienes ahora?",
+        "va": "Per a recordar: tens 38 bales i te'n regalen 15. Quantes en tens ara?",
+        "en": "Let's remember: you have 38 marbles and someone gives you 15 more. How many do you have now?",
+        "fr": "Pour se souvenir : tu as 38 billes et on t'en offre 15. Combien en as-tu maintenant ?",
+        "ar": "لنتذكّر: عندنا 38 كرة زجاجية صغيرة وأهدانا أحدهم 15. كم صار عندنا الآن؟"
+      },
+      "pista": {
+        "es": "Junta primero las sueltas: 8 y 5 son 13, es decir, una decena y 3.",
+        "va": "Ajunta primer les soltes: 8 i 5 són 13, és a dir, una desena i 3.",
+        "en": "Put the loose ones together first: 8 and 5 make 13, that is, one ten and 3.",
+        "fr": "Rassemble d'abord les unités : 8 et 5 font 13, c'est-à-dire une dizaine et 3.",
+        "ar": "لنجمع الآحاد أولًا: 8 و5 تساوي 13، أي عشرة و3."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "38 + 15",
+        "resultado": 53,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora tienes 53 canicas.",
+          "va": "Ara en tens 53.",
+          "en": "Now you have 53 marbles.",
+          "fr": "Maintenant, tu as 53 billes.",
+          "ar": "صار عندنا 53 كرة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una suma en la que te lleves una.",
+        "va": "Inventa'n tu una suma en què te'n portes una.",
+        "en": "Make up an addition where you carry one.",
+        "fr": "Invente une addition avec une retenue.",
+        "ar": "لنخترع عملية جمع نحتفظ فيها بواحد."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué has hecho hoy en mates? Explícamelo como si yo no supiera nada.",
+        "va": "Què has fet hui en mates? Explica-m'ho com si jo no en sabera res.",
+        "en": "What did you do in maths today? Explain it to me as if I knew nothing.",
+        "fr": "Qu'as-tu fait aujourd'hui en maths ? Explique-le-moi comme si je ne savais rien.",
+        "ar": "ماذا فعلتَ أو فعلتِ اليوم في الرياضيات؟ اشرح لي أو اشرحي لي كأنني لا أعرف شيئًا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Has abierto alguna decena esta semana? ¿Me enseñas cómo?»",
+        "va": "Si no sap per on començar: «Has obert alguna desena aquesta setmana? M'ensenyes com?»",
+        "en": "If they don't know where to start: “Did you open a ten this week? Can you show me how?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu as ouvert une dizaine cette semaine ? Tu me montres comment ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل فتحنا عشرة هذا الأسبوع؟ كيف نفعل ذلك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "ed5c55be8ae7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "ed5c55be8ae7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "ed5c55be8ae7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "ed5c55be8ae7"
+      }
+    }
+  }
+}

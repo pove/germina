@@ -1,0 +1,999 @@
+{
+  "version": 2,
+  "area": "matematicas",
+  "fuentes": {
+    "saberes": "Decreto 106/2022, anexo III, Matemáticas, apartado 4 (no modificado por el Decreto 96/2026). Ciclos leídos de la tabla oficial: inspiration/extractos/saberes-matematicas-2-ciclo.md",
+    "criterios": "Decreto 96/2026, artículo único, punto 28 (sustituye el apartado 6 de Matemáticas del anexo III)"
+  },
+  "nota": "Identificadores propios de Germina, el decreto no numera los saberes. Formato: saberes «área.bloque.saber» (un saber compartido entre ciclos tiene un solo identificador y lista sus ciclos); criterios «área.cN.n.m», porque su texto cambia en cada ciclo. Los saberes se asignan por ciclo, no por curso: el reparto entre 3.º y 4.º lo decide el centro.",
+  "pendiente": "Criterios de evaluación del 1.er y del 3.er ciclo: se añadirán cuando se activen esos ciclos.",
+  "bloques": [
+    {
+      "id": "matematicas.numeros",
+      "nombre": "Sentido numérico: números naturales"
+    },
+    {
+      "id": "matematicas.operaciones",
+      "nombre": "Sentido numérico: operaciones con naturales y sus propiedades"
+    },
+    {
+      "id": "matematicas.fracciones",
+      "nombre": "Sentido numérico: fracciones y decimales"
+    },
+    {
+      "id": "matematicas.medida",
+      "nombre": "Sentido de la medida"
+    },
+    {
+      "id": "matematicas.geometria",
+      "nombre": "Geometría plana y espacial"
+    },
+    {
+      "id": "matematicas.probabilidad",
+      "nombre": "Incertidumbre y probabilidad"
+    },
+    {
+      "id": "matematicas.datos",
+      "nombre": "Análisis de datos y cálculos estadísticos"
+    },
+    {
+      "id": "matematicas.computacional",
+      "nombre": "Pensamiento computacional"
+    }
+  ],
+  "saberes": [
+    {
+      "id": "matematicas.numeros.recuento",
+      "ciclos": [
+        1
+      ],
+      "texto": "Recuento de los elementos de un conjunto. Cardinalidad"
+    },
+    {
+      "id": "matematicas.numeros.decena",
+      "ciclos": [
+        1
+      ],
+      "texto": "Introducción a la decena"
+    },
+    {
+      "id": "matematicas.numeros.estructura",
+      "ciclos": [
+        1
+      ],
+      "texto": "Descomposiciones y estructura del número, patrones y regularidades (par, impar)"
+    },
+    {
+      "id": "matematicas.numeros.sistema-decimal",
+      "ciclos": [
+        1,
+        2
+      ],
+      "texto": "Comprensión del sistema de numeración decimal: composición y descomposición en unidades, decenas y centenas"
+    },
+    {
+      "id": "matematicas.numeros.millar",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Lectura, escritura y representación de numerales superiores al millar"
+    },
+    {
+      "id": "matematicas.numeros.recta-comparar",
+      "ciclos": [
+        1,
+        2
+      ],
+      "texto": "Estrategias de representación. Recta numérica. Comparación y ordenación"
+    },
+    {
+      "id": "matematicas.numeros.multiplos-divisores",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Múltiplos y divisores. Números primos y compuestos. Propiedades y criterios de divisibilidad"
+    },
+    {
+      "id": "matematicas.numeros.negativos",
+      "ciclos": [
+        3
+      ],
+      "texto": "Introducción al número negativo: comparación y ordenación"
+    },
+    {
+      "id": "matematicas.numeros.usos-sociales",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Contribución de la humanidad al desarrollo numérico, entendido como una necesidad básica. Usos sociales del sentido numérico"
+    },
+    {
+      "id": "matematicas.numeros.cooperativo",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Técnicas cooperativas para estimular el trabajo en equipo relacionado con el sentido numérico y la aritmética"
+    },
+    {
+      "id": "matematicas.operaciones.suma-resta",
+      "ciclos": [
+        1,
+        2
+      ],
+      "texto": "Significados, estrategias y representaciones para la suma (añadir, combinar, comparar) y la resta (detracción, diferencia, escala ascendente, escala descendente)"
+    },
+    {
+      "id": "matematicas.operaciones.doble-mitad",
+      "ciclos": [
+        1
+      ],
+      "texto": "Doble y mitad. Iniciación al significado de la multiplicación (suma reiterada, producto cartesiano) y de la división (reparto, agrupación)"
+    },
+    {
+      "id": "matematicas.operaciones.producto-cociente",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Significados, estrategias y representaciones para el producto y el cociente (suma repetida, partición, producto cartesiano, diagrama de árbol)"
+    },
+    {
+      "id": "matematicas.operaciones.igualdad",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Significado y uso de la igualdad y las desigualdades en relaciones y expresiones aritméticas sencillas"
+    },
+    {
+      "id": "matematicas.operaciones.potencias",
+      "ciclos": [
+        3
+      ],
+      "texto": "Potencias y su relación con el producto. Cuadrados, cubos y potencias de 10"
+    },
+    {
+      "id": "matematicas.operaciones.propiedades",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Relaciones y propiedades de las operaciones. Propiedad conmutativa, asociativa y distributiva"
+    },
+    {
+      "id": "matematicas.operaciones.calculo-mental",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Cálculo mental. Estimación y aproximación"
+    },
+    {
+      "id": "matematicas.operaciones.genero",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Contribución de la humanidad al desarrollo numérico incorporando la perspectiva de género"
+    },
+    {
+      "id": "matematicas.operaciones.frustracion",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Autonomía y tolerancia a la frustración frente a dificultades relacionadas con las propiedades numéricas"
+    },
+    {
+      "id": "matematicas.fracciones.fraccion",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "La fracción como medida y como relación entre las partes y el todo"
+    },
+    {
+      "id": "matematicas.fracciones.decimales",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Fracción decimal. Números decimales (décimas, centésimas y milésimas). Operaciones básicas"
+    },
+    {
+      "id": "matematicas.fracciones.redondeo",
+      "ciclos": [
+        3
+      ],
+      "texto": "Aproximación y redondeo de números decimales"
+    },
+    {
+      "id": "matematicas.fracciones.por-10-100-1000",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Cálculo mental: multiplicación y división de decimales por 10, 100, 1000"
+    },
+    {
+      "id": "matematicas.fracciones.comparar",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Comparación y ordenación de números naturales y fracciones"
+    },
+    {
+      "id": "matematicas.fracciones.porcentajes",
+      "ciclos": [
+        3
+      ],
+      "texto": "Correspondencia entre fracciones decimales y porcentajes"
+    },
+    {
+      "id": "matematicas.fracciones.equivalentes",
+      "ciclos": [
+        3
+      ],
+      "texto": "Fracciones equivalentes"
+    },
+    {
+      "id": "matematicas.fracciones.proporcionalidad",
+      "ciclos": [
+        3
+      ],
+      "texto": "Proporcionalidad directa"
+    },
+    {
+      "id": "matematicas.fracciones.suma-resta-fracciones",
+      "ciclos": [
+        3
+      ],
+      "texto": "Introducción a la suma y resta de dos fracciones"
+    },
+    {
+      "id": "matematicas.fracciones.utilidad",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Valoración de situaciones en las que es útil el uso de fracciones y decimales"
+    },
+    {
+      "id": "matematicas.fracciones.perseverancia",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Estrategias de mejora en la perseverancia en la resolución de problemas aritméticos"
+    },
+    {
+      "id": "matematicas.medida.cuerpo",
+      "ciclos": [
+        1
+      ],
+      "texto": "Unidades no convencionales para medir y estimar las dimensiones de los objetos cercanos y del propio cuerpo"
+    },
+    {
+      "id": "matematicas.medida.no-convencionales",
+      "ciclos": [
+        1,
+        2
+      ],
+      "texto": "Estrategias de medida y estimación de tiempo, longitud, capacidad, volumen y masa mediante unidades no convencionales en situaciones reales"
+    },
+    {
+      "id": "matematicas.medida.instrumentos",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Elección y utilización de los instrumentos adecuados para medir con precisión diferentes magnitudes"
+    },
+    {
+      "id": "matematicas.medida.magnitudes",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Experimentación y conceptualización de magnitudes: tiempo, longitud, ángulos, masa, superficie, capacidad y volumen, temperatura y monedas"
+    },
+    {
+      "id": "matematicas.medida.unidades",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Unidades de magnitud convencionales. Relación, comparación directa, ordenación y conversión entre unidades de la misma magnitud. Valoración de resultados en mediciones y estimaciones"
+    },
+    {
+      "id": "matematicas.medida.historia",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Contribución de la humanidad a la unificación de sistemas de medida y magnitudes, y valoración de sus usos sociales y científicos"
+    },
+    {
+      "id": "matematicas.medida.cooperativo",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Técnicas cooperativas para estimular el trabajo en equipo relacionado con la medida y estimación de magnitudes"
+    },
+    {
+      "id": "matematicas.geometria.orientacion",
+      "ciclos": [
+        1
+      ],
+      "texto": "Localización y visualización de objetos. Orientación básica en el espacio"
+    },
+    {
+      "id": "matematicas.geometria.localizacion",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Localización de objetos (puntos) sobre los ejes, el plano cartesiano. Localización en mapas a partir de puntos de referencia, incluidos los puntos cardinales"
+    },
+    {
+      "id": "matematicas.geometria.vertices-lados",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Elementos básicos: vértices y lados. Polígonos regulares"
+    },
+    {
+      "id": "matematicas.geometria.poliedros",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Poliedros regulares. Vocabulario básico. Relación entre vértices, aristas y caras"
+    },
+    {
+      "id": "matematicas.geometria.lineas",
+      "ciclos": [
+        1,
+        2
+      ],
+      "texto": "Líneas rectas, curvas"
+    },
+    {
+      "id": "matematicas.geometria.posiciones-rectas",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Intersección, paralelismo y perpendicularidad. Posiciones relativas de rectas en el plano"
+    },
+    {
+      "id": "matematicas.geometria.poligonos",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Identificación y descripción de diferentes polígonos. Composición y descomposición"
+    },
+    {
+      "id": "matematicas.geometria.perimetros-areas",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Cálculo de perímetros y áreas de polígonos"
+    },
+    {
+      "id": "matematicas.geometria.circunferencia",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "La circunferencia y el círculo. Elementos y propiedades"
+    },
+    {
+      "id": "matematicas.geometria.pi",
+      "ciclos": [
+        3
+      ],
+      "texto": "Longitud de la circunferencia y área del círculo. Número pi"
+    },
+    {
+      "id": "matematicas.geometria.angulos",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Ángulos, medición y clasificación de ángulos. Clasificación de triángulos"
+    },
+    {
+      "id": "matematicas.geometria.transformaciones",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Transformaciones: giros, traslaciones y simetrías en situaciones reales"
+    },
+    {
+      "id": "matematicas.geometria.semejanza",
+      "ciclos": [
+        3
+      ],
+      "texto": "Semejanza: identificación y generación a partir de patrones"
+    },
+    {
+      "id": "matematicas.geometria.concavidad",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Concavidad y convexidad de figuras planas"
+    },
+    {
+      "id": "matematicas.geometria.prismas-piramides",
+      "ciclos": [
+        3
+      ],
+      "texto": "Desarrollo y clasificación de prismas y pirámides"
+    },
+    {
+      "id": "matematicas.geometria.programas",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Programas informáticos de geometría dinámica"
+    },
+    {
+      "id": "matematicas.geometria.usos",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Desarrollo y usos de la geometría, a nivel práctico y estético, incorporando la perspectiva de género"
+    },
+    {
+      "id": "matematicas.geometria.estrategias",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Estrategias de aprendizaje de conceptos geométricos y aceptación de dificultades"
+    },
+    {
+      "id": "matematicas.probabilidad.aleatorio",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Concepto de situación aleatoria y situación determinista. Incertidumbre. Contribución de la humanidad al conocimiento de las leyes del azar"
+    },
+    {
+      "id": "matematicas.probabilidad.intuitiva",
+      "ciclos": [
+        1,
+        2
+      ],
+      "texto": "Idea intuitiva de probabilidad: ocurre siempre, muchas veces, algunas veces, pocas veces, nunca"
+    },
+    {
+      "id": "matematicas.probabilidad.suceso",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Concepto de suceso y de suceso elemental"
+    },
+    {
+      "id": "matematicas.probabilidad.espacio-muestral",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Espacio muestral en experimentos aleatorios simples sencillos: concepto y determinación"
+    },
+    {
+      "id": "matematicas.probabilidad.contingencia",
+      "ciclos": [
+        3
+      ],
+      "texto": "Uso de tablas de contingencia y diagramas de árbol para obtener el espacio muestral en experimentos compuestos sencillos"
+    },
+    {
+      "id": "matematicas.probabilidad.concepto",
+      "ciclos": [
+        3
+      ],
+      "texto": "Concepto de probabilidad como medida de la posibilidad de que ocurra un suceso en un experimento aleatorio sencillo"
+    },
+    {
+      "id": "matematicas.probabilidad.estimacion",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Estimación de probabilidades a partir de la experimentación y simulación"
+    },
+    {
+      "id": "matematicas.probabilidad.laplace",
+      "ciclos": [
+        3
+      ],
+      "texto": "Regla de Laplace en sucesos equiprobables"
+    },
+    {
+      "id": "matematicas.probabilidad.laplace-estimacion",
+      "ciclos": [
+        3
+      ],
+      "texto": "Relación entre la Regla de Laplace y la estimación de probabilidades en experimentos sencillos"
+    },
+    {
+      "id": "matematicas.probabilidad.emociones",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Gestión de las emociones y utilización de estrategias que permiten afrontar la incertidumbre"
+    },
+    {
+      "id": "matematicas.datos.encuestas",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Elaboración de preguntas y encuestas sencillas para obtener datos"
+    },
+    {
+      "id": "matematicas.datos.frecuencias",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Variables cualitativas y cuantitativas discretas: recuento de casos y construcción de tablas de frecuencia"
+    },
+    {
+      "id": "matematicas.datos.barras",
+      "ciclos": [
+        1,
+        2
+      ],
+      "texto": "Elaboración de diagramas de barras"
+    },
+    {
+      "id": "matematicas.datos.representaciones",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Representaciones (pictogramas, diagramas de sectores, polígonos de frecuencias…). Uso de herramientas tecnológicas"
+    },
+    {
+      "id": "matematicas.datos.interpretacion",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Interpretación de datos a partir de diferentes representaciones (tablas, gráficas), y análisis en casos sencillos"
+    },
+    {
+      "id": "matematicas.datos.medidas-centrales",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Significado e interpretación de las principales medidas centrales (moda, mediana y media aritmética)"
+    },
+    {
+      "id": "matematicas.datos.rango",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Significado e interpretación de la idea de dispersión a partir de representaciones gráficas. Rango"
+    },
+    {
+      "id": "matematicas.datos.poblacion-muestra",
+      "ciclos": [
+        3
+      ],
+      "texto": "Diferenciación entre población y muestra. Comparación entre muestras de la misma población"
+    },
+    {
+      "id": "matematicas.datos.histogramas",
+      "ciclos": [
+        3
+      ],
+      "texto": "Introducción a las variables cuantitativas continuas. Histogramas"
+    },
+    {
+      "id": "matematicas.datos.historia",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Contribución de la humanidad al desarrollo y evolución de la estadística, incorporando la perspectiva de género"
+    },
+    {
+      "id": "matematicas.datos.respeto",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Respeto, sensibilidad y tolerancia ante diferentes interpretaciones sobre resultados estadísticos"
+    },
+    {
+      "id": "matematicas.computacional.secuencias-figuras",
+      "ciclos": [
+        1,
+        2
+      ],
+      "texto": "Identificación de regularidades, interpretación de rutinas o instrucciones con pasos ordenados. Predicción de términos en secuencias de figuras, imágenes o números"
+    },
+    {
+      "id": "matematicas.computacional.secuencias-numericas",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Identificación de regularidades y predicción de términos de secuencias numéricas. Creación de patrones"
+    },
+    {
+      "id": "matematicas.computacional.algoritmos",
+      "ciclos": [
+        2,
+        3
+      ],
+      "texto": "Interpretación, modificación y creación de algoritmos sencillos"
+    },
+    {
+      "id": "matematicas.computacional.hojas-calculo",
+      "ciclos": [
+        3
+      ],
+      "texto": "Interpretación y diseño de algoritmos sencillos en hojas de cálculo y mediante programación por bloques"
+    },
+    {
+      "id": "matematicas.computacional.juegos-estrategia",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Búsqueda y análisis de estrategias en juegos abstractos sin información oculta ni presencia de azar: ajedrez, damas, etc."
+    },
+    {
+      "id": "matematicas.computacional.igualdades",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Simbolización y obtención de datos sencillos desconocidos en expresiones con igualdades"
+    },
+    {
+      "id": "matematicas.computacional.historia",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Valoración de la evolución del pensamiento computacional y su repercusión social, incorporando la perspectiva de género"
+    },
+    {
+      "id": "matematicas.computacional.cooperativo",
+      "ciclos": [
+        1,
+        2,
+        3
+      ],
+      "texto": "Trabajo cooperativo en situaciones que involucran diseño y aplicación de algoritmos. Estrategias de aprendizaje específicas del pensamiento computacional"
+    }
+  ],
+  "competencias": [
+    {
+      "id": "matematicas.CE1",
+      "nombre": "Resolución de problemas"
+    },
+    {
+      "id": "matematicas.CE2",
+      "nombre": "Razonamiento y conexiones"
+    },
+    {
+      "id": "matematicas.CE3",
+      "nombre": "Modelización"
+    },
+    {
+      "id": "matematicas.CE4",
+      "nombre": "Pensamiento computacional"
+    },
+    {
+      "id": "matematicas.CE5",
+      "nombre": "Representaciones y simbolismo"
+    },
+    {
+      "id": "matematicas.CE6",
+      "nombre": "Comunicación"
+    },
+    {
+      "id": "matematicas.CE7",
+      "nombre": "Relevancia social y cultural"
+    },
+    {
+      "id": "matematicas.CE8",
+      "nombre": "Emociones y actitudes"
+    }
+  ],
+  "criterios": [
+    {
+      "id": "matematicas.c2.1.1",
+      "ciclo": 2,
+      "competencia": "matematicas.CE1",
+      "texto": "Identificar la información relevante e irrelevante de un problema o situación problemática del entorno personal y social del alumnado que permita su abordaje y resolución."
+    },
+    {
+      "id": "matematicas.c2.1.2",
+      "ciclo": 2,
+      "competencia": "matematicas.CE1",
+      "texto": "Desarrollar estrategias informales para obtener la solución correcta en un problema o situación problemática y sistematizar procedimientos informales de resolución a nivel inicial."
+    },
+    {
+      "id": "matematicas.c2.1.3",
+      "ciclo": 2,
+      "competencia": "matematicas.CE1",
+      "texto": "Comprobar si la solución obtenida en un problema cumple las condiciones o exigencias del enunciado."
+    },
+    {
+      "id": "matematicas.c2.1.4",
+      "ciclo": 2,
+      "competencia": "matematicas.CE1",
+      "texto": "Extraer consecuencias de la situación problemática planteada y obtener herramientas o estrategias aplicables en el ámbito personal o educativo."
+    },
+    {
+      "id": "matematicas.c2.2.1",
+      "ciclo": 2,
+      "competencia": "matematicas.CE2",
+      "texto": "Comprobar conjeturas sobre relaciones matemáticas que permitan desarrollar de forma intuitiva nuevo contenido matemático de naturaleza numérica, métrica, espacial, geométrica o estocástica."
+    },
+    {
+      "id": "matematicas.c2.2.2",
+      "ciclo": 2,
+      "competencia": "matematicas.CE2",
+      "texto": "Comprobar relaciones matemáticas en, y mediante, los procedimientos de razonamiento matemático intuitivo."
+    },
+    {
+      "id": "matematicas.c2.2.3",
+      "ciclo": 2,
+      "competencia": "matematicas.CE2",
+      "texto": "Reconocer patrones y regularidades, construyendo intuitivamente contenido matemático de naturaleza numérica, métrica, espacial, geométrica o estocástica."
+    },
+    {
+      "id": "matematicas.c2.2.4",
+      "ciclo": 2,
+      "competencia": "matematicas.CE2",
+      "texto": "Comparar distintos procedimientos matemáticos relativos al cálculo, la medida, el sentido espacial y geométrico, el tratamiento de datos o los procesos aleatorios, y utilizarlos de manera flexible."
+    },
+    {
+      "id": "matematicas.c2.3.1",
+      "ciclo": 2,
+      "competencia": "matematicas.CE3",
+      "texto": "Identificar el contenido y las herramientas matemáticas sencillas que permiten abordar situaciones reales cercanas y relevantes, posibilitando la construcción de modelos matemáticos básicos."
+    },
+    {
+      "id": "matematicas.c2.3.2",
+      "ciclo": 2,
+      "competencia": "matematicas.CE3",
+      "texto": "Usar modelos matemáticos básicos que permitan interpretar una situación real sencilla, y extraer conclusiones."
+    },
+    {
+      "id": "matematicas.c2.3.3",
+      "ciclo": 2,
+      "competencia": "matematicas.CE3",
+      "texto": "Comparar modelos matemáticos correspondientes a situaciones reales en contextos similares."
+    },
+    {
+      "id": "matematicas.c2.3.4",
+      "ciclo": 2,
+      "competencia": "matematicas.CE3",
+      "texto": "Formular predicciones o comprobaciones sencillas sobre una situación real utilizando representaciones y relaciones matemáticas, verificando si el modelo se adecua a la realidad planteada."
+    },
+    {
+      "id": "matematicas.c2.4.1",
+      "ciclo": 2,
+      "competencia": "matematicas.CE4",
+      "texto": "Aplicar algoritmos sencillos mediante códigos visuales o herramientas tecnológicas básicas para resolver situaciones problemáticas."
+    },
+    {
+      "id": "matematicas.c2.4.2",
+      "ciclo": 2,
+      "competencia": "matematicas.CE4",
+      "texto": "Identificar regularidades en una secuencia de datos y predecir resultados mediante el reconocimiento de patrones sencillos."
+    },
+    {
+      "id": "matematicas.c2.4.3",
+      "ciclo": 2,
+      "competencia": "matematicas.CE4",
+      "texto": "Aplicar instrucciones secuenciales para resolver problemas mediante el uso de herramientas TIC."
+    },
+    {
+      "id": "matematicas.c2.4.4",
+      "ciclo": 2,
+      "competencia": "matematicas.CE4",
+      "texto": "Analizar situaciones sencillas para definir y conseguir estrategias ganadoras en juegos de lógica o juegos de tablero."
+    },
+    {
+      "id": "matematicas.c2.5.1",
+      "ciclo": 2,
+      "competencia": "matematicas.CE5",
+      "texto": "Utilizar correctamente las representaciones icónico-manipulativas de objetos y procesos matemáticos en situaciones cercanas al alumnado, respetando las reglas básicas que los rigen."
+    },
+    {
+      "id": "matematicas.c2.5.2",
+      "ciclo": 2,
+      "competencia": "matematicas.CE5",
+      "texto": "Reconocer representaciones numéricas, geométricas y gráficas que describen objetos matemáticos elementales en contextos cercanos al alumnado."
+    },
+    {
+      "id": "matematicas.c2.5.3",
+      "ciclo": 2,
+      "competencia": "matematicas.CE5",
+      "texto": "Usar representaciones numéricas, geométricas y gráficas de objetos matemáticos elementales en situaciones cercanas al alumnado."
+    },
+    {
+      "id": "matematicas.c2.6.1",
+      "ciclo": 2,
+      "competencia": "matematicas.CE6",
+      "texto": "Reconocer y comprender mensajes orales y escritos sencillos que contengan lenguaje matemático básico."
+    },
+    {
+      "id": "matematicas.c2.6.2",
+      "ciclo": 2,
+      "competencia": "matematicas.CE6",
+      "texto": "Comunicar aspectos relacionados con conceptos y procedimientos matemáticos sencillos presentes en contextos cercanos al alumnado."
+    },
+    {
+      "id": "matematicas.c2.6.3",
+      "ciclo": 2,
+      "competencia": "matematicas.CE6",
+      "texto": "Justificar adecuadamente la validez de los resultados provenientes de situaciones problemáticas del entorno personal o educativo del alumnado, a través de comunicaciones orales o escritas informales."
+    },
+    {
+      "id": "matematicas.c2.6.4",
+      "ciclo": 2,
+      "competencia": "matematicas.CE6",
+      "texto": "Utilizar un lenguaje matemático adecuado para defender sus propios razonamientos de forma argumentada."
+    },
+    {
+      "id": "matematicas.c2.7.1",
+      "ciclo": 2,
+      "competencia": "matematicas.CE7",
+      "texto": "Reconocer el contenido matemático presente en juegos, actividades sociales y productos culturales cercanos a la experiencia del alumnado."
+    },
+    {
+      "id": "matematicas.c2.7.2",
+      "ciclo": 2,
+      "competencia": "matematicas.CE7",
+      "texto": "Valorar la importancia de las matemáticas para resolver problemas de la vida cotidiana que involucren aspectos como el cálculo aritmético, la incertidumbre, el razonamiento lógico, el pensamiento computacional, el uso e interpretación de datos o el sentido geométrico y espacial."
+    },
+    {
+      "id": "matematicas.c2.7.3",
+      "ciclo": 2,
+      "competencia": "matematicas.CE7",
+      "texto": "Apreciar el carácter polivalente de las matemáticas, tanto por su utilidad para la resolución de problemas en diferentes áreas (instrumentalidad), como para favorecer el desarrollo intelectual, creativo y cultural de las personas."
+    },
+    {
+      "id": "matematicas.c2.8.1",
+      "ciclo": 2,
+      "competencia": "matematicas.CE8",
+      "texto": "Asumir los errores como parte del proceso de aprendizaje, gestionando y expresando la frustración con emociones y actitudes positivas para su superación."
+    },
+    {
+      "id": "matematicas.c2.8.2",
+      "ciclo": 2,
+      "competencia": "matematicas.CE8",
+      "texto": "Mostrar una actitud positiva, esfuerzo y perseverancia en la realización de tareas matemáticas, tanto en el trabajo individual como en el colaborativo."
+    },
+    {
+      "id": "matematicas.c2.8.3",
+      "ciclo": 2,
+      "competencia": "matematicas.CE8",
+      "texto": "Mostrar una disposición favorable a la mejora personal y del trabajo en equipo en la realización de tareas matemáticas, respetando las aportaciones de los demás."
+    },
+    {
+      "id": "matematicas.c2.8.4",
+      "ciclo": 2,
+      "competencia": "matematicas.CE8",
+      "texto": "Comenzar a desarrollar estrategias básicas de autorregulación emocional ante las dificultades en el aprendizaje matemático, identificando cuándo necesita ayuda."
+    }
+  ],
+  "tiposProblema": [
+    {
+      "id": "anadir",
+      "nombre": "Añadir"
+    },
+    {
+      "id": "combinar",
+      "nombre": "Combinar"
+    },
+    {
+      "id": "comparar",
+      "nombre": "Comparar"
+    },
+    {
+      "id": "detraccion",
+      "nombre": "Detracción (quitar)"
+    },
+    {
+      "id": "escala-ascendente",
+      "nombre": "Escala ascendente (contar hacia arriba: ¿cuánto falta?)"
+    },
+    {
+      "id": "escala-descendente",
+      "nombre": "Escala descendente (contar hacia abajo)"
+    },
+    {
+      "id": "suma-repetida",
+      "nombre": "Suma repetida (grupos iguales)"
+    },
+    {
+      "id": "particion",
+      "nombre": "Partición (repartir y agrupar)"
+    },
+    {
+      "id": "producto-cartesiano",
+      "nombre": "Producto cartesiano (combinaciones)"
+    },
+    {
+      "id": "diagrama-arbol",
+      "nombre": "Diagrama de árbol"
+    },
+    {
+      "id": "medida",
+      "nombre": "Medida"
+    },
+    {
+      "id": "dinero",
+      "nombre": "Dinero"
+    },
+    {
+      "id": "tiempo",
+      "nombre": "Tiempo"
+    },
+    {
+      "id": "abierta",
+      "nombre": "Abierta (sin respuesta numérica)"
+    }
+  ]
+}

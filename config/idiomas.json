@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "porDefecto": "es",
+  "idiomas": [
+    { "id": "es", "nombre": "Español", "dir": "ltr", "lang": "es" },
+    { "id": "va", "nombre": "Valencià", "dir": "ltr", "lang": "ca-ES-valencia" },
+    { "id": "en", "nombre": "English", "dir": "ltr", "lang": "en" },
+    { "id": "fr", "nombre": "Français", "dir": "ltr", "lang": "fr" },
+    { "id": "ar", "nombre": "العربية", "dir": "rtl", "lang": "ar" }
+  ]
+}

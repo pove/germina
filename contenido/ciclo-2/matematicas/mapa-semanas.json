@@ -1,0 +1,2166 @@
+{
+  "version": 2,
+  "ciclo": 2,
+  "area": "matematicas",
+  "estado": "propuesta",
+  "nota": "Propuesta de Claude, pendiente de validar por el equipo de ciclo. El decreto asigna los saberes por ciclo; el reparto entre 3.º y 4.º es del centro. Las semanas 16 y 17 suelen coincidir con Navidad y llevan propuestas ligeras de juego; Pascua cambia de semana cada año y no se tiene en cuenta.",
+  "cursos": {
+    "3": [
+      {
+        "semana": 1,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Números hasta 999: centenas, decenas y unidades (lo que ya traen de 2.º)",
+        "titulo": "Centenas, decenas y unidades",
+        "saberes": [
+          "matematicas.numeros.sistema-decimal",
+          "matematicas.numeros.usos-sociales"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.5.2"
+        ],
+        "tiposProblema": [
+          "combinar"
+        ],
+        "reto": "El banco de las legumbres: agrupar de 10 en 10 en vasos y de 100 en 100 en platos, y leer el número que sale."
+      },
+      {
+        "semana": 2,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Llegamos al millar: números de cuatro cifras",
+        "titulo": "¡Mil!",
+        "saberes": [
+          "matematicas.numeros.millar",
+          "matematicas.numeros.sistema-decimal"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.2.3"
+        ],
+        "tiposProblema": [
+          "combinar"
+        ],
+        "reto": "Cartas de cifras: sacar cuatro cartas del 0 al 9 y formar el número más grande y el más pequeño posibles."
+      },
+      {
+        "semana": 3,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Comparar y ordenar en la recta; ¿a qué decena está más cerca?",
+        "titulo": "Cada número en su sitio",
+        "saberes": [
+          "matematicas.numeros.recta-comparar",
+          "matematicas.operaciones.igualdad",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "comparar"
+        ],
+        "reto": "La cuerda de los números: una cuerda en el suelo del 0 al 100 y pinzas con números para colgar cada uno en su sitio."
+      },
+      {
+        "semana": 4,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Suma con llevada de tres cifras: con material, con dibujo y en papel",
+        "titulo": "Sumar y llevarse una",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.numeros.sistema-decimal"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "anadir",
+          "combinar"
+        ],
+        "reto": "La compra de papel: monedas de 1 €, billetes de 10 € y de 100 €; juntar dos compras y cambiar diez monedas por un billete cuando se pueda."
+      },
+      {
+        "semana": 5,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "La resta: quitar, comparar y ¿cuánto falta? (sin llevada)",
+        "titulo": "Tres formas de restar",
+        "saberes": [
+          "matematicas.operaciones.suma-resta"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.1.2"
+        ],
+        "tiposProblema": [
+          "detraccion",
+          "comparar",
+          "escala-ascendente"
+        ],
+        "reto": "Torres de pinzas o piezas: quitar de una torre, comparar dos torres y ver cuánto le falta a la pequeña para igualar a la grande."
+      },
+      {
+        "semana": 6,
+        "trimestre": 1,
+        "tipo": "recordar",
+        "tema": "Números hasta el millar, sumas y restas",
+        "titulo": "Semana de recordar: números y sumas",
+        "saberes": [
+          "matematicas.numeros.sistema-decimal",
+          "matematicas.numeros.millar",
+          "matematicas.operaciones.suma-resta"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "detraccion"
+        ],
+        "recupera": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "reto": "Al 500 con dados: tirar tres dados, formar números de tres cifras y sumarlos por turnos; gana quien se acerque más a 500 sin pasarse."
+      },
+      {
+        "semana": 7,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Resta con llevada: deshacer una decena (material, dibujo y número)",
+        "titulo": "Cuando no llega: abrir una decena",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.numeros.sistema-decimal",
+          "matematicas.operaciones.frustracion"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.8.1"
+        ],
+        "tiposProblema": [
+          "detraccion"
+        ],
+        "reto": "Vasos de diez: para quitar 7 cuando solo hay 3 legumbres sueltas, se abre un vaso de diez y se sigue."
+      },
+      {
+        "semana": 8,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Comprobar una resta con una suma; contar hacia arriba para dar la vuelta",
+        "titulo": "La vuelta",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.1.3",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "escala-ascendente",
+          "dinero"
+        ],
+        "reto": "La tienda de casa: pagar con un billete de 20 € cosas de precio entero y contar hacia arriba hasta 20 para saber la vuelta."
+      },
+      {
+        "semana": 9,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Sumar y restar decenas y centenas de cabeza",
+        "titulo": "De cabeza: de 10 en 10 y de 100 en 100",
+        "saberes": [
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.numeros.sistema-decimal"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.2.3"
+        ],
+        "tiposProblema": [
+          "anadir",
+          "detraccion"
+        ],
+        "reto": "El ascensor: se parte de un número y, pasándose una pelota, cada persona sube o baja 10 o 100 en voz alta."
+      },
+      {
+        "semana": 10,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "El reloj: en punto, y media, y cuarto, menos cuarto, y de 5 en 5 minutos",
+        "titulo": "¿Qué hora es?",
+        "saberes": [
+          "matematicas.medida.magnitudes",
+          "matematicas.medida.unidades",
+          "matematicas.medida.instrumentos"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.3.2"
+        ],
+        "tiposProblema": [
+          "tiempo"
+        ],
+        "reto": "Reloj de plato: un plato de papel con agujas de cartulina; una persona dice una hora y la otra la pone."
+      },
+      {
+        "semana": 11,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Multiplicar es sumar grupos iguales",
+        "titulo": "Grupos iguales",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.2.3"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "La despensa en grupos: hueveras, packs de yogures, calcetines por pares; contar por grupos y escribir 3 + 3 + 3 + 3 = 4 × 3."
+      },
+      {
+        "semana": 12,
+        "trimestre": 1,
+        "tipo": "recordar",
+        "tema": "Restas con llevada, la hora y grupos iguales",
+        "titulo": "Semana de recordar: restas, horas y grupos",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.medida.magnitudes",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.1"
+        ],
+        "tiposProblema": [
+          "detraccion",
+          "tiempo",
+          "suma-repetida"
+        ],
+        "recupera": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "reto": "La oca de casa: un tablero dibujado en papel con una resta, una hora o un grupo en cada casilla."
+      },
+      {
+        "semana": 13,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Tablas del 2 y del 10: dobles y añadir un cero",
+        "titulo": "Tablas del 2 y del 10",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.computacional.secuencias-numericas"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.4.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "rapidez": true,
+        "reto": "Cartas rápidas con el 2 y el 10: se saca una carta y gana quien diga antes el doble o el número por diez. Dos minutos de cronómetro y récord personal."
+      },
+      {
+        "semana": 14,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Tabla del 5 y el reloj: de 5 en 5",
+        "titulo": "Tabla del 5",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.computacional.secuencias-numericas",
+          "matematicas.medida.magnitudes"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.4.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "tiempo"
+        ],
+        "reto": "Manos y minutos: contar dedos de 5 en 5 y ver que son los mismos números que los minutos del reloj."
+      },
+      {
+        "semana": 15,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Euros y céntimos: pagar y dar la vuelta",
+        "titulo": "La tienda",
+        "saberes": [
+          "matematicas.medida.magnitudes",
+          "matematicas.operaciones.suma-resta"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.7.2"
+        ],
+        "tiposProblema": [
+          "dinero",
+          "escala-ascendente"
+        ],
+        "reto": "La tienda de casa con monedas: comprar con 5 € y calcular la vuelta contando hacia arriba."
+      },
+      {
+        "semana": 16,
+        "trimestre": 2,
+        "tipo": "recordar",
+        "tema": "Números, sumas, restas y tablas del 2, 5 y 10",
+        "titulo": "Semana de recordar: juegos en familia",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.numeros.cooperativo"
+        ],
+        "criterios": [
+          "matematicas.c2.7.1",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "suma-repetida"
+        ],
+        "recupera": [
+          4,
+          7,
+          11,
+          13,
+          14,
+          15
+        ],
+        "nota": "Suele caer en Navidad: propuesta ligera.",
+        "reto": "Juegos de mesa de casa (parchís, oca, dominó): sumar los puntos de cada jugada y contar casillas de 5 en 5."
+      },
+      {
+        "semana": 17,
+        "trimestre": 2,
+        "tipo": "recordar",
+        "tema": "Cálculo mental y tablas del 2, 5 y 10",
+        "titulo": "Semana de recordar: cartas y dados",
+        "saberes": [
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "recupera": [
+          9,
+          13,
+          14
+        ],
+        "rapidez": true,
+        "nota": "Suele caer en Navidad: propuesta ligera.",
+        "reto": "Cartas rápidas con el 2, el 5 y el 10: ¿mejoramos el récord de la semana 13?"
+      },
+      {
+        "semana": 18,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Tabla del 4: el doble del doble",
+        "titulo": "Tabla del 4: doble y otra vez doble",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.propiedades"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.2.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "Doblar tiras de papel: una vez salen 2 partes, otra vez 4; calcular 4 × 3 como el doble de 2 × 3 con galletas."
+      },
+      {
+        "semana": 19,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Conmutativa: 3 × 4 = 4 × 3 con filas y columnas",
+        "titulo": "Dar la vuelta a la multiplicación",
+        "saberes": [
+          "matematicas.operaciones.propiedades",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.2.1",
+          "matematicas.c2.5.1"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "Filas de botones en un plato: 3 filas de 4; se gira el plato y aparecen 4 filas de 3. ¿Cuántos hay ahora?"
+      },
+      {
+        "semana": 20,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Tablas del 3 y del 6 (el 6 es el doble del 3)",
+        "titulo": "Tablas del 3 y del 6",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.propiedades",
+          "matematicas.computacional.secuencias-numericas"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "El dado doble: tirar un dado, multiplicar por 3 y después por 6. ¿Qué relación hay entre los dos números?"
+      },
+      {
+        "semana": 21,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "¿De cuántas formas? Combinaciones pequeñas con dibujo",
+        "titulo": "¿De cuántas maneras?",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.3.2",
+          "matematicas.c2.1.2"
+        ],
+        "tiposProblema": [
+          "producto-cartesiano",
+          "diagrama-arbol"
+        ],
+        "reto": "Bocadillos: con 3 panes y 2 rellenos, dibujar todos los bocadillos distintos que se pueden hacer."
+      },
+      {
+        "semana": 22,
+        "trimestre": 2,
+        "tipo": "recordar",
+        "tema": "Tablas del 2 al 6 y combinaciones",
+        "titulo": "Semana de recordar: tablas y combinaciones",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.propiedades"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "producto-cartesiano"
+        ],
+        "recupera": [
+          13,
+          14,
+          18,
+          19,
+          20,
+          21
+        ],
+        "reto": "Bingo de tablas: cartones con resultados; se cantan multiplicaciones y se tapa el resultado."
+      },
+      {
+        "semana": 23,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Dividir es repartir en partes iguales; lo que sobra",
+        "titulo": "Repartir a partes iguales",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.1.2"
+        ],
+        "tiposProblema": [
+          "particion"
+        ],
+        "reto": "Repartir galletas o legumbres en platos para todas las personas de casa. ¿Sobra alguna? ¿Qué hacemos con ella?"
+      },
+      {
+        "semana": 24,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Agrupar: ¿cuántos grupos salen? La división y la tabla",
+        "titulo": "¿Cuántos grupos?",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.propiedades",
+          "matematicas.computacional.igualdades"
+        ],
+        "criterios": [
+          "matematicas.c2.2.2",
+          "matematicas.c2.5.1"
+        ],
+        "tiposProblema": [
+          "particion"
+        ],
+        "reto": "Paquetes de 4: hacer paquetes con pinzas o calcetines y ver que 12 : 4 = 3 porque 3 × 4 = 12. Juego del número escondido: ? × 4 = 12."
+      },
+      {
+        "semana": 25,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Las últimas tablas: 7, 8 y 9 (con la conmutativa solo faltan seis resultados nuevos)",
+        "titulo": "Solo faltan seis",
+        "saberes": [
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.operaciones.propiedades",
+          "matematicas.computacional.secuencias-numericas"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "Los dedos del 9 y el patrón 9, 18, 27, 36…: descubrir por qué las cifras suman siempre 9. Los seis nuevos (7×7, 7×8, 7×9, 8×8, 8×9, 9×9) en una tarjeta en la nevera."
+      },
+      {
+        "semana": 26,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Problemas de dos pasos con suma, resta y multiplicación",
+        "titulo": "Dos pasos",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.1.2",
+          "matematicas.c2.1.3",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "suma-repetida",
+          "dinero"
+        ],
+        "reto": "La merienda: somos 4, cada persona quiere 2 galletas y en el plato ya hay 3. ¿Cuántas faltan? Dibujarlo antes de calcular."
+      },
+      {
+        "semana": 27,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Polígonos: lados, vértices y perímetro",
+        "titulo": "Formas y bordes",
+        "saberes": [
+          "matematicas.geometria.vertices-lados",
+          "matematicas.geometria.poligonos",
+          "matematicas.geometria.perimetros-areas",
+          "matematicas.geometria.lineas"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.7.1"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Cazar polígonos y líneas curvas y rectas por casa (ventanas, baldosas, señales) y medir el borde de una mesa con una cuerda."
+      },
+      {
+        "semana": 28,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Encuesta familiar y gráfico de barras",
+        "titulo": "Preguntar y contar",
+        "saberes": [
+          "matematicas.datos.encuestas",
+          "matematicas.datos.frecuencias",
+          "matematicas.datos.barras",
+          "matematicas.datos.representaciones"
+        ],
+        "criterios": [
+          "matematicas.c2.3.1",
+          "matematicas.c2.5.3"
+        ],
+        "tiposProblema": [
+          "comparar"
+        ],
+        "reto": "Encuesta de la fruta favorita en la familia o entre vecinos: contar con palotes y dibujar las barras en papel cuadriculado. También vale un pictograma: un dibujo de fruta por cada voto."
+      },
+      {
+        "semana": 29,
+        "trimestre": 3,
+        "tipo": "recordar",
+        "tema": "Repartir, tablas, problemas de dos pasos y formas",
+        "titulo": "Semana de recordar: repartir y problemas",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.perseverancia",
+          "matematicas.geometria.poligonos"
+        ],
+        "criterios": [
+          "matematicas.c2.1.2",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "particion",
+          "combinar"
+        ],
+        "recupera": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ],
+        "reto": "Problemas de cocina: cada persona inventa uno con lo que hay en la cocina y otra lo resuelve con dibujos."
+      },
+      {
+        "semana": 30,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Multiplicar por una cifra descomponiendo (23 × 4 = 20 × 4 + 3 × 4)",
+        "titulo": "Partir para multiplicar",
+        "saberes": [
+          "matematicas.operaciones.propiedades",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "Cuatro sobres con 23 € cada uno (2 billetes de 10 y 3 monedas de 1): contar primero los billetes, luego las monedas."
+      },
+      {
+        "semana": 31,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Problemas con datos que sobran",
+        "titulo": "¿Qué datos hacen falta?",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.6.3"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "suma-repetida",
+          "dinero"
+        ],
+        "reto": "Problemas con trampa: la persona adulta cuenta un problema con un dato que no sirve (la edad del perro, el color del coche) y hay que descubrirlo."
+      },
+      {
+        "semana": 32,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "La mitad y el cuarto con objetos",
+        "titulo": "Mitades y cuartos",
+        "saberes": [
+          "matematicas.fracciones.fraccion",
+          "matematicas.fracciones.utilidad"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.5.2"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Pizza de cartón o servilletas: partir en mitades y en cuartos; ¿cuántos cuartos hacen una mitad?"
+      },
+      {
+        "semana": 33,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Tercios; comparar fracciones con objetos (½ es más que ¼)",
+        "titulo": "¿Qué trozo es más grande?",
+        "saberes": [
+          "matematicas.fracciones.fraccion",
+          "matematicas.fracciones.comparar"
+        ],
+        "criterios": [
+          "matematicas.c2.2.1",
+          "matematicas.c2.5.2"
+        ],
+        "tiposProblema": [
+          "comparar"
+        ],
+        "reto": "Tiras iguales de papel dobladas en 2, 3 y 4 partes: ponerlas una encima de otra y comparar los trozos."
+      },
+      {
+        "semana": 34,
+        "trimestre": 3,
+        "tipo": "recordar",
+        "tema": "Tablas, multiplicar por una cifra, problemas y fracciones",
+        "titulo": "Semana de recordar: multiplicar y fracciones",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.fraccion",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "comparar"
+        ],
+        "recupera": [
+          25,
+          26,
+          30,
+          31,
+          32,
+          33
+        ],
+        "rapidez": true,
+        "reto": "Cartas rápidas con todas las tablas y récord personal; después, partir una tortilla de papel para los que han jugado."
+      },
+      {
+        "semana": 35,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Multiplicar por una cifra con llevada y estimar antes",
+        "titulo": "Multiplicar y estimar",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.3.4",
+          "matematicas.c2.1.3"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "dinero"
+        ],
+        "reto": "La excursión: 4 entradas de 18 €. Primero a ojo (¿más o menos de 80 €?) y después la cuenta."
+      },
+      {
+        "semana": 36,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Medir longitudes: metro y centímetro; estimar antes de medir",
+        "titulo": "¿Cuánto mide?",
+        "saberes": [
+          "matematicas.medida.instrumentos",
+          "matematicas.medida.unidades",
+          "matematicas.medida.no-convencionales"
+        ],
+        "criterios": [
+          "matematicas.c2.3.4",
+          "matematicas.c2.5.1"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Palmos, pasos y metro: estimar cuánto mide la mesa o el pasillo, medir con el metro y ver quién se acercó más."
+      },
+      {
+        "semana": 37,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Masa y capacidad: kilo, medio kilo y gramo; litro y medio litro",
+        "titulo": "¿Cuánto pesa? ¿Cuánto cabe?",
+        "saberes": [
+          "matematicas.medida.magnitudes",
+          "matematicas.medida.unidades",
+          "matematicas.medida.instrumentos"
+        ],
+        "criterios": [
+          "matematicas.c2.3.2",
+          "matematicas.c2.5.2"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Etiquetas de la despensa (500 g, 1 kg, 1 l): ordenarlas y llenar una botella de litro con vasos de medio litro, siempre con una persona adulta."
+      },
+      {
+        "semana": 38,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Seguro, posible e imposible",
+        "titulo": "¿Seguro, posible o imposible?",
+        "saberes": [
+          "matematicas.probabilidad.intuitiva",
+          "matematicas.probabilidad.aleatorio",
+          "matematicas.probabilidad.emociones"
+        ],
+        "criterios": [
+          "matematicas.c2.3.4",
+          "matematicas.c2.7.2"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "La bolsa de calcetines: antes de sacar uno sin mirar, decir si es seguro, posible o imposible que salga rojo."
+      },
+      {
+        "semana": 39,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Problemas mezclados: elegir la operación",
+        "titulo": "¿Qué operación toca?",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.1.2",
+          "matematicas.c2.6.3"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "detraccion",
+          "suma-repetida",
+          "particion"
+        ],
+        "reto": "Tarjetas de problemas cortos: clasificarlos en sumar, restar, multiplicar o repartir antes de resolverlos."
+      },
+      {
+        "semana": 40,
+        "trimestre": 3,
+        "tipo": "recordar",
+        "tema": "Todo el curso: números, operaciones, medida y fracciones",
+        "titulo": "Semana de recordar: todo el curso",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.medida.unidades",
+          "matematicas.fracciones.fraccion",
+          "matematicas.medida.cooperativo"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "particion",
+          "medida"
+        ],
+        "recupera": [
+          7,
+          15,
+          25,
+          35,
+          36,
+          37,
+          38,
+          39
+        ],
+        "reto": "La gymkana de casa: cinco puestos (medir, pesar, repartir, la tienda, la hora) y en cada uno una pregunta."
+      },
+      {
+        "semana": 41,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Juegos de estrategia sin azar",
+        "titulo": "Juegos para pensar",
+        "saberes": [
+          "matematicas.computacional.juegos-estrategia",
+          "matematicas.computacional.algoritmos"
+        ],
+        "criterios": [
+          "matematicas.c2.4.4",
+          "matematicas.c2.7.1"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "nota": "Cierre del curso: mirar juntos el jardín.",
+        "reto": "Tres en raya y el juego de los palillos (quitar 1, 2 o 3; pierde quien coge el último): ¿hay una forma de ganar siempre?"
+      }
+    ],
+    "4": [
+      {
+        "semana": 1,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Números de cuatro y cinco cifras: leer, escribir y descomponer",
+        "titulo": "Números con muchas cifras",
+        "saberes": [
+          "matematicas.numeros.millar",
+          "matematicas.numeros.sistema-decimal",
+          "matematicas.numeros.usos-sociales"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.5.3"
+        ],
+        "tiposProblema": [
+          "combinar"
+        ],
+        "reto": "Cazar números grandes en el folleto, el ticket o el calendario y leerlos en voz alta."
+      },
+      {
+        "semana": 2,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Valor de cada cifra hasta la centena de millar",
+        "titulo": "¿Cuánto vale cada cifra?",
+        "saberes": [
+          "matematicas.numeros.millar",
+          "matematicas.numeros.sistema-decimal"
+        ],
+        "criterios": [
+          "matematicas.c2.5.3",
+          "matematicas.c2.2.3"
+        ],
+        "tiposProblema": [
+          "combinar"
+        ],
+        "reto": "Cartas de cifras: sacar seis cartas del 0 al 9 y formar el número más grande y el más pequeño; leerlos."
+      },
+      {
+        "semana": 3,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Comparar, ordenar y aproximar a la centena y al millar",
+        "titulo": "¿Más cerca de cuál?",
+        "saberes": [
+          "matematicas.numeros.recta-comparar",
+          "matematicas.operaciones.igualdad",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.3.4"
+        ],
+        "tiposProblema": [
+          "comparar"
+        ],
+        "reto": "La cuerda del 0 al 1000: colgar precios de un folleto y decir a qué centena están más cerca."
+      },
+      {
+        "semana": 4,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Suma con llevada de cuatro y cinco cifras; estimar antes de sumar",
+        "titulo": "Sumas grandes, primero a ojo",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.3.4"
+        ],
+        "tiposProblema": [
+          "anadir",
+          "combinar"
+        ],
+        "reto": "Viaje imaginario: sumar los kilómetros de un viaje por etapas en un mapa, después de adivinar el total."
+      },
+      {
+        "semana": 5,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Significados de la resta con números grandes; elegir la operación",
+        "titulo": "¿Quitar, comparar o cuánto falta?",
+        "saberes": [
+          "matematicas.operaciones.suma-resta"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.1.2",
+          "matematicas.c2.6.3"
+        ],
+        "tiposProblema": [
+          "detraccion",
+          "comparar",
+          "escala-ascendente"
+        ],
+        "reto": "Números de la familia: comparar años de nacimiento y alturas, y decir qué clase de resta es cada pregunta."
+      },
+      {
+        "semana": 6,
+        "trimestre": 1,
+        "tipo": "recordar",
+        "tema": "Números grandes, sumas y restas",
+        "titulo": "Semana de recordar: números grandes",
+        "saberes": [
+          "matematicas.numeros.millar",
+          "matematicas.operaciones.suma-resta"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "detraccion"
+        ],
+        "recupera": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "reto": "La carrera al 10 000: con dados, formar números de cuatro cifras y sumarlos por turnos hasta llegar a 10 000."
+      },
+      {
+        "semana": 7,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Resta con llevada con ceros en medio (1000 − 365)",
+        "titulo": "Restas con ceros",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.numeros.sistema-decimal",
+          "matematicas.operaciones.frustracion"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.8.1"
+        ],
+        "tiposProblema": [
+          "detraccion"
+        ],
+        "reto": "Billetes de papel de 1000, 100, 10 y monedas de 1: pagar 365 con un billete de 1000 y cambiar paso a paso."
+      },
+      {
+        "semana": 8,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Comprobar restas con la suma y estimar si el resultado tiene sentido",
+        "titulo": "¿Seguro? Lo comprobamos",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.1.3",
+          "matematicas.c2.6.3"
+        ],
+        "tiposProblema": [
+          "escala-ascendente"
+        ],
+        "reto": "Detectives de restas: la persona adulta hace tres restas y una tiene un despiste a propósito. ¿Cuál es y cómo lo sabéis?"
+      },
+      {
+        "semana": 9,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Redondear y compensar para calcular de cabeza (49 + 26 = 50 + 25)",
+        "titulo": "Trucos para calcular de cabeza",
+        "saberes": [
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.operaciones.propiedades"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.6.4"
+        ],
+        "tiposProblema": [
+          "anadir",
+          "detraccion"
+        ],
+        "reto": "¿Cómo lo has pensado?: cada persona calcula la misma suma de cabeza y cuenta su truco; se comparan los trucos."
+      },
+      {
+        "semana": 10,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Duraciones y horario de 24 horas",
+        "titulo": "¿Cuánto falta?",
+        "saberes": [
+          "matematicas.medida.magnitudes",
+          "matematicas.medida.unidades"
+        ],
+        "criterios": [
+          "matematicas.c2.3.2",
+          "matematicas.c2.1.3"
+        ],
+        "tiposProblema": [
+          "tiempo",
+          "escala-ascendente"
+        ],
+        "reto": "El horario del sábado: apuntar a qué hora empieza y acaba cada cosa y calcular cuánto dura."
+      },
+      {
+        "semana": 11,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Volver a todas las tablas con estrategias",
+        "titulo": "Todas las tablas",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.operaciones.propiedades"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "rapidez": true,
+        "reto": "Cartas rápidas: se sacan dos cartas y gana quien diga antes el producto. Dos minutos de cronómetro y récord personal."
+      },
+      {
+        "semana": 12,
+        "trimestre": 1,
+        "tipo": "recordar",
+        "tema": "Restas con ceros, tiempo y tablas",
+        "titulo": "Semana de recordar: restas, horas y tablas",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.medida.magnitudes",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.1"
+        ],
+        "tiposProblema": [
+          "detraccion",
+          "tiempo",
+          "suma-repetida"
+        ],
+        "recupera": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "reto": "Dominó de tablas hecho en casa con cartulina: en un lado la multiplicación, en el otro un resultado."
+      },
+      {
+        "semana": 13,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Multiplicar por una cifra con llevada; por 10 y por 100",
+        "titulo": "Multiplicar números grandes",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.propiedades"
+        ],
+        "criterios": [
+          "matematicas.c2.5.3",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "dinero"
+        ],
+        "reto": "La merienda para 8: precios enteros del folleto multiplicados por el número de personas."
+      },
+      {
+        "semana": 14,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Estimar productos y comprobar si el resultado es razonable",
+        "titulo": "¿Cuánto saldrá, más o menos?",
+        "saberes": [
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.3.4",
+          "matematicas.c2.1.3"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "Adivina antes de contar: estimar cuántas baldosas hay en el suelo y comprobarlo multiplicando filas por columnas."
+      },
+      {
+        "semana": 15,
+        "trimestre": 1,
+        "tipo": "tema",
+        "tema": "Presupuesto y vuelta con euros y céntimos",
+        "titulo": "Con 20 € en el súper",
+        "saberes": [
+          "matematicas.medida.magnitudes",
+          "matematicas.operaciones.suma-resta",
+          "matematicas.fracciones.utilidad"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.7.2"
+        ],
+        "tiposProblema": [
+          "dinero",
+          "combinar"
+        ],
+        "reto": "La tienda: con 20 € de papel, comprar dos productos del folleto y calcular la vuelta, primero con monedas y después por escrito."
+      },
+      {
+        "semana": 16,
+        "trimestre": 2,
+        "tipo": "recordar",
+        "tema": "Números grandes, restas, tablas y dinero",
+        "titulo": "Semana de recordar: juegos en familia",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.numeros.cooperativo"
+        ],
+        "criterios": [
+          "matematicas.c2.7.1",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "suma-repetida",
+          "dinero"
+        ],
+        "recupera": [
+          3,
+          4,
+          7,
+          11,
+          13,
+          15
+        ],
+        "nota": "Suele caer en Navidad: propuesta ligera.",
+        "reto": "Juegos de mesa de casa con un cambio: cada casilla vale el doble, o los puntos se multiplican por el dado."
+      },
+      {
+        "semana": 17,
+        "trimestre": 2,
+        "tipo": "recordar",
+        "tema": "Cálculo mental y todas las tablas",
+        "titulo": "Semana de recordar: cartas y dados",
+        "saberes": [
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "recupera": [
+          9,
+          11,
+          14
+        ],
+        "rapidez": true,
+        "nota": "Suele caer en Navidad: propuesta ligera.",
+        "reto": "Cartas rápidas con todas las tablas: ¿mejoramos el récord de la semana 11?"
+      },
+      {
+        "semana": 18,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Multiplicar por dos cifras descomponiendo (23 × 14 = 23 × 10 + 23 × 4)",
+        "titulo": "Partir para multiplicar",
+        "saberes": [
+          "matematicas.operaciones.propiedades",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "Rectángulos en papel cuadriculado: dibujar uno de 23 × 14 y partirlo en trozos fáciles de contar."
+      },
+      {
+        "semana": 19,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Propiedades conmutativa, asociativa y distributiva para calcular de cabeza (25 × 4 × 7)",
+        "titulo": "Cambiar el orden para calcular mejor",
+        "saberes": [
+          "matematicas.operaciones.propiedades",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.2.2",
+          "matematicas.c2.6.4"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "reto": "El camino más corto: con tres multiplicaciones, cada persona busca el orden que las hace más fáciles y lo explica."
+      },
+      {
+        "semana": 20,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Multiplicar por dos cifras: estimar y comprobar",
+        "titulo": "Multiplicar y comprobar",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.3.4",
+          "matematicas.c2.1.3"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "dinero"
+        ],
+        "reto": "El pan de 12 semanas: ¿cuánto gasta la familia en pan en 12 semanas? Primero a ojo, después la cuenta."
+      },
+      {
+        "semana": 21,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Combinaciones con diagrama de árbol y multiplicación",
+        "titulo": "Árboles de combinaciones",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.3.2",
+          "matematicas.c2.2.2"
+        ],
+        "tiposProblema": [
+          "producto-cartesiano",
+          "diagrama-arbol"
+        ],
+        "reto": "El menú: 3 primeros, 4 segundos y 2 postres. Dibujar el árbol y descubrir la multiplicación que lo cuenta."
+      },
+      {
+        "semana": 22,
+        "trimestre": 2,
+        "tipo": "recordar",
+        "tema": "Multiplicar por dos cifras, propiedades y combinaciones",
+        "titulo": "Semana de recordar: multiplicar",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.propiedades"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "producto-cartesiano"
+        ],
+        "recupera": [
+          13,
+          14,
+          18,
+          19,
+          20,
+          21
+        ],
+        "reto": "Bingo de productos: cartones con resultados de multiplicaciones por una cifra; se cantan las operaciones."
+      },
+      {
+        "semana": 23,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Dividir entre una cifra repartiendo billetes y monedas",
+        "titulo": "Repartir el dinero",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.numeros.sistema-decimal"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.2.4"
+        ],
+        "tiposProblema": [
+          "particion",
+          "dinero"
+        ],
+        "reto": "Repartir 74 € (7 billetes de 10 y 4 monedas de 1) entre 3 personas, cambiando billetes por monedas cuando no llegan."
+      },
+      {
+        "semana": 24,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Comprobar la división con la multiplicación: dividendo, divisor, cociente y resto",
+        "titulo": "Dividir y comprobar",
+        "saberes": [
+          "matematicas.operaciones.propiedades",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.computacional.igualdades"
+        ],
+        "criterios": [
+          "matematicas.c2.1.3",
+          "matematicas.c2.2.2"
+        ],
+        "tiposProblema": [
+          "particion"
+        ],
+        "reto": "Detectives de divisiones: una de tres tiene un despiste a propósito; se descubre multiplicando. Y el número escondido: 84 : ? = 7."
+      },
+      {
+        "semana": 25,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Múltiplos y divisores: las tablas al revés",
+        "titulo": "Múltiplos y divisores",
+        "saberes": [
+          "matematicas.numeros.multiplos-divisores",
+          "matematicas.computacional.secuencias-numericas"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.4.2"
+        ],
+        "tiposProblema": [
+          "particion"
+        ],
+        "reto": "Rectángulos con 12 botones: ¿de cuántas formas se pueden colocar en filas iguales? Así aparecen los divisores de 12."
+      },
+      {
+        "semana": 26,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Problemas de dos pasos con las cuatro operaciones",
+        "titulo": "Dos pasos",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.1.2",
+          "matematicas.c2.1.3",
+          "matematicas.c2.6.3"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "suma-repetida",
+          "particion",
+          "dinero"
+        ],
+        "reto": "Inventar un problema de dos pasos a partir del ticket de la compra para que lo resuelva otra persona de casa."
+      },
+      {
+        "semana": 27,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Perímetro y área contando cuadrados; ángulos rectos",
+        "titulo": "Bordes y superficies",
+        "saberes": [
+          "matematicas.geometria.perimetros-areas",
+          "matematicas.geometria.angulos",
+          "matematicas.geometria.poligonos",
+          "matematicas.geometria.posiciones-rectas",
+          "matematicas.geometria.estrategias"
+        ],
+        "criterios": [
+          "matematicas.c2.3.2",
+          "matematicas.c2.5.3"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Contar baldosas de una habitación (área) y medir el borde (perímetro); la esquina de un folio sirve para encontrar ángulos rectos. Las juntas de las baldosas muestran rectas paralelas y perpendiculares."
+      },
+      {
+        "semana": 28,
+        "trimestre": 2,
+        "tipo": "tema",
+        "tema": "Gráfico de barras, moda y rango",
+        "titulo": "Lo que cuentan los datos",
+        "saberes": [
+          "matematicas.datos.barras",
+          "matematicas.datos.medidas-centrales",
+          "matematicas.datos.rango",
+          "matematicas.datos.interpretacion",
+          "matematicas.datos.respeto"
+        ],
+        "criterios": [
+          "matematicas.c2.3.2",
+          "matematicas.c2.6.3"
+        ],
+        "tiposProblema": [
+          "comparar"
+        ],
+        "reto": "La temperatura de la semana: apuntar la máxima de cada día, dibujar las barras y buscar la más repetida (moda) y la diferencia entre la más alta y la más baja (rango)."
+      },
+      {
+        "semana": 29,
+        "trimestre": 3,
+        "tipo": "recordar",
+        "tema": "Dividir, múltiplos, problemas de dos pasos y geometría",
+        "titulo": "Semana de recordar: dividir y problemas",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.numeros.multiplos-divisores",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.1.2",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "particion",
+          "combinar"
+        ],
+        "recupera": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ],
+        "reto": "Problemas de cocina: cada persona inventa uno con lo que hay en la cocina y otra lo resuelve."
+      },
+      {
+        "semana": 30,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Multiplicar y dividir naturales por 10, 100 y 1000",
+        "titulo": "Por 10, por 100, por 1000",
+        "saberes": [
+          "matematicas.operaciones.calculo-mental",
+          "matematicas.numeros.sistema-decimal",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.4.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "particion"
+        ],
+        "reto": "La máquina de las cifras: una tabla de valor posicional dibujada; una persona dice un número y una orden (× 100, : 10) y la otra mueve las cifras."
+      },
+      {
+        "semana": 31,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Problemas con datos que sobran",
+        "titulo": "¿Qué datos hacen falta?",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.6.3"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "particion",
+          "dinero"
+        ],
+        "reto": "Una receta con trampa: responder preguntas sobre una receta y después inventar un dato que no sirva para nada."
+      },
+      {
+        "semana": 32,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "La fracción como parte de un todo y como medida",
+        "titulo": "Partes de un todo",
+        "saberes": [
+          "matematicas.fracciones.fraccion",
+          "matematicas.fracciones.utilidad"
+        ],
+        "criterios": [
+          "matematicas.c2.5.1",
+          "matematicas.c2.5.2"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Recetas y tiras de papel: medio litro, un cuarto de kilo; doblar tiras en partes iguales y nombrar cada parte."
+      },
+      {
+        "semana": 33,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Fracciones en la recta: comparar con 0, ½ y 1",
+        "titulo": "Fracciones en la cinta",
+        "saberes": [
+          "matematicas.fracciones.fraccion",
+          "matematicas.fracciones.comparar",
+          "matematicas.numeros.recta-comparar"
+        ],
+        "criterios": [
+          "matematicas.c2.5.3",
+          "matematicas.c2.2.1"
+        ],
+        "tiposProblema": [
+          "comparar"
+        ],
+        "reto": "La cinta métrica de costura: marcar ½, ¼ y ¾ de un metro y colocar otras fracciones antes o después de la mitad."
+      },
+      {
+        "semana": 34,
+        "trimestre": 3,
+        "tipo": "recordar",
+        "tema": "Multiplicar y dividir, × 10, 100, 1000, problemas y fracciones",
+        "titulo": "Semana de recordar: fracciones y cálculo",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.fraccion",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida",
+          "comparar"
+        ],
+        "recupera": [
+          25,
+          26,
+          30,
+          31,
+          32,
+          33
+        ],
+        "rapidez": true,
+        "reto": "Cartas rápidas con todas las tablas y récord personal; después, ordenar en la cinta tarjetas con fracciones."
+      },
+      {
+        "semana": 35,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Décimas: de la fracción al decimal en la recta (1/10 = 0,1)",
+        "titulo": "Décimas",
+        "saberes": [
+          "matematicas.fracciones.decimales",
+          "matematicas.fracciones.fraccion",
+          "matematicas.numeros.recta-comparar"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.5.3"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "El metro en diez trozos: cada trozo de 10 cm es 0,1 m; medir cosas de casa en décimas de metro."
+      },
+      {
+        "semana": 36,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Centésimas: euros y céntimos, metros y centímetros (1,25 m)",
+        "titulo": "Centésimas",
+        "saberes": [
+          "matematicas.fracciones.decimales",
+          "matematicas.medida.unidades",
+          "matematicas.fracciones.utilidad"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.7.2"
+        ],
+        "tiposProblema": [
+          "medida",
+          "dinero"
+        ],
+        "reto": "Las alturas de la familia: medirlas en metros con dos decimales y ordenarlas de mayor a menor."
+      },
+      {
+        "semana": 37,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Milésimas; multiplicar y dividir decimales por 10, 100 y 1000 al cambiar de unidad",
+        "titulo": "Por 10, 100 y 1000 con decimales",
+        "saberes": [
+          "matematicas.fracciones.por-10-100-1000",
+          "matematicas.fracciones.decimales",
+          "matematicas.medida.unidades"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.5.3"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Etiquetas de la compra: 0,250 kg son 250 g; pasar pesos y medidas de una unidad a otra con la tabla de valor posicional."
+      },
+      {
+        "semana": 38,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Sucesos y espacio muestral; experimentar con dados",
+        "titulo": "¿Qué puede salir?",
+        "saberes": [
+          "matematicas.probabilidad.suceso",
+          "matematicas.probabilidad.espacio-muestral",
+          "matematicas.probabilidad.estimacion"
+        ],
+        "criterios": [
+          "matematicas.c2.3.4",
+          "matematicas.c2.2.1"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Dos dados, 30 tiradas: antes, predecir qué suma saldrá más; después, apuntar y comprobar."
+      },
+      {
+        "semana": 39,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Problemas mezclados con naturales y decimales: elegir la operación",
+        "titulo": "¿Qué operación toca?",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.perseverancia"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.1.2",
+          "matematicas.c2.6.4"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "detraccion",
+          "suma-repetida",
+          "particion",
+          "dinero"
+        ],
+        "reto": "Tarjetas de problemas cortos: clasificarlos por operación y explicar por qué antes de resolverlos."
+      },
+      {
+        "semana": 40,
+        "trimestre": 3,
+        "tipo": "recordar",
+        "tema": "Todo el curso: números grandes, operaciones, decimales y medida",
+        "titulo": "Semana de recordar: todo el curso",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.fracciones.decimales",
+          "matematicas.medida.unidades",
+          "matematicas.medida.cooperativo"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "combinar",
+          "particion",
+          "medida",
+          "dinero"
+        ],
+        "recupera": [
+          7,
+          15,
+          25,
+          35,
+          36,
+          37,
+          38,
+          39
+        ],
+        "reto": "La gymkana de casa: cinco puestos (medir, pesar, repartir, la tienda, la hora) y en cada uno una pregunta."
+      },
+      {
+        "semana": 41,
+        "trimestre": 3,
+        "tipo": "tema",
+        "tema": "Estrategias ganadoras en juegos sin azar",
+        "titulo": "Juegos para pensar",
+        "saberes": [
+          "matematicas.computacional.juegos-estrategia",
+          "matematicas.computacional.algoritmos"
+        ],
+        "criterios": [
+          "matematicas.c2.4.4",
+          "matematicas.c2.6.4"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "nota": "Cierre del ciclo: mirar juntos el jardín.",
+        "reto": "El juego de los palillos con 15 (quitar 1, 2 o 3; pierde quien coge el último): descubrir cómo ganar siempre y explicar la regla."
+      }
+    ]
+  },
+  "verano": {
+    "3": [
+      {
+        "id": "verano-01",
+        "tema": "Tablas al aire libre",
+        "titulo": "Tablas de verano",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "rapidez": true,
+        "reto": "Cartas rápidas en la playa, el parque o la terraza: ¿mejoramos el récord del curso?"
+      },
+      {
+        "id": "verano-02",
+        "tema": "Valor posicional con matrículas y números de portal",
+        "titulo": "Números de la calle",
+        "saberes": [
+          "matematicas.numeros.millar",
+          "matematicas.numeros.sistema-decimal"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.7.1"
+        ],
+        "tiposProblema": [
+          "comparar"
+        ],
+        "reto": "Leer matrículas de cuatro cifras en un paseo y decir cuál es la mayor."
+      },
+      {
+        "id": "verano-03",
+        "tema": "Simetrías",
+        "titulo": "Mariposas de pintura",
+        "saberes": [
+          "matematicas.geometria.transformaciones"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.7.1"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Pintar media mariposa, doblar el papel y abrirlo: buscar más simetrías en hojas, ventanas y letras."
+      },
+      {
+        "id": "verano-04",
+        "tema": "Mapas, flechas y puntos cardinales",
+        "titulo": "El tesoro escondido",
+        "saberes": [
+          "matematicas.geometria.localizacion",
+          "matematicas.computacional.algoritmos"
+        ],
+        "criterios": [
+          "matematicas.c2.5.3",
+          "matematicas.c2.4.1"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Esconder un objeto y dibujar un mapa con flechas (3 pasos al norte, 2 al este) para encontrarlo."
+      },
+      {
+        "id": "verano-05",
+        "tema": "Restas con llevada y la vuelta",
+        "titulo": "En el mercado",
+        "saberes": [
+          "matematicas.operaciones.suma-resta",
+          "matematicas.medida.magnitudes"
+        ],
+        "criterios": [
+          "matematicas.c2.1.3",
+          "matematicas.c2.7.2"
+        ],
+        "tiposProblema": [
+          "dinero",
+          "escala-ascendente"
+        ],
+        "reto": "En el mercado o la heladería: calcular la vuelta antes de que la den y comprobar."
+      },
+      {
+        "id": "verano-06",
+        "tema": "Cajas y cubos: caras, aristas y vértices",
+        "titulo": "Cajas por dentro y por fuera",
+        "saberes": [
+          "matematicas.geometria.poliedros"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.2.1"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Contar caras, aristas y vértices de cajas de casa; desmontar una y ver su forma plana."
+      },
+      {
+        "id": "verano-07",
+        "tema": "Patrones y secuencias",
+        "titulo": "Collares con patrón",
+        "saberes": [
+          "matematicas.computacional.secuencias-figuras",
+          "matematicas.computacional.secuencias-numericas"
+        ],
+        "criterios": [
+          "matematicas.c2.4.2",
+          "matematicas.c2.2.3"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Collares de pasta o cuentas con un patrón; la otra persona adivina qué viene después."
+      },
+      {
+        "id": "verano-08",
+        "tema": "Repartir",
+        "titulo": "El picnic",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.1.2",
+          "matematicas.c2.5.1"
+        ],
+        "tiposProblema": [
+          "particion"
+        ],
+        "reto": "Repartir la comida del picnic a partes iguales y decidir qué hacer con lo que sobra."
+      },
+      {
+        "id": "verano-09",
+        "tema": "Horarios y duraciones",
+        "titulo": "El reloj del verano",
+        "saberes": [
+          "matematicas.medida.magnitudes",
+          "matematicas.medida.unidades"
+        ],
+        "criterios": [
+          "matematicas.c2.3.2",
+          "matematicas.c2.5.2"
+        ],
+        "tiposProblema": [
+          "tiempo"
+        ],
+        "reto": "Apuntar a qué hora sale y se pone el sol tres días seguidos: ¿cuánto dura el día?"
+      },
+      {
+        "id": "verano-10",
+        "tema": "Inventar problemas",
+        "titulo": "Historias con números",
+        "saberes": [
+          "matematicas.fracciones.perseverancia",
+          "matematicas.operaciones.suma-resta",
+          "matematicas.operaciones.producto-cociente"
+        ],
+        "criterios": [
+          "matematicas.c2.1.4",
+          "matematicas.c2.6.2"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Inventar un problema sobre un viaje o una excursión del verano y que lo resuelva otra persona de casa."
+      }
+    ],
+    "4": [
+      {
+        "id": "verano-01",
+        "tema": "Todas las tablas al aire libre",
+        "titulo": "Tablas de verano",
+        "saberes": [
+          "matematicas.operaciones.producto-cociente",
+          "matematicas.operaciones.calculo-mental"
+        ],
+        "criterios": [
+          "matematicas.c2.2.4",
+          "matematicas.c2.8.2"
+        ],
+        "tiposProblema": [
+          "suma-repetida"
+        ],
+        "rapidez": true,
+        "reto": "Cartas rápidas con todas las tablas: ¿mejoramos el récord del curso?"
+      },
+      {
+        "id": "verano-02",
+        "tema": "Múltiplos y criterios de divisibilidad",
+        "titulo": "¡Pum!",
+        "saberes": [
+          "matematicas.numeros.multiplos-divisores",
+          "matematicas.computacional.secuencias-numericas"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.4.2"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Contar por turnos del 1 en adelante y decir «¡pum!» en vez de los múltiplos de 3 (después, de 4 o de 6)."
+      },
+      {
+        "id": "verano-03",
+        "tema": "Decimales en la recta",
+        "titulo": "La cinta de los decimales",
+        "saberes": [
+          "matematicas.fracciones.decimales",
+          "matematicas.numeros.recta-comparar"
+        ],
+        "criterios": [
+          "matematicas.c2.5.3",
+          "matematicas.c2.5.2"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Con una cinta métrica, colocar tarjetas como 0,5; 0,25; 1,1 y 0,75 en su sitio."
+      },
+      {
+        "id": "verano-04",
+        "tema": "Simetrías, giros y traslaciones",
+        "titulo": "Mosaicos",
+        "saberes": [
+          "matematicas.geometria.transformaciones",
+          "matematicas.geometria.poligonos",
+          "matematicas.geometria.concavidad"
+        ],
+        "criterios": [
+          "matematicas.c2.2.3",
+          "matematicas.c2.7.3"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Buscar mosaicos en suelos y paredes y dibujar uno propio girando y moviendo una misma figura. ¿Alguna figura tiene «cueva» (cóncava)?"
+      },
+      {
+        "id": "verano-05",
+        "tema": "Coordenadas en una cuadrícula",
+        "titulo": "El tesoro en la cuadrícula",
+        "saberes": [
+          "matematicas.geometria.localizacion",
+          "matematicas.computacional.algoritmos"
+        ],
+        "criterios": [
+          "matematicas.c2.5.3",
+          "matematicas.c2.4.1"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Esconder tesoros en una cuadrícula dibujada (B3, D5) y encontrarlos dando coordenadas."
+      },
+      {
+        "id": "verano-06",
+        "tema": "Ángulos y triángulos",
+        "titulo": "Cazar ángulos",
+        "saberes": [
+          "matematicas.geometria.angulos"
+        ],
+        "criterios": [
+          "matematicas.c2.5.2",
+          "matematicas.c2.7.1"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Con un abanico de papel, buscar ángulos más pequeños, iguales o más grandes que la esquina de un folio."
+      },
+      {
+        "id": "verano-07",
+        "tema": "La circunferencia y el círculo",
+        "titulo": "Vueltas y círculos",
+        "saberes": [
+          "matematicas.geometria.circunferencia",
+          "matematicas.medida.instrumentos"
+        ],
+        "criterios": [
+          "matematicas.c2.2.1",
+          "matematicas.c2.3.2"
+        ],
+        "tiposProblema": [
+          "medida"
+        ],
+        "reto": "Medir con una cuerda el borde de platos y vasos y compararlo con lo que miden de lado a lado: ¿qué se descubre?"
+      },
+      {
+        "id": "verano-08",
+        "tema": "Presupuesto de vacaciones con decimales",
+        "titulo": "El presupuesto del verano",
+        "saberes": [
+          "matematicas.fracciones.decimales",
+          "matematicas.medida.magnitudes",
+          "matematicas.fracciones.utilidad"
+        ],
+        "criterios": [
+          "matematicas.c2.1.1",
+          "matematicas.c2.7.2"
+        ],
+        "tiposProblema": [
+          "dinero",
+          "combinar"
+        ],
+        "reto": "Planear una excursión con 30 €: entradas, bocadillos y transporte con precios con céntimos."
+      },
+      {
+        "id": "verano-09",
+        "tema": "La media aritmética",
+        "titulo": "Lo normal",
+        "saberes": [
+          "matematicas.datos.medidas-centrales",
+          "matematicas.datos.frecuencias"
+        ],
+        "criterios": [
+          "matematicas.c2.3.2",
+          "matematicas.c2.6.3"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Apuntar cuántos minutos se lee cada día durante una semana y repartir el total a partes iguales entre los días: eso es la media."
+      },
+      {
+        "id": "verano-10",
+        "tema": "Algoritmos con instrucciones",
+        "titulo": "El robot de casa",
+        "saberes": [
+          "matematicas.computacional.algoritmos",
+          "matematicas.computacional.cooperativo"
+        ],
+        "criterios": [
+          "matematicas.c2.4.1",
+          "matematicas.c2.6.2"
+        ],
+        "tiposProblema": [
+          "abierta"
+        ],
+        "reto": "Una persona hace de robot y la otra le da instrucciones exactas para dibujar una figura o llegar a la cocina."
+      }
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "reglaSemana1": "La semana 1 es la semana (lunes a domingo) que contiene el 9 de septiembre del año de curso.",
+  "diaReferencia": { "mes": 9, "dia": 9 },
+  "inicioCurso": {},
+  "nota": "inicioCurso permite corregir un año concreto sin tocar el contenido, p. ej. { \"2027\": \"2027-09-08\" }: la semana 1 será la que contenga esa fecha.",
+  "semanas": 41,
+  "veranos": 10,
+  "trimestres": [
+    { "trimestre": 1, "desde": 1, "hasta": 15 },
+    { "trimestre": 2, "desde": 16, "hasta": 28 },
+    { "trimestre": 3, "desde": 29, "hasta": 41 }
+  ]
+}

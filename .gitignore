@@ -1,0 +1,7 @@
+# Material de inspiración: nunca subir al repositorio
+inspiration/
+
+node_modules/
+dist/
+test-results/
+playwright-report/
