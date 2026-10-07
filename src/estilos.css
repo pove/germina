@@ -417,6 +417,15 @@ html[dir='rtl'] .flecha-texto {
   transform: rotate(-135deg) translate(-2px, -2px);
 }
 
+/* En árabe los bordes lógicos cambian de lado: se gira al revés para que siga apuntando abajo (y arriba al abrir) */
+html[dir='rtl'] .boton-plegable::after {
+  transform: rotate(-45deg) translate(2px, -2px);
+}
+
+html[dir='rtl'] .boton-plegable[aria-expanded='true']::after {
+  transform: rotate(135deg) translate(2px, -2px);
+}
+
 .boton-plegable[aria-expanded='true'] {
   background: var(--tarjeta);
   border-color: var(--acento);
