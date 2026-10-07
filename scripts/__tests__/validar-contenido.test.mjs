@@ -482,8 +482,8 @@ describe('pictogramas', () => {
   const ruta = (n) => `src/assets/pictos/${n}.svg`;
   const esquema = JSON.parse(readFileSync(join(RAIZ, 'config/esquemas/semilla.schema.json'), 'utf8'));
 
-  it('los 38 de la lista del esquema existen y están bien hechos', () => {
-    expect(esquema.$defs.pictograma.enum).toHaveLength(38);
+  it('los 56 de la lista del esquema existen y están bien hechos', () => {
+    expect(esquema.$defs.pictograma.enum).toHaveLength(56);
     expect(validarContenido().errores.filter((e) => e.archivo.startsWith('src/assets/pictos'))).toEqual([]);
   });
 
