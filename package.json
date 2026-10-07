@@ -13,7 +13,7 @@
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "tipos": "tsc --noEmit",
-    "test": "vitest run",
+    "test": "vitest run --coverage",
     "test:e2e": "playwright test",
     "validar": "node scripts/validar-contenido.mjs && node scripts/mapa-semanas.mjs",
     "check": "npm run tipos && npm test && npm run validar && npm run build && npm run test:e2e"
@@ -27,6 +27,7 @@
     "@playwright/test": "^1.63.0",
     "@preact/preset-vite": "^2.10.6",
     "@types/node": "^26.6.4",
+    "@vitest/coverage-v8": "^5.0.3",
     "ajv": "^8.20.0",
     "typescript": "^7.0.2",
     "vite": "^8.3.3",
