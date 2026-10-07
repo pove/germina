@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s06",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 6,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: números grandes",
+    "va": "Setmana de recordar: nombres grans",
+    "en": "Remembering week: big numbers",
+    "fr": "Semaine pour se souvenir : les grands nombres",
+    "ar": "أسبوع التذكّر: الأعداد الكبيرة"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las cinco primeras: leer números grandes, el valor de cada cifra, redondear, sumar estimando antes y las tres clases de resta. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a allò de les cinc primeres: llegir nombres grans, el valor de cada xifra (cifra), arrodonir (redondear), sumar estimant abans i les tres classes de resta. No hi ha res de nou: és perquè s'assente.",
+    "en": "This week they go back to the first five: reading big numbers, what each digit (cifra) is worth, rounding (redondear), adding with an estimate first and the three kinds of subtraction. There's nothing new: it's so that it all settles.",
+    "fr": "Cette semaine, on revient sur les cinq premières : lire de grands nombres, la valeur de chaque chiffre (cifra), arrondir (redondear), additionner en estimant d'abord et les trois sortes de soustraction. Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الخمسة الأولى: قراءة الأعداد الكبيرة، وقيمة كل رقم (cifra)، والتقريب (redondear)، والجمع بعد التقدير، وأنواع الطرح الثلاثة. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Jugad en equipo, no unos contra otros: sumad todas las tiradas juntos y contad cuántas hacen falta para llegar. Así nadie pierde y todo el mundo comprueba las cuentas.",
+    "va": "Jugueu en equip, no uns contra altres: sumeu totes les tirades junts i compteu quantes en fan falta per a arribar. Així ningú no perd i tothom comprova els comptes.",
+    "en": "Play as a team, not against each other: add all the rolls together and count how many it takes to get there. That way nobody loses and everyone checks the sums.",
+    "fr": "Jouez en équipe, pas les uns contre les autres : additionnez tous les lancers ensemble et comptez combien il en faut pour arriver. Ainsi, personne ne perd et tout le monde vérifie les calculs.",
+    "ar": "العبوا كفريق، لا ضد بعضكم: اجمعوا كل الرميات معًا وعدّوا كم رمية تلزم للوصول. هكذا لا يخسر أحد ويتحقّق الجميع من الحساب."
+  },
+  "saberes": [
+    "matematicas.numeros.millar",
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La carrera al 10 000",
+      "va": "La cursa al 10 000",
+      "en": "The race to 10 000",
+      "fr": "La course jusqu'à 10 000",
+      "ar": "السباق إلى 10 000"
+    },
+    "material": [
+      {
+        "es": "4 dados",
+        "va": "4 daus",
+        "en": "4 dice",
+        "fr": "4 dés",
+        "ar": "4 أحجار نرد"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Por turnos, tirad los cuatro dados y formad un número de cuatro cifras. Elegid el orden: ¿os conviene el más grande o no?",
+          "va": "Per torns, tireu els quatre daus i formeu un nombre de quatre xifres. Trieu l'ordre: us convé el més gran o no?",
+          "en": "Taking turns, roll the four dice and make a four-digit number. Choose the order: is the biggest one the best choice or not?",
+          "fr": "Chacun son tour, lancez les quatre dés et formez un nombre à quatre chiffres. Choisissez l'ordre : le plus grand, c'est le mieux ou pas ?",
+          "ar": "بالدور، ارموا أحجار النرد الأربعة وكوّنوا عددًا من أربعة أرقام. اختاروا الترتيب: هل الأكبر هو الأنسب أم لا؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Sumad cada número al total que llevéis. Por ejemplo: {{3421 + 2564 = 5985}}.",
+          "va": "Sumeu cada nombre al total que porteu. Per exemple: {{3421 + 2564 = 5985}}.",
+          "en": "Add each number to your running total. For example: {{3421 + 2564 = 5985}}.",
+          "fr": "Ajoutez chaque nombre au total que vous avez. Par exemple : {{3421 + 2564 = 5985}}.",
+          "ar": "أضيفوا كل عدد إلى المجموع الذي وصلتم إليه. مثلًا: {{3421 + 2564 = 5985}}."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Antes de dar por buena cada suma, otra persona la estima: 3400 y 2600 son unos 6000. Si se parece, seguid.",
+          "va": "Abans de donar per bona cada suma, una altra persona l'estima: 3400 i 2600 són uns 6000. Si s'hi assembla, seguiu.",
+          "en": "Before accepting each addition, someone else estimates it: 3400 and 2600 make about 6000. If it's similar, carry on.",
+          "fr": "Avant d'accepter chaque addition, une autre personne l'estime : 3400 et 2600 font environ 6000. Si ça ressemble, continuez.",
+          "ar": "قبل قبول كل عملية جمع، يقدّرها شخص آخر: 3400 و2600 تساوي نحو 6000. إذا كانت قريبة، تابعوا."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Cuando el total pase de 10 000, ¡habéis llegado! Contad cuántas tiradas han hecho falta y probad otra vez a ver si llegáis con menos.",
+          "va": "Quan el total passe de 10 000, hi heu arribat! Compteu quantes tirades han fet falta i torneu-ho a intentar per veure si hi arribeu amb menys.",
+          "en": "When the total goes past 10 000, you've made it! Count how many rolls it took and play again to see if you can do it in fewer.",
+          "fr": "Quand le total dépasse 10 000, vous êtes arrivés ! Comptez combien de lancers il a fallu et rejouez pour voir si vous y arrivez avec moins.",
+          "ar": "عندما يتجاوز المجموع 10 000، وصلتم! عدّوا كم رمية احتجتم وأعيدوا اللعب لتروا هل تصلون برميات أقل."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad con tres dados y llegad a 1000.",
+      "va": "Jugueu amb tres daus i arribeu a 1000.",
+      "en": "Play with three dice and race to 1000.",
+      "fr": "Jouez avec trois dés et allez jusqu'à 1000.",
+      "ar": "العبوا بثلاثة أحجار نرد والهدف 1000."
+    },
+    "masDificil": {
+      "es": "Empezad en 10 000 y restad cada tirada. ¿Cuántas hacen falta para bajar de 0?",
+      "va": "Comenceu en 10 000 i resteu cada tirada. Quantes en fan falta per a baixar de 0?",
+      "en": "Start at 10 000 and subtract each roll. How many does it take to go below 0?",
+      "fr": "Commencez à 10 000 et soustrayez chaque lancer. Combien en faut-il pour descendre sous 0 ?",
+      "ar": "ابدؤوا من 10 000 واطرحوا كل رمية. كم رمية تلزم للنزول تحت 0؟"
+    },
+    "paraQueSirve": {
+      "es": "Sumar números grandes una y otra vez, estimando antes, hace que la suma con llevada salga cada vez más fácil y que se vea enseguida si algo no cuadra.",
+      "va": "Sumar nombres grans una vegada i una altra, estimant abans, fa que la suma amb llevada isca cada vegada més fàcil i que es veja de seguida si alguna cosa no quadra.",
+      "en": "Adding big numbers again and again, estimating first, makes adding with carrying easier and easier and shows straight away if something doesn't add up.",
+      "fr": "Additionner de grands nombres encore et encore, en estimant d'abord, rend l'addition avec retenue de plus en plus facile et fait voir tout de suite si quelque chose ne va pas.",
+      "ar": "جمع أعداد كبيرة مرة بعد مرة، مع التقدير أولًا، يجعل الجمع مع الاحتفاظ أسهل فأسهل، ويُظهر فورًا إن كان هناك شيء غير صحيح."
+    },
+    "aviso": {
+      "es": "Guardad los dados lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els daus lluny de germans o germanes menuts.",
+      "en": "Keep the dice away from younger brothers and sisters.",
+      "fr": "Gardez les dés loin des petits frères et sœurs.",
+      "ar": "أبعدوا أحجار النرد عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el número 28 350, ¿cuánto vale el 8?",
+        "va": "En el nombre 28 350, quant val el 8?",
+        "en": "In the number 28 350, what is the 8 worth?",
+        "fr": "Dans le nombre 28 350, combien vaut le 8 ?",
+        "ar": "في العدد 28 350، كم يساوي الرقم 8؟"
+      },
+      "pista": {
+        "es": "Tapa las tres últimas cifras: lo que queda son los miles.",
+        "va": "Tapa les tres últimes xifres: el que queda són els milers.",
+        "en": "Cover the last three digits: what's left is the thousands.",
+        "fr": "Cache les trois derniers chiffres : ce qui reste, ce sont les milliers.",
+        "ar": "لنغطِّ الأرقام الثلاثة الأخيرة: ما يبقى هو الآلاف."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 1000",
+        "resultado": 8000,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Vale 8000.",
+          "va": "Val 8000.",
+          "en": "It's worth 8000.",
+          "fr": "Il vaut 8000.",
+          "ar": "يساوي 8000."
+        }
+      },
+      "inventala": {
+        "es": "Escribe tú un número de cinco cifras y pregunta cuánto vale cada una.",
+        "va": "Escriu tu un nombre de cinc xifres i pregunta quant val cadascuna.",
+        "en": "Write a five-digit number and ask what each digit is worth.",
+        "fr": "Écris un nombre à cinq chiffres et demande ce que vaut chacun.",
+        "ar": "لنكتب عددًا من خمسة أرقام ونسأل كم يساوي كل رقم."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Una librería tiene 1500 libros y vende 360 en una semana. ¿Cuántos le quedan?",
+        "va": "Una llibreria té 1500 llibres i en ven 360 en una setmana. Quants li'n queden?",
+        "en": "A bookshop has 1500 books and sells 360 in a week. How many does it have left?",
+        "fr": "Une librairie a 1500 livres et en vend 360 en une semaine. Combien lui en reste-t-il ?",
+        "ar": "في مكتبة لبيع الكتب 1500 كتاب، وباعت 360 في أسبوع. كم بقي لديها؟"
+      },
+      "pista": {
+        "es": "Puedes quitar primero 300 y luego 60.",
+        "va": "Pots llevar primer 300 i després 60.",
+        "en": "You can take away 300 first and then 60.",
+        "fr": "Tu peux enlever d'abord 300, puis 60.",
+        "ar": "يمكن أن نأخذ 300 أولًا ثم 60."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1500 - 360",
+        "resultado": 1140,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le quedan 1140 libros.",
+          "va": "Li'n queden 1140.",
+          "en": "It has 1140 books left.",
+          "fr": "Il lui reste 1140 livres.",
+          "ar": "بقي لديها 1140 كتابًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de una tienda que vende muchas cosas en una semana.",
+        "va": "Inventa'n tu una d'una botiga que ven moltes coses en una setmana.",
+        "en": "Make one up about a shop that sells lots of things in a week.",
+        "fr": "Invente un problème sur un magasin qui vend beaucoup de choses en une semaine.",
+        "ar": "لنخترع مسألة عن متجر يبيع أشياء كثيرة في أسبوع."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Un museo recibe 1275 visitas el sábado y 1940 el domingo. ¿Cuántas visitas recibe el fin de semana?",
+        "va": "Un museu rep 1275 visites el dissabte i 1940 el diumenge. Quantes visites rep el cap de setmana?",
+        "en": "A museum gets 1275 visitors on Saturday and 1940 on Sunday. How many visitors does it get at the weekend?",
+        "fr": "Un musée reçoit 1275 visiteurs le samedi et 1940 le dimanche. Combien de visiteurs reçoit-il le week-end ?",
+        "ar": "استقبل متحف 1275 زائرًا يوم السبت و1940 يوم الأحد. كم زائرًا استقبل في نهاية الأسبوع؟"
+      },
+      "pista": {
+        "es": "A ojo: 1300 y 1900 son unos 3200. Ahora, en papel.",
+        "va": "A ull: 1300 i 1900 són uns 3200. Ara, en paper.",
+        "en": "Roughly: 1300 and 1900 make about 3200. Now, on paper.",
+        "fr": "À vue d'œil : 1300 et 1900 font environ 3200. Maintenant, sur papier.",
+        "ar": "تقديريًا: 1300 و1900 تساوي نحو 3200. والآن على الورق."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1275 + 1940",
+        "resultado": 3215,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Recibe 3215 visitas.",
+          "va": "Rep 3215 visites.",
+          "en": "It gets 3215 visitors.",
+          "fr": "Il reçoit 3215 visiteurs.",
+          "ar": "استقبل 3215 زائرًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un sitio al que va mucha gente el fin de semana.",
+        "va": "Inventa'n tu una d'un lloc on va molta gent el cap de setmana.",
+        "en": "Make one up about a place lots of people visit at the weekend.",
+        "fr": "Invente un problème sur un endroit où beaucoup de gens vont le week-end.",
+        "ar": "لنخترع مسألة عن مكان يذهب إليه كثير من الناس في نهاية الأسبوع."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 3,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: ¿qué número es mayor, 4099 o 4910? ¿Por cuánto?",
+        "va": "Per a recordar: quin nombre és major, 4099 o 4910? Per quant?",
+        "en": "Let's remember: which number is bigger, 4099 or 4910? By how much?",
+        "fr": "Pour se souvenir : quel nombre est le plus grand, 4099 ou 4910 ? De combien ?",
+        "ar": "لنتذكّر: أيّ العددين أكبر، 4099 أم 4910؟ وبكم؟"
+      },
+      "pista": {
+        "es": "Los dos tienen 4 millares. Mira las centenas: 0 y 9. Para saber por cuánto, cuenta hacia arriba desde 4099.",
+        "va": "Els dos tenen 4 milers. Mira les centenes: 0 i 9. Per a saber per quant, compta cap amunt des de 4099.",
+        "en": "Both have 4 thousands. Look at the hundreds: 0 and 9. To find out by how much, count up from 4099.",
+        "fr": "Les deux ont 4 milliers. Regarde les centaines : 0 et 9. Pour savoir de combien, compte en avançant à partir de 4099.",
+        "ar": "في العددين 4 آلاف. لننظر إلى المئات: 0 و9. ولمعرفة الفرق، لنعدّ صعودًا من 4099."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4910 - 4099",
+        "resultado": 811,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es mayor 4910, por 811.",
+          "va": "És major 4910, per 811.",
+          "en": "4910 is bigger, by 811.",
+          "fr": "4910 est le plus grand, de 811.",
+          "ar": "العدد 4910 أكبر، بفارق 811."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú dos números de cuatro cifras con las mismas cifras en otro orden y compáralos.",
+        "va": "Inventa tu dos nombres de quatre xifres amb les mateixes xifres en un altre ordre i compara'ls.",
+        "en": "Make up two four-digit numbers with the same digits in a different order and compare them.",
+        "fr": "Invente deux nombres à quatre chiffres avec les mêmes chiffres dans un autre ordre et compare-les.",
+        "ar": "لنخترع عددين من أربعة أرقام بالأرقام نفسها بترتيب مختلف ونقارن بينهما."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas en mates, ¿qué te ha resultado más fácil? ¿Y más difícil? Explícame por qué.",
+        "va": "De tot el que heu fet aquestes setmanes en mates, què t'ha resultat més fàcil? I més difícil? Explica'm per què.",
+        "en": "Of everything in maths these weeks, what has been easiest for you? And hardest? Explain to me why.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce qui a été le plus facile ? Et le plus difficile ? Explique-moi pourquoi.",
+        "ar": "من كل ما تعلّمناه هذه الأسابيع في الرياضيات، ما الأسهل؟ وما الأصعب؟ اشرح لي أو اشرحي لي لماذا."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas de la cuerda del 0 al 1000? ¿Y del viaje imaginario?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes de la corda del 0 al 1000? I del viatge imaginari?»",
+        "en": "You can help them remember: “Do you remember the 0 to 1000 rope? And the imaginary trip?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles la corde de 0 à 1000 ? Et le voyage imaginaire ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل تذكر أو تذكرين حبل 0 إلى 1000؟ والرحلة الخيالية؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay respuesta buena ni mala. Lo que cuente como difícil es una pista para jugar un poco más con eso en casa, sin prisa.",
+          "va": "No hi ha resposta bona ni dolenta. El que conte com a difícil és una pista per a jugar una mica més amb això a casa, sense pressa.",
+          "en": "There's no right or wrong answer. Whatever they say is hard is a clue to play a bit more with that at home, without hurry.",
+          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Ce qu'il ou elle trouve difficile est un indice pour jouer un peu plus avec ça à la maison, sans se presser.",
+          "ar": "لا توجد إجابة صحيحة أو خاطئة. ما يُذكر على أنه صعب هو تلميح لنلعب به قليلًا أكثر في البيت، من غير عجلة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "846844251226"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "846844251226"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "846844251226"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "846844251226"
+      }
+    }
+  }
+}

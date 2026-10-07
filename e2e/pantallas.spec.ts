@@ -56,7 +56,8 @@ for (const idioma of IDIOMAS) {
       await page.getByRole('navigation').getByRole('link', { name: T('nav.jardin', idioma) }).click();
       await expect(page).toHaveURL(/jardin$/);
       await expect(page.getByRole('link', { name: `${T('semana.titulo', idioma, { n: 7 })}: ${T('jardin.estado.flor', idioma)}` })).toBeVisible();
-      await expect(page.getByRole('img', { name: `${T('semana.titulo', idioma, { n: 8 })}: ${T('jardin.estado.en_camino', idioma)}` })).toBeVisible();
+      await expect(page.getByRole('link', { name: `${T('semana.titulo', idioma, { n: 8 })}: ${T('jardin.estado.semilla', idioma)}` })).toBeVisible();
+      await expect(page.getByRole('img', { name: `${T('semana.titulo', idioma, { n: 9 })}: ${T('jardin.estado.en_camino', idioma)}` })).toBeVisible();
       await expect(page.locator('.planta')).toHaveCount(41 + 10);
 
       // Y queda guardado, también tras recargar.
@@ -78,13 +79,19 @@ for (const idioma of IDIOMAS) {
 
       await page.getByRole('link', { name: T('semana.siguiente', idioma) }).click();
       await expect(page).toHaveURL(/semana\/8$/);
+      await expect(page.getByRole('heading', { level: 1 })).toContainText(idioma === 'ar' ? 'الباقي' : 'La vuelta');
+      await expect(page.getByText(T('semana.en_camino', idioma))).toHaveCount(0);
+
+      await page.getByRole('link', { name: T('semana.siguiente', idioma) }).click();
+      await expect(page).toHaveURL(/semana\/9$/);
       await expect(page.getByText(T('semana.en_camino', idioma))).toBeVisible();
-      await expect(page.getByRole('heading', { level: 1 })).toHaveText('La vuelta'); // el título del mapa, en español
+      await expect(page.getByRole('heading', { level: 1 })).toHaveText('De cabeza: de 10 en 10 y de 100 en 100'); // el título del mapa, en español
       // Mientras tanto, lleva a la semilla publicada más cercana.
       await expect(page.getByText(T('semana.mientras_tanto', idioma))).toBeVisible();
-      await expect(page.getByRole('link', { name: T('semana.ir_a', idioma, { n: 7 }) })).toHaveAttribute('href', /semana\/7$/);
+      await expect(page.getByRole('link', { name: T('semana.ir_a', idioma, { n: 8 }) })).toHaveAttribute('href', /semana\/8$/);
       await sinProblemasDeAccesibilidad(page);
 
+      await page.getByRole('link', { name: T('semana.anterior', idioma) }).click();
       await page.getByRole('link', { name: T('semana.anterior', idioma) }).click();
       await page.getByRole('link', { name: T('semana.anterior', idioma) }).click();
       await expect(page).toHaveURL(/semana\/6$/);
@@ -195,9 +202,9 @@ for (const idioma of IDIOMAS) {
 }
 
 test('el jardín marca la semana de hoy aunque su semilla esté en camino', async ({ page }) => {
-  await preparar(page, { fecha: '2026-10-07T10:00:00', almacen: { idioma: 'es' } }); // miércoles de la semana 5
+  await preparar(page, { fecha: '2026-11-04T10:00:00', almacen: { idioma: 'es' } }); // miércoles de la semana 9
   await page.goto('./#/2/matematicas/3/jardin');
-  const hoy = page.getByRole('img', { name: `${T('semana.titulo', 'es', { n: 5 })}: ${T('jardin.estado.en_camino', 'es')}` });
+  const hoy = page.getByRole('img', { name: `${T('semana.titulo', 'es', { n: 9 })}: ${T('jardin.estado.en_camino', 'es')}` });
   await expect(hoy).toHaveAttribute('aria-current', 'date');
   await expect(page.locator('[aria-current="date"]')).toHaveCount(1);
 });
@@ -209,9 +216,9 @@ test('el nombre de la cabecera lleva a «Esta semana»', async ({ page }) => {
   await expect(page).toHaveURL(/semana\/7$/);
 });
 
-test('sin ninguna semilla publicada en el curso, «en camino» no ofrece ir a otra', async ({ page }) => {
-  await preparar(page, { almacen: { idioma: 'es', cursos: [CURSO_4], cursoActivo: CURSO_4 } });
-  await page.goto('./#/2/matematicas/4/semana/7');
+test('sin ningún reto de verano publicado, «en camino» no ofrece ir a otro', async ({ page }) => {
+  await preparar(page, { almacen: { idioma: 'es' } });
+  await page.goto('./#/2/matematicas/3/verano/1');
   await expect(page.getByText(T('semana.en_camino', 'es'))).toBeVisible();
   await expect(page.getByText(T('semana.mientras_tanto', 'es'))).toHaveCount(0);
 });
@@ -222,7 +229,7 @@ test.describe('cursos y cambio de curso', () => {
     await page.goto(SEMANA_7);
     await page.getByRole('link', { name: T('semana.cambiar_curso', 'es', { curso: '4.º' }) }).click();
     await expect(page).toHaveURL(/\/2\/matematicas\/4\/semana\/7$/);
-    await expect(page.getByText(T('semana.en_camino', 'es'))).toBeVisible();
+    await expect(page.getByRole('heading', { level: 1 })).toContainText('Restas con ceros');
     await page.getByRole('link', { name: T('semana.cambiar_curso', 'es', { curso: '3.º' }) }).click();
     await expect(page).toHaveURL(/\/2\/matematicas\/3\/semana\/7$/);
   });

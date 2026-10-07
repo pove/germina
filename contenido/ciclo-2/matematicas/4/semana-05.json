@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s05",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 5,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Quitar, comparar o cuánto falta?",
+    "va": "Llevar, comparar o quant en falta?",
+    "en": "Take away, compare or how many are missing?",
+    "fr": "Enlever, comparer ou combien il manque ?",
+    "ar": "أخذ أم مقارنة أم كم ينقص؟"
+  },
+  "objetivo": {
+    "es": "Esta semana, con números grandes, aprenden a reconocer qué clase de resta pide cada problema: quitar, comparar o cuánto falta. Y a decidir si un problema se resuelve sumando o restando.",
+    "va": "Aquesta setmana, amb nombres grans, aprenen a reconéixer quina classe de resta (resta) demana cada problema (problema): llevar, comparar o quant en falta. I a decidir si un problema es resol sumant o restant.",
+    "en": "This week, with big numbers, they learn to recognise which kind of subtraction (resta) each word problem (problema) asks for: taking away, comparing or how many are missing. And to decide whether a problem is solved by adding or subtracting.",
+    "fr": "Cette semaine, avec de grands nombres, on apprend à reconnaître quelle sorte de soustraction (resta) demande chaque problème (problema) : enlever, comparer ou combien il manque. Et à décider si un problème se résout en additionnant ou en soustrayant.",
+    "ar": "هذا الأسبوع، بأعداد كبيرة، يتعلّم الأطفال التعرّف على نوع الطرح (resta) الذي تطلبه كل مسألة (problema): أخذ أو مقارنة أو كم ينقص. ويتعلّمون أن يقرّروا هل تُحلّ المسألة بالجمع أم بالطرح."
+  },
+  "comoAyudar": {
+    "es": "Cuando aparezca un problema, pedid que os lo cuente con sus palabras antes de hacer ninguna cuenta. Si lo puede contar, casi siempre sabe ya qué operación usar.",
+    "va": "Quan aparega un problema, demaneu que us el conte amb les seues paraules abans de fer cap compte. Si el pot contar, quasi sempre ja sap quina operació usar.",
+    "en": "When a word problem comes up, ask them to tell it in their own words before doing any sums. If they can tell it, they nearly always already know which operation to use.",
+    "fr": "Quand un problème apparaît, demandez à votre enfant de le raconter avec ses mots avant de faire le moindre calcul. S'il ou elle peut le raconter, il ou elle sait presque toujours déjà quelle opération utiliser.",
+    "ar": "عندما تظهر مسألة، اطلبوا روايتها بالكلمات الخاصة قبل أي حساب. إذا أمكنت روايتها، فغالبًا ما تكون العملية المناسبة معروفة."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c2.1.1",
+    "matematicas.c2.1.2",
+    "matematicas.c2.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Números de la familia",
+      "va": "Nombres de la família",
+      "en": "Family numbers",
+      "fr": "Les nombres de la famille",
+      "ar": "أعداد العائلة"
+    },
+    "material": [
+      {
+        "es": "Una cinta métrica",
+        "va": "Una cinta mètrica",
+        "en": "A tape measure",
+        "fr": "Un mètre ruban",
+        "ar": "شريط قياس"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "calendario",
+        "texto": {
+          "es": "Apuntad el año de nacimiento de varias personas de la familia (o de personajes de cuentos o películas, si lo preferís).",
+          "va": "Apunteu l'any de naixement de diverses persones de la família (o de personatges de contes o pel·lícules, si ho preferiu).",
+          "en": "Write down the year of birth of several people in the family (or of characters from stories or films, if you prefer).",
+          "fr": "Notez l'année de naissance de plusieurs personnes de la famille (ou de personnages de contes ou de films, si vous préférez).",
+          "ar": "اكتبوا سنة ميلاد عدة أشخاص من العائلة (أو شخصيات من قصص أو أفلام، إن فضّلتم)."
+        }
+      },
+      {
+        "pictograma": "cinta",
+        "texto": {
+          "es": "Medid la altura de dos o tres personas con la cinta métrica, de pie y descalzas contra la pared. Apuntadla en centímetros.",
+          "va": "Mesureu l'altura de dues o tres persones amb la cinta mètrica, dretes i descalces contra la paret. Apunteu-la en centímetres.",
+          "en": "Measure the height of two or three people with the tape measure, standing barefoot against the wall. Write it down in centimetres.",
+          "fr": "Mesurez la taille de deux ou trois personnes avec le mètre ruban, debout et pieds nus contre le mur. Notez-la en centimètres.",
+          "ar": "قيسوا طول شخصين أو ثلاثة بشريط القياس، وقوفًا وحفاة أمام الحائط. اكتبوه بالسنتيمترات."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Inventad preguntas con esos números: «¿Cuántos años más tiene la abuela que yo?», «¿Cuánto me falta para medir como la persona más alta?», «Si quito 100 cm a mi altura, ¿qué queda?».",
+          "va": "Inventeu preguntes amb eixos nombres: «Quants anys més té l'àvia que jo?», «Quant em falta per a fer d'alt com la persona més alta?», «Si lleve 100 cm a la meua altura, què queda?».",
+          "en": "Make up questions with those numbers: “How many years older is Grandma than me?”, “How many centimetres short am I of the tallest person?”, “If I take 100 cm off my height, what's left?”.",
+          "fr": "Inventez des questions avec ces nombres : « Combien d'années de plus a mamie que moi ? », « Combien il me manque pour être aussi grand ou grande que la personne la plus grande ? », « Si j'enlève 100 cm à ma taille, qu'est-ce qui reste ? ».",
+          "ar": "اخترعوا أسئلة بهذه الأعداد: «بكم سنة تكبرني الجدة؟»، «كم ينقصني لأصير بطول أطول شخص؟»، «إذا أخذنا 100 سم من طولي، ماذا يبقى؟»."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Para cada pregunta, decid primero qué clase de resta es: quitar, comparar o cuánto falta. Después, resolvedla juntos.",
+          "va": "Per a cada pregunta, digueu primer quina classe de resta és: llevar, comparar o quant en falta. Després, resoleu-la junts.",
+          "en": "For each question, first say which kind of subtraction it is: taking away, comparing or how many are missing. Then work it out together.",
+          "fr": "Pour chaque question, dites d'abord quelle sorte de soustraction c'est : enlever, comparer ou combien il manque. Ensuite, résolvez-la ensemble.",
+          "ar": "لكل سؤال، قولوا أولًا أيّ نوع من الطرح هو: أخذ أو مقارنة أو كم ينقص. ثم حلّوه معًا."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo las alturas: números de tres cifras.",
+      "va": "Feu servir només les altures: nombres de tres xifres.",
+      "en": "Use only the heights: three-digit numbers.",
+      "fr": "Utilisez seulement les tailles : des nombres à trois chiffres.",
+      "ar": "استعملوا الأطوال فقط: أعداد من ثلاثة أرقام."
+    },
+    "masDificil": {
+      "es": "Calculad en qué año cumplirá 100 años cada persona. ¿Esa pregunta es de restar o de sumar?",
+      "va": "Calculeu en quin any complirà 100 anys cada persona. Eixa pregunta és de restar o de sumar?",
+      "en": "Work out the year each person will turn 100. Is that a subtracting or an adding question?",
+      "fr": "Calculez en quelle année chaque personne aura 100 ans. Cette question, c'est pour soustraire ou pour additionner ?",
+      "ar": "احسبوا في أيّ سنة سيبلغ كل شخص 100 سنة. هل هذا سؤال طرح أم جمع؟"
+    },
+    "paraQueSirve": {
+      "es": "Inventar preguntas con números propios y decir qué clase de resta son ayuda a elegir la operación en cualquier problema, no solo en los del libro.",
+      "va": "Inventar preguntes amb nombres propis i dir quina classe de resta són ajuda a triar l'operació en qualsevol problema, no sols en els del llibre.",
+      "en": "Making up questions with your own numbers and saying which kind of subtraction they are helps choose the operation in any problem, not just the ones in the book.",
+      "fr": "Inventer des questions avec ses propres nombres et dire quelle sorte de soustraction c'est aide à choisir l'opération dans n'importe quel problème, pas seulement ceux du livre.",
+      "ar": "اختراع أسئلة بأعداد خاصة بنا وقول نوع الطرح فيها يساعد على اختيار العملية في أي مسألة، لا في مسائل الكتاب وحدها."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Un cine tiene 1250 butacas y para una película se venden 875 entradas. ¿Cuántas butacas quedan libres?",
+        "va": "Un cine té 1250 butaques i per a una pel·lícula es venen 875 entrades. Quantes butaques queden lliures?",
+        "en": "A cinema has 1250 seats and 875 tickets are sold for a film. How many seats are left empty?",
+        "fr": "Un cinéma a 1250 fauteuils et on vend 875 places pour un film. Combien de fauteuils restent libres ?",
+        "ar": "في سينما 1250 مقعدًا، وبيعت 875 تذكرة لفيلم. كم مقعدًا بقي فارغًا؟"
+      },
+      "pista": {
+        "es": "Es de quitar: a las butacas que hay les quitas las ocupadas.",
+        "va": "És de llevar: a les butaques que hi ha els lleves les ocupades.",
+        "en": "It's a taking-away one: from the seats there are, take away the ones that are taken.",
+        "fr": "C'est pour enlever : aux fauteuils qu'il y a, tu enlèves ceux qui sont occupés.",
+        "ar": "هذه مسألة أخذ: من المقاعد الموجودة نأخذ المقاعد المشغولة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1250 - 875",
+        "resultado": 375,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 375 butacas libres.",
+          "va": "Queden 375 butaques lliures.",
+          "en": "375 seats are left empty.",
+          "fr": "Il reste 375 fauteuils libres.",
+          "ar": "بقي 375 مقعدًا فارغًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de quitar con un sitio donde haya muchos asientos.",
+        "va": "Inventa'n tu una de llevar amb un lloc on hi haja molts seients.",
+        "en": "Make up a taking-away one about a place with lots of seats.",
+        "fr": "Invente un problème où l'on enlève, dans un endroit avec beaucoup de places assises.",
+        "ar": "لنخترع مسألة أخذ عن مكان فيه مقاعد كثيرة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "La abuela de Bilal nació en 1956 y Bilal, en 2016. ¿Cuántos años más tiene la abuela?",
+        "va": "L'àvia del Bilal va nàixer el 1956 i el Bilal, el 2016. Quants anys més té l'àvia?",
+        "en": "Bilal's grandma was born in 1956 and Bilal in 2016. How many years older is his grandma?",
+        "fr": "La grand-mère de Bilal est née en 1956 et Bilal, en 2016. Combien d'années de plus a sa grand-mère ?",
+        "ar": "وُلدت جدة بلال سنة 1956 ووُلد بلال سنة 2016. بكم سنة تكبره جدته؟"
+      },
+      "pista": {
+        "es": "Es de comparar. Cuenta hacia arriba: de 1956 a 2000 van 44, y de 2000 a 2016, 16 más.",
+        "va": "És de comparar. Compta cap amunt: de 1956 a 2000 en van 44, i de 2000 a 2016, 16 més.",
+        "en": "It's a comparing one. Count up: from 1956 to 2000 is 44, and from 2000 to 2016 is 16 more.",
+        "fr": "C'est pour comparer. Compte en avançant : de 1956 à 2000, ça fait 44, et de 2000 à 2016, 16 de plus.",
+        "ar": "هذه مسألة مقارنة. لنعدّ صعودًا: من 1956 إلى 2000 هي 44، ومن 2000 إلى 2016 هي 16 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2016 - 1956",
+        "resultado": 60,
+        "unidad": "unidades",
+        "texto": {
+          "es": "La abuela tiene 60 años más.",
+          "va": "L'àvia té 60 anys més.",
+          "en": "His grandma is 60 years older.",
+          "fr": "Sa grand-mère a 60 ans de plus.",
+          "ar": "تكبره جدته بـ60 سنة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para comparar los años de dos personas que conozcas.",
+        "va": "Inventa'n tu una per a comparar els anys de dues persones que conegues.",
+        "en": "Make one up comparing the ages of two people you know.",
+        "fr": "Invente un problème pour comparer l'âge de deux personnes que tu connais.",
+        "ar": "لنخترع مسألة نقارن فيها عمرَي شخصين نعرفهما."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para el viaje de fin de curso, la clase necesita 1500 € y ya tiene 1180 €. ¿Cuánto le falta?",
+        "va": "Per al viatge de final de curs, la classe necessita 1500 € i ja té 1180 €. Quant li'n falta?",
+        "en": "For the end-of-year trip, the class needs 1500 € and already has 1180 €. How much more does it need?",
+        "fr": "Pour le voyage de fin d'année, la classe a besoin de 1500 € et elle a déjà 1180 €. Combien lui manque-t-il ?",
+        "ar": "لرحلة نهاية السنة، يلزم القسم 1500 يورو وعنده 1180 يورو. كم ينقصه؟"
+      },
+      "pista": {
+        "es": "Es de «¿cuánto falta?»: de 1180 a 1200 van 20, y de 1200 a 1500, 300.",
+        "va": "És de «quant en falta?»: de 1180 a 1200 en van 20, i de 1200 a 1500, 300.",
+        "en": "It's a “how much is missing?” one: from 1180 to 1200 is 20, and from 1200 to 1500 is 300.",
+        "fr": "C'est un « combien il manque ? » : de 1180 à 1200, ça fait 20, et de 1200 à 1500, 300.",
+        "ar": "هذه مسألة «كم ينقص؟»: من 1180 إلى 1200 هي 20، ومن 1200 إلى 1500 هي 300."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1500 - 1180",
+        "resultado": 320,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le faltan 320 €.",
+          "va": "Li'n falten 320 €.",
+          "en": "It needs 320 € more.",
+          "fr": "Il lui manque 320 €.",
+          "ar": "ينقصه 320 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de ahorrar para algo y saber cuánto falta.",
+        "va": "Inventa'n tu una d'estalviar per a alguna cosa i saber quant en falta.",
+        "en": "Make one up about saving for something and finding out how much is missing.",
+        "fr": "Invente un problème où l'on économise pour quelque chose et où l'on cherche combien il manque.",
+        "ar": "لنخترع مسألة عن الادّخار لشيء ما ومعرفة كم ينقص."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 4,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: una ciudad planta 2450 árboles un año y 1380 al año siguiente. Primero a ojo y luego exacto: ¿cuántos planta en total?",
+        "va": "Per a recordar: una ciutat planta 2450 arbres un any i 1380 l'any següent. Primer a ull i després exacte: quants en planta en total?",
+        "en": "Let's remember: a city plants 2450 trees one year and 1380 the next. First roughly and then exactly: how many does it plant altogether?",
+        "fr": "Pour se souvenir : une ville plante 2450 arbres une année et 1380 l'année suivante. D'abord à vue d'œil, puis exactement : combien en plante-t-elle en tout ?",
+        "ar": "لنتذكّر: زرعت مدينة 2450 شجرة في سنة و1380 في السنة التالية. بالتقدير أولًا ثم بالضبط: كم شجرة زرعت في المجموع؟"
+      },
+      "pista": {
+        "es": "A ojo: 2500 y 1400 son unos 3900.",
+        "va": "A ull: 2500 i 1400 són uns 3900.",
+        "en": "Roughly: 2500 and 1400 make about 3900.",
+        "fr": "À vue d'œil : 2500 et 1400 font environ 3900.",
+        "ar": "تقديريًا: 2500 و1400 تساوي نحو 3900."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2450 + 1380",
+        "resultado": 3830,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Planta 3830 árboles, cerca de lo que salía a ojo.",
+          "va": "En planta 3830, a prop del que eixia a ull.",
+          "en": "It plants 3830 trees, close to the rough estimate.",
+          "fr": "Elle plante 3830 arbres, près de ce qu'on avait trouvé à vue d'œil.",
+          "ar": "زرعت 3830 شجرة، قريبًا من التقدير."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una suma grande y pide a otra persona que la estime antes de calcular.",
+        "va": "Inventa tu una suma gran i demana a una altra persona que l'estime abans de calcular.",
+        "en": "Make up a big addition and ask someone else to estimate it before working it out.",
+        "fr": "Invente une grande addition et demande à une autre personne de l'estimer avant de calculer.",
+        "ar": "لنخترع عملية جمع كبيرة ونطلب من شخص آخر أن يقدّرها قبل الحساب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si un problema es de quitar, de comparar o de cuánto falta? Explícamelo con un ejemplo inventado.",
+        "va": "Com saps si un problema és de llevar, de comparar o de quant en falta? Explica-m'ho amb un exemple inventat.",
+        "en": "How do you know if a problem is about taking away, comparing or how many are missing? Explain it to me with a made-up example.",
+        "fr": "Comment sais-tu si un problème, c'est pour enlever, pour comparer ou pour savoir combien il manque ? Explique-le-moi avec un exemple inventé.",
+        "ar": "كيف نعرف هل المسألة مسألة أخذ أو مقارنة أو كم ينقص؟ اشرح لي أو اشرحي لي بمثال مخترع."
+      },
+      "pista": {
+        "es": "Si se atasca: «Cuando comparas, ¿cuántas cosas hay? ¿Y cuando quitas?»",
+        "va": "Si s'encalla: «Quan compares, quantes coses hi ha? I quan lleves?»",
+        "en": "If they get stuck: “When you compare, how many things are there? And when you take away?”",
+        "fr": "S'il ou elle bloque : « Quand tu compares, combien de choses il y a ? Et quand tu enlèves ? »",
+        "ar": "إذا حدث توقّف: «عندما نقارن، كم شيئًا هناك؟ وعندما نأخذ؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Pistas que suelen dar: «quedan» (quitar), «más que» o «menos que» (comparar), «falta» o «para llegar» (cuánto falta). Si encuentra sus propias palabras clave, mejor todavía.",
+          "va": "Pistes que solen donar: «queden» (llevar), «més que» o «menys que» (comparar), «falta» o «per a arribar» (quant en falta). Si troba les seues pròpies paraules clau, millor encara.",
+          "en": "Clues they often give: “left” (taking away), “more than” or “less than” (comparing), “missing” or “to reach” (how many are missing). If they find their own key words, even better.",
+          "fr": "Indices souvent donnés : « il reste » (enlever), « plus que » ou « moins que » (comparer), « il manque » ou « pour arriver à » (combien il manque). S'il ou elle trouve ses propres mots clés, c'est encore mieux.",
+          "ar": "تلميحات تُذكر عادةً: «بقي» (أخذ)، «أكثر من» أو «أقل من» (مقارنة)، «ينقص» أو «للوصول إلى» (كم ينقص). وإذا وُجدت كلمات مفتاحية خاصة، فهذا أفضل."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "9567161d7bc1"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "9567161d7bc1"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "9567161d7bc1"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "9567161d7bc1"
+      }
+    }
+  }
+}

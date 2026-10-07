@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s06",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 6,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: números y sumas",
+    "va": "Setmana de recordar: nombres i sumes",
+    "en": "Remembering week: numbers and additions",
+    "fr": "Semaine pour se souvenir : nombres et additions",
+    "ar": "أسبوع التذكّر: الأعداد والجمع"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las cinco primeras: centenas, decenas y unidades, el millar, comparar, sumar llevándose una y las tres formas de restar. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a allò de les cinc primeres: centenes, desenes (decenas) i unitats, el miler (millar), comparar, sumar portant-se'n una i les tres maneres de restar. No hi ha res de nou: és perquè s'assente.",
+    "en": "This week they go back to the first five: hundreds, tens (decenas) and ones, a thousand (millar), comparing, adding with carrying and the three ways to subtract. There's nothing new: it's so that it all settles.",
+    "fr": "Cette semaine, on revient sur les cinq premières : centaines, dizaines (decenas) et unités, le millier (millar), comparer, additionner avec retenue et les trois façons de soustraire. Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الخمسة الأولى: المئات والعشرات (decenas) والآحاد، والألف (millar)، والمقارنة، والجمع مع الاحتفاظ، وطرق الطرح الثلاث. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "En el juego, quien pierde puede elegir quién empieza la siguiente partida. Así perder también tiene su parte buena y se juega con ganas otra vez.",
+    "va": "En el joc, qui perd pot triar qui comença la partida següent. Així perdre també té la seua part bona i es juga amb ganes una altra vegada.",
+    "en": "In the game, whoever loses gets to choose who starts the next round. That way losing has its good side too, and everyone is keen to play again.",
+    "fr": "Dans le jeu, la personne qui perd peut choisir qui commence la partie suivante. Ainsi, perdre a aussi son bon côté et on rejoue avec envie.",
+    "ar": "في اللعبة، من يخسر يختار من يبدأ الجولة التالية. هكذا تصبح للخسارة جهة جيدة أيضًا، ونلعب مرة أخرى بحماس."
+  },
+  "saberes": [
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.numeros.millar",
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Al 500 con dados",
+      "va": "Al 500 amb daus",
+      "en": "Race to 500 with dice",
+      "fr": "Jusqu'à 500 avec des dés",
+      "ar": "إلى 500 بالنرد"
+    },
+    "material": [
+      {
+        "es": "3 dados",
+        "va": "3 daus",
+        "en": "3 dice",
+        "fr": "3 dés",
+        "ar": "3 أحجار نرد"
+      },
+      {
+        "es": "Papel y lápiz para cada persona",
+        "va": "Paper i llapis per a cada persona",
+        "en": "Paper and a pencil for each person",
+        "fr": "Du papier et un crayon pour chaque personne",
+        "ar": "ورقة وقلم رصاص لكل شخص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Por turnos, tirad los tres dados y formad un número de tres cifras. Con 1, 4 y 2 podéis hacer 124, 142, 214, 241, 412 o 421.",
+          "va": "Per torns, tireu els tres daus i formeu un nombre de tres xifres. Amb 1, 4 i 2 podeu fer 124, 142, 214, 241, 412 o 421.",
+          "en": "Taking turns, roll the three dice and make a three-digit number. With 1, 4 and 2 you can make 124, 142, 214, 241, 412 or 421.",
+          "fr": "Chacun son tour, lancez les trois dés et formez un nombre à trois chiffres. Avec 1, 4 et 2, vous pouvez faire 124, 142, 214, 241, 412 ou 421.",
+          "ar": "بالدور، ارموا أحجار النرد الثلاثة وكوّنوا عددًا من ثلاثة أرقام. مع 1 و4 و2 يمكنكم تكوين 124 أو 142 أو 214 أو 241 أو 412 أو 421."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Cada persona apunta su número y, en el turno siguiente, le suma el nuevo. Por ejemplo: {{124 + 132 = 256}}.",
+          "va": "Cada persona apunta el seu nombre i, en el torn següent, li suma el nou. Per exemple: {{124 + 132 = 256}}.",
+          "en": "Each person writes down their number and, on their next turn, adds the new one. For example: {{124 + 132 = 256}}.",
+          "fr": "Chaque personne note son nombre et, au tour suivant, lui ajoute le nouveau. Par exemple : {{124 + 132 = 256}}.",
+          "ar": "يكتب كل شخص عدده، وفي الدور التالي يضيف إليه العدد الجديد. مثلًا: {{124 + 132 = 256}}."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Si con el número nuevo os pasaríais de 500, podéis plantaros. Gana quien quede más cerca de 500 sin pasarse.",
+          "va": "Si amb el nombre nou us passaríeu de 500, podeu plantar-vos. Guanya qui quede més a prop de 500 sense passar-se'n.",
+          "en": "If the new number would take you past 500, you can stop. Whoever ends up closest to 500 without going over wins.",
+          "fr": "Si le nouveau nombre vous ferait dépasser 500, vous pouvez vous arrêter. Gagne la personne qui reste la plus proche de 500 sans dépasser.",
+          "ar": "إذا كان العدد الجديد سيجعلكم تتجاوزون 500، يمكنكم التوقّف. يفوز من يبقى الأقرب إلى 500 من غير أن يتجاوزه."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Al final, mirad las sumas de la otra persona y decid cuánto le faltaba a cada una para llegar a 500.",
+          "va": "Al final, mireu les sumes de l'altra persona i digueu quant li faltava a cadascuna per a arribar a 500.",
+          "en": "At the end, look at the other person's additions and say how far each of you was from 500.",
+          "fr": "À la fin, regardez les additions de l'autre personne et dites combien il manquait à chacune pour arriver à 500.",
+          "ar": "في النهاية، انظروا إلى عمليات جمع الشخص الآخر وقولوا كم كان ينقص كل واحد ليصل إلى 500."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad con dos dados y números de dos cifras, y llegad a 100.",
+      "va": "Jugueu amb dos daus i nombres de dues xifres, i arribeu a 100.",
+      "en": "Play with two dice and two-digit numbers, and race to 100.",
+      "fr": "Jouez avec deux dés et des nombres à deux chiffres, et allez jusqu'à 100.",
+      "ar": "العبوا بحجري نرد وأعداد من رقمين، والهدف 100."
+    },
+    "masDificil": {
+      "es": "Jugad hasta 1000 y antes de sumar decid a ojo si os vais a pasar.",
+      "va": "Jugueu fins a 1000 i, abans de sumar, digueu a ull si us en passareu.",
+      "en": "Play up to 1000 and, before adding, guess by eye whether you'll go over.",
+      "fr": "Jouez jusqu'à 1000 et, avant d'additionner, dites à vue d'œil si vous allez dépasser.",
+      "ar": "العبوا حتى 1000، وقبل الجمع قدّروا بالعين هل ستتجاوزونه."
+    },
+    "paraQueSirve": {
+      "es": "Elegir el orden de las cifras y decidir si plantarse mezcla todo lo de estas semanas: cuánto vale cada cifra, sumar llevándose una y calcular cuánto falta.",
+      "va": "Triar l'ordre de les xifres i decidir si plantar-se mescla tot allò d'aquestes setmanes: quant val cada xifra, sumar portant-se'n una i calcular quant en falta.",
+      "en": "Choosing the order of the digits and deciding whether to stop mixes everything from these weeks: what each digit is worth, adding with carrying and working out how many are missing.",
+      "fr": "Choisir l'ordre des chiffres et décider de s'arrêter mélange tout ce qu'on a vu ces semaines : ce que vaut chaque chiffre, additionner avec retenue et calculer combien il manque.",
+      "ar": "اختيار ترتيب الأرقام وتقرير التوقّف يجمعان كل ما تعلّمناه في هذه الأسابيع: قيمة كل رقم، والجمع مع الاحتفاظ، وحساب كم ينقص."
+    },
+    "aviso": {
+      "es": "Guardad los dados lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els daus lluny de germans o germanes menuts.",
+      "en": "Keep the dice away from younger brothers and sisters.",
+      "fr": "Gardez les dés loin des petits frères et sœurs.",
+      "ar": "أبعدوا أحجار النرد عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "¿Qué número es 4 centenas, 0 decenas y 8 unidades?",
+        "va": "Quin nombre és 4 centenes, 0 desenes i 8 unitats?",
+        "en": "Which number is 4 hundreds, 0 tens and 8 ones?",
+        "fr": "Quel nombre font 4 centaines, 0 dizaine et 8 unités ?",
+        "ar": "ما العدد المكوّن من 4 مئات و0 عشرات و8 آحاد؟"
+      },
+      "pista": {
+        "es": "Piensa en platos, vasos y legumbres sueltas. Si no hay vasos, en su sitio va un 0.",
+        "va": "Pensa en plats, gots i llegums solts. Si no hi ha gots, en el seu lloc va un 0.",
+        "en": "Think of plates, cups and loose beans. If there are no cups, a 0 goes in their place.",
+        "fr": "Pense aux assiettes, aux verres et aux grains à part. S'il n'y a pas de verres, un 0 va à leur place.",
+        "ar": "لنفكّر في الصحون والأكواب والحبات المنفردة. إذا لم توجد أكواب، نضع 0 مكانها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "400 + 8",
+        "resultado": 408,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es el 408.",
+          "va": "És el 408.",
+          "en": "It's 408.",
+          "fr": "C'est 408.",
+          "ar": "إنه 408."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un número con un 0 en medio y pide a otra persona que diga cuántas centenas, decenas y unidades tiene.",
+        "va": "Inventa tu un nombre amb un 0 al mig i demana a una altra persona que diga quantes centenes, desenes i unitats té.",
+        "en": "Make up a number with a 0 in the middle and ask someone else how many hundreds, tens and ones it has.",
+        "fr": "Invente un nombre avec un 0 au milieu et demande à une autre personne combien il a de centaines, de dizaines et d'unités.",
+        "ar": "لنخترع عددًا فيه 0 في الوسط ونسأل شخصًا آخر كم فيه من المئات والعشرات والآحاد."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para un cumpleaños se inflan 69 globos y se pinchan 7. ¿Cuántos quedan?",
+        "va": "Per a un aniversari s'inflen 69 globus i se'n punxen 7. Quants en queden?",
+        "en": "For a birthday, 69 balloons are blown up and 7 pop. How many are left?",
+        "fr": "Pour un anniversaire, on gonfle 69 ballons et 7 éclatent. Combien en reste-t-il ?",
+        "ar": "في عيد ميلاد نفخوا 69 بالونًا وانفجر منها 7. كم بقي؟"
+      },
+      "pista": {
+        "es": "Las decenas no cambian: solo quitas de las unidades.",
+        "va": "Les desenes no canvien: només lleves de les unitats.",
+        "en": "The tens don't change: you only take away from the ones.",
+        "fr": "Les dizaines ne changent pas : tu enlèves seulement des unités.",
+        "ar": "العشرات لا تتغيّر: نأخذ من الآحاد فقط."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "69 - 7",
+        "resultado": 62,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 62 globos.",
+          "va": "En queden 62.",
+          "en": "There are 62 balloons left.",
+          "fr": "Il reste 62 ballons.",
+          "ar": "بقي 62 بالونًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de quitar para una fiesta.",
+        "va": "Inventa'n tu una de llevar per a una festa.",
+        "en": "Make up a taking-away one for a party.",
+        "fr": "Invente un problème où l'on enlève quelque chose, pour une fête.",
+        "ar": "لنخترع مسألة أخذ عن حفلة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Por la calle de Yasmín pasan 148 coches por la mañana y 36 por la tarde. ¿Cuántos pasan en todo el día?",
+        "va": "Pel carrer de la Yasmín passen 148 cotxes al matí i 36 a la vesprada. Quants en passen en tot el dia?",
+        "en": "On Yasmín's street, 148 cars go by in the morning and 36 in the afternoon. How many go by in the whole day?",
+        "fr": "Dans la rue de Yasmín, 148 voitures passent le matin et 36 l'après-midi. Combien en passe-t-il dans toute la journée ?",
+        "ar": "في شارع ياسمين تمرّ 148 سيارة صباحًا و36 بعد الظهر. كم سيارة تمرّ في اليوم كله؟"
+      },
+      "pista": {
+        "es": "8 y 6 son 14: una decena para las decenas y 4 unidades.",
+        "va": "8 i 6 són 14: una desena per a les desenes i 4 unitats.",
+        "en": "8 and 6 make 14: one ten goes with the tens and 4 ones stay.",
+        "fr": "8 et 6 font 14 : une dizaine pour les dizaines et 4 unités.",
+        "ar": "8 و6 تساوي 14: عشرة تذهب إلى العشرات و4 آحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "148 + 36",
+        "resultado": 184,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Pasan 184 coches.",
+          "va": "En passen 184.",
+          "en": "184 cars go by.",
+          "fr": "Il passe 184 voitures.",
+          "ar": "تمرّ 184 سيارة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cosas que pasan por la mañana y por la tarde.",
+        "va": "Inventa'n tu una de coses que passen al matí i a la vesprada.",
+        "en": "Make one up about things that happen in the morning and in the afternoon.",
+        "fr": "Invente un problème avec des choses qui passent le matin et l'après-midi.",
+        "ar": "لنخترع مسألة عن أشياء تحدث صباحًا وبعد الظهر."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 3,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: ¿qué número va justo entre el 498 y el 500?",
+        "va": "Per a recordar: quin nombre va just entre el 498 i el 500?",
+        "en": "Let's remember: which number goes right between 498 and 500?",
+        "fr": "Pour se souvenir : quel nombre va juste entre 498 et 500 ?",
+        "ar": "لنتذكّر: أيّ عدد يأتي بين 498 و500 تمامًا؟"
+      },
+      "pista": {
+        "es": "Imagina la cuerda: da un paso desde el 498.",
+        "va": "Imagina la corda: fes un pas des del 498.",
+        "en": "Picture the rope: take one step from 498.",
+        "fr": "Imagine la corde : fais un pas depuis 498.",
+        "ar": "لنتخيّل الحبل: نخطو خطوة واحدة من 498."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "498 + 1",
+        "resultado": 499,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 499.",
+          "va": "El 499.",
+          "en": "499.",
+          "fr": "499.",
+          "ar": "العدد 499."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una adivinanza de «¿qué número va entre…?» para otra persona.",
+        "va": "Inventa tu una endevinalla de «quin nombre va entre…?» per a una altra persona.",
+        "en": "Make up a “which number goes between…?” riddle for someone else.",
+        "fr": "Invente une devinette « quel nombre va entre… ? » pour une autre personne.",
+        "ar": "لنخترع لغز «أيّ عدد يأتي بين…؟» لشخص آخر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas en mates, ¿qué te ha resultado más fácil? ¿Y más difícil? Explícame por qué.",
+        "va": "De tot el que heu fet aquestes setmanes en mates, què t'ha resultat més fàcil? I més difícil? Explica'm per què.",
+        "en": "Of everything in maths these weeks, what has been easiest for you? And hardest? Explain to me why.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce qui a été le plus facile ? Et le plus difficile ? Explique-moi pourquoi.",
+        "ar": "من كل ما تعلّمناه هذه الأسابيع في الرياضيات، ما الأسهل؟ وما الأصعب؟ اشرح لي أو اشرحي لي لماذا."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas de las legumbres en vasos? ¿Y de las torres de pinzas?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes dels llegums en gots? I de les torres de pinces?»",
+        "en": "You can help them remember: “Do you remember the beans in cups? And the peg towers?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles les grains dans les verres ? Et les tours de pinces ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل تذكر أو تذكرين البقول في الأكواب؟ وأبراج الملاقط؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay respuesta buena ni mala. Lo que cuente como difícil es una pista para jugar un poco más con eso en casa, sin prisa.",
+          "va": "No hi ha resposta bona ni dolenta. El que conte com a difícil és una pista per a jugar una mica més amb això a casa, sense pressa.",
+          "en": "There's no right or wrong answer. Whatever they say is hard is a clue to play a bit more with that at home, without hurry.",
+          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Ce qu'il ou elle trouve difficile est un indice pour jouer un peu plus avec ça à la maison, sans se presser.",
+          "ar": "لا توجد إجابة صحيحة أو خاطئة. ما يُذكر على أنه صعب هو تلميح لنلعب به قليلًا أكثر في البيت، من غير عجلة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "545d5097dea9"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "545d5097dea9"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "545d5097dea9"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "545d5097dea9"
+      }
+    }
+  }
+}

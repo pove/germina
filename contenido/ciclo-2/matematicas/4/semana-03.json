@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s03",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 3,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Más cerca de cuál?",
+    "va": "Més a prop de quin?",
+    "en": "Closer to which?",
+    "fr": "Plus près duquel ?",
+    "ar": "أقرب إلى أيّهما؟"
+  },
+  "objetivo": {
+    "es": "Esta semana comparan y ordenan números grandes y aprenden a redondear a la centena y al millar: 689 está más cerca de 700 que de 600. Sirve para calcular a ojo.",
+    "va": "Aquesta setmana comparen i ordenen nombres grans i aprenen a arrodonir (redondear) a la centena i al miler: 689 està més a prop de 700 que de 600. Serveix per a calcular a ull.",
+    "en": "This week they compare and order big numbers and learn to round (redondear) to the nearest hundred and thousand: 689 is closer to 700 than to 600. It helps to estimate.",
+    "fr": "Cette semaine, on compare et on range de grands nombres, et on apprend à arrondir (redondear) à la centaine et au millier : 689 est plus près de 700 que de 600. Ça sert à calculer à vue d'œil.",
+    "ar": "هذا الأسبوع يقارن الأطفال الأعداد الكبيرة ويرتّبونها، ويتعلّمون التقريب (redondear) إلى المئة وإلى الألف: 689 أقرب إلى 700 منه إلى 600. هذا يفيد في التقدير."
+  },
+  "comoAyudar": {
+    "es": "Cuando habléis de precios, redondead en voz alta: «esto cuesta 389 €, casi 400». Así lo oye como algo de todos los días y no como una regla.",
+    "va": "Quan parleu de preus, arrodoniu en veu alta: «açò costa 389 €, quasi 400». Així ho sent com una cosa de cada dia i no com una regla.",
+    "en": "When you talk about prices, round out loud: “This costs 389 €, almost 400”. That way they hear it as an everyday thing, not a rule.",
+    "fr": "Quand vous parlez de prix, arrondissez à voix haute : « ça coûte 389 €, presque 400 ». Ainsi, votre enfant l'entend comme une chose de tous les jours, pas comme une règle.",
+    "ar": "عندما تتحدّثون عن الأسعار، قرّبوا بصوت عالٍ: «هذا بـ389 يورو، تقريبًا 400». هكذا يُسمع الأمر كشيء يومي لا كقاعدة."
+  },
+  "saberes": [
+    "matematicas.numeros.recta-comparar",
+    "matematicas.operaciones.igualdad",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.3.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La cuerda del 0 al 1000",
+      "va": "La corda del 0 al 1000",
+      "en": "The 0 to 1000 rope",
+      "fr": "La corde de 0 à 1000",
+      "ar": "حبل من 0 إلى 1000"
+    },
+    "material": [
+      {
+        "es": "Una cuerda, una lana o un cordón de unos 2 metros",
+        "va": "Una corda, una llana o un cordó d'uns 2 metres",
+        "en": "A rope, a piece of wool or a string about 2 metres long",
+        "fr": "Une corde, un fil de laine ou un cordon d'environ 2 mètres",
+        "ar": "حبل أو خيط صوف أو شريط طوله نحو مترين"
+      },
+      {
+        "es": "Pinzas de la ropa",
+        "va": "Pinces de la roba",
+        "en": "Clothes pegs",
+        "fr": "Des pinces à linge",
+        "ar": "ملاقط غسيل"
+      },
+      {
+        "es": "Un folleto con precios, papelitos y lápiz",
+        "va": "Un fullet amb preus, paperets i llapis",
+        "en": "A leaflet with prices, slips of paper and a pencil",
+        "fr": "Un prospectus avec des prix, des petits papiers et un crayon",
+        "ar": "منشور فيه أسعار، وأوراق صغيرة، وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Tended la cuerda en el suelo y colgad papeles con el 0, el 500 y el 1000. Si queréis, añadid las centenas: 100, 200, 300…",
+          "va": "Esteneu la corda a terra i pengeu papers amb el 0, el 500 i el 1000. Si voleu, afegiu-hi les centenes: 100, 200, 300…",
+          "en": "Lay the rope on the floor and peg up papers with 0, 500 and 1000. If you like, add the hundreds: 100, 200, 300…",
+          "fr": "Posez la corde par terre et accrochez des papiers avec 0, 500 et 1000. Si vous voulez, ajoutez les centaines : 100, 200, 300…",
+          "ar": "مدّوا الحبل على الأرض وعلّقوا أوراقًا عليها 0 و500 و1000. وإن شئتم، أضيفوا المئات: 100، 200، 300…"
+        }
+      },
+      {
+        "pictograma": "folleto",
+        "texto": {
+          "es": "Copiad del folleto precios de menos de 1000 € (una bici de 349 €, una tele de 689 €, una mesa de 215 €…) en papelitos.",
+          "va": "Copieu del fullet preus de menys de 1000 € (una bici de 349 €, una tele de 689 €, una taula de 215 €…) en paperets.",
+          "en": "Copy prices under 1000 € from the leaflet (a bike for 349 €, a TV for 689 €, a table for 215 €…) onto slips of paper.",
+          "fr": "Recopiez du prospectus des prix de moins de 1000 € (un vélo à 349 €, une télé à 689 €, une table à 215 €…) sur des petits papiers.",
+          "ar": "انسخوا من المنشور أسعارًا أقل من 1000 يورو (دراجة بـ349 يورو، تلفاز بـ689 يورو، طاولة بـ215 يورو…) على أوراق صغيرة."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Colgad cada precio donde creáis que va. Después, ordenadlos de menor a mayor leyéndolos en voz alta.",
+          "va": "Pengeu cada preu on creieu que va. Després, ordeneu-los de menor a major llegint-los en veu alta.",
+          "en": "Peg each price where you think it goes. Then put them in order from smallest to biggest, reading them aloud.",
+          "fr": "Accrochez chaque prix là où vous pensez qu'il va. Ensuite, rangez-les du plus petit au plus grand en les lisant à voix haute.",
+          "ar": "علّقوا كل سعر حيث تظنّون أنه يأتي. ثم رتّبوها من الأصغر إلى الأكبر وأنتم تقرؤونها بصوت عالٍ."
+        }
+      },
+      {
+        "pictograma": "recta",
+        "texto": {
+          "es": "Para cada precio, decid a qué centena está más cerca. 349 está a 49 del 300 y a 51 del 400: más cerca del 300, por poco.",
+          "va": "Per a cada preu, digueu a quina centena està més a prop. 349 està a 49 del 300 i a 51 del 400: més a prop del 300, per poc.",
+          "en": "For each price, say which hundred it is closest to. 349 is 49 from 300 and 51 from 400: closer to 300, just about.",
+          "fr": "Pour chaque prix, dites de quelle centaine il est le plus proche. 349 est à 49 de 300 et à 51 de 400 : plus près de 300, de peu.",
+          "ar": "لكل سعر، قولوا أيّ مئة هي الأقرب إليه. 349 يبعد 49 عن 300 و51 عن 400: أقرب إلى 300، بفارق صغير."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced la cuerda del 0 al 100 y redondead a la decena.",
+      "va": "Feu la corda del 0 al 100 i arrodoniu a la desena.",
+      "en": "Make the rope from 0 to 100 and round to the nearest ten.",
+      "fr": "Faites la corde de 0 à 100 et arrondissez à la dizaine.",
+      "ar": "اجعلوا الحبل من 0 إلى 100 وقرّبوا إلى العشرة."
+    },
+    "masDificil": {
+      "es": "Haced la cuerda del 0 al 10 000 y colgad precios de coches o de viajes, redondeando al millar.",
+      "va": "Feu la corda del 0 al 10 000 i pengeu preus de cotxes o de viatges, arrodonint al miler.",
+      "en": "Make the rope from 0 to 10 000 and peg up prices of cars or trips, rounding to the nearest thousand.",
+      "fr": "Faites la corde de 0 à 10 000 et accrochez des prix de voitures ou de voyages, en arrondissant au millier.",
+      "ar": "اجعلوا الحبل من 0 إلى 10 000 وعلّقوا أسعار سيارات أو رحلات، مع التقريب إلى الألف."
+    },
+    "paraQueSirve": {
+      "es": "Redondear permite saber, sin hacer la cuenta, si algo es caro o barato, o si una suma tiene sentido.",
+      "va": "Arrodonir permet saber, sense fer el compte, si una cosa és cara o barata, o si una suma té sentit.",
+      "en": "Rounding lets you know, without doing the sum, whether something is expensive or cheap, or whether an addition makes sense.",
+      "fr": "Arrondir permet de savoir, sans faire le calcul, si quelque chose est cher ou bon marché, ou si une addition a du sens.",
+      "ar": "التقريب يسمح بمعرفة، من غير حساب، هل الشيء غالٍ أم رخيص، أو هل لعملية جمع معنى."
+    },
+    "aviso": {
+      "es": "Recoged la cuerda al terminar para que nadie tropiece.",
+      "va": "Arreplegueu la corda en acabar perquè ningú no ensopegue.",
+      "en": "Pick up the rope when you finish so nobody trips.",
+      "fr": "Ramassez la corde à la fin pour que personne ne trébuche.",
+      "ar": "اجمعوا الحبل عند الانتهاء حتى لا يتعثّر أحد."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Una lavadora cuesta 489 € y otra, 512 €. ¿Cuál es más barata? ¿Por cuánto?",
+        "va": "Una rentadora costa 489 € i una altra, 512 €. Quina és més barata? Per quant?",
+        "en": "One washing machine costs 489 € and another 512 €. Which is cheaper? By how much?",
+        "fr": "Une machine à laver coûte 489 € et une autre, 512 €. Laquelle est la moins chère ? De combien ?",
+        "ar": "ثمن غسالة 489 يورو وثمن أخرى 512 يورو. أيّهما أرخص؟ وبكم؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba: de 489 a 500 van 11, y de 500 a 512, 12 más.",
+        "va": "Compta cap amunt: de 489 a 500 en van 11, i de 500 a 512, 12 més.",
+        "en": "Count up: from 489 to 500 is 11, and from 500 to 512 is 12 more.",
+        "fr": "Compte en avançant : de 489 à 500, ça fait 11, et de 500 à 512, 12 de plus.",
+        "ar": "لنعدّ صعودًا: من 489 إلى 500 هي 11، ومن 500 إلى 512 هي 12 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "512 - 489",
+        "resultado": 23,
+        "unidad": "euros",
+        "texto": {
+          "es": "La de 489 € es más barata, por 23 €. Y las dos están muy cerca de 500 €.",
+          "va": "La de 489 € és més barata, per 23 €. I les dues estan molt a prop de 500 €.",
+          "en": "The 489 € one is cheaper, by 23 €. And both are very close to 500 €.",
+          "fr": "Celle à 489 € est moins chère, de 23 €. Et les deux sont très proches de 500 €.",
+          "ar": "التي بـ489 يورو أرخص، بفارق 23 يورو. وكلتاهما قريبة جدًا من 500 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para comparar dos precios del folleto.",
+        "va": "Inventa'n tu una per a comparar dos preus del fullet.",
+        "en": "Make one up comparing two prices from the leaflet.",
+        "fr": "Invente un problème pour comparer deux prix du prospectus.",
+        "ar": "لنخترع مسألة نقارن فيها سعرين من المنشور."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "¿Es verdad que {{2000 + 300}} es lo mismo que {{2500 − 200}}?",
+        "va": "És veritat que {{2000 + 300}} és el mateix que {{2500 − 200}}?",
+        "en": "Is it true that {{2000 + 300}} is the same as {{2500 − 200}}?",
+        "fr": "Est-ce vrai que {{2000 + 300}} est la même chose que {{2500 − 200}} ?",
+        "ar": "هل صحيح أن {{2000 + 300}} هو نفسه {{2500 − 200}}؟"
+      },
+      "pista": {
+        "es": "Calcula los dos lados por separado. El signo = dice que valen lo mismo.",
+        "va": "Calcula els dos costats per separat. El signe = diu que valen el mateix.",
+        "en": "Work out both sides separately. The = sign says they are worth the same.",
+        "fr": "Calcule les deux côtés séparément. Le signe = dit qu'ils valent la même chose.",
+        "ar": "لنحسب الجهتين كلًّا وحدها. علامة = تعني أنهما متساويتان."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2000 + 300",
+        "resultado": 2300,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí: los dos lados dan 2300, así que {{2000 + 300 = 2500 − 200}}.",
+          "va": "Sí: els dos costats donen 2300, així que {{2000 + 300 = 2500 − 200}}.",
+          "en": "Yes: both sides make 2300, so {{2000 + 300 = 2500 − 200}}.",
+          "fr": "Oui : les deux côtés font 2300, donc {{2000 + 300 = 2500 − 200}}.",
+          "ar": "نعم: الجهتان تساويان 2300، إذن {{2000 + 300 = 2500 − 200}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una suma y una resta que den lo mismo, y únelas con el signo =.",
+        "va": "Inventa tu una suma i una resta que donen el mateix, i uneix-les amb el signe =.",
+        "en": "Make up an addition and a subtraction that give the same answer, and join them with the = sign.",
+        "fr": "Invente une addition et une soustraction qui donnent la même chose, et relie-les avec le signe =.",
+        "ar": "لنخترع عملية جمع وعملية طرح تعطيان النتيجة نفسها، ونربط بينهما بعلامة =."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "El coche de la familia de Iker ha recorrido 4720 km este año. ¿A qué millar está más cerca, al 4000 o al 5000?",
+        "va": "El cotxe de la família de l'Iker ha recorregut 4720 km aquest any. A quin miler està més a prop, al 4000 o al 5000?",
+        "en": "Iker's family car has done 4720 km this year. Which thousand is it closest to, 4000 or 5000?",
+        "fr": "La voiture de la famille d'Iker a parcouru 4720 km cette année. De quel millier est-ce le plus proche, 4000 ou 5000 ?",
+        "ar": "قطعت سيارة عائلة إيكر 4720 كم هذه السنة. أيّ ألف هو الأقرب، 4000 أم 5000؟"
+      },
+      "pista": {
+        "es": "El millar del medio es 4500. ¿4720 está antes o después?",
+        "va": "El mig entre els dos milers és 4500. 4720 està abans o després?",
+        "en": "Halfway between the thousands is 4500. Is 4720 before or after it?",
+        "fr": "Le milieu entre les deux milliers, c'est 4500. 4720 est-il avant ou après ?",
+        "ar": "منتصف المسافة بين الألفين هو 4500. هل 4720 قبله أم بعده؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5000 - 4720",
+        "resultado": 280,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Está más cerca del 5000: le faltan 280 km, y del 4000 está a 720 km.",
+          "va": "Està més a prop del 5000: li'n falten 280 km, i del 4000 està a 720 km.",
+          "en": "It's closer to 5000: it's 280 km short, and 720 km from 4000.",
+          "fr": "C'est plus près de 5000 : il manque 280 km, et c'est à 720 km de 4000.",
+          "ar": "أقرب إلى 5000: تنقصه 280 كم، ويبعد 720 كم عن 4000."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de kilómetros y pregunta a qué millar está más cerca.",
+        "va": "Inventa'n tu una de quilòmetres i pregunta a quin miler està més a prop.",
+        "en": "Make one up with kilometres and ask which thousand it's closest to.",
+        "fr": "Invente un problème avec des kilomètres et demande de quel millier c'est le plus proche.",
+        "ar": "لنخترع مسألة عن الكيلومترات ونسأل أيّ ألف هو الأقرب."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 2,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: con las cifras 6, 0, 3 y 8, ¿cuál es el número más pequeño de cuatro cifras que puedes formar?",
+        "va": "Per a recordar: amb les xifres 6, 0, 3 i 8, quin és el nombre més menut de quatre xifres que pots formar?",
+        "en": "Let's remember: with the digits 6, 0, 3 and 8, what is the smallest four-digit number you can make?",
+        "fr": "Pour se souvenir : avec les chiffres 6, 0, 3 et 8, quel est le plus petit nombre à quatre chiffres que tu peux former ?",
+        "ar": "لنتذكّر: بالأرقام 6 و0 و3 و8، ما أصغر عدد من أربعة أرقام يمكن تكوينه؟"
+      },
+      "pista": {
+        "es": "El 0 no puede ir el primero. ¿Qué cifra va delante, entonces?",
+        "va": "El 0 no pot anar el primer. Quina xifra va davant, aleshores?",
+        "en": "The 0 can't go first. So which digit goes at the front?",
+        "fr": "Le 0 ne peut pas être en premier. Alors, quel chiffre va devant ?",
+        "ar": "لا يمكن أن يكون 0 أولًا. إذن، أيّ رقم يأتي في البداية؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3000 + 60 + 8",
+        "resultado": 3068,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El más pequeño es 3068.",
+          "va": "El més menut és 3068.",
+          "en": "The smallest is 3068.",
+          "fr": "Le plus petit est 3068.",
+          "ar": "الأصغر هو 3068."
+        }
+      },
+      "inventala": {
+        "es": "Elige tú cuatro cifras con un 0 y pide a otra persona el número más grande y el más pequeño.",
+        "va": "Tria tu quatre xifres amb un 0 i demana a una altra persona el nombre més gran i el més menut.",
+        "en": "Choose four digits including a 0 and ask someone else for the biggest and smallest numbers.",
+        "fr": "Choisis quatre chiffres dont un 0 et demande à une autre personne le plus grand et le plus petit nombre.",
+        "ar": "لنختر أربعة أرقام بينها 0 ونطلب من شخص آخر أكبر عدد وأصغر عدد."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si un número está más cerca de una centena o de la siguiente? Explícamelo con un ejemplo.",
+        "va": "Com saps si un nombre està més a prop d'una centena o de la següent? Explica-m'ho amb un exemple.",
+        "en": "How do you know if a number is closer to one hundred or the next? Explain it to me with an example.",
+        "fr": "Comment sais-tu si un nombre est plus près d'une centaine ou de la suivante ? Explique-le-moi avec un exemple.",
+        "ar": "كيف نعرف هل عدد ما أقرب إلى مئة أو إلى المئة التالية؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Proponed un número difícil, como 250: «¿Y este, de cuál está más cerca?»",
+        "va": "Proposeu un nombre difícil, com 250: «I aquest, de quin està més a prop?»",
+        "en": "Suggest a tricky number, like 250: “And this one, which is it closer to?”",
+        "fr": "Proposez un nombre difficile, comme 250 : « Et celui-là, duquel est-il le plus proche ? »",
+        "ar": "اقترحوا عددًا صعبًا، مثل 250: «وهذا، إلى أيّهما أقرب؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede mirar las decenas (si son 5 o más, sube) o pensar en la cuerda. Con 250, que está justo en medio, en clase suelen redondear hacia arriba; si dice «en ningún lado», también tiene su lógica.",
+          "va": "Pot mirar les desenes (si són 5 o més, puja) o pensar en la corda. Amb 250, que està just al mig, a classe solen arrodonir cap amunt; si diu «de cap», també té la seua lògica.",
+          "en": "They may look at the tens (5 or more, it goes up) or think of the rope. With 250, right in the middle, in class they usually round up; if they say “neither”, that makes sense too.",
+          "fr": "Il ou elle peut regarder les dizaines (5 ou plus, on monte) ou penser à la corde. Avec 250, pile au milieu, en classe on arrondit souvent vers le haut ; s'il ou elle dit « d'aucun des deux », c'est logique aussi.",
+          "ar": "يمكن النظر إلى العشرات (5 أو أكثر، نصعد) أو التفكير في الحبل. مع 250، وهو في المنتصف تمامًا، يقرّبون عادةً إلى الأعلى في القسم؛ وإن قيل «لا هذا ولا ذاك»، فلذلك منطقه أيضًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "829ed7035a9f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "829ed7035a9f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "829ed7035a9f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "829ed7035a9f"
+      }
+    }
+  }
+}

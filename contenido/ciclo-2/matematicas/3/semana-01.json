@@ -1,0 +1,359 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s01",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 1,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Centenas, decenas y unidades",
+    "va": "Centenes, desenes i unitats",
+    "en": "Hundreds, tens and ones",
+    "fr": "Centaines, dizaines et unités",
+    "ar": "المئات والعشرات والآحاد"
+  },
+  "objetivo": {
+    "es": "Esta semana recuerdan cómo se forman los números hasta 999: diez unidades hacen una decena, y diez decenas, una centena. También buscan números de todos los días: portales, autobuses, precios.",
+    "va": "Aquesta setmana recorden com es formen els nombres fins a 999: deu unitats fan una desena (decena), i deu desenes, una centena. També busquen nombres de cada dia: portals, autobusos, preus.",
+    "en": "This week they remember how numbers up to 999 are built: ten ones (unidades) make a ten (decena), and ten tens make a hundred (centena). They also look for everyday numbers: doorways, buses, prices.",
+    "fr": "Cette semaine, on se rappelle comment se forment les nombres jusqu'à 999 : dix unités (unidades) font une dizaine (decena), et dix dizaines, une centaine (centena). On cherche aussi les nombres de tous les jours : portes d'immeuble, bus, prix.",
+    "ar": "هذا الأسبوع يتذكّر الأطفال كيف تتكوّن الأعداد حتى 999: عشرة آحاد (unidades) تصنع عشرة (decena)، وعشر عشرات تصنع مئة (centena). ويبحثون أيضًا عن أعداد الحياة اليومية: أرقام البيوت والحافلات والأسعار."
+  },
+  "comoAyudar": {
+    "es": "Antes de contar, preguntad «¿cuántas crees que hay?». No importa acertar: lo divertido es ver después quién se acercó más.",
+    "va": "Abans de comptar, pregunteu «quantes creus que n'hi ha?». No importa encertar: el divertit és veure després qui s'hi ha acostat més.",
+    "en": "Before counting, ask “How many do you think there are?”. Getting it right doesn't matter: the fun part is seeing afterwards who was closest.",
+    "fr": "Avant de compter, demandez « Combien tu crois qu'il y en a ? ». Peu importe de trouver juste : le plus amusant, c'est de voir ensuite qui s'est le plus approché.",
+    "ar": "قبل العدّ، اسألوا «كم تظنّ أو تظنّين أن هناك؟». لا يهمّ أن يكون التخمين صحيحًا: الممتع أن نرى بعد ذلك من كان الأقرب."
+  },
+  "saberes": [
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.numeros.usos-sociales"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El banco de las legumbres",
+      "va": "El banc dels llegums",
+      "en": "The bean bank",
+      "fr": "La banque des grains",
+      "ar": "بنك البقول"
+    },
+    "material": [
+      {
+        "es": "Un buen puñado de legumbres secas o botones (más de 100)",
+        "va": "Un bon grapat de llegums secs o botons (més de 100)",
+        "en": "A big handful of dried beans or buttons (more than 100)",
+        "fr": "Une bonne poignée de légumes secs ou de boutons (plus de 100)",
+        "ar": "حفنة كبيرة من البقول الجافة أو الأزرار (أكثر من 100)"
+      },
+      {
+        "es": "10 vasos pequeños",
+        "va": "10 gots menuts",
+        "en": "10 small cups",
+        "fr": "10 petits verres",
+        "ar": "10 أكواب صغيرة"
+      },
+      {
+        "es": "1 o 2 platos",
+        "va": "1 o 2 plats",
+        "en": "1 or 2 plates",
+        "fr": "1 ou 2 assiettes",
+        "ar": "صحن أو صحنان"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Echad las legumbres en la mesa. ¿Cuántas creéis que hay? Apuntad lo que dice cada persona.",
+          "va": "Tireu els llegums damunt la taula. Quants creieu que n'hi ha? Apunteu el que diu cada persona.",
+          "en": "Pour the beans onto the table. How many do you think there are? Write down what each person says.",
+          "fr": "Versez les grains sur la table. Combien pensez-vous qu'il y en a ? Notez ce que dit chaque personne.",
+          "ar": "ضعوا البقول على الطاولة. كم تظنّون أن هناك؟ اكتبوا ما يقوله كل شخص."
+        }
+      },
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "Meted 10 legumbres en cada vaso. Cuando tengáis 10 vasos llenos, vaciadlos en un plato: un plato son 100.",
+          "va": "Poseu 10 llegums en cada got. Quan tingueu 10 gots plens, buideu-los en un plat: un plat són 100.",
+          "en": "Put 10 beans in each cup. When you have 10 full cups, empty them onto a plate: one plate is 100.",
+          "fr": "Mettez 10 grains dans chaque verre. Quand vous avez 10 verres pleins, videz-les dans une assiette : une assiette, c'est 100.",
+          "ar": "ضعوا 10 حبات في كل كوب. عندما تمتلئ 10 أكواب، أفرغوها في صحن: الصحن الواحد يساوي 100."
+        }
+      },
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Contad platos, vasos y sueltas. Por ejemplo, 1 plato, 3 vasos y 6 sueltas son 136: 1 centena, 3 decenas y 6 unidades.",
+          "va": "Compteu plats, gots i solts. Per exemple, 1 plat, 3 gots i 6 solts són 136: 1 centena, 3 desenes i 6 unitats.",
+          "en": "Count plates, cups and loose beans. For example, 1 plate, 3 cups and 6 loose beans make 136: 1 hundred, 3 tens and 6 ones.",
+          "fr": "Comptez les assiettes, les verres et les grains à part. Par exemple, 1 assiette, 3 verres et 6 grains font 136 : 1 centaine, 3 dizaines et 6 unités.",
+          "ar": "عدّوا الصحون والأكواب والحبات المنفردة. مثلًا، صحن واحد و3 أكواب و6 حبات منفردة تساوي 136: مئة واحدة و3 عشرات و6 آحاد."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid el número y cómo se forma: {{100 + 30 + 6 = 136}}. ¿Quién se acercó más al principio?",
+          "va": "Escriviu el nombre i com es forma: {{100 + 30 + 6 = 136}}. Qui s'hi va acostar més al principi?",
+          "en": "Write the number and how it is made: {{100 + 30 + 6 = 136}}. Who was closest at the start?",
+          "fr": "Écrivez le nombre et comment il se forme : {{100 + 30 + 6 = 136}}. Qui s'était le plus approché au début ?",
+          "ar": "اكتبوا العدد وكيف يتكوّن: {{100 + 30 + 6 = 136}}. من كان الأقرب في البداية؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad menos de 100 legumbres: solo vasos y sueltas, sin plato.",
+      "va": "Feu servir menys de 100 llegums: només gots i solts, sense plat.",
+      "en": "Use fewer than 100 beans: just cups and loose beans, no plate.",
+      "fr": "Utilisez moins de 100 grains : seulement des verres et des grains à part, sans assiette.",
+      "ar": "استعملوا أقل من 100 حبة: أكواب وحبات منفردة فقط، من غير صحن."
+    },
+    "masDificil": {
+      "es": "Una persona dice un número, como 254, y la otra lo forma con papelitos que digan «100» y «10» y legumbres sueltas, sin contar de una en una.",
+      "va": "Una persona diu un nombre, com ara 254, i l'altra el forma amb paperets que diguen «100» i «10» i llegums solts, sense comptar d'un en un.",
+      "en": "One person says a number, like 254, and the other builds it with slips of paper saying “100” and “10” and loose beans, without counting one by one.",
+      "fr": "Une personne dit un nombre, comme 254, et l'autre le forme avec des petits papiers où il est écrit « 100 » et « 10 » et des grains à part, sans compter un par un.",
+      "ar": "يقول شخص عددًا، مثل 254، ويكوّنه الآخر بأوراق صغيرة مكتوب عليها «100» و«10» وحبات منفردة، من غير العدّ واحدة واحدة."
+    },
+    "paraQueSirve": {
+      "es": "Ver que 10 sueltas son un vaso y 10 vasos son un plato es la base de todas las cuentas del curso.",
+      "va": "Veure que 10 solts són un got i 10 gots són un plat és la base de tots els comptes del curs.",
+      "en": "Seeing that 10 loose beans make a cup and 10 cups make a plate is the basis of all the sums this year.",
+      "fr": "Voir que 10 grains font un verre et 10 verres une assiette, c'est la base de tous les calculs de l'année.",
+      "ar": "رؤية أن 10 حبات تصنع كوبًا وأن 10 أكواب تصنع صحنًا هي أساس كل الحسابات هذه السنة."
+    },
+    "aviso": {
+      "es": "Guardad las legumbres lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els llegums lluny de germans o germanes menuts.",
+      "en": "Keep the beans away from younger brothers and sisters.",
+      "fr": "Gardez les grains loin des petits frères et sœurs.",
+      "ar": "أبعدوا الحبوب عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Tienes 3 hojas de 100 pegatinas, 4 tiras de 10 y 5 pegatinas sueltas. ¿Cuántas pegatinas tienes?",
+        "va": "Tens 3 fulls de 100 adhesius, 4 tires de 10 i 5 adhesius solts. Quants adhesius tens?",
+        "en": "You have 3 sheets of 100 stickers, 4 strips of 10 and 5 loose stickers. How many stickers do you have?",
+        "fr": "Tu as 3 planches de 100 autocollants, 4 bandes de 10 et 5 autocollants à part. Combien d'autocollants as-tu ?",
+        "ar": "عندنا 3 أوراق في كل منها 100 ملصق، و4 شرائط في كل منها 10، و5 ملصقات منفردة. كم ملصقًا عندنا؟"
+      },
+      "pista": {
+        "es": "Las hojas son centenas, las tiras son decenas y las sueltas son unidades.",
+        "va": "Els fulls són centenes, les tires són desenes i els solts són unitats.",
+        "en": "The sheets are hundreds, the strips are tens and the loose ones are ones.",
+        "fr": "Les planches sont des centaines, les bandes des dizaines et les autocollants à part des unités.",
+        "ar": "الأوراق مئات، والشرائط عشرات، والمنفردة آحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "300 + 40 + 5",
+        "resultado": 345,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienes 345 pegatinas.",
+          "va": "Tens 345 adhesius.",
+          "en": "You have 345 stickers.",
+          "fr": "Tu as 345 autocollants.",
+          "ar": "عندنا 345 ملصقًا."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con hojas, tiras y pegatinas sueltas.",
+        "va": "Ara inventa'n tu una amb fulls, tires i adhesius solts.",
+        "en": "Now you make one up with sheets, strips and loose stickers.",
+        "fr": "Maintenant, invente un problème avec des planches, des bandes et des autocollants à part.",
+        "ar": "والآن لنخترع مسألة فيها أوراق وشرائط وملصقات منفردة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "La abuela de Omar guarda 200 botones en un bote y 58 en otro. ¿Cuántos botones tiene en total?",
+        "va": "L'àvia de l'Omar guarda 200 botons en un pot i 58 en un altre. Quants botons té en total?",
+        "en": "Omar's grandma keeps 200 buttons in one jar and 58 in another. How many buttons does she have altogether?",
+        "fr": "La grand-mère d'Omar garde 200 boutons dans un bocal et 58 dans un autre. Combien de boutons a-t-elle en tout ?",
+        "ar": "تحتفظ جدة عمر بـ200 زر في علبة و58 في علبة أخرى. كم زرًّا عندها في المجموع؟"
+      },
+      "pista": {
+        "es": "200 son 2 centenas. Y 58 son 5 decenas y 8 unidades. Júntalo todo.",
+        "va": "200 són 2 centenes. I 58 són 5 desenes i 8 unitats. Ajunta-ho tot.",
+        "en": "200 is 2 hundreds. And 58 is 5 tens and 8 ones. Put it all together.",
+        "fr": "200, c'est 2 centaines. Et 58, c'est 5 dizaines et 8 unités. Rassemble tout.",
+        "ar": "200 هي مئتان. و58 هي 5 عشرات و8 آحاد. لنجمع كل شيء."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "200 + 58",
+        "resultado": 258,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 258 botones.",
+          "va": "Té 258 botons.",
+          "en": "She has 258 buttons.",
+          "fr": "Elle a 258 boutons.",
+          "ar": "عندها 258 زرًّا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos botes de algo que haya en casa.",
+        "va": "Inventa'n tu una amb dos pots d'alguna cosa que hi haja a casa.",
+        "en": "Make one up with two jars of something you have at home.",
+        "fr": "Invente un problème avec deux bocaux de quelque chose qu'il y a à la maison.",
+        "ar": "لنخترع مسألة عن علبتين فيهما شيء موجود في البيت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para la fiesta del barrio han traído 6 bolsas de 100 globos y 7 globos sueltos. No hay paquetes de 10. ¿Cuántos globos hay?",
+        "va": "Per a la festa del barri han portat 6 bosses de 100 globus i 7 globus solts. No hi ha paquets de 10. Quants globus hi ha?",
+        "en": "For the neighbourhood party they have brought 6 bags of 100 balloons and 7 loose balloons. There are no packs of 10. How many balloons are there?",
+        "fr": "Pour la fête du quartier, on a apporté 6 sacs de 100 ballons et 7 ballons à part. Il n'y a pas de paquets de 10. Combien y a-t-il de ballons ?",
+        "ar": "أحضروا لحفلة الحيّ 6 أكياس في كل منها 100 بالون و7 بالونات منفردة. لا توجد علب فيها 10. كم بالونًا هناك؟"
+      },
+      "pista": {
+        "es": "Cuando no hay decenas, en su sitio se escribe un 0.",
+        "va": "Quan no hi ha desenes, en el seu lloc s'escriu un 0.",
+        "en": "When there are no tens, you write a 0 in their place.",
+        "fr": "Quand il n'y a pas de dizaines, on écrit un 0 à leur place.",
+        "ar": "عندما لا توجد عشرات، نكتب 0 في مكانها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "600 + 7",
+        "resultado": 607,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 607 globos.",
+          "va": "Hi ha 607 globus.",
+          "en": "There are 607 balloons.",
+          "fr": "Il y a 607 ballons.",
+          "ar": "هناك 607 بالونات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que no haya decenas, como esta.",
+        "va": "Inventa'n tu una en què no hi haja desenes, com aquesta.",
+        "en": "Make one up with no tens, like this one.",
+        "fr": "Invente un problème sans dizaines, comme celui-ci.",
+        "ar": "لنخترع مسألة لا توجد فيها عشرات، مثل هذه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 0,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar lo de 2.º: en el autobús van 25 personas y suben 13 más. ¿Cuántas van ahora?",
+        "va": "Per a recordar el que vàreu fer a 2n: en l'autobús van 25 persones i en pugen 13 més. Quantes en van ara?",
+        "en": "Let's remember Year 2: there are 25 people on the bus and 13 more get on. How many are on the bus now?",
+        "fr": "Pour se souvenir de l'an dernier : il y a 25 personnes dans le bus et 13 autres montent. Combien sont-elles maintenant ?",
+        "ar": "لنتذكّر ما تعلّمناه في السنة الثانية: في الحافلة 25 شخصًا وصعد 13 آخرون. كم شخصًا فيها الآن؟"
+      },
+      "pista": {
+        "es": "Primero las decenas: 20 y 10 son 30. Luego las unidades: 5 y 3 son 8.",
+        "va": "Primer les desenes: 20 i 10 són 30. Després les unitats: 5 i 3 són 8.",
+        "en": "Tens first: 20 and 10 make 30. Then the ones: 5 and 3 make 8.",
+        "fr": "D'abord les dizaines : 20 et 10 font 30. Ensuite les unités : 5 et 3 font 8.",
+        "ar": "العشرات أولًا: 20 و10 تساوي 30. ثم الآحاد: 5 و3 تساوي 8."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "25 + 13",
+        "resultado": 38,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora van 38 personas.",
+          "va": "Ara en van 38.",
+          "en": "Now there are 38 people.",
+          "fr": "Maintenant, il y a 38 personnes.",
+          "ar": "صار فيها 38 شخصًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de gente que sube a algún sitio.",
+        "va": "Inventa'n tu una de gent que puja a algun lloc.",
+        "en": "Make one up about people getting on something.",
+        "fr": "Invente un problème avec des gens qui montent quelque part.",
+        "ar": "لنخترع مسألة عن أشخاص يصعدون إلى مكان ما."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué número has visto hoy por la calle o en casa? Explícame cuántas centenas, decenas y unidades tiene.",
+        "va": "Quin nombre has vist hui pel carrer o a casa? Explica'm quantes centenes, desenes i unitats té.",
+        "en": "What number did you see today in the street or at home? Explain to me how many hundreds, tens and ones it has.",
+        "fr": "Quel nombre as-tu vu aujourd'hui dans la rue ou à la maison ? Explique-moi combien il a de centaines, de dizaines et d'unités.",
+        "ar": "ما العدد الذي رأيتَه أو رأيتِه اليوم في الشارع أو في البيت؟ اشرح لي أو اشرحي لي كم فيه من المئات والعشرات والآحاد."
+      },
+      "pista": {
+        "es": "Si no se le ocurre ninguno: «¿Qué número tiene nuestro portal? ¿Y el autobús que cogemos?»",
+        "va": "Si no se li n'acut cap: «Quin número té el nostre portal? I l'autobús que agafem?»",
+        "en": "If they can't think of one: “What number is our building? And the bus we take?”",
+        "fr": "S'il ou elle n'en trouve aucun : « Quel numéro a notre immeuble ? Et le bus qu'on prend ? »",
+        "ar": "إن لم يخطر أي عدد، اسألوا: «ما رقم بيتنا؟ وما رقم الحافلة التي نركبها؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale cualquier número. Si dice que 47 tiene «4 y 7», preguntad: «¿4 qué?». Así sale solo lo de las decenas.",
+          "va": "Val qualsevol nombre. Si diu que 47 té «4 i 7», pregunteu: «4 què?». Així ix tot sol allò de les desenes.",
+          "en": "Any number will do. If they say 47 has “4 and 7”, ask: “4 what?”. That way the idea of tens comes out by itself.",
+          "fr": "N'importe quel nombre convient. S'il ou elle dit que 47 a « 4 et 7 », demandez : « 4 quoi ? ». Ainsi, l'idée des dizaines vient toute seule.",
+          "ar": "أي عدد يصلح. إذا قيل إن 47 فيه «4 و7»، اسألوا: «4 ماذا؟». هكذا تظهر فكرة العشرات وحدها."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "a5215e111c92"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "a5215e111c92"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "a5215e111c92"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "a5215e111c92"
+      }
+    }
+  }
+}

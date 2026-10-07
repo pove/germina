@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s04",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 4,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Sumas grandes, primero a ojo",
+    "va": "Sumes grans, primer a ull",
+    "en": "Big additions, estimate first",
+    "fr": "Grandes additions, d'abord à vue d'œil",
+    "ar": "جمع كبير، بالتقدير أولًا"
+  },
+  "objetivo": {
+    "es": "Esta semana suman con llevada números de cuatro y cinco cifras, pero antes estiman: redondean y calculan a ojo para saber más o menos qué va a salir.",
+    "va": "Aquesta setmana sumen amb llevada (llevada) nombres de quatre i cinc xifres, però abans estimen (estimar): arrodonixen i calculen a ull per a saber més o menys què eixirà.",
+    "en": "This week they add four- and five-digit numbers with carrying (llevada), but first they estimate (estimar): they round and work it out roughly to know more or less what the answer will be.",
+    "fr": "Cette semaine, on additionne avec retenue (llevada) des nombres à quatre et cinq chiffres, mais d'abord on estime (estimar) : on arrondit et on calcule à vue d'œil pour savoir à peu près ce qui va sortir.",
+    "ar": "هذا الأسبوع يجمع الأطفال مع الاحتفاظ (llevada) أعدادًا من أربعة وخمسة أرقام، لكنهم يقدّرون (estimar) أولًا: يقرّبون ويحسبون تقريبيًا ليعرفوا النتيجة على وجه التقريب."
+  },
+  "comoAyudar": {
+    "es": "Antes de cada suma, preguntad «¿más o menos cuánto saldrá?». Si después el resultado queda lejos, no digáis nada sobre él: preguntad «¿de cuál de los dos te fías más?».",
+    "va": "Abans de cada suma, pregunteu «més o menys quant eixirà?». Si després el resultat queda lluny, no digueu res: pregunteu «de quin dels dos et fies més?».",
+    "en": "Before each addition, ask “Roughly how much will it be?”. If the answer then turns out far off, don't say anything about it: ask “Which of the two do you trust more?”.",
+    "fr": "Avant chaque addition, demandez « À peu près combien ça va faire ? ». Si ensuite le résultat est loin, ne dites rien : demandez « Auquel des deux tu fais le plus confiance ? ».",
+    "ar": "قبل كل عملية جمع، اسألوا «كم ستكون النتيجة تقريبًا؟». وإذا جاءت النتيجة بعيدة، لا تقولوا شيئًا عنها: اسألوا «بأيّهما تثق أو تثقين أكثر؟»."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.3.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Viaje imaginario",
+      "va": "Viatge imaginari",
+      "en": "An imaginary trip",
+      "fr": "Un voyage imaginaire",
+      "ar": "رحلة خيالية"
+    },
+    "material": [
+      {
+        "es": "Un mapa de carreteras, un atlas o distancias inventadas",
+        "va": "Un mapa de carreteres, un atles o distàncies inventades",
+        "en": "A road map, an atlas or made-up distances",
+        "fr": "Une carte routière, un atlas ou des distances inventées",
+        "ar": "خريطة طرق أو أطلس أو مسافات مخترعة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "mapa",
+        "texto": {
+          "es": "Elegid un viaje de tres etapas y apuntad los kilómetros de cada una. Si no tenéis mapa, inventadlos: 238 km, 415 km y 176 km.",
+          "va": "Trieu un viatge de tres etapes i apunteu els quilòmetres de cadascuna. Si no teniu mapa, inventeu-los: 238 km, 415 km i 176 km.",
+          "en": "Choose a trip with three stages and write down the kilometres of each one. If you have no map, make them up: 238 km, 415 km and 176 km.",
+          "fr": "Choisissez un voyage en trois étapes et notez les kilomètres de chacune. Si vous n'avez pas de carte, inventez-les : 238 km, 415 km et 176 km.",
+          "ar": "اختاروا رحلة من ثلاث مراحل واكتبوا كيلومترات كل مرحلة. إن لم تكن لديكم خريطة، اخترعوها: 238 كم و415 كم و176 كم."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Antes de sumar, cada persona dice a ojo cuánto será, redondeando: {{200 + 400 + 200 = 800}}. Apuntad lo que dice cada una.",
+          "va": "Abans de sumar, cada persona diu a ull quant serà, arrodonint: {{200 + 400 + 200 = 800}}. Apunteu el que diu cadascuna.",
+          "en": "Before adding, each person says roughly what it will be, by rounding: {{200 + 400 + 200 = 800}}. Write down what each person says.",
+          "fr": "Avant d'additionner, chaque personne dit à vue d'œil combien ça fera, en arrondissant : {{200 + 400 + 200 = 800}}. Notez ce que dit chacune.",
+          "ar": "قبل الجمع، يقول كل شخص تقديره بالتقريب: {{200 + 400 + 200 = 800}}. اكتبوا ما يقوله كل واحد."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Ahora sumad en papel, con la llevada: {{238 + 415 + 176 = 829}}.",
+          "va": "Ara sumeu en paper, amb la llevada: {{238 + 415 + 176 = 829}}.",
+          "en": "Now add on paper, carrying: {{238 + 415 + 176 = 829}}.",
+          "fr": "Maintenant, additionnez sur papier, avec la retenue : {{238 + 415 + 176 = 829}}.",
+          "ar": "الآن اجمعوا على الورق مع الاحتفاظ: {{238 + 415 + 176 = 829}}."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Comparad: ¿quién se acercó más? Si la suma en papel saliera muy lejos de lo estimado, mirad otra vez las cuentas juntos.",
+          "va": "Compareu: qui s'hi va acostar més? Si la suma en paper isquera molt lluny de l'estimació, mireu una altra vegada els comptes junts.",
+          "en": "Compare: who was closest? If the paper sum came out very far from the estimate, look at the working again together.",
+          "fr": "Comparez : qui s'en est le plus approché ? Si l'addition sur papier était très loin de l'estimation, regardez de nouveau les calculs ensemble.",
+          "ar": "قارنوا: من كان الأقرب؟ إذا جاءت نتيجة الورق بعيدة جدًا عن التقدير، انظروا في الحساب مرة أخرى معًا."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced un viaje de dos etapas.",
+      "va": "Feu un viatge de dues etapes.",
+      "en": "Do a two-stage trip.",
+      "fr": "Faites un voyage en deux étapes.",
+      "ar": "اجعلوا الرحلة من مرحلتين."
+    },
+    "masDificil": {
+      "es": "Haced un viaje en avión de cuatro etapas, con números de cuatro cifras, como 1250 km y 2380 km, y estimad al millar.",
+      "va": "Feu un viatge en avió de quatre etapes, amb nombres de quatre xifres, com 1250 km i 2380 km, i estimeu al miler.",
+      "en": "Do a four-stage plane trip, with four-digit numbers like 1250 km and 2380 km, and estimate to the nearest thousand.",
+      "fr": "Faites un voyage en avion en quatre étapes, avec des nombres à quatre chiffres, comme 1250 km et 2380 km, et estimez au millier.",
+      "ar": "اجعلوها رحلة بالطائرة من أربع مراحل، بأعداد من أربعة أرقام مثل 1250 كم و2380 كم، وقدّروا إلى الألف."
+    },
+    "paraQueSirve": {
+      "es": "Estimar antes de calcular ayuda a darse cuenta de un despiste: si a ojo eran unos 800 y en papel sale 8290, algo ha pasado.",
+      "va": "Estimar abans de calcular ajuda a adonar-se d'una distracció: si a ull eren uns 800 i en paper ix 8290, alguna cosa ha passat.",
+      "en": "Estimating before calculating helps you spot a slip: if roughly it was about 800 and on paper you get 8290, something has happened.",
+      "fr": "Estimer avant de calculer aide à repérer une étourderie : si à vue d'œil c'était environ 800 et que sur papier on obtient 8290, quelque chose s'est passé.",
+      "ar": "التقدير قبل الحساب يساعد على اكتشاف السهو: إذا كان التقدير نحو 800 وجاءت نتيجة الورق 8290، فقد حدث شيء ما."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Un tren lleva 1348 personas y en una estación suben 275 más. ¿Cuántas personas van ahora?",
+        "va": "Un tren porta 1348 persones i en una estació en pugen 275 més. Quantes persones hi van ara?",
+        "en": "A train is carrying 1348 people and 275 more get on at a station. How many people are on it now?",
+        "fr": "Un train transporte 1348 personnes et 275 de plus montent dans une gare. Combien de personnes y a-t-il maintenant ?",
+        "ar": "قطار يحمل 1348 شخصًا وصعد 275 آخرون في محطة. كم شخصًا فيه الآن؟"
+      },
+      "pista": {
+        "es": "A ojo: 1300 y 300 son 1600. Ahora suma en papel y mira si se parece.",
+        "va": "A ull: 1300 i 300 són 1600. Ara suma en paper i mira si s'hi assembla.",
+        "en": "Roughly: 1300 and 300 make 1600. Now add on paper and see if it's similar.",
+        "fr": "À vue d'œil : 1300 et 300 font 1600. Maintenant, additionne sur papier et regarde si ça ressemble.",
+        "ar": "تقديريًا: 1300 و300 تساوي 1600. الآن لنجمع على الورق ونرى هل النتيجة قريبة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1348 + 275",
+        "resultado": 1623,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 1623 personas, muy cerca de 1600.",
+          "va": "Hi van 1623 persones, molt a prop de 1600.",
+          "en": "There are 1623 people, very close to 1600.",
+          "fr": "Il y a 1623 personnes, très près de 1600.",
+          "ar": "فيه 1623 شخصًا، قريب جدًا من 1600."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un tren o un autobús con números grandes y estima antes de sumar.",
+        "va": "Inventa'n tu una d'un tren o un autobús amb nombres grans i estima abans de sumar.",
+        "en": "Make one up about a train or bus with big numbers and estimate before adding.",
+        "fr": "Invente un problème de train ou de bus avec de grands nombres et estime avant d'additionner.",
+        "ar": "لنخترع مسألة عن قطار أو حافلة بأعداد كبيرة ونقدّر قبل الجمع."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En las fiestas del pueblo se venden 2475 bocadillos el sábado y 1890 el domingo. ¿Cuántos se venden en total?",
+        "va": "En les festes del poble es venen 2475 entrepans el dissabte i 1890 el diumenge. Quants se'n venen en total?",
+        "en": "At the town festival, 2475 sandwiches are sold on Saturday and 1890 on Sunday. How many are sold altogether?",
+        "fr": "À la fête du village, on vend 2475 sandwichs le samedi et 1890 le dimanche. Combien en vend-on en tout ?",
+        "ar": "في احتفالات القرية بيعت 2475 شطيرة يوم السبت و1890 يوم الأحد. كم شطيرة بيعت في المجموع؟"
+      },
+      "pista": {
+        "es": "A ojo: 2500 y 1900 son 4400. En papel, cuidado con las centenas: 4 y 8 son 12.",
+        "va": "A ull: 2500 i 1900 són 4400. En paper, compte amb les centenes: 4 i 8 són 12.",
+        "en": "Roughly: 2500 and 1900 make 4400. On paper, watch the hundreds: 4 and 8 make 12.",
+        "fr": "À vue d'œil : 2500 et 1900 font 4400. Sur papier, attention aux centaines : 4 et 8 font 12.",
+        "ar": "تقديريًا: 2500 و1900 تساوي 4400. على الورق، انتبه أو انتبهي للمئات: 4 و8 تساوي 12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2475 + 1890",
+        "resultado": 4365,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se venden 4365 bocadillos.",
+          "va": "Se'n venen 4365.",
+          "en": "4365 sandwiches are sold.",
+          "fr": "On en vend 4365.",
+          "ar": "بيعت 4365 شطيرة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de una fiesta que dure dos días.",
+        "va": "Inventa'n tu una d'una festa que dure dos dies.",
+        "en": "Make one up about a festival that lasts two days.",
+        "fr": "Invente un problème sur une fête qui dure deux jours.",
+        "ar": "لنخترع مسألة عن احتفال يدوم يومين."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Un colegio recoge 3608 tapones en otoño y 2715 en invierno. Quería llegar a 6000. ¿Lo consigue? ¿Cuántos recoge?",
+        "va": "Un col·legi arreplega 3608 taps a la tardor i 2715 a l'hivern. Volia arribar a 6000. Ho aconseguix? Quants n'arreplega?",
+        "en": "A school collects 3608 bottle tops in autumn and 2715 in winter. It wanted to reach 6000. Does it make it? How many does it collect?",
+        "fr": "Une école récupère 3608 bouchons en automne et 2715 en hiver. Elle voulait arriver à 6000. Y arrive-t-elle ? Combien en récupère-t-elle ?",
+        "ar": "جمعت مدرسة 3608 أغطية قوارير في الخريف و2715 في الشتاء. كانت تريد الوصول إلى 6000. هل وصلت؟ كم غطاء جمعت؟"
+      },
+      "pista": {
+        "es": "A ojo: 3600 y 2700 son 6300. Ya sabes que pasa de 6000; ahora calcula exacto.",
+        "va": "A ull: 3600 i 2700 són 6300. Ja saps que passa de 6000; ara calcula-ho exacte.",
+        "en": "Roughly: 3600 and 2700 make 6300. You already know it's over 6000; now work it out exactly.",
+        "fr": "À vue d'œil : 3600 et 2700 font 6300. Tu sais déjà que ça dépasse 6000 ; maintenant, calcule exactement.",
+        "ar": "تقديريًا: 3600 و2700 تساوي 6300. نعرف الآن أنها تتجاوز 6000؛ لنحسبها بالضبط."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3608 + 2715",
+        "resultado": 6323,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, lo consigue y se pasa: recoge 6323 tapones.",
+          "va": "Sí, ho aconseguix i se'n passa: n'arreplega 6323.",
+          "en": "Yes, it makes it and goes over: it collects 6323 bottle tops.",
+          "fr": "Oui, elle y arrive et dépasse : elle récupère 6323 bouchons.",
+          "ar": "نعم، وصلت وتجاوزت: جمعت 6323 غطاءً."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que alguien quiera llegar a un número y se pregunte si lo consigue.",
+        "va": "Inventa'n tu una en què algú vulga arribar a un nombre i es pregunte si ho aconseguix.",
+        "en": "Make one up where someone wants to reach a number and you ask whether they make it.",
+        "fr": "Invente un problème où quelqu'un veut arriver à un nombre et où l'on demande s'il ou elle y arrive.",
+        "ar": "لنخترع مسألة يريد فيها شخص الوصول إلى عدد ونسأل هل وصل."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 3,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: ¿a qué centena está más cerca el 735, al 700 o al 800?",
+        "va": "Per a recordar: a quina centena està més a prop el 735, al 700 o al 800?",
+        "en": "Let's remember: which hundred is 735 closest to, 700 or 800?",
+        "fr": "Pour se souvenir : de quelle centaine 735 est-il le plus proche, 700 ou 800 ?",
+        "ar": "لنتذكّر: أيّ مئة أقرب إلى 735، 700 أم 800؟"
+      },
+      "pista": {
+        "es": "Mira las decenas: 3 decenas es menos que la mitad del camino.",
+        "va": "Mira les desenes: 3 desenes és menys que la meitat del camí.",
+        "en": "Look at the tens: 3 tens is less than halfway.",
+        "fr": "Regarde les dizaines : 3 dizaines, c'est moins que la moitié du chemin.",
+        "ar": "لننظر إلى العشرات: 3 عشرات أقل من نصف الطريق."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "735 - 700",
+        "resultado": 35,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Está a 35 del 700 y a 65 del 800: más cerca del 700.",
+          "va": "Està a 35 del 700 i a 65 del 800: més a prop del 700.",
+          "en": "It's 35 from 700 and 65 from 800: closer to 700.",
+          "fr": "Il est à 35 de 700 et à 65 de 800 : plus près de 700.",
+          "ar": "يبعد 35 عن 700 و65 عن 800: هو أقرب إلى 700."
+        }
+      },
+      "inventala": {
+        "es": "Di tú un número de tres cifras y pregunta a otra persona a qué centena está más cerca.",
+        "va": "Digues tu un nombre de tres xifres i pregunta a una altra persona a quina centena està més a prop.",
+        "en": "Say a three-digit number and ask someone else which hundred it's closest to.",
+        "fr": "Dis un nombre à trois chiffres et demande à une autre personne de quelle centaine il est le plus proche.",
+        "ar": "لنقل عددًا من ثلاثة أرقام ونسأل شخصًا آخر أيّ مئة أقرب إليه."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Para qué sirve calcular a ojo antes de hacer una suma? Explícamelo con un ejemplo.",
+        "va": "Per a què serveix calcular a ull abans de fer una suma? Explica-m'ho amb un exemple.",
+        "en": "What's the point of estimating before doing an addition? Explain it to me with an example.",
+        "fr": "À quoi sert de calculer à vue d'œil avant de faire une addition ? Explique-le-moi avec un exemple.",
+        "ar": "ما فائدة التقدير قبل عملية الجمع؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Si no se le ocurre nada: «Si a ojo te sale 800 y en papel 8000, ¿qué piensas?»",
+        "va": "Si no se li acut res: «Si a ull t'ix 800 i en paper 8000, què penses?»",
+        "en": "If nothing comes to mind: “If your estimate is 800 and on paper you get 8000, what do you think?”",
+        "fr": "S'il ou elle ne trouve rien : « Si à vue d'œil tu trouves 800 et sur papier 8000, tu en penses quoi ? »",
+        "ar": "إن لم تخطر أي فكرة: «إذا كان التقدير 800 والنتيجة على الورق 8000، ماذا نظنّ؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo importante es que vea el cálculo a ojo como una ayuda para pillar despistes, no como un paso más. Cualquier ejemplo suyo vale.",
+          "va": "L'important és que veja el càlcul a ull com una ajuda per a enxampar distraccions, no com un pas més. Qualsevol exemple seu val.",
+          "en": "What matters is that they see estimating as a help to catch slips, not as one more step. Any example of theirs is fine.",
+          "fr": "L'important, c'est de voir le calcul à vue d'œil comme une aide pour repérer les étourderies, pas comme une étape de plus. N'importe quel exemple convient.",
+          "ar": "المهم أن يُرى التقدير كمساعدة لاكتشاف السهو، لا كخطوة إضافية. أي مثال يُقدَّم جيد."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "6b5276fa0057"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "6b5276fa0057"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "6b5276fa0057"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "6b5276fa0057"
+      }
+    }
+  }
+}

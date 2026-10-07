@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s08",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 8,
+  "tipo": "tema",
+  "titulo": {
+    "es": "La vuelta",
+    "va": "El canvi",
+    "en": "The change",
+    "fr": "La monnaie",
+    "ar": "الباقي"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden a calcular la vuelta contando hacia arriba, como en las tiendas, y a comprobar una resta con una suma: si lo que queda más lo que se quitó da lo que había, la resta cuadra.",
+    "va": "Aquesta setmana aprenen a calcular el canvi (la vuelta) comptant cap amunt, com en les botigues, i a comprovar una resta amb una suma: si el que queda més el que s'ha llevat dona el que hi havia, la resta quadra.",
+    "en": "This week they learn to work out the change (la vuelta) by counting up, as in shops, and to check a subtraction with an addition: if what's left plus what was taken away gives what there was, the subtraction is right.",
+    "fr": "Cette semaine, on apprend à calculer la monnaie (la vuelta) en comptant en avançant, comme dans les magasins, et à vérifier une soustraction avec une addition : si ce qui reste plus ce qu'on a enlevé donne ce qu'il y avait, la soustraction est juste.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال حساب الباقي من المال (la vuelta) بالعدّ صعودًا، كما في المتاجر، والتحقّق من الطرح بالجمع: إذا كان الباقي زائد ما أُخذ يساوي ما كان، فالطرح صحيح."
+  },
+  "comoAyudar": {
+    "es": "Si vais a una tienda, dejad que calcule la vuelta antes de que os la den. Después, contad juntos las monedas para ver si cuadra.",
+    "va": "Si aneu a una botiga, deixeu que calcule el canvi abans que us el donen. Després, compteu junts les monedes per a veure si quadra.",
+    "en": "If you go to a shop, let them work out the change before it's handed over. Afterwards, count the coins together to see if it matches.",
+    "fr": "Si vous allez dans un magasin, laissez votre enfant calculer la monnaie avant qu'on vous la rende. Ensuite, comptez les pièces ensemble pour voir si ça correspond.",
+    "ar": "إذا ذهبتم إلى متجر، دعوا الطفل أو الطفلة يحسب الباقي قبل أن تستلموه. ثم عدّوا القطع النقدية معًا لتروا هل يطابق."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c2.1.3",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La tienda de casa",
+      "va": "La botiga de casa",
+      "en": "The home shop",
+      "fr": "Le magasin de la maison",
+      "ar": "متجر البيت"
+    },
+    "material": [
+      {
+        "es": "4 o 5 cosas de casa (una taza, un libro, una fruta…)",
+        "va": "4 o 5 coses de casa (una tassa, un llibre, una fruita…)",
+        "en": "4 or 5 things from home (a mug, a book, a piece of fruit…)",
+        "fr": "4 ou 5 objets de la maison (une tasse, un livre, un fruit…)",
+        "ar": "4 أو 5 أشياء من البيت (كوب، كتاب، حبة فاكهة…)"
+      },
+      {
+        "es": "Papelitos para poner precios",
+        "va": "Paperets per a posar preus",
+        "en": "Slips of paper for the prices",
+        "fr": "Des petits papiers pour les prix",
+        "ar": "أوراق صغيرة لكتابة الأسعار"
+      },
+      {
+        "es": "Un billete de 20 € de papel, billetes de 5 € y de 10 € de papel, y botones como monedas de 1 € y 2 €",
+        "va": "Un bitllet de 20 € de paper, bitllets de 5 € i de 10 € de paper, i botons com a monedes d'1 € i 2 €",
+        "en": "A paper 20 € note, paper 5 € and 10 € notes, and buttons as 1 € and 2 € coins",
+        "fr": "Un billet de 20 € en papier, des billets de 5 € et de 10 € en papier, et des boutons comme pièces de 1 € et 2 €",
+        "ar": "ورقة نقدية من ورق بـ20 يورو، وأوراق من ورق بـ5 و10 يورو، وأزرار تكون قطعًا نقدية من 1 و2 يورو"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Poned precio a cada cosa, siempre euros enteros y menos de 20: la taza, 3 €; el libro, 12 €; la fruta, 1 €…",
+          "va": "Poseu preu a cada cosa, sempre euros sencers i menys de 20: la tassa, 3 €; el llibre, 12 €; la fruita, 1 €…",
+          "en": "Put a price on each thing, always whole euros and less than 20: the mug, 3 €; the book, 12 €; the fruit, 1 €…",
+          "fr": "Mettez un prix à chaque objet, toujours des euros entiers et moins de 20 : la tasse, 3 € ; le livre, 12 € ; le fruit, 1 €…",
+          "ar": "ضعوا سعرًا لكل شيء، دائمًا يوروهات كاملة وأقل من 20: الكوب 3 يورو، الكتاب 12 يورو، الفاكهة 1 يورو…"
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Quien compra paga siempre con el billete de 20 €. Quien vende da la vuelta contando hacia arriba: «12… y 1, 13; y 2, 15; y 5, 20».",
+          "va": "Qui compra paga sempre amb el bitllet de 20 €. Qui ven torna el canvi comptant cap amunt: «12… i 1, 13; i 2, 15; i 5, 20».",
+          "en": "The buyer always pays with the 20 € note. The seller gives the change by counting up: “12… and 1, 13; and 2, 15; and 5, 20”.",
+          "fr": "La personne qui achète paie toujours avec le billet de 20 €. Celle qui vend rend la monnaie en comptant en avançant : « 12… et 1, 13 ; et 2, 15 ; et 5, 20 ».",
+          "ar": "من يشتري يدفع دائمًا بورقة الـ20 يورو. ومن يبيع يعيد الباقي بالعدّ صعودًا: «12… و1، 13؛ و2، 15؛ و5، 20»."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Contad lo que se ha devuelto: {{1 + 2 + 5 = 8}}. La vuelta son 8 €.",
+          "va": "Compteu el que s'ha tornat: {{1 + 2 + 5 = 8}}. El canvi són 8 €.",
+          "en": "Count what was given back: {{1 + 2 + 5 = 8}}. The change is 8 €.",
+          "fr": "Comptez ce qui a été rendu : {{1 + 2 + 5 = 8}}. La monnaie, c'est 8 €.",
+          "ar": "عدّوا ما أُعيد: {{1 + 2 + 5 = 8}}. الباقي 8 يورو."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Comprobadlo con una suma: {{12 + 8 = 20}}. Si el precio más la vuelta da 20, cuadra. Después, cambiad los papeles.",
+          "va": "Comproveu-ho amb una suma: {{12 + 8 = 20}}. Si el preu més el canvi dona 20, quadra. Després, canvieu els papers.",
+          "en": "Check it with an addition: {{12 + 8 = 20}}. If the price plus the change makes 20, it matches. Then swap roles.",
+          "fr": "Vérifiez avec une addition : {{12 + 8 = 20}}. Si le prix plus la monnaie donne 20, c'est juste. Ensuite, échangez les rôles.",
+          "ar": "تحقّقوا بعملية جمع: {{12 + 8 = 20}}. إذا كان السعر زائد الباقي يساوي 20، فهو صحيح. ثم تبادلوا الأدوار."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Pagad con un billete de 10 € y poned precios de menos de 10 €.",
+      "va": "Pagueu amb un bitllet de 10 € i poseu preus de menys de 10 €.",
+      "en": "Pay with a 10 € note and use prices under 10 €.",
+      "fr": "Payez avec un billet de 10 € et mettez des prix de moins de 10 €.",
+      "ar": "ادفعوا بورقة من 10 يورو وضعوا أسعارًا أقل من 10 يورو."
+    },
+    "masDificil": {
+      "es": "Comprad dos cosas a la vez y pagad con un billete de 50 €.",
+      "va": "Compreu dues coses alhora i pagueu amb un bitllet de 50 €.",
+      "en": "Buy two things at once and pay with a 50 € note.",
+      "fr": "Achetez deux choses à la fois et payez avec un billet de 50 €.",
+      "ar": "اشتروا شيئين معًا وادفعوا بورقة من 50 يورو."
+    },
+    "paraQueSirve": {
+      "es": "Contar hacia arriba es como se da la vuelta en muchas tiendas, y comprobar con una suma ayuda a saber si una resta cuadra sin que nadie lo diga.",
+      "va": "Comptar cap amunt és com es torna el canvi en moltes botigues, i comprovar amb una suma ajuda a saber si una resta quadra sense que ningú ho diga.",
+      "en": "Counting up is how change is given in many shops, and checking with an addition helps you know whether a subtraction is right without anyone telling you.",
+      "fr": "Compter en avançant, c'est comme ça qu'on rend la monnaie dans beaucoup de magasins, et vérifier avec une addition aide à savoir si une soustraction est juste sans que personne ne le dise.",
+      "ar": "العدّ صعودًا هو طريقة إعادة الباقي في كثير من المتاجر، والتحقّق بالجمع يساعد على معرفة صحة الطرح من غير أن يقولها أحد."
+    },
+    "aviso": {
+      "es": "Guardad los botones lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els botons lluny de germans o germanes menuts.",
+      "en": "Keep the buttons away from younger brothers and sisters.",
+      "fr": "Gardez les boutons loin des petits frères et sœurs.",
+      "ar": "أبعدوا الأزرار عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Un cuento cuesta 7 € y pagas con un billete de 20 €. ¿Cuánto te devuelven?",
+        "va": "Un conte costa 7 € i pagues amb un bitllet de 20 €. Quant et tornen?",
+        "en": "A storybook costs 7 € and you pay with a 20 € note. How much change do you get?",
+        "fr": "Un conte coûte 7 € et tu paies avec un billet de 20 €. Combien te rend-on ?",
+        "ar": "ثمن قصة 7 يورو وندفع بورقة من 20 يورو. كم يعيدون لنا؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba: de 7 a 10 van 3, y de 10 a 20, 10 más.",
+        "va": "Compta cap amunt: de 7 a 10 en van 3, i de 10 a 20, 10 més.",
+        "en": "Count up: from 7 to 10 is 3, and from 10 to 20 is 10 more.",
+        "fr": "Compte en avançant : de 7 à 10, ça fait 3, et de 10 à 20, 10 de plus.",
+        "ar": "لنعدّ صعودًا: من 7 إلى 10 هي 3، ومن 10 إلى 20 هي 10 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 7",
+        "resultado": 13,
+        "unidad": "euros",
+        "texto": {
+          "es": "Te devuelven 13 €.",
+          "va": "Et tornen 13 €.",
+          "en": "You get 13 € change.",
+          "fr": "On te rend 13 €.",
+          "ar": "يعيدون لنا 13 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de pagar con 20 € en la tienda que más te guste.",
+        "va": "Inventa'n tu una de pagar amb 20 € en la botiga que més t'agrade.",
+        "en": "Make one up about paying with 20 € in your favourite shop.",
+        "fr": "Invente un problème où l'on paie avec 20 € dans ton magasin préféré.",
+        "ar": "لنخترع مسألة ندفع فيها 20 يورو في المتجر المفضّل."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "La abuela de Yasmín compra pan y fruta por 14 € y paga con 20 €. ¿Cuál es la vuelta?",
+        "va": "L'àvia de la Yasmín compra pa i fruita per 14 € i paga amb 20 €. Quin és el canvi?",
+        "en": "Yasmín's grandma buys bread and fruit for 14 € and pays with 20 €. What is the change?",
+        "fr": "La grand-mère de Yasmín achète du pain et des fruits pour 14 € et paie avec 20 €. Combien lui rend-on ?",
+        "ar": "اشترت جدة ياسمين خبزًا وفاكهة بـ14 يورو ودفعت 20 يورو. كم الباقي؟"
+      },
+      "pista": {
+        "es": "De 14 a 15 va 1, y de 15 a 20 van 5.",
+        "va": "De 14 a 15 en va 1, i de 15 a 20 en van 5.",
+        "en": "From 14 to 15 is 1, and from 15 to 20 is 5.",
+        "fr": "De 14 à 15, ça fait 1, et de 15 à 20, ça fait 5.",
+        "ar": "من 14 إلى 15 هي 1، ومن 15 إلى 20 هي 5."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 14",
+        "resultado": 6,
+        "unidad": "euros",
+        "texto": {
+          "es": "La vuelta son 6 €.",
+          "va": "El canvi són 6 €.",
+          "en": "The change is 6 €.",
+          "fr": "On lui rend 6 €.",
+          "ar": "الباقي 6 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de la compra de alguien de tu familia.",
+        "va": "Inventa'n tu una de la compra d'algú de la teua família.",
+        "en": "Make one up about someone in your family doing the shopping.",
+        "fr": "Invente un problème avec les courses de quelqu'un de ta famille.",
+        "ar": "لنخترع مسألة عن تسوّق شخص من العائلة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Hugo ha calculado que {{35 − 12 = 23}}. ¿Qué suma puede hacer para comprobarlo?",
+        "va": "L'Hugo ha calculat que {{35 − 12 = 23}}. Quina suma pot fer per a comprovar-ho?",
+        "en": "Hugo has worked out that {{35 − 12 = 23}}. What addition can he do to check it?",
+        "fr": "Hugo a calculé que {{35 − 12 = 23}}. Quelle addition peut-il faire pour le vérifier ?",
+        "ar": "حسب أوغو أن {{35 − 12 = 23}}. أيّ عملية جمع يمكنه أن يقوم بها ليتحقّق؟"
+      },
+      "pista": {
+        "es": "Lo que queda más lo que se quitó da lo que había al principio.",
+        "va": "El que queda més el que s'ha llevat dona el que hi havia al principi.",
+        "en": "What's left plus what was taken away gives what there was at the start.",
+        "fr": "Ce qui reste plus ce qu'on a enlevé donne ce qu'il y avait au début.",
+        "ar": "الباقي زائد ما أُخذ يعطينا ما كان في البداية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "23 + 12",
+        "resultado": 35,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sumando {{23 + 12 = 35}}. Como sale 35, la resta cuadra.",
+          "va": "Sumant {{23 + 12 = 35}}. Com que ix 35, la resta quadra.",
+          "en": "By adding {{23 + 12 = 35}}. Since it makes 35, the subtraction is right.",
+          "fr": "En additionnant {{23 + 12 = 35}}. Comme ça fait 35, la soustraction est juste.",
+          "ar": "بالجمع {{23 + 12 = 35}}. بما أن الناتج 35، فالطرح صحيح."
+        }
+      },
+      "inventala": {
+        "es": "Haz tú una resta y pide a otra persona que la compruebe con una suma.",
+        "va": "Fes tu una resta i demana a una altra persona que la comprove amb una suma.",
+        "en": "Do a subtraction yourself and ask someone else to check it with an addition.",
+        "fr": "Fais une soustraction et demande à une autre personne de la vérifier avec une addition.",
+        "ar": "لنقم بعملية طرح ونطلب من شخص آخر أن يتحقّق منها بعملية جمع."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: en la clase hay 52 lápices y durante el trimestre se gastan 18. ¿Cuántos quedan?",
+        "va": "Per a recordar: a la classe hi ha 52 llapis i durant el trimestre se'n gasten 18. Quants en queden?",
+        "en": "Let's remember: there are 52 pencils in the classroom and 18 get used up during the term. How many are left?",
+        "fr": "Pour se souvenir : dans la classe, il y a 52 crayons et 18 sont usés pendant le trimestre. Combien en reste-t-il ?",
+        "ar": "لنتذكّر: في القسم 52 قلم رصاص واستُهلك منها 18 خلال الفصل. كم بقي؟"
+      },
+      "pista": {
+        "es": "8 no sale de 2: abre una decena. Ahora hay 4 decenas y 12 unidades.",
+        "va": "8 no ix de 2: obri una desena. Ara hi ha 4 desenes i 12 unitats.",
+        "en": "You can't take 8 from 2: open a ten. Now there are 4 tens and 12 ones.",
+        "fr": "On ne peut pas enlever 8 de 2 : ouvre une dizaine. Maintenant, il y a 4 dizaines et 12 unités.",
+        "ar": "لا يمكن أخذ 8 من 2: لنفتح عشرة. الآن هناك 4 عشرات و12 آحادًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "52 - 18",
+        "resultado": 34,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 34 lápices.",
+          "va": "En queden 34.",
+          "en": "There are 34 pencils left.",
+          "fr": "Il reste 34 crayons.",
+          "ar": "بقي 34 قلمًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una resta de la clase en la que se abra una decena.",
+        "va": "Inventa'n tu una resta de la classe en què s'òbriga una desena.",
+        "en": "Make up a classroom subtraction where a ten gets opened.",
+        "fr": "Invente une soustraction de la classe où l'on ouvre une dizaine.",
+        "ar": "لنخترع عملية طرح عن القسم نفتح فيها عشرة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si alguien paga con 20 € algo que cuesta 13 €, ¿cómo le das la vuelta? Explícamelo como si fueras de la tienda.",
+        "va": "Si algú paga amb 20 € una cosa que costa 13 €, com li tornes el canvi? Explica-m'ho com si treballares a la botiga.",
+        "en": "If someone pays with 20 € for something that costs 13 €, how do you give them their change? Explain it to me as if you worked in the shop.",
+        "fr": "Si quelqu'un paie avec 20 € quelque chose qui coûte 13 €, comment lui rends-tu la monnaie ? Explique-le-moi comme si tu travaillais au magasin.",
+        "ar": "إذا دفع أحد 20 يورو ثمن شيء بـ13 يورو، كيف نعيد له الباقي؟ اشرح لي أو اشرحي لي كأننا في المتجر."
+      },
+      "pista": {
+        "es": "Haced vosotros de cliente: «Aquí tienes 20 €, ¿me das la vuelta?»",
+        "va": "Feu vosaltres de client: «Ací tens 20 €, em tornes el canvi?»",
+        "en": "You play the customer: “Here's 20 €, can I have my change?”",
+        "fr": "Jouez le rôle du client : « Voilà 20 €, tu me rends la monnaie ? »",
+        "ar": "قوموا أنتم بدور الزبون: «هذه 20 يورو، هل تعيد لي الباقي؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede contar hacia arriba (13, 15, 20) o restar. Las dos formas valen; si salen 7 €, preguntad cómo lo ha pensado y escuchad.",
+          "va": "Pot comptar cap amunt (13, 15, 20) o restar. Les dues maneres valen; si ixen 7 €, pregunteu com ho ha pensat i escolteu.",
+          "en": "They might count up (13, 15, 20) or subtract. Both ways work; if they get 7 €, ask how they worked it out and listen.",
+          "fr": "Il ou elle peut compter en avançant (13, 15, 20) ou soustraire. Les deux façons marchent ; si ça donne 7 €, demandez comment il ou elle a réfléchi et écoutez.",
+          "ar": "يمكن العدّ صعودًا (13، 15، 20) أو الطرح. الطريقتان صحيحتان؛ إذا كان الناتج 7 يورو، اسألوا كيف كان التفكير واستمعوا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "27fb9ea833ec"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "27fb9ea833ec"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "27fb9ea833ec"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "27fb9ea833ec"
+      }
+    }
+  }
+}
