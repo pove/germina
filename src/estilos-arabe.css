@@ -1,0 +1,20 @@
+/* Noto Sans Arabic (OFL), incluida en el sitio. Solo se carga cuando el idioma es el árabe. */
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('./assets/fuentes/noto-sans-arabic-arabic-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Noto Sans Arabic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('./assets/fuentes/noto-sans-arabic-arabic-700-normal.woff2') format('woff2');
+}
+
+:root {
+  --tipografia: 'Noto Sans Arabic', 'Atkinson Hyperlegible', system-ui, sans-serif;
+}

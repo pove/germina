@@ -4,41 +4,14 @@ import { existsSync, readdirSync, readFileSync } from 'node:fs';
 import { dirname, join, relative } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import Ajv2020 from 'ajv/dist/2020.js';
-import { campoDe, validarSemilla } from './lib/validar-semilla.mjs';
+import { fallosDeAjv, validarComunes, validarPictogramas } from './lib/validar-comun.mjs';
+import { validarSemilla } from './lib/validar-semilla.mjs';
 
 const RAIZ = join(dirname(fileURLToPath(import.meta.url)), '..');
 
 const leerJson = (ruta) => JSON.parse(readFileSync(ruta, 'utf8'));
 const subcarpetas = (ruta) =>
   existsSync(ruta) ? readdirSync(ruta, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name) : [];
-
-/** Convierte los errores de ajv en {ruta, motivo}, quitando el ruido de oneOf/if/anyOf/not. */
-function fallosDeAjv(errores) {
-  const ruido = new Set(['oneOf', 'anyOf', 'if', 'not', 'allOf']);
-  const utiles = errores.some((e) => !ruido.has(e.keyword)) ? errores.filter((e) => !ruido.has(e.keyword)) : errores;
-  const vistos = new Set();
-  const salida = [];
-  for (const e of utiles) {
-    const ruta = e.instancePath
-      .split('/')
-      .slice(1)
-      .map((p) => (/^\d+$/.test(p) ? Number(p) : p.replace(/~1/g, '/').replace(/~0/g, '~')));
-    let motivo = e.message;
-    if (e.keyword === 'required') motivo = `falta «${e.params.missingProperty}»`;
-    else if (e.keyword === 'additionalProperties' || e.keyword === 'unevaluatedProperties') {
-      motivo = `«${e.params.additionalProperty ?? e.params.unevaluatedProperty}» no está permitido`;
-    } else if (e.keyword === 'enum') motivo = `debe ser uno de: ${e.params.allowedValues.join(', ')}`;
-    else if (e.keyword === 'const') motivo = `debe ser ${JSON.stringify(e.params.allowedValue)}`;
-    else if (e.keyword === 'pattern') motivo = `no tiene el formato esperado (${e.params.pattern})`;
-    else if (e.keyword === 'type') motivo = `debe ser de tipo ${e.params.type}`;
-    else if (e.keyword === 'minLength') motivo = 'no puede estar vacío';
-    const clave = `${campoDe(ruta)}|${motivo}`;
-    if (vistos.has(clave)) continue;
-    vistos.add(clave);
-    salida.push({ ruta, motivo });
-  }
-  return salida;
-}
 
 /** Deduce ciclo, área, curso, id y semana/verano de la ruta de un archivo de semilla. */
 function rutaDeSemilla([carpetaCiclo, area, curso, archivo]) {
@@ -61,7 +34,9 @@ export function validarContenido({ raiz = RAIZ } = {}) {
   const error = (archivo, campo, motivo) => errores.push({ archivo, campo, motivo });
 
   const ajv = new Ajv2020({ allErrors: true, validateFormats: false, strictTypes: false });
-  const validarEsquema = ajv.compile(leerJson(join(raiz, 'config/esquemas/semilla.schema.json')));
+  const esquemaSemilla = leerJson(join(raiz, 'config/esquemas/semilla.schema.json'));
+  ajv.addSchema(leerJson(join(raiz, 'config/esquemas/comun.schema.json')));
+  const validarEsquema = ajv.compile(esquemaSemilla);
   const esquema = (semilla) => (validarEsquema(semilla) ? [] : fallosDeAjv(validarEsquema.errors));
 
   const cacheArea = new Map();
@@ -116,6 +91,10 @@ export function validarContenido({ raiz = RAIZ } = {}) {
       }
     }
   }
+  const comunes = validarComunes({ raiz, ajv });
+  errores.push(...comunes.errores);
+  avisos.push(...comunes.avisos);
+  errores.push(...validarPictogramas({ raiz, esquema: esquemaSemilla }).errores);
   return { errores, avisos, semillas };
 }
 

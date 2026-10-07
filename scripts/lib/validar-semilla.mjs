@@ -51,6 +51,52 @@ export function extraerMarcado(texto) {
   return { partes, problema: null };
 }
 
+const HUECO = /(?<!\{)\{([a-z_]+)\}(?!\})/g;
+
+/**
+ * Revisa todos los textos en cinco idiomas de un documento: marcado «{{…}}» equilibrado e idéntico en los
+ * cinco idiomas, igualdades que cuadran y palabras de Germina (4, 6 y 8 de la especificación, apartado 11).
+ * Con `huecos`, admite huecos con llaves simples ({n}) que deben ser los mismos en los cinco idiomas.
+ * @param {object} documento
+ * @param {{error: (ruta: (string|number)[], motivo: string) => void, aviso: (ruta: (string|number)[], motivo: string) => void, huecos?: boolean}} salida
+ */
+export function revisarTextos(documento, { error, aviso, huecos = false }) {
+  for (const [valor, r] of recorrer(documento)) {
+    if (!esTexto(valor)) continue;
+    const porIdioma = {};
+    const nombresDeHuecos = {};
+    for (const idioma of IDIOMAS) {
+      let texto = valor[idioma];
+      if (huecos) {
+        nombresDeHuecos[idioma] = [...texto.matchAll(HUECO)].map((m) => m[1]).sort();
+        texto = texto.replace(HUECO, '');
+      }
+      const { partes, problema } = extraerMarcado(texto);
+      if (problema) error([...r, idioma], problema);
+      porIdioma[idioma] = partes;
+      // 6. Palabras de Germina, en cualquier idioma.
+      for (const p of palabrasProhibidasEn(valor[idioma])) error([...r, idioma], `aparece la palabra «${p}», que Germina no usa (especificación, 5.4)`);
+    }
+    // 4b. Las igualdades de «{{…}}» cuadran (se comprueba en español; el resto debe ser idéntico).
+    for (const parte of porIdioma.es) {
+      const res = comprobarIgualdad(parte);
+      if (res.estado === 'no-cuadra') error([...r, 'es'], `«{{${parte}}}» no cuadra: ${res.detalle}`);
+      else if (res.estado === 'no-evaluable') aviso([...r, 'es'], `no se puede comprobar «{{${parte}}}»: ${res.detalle}`);
+    }
+    // 8. Las operaciones (y los huecos) son idénticos en los cinco idiomas.
+    const lista = (partes) => partes.map((x) => `{{${x}}}`).join(' ') || 'ninguna';
+    for (const idioma of IDIOMAS.slice(1)) {
+      const otras = porIdioma[idioma];
+      if (otras.length !== porIdioma.es.length || otras.some((x, k) => x !== porIdioma.es[k])) {
+        error([...r, idioma], `las operaciones «{{…}}» no son idénticas a las del español (es: ${lista(porIdioma.es)}; ${idioma}: ${lista(otras)})`);
+      }
+      if (huecos && nombresDeHuecos[idioma].join() !== nombresDeHuecos.es.join()) {
+        error([...r, idioma], `los huecos no son los mismos que en español (es: ${nombresDeHuecos.es.map((x) => `{${x}}`).join(' ') || 'ninguno'}; ${idioma}: ${nombresDeHuecos[idioma].map((x) => `{${x}}`).join(' ') || 'ninguno'})`);
+      }
+    }
+  }
+}
+
 /**
  * Valida una semilla ya leída.
  * @param {object} semilla
@@ -148,40 +194,8 @@ export function validarSemilla(semilla, archivo, ctx) {
     }
   });
 
-  const marcado = []; // [ruta del texto, {idioma → partes}]
-  const textos = []; // [cadena, ruta]
-  for (const [valor, r] of recorrer(semilla)) {
-    if (!esTexto(valor)) continue;
-    const porIdioma = {};
-    for (const idioma of IDIOMAS) {
-      const { partes, problema } = extraerMarcado(valor[idioma]);
-      if (problema) error([...r, idioma], problema);
-      porIdioma[idioma] = partes;
-      textos.push([valor[idioma], [...r, idioma]]);
-    }
-    marcado.push([r, porIdioma]);
-  }
-  for (const [r, porIdioma] of marcado) {
-    // 4b. Las igualdades de «{{…}}» cuadran (se comprueba en español; el resto debe ser idéntico).
-    for (const parte of porIdioma.es) {
-      const res = comprobarIgualdad(parte);
-      if (res.estado === 'no-cuadra') error([...r, 'es'], `«{{${parte}}}» no cuadra: ${res.detalle}`);
-      else if (res.estado === 'no-evaluable') aviso([...r, 'es'], `no se puede comprobar «{{${parte}}}»: ${res.detalle}`);
-    }
-    // 8. Las operaciones son idénticas en los cinco idiomas.
-    const lista = (partes) => partes.map((x) => `{{${x}}}`).join(' ') || 'ninguna';
-    for (const idioma of IDIOMAS.slice(1)) {
-      const otras = porIdioma[idioma];
-      if (otras.length !== porIdioma.es.length || otras.some((x, k) => x !== porIdioma.es[k])) {
-        error([...r, idioma], `las operaciones «{{…}}» no son idénticas a las del español (es: ${lista(porIdioma.es)}; ${idioma}: ${lista(otras)})`);
-      }
-    }
-  }
-
-  // 6. Palabras de Germina, en cualquier idioma.
-  for (const [texto, r] of textos) {
-    for (const p of palabrasProhibidasEn(texto)) error(r, `aparece la palabra «${p}», que Germina no usa (especificación, 5.4)`);
-  }
+  // 4b, 6 y 8. Marcado «{{…}}», igualdades y palabras de Germina en todos los textos.
+  revisarTextos(semilla, { error, aviso });
 
   // 9. Cada pictograma tiene su SVG.
   semilla.reto.pasos.forEach((paso, i) => {

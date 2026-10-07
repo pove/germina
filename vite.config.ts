@@ -1,9 +1,10 @@
 import { defineConfig } from 'vitest/config';
 import preact from '@preact/preset-vite';
+import { contenido } from './scripts/vite-contenido.mjs';
 
 export default defineConfig({
   base: '/germina/',
-  plugins: [preact()],
+  plugins: [preact(), contenido()],
   test: {
     include: ['src/**/*.test.ts', 'scripts/**/__tests__/*.test.*'],
     coverage: {
