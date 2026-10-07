@@ -20,6 +20,9 @@ export type Ruta =
   | { tipo: 'accesibilidad' }
   | { tipo: 'desconocida' };
 
+/** Solo el curso de una ruta (sin su tipo ni su semana), para construir otras rutas. */
+export const cursoDe = (r: Curso): Curso => ({ ciclo: r.ciclo, area: r.area, curso: r.curso });
+
 const DESCONOCIDA: Ruta = { tipo: 'desconocida' };
 const MAX_CODIGO = 4000;
 

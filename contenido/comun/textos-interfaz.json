@@ -104,6 +104,7 @@
     "fr": "Le 2e cycle est terminé ! Si vous en avez envie, vous pouvez continuer avec les défis de l'été.",
     "ar": "انتهت الحلقة الثانية! إن أحببتم، يمكنكم متابعة تحديات الصيف."
   },
+  "cambio_curso.seguir": { "es": "Seguir", "va": "Continuar", "en": "Carry on", "fr": "Continuer", "ar": "تابعوا" },
   "cambio_curso.ver_verano": { "es": "Ver los retos de verano", "va": "Veure els reptes d'estiu", "en": "See the summer challenges", "fr": "Voir les défis de l'été", "ar": "شاهدوا تحديات الصيف" },
 
   "nav.inicio": { "es": "Esta semana", "va": "Aquesta setmana", "en": "This week", "fr": "Cette semaine", "ar": "هذا الأسبوع" },
