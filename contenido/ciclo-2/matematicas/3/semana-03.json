@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s03",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 3,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Cada número en su sitio",
+    "va": "Cada nombre al seu lloc",
+    "en": "Every number in its place",
+    "fr": "Chaque nombre à sa place",
+    "ar": "كل عدد في مكانه"
+  },
+  "objetivo": {
+    "es": "Esta semana comparan y ordenan números en la recta numérica, y aprenden a decir a qué decena está más cerca un número: el 38 está más cerca del 40 que del 30.",
+    "va": "Aquesta setmana comparen i ordenen nombres en la recta numèrica (recta numérica), i aprenen a dir a quina desena (decena) està més a prop un nombre: el 38 està més a prop del 40 que del 30.",
+    "en": "This week they compare and order numbers on the number line (recta numérica), and learn to say which ten (decena) a number is closest to: 38 is closer to 40 than to 30.",
+    "fr": "Cette semaine, on compare et on range des nombres sur la droite numérique (recta numérica), et on apprend à dire de quelle dizaine (decena) un nombre est le plus proche : 38 est plus près de 40 que de 30.",
+    "ar": "هذا الأسبوع يقارن الأطفال الأعداد ويرتّبونها على خط الأعداد (recta numérica)، ويتعلّمون قول أيّ عشرة (decena) هي الأقرب إلى عدد ما: 38 أقرب إلى 40 منه إلى 30."
+  },
+  "comoAyudar": {
+    "es": "Usad la palabra «cerca» en la vida diaria: «son las 8 y 50, ya casi son las 9», «esto cuesta 19 €, casi 20». Así la idea de la decena cercana se vuelve natural.",
+    "va": "Feu servir la paraula «prop» en la vida diària: «són les 8 i 50, ja quasi són les 9», «açò costa 19 €, quasi 20». Així la idea de la desena pròxima es torna natural.",
+    "en": "Use the word “close” in everyday life: “It's 8:50, almost 9”, “This costs 19 €, almost 20”. That way the idea of the nearest ten becomes natural.",
+    "fr": "Utilisez le mot « proche » au quotidien : « il est 8 h 50, il est presque 9 h », « ça coûte 19 €, presque 20 ». Ainsi, l'idée de la dizaine la plus proche devient naturelle.",
+    "ar": "استعملوا كلمة «قريب» في الحياة اليومية: «الساعة 8 و50، صارت تقريبًا 9»، «هذا بـ19 يورو، تقريبًا 20». هكذا تصبح فكرة العشرة القريبة طبيعية."
+  },
+  "saberes": [
+    "matematicas.numeros.recta-comparar",
+    "matematicas.operaciones.igualdad",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La cuerda de los números",
+      "va": "La corda dels nombres",
+      "en": "The number rope",
+      "fr": "La corde des nombres",
+      "ar": "حبل الأعداد"
+    },
+    "material": [
+      {
+        "es": "Una cuerda, una lana o un cordón de unos 2 metros",
+        "va": "Una corda, una llana o un cordó d'uns 2 metres",
+        "en": "A rope, a piece of wool or a string about 2 metres long",
+        "fr": "Une corde, un fil de laine ou un cordon d'environ 2 mètres",
+        "ar": "حبل أو خيط صوف أو شريط طوله نحو مترين"
+      },
+      {
+        "es": "Pinzas de la ropa",
+        "va": "Pinces de la roba",
+        "en": "Clothes pegs",
+        "fr": "Des pinces à linge",
+        "ar": "ملاقط غسيل"
+      },
+      {
+        "es": "Papelitos y lápiz",
+        "va": "Paperets i llapis",
+        "en": "Small pieces of paper and a pencil",
+        "fr": "Des petits papiers et un crayon",
+        "ar": "أوراق صغيرة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Tended la cuerda en el suelo. En una punta, un papel con el 0; en la otra, uno con el 100. ¿Qué número va justo en el medio? Ponedlo.",
+          "va": "Esteneu la corda a terra. En una punta, un paper amb el 0; en l'altra, un amb el 100. Quin nombre va just al mig? Poseu-lo.",
+          "en": "Lay the rope on the floor. At one end, a paper with 0; at the other, one with 100. Which number goes right in the middle? Put it there.",
+          "fr": "Posez la corde par terre. À un bout, un papier avec 0 ; à l'autre, un papier avec 100. Quel nombre va juste au milieu ? Placez-le.",
+          "ar": "مدّوا الحبل على الأرض. في طرف ورقة عليها 0، وفي الطرف الآخر ورقة عليها 100. أيّ عدد يأتي في المنتصف تمامًا؟ ضعوه."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Escribid números en papelitos (17, 45, 62, 88, 30…) y colgad cada uno con una pinza donde creáis que va.",
+          "va": "Escriviu nombres en paperets (17, 45, 62, 88, 30…) i pengeu cadascun amb una pinça on creieu que va.",
+          "en": "Write numbers on slips of paper (17, 45, 62, 88, 30…) and peg each one where you think it goes.",
+          "fr": "Écrivez des nombres sur des petits papiers (17, 45, 62, 88, 30…) et accrochez chacun avec une pince là où vous pensez qu'il va.",
+          "ar": "اكتبوا أعدادًا على أوراق صغيرة (17، 45، 62، 88، 30…) وعلّقوا كل واحدة بملقط حيث تظنّون أنها تأتي."
+        }
+      },
+      {
+        "pictograma": "recta",
+        "texto": {
+          "es": "Para cada número, decid a qué decena está más cerca. El 17 está a 3 pasos del 20 y a 7 del 10: está más cerca del 20.",
+          "va": "Per a cada nombre, digueu a quina desena està més a prop. El 17 està a 3 passos del 20 i a 7 del 10: està més a prop del 20.",
+          "en": "For each number, say which ten it is closest to. 17 is 3 steps from 20 and 7 from 10: it is closer to 20.",
+          "fr": "Pour chaque nombre, dites de quelle dizaine il est le plus proche. 17 est à 3 pas de 20 et à 7 de 10 : il est plus près de 20.",
+          "ar": "لكل عدد، قولوا أيّ عشرة هي الأقرب إليه. 17 على بُعد 3 خطوات من 20 و7 من 10: هو أقرب إلى 20."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Una persona da una pista: «mayor que 40 y menor que 50». La otra escribe un número que cumpla las dos cosas y lo cuelga.",
+          "va": "Una persona dona una pista: «major que 40 i menor que 50». L'altra escriu un nombre que complisca les dues coses i el penja.",
+          "en": "One person gives a clue: “greater than 40 and less than 50”. The other writes a number that fits both and pegs it up.",
+          "fr": "Une personne donne un indice : « plus grand que 40 et plus petit que 50 ». L'autre écrit un nombre qui respecte les deux et l'accroche.",
+          "ar": "يعطي شخص تلميحًا: «أكبر من 40 وأصغر من 50». ويكتب الآخر عددًا يحقق الشرطين ويعلّقه."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced la cuerda del 0 al 20 y colgad todos los números, uno a uno.",
+      "va": "Feu la corda del 0 al 20 i pengeu tots els nombres, un a un.",
+      "en": "Make the rope from 0 to 20 and peg up every number, one by one.",
+      "fr": "Faites la corde de 0 à 20 et accrochez tous les nombres, un par un.",
+      "ar": "اجعلوا الحبل من 0 إلى 20 وعلّقوا كل الأعداد، واحدًا بعد الآخر."
+    },
+    "masDificil": {
+      "es": "Haced la cuerda del 0 al 1000, con el 500 en el medio, y colgad números como 250, 480 o 910.",
+      "va": "Feu la corda del 0 al 1000, amb el 500 al mig, i pengeu nombres com 250, 480 o 910.",
+      "en": "Make the rope from 0 to 1000, with 500 in the middle, and peg up numbers like 250, 480 or 910.",
+      "fr": "Faites la corde de 0 à 1000, avec 500 au milieu, et accrochez des nombres comme 250, 480 ou 910.",
+      "ar": "اجعلوا الحبل من 0 إلى 1000، و500 في المنتصف، وعلّقوا أعدادًا مثل 250 أو 480 أو 910."
+    },
+    "paraQueSirve": {
+      "es": "Ver los números en una línea ayuda a compararlos de un vistazo y a calcular a ojo antes de hacer una cuenta.",
+      "va": "Veure els nombres en una línia ajuda a comparar-los d'una ullada i a calcular a ull abans de fer un compte.",
+      "en": "Seeing numbers on a line helps compare them at a glance and estimate before doing a sum.",
+      "fr": "Voir les nombres sur une ligne aide à les comparer d'un coup d'œil et à calculer à vue d'œil avant de faire un calcul.",
+      "ar": "رؤية الأعداد على خط تساعد على مقارنتها بنظرة واحدة وعلى التقدير قبل إجراء الحساب."
+    },
+    "aviso": {
+      "es": "Recoged la cuerda al terminar para que nadie tropiece.",
+      "va": "Arreplegueu la corda en acabar perquè ningú no ensopegue.",
+      "en": "Pick up the rope when you finish so nobody trips.",
+      "fr": "Ramassez la corde à la fin pour que personne ne trébuche.",
+      "ar": "اجمعوا الحبل عند الانتهاء حتى لا يتعثّر أحد."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Lucía tiene 63 cromos y Hugo tiene 86. ¿Quién tiene más? ¿Cuántos más?",
+        "va": "La Lucía té 63 cromos i l'Hugo en té 86. Qui en té més? Quants més?",
+        "en": "Lucía has 63 cards and Hugo has 86. Who has more? How many more?",
+        "fr": "Lucía a 63 images et Hugo en a 86. Qui en a le plus ? Combien de plus ?",
+        "ar": "عند لوسيا 63 بطاقة وعند أوغو 86. من عنده أكثر؟ وكم زيادة؟"
+      },
+      "pista": {
+        "es": "Mira primero las decenas: 8 decenas son más que 6 decenas.",
+        "va": "Mira primer les desenes: 8 desenes són més que 6 desenes.",
+        "en": "Look at the tens first: 8 tens is more than 6 tens.",
+        "fr": "Regarde d'abord les dizaines : 8 dizaines, c'est plus que 6 dizaines.",
+        "ar": "لننظر أولًا إلى العشرات: 8 عشرات أكثر من 6 عشرات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "86 - 63",
+        "resultado": 23,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hugo tiene más: 23 cromos más.",
+          "va": "L'Hugo en té més: 23 cromos més.",
+          "en": "Hugo has more: 23 more cards.",
+          "fr": "Hugo en a plus : 23 images de plus.",
+          "ar": "عند أوغو أكثر: 23 بطاقة زيادة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para comparar dos colecciones de la familia.",
+        "va": "Inventa'n tu una per a comparar dues col·leccions de la família.",
+        "en": "Make one up comparing two collections in the family.",
+        "fr": "Invente un problème pour comparer deux collections de la famille.",
+        "ar": "لنخترع مسألة نقارن فيها مجموعتين في العائلة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Pau dice que {{45 + 10}} es lo mismo que {{50 + 5}}. ¿Tiene razón?",
+        "va": "El Pau diu que {{45 + 10}} és el mateix que {{50 + 5}}. Té raó?",
+        "en": "Pau says that {{45 + 10}} is the same as {{50 + 5}}. Is he right?",
+        "fr": "Pau dit que {{45 + 10}} est la même chose que {{50 + 5}}. A-t-il raison ?",
+        "ar": "يقول باو إن {{45 + 10}} هو نفسه {{50 + 5}}. هل هو محق؟"
+      },
+      "pista": {
+        "es": "Calcula cada lado por separado y compara lo que sale.",
+        "va": "Calcula cada costat per separat i compara el que ix.",
+        "en": "Work out each side separately and compare what you get.",
+        "fr": "Calcule chaque côté séparément et compare ce que tu obtiens.",
+        "ar": "لنحسب كل جهة وحدها ثم نقارن النتيجتين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "45 + 10",
+        "resultado": 55,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí: los dos lados dan 55, así que {{45 + 10 = 50 + 5}}.",
+          "va": "Sí: els dos costats donen 55, així que {{45 + 10 = 50 + 5}}.",
+          "en": "Yes: both sides make 55, so {{45 + 10 = 50 + 5}}.",
+          "fr": "Oui : les deux côtés font 55, donc {{45 + 10 = 50 + 5}}.",
+          "ar": "نعم: الجهتان تساويان 55، إذن {{45 + 10 = 50 + 5}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú dos sumas distintas que den lo mismo.",
+        "va": "Inventa tu dues sumes diferents que donen el mateix.",
+        "en": "Make up two different additions that give the same answer.",
+        "fr": "Invente deux additions différentes qui donnent la même chose.",
+        "ar": "لنخترع عمليتي جمع مختلفتين تعطيان النتيجة نفسها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la cuerda, el 63 está entre el 60 y el 70. ¿A cuántos pasos está del 60? ¿Y del 70? ¿De cuál está más cerca?",
+        "va": "En la corda, el 63 està entre el 60 i el 70. A quants passos està del 60? I del 70? De quin està més a prop?",
+        "en": "On the rope, 63 is between 60 and 70. How many steps is it from 60? And from 70? Which is it closer to?",
+        "fr": "Sur la corde, 63 est entre 60 et 70. À combien de pas est-il de 60 ? Et de 70 ? Duquel est-il le plus proche ?",
+        "ar": "على الحبل، العدد 63 بين 60 و70. كم خطوة يبعد عن 60؟ وعن 70؟ أيّهما أقرب إليه؟"
+      },
+      "pista": {
+        "es": "Cuenta los saltos con el dedo: 61, 62, 63.",
+        "va": "Compta els bots amb el dit: 61, 62, 63.",
+        "en": "Count the jumps with your finger: 61, 62, 63.",
+        "fr": "Compte les sauts avec le doigt : 61, 62, 63.",
+        "ar": "لنعدّ القفزات بالإصبع: 61، 62، 63."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "63 - 60",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Está a 3 pasos del 60 y a 7 del 70: está más cerca del 60.",
+          "va": "Està a 3 passos del 60 i a 7 del 70: està més a prop del 60.",
+          "en": "It is 3 steps from 60 and 7 from 70: it is closer to 60.",
+          "fr": "Il est à 3 pas de 60 et à 7 de 70 : il est plus près de 60.",
+          "ar": "يبعد 3 خطوات عن 60 و7 عن 70: هو أقرب إلى 60."
+        }
+      },
+      "inventala": {
+        "es": "Elige tú un número y pregunta a otra persona de qué decena está más cerca.",
+        "va": "Tria tu un nombre i pregunta a una altra persona de quina desena està més a prop.",
+        "en": "Pick a number yourself and ask someone else which ten it is closest to.",
+        "fr": "Choisis un nombre et demande à une autre personne de quelle dizaine il est le plus proche.",
+        "ar": "لنختر عددًا ونسأل شخصًا آخر أيّ عشرة هي الأقرب إليه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 2,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: con las cifras 2, 7 y 4, ¿cuál es el número más grande de tres cifras que puedes formar?",
+        "va": "Per a recordar: amb les xifres 2, 7 i 4, quin és el nombre més gran de tres xifres que pots formar?",
+        "en": "Let's remember: with the digits 2, 7 and 4, what is the biggest three-digit number you can make?",
+        "fr": "Pour se souvenir : avec les chiffres 2, 7 et 4, quel est le plus grand nombre à trois chiffres que tu peux former ?",
+        "ar": "لنتذكّر: بالأرقام 2 و7 و4، ما أكبر عدد من ثلاثة أرقام يمكن تكوينه؟"
+      },
+      "pista": {
+        "es": "La cifra más grande va en el sitio que más vale: las centenas.",
+        "va": "La xifra més gran va en el lloc que més val: les centenes.",
+        "en": "The biggest digit goes in the place worth the most: the hundreds.",
+        "fr": "Le plus grand chiffre va à la place qui vaut le plus : les centaines.",
+        "ar": "الرقم الأكبر يذهب إلى المكان الأعلى قيمة: المئات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "700 + 40 + 2",
+        "resultado": 742,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El más grande es 742.",
+          "va": "El més gran és 742.",
+          "en": "The biggest is 742.",
+          "fr": "Le plus grand est 742.",
+          "ar": "الأكبر هو 742."
+        }
+      },
+      "inventala": {
+        "es": "Elige tú tres cifras y pide a otra persona el número más pequeño que se puede formar.",
+        "va": "Tria tu tres xifres i demana a una altra persona el nombre més menut que es pot formar.",
+        "en": "Choose three digits and ask someone else for the smallest number they can make.",
+        "fr": "Choisis trois chiffres et demande à une autre personne le plus petit nombre qu'on peut former.",
+        "ar": "لنختر ثلاثة أرقام ونطلب من شخص آخر أصغر عدد يمكن تكوينه."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué número es más grande, 409 o 490? Explícame cómo lo sabes sin contar.",
+        "va": "Quin nombre és més gran, 409 o 490? Explica'm com ho saps sense comptar.",
+        "en": "Which number is bigger, 409 or 490? Explain to me how you know without counting.",
+        "fr": "Quel nombre est le plus grand, 409 ou 490 ? Explique-moi comment tu le sais sans compter.",
+        "ar": "أيّ العددين أكبر، 409 أم 490؟ اشرح لي أو اشرحي لي كيف نعرف ذلك من غير عدّ."
+      },
+      "pista": {
+        "es": "Si se atasca: «Los dos tienen 4 centenas. ¿Y luego qué miras?»",
+        "va": "Si s'encalla: «Els dos tenen 4 centenes. I després què mires?»",
+        "en": "If they get stuck: “Both have 4 hundreds. What do you look at next?”",
+        "fr": "S'il ou elle bloque : « Les deux ont 4 centaines. Et après, tu regardes quoi ? »",
+        "ar": "إذا حدث توقّف: «في العددين 4 مئات. ثم إلى ماذا ننظر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo importante es que compare cifra a cifra empezando por la izquierda: 9 decenas son más que 0. Si lo explica con la cuerda, también vale.",
+          "va": "L'important és que compare xifra a xifra començant per l'esquerra: 9 desenes són més que 0. Si ho explica amb la corda, també val.",
+          "en": "What matters is comparing digit by digit starting from the left: 9 tens is more than 0. If they explain it with the rope, that works too.",
+          "fr": "L'important, c'est de comparer chiffre par chiffre en commençant par la gauche : 9 dizaines, c'est plus que 0. S'il ou elle l'explique avec la corde, ça marche aussi.",
+          "ar": "المهم هو المقارنة رقمًا رقمًا بدءًا من اليسار: 9 عشرات أكثر من 0. وإذا كان الشرح بالحبل، فهذا جيد أيضًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "ab83f11fa7b7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "ab83f11fa7b7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "ab83f11fa7b7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "ab83f11fa7b7"
+      }
+    }
+  }
+}

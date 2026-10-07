@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s01",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 1,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Números con muchas cifras",
+    "va": "Nombres amb moltes xifres",
+    "en": "Numbers with lots of digits",
+    "fr": "Des nombres avec beaucoup de chiffres",
+    "ar": "أعداد بأرقام كثيرة"
+  },
+  "objetivo": {
+    "es": "Esta semana leen, escriben y descomponen números de cuatro y cinco cifras, como 2026 o 45 300, y los buscan en la vida diaria: calendarios, tickets, carteles.",
+    "va": "Aquesta setmana lligen, escriuen i descomponen nombres de quatre i cinc xifres (cifras), com 2026 o 45 300, i els busquen en la vida diària: calendaris, tiquets, cartells.",
+    "en": "This week they read, write and break down four- and five-digit (cifras) numbers, like 2026 or 45 300, and look for them in everyday life: calendars, receipts, signs.",
+    "fr": "Cette semaine, on lit, on écrit et on décompose des nombres à quatre et cinq chiffres (cifras), comme 2026 ou 45 300, et on les cherche dans la vie de tous les jours : calendriers, tickets de caisse, affiches.",
+    "ar": "هذا الأسبوع يقرأ الأطفال ويكتبون ويفكّكون أعدادًا من أربعة وخمسة أرقام (cifras)، مثل 2026 أو 45 300، ويبحثون عنها في الحياة اليومية: التقاويم وتذاكر الشراء واللافتات."
+  },
+  "comoAyudar": {
+    "es": "Si se lía al leer un número largo, enseñadle a tapar las tres últimas cifras: lo que queda delante son los miles. «45 mil… y 300».",
+    "va": "Si s'embolica en llegir un nombre llarg, ensenyeu-li a tapar les tres últimes xifres: el que queda davant són els milers. «45 mil… i 300».",
+    "en": "If they get muddled reading a long number, show them how to cover the last three digits: what's left in front is the thousands. “45 thousand… and 300”.",
+    "fr": "S'il ou elle s'embrouille en lisant un long nombre, montrez comment cacher les trois derniers chiffres : ce qui reste devant, ce sont les milliers. « 45 mille… et 300 ».",
+    "ar": "إذا حدث خلط عند قراءة عدد طويل، علّموا تغطية الأرقام الثلاثة الأخيرة: ما يبقى في الأمام هو الآلاف. «45 ألفًا… و300»."
+  },
+  "saberes": [
+    "matematicas.numeros.millar",
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.numeros.usos-sociales"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cazadores de números grandes",
+      "va": "Caçadors de nombres grans",
+      "en": "Big number hunters",
+      "fr": "Chasseurs de grands nombres",
+      "ar": "صيّادو الأعداد الكبيرة"
+    },
+    "material": [
+      {
+        "es": "Papeles de casa con números: folletos, tickets, el calendario, una factura",
+        "va": "Papers de casa amb nombres: fullets, tiquets, el calendari, una factura",
+        "en": "Papers at home with numbers on them: leaflets, receipts, the calendar, a bill",
+        "fr": "Des papiers de la maison avec des nombres : prospectus, tickets de caisse, le calendrier, une facture",
+        "ar": "أوراق من البيت فيها أعداد: منشورات، تذاكر شراء، التقويم، فاتورة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "folleto",
+        "texto": {
+          "es": "Buscad por casa papeles con números grandes: folletos, tickets, el calendario, una factura… Tenéis 3 minutos.",
+          "va": "Busqueu per casa papers amb nombres grans: fullets, tiquets, el calendari, una factura… Teniu 3 minuts.",
+          "en": "Look around the house for papers with big numbers: leaflets, receipts, the calendar, a bill… You have 3 minutes.",
+          "fr": "Cherchez dans la maison des papiers avec de grands nombres : prospectus, tickets, le calendrier, une facture… Vous avez 3 minutes.",
+          "ar": "ابحثوا في البيت عن أوراق فيها أعداد كبيرة: منشورات، تذاكر شراء، التقويم، فاتورة… لديكم 3 دقائق."
+        }
+      },
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Cada persona elige el número más grande que haya encontrado y lo lee en voz alta. Por ejemplo, 12 450: «doce mil cuatrocientos cincuenta».",
+          "va": "Cada persona tria el nombre més gran que haja trobat i el llig en veu alta. Per exemple, 12 450: «dotze mil quatre-cents cinquanta».",
+          "en": "Each person chooses the biggest number they found and reads it aloud. For example, 12 450: “twelve thousand four hundred and fifty”.",
+          "fr": "Chaque personne choisit le plus grand nombre qu'elle a trouvé et le lit à voix haute. Par exemple, 12 450 : « douze mille quatre cent cinquante ».",
+          "ar": "يختار كل شخص أكبر عدد وجده ويقرؤه بصوت عالٍ. مثلًا، 12 450: «اثنا عشر ألفًا وأربعمئة وخمسون»."
+        }
+      },
+      {
+        "pictograma": "calendario",
+        "texto": {
+          "es": "Escribid uno de los números y descomponedlo. Con el año del calendario: {{2026 = 2000 + 20 + 6}}.",
+          "va": "Escriviu un dels nombres i descomponeu-lo. Amb l'any del calendari: {{2026 = 2000 + 20 + 6}}.",
+          "en": "Write down one of the numbers and break it down. With the year on the calendar: {{2026 = 2000 + 20 + 6}}.",
+          "fr": "Écrivez un des nombres et décomposez-le. Avec l'année du calendrier : {{2026 = 2000 + 20 + 6}}.",
+          "ar": "اكتبوا أحد الأعداد وفكّكوه. مع سنة التقويم: {{2026 = 2000 + 20 + 6}}."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Ordenad todos los números que habéis cazado, de menor a mayor. ¿Cuál es el más grande de la casa?",
+          "va": "Ordeneu tots els nombres que heu caçat, de menor a major. Quin és el més gran de la casa?",
+          "en": "Put all the numbers you caught in order, from smallest to biggest. Which is the biggest in the house?",
+          "fr": "Rangez tous les nombres que vous avez attrapés, du plus petit au plus grand. Quel est le plus grand de la maison ?",
+          "ar": "رتّبوا كل الأعداد التي اصطدتموها من الأصغر إلى الأكبر. ما أكبر عدد في البيت؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Cazad solo números de cuatro cifras, como los años o los precios de un folleto.",
+      "va": "Caceu només nombres de quatre xifres, com els anys o els preus d'un fullet.",
+      "en": "Only hunt four-digit numbers, like years or prices in a leaflet.",
+      "fr": "Ne chassez que des nombres à quatre chiffres, comme les années ou les prix d'un prospectus.",
+      "ar": "اصطادوا أعدادًا من أربعة أرقام فقط، مثل السنوات أو أسعار منشور."
+    },
+    "masDificil": {
+      "es": "Buscad un número de seis cifras (en el cuentakilómetros del coche o en una noticia) y leedlo entero.",
+      "va": "Busqueu un nombre de sis xifres (en el comptaquilòmetres del cotxe o en una notícia) i llegiu-lo sencer.",
+      "en": "Look for a six-digit number (on a car's milometer or in a news story) and read it all out.",
+      "fr": "Cherchez un nombre à six chiffres (sur le compteur de la voiture ou dans un article) et lisez-le en entier.",
+      "ar": "ابحثوا عن عدد من ستة أرقام (في عدّاد السيارة أو في خبر) واقرؤوه كاملًا."
+    },
+    "paraQueSirve": {
+      "es": "Los números grandes están por todas partes. Leerlos en voz alta y descomponerlos ayuda a entender cuánto vale cada cifra.",
+      "va": "Els nombres grans estan per tot arreu. Llegir-los en veu alta i descompondre'ls ajuda a entendre quant val cada xifra.",
+      "en": "Big numbers are everywhere. Reading them aloud and breaking them down helps understand what each digit is worth.",
+      "fr": "Les grands nombres sont partout. Les lire à voix haute et les décomposer aide à comprendre ce que vaut chaque chiffre.",
+      "ar": "الأعداد الكبيرة في كل مكان. قراءتها بصوت عالٍ وتفكيكها يساعدان على فهم قيمة كل رقم."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En una carrera popular corren 4 grupos de 1000 personas, 6 grupos de 100 y 25 personas más. ¿Cuántas personas corren?",
+        "va": "En una cursa popular corren 4 grups de 1000 persones, 6 grups de 100 i 25 persones més. Quantes persones corren?",
+        "en": "In a fun run there are 4 groups of 1000 runners, 6 groups of 100 and 25 more people. How many people are running?",
+        "fr": "Dans une course populaire, il y a 4 groupes de 1000 personnes, 6 groupes de 100 et 25 personnes de plus. Combien de personnes courent ?",
+        "ar": "في سباق شعبي تجري 4 مجموعات في كل منها 1000 شخص، و6 مجموعات في كل منها 100، و25 شخصًا آخرون. كم شخصًا يجري؟"
+      },
+      "pista": {
+        "es": "4 millares, 6 centenas, 2 decenas y 5 unidades.",
+        "va": "4 milers, 6 centenes, 2 desenes i 5 unitats.",
+        "en": "4 thousands, 6 hundreds, 2 tens and 5 ones.",
+        "fr": "4 milliers, 6 centaines, 2 dizaines et 5 unités.",
+        "ar": "4 آلاف و6 مئات و2 عشرات و5 آحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4000 + 600 + 25",
+        "resultado": 4625,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Corren 4625 personas.",
+          "va": "Corren 4625 persones.",
+          "en": "4625 people are running.",
+          "fr": "4625 personnes courent.",
+          "ar": "يجري 4625 شخصًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con grupos de 1000, de 100 y personas sueltas.",
+        "va": "Inventa'n tu una amb grups de 1000, de 100 i persones soltes.",
+        "en": "Make one up with groups of 1000, groups of 100 and some extra people.",
+        "fr": "Invente un problème avec des groupes de 1000, de 100 et des personnes en plus.",
+        "ar": "لنخترع مسألة فيها مجموعات من 1000 ومن 100 وأشخاص منفردون."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "El cuentakilómetros del coche de la tía de Pau marca 23 405. ¿Cuántas decenas de millar, millares, centenas, decenas y unidades tiene ese número?",
+        "va": "El comptaquilòmetres del cotxe de la tia del Pau marca 23 405. Quantes desenes de miler, milers, centenes, desenes i unitats té eixe nombre?",
+        "en": "The milometer on Pau's aunt's car shows 23 405. How many ten-thousands, thousands, hundreds, tens and ones does that number have?",
+        "fr": "Le compteur de la voiture de la tante de Pau affiche 23 405. Combien ce nombre a-t-il de dizaines de mille, de milliers, de centaines, de dizaines et d'unités ?",
+        "ar": "عدّاد سيارة خالة باو يشير إلى 23 405. كم في هذا العدد من عشرات الآلاف والآلاف والمئات والعشرات والآحاد؟"
+      },
+      "pista": {
+        "es": "Empieza por la derecha: unidades, decenas, centenas, millares… ¿Qué cifra está en las decenas?",
+        "va": "Comença per la dreta: unitats, desenes, centenes, milers… Quina xifra està en les desenes?",
+        "en": "Start from the right: ones, tens, hundreds, thousands… Which digit is in the tens?",
+        "fr": "Commence par la droite : unités, dizaines, centaines, milliers… Quel chiffre est aux dizaines ?",
+        "ar": "لنبدأ من اليمين: آحاد، عشرات، مئات، آلاف… أيّ رقم في خانة العشرات؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20000 + 3000 + 400 + 5",
+        "resultado": 23405,
+        "unidad": "unidades",
+        "texto": {
+          "es": "2 decenas de millar, 3 millares, 4 centenas, 0 decenas y 5 unidades.",
+          "va": "2 desenes de miler, 3 milers, 4 centenes, 0 desenes i 5 unitats.",
+          "en": "2 ten-thousands, 3 thousands, 4 hundreds, 0 tens and 5 ones.",
+          "fr": "2 dizaines de mille, 3 milliers, 4 centaines, 0 dizaine et 5 unités.",
+          "ar": "2 عشرات آلاف، و3 آلاف، و4 مئات، و0 عشرات، و5 آحاد."
+        }
+      },
+      "inventala": {
+        "es": "Escribe tú un número de cinco cifras con un 0 y pide a otra persona que lo descomponga.",
+        "va": "Escriu tu un nombre de cinc xifres amb un 0 i demana a una altra persona que el descomponga.",
+        "en": "Write a five-digit number with a 0 in it and ask someone else to break it down.",
+        "fr": "Écris un nombre à cinq chiffres avec un 0 et demande à une autre personne de le décomposer.",
+        "ar": "لنكتب عددًا من خمسة أرقام فيه 0 ونطلب من شخص آخر أن يفكّكه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En la biblioteca del colegio hay 1250 libros y llegan 3 cajas de 100. ¿Cuántos libros hay ahora?",
+        "va": "En la biblioteca del col·legi hi ha 1250 llibres i n'arriben 3 caixes de 100. Quants llibres hi ha ara?",
+        "en": "The school library has 1250 books and 3 boxes of 100 arrive. How many books are there now?",
+        "fr": "La bibliothèque de l'école a 1250 livres et 3 cartons de 100 arrivent. Combien y a-t-il de livres maintenant ?",
+        "ar": "في مكتبة المدرسة 1250 كتابًا ووصلت 3 صناديق في كل منها 100. كم كتابًا فيها الآن؟"
+      },
+      "pista": {
+        "es": "Solo cambian las centenas: 2 centenas y 3 más.",
+        "va": "Només canvien les centenes: 2 centenes i 3 més.",
+        "en": "Only the hundreds change: 2 hundreds and 3 more.",
+        "fr": "Seules les centaines changent : 2 centaines et 3 de plus.",
+        "ar": "المئات وحدها تتغيّر: مئتان و3 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1250 + 300",
+        "resultado": 1550,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora hay 1550 libros.",
+          "va": "Ara hi ha 1550 llibres.",
+          "en": "Now there are 1550 books.",
+          "fr": "Maintenant, il y a 1550 livres.",
+          "ar": "صار فيها 1550 كتابًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se sumen centenas justas a un número grande.",
+        "va": "Inventa'n tu una en què se sumen centenes justes a un nombre gran.",
+        "en": "Make one up where whole hundreds are added to a big number.",
+        "fr": "Invente un problème où l'on ajoute des centaines rondes à un grand nombre.",
+        "ar": "لنخترع مسألة نضيف فيها مئات كاملة إلى عدد كبير."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 0,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar lo de 3.º: en un huerto hay 356 lechugas y se plantan 27 más. ¿Cuántas hay ahora?",
+        "va": "Per a recordar el que vàreu fer a 3r: en un hort hi ha 356 encisams i se'n planten 27 més. Quants n'hi ha ara?",
+        "en": "Let's remember Year 3: a vegetable garden has 356 lettuces and 27 more are planted. How many are there now?",
+        "fr": "Pour se souvenir de l'an dernier : dans un potager, il y a 356 salades et on en plante 27 de plus. Combien y en a-t-il maintenant ?",
+        "ar": "لنتذكّر ما تعلّمناه في السنة الثالثة: في بستان 356 خسّة وزُرعت 27 أخرى. كم خسّة فيه الآن؟"
+      },
+      "pista": {
+        "es": "6 y 7 son 13: te llevas una decena.",
+        "va": "6 i 7 són 13: te'n portes una desena.",
+        "en": "6 and 7 make 13: you carry one ten.",
+        "fr": "6 et 7 font 13 : tu retiens une dizaine.",
+        "ar": "6 و7 تساوي 13: نحتفظ بعشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "356 + 27",
+        "resultado": 383,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora hay 383 lechugas.",
+          "va": "Ara n'hi ha 383.",
+          "en": "Now there are 383 lettuces.",
+          "fr": "Maintenant, il y a 383 salades.",
+          "ar": "صار فيه 383 خسّة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un huerto en la que te lleves una.",
+        "va": "Inventa'n tu una d'un hort en què te'n portes una.",
+        "en": "Make one up about a vegetable garden where you carry one.",
+        "fr": "Invente un problème de potager avec une retenue.",
+        "ar": "لنخترع مسألة عن بستان نحتفظ فيها بواحد."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cuál es el número más grande que has visto hoy? Explícame cómo se lee y cuánto vale cada cifra.",
+        "va": "Quin és el nombre més gran que has vist hui? Explica'm com es llig i quant val cada xifra.",
+        "en": "What is the biggest number you saw today? Explain to me how to read it and what each digit is worth.",
+        "fr": "Quel est le plus grand nombre que tu as vu aujourd'hui ? Explique-moi comment il se lit et ce que vaut chaque chiffre.",
+        "ar": "ما أكبر عدد رأيناه اليوم؟ اشرح لي أو اشرحي لي كيف يُقرأ وما قيمة كل رقم فيه."
+      },
+      "pista": {
+        "es": "Si no se le ocurre ninguno, buscad juntos uno en un envase o en la puerta de la nevera.",
+        "va": "Si no se li n'acut cap, busqueu-ne un junts en un envàs o a la porta de la nevera.",
+        "en": "If they can't think of one, look for one together on some packaging or on the fridge door.",
+        "fr": "S'il ou elle n'en trouve aucun, cherchez-en un ensemble sur un emballage ou sur la porte du frigo.",
+        "ar": "إن لم يخطر أي عدد، ابحثوا معًا عن واحد على علبة أو على باب الثلاجة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si se salta un cero al leer (por ejemplo, 3050 como «trescientos cincuenta»), tapad cifras juntos y preguntad «¿cuántos miles hay?».",
+          "va": "Si se salta un zero en llegir (per exemple, 3050 com «tres-cents cinquanta»), tapeu xifres junts i pregunteu «quants milers hi ha?».",
+          "en": "If they skip a zero when reading (for example, 3050 as “three hundred and fifty”), cover digits together and ask “How many thousands are there?”.",
+          "fr": "S'il ou elle saute un zéro en lisant (par exemple, 3050 lu « trois cent cinquante »), cachez des chiffres ensemble et demandez « Combien y a-t-il de milliers ? ».",
+          "ar": "إذا قُفز على صفر عند القراءة (مثلًا، قراءة 3050 «ثلاثمئة وخمسين»)، غطّوا الأرقام معًا واسألوا «كم ألفًا هناك؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b2249fd593ef"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b2249fd593ef"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b2249fd593ef"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b2249fd593ef"
+      }
+    }
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s04",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 4,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Sumar y llevarse una",
+    "va": "Sumar i portar-se'n una",
+    "en": "Adding and carrying one",
+    "fr": "Additionner avec une retenue",
+    "ar": "الجمع مع الاحتفاظ بواحد"
+  },
+  "objetivo": {
+    "es": "Esta semana suman números de tres cifras cuando las unidades o las decenas pasan de 10: diez unidades se cambian por una decena. En clase lo llaman «suma con llevada».",
+    "va": "Aquesta setmana sumen nombres de tres xifres quan les unitats o les desenes passen de 10: deu unitats es canvien per una desena (decena). A classe ho diuen en castellà: «suma con llevada».",
+    "en": "This week they add three-digit numbers where the ones or the tens go past 10: ten ones are swapped for one ten (decena). In class, in Spanish, they call it «suma con llevada» (adding with carrying).",
+    "fr": "Cette semaine, on additionne des nombres à trois chiffres quand les unités ou les dizaines dépassent 10 : dix unités s'échangent contre une dizaine (decena). En classe, en espagnol, on l'appelle « suma con llevada » (addition avec retenue).",
+    "ar": "هذا الأسبوع يجمع الأطفال أعدادًا من ثلاثة أرقام عندما تتجاوز الآحاد أو العشرات 10: عشرة آحاد تُستبدل بعشرة (decena). في القسم يسمّونها بالإسبانية «suma con llevada» (الجمع مع الاحتفاظ)."
+  },
+  "comoAyudar": {
+    "es": "Si se olvida de la que se lleva, no lo digáis vosotros: volved a las monedas y los billetes y preguntad «¿qué ha pasado con las 10 monedas?».",
+    "va": "Si s'oblida de la que se'n porta, no ho digueu vosaltres: torneu a les monedes i els bitllets i pregunteu «què ha passat amb les 10 monedes?».",
+    "en": "If they forget the one they carry, don't say it yourselves: go back to the coins and notes and ask “What happened to the 10 coins?”.",
+    "fr": "S'il ou elle oublie la retenue, ne le dites pas vous-mêmes : revenez aux pièces et aux billets et demandez « Qu'est-ce qui s'est passé avec les 10 pièces ? ».",
+    "ar": "إذا نُسي الواحد المحتفظ به، لا تقولوه أنتم: عودوا إلى القطع النقدية والأوراق واسألوا «ماذا حدث للقطع العشر؟»."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La compra de papel",
+      "va": "La compra de paper",
+      "en": "Paper shopping",
+      "fr": "Les courses en papier",
+      "ar": "التسوّق بالورق"
+    },
+    "material": [
+      {
+        "es": "Billetes de papel de 10 € y de 100 € (hechos en casa)",
+        "va": "Bitllets de paper de 10 € i de 100 € (fets a casa)",
+        "en": "Paper notes of 10 € and 100 € (homemade)",
+        "fr": "Des billets en papier de 10 € et de 100 € (faits maison)",
+        "ar": "أوراق نقدية من ورق بقيمة 10 يورو و100 يورو (مصنوعة في البيت)"
+      },
+      {
+        "es": "Unos 20 botones o garbanzos que hagan de monedas de 1 €",
+        "va": "Uns 20 botons o cigrons que facen de monedes d'1 €",
+        "en": "About 20 buttons or chickpeas to be 1 € coins",
+        "fr": "Environ 20 boutons ou pois chiches qui font office de pièces de 1 €",
+        "ar": "نحو 20 زرًّا أو حبة حمّص تكون قطعًا نقدية من 1 يورو"
+      },
+      {
+        "es": "Un folleto de una tienda o precios inventados",
+        "va": "Un fullet d'una botiga o preus inventats",
+        "en": "A shop leaflet or made-up prices",
+        "fr": "Un prospectus de magasin ou des prix inventés",
+        "ar": "منشور إعلاني من متجر أو أسعار مخترعة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "folleto",
+        "texto": {
+          "es": "Elegid dos cosas del folleto (o inventad precios). Por ejemplo, una bici de 156 € y un casco de 37 €.",
+          "va": "Trieu dues coses del fullet (o inventeu preus). Per exemple, una bici de 156 € i un casc de 37 €.",
+          "en": "Choose two things from the leaflet (or make up prices). For example, a bike for 156 € and a helmet for 37 €.",
+          "fr": "Choisissez deux choses dans le prospectus (ou inventez des prix). Par exemple, un vélo à 156 € et un casque à 37 €.",
+          "ar": "اختاروا شيئين من المنشور (أو اخترعوا أسعارًا). مثلًا، دراجة بـ156 يورو وخوذة بـ37 يورو."
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Poned el dinero de cada cosa: para la bici, 1 billete de 100, 5 de 10 y 6 monedas; para el casco, 3 billetes de 10 y 7 monedas.",
+          "va": "Poseu els diners de cada cosa: per a la bici, 1 bitllet de 100, 5 de 10 i 6 monedes; per al casc, 3 bitllets de 10 i 7 monedes.",
+          "en": "Lay out the money for each thing: for the bike, 1 note of 100, 5 of 10 and 6 coins; for the helmet, 3 notes of 10 and 7 coins.",
+          "fr": "Posez l'argent de chaque chose : pour le vélo, 1 billet de 100, 5 de 10 et 6 pièces ; pour le casque, 3 billets de 10 et 7 pièces.",
+          "ar": "ضعوا مال كل شيء: للدراجة ورقة من 100، و5 من 10، و6 قطع نقدية؛ وللخوذة 3 أوراق من 10 و7 قطع نقدية."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Juntadlo todo. Hay 13 monedas: cambiad 10 por un billete de 10 €. Ahora hay 1 billete de 100, 9 de 10 y 3 monedas.",
+          "va": "Ajunteu-ho tot. Hi ha 13 monedes: canvieu-ne 10 per un bitllet de 10 €. Ara hi ha 1 bitllet de 100, 9 de 10 i 3 monedes.",
+          "en": "Put it all together. There are 13 coins: swap 10 of them for a 10 € note. Now there is 1 note of 100, 9 of 10 and 3 coins.",
+          "fr": "Rassemblez tout. Il y a 13 pièces : échangez-en 10 contre un billet de 10 €. Maintenant, il y a 1 billet de 100, 9 de 10 et 3 pièces.",
+          "ar": "اجمعوا كل شيء. هناك 13 قطعة نقدية: استبدلوا 10 منها بورقة من 10 يورو. الآن هناك ورقة من 100، و9 من 10، و3 قطع نقدية."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid la suma: {{156 + 37 = 193}}. La «una que me llevo» es el billete de 10 que habéis cambiado.",
+          "va": "Escriviu la suma: {{156 + 37 = 193}}. La «una que me'n porte» és el bitllet de 10 que heu canviat.",
+          "en": "Write the addition: {{156 + 37 = 193}}. The “one I carry” is the 10 € note you swapped.",
+          "fr": "Écrivez l'addition : {{156 + 37 = 193}}. La « retenue », c'est le billet de 10 que vous avez échangé.",
+          "ar": "اكتبوا عملية الجمع: {{156 + 37 = 193}}. «الواحد الذي نحتفظ به» هو ورقة العشرة التي استبدلتموها."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con sumas de dos cifras, como {{28 + 15}}, solo con monedas y billetes de 10.",
+      "va": "Comenceu amb sumes de dues xifres, com ara {{28 + 15}}, només amb monedes i bitllets de 10.",
+      "en": "Start with two-digit additions, like {{28 + 15}}, with just coins and 10 € notes.",
+      "fr": "Commencez par des additions à deux chiffres, comme {{28 + 15}}, avec seulement des pièces et des billets de 10.",
+      "ar": "ابدؤوا بعمليات جمع من رقمين، مثل {{28 + 15}}، بالقطع النقدية وأوراق العشرة فقط."
+    },
+    "masDificil": {
+      "es": "Probad {{175 + 48}}: aquí se cambian 10 monedas por un billete de 10 y, después, 10 billetes de 10 por uno de 100.",
+      "va": "Proveu {{175 + 48}}: ací es canvien 10 monedes per un bitllet de 10 i, després, 10 bitllets de 10 per un de 100.",
+      "en": "Try {{175 + 48}}: here you swap 10 coins for a 10 € note and then 10 notes of 10 for one of 100.",
+      "fr": "Essayez {{175 + 48}} : ici, on échange 10 pièces contre un billet de 10, puis 10 billets de 10 contre un de 100.",
+      "ar": "جرّبوا {{175 + 48}}: هنا نستبدل 10 قطع نقدية بورقة من 10، ثم 10 أوراق من 10 بورقة من 100."
+    },
+    "paraQueSirve": {
+      "es": "Cambiar 10 monedas por un billete es exactamente lo que pasa cuando se «lleva una». Con las manos, la regla tiene sentido.",
+      "va": "Canviar 10 monedes per un bitllet és exactament el que passa quan «se'n porta una». Amb les mans, la regla té sentit.",
+      "en": "Swapping 10 coins for a note is exactly what happens when you “carry one”. With your hands, the rule makes sense.",
+      "fr": "Échanger 10 pièces contre un billet, c'est exactement ce qui se passe avec la retenue. Avec les mains, la règle a du sens.",
+      "ar": "استبدال 10 قطع نقدية بورقة هو بالضبط ما يحدث عندما «نحتفظ بواحد». باليدين تصبح القاعدة مفهومة."
+    },
+    "aviso": {
+      "es": "Guardad los botones o garbanzos lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els botons o cigrons lluny de germans o germanes menuts.",
+      "en": "Keep the buttons or chickpeas away from younger brothers and sisters.",
+      "fr": "Gardez les boutons ou les pois chiches loin des petits frères et sœurs.",
+      "ar": "أبعدوا الأزرار أو الحمّص عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En la biblioteca del barrio hay 168 cuentos y hoy llegan 26 nuevos. ¿Cuántos cuentos hay ahora?",
+        "va": "En la biblioteca del barri hi ha 168 contes i hui n'arriben 26 de nous. Quants contes hi ha ara?",
+        "en": "The neighbourhood library has 168 storybooks and 26 new ones arrive today. How many storybooks are there now?",
+        "fr": "La bibliothèque du quartier a 168 contes et 26 nouveaux arrivent aujourd'hui. Combien y a-t-il de contes maintenant ?",
+        "ar": "في مكتبة الحيّ 168 قصة ووصلت اليوم 26 قصة جديدة. كم قصة فيها الآن؟"
+      },
+      "pista": {
+        "es": "8 y 6 son 14: una decena y 4. Esa decena se suma con las demás decenas.",
+        "va": "8 i 6 són 14: una desena i 4. Eixa desena se suma amb les altres desenes.",
+        "en": "8 and 6 make 14: one ten and 4. That ten is added to the other tens.",
+        "fr": "8 et 6 font 14 : une dizaine et 4. Cette dizaine s'ajoute aux autres dizaines.",
+        "ar": "8 و6 تساوي 14: عشرة و4. تلك العشرة نجمعها مع باقي العشرات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "168 + 26",
+        "resultado": 194,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora hay 194 cuentos.",
+          "va": "Ara hi ha 194 contes.",
+          "en": "Now there are 194 storybooks.",
+          "fr": "Maintenant, il y a 194 contes.",
+          "ar": "صار فيها 194 قصة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que lleguen cosas nuevas y… ¡te lleves una!",
+        "va": "Inventa'n tu una en què arriben coses noves i… te'n portes una!",
+        "en": "Make one up where new things arrive and… you carry one!",
+        "fr": "Invente un problème où de nouvelles choses arrivent et… avec une retenue !",
+        "ar": "لنخترع مسألة تصل فيها أشياء جديدة و… نحتفظ بواحد!"
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el patio de un colegio juegan 137 niñas y niños, y en el de otro, 48. ¿Cuántos juegan en total?",
+        "va": "Al pati d'un col·legi juguen 137 xiquetes i xiquets, i al d'un altre, 48. Quants en juguen en total?",
+        "en": "137 children are playing in one school playground and 48 in another. How many are playing altogether?",
+        "fr": "Dans la cour d'une école, 137 enfants jouent, et dans celle d'une autre, 48. Combien d'enfants jouent en tout ?",
+        "ar": "في ساحة مدرسة يلعب 137 طفلًا وطفلة، وفي ساحة مدرسة أخرى 48. كم طفلًا يلعبون في المجموع؟"
+      },
+      "pista": {
+        "es": "Junta las unidades: 7 y 8 son 15. Te llevas una decena.",
+        "va": "Ajunta les unitats: 7 i 8 són 15. Te'n portes una desena.",
+        "en": "Put the ones together: 7 and 8 make 15. You carry one ten.",
+        "fr": "Rassemble les unités : 7 et 8 font 15. Tu retiens une dizaine.",
+        "ar": "لنجمع الآحاد: 7 و8 تساوي 15. نحتفظ بعشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "137 + 48",
+        "resultado": 185,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Juegan 185 niñas y niños.",
+          "va": "En juguen 185.",
+          "en": "185 children are playing.",
+          "fr": "185 enfants jouent.",
+          "ar": "يلعب 185 طفلًا وطفلة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una que junte la gente de dos sitios.",
+        "va": "Inventa'n tu una que ajunte la gent de dos llocs.",
+        "en": "Make one up that puts together the people in two places.",
+        "fr": "Invente un problème qui réunit les gens de deux endroits.",
+        "ar": "لنخترع مسألة نجمع فيها الناس من مكانين."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "El padre de Salma compra una mesa de 219 € y una silla de 65 €. ¿Cuánto cuesta todo?",
+        "va": "El pare de la Salma compra una taula de 219 € i una cadira de 65 €. Quant costa tot?",
+        "en": "Salma's dad buys a table for 219 € and a chair for 65 €. How much does it all cost?",
+        "fr": "Le papa de Salma achète une table à 219 € et une chaise à 65 €. Combien coûte le tout ?",
+        "ar": "اشترى والد سلمى طاولة بـ219 يورو وكرسيًّا بـ65 يورو. كم ثمن الكل؟"
+      },
+      "pista": {
+        "es": "Piensa en billetes: 2 de 100, 1 de 10 y 9 monedas, más 6 de 10 y 5 monedas. ¿Hay 10 monedas para cambiar?",
+        "va": "Pensa en bitllets: 2 de 100, 1 de 10 i 9 monedes, més 6 de 10 i 5 monedes. Hi ha 10 monedes per a canviar?",
+        "en": "Think in notes: 2 of 100, 1 of 10 and 9 coins, plus 6 of 10 and 5 coins. Are there 10 coins to swap?",
+        "fr": "Pense en billets : 2 de 100, 1 de 10 et 9 pièces, plus 6 de 10 et 5 pièces. Y a-t-il 10 pièces à échanger ?",
+        "ar": "لنفكّر بالأوراق النقدية: ورقتان من 100، وورقة من 10، و9 قطع، زائد 6 أوراق من 10 و5 قطع. هل هناك 10 قطع نستبدلها؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "219 + 65",
+        "resultado": 284,
+        "unidad": "euros",
+        "texto": {
+          "es": "Todo cuesta 284 €.",
+          "va": "Tot costa 284 €.",
+          "en": "It all costs 284 €.",
+          "fr": "Le tout coûte 284 €.",
+          "ar": "ثمن الكل 284 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una compra de dos cosas para una casa.",
+        "va": "Inventa tu una compra de dues coses per a una casa.",
+        "en": "Make up a purchase of two things for a home.",
+        "fr": "Invente un achat de deux choses pour une maison.",
+        "ar": "لنخترع عملية شراء شيئين لبيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 3,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: ¿a qué decena está más cerca el 74, al 70 o al 80?",
+        "va": "Per a recordar: a quina desena està més a prop el 74, al 70 o al 80?",
+        "en": "Let's remember: which ten is 74 closest to, 70 or 80?",
+        "fr": "Pour se souvenir : de quelle dizaine 74 est-il le plus proche, 70 ou 80 ?",
+        "ar": "لنتذكّر: أيّ عشرة أقرب إلى 74، 70 أم 80؟"
+      },
+      "pista": {
+        "es": "Imagina la cuerda de los números: ¿cuántos pasos hay hasta el 70? ¿Y hasta el 80?",
+        "va": "Imagina la corda dels nombres: quants passos hi ha fins al 70? I fins al 80?",
+        "en": "Picture the number rope: how many steps to 70? And to 80?",
+        "fr": "Imagine la corde des nombres : combien de pas jusqu'à 70 ? Et jusqu'à 80 ?",
+        "ar": "لنتخيّل حبل الأعداد: كم خطوة حتى 70؟ وحتى 80؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "74 - 70",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Está a 4 del 70 y a 6 del 80: más cerca del 70.",
+          "va": "Està a 4 del 70 i a 6 del 80: més a prop del 70.",
+          "en": "It is 4 from 70 and 6 from 80: closer to 70.",
+          "fr": "Il est à 4 de 70 et à 6 de 80 : plus près de 70.",
+          "ar": "يبعد 4 عن 70 و6 عن 80: هو أقرب إلى 70."
+        }
+      },
+      "inventala": {
+        "es": "Di tú un número y pregunta a otra persona a qué decena está más cerca.",
+        "va": "Digues tu un nombre i pregunta a una altra persona a quina desena està més a prop.",
+        "en": "Say a number and ask someone else which ten it is closest to.",
+        "fr": "Dis un nombre et demande à une autre personne de quelle dizaine il est le plus proche.",
+        "ar": "لنقل عددًا ونسأل شخصًا آخر أيّ عشرة أقرب إليه."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué quiere decir «me llevo una»? Explícamelo con un ejemplo, como si yo no lo supiera.",
+        "va": "Què vol dir «me'n porte una»? Explica-m'ho amb un exemple, com si jo no ho sabera.",
+        "en": "What does “I carry one” mean? Explain it to me with an example, as if I didn't know.",
+        "fr": "Qu'est-ce que veut dire « je retiens un » ? Explique-le-moi avec un exemple, comme si je ne le savais pas.",
+        "ar": "ماذا تعني «أحتفظ بواحد»؟ اشرح لي أو اشرحي لي بمثال، كأنني لا أعرف."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué pasaba con las monedas cuando había más de 10?»",
+        "va": "Si no sap per on començar: «Què passava amb les monedes quan n'hi havia més de 10?»",
+        "en": "If they don't know where to start: “What happened to the coins when there were more than 10?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce qui se passait avec les pièces quand il y en avait plus de 10 ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا كان يحدث للقطع النقدية عندما تزيد على 10؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Buscad que aparezca la idea de cambiar 10 unidades por una decena. Si solo dice «porque sí», volved a jugar con las monedas.",
+          "va": "Busqueu que aparega la idea de canviar 10 unitats per una desena. Si només diu «perquè sí», torneu a jugar amb les monedes.",
+          "en": "Look for the idea of swapping 10 ones for one ten. If they just say “because”, play with the coins again.",
+          "fr": "Cherchez à faire apparaître l'idée d'échanger 10 unités contre une dizaine. S'il ou elle dit juste « parce que », rejouez avec les pièces.",
+          "ar": "ابحثوا عن ظهور فكرة استبدال 10 آحاد بعشرة. إذا كان الجواب «هكذا فقط»، العبوا مرة أخرى بالقطع النقدية."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "c5f99cb827b0"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "c5f99cb827b0"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "c5f99cb827b0"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "c5f99cb827b0"
+      }
+    }
+  }
+}

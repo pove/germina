@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s02",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 2,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¡Mil!",
+    "va": "Mil!",
+    "en": "A thousand!",
+    "fr": "Mille !",
+    "ar": "ألف!"
+  },
+  "objetivo": {
+    "es": "Esta semana llegan al millar: diez centenas hacen 1000. Empiezan a leer y escribir números de cuatro cifras y descubren que la misma cifra vale distinto según dónde esté.",
+    "va": "Aquesta setmana arriben al miler (millar): deu centenes fan 1000. Comencen a llegir i escriure nombres de quatre xifres (cifras) i descobreixen que la mateixa xifra val diferent segons on estiga.",
+    "en": "This week they reach a thousand (millar): ten hundreds make 1000. They start reading and writing four-digit (cifras) numbers and discover that the same digit is worth something different depending on where it is.",
+    "fr": "Cette semaine, on arrive au millier (millar) : dix centaines font 1000. On commence à lire et à écrire des nombres à quatre chiffres (cifras) et on découvre que le même chiffre ne vaut pas pareil selon sa place.",
+    "ar": "هذا الأسبوع يصل الأطفال إلى الألف (millar): عشر مئات تساوي 1000. يبدؤون بقراءة وكتابة أعداد من أربعة أرقام (cifras) ويكتشفون أن الرقم نفسه تتغيّر قيمته حسب مكانه."
+  },
+  "comoAyudar": {
+    "es": "Leed números grandes en voz alta cuando aparezcan (el año, un precio, una matrícula). Si se lía al leerlos, tapad las cifras con el dedo y destapadlas de una en una.",
+    "va": "Llegiu nombres grans en veu alta quan apareguen (l'any, un preu, una matrícula). Si s'embolica en llegir-los, tapeu les xifres amb el dit i destapeu-les d'una en una.",
+    "en": "Read big numbers aloud when they come up (the year, a price, a number plate). If they get muddled, cover the digits with your finger and uncover them one at a time.",
+    "fr": "Lisez les grands nombres à voix haute quand ils apparaissent (l'année, un prix, une plaque d'immatriculation). S'il ou elle s'embrouille, cachez les chiffres avec le doigt et découvrez-les un par un.",
+    "ar": "اقرؤوا الأعداد الكبيرة بصوت عالٍ عندما تظهر (السنة، سعر، لوحة سيارة). إذا حدث خلط في القراءة، غطّوا الأرقام بالإصبع واكشفوها واحدًا بعد الآخر."
+  },
+  "saberes": [
+    "matematicas.numeros.millar",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.2.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cartas de cifras",
+      "va": "Cartes de xifres",
+      "en": "Digit cards",
+      "fr": "Les cartes chiffres",
+      "ar": "بطاقات الأرقام"
+    },
+    "material": [
+      {
+        "es": "10 papelitos con las cifras del 0 al 9 (o una baraja en la que la sota valga 0)",
+        "va": "10 paperets amb les xifres del 0 al 9 (o una baralla en què la sota valga 0)",
+        "en": "10 slips of paper with the digits 0 to 9 (or a pack of cards where the jack is worth 0)",
+        "fr": "10 petits papiers avec les chiffres de 0 à 9 (ou un jeu de cartes où le valet vaut 0)",
+        "ar": "10 أوراق صغيرة عليها الأرقام من 0 إلى 9 (أو أوراق لعب يساوي فيها الولد 0)"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Mezclad las cartas boca abajo. Por turnos, cada persona saca 4 y las pone delante.",
+          "va": "Mescleu les cartes cap per avall. Per torns, cada persona n'agafa 4 i les posa davant.",
+          "en": "Shuffle the cards face down. Taking turns, each person draws 4 and puts them in front of them.",
+          "fr": "Mélangez les cartes face cachée. Chacun son tour, chaque personne en tire 4 et les pose devant elle.",
+          "ar": "اخلطوا البطاقات ووجهها إلى الأسفل. بالدور، يسحب كل شخص 4 بطاقات ويضعها أمامه."
+        }
+      },
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Con esas 4 cifras, formad el número más grande posible. Con 3, 8, 0 y 5 sale 8530. Leedlo: «ocho mil quinientos treinta».",
+          "va": "Amb eixes 4 xifres, formeu el nombre més gran possible. Amb 3, 8, 0 i 5 ix 8530. Llegiu-lo: «huit mil cinc-cents trenta».",
+          "en": "With those 4 digits, make the biggest number you can. With 3, 8, 0 and 5 you get 8530. Read it: “eight thousand five hundred and thirty”.",
+          "fr": "Avec ces 4 chiffres, formez le plus grand nombre possible. Avec 3, 8, 0 et 5, on obtient 8530. Lisez-le : « huit mille cinq cent trente ».",
+          "ar": "كوّنوا بهذه الأرقام الأربعة أكبر عدد ممكن. مع 3 و8 و0 و5 نحصل على 8530. اقرؤوه: «ثمانية آلاف وخمسمئة وثلاثون»."
+        }
+      },
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Ahora el más pequeño, sin empezar por 0: 3058. ¿Por qué el 0 no puede ir delante?",
+          "va": "Ara el més menut, sense començar per 0: 3058. Per què el 0 no pot anar davant?",
+          "en": "Now the smallest, without starting with 0: 3058. Why can't the 0 go at the front?",
+          "fr": "Maintenant le plus petit, sans commencer par 0 : 3058. Pourquoi le 0 ne peut-il pas être devant ?",
+          "ar": "والآن أصغر عدد، من غير أن نبدأ بـ0: 3058. لماذا لا يمكن أن يكون 0 في البداية؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid los números grandes de todas las personas y ordenadlos de mayor a menor. Quien tenga el primero empieza la ronda siguiente.",
+          "va": "Escriviu els nombres grans de totes les persones i ordeneu-los de major a menor. Qui tinga el primer comença la ronda següent.",
+          "en": "Write down everyone's biggest number and put them in order from biggest to smallest. Whoever has the first one starts the next round.",
+          "fr": "Écrivez les plus grands nombres de chaque personne et rangez-les du plus grand au plus petit. Qui a le premier commence la manche suivante.",
+          "ar": "اكتبوا الأعداد الكبيرة لكل الأشخاص ورتّبوها من الأكبر إلى الأصغر. من عنده العدد الأول يبدأ الجولة التالية."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 3 cartas: números hasta 999.",
+      "va": "Comenceu amb 3 cartes: nombres fins a 999.",
+      "en": "Start with 3 cards: numbers up to 999.",
+      "fr": "Commencez avec 3 cartes : des nombres jusqu'à 999.",
+      "ar": "ابدؤوا بثلاث بطاقات: أعداد حتى 999."
+    },
+    "masDificil": {
+      "es": "Con las 4 cartas, intentad formar el número más cercano a 5000. ¿Quién se acerca más?",
+      "va": "Amb les 4 cartes, intenteu formar el nombre més pròxim a 5000. Qui s'hi acosta més?",
+      "en": "With the 4 cards, try to make the number closest to 5000. Who gets closest?",
+      "fr": "Avec les 4 cartes, essayez de former le nombre le plus proche de 5000. Qui s'en approche le plus ?",
+      "ar": "بالبطاقات الأربع، حاولوا تكوين أقرب عدد إلى 5000. من يقترب أكثر؟"
+    },
+    "paraQueSirve": {
+      "es": "Mover las mismas cifras y ver que el número cambia muchísimo enseña que cada cifra vale según el sitio en el que está.",
+      "va": "Moure les mateixes xifres i veure que el nombre canvia moltíssim ensenya que cada xifra val segons el lloc on està.",
+      "en": "Moving the same digits around and seeing the number change a lot shows that each digit's value depends on where it sits.",
+      "fr": "Déplacer les mêmes chiffres et voir que le nombre change énormément montre que chaque chiffre vaut selon sa place.",
+      "ar": "تحريك الأرقام نفسها ورؤية العدد يتغيّر كثيرًا يعلّمنا أن قيمة كل رقم تعتمد على مكانه."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el almacén del colegio hay 2 cajas de 1000 folios, 3 paquetes de 100 y 4 folios sueltos. ¿Cuántos folios hay?",
+        "va": "En el magatzem del col·legi hi ha 2 caixes de 1000 fulls, 3 paquets de 100 i 4 fulls solts. Quants fulls hi ha?",
+        "en": "In the school storeroom there are 2 boxes of 1000 sheets of paper, 3 packs of 100 and 4 loose sheets. How many sheets are there?",
+        "fr": "Dans la réserve de l'école, il y a 2 cartons de 1000 feuilles, 3 paquets de 100 et 4 feuilles à part. Combien y a-t-il de feuilles ?",
+        "ar": "في مخزن المدرسة صندوقان في كل منهما 1000 ورقة، و3 رزم في كل منها 100، و4 أوراق منفردة. كم ورقة هناك؟"
+      },
+      "pista": {
+        "es": "Las cajas son millares, los paquetes son centenas. ¿Hay decenas?",
+        "va": "Les caixes són milers, els paquets són centenes. Hi ha desenes?",
+        "en": "The boxes are thousands, the packs are hundreds. Are there any tens?",
+        "fr": "Les cartons sont des milliers, les paquets des centaines. Y a-t-il des dizaines ?",
+        "ar": "الصناديق آلاف، والرزم مئات. هل هناك عشرات؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2000 + 300 + 4",
+        "resultado": 2304,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 2304 folios.",
+          "va": "Hi ha 2304 fulls.",
+          "en": "There are 2304 sheets.",
+          "fr": "Il y a 2304 feuilles.",
+          "ar": "هناك 2304 ورقات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con cajas de 1000, paquetes de 100 y cosas sueltas.",
+        "va": "Inventa'n tu una amb caixes de 1000, paquets de 100 i coses soltes.",
+        "en": "Make one up with boxes of 1000, packs of 100 and loose things.",
+        "fr": "Invente un problème avec des cartons de 1000, des paquets de 100 et des choses à part.",
+        "ar": "لنخترع مسألة فيها صناديق من 1000 ورزم من 100 وأشياء منفردة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Aitana tiene 999 cromos en su colección y su tío le regala 1. ¿Cuántos tiene ahora?",
+        "va": "L'Aitana té 999 cromos en la seua col·lecció i son tio li'n regala 1. Quants en té ara?",
+        "en": "Aitana has 999 cards in her collection and her uncle gives her 1 more. How many does she have now?",
+        "fr": "Aitana a 999 images dans sa collection et son oncle lui en offre 1. Combien en a-t-elle maintenant ?",
+        "ar": "عند آيتانا 999 بطاقة في مجموعتها وأهداها خالها بطاقة واحدة. كم صار عندها؟"
+      },
+      "pista": {
+        "es": "9 unidades y 1 hacen una decena nueva; y entonces hay 10 decenas… ¡y 10 centenas!",
+        "va": "9 unitats i 1 fan una desena nova; i aleshores hi ha 10 desenes… i 10 centenes!",
+        "en": "9 ones and 1 make a new ten; then there are 10 tens… and 10 hundreds!",
+        "fr": "9 unités et 1 font une nouvelle dizaine ; alors il y a 10 dizaines… et 10 centaines !",
+        "ar": "9 آحاد و1 تصنع عشرة جديدة؛ فتصير هناك 10 عشرات… و10 مئات!"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "999 + 1",
+        "resultado": 1000,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora tiene 1000 cromos: ¡un millar!",
+          "va": "Ara en té 1000: un miler!",
+          "en": "Now she has 1000 cards: a thousand!",
+          "fr": "Maintenant, elle en a 1000 : un millier !",
+          "ar": "صار عندها 1000 بطاقة: ألف كامل!"
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra en la que, al sumar, se llegue justo a 1000.",
+        "va": "Inventa'n tu una altra en què, en sumar, s'arribe just a 1000.",
+        "en": "Make up another one where adding gets you to exactly 1000.",
+        "fr": "Invente un autre problème où, en ajoutant, on arrive juste à 1000.",
+        "ar": "لنخترع مسألة أخرى نصل فيها بالجمع إلى 1000 تمامًا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En un juego de mesa, Iker tiene 1 billete de 1000, ninguno de 100, 6 de 10 y 2 monedas de 1. ¿Cuánto dinero tiene?",
+        "va": "En un joc de taula, l'Iker té 1 bitllet de 1000, cap de 100, 6 de 10 i 2 monedes d'1. Quants diners té?",
+        "en": "In a board game, Iker has 1 note of 1000, none of 100, 6 of 10 and 2 coins of 1. How much money does he have?",
+        "fr": "Dans un jeu de société, Iker a 1 billet de 1000, aucun de 100, 6 de 10 et 2 pièces de 1. Combien d'argent a-t-il ?",
+        "ar": "في لعبة طاولة، عند إيكر ورقة نقدية من 1000، ولا شيء من 100، و6 من 10، وقطعتان نقديتان من 1. كم معه من المال؟"
+      },
+      "pista": {
+        "es": "No tiene centenas: en su sitio va un 0.",
+        "va": "No té centenes: en el seu lloc va un 0.",
+        "en": "He has no hundreds: a 0 goes in their place.",
+        "fr": "Il n'a pas de centaines : un 0 va à leur place.",
+        "ar": "ليست عنده مئات: نضع 0 في مكانها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 + 60 + 2",
+        "resultado": 1062,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 1062.",
+          "va": "En té 1062.",
+          "en": "He has 1062.",
+          "fr": "Il a 1062.",
+          "ar": "معه 1062."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con billetes de juguete en la que falte alguna clase de billete.",
+        "va": "Inventa'n tu una amb bitllets de joguet en què falte alguna classe de bitllet.",
+        "en": "Make one up with toy money where one kind of note is missing.",
+        "fr": "Invente un problème avec des billets de jeu où il manque une sorte de billet.",
+        "ar": "لنخترع مسألة بأوراق نقدية للعب يغيب فيها نوع من الأوراق."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 1,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: ¿cuántas legumbres son 4 platos de 100, 2 vasos de 10 y 9 sueltas?",
+        "va": "Per a recordar: quants llegums són 4 plats de 100, 2 gots de 10 i 9 solts?",
+        "en": "Let's remember: how many beans are 4 plates of 100, 2 cups of 10 and 9 loose beans?",
+        "fr": "Pour se souvenir : combien de grains font 4 assiettes de 100, 2 verres de 10 et 9 grains à part ?",
+        "ar": "لنتذكّر: كم حبة في 4 صحون من 100، وكوبين من 10، و9 حبات منفردة؟"
+      },
+      "pista": {
+        "es": "4 centenas, 2 decenas y 9 unidades.",
+        "va": "4 centenes, 2 desenes i 9 unitats.",
+        "en": "4 hundreds, 2 tens and 9 ones.",
+        "fr": "4 centaines, 2 dizaines et 9 unités.",
+        "ar": "4 مئات و2 عشرات و9 آحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "400 + 20 + 9",
+        "resultado": 429,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 429 legumbres.",
+          "va": "Són 429 llegums.",
+          "en": "That's 429 beans.",
+          "fr": "Ça fait 429 grains.",
+          "ar": "هي 429 حبة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de platos, vasos y sueltas para que la resuelva otra persona.",
+        "va": "Inventa'n tu una de plats, gots i solts perquè la resolga una altra persona.",
+        "en": "Make one up with plates, cups and loose beans for someone else to work out.",
+        "fr": "Invente un problème d'assiettes, de verres et de grains pour qu'une autre personne le résolve.",
+        "ar": "لنخترع مسألة عن الصحون والأكواب والحبات المنفردة ليحلّها شخص آخر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cuál es el número más grande que sabes leer? Escríbelo y explícame cómo se lee.",
+        "va": "Quin és el nombre més gran que saps llegir? Escriu-lo i explica'm com es llig.",
+        "en": "What is the biggest number you can read? Write it and explain to me how to read it.",
+        "fr": "Quel est le plus grand nombre que tu sais lire ? Écris-le et explique-moi comment il se lit.",
+        "ar": "ما أكبر عدد نعرف قراءته؟ لنكتبه، واشرح لي أو اشرحي لي كيف يُقرأ."
+      },
+      "pista": {
+        "es": "Si duda, proponed uno vosotros, como 1205, y preguntad: «¿Por qué hay un 0 ahí?»",
+        "va": "Si dubta, proposeu-ne un vosaltres, com 1205, i pregunteu: «Per què hi ha un 0 ací?»",
+        "en": "If they hesitate, suggest one yourselves, like 1205, and ask: “Why is there a 0 there?”",
+        "fr": "S'il ou elle hésite, proposez-en un vous-mêmes, comme 1205, et demandez : « Pourquoi il y a un 0 ici ? »",
+        "ar": "إذا كان هناك تردّد، اقترحوا عددًا، مثل 1205، واسألوا: «لماذا يوجد 0 هنا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede que diga un número enorme sin saber leerlo del todo: no pasa nada. Leedlo juntos, poco a poco, tapando cifras.",
+          "va": "Pot ser que diga un nombre enorme sense saber llegir-lo del tot: no passa res. Llegiu-lo junts, a poc a poc, tapant xifres.",
+          "en": "They might say a huge number without quite knowing how to read it: that's fine. Read it together, bit by bit, covering digits.",
+          "fr": "Il se peut qu'il ou elle dise un nombre énorme sans savoir tout à fait le lire : ce n'est pas grave. Lisez-le ensemble, petit à petit, en cachant des chiffres.",
+          "ar": "قد يُذكر عدد ضخم من غير معرفة قراءته تمامًا: لا بأس. اقرؤوه معًا، شيئًا فشيئًا، مع تغطية بعض الأرقام."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "24d3189535b7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "24d3189535b7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "24d3189535b7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "24d3189535b7"
+      }
+    }
+  }
+}
