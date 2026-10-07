@@ -4,9 +4,9 @@ Cada etapa cabe en una sesión de trabajo y termina con su comprobación. No se 
 
 ## Etapa 0. Preparación (persona, no agente)
 
-- [ ] Crear el repositorio público `pove/germina` en GitHub, con licencia MIT.
-- [ ] `git init`, primer commit con lo que ya existe (config, contenido, docs, scripts) y subirlo. Nunca subir carpeta Inspiration.
-- [ ] En Settings → Pages, elegir «GitHub Actions» como origen.
+- [x] Crear el repositorio público `pove/germina` en GitHub, con licencia MIT.
+- [x] `git init`, primer commit con lo que ya existe (config, contenido, docs, scripts) y subirlo. Nunca subir carpeta Inspiration.
+- [x] En Settings → Pages, elegir «GitHub Actions» como origen.
 
 ## Etapa 1. Esqueleto y despliegue
 
