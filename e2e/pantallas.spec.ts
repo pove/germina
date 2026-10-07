@@ -159,7 +159,7 @@ for (const idioma of IDIOMAS) {
 
       await page.getByRole('navigation').getByRole('link', { name: T('nav.ayuda', idioma) }).click();
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('ayuda.titulo', idioma));
-      await expect(page.locator('.ideas li')).toHaveCount(6);
+      await expect(page.locator('.ideas li')).toHaveCount(7);
       await sinProblemasDeAccesibilidad(page);
 
       await page.getByRole('navigation').getByRole('link', { name: T('nav.ajustes', idioma) }).click();

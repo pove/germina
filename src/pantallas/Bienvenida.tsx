@@ -57,6 +57,8 @@ export function Bienvenida() {
         <Explicacion />
       </section>
 
+      <p>{t('bienvenida.adultos')}</p>
+
       <button type="button" class="boton boton-principal" disabled={elegidos.length === 0} onClick={empezar}>
         {t('bienvenida.empezar')}
       </button>
