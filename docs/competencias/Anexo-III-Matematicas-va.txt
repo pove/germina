@@ -1,0 +1,1444 @@
+                                           MATEMÀTIQUES
+
+          1. Presentació.
+
+          Els diferents aspectes descrits en aquesta introducció pretenen emmarcar i aclarir alguns punts que
+es desenvoluparan més endavant. A més de l'estructura d'aquest document i d'algunes qüestions tècniques,
+resulta necessari conéixer la contribució d'aquesta àrea als objectius de l'etapa i al perfil d'eixida.
+
+          En la societat actual, l'alfabetització matemàtica resulta una necessitat bàsica per a l'acompliment
+d'una ciutadania reflexiva, crítica, participativa i responsable. Les formes pròpies de raonament matemàtic
+permeten realitzar una anàlisi i una interpretació precises i rigoroses de les situacions, processos i resultats;
+són, per tant, un instrument essencial per a moure’s satisfactòriament en contextos personals, acadèmics,
+socials, científics i laborals. Encara més, com a part del currículum de l'educació obligatòria, l'alfabetització
+matemàtica també és un dret que ha de satisfer-se.
+
+          L'aportació de l'àrea de matemàtiques al perfil d'eixida ha de fer-se des d'una aproximació funcional,
+és a dir, com una forma de comprensió del món, i això requereix ensenyar i aprendre matemàtiques com una
+“manera de fer”, potenciar el treball matemàtic a partir de contextos reals, utilitzant materials i eines que doten
+de sentit l'activitat matemàtica i que faciliten el trànsit d’allò concret a allò abstracte. Aquesta àrea contribueix
+a l'educació obligatòria mitjançant l'adquisició i el desenvolupament de competències específiques que fan
+referència al conjunt de coneixements, habilitats i actituds necessàries per a comprendre i usar les formes de
+raonament, desenvolupament, representació i expressions pròpies de les matemàtiques en una varietat de
+situacions en les quals exerceixen o poden exercir un paper.
+
+          Les competències específiques de l'àrea de matemàtiques contribueixen, en conseqüència, a
+l'adquisició de les competències clau establides en el perfil d'eixida de l'alumnat. El pensament i llenguatge
+matemàtics estan implicats en qualsevol activitat que requerisca estructurar, sistematitzar i trobar relacions
+entre diferents atributs de la realitat. D’altra banda, el llenguatge matemàtic, fonamentalment simbòlic, és la
+forma de comunicació i d’expressió d'aquesta matèria i, en aquest sentit, no pot deslligar-se de la competència
+de comunicació lingüística i plurilingüe. La utilització de mètodes, estratègies o eines matemàtiques té sovint
+reflex en altres àrees, especialment en les cientificotecnològiques, però també en la resta d'àrees. Així, la
+resolució de problemes i situacions reals afavoreix el desenvolupament de la competència en consciència i
+expressió culturals, la competència emprenedora o també la competència digital.
+
+          Des del punt de vista dels processos metacognitius i socioemocionals, les matemàtiques
+contribueixen de manera determinant a l'adquisició de la competència personal, social i d'aprendre a aprendre,
+tan important per a l'aprenentatge al llarg de tota la vida, i permet així desarrelar prejudicis i falses idees
+preconcebudes relacionades amb el talent innat, la dificultat intrínseca de la matèria o fins i tot el gènere. En
+suma, l'alfabetització matemàtica permet desenvolupar les habilitats necessàries per a continuar aprenent al
+llarg de la vida i per a abordar els reptes del segle XXI des d'una perspectiva col·lectiva i global, inclusiva i
+tolerant, que facilite que el coneixement puga aplicar-se a situacions noves i canviants. De la mateixa manera,
+des de l'educació matemàtica es treballarà la igualtat de gènere, l'educació per a la pau, l'educació per al
+consum responsable i per al desenvolupament sostenible, i l'educació per a la salut. Així mateix, es prestarà
+especial atenció a l'educació emocional i en valors. Hi ha vies variades per a integrar l'activitat matemàtica en
+temes transversals, com per exemple la realització de projectes significatius per a l'alumnat i la resolució
+col·laborativa de problemes, que contribueixen a reforçar-li l'autoestima, l'autonomia, la reflexió i la
+responsabilitat.
+
+          El desenvolupament de les competències específiques matemàtiques que menen a l'alfabetització
+matemàtica, com a part del perfil d'eixida de l’alumnat, es fonamenta en processos de matematització de
+contextos reals i de situacions d'aprenentatge. L'actuació de l'alumnat requereix mobilitzar un conjunt de
+destreses, procediments i conceptes matemàtics que li permet abordar amb èxit les situacions d'aprenentatge
+plantejades. Més enllà del mer domini procedimental, la resolució de problemes formarà el nucli dels
+aprenentatges d'aquesta matèria. Amb aquesta aportació de funcionalitat als sabers bàsics es possibilita el
+desbloqueig dels tradicionals prejudicis cap a les matemàtiques, considerades sovint com un cos de sabers
+abstracte, desconnectat de la realitat i compost per regles, algoritmes i exercicis. En suma, les competències
+específiques són l'element vertebrador entorn del qual s'articulen els sabers bàsics de l'àrea i els criteris
+d'avaluació.
+
+          En les seccions següents s'exposen i es desenvolupen els elements fonamentals del currículum de
+l'àrea de matemàtiques.
+
+          En la segona secció es descriuen les competències específiques de l'àrea de matemàtiques, a saber:
+competència en resolució de problemes, competència en raonament i connexions, competència en
+modelització, competència en pensament computacional, competència en representacions, competència en
+comunicació, competència en rellevància social i cultural, i competència en gestió de les emocions i actituds.
+Per a cadascuna d'aquestes, es proporciona una descripció que inclou les fites més importants del seu
+desenvolupament en els tres cicles de l'etapa.
+
+          La tercera secció descriu les principals connexions de les competències específiques de
+matemàtiques entre si, amb les competències específiques d'altres àrees de l'Educació Primària i amb les
+competències clau.
+
+          En la quarta secció s'identifiquen els sabers bàsics de l'àrea de matemàtiques, estructurats en blocs
+associats als diferents sentits matemàtics. Per a una millor identificació, en aquest document els sabers bàsics
+s'han distribuït entre els següents sentits matemàtics: Sentit numèric i de les operacions, Sentit espacial i
+geomètric, Sentit de la mesura i l'estimació, Sentit estocàstic i pensament computacional.
+
+          En la cinquena secció es presenten alguns principis presents en les situacions i activitats que faciliten
+i promouen l'aprenentatge de les matemàtiques i s'ofereixen criteris i pautes per al seu disseny.
+
+          Finalment, la sisena secció estableix els criteris d'avaluació per a cadascuna de les competències
+específiques al final del segon cicle (quart curs) i del tercer cicle de l'Educació Primària.
+
+          2. Competències específiques.
+
+                2.1. Competència específica 1.
+
+          Resoldre problemes relacionats amb situacions reals de l'entorn personal, social i educatiu utilitzant
+estratègies informals, representacions i conceptes concrets.
+
+                     2.1.1. Descripció de la competència.
+
+          La resolució de problemes és la principal activitat matemàtica, perquè proporciona una oportunitat
+genuïna de desenvolupar raonaments matemàtics i connexions, d’usar diferents representacions, de
+connectar diferents conceptes, de modelitzar i d’aplicar matemàtiques a situacions reals, i de comunicar idees
+amb el suport de les matemàtiques. A més, requereix desenvolupar competències relacionades amb la gestió
+de les emocions, amb el treball col·laboratiu i amb les estratègies d'autoregulació. És a dir, l'aprenentatge a
+través de la resolució de problemes desencadena el desenvolupament de totes les competències específiques
+de l'àrea de matemàtiques.
+
+          Però, a més, resoldre un problema és una competència en si mateixa en la mesura que es compon
+de processos com ara la comprensió i la traducció de la situació problemàtica de l’enunciat, la matematització
+d'aquesta situació, la planificació d'una estratègia de resolució, l'aplicació de conceptes i procediments per a
+obtindre una solució, la comprovació del resultat, i el plantejament de noves preguntes i problemes que porten
+a desenvolupar més saber matemàtic. Resoldre problemes, validar les solucions i proposar nous problemes
+són els processos principals que componen aquesta competència.
+
+          L'alumnat del primer cicle d'Educació Primària hauria d’abordar tasques, necessitats i reptes en un
+context personal, és a dir, en un entorn pròxim i relacionat amb la seua experiència quotidiana, per al qual
+hauria de construir de manera gradual algorismes elementals que permeten transformar en relacions
+matemàtiques concretes –de tipus aritmètic, geomètric, de mesures, patrons, etc.– les relacions del context
+real, amb el suport d’eines tecnològiques bàsiques que ajuden tant al desenvolupament com a la resolució
+d’aquestes.
+          A mesura que avança l'etapa, les actuacions de l'alumnat haurien d’abastar contextos més amplis,
+propis de l'àmbit social o educatiu. En les situacions d’aprenentatge, l’alumnat hauria de ser capaç de
+mobilitzar competències, sabers, recursos, entre aquests les eines TIC, i actituds per a abordar les
+problemàtiques més generals i rellevants per a la ciutadania, encaminades aquestes a introduir els grans
+reptes del segle XXI.
+
+          L'alumnat hauria de resoldre situacions d'aprenentatge que demanen de manera directa mobilitzar
+competències matemàtiques, però també hauria de ser capaç, de manera progressiva, d'enfrontar-se a
+situacions en les quals es demana una actuació de manera indirecta i d'usar les seues habilitats de
+comprensió lectora.
+
+          A l'inici, l'alumnat s'enfrontarà a situacions de les quals coneix tota la informació necessària per a
+resoldre-les, però a mesura que avance en l'etapa s'enfrontarà a algunes situacions reals senzilles de les
+quals hauria de completar informació absent o discriminar informació rellevant de la supèrflua.
+
+          En finalitzar l'etapa, l'alumnat hauria de ser capaç de resoldre problemes de diverses tipologies:
+problemes d'enunciat verbal amb o sense il·lustracions de suport; problemes amb alguna font d'informació
+diferent a l'enunciat; problemes amb incorporació a l'enunciat de taules, gràfics o recursos audiovisuals o TIC.
+A més, no sols hauria de ser capaç de resoldre situacions problemàtiques de reproducció, tancades i
+rutinàries, sinó que hauria de tindre recursos i actituds per a abordar problemes de connexió i reflexió, més
+complexos, en els quals haja de formular hipòtesis, explorar possibilitats o investigar.
+
+          Per a resoldre aquest tipus de situacions problemàtiques, l'alumnat, al final de l'etapa, hauria de poder
+mobilitzar continguts essencials de tipus aritmètic, de mesura, geomètrics, estadístics o de probabilitat.
+
+           L'alumnat s'enfrontarà a les situacions problemàtiques no sols de manera individual, sinó col·laborant
+en parelles o en grups cooperatius.
+
+          En finalitzar el tercer cicle, l’alumnat hauria d’haver desenvolupat de manera comprensiva estratègies
+informals, i també algunes de formals, per a abordar la resolució de problemes matemàtics, usant llenguatge
+simboliconumèric, encara que recolzat en gràfics, dibuixos, esquemes o taules. Hauria de ser capaç d'abordar
+tasques senzilles que exigisquen formular conjectures o buscar dades sobre la situació problemàtica perquè
+falta informació. També hauria de treballar en el plantejament de nous problemes d'un mateix tipus i hauria
+d’explorar com usar la solució d'una situació en altres contextos.
+
+          2.2. Competència específica 2.
+
+          Observar, formular, explorar i comprovar conjectures senzilles sobre propietats i relacions
+matemàtiques concretes, reconeixent i connectant procediments, patrons, regularitats i estructures.
+
+                   2.2.1. Descripció de la competència.
+
+          La competència de raonar i connectar dins de les matemàtiques suposa el domini dels processos
+mentals que permeten establir el camí de la concreció a l’abstracció propi del pensament matemàtic, és a dir,
+que permeten construir contingut matemàtic. Són processos com ara l'exploració de conjectures sobre
+propietats; la comparació de característiques diferents i similars; la identificació de regularitats, patrons
+(identificant sèries de variables constants dins d'un conjunt de dades o formes) i relacions; la comprovació i
+refutació de conjectures, i l'establiment de definicions i de connexions entre els conceptes definits. També, el
+reconeixement d'estructures matemàtiques (conjunt d'objectes amb característiques i relacions associades;
+per exemple, els punts del pla i la distància, o els nombres naturals i les operacions) i les connexions entre
+aquestes (entre l'estructura aritmètica i les propietats de la mesura de magnituds, per exemple).
+
+          L'alumnat hauria de construir, en el primer cicle, el coneixement matemàtic a partir de contextos reals
+i situacions concretes connectades amb l'àmbit personal, i posteriorment relacionades amb l'àmbit social i
+amb els reptes del segle XXI. L'alumnat hauria de formular hipòtesis i conjectures a partir de situacions
+problemàtiques, i desenvolupar així conceptes i procediments matemàtics intuïtius, amb un sentit concret i
+funcional.
+          Els estudiants i les estudiantes començaran a enfrontant-se a tasques de reproducció per a
+desenvolupar el raonament matemàtic de manera progressiva, i abordaran posteriorment situacions
+d'aprenentatge en les quals han de connectar continguts intra i extramatemàtics, o reflexionar i argumentar
+matemàticament. Per tant, en el primer cicle haurien de construir els continguts de manera intuïtiva i lligada a
+contextos i experiències pròxims. Durant el segon i tercer cicle haurien d’anar enriquint els seus continguts
+matemàtics amb connexions i propietats.
+
+          En particular, durant el primer cicle l'alumnat hauria d’establir conjectures i hauria de fer-se preguntes
+sobre fenòmens i situacions del seu entorn pròxim, la resposta de les quals requerisca raonar
+matemàticament, encara que inicialment siga de manera més intuïtiva. Els processos mentals faciliten la
+comprensió i definició intuïtiva, lligada a la visualització i a la manipulació de conceptes i procediments
+relacionats amb tots els grups de continguts bàsics: Sentit numèric i de les operacions, Sentit espacial i
+geomètric, Sentit de la mesura i de l'estimació, Sentit estocàstic i pensament computacional.
+
+          En el segon cicle, l'alumnat hauria d’ampliar i aprofundir els sentits dels conceptes i procediments
+matemàtics ja formats, i els hauria de començar a enriquir amb connexions, al mateix temps que hauria de
+continuar desenvolupant nou contingut matemàtic intuïtiu a partir de situacions d'aprenentatge més
+complexes. L'alumnat hauria d’utilitzar els procediments de manera flexible, coneixent i comparant diferents
+maneres de transformar i manipular continguts matemàtics.
+
+          En finalitzar l'etapa, l'alumnat hauria d’haver ampliat la comprensió del contingut matemàtic i hauria
+de ser capaç de formalitzar conceptes i procediments, així com de construir de manera comprensiva un
+sistema connectat de conceptes i procediments deslligats d'una situació concreta que poden aplicar-se en
+diferents situacions. L'alumnat hauria de poder analitzar conceptes matemàtics més enllà de la visualització i
+manipulació d’aquests, i convertir algunes característiques concretes en propietats generals. A més, hauria
+d’haver adquirit fluïdesa procedimental, és a dir, hauria de ser capaç de fer un ús flexible dels procediments
+matemàtics, alhora que hauria d’intentar ser precís i buscar les maneres més eficients d'execució.
+
+          2.3. Competència específica 3.
+
+          Construir models matemàtics concrets i utilitzar conceptes i procediments matemàtics senzills per a
+abordar i interpretar situacions, fenòmens i problemes rellevants en l'àmbit personal, educatiu o social.
+
+                   2.3.1. Descripció de la competència.
+
+          La competència a identificar contingut matemàtic en situacions reals, i desenvolupar-lo a través de
+models matemàtics per a interpretar aquestes situacions o fenòmens reals derivats, implica la capacitat de
+construir matemàtiques a partir de la realitat. Modelitzar és recórrer un camí d'anada i tornada entre el món
+real i el món de les matemàtiques, simplificant i estructurant una situació real, identificant les variables i
+característiques que intervenen en aquesta situació, quantificant els seus elements essencials i treballant
+matemàticament per a obtindre un resultat, conclusió o predicció. Aquesta competència també comporta la
+capacitat d'aplicar conceptes i procediments matemàtics en situacions concretes de la realitat per a sostindre
+arguments fonamentats, fent prediccions i desenvolupant el pensament crític.
+
+          Els processos que componen aquesta competència permeten establir connexions entre les
+matemàtiques i altres disciplines, usant processos inherents a la investigació científica: identificar, verificar,
+inferir, mesurar, explicar, classificar o predir. L'ús d'eines digitals o tecnològiques pot ser d'ajuda en el procés
+de modelització matemàtica, com per exemple en l'exploració de patrons o en la simulació de fenòmens
+senzills ( el llançament de dos daus, el moviment uniforme, etc.).
+
+           L'alumnat s'iniciarà en la modelització i l’aplicació de les matemàtiques en contextos reals pròxims a
+la seua experiència, en l'àmbit personal, social i educatiu. En el primer cicle, l'alumnat hauria de començar a
+donar raons lògiques i matemàtiques, de manera informal, sobre situacions reals pròximes a la seua
+experiència, mitjançant exemples que permeten fonamentar i defensar les seues conclusions, i hauria de
+començar a comprendre que cal anar més enllà de l'argument immediat i intuïtiu sobre aquesta situació. Per
+exemple, modelitzant mitjançant material o dibuix situacions de naturalesa aritmètica (repartiments,
+agrupaments, combinacions, etc.).
+          Al llarg de l'etapa, l'alumnat hauria d’identificar relacions i patrons en situacions reals senzilles que li
+permeten aplicar procediments i conceptes matemàtics, amb ajuda d'eines TIC, per a extraure conclusions
+útils dels seus arguments o per a contrastar una informació per a decidir sobre veracitat d’aquesta.
+
+          Al final de l'etapa, l'alumnat hauria de ser capaç de desenvolupar procediments i conceptes
+matemàtics a partir de situacions reals, tant informals com formals, que conduïsquen a un model matemàtic
+que li permeta interpretar i obtindre conclusions senzilles sobre les situacions de partida. Modelitzar
+matemàticament una situació real implica, a més, que discrimine informació de la situació, en formule la
+hipòtesi i l'estructure.
+
+          A més, en finalitzar el tercer cicle, l'alumnat hauria d’haver establit les bases de l'aportació del
+raonament matemàtic al pensament crític: ser capaç de fonamentar les seues argumentacions sobre
+situacions reals pròximes i sobre algunes situacions d'interés general per a la ciutadania, aplicant eines i
+llenguatge matemàtic com ara mesurar i estimar contrastant amb la informació que la situació proporciona,
+extraure dades, organitzar-les i representar-les per a obtindre conclusions estadístiques sobre la situació,
+estructurar una solució senzilla mitjançant algorismes computacionals, o reflexionar sobre el grau d'incertesa
+d'un fenomen. A més, hauria de ser capaç de detectar errors de tipus lògic o matemàtic en argumentacions
+sobre situacions reals concretes i algunes de generals.
+
+          2.4. Competència específica 4.
+
+          Construir i aplicar algorismes senzills per a afrontar situacions i resoldre problemes rellevants de
+l'àmbit personal, educatiu o social, organitzant dades, descomponent un problema en parts, reconeixent
+patrons i utilitzant eines TIC.
+
+                   2.4.1. Descripció de la competència.
+
+          Aquesta competència implica que l'alumnat resolga problemes i situacions de l'àmbit personal,
+educatiu o social implementant un algorisme o seqüència finita d'instruccions i regles precises. Aquesta
+solució pot ser executada per un humà, un robot educatiu o un sistema informàtic en un nivell de programació
+visual. S'usaran codis com ara seqüències de fletxes, llenguatges visuals o la iniciació a la programació per
+blocs.
+
+          El disseny i la implementació d'un algorisme implica habilitats com la descomposició d'un problema
+en tasques més simples; la identificació dels aspectes rellevants d'una situació per a simplificar-la i estructurar-
+la, eliminant qualsevol ambigüitat o imprecisió; l'ordenació, classificació i organització d'un conjunt de dades,
+o la identificació de patrons en el desenvolupament d'una solució.
+
+          L'alumnat abordarà situacions d'aprenentatge de l'àmbit personal, educatiu i social en els quals la
+resolució de problemes a través del pensament computacional i l'ús de recursos tecnològics tenen un paper
+rellevant. Durant la resolució de situacions problemàtiques mitjançant habilitats de pensament computacional,
+l'alumnat haurà de cooperar i col·laborar en grups, fent diferents rols (programador, revisor, executor, etc.).
+
+          En el primer cicle, l'alumnat hauria de començar a desenvolupar les bases del pensament
+computacional a través d'activitats desendollades (unplugged). Hauria de ser capaç de col·laborar en grups
+per a reproduir o per a dissenyar algorismes senzills que seran executats per si mateix, a través del seu cos
+o de materials manipulatius, mitjançant codis de programació visuals o amb fletxes. L'alumnat també hauria
+de ser capaç de resoldre situacions en les quals la solució ha de ser implementada a un robot; per exemple,
+programar les instruccions perquè un robot seguisca una trajectòria que permeta resoldre el repte o problema.
+
+          En el segon cicle, l'alumnat hauria de començar a utilitzar la programació per blocs mitjançant alguna
+eina tecnològica o informàtica, hauria de reconeixer patrons i enfrontar-se a problemes que requereixen ser
+dividits en parts.
+
+          En finalitzar l'etapa, l’alumnat hauria de ser capaç de realitzar dissenys d'algorismes senzills de
+programació per blocs, implementar-los amb eines tecnològiques i, en alguns casos, fer una anàlisi informal
+de les seues limitacions.
+          2.5. Competència específica 5.
+
+          Utilitzar amb correcció el simbolisme matemàtic, fent transformacions i algunes conversions entre
+representacions iconicomanipulatives numèriques, geomètriques i gràfiques, per a descriure i analitzar
+situacions rellevants de l'àmbit personal, educatiu o social.
+
+                   2.5.1. Descripció de la competència.
+
+          La competència a manejar el simbolisme matemàtic i les seues representacions implica que l'alumnat
+coneix les regles sintàctiques del llenguatge matemàtic i les condicions en les quals es produeixen símbols
+que tenen significat matemàtic. En efecte, els objectes matemàtics són entitats abstractes que organitzen i
+estructuren fenòmens, per la qual cosa per a construir un concepte mental permanent d'aquest objecte
+l'alumnat l'ha de vehicular mitjançant algun registre de representació, és a dir, mitjançant algun tipus de
+simbolització. El llenguatge matemàtic és complex i està compost per capes connectades de diferents
+registres, des del llenguatge natural al simbolicoalgebraic, passant per l'iconicomanipulatiu, el numèric, el
+tabular, el funcional, el geomètric i el gràfic. Una construcció conceptual rica requereix competència en l'ús de
+diferents registres de representació, el seu tractament (manipulació) i la conversió entre registres (ser capaç
+de traduir d'un sistema de símbols a un altre, per exemple, del registre algebraic al geomètric). En l'Educació
+Primària, pel tipus de situacions d'aprenentatge a què s'enfronta i per la seua maduresa cognitiva, l'alumnat
+ha d'utilitzar representacions iconicomanipulatives, numèriques, geomètriques i gràfiques.
+
+          En aquesta etapa, l'alumnat hauria de desenvolupar les capacitats per a produir llenguatge matemàtic
+mitjançant diferents representacions en contextos reals de l'àmbit personal i social pròxims a la seua
+experiència.
+
+          En el primer cicle, l'alumnat hauria de ser capaç d'usar de manera informal els registres propis del
+llenguatge natural, iconicomanipulatiu, numèric i geomètric per a expressar matemàticament una situació
+concreta del seu entorn. L'alumnat hauria de realitzar algunes conversions entre aquests registres, almenys
+en una direcció; per exemple, traduint transformacions manipulatives de materials al registre numèric
+mitjançant operacions aritmètiques.
+
+          En el segon cicle, l'alumnat hauria de començar a produir simbolisme matemàtic respectant algunes
+regles bàsiques de correcció, i hauria de fer algunes conversions bidireccionals entre registres de
+representació (per exemple, ser capaç d'expressar en llenguatge natural el significat d'una operació aritmètica,
+i viceversa).
+
+          En finalitzar l'etapa, l'alumnat hauria de ser capaç d'abordar situacions d'aprenentatge en les quals
+ha d'interpretar informació procedent de diferents fonts i combinar diversos registres de representació:
+enunciats verbals, imatges, taules i/o gràfics. A més, hauria de poder exercir-se en situacions diverses que
+requereixen produir per escrit, amb correcció, simbolisme matemàtic en els registres de representació
+iconicomanipulatius, numèrics, geomètrics i gràfics. L’alumnat hauria d’adquirir, per tant, la capacitat de
+representar els conceptes matemàtics relacionats amb els grups de sabers bàsics i de fer conversions entre
+aquests registres per a connectar diferents representacions d'un mateix contingut. Per exemple, hauria de ser
+capaç d'expressar el concepte de producte de dues quantitats oralment, o representar-lo numèricament, o
+mitjançant la manipulació d'objectes, o geomètricament, i hauria de poder explicar com es tradueix el significat
+d'una representació a una altra.
+
+          2.6. Competència específica 6.
+
+          Comprendre i produir missatges orals i escrits concrets de manera informal, utilitzant un llenguatge
+matemàtic senzill per a comunicar i argumentar sobre característiques, conceptes, procediments i resultats
+relacionats amb situacions de l'àmbit personal, educatiu o social.
+
+                   2.6.1. Descripció de la competència.
+
+          L'ús del llenguatge matemàtic no es limita a conéixer les regles de producció de símbols i els seus
+sistemes de representació, sinó que l'alumnat ha de ser també competent en la seua dimensió semàntica i
+pragmàtica: ser capaç de comprendre missatges i textos que utilitzen el llenguatge matemàtic per a parlar
+sobre diferents situacions o sobre les mateixes matemàtiques, i també de comunicar de manera clara i
+apropiada amb llenguatge matemàtic i sobre el llenguatge matemàtic. Es tracta que el llenguatge matemàtic
+siga un mitjà de comunicació, intercanvi d'idees i transmissió d'informació sobre el món, un llenguatge que no
+se cenyisca exclusivament a les matemàtiques, sinó que servisca de base a altres formes de transmissió de
+coneixements, com el computacional.
+
+          En aquesta etapa, l’alumnat hauria de desenvolupar la capacitat de comunicar mitjançant les
+matemàtiques i sobre les matemàtiques en diferents situacions d'aprenentatge, primer vinculades al seu àmbit
+personal, i després progressivament a l'àmbit social i educatiu. En aquestes situacions no sols hauria de
+comunicar els seus arguments, també hauria d'escoltar i comprendre els dels seus companys, i ser capaç
+d'establir-hi un debat o discussió.
+
+          Per exemple, hauria de ser capaç d’argumentar i debatre sobre les característiques d'una mostra (la
+seua classe, el seu entorn, etc.) o sobre un tema, utilitzant dades numèriques i raonaments de tipus estadístic
+per a fonamentar les seues idees.
+
+          Al final del primer cicle, l'alumnat hauria d’haver adquirit el vocabulari bàsic dels continguts matemàtics
+que requereixen les situacions familiars en les quals participa, i hauria de ser capaç de comprendre i produir
+missatges matemàtics senzills i informals que expressen les seues idees, sobretot de manera oral, encara
+que també per escrit.
+
+          Al final del segon cicle, l'alumnat hauria d’haver ampliat aquest vocabulari matemàtic i hauria de
+començar a afrontar situacions d'aprenentatge que exigisquen debatre amb els companys i les companyes,
+discutint, per exemple, quantes persones podrien cabre a la seua aula, basant-se en estimacions senzilles.
+
+          En finalitzar l'etapa, l'alumnat hauria de ser capaç de comunicar amb les matemàtiques idees i
+arguments útils per a afrontar els reptes del segle XXI, usant un vocabulari prou ric com per a comunicar amb
+claredat i eficàcia les seues idees. Hauria de ser capaç de comunicar missatges que integren els resultats
+matemàtics en un discurs oral o escrit més complex. L’alumnat hauria de poder afrontar situacions grupals
+que exigisquen comunicar-se, comparar i debatre idees, arguments, aspectes o necessitats d'un context
+rellevant usant el llenguatge matemàtic. També hauria de ser capaç de comprendre i interpretar informació
+(procedent d'una o diverses fonts, usant una o diverses representacions) presentada de manera directa o
+indirecta, discriminant la informació rellevant o havent de completar-la.
+
+          2.7. Competència específica 7.
+
+          Identificar fenòmens i problemes importants des del punt de vista cultural i social en els quals el
+coneixement matemàtic té un paper decisiu.
+
+                   2.7.1. Descripció de la competència.
+
+          La competència en la rellevància social i cultural de les matemàtiques respon a la necessitat que
+l'alumnat perceba el sentit i la funció de les matemàtiques en la societat. Es tracta de valorar el paper de les
+matemàtiques en fenòmens i problemes importants de l'àmbit cultural i social que tinguen relació amb
+l'experiència de l'alumnat d'aquesta etapa, i també d’establir les bases perquè entenguen les matemàtiques
+com a part de la cultura humana, relacionada amb altres disciplines com ara les ciències, l'art o l'economia.
+Destaquen, per la rellevància en l'escenari del segle XXI, per la relació amb la digitalització i les noves
+tecnologies, especialment els algorismes i el tractament de dades. Aquesta competència també es vincula a
+la motivació de l'aprenentatge, que més enllà del seu component intrínsec (la consecució del mateix
+aprenentatge de les matemàtiques), requereix el desenvolupament de la motivació extrínseca que pot afavorir
+la confirmació que la matemàtica és una eina que permet transformar la realitat. És una competència amb un
+fort component actitudinal atés que posa en joc creences, apreciació, motivació i interés.
+
+          Al llarg de l'etapa, l'alumnat hauria d’adquirir experiències que li permeten identificar el paper rellevant
+que les matemàtiques tenen en diferents situacions i fenòmens vinculats al seu entorn i experiència familiar.
+Hauria d’experimentar i reflexionar sobre la importància i necessitat de les matemàtiques, no sols en l’àmbit
+personal, enfrontant-se a reptes matemàtics i fomentant la confiança en les pròpies habilitats, sinó també en
+la societat, anant sempre més enllà dels prejudicis i estereotips associats a les STEM.
+          En el primer cicle, l'alumnat hauria de començar a reflexionar sobre la utilitat de les matemàtiques en
+la seua experiència, especialment després de resoldre problemes de la vida quotidiana utilitzant coneixements
+matemàtics.
+
+          En el segon cicle, l'alumnat hauria de reflexionar també sobre la utilitat de les matemàtiques en jocs i
+activitats socials, i hauria de començar a abordar situacions i contextos en els quals experimentar la funció
+estètica de les matemàtiques.
+
+          En finalitzar l'etapa, l'alumnat hauria d’haver comprés la importància i utilitat de les matemàtiques en
+situacions molt diferents, el caràcter flexible i multidisciplinari de la matèria, i hauria de valorar-ho positivament,
+reconeixent la importància de l'alfabetització matemàtica per a moure’s bé no només en la vida quotidiana,
+sinó també en la societat en general. Així mateix, l'alumnat hauria de tindre coneixement i hauria de ser capaç
+de reflexionar sobre exemples variats del paper que han tingut les matemàtiques en determinats avanços
+culturals i socials.
+
+          2.8. Competència específica 8.
+
+          Gestionar les emocions i actituds implicades en els processos matemàtics, acceptant la incertesa, les
+dificultats i els errors que aquests processos comporten, i controlant l'atenció per a aconseguir un
+aprenentatge significatiu i adaptable a diferents situacions.
+
+                   2.8.1. Descripció de la competència.
+
+          En els processos d'aprenentatge de les matemàtiques intervenen multitud de factors; hi ha
+components cognitius, però també afectius, i són inseparables: no es pot raonar matemàticament sense
+experimentar emocions. La confiança forma part d'un bon rendiment en matemàtiques, però també sorgeixen
+sovint un altre tipus de sentiments lligats a dificultats que experimenta l'alumnat: ansietat, temor, frustració,
+inseguretat o desinterés. És important, en aquest sentit, assegurar uns processos d'ensenyament i
+aprenentatge de les matemàtiques que promoguen un autoconcepte i autoestima positius, evitant estereotips
+de gènere o un altre tipus de falses creences que porten al rebuig de la matèria.
+
+          Els tres descriptors essencials del domini afectiu són les emocions, les actituds i les creences. És
+important que l'alumnat desenvolupe estratègies de regulació del seu aprenentatge, la qual cosa implica el
+control de l'atenció, però també la regulació del domini afectiu. La conseqüència de l'autoregulació és un reforç
+de l'interés de l'alumnat i de les creences cap a les matemàtiques i cap a com percep les seues capacitats en
+relació amb les matemàtiques. Aquesta competència es compon, per tant, d'habilitats relacionades amb el
+domini emocional i metacognitiu. La competència mobilitza actituds, creences, emocions i l'atenció al propi
+aprenentatge, i aconsegueix que els estudiants adquirisquen un autoconcepte i una autoestima positius en
+relació amb les matemàtiques.
+
+          En finalitzar el primer cicle, l'alumnat hauria de poder identificar i verbalitzar emocions i actituds en la
+resolució de problemes o en situacions d'aprenentatge relacionades amb les matemàtiques, i hauria de ser
+capaç de mantindre una actitud positiva i perseverant en la cerca d'una solució.
+
+          En finalitzar el segon cicle, els estudiants i les estudiantes haurien d’haver adquirit destreses
+emocionals i actituds positives, i haurien d’assumir els errors com una forma d'aprenentatge. En aquest
+moment haurien d’haver desenvolupat estratègies per a regular l'atenció cap als processos d'aprenentatge de
+les matemàtiques i per a controlar en quina part del procés estan, identificant dificultats i gestionant alguns
+recursos de tipus cognitiu i emocional.
+
+          En finalitzar l’etapa, l'alumnat hauria d’haver desenvolupat unes creences i actituds positives sobre
+les seues capacitats per a aprendre i per a fer treball matemàtic a través d'experiències d'èxit i del treball en
+la gestió i regulació d'emocions. A més, hauria de tindre coneixement del seu procés d'aprenentatge, i hauria
+de ser capaç d'identificar els factors rellevants que intervenen en l'atenció, comprensió i gestió dels recursos
+cognitius i emocionals necessaris per a reconduir el procés en moments de dificultat o d’incertesa.
+          3. Connexions de les competències específiques entre si, amb les competències específiques
+                d'altres àrees i amb les competències clau.
+
+                3.1. Relacions o connexions entre les competències específiques.
+
+          La CE1 Resolució de problemes és l'activitat principal durant el procés d'ensenyament i aprenentatge
+de les matemàtiques. Aquesta competència està connectada amb la resta de competències específiques, ja
+que no s'entén la resolució de problemes que donen resposta a situacions reals sense un trasllat de la situació
+problemàtica real al món abstracte de la matemàtica, com preveu la CE3 Modelització, ni sense aplicar les
+relacions i procediments matemàtics que desenvolupen el raonament matemàtic al qual es refereix la CE2
+Raonament i connexions. La resolució de problemes ha de desenvolupar-se utilitzant el simbolisme matemàtic
+correcte que és el focus de la CE5 Representacions, i el procés de resolució i els resultats han de comunicar-
+se i argumentar-se com indica la CE6 Comunicació. Així mateix, quan en la resolució del problema s'utilitzen
+processos repetitius i/o recursius, ha d'acudir-se a la implementació d'algorismes, actuació recollida en la CE4
+Pensament computacional. La resolució de problemes referits als àmbits social i personal més pròxims a
+l'alumnat el portarà a valorar la influència i rellevància que històricament han tingut les matemàtiques en les
+situacions més significatives de la nostra evolució com a societat i connectarà així amb la CE7 Rellevància
+social i cultural. A més, en la resolució de problemes intervé la gestió de les emocions i actituds implicades,
+acceptant la incertesa i les dificultats per a trobar una solució, CE8.
+
+          La CE2 Raonament i connexions es relaciona de manera inequívoca amb els processos de
+modelització que es treballen una vegada matematitzada la situació, i es relaciona per tant directament amb
+la CE3 Modelització. El reconeixement de patrons i estructures associat a aquesta competència fa que estiga
+connectada amb la CE4 Pensament computacional, mentre que no és possible construir contingut matemàtic
+sense el domini de la simbologia, raó per la qual és evident la connexió amb la CE5 Representacions. La CE8
+Autoregulació és també essencial en els processos de raonament matemàtic.
+
+           La construcció en matemàtiques mitjançant la utilització correcta de la simbologia específica prové
+en multitud d'ocasions de l'abordatge de situacions problemàtiques reals. D’aquesta manera, s'estableix una
+connexió immediata entre aquesta competència específica i les competències CE1 Resolució de problemes i
+CE3 Modelització. No és possible la construcció d'objectes matemàtics sense utilitzar els processos
+d'exploració, formulació, comprovació i refutació propis de la CE2 Raonament i connexions. Així mateix, la
+implementació d’algoritmes a través de la utilització d'eines tecnològiques per a la construcció matemàtica
+connecta aquesta competència amb la CE4 Pensament computacional. Per a pensar matemàtiques i
+construir-les, cal comunicar-les, i això connecta amb la CE6 Comunicació, a través de l'exercici de la qual
+s'argumentarà, utilitzant llenguatge específicament matemàtic, sobre els pensaments i objectes construïts.
+
+          La comunicació de contingut i raonaments matemàtics (CE6 Comunicació, CE2 Raonament i
+connexions) és transversal a totes les competències específiques, però es relaciona directament amb la CE5
+Representacions perquè requereixen de sistemes de representació com a vehicle de comunicació d'idees
+matemàtiques. Abordar situacions reals requereix comprendre informació i explicar els resultats obtinguts
+interpretant el contingut matemàtic en el context real, per la qual cosa la CE6 Comunicació també manté
+igualment una estreta relació amb les competències CE1 Resolució de problemes i CE3 Modelització.
+
+          3.2. Relacions o connexions amb competències específiques d'altres àrees.
+
+           Les matemàtiques tracten sobre estructures i les relacions entre aquestes, i es caracteritzen per la
+precisió i el rigor lògic. Per aquesta raó, són el llenguatge de la ciència, que aspira a quantificar o, almenys, a
+descriure amb precisió els fenòmens físics i naturals, valent-se de models en els quals les matemàtiques són
+l'eina per a aconseguir aquesta descripció precisa de la realitat que permet contrastar hipòtesis en forma de
+dades i efectuar prediccions. És natural, per tant, que les connexions més directes i nombroses de les CE de
+l’àrea de matemàtiques es donen amb les ciències i amb la tecnologia. De fet, les sigles STEM agrupen totes
+aquestes àrees en un gran àmbit d'actuació i/o influència. En aquesta etapa, les ciències i la tecnologia formen
+part de l'àrea de coneixement del medi.
+          En conseqüència, la CE1, la CE2 i la CE5 de matemàtiques es vinculen explícitament amb l'àrea de
+coneixement del medi, en particular amb la CE3 (“Plantejar i respondre preguntes sobre qüestions de la vida
+quotidiana relatives a l’entorn natural, social i cultural aplicant, amb suport i guia, el raonament científic i
+l'experimentació”), perquè resoldre problemes científics abordables en l'àmbit escolar implica, sovint, resoldre
+problemes matemàtics (CE1) inherents a la quantificació del fenomen experimentat; per exemple, utilitzar un
+mesurament apropiat, realitzar conversions entre unitats de mesura, etc. A més, el disseny experimental i la
+presa de dades sovint requereixen raonament matemàtic (CE2) i ser representats matemàticament (CE5).
+
+          Les CE3 i CE4 de matemàtiques es vinculen directament amb la competència específica 2 de l'àrea
+de coneixement del medi (“Desenvolupar projectes cooperatius delimitats i realitzar investigacions senzilles
+de naturalesa interdisciplinària amb la guia i ajuda del docent, utilitzant estratègies elementals pròpies del
+pensament de disseny i computacional”). La utilització d'eines matemàtiques per a interpretar fenòmens
+abordats per les ciències naturals i socials permet contrastar informació i desenvolupar el pensament crític. A
+més, la modelització matemàtica forma part del procés de construcció de nombrosos models científics. El
+pensament computacional (CE4 de matemàtiques) és un instrument que ajuda a resoldre problemes humans
+i a desenvolupar projectes i investigacions de naturalesa interdisciplinària.
+
+          A més d'aquestes relacions estretes dins de l'àmbit STEM, les matemàtiques són presents en totes
+les àrees de l'activitat humana, en la mesura que necessiten una descripció precisa –de tipus numèric,
+geomètrica o estadística– del fenomen o aspecte de la realitat abordats. Per això, la CE2, relativa al raonament
+matemàtic i les seues connexions, la CE3, relativa a la construcció de models matemàtics que permeten
+interpretar qualsevol tipus de fenomen real, i la CE5, relacionada amb la representació matemàtica, es
+relacionen amb les ciències socials, les humanitats i les arts. En particular, la utilització de la geometria és
+essencial per a desenvolupar el llenguatge de l’Educació Plàstica, Visual i Audiovisual. Les competències
+CE5 i CE6 de matemàtiques garanteixen utilitzar i comunicar de manera adequada representacions
+geomètriques i el sentit de la mesura en context que permeten comprendre els elements configuratius,
+formats, tècniques i materials de les expressions artístiques. De fet, s'ha proposat el terme STEAM per a
+incloure les arts en aquest gran àmbit d'actuació en què les matemàtiques tenen un paper rellevant.
+
+          3.3. Relacions o connexions amb les competències clau
+
+     CCL  CP  CMCT  CD  CPSAA  CC  CE  CCEC
+
+CE1           X     X   X      X   X
+
+CE2           X     X                  X
+
+CE3           X                X   X   X
+
+CE4           X     X              X
+
+CE5  X        X     X   X
+
+CE6  X    X   X                    X
+
+CE7           X         X      X       X
+
+CE8           X         X          X
+          Competències clau del perfil d'eixida de l'alumnat al final de l'educació bàsica:
+
+                • CCL: Competència en comunicació lingüística.
+                • CP: Competència plurilingüe.
+                • CMCT: Competència matemàtica i competència en ciència i tecnologia.
+                • CD: Competència digital.
+                • CPSAA: Competència personal, social i d'aprendre a aprendre.
+                • CC: Competència ciutadana.
+                • CE: Competència emprenedora.
+                • CCEC: Competència en consciència i expressió culturals.
+
+          La CE1 té una forta connexió amb la competència personal, social i d'aprendre a aprendre (CPSAA),
+perquè la complexitat de la resolució d'un problema implica que l'alumnat reflexione sobre en quina fase del
+procés està i planifique, faça un seguiment i avalue la seua activitat. La resolució de problemes, amb un sentit
+crític, és indispensable per a exercir la competència ciutadana (CC). En la competència digital (CD) la
+resolució de problemes matemàtics té un paper instrumental destacat. Convé destacar també la resolució de
+problemes matemàtics com una concreció de la resolució de problemes, competència transversal necessària
+per a desenvolupar la competència emprenedora (CE).
+
+          La CE2 es relaciona amb la competència en consciència i expressió culturals (CCEC), perquè el
+pensament matemàtic és una forma d'expressió cultural. A més, els processos del raonament matemàtic
+connecten amb la competència clau personal, social i d'aprendre a aprendre (CPSAA), en la mesura en què
+l'alumnat ha de reflexionar sobre quan i com aplicar-los en determinades situacions d'aprenentatge, valorant
+els propis processos i també els dels seus companys. El raonament matemàtic és la base del pensament
+computacional i sustenta, per tant, la competència digital (CD) de l'alumnat.
+
+          La competència específica en modelització (CE3) consisteix a aplicar les matemàtiques per a reforçar
+i justificar arguments en tot tipus de contextos reals, en tots els àmbits de la realitat social i natural: científics,
+tecnològics i digitals, econòmics, sociològics, artístics i culturals. Per tant, es relaciona directament amb la
+competència ciutadana (CC) i amb la competència emprenedora (CE), a més de fer-ho amb la competència
+en consciència i expressió culturals (CCEC).
+
+          La competència específica en pensament computacional (CE4) es vincula directament a la
+competència clau en digitalització (CD). A més, és una eina necessària per a la competència emprenedora
+(CE).
+
+          La CE5, que implica utilitzar diversos registres de representació i realitzar conversions d'un sistema
+de símbols a un altre, es relaciona amb la competència en comunicació lingüística (CCL), perquè aquests
+sistemes vehiculen la comunicació. A més, ja que el llenguatge digital està vehiculat per registres de
+representació pròxims als propis del llenguatge matemàtic, la CE5 també es vincula amb la competència
+digital (CD). La traducció d'un mateix contingut a diferents maneres de representació implica habilitats
+metacognitives que relacionen CE5 amb la competència a aprendre a aprendre (CPSAA).
+
+          La competència en comunicació matemàtica (CE6) forma part de la competència clau en comunicació
+lingüística (CCL). A més, les matemàtiques conformen un llenguatge específic que es relaciona amb diferents
+llengües, per la qual cosa la CE6 es relaciona amb la competència plurilingüe (CP). Comunicar idees usant
+les matemàtiques és, a més, una habilitat necessària per a la competència emprenedora (CE).
+
+          La CE7, que es relaciona amb el paper que les matemàtiques tenen en la realitat i en la pròpia
+experiència de l'alumnat, està directament vinculada amb la competència en consciència i expressió culturals
+(CCEC) i amb la competència personal, social i d’aprendre a aprendre (CPSAA).
+
+          Finalment, la competència en autoregulació i gestió de les emocions i actituds (CE8) forma part, de
+manera específica, de la competència personal, social i d'aprendre a aprendre (CPSAA). A més,
+l'autoregulació i la gestió emocional són indispensables per a exercir la competència emprenedora (CE).
+          4. Sabers bàsics de l'àrea de matemàtiques.
+
+                4.1. Introducció.
+
+          El desenvolupament de la civilització al llarg de la història ha requerit els sabers necessaris per a la
+solució de diferents desafiaments i situacions problemàtiques. Aquestes diferents situacions han provocat a
+cada moment històric la necessitat de descobrir o crear el coneixement matemàtic necessari per al seu
+abordatge i/o solució.
+
+          En l’actualitat, igual que en altres períodes històrics, és necessari vehicular l'acompliment de les
+competències matemàtiques específiques ací proposades mitjançant els sabers essencials que permeten
+afrontar els reptes i desafiaments del nostre segle. Així, la necessitat de comptar (nombre de components
+d'una societat o nucli poblacional, moviments migratoris, mobilitat, estocs d'aliments, monedes i bitllets, etc.)
+fa imprescindible el domini de les estructures numèriques i les seues operacions. L'evolució social de la qual
+formen part, per exemple, el concepte de propietat privada, les comunicacions socials, les construccions
+emblemàtiques o per a la vida diària, el transport de mercaderies, etc. no podrien desenvolupar-se sense els
+coneixements geomètrics i de la mesura que es proposen com a sabers bàsics en aquest document. I, si de
+l'adaptació tecnològica parlem, un coneixement mínim del significat d'algorisme aconsella la inclusió d'un bloc
+de pensament computacional. També és rellevant, en termes de predicció i organització social, el paper de
+l'estadística i la probabilitat en els estudis sobre esperança de vida, protecció social i gestió de dades.
+
+          En aquesta etapa, podem diferenciar i categoritzar els sabers bàsics atenent els diferents sentits
+intrínsecament matemàtics: numèric i de les operacions, de la mesura, espacial i geomètric, d'incertesa i
+probabilitat, d'anàlisi de dades i estadística, i de pensament computacional. Aquests sentits fan referència al
+desenvolupament d'habilitats associades a les formes de raonament lògic, a la seua rellevància social i
+cultural, al càlcul, a la representació, a l'ús adequat d'elements matemàtics i les seues propietats, a més de a
+les estratègies i eines que en cada cas s’hi requerisquen. Per això, aquests sentits representen l'estructura
+que vertebra i permet desenvolupar totes i cadascuna de les huit competències específiques anteriorment
+descrites. En cadascun d'aquests sentits matemàtics s'afigen, a més, habilitats i sabers relacionats amb el
+domini afectiu i socioemocional, és a dir, amb la gestió de les emocions, amb la motivació i amb l'autoregulació
+de l'atenció i dels processos d’aprenentatge específics de l'àrea de matemàtiques.
+
+          En cadascun dels sentits, al seu torn, s'assenyalen els continguts o grups de continguts
+l'aprenentatge, articulació i mobilització dels quals demanen l'adquisició i el desenvolupament de les
+competències específiques de l'Educació Primària. La seqüència dels dits continguts es presenta per cicles,
+ajustant-se al moment de l'etapa en el qual es considera més indicat treballar-los, atenent el desenvolupament
+competencial esperat.
+
+          4.2. Bloc 1.
+
+          El Sentit numèric i de les operacions fa referència als sabers bàsics relacionats amb la comprensió
+del significat del concepte de nombre, la seua representació, simbolització i magnitud, a més de l'ús adequat
+d’aquestes en les relacions, propietats i operacions bàsiques per a aquesta etapa.
+
+          Associats al sentit numèric s'estableixen, per a tota l'etapa, tres blocs de continguts: nombres naturals,
+operacions i les seues propietats, i decimals i fraccions.
+
+               SABERS BÀSICS          1r cicle  2n cicle  3r cicle
+
+                                      (cursos 1r i 2n) (cursos 3r i 4t) (cursos 5é i 6é)
+
+                              NOMBRES NATURALS
+
+Recompte dels elements d'un conjunt.  X
+
+Cardinalitat.
+Introducció a la desena.                            X
+
+Descomposicions i estructura del nombre,            X
+
+patrons i regularitats (parell, imparell).
+
+Comprensió del sistema de numeració                 X         x
+
+decimal: composició i descomposició en
+
+unitats, desenes, i centenes.
+
+Lectura, escriptura i representació de                        x         x
+numerals superiors al miler.
+
+Estratègies de representació. Recta                 x         x
+
+numèrica. Comparació i ordenació.
+
+Múltiples i divisors. Nombres primers i                       x         x
+compostos. Propietats i criteris de divisibilitat.
+
+Introducció al número negatiu: comparació i                             x
+
+ordenació.
+
+Contribució de la humanitat al                      x         x         x
+
+desenvolupament numèric, entés aquest com
+
+una necessitat bàsica. Usos socials del sentit
+
+numèric.
+
+Tècniques cooperatives per a estimular el           x         x         x
+
+treball en equip relacionat amb el sentit
+
+numèric i l'aritmètica.
+
+            SABERS BÀSICS                           1r cicle  2n cicle  3r cicle
+
+                                                    (cursos 1r i 2n) (cursos 3r i 4t) (cursos 5é i 6é)
+
+            OPERACIONS AMB NATURALS I LES SEUES PROPIETATS
+
+Significats, estratègies i representacions per a    x         x
+
+la suma (afegir, combinar, comparar) i la resta
+
+(detracció, diferència, escala ascendent,
+
+escala descendent).
+
+Doble i meitat. Iniciació al significat de la       x
+
+multiplicació (suma reiterada, producte
+cartesià) i de la divisió (repartiment,
+agrupació).
+
+Significats, estratègies i representacions per al            x         x
+producte i el quocient (suma repetida, partició,
+producte cartesià, diagrama d'arbre).
+
+Significat i ús de la igualtat i les desigualtats  x         x         x
+
+en relacions i expressions aritmètiques
+
+senzilles.
+
+Potències i la seua relació amb el producte.                           x
+
+Quadrats, cubs i potències de 10.
+
+Relacions i propietats de les operacions.                    x         x
+Propietat commutativa, associativa i
+distributiva.
+
+Càlcul mental. Estimació i aproximació.            x         x         x
+
+Contribució de la humanitat al                     x         x         x
+
+desenvolupament numèric incorporant la
+
+perspectiva de gènere.
+
+Autonomia i tolerància a la frustració enfront     x         x         x
+
+de dificultats relacionades amb les propietats
+
+numèriques.
+
+             SABERS BÀSICS                         1r cicle  2n cicle  3r cicle
+
+                                                   (cursos 1r i 2n) (cursos 3r i 4t) (cursos 5é i 6é)
+
+                                   FRACCIONS I DECIMALS
+
+La fracció com a mesura i com a relació entre                x         x
+les parts i el tot.
+                                                             x         x
+Fracció decimal. Nombres decimals (dècimes,
+centèsimes i mil·lèsimes). Operacions                                  x
+bàsiques.
+
+Aproximació i arredoniment de nombres
+decimals.
+Càlcul mental: multiplicació i divisió de                    x         x
+decimals per 10, 100, 1000.
+                                                             x         x
+Comparació i ordenació de nombres naturals i
+fraccions.                                                             x
+
+Correspondència entre fraccions decimals i                             x
+percentatges.
+
+Fraccions equivalents.
+
+Proporcionalitat directa.                                              x
+
+Introducció a la suma i resta de dues fraccions.                       x
+
+Valoració de situacions en les quals és útil l'ús  x         x         x
+
+de fraccions i decimals.
+
+Estratègies de millora en la perseverança en       x         x         x
+
+la resolució de problemes aritmètics.
+
+          4.3. Bloc 2.
+
+          El Sentit de la mesura està associat a la capacitat de comprendre i comparar magnituds, a les
+tècniques i estratègies de mesurament, al càlcul i a l'estimació de resultats obtinguts triant les unitats
+apropiades.
+
+          En aquest bloc s'atén el concepte de magnitud, partint de les magnituds que resulten més
+significatives, en contextos reals, com ara monedes, temps, temperatura, longitud, massa, superfície, etc. Es
+desenvoluparan habilitats i estratègies que van d’allò informal (ús d'unitats no estàndard, experimentació, etc.)
+a allò formal, incorporant criteris de fiabilitat i precisió.
+
+SABERS BÀSICS                                      1r cicle  2n cicle  3r cicle
+
+                                                   (cursos 1r i 2n) (cursos 3r i 4t) (cursos 5é i 6é)
+
+ESTIMACIÓ I MESURAMENT. MAGNITUDS I UNITATS.
+
+Unitats no convencionals per a mesurar i           x
+
+estimar les dimensions dels objectes
+
+pròxims i del propi cos.
+Estratègies de mesura i estimació de temps,     x  x
+
+longitud, capacitat, volum i massa mitjançant
+
+unitats no convencionals en situacions reals.
+
+Elecció i utilització dels instruments             x  x
+adequats per a mesurar amb precisió
+diferents magnituds.
+
+Experimentació i conceptualització de           x  x  x
+
+magnituds: temps, longitud, angles, massa,
+
+superfície, capacitat i volum, temperatura i
+
+monedes.
+
+Unitats de magnitud convencionals. Relació,     x  x  x
+
+comparació directa, ordenació i conversió
+
+entre unitats de la mateixa magnitud.
+
+Valoració de resultats en mesuraments i
+
+estimacions realitzades.
+
+Contribució de la humanitat a la unificació de  x  x  x
+
+sistemes de mesura i magnituds, i valoració
+
+dels seus usos socials i científics.
+
+Tècniques cooperatives per a estimular el       x  x  x
+
+treball en equip relacionat amb la mesura i
+
+estimació de magnituds.
+
+          4.4. Bloc 3.
+
+          En aquesta etapa, aquest sentit està associat a la capacitat d'identificar i analitzar els elements bàsics
+de formes i figures, utilitzant el vocabulari adequat. També es relaciona amb la capacitat de raonar a partir
+d'aquests elements geomètrics bàsics, de transformar-los o de realitzar càlculs sobre les seues mesures.
+
+          Abordar aquest bloc de continguts permet que l'alumnat puga explorar, classificar, representar i
+descriure l'entorn físic des d'una perspectiva matemàtica i gradualment més formal, amb la possibilitat d'iniciar-
+lo en la manipulació i l’ús d’eines tecnològiques.
+
+          D'altra banda, els continguts associats al sentit espacial i geomètric possibiliten l'acostament a altres
+disciplines, com l'art i la tecnologia. Apreciar la bellesa de les expressions plàstiques implica també que es
+pose de manifest la importància del desenvolupament de la creativitat en l'àmbit científic.
+             SABERS BÀSICS                       1r cicle       2n cicle  3r cicle
+
+                                                 (cursos 1r i 2n) (cursos 3r i 4t) (cursos 5é i 6é)
+
+                                    GEOMETRIA PLANA I ESPACIAL
+
+Localització i visualització d'objectes.         x
+
+Orientació bàsica en l'espai (dreta, esquerra,
+
+davant, darrere, dalt, baix, etc.)
+
+Localització d'objectes (punts) sobre els                       x         x
+eixos, el pla cartesià. Localització en mapes
+a partir de punts de referència, inclosos els
+punts cardinals.
+
+Elements bàsics: vèrtexs i costats. Polígons     x              x         x
+
+regulars.
+
+Poliedres regulars. Vocabulari bàsic. Relació                   x         x
+entre vèrtexs, arestes i cares.
+
+Línies rectes i corbes.                          x              x
+
+Intersecció, paral·lelisme i perpendicularitat.                 x         x
+Posicions relatives de rectes en el pla.
+
+Identificació i descripció de diferents          x              x         x
+
+polígons. Composició i descomposició.
+
+Càlcul de perímetres i àrees de polígons.                       x         x
+
+La circumferència i el cercle. Elements i        x              x         x
+
+propietats.
+
+Longitud de la circumferència i àrea del                                  x
+
+cercle. Número pi.
+
+Angles, mesurament i classificació d'angles.                    x         x
+Classificació de triangles.
+Transformacions: girs, translacions i                     x         x
+simetries en situacions reals.
+                                                                    x
+Semblança: identificació i generació a partir
+de patrons.                                               x         x
+
+Concavitat i convexitat de figures planes.
+
+Desenvolupament i classificació de prismes                          x
+
+i piràmides.
+
+Programes informàtics de geometria              x         x         x
+
+dinàmica.
+
+Desenvolupament i usos de la geometria,         x         x         x
+
+tant a nivell pràctic com estètic, incorporant
+
+la perspectiva de gènere.
+
+Estratègies d'aprenentatge de conceptes         x         x         x
+
+geomètrics i acceptació de dificultats.
+
+          4.5. Bloc 4.
+
+          En aquesta etapa, el sentit de la incertesa i probabilitat implica, d'una banda, la capacitat d'entendre
+les situacions o fenòmens de naturalesa estocàstica i de la probabilitat com a mesura de la incertesa, i d’una
+altra, realitzar estimacions i transmetre de manera comprensible els resultats obtinguts utilitzant les eines,
+estratègies i el vocabulari més apropiats en cada cas.
+
+          Les diferents temàtiques susceptibles de tractament estocàstic afavoreixen una aproximació
+experimental a les matemàtiques. En aquest primer estadi de l'estudi de la probabilitat resulta crucial l'ús de
+taules i diagrames per al desenvolupament de les diferents estratègies que faciliten la comprensió i la presa
+de decisions a l'hora de resoldre un problema de context real.
+
+SABERS BÀSICS                                   1r cicle  2n cicle  3r cicle
+
+                                                (cursos 1r i 2n) (cursos 3r i 4t) (cursos 5é i 6é)
+
+                           INCERTESA I PROBABILITAT
+
+Concepte de situació aleatòria i situació          x      x            x
+
+determinista. Incertesa. Contribució de la
+
+humanitat al coneixement de les lleis de
+
+l'atzar i la incertesa.
+Idea intuïtiva de probabilitat: ocorre sempre,  x         x
+
+moltes vegades, algunes vegades, poques
+
+vegades, mai.
+
+Concepte de succés i de succés elemental.                 x         x
+
+Espai mostral en experiments aleatoris                    x         x
+simples senzills: concepte i determinació.
+
+Ús de taules de contingència i diagrames                            x
+
+d'arbre per a obtindre l'espai mostral en
+
+experiments compostos senzills.
+
+Concepte de probabilitat com a mesura de la                         x
+
+possibilitat que ocórrega un determinat
+
+succés en un experiment aleatori senzill.
+
+Estimació de probabilitats a partir de                    x         x
+l’experimentació i simulació.
+
+Regla de Laplace en successos                                       x
+
+equiprobables.
+
+Relació entre la Regla de Laplace i                                 x
+
+l'estimació de probabilitats en experiments
+
+senzills.
+
+Gestió de les emocions i utilització            x         x         x
+
+d'estratègies que permeten afrontar la
+
+incertesa.
+
+          4.6. Bloc 5.
+
+          En aquest bloc s'aborda la recollida, anàlisi i representació de la informació (mitjans de comunicació,
+xarxes socials, enquestes, etc.). L'anàlisi estadística de dades permet utilitzar la informació de manera crítica,
+precisa i rigorosa.
+
+          En aquest bloc adquireix especial rellevància la transcripció de problemes o situacions senzilles i
+pròximes al llenguatge gràfic i simbòlic propis de l'estadística. L'elaboració i interpretació de diagrames de
+barres, histogrames, etc. faciliten que es produïsca una anàlisi i un ús crític de la informació, al mateix temps
+que permet centrar l'aprenentatge en la resolució de problemes.
+
+            SABERS BÀSICS                       1r cicle  2n cicle  3r cicle
+
+                                                (cursos 1r i 2n) (cursos 3r i 4t) (cursos 5é i 6é)
+                          ANÀLISI DE DADES I CÀLCULS ESTADÍSTICS
+
+Elaboració de preguntes i enquestes              x  x             x
+
+senzilles per a obtindre dades.
+
+Variables qualitatives i quantitatives           x  x             x
+
+discretes: recompte de casos i construcció
+
+de taules de freqüència.
+
+Elaboració de diagrames de barres.               x  x
+
+Representacions (pictogrames, diagrames          x  x             x
+
+de sectors, polígons de freqüències…). Ús
+
+d’eines tecnològiques per a generar
+
+diferents tipus de representacions.
+
+Interpretació de dades a partir de diferents     x  x             x
+
+representacions (taules, gràfiques), i anàlisis
+
+en casos senzills.
+
+Significat i interpretació de les principals        x             x
+mesures centrals (moda, mediana i media
+aritmètica).
+
+Significat i interpretació de la idea de            x             x
+dispersió a partir de representacions
+gràfiques. Rang.
+
+Diferenciació entre població i mostra.                            x
+
+Comparació entre mostres de la mateixa
+
+població.
+
+Introducció a les variables quantitatives                         x
+
+contínues. Histogrames.
+
+Contribució de la humanitat al                   x  x             x
+
+desenvolupament i evolució de l'estadística i
+
+tractament de dades, incorporant la
+
+perspectiva de gènere.
+
+Respecte, sensibilitat i tolerància davant       x  x             x
+
+diferents interpretacions sobre resultats
+estadístics, mostrant rebuig davant actituds
+discriminatòries.
+
+          4.7. Bloc 6.
+
+          El Pensament computacional permet desenvolupar tècniques i estratègies per a obtindre solucions
+eficients utilitzant seqüències d'ordres. En l'Educació Primària, aquest sentit matemàtic s'aplica en la
+identificació de regularitats, la creació d’algoritmes senzills o l'exploració de diferents opcions i estratègies
+davant una situació determinada.
+
+          Convé destacar la importància de l'ús de les TIC i la programació mitjançant blocs en què es posen
+de manifest habilitats associades al reconeixement, ús de patrons per al disseny i l’anàlisi de solucions més
+complexes.
+
+            1.er ciclo                           2.º ciclo    3.er ciclo   1.er ciclo
+            (1.º y 2.º)                          (3.º y 4.º)  (5.º y 6.º)  (1.º y 2.º)
+
+                              PENSAMENT COMPUTACIONAL
+
+Identificació de regularitats, interpretació de  x            x
+
+rutines o instruccions amb passos ordenats.
+
+Predicció de termes en seqüències de
+
+figures o imatges o nombres.
+
+Identificació de regularitats i predicció de                  x            x
+termes de seqüències numèriques. Creació
+de patrons.
+
+Interpretació, modificació i creació                          x            x
+d'algorismes senzills.
+
+Interpretació i disseny d'algorismes senzills                              x
+
+en fulls de càlcul i mitjançant programació
+
+per blocs.
+
+Cerca i anàlisi d'estratègies en jocs            x            x            x
+
+abstractes sense informació oculta ni
+
+presència d'atzar: escacs, dames, etc.
+
+Simbolització i obtenció de dades senzilles      x            x            x
+
+desconegudes en expressions amb igualtats.
+Valoració de l'evolució del pensament         x  x  x
+
+computacional i la seua repercussió social,
+
+incorporant la perspectiva de gènere.
+
+Treball cooperatiu en situacions que          x  x  x
+
+involucren disseny i aplicació d'algorismes.
+
+Estratègies d'aprenentatge específiques del
+
+pensament computacional.
+
+          5. Situacions d'aprenentatge.
+
+          Les situacions d'aprenentatge, vinculades directament amb els “Principals reptes del segle XXI” són
+aquelles que impliquen la realització d'un conjunt d'activitats pròximes a l'alumnat, vinculades a situacions
+reals que permeten integrar tots els elements que constitueixen el procés d'ensenyament i aprenentatge
+competencial. És a dir, les situacions d'aprenentatge plantegen tasques en les quals l'alumnat mobilitza un
+conjunt de competències i recursos i sabers per a resoldre-les. La capacitat d’actuació de l'alumnat en
+enfrontar-se a una situació d'aprenentatge requereix, en efecte, mobilitzar tot tipus de sabers implicats en les
+competències específiques: conceptes, procediments, i actituds i valors.
+
+          En aquesta etapa, l'adquisició i el desenvolupament de les competències específiques se cenyeix a
+l'àmbit personal i educatiu, fins a arribar a l'àmbit social pròxim. En el cas de les matemàtiques, les situacions
+d'aprenentatge han de proposar un problema real o potencial, les tasques del qual impliquen les capacitats i
+les actuacions referides en les competències específiques: resoldre problemes, raonar matemàticament i
+establir connexions, modelitzar i aplicar a la realitat les eines matemàtiques, implementar algorismes i
+mètodes del pensament computacional, manejar simbolisme matemàtic i les seues representacions, i
+comunicar amb llenguatge matemàtic i sobre les matemàtiques.
+
+          Alguns criteris per a dissenyar situacions d'aprenentatge des d'aquesta perspectiva són els següents:
+
+     a) Les situacions d'aprenentatge han de plantejar una problemàtica que es corresponga amb una
+          situació real pròxima a l'alumnat que servisca per a desenvolupar més d'una competència.
+
+     b) El disseny de situacions d'aprenentatge específiques en l'àrea de matemàtiques ha d'involucrar
+          conceptes, procediments i actituds vinculats amb els sentits matemàtics propis de l'etapa: sentit
+          espacial, sentit de la mesura, sentit numèric, pensament computacional i sentit de l'estadística i la
+          probabilitat.
+
+     c) Les situacions d'aprenentatge, en la mesura del possible, han de ser obertes i poder graduar-se. És
+          a dir, han de ser prou flexibles i rellevants per a controlar el grau d'accessibilitat i aprofundiment que
+          permeta el seu ús adaptat als diferents nivells de l'alumnat. En particular, les situacions
+          d'aprenentatge han de contribuir a erradicar idees falses preconcebudes relacionades amb el gènere
+          o el talent innat.
+
+     d) Les situacions d'aprenentatge han d'incitar a la reflexió i promoure la competència clau d'aprendre a
+          aprendre i un enfocament crític.
+
+     e) Les situacions d'aprenentatge han de permetre un tractament interdisciplinari i connectar amb altres
+          experiències d'aprenentatge matemàtic pròximes a l'alumnat. Des de l'àmbit personal i educatiu
+          s'hauran d'abordar temes d'interés que permeten aproximar-se als principals reptes del segle XXI. El
+          disseny de les situacions d'aprenentatge ha de permetre que siguen abordades tant de manera
+          individual com grupal, incorporant un enfocament inclusiu i tècniques de treball cooperatiu o
+          col·laboratiu.
+
+     f) El disseny de les situacions d'aprenentatge inclourà situacions en les quals es coneix tota la
+          informació necessària per a la seua resolució, però també unes altres en les quals es requerisca
+     completar, de manera senzilla, alguna informació absent.
+
+g) El disseny de les situacions d'aprenentatge ha de preveure formats variats: enunciats verbals amb o
+     sense il·lustracions de suport, enunciats amb incorporació de diferents fonts d'informació i enunciats
+     amb alguns gràfics senzills.
+
+          6. Criteris d’avaluació
+
+                6.1. Competència específica 1.
+          Resoldre problemes relacionats amb situacions reals de l'entorn personal, social i educatiu utilitzant
+estratègies informals, representacions i conceptes concrets.
+
+             4t curs EP                                   6é curs EP
+
+1.1. Identificar la informació rellevant i    1.1. Identificar la informació de l'enunciat
+
+irrellevant d'un problema o situació problemàtica de d'un problema o situació plantejada, relacionant-la
+
+l'entorn personal i social de l'alumnat que permeta el amb altres situacions anàlogues del seu entorn
+
+seu abordatge i resolució.                    pròxim i amb els coneixements i procediments
+
+                                              adquirits.
+
+1.2. Desenvolupar estratègies informals per   1.2. Utilitzar i aplicar estratègies formals
+
+a obtindre la solució correcta en un problema o bàsiques aplicant els conceptes i procediments que
+
+situació problemàtica i sistematitzar procediments li permeten obtindre la solució correcta en un
+
+informals de resolució a nivell inicial.      problema o situació problemàtica.
+
+1.3. Comprovar si la solució obtinguda en un  1.3. Reflexionar sobre la coherència i
+
+problema compleix les condicions o exigències de l'adequació de la solució obtinguda al problema
+
+l'enunciat.                                   plantejat.
+
+1.4. Extraure conseqüències de la situació    1.4. Connectar la situació problemàtica amb
+
+problemàtica plantejada i obtindre eines o estratègies el seu entorn personal, educatiu i social, i extraure
+
+aplicables en l'àmbit personal o educatiu.    conclusions que li permeten plantejar problemes,
+
+                                              tant del mateix com d'altres contextos.
+
+          6.2. Competència específica 2.
+
+          Observar, formular, explorar i comprovar conjectures senzilles sobre propietats i relacions
+matemàtiques concretes, reconeixent i connectant procediments, patrons, regularitats i estructures.
+                     4t curs EP                                                  6é curs EP
+
+2.1. Comprovar conjectures sobre relacions                 2.1. Realitzar conjectures matemàtiques a
+
+matemàtiques que permeten desenvolupar de partir de l’observació o experimentació de casos
+
+manera intuïtiva nou contingut matemàtic de concrets, i formalitzar els conceptes i procediments
+
+naturalesa numèrica, mètrica, espacial, geomètrica o implicats.
+
+estocàstica.
+
+2.2. Comprovar relacions matemàtiques en –                 2.2. Connectar conceptes i relacions
+
+i mitjançant– els procediments de raonament matemàtiques en –i mitjançant– els procediments de
+
+matemàtic intuïtiu.                                        raonament matemàtic.
+
+2.3. Reconéixer patrons o regularitats,                    2.3. Analitzar i justificar patrons o
+
+construint intuïtivament contingut matemàtic de regularitats, construint contingut matemàtic de
+
+naturalesa numèrica, mètrica, espacial, geomètrica o naturalesa numèrica, mètrica, espacial, geomètrica o
+
+estocàstica.                                               estocàstica.
+
+2.4. Comparar diferents procediments                       2.4. Utilitzar i comparar amb fluïdesa i de
+
+matemàtics relatius al càlcul, la mesura, el sentit manera flexible diferents procediments matemàtics
+
+espacial i geomètric, el tractament de dades o els relatius al càlcul, la mesura, el sentit espacial i
+
+processos aleatoris, i utilitzar-los de manera flexible. geomètric, el tractament de dades o els processos
+
+                                                           aleatoris.
+
+          6.3. Competència específica 3.
+
+          Construir models matemàtics concrets i utilitzar conceptes i procediments matemàtics senzills per a
+abordar i interpretar situacions, fenòmens i problemes rellevants en l'àmbit personal, educatiu o social.
+
+                     4t curs EP                                          6é curs EP
+
+3.1. Identificar el contingut i les eines matemàtiques     3.1. Identificar el contingut i les eines matemàtiques
+senzilles que permeten abordar situacions reals            senzilles que permeten abordar situacions reals de
+pròximes i rellevants, i així possibilitar la construcció  l'àmbit personal, educatiu i social, i així possibilitar
+de models matemàtics bàsics.                               la construcció de models matemàtics concrets.
+
+3.2. Usar models matemàtics bàsics que permeten            3.2. Treballar matemàticament sobre un model
+interpretar una situació real senzilla, i extraure’n       concret amb la finalitat d'obtindre solucions que
+conclusions.                                               permeten descriure, interpretar i extraure
+                                                           conclusions sobre una situació real.
+3.3. Comparar models matemàtics corresponents a 3.3. Identificar i justificar diferències i similituds
+
+situacions reals en contextos similars.  entre models matemàtics corresponents a
+
+                                         situacions reals en contextos similars.
+
+                                         3.4. Validar la solució obtinguda a partir d'un model
+                                         matemàtic i detectar errors bàsics en contrastar-la
+                                         amb la situació real.
+
+          6.4. Competència 4. Pensament computacional.
+
+          Construir i aplicar algorismes senzills per a afrontar situacions i resoldre problemes rellevants de
+l'àmbit personal, educatiu o social, organitzant dades, descomponent un problema en parts, reconeixent
+patrons i utilitzant eines TIC.
+
+                      4t curs EP                     6é curs EP
+
+4.1. Identificar regularitats en una seqüència de 4.1. Dissenyar i aplicar algorismes senzills mitjançant
+
+dades i predir resultats mitjançant el reconeixement codis visuals i/o eines tecnològiques bàsiques per a
+
+de patrons senzills.                     resoldre situacions problemàtiques.
+
+4.2. Interpretar i reproduir algorismes senzills 4.2. Descompondre patrons d'una certa complexitat
+
+mitjançant codis visuals.                en uns altres de més senzills utilitzant programació
+
+                                         per blocs.
+
+4.3. Aplicar algorismes senzills mitjançant codis 4.3. Utilitzar la simbologia bàsica de la programació
+visuals i/o eines tecnològiques bàsiques per a per blocs per a resoldre problemes.
+resoldre situacions problemàtiques.
+
+                                         4.4. Analitzar situacions d'una certa dificultat, valorant
+
+4.4. Analitzar situacions senzilles per a definir i diferents possibilitats i combinacions, per a definir i
+
+aconseguir estratègies guanyadores en jocs de lògica aconseguir estratègies guanyadores en jocs de lògica
+
+o jocs de tauler.                        o jocs de tauler.
+
+          6.5. Competència específica 5.
+
+          Utilitzar amb correcció el simbolisme matemàtic, fent transformacions i algunes conversions entre
+representacions iconicomanipulatives numèriques, geomètriques i gràfiques, per a descriure i analitzar
+situacions rellevants de l'àmbit personal, educatiu o social.
+4t curs EP                                                 6é curs EP
+
+5.1. Utilitzar correctament les representacions      5.1.  Manejar             les  representacions
+iconicomanipulatives d'objectes i processos
+matemàtics en situacions pròximes a l'alumnat,       iconicomanipulatives, numèriques, geomètriques i
+respectant les regles bàsiques que els regeixen.
+                                                     gràfiques d'objectes matemàtics en situacions reals
+
+                                                     de l'àmbit personal, educatiu i social, respectant les
+
+                                                     regles que els regeixen.
+
+5.2. Reconéixer representacions numèriques,          5.2. Realitzar conversions entre les representacions
+geomètriques i gràfiques que descriuen objectes      iconicomanipulatives, numèriques, geomètriques i
+matemàtics elementals en contextos pròxims a         gràfiques d'objectes matemàtics en situacions reals
+l'alumnat.                                           de l'àmbit personal, educatiu i social.
+
+5.3. Usar representacions numèriques, 5.3. Seleccionar el simbolisme matemàtic adequat
+
+geomètriques i gràfiques d'objectes matemàtics per a descriure matemàticament situacions
+
+elementals en situacions pròximes a l'alumnat.       corresponents a l'àmbit personal, educatiu i social.
+
+          6.6. Competència específica 6.
+
+          Comprendre i produir missatges orals i escrits concrets de manera informal, utilitzant un llenguatge
+matemàtic senzill per a comunicar i argumentar sobre característiques, conceptes, procediments i resultats
+relacionats amb situacions de l'àmbit personal, educatiu o social.
+
+4t curs EP                                                 6é curs EP
+
+6.1. Reconéixer i comprendre missatges orals i 6.1. Interpretar correctament missatges orals i
+escrits senzills que continguen llenguatge escrits que incloguen contingut matemàtic.
+matemàtic bàsic.
+
+6.2. Comunicar de manera informal aspectes           6.2. Comunicar aspectes relacionats amb
+relacionats amb conceptes i procediments             conceptes i procediments matemàtics, emprant
+matemàtics senzills presents en contextos pròxims    alguns elements formals bàsics.
+a l'alumnat.
+
+6.3. Justificar adequadament la validesa dels        6.3. Explicar i donar significat matemàtic a resultats
+resultats provinents de situacions problemàtiques    provinents de situacions problemàtiques de l'àmbit
+de l'entorn personal o educatiu de l'alumnat, a      personal, educatiu o social.
+través de comunicacions orals o escrites informals.
+
+6.4. Utilitzar un llenguatge matemàtic adequat per a 6.4. Argumentar i debatre, contrastant amb els seus
+defensar els raonaments de forma argumentada.             companys i les seues companyes, els propis
+                                                          raonaments, secundant-se en el llenguatge
+                                                          matemàtic.
+
+          6.7. Competència específica 7.
+
+          Identificar fenòmens i problemes importants des del punt de vista cultural i social en els quals el
+coneixement matemàtic té un paper decisiu.
+
+4t curs EP                                                6é curs EP
+
+7.1. Reconéixer el contingut matemàtic present en         7.1. Reconéixer la importància de les matemàtiques
+jocs, activitats socials i productes culturals pròxims    per a la comprensió i el tractament d'algunes
+a l'experiència de l'alumnat.                             situacions o qüestions rellevants en la vida
+                                                          quotidiana de l'alumnat.
+
+7.2. Valorar la importància de les matemàtiques per       7.2. Reconéixer el contingut matemàtic de caràcter
+a resoldre problemes de la vida quotidiana que            numèric, geomètric o espacial present en obres
+involucren aspectes com el càlcul aritmètic, la           pictòriques, dibuixos animats, còmics, elements
+incertesa, el raonament lògic, el pensament               arquitectònics, escultures i altres manifestacions
+computacional, l'ús i interpretació de dades o el         artístiques.
+sentit geomètric i espacial.
+
+7.3. Apreciar el caràcter polivalent de les               7.3. Reconéixer i valorar la importància de la
+matemàtiques, tant per la seua utilitat per a la          creació de conceptes, idees i eines matemàtiques,
+resolució de problemes en diferents àrees                 com a elements necessaris per a l'avanç social i
+(instrumentalitat), com per a afavorir el                 cultural.
+desenvolupament intel·lectual, creatiu i cultural de
+les persones.
+
+          6.8. Competència específica 8.
+
+          Gestionar les emocions i actituds implicades en els processos matemàtics, acceptant la incertesa, les
+dificultats i els errors que aquests processos comporten, i controlant l'atenció per a aconseguir un
+aprenentatge significatiu i adaptable a diferents situacions.
+
+4t curs EP                                                6é curs EP
+
+8.1. Identificar i verbalitzar emocions i actituds en la  8.1. Assumir els errors com a part del procés
+resolució de problemes o en situacions                    d'aprenentatge, sense cedir a la frustració i
+d'aprenentatge relacionades amb les                       expressant emocions i actituds positives i
+matemàtiques.                                             adequades per a la seua superació.
+8.2. Mostrar una actitud positiva i perseverant en el  8.2. Identificar els factors rellevants que intervenen
+treball matemàtic, tant individual com col·laboratiu.  en l'atenció i la comprensió, afavorint-les o
+                                                       dificultant-les, tant en el treball individual com en el
+                                                       col·laboratiu.
+
+8.3. Mostrar una disposició favorable a la superació   8.3. Gestionar els recursos cognitius i emocionals
+i millora personal i del treball en equip en la        per a reconduir el procés d'aprenentatge en
+realització de tasques i activitats relacionades amb   moments de dificultat o incertesa, així com en les
+les matemàtiques.                                      situacions de conflicte derivades del treball en
+                                                       equip.
+
+                                                       8.4. Assumir reptes i enfrontar-se a situacions
+                                                       problemàtiques des d'una perspectiva oberta,
+                                                       superant els prejudicis.
+
