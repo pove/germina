@@ -13,6 +13,7 @@ export default defineConfig({
     ...devices['Pixel 5'],
     viewport: { width: 375, height: 812 },
     locale: 'es-ES',
+    serviceWorkers: 'block', // salvo en e2e/sin-conexion.spec.ts
     channel,
   },
   webServer: {

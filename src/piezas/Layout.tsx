@@ -1,6 +1,7 @@
 import { signal } from '@preact/signals';
 import { useEffect, useRef } from 'preact/hooks';
 import catalogoJson from '../../config/catalogo.json';
+import { hayNovedades, verNovedades } from '../actualizaciones';
 import { hash } from '../enrutador';
 import { datos, hayAlmacen } from '../estado';
 import { idioma, t, tDinamico } from '../idioma';
@@ -87,6 +88,14 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
           </nav>
         )}
       </header>
+      {hayNovedades.value && (
+        <div role="status" class="aviso-global aviso-novedades">
+          <p>{t('aviso.novedades')}</p>
+          <button type="button" class="boton" onClick={verNovedades}>
+            {t('aviso.ver_ahora')}
+          </button>
+        </div>
+      )}
       {!hayAlmacen && !avisoGuardadoVisto.value && (
         <div role="status" class="aviso-global">
           <p>{t('aviso.guardado')}</p>
