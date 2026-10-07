@@ -11,6 +11,7 @@ import { traduccionAutomatica, type SemillaContenido } from '../nucleo/contenido
 import { Cargando } from '../piezas/Carga';
 import { Contenido } from '../piezas/Contenido';
 import { Icono } from '../piezas/Icono';
+import { Pictograma } from '../piezas/Pictograma';
 import { contexto } from '../piezas/Layout';
 import { TarjetaPregunta } from '../piezas/TarjetaPregunta';
 
@@ -98,14 +99,16 @@ function Detalle({ curso, verano, n, semilla, huellaActual }: Props & { semilla:
 
       <section aria-labelledby="objetivo">
         <h2 id="objetivo">{t('semana.objetivo')}</h2>
-        <p>
+        <p class="entradilla">
           <Contenido texto={semilla.objetivo} />
         </p>
       </section>
 
       {preguntaHoy && (
-        <section class="tarjeta destacada" aria-labelledby="hoy">
-          <h2 id="hoy">{t('semana.pregunta_hoy')}</h2>
+        <section class="tarjeta tarjeta-pregunta destacada" aria-labelledby="hoy">
+          <h2 id="hoy" class="antetitulo">
+            {t('semana.pregunta_hoy')}
+          </h2>
           <p class="texto-pregunta">
             <Contenido texto={preguntaHoy.texto} />
           </p>
@@ -117,14 +120,26 @@ function Detalle({ curso, verano, n, semilla, huellaActual }: Props & { semilla:
 
       {esActual && dia.tipo === 'finde' && !verano && <p class="aviso-fin-de-semana">{t('semana.fin_de_semana')}</p>}
 
-      <section class="tarjeta" aria-labelledby="reto">
-        <h2 id="reto">{t('semana.reto')}</h2>
-        <p class="titulo-reto">
-          <Icono nombre={jugado ? 'flor' : 'semilla'} />
-          <Contenido texto={semilla.reto.titulo} />
+      <section class="tarjeta tarjeta-reto" aria-labelledby="reto">
+        <div class="tarjeta-cabeza">
+          {semilla.reto.pasos[0] && (
+            <span class="burbuja">
+              <Pictograma nombre={semilla.reto.pasos[0].pictograma} />
+            </span>
+          )}
+          <div>
+            <h2 id="reto" class="antetitulo">
+              {t('semana.reto')}
+            </h2>
+            <p class="titulo-tarjeta">
+              <Contenido texto={semilla.reto.titulo} />
+            </p>
+          </div>
+        </div>
+        <p class="chips">
+          <span class="chip">{t('reto.minutos', { n: semilla.reto.minutos })}</span>
+          {jugado && <span class="estado-marcado">✓ {t('reto.jugado_marcado')}</span>}
         </p>
-        <p>{t('reto.minutos', { n: semilla.reto.minutos })}</p>
-        {jugado && <p class="estado-marcado">✓ {t('reto.jugado_marcado')}</p>}
         <a class={preguntaHoy ? 'boton' : 'boton boton-principal'} href={construir(rutaReto)}>
           {t('semana.ver_reto')}
         </a>
@@ -134,14 +149,20 @@ function Detalle({ curso, verano, n, semilla, huellaActual }: Props & { semilla:
         <section aria-labelledby="preguntas">
           <h2 id="preguntas">{t('semana.preguntas')}</h2>
           <ol class="lista-preguntas">
-            {semilla.preguntas.map((p, i) => (
-              <li key={p.id}>
-                <a href={construir({ tipo: 'pregunta', ...curso, n, p: i + 1 })}>
-                  {tDinamico(`dia.${i + 1}`)} · {t('pregunta.titulo', { n: i + 1 })}
-                </a>
-                {hechas.has(p.id) && <span class="estado-marcado"> ✓ {t('pregunta.hablado_marcado')}</span>}
-              </li>
-            ))}
+            {semilla.preguntas.map((p, i) => {
+              const hoy = esActual && dia.tipo === 'pregunta' && dia.n === i + 1;
+              return (
+                <li key={p.id} class={hoy ? 'hoy' : undefined}>
+                  <a href={construir({ tipo: 'pregunta', ...curso, n, p: i + 1 })} aria-current={hoy ? 'date' : undefined}>
+                    <span class="numero-pregunta" aria-hidden="true">
+                      {i + 1}
+                    </span>
+                    {tDinamico(`dia.${i + 1}`)} · {t('pregunta.titulo', { n: i + 1 })}
+                  </a>
+                  {hechas.has(p.id) && <span class="estado-marcado">✓ {t('pregunta.hablado_marcado')}</span>}
+                </li>
+              );
+            })}
           </ol>
         </section>
       ) : (
@@ -153,8 +174,13 @@ function Detalle({ curso, verano, n, semilla, huellaActual }: Props & { semilla:
         </section>
       )}
 
-      <section class="tarjeta" aria-labelledby="ayudar">
-        <h2 id="ayudar">{t('nav.ayuda')}</h2>
+      <section class="tarjeta tarjeta-ayuda" aria-labelledby="ayudar">
+        <div class="tarjeta-cabeza">
+          <span class="burbuja">
+            <Pictograma nombre="conversacion" />
+          </span>
+          <h2 id="ayudar">{t('nav.ayuda')}</h2>
+        </div>
         <p>
           <Contenido texto={semilla.comoAyudar} />
         </p>

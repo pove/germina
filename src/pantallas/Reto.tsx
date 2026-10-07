@@ -85,14 +85,25 @@ export function Reto({ curso, n, verano }: Props) {
           const r = c.semilla.reto;
           return (
             <>
-              <h1 tabIndex={-1}>
-                <Contenido texto={r.titulo} />
-              </h1>
-              <p class="subtitulo">{t('reto.minutos', { n: r.minutos })}</p>
+              <div class="portada portada-reto">
+                {r.pasos[0] && (
+                  <span class="burbuja">
+                    <Pictograma nombre={r.pasos[0].pictograma} />
+                  </span>
+                )}
+                <div>
+                  <h1 tabIndex={-1}>
+                    <Contenido texto={r.titulo} />
+                  </h1>
+                  <p class="chips">
+                    <span class="chip">{t('reto.minutos', { n: r.minutos })}</span>
+                  </p>
+                </div>
+              </div>
 
               <section aria-labelledby="material">
                 <h2 id="material">{t('reto.material')}</h2>
-                <ul>
+                <ul class="material">
                   {r.material.map((m, i) => (
                     <li key={i}>
                       <Contenido texto={m} />
@@ -115,7 +126,12 @@ export function Reto({ curso, n, verano }: Props) {
                 <ol class="pasos">
                   {r.pasos.map((paso, i) => (
                     <li key={i}>
-                      <Pictograma nombre={paso.pictograma} />
+                      <span class="burbuja">
+                        <span class="paso-numero" aria-hidden="true">
+                          {i + 1}
+                        </span>
+                        <Pictograma nombre={paso.pictograma} />
+                      </span>
                       <span>
                         <Contenido texto={paso.texto} />
                       </span>
@@ -132,13 +148,13 @@ export function Reto({ curso, n, verano }: Props) {
               )}
 
               <section class="dos-columnas" aria-label={`${t('reto.mas_facil')} / ${t('reto.mas_dificil')}`}>
-                <div class="tarjeta">
+                <div class="tarjeta tarjeta-facil">
                   <h2>{t('reto.mas_facil')}</h2>
                   <p>
                     <Contenido texto={r.masFacil} />
                   </p>
                 </div>
-                <div class="tarjeta">
+                <div class="tarjeta tarjeta-dificil">
                   <h2>{t('reto.mas_dificil')}</h2>
                   <p>
                     <Contenido texto={r.masDificil} />
@@ -171,6 +187,9 @@ export function Reto({ curso, n, verano }: Props) {
       )}
       <div class="acciones-pie">
         <a class="boton" href={construir(volver)}>
+          <span class="flecha-texto" aria-hidden="true">
+            ←
+          </span>
           {t('reto.ver_semana')}
         </a>
       </div>

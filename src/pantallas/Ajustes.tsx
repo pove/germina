@@ -41,12 +41,12 @@ export function Ajustes() {
     <>
       <h1 tabIndex={-1}>{t('ajustes.titulo')}</h1>
 
-      <section aria-labelledby="idioma">
+      <section class="tarjeta" aria-labelledby="idioma">
         <h2 id="idioma">{t('ajustes.idioma')}</h2>
         <SelectorIdioma />
       </section>
 
-      <section aria-labelledby="cursos">
+      <section class="tarjeta" aria-labelledby="cursos">
         <h2 id="cursos">{t('ajustes.cursos')}</h2>
         <div class="selector-idioma" role="group" aria-label={t('ajustes.cursos')}>
           {cursosActivos(catalogo).map((c) => {
@@ -61,7 +61,7 @@ export function Ajustes() {
         <p>{t('bienvenida.curso_ayuda')}</p>
       </section>
 
-      <section aria-labelledby="llevar">
+      <section class="tarjeta" aria-labelledby="llevar">
         <h2 id="llevar">{t('ajustes.pasar')}</h2>
         <div class="acciones">
           <a class="boton" href={construir({ tipo: 'pasar' })}>
@@ -73,12 +73,12 @@ export function Ajustes() {
         </div>
       </section>
 
-      <section aria-labelledby="explicacion">
+      <section class="tarjeta" aria-labelledby="explicacion">
         <h2 id="explicacion">{t('explicacion.titulo')}</h2>
         <Explicacion />
       </section>
 
-      <section aria-labelledby="instalar">
+      <section class="tarjeta" aria-labelledby="instalar">
         <h2 id="instalar">{t('ajustes.instalar')}</h2>
         <p>{t('instalar.por_que')}</p>
         <h3>{t('instalar.iphone')}</h3>
@@ -87,7 +87,7 @@ export function Ajustes() {
         <p>{t('instalar.android_pasos')}</p>
       </section>
 
-      <section aria-labelledby="legal">
+      <section class="tarjeta" aria-labelledby="legal">
         <h2 id="legal">{t('ajustes.legal')}</h2>
         <div class="acciones">
           <a class="boton" href={construir({ tipo: 'privacidad' })}>
@@ -99,10 +99,10 @@ export function Ajustes() {
         </div>
       </section>
 
-      <section aria-labelledby="cero">
+      <section class="tarjeta" aria-labelledby="cero">
         <h2 id="cero">{t('ajustes.empezar_de_cero')}</h2>
         {confirmando ? (
-          <div class="tarjeta" role="alertdialog" aria-labelledby="aviso-cero">
+          <div class="aviso-confirmar" role="alertdialog" aria-labelledby="aviso-cero">
             <p id="aviso-cero">{t('ajustes.empezar_de_cero_aviso')}</p>
             <div class="acciones">
               <button type="button" class="boton" onClick={empezarDeCero}>

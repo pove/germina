@@ -4,12 +4,16 @@ import { coloresDeRaiz, contraste } from '../lib/contraste.mjs';
 
 const colores = coloresDeRaiz(readFileSync(new URL('../../src/estilos.css', import.meta.url), 'utf8'));
 
-const FONDOS = ['fondo', 'tarjeta', 'acento-suave', 'hierba-suave', 'tierra-suave', 'flor-suave', 'sol-suave', 'gris-suave'];
+const FONDOS = [
+  'fondo', 'tarjeta', 'acento-suave', 'acento-hover', 'hierba-suave', 'reto-suave', 'pregunta-suave', 'sol-suave', 'tierra-suave',
+  'flor-suave', 'gris-suave',
+];
 
 // Texto: 4,5:1 sobre cualquier fondo de la paleta.
-const TEXTO = ['texto', 'texto-suave', 'acento', 'flor', 'tierra'];
-// Dibujos que dicen algo (las plantas del jardín) y bordes de los controles: 3:1 (1.4.11). Las flores van también a 4,5:1 por si acaso.
-const GRAFICOS = ['flor-rosa', 'flor-morada', 'borde-control'];
+const TEXTO = ['texto', 'texto-suave', 'acento', 'acento-oscuro', 'reto', 'pregunta', 'sol', 'flor', 'tierra'];
+// Dibujos que dicen algo (las plantas del jardín), bordes de los controles y foco: 3:1 (1.4.11). El foco va separado
+// 3 px del control (outline-offset), así que lo que tiene al lado es siempre un fondo, nunca el relleno del botón.
+const GRAFICOS = ['flor-rosa', 'flor-morada', 'borde-control', 'foco'];
 
 describe('contraste', () => {
   it('calcula bien los extremos', () => {
@@ -18,7 +22,7 @@ describe('contraste', () => {
   });
 
   it('lee la paleta de estilos.css', () => {
-    for (const nombre of [...FONDOS, ...TEXTO, ...GRAFICOS, 'sobre-acento', 'acento-oscuro']) expect(colores[nombre], nombre).toMatch(/^#/);
+    for (const nombre of [...FONDOS, ...TEXTO, ...GRAFICOS, 'sobre-acento']) expect(colores[nombre], nombre).toMatch(/^#/);
   });
 
   for (const texto of TEXTO) {
@@ -37,12 +41,10 @@ describe('contraste', () => {
     }
   }
 
-  it('texto de los botones principales: 4,5:1 o más, también al pasar el ratón', () => {
-    expect(contraste(colores['sobre-acento'], colores['acento'])).toBeGreaterThanOrEqual(4.5);
-    expect(contraste(colores['sobre-acento'], colores['acento-oscuro'])).toBeGreaterThanOrEqual(4.5);
+  it('texto blanco sobre los rellenos (botón principal, pestaña actual, número de hoy, número de paso): 4,5:1 o más', () => {
+    for (const relleno of ['acento', 'acento-oscuro', 'pregunta', 'reto']) {
+      expect(contraste(colores['sobre-acento'], colores[relleno]), relleno).toBeGreaterThanOrEqual(4.5);
+    }
   });
 
-  it('el foco (borde de acento) se ve sobre los fondos: 3:1 o más', () => {
-    for (const fondo of FONDOS) expect(contraste(colores['acento'], colores[fondo]), fondo).toBeGreaterThanOrEqual(3);
-  });
 });

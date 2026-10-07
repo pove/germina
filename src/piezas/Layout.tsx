@@ -8,7 +8,7 @@ import { idioma, t, tDinamico } from '../idioma';
 import { esCursoActivo, nombreDeArea, type Catalogo } from '../nucleo/catalogo';
 import { construir, type Ruta } from '../nucleo/rutas';
 import { leerClaveCurso, type Curso } from '../nucleo/tipos';
-import { Icono } from './Icono';
+import { Icono, type NombreIcono } from './Icono';
 
 const catalogo = catalogoJson as Catalogo;
 const avisoGuardadoVisto = signal(false);
@@ -58,9 +58,10 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
     return () => observador.disconnect();
   }, [hash.value, idioma.value]);
 
-  const enlaces: { ruta: Ruta | null; texto: string; activo: boolean }[] = [
-    { ruta: { tipo: 'inicio' }, texto: t('nav.inicio'), activo: ['semana', 'pregunta', 'reto', 'verano', 'veranoReto'].includes(ruta.tipo) },
-    { ruta: curso && { tipo: 'jardin', ...curso }, texto: t('nav.jardin'), activo: ruta.tipo === 'jardin' },
+  // Las dos primeras son las pestañas grandes, con dibujo; el resto va debajo, en pequeño.
+  const enlaces: { ruta: Ruta | null; texto: string; activo: boolean; icono?: NombreIcono }[] = [
+    { ruta: { tipo: 'inicio' }, icono: 'brote', texto: t('nav.inicio'), activo: ['semana', 'pregunta', 'reto', 'verano', 'veranoReto'].includes(ruta.tipo) },
+    { ruta: curso && { tipo: 'jardin', ...curso }, icono: 'jardin', texto: t('nav.jardin'), activo: ruta.tipo === 'jardin' },
     { ruta: curso && { tipo: 'aprenden', ...curso }, texto: t('nav.aprenden'), activo: ruta.tipo === 'aprenden' },
     { ruta: { tipo: 'ayuda' }, texto: t('nav.ayuda'), activo: ruta.tipo === 'ayuda' },
     { ruta: { tipo: 'ajustes' }, texto: t('nav.ajustes'), activo: ['ajustes', 'pasar', 'recibir', 'imprimirRecords', 'privacidad', 'accesibilidad'].includes(ruta.tipo) },
@@ -88,11 +89,12 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
         </p>
         {!sinMenu && (
           <nav aria-label={t('a11y.menu')}>
-            <ul>
+            <ul class="menu">
               {enlaces.map((e) =>
                 e.ruta ? (
-                  <li key={e.texto}>
+                  <li key={e.texto} class={e.icono ? 'menu-principal' : 'menu-secundario'}>
                     <a href={construir(e.ruta)} aria-current={e.activo ? 'page' : undefined}>
+                      {e.icono && <Icono nombre={e.icono} clase="icono-boton" />}
                       {e.texto}
                     </a>
                   </li>

@@ -68,7 +68,7 @@ export function Jardin({ curso }: { curso: Curso }) {
     <>
       <p class="contexto">{contexto(curso)}</p>
       <h1 tabIndex={-1}>{t('jardin.titulo')}</h1>
-      <Plegable etiqueta={ayuda} clase="boton-ayuda">
+      <Plegable etiqueta={ayuda} clase="boton-ayuda boton-plegable">
         <Explicacion />
       </Plegable>
       <Cargando

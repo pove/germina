@@ -220,6 +220,7 @@
   "jardin.estado.en_camino": { "es": "Semilla en camino", "va": "Llavor en camí", "en": "Seed on its way", "fr": "Graine en route", "ar": "بذرة في الطريق" },
 
   "aprenden.titulo": { "es": "Qué aprenden este curso", "va": "Què aprenen aquest curs", "en": "What they learn this year", "fr": "Ce qu'ils apprennent cette année", "ar": "ماذا يتعلمون هذه السنة" },
+  "aprenden.ahora": { "es": "Ahora", "va": "Ara", "en": "Now", "fr": "En ce moment", "ar": "الآن" },
   "aprenden.trimestre": { "es": "Trimestre {n}", "va": "Trimestre {n}", "en": "Term {n}", "fr": "Trimestre {n}", "ar": "الفصل {n}" },
 
   "ayuda.titulo": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
