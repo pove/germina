@@ -44,7 +44,7 @@ test.describe('llevar el jardín a otro móvil', () => {
 
     await expect(otro).toHaveURL(/\/2\/matematicas\/3\/jardin$/);
     await expect(otro.getByRole('link', { name: `${T('semana.titulo', 'es', { n: 7 })}: ${T('jardin.estado.flor', 'es')}` })).toBeVisible();
-    await expect(otro.getByRole('img', { name: new RegExp(`${T('semana.titulo', 'es', { n: 8 })}: `) })).toBeVisible(); // s08 no existe aún
+    await expect(otro.getByRole('link', { name: `${T('semana.titulo', 'es', { n: 8 })}: ${T('jardin.estado.brote', 'es')}` })).toBeVisible();
     const datos = await guardado(otro);
     expect(datos).toMatchObject({ cursos: [CURSO_3, CURSO_4], cursoActivo: CURSO_3, ultimoAnoCurso: 2026, progreso: PROGRESO_A });
     await otro.context().close();

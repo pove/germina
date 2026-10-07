@@ -73,7 +73,7 @@ Cada etapa cabe en una sesión de trabajo y termina con su comprobación. No se 
 
 Una tanda por sesión, siempre imitando la semilla de ejemplo y respetando el mapa (`mapa-semanas.json`):
 
-1. Semanas 1 a 8 de 3.º y 4.º (la 7 de 3.º ya existe).
+1. Semanas 1 a 8 de 3.º y 4.º (la 7 de 3.º ya existe). **Hecha.**
 2. Semanas 9 a 15.
 3. Semanas 16 a 22.
 4. Semanas 23 a 28.

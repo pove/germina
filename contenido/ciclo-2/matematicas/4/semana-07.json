@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s07",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 7,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Restas con ceros",
+    "va": "Restes amb zeros",
+    "en": "Subtractions with zeros",
+    "fr": "Des soustractions avec des zéros",
+    "ar": "الطرح مع الأصفار"
+  },
+  "objetivo": {
+    "es": "Esta semana se enfrentan a restas como {{1000 − 365}}, en las que arriba hay ceros y se abre un millar, luego una centena y luego una decena. Cuesta, y es normal que cueste.",
+    "va": "Aquesta setmana s'enfronten a restes com {{1000 − 365}}, en què dalt hi ha zeros i s'obri un miler (millar), després una centena i després una desena (decena). Costa, i és normal que coste.",
+    "en": "This week they take on subtractions like {{1000 − 365}}, where there are zeros on top and you open a thousand (millar), then a hundred and then a ten (decena). It's hard, and it's normal for it to be hard.",
+    "fr": "Cette semaine, on s'attaque à des soustractions comme {{1000 − 365}}, où il y a des zéros en haut et où l'on ouvre un millier (millar), puis une centaine, puis une dizaine (decena). C'est difficile, et c'est normal que ce soit difficile.",
+    "ar": "هذا الأسبوع يواجه الأطفال عمليات طرح مثل {{1000 − 365}}، فيها أصفار في الأعلى، فنفتح ألفًا (millar) ثم مئة ثم عشرة (decena). هذا صعب، ومن الطبيعي أن يكون صعبًا."
+  },
+  "comoAyudar": {
+    "es": "Si se atasca con los ceros, parad y volved a los billetes de papel. Decir «esto cuesta, y está bien que cueste» ayuda más que dar la respuesta.",
+    "va": "Si s'encalla amb els zeros, pareu i torneu als bitllets de paper. Dir «açò costa, i està bé que coste» ajuda més que donar la resposta.",
+    "en": "If they get stuck on the zeros, stop and go back to the paper notes. Saying “This is hard, and it's fine for it to be hard” helps more than giving the answer.",
+    "fr": "S'il ou elle bloque sur les zéros, arrêtez-vous et revenez aux billets en papier. Dire « c'est difficile, et c'est bien que ce soit difficile » aide plus que donner la réponse.",
+    "ar": "إذا حدث توقّف عند الأصفار، توقّفوا وعودوا إلى الأوراق النقدية الورقية. قول «هذا صعب، ولا بأس أن يكون صعبًا» يساعد أكثر من إعطاء الجواب."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.operaciones.frustracion"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cambiar el billete de 1000",
+      "va": "Canviar el bitllet de 1000",
+      "en": "Breaking the 1000 note",
+      "fr": "Faire la monnaie du billet de 1000",
+      "ar": "صرف ورقة الألف"
+    },
+    "material": [
+      {
+        "es": "Billetes de papel hechos en casa: 1 de 1000, 10 de 100 y 10 de 10",
+        "va": "Bitllets de paper fets a casa: 1 de 1000, 10 de 100 i 10 de 10",
+        "en": "Homemade paper notes: 1 of 1000, 10 of 100 and 10 of 10",
+        "fr": "Des billets en papier faits maison : 1 de 1000, 10 de 100 et 10 de 10",
+        "ar": "أوراق نقدية من ورق مصنوعة في البيت: ورقة من 1000، و10 من 100، و10 من 10"
+      },
+      {
+        "es": "10 botones o garbanzos que hagan de monedas de 1",
+        "va": "10 botons o cigrons que facen de monedes d'1",
+        "en": "10 buttons or chickpeas to be coins of 1",
+        "fr": "10 boutons ou pois chiches qui font office de pièces de 1",
+        "ar": "10 أزرار أو حبات حمّص تكون قطعًا نقدية من 1"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Algo cuesta 365 y solo tenéis el billete de 1000. Para pagar justo, cambiadlo por 10 billetes de 100.",
+          "va": "Una cosa costa 365 i només teniu el bitllet de 1000. Per a pagar just, canvieu-lo per 10 bitllets de 100.",
+          "en": "Something costs 365 and you only have the 1000 note. To pay the exact amount, swap it for 10 notes of 100.",
+          "fr": "Quelque chose coûte 365 et vous n'avez que le billet de 1000. Pour payer le compte juste, échangez-le contre 10 billets de 100.",
+          "ar": "شيء ثمنه 365 وليس معكم إلا ورقة الألف. لتدفعوا المبلغ بالضبط، اصرفوها بـ10 أوراق من 100."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Cambiad un billete de 100 por 10 de 10, y uno de 10 por 10 monedas. Ahora tenéis 9 de 100, 9 de 10 y 10 monedas: sigue siendo 1000.",
+          "va": "Canvieu un bitllet de 100 per 10 de 10, i un de 10 per 10 monedes. Ara teniu 9 de 100, 9 de 10 i 10 monedes: continua sent 1000.",
+          "en": "Swap a 100 note for 10 of 10, and a 10 note for 10 coins. Now you have 9 of 100, 9 of 10 and 10 coins: it's still 1000.",
+          "fr": "Échangez un billet de 100 contre 10 de 10, et un de 10 contre 10 pièces. Maintenant, vous avez 9 de 100, 9 de 10 et 10 pièces : ça fait toujours 1000.",
+          "ar": "اصرفوا ورقة من 100 بـ10 أوراق من 10، وورقة من 10 بـ10 قطع نقدية. الآن معكم 9 من 100، و9 من 10، و10 قطع: وما زال المجموع 1000."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Ahora sí, pagad: 3 billetes de 100, 6 de 10 y 5 monedas. ¿Qué os queda? 6 de 100, 3 de 10 y 5 monedas: 635.",
+          "va": "Ara sí, pagueu: 3 bitllets de 100, 6 de 10 i 5 monedes. Què us queda? 6 de 100, 3 de 10 i 5 monedes: 635.",
+          "en": "Now pay: 3 notes of 100, 6 of 10 and 5 coins. What's left? 6 of 100, 3 of 10 and 5 coins: 635.",
+          "fr": "Maintenant, payez : 3 billets de 100, 6 de 10 et 5 pièces. Que vous reste-t-il ? 6 de 100, 3 de 10 et 5 pièces : 635.",
+          "ar": "الآن ادفعوا: 3 أوراق من 100، و6 من 10، و5 قطع. ماذا بقي معكم؟ 6 من 100، و3 من 10، و5 قطع: 635."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid la resta en papel y comparad cada paso con los cambios de billetes: {{1000 − 365 = 635}}.",
+          "va": "Escriviu la resta en paper i compareu cada pas amb els canvis de bitllets: {{1000 − 365 = 635}}.",
+          "en": "Write the subtraction on paper and compare each step with the note swaps: {{1000 − 365 = 635}}.",
+          "fr": "Écrivez la soustraction sur papier et comparez chaque étape avec les échanges de billets : {{1000 − 365 = 635}}.",
+          "ar": "اكتبوا عملية الطرح على الورق وقارنوا كل خطوة بعمليات صرف الأوراق: {{1000 − 365 = 635}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con un billete de 100 y pagad 37: {{100 − 37}}.",
+      "va": "Comenceu amb un bitllet de 100 i pagueu 37: {{100 − 37}}.",
+      "en": "Start with a 100 note and pay 37: {{100 − 37}}.",
+      "fr": "Commencez avec un billet de 100 et payez 37 : {{100 − 37}}.",
+      "ar": "ابدؤوا بورقة من 100 وادفعوا 37: {{100 − 37}}."
+    },
+    "masDificil": {
+      "es": "Con dos billetes de 1000 y 5 monedas, pagad 1368: {{2005 − 1368}}.",
+      "va": "Amb dos bitllets de 1000 i 5 monedes, pagueu 1368: {{2005 − 1368}}.",
+      "en": "With two 1000 notes and 5 coins, pay 1368: {{2005 − 1368}}.",
+      "fr": "Avec deux billets de 1000 et 5 pièces, payez 1368 : {{2005 − 1368}}.",
+      "ar": "بورقتين من 1000 و5 قطع، ادفعوا 1368: {{2005 − 1368}}."
+    },
+    "paraQueSirve": {
+      "es": "Las restas con ceros son de las que más atascan. Verlas con billetes enseña que no hay truco: solo cambios, uno detrás de otro.",
+      "va": "Les restes amb zeros són de les que més encallen. Veure-les amb bitllets ensenya que no hi ha truc: només canvis, un darrere de l'altre.",
+      "en": "Subtractions with zeros are among the ones that get people stuck most. Seeing them with notes shows there's no trick: just swaps, one after another.",
+      "fr": "Les soustractions avec des zéros sont parmi celles qui bloquent le plus. Les voir avec des billets montre qu'il n'y a pas de truc : seulement des échanges, l'un après l'autre.",
+      "ar": "الطرح مع الأصفار من أكثر ما يسبّب التوقّف. رؤيته بالأوراق النقدية تُظهر أنه لا توجد حيلة: مجرد عمليات صرف، واحدة بعد الأخرى."
+    },
+    "aviso": {
+      "es": "Guardad los botones o garbanzos lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els botons o cigrons lluny de germans o germanes menuts.",
+      "en": "Keep the buttons or chickpeas away from younger brothers and sisters.",
+      "fr": "Gardez les boutons ou les pois chiches loin des petits frères et sœurs.",
+      "ar": "أبعدوا الأزرار أو الحمّص عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En una caja hay 500 tornillos y en un mueble se usan 236. ¿Cuántos quedan?",
+        "va": "En una caixa hi ha 500 caragols i en un moble se n'usen 236. Quants en queden?",
+        "en": "A box has 500 screws and 236 are used for a piece of furniture. How many are left?",
+        "fr": "Dans une boîte, il y a 500 vis et on en utilise 236 pour un meuble. Combien en reste-t-il ?",
+        "ar": "في علبة 500 برغي، واستُعمل منها 236 لقطعة أثاث. كم بقي؟"
+      },
+      "pista": {
+        "es": "500 son 5 billetes de 100. Cambia uno por 10 de 10, y uno de esos por 10 monedas.",
+        "va": "500 són 5 bitllets de 100. Canvia'n un per 10 de 10, i un d'eixos per 10 monedes.",
+        "en": "500 is 5 notes of 100. Swap one for 10 of 10, and one of those for 10 coins.",
+        "fr": "500, c'est 5 billets de 100. Échange-en un contre 10 de 10, et un de ceux-là contre 10 pièces.",
+        "ar": "500 هي 5 أوراق من 100. لنصرف واحدة بـ10 من 10، وواحدة من هذه بـ10 قطع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "500 - 236",
+        "resultado": 264,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 264 tornillos.",
+          "va": "En queden 264.",
+          "en": "There are 264 screws left.",
+          "fr": "Il reste 264 vis.",
+          "ar": "بقي 264 برغيًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de quitar que empiece con un número redondo, como 500 o 1000.",
+        "va": "Inventa'n tu una de llevar que comence amb un nombre rodó, com 500 o 1000.",
+        "en": "Make up a taking-away one that starts with a round number, like 500 or 1000.",
+        "fr": "Invente un problème où l'on enlève, qui commence par un nombre rond, comme 500 ou 1000.",
+        "ar": "لنخترع مسألة أخذ تبدأ بعدد مدوّر، مثل 500 أو 1000."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "La familia de Mei tiene 1000 € para las vacaciones y gasta 475 € en el viaje. ¿Cuánto le queda?",
+        "va": "La família de la Mei té 1000 € per a les vacances i gasta 475 € en el viatge. Quant li'n queda?",
+        "en": "Mei's family has 1000 € for the holidays and spends 475 € on the journey. How much is left?",
+        "fr": "La famille de Mei a 1000 € pour les vacances et dépense 475 € pour le trajet. Combien lui reste-t-il ?",
+        "ar": "عند عائلة مِي 1000 يورو للعطلة، وصرفت 475 يورو على السفر. كم بقي لها؟"
+      },
+      "pista": {
+        "es": "Abre el millar paso a paso, como en el reto: 9 de 100, 9 de 10 y 10 de 1.",
+        "va": "Obri el miler pas a pas, com en el repte: 9 de 100, 9 de 10 i 10 d'1.",
+        "en": "Open the thousand step by step, as in the challenge: 9 of 100, 9 of 10 and 10 of 1.",
+        "fr": "Ouvre le millier étape par étape, comme dans le défi : 9 de 100, 9 de 10 et 10 de 1.",
+        "ar": "لنفتح الألف خطوة خطوة، كما في التحدّي: 9 من 100، و9 من 10، و10 من 1."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 - 475",
+        "resultado": 525,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le quedan 525 €.",
+          "va": "Li'n queden 525 €.",
+          "en": "525 € is left.",
+          "fr": "Il lui reste 525 €.",
+          "ar": "بقي لها 525 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de gastar parte de 1000 €.",
+        "va": "Inventa'n tu una de gastar part de 1000 €.",
+        "en": "Make one up about spending part of 1000 €.",
+        "fr": "Invente un problème où l'on dépense une partie de 1000 €.",
+        "ar": "لنخترع مسألة نصرف فيها جزءًا من 1000 يورو."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Un rollo tiene 2000 cm de cuerda y se cortan 845 cm para hacer un columpio. ¿Cuántos centímetros quedan?",
+        "va": "Un rotlle té 2000 cm de corda i se'n tallen 845 cm per a fer un gronxador. Quants centímetres en queden?",
+        "en": "A roll has 2000 cm of rope and 845 cm are cut off to make a swing. How many centimetres are left?",
+        "fr": "Un rouleau a 2000 cm de corde et on en coupe 845 cm pour faire une balançoire. Combien de centimètres reste-t-il ?",
+        "ar": "في لفّة 2000 سم من الحبل، وقُطع منها 845 سم لصنع أرجوحة. كم سنتيمترًا بقي؟"
+      },
+      "pista": {
+        "es": "Hay tres ceros: abre un millar, luego una centena y luego una decena.",
+        "va": "Hi ha tres zeros: obri un miler, després una centena i després una desena.",
+        "en": "There are three zeros: open a thousand, then a hundred and then a ten.",
+        "fr": "Il y a trois zéros : ouvre un millier, puis une centaine, puis une dizaine.",
+        "ar": "هناك ثلاثة أصفار: لنفتح ألفًا، ثم مئة، ثم عشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2000 - 845",
+        "resultado": 1155,
+        "unidad": "cm",
+        "texto": {
+          "es": "Quedan 1155 cm de cuerda.",
+          "va": "En queden 1155 cm.",
+          "en": "There are 1155 cm of rope left.",
+          "fr": "Il reste 1155 cm de corde.",
+          "ar": "بقي 1155 سم من الحبل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cortar un trozo de algo largo.",
+        "va": "Inventa'n tu una de tallar un tros d'alguna cosa llarga.",
+        "en": "Make one up about cutting a piece off something long.",
+        "fr": "Invente un problème où l'on coupe un morceau de quelque chose de long.",
+        "ar": "لنخترع مسألة عن قطع جزء من شيء طويل."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 5,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: Aitana mide 142 cm y su hermano, 127 cm. ¿Cuánto más mide Aitana?",
+        "va": "Per a recordar: l'Aitana fa 142 cm i son germà, 127 cm. Quant més fa l'Aitana?",
+        "en": "Let's remember: Aitana is 142 cm tall and her brother is 127 cm. How much taller is Aitana?",
+        "fr": "Pour se souvenir : Aitana mesure 142 cm et son frère, 127 cm. De combien Aitana est-elle plus grande ?",
+        "ar": "لنتذكّر: طول آيتانا 142 سم وطول أخيها 127 سم. بكم تزيد آيتانا عليه طولًا؟"
+      },
+      "pista": {
+        "es": "Es de comparar. Cuenta hacia arriba: de 127 a 130 van 3, y de 130 a 142, 12.",
+        "va": "És de comparar. Compta cap amunt: de 127 a 130 en van 3, i de 130 a 142, 12.",
+        "en": "It's a comparing one. Count up: from 127 to 130 is 3, and from 130 to 142 is 12.",
+        "fr": "C'est pour comparer. Compte en avançant : de 127 à 130, ça fait 3, et de 130 à 142, 12.",
+        "ar": "هذه مسألة مقارنة. لنعدّ صعودًا: من 127 إلى 130 هي 3، ومن 130 إلى 142 هي 12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "142 - 127",
+        "resultado": 15,
+        "unidad": "cm",
+        "texto": {
+          "es": "Aitana mide 15 cm más.",
+          "va": "L'Aitana fa 15 cm més.",
+          "en": "Aitana is 15 cm taller.",
+          "fr": "Aitana mesure 15 cm de plus.",
+          "ar": "آيتانا أطول بـ15 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para comparar las alturas de dos personas de tu familia.",
+        "va": "Inventa'n tu una per a comparar les altures de dues persones de la teua família.",
+        "en": "Make one up comparing the heights of two people in your family.",
+        "fr": "Invente un problème pour comparer la taille de deux personnes de ta famille.",
+        "ar": "لنخترع مسألة نقارن فيها طولَي شخصين من العائلة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué haces cuando en una resta arriba hay un 0 y no puedes quitar? Explícamelo paso a paso.",
+        "va": "Què fas quan en una resta dalt hi ha un 0 i no pots llevar? Explica-m'ho pas a pas.",
+        "en": "What do you do when there's a 0 on top in a subtraction and you can't take away? Explain it to me step by step.",
+        "fr": "Que fais-tu quand, dans une soustraction, il y a un 0 en haut et que tu ne peux pas enlever ? Explique-le-moi étape par étape.",
+        "ar": "ماذا نفعل عندما يكون في الأعلى 0 في عملية طرح ولا يمكن الأخذ؟ اشرح لي أو اشرحي لي خطوة خطوة."
+      },
+      "pista": {
+        "es": "Si se atasca: «¿Te acuerdas de cuando cambiamos el billete de 1000?»",
+        "va": "Si s'encalla: «Te'n recordes de quan vam canviar el bitllet de 1000?»",
+        "en": "If they get stuck: “Do you remember when we broke the 1000 note?”",
+        "fr": "S'il ou elle bloque : « Tu te rappelles quand on a fait la monnaie du billet de 1000 ? »",
+        "ar": "إذا حدث توقّف: «هل تذكر أو تذكرين عندما صرفنا ورقة الألف؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea es ir a buscar a la izquierda hasta encontrar algo que abrir. Si se lía al explicarlo, no pasa nada: que lo enseñe con los billetes.",
+          "va": "La idea és anar a buscar a l'esquerra fins a trobar alguna cosa que obrir. Si s'embolica en explicar-ho, no passa res: que ho ensenye amb els bitllets.",
+          "en": "The idea is to look further left until you find something to open. If they get muddled explaining it, that's fine: let them show it with the notes.",
+          "fr": "L'idée, c'est d'aller chercher vers la gauche jusqu'à trouver quelque chose à ouvrir. S'il ou elle s'embrouille en l'expliquant, ce n'est pas grave : qu'il ou elle le montre avec les billets.",
+          "ar": "الفكرة هي البحث جهة اليسار حتى نجد شيئًا نفتحه. إذا حدث خلط في الشرح، لا بأس: ليكن الشرح بالأوراق النقدية."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "637b6f3d4ecd"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "637b6f3d4ecd"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "637b6f3d4ecd"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "637b6f3d4ecd"
+      }
+    }
+  }
+}

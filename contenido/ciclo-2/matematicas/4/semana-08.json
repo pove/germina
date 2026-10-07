@@ -1,0 +1,331 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s08",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 8,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Seguro? Lo comprobamos",
+    "va": "Segur? Ho comprovem",
+    "en": "Sure? Let's check",
+    "fr": "Sûr ? On vérifie",
+    "ar": "متأكّدون؟ لنتحقّق"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden a comprobar una resta con una suma y a mirar si un resultado tiene sentido antes de darlo por bueno, estimando: si {{4012 − 1980}} da más de 3000, algo no cuadra.",
+    "va": "Aquesta setmana aprenen a comprovar una resta amb una suma i a mirar si un resultat té sentit abans de donar-lo per bo, estimant (estimar): si {{4012 − 1980}} dona més de 3000, alguna cosa no quadra.",
+    "en": "This week they learn to check a subtraction with an addition and to see whether an answer makes sense before accepting it, by estimating (estimar): if {{4012 − 1980}} comes out at more than 3000, something is off.",
+    "fr": "Cette semaine, on apprend à vérifier une soustraction avec une addition et à regarder si un résultat a du sens avant de l'accepter, en estimant (estimar) : si {{4012 − 1980}} donne plus de 3000, quelque chose ne va pas.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال التحقّق من الطرح بالجمع، والنظر هل للنتيجة معنى قبل قبولها، بالتقدير (estimar): إذا أعطت {{4012 − 1980}} أكثر من 3000، فهناك شيء غير صحيح."
+  },
+  "comoAyudar": {
+    "es": "Equivocarse a propósito y dejar que os pillen es muy divertido para ellos. Y, cuando sea al revés, celebrad que lo ha visto antes de que se lo dijerais.",
+    "va": "Equivocar-se a propòsit i deixar que us enxampen és molt divertit per a ells. I, quan siga al revés, celebreu que ho ha vist abans que li ho diguéreu.",
+    "en": "Making a slip on purpose and letting them catch you is great fun for them. And when it's the other way round, celebrate that they spotted it before you said anything.",
+    "fr": "Se tromper exprès et se faire attraper, c'est très amusant pour les enfants. Et quand c'est l'inverse, fêtez qu'il ou elle l'a vu avant que vous ne le disiez.",
+    "ar": "الخطأ المتعمّد وترك الأطفال يكتشفونه أمر ممتع جدًا لهم. وعندما يحدث العكس، احتفلوا بأنهم رأوه قبل أن تقولوه."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c2.1.3",
+    "matematicas.c2.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Detectives de restas",
+      "va": "Detectius de restes",
+      "en": "Subtraction detectives",
+      "fr": "Les détectives des soustractions",
+      "ar": "محقّقو الطرح"
+    },
+    "material": [
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "La persona adulta escribe tres restas con su resultado. Dos están bien: {{1000 − 365 = 635}} y {{742 − 318 = 424}}. En la tercera, {{503 − 129}}, pone 384 a propósito.",
+          "va": "La persona adulta escriu tres restes amb el seu resultat. Dues estan bé: {{1000 − 365 = 635}} i {{742 − 318 = 424}}. En la tercera, {{503 − 129}}, posa 384 a propòsit.",
+          "en": "The adult writes three subtractions with their answers. Two are right: {{1000 − 365 = 635}} and {{742 − 318 = 424}}. In the third, {{503 − 129}}, they write 384 on purpose.",
+          "fr": "L'adulte écrit trois soustractions avec leur résultat. Deux sont justes : {{1000 − 365 = 635}} et {{742 − 318 = 424}}. Dans la troisième, {{503 − 129}}, il ou elle écrit 384 exprès.",
+          "ar": "يكتب الشخص البالغ ثلاث عمليات طرح مع نتائجها. اثنتان صحيحتان: {{1000 − 365 = 635}} و{{742 − 318 = 424}}. وفي الثالثة، {{503 − 129}}، يكتب 384 عمدًا."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Los detectives estiman primero: 500 menos 100 son unos 400; 700 menos 300, unos 400… ¿Alguna os da mala espina?",
+          "va": "Els detectius estimen primer: 500 menys 100 són uns 400; 700 menys 300, uns 400… Alguna us fa mala espina?",
+          "en": "The detectives estimate first: 500 minus 100 is about 400; 700 minus 300, about 400… Does any of them look fishy?",
+          "fr": "Les détectives estiment d'abord : 500 moins 100, ça fait environ 400 ; 700 moins 300, environ 400… L'une d'elles vous semble louche ?",
+          "ar": "يقدّر المحقّقون أولًا: 500 ناقص 100 تساوي نحو 400؛ و700 ناقص 300 نحو 400… هل تثير إحداها الشك؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Comprobad cada resta con una suma. Si {{635 + 365 = 1000}}, la primera cuadra. Haced lo mismo con las otras.",
+          "va": "Comproveu cada resta amb una suma. Si {{635 + 365 = 1000}}, la primera quadra. Feu el mateix amb les altres.",
+          "en": "Check each subtraction with an addition. If {{635 + 365 = 1000}}, the first one is right. Do the same with the others.",
+          "fr": "Vérifiez chaque soustraction avec une addition. Si {{635 + 365 = 1000}}, la première est juste. Faites pareil avec les autres.",
+          "ar": "تحقّقوا من كل عملية طرح بعملية جمع. إذا كانت {{635 + 365 = 1000}}، فالأولى صحيحة. افعلوا الشيء نفسه مع الأخريين."
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "¿Dónde estaba el despiste? Con {{374 + 129 = 503}} se ve que el resultado era 374. Después, cambiad los papeles: ahora el despiste lo esconde el niño o niña.",
+          "va": "On era la distracció? Amb {{374 + 129 = 503}} es veu que el resultat era 374. Després, canvieu els papers: ara la distracció l'amaga el xiquet/a.",
+          "en": "Where was the slip? With {{374 + 129 = 503}} you can see the answer was 374. Then swap roles: now your child hides the slip.",
+          "fr": "Où était l'étourderie ? Avec {{374 + 129 = 503}}, on voit que le résultat était 374. Ensuite, échangez les rôles : maintenant, c'est votre enfant qui cache l'étourderie.",
+          "ar": "أين كان السهو؟ مع {{374 + 129 = 503}} نرى أن النتيجة كانت 374. ثم تبادلوا الأدوار: الآن يخفي الطفل أو الطفلة السهو."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad restas de dos cifras, como {{52 − 17}}, y que el despiste sea grande.",
+      "va": "Feu servir restes de dues xifres, com {{52 − 17}}, i que la distracció siga gran.",
+      "en": "Use two-digit subtractions, like {{52 − 17}}, and make the slip a big one.",
+      "fr": "Utilisez des soustractions à deux chiffres, comme {{52 − 17}}, et que l'étourderie soit grosse.",
+      "ar": "استعملوا عمليات طرح من رقمين، مثل {{52 − 17}}، وليكن السهو كبيرًا."
+    },
+    "masDificil": {
+      "es": "Esconded un despiste más pequeño, solo en las decenas, que no se vea a ojo y solo aparezca al comprobar.",
+      "va": "Amagueu una distracció més menuda, només en les desenes, que no es veja a ull i només es trobe comprovant.",
+      "en": "Hide a smaller slip, only in the tens, that you can't see by estimating and only shows up when you check.",
+      "fr": "Cachez une étourderie plus petite, seulement dans les dizaines, qu'on ne voit pas à vue d'œil et qu'on ne trouve qu'en vérifiant.",
+      "ar": "أخفوا سهوًا أصغر، في العشرات فقط، لا يُرى بالتقدير ولا يُكتشف إلا بالتحقّق."
+    },
+    "paraQueSirve": {
+      "es": "Comprobar con una suma y estimar dan seguridad: así no hace falta que nadie diga si una cuenta está bien, se puede ver por uno mismo.",
+      "va": "Comprovar amb una suma i estimar donen seguretat: així no cal que ningú diga si un compte està bé, es pot veure per un mateix.",
+      "en": "Checking with an addition and estimating build confidence: that way you don't depend on anyone to say whether a sum is right: you can see it for yourself.",
+      "fr": "Vérifier avec une addition et estimer donnent de l'assurance : ainsi, personne n'a besoin de dire si un calcul est juste, on peut le voir soi-même.",
+      "ar": "التحقّق بالجمع والتقدير يمنحان الثقة: هكذا لا نحتاج أحدًا ليقول إن الحساب صحيح، بل نراه بأنفسنا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Omar dice que {{820 − 395 = 425}}. ¿Qué suma puede hacer para comprobarlo?",
+        "va": "L'Omar diu que {{820 − 395 = 425}}. Quina suma pot fer per a comprovar-ho?",
+        "en": "Omar says that {{820 − 395 = 425}}. What addition can he do to check it?",
+        "fr": "Omar dit que {{820 − 395 = 425}}. Quelle addition peut-il faire pour le vérifier ?",
+        "ar": "يقول عمر إن {{820 − 395 = 425}}. أيّ عملية جمع يمكنه أن يقوم بها ليتحقّق؟"
+      },
+      "pista": {
+        "es": "El resultado más lo que se quita da lo que había arriba.",
+        "va": "El resultat més el que es lleva dona el que hi havia dalt.",
+        "en": "The answer plus what's taken away gives what was on top.",
+        "fr": "Le résultat plus ce qu'on enlève donne ce qu'il y avait en haut.",
+        "ar": "النتيجة زائد ما أُخذ تعطي ما كان في الأعلى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "425 + 395",
+        "resultado": 820,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Con {{425 + 395 = 820}}. Como sale 820, la resta de Omar cuadra.",
+          "va": "Amb {{425 + 395 = 820}}. Com que ix 820, la resta de l'Omar quadra.",
+          "en": "With {{425 + 395 = 820}}. Since it makes 820, Omar's subtraction is right.",
+          "fr": "Avec {{425 + 395 = 820}}. Comme ça fait 820, la soustraction d'Omar est juste.",
+          "ar": "بـ{{425 + 395 = 820}}. بما أن الناتج 820، فطرح عمر صحيح."
+        }
+      },
+      "inventala": {
+        "es": "Haz tú una resta de tres cifras y pide a otra persona que la compruebe con una suma.",
+        "va": "Fes tu una resta de tres xifres i demana a una altra persona que la comprove amb una suma.",
+        "en": "Do a three-digit subtraction and ask someone else to check it with an addition.",
+        "fr": "Fais une soustraction à trois chiffres et demande à une autre personne de la vérifier avec une addition.",
+        "ar": "لنقم بعملية طرح من ثلاثة أرقام ونطلب من شخص آخر أن يتحقّق منها بعملية جمع."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Un rompecabezas tiene 1000 piezas y ya habéis puesto 645. ¿Cuántas faltan? Comprueba tu respuesta con una suma.",
+        "va": "Un trencaclosques té 1000 peces i ja n'heu posat 645. Quantes en falten? Comprova la teua resposta amb una suma.",
+        "en": "A jigsaw has 1000 pieces and you've already put in 645. How many are missing? Check your answer with an addition.",
+        "fr": "Un puzzle a 1000 pièces et vous en avez déjà posé 645. Combien en manque-t-il ? Vérifie ta réponse avec une addition.",
+        "ar": "في أحجية تركيب 1000 قطعة، ووضعنا منها 645. كم قطعة تنقص؟ لنتحقّق من الجواب بعملية جمع."
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba: de 645 a 650, de 650 a 700 y de 700 a 1000.",
+        "va": "Compta cap amunt: de 645 a 650, de 650 a 700 i de 700 a 1000.",
+        "en": "Count up: from 645 to 650, from 650 to 700 and from 700 to 1000.",
+        "fr": "Compte en avançant : de 645 à 650, de 650 à 700 et de 700 à 1000.",
+        "ar": "لنعدّ صعودًا: من 645 إلى 650، ومن 650 إلى 700، ومن 700 إلى 1000."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 - 645",
+        "resultado": 355,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 355 piezas. Y cuadra: {{355 + 645 = 1000}}.",
+          "va": "En falten 355. I quadra: {{355 + 645 = 1000}}.",
+          "en": "355 pieces are missing. And it checks out: {{355 + 645 = 1000}}.",
+          "fr": "Il manque 355 pièces. Et c'est juste : {{355 + 645 = 1000}}.",
+          "ar": "تنقص 355 قطعة. وهذا صحيح: {{355 + 645 = 1000}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿cuánto falta?» y comprueba la respuesta con una suma.",
+        "va": "Inventa'n tu una de «quant en falta?» i comprova la resposta amb una suma.",
+        "en": "Make up a “how many are missing?” one and check the answer with an addition.",
+        "fr": "Invente un problème « combien il manque ? » et vérifie la réponse avec une addition.",
+        "ar": "لنخترع مسألة «كم ينقص؟» ونتحقّق من الجواب بعملية جمع."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Marta calcula {{4012 − 1980}} y le sale 3032. Sin hacer la cuenta, ¿tiene sentido?",
+        "va": "La Marta calcula {{4012 − 1980}} i li ix 3032. Sense fer el compte, té sentit?",
+        "en": "Marta works out {{4012 − 1980}} and gets 3032. Without doing the sum, does that make sense?",
+        "fr": "Marta calcule {{4012 − 1980}} et trouve 3032. Sans faire le calcul, est-ce que ça a du sens ?",
+        "ar": "حسبت مارتا {{4012 − 1980}} فحصلت على 3032. من غير إجراء الحساب، هل لهذا معنى؟"
+      },
+      "pista": {
+        "es": "Redondea: 4000 menos 2000. ¿Cuánto da, más o menos?",
+        "va": "Arrodonix: 4000 menys 2000. Quant dona, més o menys?",
+        "en": "Round: 4000 minus 2000. Roughly how much is that?",
+        "fr": "Arrondis : 4000 moins 2000. Ça fait combien, à peu près ?",
+        "ar": "لنقرّب: 4000 ناقص 2000. كم تساوي تقريبًا؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4012 - 1980",
+        "resultado": 2032,
+        "unidad": "unidades",
+        "texto": {
+          "es": "No: a ojo da unos 2000, así que 3032 es demasiado. La resta da 2032.",
+          "va": "No: a ull dona uns 2000, així que 3032 és massa. La resta dona 2032.",
+          "en": "No: roughly it's about 2000, so 3032 is too much. The subtraction gives 2032.",
+          "fr": "Non : à vue d'œil, ça fait environ 2000, donc 3032, c'est trop. La soustraction donne 2032.",
+          "ar": "لا: تقديريًا نحو 2000، إذن 3032 كثير جدًا. ناتج الطرح 2032."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una resta con un resultado que no tenga sentido y pide a otra persona que lo descubra sin calcular.",
+        "va": "Inventa tu una resta amb un resultat que no tinga sentit i demana a una altra persona que ho descobrisca sense calcular.",
+        "en": "Make up a subtraction with an answer that doesn't make sense and ask someone else to spot it without calculating.",
+        "fr": "Invente une soustraction avec un résultat qui n'a pas de sens et demande à une autre personne de le découvrir sans calculer.",
+        "ar": "لنخترع عملية طرح بنتيجة لا معنى لها ونطلب من شخص آخر أن يكتشف ذلك من غير حساب."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: en una botella hay 1000 ml de agua y os bebéis 250 ml. ¿Cuánta agua queda?",
+        "va": "Per a recordar: en una botella hi ha 1000 ml d'aigua i en beveu 250 ml. Quanta aigua en queda?",
+        "en": "Let's remember: a bottle has 1000 ml of water and you drink 250 ml. How much water is left?",
+        "fr": "Pour se souvenir : dans une bouteille, il y a 1000 ml d'eau et vous en buvez 250 ml. Combien d'eau reste-t-il ?",
+        "ar": "لنتذكّر: في قارورة 1000 مل من الماء، وشربنا منها 250 مل. كم بقي من الماء؟"
+      },
+      "pista": {
+        "es": "Hay ceros arriba: abre un millar en 10 centenas y una centena en 10 decenas.",
+        "va": "Hi ha zeros dalt: obri un miler en 10 centenes i una centena en 10 desenes.",
+        "en": "There are zeros on top: open a thousand into 10 hundreds and a hundred into 10 tens.",
+        "fr": "Il y a des zéros en haut : ouvre un millier en 10 centaines et une centaine en 10 dizaines.",
+        "ar": "في الأعلى أصفار: لنفتح الألف إلى 10 مئات، ومئة إلى 10 عشرات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 - 250",
+        "resultado": 750,
+        "unidad": "ml",
+        "texto": {
+          "es": "Quedan 750 ml de agua.",
+          "va": "En queden 750 ml.",
+          "en": "There are 750 ml of water left.",
+          "fr": "Il reste 750 ml d'eau.",
+          "ar": "بقي 750 مل من الماء."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con una botella o un brik de 1000 ml.",
+        "va": "Inventa'n tu una amb una botella o un brik de 1000 ml.",
+        "en": "Make one up with a 1000 ml bottle or carton.",
+        "fr": "Invente un problème avec une bouteille ou une brique de 1000 ml.",
+        "ar": "لنخترع مسألة عن قارورة أو علبة من 1000 مل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si el resultado de una resta tiene sentido? Explícame qué haces para estar seguro o segura.",
+        "va": "Com saps si el resultat d'una resta té sentit? Explica'm què fas per a estar-ne segur o segura.",
+        "en": "How do you know if the answer to a subtraction makes sense? Explain to me what you do to be sure.",
+        "fr": "Comment sais-tu si le résultat d'une soustraction a du sens ? Explique-moi ce que tu fais pour en être sûr ou sûre.",
+        "ar": "كيف نعرف هل لنتيجة الطرح معنى؟ اشرح لي أو اشرحي لي ماذا نفعل لنكون متأكّدين."
+      },
+      "pista": {
+        "es": "Si se atasca: «¿Te acuerdas de cómo pillaste mi despiste?»",
+        "va": "Si s'encalla: «Te'n recordes de com vas enxampar la meua distracció?»",
+        "en": "If they get stuck: “Do you remember how you caught my slip?”",
+        "fr": "S'il ou elle bloque : « Tu te rappelles comment tu as repéré mon étourderie ? »",
+        "ar": "إذا حدث توقّف: «هل تذكر أو تذكرين كيف اكتشفت سهوي؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Dos ideas que pueden salir: estimar a ojo y comprobar con una suma. Si dice una sola, preguntad «¿y se te ocurre otra forma?».",
+          "va": "Dues idees que poden eixir: estimar a ull i comprovar amb una suma. Si en diu només una, pregunteu «i se t'acut una altra manera?».",
+          "en": "Two ideas that may come up: estimating roughly and checking with an addition. If they only say one, ask “Can you think of another way?”.",
+          "fr": "Deux idées peuvent apparaître : estimer à vue d'œil et vérifier avec une addition. S'il ou elle n'en dit qu'une, demandez « Tu vois une autre façon ? ».",
+          "ar": "فكرتان قد تظهران: التقدير بالعين والتحقّق بالجمع. إذا ذُكرت فكرة واحدة فقط، اسألوا «هل تخطر لك طريقة أخرى؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b6e1fa57f95f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b6e1fa57f95f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b6e1fa57f95f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b6e1fa57f95f"
+      }
+    }
+  }
+}

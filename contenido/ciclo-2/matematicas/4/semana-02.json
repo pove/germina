@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s02",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 2,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuánto vale cada cifra?",
+    "va": "Quant val cada xifra?",
+    "en": "What is each digit worth?",
+    "fr": "Combien vaut chaque chiffre ?",
+    "ar": "كم يساوي كل رقم؟"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren que una cifra vale distinto según su sitio, hasta la centena de millar: en 975 420, el 7 vale 70 000. En clase lo llaman «valor posicional».",
+    "va": "Aquesta setmana descobreixen que una xifra (cifra) val diferent segons el seu lloc, fins a la centena de miler: en 975 420, el 7 val 70 000. A classe ho diuen en castellà: «valor posicional».",
+    "en": "This week they discover that a digit (cifra) is worth something different depending on its place, up to the hundred-thousands: in 975 420, the 7 is worth 70 000. In class, in Spanish, they call it «valor posicional» (place value).",
+    "fr": "Cette semaine, on découvre qu'un chiffre (cifra) vaut différemment selon sa place, jusqu'aux centaines de mille : dans 975 420, le 7 vaut 70 000. En classe, en espagnol, on l'appelle « valor posicional » (valeur de position).",
+    "ar": "هذا الأسبوع يكتشف الأطفال أن قيمة الرقم (cifra) تختلف حسب مكانه، حتى مئات الآلاف: في 975 420، الرقم 7 يساوي 70 000. في القسم يسمّونها بالإسبانية «valor posicional» (القيمة المكانية)."
+  },
+  "comoAyudar": {
+    "es": "Jugad a «¿cuánto vale el 5?» con matrículas, precios o números de portal. Una pregunta rápida en el coche o en la cola del súper basta.",
+    "va": "Jugueu a «quant val el 5?» amb matrícules, preus o números de portal. Amb una pregunta ràpida en el cotxe o en la cua del súper n'hi ha prou.",
+    "en": "Play “What is the 5 worth?” with number plates, prices or door numbers. A quick question in the car or in the supermarket queue is enough.",
+    "fr": "Jouez à « Combien vaut le 5 ? » avec des plaques d'immatriculation, des prix ou des numéros de porte. Une question rapide en voiture ou dans la file du supermarché suffit.",
+    "ar": "العبوا لعبة «كم يساوي الرقم 5؟» بلوحات السيارات أو الأسعار أو أرقام البيوت. سؤال سريع في السيارة أو في طابور السوق يكفي."
+  },
+  "saberes": [
+    "matematicas.numeros.millar",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c2.5.3",
+    "matematicas.c2.2.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Seis cartas de cifras",
+      "va": "Sis cartes de xifres",
+      "en": "Six digit cards",
+      "fr": "Six cartes chiffres",
+      "ar": "ست بطاقات أرقام"
+    },
+    "material": [
+      {
+        "es": "10 papelitos con las cifras del 0 al 9 (o una baraja en la que la sota valga 0)",
+        "va": "10 paperets amb les xifres del 0 al 9 (o una baralla en què la sota valga 0)",
+        "en": "10 slips of paper with the digits 0 to 9 (or a pack of cards where the jack is worth 0)",
+        "fr": "10 petits papiers avec les chiffres de 0 à 9 (ou un jeu de cartes où le valet vaut 0)",
+        "ar": "10 أوراق صغيرة عليها الأرقام من 0 إلى 9 (أو أوراق لعب يساوي فيها الولد 0)"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Mezclad las cartas boca abajo y sacad 6. Por ejemplo: 4, 0, 7, 2, 9 y 5.",
+          "va": "Mescleu les cartes cap per avall i n'agafeu 6. Per exemple: 4, 0, 7, 2, 9 i 5.",
+          "en": "Shuffle the cards face down and draw 6. For example: 4, 0, 7, 2, 9 and 5.",
+          "fr": "Mélangez les cartes face cachée et tirez-en 6. Par exemple : 4, 0, 7, 2, 9 et 5.",
+          "ar": "اخلطوا البطاقات ووجهها إلى الأسفل واسحبوا 6. مثلًا: 4 و0 و7 و2 و9 و5."
+        }
+      },
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Formad el número más grande: 975 420. Leedlo: «novecientos setenta y cinco mil cuatrocientos veinte».",
+          "va": "Formeu el nombre més gran: 975 420. Llegiu-lo: «nou-cents setanta-cinc mil quatre-cents vint».",
+          "en": "Make the biggest number: 975 420. Read it: “nine hundred and seventy-five thousand four hundred and twenty”.",
+          "fr": "Formez le plus grand nombre : 975 420. Lisez-le : « neuf cent soixante-quinze mille quatre cent vingt ».",
+          "ar": "كوّنوا أكبر عدد: 975 420. اقرؤوه: «تسعمئة وخمسة وسبعون ألفًا وأربعمئة وعشرون»."
+        }
+      },
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Ahora el más pequeño, sin empezar por 0: 204 579. ¿Dónde habéis puesto el 0 y por qué?",
+          "va": "Ara el més menut, sense començar per 0: 204 579. On heu posat el 0 i per què?",
+          "en": "Now the smallest, without starting with 0: 204 579. Where did you put the 0 and why?",
+          "fr": "Maintenant le plus petit, sans commencer par 0 : 204 579. Où avez-vous mis le 0 et pourquoi ?",
+          "ar": "والآن أصغر عدد، من غير أن نبدأ بـ0: 204 579. أين وضعتم الـ0 ولماذا؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, una persona señala una carta del número grande y la otra dice cuánto vale allí: el 7 de 975 420 vale 70 000.",
+          "va": "Per torns, una persona assenyala una carta del nombre gran i l'altra diu quant val allí: el 7 de 975 420 val 70 000.",
+          "en": "Taking turns, one person points to a card in the big number and the other says what it is worth there: the 7 in 975 420 is worth 70 000.",
+          "fr": "Chacun son tour, une personne montre une carte du grand nombre et l'autre dit combien elle vaut à cet endroit : le 7 de 975 420 vaut 70 000.",
+          "ar": "بالدور، يشير شخص إلى بطاقة في العدد الكبير ويقول الآخر كم تساوي هناك: الرقم 7 في 975 420 يساوي 70 000."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 4 o 5 cartas.",
+      "va": "Comenceu amb 4 o 5 cartes.",
+      "en": "Start with 4 or 5 cards.",
+      "fr": "Commencez avec 4 ou 5 cartes.",
+      "ar": "ابدؤوا بـ4 أو 5 بطاقات."
+    },
+    "masDificil": {
+      "es": "Con las 6 cartas, formad el número más cercano a 500 000. ¿Quién se acerca más?",
+      "va": "Amb les 6 cartes, formeu el nombre més pròxim a 500 000. Qui s'hi acosta més?",
+      "en": "With the 6 cards, make the number closest to 500 000. Who gets closest?",
+      "fr": "Avec les 6 cartes, formez le nombre le plus proche de 500 000. Qui s'en approche le plus ?",
+      "ar": "بالبطاقات الست، كوّنوا أقرب عدد إلى 500 000. من يقترب أكثر؟"
+    },
+    "paraQueSirve": {
+      "es": "Saber cuánto vale cada cifra es lo que permite leer, comparar y calcular con números grandes sin perderse.",
+      "va": "Saber quant val cada xifra és el que permet llegir, comparar i calcular amb nombres grans sense perdre's.",
+      "en": "Knowing what each digit is worth is what lets you read, compare and calculate with big numbers without getting lost.",
+      "fr": "Savoir ce que vaut chaque chiffre, c'est ce qui permet de lire, comparer et calculer avec de grands nombres sans se perdre.",
+      "ar": "معرفة قيمة كل رقم هي ما يسمح بقراءة الأعداد الكبيرة ومقارنتها والحساب بها من غير ضياع."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el número 47 382, ¿cuánto vale el 7?",
+        "va": "En el nombre 47 382, quant val el 7?",
+        "en": "In the number 47 382, what is the 7 worth?",
+        "fr": "Dans le nombre 47 382, combien vaut le 7 ?",
+        "ar": "في العدد 47 382، كم يساوي الرقم 7؟"
+      },
+      "pista": {
+        "es": "Cuenta los sitios desde la derecha: unidades, decenas, centenas, millares…",
+        "va": "Compta els llocs des de la dreta: unitats, desenes, centenes, milers…",
+        "en": "Count the places from the right: ones, tens, hundreds, thousands…",
+        "fr": "Compte les places à partir de la droite : unités, dizaines, centaines, milliers…",
+        "ar": "لنعدّ الخانات من اليمين: آحاد، عشرات، مئات، آلاف…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 1000",
+        "resultado": 7000,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Vale 7000, porque está en los millares.",
+          "va": "Val 7000, perquè està en els milers.",
+          "en": "It's worth 7000, because it's in the thousands.",
+          "fr": "Il vaut 7000, car il est aux milliers.",
+          "ar": "يساوي 7000، لأنه في خانة الآلاف."
+        }
+      },
+      "inventala": {
+        "es": "Escribe tú un número largo y pregunta cuánto vale una de sus cifras.",
+        "va": "Escriu tu un nombre llarg i pregunta quant val una de les seues xifres.",
+        "en": "Write a long number and ask what one of its digits is worth.",
+        "fr": "Écris un long nombre et demande combien vaut un de ses chiffres.",
+        "ar": "لنكتب عددًا طويلًا ونسأل كم يساوي أحد أرقامه."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Si en 35 619 cambias el 3 por un 5, ¿cuánto aumenta el número?",
+        "va": "Si en 35 619 canvies el 3 per un 5, quant augmenta el nombre?",
+        "en": "If you change the 3 in 35 619 to a 5, how much bigger does the number get?",
+        "fr": "Si, dans 35 619, tu changes le 3 en 5, de combien le nombre augmente-t-il ?",
+        "ar": "إذا غيّرنا الرقم 3 في 35 619 إلى 5، بكم يزيد العدد؟"
+      },
+      "pista": {
+        "es": "El 3 está en las decenas de millar. ¿Cuánto vale ahí? ¿Y el 5?",
+        "va": "El 3 està en les desenes de miler. Quant val allí? I el 5?",
+        "en": "The 3 is in the ten-thousands. What is it worth there? And the 5?",
+        "fr": "Le 3 est aux dizaines de mille. Combien vaut-il là ? Et le 5 ?",
+        "ar": "الرقم 3 في خانة عشرات الآلاف. كم يساوي هناك؟ والرقم 5؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "55619 - 35619",
+        "resultado": 20000,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Aumenta 20 000: el número pasa a ser 55 619.",
+          "va": "Augmenta 20 000: el nombre passa a ser 55 619.",
+          "en": "It gets 20 000 bigger: the number becomes 55 619.",
+          "fr": "Il augmente de 20 000 : le nombre devient 55 619.",
+          "ar": "يزيد 20 000: يصبح العدد 55 619."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que cambies una sola cifra de un número y se pregunte cuánto cambia.",
+        "va": "Inventa'n tu una en què canvies una sola xifra d'un nombre i es pregunte quant canvia.",
+        "en": "Make one up where you change just one digit of a number and ask how much it changes.",
+        "fr": "Invente un problème où tu changes un seul chiffre d'un nombre et où l'on demande de combien il change.",
+        "ar": "لنخترع مسألة نغيّر فيها رقمًا واحدًا في عدد ونسأل بكم يتغيّر."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "La familia de Amina ahorra 2300 € para arreglar la cocina. ¿Cuántos billetes de 100 € son?",
+        "va": "La família de l'Amina estalvia 2300 € per a arreglar la cuina. Quants bitllets de 100 € són?",
+        "en": "Amina's family saves 2300 € to do up the kitchen. How many 100 € notes is that?",
+        "fr": "La famille d'Amina économise 2300 € pour refaire la cuisine. Combien de billets de 100 € cela fait-il ?",
+        "ar": "تدّخر عائلة أمينة 2300 يورو لإصلاح المطبخ. كم ورقة من فئة 100 يورو هي؟"
+      },
+      "pista": {
+        "es": "1000 son 10 centenas. Entonces, ¿cuántas centenas hay en 2000? ¿Y en 2300?",
+        "va": "1000 són 10 centenes. Aleshores, quantes centenes hi ha en 2000? I en 2300?",
+        "en": "1000 is 10 hundreds. So how many hundreds are there in 2000? And in 2300?",
+        "fr": "1000, c'est 10 centaines. Alors, combien y a-t-il de centaines dans 2000 ? Et dans 2300 ?",
+        "ar": "1000 هي 10 مئات. إذن، كم مئة في 2000؟ وفي 2300؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2300 : 100",
+        "resultado": 23,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 23 billetes de 100 €.",
+          "va": "Són 23 bitllets de 100 €.",
+          "en": "That's 23 notes of 100 €.",
+          "fr": "Ça fait 23 billets de 100 €.",
+          "ar": "هي 23 ورقة من فئة 100 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de ahorrar con billetes de 100 € o de 10 €.",
+        "va": "Inventa'n tu una d'estalviar amb bitllets de 100 € o de 10 €.",
+        "en": "Make one up about saving with 100 € or 10 € notes.",
+        "fr": "Invente un problème d'économies avec des billets de 100 € ou de 10 €.",
+        "ar": "لنخترع مسألة ادّخار بأوراق من 100 يورو أو 10 يورو."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 1,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: un club tiene 3 grupos de 1000 personas socias, 4 grupos de 100 y 8 personas más. ¿Cuántas personas son?",
+        "va": "Per a recordar: un club té 3 grups de 1000 persones sòcies, 4 grups de 100 i 8 persones més. Quantes persones són?",
+        "en": "Let's remember: a club has 3 groups of 1000 members, 4 groups of 100 and 8 more people. How many people is that?",
+        "fr": "Pour se souvenir : un club a 3 groupes de 1000 membres, 4 groupes de 100 et 8 personnes de plus. Combien de personnes cela fait-il ?",
+        "ar": "لنتذكّر: في نادٍ 3 مجموعات في كل منها 1000 عضو، و4 مجموعات في كل منها 100، و8 أشخاص آخرون. كم شخصًا هم؟"
+      },
+      "pista": {
+        "es": "3 millares, 4 centenas, ninguna decena y 8 unidades.",
+        "va": "3 milers, 4 centenes, cap desena i 8 unitats.",
+        "en": "3 thousands, 4 hundreds, no tens and 8 ones.",
+        "fr": "3 milliers, 4 centaines, aucune dizaine et 8 unités.",
+        "ar": "3 آلاف و4 مئات ولا عشرات و8 آحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3000 + 400 + 8",
+        "resultado": 3408,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 3408 personas.",
+          "va": "Són 3408 persones.",
+          "en": "That's 3408 people.",
+          "fr": "Ça fait 3408 personnes.",
+          "ar": "هم 3408 أشخاص."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con grupos de 1000 y de 100 en la que no haya decenas.",
+        "va": "Inventa'n tu una amb grups de 1000 i de 100 en què no hi haja desenes.",
+        "en": "Make one up with groups of 1000 and 100 where there are no tens.",
+        "fr": "Invente un problème avec des groupes de 1000 et de 100 sans dizaines.",
+        "ar": "لنخترع مسألة فيها مجموعات من 1000 و100 لا توجد فيها عشرات."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué el 5 de 500 y el 5 de 50 no valen lo mismo? Explícamelo como si yo no lo supiera.",
+        "va": "Per què el 5 de 500 i el 5 de 50 no valen el mateix? Explica-m'ho com si jo no ho sabera.",
+        "en": "Why aren't the 5 in 500 and the 5 in 50 worth the same? Explain it to me as if I didn't know.",
+        "fr": "Pourquoi le 5 de 500 et le 5 de 50 ne valent-ils pas la même chose ? Explique-le-moi comme si je ne le savais pas.",
+        "ar": "لماذا لا يساوي الرقم 5 في 500 الرقم 5 في 50؟ اشرح لي أو اشرحي لي كأنني لا أعرف."
+      },
+      "pista": {
+        "es": "Si se atasca: «¿Prefieres 5 billetes de 100 € o 5 billetes de 10 €?»",
+        "va": "Si s'encalla: «Prefereixes 5 bitllets de 100 € o 5 bitllets de 10 €?»",
+        "en": "If they get stuck: “Would you rather have 5 notes of 100 € or 5 notes of 10 €?”",
+        "fr": "S'il ou elle bloque : « Tu préfères 5 billets de 100 € ou 5 billets de 10 € ? »",
+        "ar": "إذا حدث توقّف: «أيّهما نفضّل: 5 أوراق من 100 يورو أم 5 أوراق من 10 يورو؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea es que lo que cambia es el sitio: en 500 el 5 está en las centenas y en 50, en las decenas. Si lo explica con billetes, es una explicación estupenda.",
+          "va": "La idea és que el que canvia és el lloc: en 500 el 5 està en les centenes i en 50, en les desenes. Si ho explica amb bitllets, és una explicació estupenda.",
+          "en": "The idea is that what changes is the place: in 500 the 5 is in the hundreds and in 50, in the tens. If they explain it with notes, that's a great explanation.",
+          "fr": "L'idée, c'est que ce qui change, c'est la place : dans 500, le 5 est aux centaines et dans 50, aux dizaines. S'il ou elle l'explique avec des billets, c'est une très bonne explication.",
+          "ar": "الفكرة أن الذي يتغيّر هو المكان: في 500 الرقم 5 في خانة المئات، وفي 50 في خانة العشرات. إذا كان الشرح بالأوراق النقدية، فهو شرح رائع."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "18358e3be6e8"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "18358e3be6e8"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "18358e3be6e8"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "18358e3be6e8"
+      }
+    }
+  }
+}
