@@ -6,6 +6,7 @@ import { anoCursoHoy, datos, guardar } from '../estado';
 import { t, tDinamico } from '../idioma';
 import { cursosActivos, type Catalogo } from '../nucleo/catalogo';
 import { claveCurso } from '../nucleo/tipos';
+import { Icono } from '../piezas/Icono';
 import { SelectorIdioma } from '../piezas/SelectorIdioma';
 import { Explicacion } from './Jardin';
 
@@ -30,8 +31,11 @@ export function Bienvenida() {
 
   return (
     <>
-      <h1 tabIndex={-1}>{t('bienvenida.titulo')}</h1>
-      <p class="lema">{t('app.lema')}</p>
+      <div class="portada portada-bienvenida">
+        <Icono nombre="jardin" clase="icono-portada" />
+        <h1 tabIndex={-1}>{t('bienvenida.titulo')}</h1>
+        <p class="lema">{t('app.lema')}</p>
+      </div>
 
       <section aria-labelledby="idioma">
         <h2 id="idioma">{t('bienvenida.idioma')}</h2>

@@ -15,15 +15,49 @@
   src: url('./assets/fuentes/atkinson-hyperlegible-latin-700-normal.woff2') format('woff2');
 }
 
+/*
+ * Colores. Cada pareja de texto o de control con su fondo cumple WCAG 2.1 AA (4,5:1 el texto, 3:1 los bordes de
+ * los controles, el foco y los dibujos): lo comprueba scripts/__tests__/contraste.test.mjs. Si añades o cambias uno,
+ * añádelo allí.
+ *
+ * Cada cosa tiene siempre su color: el reto, coral; las preguntas, azul; el jardín y lo que se toca, verde; hoy, sol.
+ * El texto va en tinta, no en color.
+ */
 :root {
   color-scheme: light;
-  --fondo: #fbf8f1;
-  --texto: #1f2a1f;
-  --acento: #2f6b3a;
-  --acento-suave: #e4efdf;
-  --flor: #9a3b12;
-  --borde: #b9c7b3;
+  /* Fondos */
+  --fondo: #f6f3ec;
   --tarjeta: #ffffff;
+  --acento-suave: #e3f1e4;
+  --acento-hover: #d2e8d4;
+  --hierba-suave: #e8f2e3;
+  --reto-suave: #fde6db;
+  --pregunta-suave: #e1edf9;
+  --sol-suave: #fff0c2;
+  --tierra-suave: #efe3d2;
+  --flor-suave: #fce8ee;
+  --gris-suave: #eeebe3;
+  /* Texto y trazos */
+  --texto: #1d2420;
+  --texto-suave: #4b5550;
+  --acento: #1f6f43;
+  --acento-oscuro: #16522f;
+  --sobre-acento: #ffffff;
+  --reto: #a83a14;
+  --pregunta: #1d5c96;
+  --sol: #7a5200;
+  --tierra: #7a4f2c;
+  --flor: #a83a14;
+  --flor-rosa: #b0306a;
+  --flor-morada: #6b3fa0;
+  --borde-control: #6f7b74;
+  --foco: #1d2420;
+  /* Solo adorno: no separan ni nombran nada */
+  --borde: #ddd7ca;
+  --sol-vivo: #f2b632;
+  --sombra: 0 1px 2px rgb(29 36 32 / 6%), 0 4px 14px rgb(29 36 32 / 7%);
+  --sombra-alta: 0 2px 4px rgb(29 36 32 / 8%), 0 10px 24px rgb(29 36 32 / 12%);
+  --redondeo: 1.25rem;
   --tipografia: 'Atkinson Hyperlegible', system-ui, sans-serif;
 }
 
@@ -41,13 +75,14 @@ body {
   margin: 0;
   background: var(--fondo);
   color: var(--texto);
-  font: 1rem/1.5 var(--tipografia);
+  font: 1rem/1.55 var(--tipografia);
+  overflow-wrap: break-word; /* palabras largas con el zoom al 200 % */
 }
 
 main {
   max-inline-size: 40rem;
   margin-inline: auto;
-  padding: 1rem 1rem 3rem;
+  padding: 0.5rem 1rem 4rem;
 }
 
 main:focus,
@@ -56,21 +91,20 @@ h1:focus {
 }
 
 h1 {
-  margin-block: 0.25rem 0.5rem;
-  color: var(--acento);
-  font-size: 1.75rem;
-  line-height: 1.2;
+  margin-block: 0.5rem 0.75rem;
+  font-size: 2rem;
+  line-height: 1.15;
 }
 
 h2,
 h3,
 h4 {
-  margin-block: 1.5rem 0.5rem;
+  margin-block: 2rem 0.5rem;
   line-height: 1.25;
 }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
 }
 
 h3 {
@@ -83,11 +117,13 @@ p {
 
 a {
   color: var(--acento);
+  text-underline-offset: 0.15em;
 }
 
+/* El foco, en tinta y separado del borde: se ve sobre cualquier fondo, también sobre los botones verdes. */
 :focus-visible {
-  outline: 3px solid var(--acento);
-  outline-offset: 2px;
+  outline: 3px solid var(--foco);
+  outline-offset: 3px;
 }
 
 .solo-lectores {
@@ -105,10 +141,10 @@ a {
   inset-inline-start: 0.5rem;
   z-index: 10;
   padding: 0.75rem 1rem;
-  border: 2px solid var(--acento);
-  border-radius: 0.5rem;
-  background: var(--fondo);
-  color: var(--acento);
+  border: 2px solid var(--texto);
+  border-radius: 999px;
+  background: var(--tarjeta);
+  color: var(--texto);
   font: inherit;
   transform: translateY(-300%);
 }
@@ -117,91 +153,282 @@ a {
   transform: none;
 }
 
-/* Cabecera y menú */
+/* Cabecera: el nombre y el menú */
 .cabecera {
   max-inline-size: 40rem;
   margin-inline: auto;
-  padding: 0.75rem 1rem 0;
+  padding: 0.75rem 1rem 0.5rem;
 }
 
 .marca {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   margin: 0;
-  color: var(--acento);
-  font-size: 1.25rem;
+  color: var(--texto);
+  font-size: 1.375rem;
   font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
-.cabecera nav ul {
+.marca a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-block-size: 2.75rem;
+  border-radius: 0.75rem;
+  color: inherit;
+  text-decoration: none;
+}
+
+.icono.icono-marca {
+  inline-size: 2.25rem;
+  block-size: 2.25rem;
+}
+
+/* Las dos pestañas grandes (Esta semana y El jardín) y, debajo, el resto en pequeño */
+.menu {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.25rem 0.5rem;
+  justify-content: center;
+  gap: 0.5rem 0.125rem;
   margin: 0.5rem 0 0;
   padding: 0;
   list-style: none;
 }
 
-.cabecera nav a {
-  display: inline-flex;
+.menu-principal {
+  flex: 1 1 8rem;
+}
+
+.menu-principal + .menu-principal {
+  margin-inline-start: 0.5rem;
+}
+
+.menu-secundario {
+  flex: 0 0 auto;
+}
+
+.menu .menu-secundario a {
+  padding-inline: 0.375rem;
+}
+
+/* Las secundarias van en su propia fila */
+.menu::after {
+  content: '';
+  order: 1;
+  flex-basis: 100%;
+  block-size: 0;
+}
+
+.menu-secundario {
+  order: 2;
+}
+
+.menu a {
+  display: flex;
   align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
   min-block-size: 2.75rem;
-  padding-inline: 0.75rem;
+  padding-inline: 0.875rem;
   border: 2px solid transparent;
-  border-radius: 0.5rem;
-  color: var(--acento);
+  border-radius: 999px;
+  color: var(--texto);
   text-decoration: none;
 }
 
-.cabecera nav a[aria-current='page'] {
-  border-color: var(--acento);
-  background: var(--acento-suave);
+.menu-principal a {
+  min-block-size: 3rem;
+  padding-inline: 0.625rem;
+  line-height: 1.2;
+  text-align: center;
+  background: var(--tarjeta);
+  box-shadow: var(--sombra);
   font-weight: 700;
+}
+
+.menu-principal .icono {
+  inline-size: 1.5rem;
+  block-size: 1.5rem;
+}
+
+.menu-principal a[aria-current='page'] {
+  background: var(--acento);
+  color: var(--sobre-acento);
+}
+
+.menu-secundario a {
+  color: var(--texto-suave);
+}
+
+.menu-secundario a[aria-current='page'] {
+  color: var(--texto);
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 0.35em;
 }
 
 .contexto,
 .subtitulo {
   margin-block: 0.25rem;
-  color: #4a5a4a;
+  color: var(--texto-suave);
+}
+
+.contexto {
+  font-size: 0.9375rem;
 }
 
 .lema {
+  font-size: 1.25rem;
+  color: var(--texto-suave);
+}
+
+.entradilla {
   font-size: 1.125rem;
 }
 
-/* Botones: siempre con texto, de 44 px o más. Solo uno principal por pantalla. */
+/*
+ * Botones: siempre con texto y de 44 px o más. Solo uno principal por pantalla (verde lleno); los demás, en verde
+ * suave. El borde transparente se vuelve visible en el modo de alto contraste.
+ */
 .boton,
 .selector-idioma button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: 0.5rem;
   min-block-size: 2.75rem;
   min-inline-size: 2.75rem;
-  padding: 0.5rem 1rem;
-  border: 2px solid var(--acento);
-  border-radius: 0.5rem;
-  background: var(--fondo);
-  color: var(--acento);
+  padding: 0.5rem 1.125rem;
+  border: 2px solid transparent;
+  border-radius: 999px;
+  background: var(--acento-suave);
+  color: var(--acento-oscuro);
   font: inherit;
+  font-weight: 700;
   text-decoration: none;
   cursor: pointer;
+  transition: background-color 0.15s, transform 0.1s, box-shadow 0.15s;
 }
 
 .boton-principal,
 .selector-idioma button[aria-pressed='true'] {
   background: var(--acento);
-  color: #fff;
+  color: var(--sobre-acento);
 }
 
-.boton[aria-expanded='true'] {
-  background: var(--acento-suave);
+.boton-principal {
+  min-block-size: 3rem;
+  padding-inline: 1.5rem;
+  box-shadow: var(--sombra);
+  font-size: 1.0625rem;
 }
 
 .boton-principal[aria-pressed='true'] {
-  background: #1f4d29;
+  background: var(--acento-oscuro);
 }
 
 .boton:disabled {
-  opacity: 0.55;
+  background: var(--gris-suave);
+  color: var(--texto-suave);
+  box-shadow: none;
   cursor: not-allowed;
+}
+
+/*
+ * Los botones de elegir (idioma, curso) dicen con una marca, y no solo con el color, cuál está elegido. La marca se
+ * dibuja con bordes y sin texto, para que no cambie el nombre del botón (el lector ya dice «pulsado»).
+ */
+.selector-idioma button[aria-pressed='true']::before {
+  content: '';
+  inline-size: 0.375rem;
+  block-size: 0.75rem;
+  margin-block-start: -0.25rem;
+  border-block-end: 3px solid currentColor;
+  border-inline-end: 3px solid currentColor;
+  transform: rotate(45deg);
+}
+
+html[dir='rtl'] .selector-idioma button[aria-pressed='true']::before {
+  transform: rotate(-45deg);
+}
+
+@media (hover: hover) {
+  .boton:not(:disabled):hover,
+  .selector-idioma button:hover {
+    background: var(--acento-hover);
+  }
+
+  .boton-principal:not(:disabled):hover,
+  .selector-idioma button[aria-pressed='true']:hover {
+    background: var(--acento-oscuro);
+  }
+
+  .menu-principal a:not([aria-current='page']):hover {
+    background: var(--acento-suave);
+  }
+
+  .menu-secundario a:hover {
+    color: var(--texto);
+    text-decoration: underline;
+  }
+}
+
+.boton:not(:disabled):active {
+  transform: translateY(1px);
+}
+
+/* Un icono dentro de un botón, delante del texto */
+.icono.icono-boton {
+  inline-size: 1.5rem;
+  block-size: 1.5rem;
+  color: currentColor;
+}
+
+/* El signo de interrogación va al revés en árabe (؟) */
+html[dir='rtl'] .icono-ayuda {
+  transform: scaleX(-1);
+}
+
+/* Flechas de texto (← anterior, siguiente →): se reflejan en árabe */
+.flecha-texto {
+  display: inline-block;
+  font-weight: 700;
+}
+
+html[dir='rtl'] .flecha-texto {
+  transform: scaleX(-1);
+}
+
+/* Pista, respuesta, «invéntala tú»: un botón con un triángulo que gira al abrir */
+.boton-plegable::after {
+  content: '';
+  inline-size: 0.5rem;
+  block-size: 0.5rem;
+  border-block-end: 2px solid currentColor;
+  border-inline-end: 2px solid currentColor;
+  transform: rotate(45deg) translate(-2px, -2px);
+  transition: transform 0.15s;
+}
+
+.boton-plegable[aria-expanded='true']::after {
+  transform: rotate(-135deg) translate(-2px, -2px);
+}
+
+/* En árabe los bordes lógicos cambian de lado: se gira al revés para que siga apuntando abajo (y arriba al abrir) */
+html[dir='rtl'] .boton-plegable::after {
+  transform: rotate(-45deg) translate(2px, -2px);
+}
+
+html[dir='rtl'] .boton-plegable[aria-expanded='true']::after {
+  transform: rotate(135deg) translate(2px, -2px);
+}
+
+.boton-plegable[aria-expanded='true'] {
+  background: var(--tarjeta);
+  border-color: var(--acento);
 }
 
 .selector-idioma {
@@ -209,6 +436,12 @@ a {
   flex-wrap: wrap;
   gap: 0.5rem;
   margin-block: 1rem;
+}
+
+.selector-idioma button {
+  background: var(--tarjeta);
+  color: var(--texto);
+  box-shadow: var(--sombra);
 }
 
 .acciones,
@@ -221,48 +454,228 @@ a {
   margin-block: 1rem;
 }
 
+.acciones-pie {
+  margin-block-start: 2rem;
+}
+
+/* Pregunta anterior y siguiente, cada una en su lado */
+.paginacion {
+  justify-content: space-between;
+}
+
+.paginacion [rel='next'] {
+  margin-inline-start: auto;
+}
+
 .plegable {
   display: contents;
 }
 
 .plegable-contenido {
   inline-size: 100%;
-  padding: 0.5rem 1rem;
-  border-inline-start: 4px solid var(--acento);
+  padding: 0.75rem 1rem;
+  border-radius: 1rem;
   background: var(--acento-suave);
-  border-radius: 0.25rem;
 }
 
+.plegable-contenido > :first-child {
+  margin-block-start: 0;
+}
+
+.plegable-contenido > :last-child {
+  margin-block-end: 0;
+}
+
+/* «✓ Jugado», «✓ Hablada»: una etiqueta verde, con la marca y la palabra */
 .estado-marcado {
-  color: var(--acento);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.125rem 0.75rem;
+  border-radius: 999px;
+  background: var(--acento-suave);
+  color: var(--acento-oscuro);
   font-weight: 700;
 }
 
-/* Tarjetas */
+/* Tarjetas: blancas, redondeadas y con sombra. El borde transparente aparece en alto contraste. */
 .tarjeta {
   margin-block: 1rem;
-  padding: 0.5rem 1rem 1rem;
-  border: 2px solid var(--borde);
-  border-radius: 0.75rem;
+  padding: 1rem 1.25rem 1.25rem;
+  border: 1px solid transparent;
+  border-radius: var(--redondeo);
+  background: var(--tarjeta);
+  box-shadow: var(--sombra);
+}
+
+.tarjeta > :first-child,
+.tarjeta-cabeza h2,
+.tarjeta h2,
+.tarjeta h3 {
+  margin-block-start: 0;
+}
+
+.tarjeta > :last-child {
+  margin-block-end: 0;
+}
+
+/* Cabecera de una tarjeta: un dibujo en una burbuja de color y, al lado, el antetítulo y el título */
+.tarjeta-cabeza,
+.portada-reto,
+.en-camino {
+  flex-wrap: wrap;
+}
+
+/* Lo que va al lado de un dibujo puede encogerse: con el zoom al 200 % no se sale por el lado */
+.tarjeta-cabeza > *,
+.portada-reto > *,
+.en-camino > *,
+.selector-semana .semana-actual {
+  min-inline-size: 0;
+}
+
+.tarjeta-cabeza > div,
+.portada-reto > div,
+.en-camino > div {
+  flex: 1 1 10rem;
+}
+
+.tarjeta-cabeza {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-block-end: 0.75rem;
+}
+
+.burbuja {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  inline-size: 4rem;
+  block-size: 4rem;
+  border-radius: 50%;
+  background: var(--acento-suave);
+  color: var(--acento);
+}
+
+.burbuja .pictograma,
+.burbuja .icono {
+  inline-size: 2.75rem;
+  block-size: 2.75rem;
+  color: inherit;
+}
+
+.antetitulo {
+  margin: 0;
+  color: var(--texto-suave);
+  font-size: 0.9375rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.titulo-tarjeta {
+  margin: 0.125rem 0 0;
+  font-size: 1.375rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin-block: 0.75rem;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.125rem 0.75rem;
+  border-radius: 999px;
+  background: var(--gris-suave);
+  color: var(--texto);
+}
+
+/* El reto: coral */
+.tarjeta-reto {
+  background: var(--reto-suave);
+  box-shadow: none;
+}
+
+.tarjeta-reto .burbuja,
+.portada-reto .burbuja,
+.pasos .burbuja {
+  background: var(--reto-suave);
+  color: var(--reto);
+}
+
+.tarjeta-reto .burbuja {
   background: var(--tarjeta);
 }
 
-.tarjeta h2,
-.tarjeta h3 {
-  margin-block-start: 0.5rem;
+/* Las preguntas: azul */
+.tarjeta-pregunta.destacada {
+  background: var(--pregunta-suave);
+  box-shadow: none;
 }
 
+.tarjeta-pregunta .burbuja {
+  background: var(--tarjeta);
+  color: var(--pregunta);
+}
+
+/* Cómo ayudar y avisos: sol */
+.tarjeta-ayuda {
+  background: var(--sol-suave);
+  box-shadow: none;
+}
+
+.tarjeta-ayuda .burbuja {
+  inline-size: 3rem;
+  block-size: 3rem;
+  background: var(--tarjeta);
+  color: var(--sol);
+}
+
+.tarjeta-ayuda .burbuja .icono {
+  inline-size: 2rem;
+  block-size: 2rem;
+}
+
+/* El trimestre de ahora: verde suave y la etiqueta «Ahora» (no solo el color) */
 .destacada {
-  border-color: var(--acento);
   background: var(--acento-suave);
+  box-shadow: none;
+}
+
+.chip-hoy {
+  background: var(--sol-suave);
+  font-weight: 700;
+}
+
+/* Cómo ayudar: cada idea con una raya de sol */
+.idea {
+  border-inline-start: 6px solid var(--sol-vivo);
+}
+
+/* Confirmar «empezar de cero» */
+.aviso-confirmar {
+  padding: 0.75rem 1rem;
+  border-radius: 1rem;
+  background: var(--sol-suave);
 }
 
 .aviso-seguridad {
-  border-color: var(--flor);
+  border-inline-start: 6px solid var(--reto);
+  background: var(--tarjeta);
 }
 
 .texto-pregunta {
-  font-size: 1.25rem;
+  font-size: 1.375rem;
+  line-height: 1.4;
 }
 
 .etiqueta {
@@ -287,17 +700,80 @@ a {
   }
 }
 
+.tarjeta-facil {
+  background: var(--acento-suave);
+  box-shadow: none;
+}
+
+.tarjeta-dificil {
+  background: var(--reto-suave);
+  box-shadow: none;
+}
+
+/* Portada de una pantalla: el título grande sobre una franja de color */
+.portada {
+  margin-block: 0.5rem 1.5rem;
+  padding: 1.25rem;
+  border-radius: var(--redondeo);
+  background: var(--acento-suave);
+}
+
+.portada h1 {
+  margin-block: 0.25rem 0.5rem;
+}
+
+.portada > :last-child {
+  margin-block-end: 0;
+}
+
+.portada-reto {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  background: var(--reto-suave);
+}
+
+.portada-reto .burbuja {
+  inline-size: 5rem;
+  block-size: 5rem;
+  background: var(--tarjeta);
+}
+
+.portada-reto .burbuja .pictograma {
+  inline-size: 3.25rem;
+  block-size: 3.25rem;
+}
+
+.portada-pregunta {
+  background: var(--pregunta-suave);
+}
+
+.portada-bienvenida {
+  text-align: center;
+}
+
+.portada-bienvenida .icono-portada {
+  inline-size: 5rem;
+  block-size: 5rem;
+}
+
 /* Selector de semana: ◀ Semana 7 ▶ (las flechas se reflejan en árabe) */
 .selector-semana {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 0.5rem;
-  margin-block: 0.5rem;
+  margin-block: 0.75rem;
+  padding: 0.25rem;
+  border-radius: 999px;
+  background: var(--tarjeta);
+  box-shadow: var(--sombra);
 }
 
 .semana-actual {
+  flex: 1 1 auto;
   margin: 0;
+  text-align: center;
   font-size: 1.125rem;
   font-weight: 700;
 }
@@ -308,15 +784,22 @@ a {
   justify-content: center;
   min-block-size: 2.75rem;
   min-inline-size: 2.75rem;
-  border: 2px solid var(--acento);
-  border-radius: 0.5rem;
-  color: var(--acento);
+  border: 2px solid transparent;
+  border-radius: 50%;
+  background: var(--acento-suave);
+  color: var(--acento-oscuro);
   text-decoration: none;
 }
 
 .flecha.inactiva {
-  border-color: transparent;
+  background: transparent;
   color: transparent;
+}
+
+@media (hover: hover) {
+  .flecha:not(.inactiva):hover {
+    background: var(--acento-hover);
+  }
 }
 
 html[dir='rtl'] .flecha > span[aria-hidden='true'] {
@@ -333,22 +816,20 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
 .insignia {
   display: inline-block;
   padding: 0.25rem 0.75rem;
-  border: 1px solid var(--acento);
   border-radius: 999px;
-  background: var(--acento-suave);
+  background: var(--tarjeta);
   color: var(--texto);
 }
 
 .insignia.aviso {
-  border-color: var(--borde);
-  background: #f1efe7;
+  background: var(--gris-suave);
 }
 
 .aviso-fin-de-semana,
 .aviso-instalar {
   padding: 0.75rem 1rem;
-  border-radius: 0.5rem;
-  background: var(--acento-suave);
+  border-radius: 1rem;
+  background: var(--sol-suave);
 }
 
 .aviso-global {
@@ -356,11 +837,11 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
   flex-wrap: wrap;
   align-items: center;
   gap: 0.5rem 1rem;
-  max-inline-size: 40rem;
+  max-inline-size: 38rem;
   margin: 0.5rem auto 0;
-  padding: 0.5rem 1rem;
-  border-radius: 0.5rem;
-  background: #f6e9c8;
+  padding: 0.5rem 0.5rem 0.5rem 1rem;
+  border-radius: 1rem;
+  background: var(--sol-suave);
 }
 
 .aviso-global p {
@@ -368,32 +849,71 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
   margin: 0;
 }
 
-.titulo-reto,
-.en-camino {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-}
-
+/* Las cinco preguntas: una fila por día, la de hoy marcada */
 .lista-preguntas {
+  display: grid;
+  gap: 0.5rem;
   margin: 0;
-  padding-inline-start: 1.5rem;
-}
-
-.lista-preguntas a {
-  display: inline-flex;
-  align-items: center;
-  min-block-size: 2.75rem;
+  padding: 0;
+  list-style: none;
 }
 
 .lista-preguntas li {
-  min-block-size: 2.75rem;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 0.25rem;
+  gap: 0.5rem;
+  padding-inline-end: 0.75rem;
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  background: var(--tarjeta);
+  box-shadow: var(--sombra);
 }
 
-/* Iconos y pictogramas: heredan el color del texto */
+.lista-preguntas a {
+  display: flex;
+  flex: 1 1 auto;
+  align-items: center;
+  gap: 0.75rem;
+  min-block-size: 3.25rem;
+  padding: 0.375rem 0.5rem;
+  border-radius: 1rem;
+  color: var(--texto);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.lista-preguntas a:hover {
+  text-decoration: underline;
+}
+
+.numero-pregunta {
+  display: inline-flex;
+  flex: none;
+  align-items: center;
+  justify-content: center;
+  inline-size: 2.25rem;
+  block-size: 2.25rem;
+  border-radius: 50%;
+  background: var(--pregunta-suave);
+  color: var(--pregunta);
+}
+
+.lista-preguntas .estado-marcado {
+  margin-inline-start: auto;
+  font-size: 0.9375rem;
+}
+
+.lista-preguntas .hoy {
+  border: 2px solid var(--pregunta);
+}
+
+.lista-preguntas .hoy .numero-pregunta {
+  background: var(--pregunta);
+  color: var(--sobre-acento);
+}
+
+/* Iconos y pictogramas: heredan el color */
 .icono,
 .pictograma {
   display: inline-flex;
@@ -417,6 +937,7 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
   block-size: 100%;
 }
 
+/* Pasos del reto: el número y el dibujo en una burbuja coral */
 .pasos,
 .explicacion {
   margin: 0;
@@ -428,68 +949,201 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
 .explicacion li {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  margin-block-end: 0.75rem;
+  gap: 1rem;
+  margin-block-end: 1rem;
 }
 
-/* El jardín: una planta por semana */
-.jardin {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(4.25rem, 1fr));
+.pasos .burbuja {
+  position: relative;
+}
+
+.paso-numero {
+  position: absolute;
+  inset-block-start: -0.25rem;
+  inset-inline-start: -0.25rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  inline-size: 1.5rem;
+  block-size: 1.5rem;
+  border-radius: 50%;
+  background: var(--reto);
+  color: var(--sobre-acento);
+  font-size: 0.875rem;
+  font-weight: 700;
+}
+
+.explicacion .icono {
+  inline-size: 3.5rem;
+  block-size: 3.5rem;
+  padding: 0.5rem;
+  border-radius: 50%;
+  background: var(--acento-suave);
+}
+
+/* Material del reto */
+.material {
+  display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
-.planta {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  min-block-size: 4.5rem;
-  border: 2px solid var(--borde);
-  border-radius: 0.5rem;
+.material li {
+  padding: 0.375rem 0.875rem;
+  border-radius: 999px;
   background: var(--tarjeta);
-  color: var(--acento);
-  text-decoration: none;
+  box-shadow: var(--sombra);
 }
 
-.planta .icono {
-  inline-size: 2rem;
-  block-size: 2rem;
+/* Semilla en camino: la espera y, si la hay, otra semilla lista para jugar */
+.en-camino {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding-block: 1.25rem;
+  background: var(--sol-suave);
+  box-shadow: none;
 }
 
-.planta .numero {
+.en-camino .icono-grande {
+  inline-size: 4rem;
+  block-size: 4rem;
+  color: var(--tierra);
+}
+
+.en-camino p {
+  margin-block: 0 0.75rem;
+}
+
+.en-camino-titulo {
+  font-size: 1.125rem;
   font-weight: 700;
 }
 
-.planta-flor {
-  border-color: var(--flor);
-  color: var(--flor);
+/*
+ * El jardín: un bancal con una planta por semana. Cada parcela tiene cielo arriba y tierra abajo; el número va en la
+ * tierra, como la etiqueta de un semillero. El estado se distingue por el dibujo (semilla, brote, flor) y por el nombre
+ * accesible, nunca solo por el color.
+ */
+.jardin {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(4.5rem, 1fr));
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0.75rem;
+  border-radius: var(--redondeo);
+  background: var(--hierba-suave);
+  list-style: none;
 }
 
-.planta-flor .icono {
-  color: var(--flor);
+.planta {
+  --cielo: var(--tarjeta);
+  --planta: var(--tierra);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  min-block-size: 5.25rem;
+  border: 2px solid var(--borde-control);
+  border-radius: 0.875rem;
+  background: linear-gradient(to top, var(--tierra-suave) 1.75rem, var(--cielo) 1.75rem);
+  color: var(--planta);
+  text-decoration: none;
+  overflow: hidden;
+}
+
+/* La raya del suelo del dibujo cae justo donde empieza la tierra */
+.planta .icono {
+  color: var(--planta);
+  inline-size: 2.5rem;
+  block-size: 2.5rem;
+  margin-block-end: -0.3rem;
+}
+
+.planta .icono path:first-child {
+  stroke: var(--tierra);
+}
+
+.planta .numero {
+  block-size: 1.75rem;
+  color: var(--texto);
+  font-weight: 700;
+  line-height: 1.75rem;
 }
 
 .planta-brote {
+  --cielo: var(--acento-suave);
+  --planta: var(--acento);
   border-color: var(--acento);
 }
 
-.planta-sin-semilla {
-  border-style: dashed;
-  color: #4a5a4a;
+.planta-flor {
+  --cielo: var(--flor-suave);
+  --planta: var(--flor);
+  border-color: var(--planta);
 }
 
-.planta[aria-current='date'] {
-  box-shadow: 0 0 0 3px var(--acento);
+/* Flores de colores distintos, solo por gusto */
+.jardin li:nth-child(3n + 2) .planta-flor {
+  --planta: var(--flor-rosa);
+}
+
+.jardin li:nth-child(3n) .planta-flor {
+  --planta: var(--flor-morada);
+}
+
+.planta-sin-semilla {
+  --cielo: transparent;
+  --planta: var(--borde-control);
+  border: 2px dashed var(--borde);
+  background: linear-gradient(to top, rgb(122 79 44 / 8%) 1.75rem, transparent 1.75rem);
+}
+
+.planta-sin-semilla .icono path:first-child {
+  stroke: var(--borde-control);
+}
+
+/* Hoy: borde grueso y oscuro (se ve también en alto contraste) y un sol encima */
+.planta-hoy {
+  --cielo: var(--sol-suave);
+  border: 3px solid var(--texto);
+}
+
+.planta-sin-semilla.planta-hoy {
+  background: linear-gradient(to top, rgb(122 79 44 / 8%) 1.75rem, var(--sol-suave) 1.75rem);
+}
+
+.planta-hoy::before {
+  content: '';
+  position: absolute;
+  inset-block-start: 0.35rem;
+  inset-inline-end: 0.35rem;
+  inline-size: 0.75rem;
+  block-size: 0.75rem;
+  border-radius: 50%;
+  background: var(--sol-vivo);
+}
+
+a.planta {
+  box-shadow: var(--sombra);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+
+@media (hover: hover) {
+  a.planta:hover {
+    box-shadow: var(--sombra-alta);
+    transform: translateY(-2px);
+  }
 }
 
 /* Cronómetro y récord */
 .reloj {
   margin-block: 0.5rem;
-  font-size: 3rem;
+  font-size: 3.5rem;
   font-weight: 700;
   font-variant-numeric: tabular-nums;
   text-align: center;
@@ -518,25 +1172,25 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
   font-weight: 700;
 }
 
+/* Campos de texto: borde de 3:1 o más, para que se vea dónde escribir */
+.formulario-record input,
+.campo-codigo {
+  min-block-size: 2.75rem;
+  padding-inline: 0.875rem;
+  border: 2px solid var(--borde-control);
+  border-radius: 0.75rem;
+  background: var(--tarjeta);
+  color: var(--texto);
+  font: inherit;
+}
+
 .formulario-record input {
   inline-size: 6rem;
-  min-block-size: 2.75rem;
-  padding-inline: 0.75rem;
-  border: 2px solid var(--acento);
-  border-radius: 0.5rem;
-  font: inherit;
 }
 
 /* Pasar el jardín a otro móvil */
 .campo-codigo {
   inline-size: 100%;
-  min-block-size: 2.75rem;
-  padding-inline: 0.75rem;
-  border: 2px solid var(--acento);
-  border-radius: 0.5rem;
-  background: var(--tarjeta);
-  color: var(--texto);
-  font: inherit;
 }
 
 .formulario-record .campo-codigo {
@@ -547,8 +1201,8 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
 
 .codigo {
   padding: 0.75rem 1rem;
-  border: 2px dashed var(--borde);
-  border-radius: 0.5rem;
+  border: 2px dashed var(--borde-control);
+  border-radius: 0.75rem;
   background: var(--tarjeta);
   font-size: 1.125rem;
   letter-spacing: 0.05em;
@@ -562,7 +1216,9 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
 .qr {
   inline-size: min(100%, 16rem);
   margin-inline: auto;
-  border: 1px solid var(--borde);
+  padding: 0.5rem;
+  border-radius: 0.75rem;
+  background: #fff;
   line-height: 0;
 }
 
@@ -579,12 +1235,13 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
 .tabla-records {
   inline-size: 100%;
   border-collapse: collapse;
+  background: var(--tarjeta);
 }
 
 .tabla-records th,
 .tabla-records td {
   padding: 0.5rem;
-  border: 1px solid var(--borde);
+  border: 1px solid var(--borde-control);
   text-align: start;
   vertical-align: top;
 }
@@ -592,6 +1249,20 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
 .tabla-records .anotar {
   min-inline-size: 5rem;
   block-size: 3rem;
+}
+
+/* Alto contraste: los colores los pone el sistema; se marca lo que solo se veía por el fondo */
+@media (forced-colors: active) {
+  .planta-hoy,
+  .lista-preguntas .hoy {
+    outline: 3px solid CanvasText;
+    outline-offset: 2px;
+  }
+
+  .menu-principal a[aria-current='page'],
+  .selector-idioma button[aria-pressed='true'] {
+    border-color: Highlight;
+  }
 }
 
 @media print {
@@ -617,6 +1288,10 @@ html[dir='rtl'] .flecha > span[aria-hidden='true'] {
   h1,
   a {
     color: #000;
+  }
+
+  .tarjeta {
+    box-shadow: none;
   }
 
   .tabla-records th,

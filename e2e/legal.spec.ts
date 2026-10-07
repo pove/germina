@@ -24,7 +24,7 @@ for (const idioma of ['es', 'ar'] as const) {
       await expect(page).toHaveURL(/#\/accesibilidad$/);
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('accesibilidad.titulo', idioma));
       await expect(page.getByText(T('accesibilidad.objetivo', idioma))).toBeVisible();
-      await expect(page.getByRole('heading', { level: 2 })).toHaveCount(3);
+      await expect(page.getByRole('heading', { level: 2 })).toHaveCount(2);
       await sinProblemasDeAccesibilidad(page);
       await objetivosTactiles(page);
     });

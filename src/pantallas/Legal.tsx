@@ -59,7 +59,6 @@ export function Accesibilidad() {
           lista: ['accesibilidad.cuidado_1', 'accesibilidad.cuidado_2', 'accesibilidad.cuidado_3', 'accesibilidad.cuidado_4', 'accesibilidad.cuidado_5', 'accesibilidad.cuidado_6'],
         },
         { titulo: 'accesibilidad.limites_titulo', lista: ['accesibilidad.limites_1', 'accesibilidad.limites_2'] },
-        { titulo: 'accesibilidad.avisar_titulo', parrafos: ['accesibilidad.avisar'] },
       ]}
     />
   );
