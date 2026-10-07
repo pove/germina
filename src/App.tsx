@@ -12,7 +12,10 @@ import { Ayuda } from './pantallas/Ayuda';
 import { Bienvenida } from './pantallas/Bienvenida';
 import { CambioDeCurso } from './pantallas/CambioDeCurso';
 import { Jardin } from './pantallas/Jardin';
+import { Pasar } from './pantallas/Pasar';
 import { Pregunta } from './pantallas/Pregunta';
+import { Recibir } from './pantallas/Recibir';
+import { Records } from './pantallas/Records';
 import { Reto } from './pantallas/Reto';
 import { Semana } from './pantallas/Semana';
 import { Layout } from './piezas/Layout';
@@ -47,8 +50,14 @@ function Pantalla({ r }: { r: Ruta }) {
       return <Ayuda />;
     case 'ajustes':
       return <Ajustes />;
+    case 'pasar':
+      return <Pasar />;
+    case 'recibir':
+      return <Recibir codigo={r.codigo} />;
+    case 'imprimirRecords':
+      return <Records />;
     default:
-      return null; // inicio, desconocida, recibir, imprimir, privacidad y accesibilidad: otras etapas
+      return null; // inicio, desconocida, privacidad y accesibilidad: las legales llegan en otra etapa
   }
 }
 

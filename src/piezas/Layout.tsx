@@ -61,7 +61,7 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
     { ruta: curso && { tipo: 'jardin', ...curso }, texto: t('nav.jardin'), activo: ruta.tipo === 'jardin' },
     { ruta: curso && { tipo: 'aprenden', ...curso }, texto: t('nav.aprenden'), activo: ruta.tipo === 'aprenden' },
     { ruta: { tipo: 'ayuda' }, texto: t('nav.ayuda'), activo: ruta.tipo === 'ayuda' },
-    { ruta: { tipo: 'ajustes' }, texto: t('nav.ajustes'), activo: ruta.tipo === 'ajustes' },
+    { ruta: { tipo: 'ajustes' }, texto: t('nav.ajustes'), activo: ['ajustes', 'pasar', 'recibir', 'imprimirRecords'].includes(ruta.tipo) },
   ];
 
   return (
