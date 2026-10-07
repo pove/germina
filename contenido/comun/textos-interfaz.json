@@ -427,5 +427,195 @@
     "en": "Choose a year in Settings to see its sheet.",
     "fr": "Choisissez une année dans les Réglages pour voir sa feuille.",
     "ar": "اختاروا صفًا في الإعدادات لرؤية ورقته."
+  },
+
+  "ajustes.legal": {
+    "es": "Sobre Germina",
+    "va": "Sobre Germina",
+    "en": "About Germina",
+    "fr": "À propos de Germina",
+    "ar": "عن Germina"
+  },
+  "privacidad.titulo": {
+    "es": "Privacidad",
+    "va": "Privadesa",
+    "en": "Privacy",
+    "fr": "Confidentialité",
+    "ar": "الخصوصية"
+  },
+  "privacidad.resumen": {
+    "es": "Germina no recoge ningún dato vuestro ni de vuestros hijos e hijas. No sabemos quiénes sois ni qué hacéis en la web.",
+    "va": "Germina no arreplega cap dada vostra ni dels vostres fills i filles. No sabem qui sou ni què feu a la web.",
+    "en": "Germina doesn't collect any data about you or your children. We don't know who you are or what you do on the site.",
+    "fr": "Germina ne recueille aucune donnée sur vous ni sur vos enfants. Nous ne savons pas qui vous êtes ni ce que vous faites sur le site.",
+    "ar": "لا تجمع Germina أي بيانات عنكم ولا عن أبنائكم وبناتكم. لا نعرف من أنتم ولا ما تفعلونه في الموقع."
+  },
+  "privacidad.sin_titulo": {
+    "es": "Lo que no hay",
+    "va": "El que no hi ha",
+    "en": "What isn't here",
+    "fr": "Ce qu'il n'y a pas",
+    "ar": "ما لا يوجد"
+  },
+  "privacidad.sin_1": {
+    "es": "No hay formularios ni cuentas.",
+    "va": "No hi ha formularis ni comptes.",
+    "en": "There are no forms or accounts.",
+    "fr": "Il n'y a ni formulaires ni comptes.",
+    "ar": "لا توجد استمارات ولا حسابات."
+  },
+  "privacidad.sin_2": {
+    "es": "No hay cookies, por eso no veis ningún aviso de cookies.",
+    "va": "No hi ha galetes (cookies), per això no veieu cap avís de galetes.",
+    "en": "There are no cookies, which is why you see no cookie notice.",
+    "fr": "Il n'y a pas de cookies, c'est pourquoi vous ne voyez aucun bandeau de cookies.",
+    "ar": "لا توجد ملفات تعريف ارتباط (كوكيز)، ولذلك لا ترون أي إشعار بشأنها."
+  },
+  "privacidad.sin_3": {
+    "es": "No hay analítica, publicidad ni servicios de otras empresas.",
+    "va": "No hi ha analítica, publicitat ni serveis d'altres empreses.",
+    "en": "There is no analytics, advertising or third-party services.",
+    "fr": "Il n'y a ni analyse d'audience, ni publicité, ni services d'autres entreprises.",
+    "ar": "لا توجد أدوات تحليل ولا إعلانات ولا خدمات من شركات أخرى."
+  },
+  "privacidad.guardado_titulo": {
+    "es": "Lo que se guarda y dónde",
+    "va": "El que es guarda i on",
+    "en": "What is saved, and where",
+    "fr": "Ce qui est enregistré, et où",
+    "ar": "ما يُحفظ وأين"
+  },
+  "privacidad.guardado": {
+    "es": "Lo que marcáis (preguntas y retos), los récords, el idioma y los cursos se guardan solo en este móvil, en el almacenamiento del navegador. No sale de aquí: nadie más puede verlo. Si queréis llevarlo a otro móvil, lo hacéis vosotros con el enlace, el QR o el código que encontraréis en Ajustes.",
+    "va": "El que marqueu (preguntes i reptes), els rècords, l'idioma i els cursos es guarden només en aquest mòbil, a l'emmagatzematge del navegador. No isqueix d'ací: ningú més pot veure'l. Si el voleu portar a un altre mòbil, ho feu vosaltres amb l'enllaç, el QR o el codi que trobareu a Ajustos.",
+    "en": "What you tick off (questions and challenges), the records, the language and the years are saved only on this phone, in the browser's storage. It never leaves here: nobody else can see it. If you want to take it to another phone, you do it yourselves with the link, the QR or the code you'll find in Settings.",
+    "fr": "Ce que vous cochez (questions et défis), les records, la langue et les années sont enregistrés uniquement sur ce téléphone, dans le stockage du navigateur. Rien n'en sort : personne d'autre ne peut le voir. Si vous voulez l'emporter sur un autre téléphone, vous le faites vous-mêmes avec le lien, le QR ou le code que vous trouverez dans les Réglages.",
+    "ar": "ما تعلّمونه (الأسئلة والتحدّيات) والأرقام القياسية واللغة والصفوف تُحفظ في هذا الهاتف فقط، في تخزين المتصفح. لا يخرج من هنا: لا يستطيع أحد آخر رؤيته. وإن أردتم نقله إلى هاتف آخر فأنتم من يفعل ذلك بالرابط أو برمز QR أو بالرمز الذي ستجدونه في الإعدادات."
+  },
+  "privacidad.borrar_titulo": {
+    "es": "Cómo borrarlo",
+    "va": "Com esborrar-ho",
+    "en": "How to erase it",
+    "fr": "Comment l'effacer",
+    "ar": "كيف تمحونه"
+  },
+  "privacidad.borrar": {
+    "es": "Con «Empezar de cero», en Ajustes, o borrando los datos de este sitio en el navegador. Desaparece sin más: no queda copia en ningún otro sitio.",
+    "va": "Amb «Començar de zero», a Ajustos, o esborrant les dades d'aquest lloc al navegador. Desapareix sense més: no en queda cap còpia en cap altre lloc.",
+    "en": "With “Start from scratch” in Settings, or by clearing this site's data in your browser. It simply disappears: no copy is left anywhere else.",
+    "fr": "Avec « Repartir de zéro », dans les Réglages, ou en effaçant les données de ce site dans le navigateur. Tout disparaît simplement : il n'en reste aucune copie ailleurs.",
+    "ar": "عبر «ابدؤوا من الصفر» في الإعدادات، أو بمحو بيانات هذا الموقع من المتصفح. يختفي كل شيء ببساطة: لا تبقى أي نسخة في مكان آخر."
+  },
+  "privacidad.alojamiento_titulo": {
+    "es": "El alojamiento",
+    "va": "L'allotjament",
+    "en": "Hosting",
+    "fr": "L'hébergement",
+    "ar": "الاستضافة"
+  },
+  "privacidad.alojamiento": {
+    "es": "Germina está alojada en GitHub Pages. Por seguridad, GitHub registra la dirección IP de las visitas, como hace con cualquier web alojada allí. Germina no usa esa información.",
+    "va": "Germina està allotjada a GitHub Pages. Per seguretat, GitHub registra l'adreça IP de les visites, com fa amb qualsevol web allotjada allí. Germina no utilitza aquesta informació.",
+    "en": "Germina is hosted on GitHub Pages. For security reasons, GitHub records the IP address of visits, as it does for any site hosted there. Germina does not use that information.",
+    "fr": "Germina est hébergée sur GitHub Pages. Pour des raisons de sécurité, GitHub enregistre l'adresse IP des visites, comme pour tout site hébergé chez lui. Germina n'utilise pas cette information.",
+    "ar": "تُستضاف Germina على GitHub Pages. لأسباب أمنية، تسجّل GitHub عنوان IP للزيارات، كما تفعل مع أي موقع مستضاف لديها. لا تستخدم Germina هذه المعلومات."
+  },
+  "accesibilidad.titulo": {
+    "es": "Accesibilidad",
+    "va": "Accessibilitat",
+    "en": "Accessibility",
+    "fr": "Accessibilité",
+    "ar": "إمكانية الوصول"
+  },
+  "accesibilidad.objetivo": {
+    "es": "Queremos que todas las familias puedan usar Germina. Nuestro objetivo es cumplir las pautas WCAG 2.1 de nivel AA.",
+    "va": "Volem que totes les famílies puguen usar Germina. El nostre objectiu és complir les pautes WCAG 2.1 de nivell AA.",
+    "en": "We want every family to be able to use Germina. Our goal is to meet the WCAG 2.1 guidelines at level AA.",
+    "fr": "Nous voulons que toutes les familles puissent utiliser Germina. Notre objectif est de respecter les règles WCAG 2.1 de niveau AA.",
+    "ar": "نريد أن تتمكّن كل الأسر من استخدام Germina. هدفنا هو الالتزام بإرشادات WCAG 2.1 على المستوى AA."
+  },
+  "accesibilidad.cuidado_titulo": {
+    "es": "Lo que hemos cuidado",
+    "va": "El que hem cuidat",
+    "en": "What we've taken care of",
+    "fr": "Ce que nous avons soigné",
+    "ar": "ما اعتنينا به"
+  },
+  "accesibilidad.cuidado_1": {
+    "es": "Letra grande y clara (Atkinson Hyperlegible, de 16 píxeles como mínimo) y textos que se pueden ampliar al 200 % sin perder nada.",
+    "va": "Lletra gran i clara (Atkinson Hyperlegible, de 16 píxels com a mínim) i textos que es poden ampliar al 200 % sense perdre res.",
+    "en": "Large, clear type (Atkinson Hyperlegible, at least 16 pixels) and text that can be enlarged to 200% without losing anything.",
+    "fr": "Une écriture grande et claire (Atkinson Hyperlegible, 16 pixels au minimum) et des textes qu'on peut agrandir à 200 % sans rien perdre.",
+    "ar": "خط كبير وواضح (Atkinson Hyperlegible، بحجم 16 بكسل على الأقل) ونصوص يمكن تكبيرها إلى 200 % دون أن يضيع شيء."
+  },
+  "accesibilidad.cuidado_2": {
+    "es": "Botones con texto y zonas táctiles de al menos 44 × 44 píxeles.",
+    "va": "Botons amb text i zones tàctils d'almenys 44 × 44 píxels.",
+    "en": "Buttons with text and touch areas of at least 44 × 44 pixels.",
+    "fr": "Des boutons avec du texte et des zones tactiles d'au moins 44 × 44 pixels.",
+    "ar": "أزرار بنصوص ومساحات لمس لا تقل عن 44 × 44 بكسل."
+  },
+  "accesibilidad.cuidado_3": {
+    "es": "Todo se puede usar con teclado y con lector de pantalla, con un foco bien visible.",
+    "va": "Tot es pot usar amb teclat i amb lector de pantalla, amb un focus ben visible.",
+    "en": "Everything can be used with a keyboard and a screen reader, with a clearly visible focus.",
+    "fr": "Tout s'utilise au clavier et avec un lecteur d'écran, avec un focus bien visible.",
+    "ar": "يمكن استخدام كل شيء بلوحة المفاتيح وبقارئ الشاشة، مع تمييز واضح للعنصر المحدَّد."
+  },
+  "accesibilidad.cuidado_4": {
+    "es": "El árabe se escribe de derecha a izquierda, y el idioma de la página siempre está indicado para los lectores de pantalla.",
+    "va": "L'àrab s'escriu de dreta a esquerra, i l'idioma de la pàgina sempre està indicat per als lectors de pantalla.",
+    "en": "Arabic runs right to left, and the page language is always declared for screen readers.",
+    "fr": "L'arabe s'écrit de droite à gauche, et la langue de la page est toujours indiquée aux lecteurs d'écran.",
+    "ar": "تُكتب العربية من اليمين إلى اليسار، ولغة الصفحة محدَّدة دائمًا لقارئات الشاشة."
+  },
+  "accesibilidad.cuidado_5": {
+    "es": "Las animaciones se detienen si el móvil pide menos movimiento.",
+    "va": "Les animacions s'aturen si el mòbil demana menys moviment.",
+    "en": "Animations stop if your phone asks for less motion.",
+    "fr": "Les animations s'arrêtent si le téléphone demande moins de mouvement.",
+    "ar": "تتوقف الحركات إذا طلب الهاتف تقليل الحركة."
+  },
+  "accesibilidad.cuidado_6": {
+    "es": "El cronómetro avisa del final con un texto, no solo con sonido.",
+    "va": "El cronòmetre avisa del final amb un text, no només amb so.",
+    "en": "The timer announces the end with text, not just with sound.",
+    "fr": "Le chronomètre annonce la fin par un texte, pas seulement par un son.",
+    "ar": "ينبّه المؤقّت إلى النهاية بنص، وليس بالصوت فقط."
+  },
+  "accesibilidad.limites_titulo": {
+    "es": "Lo que todavía no es perfecto",
+    "va": "El que encara no és perfecte",
+    "en": "What isn't perfect yet",
+    "fr": "Ce qui n'est pas encore parfait",
+    "ar": "ما لم يكتمل بعد"
+  },
+  "accesibilidad.limites_1": {
+    "es": "Las versiones en valenciano, inglés, francés y árabe las traduce una máquina y todavía no las ha revisado una persona: pueden tener errores o frases poco naturales.",
+    "va": "Les versions en valencià, anglés, francés i àrab les tradueix una màquina i encara no les ha revisades una persona: poden tindre errors o frases poc naturals.",
+    "en": "The Valencian, English, French and Arabic versions are machine-translated and have not yet been reviewed by a person: they may contain mistakes or unnatural phrasing.",
+    "fr": "Les versions en valencien, en anglais, en français et en arabe sont traduites par une machine et n'ont pas encore été relues par une personne : elles peuvent contenir des erreurs ou des tournures peu naturelles.",
+    "ar": "النسخ بالفالنسية والإنجليزية والفرنسية والعربية تترجمها آلة ولم يراجعها شخص بعد: وقد تحتوي على أخطاء أو عبارات غير طبيعية."
+  },
+  "accesibilidad.limites_2": {
+    "es": "No hemos revisado Germina con todos los lectores de pantalla ni con todos los móviles: puede que algo no funcione igual en el vuestro.",
+    "va": "No hem revisat Germina amb tots els lectors de pantalla ni amb tots els mòbils: pot ser que alguna cosa no funcione igual en el vostre.",
+    "en": "We haven't checked Germina with every screen reader or every phone, so something may not work the same on yours.",
+    "fr": "Nous n'avons pas vérifié Germina avec tous les lecteurs d'écran ni avec tous les téléphones : il se peut que quelque chose ne fonctionne pas de la même façon sur le vôtre.",
+    "ar": "لم نراجع Germina مع كل قارئات الشاشة ولا مع كل الهواتف: وقد لا يعمل شيء ما بالطريقة نفسها على هاتفكم."
+  },
+  "accesibilidad.avisar_titulo": {
+    "es": "Si algo no os funciona",
+    "va": "Si alguna cosa no us funciona",
+    "en": "If something doesn't work for you",
+    "fr": "Si quelque chose ne fonctionne pas pour vous",
+    "ar": "إذا لم يعمل شيء ما معكم"
+  },
+  "accesibilidad.avisar": {
+    "es": "Contádselo al centro educativo de vuestros hijos e hijas, y el centro lo hará llegar a quienes mantienen Germina. Decid qué intentabais hacer, en qué móvil y con qué lector de pantalla, si usáis uno.",
+    "va": "Conteu-ho al centre educatiu dels vostres fills i filles, i el centre ho farà arribar a qui manté Germina. Digueu què intentàveu fer, en quin mòbil i amb quin lector de pantalla, si en useu un.",
+    "en": "Tell your children's school, and the school will pass it on to the people who look after Germina. Say what you were trying to do, on which phone and with which screen reader, if you use one.",
+    "fr": "Dites-le à l'école de vos enfants, qui le transmettra aux personnes qui s'occupent de Germina. Précisez ce que vous essayiez de faire, sur quel téléphone et avec quel lecteur d'écran, si vous en utilisez un.",
+    "ar": "أخبروا مدرسة أبنائكم وبناتكم، وستوصل المدرسة ذلك إلى القائمين على Germina. اذكروا ما كنتم تحاولون فعله، وعلى أي هاتف، ومع أي قارئ شاشة إن كنتم تستخدمون واحدًا."
   }
 }

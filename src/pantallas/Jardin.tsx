@@ -56,12 +56,18 @@ export function Jardin({ curso }: { curso: Curso }) {
   const indice = useCarga(cargarIndice, []);
   const progreso = datos.value.progreso[claveProgreso(anoCursoHoy.value, curso)] ?? {};
   const sit = situacionHoy.value;
+  // El «?» es solo un adorno: el lector de pantalla lee «Qué es el jardín», sin el signo.
+  const ayuda = (
+    <>
+      <span aria-hidden="true">?</span> {t('jardin.ayuda')}
+    </>
+  );
 
   return (
     <>
       <p class="contexto">{contexto(curso)}</p>
       <h1 tabIndex={-1}>{t('jardin.titulo')}</h1>
-      <Plegable etiqueta={`? ${t('jardin.ayuda')}`} etiquetaAbierto={`? ${t('jardin.ayuda')}`} clase="boton-ayuda">
+      <Plegable etiqueta={ayuda} clase="boton-ayuda">
         <Explicacion />
       </Plegable>
       <Cargando
