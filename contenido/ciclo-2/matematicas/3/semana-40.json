@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s40",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 40,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: todo el curso",
+    "va": "Setmana de recordar: tot el curs",
+    "en": "Week to remember: the whole year",
+    "fr": "Semaine pour se souvenir : toute l'année",
+    "ar": "أسبوع التذكّر: السنة كلها"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a todo lo del curso: sumas y restas, tablas, repartir, medir, pesar, el dinero, la hora y las fracciones. No hay nada nuevo: es para despedir el curso jugando.",
+    "va": "Aquesta setmana tornen a tot el del curs: sumes i restes, taules, repartir, mesurar, pesar, els diners, l'hora i les fraccions. No hi ha res nou: és per a acomiadar el curs jugant.",
+    "en": "This week they go back to everything from the year: addition and subtraction, times tables, sharing, measuring, weighing, money, telling the time and fractions. There is nothing new: it's to say goodbye to the year by playing.",
+    "fr": "Cette semaine, on revient à tout ce qu'on a vu dans l'année : additions et soustractions, tables, partage, mesures, poids, argent, heure et fractions. Rien de nouveau : c'est pour dire au revoir à l'année en jouant.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى كل ما تعلّموه في السنة: الجمع والطرح، والجداول، والتوزيع، والقياس، والوزن، والنقود، والساعة، والكسور. لا جديد: الهدف وداع السنة باللعب."
+  },
+  "comoAyudar": {
+    "es": "Haced la gymkana en equipo: las preguntas se resuelven entre todos y cada persona ayuda en algo. Lo bonito es acabarla juntos, no hacerla deprisa.",
+    "va": "Feu la gimcana en equip: les preguntes es resolen entre tots i cada persona ajuda en alguna cosa. El bonic és acabar-la junts, no fer-la de pressa.",
+    "en": "Do the treasure trail as a team: the questions are solved together and everyone helps with something. The lovely part is finishing it together, not doing it fast.",
+    "fr": "Faites le jeu de piste en équipe : les questions se résolvent ensemble et chaque personne aide à quelque chose. Le plus beau, c'est de le finir ensemble, pas de le faire vite.",
+    "ar": "قوموا بالمسابقة كفريق: تُحلّ الأسئلة معًا ويساعد كل شخص في شيء. الجميل أن تنهوها معًا، لا أن تسرعوا."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.medida.unidades",
+    "matematicas.fracciones.fraccion",
+    "matematicas.medida.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La gymkana de casa",
+      "va": "La gimcana de casa",
+      "en": "The home treasure trail",
+      "fr": "Le jeu de piste de la maison",
+      "ar": "مسابقة البيت"
+    },
+    "material": [
+      {
+        "es": "Una cinta métrica, un paquete con etiqueta, galletas o legumbres, monedas y un reloj",
+        "va": "Una cinta mètrica, un paquet amb etiqueta, galetes o llegums, monedes i un rellotge",
+        "en": "A tape measure, a labelled packet, biscuits or beans, coins and a clock",
+        "fr": "Un mètre ruban, un paquet avec étiquette, des biscuits ou des légumes secs, des pièces et une horloge",
+        "ar": "شريط قياس، وعلبة عليها ملصق، وبسكويت أو بقول، وقطع نقدية، وساعة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Preparad cinco puestos por la casa: medir (la cinta), pesar (el paquete), repartir (las galletas), la tienda (las monedas) y la hora (el reloj).",
+          "va": "Prepareu cinc llocs per la casa: mesurar (la cinta), pesar (el paquet), repartir (les galetes), la botiga (les monedes) i l'hora (el rellotge).",
+          "en": "Set up five stations around the house: measuring (the tape), weighing (the packet), sharing (the biscuits), the shop (the coins) and the time (the clock).",
+          "fr": "Préparez cinq postes dans la maison : mesurer (le mètre), peser (le paquet), partager (les biscuits), la boutique (les pièces) et l'heure (l'horloge).",
+          "ar": "جهّزوا خمس محطات في البيت: القياس (الشريط)، والوزن (العلبة)، والتوزيع (البسكويت)، والمتجر (القطع النقدية)، والساعة."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "En cada puesto, dejad un papel con una pregunta: «¿Cuántos centímetros mide la mesa?», «Reparte 15 galletas entre 3», «¿Qué hora será dentro de media hora?»…",
+          "va": "En cada lloc, deixeu un paper amb una pregunta: «Quants centímetres mesura la taula?», «Repartix 15 galetes entre 3», «Quina hora serà d'ací a mitja hora?»…",
+          "en": "At each station, leave a paper with a question: “How many centimetres is the table?”, “Share 15 biscuits between 3”, “What time will it be in half an hour?”…",
+          "fr": "À chaque poste, laissez un papier avec une question : « Combien de centimètres mesure la table ? », « Partage 15 biscuits entre 3 », « Quelle heure sera-t-il dans une demi-heure ? »…",
+          "ar": "اتركوا في كل محطة ورقة فيها سؤال: «كم سنتيمترًا طول الطاولة؟»، «وزّع 15 بسكويتة على 3»، «كم ستكون الساعة بعد نصف ساعة؟»…"
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Recorred los puestos en equipo. En cada uno, resolved la pregunta entre todos y apuntad la respuesta.",
+          "va": "Recorreu els llocs en equip. En cadascun, resoleu la pregunta entre tots i apunteu la resposta.",
+          "en": "Go round the stations as a team. At each one, solve the question together and write down the answer.",
+          "fr": "Faites le tour des postes en équipe. À chacun, résolvez la question ensemble et notez la réponse.",
+          "ar": "مرّوا على المحطات كفريق. وفي كل منها حلّوا السؤال معًا ودوّنوا الإجابة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Al final, sentaos a mirar las respuestas. ¿Qué puesto os ha gustado más? ¿Cuál ha costado más?",
+          "va": "Al final, seieu a mirar les respostes. Quin lloc us ha agradat més? Quin ha costat més?",
+          "en": "At the end, sit down and look at the answers. Which station did you like best? Which was hardest?",
+          "fr": "À la fin, asseyez-vous pour regarder les réponses. Quel poste vous a le plus plu ? Lequel a été le plus difficile ?",
+          "ar": "في النهاية، اجلسوا وانظروا إلى الإجابات. أي محطة أعجبتكم أكثر؟ وأيّها كانت أصعب؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced solo tres puestos: medir, repartir y la tienda.",
+      "va": "Feu només tres llocs: mesurar, repartir i la botiga.",
+      "en": "Do just three stations: measuring, sharing and the shop.",
+      "fr": "Faites seulement trois postes : mesurer, partager et la boutique.",
+      "ar": "اكتفوا بثلاث محطات: القياس والتوزيع والمتجر."
+    },
+    "masDificil": {
+      "es": "Que el niño o la niña prepare las preguntas de dos puestos para el resto de la familia.",
+      "va": "Que el xiquet o la xiqueta prepare les preguntes de dos llocs per a la resta de la família.",
+      "en": "Have the child prepare the questions for two stations for the rest of the family.",
+      "fr": "Que l'enfant prépare les questions de deux postes pour le reste de la famille.",
+      "ar": "ليحضّر الطفل أسئلة محطتين لبقية العائلة."
+    },
+    "paraQueSirve": {
+      "es": "Volver a todo lo del curso de una vez ayuda a ver cuánto se ha aprendido. Y hacerlo en equipo enseña que en mates también se coopera.",
+      "va": "Tornar a tot el del curs d'una vegada ajuda a veure quant s'ha après. I fer-ho en equip ensenya que en mates també es coopera.",
+      "en": "Coming back to everything from the year in one go helps them see how much they've learned. And doing it as a team shows that maths is also about working together.",
+      "fr": "Revenir à tout ce qu'on a vu dans l'année d'un coup aide à voir tout ce qu'on a appris. Et le faire en équipe montre qu'en maths aussi, on coopère.",
+      "ar": "العودة إلى كل ما تعلّموه في السنة دفعة واحدة تُظهر كم تعلّموا. والقيام بذلك كفريق يعلّم أن الرياضيات أيضًا تعاون."
+    },
+    "aviso": {
+      "es": "Las galletas o legumbres, lejos de hermanos o hermanas pequeños.",
+      "va": "Les galetes o els llegums, lluny de germans o germanes menuts.",
+      "en": "Keep the biscuits or beans away from younger brothers and sisters.",
+      "fr": "Gardez les biscuits ou les légumes secs loin des petits frères et sœurs.",
+      "ar": "أبعدوا البسكويت أو البقول عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En el bol hay 52 cerezas y os coméis 17. ¿Cuántas quedan?",
+        "va": "En el bol hi ha 52 cireres i us en mengeu 17. Quantes en queden?",
+        "en": "There are 52 cherries in the bowl and you eat 17. How many are left?",
+        "fr": "Dans le bol, il y a 52 cerises et vous en mangez 17. Combien en reste-t-il ?",
+        "ar": "في الوعاء 52 حبة كرز وأكلنا 17. كم حبة بقيت؟"
+      },
+      "pista": {
+        "es": "Las 7 no salen de 2: abre una decena.",
+        "va": "Les 7 no ixen de 2: obri una desena.",
+        "en": "You can't take 7 from 2: open a ten.",
+        "fr": "On ne peut pas enlever 7 de 2 : ouvre une dizaine.",
+        "ar": "لا يمكن أخذ 7 من 2: لنفتح عشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "52 - 17",
+        "resultado": 35,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 35 cerezas.",
+          "va": "En queden 35.",
+          "en": "35 cherries are left.",
+          "fr": "Il reste 35 cerises.",
+          "ar": "بقيت 35 حبة كرز."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una resta en la que se abra una decena.",
+        "va": "Inventa't una resta en què s'òbriga una desena.",
+        "en": "Make up a subtraction where you open a ten.",
+        "fr": "Invente une soustraction où l'on ouvre une dizaine.",
+        "ar": "لنخترع عملية طرح نفتح فيها عشرة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "En un plato hay 18 fresas. ¿Cuántas son la mitad?",
+        "va": "En un plat hi ha 18 maduixes. Quantes són la meitat?",
+        "en": "There are 18 strawberries on a plate. How many is half?",
+        "fr": "Dans une assiette, il y a 18 fraises. Combien font la moitié ?",
+        "ar": "في صحن 18 حبة فراولة. كم حبة هي النصف؟"
+      },
+      "pista": {
+        "es": "La mitad es repartir en 2.",
+        "va": "La meitat és repartir en 2.",
+        "en": "Half is sharing into 2.",
+        "fr": "La moitié, c'est partager en 2.",
+        "ar": "النصف هو التوزيع على 2."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "18 : 2",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "La mitad son 9 fresas.",
+          "va": "La meitat són 9 maduixes.",
+          "en": "Half is 9 strawberries.",
+          "fr": "La moitié, c'est 9 fraises.",
+          "ar": "النصف 9 حبات فراولة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de mitades o de cuartos con fruta.",
+        "va": "Inventa'n tu una de meitats o de quarts amb fruita.",
+        "en": "Make one up about halves or quarters with fruit.",
+        "fr": "Invente un problème de moitiés ou de quarts avec des fruits.",
+        "ar": "لنخترع مسألة أنصاف أو أرباع بالفاكهة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una cuerda mide 2 m y se cortan 50 cm. ¿Cuántos centímetros quedan?",
+        "va": "Una corda mesura 2 m i se'n tallen 50 cm. Quants centímetres en queden?",
+        "en": "A rope is 2 m long and 50 cm is cut off. How many centimetres are left?",
+        "fr": "Une corde mesure 2 m et on en coupe 50 cm. Combien de centimètres reste-t-il ?",
+        "ar": "طول حبل مترين، وقُطع منه 50 سم. كم سنتيمترًا بقي؟"
+      },
+      "pista": {
+        "es": "2 metros son 200 cm.",
+        "va": "2 metres són 200 cm.",
+        "en": "2 metres is 200 cm.",
+        "fr": "2 mètres, c'est 200 cm.",
+        "ar": "المتران 200 سم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "200 - 50",
+        "resultado": 150,
+        "unidad": "cm",
+        "texto": {
+          "es": "Quedan 150 cm, es decir, un metro y medio.",
+          "va": "En queden 150 cm, és a dir, un metre i mig.",
+          "en": "150 cm are left, that is, a metre and a half.",
+          "fr": "Il reste 150 cm, c'est-à-dire un mètre et demi.",
+          "ar": "بقي 150 سم، أي متر ونصف."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cortar algo largo, como una cinta o un cordón.",
+        "va": "Inventa'n tu una de tallar alguna cosa llarga, com una cinta o un cordó.",
+        "en": "Make one up about cutting something long, like a ribbon or a cord.",
+        "fr": "Invente un problème où l'on coupe quelque chose de long, comme un ruban ou un cordon.",
+        "ar": "لنخترع مسألة نقطع فيها شيئًا طويلًا، مثل شريط أو خيط."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 15,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: un helado cuesta 1,20 € y pagas con 2 €. ¿Cuánto te devuelven?",
+        "va": "Per a recordar: un gelat costa 1,20 € i pagues amb 2 €. Quant et tornen?",
+        "en": "Let's remember: an ice cream costs 1,20 € and you pay with 2 €. How much change do you get?",
+        "fr": "Pour se souvenir : une glace coûte 1,20 € et tu paies avec 2 €. Combien te rend-on ?",
+        "ar": "لنتذكّر: ثمن بوظة 1,20 يورو، ودفعنا 2 يورو. كم يُرجَع لنا؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba: de 1,20 € a 2 €.",
+        "va": "Compta cap amunt: d'1,20 € a 2 €.",
+        "en": "Count up: from 1,20 € to 2 €.",
+        "fr": "Compte en avançant : de 1,20 € à 2 €.",
+        "ar": "لنعدّ صعودًا: من 1,20 يورو إلى 2 يورو."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "200 - 120",
+        "resultado": 80,
+        "unidad": "cent",
+        "texto": {
+          "es": "Te devuelven 80 céntimos.",
+          "va": "Et tornen 80 cèntims.",
+          "en": "You get 80 cents back.",
+          "fr": "On te rend 80 centimes.",
+          "ar": "يُرجَع لنا 80 سنتًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar algo de verano y dar la vuelta.",
+        "va": "Inventa'n tu una de comprar alguna cosa d'estiu i tornar el canvi.",
+        "en": "Make one up about buying something for the summer and giving change.",
+        "fr": "Invente un problème où l'on achète quelque chose pour l'été et où l'on rend la monnaie.",
+        "ar": "لنخترع مسألة نشتري فيها شيئًا للصيف ونحسب الباقي."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo el curso en mates, ¿qué es lo que más te ha gustado aprender? Explícamelo con un ejemplo.",
+        "va": "De tot el curs en mates, què és el que més t'ha agradat aprendre? Explica-m'ho amb un exemple.",
+        "en": "Of everything in maths this year, what did you most enjoy learning? Explain it to me with an example.",
+        "fr": "De toute l'année en maths, qu'est-ce que tu as le plus aimé apprendre ? Explique-le-moi avec un exemple.",
+        "ar": "من كل ما تعلّمناه في الرياضيات هذه السنة، ما الذي أحببنا تعلّمه أكثر؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas de los vasos de diez? ¿Y de la tienda de casa? ¿Y de la pizza de cartón?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes dels gots de deu? I de la botiga de casa? I de la pizza de cartó?»",
+        "en": "You can help them remember: “Do you remember the cups of ten? And the home shop? And the cardboard pizza?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles les verres de dix ? Et la boutique de la maison ? Et la pizza en carton ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر أكواب العشرة؟ ومتجر البيت؟ وبيتزا الكرتون؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay respuesta buena ni mala. Contad vosotros también qué os ha gustado acompañar este curso y daos las gracias.",
+          "va": "No hi ha resposta bona ni dolenta. Conteu vosaltres també què us ha agradat acompanyar aquest curs i doneu-vos les gràcies.",
+          "en": "There's no right or wrong answer. Share what you enjoyed being part of this year too, and thank each other.",
+          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Racontez vous aussi ce que vous avez aimé accompagner cette année, et remerciez-vous.",
+          "ar": "لا توجد إجابة صحيحة أو خاطئة. احكوا أنتم أيضًا ما أحببتم مرافقته هذه السنة، واشكروا بعضكم."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "a09b1b2b4365"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "a09b1b2b4365"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "a09b1b2b4365"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "a09b1b2b4365"
+      }
+    }
+  }
+}

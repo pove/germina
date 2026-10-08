@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s37",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 37,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuánto pesa? ¿Cuánto cabe?",
+    "va": "Quant pesa? Quant hi cap?",
+    "en": "How heavy? How much fits?",
+    "fr": "Combien ça pèse ? Combien ça contient ?",
+    "ar": "كم يزن؟ كم يتّسع؟"
+  },
+  "objetivo": {
+    "es": "Esta semana conocen el kilo, el medio kilo y el gramo para pesar, y el litro y el medio litro para lo que cabe en un recipiente. Un kilo son 1000 gramos, y un litro, 1000 mililitros.",
+    "va": "Aquesta setmana coneixen el quilo, el mig quilo i el gram per a pesar, i el litre i el mig litre per al que cap en un recipient. Un quilo són 1000 grams, i un litre, 1000 mil·lilitres.",
+    "en": "This week they get to know the kilo, half a kilo and the gram for weighing, and the litre and half a litre for how much a container holds. A kilo is 1000 grams, and a litre, 1000 millilitres.",
+    "fr": "Cette semaine, on découvre le kilo, le demi-kilo et le gramme pour peser, et le litre et le demi-litre pour ce que contient un récipient. Un kilo, c'est 1000 grammes, et un litre, 1000 millilitres.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى الكيلو ونصف الكيلو والغرام للوزن، وإلى اللتر ونصف اللتر لما يتّسع له الوعاء. الكيلو 1000 غرام، واللتر 1000 مليلتر."
+  },
+  "comoAyudar": {
+    "es": "Dejad que coja los paquetes con las manos y compare: «¿cuál pesa más?». Antes de leer la etiqueta, que lo adivine; después, comprobadlo juntos.",
+    "va": "Deixeu que agafe els paquets amb les mans i compare: «quin pesa més?». Abans de llegir l'etiqueta, que ho endevine; després, comproveu-ho junts.",
+    "en": "Let them pick up the packets and compare: “Which is heavier?” Before reading the label, have them guess; then check together.",
+    "fr": "Laissez prendre les paquets dans les mains et comparer : « Lequel est le plus lourd ? ». Avant de lire l'étiquette, faites deviner ; ensuite, vérifiez ensemble.",
+    "ar": "اتركوا الطفل يحمل العلب بيديه ويقارن: «أيّها أثقل؟». وقبل قراءة الملصق، ليخمّن؛ ثم تحقّقوا معًا."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.medida.unidades",
+    "matematicas.medida.instrumentos"
+  ],
+  "criterios": [
+    "matematicas.c2.3.2",
+    "matematicas.c2.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La despensa",
+      "va": "El rebost",
+      "en": "The pantry",
+      "fr": "Le garde-manger",
+      "ar": "خزانة المؤونة"
+    },
+    "material": [
+      {
+        "es": "Paquetes y botellas de la despensa con su etiqueta (500 g, 1 kg, 1 l…)",
+        "va": "Paquets i botelles del rebost amb la seua etiqueta (500 g, 1 kg, 1 l…)",
+        "en": "Packets and bottles from the pantry with their labels (500 g, 1 kg, 1 l…)",
+        "fr": "Des paquets et des bouteilles du placard avec leur étiquette (500 g, 1 kg, 1 l…)",
+        "ar": "علب وزجاجات من خزانة المؤونة مع ملصقاتها (500 غ، 1 كغ، 1 ل…)"
+      },
+      {
+        "es": "Una botella vacía de 1 litro y otra de medio litro",
+        "va": "Una botella buida d'1 litre i una altra de mig litre",
+        "en": "An empty 1-litre bottle and an empty half-litre bottle",
+        "fr": "Une bouteille vide d'1 litre et une autre d'un demi-litre",
+        "ar": "زجاجة فارغة سعتها لتر وأخرى نصف لتر"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "balanza",
+        "texto": {
+          "es": "Sacad varios paquetes. Cogedlos con las manos y ordenadlos del que creéis que pesa menos al que pesa más.",
+          "va": "Traieu diversos paquets. Agafeu-los amb les mans i ordeneu-los del que creieu que pesa menys al que pesa més.",
+          "en": "Take out several packets. Hold them in your hands and put them in order from the one you think is lightest to the heaviest.",
+          "fr": "Sortez plusieurs paquets. Prenez-les dans les mains et rangez-les de celui qui vous semble le plus léger au plus lourd.",
+          "ar": "أخرجوا عدة علب. احملوها بأيديكم ورتّبوها من التي تظنّونها الأخفّ إلى الأثقل."
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "Ahora leed las etiquetas: 250 g, 500 g, 1 kg… ¿Acertasteis el orden? Recordad que 1 kg son 1000 g, así que medio kilo son 500 g.",
+          "va": "Ara llegiu les etiquetes: 250 g, 500 g, 1 kg… Vau encertar l'ordre? Recordeu que 1 kg són 1000 g, així que mig quilo són 500 g.",
+          "en": "Now read the labels: 250 g, 500 g, 1 kg… Did you get the order right? Remember that 1 kg is 1000 g, so half a kilo is 500 g.",
+          "fr": "Maintenant, lisez les étiquettes : 250 g, 500 g, 1 kg… Aviez-vous trouvé le bon ordre ? Rappelez-vous qu'1 kg fait 1000 g, donc un demi-kilo fait 500 g.",
+          "ar": "الآن اقرؤوا الملصقات: 250 غ، 500 غ، 1 كغ… هل أصبتم الترتيب؟ تذكّروا أن الكيلو 1000 غ، إذن نصف الكيلو 500 غ."
+        }
+      },
+      {
+        "pictograma": "botella",
+        "texto": {
+          "es": "En el fregadero y con una persona adulta, llenad de agua la botella de medio litro y echadla en la de litro. ¿Cuántas veces hace falta para llenarla?",
+          "va": "En la pica i amb una persona adulta, ompliu d'aigua la botella de mig litre i aboqueu-la en la de litre. Quantes botelles de mig litre hi caben?",
+          "en": "At the sink and with an adult, fill the half-litre bottle with water and pour it into the litre bottle. How many times does it take to fill it?",
+          "fr": "À l'évier et avec un adulte, remplissez d'eau la bouteille d'un demi-litre et versez-la dans celle d'un litre. Combien de fois faut-il pour la remplir ?",
+          "ar": "عند المغسلة ومع شخص بالغ، املؤوا زجاجة نصف اللتر بالماء واسكبوها في زجاجة اللتر. كم مرة نحتاج لملئها؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid lo que habéis descubierto: dos medios litros llenan un litro, {{500 + 500 = 1000}} ml.",
+          "va": "Escriviu el que heu descobert: dos mitjos litres omplin un litre, {{500 + 500 = 1000}} ml.",
+          "en": "Write down what you found out: two half litres fill a litre, {{500 + 500 = 1000}} ml.",
+          "fr": "Écrivez ce que vous avez découvert : deux demi-litres remplissent un litre, {{500 + 500 = 1000}} ml.",
+          "ar": "اكتبوا ما اكتشفتموه: نصفا لتر يملآن لترًا، {{500 + 500 = 1000}} مل."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Comparad solo dos paquetes: uno de medio kilo y otro de un kilo. ¿Cuál pesa más?",
+      "va": "Compareu només dos paquets: un de mig quilo i un altre d'un quilo. Quin pesa més?",
+      "en": "Compare just two packets: one of half a kilo and one of a kilo. Which is heavier?",
+      "fr": "Comparez seulement deux paquets : un d'un demi-kilo et un d'un kilo. Lequel est le plus lourd ?",
+      "ar": "قارنوا علبتين فقط: نصف كيلو وكيلو. أيّهما أثقل؟"
+    },
+    "masDificil": {
+      "es": "Si tenéis báscula de cocina, pesad algo que no tenga etiqueta, como una manzana. Primero, decid cuántos gramos creéis que pesa.",
+      "va": "Si teniu bàscula de cuina, peseu alguna cosa que no tinga etiqueta, com una poma. Primer, digueu quants grams creieu que pesa.",
+      "en": "If you have kitchen scales, weigh something without a label, like an apple. First, say how many grams you think it weighs.",
+      "fr": "Si vous avez une balance de cuisine, pesez quelque chose sans étiquette, comme une pomme. D'abord, dites combien de grammes vous pensez qu'elle pèse.",
+      "ar": "إذا كان عندكم ميزان مطبخ، زنوا شيئًا بلا ملصق، مثل تفاحة. وقولوا أولًا كم غرامًا تظنّون أنها تزن."
+    },
+    "paraQueSirve": {
+      "es": "Las etiquetas de la compra están llenas de kilos, gramos y litros. Entenderlas sirve para cocinar, para comprar y para saber cuánto es «mucho» o «poco».",
+      "va": "Les etiquetes de la compra estan plenes de quilos, grams i litres. Entendre-les servix per a cuinar, per a comprar i per a saber quant és «molt» o «poc».",
+      "en": "Shopping labels are full of kilos, grams and litres. Understanding them helps with cooking, shopping and knowing how much is “a lot” or “a little”.",
+      "fr": "Les étiquettes des courses sont pleines de kilos, de grammes et de litres. Les comprendre sert pour cuisiner, faire les courses et savoir ce qui est « beaucoup » ou « peu ».",
+      "ar": "ملصقات المشتريات مليئة بالكيلوغرامات والغرامات واللترات. وفهمها يفيد في الطبخ والتسوّق ومعرفة ما هو «كثير» وما هو «قليل»."
+    },
+    "aviso": {
+      "es": "El agua, en el fregadero y siempre con una persona adulta. Nada de botellas de cristal.",
+      "va": "L'aigua, en la pica i sempre amb una persona adulta. Res de botelles de vidre.",
+      "en": "Water at the sink and always with an adult. No glass bottles.",
+      "fr": "L'eau, à l'évier et toujours avec un adulte. Pas de bouteilles en verre.",
+      "ar": "الماء عند المغسلة ودائمًا مع شخص بالغ. ولا زجاجات من الزجاج."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un paquete de arroz pesa 1 kg. ¿Cuántos paquetes de medio kilo pesan lo mismo?",
+        "va": "Un paquet d'arròs pesa 1 kg. Quants paquets de mig quilo pesen el mateix?",
+        "en": "A packet of rice weighs 1 kg. How many half-kilo packets weigh the same?",
+        "fr": "Un paquet de riz pèse 1 kg. Combien de paquets d'un demi-kilo pèsent pareil ?",
+        "ar": "وزن كيس أرز كيلو واحد. كم كيسًا من نصف كيلو يزن الوزن نفسه؟"
+      },
+      "pista": {
+        "es": "1 kg son 1000 g, y medio kilo, 500 g.",
+        "va": "1 kg són 1000 g, i mig quilo, 500 g.",
+        "en": "1 kg is 1000 g, and half a kilo, 500 g.",
+        "fr": "1 kg, c'est 1000 g, et un demi-kilo, 500 g.",
+        "ar": "الكيلو 1000 غ، ونصف الكيلو 500 غ."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 : 500",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Dos paquetes: {{500 + 500 = 1000}} g.",
+          "va": "Dos paquets: {{500 + 500 = 1000}} g.",
+          "en": "Two packets: {{500 + 500 = 1000}} g.",
+          "fr": "Deux paquets : {{500 + 500 = 1000}} g.",
+          "ar": "كيسان: {{500 + 500 = 1000}} غ."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con paquetes de la despensa.",
+        "va": "Inventa'n tu una amb paquets del rebost.",
+        "en": "Make one up with packets from the pantry.",
+        "fr": "Invente un problème avec des paquets du placard.",
+        "ar": "لنخترع مسألة بعلب من خزانة المؤونة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una botella de 1 litro de agua se reparte en vasos de 250 ml. ¿Cuántos vasos se llenan?",
+        "va": "Una botella d'1 litre d'aigua es repartix en gots de 250 ml. Quants gots s'omplin?",
+        "en": "A 1-litre bottle of water is poured into 250 ml glasses. How many glasses are filled?",
+        "fr": "Une bouteille d'1 litre d'eau est versée dans des verres de 250 ml. Combien de verres remplit-on ?",
+        "ar": "تُوزَّع زجاجة ماء سعتها لتر على أكواب سعة كل منها 250 مل. كم كوبًا يمتلئ؟"
+      },
+      "pista": {
+        "es": "1 litro son 1000 ml. ¿Cuántas veces cabe 250 en 1000?",
+        "va": "1 litre són 1000 ml. Quantes vegades cap 250 en 1000?",
+        "en": "1 litre is 1000 ml. How many times does 250 go into 1000?",
+        "fr": "1 litre, c'est 1000 ml. Combien de fois 250 rentre-t-il dans 1000 ?",
+        "ar": "اللتر 1000 مل. كم مرة يدخل 250 في 1000؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 : 250",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se llenan 4 vasos: {{4 × 250 = 1000}} ml.",
+          "va": "S'omplin 4 gots: {{4 × 250 = 1000}} ml.",
+          "en": "4 glasses are filled: {{4 × 250 = 1000}} ml.",
+          "fr": "On remplit 4 verres : {{4 × 250 = 1000}} ml.",
+          "ar": "تمتلئ 4 أكواب: {{4 × 250 = 1000}} مل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de repartir una botella en vasos.",
+        "va": "Inventa'n tu una de repartir una botella en gots.",
+        "en": "Make one up about pouring a bottle into glasses.",
+        "fr": "Invente un problème où l'on répartit une bouteille dans des verres.",
+        "ar": "لنخترع مسألة نوزّع فيها زجاجة على أكواب."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "En la despensa hay un paquete de 500 g de pasta y otro de 250 g. ¿Cuántos gramos hay en total? ¿Llega a un kilo?",
+        "va": "En el rebost hi ha un paquet de 500 g de pasta i un altre de 250 g. Quants grams hi ha en total? Arriba a un quilo?",
+        "en": "In the pantry there's a 500 g packet of pasta and another of 250 g. How many grams are there in total? Does it reach a kilo?",
+        "fr": "Dans le placard, il y a un paquet de 500 g de pâtes et un autre de 250 g. Combien de grammes y a-t-il en tout ? Est-ce que ça fait un kilo ?",
+        "ar": "في خزانة المؤونة كيس معكرونة وزنه 500 غ وآخر 250 غ. كم غرامًا في المجموع؟ هل يبلغ كيلو؟"
+      },
+      "pista": {
+        "es": "Suma los gramos y compáralo con 1000.",
+        "va": "Suma els grams i compara-ho amb 1000.",
+        "en": "Add the grams and compare with 1000.",
+        "fr": "Additionne les grammes et compare avec 1000.",
+        "ar": "لنجمع الغرامات ونقارنها بـ1000."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "500 + 250",
+        "resultado": 750,
+        "unidad": "g",
+        "texto": {
+          "es": "Hay 750 g. No llega a un kilo: faltan 250 g.",
+          "va": "Hi ha 750 g. No arriba a un quilo: falten 250 g.",
+          "en": "There are 750 g. It doesn't reach a kilo: 250 g short.",
+          "fr": "Il y a 750 g. Ça ne fait pas un kilo : il manque 250 g.",
+          "ar": "هناك 750 غ. لا يبلغ كيلو: ينقص 250 غ."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de juntar paquetes hasta llegar a un kilo.",
+        "va": "Inventa'n tu una d'ajuntar paquets fins a arribar a un quilo.",
+        "en": "Make one up about putting packets together until you reach a kilo.",
+        "fr": "Invente un problème où l'on rassemble des paquets jusqu'à faire un kilo.",
+        "ar": "لنخترع مسألة نجمع فيها علبًا حتى نبلغ كيلو."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 36,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: ¿cuántos centímetros son 3 metros?",
+        "va": "Per a recordar: quants centímetres són 3 metres?",
+        "en": "Let's remember: how many centimetres are 3 metres?",
+        "fr": "Pour se souvenir : combien de centimètres font 3 mètres ?",
+        "ar": "لنتذكّر: كم سنتيمترًا في 3 أمتار؟"
+      },
+      "pista": {
+        "es": "Cada metro son 100 cm.",
+        "va": "Cada metre són 100 cm.",
+        "en": "Each metre is 100 cm.",
+        "fr": "Chaque mètre, c'est 100 cm.",
+        "ar": "كل متر 100 سم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 100",
+        "resultado": 300,
+        "unidad": "cm",
+        "texto": {
+          "es": "Son 300 cm.",
+          "va": "Són 300 cm.",
+          "en": "It's 300 cm.",
+          "fr": "Ça fait 300 cm.",
+          "ar": "إنها 300 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de pasar metros a centímetros con algo de casa.",
+        "va": "Inventa'n tu una de passar metres a centímetres amb alguna cosa de casa.",
+        "en": "Make one up about changing metres to centimetres with something at home.",
+        "fr": "Invente un problème où l'on passe des mètres aux centimètres avec quelque chose de la maison.",
+        "ar": "لنخترع مسألة نحوّل فيها الأمتار إلى سنتيمترات بشيء من البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué pesa más, un kilo de algodón o un kilo de piedras? Explícame qué piensas.",
+        "va": "Què pesa més, un quilo de cotó o un quilo de pedres? Explica'm què penses.",
+        "en": "Which is heavier, a kilo of cotton wool or a kilo of stones? Explain what you think.",
+        "fr": "Qu'est-ce qui pèse le plus, un kilo de coton ou un kilo de cailloux ? Explique-moi ce que tu penses.",
+        "ar": "أيّهما أثقل: كيلو من القطن أم كيلو من الحجارة؟ اشرح لي أو اشرحي لي ما رأيك."
+      },
+      "pista": {
+        "es": "Si contesta muy rápido «las piedras», repetid la pregunta despacio: «un kilo de… y un kilo de…».",
+        "va": "Si contesta molt de pressa «les pedres», repetiu la pregunta a poc a poc: «un quilo de… i un quilo de…».",
+        "en": "If they answer “the stones” very quickly, repeat the question slowly: “a kilo of… and a kilo of…”.",
+        "fr": "Si la réponse « les cailloux » arrive très vite, répétez la question lentement : « un kilo de… et un kilo de… ».",
+        "ar": "إذا جاء الجواب سريعًا «الحجارة»، أعيدوا السؤال ببطء: «كيلو من… وكيلو من…»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Pesan lo mismo: un kilo es un kilo. Lo interesante es la conversación: el algodón ocupa mucho más sitio. Reíd juntos si cae en la trampa.",
+          "va": "Pesen el mateix: un quilo és un quilo. L'interessant és la conversa: el cotó ocupa molt més lloc. Riu-vos-en junts si cau en la trampa.",
+          "en": "They weigh the same: a kilo is a kilo. The interesting part is the conversation: cotton wool takes up much more space. Laugh together if they fall for it.",
+          "fr": "Ils pèsent pareil : un kilo, c'est un kilo. Ce qui est intéressant, c'est la conversation : le coton prend beaucoup plus de place. Riez ensemble si on tombe dans le piège.",
+          "ar": "وزنهما واحد: الكيلو كيلو. والمثير هو الحديث: القطن يشغل مكانًا أكبر بكثير. اضحكوا معًا إن وقع الطفل في الفخّ."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "a4cec659d4e5"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "a4cec659d4e5"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "a4cec659d4e5"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "a4cec659d4e5"
+      }
+    }
+  }
+}

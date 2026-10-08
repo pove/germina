@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s36",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 36,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuánto mide?",
+    "va": "Quant mesura?",
+    "en": "How long is it?",
+    "fr": "Combien ça mesure ?",
+    "ar": "كم طوله؟"
+  },
+  "objetivo": {
+    "es": "Esta semana miden longitudes con palmos y pasos, y después con el metro y la regla. Descubren que 1 metro son 100 centímetros y aprenden a decir «más o menos» cuánto mide algo antes de medirlo.",
+    "va": "Aquesta setmana mesuren longituds amb pams i passos, i després amb el metre i el regle. Descobreixen que 1 metre són 100 centímetres i aprenen a dir «més o menys» quant mesura alguna cosa abans de mesurar-la.",
+    "en": "This week they measure lengths with hand spans and steps, and then with a tape measure and a ruler. They discover that 1 metre is 100 centimetres and learn to say roughly how long something is before measuring it.",
+    "fr": "Cette semaine, on mesure des longueurs avec des empans et des pas, puis avec le mètre et la règle. On découvre qu'1 mètre fait 100 centimètres et on apprend à dire « à peu près » combien mesure quelque chose avant de le mesurer.",
+    "ar": "هذا الأسبوع يقيس الأطفال الأطوال بالأشبار والخطوات، ثم بالمتر والمسطرة. ويكتشفون أن المتر 100 سنتيمتر، ويتعلّمون أن يقدّروا طول شيء قبل قياسه."
+  },
+  "comoAyudar": {
+    "es": "Medid vosotros también con vuestros palmos: saldrán números distintos. Es la mejor forma de descubrir por qué hace falta el metro, que mide igual para todo el mundo.",
+    "va": "Mesureu vosaltres també amb els vostres pams: eixiran números diferents. És la millor manera de descobrir per què fem servir el metre, que mesura igual per a tothom.",
+    "en": "Measure with your own hand spans too: you'll get different numbers. It's the best way to discover why we use the metre, which is the same for everyone.",
+    "fr": "Mesurez vous aussi avec vos empans : vous trouverez des nombres différents. C'est la meilleure façon de découvrir pourquoi on utilise le mètre, qui est le même pour tout le monde.",
+    "ar": "قيسوا أنتم أيضًا بأشباركم: ستخرج أعداد مختلفة. إنها أفضل طريقة لاكتشاف سبب استعمال المتر، فهو واحد للجميع."
+  },
+  "saberes": [
+    "matematicas.medida.instrumentos",
+    "matematicas.medida.unidades",
+    "matematicas.medida.no-convencionales"
+  ],
+  "criterios": [
+    "matematicas.c2.3.4",
+    "matematicas.c2.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Palmos, pasos y metro",
+      "va": "Pams, passos i metre",
+      "en": "Spans, steps and metres",
+      "fr": "Empans, pas et mètre",
+      "ar": "أشبار وخطوات ومتر"
+    },
+    "material": [
+      {
+        "es": "Una cinta métrica o un metro",
+        "va": "Una cinta mètrica o un metre",
+        "en": "A tape measure or a metre rule",
+        "fr": "Un mètre ruban ou un mètre",
+        "ar": "شريط قياس أو مقياس متري"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Medid el largo de la mesa con palmos: cada persona con los suyos. Apuntad cuántos palmos salen a cada una.",
+          "va": "Mesureu la llargària de la taula amb pams: cada persona amb els seus. Apunteu quants pams n'ixen a cadascuna.",
+          "en": "Measure the length of the table in hand spans: each person with their own. Write down how many spans each person gets.",
+          "fr": "Mesurez la longueur de la table en empans : chaque personne avec les siens. Notez combien d'empans trouve chacune.",
+          "ar": "قيسوا طول الطاولة بالأشبار: كل شخص بشبره. دوّنوا كم شبرًا خرج لكل واحد."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Haced lo mismo con el pasillo, con pasos. ¿Por qué no sale el mismo número a todo el mundo?",
+          "va": "Feu el mateix amb el corredor, amb passos. Per què no ix el mateix número a tothom?",
+          "en": "Do the same with the hallway, in steps. Why doesn't everyone get the same number?",
+          "fr": "Faites pareil avec le couloir, en pas. Pourquoi tout le monde ne trouve-t-il pas le même nombre ?",
+          "ar": "افعلوا الشيء نفسه بالممر، بالخطوات. لماذا لا يخرج العدد نفسه للجميع؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Antes de usar el metro, cada persona dice cuánto cree que mide la mesa en centímetros. Apuntad todas las estimaciones.",
+          "va": "Abans de fer servir el metre, cada persona diu quant creu que mesura la taula en centímetres. Apunteu totes les estimacions.",
+          "en": "Before using the tape measure, each person says how many centimetres they think the table is. Write down all the estimates.",
+          "fr": "Avant d'utiliser le mètre, chaque personne dit combien elle pense que la table mesure en centimètres. Notez toutes les estimations.",
+          "ar": "قبل استعمال المتر، يقول كل شخص كم سنتيمترًا يظنّ طول الطاولة. دوّنوا كل التقديرات."
+        }
+      },
+      {
+        "pictograma": "cinta",
+        "texto": {
+          "es": "Ahora medid con el metro. ¿Cuánto mide de verdad? ¿Quién se ha acercado más? Si pasa de 100 cm, decidlo también así: «1 metro y 20 centímetros».",
+          "va": "Ara mesureu amb el metre. Quant mesura de veritat? Qui s'hi ha acostat més? Si passa de 100 cm, digueu-ho també així: «1 metre i 20 centímetres».",
+          "en": "Now measure with the tape measure. How long is it really? Who came closest? If it's over 100 cm, say it this way too: “1 metre and 20 centimetres”.",
+          "fr": "Maintenant, mesurez avec le mètre. Combien mesure-t-elle vraiment ? Qui était le plus proche ? Si ça dépasse 100 cm, dites-le aussi comme ça : « 1 mètre et 20 centimètres ».",
+          "ar": "الآن قيسوا بالمتر. كم طولها حقًّا؟ من كان الأقرب؟ وإذا تجاوز 100 سم، قولوه هكذا أيضًا: «متر و20 سنتيمترًا»."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Medid cosas pequeñas con la regla, como un lápiz o un libro, y decid primero si medirán más o menos de 10 cm.",
+      "va": "Mesureu coses menudes amb el regle, com un llapis o un llibre, i digueu primer si mesuraran més o menys de 10 cm.",
+      "en": "Measure small things with a ruler, like a pencil or a book, and first say whether they'll be more or less than 10 cm.",
+      "fr": "Mesurez de petites choses avec la règle, comme un crayon ou un livre, et dites d'abord si elles feront plus ou moins de 10 cm.",
+      "ar": "قيسوا أشياء صغيرة بالمسطرة، مثل قلم أو كتاب، وقولوا أولًا هل سيكون طولها أكثر من 10 سم أم أقل."
+    },
+    "masDificil": {
+      "es": "Medid vuestro paso con el metro y calculad: si un paso mide 50 cm, ¿cuántos centímetros son 8 pasos? ¿Y cuántos metros?",
+      "va": "Mesureu el vostre pas amb el metre i calculeu: si un pas mesura 50 cm, quants centímetres són 8 passos? I quants metres?",
+      "en": "Measure your step with the tape measure and work it out: if one step is 50 cm, how many centimetres are 8 steps? And how many metres?",
+      "fr": "Mesurez votre pas avec le mètre et calculez : si un pas mesure 50 cm, combien de centimètres font 8 pas ? Et combien de mètres ?",
+      "ar": "قيسوا خطوتكم بالمتر واحسبوا: إذا كان طول الخطوة 50 سم، فكم سنتيمترًا في 8 خطوات؟ وكم مترًا؟"
+    },
+    "paraQueSirve": {
+      "es": "Medir con el cuerpo deja ver por qué hacen falta unidades iguales para todos. Y estimar antes de medir ayuda a tener una idea del tamaño de las cosas.",
+      "va": "Mesurar amb el cos deixa veure per què calen unitats iguals per a tothom. I estimar abans de mesurar ajuda a tindre una idea de la grandària de les coses.",
+      "en": "Measuring with your body shows why we use units that are the same for everyone. And estimating before measuring helps you get a feel for the size of things.",
+      "fr": "Mesurer avec le corps montre pourquoi on utilise des unités pareilles pour tout le monde. Et estimer avant de mesurer aide à se faire une idée de la taille des choses.",
+      "ar": "القياس بالجسم يُظهر لماذا نستعمل وحدات واحدة للجميع. والتقدير قبل القياس يساعد على تكوين فكرة عن أحجام الأشياء."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "El pasillo de casa de Dylan mide 4 m. ¿Cuántos centímetros son?",
+        "va": "El corredor de casa de Dylan mesura 4 m. Quants centímetres són?",
+        "en": "The hallway at Dylan's home is 4 m long. How many centimetres is that?",
+        "fr": "Le couloir de chez Dylan mesure 4 m. Combien de centimètres cela fait-il ?",
+        "ar": "طول الممر في بيت ديلان 4 م. كم سنتيمترًا هذا؟"
+      },
+      "pista": {
+        "es": "Cada metro son 100 cm.",
+        "va": "Cada metre són 100 cm.",
+        "en": "Each metre is 100 cm.",
+        "fr": "Chaque mètre, c'est 100 cm.",
+        "ar": "كل متر 100 سم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 100",
+        "resultado": 400,
+        "unidad": "cm",
+        "texto": {
+          "es": "Son 400 cm.",
+          "va": "Són 400 cm.",
+          "en": "It's 400 cm.",
+          "fr": "Ça fait 400 cm.",
+          "ar": "إنها 400 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con algo de casa que mida más de un metro.",
+        "va": "Inventa'n tu una amb alguna cosa de casa que mesure més d'un metre.",
+        "en": "Make one up with something at home that's longer than a metre.",
+        "fr": "Invente un problème avec quelque chose de la maison qui mesure plus d'un mètre.",
+        "ar": "لنخترع مسألة بشيء في البيت طوله أكثر من متر."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una cama mide 190 cm. ¿Mide más o menos de 2 metros? ¿Cuánto le falta o le sobra?",
+        "va": "Un llit mesura 190 cm. Mesura més o menys de 2 metres? Quant li falta o li sobra?",
+        "en": "A bed is 190 cm long. Is it more or less than 2 metres? How much shorter or longer is it?",
+        "fr": "Un lit mesure 190 cm. Mesure-t-il plus ou moins de 2 mètres ? Combien lui manque-t-il ou combien en a-t-il de trop ?",
+        "ar": "طول سرير 190 سم. هل هو أكثر من مترين أم أقل؟ وكم ينقصه أو يزيد؟"
+      },
+      "pista": {
+        "es": "2 metros son 200 cm.",
+        "va": "2 metres són 200 cm.",
+        "en": "2 metres is 200 cm.",
+        "fr": "2 mètres, c'est 200 cm.",
+        "ar": "المتران 200 سم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "200 - 190",
+        "resultado": 10,
+        "unidad": "cm",
+        "texto": {
+          "es": "Mide menos de 2 metros: le faltan 10 cm.",
+          "va": "Mesura menys de 2 metres: li falten 10 cm.",
+          "en": "It's less than 2 metres: 10 cm short.",
+          "fr": "Il mesure moins de 2 mètres : il lui manque 10 cm.",
+          "ar": "طوله أقل من مترين: ينقصه 10 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿llega a un metro?» con algo de tu habitación.",
+        "va": "Inventa'n tu una de «arriba a un metre?» amb alguna cosa de la teua habitació.",
+        "en": "Make up a “does it reach a metre?” one with something in your bedroom.",
+        "fr": "Invente un problème « est-ce que ça fait un mètre ? » avec quelque chose de ta chambre.",
+        "ar": "لنخترع مسألة «هل يبلغ مترًا؟» بشيء في غرفتنا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Joel cree que la mesa mide 150 cm y su madre, 100 cm. Al medir, mide 120 cm. ¿Quién se ha acercado más?",
+        "va": "Joel creu que la taula mesura 150 cm i sa mare, 100 cm. En mesurar-la, fa 120 cm. Qui s'hi ha acostat més?",
+        "en": "Joel thinks the table is 150 cm long and his mum thinks 100 cm. When they measure it, it's 120 cm. Who came closer?",
+        "fr": "Joel pense que la table mesure 150 cm et sa maman, 100 cm. En la mesurant, elle fait 120 cm. Qui était le plus proche ?",
+        "ar": "يظنّ جويل أن طول الطاولة 150 سم، وتظنّ أمّه أنه 100 سم. عند القياس كان 120 سم. من كان الأقرب؟"
+      },
+      "pista": {
+        "es": "¿Cuánto va de 100 a 120? ¿Y de 120 a 150?",
+        "va": "Quant va de 100 a 120? I de 120 a 150?",
+        "en": "How far is it from 100 to 120? And from 120 to 150?",
+        "fr": "Combien y a-t-il de 100 à 120 ? Et de 120 à 150 ?",
+        "ar": "كم من 100 إلى 120؟ ومن 120 إلى 150؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "120 - 100",
+        "resultado": 20,
+        "unidad": "cm",
+        "texto": {
+          "es": "Su madre: se ha quedado a 20 cm, y Joel, a 30 cm.",
+          "va": "Sa mare: s'ha quedat a 20 cm, i Joel, a 30 cm.",
+          "en": "His mum: she was 20 cm off, and Joel was 30 cm off.",
+          "fr": "Sa maman : elle était à 20 cm, et Joel, à 30 cm.",
+          "ar": "أمّه: كان الفرق 20 سم، أمّا جويل فكان الفرق 30 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de estimar y medir con alguien de tu familia.",
+        "va": "Inventa'n tu una d'estimar i mesurar amb algú de la teua família.",
+        "en": "Make one up about estimating and measuring with someone in your family.",
+        "fr": "Invente un problème où l'on estime et on mesure avec quelqu'un de ta famille.",
+        "ar": "لنخترع مسألة تقدير وقياس مع أحد أفراد عائلتنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 35,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: un cómic cuesta 9 €. ¿Cuánto cuestan 6 cómics? Primero, a ojo.",
+        "va": "Per a recordar: un còmic costa 9 €. Quant costen 6 còmics? Primer, a ull.",
+        "en": "Let's remember: a comic costs 9 €. How much do 6 comics cost? First, estimate.",
+        "fr": "Pour se souvenir : une BD coûte 9 €. Combien coûtent 6 BD ? D'abord, à vue d'œil.",
+        "ar": "لنتذكّر: ثمن مجلة مصوّرة 9 يورو. كم ثمن 6 مجلات؟ أولًا بالتقريب."
+      },
+      "pista": {
+        "es": "9 es casi 10.",
+        "va": "9 és quasi 10.",
+        "en": "9 is almost 10.",
+        "fr": "9, c'est presque 10.",
+        "ar": "9 تقارب 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 9",
+        "resultado": 54,
+        "unidad": "euros",
+        "texto": {
+          "es": "A ojo, un poco menos de 60 €, porque {{6 × 10 = 60}}. Exactamente, 54 €.",
+          "va": "A ull, una mica menys de 60 €, perquè {{6 × 10 = 60}}. Exactament, 54 €.",
+          "en": "Roughly, a bit less than 60 €, because {{6 × 10 = 60}}. Exactly, 54 €.",
+          "fr": "À vue d'œil, un peu moins de 60 €, parce que {{6 × 10 = 60}}. Exactement, 54 €.",
+          "ar": "بالتقريب أقل قليلًا من 60 يورو، لأن {{6 × 10 = 60}}. وبالضبط 54 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar varias cosas iguales y di primero «más o menos».",
+        "va": "Inventa'n tu una de comprar diverses coses iguals i digues primer «més o menys».",
+        "en": "Make one up about buying several identical things and say “roughly” first.",
+        "fr": "Invente un problème où l'on achète plusieurs choses identiques et dis d'abord « à peu près ».",
+        "ar": "لنخترع مسألة نشتري فيها عدة أشياء متماثلة ونقول «تقريبًا» أولًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué medimos con el metro y no con palmos? Explícamelo con lo que pasó al medir la mesa.",
+        "va": "Per què mesurem amb el metre i no amb pams? Explica-m'ho amb el que va passar en mesurar la taula.",
+        "en": "Why do we measure with metres and not hand spans? Explain it to me with what happened when we measured the table.",
+        "fr": "Pourquoi mesure-t-on avec le mètre et pas avec des empans ? Explique-le-moi avec ce qui s'est passé quand on a mesuré la table.",
+        "ar": "لماذا نقيس بالمتر لا بالأشبار؟ اشرح لي أو اشرحي لي بما حدث عند قياس الطاولة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿A todo el mundo le salieron los mismos palmos? ¿Por qué?»",
+        "va": "Si no sap per on començar: «A tothom li van eixir els mateixos pams? Per què?»",
+        "en": "If they don't know where to start: “Did everyone get the same number of spans? Why?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tout le monde a trouvé le même nombre d'empans ? Pourquoi ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل خرج للجميع العدد نفسه من الأشبار؟ لماذا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo que buscáis es «porque los palmos de cada persona son distintos y el metro es igual para todos». Con sus palabras, vale igual.",
+          "va": "El que busqueu és «perquè els pams de cada persona són diferents i el metre és igual per a tothom». Amb les seues paraules, val igual.",
+          "en": "What you're looking for is “because everyone's spans are different and the metre is the same for everyone”. In their own words is just as good.",
+          "fr": "Ce que vous cherchez, c'est « parce que les empans de chacun sont différents et le mètre est le même pour tous ». Avec ses propres mots, c'est tout aussi bien.",
+          "ar": "ما تبحثون عنه هو «لأن أشبار كل شخص مختلفة والمتر واحد للجميع». وبكلمات خاصة يصلح كذلك."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "a5ee1eec5c1e"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "a5ee1eec5c1e"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "a5ee1eec5c1e"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "a5ee1eec5c1e"
+      }
+    }
+  }
+}

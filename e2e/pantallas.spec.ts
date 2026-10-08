@@ -1,6 +1,6 @@
 import { expect, test, type Page } from '@playwright/test';
 import {
-  CURSO_3, CURSO_4, LUNES_SEMANA_1_2027, SABADO_SEMANA_7, T, guardado, objetivosTactiles, preparar,
+  CURSO_3, CURSO_4, LUNES_SEMANA_1_2027, SABADO_SEMANA_7, T, guardado, objetivosTactiles, ocultarSemillas, preparar,
   sinProblemasDeAccesibilidad,
 } from './ayudas';
 
@@ -57,7 +57,7 @@ for (const idioma of IDIOMAS) {
       await expect(page).toHaveURL(/jardin$/);
       await expect(page.getByRole('link', { name: `${T('semana.titulo', idioma, { n: 7 })}: ${T('jardin.estado.flor', idioma)}` })).toBeVisible();
       await expect(page.getByRole('link', { name: `${T('semana.titulo', idioma, { n: 8 })}: ${T('jardin.estado.semilla', idioma)}` })).toBeVisible();
-      await expect(page.getByRole('img', { name: `${T('semana.titulo', idioma, { n: 36 })}: ${T('jardin.estado.en_camino', idioma)}` })).toBeVisible();
+      await expect(page.getByRole('img', { name: `${T('verano.titulo', idioma, { n: 1 })}: ${T('jardin.estado.en_camino', idioma)}` })).toBeVisible();
       await expect(page.locator('.planta')).toHaveCount(41 + 10);
 
       // Y queda guardado, también tras recargar.
@@ -74,6 +74,7 @@ for (const idioma of IDIOMAS) {
 
     test('ir a otra semana y volver; las semillas que no existen están «en camino»', async ({ page }) => {
       await preparar(page, { almacen: { idioma } });
+      await ocultarSemillas(page, [`${CURSO_3}/s36`]);
       await page.goto(SEMANA_7);
       await expect(page.getByRole('link', { name: T('semana.volver_actual', idioma) })).toHaveCount(0);
 
@@ -206,6 +207,7 @@ for (const idioma of IDIOMAS) {
 
 test('el jardín marca la semana de hoy aunque su semilla esté en camino', async ({ page }) => {
   await preparar(page, { fecha: '2027-05-12T10:00:00', almacen: { idioma: 'es' } }); // miércoles de la semana 36
+  await ocultarSemillas(page, [`${CURSO_3}/s36`]);
   await page.goto('./#/2/matematicas/3/jardin');
   const hoy = page.getByRole('img', { name: `${T('semana.titulo', 'es', { n: 36 })}: ${T('jardin.estado.en_camino', 'es')}` });
   await expect(hoy).toHaveAttribute('aria-current', 'date');
