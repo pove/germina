@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s13",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 13,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Tablas del 2 y del 10",
+    "va": "Taules del 2 i del 10",
+    "en": "The 2 and 10 times tables",
+    "fr": "Tables de 2 et de 10",
+    "ar": "جدولا ضرب 2 و10"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden la tabla del 2, que son los dobles, y la del 10, que es añadir un cero. También buscan el patrón: en la tabla del 2, los números siempre acaban en 0, 2, 4, 6 u 8.",
+    "va": "Aquesta setmana aprenen la taula del 2 (tabla del 2), que són els dobles (dobles), i la del 10, que és afegir un zero. També busquen el patró: en la taula del 2, els números sempre acaben en 0, 2, 4, 6 o 8.",
+    "en": "This week they learn the 2 times table (tabla del 2), which is doubles (dobles), and the 10 times table, which is adding a zero. They also look for the pattern: in the 2 times table, the numbers always end in 0, 2, 4, 6 or 8.",
+    "fr": "Cette semaine, on apprend la table de 2 (tabla del 2), qui est celle des doubles (dobles), et celle de 10, où l'on ajoute un zéro. On cherche aussi la régularité : dans la table de 2, les nombres finissent toujours par 0, 2, 4, 6 ou 8.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال جدول ضرب 2 (tabla del 2)، وهو الأضعاف (dobles)، وجدول ضرب 10، وهو إضافة صفر. ويبحثون أيضًا عن النمط: في جدول ضرب 2 تنتهي الأعداد دائمًا بـ0 أو 2 أو 4 أو 6 أو 8."
+  },
+  "comoAyudar": {
+    "es": "En el juego de rapidez, celebrad cada acierto, no solo la velocidad. Si una carta se resiste, se deja a un lado y se mira con calma al acabar.",
+    "va": "En el joc de rapidesa, celebreu cada encert, no només la velocitat. Si una carta es resistix, es deixa a banda i es mira amb calma en acabar.",
+    "en": "In the speed game, celebrate every right answer, not just speed. If a card is tricky, put it to one side and look at it calmly at the end.",
+    "fr": "Dans le jeu de rapidité, fêtez chaque bonne réponse, pas seulement la vitesse. Si une carte résiste, on la met de côté et on la regarde tranquillement à la fin.",
+    "ar": "في لعبة السرعة، احتفلوا بكل إجابة صحيحة، لا بالسرعة وحدها. وإذا استعصت ورقة، نضعها جانبًا وننظر إليها بهدوء في النهاية."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.computacional.secuencias-numericas"
+  ],
+  "criterios": [
+    "matematicas.c2.2.3",
+    "matematicas.c2.4.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cartas rápidas del 2 y del 10",
+      "va": "Cartes ràpides del 2 i del 10",
+      "en": "Quick cards with 2 and 10",
+      "fr": "Cartes rapides avec 2 et 10",
+      "ar": "أوراق سريعة مع 2 و10"
+    },
+    "material": [
+      {
+        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
+        "en": "A pack of cards (or cards from 1 to 10 made of paper)",
+        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+      },
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina stopwatch",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت جيرمينا"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Quitad de la baraja las figuras y dejad las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Lleveu de la baralla les figures i deixeu les cartes de l'1 al 10. Barregeu-les i poseu-les cap per avall en un munt.",
+          "en": "Take the picture cards out of the pack and keep the cards from 1 to 10. Shuffle them and put them face down in a pile.",
+          "fr": "Retirez les figures du jeu et gardez les cartes de 1 à 10. Mélangez-les et posez-les face cachée en un tas.",
+          "ar": "أخرجوا الصور من مجموعة الأوراق واتركوا الأوراق من 1 إلى 10. اخلطوها وضعوها مقلوبة في كومة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Primero, sin reloj: dad la vuelta a una carta y decid su doble ({{2 × 7 = 14}}) y su número por diez ({{10 × 7 = 70}}). Así, hasta que salga solo.",
+          "va": "Primer, sense rellotge: gireu una carta i digueu-ne el doble ({{2 × 7 = 14}}) i el número per deu ({{10 × 7 = 70}}). Així, fins que isca sol.",
+          "en": "First, without the clock: turn over a card and say its double ({{2 × 7 = 14}}) and the number times ten ({{10 × 7 = 70}}). Keep going until it comes easily.",
+          "fr": "D'abord, sans chrono : retournez une carte et dites son double ({{2 × 7 = 14}}) et le nombre fois dix ({{10 × 7 = 70}}). Continuez jusqu'à ce que ça vienne tout seul.",
+          "ar": "أولًا، بلا مؤقّت: اقلبوا ورقة وقولوا ضعفها ({{2 × 7 = 14}}) وعددها مضروبًا في عشرة ({{10 × 7 = 70}}). هكذا حتى يصبح الأمر سهلًا."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Ahora, con el cronómetro en 2 minutos: una persona da la vuelta a las cartas y la otra dice el doble. Cada carta acertada va a un montón aparte.",
+          "va": "Ara, amb el cronòmetre en 2 minuts: una persona gira les cartes i l'altra diu el doble. Cada carta encertada va a un munt a part.",
+          "en": "Now, with the stopwatch at 2 minutes: one person turns the cards over and the other says the double. Each card they get right goes on a separate pile.",
+          "fr": "Maintenant, avec le chrono sur 2 minutes : une personne retourne les cartes et l'autre dit le double. Chaque carte trouvée va sur un tas à part.",
+          "ar": "الآن، مع ضبط المؤقّت على دقيقتين: يقلب شخص الأوراق ويقول الآخر الضعف. كل ورقة صحيحة توضع في كومة منفصلة."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Contad las cartas acertadas: es vuestro récord. Cambiad los papeles y jugad otra vez, ahora con el número por diez.",
+          "va": "Compteu les cartes encertades: és el vostre rècord. Canvieu els papers i jugueu una altra vegada, ara amb el número per deu.",
+          "en": "Count the cards you got right: that's your record. Swap roles and play again, this time with the number times ten.",
+          "fr": "Comptez les cartes trouvées : c'est votre record. Échangez les rôles et rejouez, cette fois avec le nombre fois dix.",
+          "ar": "عدّوا الأوراق الصحيحة: هذا رقمكم القياسي. تبادلوا الأدوار والعبوا مرة أخرى، هذه المرة بالعدد مضروبًا في عشرة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo las cartas del 1 al 5 y decid solo el doble.",
+      "va": "Feu servir només les cartes de l'1 al 5 i digueu només el doble.",
+      "en": "Use only the cards from 1 to 5 and say only the double.",
+      "fr": "Utilisez seulement les cartes de 1 à 5 et dites seulement le double.",
+      "ar": "استعملوا الأوراق من 1 إلى 5 فقط وقولوا الضعف فقط."
+    },
+    "masDificil": {
+      "es": "Decid el doble y el número por diez de la misma carta, uno detrás de otro. O jugad con el doble del doble: 4 veces la carta.",
+      "va": "Digueu el doble i el número per deu de la mateixa carta, un darrere de l'altre. O jugueu amb el doble del doble: 4 vegades la carta.",
+      "en": "Say the double and the number times ten of the same card, one after the other. Or play with the double of the double: 4 times the card.",
+      "fr": "Dites le double et le nombre fois dix de la même carte, l'un après l'autre. Ou jouez avec le double du double : 4 fois la carte.",
+      "ar": "قولوا الضعف والعدد مضروبًا في عشرة للورقة نفسها، واحدًا بعد الآخر. أو العبوا بضعف الضعف: 4 مرات الورقة."
+    },
+    "paraQueSirve": {
+      "es": "Saber de memoria los dobles y el número por diez deja la cabeza libre para pensar en el problema, y estas dos tablas son la base de muchas otras.",
+      "va": "Saber de memòria els dobles i el número per deu deixa el cap lliure per a pensar en el problema, i aquestes dues taules són la base de moltes altres.",
+      "en": "Knowing doubles and times ten by heart leaves their mind free to think about the problem, and these two tables are the basis of many others.",
+      "fr": "Connaître par cœur les doubles et le nombre fois dix laisse la tête libre pour réfléchir au problème, et ces deux tables sont la base de beaucoup d'autres.",
+      "ar": "حفظ الأضعاف والضرب في عشرة يترك الذهن حرًّا للتفكير في المسألة، وهذان الجدولان أساس جداول كثيرة أخرى."
+    },
+    "rapidez": {
+      "segundos": 120,
+      "seCuenta": {
+        "es": "cartas acertadas",
+        "va": "cartes encertades",
+        "en": "cards you got right",
+        "fr": "cartes trouvées",
+        "ar": "الأوراق الصحيحة"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Lin tiene 7 pares de calcetines. ¿Cuántos calcetines son?",
+        "va": "Lin té 7 parells de calcetins. Quants calcetins són?",
+        "en": "Lin has 7 pairs of socks. How many socks is that?",
+        "fr": "Lin a 7 paires de chaussettes. Combien de chaussettes cela fait-il ?",
+        "ar": "عند لين 7 أزواج من الجوارب. كم جوربًا عندها؟"
+      },
+      "pista": {
+        "es": "Es el doble de 7: 7 y 7.",
+        "va": "És el doble de 7: 7 i 7.",
+        "en": "It's double 7: 7 and 7.",
+        "fr": "C'est le double de 7 : 7 et 7.",
+        "ar": "إنه ضعف 7: 7 و7."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 2",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 14 calcetines.",
+          "va": "Són 14 calcetins.",
+          "en": "That's 14 socks.",
+          "fr": "Ça fait 14 chaussettes.",
+          "ar": "عندها 14 جوربًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cosas que van por pares: zapatos, guantes, pendientes…",
+        "va": "Inventa'n tu una de coses que van per parells: sabates, guants, arracades…",
+        "en": "Make one up about things that come in pairs: shoes, gloves, earrings…",
+        "fr": "Invente un problème avec des choses qui vont par paires : chaussures, gants, boucles d'oreilles…",
+        "ar": "لنخترع مسألة عن أشياء تأتي أزواجًا: أحذية، قفازات، أقراط…"
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Cada caja trae 10 lápices. ¿Cuántos lápices hay en 6 cajas?",
+        "va": "Cada caixa porta 10 llapis. Quants llapis hi ha en 6 caixes?",
+        "en": "Each box has 10 pencils. How many pencils are there in 6 boxes?",
+        "fr": "Chaque boîte contient 10 crayons. Combien y a-t-il de crayons dans 6 boîtes ?",
+        "ar": "في كل علبة 10 أقلام. كم قلمًا في 6 علب؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10: 10, 20, 30… O pon un cero detrás del 6.",
+        "va": "Compta de 10 en 10: 10, 20, 30… O posa un zero darrere del 6.",
+        "en": "Count in tens: 10, 20, 30… Or put a zero after the 6.",
+        "fr": "Compte de 10 en 10 : 10, 20, 30… Ou mets un zéro après le 6.",
+        "ar": "لنعدّ عشرةً عشرة: 10، 20، 30… أو نضع صفرًا بعد 6."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 10",
+        "resultado": 60,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 60 lápices.",
+          "va": "Hi ha 60 llapis.",
+          "en": "There are 60 pencils.",
+          "fr": "Il y a 60 crayons.",
+          "ar": "هناك 60 قلمًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cajas o paquetes de 10.",
+        "va": "Inventa'n tu una de caixes o paquets de 10.",
+        "en": "Make one up about boxes or packs of 10.",
+        "fr": "Invente un problème avec des boîtes ou des paquets de 10.",
+        "ar": "لنخترع مسألة عن علب أو رزم فيها 10."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Mira la serie: 2, 4, 6, 8, 10, 12, 14, 16, 18… ¿Qué número va después del 18?",
+        "va": "Mira la sèrie: 2, 4, 6, 8, 10, 12, 14, 16, 18… Quin número va després del 18?",
+        "en": "Look at the pattern: 2, 4, 6, 8, 10, 12, 14, 16, 18… What number comes after 18?",
+        "fr": "Regarde la suite : 2, 4, 6, 8, 10, 12, 14, 16, 18… Quel nombre vient après 18 ?",
+        "ar": "لننظر إلى السلسلة: 2، 4، 6، 8، 10، 12، 14، 16، 18… ما العدد الذي يأتي بعد 18؟"
+      },
+      "pista": {
+        "es": "Cada número es 2 más que el anterior. Es la tabla del 2.",
+        "va": "Cada número és 2 més que l'anterior. És la taula del 2.",
+        "en": "Each number is 2 more than the one before. It's the 2 times table.",
+        "fr": "Chaque nombre fait 2 de plus que le précédent. C'est la table de 2.",
+        "ar": "كل عدد يزيد 2 على الذي قبله. إنه جدول ضرب 2."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 × 2",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 20, que es {{10 × 2 = 20}}.",
+          "va": "El 20, que és {{10 × 2 = 20}}.",
+          "en": "20, which is {{10 × 2 = 20}}.",
+          "fr": "20, c'est-à-dire {{10 × 2 = 20}}.",
+          "ar": "العدد 20، وهو {{10 × 2 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una serie de 10 en 10 con un hueco para que otra persona lo llene.",
+        "va": "Inventa't una sèrie de 10 en 10 amb un buit perquè una altra persona l'òmpliga.",
+        "en": "Make up a pattern counting in tens with a gap for someone else to fill in.",
+        "fr": "Invente une suite de 10 en 10 avec un trou qu'une autre personne remplira.",
+        "ar": "لنخترع سلسلة عشرةً عشرة فيها فراغ ليملأه شخص آخر."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 11,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: hay 3 platos con 4 fresas en cada uno. ¿Cuántas fresas hay?",
+        "va": "Per a recordar: hi ha 3 plats amb 4 maduixes en cadascun. Quantes maduixes hi ha?",
+        "en": "Let's remember: there are 3 plates with 4 strawberries on each. How many strawberries are there?",
+        "fr": "Pour se souvenir : il y a 3 assiettes avec 4 fraises dans chacune. Combien y a-t-il de fraises ?",
+        "ar": "لنتذكّر: هناك 3 صحون في كل منها 4 حبات فراولة. كم حبة فراولة هناك؟"
+      },
+      "pista": {
+        "es": "Suma un plato detrás de otro: {{4 + 4 + 4}}.",
+        "va": "Suma un plat darrere de l'altre: {{4 + 4 + 4}}.",
+        "en": "Add one plate after another: {{4 + 4 + 4}}.",
+        "fr": "Ajoute une assiette après l'autre : {{4 + 4 + 4}}.",
+        "ar": "لنجمع صحنًا بعد صحن: {{4 + 4 + 4}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 4",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 12 fresas: {{3 × 4 = 12}}.",
+          "va": "Hi ha 12 maduixes: {{3 × 4 = 12}}.",
+          "en": "There are 12 strawberries: {{3 × 4 = 12}}.",
+          "fr": "Il y a 12 fraises : {{3 × 4 = 12}}.",
+          "ar": "هناك 12 حبة فراولة: {{3 × 4 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de platos con la misma fruta en cada uno.",
+        "va": "Inventa'n tu una de plats amb la mateixa fruita en cadascun.",
+        "en": "Make one up about plates with the same fruit on each one.",
+        "fr": "Invente un problème d'assiettes avec les mêmes fruits dans chacune.",
+        "ar": "لنخترع مسألة عن صحون فيها الفاكهة نفسها في كل صحن."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué crees que en la tabla del 10 siempre sale un 0 al final? Explícamelo.",
+        "va": "Per què creus que en la taula del 10 sempre ix un 0 al final? Explica-m'ho.",
+        "en": "Why do you think the 10 times table always ends in a 0? Explain it to me.",
+        "fr": "Pourquoi, à ton avis, dans la table de 10 il y a toujours un 0 à la fin ? Explique-le-moi.",
+        "ar": "لماذا تظنّ أو تظنّين أن نتائج جدول ضرب 10 تنتهي دائمًا بصفر؟ اشرح لي أو اشرحي لي."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántas decenas son {{4 × 10}}? ¿Y cuántas unidades sueltas sobran?»",
+        "va": "Si no sap per on començar: «Quantes desenes són {{4 × 10}}? I quantes unitats soltes sobren?»",
+        "en": "If they don't know where to start: “How many tens is {{4 × 10}}? And how many loose ones are left over?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de dizaines dans {{4 × 10}} ? Et combien d'unités en plus ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم عشرة في {{4 × 10}}؟ وكم آحادًا تبقى؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que son decenas enteras y no sobra ninguna unidad, o simplemente que se ve. Cualquier explicación con sentido vale; después, preguntad: «¿y en la del 2, qué pasa?».",
+          "va": "Pot dir que són desenes senceres i no sobra cap unitat, o simplement que es veu. Qualsevol explicació amb sentit val; després, pregunteu: «i en la del 2, què passa?».",
+          "en": "They might say they are whole tens with no ones left over, or simply that you can see it. Any explanation that makes sense is fine; afterwards, ask: “And what happens in the 2 times table?”",
+          "fr": "Il ou elle peut dire que ce sont des dizaines entières et qu'il ne reste aucune unité, ou simplement que ça se voit. Toute explication qui a du sens est bonne ; ensuite, demandez : « Et dans la table de 2, que se passe-t-il ? »",
+          "ar": "قد يقول إنها عشرات كاملة ولا تبقى آحاد، أو ببساطة إن ذلك واضح. كل شرح له معنى مقبول؛ وبعدها اسألوا: «وماذا يحدث في جدول ضرب 2؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "fbad22cb75b7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "fbad22cb75b7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "fbad22cb75b7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "fbad22cb75b7"
+      }
+    }
+  }
+}

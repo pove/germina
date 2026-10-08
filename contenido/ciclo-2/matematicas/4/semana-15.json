@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s15",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 15,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Con 20 € en el súper",
+    "va": "Amb 20 € al súper",
+    "en": "With 20 € at the supermarket",
+    "fr": "Avec 20 € au supermarché",
+    "ar": "بـ20 يورو في السوق"
+  },
+  "objetivo": {
+    "es": "Esta semana hacen la compra con 20 €: suman precios con céntimos, calculan la vuelta y ven que los céntimos son la parte que va después de la coma. 50 céntimos es medio euro: 2,50 € son dos euros y medio.",
+    "va": "Aquesta setmana fan la compra amb 20 €: sumen preus amb cèntims (céntimos), calculen el canvi (la vuelta) i veuen que els cèntims són la part que va després de la coma. 50 cèntims és mig euro: 2,50 € són dos euros i mig.",
+    "en": "This week they go shopping with 20 €: they add prices with cents (céntimos), work out the change (la vuelta) and see that the cents are the part after the decimal comma. 50 cents is half a euro: 2,50 € is two and a half euros.",
+    "fr": "Cette semaine, on fait les courses avec 20 € : on additionne des prix avec des centimes (céntimos), on calcule la monnaie (la vuelta) et on voit que les centimes sont la partie après la virgule. 50 centimes, c'est un demi-euro : 2,50 €, c'est deux euros et demi.",
+    "ar": "هذا الأسبوع يتسوّق الأطفال بـ20 يورو: يجمعون أسعارًا فيها سنتات (céntimos)، ويحسبون الباقي من المال (la vuelta)، ويرون أن السنتات هي الجزء الذي بعد الفاصلة. 50 سنتًا نصف يورو: 2,50 يورو هي يوروان ونصف."
+  },
+  "comoAyudar": {
+    "es": "En el súper de verdad, dejad que lleve la cuenta de dos o tres cosas y diga si llega el dinero. Redondear a euros enteros ya es un gran paso.",
+    "va": "Al súper de veritat, deixeu que porte el compte de dues o tres coses i diga si arriben els diners. Arrodonir a euros sencers ja és un gran pas.",
+    "en": "At the real supermarket, let your child keep track of two or three items and say whether the money is enough. Rounding to whole euros is already a big step.",
+    "fr": "Au vrai supermarché, laissez votre enfant faire le compte de deux ou trois articles et dire si l'argent suffit. Arrondir à l'euro, c'est déjà un grand pas.",
+    "ar": "في السوق الحقيقي، اتركوا ابنكم أو ابنتكم يحسب ثمن شيئين أو ثلاثة ويقول إن كان المال يكفي. التقريب إلى يورو كامل خطوة كبيرة في حدّ ذاتها."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.operaciones.suma-resta",
+    "matematicas.fracciones.utilidad"
+  ],
+  "criterios": [
+    "matematicas.c2.1.1",
+    "matematicas.c2.7.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La tienda con 20 €",
+      "va": "La botiga amb 20 €",
+      "en": "The shop with 20 €",
+      "fr": "Le magasin avec 20 €",
+      "ar": "الدكّان بـ20 يورو"
+    },
+    "material": [
+      {
+        "es": "Un folleto del súper",
+        "va": "Un fullet del súper",
+        "en": "A supermarket leaflet",
+        "fr": "Un prospectus du supermarché",
+        "ar": "نشرة إعلانات السوق"
+      },
+      {
+        "es": "Billetes y monedas de papel (o de verdad)",
+        "va": "Bitllets i monedes de paper (o de veritat)",
+        "en": "Paper notes and coins (or real ones)",
+        "fr": "Des billets et des pièces en papier (ou des vrais)",
+        "ar": "أوراق نقدية وقطع نقدية من الورق (أو حقيقية)"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "folleto",
+        "texto": {
+          "es": "Cada persona tiene 20 € de papel y elige dos productos del folleto. Por ejemplo, un queso de 4,35 € y unos cereales de 2,50 €.",
+          "va": "Cada persona té 20 € de paper i tria dos productes del fullet. Per exemple, un formatge de 4,35 € i uns cereals de 2,50 €.",
+          "en": "Each person has 20 € in paper money and chooses two products from the leaflet. For example, a cheese for 4,35 € and some cereal for 2,50 €.",
+          "fr": "Chaque personne a 20 € en papier et choisit deux produits dans le prospectus. Par exemple, un fromage à 4,35 € et des céréales à 2,50 €.",
+          "ar": "مع كل شخص 20 يورو من الورق، ويختار منتجين من النشرة. مثلًا، جبنة بـ4,35 يورو وحبوب إفطار بـ2,50 يورو."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Juntad el dinero con monedas y billetes: 4 € y 35 céntimos más 2 € y 50 céntimos son 6 € y 85 céntimos, es decir, 6,85 €.",
+          "va": "Ajunteu els diners amb monedes i bitllets: 4 € i 35 cèntims més 2 € i 50 cèntims són 6 € i 85 cèntims, és a dir, 6,85 €.",
+          "en": "Put the money together with coins and notes: 4 € and 35 cents plus 2 € and 50 cents make 6 € and 85 cents, that is, 6,85 €.",
+          "fr": "Rassemblez l'argent avec des pièces et des billets : 4 € et 35 centimes plus 2 € et 50 centimes font 6 € et 85 centimes, c'est-à-dire 6,85 €.",
+          "ar": "اجمعوا المال بالقطع والأوراق النقدية: 4 يورو و35 سنتًا زائد 2 يورو و50 سنتًا تساوي 6 يورو و85 سنتًا، أي 6,85 يورو."
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Pagad con el billete de 20 € y calculad la vuelta contando hacia arriba con monedas: de 6,85 € a 7 €, 15 céntimos; de 7 € a 20 €, 13 €. La vuelta es 13,15 €.",
+          "va": "Pagueu amb el bitllet de 20 € i calculeu el canvi comptant cap amunt amb monedes: de 6,85 € a 7 €, 15 cèntims; de 7 € a 20 €, 13 €. El canvi és 13,15 €.",
+          "en": "Pay with the 20 € note and work out the change by counting up with coins: from 6,85 € to 7 €, 15 cents; from 7 € to 20 €, 13 €. The change is 13,15 €.",
+          "fr": "Payez avec le billet de 20 € et calculez la monnaie en comptant en avançant avec des pièces : de 6,85 € à 7 €, 15 centimes ; de 7 € à 20 €, 13 €. La monnaie est de 13,15 €.",
+          "ar": "ادفعوا بورقة الـ20 يورو واحسبوا الباقي بالعدّ صعودًا بالقطع النقدية: من 6,85 يورو إلى 7 يورو، 15 سنتًا؛ ومن 7 يورو إلى 20 يورو، 13 يورو. الباقي 13,15 يورو."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Después escribidlo en papel, en céntimos si ayuda: lo gastado y la vuelta juntos dan los 20 €, {{685 + 1315 = 2000}}.",
+          "va": "Després escriviu-ho en paper, en cèntims si ajuda: el que s'ha gastat i el canvi junts fan els 20 €, {{685 + 1315 = 2000}}.",
+          "en": "Then write it on paper, in cents if that helps: what you spent and the change together make the 20 €, {{685 + 1315 = 2000}}.",
+          "fr": "Ensuite, écrivez-le sur papier, en centimes si ça aide : ce qui est dépensé et la monnaie font ensemble les 20 €, {{685 + 1315 = 2000}}.",
+          "ar": "بعد ذلك اكتبوه على الورق، بالسنتات إن كان ذلك يساعد: ما صُرف والباقي معًا يساويان الـ20 يورو، {{685 + 1315 = 2000}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Elegid productos con precios de 50 en 50 céntimos: 2,50 €, 3 €, 1,50 €.",
+      "va": "Trieu productes amb preus de 50 en 50 cèntims: 2,50 €, 3 €, 1,50 €.",
+      "en": "Choose products with prices that go up in 50 cents: 2,50 €, 3 €, 1,50 €.",
+      "fr": "Choisissez des produits avec des prix de 50 en 50 centimes : 2,50 €, 3 €, 1,50 €.",
+      "ar": "اختاروا منتجات أسعارها بفارق 50 سنتًا: 2,50 يورو، 3 يورو، 1,50 يورو."
+    },
+    "masDificil": {
+      "es": "Elegid tres productos y, antes de sumar, decid a ojo si llega con 20 €.",
+      "va": "Trieu tres productes i, abans de sumar, digueu a ull si arriba amb 20 €.",
+      "en": "Choose three products and, before adding, say roughly whether 20 € is enough.",
+      "fr": "Choisissez trois produits et, avant d'additionner, dites au jugé si 20 € suffisent.",
+      "ar": "اختاروا ثلاثة منتجات، وقبل الجمع قولوا بالنظر إن كانت 20 يورو تكفي."
+    },
+    "paraQueSirve": {
+      "es": "Manejar euros y céntimos es el primer contacto con los números con coma, y calcular si llega el dinero es algo que se usa toda la vida.",
+      "va": "Manejar euros i cèntims és el primer contacte amb els números amb coma, i calcular si arriben els diners és una cosa que es fa servir tota la vida.",
+      "en": "Handling euros and cents is their first contact with decimal numbers, and working out whether there's enough money is something used for life.",
+      "fr": "Manipuler des euros et des centimes, c'est le premier contact avec les nombres à virgule, et calculer si l'argent suffit sert toute la vie.",
+      "ar": "التعامل مع اليورو والسنتات هو أول تعارف مع الأعداد العشرية، وحساب ما إذا كان المال يكفي أمر نستعمله طوال الحياة."
+    },
+    "aviso": {
+      "es": "Si usáis monedas de verdad, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir monedes de veritat, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use real coins, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de vraies pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم قطعًا نقدية حقيقية، أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Mei compra un cuaderno de 2,40 € y unos rotuladores de 3,50 €. ¿Cuánto cuesta todo?",
+        "va": "Mei compra un quadern de 2,40 € i uns retoladors de 3,50 €. Quant costa tot?",
+        "en": "Mei buys a notebook for 2,40 € and some felt-tip pens for 3,50 €. How much does it all cost?",
+        "fr": "Mei achète un cahier à 2,40 € et des feutres à 3,50 €. Combien coûte le tout ?",
+        "ar": "اشترت مي دفترًا بـ2,40 يورو وأقلام تلوين بـ3,50 يورو. كم ثمن الكل؟"
+      },
+      "pista": {
+        "es": "Suma por separado los euros ({{2 + 3}}) y los céntimos ({{40 + 50}}).",
+        "va": "Suma per separat els euros ({{2 + 3}}) i els cèntims ({{40 + 50}}).",
+        "en": "Add the euros ({{2 + 3}}) and the cents ({{40 + 50}}) separately.",
+        "fr": "Additionne séparément les euros ({{2 + 3}}) et les centimes ({{40 + 50}}).",
+        "ar": "لنجمع اليوروهات ({{2 + 3}}) والسنتات ({{40 + 50}}) كلًّا على حدة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "240 + 350",
+        "resultado": 590,
+        "unidad": "cent",
+        "texto": {
+          "es": "Cuesta 5,90 €.",
+          "va": "Costa 5,90 €.",
+          "en": "It costs 5,90 €.",
+          "fr": "Ça coûte 5,90 €.",
+          "ar": "الثمن 5,90 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar dos cosas con céntimos en la papelería.",
+        "va": "Inventa'n tu una de comprar dues coses amb cèntims a la papereria.",
+        "en": "Make one up about buying two things with cents at the stationery shop.",
+        "fr": "Invente un problème où l'on achète deux choses avec des centimes à la papeterie.",
+        "ar": "لنخترع مسألة نشتري فيها شيئين بأسعار فيها سنتات من المكتبة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Con un billete de 20 € compras una camiseta de 12,75 €. ¿Cuánto te devuelven?",
+        "va": "Amb un bitllet de 20 € compres una samarreta de 12,75 €. Quant et tornen?",
+        "en": "With a 20 € note you buy a T-shirt for 12,75 €. How much change do you get?",
+        "fr": "Avec un billet de 20 €, tu achètes un tee-shirt à 12,75 €. Combien on te rend ?",
+        "ar": "بورقة من فئة 20 يورو نشتري قميصًا بـ12,75 يورو. كم يعيدون لنا؟"
+      },
+      "pista": {
+        "es": "De 12,75 € a 13 € van 25 céntimos. De 13 € a 20 €, 7 €.",
+        "va": "De 12,75 € a 13 € en van 25 cèntims. De 13 € a 20 €, 7 €.",
+        "en": "From 12,75 € to 13 € is 25 cents. From 13 € to 20 €, 7 €.",
+        "fr": "De 12,75 € à 13 €, ça fait 25 centimes. De 13 € à 20 €, 7 €.",
+        "ar": "من 12,75 يورو إلى 13 يورو هناك 25 سنتًا. ومن 13 يورو إلى 20 يورو، 7 يورو."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2000 - 1275",
+        "resultado": 725,
+        "unidad": "cent",
+        "texto": {
+          "es": "Te devuelven 7,25 €.",
+          "va": "Et tornen 7,25 €.",
+          "en": "You get 7,25 € change.",
+          "fr": "On te rend 7,25 €.",
+          "ar": "يعيدون لنا 7,25 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de pagar con 20 € algo que tenga céntimos.",
+        "va": "Inventa'n tu una de pagar amb 20 € una cosa que tinga cèntims.",
+        "en": "Make one up about paying with 20 € for something with cents in its price.",
+        "fr": "Invente un problème où l'on paie avec 20 € quelque chose qui a des centimes.",
+        "ar": "لنخترع مسألة ندفع فيها 20 يورو ثمن شيء في سعره سنتات."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "La abuela de Unai quiere comprar 3 paquetes de galletas de 1,50 € cada uno y lleva 5 €. ¿Le llega? ¿Cuánto cuestan los tres?",
+        "va": "L'àvia d'Unai vol comprar 3 paquets de galetes d'1,50 € cadascun i porta 5 €. Li arriba? Quant costen els tres?",
+        "en": "Unai's grandma wants to buy 3 packets of biscuits at 1,50 € each and has 5 €. Is it enough? How much do the three cost?",
+        "fr": "La mamie d'Unai veut acheter 3 paquets de biscuits à 1,50 € chacun et elle a 5 €. Ça suffit ? Combien coûtent les trois ?",
+        "ar": "تريد جدّة أوناي شراء 3 علب بسكويت ثمن كل منها 1,50 يورو، ومعها 5 يورو. هل يكفيها؟ كم ثمن العلب الثلاث؟"
+      },
+      "pista": {
+        "es": "Cada paquete es un euro y medio. Tres euros y tres medios euros…",
+        "va": "Cada paquet és un euro i mig. Tres euros i tres mitjos euros…",
+        "en": "Each packet is one and a half euros. Three euros and three half euros…",
+        "fr": "Chaque paquet coûte un euro et demi. Trois euros et trois demi-euros…",
+        "ar": "ثمن كل علبة يورو ونصف. ثلاثة يوروهات وثلاثة أنصاف يورو…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 150",
+        "resultado": 450,
+        "unidad": "cent",
+        "texto": {
+          "es": "Sí le llega: cuestan 4,50 € y le sobran 50 céntimos.",
+          "va": "Sí que li arriba: costen 4,50 € i li sobren 50 cèntims.",
+          "en": "Yes, it's enough: they cost 4,50 € and she has 50 cents left over.",
+          "fr": "Oui, ça suffit : ils coûtent 4,50 € et il lui reste 50 centimes.",
+          "ar": "نعم، يكفيها: الثمن 4,50 يورو ويبقى معها 50 سنتًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar varias cosas iguales con céntimos y decir si llega el dinero.",
+        "va": "Inventa'n tu una de comprar unes quantes coses iguals amb cèntims i dir si arriben els diners.",
+        "en": "Make one up about buying several of the same thing with cents and saying whether the money is enough.",
+        "fr": "Invente un problème où l'on achète plusieurs choses pareilles avec des centimes et où l'on dit si l'argent suffit.",
+        "ar": "لنخترع مسألة نشتري فيها عدة أشياء متشابهة بأسعار فيها سنتات ونقول إن كان المال يكفي."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: Sofía dice que {{19 × 5}} da unos 100. ¿Es razonable? ¿Cuánto da exactamente?",
+        "va": "Per a recordar: Sofía diu que {{19 × 5}} dona uns 100. És raonable? Quant dona exactament?",
+        "en": "Let's remember: Sofía says {{19 × 5}} is about 100. Is that reasonable? What is it exactly?",
+        "fr": "Pour se souvenir : Sofía dit que {{19 × 5}} fait environ 100. Est-ce raisonnable ? Combien ça fait exactement ?",
+        "ar": "لنتذكّر: تقول صوفيا إن {{19 × 5}} يساوي نحو 100. هل هذا معقول؟ وكم يساوي بالضبط؟"
+      },
+      "pista": {
+        "es": "Redondea 19 a 20: {{20 × 5 = 100}}. Como has puesto un 5 de más, quítalo.",
+        "va": "Arrodonix 19 a 20: {{20 × 5 = 100}}. Com que n'has posat un 5 de més, lleva'l.",
+        "en": "Round 19 to 20: {{20 × 5 = 100}}. Since you added an extra 5, take it away.",
+        "fr": "Arrondis 19 à 20 : {{20 × 5 = 100}}. Comme tu as mis un 5 en trop, enlève-le.",
+        "ar": "لنقرّب 19 إلى 20: {{20 × 5 = 100}}. وبما أننا أضفنا 5 زائدة، نطرحها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "19 × 5",
+        "resultado": 95,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, es razonable: exactamente da 95, un poco menos de 100.",
+          "va": "Sí, és raonable: exactament dona 95, un poc menys de 100.",
+          "en": "Yes, it's reasonable: exactly, it's 95, a bit less than 100.",
+          "fr": "Oui, c'est raisonnable : exactement, ça fait 95, un peu moins de 100.",
+          "ar": "نعم، هذا معقول: الناتج بالضبط 95، أي أقل من 100 بقليل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación y pide a otra persona que diga, más o menos, cuánto saldrá.",
+        "va": "Inventa't una multiplicació i demana a una altra persona que diga, més o menys, quant eixirà.",
+        "en": "Make up a multiplication and ask someone else to say roughly what it will come to.",
+        "fr": "Invente une multiplication et demande à une autre personne de dire, à peu près, combien elle fera.",
+        "ar": "لنخترع عملية ضرب ونطلب من شخص آخر أن يقول كم سيكون ناتجها تقريبًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si vas al súper con 20 €, ¿cómo sabes si te llega para lo que quieres comprar? Explícamelo.",
+        "va": "Si vas al súper amb 20 €, com saps si t'arriba per al que vols comprar? Explica-m'ho.",
+        "en": "If you go to the supermarket with 20 €, how do you know whether it's enough for what you want to buy? Explain it to me.",
+        "fr": "Si tu vas au supermarché avec 20 €, comment sais-tu si ça suffit pour ce que tu veux acheter ? Explique-le-moi.",
+        "ar": "إذا ذهبنا إلى السوق بـ20 يورو، فكيف نعرف إن كانت تكفي لما نريد شراءه؟ اشرح لي أو اشرحي لي."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si algo cuesta 4,95 €, ¿a cuántos euros lo redondearías?»",
+        "va": "Si no sap per on començar: «Si una cosa costa 4,95 €, a quants euros l'arrodoniries?»",
+        "en": "If they don't know where to start: “If something costs 4,95 €, how many euros would you round it to?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si quelque chose coûte 4,95 €, à combien d'euros tu l'arrondirais ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كان ثمن شيء 4,95 يورو، فإلى كم يورو نقرّبه؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede redondear los precios y sumarlos, o ir restando de 20 €. Cualquier forma con sentido vale; preguntad también: «¿y si no llega, qué harías?».",
+          "va": "Pot arrodonir els preus i sumar-los, o anar restant de 20 €. Qualsevol manera amb sentit val; pregunteu també: «i si no arriba, què faries?».",
+          "en": "They might round the prices and add them, or keep subtracting from 20 €. Any way that makes sense is fine; also ask: “And if it isn't enough, what would you do?”",
+          "fr": "Il ou elle peut arrondir les prix et les additionner, ou soustraire au fur et à mesure de 20 €. Toute façon qui a du sens est bonne ; demandez aussi : « Et si ça ne suffit pas, tu ferais quoi ? »",
+          "ar": "قد يقرّب الأسعار ويجمعها، أو يطرح تدريجيًا من 20 يورو. كل طريقة لها معنى مقبولة؛ واسألوا أيضًا: «وإذا لم يكفِ المال، ماذا نفعل؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "1b952888d5a8"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "1b952888d5a8"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "1b952888d5a8"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "1b952888d5a8"
+      }
+    }
+  }
+}

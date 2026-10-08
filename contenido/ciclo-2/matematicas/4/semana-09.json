@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s09",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 9,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Trucos para calcular de cabeza",
+    "va": "Trucs per a calcular de cap",
+    "en": "Tricks for working things out in your head",
+    "fr": "Astuces pour calculer de tête",
+    "ar": "حيل للحساب في الذهن"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden trucos para calcular de cabeza: redondear un número y compensar después ({{49 + 26 = 50 + 25}}) o cambiar el orden para que sea más fácil. Descubren que hay muchas formas buenas de llegar al mismo resultado.",
+    "va": "Aquesta setmana aprenen trucs per a calcular de cap: arrodonir (redondear) un número i compensar després ({{49 + 26 = 50 + 25}}) o canviar l'ordre perquè siga més fàcil. Descobreixen que hi ha moltes maneres bones d'arribar al mateix resultat.",
+    "en": "This week they learn tricks for working things out in their heads: rounding (redondear) a number and making up for it afterwards ({{49 + 26 = 50 + 25}}), or changing the order to make it easier. They discover there are many good ways to reach the same answer.",
+    "fr": "Cette semaine, on apprend des astuces pour calculer de tête : arrondir (redondear) un nombre puis compenser ({{49 + 26 = 50 + 25}}), ou changer l'ordre pour que ce soit plus facile. On découvre qu'il y a beaucoup de bonnes façons d'arriver au même résultat.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال حيلًا للحساب في الذهن: تقريب (redondear) عدد ثم التعويض ({{49 + 26 = 50 + 25}})، أو تغيير الترتيب ليصبح الحساب أسهل. ويكتشفون أن هناك طرقًا جيدة كثيرة للوصول إلى النتيجة نفسها."
+  },
+  "comoAyudar": {
+    "es": "Contad también vuestro truco, aunque sea distinto del de clase. Ver que las personas adultas piensan de formas diferentes ayuda a perder el miedo a probar.",
+    "va": "Conteu també el vostre truc, encara que siga diferent del de classe. Veure que les persones adultes pensen de maneres diferents ajuda a perdre la por a provar.",
+    "en": "Share your own trick too, even if it's different from the one used in class. Seeing that adults think in different ways helps children lose their fear of trying.",
+    "fr": "Racontez aussi votre astuce, même si elle est différente de celle de la classe. Voir que les adultes pensent de façons différentes aide à ne plus avoir peur d'essayer.",
+    "ar": "احكوا أيضًا حيلتكم، حتى لو كانت مختلفة عن حيلة القسم. رؤية أن الكبار يفكّرون بطرق مختلفة تساعد على التخلّص من الخوف من المحاولة."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.propiedades"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.6.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "¿Cómo lo has pensado?",
+      "va": "Com ho has pensat?",
+      "en": "How did you work it out?",
+      "fr": "Comment tu as réfléchi ?",
+      "ar": "كيف فكّرت؟"
+    },
+    "material": [
+      {
+        "es": "Papelitos con sumas y restas escritas",
+        "va": "Paperets amb sumes i restes escrites",
+        "en": "Slips of paper with additions and subtractions written on them",
+        "fr": "Des petits papiers avec des additions et des soustractions écrites",
+        "ar": "قصاصات ورق مكتوب عليها عمليات جمع وطرح"
+      },
+      {
+        "es": "Papel y lápiz para cada persona",
+        "va": "Paper i llapis per a cada persona",
+        "en": "Paper and a pencil for each person",
+        "fr": "Du papier et un crayon pour chaque personne",
+        "ar": "ورقة وقلم رصاص لكل شخص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Escribid en papelitos algunas sumas y restas para hacer de cabeza: {{49 + 26}}, {{98 + 35}}, {{73 − 29}}, {{125 + 99}}. Doblad los papelitos.",
+          "va": "Escriviu en paperets algunes sumes i restes per a fer de cap: {{49 + 26}}, {{98 + 35}}, {{73 − 29}}, {{125 + 99}}. Dobleu els paperets.",
+          "en": "Write some additions and subtractions to do in your heads on slips of paper: {{49 + 26}}, {{98 + 35}}, {{73 − 29}}, {{125 + 99}}. Fold the slips.",
+          "fr": "Écrivez sur des petits papiers quelques additions et soustractions à faire de tête : {{49 + 26}}, {{98 + 35}}, {{73 − 29}}, {{125 + 99}}. Pliez les papiers.",
+          "ar": "اكتبوا على قصاصات ورق بعض عمليات الجمع والطرح لنحسبها في الذهن: {{49 + 26}}، {{98 + 35}}، {{73 − 29}}، {{125 + 99}}. اطووا القصاصات."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Sacad un papelito y leedlo en voz alta. Cada persona lo calcula de cabeza, en silencio, y escribe solo el resultado.",
+          "va": "Traieu un paperet i llegiu-lo en veu alta. Cada persona el calcula de cap, en silenci, i escriu només el resultat.",
+          "en": "Pick a slip and read it out loud. Each person works it out in their head, in silence, and writes down only the answer.",
+          "fr": "Tirez un papier et lisez-le à voix haute. Chaque personne calcule de tête, en silence, et écrit seulement le résultat.",
+          "ar": "اسحبوا قصاصة واقرؤوها بصوت عالٍ. يحسبها كل شخص في ذهنه بصمت، ويكتب النتيجة فقط."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, contad vuestro truco. Para {{49 + 26}}, alguien puede decir «al 49 le doy 1 del 26 y queda {{50 + 25 = 75}}», y otra persona, «sumo 50 y quito 1».",
+          "va": "Per torns, conteu el vostre truc. Per a {{49 + 26}}, algú pot dir «al 49 li done 1 del 26 i queda {{50 + 25 = 75}}», i una altra persona, «sume 50 i lleve 1».",
+          "en": "Take turns to share your trick. For {{49 + 26}}, someone might say “I give 1 from the 26 to the 49, and that leaves {{50 + 25 = 75}}”, and someone else, “I add 50 and take away 1”.",
+          "fr": "Chacun son tour, racontez votre astuce. Pour {{49 + 26}}, quelqu'un peut dire « je donne 1 du 26 au 49 et ça fait {{50 + 25 = 75}} », et une autre personne, « j'ajoute 50 et j'enlève 1 ».",
+          "ar": "بالتناوب، احكوا حيلتكم. في {{49 + 26}} قد يقول أحدكم «أعطي 49 واحدًا من 26 فتصبح {{50 + 25 = 75}}»، ويقول آخر «أجمع 50 ثم أطرح 1»."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Comparad los trucos: ¿cuál os ha parecido más rápido? ¿Alguien ha usado uno que no conocíais? Apuntadlo para la próxima vez.",
+          "va": "Compareu els trucs: quin us ha paregut més ràpid? Algú n'ha fet servir un que no coneixíeu? Apunteu-lo per a la pròxima vegada.",
+          "en": "Compare the tricks: which one seemed quickest? Did anyone use one you didn't know? Write it down for next time.",
+          "fr": "Comparez les astuces : laquelle vous a paru la plus rapide ? Quelqu'un en a-t-il utilisé une que vous ne connaissiez pas ? Notez-la pour la prochaine fois.",
+          "ar": "قارنوا الحيل: أيّها بدت لكم أسرع؟ هل استعمل أحدكم حيلة لم تعرفوها؟ دوّنوها للمرة القادمة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad números que estén a 1 de una decena redonda: {{19 + 7}}, {{39 + 15}}.",
+      "va": "Feu servir números que estiguen a 1 d'una desena redona: {{19 + 7}}, {{39 + 15}}.",
+      "en": "Use numbers that are 1 away from a round ten: {{19 + 7}}, {{39 + 15}}.",
+      "fr": "Utilisez des nombres à 1 d'une dizaine ronde : {{19 + 7}}, {{39 + 15}}.",
+      "ar": "استعملوا أعدادًا تبعد 1 عن عشرة مدوّرة: {{19 + 7}}، {{39 + 15}}."
+    },
+    "masDificil": {
+      "es": "Probad restas de números grandes, como {{302 − 198}}. Una idea: ¿cuánto va de 198 a 200, y de 200 a 302?",
+      "va": "Proveu restes de números grans, com {{302 − 198}}. Una idea: quant va de 198 a 200, i de 200 a 302?",
+      "en": "Try subtractions with big numbers, like {{302 − 198}}. An idea: how much is it from 198 to 200, and from 200 to 302?",
+      "fr": "Essayez des soustractions avec de grands nombres, comme {{302 − 198}}. Une idée : combien de 198 à 200, et de 200 à 302 ?",
+      "ar": "جرّبوا عمليات طرح بأعداد كبيرة، مثل {{302 − 198}}. فكرة: كم من 198 إلى 200، ومن 200 إلى 302؟"
+    },
+    "paraQueSirve": {
+      "es": "Redondear y compensar ayuda a calcular sin papel y a saber si un resultado tiene sentido. Además, oír el truco de otra persona enseña que no hay un solo camino.",
+      "va": "Arrodonir i compensar ajuda a calcular sense paper i a saber si un resultat té sentit. A més, sentir el truc d'una altra persona ensenya que no hi ha un sol camí.",
+      "en": "Rounding and making up for it helps them calculate without paper and know whether an answer makes sense. And hearing someone else's trick teaches that there isn't just one way.",
+      "fr": "Arrondir et compenser aide à calculer sans papier et à savoir si un résultat a du sens. En plus, écouter l'astuce d'une autre personne montre qu'il n'y a pas qu'un seul chemin.",
+      "ar": "التقريب والتعويض يساعدان على الحساب بلا ورقة وعلى معرفة إن كانت النتيجة معقولة. كما أن سماع حيلة شخص آخر يعلّم أنه لا يوجد طريق واحد فقط."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Jana tiene 39 cromos y le regalan 24. ¿Cuántos tiene ahora?",
+        "va": "Jana té 39 cromos i li'n regalen 24. Quants en té ara?",
+        "en": "Jana has 39 stickers and is given 24 more. How many does she have now?",
+        "fr": "Jana a 39 images à coller et on lui en offre 24. Combien en a-t-elle maintenant ?",
+        "ar": "عند جنى 39 صورة لاصقة وأُهديت 24 أخرى. كم صار عندها الآن؟"
+      },
+      "pista": {
+        "es": "39 está a 1 de 40: calcula {{40 + 24 = 64}} y luego quita el 1 que has puesto de más.",
+        "va": "39 està a 1 de 40: calcula {{40 + 24 = 64}} i després lleva l'1 que has posat de més.",
+        "en": "39 is 1 away from 40: work out {{40 + 24 = 64}} and then take away the extra 1 you added.",
+        "fr": "39 est à 1 de 40 : calcule {{40 + 24 = 64}} puis enlève le 1 que tu as mis en trop.",
+        "ar": "العدد 39 يبعد 1 عن 40: لنحسب {{40 + 24 = 64}} ثم نطرح الواحد الزائد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "39 + 24",
+        "resultado": 63,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 63 cromos.",
+          "va": "En té 63.",
+          "en": "She has 63 stickers.",
+          "fr": "Elle en a 63.",
+          "ar": "عندها 63 صورة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una suma con un número que acabe en 9 y cuenta tu truco.",
+        "va": "Inventa't una suma amb un número que acabe en 9 i conta el teu truc.",
+        "en": "Make up an addition with a number ending in 9 and explain your trick.",
+        "fr": "Invente une addition avec un nombre qui finit par 9 et raconte ton astuce.",
+        "ar": "لنخترع عملية جمع فيها عدد ينتهي بـ9 ونحكي حيلتنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En un aparcamiento hay 82 coches y salen 29. ¿Cuántos quedan?",
+        "va": "En un aparcament hi ha 82 cotxes i n'ixen 29. Quants en queden?",
+        "en": "There are 82 cars in a car park and 29 leave. How many are left?",
+        "fr": "Dans un parking, il y a 82 voitures et 29 sortent. Combien en reste-t-il ?",
+        "ar": "في موقف سيارات 82 سيارة وخرجت منها 29. كم سيارة بقيت؟"
+      },
+      "pista": {
+        "es": "Quitar 29 es como quitar 30 y devolver 1: {{82 − 30 = 52}}, y luego {{52 + 1 = 53}}.",
+        "va": "Llevar 29 és com llevar 30 i tornar-ne 1: {{82 − 30 = 52}}, i després {{52 + 1 = 53}}.",
+        "en": "Taking away 29 is like taking away 30 and giving 1 back: {{82 − 30 = 52}}, then {{52 + 1 = 53}}.",
+        "fr": "Enlever 29, c'est comme enlever 30 et rendre 1 : {{82 − 30 = 52}}, puis {{52 + 1 = 53}}.",
+        "ar": "طرح 29 مثل طرح 30 ثم إعادة 1: {{82 − 30 = 52}}، ثم {{52 + 1 = 53}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "82 - 29",
+        "resultado": 53,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 53 coches.",
+          "va": "En queden 53.",
+          "en": "There are 53 cars left.",
+          "fr": "Il reste 53 voitures.",
+          "ar": "بقيت 53 سيارة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una resta en la que se quite un número acabado en 9.",
+        "va": "Inventa't una resta en què es lleve un número acabat en 9.",
+        "en": "Make up a subtraction where you take away a number ending in 9.",
+        "fr": "Invente une soustraction où l'on enlève un nombre qui finit par 9.",
+        "ar": "لنخترع عملية طرح نطرح فيها عددًا ينتهي بـ9."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Una familia sale de viaje: el sábado recorre 198 km y el domingo, 145 km. ¿Cuántos kilómetros recorre en total?",
+        "va": "Una família ix de viatge: el dissabte recorre 198 km i el diumenge, 145 km. Quants quilòmetres recorre en total?",
+        "en": "A family goes on a trip: on Saturday they travel 198 km and on Sunday, 145 km. How many kilometres do they travel in total?",
+        "fr": "Une famille part en voyage : le samedi, elle parcourt 198 km et le dimanche, 145 km. Combien de kilomètres parcourt-elle en tout ?",
+        "ar": "خرجت عائلة في رحلة: قطعت يوم السبت 198 كم ويوم الأحد 145 كم. كم كيلومترًا قطعت في المجموع؟"
+      },
+      "pista": {
+        "es": "198 está a 2 de 200: calcula {{200 + 145 = 345}} y quita los 2 de más.",
+        "va": "198 està a 2 de 200: calcula {{200 + 145 = 345}} i lleva els 2 de més.",
+        "en": "198 is 2 away from 200: work out {{200 + 145 = 345}} and take away the extra 2.",
+        "fr": "198 est à 2 de 200 : calcule {{200 + 145 = 345}} et enlève les 2 en trop.",
+        "ar": "العدد 198 يبعد 2 عن 200: لنحسب {{200 + 145 = 345}} ونطرح الاثنين الزائدين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "198 + 145",
+        "resultado": 343,
+        "texto": {
+          "es": "Recorre 343 km.",
+          "va": "Recorre 343 km.",
+          "en": "They travel 343 km.",
+          "fr": "Elle parcourt 343 km.",
+          "ar": "قطعت 343 كم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un viaje de dos días con un número cercano a 100 o a 200.",
+        "va": "Inventa'n tu una d'un viatge de dos dies amb un número pròxim a 100 o a 200.",
+        "en": "Make one up about a two-day trip with a number close to 100 or 200.",
+        "fr": "Invente un problème de voyage sur deux jours avec un nombre proche de 100 ou de 200.",
+        "ar": "لنخترع مسألة عن رحلة من يومين فيها عدد قريب من 100 أو 200."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: en un almacén hay 500 cajas y se llevan 136. ¿Cuántas quedan?",
+        "va": "Per a recordar: en un magatzem hi ha 500 caixes i se n'emporten 136. Quantes en queden?",
+        "en": "Let's remember: there are 500 boxes in a warehouse and 136 are taken away. How many are left?",
+        "fr": "Pour se souvenir : dans un entrepôt, il y a 500 caisses et on en emporte 136. Combien en reste-t-il ?",
+        "ar": "لنتذكّر: في مستودع 500 صندوق، وأُخذ منها 136. كم صندوقًا بقي؟"
+      },
+      "pista": {
+        "es": "500 son 4 centenas, 9 decenas y 10 unidades. Así ya puedes quitar.",
+        "va": "500 són 4 centenes, 9 desenes i 10 unitats. Així ja pots llevar.",
+        "en": "500 is 4 hundreds, 9 tens and 10 ones. Now you can take away.",
+        "fr": "500, c'est 4 centaines, 9 dizaines et 10 unités. Comme ça, tu peux enlever.",
+        "ar": "500 هي 4 مئات و9 عشرات و10 آحاد. هكذا يمكننا الطرح."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "500 - 136",
+        "resultado": 364,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 364 cajas.",
+          "va": "En queden 364.",
+          "en": "There are 364 boxes left.",
+          "fr": "Il reste 364 caisses.",
+          "ar": "بقي 364 صندوقًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una resta que empiece con un número redondo como 300 o 1000.",
+        "va": "Inventa't una resta que comence amb un número redó com 300 o 1000.",
+        "en": "Make up a subtraction that starts with a round number like 300 or 1000.",
+        "fr": "Invente une soustraction qui commence par un nombre rond comme 300 ou 1000.",
+        "ar": "لنخترع عملية طرح تبدأ بعدد مدوّر مثل 300 أو 1000."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuéntame un truco para calcular {{99 + 47}} de cabeza. ¿Se te ocurre otro?",
+        "va": "Conta'm un truc per a calcular {{99 + 47}} de cap. Se t'acut un altre?",
+        "en": "Tell me a trick for working out {{99 + 47}} in your head. Can you think of another one?",
+        "fr": "Raconte-moi une astuce pour calculer {{99 + 47}} de tête. Tu en vois une autre ?",
+        "ar": "احكِ لي حيلة لحساب {{99 + 47}} في الذهن. هل تخطر لك حيلة أخرى؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿A cuánto está el 99 del 100?»",
+        "va": "Si no sap per on començar: «A quant està el 99 del 100?»",
+        "en": "If they don't know where to start: “How far is 99 from 100?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « À combien est 99 de 100 ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم يبعد 99 عن 100؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale cualquier truco que funcione: sumar 100 y quitar 1, o pasar 1 del 47 al 99. Sale 146; si sale otra cosa, preguntad cómo lo ha pensado y probad juntos su truco paso a paso.",
+          "va": "Val qualsevol truc que funcione: sumar 100 i llevar 1, o passar 1 del 47 al 99. Ix 146; si ix una altra cosa, pregunteu com ho ha pensat i proveu junts el seu truc pas a pas.",
+          "en": "Any trick that works is fine: add 100 and take away 1, or move 1 from the 47 to the 99. It comes to 146; if they get something else, ask how they worked it out and try their trick together step by step.",
+          "fr": "Toute astuce qui marche est bonne : ajouter 100 et enlever 1, ou passer 1 du 47 au 99. Ça fait 146 ; si ça donne autre chose, demandez comment il ou elle a réfléchi et essayez ensemble son astuce pas à pas.",
+          "ar": "كل حيلة تنجح مقبولة: جمع 100 ثم طرح 1، أو نقل 1 من 47 إلى 99. الناتج 146؛ وإذا خرجت نتيجة أخرى، اسألوا كيف كان التفكير وجرّبوا الحيلة معًا خطوة خطوة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "fbb013c0aefb"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "fbb013c0aefb"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "fbb013c0aefb"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "fbb013c0aefb"
+      }
+    }
+  }
+}

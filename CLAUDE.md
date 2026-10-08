@@ -40,3 +40,7 @@ Web estática (PWA) para que las familias de 3.º y 4.º de Primaria acompañen 
 ## Estilo de código
 
 TypeScript `strict`, módulos pequeños, lógica pura en `src/nucleo/` con tests, componentes Preact en `src/pantallas/` y `src/piezas/`. Nombres y comentarios en español, como el resto del proyecto.
+
+## Commits y pull requests
+
+Sin atribución a Claude: ni `Co-Authored-By: Claude…`, ni `Claude-Session: …`, ni «Generated with Claude Code» en commits, pull requests, comentarios ni archivos. El mensaje termina en el texto del cambio.

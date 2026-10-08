@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s12",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 12,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: restas, horas y tablas",
+    "va": "Setmana de recordar: restes, hores i taules",
+    "en": "Week to remember: subtractions, times and times tables",
+    "fr": "Semaine pour se souvenir : soustractions, heures et tables",
+    "ar": "أسبوع التذكّر: الطرح والساعة وجداول الضرب"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a las restas con ceros, a los trucos de cálculo, a las duraciones con horas de 24 y a las tablas. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a les restes amb zeros, als trucs de càlcul, a les duracions amb hores de 24 i a les taules (tablas). No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to subtractions with zeros, calculation tricks, durations with the 24-hour clock and the times tables (tablas). There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient aux soustractions avec des zéros, aux astuces de calcul, aux durées avec les heures sur 24 et aux tables (tablas). Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى الطرح مع الأصفار، وحيل الحساب، والمدد بنظام الأربع والعشرين ساعة، وجداول الضرب (tablas). لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Haced el dominó entre todos: escribir las piezas ya es jugar. Si alguna multiplicación se resiste, dibujad sus grupos por detrás de la pieza.",
+    "va": "Feu el dòmino entre tots: escriure les peces ja és jugar. Si alguna multiplicació es resistix, dibuixeu-ne els grups per darrere de la peça.",
+    "en": "Make the dominoes together: writing the pieces is already playing. If a multiplication is tricky, draw its groups on the back of the piece.",
+    "fr": "Fabriquez le domino tous ensemble : écrire les pièces, c'est déjà jouer. Si une multiplication résiste, dessinez ses groupes au dos de la pièce.",
+    "ar": "اصنعوا الدومينو معًا: كتابة القطع لعب في حدّ ذاتها. وإذا استعصت عملية ضرب، ارسموا مجموعاتها على ظهر القطعة."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.medida.magnitudes",
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Dominó de tablas",
+      "va": "Dòmino de taules",
+      "en": "Times table dominoes",
+      "fr": "Le domino des tables",
+      "ar": "دومينو جداول الضرب"
+    },
+    "material": [
+      {
+        "es": "Una cartulina",
+        "va": "Una cartolina",
+        "en": "A sheet of card",
+        "fr": "Un bristol",
+        "ar": "ورقة مقوّاة"
+      },
+      {
+        "es": "Tijeras",
+        "va": "Tisores",
+        "en": "Scissors",
+        "fr": "Des ciseaux",
+        "ar": "مقص"
+      },
+      {
+        "es": "Rotuladores",
+        "va": "Retoladors",
+        "en": "Felt-tip pens",
+        "fr": "Des feutres",
+        "ar": "أقلام تلوين"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "tijeras",
+        "texto": {
+          "es": "Recortad 12 rectángulos de cartulina y dibujad una raya en medio de cada uno. Son las piezas del dominó.",
+          "va": "Retalleu 12 rectangles de cartolina i dibuixeu una ratlla al mig de cadascun. Són les peces del dòmino.",
+          "en": "Cut out 12 rectangles of card and draw a line across the middle of each one. These are the domino pieces.",
+          "fr": "Découpez 12 rectangles de bristol et tracez un trait au milieu de chacun. Ce sont les pièces du domino.",
+          "ar": "قصّوا 12 مستطيلًا من الورق المقوّى وارسموا خطًا في منتصف كل منها. هذه قطع الدومينو."
+        }
+      },
+      {
+        "pictograma": "domino",
+        "texto": {
+          "es": "En cada pieza, escribid a un lado una multiplicación y al otro un resultado que no sea el suyo. Por ejemplo: {{6 × 4}} y 35; {{7 × 5}} y 18; {{3 × 6}} y 24. Fijaos: el 24 de la última encaja con la primera.",
+          "va": "En cada peça, escriviu a un costat una multiplicació i a l'altre un resultat que no siga el seu. Per exemple: {{6 × 4}} i 35; {{7 × 5}} i 18; {{3 × 6}} i 24. Fixeu-vos: el 24 de l'última encaixa amb la primera.",
+          "en": "On each piece, write a multiplication on one side and, on the other, an answer that isn't its own. For example: {{6 × 4}} and 35; {{7 × 5}} and 18; {{3 × 6}} and 24. Look: the 24 on the last one matches the first.",
+          "fr": "Sur chaque pièce, écrivez d'un côté une multiplication et de l'autre un résultat qui n'est pas le sien. Par exemple : {{6 × 4}} et 35 ; {{7 × 5}} et 18 ; {{3 × 6}} et 24. Regardez : le 24 de la dernière va avec la première.",
+          "ar": "على كل قطعة، اكتبوا في جهة عملية ضرب وفي الجهة الأخرى نتيجة ليست نتيجتها. مثلًا: {{6 × 4}} و35؛ {{7 × 5}} و18؛ {{3 × 6}} و24. لاحظوا: الـ24 في القطعة الأخيرة تناسب الأولى."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Repartid las piezas y jugad por turnos: se coloca una pieza si su multiplicación encaja con un resultado del extremo de la fila, o al revés.",
+          "va": "Repartiu les peces i jugueu per torns: es col·loca una peça si la seua multiplicació encaixa amb un resultat de l'extrem de la fila, o al revés.",
+          "en": "Share out the pieces and take turns: you can place a piece if its multiplication matches an answer at the end of the line, or the other way round.",
+          "fr": "Distribuez les pièces et jouez chacun son tour : on pose une pièce si sa multiplication va avec un résultat au bout de la ligne, ou l'inverse.",
+          "ar": "وزّعوا القطع والعبوا بالتناوب: نضع قطعة إذا كانت عملية الضرب فيها تناسب نتيجة في طرف الصف، أو العكس."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Cada vez que pongáis una pieza, decid la multiplicación en voz alta. Si alguien duda, os ayudáis con un truco: el doble, el doble del doble o «por 10 y quitar una vez».",
+          "va": "Cada vegada que poseu una peça, digueu la multiplicació en veu alta. Si algú dubta, us ajudeu amb un truc: el doble, el doble del doble o «per 10 i llevar una vegada».",
+          "en": "Every time you place a piece, say the multiplication out loud. If someone isn't sure, help each other with a trick: the double, double the double, or “times 10 and take one away”.",
+          "fr": "Chaque fois que vous posez une pièce, dites la multiplication à voix haute. Si quelqu'un hésite, aidez-vous d'une astuce : le double, le double du double ou « fois 10 et on enlève une fois ».",
+          "ar": "في كل مرة تضعون قطعة، قولوا عملية الضرب بصوت عالٍ. وإذا تردّد أحدكم، ساعدوا بعضكم بحيلة: الضعف، أو ضعف الضعف، أو «في 10 ثم نطرح مرة»."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo las tablas del 2, del 5 y del 10.",
+      "va": "Feu servir només les taules del 2, del 5 i del 10.",
+      "en": "Use only the 2, 5 and 10 times tables.",
+      "fr": "Utilisez seulement les tables de 2, de 5 et de 10.",
+      "ar": "استعملوا جداول ضرب 2 و5 و10 فقط."
+    },
+    "masDificil": {
+      "es": "Añadid piezas de restas con ceros, como {{300 − 125}}, y de duraciones, como «de 17:40 a 18:15», con su resultado en otra pieza.",
+      "va": "Afegiu peces de restes amb zeros, com {{300 − 125}}, i de duracions, com «de 17:40 a 18:15», amb el seu resultat en una altra peça.",
+      "en": "Add pieces with subtractions with zeros, like {{300 − 125}}, and durations, like “from 17:40 to 18:15”, with their answers on another piece.",
+      "fr": "Ajoutez des pièces avec des soustractions avec des zéros, comme {{300 − 125}}, et des durées, comme « de 17:40 à 18:15 », avec leur résultat sur une autre pièce.",
+      "ar": "أضيفوا قطعًا فيها طرح مع أصفار، مثل {{300 − 125}}، ومددًا زمنية، مثل «من 17:40 إلى 18:15»، ونتيجتها في قطعة أخرى."
+    },
+    "paraQueSirve": {
+      "es": "Hacer el dominó y jugar con él mezcla las tablas con sus trucos y, si os animáis, las restas y las horas. Volver a lo aprendido de una forma distinta ayuda a que se quede.",
+      "va": "Fer el dòmino i jugar-hi mescla les taules amb els seus trucs i, si us animeu, les restes i les hores. Tornar al que s'ha après d'una manera diferent ajuda que es quede.",
+      "en": "Making the dominoes and playing with them mixes the times tables and their tricks and, if you're up for it, subtractions and times. Coming back to what they've learned in a different way helps it stick.",
+      "fr": "Fabriquer le domino et jouer avec mélange les tables et leurs astuces et, si vous en avez envie, les soustractions et les heures. Revenir à ce qu'on a appris d'une autre façon aide à le garder.",
+      "ar": "صنع الدومينو واللعب به يمزج جداول الضرب وحيلها، وإن رغبتم الطرح والساعة أيضًا. العودة إلى ما تعلّموه بطريقة مختلفة تساعد على ترسيخه."
+    },
+    "aviso": {
+      "es": "Las tijeras, siempre con una persona adulta.",
+      "va": "Les tisores, sempre amb una persona adulta.",
+      "en": "Scissors always with an adult.",
+      "fr": "Les ciseaux, toujours avec un adulte.",
+      "ar": "المقص دائمًا بحضور شخص بالغ."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En la hucha de la clase hay 6 € y se gastan 2,45 € en una planta. ¿Cuánto queda?",
+        "va": "En la guardiola de la classe hi ha 6 € i se'n gasten 2,45 € en una planta. Quant en queda?",
+        "en": "There is 6 € in the class money box and 2,45 € is spent on a plant. How much is left?",
+        "fr": "Dans la tirelire de la classe, il y a 6 € et on dépense 2,45 € pour une plante. Combien reste-t-il ?",
+        "ar": "في حصّالة القسم 6 يورو، وصُرف منها 2,45 يورو على نبتة. كم بقي؟"
+      },
+      "pista": {
+        "es": "Piensa en céntimos: 600 son 5 centenas, 9 decenas y 10 unidades. Así ya puedes quitar 245.",
+        "va": "Pensa en cèntims: 600 són 5 centenes, 9 desenes i 10 unitats. Així ja pots llevar 245.",
+        "en": "Think in cents: 600 is 5 hundreds, 9 tens and 10 ones. Now you can take away 245.",
+        "fr": "Pense en centimes : 600, c'est 5 centaines, 9 dizaines et 10 unités. Comme ça, tu peux enlever 245.",
+        "ar": "لنفكّر بالسنتات: 600 هي 5 مئات و9 عشرات و10 آحاد. هكذا يمكننا طرح 245."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "600 - 245",
+        "resultado": 355,
+        "unidad": "cent",
+        "texto": {
+          "es": "Quedan 3,55 €.",
+          "va": "En queden 3,55 €.",
+          "en": "There is 3,55 € left.",
+          "fr": "Il reste 3,55 €.",
+          "ar": "بقي 3,55 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una resta con una cantidad redonda de euros, como 5 € o 10 €.",
+        "va": "Inventa't una resta amb una quantitat redona d'euros, com 5 € o 10 €.",
+        "en": "Make up a subtraction with a round amount of euros, like 5 € or 10 €.",
+        "fr": "Invente une soustraction avec une somme ronde en euros, comme 5 € ou 10 €.",
+        "ar": "لنخترع عملية طرح بمبلغ مدوّر من اليورو، مثل 5 يورو أو 10 يورو."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "El tren sale a las 18:50 y llega a las 20:05. ¿Cuánto dura el viaje?",
+        "va": "El tren ix a les 18:50 i arriba a les 20:05. Quant dura el viatge?",
+        "en": "The train leaves at 18:50 and arrives at 20:05. How long is the journey?",
+        "fr": "Le train part à 18:50 et arrive à 20:05. Combien de temps dure le trajet ?",
+        "ar": "يغادر القطار في 18:50 ويصل في 20:05. كم تدوم الرحلة؟"
+      },
+      "pista": {
+        "es": "De 18:50 a 19:00 van 10 minutos; de 19:00 a 20:00, 1 hora; y luego 5 minutos más.",
+        "va": "De 18:50 a 19:00 en van 10 minuts; de 19:00 a 20:00, 1 hora; i després 5 minuts més.",
+        "en": "From 18:50 to 19:00 is 10 minutes; from 19:00 to 20:00, 1 hour; and then 5 more minutes.",
+        "fr": "De 18:50 à 19:00, il y a 10 minutes ; de 19:00 à 20:00, 1 heure ; et puis 5 minutes de plus.",
+        "ar": "من 18:50 إلى 19:00 عشر دقائق؛ ومن 19:00 إلى 20:00 ساعة؛ ثم 5 دقائق أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 × 60 + 5 - (18 × 60 + 50)",
+        "resultado": 75,
+        "unidad": "min",
+        "texto": {
+          "es": "Dura 1 hora y 15 minutos (75 minutos).",
+          "va": "Dura 1 hora i 15 minuts (75 minuts).",
+          "en": "It takes 1 hour and 15 minutes (75 minutes).",
+          "fr": "Il dure 1 heure et 15 minutes (75 minutes).",
+          "ar": "تدوم ساعة و15 دقيقة (75 دقيقة)."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un viaje en tren o en autobús con su hora de salida y de llegada.",
+        "va": "Inventa'n tu una d'un viatge en tren o en autobús amb la seua hora d'eixida i d'arribada.",
+        "en": "Make one up about a train or bus journey with its departure and arrival times.",
+        "fr": "Invente un problème de voyage en train ou en bus avec son heure de départ et d'arrivée.",
+        "ar": "لنخترع مسألة عن رحلة بالقطار أو الحافلة مع وقت الانطلاق ووقت الوصول."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En el huerto del abuelo de Amina hay 7 filas de 6 lechugas. ¿Cuántas lechugas hay?",
+        "va": "A l'hort de l'avi d'Amina hi ha 7 files de 6 encisams. Quants encisams hi ha?",
+        "en": "In Amina's grandad's vegetable garden there are 7 rows of 6 lettuces. How many lettuces are there?",
+        "fr": "Dans le potager du papi d'Amina, il y a 7 rangées de 6 salades. Combien y a-t-il de salades ?",
+        "ar": "في بستان جدّ أمينة 7 صفوف في كل منها 6 خسّات. كم خسّة هناك؟"
+      },
+      "pista": {
+        "es": "Si sabes que {{7 × 5 = 35}}, suma 7 más.",
+        "va": "Si saps que {{7 × 5 = 35}}, suma'n 7 més.",
+        "en": "If you know that {{7 × 5 = 35}}, add 7 more.",
+        "fr": "Si tu sais que {{7 × 5 = 35}}, ajoute 7 de plus.",
+        "ar": "إذا كنّا نعرف أن {{7 × 5 = 35}}، فلنضف 7 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 6",
+        "resultado": 42,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 42 lechugas.",
+          "va": "Hi ha 42 encisams.",
+          "en": "There are 42 lettuces.",
+          "fr": "Il y a 42 salades.",
+          "ar": "هناك 42 خسّة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un huerto, un jardín o un balcón con plantas en filas.",
+        "va": "Inventa'n tu una d'un hort, un jardí o un balcó amb plantes en files.",
+        "en": "Make one up about a vegetable garden, a garden or a balcony with plants in rows.",
+        "fr": "Invente un problème avec un potager, un jardin ou un balcon avec des plantes en rangées.",
+        "ar": "لنخترع مسألة عن بستان أو حديقة أو شرفة فيها نباتات في صفوف."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: en la biblioteca hay 148 libros de aventuras y 99 de animales. ¿Cuántos hay en total?",
+        "va": "Per a recordar: a la biblioteca hi ha 148 llibres d'aventures i 99 d'animals. Quants n'hi ha en total?",
+        "en": "Let's remember: the library has 148 adventure books and 99 animal books. How many are there in total?",
+        "fr": "Pour se souvenir : à la bibliothèque, il y a 148 livres d'aventures et 99 livres sur les animaux. Combien y en a-t-il en tout ?",
+        "ar": "لنتذكّر: في المكتبة 148 كتاب مغامرات و99 كتابًا عن الحيوانات. كم كتابًا هناك في المجموع؟"
+      },
+      "pista": {
+        "es": "99 está a 1 de 100: calcula {{148 + 100 = 248}} y quita 1.",
+        "va": "99 està a 1 de 100: calcula {{148 + 100 = 248}} i lleva 1.",
+        "en": "99 is 1 away from 100: work out {{148 + 100 = 248}} and take away 1.",
+        "fr": "99 est à 1 de 100 : calcule {{148 + 100 = 248}} et enlève 1.",
+        "ar": "العدد 99 يبعد 1 عن 100: لنحسب {{148 + 100 = 248}} ونطرح 1."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "148 + 99",
+        "resultado": 247,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 247 libros.",
+          "va": "Hi ha 247 llibres.",
+          "en": "There are 247 books.",
+          "fr": "Il y a 247 livres.",
+          "ar": "هناك 247 كتابًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una suma con 99 o 199 y cuenta tu truco.",
+        "va": "Inventa't una suma amb 99 o 199 i conta el teu truc.",
+        "en": "Make up an addition with 99 or 199 and explain your trick.",
+        "fr": "Invente une addition avec 99 ou 199 et raconte ton astuce.",
+        "ar": "لنخترع عملية جمع فيها 99 أو 199 ونحكي حيلتنا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas en mates, ¿qué truco te ha servido más? Explícamelo con un ejemplo.",
+        "va": "De tot el que heu fet aquestes setmanes en mates, quin truc t'ha servit més? Explica-m'ho amb un exemple.",
+        "en": "Of everything in maths these weeks, which trick has helped you most? Explain it to me with an example.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, quelle astuce t'a le plus servi ? Explique-la-moi avec un exemple.",
+        "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، ما الحيلة التي أفادتنا أكثر؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas del horario del sábado? ¿Y de las cartas rápidas? ¿Y de sumar 50 y quitar 1?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes de l'horari del dissabte? I de les cartes ràpides? I de sumar 50 i llevar 1?»",
+        "en": "You can help them remember: “Do you remember Saturday's timetable? And the quick cards? And adding 50 and taking away 1?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles l'emploi du temps du samedi ? Et les cartes rapides ? Et ajouter 50 puis enlever 1 ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر جدول يوم السبت؟ والأوراق السريعة؟ وجمع 50 ثم طرح 1؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay respuesta buena ni mala. Si no le viene ninguno, contad vosotros el vuestro y preguntad si le serviría.",
+          "va": "No hi ha resposta bona ni dolenta. Si no li'n ve cap al cap, conteu vosaltres el vostre i pregunteu si li serviria.",
+          "en": "There's no right or wrong answer. If nothing comes to mind, share your own trick and ask whether it would help them.",
+          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si rien ne lui vient, racontez votre propre astuce et demandez si elle lui servirait.",
+          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإن لم تخطر له أيّ حيلة، فاحكوا حيلتكم واسألوا إن كانت ستفيده."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "1a874a44e303"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "1a874a44e303"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "1a874a44e303"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "1a874a44e303"
+      }
+    }
+  }
+}

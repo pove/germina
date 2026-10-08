@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s14",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 14,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuánto saldrá, más o menos?",
+    "va": "Quant eixirà, més o menys?",
+    "en": "Roughly how much will it be?",
+    "fr": "Ça fera combien, à peu près ?",
+    "ar": "كم ستكون النتيجة تقريبًا؟"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden a estimar: decir más o menos cuánto saldrá una multiplicación antes de hacerla, redondeando ({{29 × 4}} da cerca de {{30 × 4 = 120}}), y mirar después si el resultado es razonable.",
+    "va": "Aquesta setmana aprenen a estimar (estimar): dir més o menys quant eixirà una multiplicació abans de fer-la, arrodonint ({{29 × 4}} dona prop de {{30 × 4 = 120}}), i mirar després si el resultat és raonable.",
+    "en": "This week they learn to estimate (estimar): saying roughly what a multiplication will come to before doing it, by rounding ({{29 × 4}} is close to {{30 × 4 = 120}}), and then checking whether the answer is reasonable.",
+    "fr": "Cette semaine, on apprend à estimer (estimar) : dire à peu près combien fera une multiplication avant de la faire, en arrondissant ({{29 × 4}} fait environ {{30 × 4 = 120}}), puis regarder si le résultat est raisonnable.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال التقدير (estimar): أن يقولوا تقريبًا كم سيكون ناتج عملية ضرب قبل إجرائها، بالتقريب ({{29 × 4}} قريب من {{30 × 4 = 120}})، ثم أن ينظروا إن كانت النتيجة معقولة."
+  },
+  "comoAyudar": {
+    "es": "Celebrad las estimaciones que se acercan, no solo las exactas. Preguntad «¿te parece mucho o poco?»: estimar es pensar, no adivinar al azar.",
+    "va": "Celebreu les estimacions que s'acosten, no només les exactes. Pregunteu «et sembla molt o poc?»: estimar és pensar, no endevinar a l'atzar.",
+    "en": "Celebrate estimates that are close, not just exact ones. Ask “Does that seem like a lot or a little?”: estimating is thinking, not guessing at random.",
+    "fr": "Fêtez les estimations qui s'approchent, pas seulement les exactes. Demandez « Ça te paraît beaucoup ou peu ? » : estimer, c'est réfléchir, pas deviner au hasard.",
+    "ar": "احتفلوا بالتقديرات القريبة، لا بالدقيقة وحدها. اسألوا «هل يبدو لك هذا كثيرًا أم قليلًا؟»: التقدير تفكير، لا تخمين عشوائي."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.3.4",
+    "matematicas.c2.1.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Adivina antes de contar",
+      "va": "Endevina abans de comptar",
+      "en": "Guess before you count",
+      "fr": "Devine avant de compter",
+      "ar": "خمّنوا قبل أن تعدّوا"
+    },
+    "material": [
+      {
+        "es": "Un suelo con baldosas (o una pared de azulejos, o una tableta de chocolate)",
+        "va": "Un sòl amb rajoles (o una paret de taulells, o una tauleta de xocolate)",
+        "en": "A tiled floor (or a tiled wall, or a bar of chocolate)",
+        "fr": "Un sol carrelé (ou un mur de carreaux, ou une tablette de chocolat)",
+        "ar": "أرضية مبلّطة (أو جدار مكسوّ بالبلاط، أو لوح شوكولاتة)"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad el suelo de una habitación con baldosas. Sin contar, cada persona escribe en un papel cuántas cree que hay.",
+          "va": "Mireu el sòl d'una habitació amb rajoles. Sense comptar, cada persona escriu en un paper quantes creu que n'hi ha.",
+          "en": "Look at the floor of a tiled room. Without counting, each person writes on paper how many tiles they think there are.",
+          "fr": "Regardez le sol carrelé d'une pièce. Sans compter, chaque personne écrit sur un papier combien de carreaux il y a, d'après elle.",
+          "ar": "انظروا إلى أرضية غرفة مبلّطة. دون عدّ، يكتب كل شخص على ورقة كم بلاطة يظنّ أن هناك."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Contad las baldosas de una fila caminando sobre ellas, y después cuántas filas hay.",
+          "va": "Compteu les rajoles d'una fila caminant-hi per damunt, i després quantes files hi ha.",
+          "en": "Count the tiles in one row by walking along them, and then how many rows there are.",
+          "fr": "Comptez les carreaux d'une rangée en marchant dessus, puis combien il y a de rangées.",
+          "ar": "عدّوا بلاطات صفّ واحد وأنتم تمشون عليها، ثم عدّوا كم صفًّا هناك."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Multiplicad las filas por las baldosas de cada fila: con 9 filas de 12, {{9 × 12 = 108}}. Las baldosas cortadas de los bordes, contadlas como enteras.",
+          "va": "Multipliqueu les files per les rajoles de cada fila: amb 9 files de 12, {{9 × 12 = 108}}. Les rajoles tallades de les vores, compteu-les com a senceres.",
+          "en": "Multiply the rows by the tiles in each row: with 9 rows of 12, {{9 × 12 = 108}}. Count the cut tiles at the edges as whole ones.",
+          "fr": "Multipliez les rangées par les carreaux de chaque rangée : avec 9 rangées de 12, {{9 × 12 = 108}}. Les carreaux coupés sur les bords, comptez-les comme entiers.",
+          "ar": "اضربوا عدد الصفوف في عدد البلاطات في كل صف: مع 9 صفوف من 12، {{9 × 12 = 108}}. البلاطات المقطوعة عند الأطراف عدّوها كاملة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Comparad con lo que habíais escrito al principio: ¿quién se ha acercado más? ¿Cómo lo había pensado cada persona?",
+          "va": "Compareu amb el que havíeu escrit al principi: qui s'ha acostat més? Com ho havia pensat cada persona?",
+          "en": "Compare with what you wrote at the start: who got closest? How did each person think about it?",
+          "fr": "Comparez avec ce que vous aviez écrit au début : qui s'est le plus approché ? Comment chaque personne avait-elle réfléchi ?",
+          "ar": "قارنوا بما كتبتموه في البداية: من اقترب أكثر؟ وكيف فكّر كل شخص؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad algo pequeño con filas y columnas: una tableta de chocolate, una huevera, una caja de galletas.",
+      "va": "Feu servir alguna cosa menuda amb files i columnes: una tauleta de xocolate, una ouera, una caixa de galetes.",
+      "en": "Use something small with rows and columns: a bar of chocolate, an egg box, a box of biscuits.",
+      "fr": "Utilisez quelque chose de petit avec des rangées et des colonnes : une tablette de chocolat, une boîte d'œufs, une boîte de biscuits.",
+      "ar": "استعملوا شيئًا صغيرًا فيه صفوف وأعمدة: لوح شوكولاتة، علبة بيض، علبة بسكويت."
+    },
+    "masDificil": {
+      "es": "Estimad redondeando antes de multiplicar: 9 filas de 12 es cerca de {{10 × 12 = 120}}. ¿El resultado exacto será un poco más o un poco menos? ¿Por qué?",
+      "va": "Estimeu arrodonint abans de multiplicar: 9 files de 12 és prop de {{10 × 12 = 120}}. El resultat exacte serà un poc més o un poc menys? Per què?",
+      "en": "Estimate by rounding before you multiply: 9 rows of 12 is close to {{10 × 12 = 120}}. Will the exact answer be a bit more or a bit less? Why?",
+      "fr": "Estimez en arrondissant avant de multiplier : 9 rangées de 12, c'est environ {{10 × 12 = 120}}. Le résultat exact sera-t-il un peu plus ou un peu moins ? Pourquoi ?",
+      "ar": "قدّروا بالتقريب قبل الضرب: 9 صفوف من 12 قريبة من {{10 × 12 = 120}}. هل ستكون النتيجة الدقيقة أكثر قليلًا أم أقل قليلًا؟ ولماذا؟"
+    },
+    "paraQueSirve": {
+      "es": "Estimar antes de calcular ayuda a darse cuenta de un despiste: si esperabais unas 100 baldosas y sale 1008, algo ha fallado. Es la forma de comprobar que más se usa en el día a día.",
+      "va": "Estimar abans de calcular ajuda a adonar-se d'una distracció: si esperàveu unes 100 rajoles i n'ixen 1008, alguna cosa ha fallat. És la manera de comprovar que més es fa servir en el dia a dia.",
+      "en": "Estimating before calculating helps them notice a slip: if you expected about 100 tiles and you get 1008, something went wrong. It's the way of checking that people use most in everyday life.",
+      "fr": "Estimer avant de calculer aide à repérer une étourderie : si vous attendiez une centaine de carreaux et que vous trouvez 1008, quelque chose cloche. C'est la façon de vérifier qu'on utilise le plus au quotidien.",
+      "ar": "التقدير قبل الحساب يساعد على اكتشاف السهو: إذا توقّعتم نحو 100 بلاطة وخرج 1008، فهناك خطأ ما. إنها أكثر طرق التحقّق استعمالًا في الحياة اليومية."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una caja tiene 28 lápices. ¿Cuántos habrá más o menos en 3 cajas: cerca de 60, de 90 o de 120?",
+        "va": "Una caixa té 28 llapis. Quants n'hi haurà més o menys en 3 caixes: prop de 60, de 90 o de 120?",
+        "en": "A box has 28 pencils. Roughly how many will there be in 3 boxes: about 60, 90 or 120?",
+        "fr": "Une boîte contient 28 crayons. Combien y en aura-t-il à peu près dans 3 boîtes : environ 60, 90 ou 120 ?",
+        "ar": "في علبة 28 قلمًا. كم قلمًا سيكون تقريبًا في 3 علب: نحو 60 أم 90 أم 120؟"
+      },
+      "pista": {
+        "es": "Redondea 28 a 30 y multiplica por 3.",
+        "va": "Arrodonix 28 a 30 i multiplica per 3.",
+        "en": "Round 28 to 30 and multiply by 3.",
+        "fr": "Arrondis 28 à 30 et multiplie par 3.",
+        "ar": "لنقرّب 28 إلى 30 ونضرب في 3."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "30 × 3",
+        "resultado": 90,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Cerca de 90: {{30 × 3 = 90}}. Exactamente son 84.",
+          "va": "Prop de 90: {{30 × 3 = 90}}. Exactament són 84.",
+          "en": "About 90: {{30 × 3 = 90}}. Exactly, it's 84.",
+          "fr": "Environ 90 : {{30 × 3 = 90}}. Exactement, ça fait 84.",
+          "ar": "نحو 90: {{30 × 3 = 90}}. وبالضبط 84."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿más o menos cuántos?» con cajas o paquetes.",
+        "va": "Inventa'n tu una de «més o menys quants?» amb caixes o paquets.",
+        "en": "Make up a “roughly how many?” one with boxes or packs.",
+        "fr": "Invente un problème « à peu près combien ? » avec des boîtes ou des paquets.",
+        "ar": "لنخترع مسألة «كم تقريبًا؟» عن علب أو رزم."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En un cole hay 6 clases de 24 niños y niñas. Iker dice que son unos 300. ¿Es razonable?",
+        "va": "En una escola hi ha 6 classes de 24 xiquets i xiquetes. Iker diu que són uns 300. És raonable?",
+        "en": "A school has 6 classes of 24 children. Iker says that's about 300. Is that reasonable?",
+        "fr": "Dans une école, il y a 6 classes de 24 enfants. Iker dit que ça fait environ 300. Est-ce raisonnable ?",
+        "ar": "في مدرسة 6 أقسام في كل منها 24 طفلًا وطفلة. يقول إيكر إنهم نحو 300. هل هذا معقول؟"
+      },
+      "pista": {
+        "es": "6 veces 20 son 120 y 6 veces 30 son 180. ¿Dónde queda el 300?",
+        "va": "6 vegades 20 són 120 i 6 vegades 30 són 180. On queda el 300?",
+        "en": "6 times 20 is 120 and 6 times 30 is 180. Where does 300 fit?",
+        "fr": "6 fois 20 font 120 et 6 fois 30 font 180. Où se trouve 300 ?",
+        "ar": "6 مرات 20 تساوي 120، و6 مرات 30 تساوي 180. أين يقع 300؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 24",
+        "resultado": 144,
+        "unidad": "unidades",
+        "texto": {
+          "es": "No: el resultado está entre 120 y 180. Exactamente son 144.",
+          "va": "No: el resultat està entre 120 i 180. Exactament són 144.",
+          "en": "No: the answer is between 120 and 180. Exactly, it's 144.",
+          "fr": "Non : le résultat est entre 120 et 180. Exactement, ça fait 144.",
+          "ar": "لا: النتيجة بين 120 و180. وبالضبط 144."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que alguien dé un resultado a ojo y otra persona diga si es razonable.",
+        "va": "Inventa'n tu una en què algú done un resultat a ull i una altra persona diga si és raonable.",
+        "en": "Make one up where someone gives a rough answer and someone else says whether it's reasonable.",
+        "fr": "Invente un problème où quelqu'un donne un résultat au jugé et une autre personne dit s'il est raisonnable.",
+        "ar": "لنخترع مسألة يعطي فيها أحدهم نتيجة بالنظر، ويقول شخص آخر إن كانت معقولة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para una excursión, cada persona paga 9 € y van 31 personas. ¿Cuánto dinero se junta, más o menos? ¿Y exactamente?",
+        "va": "Per a una excursió, cada persona paga 9 € i hi van 31 persones. Quants diners s'ajunten, més o menys? I exactament?",
+        "en": "For a trip, each person pays 9 € and 31 people go. Roughly how much money is collected? And exactly?",
+        "fr": "Pour une sortie, chaque personne paie 9 € et 31 personnes y vont. Combien d'argent est réuni, à peu près ? Et exactement ?",
+        "ar": "في رحلة، يدفع كل شخص 9 يورو ويذهب 31 شخصًا. كم من المال يُجمع تقريبًا؟ وبالضبط؟"
+      },
+      "pista": {
+        "es": "Redondea 31 a 30: {{30 × 9 = 270}}. Luego suma la persona que falta.",
+        "va": "Arrodonix 31 a 30: {{30 × 9 = 270}}. Després suma la persona que falta.",
+        "en": "Round 31 to 30: {{30 × 9 = 270}}. Then add the missing person.",
+        "fr": "Arrondis 31 à 30 : {{30 × 9 = 270}}. Puis ajoute la personne qui manque.",
+        "ar": "لنقرّب 31 إلى 30: {{30 × 9 = 270}}. ثم نضيف الشخص الباقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "31 × 9",
+        "resultado": 279,
+        "unidad": "euros",
+        "texto": {
+          "es": "Más o menos 270 €. Exactamente, 279 €.",
+          "va": "Més o menys 270 €. Exactament, 279 €.",
+          "en": "About 270 €. Exactly, 279 €.",
+          "fr": "Environ 270 €. Exactement, 279 €.",
+          "ar": "نحو 270 يورو. وبالضبط 279 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de una excursión o una fiesta en la que cada persona pague lo mismo.",
+        "va": "Inventa'n tu una d'una excursió o una festa en què cada persona pague el mateix.",
+        "en": "Make one up about a trip or a party where everyone pays the same.",
+        "fr": "Invente un problème de sortie ou de fête où chaque personne paie la même chose.",
+        "ar": "لنخترع مسألة عن رحلة أو حفلة يدفع فيها كل شخص المبلغ نفسه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 13,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: un álbum tiene 16 páginas y en cada página caben 6 cromos. ¿Cuántos cromos caben?",
+        "va": "Per a recordar: un àlbum té 16 pàgines i en cada pàgina hi caben 6 cromos. Quants cromos hi caben?",
+        "en": "Let's remember: an album has 16 pages and each page holds 6 stickers. How many stickers fit?",
+        "fr": "Pour se souvenir : un album a 16 pages et chaque page peut contenir 6 images. Combien d'images peut-il contenir ?",
+        "ar": "لنتذكّر: في ألبوم 16 صفحة، وتتّسع كل صفحة لـ6 صور لاصقة. كم صورة يتّسع لها الألبوم؟"
+      },
+      "pista": {
+        "es": "Parte el 16: {{10 × 6 = 60}} y {{6 × 6 = 36}}.",
+        "va": "Partix el 16: {{10 × 6 = 60}} i {{6 × 6 = 36}}.",
+        "en": "Split the 16: {{10 × 6 = 60}} and {{6 × 6 = 36}}.",
+        "fr": "Coupe le 16 : {{10 × 6 = 60}} et {{6 × 6 = 36}}.",
+        "ar": "لنقسم 16: {{10 × 6 = 60}} و{{6 × 6 = 36}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "16 × 6",
+        "resultado": 96,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Caben 96 cromos.",
+          "va": "Hi caben 96 cromos.",
+          "en": "96 stickers fit.",
+          "fr": "Il peut contenir 96 images.",
+          "ar": "يتّسع لـ96 صورة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación de un número de dos cifras y cuenta cómo lo partes.",
+        "va": "Inventa't una multiplicació d'un número de dues xifres i conta com el partixes.",
+        "en": "Make up a multiplication with a two-digit number and explain how you split it.",
+        "fr": "Invente une multiplication avec un nombre à deux chiffres et raconte comment tu le coupes.",
+        "ar": "لنخترع عملية ضرب لعدد من رقمين ونحكي كيف نقسمه."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si alguien te dice que {{12 × 5}} da 600, ¿cómo sabes, sin calcularlo, que no puede ser? Explícamelo.",
+        "va": "Si algú et diu que {{12 × 5}} dona 600, com saps, sense calcular-ho, que no pot ser? Explica-m'ho.",
+        "en": "If someone tells you {{12 × 5}} is 600, how do you know, without working it out, that it can't be right? Explain it to me.",
+        "fr": "Si quelqu'un te dit que {{12 × 5}} fait 600, comment sais-tu, sans le calculer, que ce n'est pas possible ? Explique-le-moi.",
+        "ar": "إذا قال لنا أحدهم إن {{12 × 5}} يساوي 600، فكيف نعرف دون حساب أن ذلك غير ممكن؟ اشرح لي أو اشرحي لي."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuánto es {{10 × 5}}? ¿Y {{12 × 5}} será mucho más?»",
+        "va": "Si no sap per on començar: «Quant és {{10 × 5}}? I {{12 × 5}} serà molt més?»",
+        "en": "If they don't know where to start: “What is {{10 × 5}}? Will {{12 × 5}} be much more?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien fait {{10 × 5}} ? Et {{12 × 5}}, ce sera beaucoup plus ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم يساوي {{10 × 5}}؟ وهل سيكون {{12 × 5}} أكثر بكثير؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que {{10 × 5 = 50}} y que 12 es poco más que 10, así que saldrá poco más de 50. Lo importante es la razón, no el número exacto.",
+          "va": "Pot dir que {{10 × 5 = 50}} i que 12 és poc més que 10, així que eixirà poc més de 50. L'important és la raó, no el número exacte.",
+          "en": "They might say that {{10 × 5 = 50}} and 12 is only a bit more than 10, so it'll be a bit more than 50. What matters is the reason, not the exact number.",
+          "fr": "Il ou elle peut dire que {{10 × 5 = 50}} et que 12, c'est à peine plus que 10, donc ça fera un peu plus de 50. L'important, c'est la raison, pas le nombre exact.",
+          "ar": "قد يقول إن {{10 × 5 = 50}} وإن 12 أكثر من 10 بقليل، فالناتج سيكون أكثر من 50 بقليل. المهمّ هو السبب، لا العدد الدقيق."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "adbd7cfa4400"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "adbd7cfa4400"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "adbd7cfa4400"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "adbd7cfa4400"
+      }
+    }
+  }
+}

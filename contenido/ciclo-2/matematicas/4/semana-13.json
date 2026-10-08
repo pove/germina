@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s13",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 13,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Multiplicar números grandes",
+    "va": "Multiplicar números grans",
+    "en": "Multiplying big numbers",
+    "fr": "Multiplier de grands nombres",
+    "ar": "ضرب الأعداد الكبيرة"
+  },
+  "objetivo": {
+    "es": "Esta semana multiplican números de dos y tres cifras por una cifra, llevándose cuando hace falta ({{24 × 3 = 72}}), y descubren que multiplicar por 10 o por 100 es añadir uno o dos ceros.",
+    "va": "Aquesta setmana multipliquen números de dues i tres xifres per una xifra, portant-se'n quan fa falta ({{24 × 3 = 72}}), i descobreixen que multiplicar per 10 o per 100 és afegir un o dos zeros. A classe ho diuen en castellà: «multiplicación con llevada».",
+    "en": "This week they multiply two- and three-digit numbers by a one-digit number, carrying when needed ({{24 × 3 = 72}}), and discover that multiplying by 10 or by 100 means adding one or two zeros. In class, in Spanish, they call it «multiplicación con llevada» (multiplication with carrying).",
+    "fr": "Cette semaine, on multiplie des nombres à deux et trois chiffres par un nombre à un chiffre, avec une retenue quand il en faut une ({{24 × 3 = 72}}), et on découvre que multiplier par 10 ou par 100, c'est ajouter un ou deux zéros. En classe, en espagnol, on l'appelle « multiplicación con llevada » (multiplication avec retenue).",
+    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين وثلاثة أرقام في عدد من رقم واحد، مع الاحتفاظ عند الحاجة ({{24 × 3 = 72}})، ويكتشفون أن الضرب في 10 أو في 100 هو إضافة صفر أو صفرين. في القسم يسمّونه بالإسبانية «multiplicación con llevada» (الضرب مع الاحتفاظ)."
+  },
+  "comoAyudar": {
+    "es": "Antes de multiplicar en papel, proponed calcularlo partiendo el número: {{24 × 3}} es {{20 × 3}} y {{4 × 3}}. Así la llevada tiene sentido y no es un truco que se olvida.",
+    "va": "Abans de multiplicar en paper, proposeu calcular-ho partint el número: {{24 × 3}} és {{20 × 3}} i {{4 × 3}}. Així la llevada té sentit i no és un truc que s'oblida.",
+    "en": "Before multiplying on paper, suggest working it out by splitting the number: {{24 × 3}} is {{20 × 3}} and {{4 × 3}}. That way carrying makes sense and isn't a trick that gets forgotten.",
+    "fr": "Avant de multiplier sur papier, proposez de calculer en coupant le nombre : {{24 × 3}}, c'est {{20 × 3}} et {{4 × 3}}. Comme ça, la retenue a du sens et ce n'est pas un truc qu'on oublie.",
+    "ar": "قبل الضرب على الورق، اقترحوا حسابه بتقسيم العدد: {{24 × 3}} هو {{20 × 3}} و{{4 × 3}}. هكذا يصبح للاحتفاظ معنى ولا يكون حيلة تُنسى."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.propiedades"
+  ],
+  "criterios": [
+    "matematicas.c2.5.3",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La merienda para 8",
+      "va": "El berenar per a 8",
+      "en": "A snack for 8",
+      "fr": "Le goûter pour 8",
+      "ar": "وجبة خفيفة لـ8 أشخاص"
+    },
+    "material": [
+      {
+        "es": "Un folleto del súper (o una lista de precios inventada)",
+        "va": "Un fullet del súper (o una llista de preus inventada)",
+        "en": "A supermarket leaflet (or a made-up price list)",
+        "fr": "Un prospectus du supermarché (ou une liste de prix inventée)",
+        "ar": "نشرة إعلانات السوق (أو قائمة أسعار مخترعة)"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "folleto",
+        "texto": {
+          "es": "Imaginad una merienda para 8 personas. Elegid del folleto lo que tomará cada persona y redondead los precios a euros enteros: un bocadillo, 3 €; un zumo, 2 €; una pieza de fruta, 1 €.",
+          "va": "Imagineu un berenar per a 8 persones. Trieu del fullet el que prendrà cada persona i arrodoniu els preus a euros sencers: un entrepà, 3 €; un suc, 2 €; una peça de fruita, 1 €.",
+          "en": "Imagine a snack for 8 people. Choose from the leaflet what each person will have and round the prices to whole euros: a sandwich, 3 €; a juice, 2 €; a piece of fruit, 1 €.",
+          "fr": "Imaginez un goûter pour 8 personnes. Choisissez dans le prospectus ce que prendra chaque personne et arrondissez les prix à l'euro : un sandwich, 3 € ; un jus, 2 € ; un fruit, 1 €.",
+          "ar": "تخيّلوا وجبة خفيفة لـ8 أشخاص. اختاروا من النشرة ما سيتناوله كل شخص وقرّبوا الأسعار إلى يورو كامل: شطيرة 3 يورو، عصير 2 يورو، حبة فاكهة 1 يورو."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Calculad cuánto cuesta cada cosa para las 8 personas: {{8 × 3 = 24}} los bocadillos, {{8 × 2 = 16}} los zumos y {{8 × 1 = 8}} la fruta.",
+          "va": "Calculeu quant costa cada cosa per a les 8 persones: {{8 × 3 = 24}} els entrepans, {{8 × 2 = 16}} els sucs i {{8 × 1 = 8}} la fruita.",
+          "en": "Work out how much each thing costs for the 8 people: {{8 × 3 = 24}} for the sandwiches, {{8 × 2 = 16}} for the juices and {{8 × 1 = 8}} for the fruit.",
+          "fr": "Calculez combien coûte chaque chose pour les 8 personnes : {{8 × 3 = 24}} les sandwichs, {{8 × 2 = 16}} les jus et {{8 × 1 = 8}} les fruits.",
+          "ar": "احسبوا ثمن كل شيء للأشخاص الثمانية: الشطائر {{8 × 3 = 24}}، والعصائر {{8 × 2 = 16}}، والفاكهة {{8 × 1 = 8}}."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Sumad todo: ¿cuánto cuesta la merienda? Probad también el otro camino: lo que gasta una persona ({{3 + 2 + 1 = 6}}) por 8. ¿Sale lo mismo?",
+          "va": "Sumeu-ho tot: quant costa el berenar? Proveu també l'altre camí: el que gasta una persona ({{3 + 2 + 1 = 6}}) per 8. Ix el mateix?",
+          "en": "Add it all up: how much does the snack cost? Also try the other way: what one person spends ({{3 + 2 + 1 = 6}}) times 8. Does it come out the same?",
+          "fr": "Additionnez tout : combien coûte le goûter ? Essayez aussi l'autre chemin : ce que dépense une personne ({{3 + 2 + 1 = 6}}) fois 8. Ça donne pareil ?",
+          "ar": "اجمعوا كل شيء: كم تكلّف الوجبة؟ وجرّبوا الطريق الآخر أيضًا: ما يصرفه شخص واحد ({{3 + 2 + 1 = 6}}) في 8. هل النتيجة نفسها؟"
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Ahora, una merienda para 80 personas, como en una fiesta del barrio: {{48 × 10 = 480}}. ¿Qué le ha pasado al número?",
+          "va": "Ara, un berenar per a 80 persones, com en una festa del barri: {{48 × 10 = 480}}. Què li ha passat al número?",
+          "en": "Now, a snack for 80 people, like at a neighbourhood party: {{48 × 10 = 480}}. What happened to the number?",
+          "fr": "Maintenant, un goûter pour 80 personnes, comme à une fête de quartier : {{48 × 10 = 480}}. Qu'est-il arrivé au nombre ?",
+          "ar": "والآن، وجبة لـ80 شخصًا، كما في حفلة الحيّ: {{48 × 10 = 480}}. ماذا حدث للعدد؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced la merienda para 4 o 5 personas y con una sola cosa.",
+      "va": "Feu el berenar per a 4 o 5 persones i amb una sola cosa.",
+      "en": "Make the snack for 4 or 5 people and with just one thing.",
+      "fr": "Faites le goûter pour 4 ou 5 personnes et avec une seule chose.",
+      "ar": "اجعلوا الوجبة لـ4 أو 5 أشخاص وبشيء واحد فقط."
+    },
+    "masDificil": {
+      "es": "Elegid algo que cueste más de 10 €, como una tarta de 14 €, y calculad para 8 personas: {{14 × 8}} es {{10 × 8}} más {{4 × 8}}.",
+      "va": "Trieu alguna cosa que coste més de 10 €, com un pastís de 14 €, i calculeu per a 8 persones: {{14 × 8}} és {{10 × 8}} més {{4 × 8}}.",
+      "en": "Choose something that costs more than 10 €, like a 14 € cake, and work it out for 8 people: {{14 × 8}} is {{10 × 8}} plus {{4 × 8}}.",
+      "fr": "Choisissez quelque chose qui coûte plus de 10 €, comme un gâteau à 14 €, et calculez pour 8 personnes : {{14 × 8}}, c'est {{10 × 8}} plus {{4 × 8}}.",
+      "ar": "اختاروا شيئًا ثمنه أكثر من 10 يورو، مثل كعكة بـ14 يورو، واحسبوا لـ8 أشخاص: {{14 × 8}} هو {{10 × 8}} زائد {{4 × 8}}."
+    },
+    "paraQueSirve": {
+      "es": "Partir un número en decenas y unidades antes de multiplicar es lo que hay detrás de la multiplicación en papel. Con precios reales, además, se ve para qué sirve.",
+      "va": "Partir un número en desenes i unitats abans de multiplicar és el que hi ha darrere de la multiplicació en paper. Amb preus reals, a més, es veu per a què servix.",
+      "en": "Splitting a number into tens and ones before multiplying is what's behind multiplication on paper. And with real prices, you can see what it's for.",
+      "fr": "Couper un nombre en dizaines et unités avant de multiplier, c'est ce qu'il y a derrière la multiplication sur papier. Et avec de vrais prix, on voit à quoi ça sert.",
+      "ar": "تقسيم العدد إلى عشرات وآحاد قبل الضرب هو ما يقف وراء الضرب على الورق. ومع الأسعار الحقيقية نرى أيضًا فائدته."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un autobús tiene 52 asientos. ¿Cuántos asientos hay en 3 autobuses iguales?",
+        "va": "Un autobús té 52 seients. Quants seients hi ha en 3 autobusos iguals?",
+        "en": "A bus has 52 seats. How many seats are there on 3 identical buses?",
+        "fr": "Un bus a 52 places assises. Combien y a-t-il de places dans 3 bus pareils ?",
+        "ar": "في حافلة 52 مقعدًا. كم مقعدًا في 3 حافلات متماثلة؟"
+      },
+      "pista": {
+        "es": "Parte el 52: {{50 × 3 = 150}} y {{2 × 3 = 6}}.",
+        "va": "Partix el 52: {{50 × 3 = 150}} i {{2 × 3 = 6}}.",
+        "en": "Split the 52: {{50 × 3 = 150}} and {{2 × 3 = 6}}.",
+        "fr": "Coupe le 52 : {{50 × 3 = 150}} et {{2 × 3 = 6}}.",
+        "ar": "لنقسم 52: {{50 × 3 = 150}} و{{2 × 3 = 6}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "52 × 3",
+        "resultado": 156,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 156 asientos.",
+          "va": "Hi ha 156 seients.",
+          "en": "There are 156 seats.",
+          "fr": "Il y a 156 places.",
+          "ar": "هناك 156 مقعدًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de varios autobuses, trenes o aviones iguales.",
+        "va": "Inventa'n tu una d'uns quants autobusos, trens o avions iguals.",
+        "en": "Make one up about several identical buses, trains or planes.",
+        "fr": "Invente un problème avec plusieurs bus, trains ou avions pareils.",
+        "ar": "لنخترع مسألة عن عدة حافلات أو قطارات أو طائرات متماثلة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "La entrada al zoo cuesta 18 € por persona. ¿Cuánto pagan las 4 personas de la familia de Sofía?",
+        "va": "L'entrada al zoo costa 18 € per persona. Quant paguen les 4 persones de la família de Sofía?",
+        "en": "Entry to the zoo costs 18 € per person. How much do the 4 people in Sofía's family pay?",
+        "fr": "L'entrée du zoo coûte 18 € par personne. Combien paient les 4 personnes de la famille de Sofía ?",
+        "ar": "ثمن تذكرة حديقة الحيوان 18 يورو للشخص. كم يدفع أفراد عائلة صوفيا الأربعة؟"
+      },
+      "pista": {
+        "es": "Parte el 18: {{10 × 4 = 40}} y {{8 × 4 = 32}}. Luego junta los dos.",
+        "va": "Partix el 18: {{10 × 4 = 40}} i {{8 × 4 = 32}}. Després ajunta'ls.",
+        "en": "Split the 18: {{10 × 4 = 40}} and {{8 × 4 = 32}}. Then put them together.",
+        "fr": "Coupe le 18 : {{10 × 4 = 40}} et {{8 × 4 = 32}}. Puis rassemble les deux.",
+        "ar": "لنقسم 18: {{10 × 4 = 40}} و{{8 × 4 = 32}}. ثم نجمعهما."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "18 × 4",
+        "resultado": 72,
+        "unidad": "euros",
+        "texto": {
+          "es": "Pagan 72 €.",
+          "va": "Paguen 72 €.",
+          "en": "They pay 72 €.",
+          "fr": "Ils paient 72 €.",
+          "ar": "يدفعون 72 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de entradas para toda tu familia: al cine, al museo o a la piscina.",
+        "va": "Inventa'n tu una d'entrades per a tota la teua família: al cine, al museu o a la piscina.",
+        "en": "Make one up about tickets for your whole family: to the cinema, a museum or the pool.",
+        "fr": "Invente un problème d'entrées pour toute ta famille : au cinéma, au musée ou à la piscine.",
+        "ar": "لنخترع مسألة عن تذاكر لكل أفراد عائلتنا: إلى السينما أو المتحف أو المسبح."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una caja trae 100 clips. ¿Cuántos clips hay en 7 cajas?",
+        "va": "Una caixa porta 100 clips. Quants clips hi ha en 7 caixes?",
+        "en": "A box has 100 paper clips. How many paper clips are there in 7 boxes?",
+        "fr": "Une boîte contient 100 trombones. Combien y a-t-il de trombones dans 7 boîtes ?",
+        "ar": "في علبة 100 مشبك ورق. كم مشبكًا في 7 علب؟"
+      },
+      "pista": {
+        "es": "Multiplicar por 100 es añadir dos ceros: 7 centenas.",
+        "va": "Multiplicar per 100 és afegir dos zeros: 7 centenes.",
+        "en": "Multiplying by 100 means adding two zeros: 7 hundreds.",
+        "fr": "Multiplier par 100, c'est ajouter deux zéros : 7 centaines.",
+        "ar": "الضرب في 100 هو إضافة صفرين: 7 مئات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 100",
+        "resultado": 700,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 700 clips.",
+          "va": "Hi ha 700 clips.",
+          "en": "There are 700 paper clips.",
+          "fr": "Il y a 700 trombones.",
+          "ar": "هناك 700 مشبك."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cajas de 10 o de 100.",
+        "va": "Inventa'n tu una de caixes de 10 o de 100.",
+        "en": "Make one up about boxes of 10 or of 100.",
+        "fr": "Invente un problème avec des boîtes de 10 ou de 100.",
+        "ar": "لنخترع مسألة عن علب فيها 10 أو 100."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 11,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: en un huerto hay 9 filas de 7 tomateras. ¿Cuántas tomateras hay?",
+        "va": "Per a recordar: en un hort hi ha 9 files de 7 tomaqueres. Quantes tomaqueres hi ha?",
+        "en": "Let's remember: in a vegetable garden there are 9 rows of 7 tomato plants. How many tomato plants are there?",
+        "fr": "Pour se souvenir : dans un potager, il y a 9 rangées de 7 plants de tomates. Combien y a-t-il de plants ?",
+        "ar": "لنتذكّر: في بستان 9 صفوف في كل منها 7 نبتات طماطم. كم نبتة هناك؟"
+      },
+      "pista": {
+        "es": "Por 9 es por 10 y quitar una vez: {{10 × 7 = 70}}, y luego quita 7.",
+        "va": "Per 9 és per 10 i llevar una vegada: {{10 × 7 = 70}}, i després lleva'n 7.",
+        "en": "Times 9 is times 10 and take one away: {{10 × 7 = 70}}, then take away 7.",
+        "fr": "Fois 9, c'est fois 10 et on enlève une fois : {{10 × 7 = 70}}, puis enlève 7.",
+        "ar": "الضرب في 9 هو الضرب في 10 ثم نطرح مرة: {{10 × 7 = 70}}، ثم نطرح 7."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 × 7",
+        "resultado": 63,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 63 tomateras.",
+          "va": "Hi ha 63 tomaqueres.",
+          "en": "There are 63 tomato plants.",
+          "fr": "Il y a 63 plants de tomates.",
+          "ar": "هناك 63 نبتة طماطم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de la tabla que más te cueste y cuenta tu truco.",
+        "va": "Inventa'n tu una de la taula que més et coste i conta el teu truc.",
+        "en": "Make one up from the times table you find hardest and explain your trick.",
+        "fr": "Invente un problème avec la table qui te donne le plus de mal et raconte ton astuce.",
+        "ar": "لنخترع مسألة من جدول الضرب الأصعب علينا ونحكي حيلتنا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo calcularías {{23 × 4}} sin papel? Explícamelo paso a paso.",
+        "va": "Com calcularies {{23 × 4}} sense paper? Explica-m'ho pas a pas.",
+        "en": "How would you work out {{23 × 4}} without paper? Explain it to me step by step.",
+        "fr": "Comment calculerais-tu {{23 × 4}} sans papier ? Explique-le-moi pas à pas.",
+        "ar": "كيف نحسب {{23 × 4}} بلا ورقة؟ اشرح لي أو اشرحي لي خطوة خطوة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuánto es {{20 × 4}}? ¿Y {{3 × 4}}?»",
+        "va": "Si no sap per on començar: «Quant és {{20 × 4}}? I {{3 × 4}}?»",
+        "en": "If they don't know where to start: “What is {{20 × 4}}? And {{3 × 4}}?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien fait {{20 × 4}} ? Et {{3 × 4}} ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم يساوي {{20 × 4}}؟ و{{3 × 4}}؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede partir el 23 en 20 y 3, o hacer el doble del doble (46 y 92). Sale 92; si sale otra cosa, preguntad cómo lo ha pensado y dibujad juntos 4 grupos de 23.",
+          "va": "Pot partir el 23 en 20 i 3, o fer el doble del doble (46 i 92). Ix 92; si ix una altra cosa, pregunteu com ho ha pensat i dibuixeu junts 4 grups de 23.",
+          "en": "They might split 23 into 20 and 3, or do double the double (46 and 92). It comes to 92; if they get something else, ask how they worked it out and draw 4 groups of 23 together.",
+          "fr": "Il ou elle peut couper 23 en 20 et 3, ou faire le double du double (46 et 92). Ça fait 92 ; si ça donne autre chose, demandez comment il ou elle a réfléchi et dessinez ensemble 4 groupes de 23.",
+          "ar": "قد يقسم 23 إلى 20 و3، أو يحسب ضعف الضعف (46 ثم 92). الناتج 92؛ وإذا خرجت نتيجة أخرى، اسألوا كيف كان التفكير وارسموا معًا 4 مجموعات من 23."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "ee819bccbabf"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "ee819bccbabf"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "ee819bccbabf"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "ee819bccbabf"
+      }
+    }
+  }
+}
