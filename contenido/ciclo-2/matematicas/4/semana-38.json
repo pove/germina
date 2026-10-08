@@ -1,0 +1,340 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s38",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 38,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué puede salir?",
+    "va": "Què pot eixir?",
+    "en": "What could come up?",
+    "fr": "Qu'est-ce qui peut sortir ?",
+    "ar": "ماذا يمكن أن يخرج؟"
+  },
+  "objetivo": {
+    "es": "Esta semana experimentan con dados: antes de tirar, piensan qué resultados pueden salir (el espacio muestral) y cuál saldrá más. Después, tiran muchas veces y comprueban si acertaron.",
+    "va": "Aquesta setmana experimenten amb daus: abans de tirar, pensen quins resultats poden eixir (l'espai mostral) i quin n'eixirà més. Després, tiren moltes vegades i comproven si ho han encertat.",
+    "en": "This week they experiment with dice: before rolling, they think about which results could come up (the sample space, espacio muestral) and which will come up most. Then they roll many times and check if they were right.",
+    "fr": "Cette semaine, on fait des expériences avec des dés : avant de lancer, on réfléchit aux résultats possibles (l'univers, espacio muestral) et à celui qui sortira le plus. Ensuite, on lance beaucoup de fois et on vérifie.",
+    "ar": "هذا الأسبوع يجرّب الأطفال بالنرد: قبل الرمي يفكّرون في النتائج الممكنة (فضاء العيّنة، espacio muestral) وأيّها سيخرج أكثر. ثم يرمون مرات كثيرة ويتحقّقون من توقّعهم."
+  },
+  "comoAyudar": {
+    "es": "Predecid vosotros también, y no os preocupéis si falláis: con 30 tiradas pueden salir sorpresas. Lo interesante es hablar de por qué unas sumas salen más que otras.",
+    "va": "Predigueu vosaltres també, i no us preocupeu si falleu: amb 30 tirades poden eixir sorpreses. L'interessant és parlar de per què unes sumes ixen més que altres.",
+    "en": "Make your own predictions too, and don't worry if you're wrong: with 30 rolls there can be surprises. The interesting part is talking about why some sums come up more than others.",
+    "fr": "Faites vous aussi des prédictions, et ne vous inquiétez pas si vous vous trompez : avec 30 lancers, il peut y avoir des surprises. Ce qui est intéressant, c'est de parler de pourquoi certaines sommes sortent plus que d'autres.",
+    "ar": "توقّعوا أنتم أيضًا، ولا تقلقوا إن أخطأتم: مع 30 رمية قد تظهر مفاجآت. والمثير هو الحديث عن سبب خروج بعض المجاميع أكثر من غيرها."
+  },
+  "saberes": [
+    "matematicas.probabilidad.suceso",
+    "matematicas.probabilidad.espacio-muestral",
+    "matematicas.probabilidad.estimacion"
+  ],
+  "criterios": [
+    "matematicas.c2.3.4",
+    "matematicas.c2.2.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Treinta tiradas",
+      "va": "Trenta tirades",
+      "en": "Thirty rolls",
+      "fr": "Trente lancers",
+      "ar": "ثلاثون رمية"
+    },
+    "material": [
+      {
+        "es": "Dos dados",
+        "va": "Dos daus",
+        "en": "Two dice",
+        "fr": "Deux dés",
+        "ar": "نردان"
+      },
+      {
+        "es": "Papel cuadriculado y lápiz",
+        "va": "Paper quadriculat i llapis",
+        "en": "Squared paper and a pencil",
+        "fr": "Du papier quadrillé et un crayon",
+        "ar": "ورق مربّعات وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid en una fila todas las sumas que pueden salir con dos dados: del 2 al 12. ¿Por qué no está el 1? ¿Y el 13?",
+          "va": "Escriviu en una fila totes les sumes que poden eixir amb dos daus: del 2 al 12. Per què no hi ha l'1? I el 13?",
+          "en": "Write in a row all the sums you can get with two dice: from 2 to 12. Why isn't 1 there? And 13?",
+          "fr": "Écrivez sur une ligne toutes les sommes possibles avec deux dés : de 2 à 12. Pourquoi n'y a-t-il pas le 1 ? Et le 13 ?",
+          "ar": "اكتبوا في صف كل المجاميع الممكنة بنردين: من 2 إلى 12. لماذا لا يوجد 1؟ ولا 13؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Antes de tirar, cada persona dice qué suma cree que saldrá más veces y por qué. Apuntad las predicciones.",
+          "va": "Abans de tirar, cada persona diu quina suma creu que eixirà més vegades i per què. Apunteu les prediccions.",
+          "en": "Before rolling, each person says which sum they think will come up most often and why. Write down the predictions.",
+          "fr": "Avant de lancer, chaque personne dit quelle somme sortira le plus souvent selon elle et pourquoi. Notez les prédictions.",
+          "ar": "قبل الرمي، يقول كل شخص أي مجموع يظنّ أنه سيخرج أكثر ولماذا. دوّنوا التوقّعات."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Tirad los dos dados 30 veces. Cada vez, pintad un cuadradito encima de la suma que ha salido: así se va formando un gráfico de barras.",
+          "va": "Tireu els dos daus 30 vegades. Cada vegada, pinteu un quadradet damunt de la suma que ha eixit: així es va formant un gràfic de barres.",
+          "en": "Roll both dice 30 times. Each time, colour a little square above the sum you got: that way a bar chart builds up.",
+          "fr": "Lancez les deux dés 30 fois. À chaque fois, coloriez un petit carreau au-dessus de la somme obtenue : un diagramme en barres se forme peu à peu.",
+          "ar": "ارموا النردين 30 مرة. وفي كل مرة لوّنوا مربّعًا صغيرًا فوق المجموع الذي خرج: هكذا يتكوّن مخطّط بالأعمدة."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Mirad el gráfico: ¿qué suma ha salido más? ¿Acertasteis? Contad de cuántas formas sale el 7 (1 y 6, 2 y 5…) y de cuántas sale el 2.",
+          "va": "Mireu el gràfic: quina suma ha eixit més? Ho vau encertar? Compteu de quantes maneres ix el 7 (1 i 6, 2 i 5…) i de quantes ix el 2.",
+          "en": "Look at the chart: which sum came up most? Were you right? Count how many ways you can get 7 (1 and 6, 2 and 5…) and how many ways you can get 2.",
+          "fr": "Regardez le diagramme : quelle somme est sortie le plus ? Aviez-vous raison ? Comptez de combien de façons on obtient 7 (1 et 6, 2 et 5…) et de combien on obtient 2.",
+          "ar": "انظروا إلى المخطّط: أي مجموع خرج أكثر؟ هل أصبتم؟ عدّوا بكم طريقة يخرج 7 (1 و6، 2 و5…) وبكم طريقة يخرج 2."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad un solo dado y 20 tiradas: ¿sale algún número mucho más que los demás?",
+      "va": "Feu servir un sol dau i 20 tirades: ix algun número molt més que els altres?",
+      "en": "Use just one die and 20 rolls: does any number come up much more than the others?",
+      "fr": "Utilisez un seul dé et 20 lancers : un nombre sort-il beaucoup plus que les autres ?",
+      "ar": "استعملوا نردًا واحدًا و20 رمية: هل يخرج عدد أكثر بكثير من غيره؟"
+    },
+    "masDificil": {
+      "es": "Juntad las tiradas de varias personas hasta llegar a 100. ¿El gráfico se parece más a lo que pensabais?",
+      "va": "Ajunteu les tirades de diverses persones fins a arribar a 100. El gràfic s'assembla més al que pensàveu?",
+      "en": "Put several people's rolls together until you reach 100. Does the chart look more like what you expected?",
+      "fr": "Réunissez les lancers de plusieurs personnes jusqu'à arriver à 100. Le diagramme ressemble-t-il davantage à ce que vous pensiez ?",
+      "ar": "اجمعوا رميات عدة أشخاص حتى تبلغوا 100. هل صار المخطّط أقرب إلى ما توقّعتم؟"
+    },
+    "paraQueSirve": {
+      "es": "Predecir, experimentar y comprobar es lo que hace la ciencia. Y entender por qué el 7 sale más ayuda a ver que el azar también tiene sus reglas.",
+      "va": "Predir, experimentar i comprovar és el que fa la ciència. I entendre per què el 7 ix més ajuda a veure que l'atzar també té les seues regles.",
+      "en": "Predicting, experimenting and checking is what science does. And understanding why 7 comes up more shows that chance has its rules too.",
+      "fr": "Prédire, expérimenter et vérifier, c'est ce que fait la science. Et comprendre pourquoi le 7 sort plus montre que le hasard a aussi ses règles.",
+      "ar": "التوقّع والتجربة والتحقّق هو ما يفعله العلم. وفهم سبب خروج 7 أكثر يُظهر أن للصدفة قواعدها أيضًا."
+    },
+    "aviso": {
+      "es": "Los dados, lejos de hermanos o hermanas pequeños.",
+      "va": "Els daus, lluny de germans o germanes menuts.",
+      "en": "Keep the dice away from younger brothers and sisters.",
+      "fr": "Gardez les dés loin des petits frères et sœurs.",
+      "ar": "أبعدوا النرد عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Tiras un dado rojo y uno azul. ¿Cuántas parejas distintas pueden salir, contando el rojo y el azul por separado?",
+        "va": "Tires un dau roig i un de blau. Quantes parelles diferents poden eixir, comptant el roig i el blau per separat?",
+        "en": "You roll a red die and a blue die. How many different pairs can come up, counting the red and the blue separately?",
+        "fr": "Tu lances un dé rouge et un dé bleu. Combien de paires différentes peuvent sortir, en comptant le rouge et le bleu séparément ?",
+        "ar": "نرمي نردًا أحمر وآخر أزرق. كم زوجًا مختلفًا يمكن أن يخرج، مع عدّ الأحمر والأزرق كلٍّ على حدة؟"
+      },
+      "pista": {
+        "es": "Para cada número del dado rojo, ¿cuántos puede haber en el azul?",
+        "va": "Per a cada número del dau roig, quants en pot haver en el blau?",
+        "en": "For each number on the red die, how many can there be on the blue one?",
+        "fr": "Pour chaque nombre du dé rouge, combien peut-il y en avoir sur le bleu ?",
+        "ar": "لكل عدد على النرد الأحمر، كم عددًا يمكن أن يكون على الأزرق؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 6",
+        "resultado": 36,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Pueden salir 36 parejas: {{6 × 6 = 36}}.",
+          "va": "Poden eixir 36 parelles: {{6 × 6 = 36}}.",
+          "en": "36 pairs can come up: {{6 × 6 = 36}}.",
+          "fr": "36 paires peuvent sortir : {{6 × 6 = 36}}.",
+          "ar": "يمكن أن يخرج 36 زوجًا: {{6 × 6 = 36}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿cuántos resultados pueden salir?» con una moneda y un dado.",
+        "va": "Inventa't una pregunta de «quants resultats poden eixir?» amb una moneda i un dau.",
+        "en": "Make up a “how many results can come up?” question with a coin and a die.",
+        "fr": "Invente une question « combien de résultats peuvent sortir ? » avec une pièce et un dé.",
+        "ar": "لنخترع سؤال «كم نتيجة يمكن أن تخرج؟» بقطعة نقدية ونرد."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Con dos dados, ¿de cuántas formas puede salir suma 7? Escríbelas todas.",
+        "va": "Amb dos daus, de quantes maneres pot eixir suma 7? Escriu-les totes.",
+        "en": "With two dice, how many ways can you get a sum of 7? Write them all down.",
+        "fr": "Avec deux dés, de combien de façons peut-on obtenir une somme de 7 ? Écris-les toutes.",
+        "ar": "بنردين، بكم طريقة يمكن أن يخرج المجموع 7؟ لنكتبها كلها."
+      },
+      "pista": {
+        "es": "Empieza por el 1 en el primer dado: ¿qué hace falta en el segundo?",
+        "va": "Comença per l'1 en el primer dau: què necessites en el segon?",
+        "en": "Start with 1 on the first die: what's needed on the second?",
+        "fr": "Commence par le 1 sur le premier dé : qu'est-ce qui va sur le deuxième ?",
+        "ar": "لنبدأ بـ1 على النرد الأول: ماذا نحتاج على الثاني؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "De 6 formas: 1 y 6, 2 y 5, 3 y 4, 4 y 3, 5 y 2, 6 y 1. Por eso el 7 es la suma que más sale.",
+          "va": "De 6 maneres: 1 i 6, 2 i 5, 3 i 4, 4 i 3, 5 i 2, 6 i 1. Per això el 7 és la suma que més ix.",
+          "en": "6 ways: 1 and 6, 2 and 5, 3 and 4, 4 and 3, 5 and 2, 6 and 1. That's why 7 is the sum that comes up most.",
+          "fr": "De 6 façons : 1 et 6, 2 et 5, 3 et 4, 4 et 3, 5 et 2, 6 et 1. C'est pour ça que le 7 est la somme qui sort le plus.",
+          "ar": "بـ6 طرق: 1 و6، 2 و5، 3 و4، 4 و3، 5 و2، 6 و1. لذلك 7 هو المجموع الأكثر خروجًا."
+        }
+      },
+      "inventala": {
+        "es": "Elige tú otra suma y busca de cuántas formas puede salir.",
+        "va": "Tria tu una altra suma i busca de quantes maneres pot eixir.",
+        "en": "Choose another sum and find how many ways it can come up.",
+        "fr": "Choisis une autre somme et cherche de combien de façons elle peut sortir.",
+        "ar": "لنختر مجموعًا آخر ونبحث بكم طريقة يمكن أن يخرج."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Con dos dados, ¿puede salir suma 1? ¿Y suma 12? ¿Cuál de las dos es más fácil?",
+        "va": "Amb dos daus, pot eixir suma 1? I suma 12? Quina de les dues és més fàcil?",
+        "en": "With two dice, can you get a sum of 1? And 12? Which of the two is easier?",
+        "fr": "Avec deux dés, peut-on obtenir une somme de 1 ? Et de 12 ? Laquelle des deux est la plus facile ?",
+        "ar": "بنردين، هل يمكن أن يخرج المجموع 1؟ والمجموع 12؟ أيّهما أسهل؟"
+      },
+      "pista": {
+        "es": "¿Cuál es la suma más pequeña que puede salir? ¿Y la más grande?",
+        "va": "Quina és la suma més menuda que pot eixir? I la més gran?",
+        "en": "What's the smallest sum you can get? And the biggest?",
+        "fr": "Quelle est la plus petite somme possible ? Et la plus grande ?",
+        "ar": "ما أصغر مجموع يمكن أن يخرج؟ وما أكبره؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Suma 1 es imposible: lo mínimo es {{1 + 1 = 2}}. Suma 12 es posible, pero solo de una forma: {{6 + 6 = 12}}. Así que el 12 es más fácil, aunque sale poco.",
+          "va": "Suma 1 és impossible: el mínim és {{1 + 1 = 2}}. Suma 12 és possible, però només d'una manera: {{6 + 6 = 12}}. Així que el 12 és més fàcil, encara que ix poc.",
+          "en": "A sum of 1 is impossible: the minimum is {{1 + 1 = 2}}. A sum of 12 is possible, but only one way: {{6 + 6 = 12}}. So 12 is easier, even though it rarely comes up.",
+          "fr": "Une somme de 1 est impossible : le minimum, c'est {{1 + 1 = 2}}. Une somme de 12 est possible, mais d'une seule façon : {{6 + 6 = 12}}. Donc le 12 est plus facile, même s'il sort peu.",
+          "ar": "المجموع 1 مستحيل: الحدّ الأدنى {{1 + 1 = 2}}. والمجموع 12 ممكن لكن بطريقة واحدة فقط: {{6 + 6 = 12}}. إذن 12 أسهل، وإن كان يخرج قليلًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿es posible o imposible?» con dos dados.",
+        "va": "Inventa't una pregunta de «és possible o impossible?» amb dos daus.",
+        "en": "Make up a “possible or impossible?” question with two dice.",
+        "fr": "Invente une question « possible ou impossible ? » avec deux dés.",
+        "ar": "لنخترع سؤال «ممكن أم مستحيل؟» بنردين."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 37,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: ¿cuántos gramos son 1,2 kg?",
+        "va": "Per a recordar: quants grams són 1,2 kg?",
+        "en": "Let's remember: how many grams is 1,2 kg?",
+        "fr": "Pour se souvenir : combien de grammes font 1,2 kg ?",
+        "ar": "لنتذكّر: كم غرامًا في 1,2 كغ؟"
+      },
+      "pista": {
+        "es": "1 kg son 1000 g, y 0,2 kg, 200 g.",
+        "va": "1 kg són 1000 g, i 0,2 kg, 200 g.",
+        "en": "1 kg is 1000 g, and 0,2 kg is 200 g.",
+        "fr": "1 kg, c'est 1000 g, et 0,2 kg, 200 g.",
+        "ar": "الكيلو 1000 غ، و0,2 كغ تساوي 200 غ."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 + 200",
+        "resultado": 1200,
+        "unidad": "g",
+        "texto": {
+          "es": "Son 1200 g: {{1,2 × 1000 = 1200}}.",
+          "va": "Són 1200 g: {{1,2 × 1000 = 1200}}.",
+          "en": "It's 1200 g: {{1,2 × 1000 = 1200}}.",
+          "fr": "Ça fait 1200 g : {{1,2 × 1000 = 1200}}.",
+          "ar": "إنها 1200 غ: {{1,2 × 1000 = 1200}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de pasar kilos con coma a gramos.",
+        "va": "Inventa'n tu una de passar quilos amb coma a grams.",
+        "en": "Make one up about changing kilos with a comma into grams.",
+        "fr": "Invente un problème où l'on passe des kilos à virgule aux grammes.",
+        "ar": "لنخترع مسألة نحوّل فيها كيلوغرامات بفاصلة إلى غرامات."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si tiras una moneda y sale cara 3 veces seguidas, ¿es más fácil que la próxima salga cruz? Explícame qué piensas.",
+        "va": "Si tires una moneda i ix cara 3 vegades seguides, és més fàcil que la pròxima isca creu? Explica'm què penses.",
+        "en": "If you toss a coin and get heads 3 times in a row, is tails more likely next time? Explain what you think.",
+        "fr": "Si tu lances une pièce et qu'elle tombe sur pile 3 fois de suite, est-il plus facile qu'elle tombe sur face la prochaine fois ? Explique-moi ce que tu penses.",
+        "ar": "إذا رمينا قطعة نقدية وظهر الوجه نفسه 3 مرات متتالية، هل يصبح ظهور الوجه الآخر في المرة التالية أسهل؟ اشرح لي أو اشرحي لي رأيك."
+      },
+      "pista": {
+        "es": "Si no sabe qué decir: «¿La moneda se acuerda de lo que salió antes?»",
+        "va": "Si no sap què dir: «La moneda se'n recorda del que va eixir abans?»",
+        "en": "If they don't know what to say: “Does the coin remember what came up before?”",
+        "fr": "S'il ou elle ne sait pas quoi dire : « Est-ce que la pièce se souvient de ce qui est sorti avant ? »",
+        "ar": "إن لم تكن هناك فكرة، اسألوا: «هل تتذكّر القطعة النقدية ما خرج من قبل؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Mucha gente piensa que sí, ¡también las personas adultas! Pero la moneda no se acuerda: cara y cruz siguen siendo igual de posibles. Si os apetece, tirad una moneda muchas veces y miradlo juntos.",
+          "va": "Molta gent pensa que sí, també les persones adultes! Però la moneda no se'n recorda: cara i creu continuen sent igual de possibles. Si us ve de gust, tireu una moneda moltes vegades i mireu-ho junts.",
+          "en": "Lots of people think so, adults too! But the coin doesn't remember: heads and tails are still just as possible. If you like, toss a coin lots of times and look at it together.",
+          "fr": "Beaucoup de gens le pensent, même les adultes ! Mais la pièce ne se souvient de rien : pile et face restent tout aussi possibles. Si vous en avez envie, lancez une pièce de nombreuses fois et regardez ensemble.",
+          "ar": "كثيرون يظنّون ذلك، حتى البالغون! لكن القطعة لا تتذكّر: الوجهان ممكنان بالقدر نفسه دائمًا. وإن رغبتم، ارموا قطعة نقدية مرات كثيرة وانظروا معًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "fbbba37da8f5"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "fbbba37da8f5"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "fbbba37da8f5"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "fbbba37da8f5"
+      }
+    }
+  }
+}

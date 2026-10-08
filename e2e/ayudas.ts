@@ -47,6 +47,18 @@ export async function preparar(page: Page, opciones: { fecha?: string; almacen?:
   }
 }
 
+/**
+ * Hace como si esas semillas no estuvieran publicadas (las quita de `contenido/indice.json`),
+ * para probar «en camino» ahora que el curso entero ya existe. Claves como en el índice: `2/matematicas/3/s36`.
+ */
+export async function ocultarSemillas(page: Page, claves: string[]): Promise<void> {
+  await page.route('**/contenido/indice.json', async (ruta) => {
+    const respuesta = await ruta.fetch();
+    const indice = (await respuesta.json()) as { semillas: string[] };
+    await ruta.fulfill({ response: respuesta, json: { ...indice, semillas: indice.semillas.filter((s) => !claves.includes(s)) } });
+  });
+}
+
 export async function guardado(page: Page): Promise<Record<string, unknown>> {
   return page.evaluate(() => JSON.parse(localStorage.getItem('germina') ?? '{}'));
 }

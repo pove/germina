@@ -78,7 +78,7 @@ Una tanda por sesión, siempre imitando la semilla de ejemplo y respetando el ma
 3. Semanas 16 a 22. **Hecha.**
 4. Semanas 23 a 28. **Hecha.**
 5. Semanas 29 a 35. **Hecha.**
-6. Semanas 36 a 41.
+6. Semanas 36 a 41. **Hecha.**
 7. Retos de verano 1 a 10 de 3.º y 4.º.
 
 **En cada tanda:** `npm run validar` pasa; todas las traducciones quedan como `automatica` con su huella; `revision.docente.revisada` en `false`. Al final, un resumen para la persona revisora: tres semillas al azar para leer enteras y cualquier decisión dudosa tomada.

@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s39",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 39,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué operación toca?",
+    "va": "Quina operació toca?",
+    "en": "Which operation is it?",
+    "fr": "Quelle opération faut-il ?",
+    "ar": "أي عملية نستعمل؟"
+  },
+  "objetivo": {
+    "es": "Esta semana mezclan problemas de todo el curso y, antes de calcular, deciden qué operación toca: juntar (sumar), quitar o comparar (restar), grupos iguales (multiplicar) o repartir (dividir).",
+    "va": "Aquesta setmana mesclen problemes de tot el curs i, abans de calcular, decidixen quina operació toca: ajuntar (sumar), llevar o comparar (restar), grups iguals (multiplicar) o repartir (dividir).",
+    "en": "This week they mix problems from the whole year and, before calculating, decide which operation it is: putting together (adding), taking away or comparing (subtracting), equal groups (multiplying) or sharing (dividing).",
+    "fr": "Cette semaine, on mélange des problèmes de toute l'année et, avant de calculer, on décide quelle opération utiliser : réunir (additionner), enlever ou comparer (soustraire), des groupes égaux (multiplier) ou partager (diviser).",
+    "ar": "هذا الأسبوع يمزج الأطفال مسائل من السنة كلها، وقبل الحساب يقرّرون أي عملية نستعمل: الضمّ (الجمع)، أو الأخذ أو المقارنة (الطرح)، أو المجموعات المتساوية (الضرب)، أو التوزيع (القسمة)."
+  },
+  "comoAyudar": {
+    "es": "Lo importante esta semana no es la cuenta, sino elegir. Si duda, preguntad «¿qué pasa en el problema: se junta, se quita, se repite o se reparte?». Dibujarlo también ayuda.",
+    "va": "L'important aquesta setmana no és el compte, sinó triar. Si dubta, pregunteu «què passa en el problema: s'ajunta, es lleva, es repetix o es repartix?». Dibuixar-ho també ajuda.",
+    "en": "What matters this week isn't the sum, but choosing. If they're unsure, ask “What happens in the problem: are things put together, taken away, repeated or shared?” Drawing it helps too.",
+    "fr": "L'important cette semaine, ce n'est pas le calcul, c'est de choisir. En cas de doute, demandez « Que se passe-t-il dans le problème : on réunit, on enlève, on répète ou on partage ? ». Le dessiner aide aussi.",
+    "ar": "المهم هذا الأسبوع ليس الحساب بل الاختيار. وإذا تردّد الطفل، اسألوا «ماذا يحدث في المسألة: نضمّ أم نأخذ أم نكرّر أم نوزّع؟». والرسم يساعد أيضًا."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c2.1.1",
+    "matematicas.c2.1.2",
+    "matematicas.c2.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cuatro montones",
+      "va": "Quatre munts",
+      "en": "Four piles",
+      "fr": "Quatre tas",
+      "ar": "أربع كومات"
+    },
+    "material": [
+      {
+        "es": "Papelitos para escribir problemas cortos",
+        "va": "Paperets per a escriure problemes curts",
+        "en": "Slips of paper to write short problems on",
+        "fr": "Des petits papiers pour écrire des problèmes courts",
+        "ar": "قصاصات ورق لكتابة مسائل قصيرة"
+      },
+      {
+        "es": "Un lápiz",
+        "va": "Un llapis",
+        "en": "A pencil",
+        "fr": "Un crayon",
+        "ar": "قلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "La persona adulta escribe 8 problemas cortos en papelitos: «Tengo 12 cromos y me dan 5», «Hay 4 platos con 3 fresas», «Reparto 10 galletas entre 2»…",
+          "va": "La persona adulta escriu 8 problemes curts en paperets: «Tinc 12 cromos i me'n donen 5», «Hi ha 4 plats amb 3 maduixes», «Repartisc 10 galetes entre 2»…",
+          "en": "The adult writes 8 short problems on slips: “I have 12 stickers and I'm given 5”, “There are 4 plates with 3 strawberries”, “I share 10 biscuits between 2”…",
+          "fr": "L'adulte écrit 8 problèmes courts sur des petits papiers : « J'ai 12 images et on m'en donne 5 », « Il y a 4 assiettes avec 3 fraises », « Je partage 10 biscuits entre 2 »…",
+          "ar": "يكتب الشخص البالغ 8 مسائل قصيرة على قصاصات: «عندي 12 صورة وأُعطيت 5»، «هناك 4 صحون في كل منها 3 حبات فراولة»، «أوزّع 10 بسكويتات على 2»…"
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "En la mesa, poned cuatro carteles: «juntar», «quitar o comparar», «grupos iguales» y «repartir».",
+          "va": "En la taula, poseu quatre cartells: «ajuntar», «llevar o comparar», «grups iguals» i «repartir».",
+          "en": "On the table, put four signs: “put together”, “take away or compare”, “equal groups” and “share”.",
+          "fr": "Sur la table, posez quatre affichettes : « réunir », « enlever ou comparer », « groupes égaux » et « partager ».",
+          "ar": "ضعوا على الطاولة أربع لافتات: «ضمّ»، «أخذ أو مقارنة»، «مجموعات متساوية»، «توزيع»."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "El niño o la niña lee cada problema y lo pone en su montón, sin calcular todavía. Si duda, que lo explique en voz alta.",
+          "va": "El xiquet o la xiqueta llig cada problema i el posa en el seu munt, sense calcular encara. Si dubta, que ho explique en veu alta.",
+          "en": "The child reads each problem and puts it on its pile, without calculating yet. If they're unsure, they explain out loud.",
+          "fr": "L'enfant lit chaque problème et le pose sur son tas, sans calculer encore. En cas de doute, il ou elle explique à voix haute.",
+          "ar": "يقرأ الطفل كل مسألة ويضعها في كومتها دون أن يحسب بعد. وإن تردّد، يشرح بصوت عالٍ."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Ahora sí, resolved juntos un problema de cada montón y escribid la operación: {{12 + 5 = 17}}, {{4 × 3 = 12}}…",
+          "va": "Ara sí, resoleu junts un problema de cada munt i escriviu l'operació: {{12 + 5 = 17}}, {{4 × 3 = 12}}…",
+          "en": "Now you can solve one problem from each pile together and write the operation: {{12 + 5 = 17}}, {{4 × 3 = 12}}…",
+          "fr": "Maintenant, résolvez ensemble un problème de chaque tas et écrivez l'opération : {{12 + 5 = 17}}, {{4 × 3 = 12}}…",
+          "ar": "والآن حلّوا معًا مسألة من كل كومة واكتبوا العملية: {{12 + 5 = 17}}، {{4 × 3 = 12}}…"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos montones: «juntar» y «quitar».",
+      "va": "Feu servir només dos munts: «ajuntar» i «llevar».",
+      "en": "Use only two piles: “put together” and “take away”.",
+      "fr": "Utilisez seulement deux tas : « réunir » et « enlever ».",
+      "ar": "استعملوا كومتين فقط: «ضمّ» و«أخذ»."
+    },
+    "masDificil": {
+      "es": "Meted problemas de dos pasos: ¿en qué montón van? A lo mejor necesitan dos carteles a la vez.",
+      "va": "Poseu problemes de dos passos: en quin munt van? Potser necessiten dos cartells alhora.",
+      "en": "Include two-step problems: which pile do they go on? Maybe they need two signs at once.",
+      "fr": "Ajoutez des problèmes en deux étapes : sur quel tas vont-ils ? Peut-être qu'il leur faut deux affichettes à la fois.",
+      "ar": "أضيفوا مسائل من خطوتين: في أي كومة توضع؟ ربما تحتاج لافتتين معًا."
+    },
+    "paraQueSirve": {
+      "es": "Elegir la operación es el paso más importante para resolver un problema. Si se entiende qué pasa en la historia, la cuenta sale casi sola.",
+      "va": "Triar l'operació és el pas més important per a resoldre un problema. Si s'entén què passa en la història, el compte ix quasi sol.",
+      "en": "Choosing the operation is the most important step in solving a problem. If you understand what happens in the story, the sum almost works itself out.",
+      "fr": "Choisir l'opération, c'est l'étape la plus importante pour résoudre un problème. Si on comprend ce qui se passe dans l'histoire, le calcul vient presque tout seul.",
+      "ar": "اختيار العملية أهم خطوة في حلّ المسألة. وإذا فُهم ما يحدث في القصة، يأتي الحساب وحده تقريبًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el parque juegan 18 niñas y 15 niños. ¿Cuántas niñas y niños hay en total?",
+        "va": "En el parc juguen 18 xiquetes i 15 xiquets. Quantes xiquetes i xiquets hi ha en total?",
+        "en": "In the park, 18 girls and 15 boys are playing. How many children are there in total?",
+        "fr": "Au parc, 18 filles et 15 garçons jouent. Combien d'enfants y a-t-il en tout ?",
+        "ar": "في الحديقة تلعب 18 بنتًا و15 ولدًا. كم طفلًا في المجموع؟"
+      },
+      "pista": {
+        "es": "¿Se junta, se quita, se repite o se reparte?",
+        "va": "S'ajunta, es lleva, es repetix o es repartix?",
+        "en": "Are things put together, taken away, repeated or shared?",
+        "fr": "On réunit, on enlève, on répète ou on partage ?",
+        "ar": "هل نضمّ أم نأخذ أم نكرّر أم نوزّع؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "18 + 15",
+        "resultado": 33,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se juntan: hay 33 en total, {{18 + 15 = 33}}.",
+          "va": "S'ajunten: n'hi ha 33 en total, {{18 + 15 = 33}}.",
+          "en": "They're put together: there are 33 in total, {{18 + 15 = 33}}.",
+          "fr": "On réunit : il y en a 33 en tout, {{18 + 15 = 33}}.",
+          "ar": "نضمّ: هناك 33 في المجموع، {{18 + 15 = 33}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema de juntar con algo de tu cole.",
+        "va": "Inventa't un problema d'ajuntar amb alguna cosa de l'escola.",
+        "en": "Make up a putting-together problem with something from school.",
+        "fr": "Invente un problème où l'on réunit, avec quelque chose de ton école.",
+        "ar": "لنخترع مسألة ضمّ بشيء من مدرستنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Mía tiene 40 € ahorrados y se gasta 12 € en un libro. ¿Cuánto dinero le queda?",
+        "va": "Mía té 40 € estalviats i se'n gasta 12 en un llibre. Quants diners li queden?",
+        "en": "Mía has saved 40 € and spends 12 € on a book. How much money does she have left?",
+        "fr": "Mía a 40 € d'économies et dépense 12 € pour un livre. Combien d'argent lui reste-t-il ?",
+        "ar": "ادّخرت ميا 40 يورو وأنفقت 12 يورو على كتاب. كم بقي معها؟"
+      },
+      "pista": {
+        "es": "¿Se junta, se quita, se repite o se reparte?",
+        "va": "S'ajunta, es lleva, es repetix o es repartix?",
+        "en": "Are things put together, taken away, repeated or shared?",
+        "fr": "On réunit, on enlève, on répète ou on partage ?",
+        "ar": "هل نضمّ أم نأخذ أم نكرّر أم نوزّع؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 - 12",
+        "resultado": 28,
+        "unidad": "euros",
+        "texto": {
+          "es": "Se quita: le quedan 28 €, {{40 − 12 = 28}}.",
+          "va": "Es lleva: li queden 28 €, {{40 − 12 = 28}}.",
+          "en": "It's taking away: she has 28 € left, {{40 − 12 = 28}}.",
+          "fr": "On enlève : il lui reste 28 €, {{40 − 12 = 28}}.",
+          "ar": "نأخذ: بقي معها 28 يورو، {{40 − 12 = 28}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema de quitar con dinero.",
+        "va": "Inventa't un problema de llevar amb diners.",
+        "en": "Make up a taking-away problem with money.",
+        "fr": "Invente un problème où l'on enlève, avec de l'argent.",
+        "ar": "لنخترع مسألة أخذ بالنقود."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Hay 24 lápices para guardar en 6 estuches, los mismos en cada uno. ¿Cuántos van en cada estuche?",
+        "va": "Hi ha 24 llapis per a guardar en 6 estoigs, els mateixos en cadascun. Quants en van en cada estoig?",
+        "en": "There are 24 pencils to put into 6 pencil cases, the same number in each. How many go in each case?",
+        "fr": "Il y a 24 crayons à ranger dans 6 trousses, autant dans chacune. Combien en va-t-il dans chaque trousse ?",
+        "ar": "هناك 24 قلمًا نضعها في 6 مقالم بالعدد نفسه في كل منها. كم قلمًا في كل مقلمة؟"
+      },
+      "pista": {
+        "es": "¿Se junta, se quita, se repite o se reparte?",
+        "va": "S'ajunta, es lleva, es repetix o es repartix?",
+        "en": "Are things put together, taken away, repeated or shared?",
+        "fr": "On réunit, on enlève, on répète ou on partage ?",
+        "ar": "هل نضمّ أم نأخذ أم نكرّر أم نوزّع؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 : 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se reparte: van 4 en cada estuche, {{24 : 6 = 4}}.",
+          "va": "Es repartix: en van 4 en cada estoig, {{24 : 6 = 4}}.",
+          "en": "It's sharing: 4 go in each case, {{24 : 6 = 4}}.",
+          "fr": "On partage : il en va 4 dans chaque trousse, {{24 : 6 = 4}}.",
+          "ar": "نوزّع: 4 أقلام في كل مقلمة، {{24 : 6 = 4}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema de repartir y otro de grupos iguales con los mismos números.",
+        "va": "Inventa't un problema de repartir i un altre de grups iguals amb els mateixos números.",
+        "en": "Make up a sharing problem and an equal-groups problem with the same numbers.",
+        "fr": "Invente un problème de partage et un autre de groupes égaux avec les mêmes nombres.",
+        "ar": "لنخترع مسألة توزيع وأخرى مجموعات متساوية بالأعداد نفسها."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 38,
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Para recordar: en una bolsa hay 5 bolas verdes y nada más. Si sacas una sin mirar, ¿es seguro, posible o imposible que sea verde?",
+        "va": "Per a recordar: en una bossa hi ha 5 boles verdes i res més. Si en traus una sense mirar, és segur, possible o impossible que siga verda?",
+        "en": "Let's remember: in a bag there are 5 green balls and nothing else. If you take one out without looking, is it certain, possible or impossible that it's green?",
+        "fr": "Pour se souvenir : dans un sac, il y a 5 boules vertes et rien d'autre. Si tu en sors une sans regarder, est-il sûr, possible ou impossible qu'elle soit verte ?",
+        "ar": "لنتذكّر: في كيس 5 كرات خضراء فقط. إذا سحبنا واحدة دون نظر، هل من المؤكّد أم الممكن أم المستحيل أن تكون خضراء؟"
+      },
+      "pista": {
+        "es": "¿Hay bolas de otro color?",
+        "va": "Hi ha boles d'un altre color?",
+        "en": "Are there balls of any other colour?",
+        "fr": "Y a-t-il des boules d'une autre couleur ?",
+        "ar": "هل هناك كرات من لون آخر؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Seguro: todas son verdes.",
+          "va": "Segur: totes són verdes.",
+          "en": "Certain: they're all green.",
+          "fr": "Sûr : elles sont toutes vertes.",
+          "ar": "مؤكّد: كلها خضراء."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una bolsa en la que algo sea imposible.",
+        "va": "Inventa't una bossa en què alguna cosa siga impossible.",
+        "en": "Make up a bag where something is impossible.",
+        "fr": "Invente un sac où quelque chose est impossible.",
+        "ar": "لنخترع كيسًا يكون فيه شيء ما مستحيلًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si un problema es de sumar, de restar, de multiplicar o de repartir? Explícamelo con un ejemplo.",
+        "va": "Com saps si un problema és de sumar, de restar, de multiplicar o de repartir? Explica-m'ho amb un exemple.",
+        "en": "How do you know if a problem is adding, subtracting, multiplying or sharing? Explain it to me with an example.",
+        "fr": "Comment sais-tu si un problème est d'addition, de soustraction, de multiplication ou de partage ? Explique-le-moi avec un exemple.",
+        "ar": "كيف نعرف أن المسألة جمع أو طرح أو ضرب أو توزيع؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué palabras te dan una pista: “en total”, “quedan”, “cada uno”, “entre”?»",
+        "va": "Si no sap per on començar: «Quines paraules et donen una pista: “en total”, “queden”, “cadascun”, “entre”?»",
+        "en": "If they don't know where to start: “Which words give you a clue: ‘in total’, ‘left’, ‘each’, ‘between’?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Quels mots te donnent un indice : “en tout”, “il reste”, “chacun”, “entre” ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أي الكلمات تعطينا تلميحًا: “في المجموع”، “بقي”، “لكل”، “على”؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Las palabras ayudan, pero lo mejor es imaginar qué pasa en la historia. Si lo explica así, perfecto; si solo busca palabras, preguntad «¿y qué pasa con las cosas?».",
+          "va": "Les paraules ajuden, però el millor és imaginar què passa en la història. Si ho explica així, perfecte; si només busca paraules, pregunteu «i què passa amb les coses?».",
+          "en": "Words help, but the best thing is to imagine what happens in the story. If they explain it that way, perfect; if they only look for words, ask “And what happens to the things?”",
+          "fr": "Les mots aident, mais le mieux, c'est d'imaginer ce qui se passe dans l'histoire. Si l'explication va dans ce sens, parfait ; si on cherche seulement des mots, demandez « Et qu'arrive-t-il aux choses ? ».",
+          "ar": "الكلمات تساعد، لكن الأفضل تخيّل ما يحدث في القصة. إن شُرح الأمر هكذا فممتاز؛ وإن اقتصر على البحث عن الكلمات، اسألوا «وماذا يحدث للأشياء؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "3d961a84bd14"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "3d961a84bd14"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "3d961a84bd14"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "3d961a84bd14"
+      }
+    }
+  }
+}

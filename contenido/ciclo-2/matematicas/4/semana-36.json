@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s36",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 36,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Centésimas",
+    "va": "Centèsimes",
+    "en": "Hundredths",
+    "fr": "Les centièmes",
+    "ar": "الأجزاء من مئة"
+  },
+  "objetivo": {
+    "es": "Esta semana conocen las centésimas, que ya usan sin saberlo: 1 € son 100 céntimos y 1 m son 100 cm, así que 1,25 € es 1 euro y 25 céntimos, y 1,25 m es 1 metro y 25 centímetros.",
+    "va": "Aquesta setmana coneixen les centèsimes, que ja fan servir sense saber-ho: 1 € són 100 cèntims i 1 m són 100 cm, així que 1,25 € és 1 euro i 25 cèntims, i 1,25 m és 1 metre i 25 centímetres.",
+    "en": "This week they meet hundredths (centésimas), which they already use without knowing: 1 € is 100 cents and 1 m is 100 cm, so 1,25 € is 1 euro and 25 cents, and 1,25 m is 1 metre and 25 centimetres.",
+    "fr": "Cette semaine, on découvre les centièmes (centésimas), qu'on utilise déjà sans le savoir : 1 € fait 100 centimes et 1 m fait 100 cm, donc 1,25 €, c'est 1 euro et 25 centimes, et 1,25 m, c'est 1 mètre et 25 centimètres.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى الأجزاء من مئة (centésimas)، التي يستعملونها دون أن يعرفوا: اليورو 100 سنت والمتر 100 سم، إذن 1,25 يورو هي يورو و25 سنتًا، و1,25 م هي متر و25 سنتيمترًا."
+  },
+  "comoAyudar": {
+    "es": "Aprovechad los precios y las alturas: «¿Cuánto es 2,40 € en céntimos?», «¿Y 1,32 m en centímetros?». Si se lía con la coma, pensad primero en euros y céntimos, que son más conocidos.",
+    "va": "Aprofiteu els preus i les altures: «Quant és 2,40 € en cèntims?», «I 1,32 m en centímetres?». Si s'embolica amb la coma, penseu primer en euros i cèntims, que són més coneguts.",
+    "en": "Make use of prices and heights: “What's 2,40 € in cents?”, “And 1,32 m in centimetres?” If they get muddled with the comma, think in euros and cents first, which are more familiar.",
+    "fr": "Profitez des prix et des tailles : « Combien font 2,40 € en centimes ? », « Et 1,32 m en centimètres ? ». En cas de confusion avec la virgule, pensez d'abord aux euros et aux centimes, plus familiers.",
+    "ar": "استفيدوا من الأسعار والأطوال: «كم تساوي 2,40 يورو بالسنتات؟»، «وكم 1,32 م بالسنتيمترات؟». وإذا اختلطت الفاصلة على الطفل، فكّروا أولًا باليورو والسنت، فهما مألوفان أكثر."
+  },
+  "saberes": [
+    "matematicas.fracciones.decimales",
+    "matematicas.medida.unidades",
+    "matematicas.fracciones.utilidad"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.7.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Las alturas de la familia",
+      "va": "Les altures de la família",
+      "en": "The family's heights",
+      "fr": "Les tailles de la famille",
+      "ar": "أطوال العائلة"
+    },
+    "material": [
+      {
+        "es": "Una cinta métrica",
+        "va": "Una cinta mètrica",
+        "en": "A tape measure",
+        "fr": "Un mètre ruban",
+        "ar": "شريط قياس"
+      },
+      {
+        "es": "Un libro y un lápiz para marcar",
+        "va": "Un llibre i un llapis per a marcar",
+        "en": "A book and a pencil for marking",
+        "fr": "Un livre et un crayon pour marquer",
+        "ar": "كتاب وقلم رصاص للتعليم"
+      },
+      {
+        "es": "Papel",
+        "va": "Paper",
+        "en": "Paper",
+        "fr": "Du papier",
+        "ar": "ورق"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cinta",
+        "texto": {
+          "es": "Por turnos, cada persona se pone de espaldas a una puerta. Con un libro sobre la cabeza, marcad la altura con lápiz en un papel pegado a la puerta y medid desde el suelo.",
+          "va": "Per torns, cada persona es posa d'esquena a una porta. Amb un llibre damunt del cap, marqueu l'altura amb llapis en un paper apegat a la porta i mesureu des del terra.",
+          "en": "Taking turns, each person stands with their back to a door. With a book on their head, mark the height in pencil on a piece of paper stuck to the door and measure from the floor.",
+          "fr": "Chacun son tour, chaque personne se met dos à une porte. Avec un livre sur la tête, marquez la taille au crayon sur un papier collé à la porte et mesurez depuis le sol.",
+          "ar": "بالتناوب، يقف كل شخص وظهره إلى باب. ضعوا كتابًا على رأسه، وعلّموا الطول بالقلم على ورقة ملصقة بالباب، ثم قيسوا من الأرض."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Apuntad cada altura en centímetros y también en metros con dos decimales: 132 cm son 1,32 m; 168 cm son 1,68 m.",
+          "va": "Apunteu cada altura en centímetres i també en metres amb dos decimals: 132 cm són 1,32 m; 168 cm són 1,68 m.",
+          "en": "Write each height in centimetres and also in metres with two decimal places: 132 cm is 1,32 m; 168 cm is 1,68 m.",
+          "fr": "Notez chaque taille en centimètres et aussi en mètres avec deux décimales : 132 cm, c'est 1,32 m ; 168 cm, c'est 1,68 m.",
+          "ar": "دوّنوا كل طول بالسنتيمترات وبالأمتار برقمين عشريين أيضًا: 132 سم هي 1,32 م؛ و168 سم هي 1,68 م."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Ordenad las alturas de mayor a menor. Mirad primero los metros, después las décimas y después las centésimas.",
+          "va": "Ordeneu les altures de major a menor. Mireu primer els metres, després les dècimes i després les centèsimes.",
+          "en": "Put the heights in order from tallest to shortest. Look first at the metres, then the tenths and then the hundredths.",
+          "fr": "Rangez les tailles de la plus grande à la plus petite. Regardez d'abord les mètres, puis les dixièmes, puis les centièmes.",
+          "ar": "رتّبوا الأطوال من الأكبر إلى الأصغر. انظروا أولًا إلى الأمتار، ثم الأعشار، ثم الأجزاء من مئة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "¿Cuánto más mide la persona más alta que la más baja? Calculadlo en centímetros y decidlo también en metros: {{1,68 − 1,32 = 0,36}} m.",
+          "va": "Quant més mesura la persona més alta que la més baixa? Calculeu-ho en centímetres i digueu-ho també en metres: {{1,68 − 1,32 = 0,36}} m.",
+          "en": "How much taller is the tallest person than the shortest? Work it out in centimetres and say it in metres too: {{1,68 − 1,32 = 0,36}} m.",
+          "fr": "De combien la personne la plus grande dépasse-t-elle la plus petite ? Calculez en centimètres et dites-le aussi en mètres : {{1,68 − 1,32 = 0,36}} m.",
+          "ar": "بكم يزيد طول أطول شخص على أقصرهم؟ احسبوا ذلك بالسنتيمترات وقولوه بالأمتار أيضًا: {{1,68 − 1,32 = 0,36}} م."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Medid solo dos personas y comparadlas en centímetros.",
+      "va": "Mesureu només dues persones i compareu-les en centímetres.",
+      "en": "Measure just two people and compare them in centimetres.",
+      "fr": "Mesurez seulement deux personnes et comparez-les en centimètres.",
+      "ar": "قيسوا شخصين فقط وقارنوا بينهما بالسنتيمترات."
+    },
+    "masDificil": {
+      "es": "Medid también cosas de casa (la mesa, la puerta, una silla) y meted sus medidas en la misma lista ordenada.",
+      "va": "Mesureu també coses de casa (la taula, la porta, una cadira) i poseu les seues mesures en la mateixa llista ordenada.",
+      "en": "Also measure things at home (the table, the door, a chair) and add their measurements to the same ordered list.",
+      "fr": "Mesurez aussi des choses de la maison (la table, la porte, une chaise) et ajoutez leurs mesures à la même liste rangée.",
+      "ar": "قيسوا أيضًا أشياء في البيت (الطاولة، الباب، كرسيًّا) وأضيفوا قياساتها إلى القائمة المرتّبة نفسها."
+    },
+    "paraQueSirve": {
+      "es": "Los precios y las medidas de todos los días tienen dos decimales. Verlos como euros y céntimos o metros y centímetros hace que la coma deje de dar miedo.",
+      "va": "Els preus i les mesures de tots els dies tenen dos decimals. Veure'ls com a euros i cèntims o metres i centímetres fa que la coma deixe de fer por.",
+      "en": "Everyday prices and measurements have two decimal places. Seeing them as euros and cents or metres and centimetres makes the comma much less scary.",
+      "fr": "Les prix et les mesures de tous les jours ont deux décimales. Les voir comme des euros et des centimes ou des mètres et des centimètres fait que la virgule ne fait plus peur.",
+      "ar": "للأسعار والقياسات اليومية رقمان عشريان. ورؤيتها يوروات وسنتات أو أمتارًا وسنتيمترات تجعل الفاصلة لا تخيف."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Mía mide 1,35 m. ¿Cuántos centímetros son?",
+        "va": "Mía mesura 1,35 m. Quants centímetres són?",
+        "en": "Mía is 1,35 m tall. How many centimetres is that?",
+        "fr": "Mía mesure 1,35 m. Combien de centimètres cela fait-il ?",
+        "ar": "طول ميا 1,35 م. كم سنتيمترًا هذا؟"
+      },
+      "pista": {
+        "es": "1 metro son 100 cm, y después van 35 cm más.",
+        "va": "1 metre són 100 cm, i després van 35 cm més.",
+        "en": "1 metre is 100 cm, and then there are 35 cm more.",
+        "fr": "1 mètre, c'est 100 cm, et ensuite il y a 35 cm de plus.",
+        "ar": "المتر 100 سم، ثم 35 سم أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 + 35",
+        "resultado": 135,
+        "unidad": "cm",
+        "texto": {
+          "es": "Son 135 cm.",
+          "va": "Són 135 cm.",
+          "en": "It's 135 cm.",
+          "fr": "Ça fait 135 cm.",
+          "ar": "إنها 135 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con la altura de alguien de tu familia.",
+        "va": "Inventa'n tu una amb l'altura d'algú de la teua família.",
+        "en": "Make one up with the height of someone in your family.",
+        "fr": "Invente un problème avec la taille de quelqu'un de ta famille.",
+        "ar": "لنخترع مسألة بطول أحد أفراد عائلتنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Un cuaderno cuesta 2,75 € y un lápiz, 0,60 €. ¿Cuánto cuestan juntos?",
+        "va": "Un quadern costa 2,75 € i un llapis, 0,60 €. Quant costen junts?",
+        "en": "A notebook costs 2,75 € and a pencil 0,60 €. How much do they cost together?",
+        "fr": "Un cahier coûte 2,75 € et un crayon, 0,60 €. Combien coûtent-ils ensemble ?",
+        "ar": "ثمن دفتر 2,75 يورو وثمن قلم 0,60 يورو. كم ثمنهما معًا؟"
+      },
+      "pista": {
+        "es": "Piensa en céntimos: 275 y 60.",
+        "va": "Pensa en cèntims: 275 i 60.",
+        "en": "Think in cents: 275 and 60.",
+        "fr": "Pense en centimes : 275 et 60.",
+        "ar": "لنفكّر بالسنتات: 275 و60."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "275 + 60",
+        "resultado": 335,
+        "unidad": "cent",
+        "texto": {
+          "es": "Cuestan 3,35 €: {{2,75 + 0,60 = 3,35}}.",
+          "va": "Costen 3,35 €: {{2,75 + 0,60 = 3,35}}.",
+          "en": "They cost 3,35 €: {{2,75 + 0,60 = 3,35}}.",
+          "fr": "Ils coûtent 3,35 € : {{2,75 + 0,60 = 3,35}}.",
+          "ar": "ثمنهما 3,35 يورو: {{2,75 + 0,60 = 3,35}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar dos cosas con céntimos en el precio.",
+        "va": "Inventa'n tu una de comprar dues coses amb cèntims en el preu.",
+        "en": "Make one up about buying two things whose prices have cents.",
+        "fr": "Invente un problème où l'on achète deux choses dont le prix a des centimes.",
+        "ar": "لنخترع مسألة نشتري فيها شيئين في سعرهما سنتات."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Ordena de mayor a menor estas alturas: 1,25 m, 1,52 m y 1,05 m. ¿Cuánto más mide la más alta que la más baja?",
+        "va": "Ordena de major a menor aquestes altures: 1,25 m, 1,52 m i 1,05 m. Quant més mesura la més alta que la més baixa?",
+        "en": "Put these heights in order from tallest to shortest: 1,25 m, 1,52 m and 1,05 m. How much taller is the tallest than the shortest?",
+        "fr": "Range ces tailles de la plus grande à la plus petite : 1,25 m, 1,52 m et 1,05 m. De combien la plus grande dépasse-t-elle la plus petite ?",
+        "ar": "رتّب أو رتّبي هذه الأطوال من الأكبر إلى الأصغر: 1,25 م و1,52 م و1,05 م. بكم يزيد الأطول على الأقصر؟"
+      },
+      "pista": {
+        "es": "Pásalas a centímetros: 125, 152 y 105.",
+        "va": "Passa-les a centímetres: 125, 152 i 105.",
+        "en": "Change them to centimetres: 125, 152 and 105.",
+        "fr": "Passe-les en centimètres : 125, 152 et 105.",
+        "ar": "لنحوّلها إلى سنتيمترات: 125 و152 و105."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "152 - 105",
+        "resultado": 47,
+        "unidad": "cm",
+        "texto": {
+          "es": "1,52 m, 1,25 m y 1,05 m. La más alta mide 47 cm más: {{1,52 − 1,05 = 0,47}} m.",
+          "va": "1,52 m, 1,25 m i 1,05 m. La més alta mesura 47 cm més: {{1,52 − 1,05 = 0,47}} m.",
+          "en": "1,52 m, 1,25 m and 1,05 m. The tallest is 47 cm taller: {{1,52 − 1,05 = 0,47}} m.",
+          "fr": "1,52 m, 1,25 m et 1,05 m. La plus grande mesure 47 cm de plus : {{1,52 − 1,05 = 0,47}} m.",
+          "ar": "1,52 م ثم 1,25 م ثم 1,05 م. والأطول يزيد بـ47 سم: {{1,52 − 1,05 = 0,47}} م."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una lista de alturas o de precios para ordenar.",
+        "va": "Inventa't una llista d'altures o de preus per a ordenar.",
+        "en": "Make up a list of heights or prices to put in order.",
+        "fr": "Invente une liste de tailles ou de prix à ranger.",
+        "ar": "لنخترع قائمة أطوال أو أسعار لترتيبها."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 35,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: ¿cuántos centímetros son 0,6 m?",
+        "va": "Per a recordar: quants centímetres són 0,6 m?",
+        "en": "Let's remember: how many centimetres is 0,6 m?",
+        "fr": "Pour se souvenir : combien de centimètres font 0,6 m ?",
+        "ar": "لنتذكّر: كم سنتيمترًا في 0,6 م؟"
+      },
+      "pista": {
+        "es": "Cada décima de metro son 10 cm.",
+        "va": "Cada dècima de metre són 10 cm.",
+        "en": "Each tenth of a metre is 10 cm.",
+        "fr": "Chaque dixième de mètre, c'est 10 cm.",
+        "ar": "كل عُشر متر 10 سم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 10",
+        "resultado": 60,
+        "unidad": "cm",
+        "texto": {
+          "es": "Son 60 cm.",
+          "va": "Són 60 cm.",
+          "en": "It's 60 cm.",
+          "fr": "Ça fait 60 cm.",
+          "ar": "إنها 60 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de pasar décimas de metro a centímetros.",
+        "va": "Inventa'n tu una de passar dècimes de metre a centímetres.",
+        "en": "Make one up about changing tenths of a metre into centimetres.",
+        "fr": "Invente un problème où l'on passe des dixièmes de mètre aux centimètres.",
+        "ar": "لنخترع مسألة نحوّل فيها أعشار المتر إلى سنتيمترات."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿En qué se parecen 1,25 € y 1,25 m? Explícamelo.",
+        "va": "En què s'assemblen 1,25 € i 1,25 m? Explica-m'ho.",
+        "en": "How are 1,25 € and 1,25 m alike? Explain it to me.",
+        "fr": "En quoi 1,25 € et 1,25 m se ressemblent-ils ? Explique-le-moi.",
+        "ar": "بماذا تتشابه 1,25 يورو و1,25 م؟ اشرح لي أو اشرحي لي."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántos céntimos tiene un euro? ¿Y cuántos centímetros un metro?»",
+        "va": "Si no sap per on començar: «Quants cèntims té un euro? I quants centímetres un metre?»",
+        "en": "If they don't know where to start: “How many cents are in a euro? And how many centimetres in a metre?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de centimes y a-t-il dans un euro ? Et combien de centimètres dans un mètre ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم سنتًا في اليورو؟ وكم سنتيمترًا في المتر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea es «los dos tienen 1 entero y 25 centésimas». Si lo dice con euros y metros, ya está; la palabra «centésima» llegará.",
+          "va": "La idea és «tots dos tenen 1 sencer i 25 centèsimes». Si ho diu amb euros i metres, ja està; la paraula «centèsima» arribarà.",
+          "en": "The idea is “both have 1 whole and 25 hundredths”. If they say it with euros and metres, that's it; the word “hundredth” will come.",
+          "fr": "L'idée, c'est « les deux ont 1 entier et 25 centièmes ». Si c'est dit avec des euros et des mètres, c'est bon ; le mot « centième » viendra.",
+          "ar": "الفكرة هي «في الاثنين واحد صحيح و25 جزءًا من مئة». وإن قيلت باليورو والمتر فهذا يكفي؛ وستأتي الكلمة لاحقًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "4ff20f060894"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "4ff20f060894"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "4ff20f060894"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "4ff20f060894"
+      }
+    }
+  }
+}

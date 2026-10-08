@@ -1,0 +1,333 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s38",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 38,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Seguro, posible o imposible?",
+    "va": "Segur, possible o impossible?",
+    "en": "Certain, possible or impossible?",
+    "fr": "Sûr, possible ou impossible ?",
+    "ar": "مؤكّد أم ممكن أم مستحيل؟"
+  },
+  "objetivo": {
+    "es": "Esta semana empiezan con el azar: antes de que pase algo, deciden si es seguro, posible o imposible. Por ejemplo, con un dado es imposible sacar un 7 y es posible sacar un 3.",
+    "va": "Aquesta setmana comencen amb l'atzar: abans que passe alguna cosa, decidixen si és segur, possible o impossible (seguro, posible o imposible). Per exemple, amb un dau és impossible traure un 7 i és possible traure un 3.",
+    "en": "This week they start with chance: before something happens, they decide whether it's certain, possible or impossible (seguro, posible o imposible). For example, with a die it's impossible to roll a 7 and possible to roll a 3.",
+    "fr": "Cette semaine, on commence avec le hasard : avant que quelque chose arrive, on décide si c'est sûr, possible ou impossible (seguro, posible o imposible). Par exemple, avec un dé, il est impossible de faire 7 et possible de faire 3.",
+    "ar": "هذا الأسبوع يبدأ الأطفال مع الصدفة: قبل أن يحدث شيء، يقرّرون هل هو مؤكّد أم ممكن أم مستحيل (seguro, posible o imposible). مثلًا، بالنرد يستحيل الحصول على 7 ويمكن الحصول على 3."
+  },
+  "comoAyudar": {
+    "es": "El azar trae emociones: alegría si sale lo que queríamos y enfado si no. Habladlo: «¿Cómo te sientes cuando algo es posible pero no seguro?». No pasa nada por no acertar.",
+    "va": "L'atzar porta emocions: alegria si ix el que volíem i enuig si no. Parleu-ne: «Com et sents quan alguna cosa és possible però no segura?». No passa res per no encertar.",
+    "en": "Chance brings feelings: happiness if we get what we wanted and annoyance if we don't. Talk about it: “How do you feel when something is possible but not certain?” It's fine not to guess right.",
+    "fr": "Le hasard apporte des émotions : de la joie si on obtient ce qu'on voulait et de l'agacement sinon. Parlez-en : « Qu'est-ce que tu ressens quand quelque chose est possible mais pas sûr ? ». Ce n'est pas grave de ne pas deviner.",
+    "ar": "الصدفة تجلب مشاعر: فرحًا إن خرج ما أردناه وانزعاجًا إن لم يخرج. تحدّثوا عن ذلك: «بماذا نشعر عندما يكون شيء ممكنًا لكنه غير مؤكّد؟». لا بأس إن لم نُصب."
+  },
+  "saberes": [
+    "matematicas.probabilidad.intuitiva",
+    "matematicas.probabilidad.aleatorio",
+    "matematicas.probabilidad.emociones"
+  ],
+  "criterios": [
+    "matematicas.c2.3.4",
+    "matematicas.c2.7.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La bolsa de calcetines",
+      "va": "La bossa de calcetins",
+      "en": "The sock bag",
+      "fr": "Le sac de chaussettes",
+      "ar": "كيس الجوارب"
+    },
+    "material": [
+      {
+        "es": "Una bolsa de tela o una funda de almohada",
+        "va": "Una bossa de tela o una funda de coixí",
+        "en": "A cloth bag or a pillowcase",
+        "fr": "Un sac en tissu ou une taie d'oreiller",
+        "ar": "كيس من القماش أو غطاء وسادة"
+      },
+      {
+        "es": "Calcetines de varios colores",
+        "va": "Calcetins de diversos colors",
+        "en": "Socks of different colours",
+        "fr": "Des chaussettes de plusieurs couleurs",
+        "ar": "جوارب بألوان مختلفة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "calcetin",
+        "texto": {
+          "es": "Meted en la bolsa 3 calcetines rojos y ninguno de otro color. Antes de sacar uno sin mirar: ¿es seguro, posible o imposible que salga rojo?",
+          "va": "Poseu en la bossa 3 calcetins rojos i cap d'un altre color. Abans de traure'n un sense mirar: és segur, possible o impossible que isca roig?",
+          "en": "Put 3 red socks in the bag and none of any other colour. Before taking one out without looking: is it certain, possible or impossible that it's red?",
+          "fr": "Mettez dans le sac 3 chaussettes rouges et aucune d'une autre couleur. Avant d'en sortir une sans regarder : est-il sûr, possible ou impossible qu'elle soit rouge ?",
+          "ar": "ضعوا في الكيس 3 جوارب حمراء ولا شيء من لون آخر. قبل سحب جورب دون نظر: هل من المؤكّد أم الممكن أم المستحيل أن يكون أحمر؟"
+        }
+      },
+      {
+        "pictograma": "bolsa",
+        "texto": {
+          "es": "Ahora cambiad: 2 rojos y 2 azules. ¿Es seguro que salga rojo? ¿Es posible? ¿Y verde?",
+          "va": "Ara canvieu: 2 rojos i 2 blaus. És segur que isca roig? És possible? I verd?",
+          "en": "Now change it: 2 red and 2 blue. Is it certain to be red? Is it possible? And green?",
+          "fr": "Maintenant, changez : 2 rouges et 2 bleues. Est-il sûr qu'elle soit rouge ? Est-ce possible ? Et verte ?",
+          "ar": "الآن غيّروا: جوربان أحمران وجوربان أزرقان. هل من المؤكّد أن يخرج أحمر؟ هل هو ممكن؟ وماذا عن الأخضر؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Sacad un calcetín sin mirar, apuntad el color y devolvedlo a la bolsa. Repetidlo 10 veces. ¿Qué ha pasado?",
+          "va": "Traieu un calcetí sense mirar, apunteu el color i torneu-lo a la bossa. Repetiu-ho 10 vegades. Què ha passat?",
+          "en": "Take out a sock without looking, write down the colour and put it back in the bag. Do it 10 times. What happened?",
+          "fr": "Sortez une chaussette sans regarder, notez la couleur et remettez-la dans le sac. Recommencez 10 fois. Que s'est-il passé ?",
+          "ar": "اسحبوا جوربًا دون نظر، ودوّنوا لونه، وأعيدوه إلى الكيس. كرّروا ذلك 10 مرات. ماذا حدث؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, una persona prepara la bolsa en secreto y dice una frase: «Es imposible que salga azul». La otra saca calcetines para comprobar si era verdad.",
+          "va": "Per torns, una persona prepara la bossa en secret i diu una frase: «És impossible que isca blau». L'altra trau calcetins per a comprovar si era veritat.",
+          "en": "Taking turns, one person secretly fills the bag and says a sentence: “It's impossible to get blue.” The other takes socks out to check if it was true.",
+          "fr": "Chacun son tour, une personne prépare le sac en secret et dit une phrase : « C'est impossible qu'elle soit bleue ». L'autre sort des chaussettes pour vérifier si c'était vrai.",
+          "ar": "بالتناوب، يجهّز شخص الكيس سرًّا ويقول جملة: «من المستحيل أن يخرج أزرق». ويسحب الآخر جوارب ليتحقّق من صحّتها."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos colores y mirad la bolsa abierta antes de decidir.",
+      "va": "Feu servir només dos colors i mireu la bossa oberta abans de decidir.",
+      "en": "Use only two colours and look into the open bag before deciding.",
+      "fr": "Utilisez seulement deux couleurs et regardez le sac ouvert avant de décider.",
+      "ar": "استعملوا لونين فقط وانظروا إلى الكيس مفتوحًا قبل أن تقرّروا."
+    },
+    "masDificil": {
+      "es": "Meted 5 rojos y 1 azul. ¿Qué color es más fácil que salga? Sacad 12 veces y comprobad si salen más rojos.",
+      "va": "Poseu 5 rojos i 1 blau. Quin color és més fàcil que isca? Traieu-ne 12 vegades i comproveu si n'ixen més de rojos.",
+      "en": "Put in 5 red and 1 blue. Which colour is more likely to come out? Pick 12 times and check whether more reds come out.",
+      "fr": "Mettez 5 rouges et 1 bleue. Quelle couleur a le plus de chances de sortir ? Tirez 12 fois et vérifiez s'il sort plus de rouges.",
+      "ar": "ضعوا 5 جوارب حمراء وجوربًا أزرق. أي لون أسهل خروجًا؟ اسحبوا 12 مرة وتحقّقوا هل يخرج الأحمر أكثر."
+    },
+    "paraQueSirve": {
+      "es": "Pensar en lo seguro, lo posible y lo imposible ayuda a tomar decisiones y a entender los juegos de azar. Y hablar de cómo nos sentimos cuando no sale lo que queríamos también se aprende.",
+      "va": "Pensar en el que és segur, possible i impossible ajuda a prendre decisions i a entendre els jocs d'atzar. I parlar de com ens sentim quan no ix el que volíem també s'aprén.",
+      "en": "Thinking about what's certain, possible and impossible helps with making decisions and understanding games of chance. And talking about how we feel when we don't get what we wanted is something we learn too.",
+      "fr": "Penser à ce qui est sûr, possible et impossible aide à prendre des décisions et à comprendre les jeux de hasard. Et parler de ce qu'on ressent quand on n'obtient pas ce qu'on voulait, ça s'apprend aussi.",
+      "ar": "التفكير في المؤكّد والممكن والمستحيل يساعد على اتّخاذ القرارات وفهم ألعاب الحظ. والحديث عمّا نشعر به حين لا يخرج ما أردناه أمر نتعلّمه أيضًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "En una bolsa hay 3 calcetines rojos y ninguno azul. Si sacas uno sin mirar, ¿es seguro, posible o imposible que salga azul?",
+        "va": "En una bossa hi ha 3 calcetins rojos i cap de blau. Si en traus un sense mirar, és segur, possible o impossible que isca blau?",
+        "en": "In a bag there are 3 red socks and no blue ones. If you take one out without looking, is it certain, possible or impossible that it's blue?",
+        "fr": "Dans un sac, il y a 3 chaussettes rouges et aucune bleue. Si tu en sors une sans regarder, est-il sûr, possible ou impossible qu'elle soit bleue ?",
+        "ar": "في كيس 3 جوارب حمراء ولا يوجد أزرق. إذا سحبنا جوربًا دون نظر، هل من المؤكّد أم الممكن أم المستحيل أن يكون أزرق؟"
+      },
+      "pista": {
+        "es": "¿Hay algún calcetín azul en la bolsa?",
+        "va": "Hi ha algun calcetí blau en la bossa?",
+        "en": "Is there any blue sock in the bag?",
+        "fr": "Y a-t-il une chaussette bleue dans le sac ?",
+        "ar": "هل في الكيس جورب أزرق؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Imposible: no hay ninguno azul. Y que salga rojo es seguro.",
+          "va": "Impossible: no n'hi ha cap de blau. I que isca roig és segur.",
+          "en": "Impossible: there are no blue ones. And getting red is certain.",
+          "fr": "Impossible : il n'y en a aucune bleue. Et qu'elle soit rouge, c'est sûr.",
+          "ar": "مستحيل: لا يوجد جورب أزرق. وخروج الأحمر مؤكّد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una bolsa en la que sea seguro sacar algo.",
+        "va": "Inventa't una bossa en què siga segur traure alguna cosa.",
+        "en": "Make up a bag where you're certain to get something.",
+        "fr": "Invente un sac où il est sûr de tirer quelque chose.",
+        "ar": "لنخترع كيسًا يكون فيه سحب شيء ما مؤكّدًا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Tiras un dado normal, con números del 1 al 6. ¿Es seguro, posible o imposible que salga un 7? ¿Y un 4?",
+        "va": "Tires un dau normal, amb números de l'1 al 6. És segur, possible o impossible que isca un 7? I un 4?",
+        "en": "You roll a normal die, with numbers from 1 to 6. Is rolling a 7 certain, possible or impossible? And a 4?",
+        "fr": "Tu lances un dé normal, avec des nombres de 1 à 6. Est-il sûr, possible ou impossible de faire 7 ? Et 4 ?",
+        "ar": "نرمي نردًا عاديًا عليه الأعداد من 1 إلى 6. هل الحصول على 7 مؤكّد أم ممكن أم مستحيل؟ وماذا عن 4؟"
+      },
+      "pista": {
+        "es": "Mira qué números tiene el dado.",
+        "va": "Mira quins números té el dau.",
+        "en": "Look at which numbers the die has.",
+        "fr": "Regarde quels nombres il y a sur le dé.",
+        "ar": "لننظر إلى الأعداد التي على النرد."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Un 7 es imposible, porque no está en el dado. Un 4 es posible, pero no seguro.",
+          "va": "Un 7 és impossible, perquè no està en el dau. Un 4 és possible, però no segur.",
+          "en": "A 7 is impossible, because it isn't on the die. A 4 is possible, but not certain.",
+          "fr": "Un 7 est impossible, parce qu'il n'est pas sur le dé. Un 4 est possible, mais pas sûr.",
+          "ar": "الحصول على 7 مستحيل لأنه ليس على النرد. والحصول على 4 ممكن لكنه غير مؤكّد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿seguro, posible o imposible?» con un dado o una moneda.",
+        "va": "Inventa't una pregunta de «segur, possible o impossible?» amb un dau o una moneda.",
+        "en": "Make up a “certain, possible or impossible?” question with a die or a coin.",
+        "fr": "Invente une question « sûr, possible ou impossible ? » avec un dé ou une pièce.",
+        "ar": "لنخترع سؤال «مؤكّد أم ممكن أم مستحيل؟» بنرد أو بقطعة نقدية."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la bolsa hay 4 calcetines rojos y 2 azules. ¿Cuántos calcetines hay? ¿Qué color es más fácil que salga?",
+        "va": "En la bossa hi ha 4 calcetins rojos i 2 blaus. Quants calcetins hi ha? Quin color és més fàcil que isca?",
+        "en": "In the bag there are 4 red socks and 2 blue ones. How many socks are there? Which colour is more likely to come out?",
+        "fr": "Dans le sac, il y a 4 chaussettes rouges et 2 bleues. Combien y a-t-il de chaussettes ? Quelle couleur a le plus de chances de sortir ?",
+        "ar": "في الكيس 4 جوارب حمراء و2 زرقاء. كم جوربًا هناك؟ وأي لون أسهل خروجًا؟"
+      },
+      "pista": {
+        "es": "¿De qué color hay más?",
+        "va": "De quin color n'hi ha més?",
+        "en": "Which colour is there more of?",
+        "fr": "De quelle couleur y en a-t-il le plus ?",
+        "ar": "من أي لون هناك أكثر؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 2",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 6 calcetines. Es más fácil que salga rojo, porque hay más rojos, pero azul también es posible.",
+          "va": "Hi ha 6 calcetins. És més fàcil que isca roig, perquè n'hi ha més de rojos, però blau també és possible.",
+          "en": "There are 6 socks. Red is more likely, because there are more red ones, but blue is possible too.",
+          "fr": "Il y a 6 chaussettes. Il est plus probable qu'elle soit rouge, parce qu'il y en a plus, mais bleue est possible aussi.",
+          "ar": "هناك 6 جوارب. خروج الأحمر أسهل لأن الأحمر أكثر، لكن الأزرق ممكن أيضًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una bolsa en la que un color sea mucho más fácil que otro.",
+        "va": "Inventa't una bossa en què un color siga molt més fàcil que un altre.",
+        "en": "Make up a bag where one colour is much more likely than another.",
+        "fr": "Invente un sac où une couleur a beaucoup plus de chances qu'une autre.",
+        "ar": "لنخترع كيسًا يكون فيه خروج لون أسهل بكثير من لون آخر."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 37,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: ¿cuántos vasos de 250 ml se llenan con medio litro?",
+        "va": "Per a recordar: quants gots de 250 ml s'omplin amb mig litre?",
+        "en": "Let's remember: how many 250 ml glasses can you fill with half a litre?",
+        "fr": "Pour se souvenir : combien de verres de 250 ml remplit-on avec un demi-litre ?",
+        "ar": "لنتذكّر: كم كوبًا سعته 250 مل يمتلئ بنصف لتر؟"
+      },
+      "pista": {
+        "es": "Medio litro son 500 ml.",
+        "va": "Mig litre són 500 ml.",
+        "en": "Half a litre is 500 ml.",
+        "fr": "Un demi-litre, c'est 500 ml.",
+        "ar": "نصف اللتر 500 مل."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "500 : 250",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se llenan 2 vasos.",
+          "va": "S'omplin 2 gots.",
+          "en": "2 glasses are filled.",
+          "fr": "On remplit 2 verres.",
+          "ar": "يمتلئ كوبان."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con una botella y vasos de la cocina.",
+        "va": "Inventa'n tu una amb una botella i gots de la cuina.",
+        "en": "Make one up with a bottle and glasses from the kitchen.",
+        "fr": "Invente un problème avec une bouteille et des verres de la cuisine.",
+        "ar": "لنخترع مسألة بزجاجة وأكواب من المطبخ."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Dime algo que sea imposible que pase mañana, algo posible y algo seguro. Explícame por qué.",
+        "va": "Digues-me alguna cosa que siga impossible que passe demà, alguna cosa possible i alguna cosa segura. Explica'm per què.",
+        "en": "Tell me something that's impossible tomorrow, something possible and something certain. Explain why.",
+        "fr": "Dis-moi quelque chose d'impossible pour demain, quelque chose de possible et quelque chose de sûr. Explique-moi pourquoi.",
+        "ar": "لنذكر شيئًا مستحيلًا غدًا، وشيئًا ممكنًا، وشيئًا مؤكّدًا. اشرح لي أو اشرحي لي لماذا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Es posible que mañana llueva? ¿Es seguro que mañana sea…?»",
+        "va": "Si no sap per on començar: «És possible que demà plega? És segur que demà siga…?»",
+        "en": "If they don't know where to start: “Is it possible it'll rain tomorrow? Is it certain that tomorrow will be…?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Est-il possible qu'il pleuve demain ? Est-il sûr que demain sera… ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل من الممكن أن تمطر غدًا؟ وهل من المؤكّد أن يكون غدًا…؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier ejemplo con sentido vale («seguro que mañana es jueves», «posible que llueva»). Si alguno no encaja, preguntad «¿estás segura o seguro?» y hablad de ello.",
+          "va": "Qualsevol exemple amb sentit val («segur que demà és dijous», «possible que plega»). Si algun no encaixa, pregunteu «n'estàs segura o segur?» i parleu-ne.",
+          "en": "Any sensible example is fine (“tomorrow is certainly Thursday”, “it might rain”). If one doesn't fit, ask “Are you sure?” and talk about it.",
+          "fr": "Tout exemple sensé convient (« c'est sûr que demain, c'est jeudi », « c'est possible qu'il pleuve »). Si un exemple ne colle pas, demandez « Tu en es sûr ou sûre ? » et parlez-en.",
+          "ar": "أي مثال معقول يصلح («من المؤكّد أن غدًا الخميس»، «من الممكن أن تمطر»). وإن لم يناسب مثال، اسألوا «هل أنت متأكّد؟» وتحدّثوا في الأمر."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "00a735f67f86"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "00a735f67f86"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "00a735f67f86"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "00a735f67f86"
+      }
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s39",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 39,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué operación toca?",
+    "va": "Quina operació toca?",
+    "en": "Which operation is it?",
+    "fr": "Quelle opération utiliser ?",
+    "ar": "أي عملية نستعمل؟"
+  },
+  "objetivo": {
+    "es": "Esta semana mezclan problemas de todo el curso, con números naturales y con decimales, y antes de calcular deciden qué operación toca y explican por qué.",
+    "va": "Aquesta setmana mesclen problemes de tot el curs, amb nombres naturals i amb decimals, i abans de calcular decidixen quina operació toca i expliquen per què.",
+    "en": "This week they mix problems from the whole year, with whole numbers and decimals, and before calculating they decide which operation it is and explain why.",
+    "fr": "Cette semaine, on mélange des problèmes de toute l'année, avec des nombres entiers et des décimaux, et avant de calculer on décide quelle opération utiliser et on explique pourquoi.",
+    "ar": "هذا الأسبوع يمزج الأطفال مسائل من السنة كلها، بأعداد طبيعية وعشرية، وقبل الحساب يقرّرون أي عملية نستعمل ويشرحون السبب."
+  },
+  "comoAyudar": {
+    "es": "Pedid siempre el «por qué» antes de la cuenta: «¿Por qué es de multiplicar?». Si la explicación tiene sentido, la cuenta ya es lo de menos.",
+    "va": "Demaneu sempre el «per què» abans del compte: «Per què és de multiplicar?». Si l'explicació té sentit, el compte ja és el de menys.",
+    "en": "Always ask for the “why” before the sum: “Why is it a multiplication?” If the explanation makes sense, the sum hardly matters.",
+    "fr": "Demandez toujours le « pourquoi » avant le calcul : « Pourquoi c'est une multiplication ? ». Si l'explication a du sens, le calcul compte moins.",
+    "ar": "اطلبوا دائمًا «لماذا» قبل الحساب: «لماذا هي مسألة ضرب؟». إذا كان الشرح منطقيًا، فالحساب أمر ثانوي."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c2.1.1",
+    "matematicas.c2.1.2",
+    "matematicas.c2.6.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Clasificar antes de calcular",
+      "va": "Classificar abans de calcular",
+      "en": "Sort before you calculate",
+      "fr": "Classer avant de calculer",
+      "ar": "نصنّف قبل أن نحسب"
+    },
+    "material": [
+      {
+        "es": "Papelitos para escribir problemas cortos",
+        "va": "Paperets per a escriure problemes curts",
+        "en": "Slips of paper to write short problems on",
+        "fr": "Des petits papiers pour écrire des problèmes courts",
+        "ar": "قصاصات ورق لكتابة مسائل قصيرة"
+      },
+      {
+        "es": "Un lápiz",
+        "va": "Un llapis",
+        "en": "A pencil",
+        "fr": "Un crayon",
+        "ar": "قلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Escribid 8 problemas cortos en papelitos, algunos con decimales: «Un zumo cuesta 1,20 € y compro 3», «Reparto 6 m de cinta en 4 trozos», «Tenía 50 € y gasto 12,75 €»…",
+          "va": "Escriviu 8 problemes curts en paperets, alguns amb decimals: «Un suc costa 1,20 € i en compre 3», «Repartisc 6 m de cinta en 4 trossos», «Tenia 50 € i gaste 12,75 €»…",
+          "en": "Write 8 short problems on slips, some with decimals: “A juice costs 1,20 € and I buy 3”, “I split 6 m of ribbon into 4 pieces”, “I had 50 € and spend 12,75 €”…",
+          "fr": "Écrivez 8 problèmes courts sur des petits papiers, certains avec des décimaux : « Un jus coûte 1,20 € et j'en achète 3 », « Je partage 6 m de ruban en 4 morceaux », « J'avais 50 € et je dépense 12,75 € »…",
+          "ar": "اكتبوا 8 مسائل قصيرة على قصاصات، بعضها بأعداد عشرية: «ثمن عصير 1,20 يورو واشتريت 3»، «أقسم 6 م من الشريط إلى 4 قطع»، «كان معي 50 يورو وأنفقت 12,75 يورو»…"
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Poned cuatro carteles en la mesa: «sumar», «restar», «multiplicar» y «dividir».",
+          "va": "Poseu quatre cartells en la taula: «sumar», «restar», «multiplicar» i «dividir».",
+          "en": "Put four signs on the table: “add”, “subtract”, “multiply” and “divide”.",
+          "fr": "Posez quatre affichettes sur la table : « additionner », « soustraire », « multiplier » et « diviser ».",
+          "ar": "ضعوا على الطاولة أربع لافتات: «جمع»، «طرح»، «ضرب»، «قسمة»."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, cada persona coge un papelito, lo lee, lo pone en un montón y explica por qué: «Es de multiplicar porque se repite 3 veces lo mismo».",
+          "va": "Per torns, cada persona agafa un paperet, el llig, el posa en un munt i explica per què: «És de multiplicar perquè es repetix 3 vegades el mateix».",
+          "en": "Taking turns, each person picks a slip, reads it, puts it on a pile and explains why: “It's multiplying because the same thing is repeated 3 times.”",
+          "fr": "Chacun son tour, chaque personne prend un papier, le lit, le pose sur un tas et explique pourquoi : « C'est une multiplication parce que la même chose se répète 3 fois ».",
+          "ar": "بالتناوب، يأخذ كل شخص قصاصة ويقرؤها ويضعها في كومة ويشرح السبب: «إنها ضرب لأن الشيء نفسه يتكرّر 3 مرات»."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Cuando estén todos clasificados, resolved uno de cada montón: {{1,20 × 3 = 3,60}}, {{50 − 12,75 = 37,25}}…",
+          "va": "Quan estiguen tots classificats, resoleu-ne un de cada munt: {{1,20 × 3 = 3,60}}, {{50 − 12,75 = 37,25}}…",
+          "en": "When they're all sorted, solve one from each pile: {{1,20 × 3 = 3,60}}, {{50 − 12,75 = 37,25}}…",
+          "fr": "Quand tout est classé, résolvez un problème de chaque tas : {{1,20 × 3 = 3,60}}, {{50 − 12,75 = 37,25}}…",
+          "ar": "عندما تُصنّف كلها، حلّوا مسألة من كل كومة: {{1,20 × 3 = 3,60}}، {{50 − 12,75 = 37,25}}…"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo números naturales y dos montones: «sumar» y «restar».",
+      "va": "Feu servir només nombres naturals i dos munts: «sumar» i «restar».",
+      "en": "Use only whole numbers and two piles: “add” and “subtract”.",
+      "fr": "Utilisez seulement des nombres entiers et deux tas : « additionner » et « soustraire ».",
+      "ar": "استعملوا أعدادًا طبيعية فقط وكومتين: «جمع» و«طرح»."
+    },
+    "masDificil": {
+      "es": "Meted problemas de dos pasos y problemas con un dato que sobra. ¿En qué montón van?",
+      "va": "Poseu problemes de dos passos i problemes amb una dada que sobra. En quin munt van?",
+      "en": "Include two-step problems and problems with an extra piece of information. Which pile do they go on?",
+      "fr": "Ajoutez des problèmes en deux étapes et des problèmes avec une donnée inutile. Sur quel tas vont-ils ?",
+      "ar": "أضيفوا مسائل من خطوتين ومسائل فيها معطى زائد. في أي كومة توضع؟"
+    },
+    "paraQueSirve": {
+      "es": "Elegir la operación y explicar por qué es el corazón de resolver problemas. Con decimales es igual que con naturales: lo que cambia es la cuenta, no la idea.",
+      "va": "Triar l'operació i explicar per què és el cor de resoldre problemes. Amb decimals és igual que amb naturals: el que canvia és el compte, no la idea.",
+      "en": "Choosing the operation and explaining why is the heart of problem solving. With decimals it's the same as with whole numbers: the sum changes, not the idea.",
+      "fr": "Choisir l'opération et expliquer pourquoi, c'est le cœur de la résolution de problèmes. Avec des décimaux, c'est pareil qu'avec des entiers : c'est le calcul qui change, pas l'idée.",
+      "ar": "اختيار العملية وشرح السبب هو جوهر حلّ المسائل. ومع الأعداد العشرية الأمر كما مع الطبيعية: يتغيّر الحساب لا الفكرة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Compras una camiseta de 12,50 € y unos calcetines de 3,75 €. ¿Cuánto pagas?",
+        "va": "Compres una samarreta de 12,50 € i uns calcetins de 3,75 €. Quant pagues?",
+        "en": "You buy a T-shirt for 12,50 € and socks for 3,75 €. How much do you pay?",
+        "fr": "Tu achètes un tee-shirt à 12,50 € et des chaussettes à 3,75 €. Combien paies-tu ?",
+        "ar": "اشترينا قميصًا بـ12,50 يورو وجوارب بـ3,75 يورو. كم ندفع؟"
+      },
+      "pista": {
+        "es": "¿Se junta, se quita, se repite o se reparte? Piensa en céntimos.",
+        "va": "S'ajunta, es lleva, es repetix o es repartix? Pensa en cèntims.",
+        "en": "Is it putting together, taking away, repeating or sharing? Think in cents.",
+        "fr": "On réunit, on enlève, on répète ou on partage ? Pense en centimes.",
+        "ar": "هل نضمّ أم نأخذ أم نكرّر أم نوزّع؟ لنفكّر بالسنتات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1250 + 375",
+        "resultado": 1625,
+        "unidad": "cent",
+        "texto": {
+          "es": "Es de sumar: pagas 16,25 €, {{12,50 + 3,75 = 16,25}}.",
+          "va": "És de sumar: pagues 16,25 €, {{12,50 + 3,75 = 16,25}}.",
+          "en": "It's adding: you pay 16,25 €, {{12,50 + 3,75 = 16,25}}.",
+          "fr": "C'est une addition : tu paies 16,25 €, {{12,50 + 3,75 = 16,25}}.",
+          "ar": "إنها جمع: ندفع 16,25 يورو، {{12,50 + 3,75 = 16,25}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema de sumar precios con céntimos.",
+        "va": "Inventa't un problema de sumar preus amb cèntims.",
+        "en": "Make up a problem adding prices with cents.",
+        "fr": "Invente un problème où l'on additionne des prix avec des centimes.",
+        "ar": "لنخترع مسألة نجمع فيها أسعارًا فيها سنتات."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Un rollo de 6 m de cinta se corta en 4 trozos iguales. ¿Cuánto mide cada trozo?",
+        "va": "Un rotlle de 6 m de cinta es talla en 4 trossos iguals. Quant mesura cada tros?",
+        "en": "A 6 m roll of ribbon is cut into 4 equal pieces. How long is each piece?",
+        "fr": "Un rouleau de 6 m de ruban est coupé en 4 morceaux égaux. Combien mesure chaque morceau ?",
+        "ar": "لفّة شريط طولها 6 م قُطعت إلى 4 قطع متساوية. كم طول كل قطعة؟"
+      },
+      "pista": {
+        "es": "Pásalo a centímetros: 600 cm entre 4.",
+        "va": "Passa-ho a centímetres: 600 cm entre 4.",
+        "en": "Change it to centimetres: 600 cm divided by 4.",
+        "fr": "Passe en centimètres : 600 cm divisés par 4.",
+        "ar": "لنحوّلها إلى سنتيمترات: 600 سم على 4."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "600 : 4",
+        "resultado": 150,
+        "unidad": "cm",
+        "texto": {
+          "es": "Es de dividir: cada trozo mide 150 cm, es decir, 1,5 m.",
+          "va": "És de dividir: cada tros mesura 150 cm, és a dir, 1,5 m.",
+          "en": "It's dividing: each piece is 150 cm, that is, 1,5 m.",
+          "fr": "C'est une division : chaque morceau mesure 150 cm, c'est-à-dire 1,5 m.",
+          "ar": "إنها قسمة: طول كل قطعة 150 سم، أي 1,5 م."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema de repartir una medida en trozos iguales.",
+        "va": "Inventa't un problema de repartir una mesura en trossos iguals.",
+        "en": "Make up a problem about splitting a measurement into equal pieces.",
+        "fr": "Invente un problème où l'on partage une mesure en morceaux égaux.",
+        "ar": "لنخترع مسألة نقسم فيها طولًا إلى قطع متساوية."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un bote de pintura cuesta 4,50 €. ¿Cuánto cuestan 3 botes?",
+        "va": "Un pot de pintura costa 4,50 €. Quant costen 3 pots?",
+        "en": "A pot of paint costs 4,50 €. How much do 3 pots cost?",
+        "fr": "Un pot de peinture coûte 4,50 €. Combien coûtent 3 pots ?",
+        "ar": "ثمن علبة طلاء 4,50 يورو. كم ثمن 3 علب؟"
+      },
+      "pista": {
+        "es": "Se repite 3 veces el mismo precio: 4 € y 50 céntimos, tres veces.",
+        "va": "Es repetix 3 vegades el mateix preu: 4 € i 50 cèntims, tres vegades.",
+        "en": "The same price is repeated 3 times: 4 € and 50 cents, three times.",
+        "fr": "Le même prix se répète 3 fois : 4 € et 50 centimes, trois fois.",
+        "ar": "يتكرّر السعر نفسه 3 مرات: 4 يورو و50 سنتًا، ثلاث مرات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "450 × 3",
+        "resultado": 1350,
+        "unidad": "cent",
+        "texto": {
+          "es": "Es de multiplicar: cuestan 13,50 €, {{4,50 × 3 = 13,50}}.",
+          "va": "És de multiplicar: costen 13,50 €, {{4,50 × 3 = 13,50}}.",
+          "en": "It's multiplying: they cost 13,50 €, {{4,50 × 3 = 13,50}}.",
+          "fr": "C'est une multiplication : ils coûtent 13,50 €, {{4,50 × 3 = 13,50}}.",
+          "ar": "إنها ضرب: ثمنها 13,50 يورو، {{4,50 × 3 = 13,50}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema de multiplicar con un precio con céntimos.",
+        "va": "Inventa't un problema de multiplicar amb un preu amb cèntims.",
+        "en": "Make up a multiplication problem with a price that has cents.",
+        "fr": "Invente un problème de multiplication avec un prix qui a des centimes.",
+        "ar": "لنخترع مسألة ضرب بسعر فيه سنتات."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 38,
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Para recordar: con dos dados, ¿qué es imposible: sacar suma 2, suma 12 o suma 13?",
+        "va": "Per a recordar: amb dos daus, què és impossible: traure suma 2, suma 12 o suma 13?",
+        "en": "Let's remember: with two dice, which is impossible: a sum of 2, 12 or 13?",
+        "fr": "Pour se souvenir : avec deux dés, qu'est-ce qui est impossible : une somme de 2, de 12 ou de 13 ?",
+        "ar": "لنتذكّر: بنردين، أيّها مستحيل: المجموع 2 أم 12 أم 13؟"
+      },
+      "pista": {
+        "es": "¿Cuál es la suma más grande que puede salir?",
+        "va": "Quina és la suma més gran que pot eixir?",
+        "en": "What's the biggest sum you can get?",
+        "fr": "Quelle est la plus grande somme possible ?",
+        "ar": "ما أكبر مجموع يمكن أن يخرج؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Suma 13: lo máximo es {{6 + 6 = 12}}. El 2 y el 12 son posibles, aunque salen poco.",
+          "va": "Suma 13: el màxim és {{6 + 6 = 12}}. El 2 i el 12 són possibles, encara que ixen poc.",
+          "en": "A sum of 13: the maximum is {{6 + 6 = 12}}. 2 and 12 are possible, though they rarely come up.",
+          "fr": "Une somme de 13 : le maximum, c'est {{6 + 6 = 12}}. Le 2 et le 12 sont possibles, même s'ils sortent peu.",
+          "ar": "المجموع 13: الحدّ الأقصى {{6 + 6 = 12}}. أمّا 2 و12 فممكنان، وإن كانا يخرجان قليلًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿qué es imposible?» con un dado o una baraja.",
+        "va": "Inventa't una pregunta de «què és impossible?» amb un dau o una baralla.",
+        "en": "Make up a “what's impossible?” question with a die or a pack of cards.",
+        "fr": "Invente une question « qu'est-ce qui est impossible ? » avec un dé ou un jeu de cartes.",
+        "ar": "لنخترع سؤال «ما المستحيل؟» بنرد أو بمجموعة أوراق لعب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo eliges la operación de un problema? Explícamelo con un problema que inventes tú.",
+        "va": "Com tries l'operació d'un problema? Explica-m'ho amb un problema que inventes tu.",
+        "en": "How do you choose the operation for a problem? Explain it to me with a problem you make up.",
+        "fr": "Comment choisis-tu l'opération d'un problème ? Explique-le-moi avec un problème que tu inventes.",
+        "ar": "كيف نختار عملية المسألة؟ اشرح لي أو اشرحي لي بمسألة نخترعها."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué pasa con las cosas del problema: se juntan, se quitan, se repiten o se reparten?»",
+        "va": "Si no sap per on començar: «Què passa amb les coses del problema: s'ajunten, es lleven, es repetixen o es repartixen?»",
+        "en": "If they don't know where to start: “What happens to the things in the problem: are they put together, taken away, repeated or shared?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'arrive-t-il aux choses du problème : on les réunit, on les enlève, on les répète ou on les partage ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا يحدث لأشياء المسألة: هل تُضمّ أم تُؤخذ أم تتكرّر أم تُوزَّع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo que buscáis es que imagine lo que pasa en la historia, no que busque palabras sueltas. Resolved juntos su problema y preguntad «¿y por qué esa operación?».",
+          "va": "El que busqueu és que imagine el que passa en la història, no que busque paraules soltes. Resoleu junts el seu problema i pregunteu «i per què eixa operació?».",
+          "en": "What you're looking for is imagining what happens in the story, not hunting for single words. Solve their problem together and ask “And why that operation?”",
+          "fr": "Ce que vous cherchez, c'est imaginer ce qui se passe dans l'histoire, pas chercher des mots isolés. Résolvez ensemble le problème inventé et demandez « Et pourquoi cette opération ? ».",
+          "ar": "ما تبحثون عنه هو تخيّل ما يحدث في القصة، لا البحث عن كلمات منفردة. حلّوا معًا المسألة المخترعة واسألوا «ولماذا هذه العملية؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "fdca91b56ac4"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "fdca91b56ac4"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "fdca91b56ac4"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "fdca91b56ac4"
+      }
+    }
+  }
+}

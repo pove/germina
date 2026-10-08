@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s41",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 41,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Juegos para pensar",
+    "va": "Jocs per a pensar",
+    "en": "Games for thinking",
+    "fr": "Des jeux pour réfléchir",
+    "ar": "ألعاب للتفكير"
+  },
+  "objetivo": {
+    "es": "Esta semana, la última del ciclo, juegan al juego de los palillos y buscan una estrategia ganadora: una regla que funcione siempre y que se pueda explicar paso a paso, como un programa de ordenador.",
+    "va": "Aquesta setmana, l'última del cicle, juguen al joc dels escuradents i busquen una estratègia guanyadora: una regla que funcione sempre i que es puga explicar pas a pas, com un programa d'ordinador.",
+    "en": "This week, the last of the cycle, they play the sticks game and look for a winning strategy: a rule that always works and can be explained step by step, like a computer program.",
+    "fr": "Cette semaine, la dernière du cycle, on joue au jeu des bâtonnets et on cherche une stratégie gagnante : une règle qui marche toujours et qu'on peut expliquer pas à pas, comme un programme informatique.",
+    "ar": "هذا الأسبوع، وهو الأخير في المرحلة، يلعب الأطفال لعبة الأعواد ويبحثون عن استراتيجية رابحة: قاعدة تنجح دائمًا ويمكن شرحها خطوة بخطوة، كبرنامج حاسوب."
+  },
+  "comoAyudar": {
+    "es": "No le contéis el truco: dejad que lo descubra perdiendo y ganando. Y, para cerrar el ciclo, mirad juntos el jardín de 3.º y de 4.º: cada flor es una semana compartida.",
+    "va": "No li conteu el truc: deixeu que el descobrisca perdent i guanyant. I, per a tancar el cicle, mireu junts el jardí de 3r i de 4t: cada flor és una setmana compartida.",
+    "en": "Don't tell them the trick: let them discover it by losing and winning. And, to close the cycle, look at the 3rd and 4th year gardens together: each flower is a week you shared.",
+    "fr": "Ne donnez pas l'astuce : laissez la découvrir en perdant et en gagnant. Et, pour clore le cycle, regardez ensemble le jardin de 3.º et de 4.º : chaque fleur est une semaine partagée.",
+    "ar": "لا تخبروا الطفل بالحيلة: اتركوه يكتشفها بالخسارة والربح. ولختام المرحلة، انظروا معًا إلى حديقة الصفّين الثالث والرابع: كل زهرة أسبوع مشترك."
+  },
+  "saberes": [
+    "matematicas.computacional.juegos-estrategia",
+    "matematicas.computacional.algoritmos"
+  ],
+  "criterios": [
+    "matematicas.c2.4.4",
+    "matematicas.c2.6.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Los palillos con 15",
+      "va": "Els escuradents amb 15",
+      "en": "Sticks with 15",
+      "fr": "Les bâtonnets avec 15",
+      "ar": "الأعواد مع 15"
+    },
+    "material": [
+      {
+        "es": "15 palillos, pajitas o lápices",
+        "va": "15 escuradents, palletes o llapis",
+        "en": "15 sticks, straws or pencils",
+        "fr": "15 bâtonnets, pailles ou crayons",
+        "ar": "15 عودًا أو مصّاصة أو قلمًا"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "palillos",
+        "texto": {
+          "es": "Poned 15 palillos en la mesa. Por turnos, cada persona quita 1, 2 o 3. Quien coge el último palillo, pierde.",
+          "va": "Poseu 15 escuradents en la taula. Per torns, cada persona en lleva 1, 2 o 3. Qui agafa l'últim escuradent, perd.",
+          "en": "Put 15 sticks on the table. Taking turns, each person takes away 1, 2 or 3. Whoever takes the last stick loses.",
+          "fr": "Posez 15 bâtonnets sur la table. Chacun son tour, chaque personne en enlève 1, 2 ou 3. Celui ou celle qui prend le dernier bâtonnet perd.",
+          "ar": "ضعوا 15 عودًا على الطاولة. بالتناوب، يأخذ كل شخص 1 أو 2 أو 3. ومن يأخذ آخر عود يخسر."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Jugad varias partidas y fijaos en el final. ¿Con cuántos palillos en la mesa te conviene que le toque a la otra persona?",
+          "va": "Jugueu diverses partides i fixeu-vos en el final. Amb quants escuradents en la taula et convé que li toque a l'altra persona?",
+          "en": "Play several games and look at the ending. How many sticks do you want on the table when it's the other person's turn?",
+          "fr": "Jouez plusieurs parties et regardez la fin. Avec combien de bâtonnets sur la table as-tu intérêt à ce que ce soit le tour de l'autre ?",
+          "ar": "العبوا عدة جولات وانتبهوا إلى النهاية. كم عودًا نريد أن يبقى على الطاولة عندما يأتي دور الشخص الآخر؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Apuntad los números «buenos» que vayáis descubriendo: 1, 5… ¿Cuál viene después? ¿Qué patrón siguen?",
+          "va": "Apunteu els números «bons» que aneu descobrint: 1, 5… Quin ve després? Quin patró seguixen?",
+          "en": "Write down the “good” numbers you discover: 1, 5… What comes next? What pattern do they follow?",
+          "fr": "Notez les « bons » nombres que vous découvrez : 1, 5… Lequel vient ensuite ? Quelle régularité suivent-ils ?",
+          "ar": "دوّنوا الأعداد «الجيدة» التي تكتشفونها: 1، 5… ما التالي؟ وأي نمط تتبع؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Escribid la regla como una receta, paso a paso, y probadla contra otra persona de casa. ¿Gana siempre quien la usa?",
+          "va": "Escriviu la regla com una recepta, pas a pas, i proveu-la contra una altra persona de casa. Guanya sempre qui la fa servir?",
+          "en": "Write the rule like a recipe, step by step, and try it against someone else at home. Does whoever uses it always win?",
+          "fr": "Écrivez la règle comme une recette, étape par étape, et essayez-la contre une autre personne de la maison. Celui ou celle qui l'utilise gagne-t-il toujours ?",
+          "ar": "اكتبوا القاعدة كوصفة، خطوة بخطوة، وجرّبوها ضدّ شخص آخر في البيت. هل يفوز دائمًا من يستعملها؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 7 palillos y fijaos solo en el final: ¿qué pasa si dejas 5 a la otra persona?",
+      "va": "Comenceu amb 7 escuradents i fixeu-vos només en el final: què passa si li deixes 5 a l'altra persona?",
+      "en": "Start with 7 sticks and look only at the ending: what happens if you leave the other person 5?",
+      "fr": "Commencez avec 7 bâtonnets et regardez seulement la fin : que se passe-t-il si tu laisses 5 bâtonnets à l'autre ?",
+      "ar": "ابدؤوا بـ7 أعواد وانتبهوا إلى النهاية فقط: ماذا يحدث إذا تركنا 5 للشخص الآخر؟"
+    },
+    "masDificil": {
+      "es": "Cambiad la regla: ahora se pueden quitar 1, 2, 3 o 4. ¿Cuáles son los números buenos ahora? ¿Y la nueva receta?",
+      "va": "Canvieu la regla: ara es poden llevar 1, 2, 3 o 4. Quins són els números bons ara? I la nova recepta?",
+      "en": "Change the rule: now you can take 1, 2, 3 or 4. What are the good numbers now? And the new recipe?",
+      "fr": "Changez la règle : maintenant, on peut enlever 1, 2, 3 ou 4. Quels sont les bons nombres maintenant ? Et la nouvelle recette ?",
+      "ar": "غيّروا القاعدة: يمكن الآن أخذ 1 أو 2 أو 3 أو 4. ما الأعداد الجيدة الآن؟ وما الوصفة الجديدة؟"
+    },
+    "paraQueSirve": {
+      "es": "Encontrar una estrategia y explicarla paso a paso es pensar como quien programa: reglas claras que funcionan siempre. Y descubrirla jugando, sin pantallas, es la mejor forma de cerrar el ciclo.",
+      "va": "Trobar una estratègia i explicar-la pas a pas és pensar com qui programa: regles clares que funcionen sempre. I descobrir-la jugant, sense pantalles, és la millor manera de tancar el cicle.",
+      "en": "Finding a strategy and explaining it step by step is thinking like a programmer: clear rules that always work. And discovering it by playing, without screens, is the best way to close the cycle.",
+      "fr": "Trouver une stratégie et l'expliquer pas à pas, c'est penser comme quelqu'un qui programme : des règles claires qui marchent toujours. Et la découvrir en jouant, sans écran, est la meilleure façon de clore le cycle.",
+      "ar": "إيجاد استراتيجية وشرحها خطوة بخطوة تفكير كتفكير المبرمج: قواعد واضحة تنجح دائمًا. واكتشافها باللعب، دون شاشات، أفضل طريقة لختام المرحلة."
+    },
+    "aviso": {
+      "es": "Si usáis palillos de dientes, lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir escuradents, lluny de germans o germanes menuts.",
+      "en": "If you use toothpicks, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des cure-dents, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم أعواد أسنان، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Quedan 6 palillos y te toca. ¿Cuántos quitas para dejarle 5 a la otra persona?",
+        "va": "Queden 6 escuradents i et toca. Quants en lleves per a deixar-li'n 5 a l'altra persona?",
+        "en": "There are 6 sticks left and it's your turn. How many do you take to leave the other person 5?",
+        "fr": "Il reste 6 bâtonnets et c'est ton tour. Combien en enlèves-tu pour en laisser 5 à l'autre ?",
+        "ar": "بقيت 6 أعواد وجاء دورنا. كم نأخذ لنترك 5 للشخص الآخر؟"
+      },
+      "pista": {
+        "es": "¿Cuánto va de 6 a 5?",
+        "va": "Quant va de 6 a 5?",
+        "en": "How far is it from 6 to 5?",
+        "fr": "Combien y a-t-il de 6 à 5 ?",
+        "ar": "كم الفرق بين 6 و5؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 - 5",
+        "resultado": 1,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quitas 1 y le dejas 5.",
+          "va": "En lleves 1 i li'n deixes 5.",
+          "en": "You take 1 and leave them 5.",
+          "fr": "Tu en enlèves 1 et tu lui en laisses 5.",
+          "ar": "نأخذ واحدًا ونترك له 5."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿cuántos quitas para dejar…?».",
+        "va": "Inventa't una pregunta de «quants en lleves per a deixar…?».",
+        "en": "Make up a “how many do you take to leave…?” question.",
+        "fr": "Invente une question « combien en enlèves-tu pour laisser… ? ».",
+        "ar": "لنخترع سؤال «كم نأخذ لنترك…؟»."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Quedan 5 palillos y le toca a tu abuelo. Quite 1, 2 o 3, ¿puedes ganar siempre? ¿Cómo?",
+        "va": "Queden 5 escuradents i li toca a ton avi. En lleve 1, 2 o 3, pots guanyar sempre? Com?",
+        "en": "There are 5 sticks left and it's your grandad's turn. Whether he takes 1, 2 or 3, can you always win? How?",
+        "fr": "Il reste 5 bâtonnets et c'est le tour de ton papi. Qu'il en enlève 1, 2 ou 3, peux-tu toujours gagner ? Comment ?",
+        "ar": "بقيت 5 أعواد وجاء دور جدّنا. سواء أخذ 1 أو 2 أو 3، هل يمكننا الفوز دائمًا؟ كيف؟"
+      },
+      "pista": {
+        "es": "Mira las tres opciones: ¿cuántos quitas tú en cada caso para dejarle solo 1?",
+        "va": "Mira les tres opcions: quants en lleves tu en cada cas per a deixar-li'n només 1?",
+        "en": "Look at all three options: how many do you take each time to leave him just 1?",
+        "fr": "Regarde les trois possibilités : combien en enlèves-tu à chaque fois pour ne lui en laisser qu'1 ?",
+        "ar": "لننظر إلى الخيارات الثلاثة: كم نأخذ في كل حالة لنترك له عودًا واحدًا فقط؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Sí: lo que quite él más lo que quites tú suma 4. Si quita 1, quitas 3; si quita 2, quitas 2; si quita 3, quitas 1. Siempre le queda el último.",
+          "va": "Sí: el que lleve ell més el que lleves tu suma 4. Si en lleva 1, en lleves 3; si en lleva 2, en lleves 2; si en lleva 3, en lleves 1. Sempre li queda l'últim.",
+          "en": "Yes: what he takes plus what you take adds up to 4. If he takes 1, you take 3; if he takes 2, you take 2; if he takes 3, you take 1. He always gets the last one.",
+          "fr": "Oui : ce qu'il enlève plus ce que tu enlèves fait 4. S'il en enlève 1, tu en enlèves 3 ; s'il en enlève 2, tu en enlèves 2 ; s'il en enlève 3, tu en enlèves 1. C'est toujours lui qui prend le dernier.",
+          "ar": "نعم: ما يأخذه هو وما نأخذه نحن مجموعه 4. إذا أخذ 1 نأخذ 3، وإذا أخذ 2 نأخذ 2، وإذا أخذ 3 نأخذ 1. فيبقى له الأخير دائمًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿puedes ganar siempre?» con 9 palillos.",
+        "va": "Inventa't una pregunta de «pots guanyar sempre?» amb 9 escuradents.",
+        "en": "Make up a “can you always win?” question with 9 sticks.",
+        "fr": "Invente une question « peux-tu toujours gagner ? » avec 9 bâtonnets.",
+        "ar": "لنخترع سؤال «هل يمكننا الفوز دائمًا؟» بـ9 أعواد."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Con 15 palillos y empezando tú, ¿cuántos quitas en la primera jugada para ir ganando? ¿Por qué?",
+        "va": "Amb 15 escuradents i començant tu, quants en lleves en la primera jugada per a anar guanyant? Per què?",
+        "en": "With 15 sticks and you starting, how many do you take on the first turn to be on track to win? Why?",
+        "fr": "Avec 15 bâtonnets et en commençant, combien en enlèves-tu au premier tour pour être bien parti ? Pourquoi ?",
+        "ar": "مع 15 عودًا وبدءًا بنا، كم نأخذ في الدور الأول لنكون في طريق الفوز؟ ولماذا؟"
+      },
+      "pista": {
+        "es": "Los números buenos para dejar a la otra persona son 1, 5, 9, 13… ¿Cuál está más cerca de 15?",
+        "va": "Els números bons per a deixar a l'altra persona són 1, 5, 9, 13… Quin està més prop de 15?",
+        "en": "The good numbers to leave the other person are 1, 5, 9, 13… Which is closest to 15?",
+        "fr": "Les bons nombres à laisser à l'autre sont 1, 5, 9, 13… Lequel est le plus proche de 15 ?",
+        "ar": "الأعداد الجيدة لنتركها للآخر هي 1، 5، 9، 13… أيّها الأقرب إلى 15؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Quitas 2 y dejas 13. Después, en cada jugada, quitas lo que haga sumar 4 con lo de la otra persona: 9, 5 y, al final, 1. Si lo descubre jugando, mejor que contárselo.",
+          "va": "En lleves 2 i en deixes 13. Després, en cada jugada, en lleves els que facen sumar 4 amb els de l'altra persona: 9, 5 i, al final, 1. Si ho descobrix jugant, millor que contar-li-ho.",
+          "en": "You take 2 and leave 13. Then, each turn, you take whatever makes 4 with the other person's move: 9, 5 and, at the end, 1. Better if they discover it by playing than if you tell them.",
+          "fr": "Tu en enlèves 2 et tu en laisses 13. Ensuite, à chaque tour, tu enlèves ce qui fait 4 avec le coup de l'autre : 9, 5 et, à la fin, 1. Mieux vaut le découvrir en jouant que se le faire dire.",
+          "ar": "نأخذ 2 ونترك 13. ثم في كل دور نأخذ ما يكمل 4 مع ما أخذه الآخر: 9، ثم 5، ثم 1 في النهاية. واكتشاف ذلك باللعب أفضل من سماعه."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un número de palillos para empezar y busca la primera jugada ganadora.",
+        "va": "Inventa't un nombre d'escuradents per a començar i busca la primera jugada guanyadora.",
+        "en": "Choose a starting number of sticks and find the winning first move.",
+        "fr": "Choisis un nombre de bâtonnets pour commencer et cherche le premier coup gagnant.",
+        "ar": "لنختر عددًا من الأعواد للبداية ونبحث عن أول حركة رابحة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 39,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: 5 personas pagan a partes iguales una comida de 32,50 €. ¿Cuánto pone cada una? ¿Qué operación toca?",
+        "va": "Per a recordar: 5 persones paguen a parts iguals un dinar de 32,50 €. Quant hi posa cadascuna? Quina operació toca?",
+        "en": "Let's remember: 5 people split a 32,50 € meal equally. How much does each one pay? Which operation is it?",
+        "fr": "Pour se souvenir : 5 personnes paient en parts égales un repas de 32,50 €. Combien met chacune ? Quelle opération utiliser ?",
+        "ar": "لنتذكّر: يدفع 5 أشخاص بالتساوي ثمن وجبة قيمتها 32,50 يورو. كم يدفع كل واحد؟ وأي عملية نستعمل؟"
+      },
+      "pista": {
+        "es": "Es de repartir. Piensa en céntimos: 3250 entre 5.",
+        "va": "És de repartir. Pensa en cèntims: 3250 entre 5.",
+        "en": "It's sharing. Think in cents: 3250 divided by 5.",
+        "fr": "C'est un partage. Pense en centimes : 3250 divisé par 5.",
+        "ar": "إنها قسمة. لنفكّر بالسنتات: 3250 على 5."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3250 : 5",
+        "resultado": 650,
+        "unidad": "cent",
+        "texto": {
+          "es": "Es de dividir: cada persona pone 6,50 €. Para comprobarlo: {{6,50 × 5 = 32,50}}.",
+          "va": "És de dividir: cada persona hi posa 6,50 €. Per a comprovar-ho: {{6,50 × 5 = 32,50}}.",
+          "en": "It's dividing: each person pays 6,50 €. To check: {{6,50 × 5 = 32,50}}.",
+          "fr": "C'est une division : chaque personne met 6,50 €. Pour vérifier : {{6,50 × 5 = 32,50}}.",
+          "ar": "إنها قسمة: يدفع كل شخص 6,50 يورو. وللتحقّق: {{6,50 × 5 = 32,50}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de pagar algo entre varias personas con céntimos en el precio.",
+        "va": "Inventa'n tu una de pagar alguna cosa entre diverses persones amb cèntims en el preu.",
+        "en": "Make one up about several people splitting a price that has cents.",
+        "fr": "Invente un problème où plusieurs personnes paient quelque chose dont le prix a des centimes.",
+        "ar": "لنخترع مسألة يدفع فيها عدة أشخاص ثمن شيء في سعره سنتات."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Mirad juntos el jardín de 3.º y de 4.º. ¿Qué semilla recuerdas mejor? Explícame qué aprendiste con ella.",
+        "va": "Mireu junts el jardí de 3r i de 4t. Quina llavor recordes millor? Explica'm què vas aprendre amb ella.",
+        "en": "Look at the 3rd and 4th year gardens together. Which seed do you remember best? Explain what you learned with it.",
+        "fr": "Regardez ensemble le jardin de 3.º et de 4.º. De quelle graine te souviens-tu le mieux ? Explique-moi ce que tu as appris avec elle.",
+        "ar": "انظروا معًا إلى حديقة الصفّين الثالث والرابع. أي بذرة نتذكّرها أكثر؟ اشرح لي أو اشرحي لي ماذا تعلّمنا بها."
+      },
+      "pista": {
+        "es": "Si no sabe cuál elegir: «Toca una flor y vamos a ver qué semana era».",
+        "va": "Si no sap quina triar: «Toca una flor i anem a veure quina setmana era».",
+        "en": "If they can't choose: “Tap a flower and let's see which week it was.”",
+        "fr": "S'il ou elle n'arrive pas à choisir : « Touche une fleur et regardons quelle semaine c'était ».",
+        "ar": "إن لم يستطع الطفل الاختيار: «المس زهرة ولنرَ أي أسبوع كان»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Es un momento para celebrar. Escuchad, recordad juntos aquella semana y dad las gracias por estos dos cursos compartidos.",
+          "va": "És un moment per a celebrar. Escolteu, recordeu junts aquella setmana i doneu les gràcies per aquests dos cursos compartits.",
+          "en": "It's a moment to celebrate. Listen, remember that week together and say thank you for these two years you shared.",
+          "fr": "C'est un moment pour faire la fête. Écoutez, souvenez-vous ensemble de cette semaine et remerciez-vous pour ces deux années partagées.",
+          "ar": "إنها لحظة للاحتفال. استمعوا، وتذكّروا معًا ذلك الأسبوع، واشكروا بعضكم على هاتين السنتين المشتركتين."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "4e1481d6718a"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "4e1481d6718a"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "4e1481d6718a"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "4e1481d6718a"
+      }
+    }
+  }
+}
