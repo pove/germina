@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.v08",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "verano": 8,
+  "tipo": "verano",
+  "titulo": {
+    "es": "El picnic",
+    "va": "El pícnic",
+    "en": "The picnic",
+    "fr": "Le pique-nique",
+    "ar": "النزهة"
+  },
+  "objetivo": {
+    "es": "Repartir a partes iguales es dividir. En un picnic se ve muy claro, y también lo que sobra cuando no da para todos: el resto.",
+    "va": "Repartir a parts iguals és dividir. En un pícnic es veu molt clar, i també el que sobra quan no n'hi ha per a tots: el residu.",
+    "en": "Sharing equally is dividing. At a picnic you can see it very clearly, and also what is left over when there isn't enough for everyone: the remainder.",
+    "fr": "Partager en parts égales, c'est diviser. Pendant un pique-nique, on le voit très bien, et aussi ce qui reste quand il n'y en a pas assez pour tout le monde : le reste.",
+    "ar": "التوزيع بالتساوي قسمة. وفي النزهة يظهر ذلك بوضوح، ويظهر أيضًا ما يتبقّى عندما لا يكفي للجميع: الباقي."
+  },
+  "comoAyudar": {
+    "es": "Cuando sobre algo, preguntad «¿qué hacemos con lo que sobra?». Partirlo, guardarlo o dárselo a alguien: todas son buenas ideas para hablar.",
+    "va": "Quan sobre alguna cosa, pregunteu «què fem amb el que sobra?». Partir-ho, guardar-ho o donar-ho a algú: totes són bones idees per a parlar.",
+    "en": "When something is left over, ask “What shall we do with what's left?”. Cutting it, keeping it or giving it to someone: they are all good ideas to talk about.",
+    "fr": "Quand il reste quelque chose, demandez « Qu'est-ce qu'on fait avec ce qui reste ? ». Le couper, le garder ou le donner à quelqu'un : ce sont toutes de bonnes idées pour en parler.",
+    "ar": "عندما يتبقّى شيء، اسألوا «ماذا نفعل بالباقي؟». نقسمه أو نحتفظ به أو نعطيه لأحد: كلها أفكار جيدة للحديث."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.1.2",
+    "matematicas.c2.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Repartir el picnic",
+      "va": "Repartir el pícnic",
+      "en": "Sharing out the picnic",
+      "fr": "Partager le pique-nique",
+      "ar": "توزيع طعام النزهة"
+    },
+    "material": [
+      {
+        "es": "La comida del picnic o de la merienda: galletas, uvas, fresas…",
+        "va": "El menjar del pícnic o del berenar: galetes, raïm, maduixes…",
+        "en": "The picnic or snack food: biscuits, grapes, strawberries…",
+        "fr": "La nourriture du pique-nique ou du goûter : biscuits, raisins, fraises…",
+        "ar": "طعام النزهة أو وجبة العصر: بسكويت، عنب، فراولة…"
+      },
+      {
+        "es": "Platos o servilletas, uno por persona",
+        "va": "Plats o tovallons, un per persona",
+        "en": "Plates or napkins, one per person",
+        "fr": "Des assiettes ou des serviettes, une par personne",
+        "ar": "صحون أو مناديل، واحد لكل شخص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Poned un plato o una servilleta para cada persona del picnic.",
+          "va": "Poseu un plat o un tovalló per a cada persona del pícnic.",
+          "en": "Put out a plate or napkin for each person at the picnic.",
+          "fr": "Posez une assiette ou une serviette pour chaque personne du pique-nique.",
+          "ar": "ضعوا صحنًا أو منديلًا لكل شخص في النزهة."
+        }
+      },
+      {
+        "pictograma": "galleta",
+        "texto": {
+          "es": "Repartid las galletas de una en una, como las cartas, hasta que no se pueda dar una más a todas las personas.",
+          "va": "Repartiu les galetes d'una en una, com les cartes, fins que no se'n puga donar una més a totes les persones.",
+          "en": "Deal out the biscuits one at a time, like cards, until you can't give one more to everybody.",
+          "fr": "Distribuez les biscuits un par un, comme des cartes, jusqu'à ce qu'on ne puisse plus en donner un de plus à tout le monde.",
+          "ar": "وزّعوا البسكويت واحدة واحدة مثل الأوراق، حتى لا يمكن إعطاء واحدة أخرى لكل الأشخاص."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Cuántas tiene cada persona? ¿Ha sobrado alguna? Decidlo como una división: 14 galletas entre 4 personas son 3 para cada una y sobran 2.",
+          "va": "Quantes en té cada persona? N'ha sobrat alguna? Digueu-ho com una divisió: 14 galetes entre 4 persones són 3 per a cadascuna i en sobren 2.",
+          "en": "How many does each person have? Are any left over? Say it as a division: 14 biscuits among 4 people is 3 each with 2 left over.",
+          "fr": "Combien chaque personne en a-t-elle ? En reste-t-il ? Dites-le comme une division : 14 biscuits pour 4 personnes, c'est 3 chacune et il en reste 2.",
+          "ar": "كم مع كل شخص؟ هل تبقّى شيء؟ قولوها كقسمة: 14 بسكويتة على 4 أشخاص تعني 3 لكل واحد ويتبقّى 2."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decidid juntos qué hacer con lo que sobra. ¿Se puede partir una galleta por la mitad? ¿Y una uva?",
+          "va": "Decidiu junts què fer amb el que sobra. Es pot partir una galeta per la meitat? I un gra de raïm?",
+          "en": "Decide together what to do with what is left. Can you break a biscuit in half? And a grape?",
+          "fr": "Décidez ensemble quoi faire de ce qui reste. Peut-on couper un biscuit en deux ? Et un grain de raisin ?",
+          "ar": "قرّروا معًا ماذا تفعلون بالباقي. هل يمكن قسم بسكويتة إلى نصفين؟ وحبة عنب؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Repartid entre 2 personas un número par de galletas, para que no sobre nada.",
+      "va": "Repartiu entre 2 persones un nombre parell de galetes, perquè no sobre res.",
+      "en": "Share an even number of biscuits between 2 people, so nothing is left over.",
+      "fr": "Partagez un nombre pair de biscuits entre 2 personnes, pour qu'il ne reste rien.",
+      "ar": "وزّعوا عددًا زوجيًا من البسكويت على شخصين، كي لا يتبقّى شيء."
+    },
+    "masDificil": {
+      "es": "Antes de repartir, adivinad cuántas tocarán a cada persona con las tablas: ¿4 por cuánto se acerca más a 14 sin pasarse?",
+      "va": "Abans de repartir, endevineu quantes en tocaran a cada persona amb les taules: 4 per quant s'acosta més a 14 sense passar-se'n?",
+      "en": "Before sharing, guess how many each person will get using the times tables: 4 times what comes closest to 14 without going over?",
+      "fr": "Avant de partager, devinez combien chaque personne en aura grâce aux tables : 4 fois combien s'approche le plus de 14 sans dépasser ?",
+      "ar": "قبل التوزيع، خمّنوا كم سيأخذ كل شخص باستعمال جداول الضرب: 4 في كم يقترب أكثر من 14 دون أن يتجاوزه؟"
+    },
+    "paraQueSirve": {
+      "es": "Repartir y pensar en lo que sobra es la división de verdad, la que se usa para compartir, hacer equipos u organizar.",
+      "va": "Repartir i pensar en el que sobra és la divisió de veritat, la que s'usa per a compartir, fer equips o organitzar.",
+      "en": "Sharing out and thinking about what is left is real division, the kind used to share, make teams or organise.",
+      "fr": "Partager et penser à ce qui reste, c'est la vraie division, celle qui sert à partager, faire des équipes ou s'organiser.",
+      "ar": "التوزيع والتفكير في الباقي هما القسمة الحقيقية، التي نستعملها للمشاركة وتكوين الفرق والتنظيم."
+    },
+    "aviso": {
+      "es": "Lavaos las manos antes de tocar la comida.",
+      "va": "Llaveu-vos les mans abans de tocar el menjar.",
+      "en": "Wash your hands before touching the food.",
+      "fr": "Lavez-vous les mains avant de toucher la nourriture.",
+      "ar": "اغسلوا أيديكم قبل لمس الطعام."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Tenemos 20 fresas para 4 personas. ¿Cuántas le tocan a cada una?",
+        "va": "Tenim 20 maduixes per a 4 persones. Quantes en toquen a cadascuna?",
+        "en": "We have 20 strawberries for 4 people. How many does each person get?",
+        "fr": "Nous avons 20 fraises pour 4 personnes. Combien chacune en reçoit-elle ?",
+        "ar": "عندنا 20 حبة فراولة لـ4 أشخاص. كم حبة يأخذ كل واحد؟"
+      },
+      "pista": {
+        "es": "¿4 por cuánto da 20? Piensa en la tabla del 4.",
+        "va": "4 per quant fa 20? Pensa en la taula del 4.",
+        "en": "4 times what makes 20? Think of the 4 times table.",
+        "fr": "4 fois combien font 20 ? Pense à la table de 4.",
+        "ar": "4 في كم يساوي 20؟ لنفكّر في جدول 4."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 : 4",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le tocan 5 fresas a cada una.",
+          "va": "En toquen 5 a cadascuna.",
+          "en": "Each person gets 5 strawberries.",
+          "fr": "Chacune reçoit 5 fraises.",
+          "ar": "يأخذ كل واحد 5 حبات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto con la fruta que haya en casa.",
+        "va": "Inventa'n tu un repartiment amb la fruita que hi haja a casa.",
+        "en": "Make up a sharing problem with the fruit you have at home.",
+        "fr": "Invente un partage avec les fruits qu'il y a à la maison.",
+        "ar": "لنخترع مسألة توزيع بالفاكهة الموجودة في البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Hay 15 uvas para 2 personas. ¿Cuántas le tocan a cada una? ¿Sobra alguna?",
+        "va": "Hi ha 15 grans de raïm per a 2 persones. Quants en toquen a cadascuna? En sobra algun?",
+        "en": "There are 15 grapes for 2 people. How many does each person get? Are any left over?",
+        "fr": "Il y a 15 grains de raisin pour 2 personnes. Combien chacune en reçoit-elle ? En reste-t-il ?",
+        "ar": "هناك 15 حبة عنب لشخصين. كم حبة يأخذ كل واحد؟ هل يتبقّى شيء؟"
+      },
+      "pista": {
+        "es": "15 es impar: no se puede partir justo en dos. Busca el número par más cercano por abajo.",
+        "va": "15 és senar: no es pot partir just en dos. Busca el nombre parell més proper per baix.",
+        "en": "15 is odd: it can't be split exactly in two. Look for the nearest even number below it.",
+        "fr": "15 est impair : on ne peut pas le partager exactement en deux. Cherche le nombre pair le plus proche en dessous.",
+        "ar": "15 عدد فردي: لا يمكن قسمه بالضبط على اثنين. لنبحث عن أقرب عدد زوجي أصغر منه."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(15 - 1) : 2",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le tocan 7 uvas a cada una y sobra 1: {{2 × 7 + 1 = 15}}.",
+          "va": "En toquen 7 a cadascuna i en sobra 1: {{2 × 7 + 1 = 15}}.",
+          "en": "Each person gets 7 grapes and 1 is left over: {{2 × 7 + 1 = 15}}.",
+          "fr": "Chacune en reçoit 7 et il en reste 1 : {{2 × 7 + 1 = 15}}.",
+          "ar": "يأخذ كل واحد 7 حبات وتتبقّى واحدة: {{2 × 7 + 1 = 15}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto en el que sobre algo y decide qué hacer con ello.",
+        "va": "Inventa'n tu un repartiment en què sobre alguna cosa i decideix què fer-ne.",
+        "en": "Make up a sharing problem where something is left over and decide what to do with it.",
+        "fr": "Invente un partage où il reste quelque chose et décide quoi en faire.",
+        "ar": "لنخترع توزيعًا يتبقّى فيه شيء ونقرّر ماذا نفعل به."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Llevamos 24 bocadillos pequeños y cada persona se come 3. ¿Para cuántas personas hay?",
+        "va": "Portem 24 entrepans menuts i cada persona se'n menja 3. Per a quantes persones n'hi ha?",
+        "en": "We bring 24 small sandwiches and each person eats 3. How many people are there enough for?",
+        "fr": "Nous apportons 24 petits sandwichs et chaque personne en mange 3. Pour combien de personnes y en a-t-il ?",
+        "ar": "أحضرنا 24 شطيرة صغيرة ويأكل كل شخص 3. كم شخصًا تكفي؟"
+      },
+      "pista": {
+        "es": "Haz grupos de 3 y cuenta cuántos grupos salen. O piensa: ¿3 por cuánto da 24?",
+        "va": "Fes grups de 3 i compta quants grups n'ixen. O pensa: 3 per quant fa 24?",
+        "en": "Make groups of 3 and count how many groups there are. Or think: 3 times what makes 24?",
+        "fr": "Fais des groupes de 3 et compte combien de groupes il y a. Ou réfléchis : 3 fois combien font 24 ?",
+        "ar": "لنكوّن مجموعات من 3 ونعدّ كم مجموعة تتكوّن. أو لنفكّر: 3 في كم يساوي 24؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 : 3",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay para 8 personas.",
+          "va": "N'hi ha per a 8 persones.",
+          "en": "There are enough for 8 people.",
+          "fr": "Il y en a pour 8 personnes.",
+          "ar": "تكفي 8 أشخاص."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿para cuántos hay?» con los vasos o las servilletas.",
+        "va": "Inventa'n tu una de «per a quants n'hi ha?» amb els gots o els tovallons.",
+        "en": "Make up a “how many is there enough for?” one with cups or napkins.",
+        "fr": "Invente un problème « pour combien il y en a ? » avec des verres ou des serviettes.",
+        "ar": "لنخترع مسألة «كم شخصًا تكفي؟» عن الأكواب أو المناديل."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 18,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: cada mesa del merendero tiene 4 patas. ¿Cuántas patas tienen 7 mesas?",
+        "va": "Per a recordar: cada taula del berenador té 4 potes. Quantes potes tenen 7 taules?",
+        "en": "Let's remember: each picnic table has 4 legs. How many legs do 7 tables have?",
+        "fr": "Pour se souvenir : chaque table de l'aire de pique-nique a 4 pieds. Combien de pieds ont 7 tables ?",
+        "ar": "لنتذكّر: لكل طاولة في منطقة النزهات 4 أرجل. كم رجلًا لـ7 طاولات؟"
+      },
+      "pista": {
+        "es": "La del 4 es el doble del doble: el doble de 7 es 14, y el doble de 14…",
+        "va": "La del 4 és el doble del doble: el doble de 7 és 14, i el doble de 14…",
+        "en": "The 4 times table is double the double: double 7 is 14, and double 14 is…",
+        "fr": "La table de 4, c'est le double du double : le double de 7 est 14, et le double de 14…",
+        "ar": "جدول 4 هو ضعف الضعف: ضعف 7 هو 14، وضعف 14 هو…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 4",
+        "resultado": 28,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 28 patas.",
+          "va": "Tenen 28 potes.",
+          "en": "They have 28 legs.",
+          "fr": "Elles ont 28 pieds.",
+          "ar": "لها 28 رجلًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con la tabla del 4: sillas, coches, gatos…",
+        "va": "Inventa'n tu una amb la taula del 4: cadires, cotxes, gats…",
+        "en": "Make one up with the 4 times table: chairs, cars, cats…",
+        "fr": "Invente un problème avec la table de 4 : des chaises, des voitures, des chats…",
+        "ar": "لنخترع مسألة بجدول 4: كراسٍ، سيارات، قطط…"
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo repartirías 10 galletas entre 3 personas y qué harías con lo que sobra.",
+        "va": "Explica'm com repartiries 10 galetes entre 3 persones i què faries amb el que sobra.",
+        "en": "Explain to me how you would share 10 biscuits among 3 people and what you would do with what is left.",
+        "fr": "Explique-moi comment tu partagerais 10 biscuits entre 3 personnes et ce que tu ferais de ce qui reste.",
+        "ar": "اشرح لي أو اشرحي لي كيف نوزّع 10 بسكويتات على 3 أشخاص وماذا نفعل بالباقي."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me lo enseñas con estas cucharas, como si fueran galletas?»",
+        "va": "Si no sap per on començar: «M'ho ensenyes amb aquestes culleres, com si foren galetes?»",
+        "en": "If they don't know where to start: “Can you show me with these spoons, as if they were biscuits?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres avec ces cuillères, comme si c'étaient des biscuits ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل نُري ذلك بهذه الملاعق كأنها بسكويت؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Tocan 3 a cada persona y sobra 1. Cualquier idea para la que sobra vale: partirla en trozos, guardarla o dársela a alguien. Lo importante es la explicación.",
+          "va": "En toquen 3 a cada persona i en sobra 1. Qualsevol idea per a la que sobra val: partir-la en trossos, guardar-la o donar-la a algú. L'important és l'explicació.",
+          "en": "Each person gets 3 and 1 is left over. Any idea for the leftover one is fine: breaking it into pieces, keeping it or giving it to someone. What matters is the explanation.",
+          "fr": "Chaque personne en a 3 et il en reste 1. Toute idée pour celui qui reste est bonne : le couper en morceaux, le garder ou le donner à quelqu'un. L'important, c'est l'explication.",
+          "ar": "يأخذ كل شخص 3 وتتبقّى واحدة. أي فكرة للباقية صحيحة: تقسيمها قطعًا، أو الاحتفاظ بها، أو إعطاؤها لأحد. المهم هو الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "bce097a45d5b"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "bce097a45d5b"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "bce097a45d5b"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "bce097a45d5b"
+      }
+    }
+  }
+}

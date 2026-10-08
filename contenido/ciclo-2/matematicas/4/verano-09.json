@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.v09",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "verano": 9,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Lo normal",
+    "va": "El normal",
+    "en": "What's normal",
+    "fr": "Ce qui est normal",
+    "ar": "المعتاد"
+  },
+  "objetivo": {
+    "es": "La media es repartir el total a partes iguales: si un día se lee 10 minutos y otro 20, «lo normal» son 15. Apuntar los minutos de lectura durante una semana es una forma tranquila de descubrirla.",
+    "va": "La mitjana és repartir el total a parts iguals: si un dia es llig 10 minuts i un altre 20, «el normal» són 15. Apuntar els minuts de lectura durant una setmana és una manera tranquil·la de descobrir-la.",
+    "en": "The mean (media) is sharing the total out equally: if you read for 10 minutes one day and 20 another, “what's normal” is 15. Writing down reading minutes for a week is a calm way to discover it.",
+    "fr": "La moyenne (media), c'est partager le total en parts égales : si on lit 10 minutes un jour et 20 un autre, « ce qui est normal », c'est 15. Noter les minutes de lecture pendant une semaine est une façon tranquille de la découvrir.",
+    "ar": "المتوسّط (media) هو توزيع المجموع بالتساوي: إذا قرأنا 10 دقائق في يوم و20 في يوم آخر، فإن «المعتاد» 15. وتدوين دقائق القراءة خلال أسبوع طريقة هادئة لاكتشافه."
+  },
+  "comoAyudar": {
+    "es": "Esto no va de leer más ni de compararse con nadie: es descubrir la media con datos propios. Un día sin leer también es un dato.",
+    "va": "Això no va de llegir més ni de comparar-se amb ningú: és descobrir la mitjana amb dades pròpies. Un dia sense llegir també és una dada.",
+    "en": "This isn't about reading more or comparing with anyone: it's discovering the mean with your own data. A day without reading is data too.",
+    "fr": "Il ne s'agit pas de lire plus ni de se comparer à qui que ce soit : c'est découvrir la moyenne avec ses propres données. Un jour sans lecture, c'est aussi une donnée.",
+    "ar": "ليس الهدف أن نقرأ أكثر ولا أن نقارن أنفسنا بأحد: إنه اكتشاف المتوسّط بمعطياتنا الخاصة. واليوم الذي لا نقرأ فيه معطى أيضًا."
+  },
+  "saberes": [
+    "matematicas.datos.medidas-centrales",
+    "matematicas.datos.frecuencias"
+  ],
+  "criterios": [
+    "matematicas.c2.3.2",
+    "matematicas.c2.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Minutos de lectura",
+      "va": "Minuts de lectura",
+      "en": "Reading minutes",
+      "fr": "Des minutes de lecture",
+      "ar": "دقائق القراءة"
+    },
+    "material": [
+      {
+        "es": "Un reloj",
+        "va": "Un rellotge",
+        "en": "A clock or watch",
+        "fr": "Une montre ou une horloge",
+        "ar": "ساعة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      },
+      {
+        "es": "Legumbres secas o botones",
+        "va": "Llegums secs o botons",
+        "en": "Dried beans or buttons",
+        "fr": "Des légumes secs ou des boutons",
+        "ar": "بقول جافة أو أزرار"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "calendario",
+        "texto": {
+          "es": "Durante una semana, apuntad cada día cuántos minutos se lee (en papel, en el sofá, en voz alta…). Redondead de 5 en 5 minutos.",
+          "va": "Durant una setmana, apunteu cada dia quants minuts es llig (en paper, al sofà, en veu alta…). Arrodoniu de 5 en 5 minuts.",
+          "en": "For a week, write down each day how many minutes of reading there are (on paper, on the sofa, out loud…). Round to the nearest 5 minutes.",
+          "fr": "Pendant une semaine, notez chaque jour combien de minutes on lit (sur papier, sur le canapé, à voix haute…). Arrondissez de 5 en 5 minutes.",
+          "ar": "خلال أسبوع، دوّنوا كل يوم كم دقيقة قرأتم (على الورق، على الأريكة، بصوت عالٍ…). قرّبوا إلى مضاعفات 5 دقائق."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Al final, haced una columna por día con una legumbre por cada 5 minutos.",
+          "va": "Al final, feu una columna per dia amb un llegum per cada 5 minuts.",
+          "en": "At the end, make a column for each day with one bean for every 5 minutes.",
+          "fr": "À la fin, faites une colonne par jour avec un grain pour chaque tranche de 5 minutes.",
+          "ar": "في النهاية، اصنعوا عمودًا لكل يوم بحبة لكل 5 دقائق."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Ahora igualad: pasad legumbres de las columnas altas a las bajas hasta que todas tengan las mismas. Esa altura es la media.",
+          "va": "Ara igualeu: passeu llegums de les columnes altes a les baixes fins que totes en tinguen els mateixos. Aquella altura és la mitjana.",
+          "en": "Now even them out: move beans from the tall columns to the short ones until they all have the same. That height is the mean.",
+          "fr": "Maintenant, égalisez : faites passer des grains des colonnes hautes vers les basses jusqu'à ce qu'elles en aient toutes autant. Cette hauteur, c'est la moyenne.",
+          "ar": "الآن ساووا بينها: انقلوا حبات من الأعمدة العالية إلى المنخفضة حتى يصبح فيها كلها العدد نفسه. ذلك الارتفاع هو المتوسّط."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Comprobadlo con números: sumad todos los minutos y dividid entre los días. ¿Sale lo mismo?",
+          "va": "Comproveu-ho amb números: sumeu tots els minuts i dividiu entre els dies. Ix el mateix?",
+          "en": "Check it with numbers: add all the minutes and divide by the number of days. Do you get the same?",
+          "fr": "Vérifiez avec des nombres : additionnez toutes les minutes et divisez par le nombre de jours. Obtenez-vous la même chose ?",
+          "ar": "تحقّقوا بالأعداد: اجمعوا كل الدقائق واقسموا على عدد الأيام. هل تخرج النتيجة نفسها؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced la media solo de 3 días con números fáciles, como 10, 20 y 30 minutos.",
+      "va": "Feu la mitjana només de 3 dies amb números fàcils, com 10, 20 i 30 minuts.",
+      "en": "Work out the mean of just 3 days with easy numbers, like 10, 20 and 30 minutes.",
+      "fr": "Calculez la moyenne de seulement 3 jours avec des nombres faciles, comme 10, 20 et 30 minutes.",
+      "ar": "احسبوا متوسّط 3 أيام فقط بأعداد سهلة، مثل 10 و20 و30 دقيقة."
+    },
+    "masDificil": {
+      "es": "Calculad también la media de horas de sueño o de vasos de agua de la semana. ¿Cuál cambia más de un día a otro?",
+      "va": "Calculeu també la mitjana d'hores de son o de gots d'aigua de la setmana. Quina canvia més d'un dia a l'altre?",
+      "en": "Also work out the mean hours of sleep or glasses of water for the week. Which changes more from one day to the next?",
+      "fr": "Calculez aussi la moyenne des heures de sommeil ou des verres d'eau de la semaine. Laquelle change le plus d'un jour à l'autre ?",
+      "ar": "احسبوا أيضًا متوسّط ساعات النوم أو أكواب الماء في الأسبوع. أيها يتغيّر أكثر من يوم إلى آخر؟"
+    },
+    "paraQueSirve": {
+      "es": "La media resume muchos datos en uno: la temperatura media del mes, los goles por partido o lo que dura un trayecto. Saber de dónde sale ayuda a entender las noticias.",
+      "va": "La mitjana resumeix moltes dades en una: la temperatura mitjana del mes, els gols per partit o el que dura un trajecte. Saber d'on ix ajuda a entendre les notícies.",
+      "en": "The mean sums up lots of data in one number: the month's average temperature, goals per match or how long a journey takes. Knowing where it comes from helps you understand the news.",
+      "fr": "La moyenne résume beaucoup de données en une seule : la température moyenne du mois, les buts par match ou la durée d'un trajet. Savoir d'où elle vient aide à comprendre les informations.",
+      "ar": "المتوسّط يلخّص معطيات كثيرة في عدد واحد: متوسّط حرارة الشهر، الأهداف في كل مباراة، مدة طريق ما. ومعرفة مصدره تساعد على فهم الأخبار."
+    },
+    "aviso": {
+      "es": "Guardad las legumbres lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els llegums lluny de germans o germanes menuts.",
+      "en": "Keep the beans away from younger brothers and sisters.",
+      "fr": "Gardez les grains loin des petits frères et sœurs.",
+      "ar": "أبعدوا البقول عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "El lunes leemos 10 minutos, el martes 20 y el miércoles 30. ¿Cuál es la media?",
+        "va": "Dilluns llegim 10 minuts, dimarts 20 i dimecres 30. Quina és la mitjana?",
+        "en": "On Monday we read for 10 minutes, on Tuesday 20 and on Wednesday 30. What is the mean?",
+        "fr": "Lundi, nous lisons 10 minutes, mardi 20 et mercredi 30. Quelle est la moyenne ?",
+        "ar": "يوم الاثنين قرأنا 10 دقائق، والثلاثاء 20، والأربعاء 30. ما المتوسّط؟"
+      },
+      "pista": {
+        "es": "Suma los tres días y reparte el total entre 3.",
+        "va": "Suma els tres dies i reparteix el total entre 3.",
+        "en": "Add the three days and share the total by 3.",
+        "fr": "Additionne les trois jours et partage le total entre 3.",
+        "ar": "لنجمع الأيام الثلاثة ونوزّع المجموع على 3."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(10 + 20 + 30) : 3",
+        "resultado": 20,
+        "unidad": "min",
+        "texto": {
+          "es": "La media es de 20 minutos al día.",
+          "va": "La mitjana és de 20 minuts al dia.",
+          "en": "The mean is 20 minutes a day.",
+          "fr": "La moyenne est de 20 minutes par jour.",
+          "ar": "المتوسّط 20 دقيقة في اليوم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una media con algo que hagáis varios días seguidos.",
+        "va": "Inventa'n tu una mitjana amb alguna cosa que feu diversos dies seguits.",
+        "en": "Make up a mean with something you do several days in a row.",
+        "fr": "Invente une moyenne avec quelque chose que vous faites plusieurs jours de suite.",
+        "ar": "لنخترع متوسّطًا عن شيء نفعله عدة أيام متتالية."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "En 4 días de playa cogimos 12, 8, 6 y 10 conchas. ¿Cuántas cogimos de media cada día?",
+        "va": "En 4 dies de platja vam arreplegar 12, 8, 6 i 10 petxines. Quantes en vam arreplegar de mitjana cada dia?",
+        "en": "Over 4 days at the beach we picked up 12, 8, 6 and 10 shells. How many did we pick up per day on average?",
+        "fr": "En 4 jours de plage, nous avons ramassé 12, 8, 6 et 10 coquillages. Combien en avons-nous ramassé en moyenne chaque jour ?",
+        "ar": "في 4 أيام على الشاطئ جمعنا 12 و8 و6 و10 أصداف. كم صدفة جمعنا في المتوسّط كل يوم؟"
+      },
+      "pista": {
+        "es": "Suma: {{12 + 8 + 6 + 10 = 36}}. Ahora reparte entre los 4 días.",
+        "va": "Suma: {{12 + 8 + 6 + 10 = 36}}. Ara reparteix entre els 4 dies.",
+        "en": "Add: {{12 + 8 + 6 + 10 = 36}}. Now share it among the 4 days.",
+        "fr": "Additionne : {{12 + 8 + 6 + 10 = 36}}. Maintenant, partage entre les 4 jours.",
+        "ar": "لنجمع: {{12 + 8 + 6 + 10 = 36}}. ثم نوزّع على الأيام الأربعة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(12 + 8 + 6 + 10) : 4",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "De media, 9 conchas al día.",
+          "va": "De mitjana, 9 petxines al dia.",
+          "en": "On average, 9 shells a day.",
+          "fr": "En moyenne, 9 coquillages par jour.",
+          "ar": "في المتوسّط 9 أصداف في اليوم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con lo que coleccionéis en verano: piedras, conchas, cromos…",
+        "va": "Inventa'n tu una amb el que col·leccioneu a l'estiu: pedres, petxines, cromos…",
+        "en": "Make one up with something you collect in summer: stones, shells, stickers…",
+        "fr": "Invente un problème avec ce que vous collectionnez en été : des cailloux, des coquillages, des images…",
+        "ar": "لنخترع مسألة عمّا نجمعه في الصيف: حصى، أصداف، صور…"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En 3 días, la temperatura máxima fue de 30, 31 y 35 grados. Sin hacer cuentas, ¿la media estará más cerca de 30 o de 35?",
+        "va": "En 3 dies, la temperatura màxima va ser de 30, 31 i 35 graus. Sense fer comptes, la mitjana estarà més a prop de 30 o de 35?",
+        "en": "Over 3 days, the highest temperature was 30, 31 and 35 degrees. Without working it out, will the mean be closer to 30 or to 35?",
+        "fr": "En 3 jours, la température maximale a été de 30, 31 et 35 degrés. Sans calculer, la moyenne sera-t-elle plus près de 30 ou de 35 ?",
+        "ar": "خلال 3 أيام كانت أعلى حرارة 30 و31 و35 درجة. دون حساب، هل سيكون المتوسّط أقرب إلى 30 أم إلى 35؟"
+      },
+      "pista": {
+        "es": "Dos días están cerca de 30 y solo uno es 35.",
+        "va": "Dos dies són prop de 30 i només un és 35.",
+        "en": "Two days are close to 30 and only one is 35.",
+        "fr": "Deux jours sont proches de 30 et un seul est à 35.",
+        "ar": "يومان قريبان من 30 ويوم واحد فقط 35."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(30 + 31 + 35) : 3",
+        "resultado": 32,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Más cerca de 30: la media es 32 grados, {{30 + 31 + 35 = 96}} y {{96 : 3 = 32}}.",
+          "va": "Més a prop de 30: la mitjana és 32 graus, {{30 + 31 + 35 = 96}} i {{96 : 3 = 32}}.",
+          "en": "Closer to 30: the mean is 32 degrees, {{30 + 31 + 35 = 96}} and {{96 : 3 = 32}}.",
+          "fr": "Plus près de 30 : la moyenne est de 32 degrés, {{30 + 31 + 35 = 96}} et {{96 : 3 = 32}}.",
+          "ar": "أقرب إلى 30: المتوسّط 32 درجة، {{30 + 31 + 35 = 96}} و{{96 : 3 = 32}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú tres números y que alguien de casa adivine, sin cuentas, dónde quedará la media.",
+        "va": "Inventa'n tu tres números i que algú de casa endevine, sense comptes, on quedarà la mitjana.",
+        "en": "Make up three numbers and let someone at home guess, without working it out, where the mean will be.",
+        "fr": "Invente trois nombres et que quelqu'un de la maison devine, sans calcul, où sera la moyenne.",
+        "ar": "لنخترع ثلاثة أعداد ونطلب من أحد في البيت أن يخمّن، دون حساب، أين سيقع المتوسّط."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 28,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: estos días cogimos el autobús 2, 4, 2, 3, 2, 5 y 1 veces. ¿Cuál es el rango, de la vez que menos a la que más?",
+        "va": "Per a recordar: aquests dies vam agafar l'autobús 2, 4, 2, 3, 2, 5 i 1 vegades. Quin és el rang, de la vegada que menys a la que més?",
+        "en": "Let's remember: these days we took the bus 2, 4, 2, 3, 2, 5 and 1 times. What is the range, from the fewest to the most?",
+        "fr": "Pour se souvenir : ces jours-ci, nous avons pris le bus 2, 4, 2, 3, 2, 5 et 1 fois. Quelle est l'étendue, du plus petit au plus grand nombre ?",
+        "ar": "لنتذكّر: في هذه الأيام ركبنا الحافلة 2 و4 و2 و3 و2 و5 و1 مرات. ما المدى، من أقل عدد إلى أكبر عدد؟"
+      },
+      "pista": {
+        "es": "Busca el número más grande y el más pequeño, y resta.",
+        "va": "Busca el número més gran i el més menut, i resta.",
+        "en": "Find the greatest number and the smallest, and subtract.",
+        "fr": "Cherche le plus grand nombre et le plus petit, et soustrais.",
+        "ar": "لنبحث عن أكبر عدد وأصغر عدد ونطرح."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 - 1",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El rango es 4: de 1 a 5. Y la moda, el que más se repite, es 2.",
+          "va": "El rang és 4: d'1 a 5. I la moda, el que més es repeteix, és 2.",
+          "en": "The range is 4: from 1 to 5. And the mode, the one that repeats most, is 2.",
+          "fr": "L'étendue est de 4 : de 1 à 5. Et le mode, celui qui se répète le plus, est 2.",
+          "ar": "المدى 4: من 1 إلى 5. والمنوال، أي الأكثر تكرارًا، هو 2."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una lista de datos de la semana y busca su rango y su moda.",
+        "va": "Inventa'n tu una llista de dades de la setmana i busca'n el rang i la moda.",
+        "en": "Make up a list of data from the week and find its range and mode.",
+        "fr": "Invente une liste de données de la semaine et cherche son étendue et son mode.",
+        "ar": "لنخترع قائمة معطيات من الأسبوع ونبحث عن مداها ومنوالها."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame qué es la media con tus palabras, usando algo de casa para repartir.",
+        "va": "Explica'm què és la mitjana amb les teues paraules, fent servir alguna cosa de casa per a repartir.",
+        "en": "Explain to me in your own words what the mean is, using something at home to share out.",
+        "fr": "Explique-moi avec tes mots ce qu'est la moyenne, en utilisant quelque chose de la maison pour partager.",
+        "ar": "اشرح لي أو اشرحي لي بكلماتنا ما المتوسّط، باستعمال شيء من البيت للتوزيع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si yo tengo 2 galletas y tú 6, ¿cómo lo hacemos para tener las mismas?»",
+        "va": "Si no sap per on començar: «Si jo tinc 2 galetes i tu 6, com ho fem per a tindre les mateixes?»",
+        "en": "If they don't know where to start: “If I have 2 biscuits and you have 6, how do we make it so we have the same?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si j'ai 2 biscuits et toi 6, comment on fait pour en avoir autant ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كان معي بسكويتتان ومعك 6، فكيف نفعل ليصبح معنا العدد نفسه؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "470d4bcf887e"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "470d4bcf887e"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "470d4bcf887e"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "470d4bcf887e"
+      }
+    }
+  }
+}

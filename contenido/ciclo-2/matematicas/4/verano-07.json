@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.v07",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "verano": 7,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Vueltas y círculos",
+    "va": "Voltes i cercles",
+    "en": "Turns and circles",
+    "fr": "Des tours et des cercles",
+    "ar": "دورات ودوائر"
+  },
+  "objetivo": {
+    "es": "La circunferencia es el borde de un círculo; el diámetro, lo que mide de lado a lado pasando por el centro. Midiendo platos y vasos con una cuerda aparece una sorpresa: el borde mide siempre algo más de 3 veces el diámetro.",
+    "va": "La circumferència és la vora d'un cercle; el diàmetre, el que mesura de costat a costat passant pel centre. Mesurant plats i gots amb una corda apareix una sorpresa: la vora mesura sempre una mica més de 3 vegades el diàmetre.",
+    "en": "The circumference is the edge of a circle; the diameter is how wide it is from side to side through the centre. Measuring plates and cups with string brings a surprise: the edge is always a little more than 3 times the diameter.",
+    "fr": "La circonférence est le bord d'un disque ; le diamètre, c'est sa mesure d'un côté à l'autre en passant par le centre. En mesurant des assiettes et des verres avec une ficelle, une surprise apparaît : le bord mesure toujours un peu plus de 3 fois le diamètre.",
+    "ar": "المحيط هو حافّة الدائرة، والقُطر هو طولها من جهة إلى جهة مرورًا بالمركز. وعند قياس الصحون والأكواب بخيط تظهر مفاجأة: الحافّة دائمًا أطول قليلًا من 3 أمثال القُطر."
+  },
+  "comoAyudar": {
+    "es": "Medir con cuerda no sale exacto, y no pasa nada. Lo interesante es que, aunque los números cambien, la relación se repite: «un poco más de 3 veces».",
+    "va": "Mesurar amb corda no ix exacte, i no passa res. L'interessant és que, encara que els números canvien, la relació es repeteix: «una mica més de 3 vegades».",
+    "en": "Measuring with string isn't exact, and that's fine. The interesting thing is that, even if the numbers change, the relationship repeats: “a little more than 3 times”.",
+    "fr": "Mesurer avec une ficelle n'est pas exact, et ce n'est pas grave. Ce qui est intéressant, c'est que, même si les nombres changent, la relation se répète : « un peu plus de 3 fois ».",
+    "ar": "القياس بالخيط لا يكون دقيقًا، ولا بأس بذلك. المثير أن العلاقة تتكرّر حتى لو تغيّرت الأعداد: «أكثر قليلًا من 3 مرات»."
+  },
+  "saberes": [
+    "matematicas.geometria.circunferencia",
+    "matematicas.medida.instrumentos"
+  ],
+  "criterios": [
+    "matematicas.c2.2.1",
+    "matematicas.c2.3.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cuerda y círculos",
+      "va": "Corda i cercles",
+      "en": "String and circles",
+      "fr": "Ficelle et cercles",
+      "ar": "الخيط والدوائر"
+    },
+    "material": [
+      {
+        "es": "Una cuerda o un hilo",
+        "va": "Una corda o un fil",
+        "en": "A piece of string or thread",
+        "fr": "Une ficelle ou un fil",
+        "ar": "خيط أو حبل رفيع"
+      },
+      {
+        "es": "Una regla o una cinta métrica",
+        "va": "Un regle o una cinta mètrica",
+        "en": "A ruler or tape measure",
+        "fr": "Une règle ou un mètre ruban",
+        "ar": "مسطرة أو شريط قياس"
+      },
+      {
+        "es": "Platos, vasos, tapas y botes redondos",
+        "va": "Plats, gots, tapes i pots redons",
+        "en": "Round plates, cups, lids and jars",
+        "fr": "Des assiettes, des verres, des couvercles et des pots ronds",
+        "ar": "صحون وأكواب وأغطية وعلب مستديرة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Rodead el borde de un plato con la cuerda, marcad dónde se juntan los extremos y medid ese trozo con la regla. Es la longitud de la circunferencia.",
+          "va": "Envolteu la vora d'un plat amb la corda, marqueu on s'ajunten els extrems i mesureu aquell tros amb el regle. És la longitud de la circumferència.",
+          "en": "Wrap the string around the edge of a plate, mark where the ends meet and measure that piece with the ruler. That is the length of the circumference.",
+          "fr": "Faites le tour d'une assiette avec la ficelle, marquez l'endroit où les bouts se rejoignent et mesurez ce morceau avec la règle. C'est la longueur de la circonférence.",
+          "ar": "لفّوا الخيط حول حافّة صحن، وضعوا علامة حيث يلتقي طرفاه، وقيسوا تلك القطعة بالمسطرة. هذا طول المحيط."
+        }
+      },
+      {
+        "pictograma": "regla",
+        "texto": {
+          "es": "Ahora medid el plato de lado a lado, pasando por el centro: es el diámetro.",
+          "va": "Ara mesureu el plat de costat a costat, passant pel centre: és el diàmetre.",
+          "en": "Now measure the plate from side to side, through the centre: that is the diameter.",
+          "fr": "Maintenant, mesurez l'assiette d'un côté à l'autre en passant par le centre : c'est le diamètre.",
+          "ar": "الآن قيسوا الصحن من جهة إلى جهة مرورًا بالمركز: هذا هو القُطر."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Apuntadlo en una tabla junto con otros objetos redondos: vaso, tapa, bote. ¿Cuántas veces cabe el diámetro en el borde?",
+          "va": "Apunteu-ho en una taula juntament amb altres objectes redons: got, tapa, pot. Quantes vegades cap el diàmetre en la vora?",
+          "en": "Write it in a table along with other round objects: cup, lid, jar. How many times does the diameter fit around the edge?",
+          "fr": "Notez-le dans un tableau avec d'autres objets ronds : verre, couvercle, pot. Combien de fois le diamètre tient-il dans le bord ?",
+          "ar": "دوّنوا ذلك في جدول مع أشياء مستديرة أخرى: كوب، غطاء، علبة. كم مرة يدخل القُطر في الحافّة؟"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Comparad los resultados. ¿Qué descubrís? En todos sale algo más de 3 veces, sea grande o pequeño.",
+          "va": "Compareu els resultats. Què descobriu? En tots ix una mica més de 3 vegades, siga gran o menut.",
+          "en": "Compare the results. What do you discover? It always comes out a little more than 3 times, big or small.",
+          "fr": "Comparez les résultats. Que découvrez-vous ? Ça fait toujours un peu plus de 3 fois, que l'objet soit grand ou petit.",
+          "ar": "قارنوا النتائج. ماذا تكتشفون؟ في كل الأشياء يخرج أكثر قليلًا من 3 مرات، كبيرة كانت أم صغيرة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo la cuerda: medid el diámetro con ella y contad cuántas veces cabe en el borde.",
+      "va": "Feu servir només la corda: mesureu el diàmetre amb ella i compteu quantes vegades cap en la vora.",
+      "en": "Use only the string: measure the diameter with it and count how many times it fits around the edge.",
+      "fr": "Utilisez seulement la ficelle : mesurez le diamètre avec elle et comptez combien de fois il tient dans le bord.",
+      "ar": "استعملوا الخيط فقط: قيسوا به القُطر وعدّوا كم مرة يدخل في الحافّة."
+    },
+    "masDificil": {
+      "es": "Calculad cuánto medirá el borde de una rueda de bici de 60 cm de diámetro antes de medirlo: algo más de {{3 × 60}} cm.",
+      "va": "Calculeu quant mesurarà la vora d'una roda de bici de 60 cm de diàmetre abans de mesurar-la: una mica més de {{3 × 60}} cm.",
+      "en": "Work out how long the edge of a bike wheel with a 60 cm diameter will be before measuring it: a little more than {{3 × 60}} cm.",
+      "fr": "Calculez combien mesurera le bord d'une roue de vélo de 60 cm de diamètre avant de la mesurer : un peu plus de {{3 × 60}} cm.",
+      "ar": "احسبوا طول حافّة عجلة درّاجة قُطرها 60 cm قبل قياسها: أكثر قليلًا من {{3 × 60}} cm."
+    },
+    "paraQueSirve": {
+      "es": "Los círculos están en ruedas, relojes y platos. Descubrir que el borde y el diámetro siempre guardan la misma relación es descubrir una de las ideas más famosas de las matemáticas.",
+      "va": "Els cercles són en rodes, rellotges i plats. Descobrir que la vora i el diàmetre sempre guarden la mateixa relació és descobrir una de les idees més famoses de les matemàtiques.",
+      "en": "Circles are in wheels, clocks and plates. Discovering that the edge and the diameter always keep the same relationship is discovering one of the most famous ideas in maths.",
+      "fr": "Les cercles sont dans les roues, les horloges et les assiettes. Découvrir que le bord et le diamètre gardent toujours la même relation, c'est découvrir une des idées les plus célèbres des mathématiques.",
+      "ar": "الدوائر موجودة في العجلات والساعات والصحون. واكتشاف أن الحافّة والقُطر تجمعهما دائمًا العلاقة نفسها اكتشاف لإحدى أشهر الأفكار في الرياضيات."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un vaso mide 7 cm de lado a lado. Su borde mide algo más de 3 veces eso. ¿Cuánto son 3 veces?",
+        "va": "Un got mesura 7 cm de costat a costat. La vora mesura una mica més de 3 vegades això. Quant són 3 vegades?",
+        "en": "A cup is 7 cm across. Its edge is a little more than 3 times that. How much is 3 times?",
+        "fr": "Un verre mesure 7 cm d'un côté à l'autre. Son bord mesure un peu plus de 3 fois ça. Combien font 3 fois ?",
+        "ar": "قُطر كوب 7 cm. وحافّته أطول قليلًا من 3 أمثال ذلك. كم تساوي 3 أمثال؟"
+      },
+      "pista": {
+        "es": "Suma 7 tres veces o usa la tabla del 3.",
+        "va": "Suma 7 tres vegades o fes servir la taula del 3.",
+        "en": "Add 7 three times or use the 3 times table.",
+        "fr": "Ajoute 7 trois fois ou utilise la table de 3.",
+        "ar": "لنجمع 7 ثلاث مرات أو نستعمل جدول 3."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 7",
+        "resultado": 21,
+        "unidad": "cm",
+        "texto": {
+          "es": "3 veces son 21 cm, así que el borde mide un poco más: unos 22 cm.",
+          "va": "3 vegades són 21 cm, així que la vora mesura una mica més: uns 22 cm.",
+          "en": "3 times is 21 cm, so the edge is a little more: about 22 cm.",
+          "fr": "3 fois, ça fait 21 cm, donc le bord mesure un peu plus : environ 22 cm.",
+          "ar": "3 أمثال تساوي 21 cm، إذن الحافّة أطول قليلًا: نحو 22 cm."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con un objeto redondo de casa y mídelo para comprobarlo.",
+        "va": "Inventa'n tu una amb un objecte redó de casa i mesura'l per a comprovar-ho.",
+        "en": "Make one up with a round object at home and measure it to check.",
+        "fr": "Invente un problème avec un objet rond de la maison et mesure-le pour vérifier.",
+        "ar": "لنخترع مسألة عن شيء مستدير في البيت ونقيسه للتحقّق."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "El radio va del centro al borde y es la mitad del diámetro. Si un plato tiene 24 cm de diámetro, ¿cuánto mide su radio?",
+        "va": "El radi va del centre a la vora i és la meitat del diàmetre. Si un plat té 24 cm de diàmetre, quant mesura el radi?",
+        "en": "The radius goes from the centre to the edge and is half the diameter. If a plate has a 24 cm diameter, how long is its radius?",
+        "fr": "Le rayon va du centre au bord et c'est la moitié du diamètre. Si une assiette a 24 cm de diamètre, combien mesure son rayon ?",
+        "ar": "نصف القُطر يمتدّ من المركز إلى الحافّة وهو نصف القُطر. إذا كان قُطر صحن 24 cm، فكم طول نصف قُطره؟"
+      },
+      "pista": {
+        "es": "La mitad de 20 es 10 y la mitad de 4 es 2.",
+        "va": "La meitat de 20 és 10 i la meitat de 4 és 2.",
+        "en": "Half of 20 is 10 and half of 4 is 2.",
+        "fr": "La moitié de 20 est 10 et la moitié de 4 est 2.",
+        "ar": "نصف 20 هو 10 ونصف 4 هو 2."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 : 2",
+        "resultado": 12,
+        "unidad": "cm",
+        "texto": {
+          "es": "El radio mide 12 cm.",
+          "va": "El radi mesura 12 cm.",
+          "en": "The radius is 12 cm.",
+          "fr": "Le rayon mesure 12 cm.",
+          "ar": "طول نصف القُطر 12 cm."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con el diámetro de una pizza o de una tarta.",
+        "va": "Inventa'n tu una amb el diàmetre d'una pizza o d'un pastís.",
+        "en": "Make one up with the diameter of a pizza or a cake.",
+        "fr": "Invente un problème avec le diamètre d'une pizza ou d'un gâteau.",
+        "ar": "لنخترع مسألة بقُطر بيتزا أو كعكة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Rodeamos una tarta con una cinta de 95 cm y sobran 12 cm. ¿Cuánto mide el borde de la tarta?",
+        "va": "Envoltem un pastís amb una cinta de 95 cm i en sobren 12 cm. Quant mesura la vora del pastís?",
+        "en": "We wrap a 95 cm ribbon around a cake and 12 cm is left over. How long is the edge of the cake?",
+        "fr": "Nous entourons un gâteau avec un ruban de 95 cm et il reste 12 cm. Combien mesure le bord du gâteau ?",
+        "ar": "لففنا كعكة بشريط طوله 95 cm وتبقّى منه 12 cm. كم طول حافّة الكعكة؟"
+      },
+      "pista": {
+        "es": "El borde es la cinta que se ha usado: quita lo que sobra.",
+        "va": "La vora és la cinta que s'ha fet servir: lleva el que sobra.",
+        "en": "The edge is the ribbon that was used: take away what is left over.",
+        "fr": "Le bord, c'est le ruban utilisé : enlève ce qui reste.",
+        "ar": "الحافّة هي الجزء المستعمل من الشريط: لنطرح ما تبقّى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "95 - 12",
+        "resultado": 83,
+        "unidad": "cm",
+        "texto": {
+          "es": "El borde mide 83 cm.",
+          "va": "La vora mesura 83 cm.",
+          "en": "The edge is 83 cm long.",
+          "fr": "Le bord mesure 83 cm.",
+          "ar": "طول الحافّة 83 cm."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una envolviendo algo redondo con una cinta o un cordón.",
+        "va": "Inventa'n tu una envoltant alguna cosa redona amb una cinta o un cordó.",
+        "en": "Make one up wrapping something round with a ribbon or cord.",
+        "fr": "Invente un problème en entourant quelque chose de rond avec un ruban ou un cordon.",
+        "ar": "لنخترع مسألة نلفّ فيها شيئًا مستديرًا بشريط أو خيط."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 36,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: una cuerda mide 1,35 m. ¿Cuántos centímetros son?",
+        "va": "Per a recordar: una corda mesura 1,35 m. Quants centímetres són?",
+        "en": "Let's remember: a piece of string is 1,35 m long. How many centimetres is that?",
+        "fr": "Pour se souvenir : une ficelle mesure 1,35 m. Combien de centimètres cela fait-il ?",
+        "ar": "لنتذكّر: طول حبل 1,35 m. كم سنتيمترًا يساوي؟"
+      },
+      "pista": {
+        "es": "1 metro son 100 cm, y 0,35 m son 35 cm.",
+        "va": "1 metre són 100 cm, i 0,35 m són 35 cm.",
+        "en": "1 metre is 100 cm, and 0,35 m is 35 cm.",
+        "fr": "1 mètre, c'est 100 cm, et 0,35 m, c'est 35 cm.",
+        "ar": "المتر يساوي 100 cm، و0,35 m تساوي 35 cm."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 + 35",
+        "resultado": 135,
+        "unidad": "cm",
+        "texto": {
+          "es": "Son 135 cm.",
+          "va": "Són 135 cm.",
+          "en": "It is 135 cm.",
+          "fr": "Ça fait 135 cm.",
+          "ar": "تساوي 135 cm."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una midiendo algo de casa en metros y pasándolo a centímetros.",
+        "va": "Inventa'n tu una mesurant alguna cosa de casa en metres i passant-la a centímetres.",
+        "en": "Make one up measuring something at home in metres and changing it to centimetres.",
+        "fr": "Invente un problème en mesurant quelque chose de la maison en mètres et en le convertissant en centimètres.",
+        "ar": "لنخترع مسألة نقيس فيها شيئًا في البيت بالأمتار ونحوّله إلى سنتيمترات."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame qué diferencia hay entre la circunferencia y el círculo. Puedes usar un plato.",
+        "va": "Explica'm quina diferència hi ha entre la circumferència i el cercle. Pots fer servir un plat.",
+        "en": "Explain to me the difference between the circumference and the circle. You can use a plate.",
+        "fr": "Explique-moi la différence entre la circonférence et le disque. Tu peux utiliser une assiette.",
+        "ar": "اشرح لي أو اشرحي لي الفرق بين المحيط والدائرة. يمكن أن نستعمل صحنًا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Pasa el dedo solo por el borde. Ahora toca todo el plato. ¿Qué cambia?»",
+        "va": "Si no sap per on començar: «Passa el dit només per la vora. Ara toca tot el plat. Què canvia?»",
+        "en": "If they don't know where to start: “Run your finger just around the edge. Now touch the whole plate. What changes?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Passe le doigt seulement sur le bord. Maintenant, touche toute l'assiette. Qu'est-ce qui change ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «لنمرّر الإصبع على الحافّة فقط. ثم نلمس الصحن كله. ماذا يتغيّر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "eefb150cad53"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "eefb150cad53"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "eefb150cad53"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "eefb150cad53"
+      }
+    }
+  }
+}

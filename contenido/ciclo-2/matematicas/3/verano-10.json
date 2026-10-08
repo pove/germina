@@ -1,0 +1,336 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.v10",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "verano": 10,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Historias con números",
+    "va": "Històries amb números",
+    "en": "Stories with numbers",
+    "fr": "Des histoires avec des nombres",
+    "ar": "قصص بالأعداد"
+  },
+  "objetivo": {
+    "es": "Inventar un problema es la otra cara de resolverlo: elegir los datos, hacer la pregunta y ver si se puede contestar. Los viajes y las excursiones del verano dan historias de sobra.",
+    "va": "Inventar un problema és l'altra cara de resoldre'l: triar les dades, fer la pregunta i veure si es pot contestar. Els viatges i les excursions de l'estiu donen històries de sobra.",
+    "en": "Making up a word problem is the other side of solving one: choosing the facts, asking the question and seeing whether it can be answered. Summer trips and outings give plenty of stories.",
+    "fr": "Inventer un problème, c'est l'autre face de la résolution : choisir les données, poser la question et voir si on peut y répondre. Les voyages et les sorties de l'été donnent des histoires à revendre.",
+    "ar": "اختراع مسألة هو الوجه الآخر لحلّها: اختيار المعطيات، وطرح السؤال، والتأكّد من إمكان الإجابة عنه. ورحلات الصيف ونزهاته تعطي قصصًا كثيرة."
+  },
+  "comoAyudar": {
+    "es": "Si el problema inventado no se puede resolver, mejor: preguntad «¿qué dato le falta?» y arregladlo juntos. Equivocarse aquí es parte del juego.",
+    "va": "Si el problema inventat no es pot resoldre, millor: pregunteu «quina dada li falta?» i arregleu-lo junts. Equivocar-se ací és part del joc.",
+    "en": "If the made-up problem can't be solved, even better: ask “Which fact is missing?” and fix it together. Getting it wrong here is part of the game.",
+    "fr": "Si le problème inventé ne peut pas être résolu, tant mieux : demandez « Quelle donnée manque ? » et arrangez-le ensemble. Se tromper ici fait partie du jeu.",
+    "ar": "إذا لم يمكن حلّ المسألة المخترعة، فهذا أفضل: اسألوا «أي معطى ينقصها؟» وأصلحوها معًا. الخطأ هنا جزء من اللعبة."
+  },
+  "saberes": [
+    "matematicas.fracciones.perseverancia",
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.1.4",
+    "matematicas.c2.6.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Historias del verano",
+      "va": "Històries de l'estiu",
+      "en": "Summer stories",
+      "fr": "Les histoires de l'été",
+      "ar": "قصص الصيف"
+    },
+    "material": [
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      },
+      {
+        "es": "Fotos, tiques o entradas de una excursión o un viaje, si tenéis",
+        "va": "Fotos, tiquets o entrades d'una excursió o un viatge, si en teniu",
+        "en": "Photos, receipts or tickets from an outing or a trip, if you have any",
+        "fr": "Des photos, des tickets ou des billets d'une sortie ou d'un voyage, si vous en avez",
+        "ar": "صور أو إيصالات أو تذاكر من نزهة أو رحلة، إن وُجدت"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Elegid una excursión, un viaje o un día especial del verano. Buscad números en él: kilómetros, precios, horas, personas, helados…",
+          "va": "Trieu una excursió, un viatge o un dia especial de l'estiu. Busqueu-hi números: quilòmetres, preus, hores, persones, gelats…",
+          "en": "Choose an outing, a trip or a special summer day. Look for numbers in it: kilometres, prices, times, people, ice creams…",
+          "fr": "Choisissez une sortie, un voyage ou un jour spécial de l'été. Cherchez-y des nombres : kilomètres, prix, heures, personnes, glaces…",
+          "ar": "اختاروا نزهة أو رحلة أو يومًا مميّزًا من الصيف. ابحثوا فيه عن أعداد: كيلومترات، أسعار، ساعات، أشخاص، مثلّجات…"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid una historia corta con dos datos y una pregunta: «Fuimos 5 al río y cada persona llevó 2 bocadillos. ¿Cuántos bocadillos llevamos?».",
+          "va": "Escriviu una història curta amb dues dades i una pregunta: «Vam anar 5 al riu i cada persona va portar 2 entrepans. Quants entrepans vam portar?».",
+          "en": "Write a short story with two facts and a question: “5 of us went to the river and each person brought 2 sandwiches. How many sandwiches did we bring?”.",
+          "fr": "Écrivez une courte histoire avec deux données et une question : « Nous sommes allés à 5 à la rivière et chaque personne a apporté 2 sandwichs. Combien de sandwichs avons-nous apportés ? ».",
+          "ar": "اكتبوا قصة قصيرة فيها معطيان وسؤال: «ذهبنا 5 أشخاص إلى النهر وأحضر كل شخص شطيرتين. كم شطيرة أحضرنا؟»."
+        }
+      },
+      {
+        "pictograma": "sobre",
+        "texto": {
+          "es": "Doblad el papel y dádselo a otra persona de casa para que lo resuelva.",
+          "va": "Doblegueu el paper i doneu-lo a una altra persona de casa perquè el resolga.",
+          "en": "Fold the paper and give it to someone else at home to solve.",
+          "fr": "Pliez le papier et donnez-le à une autre personne de la maison pour qu'elle le résolve.",
+          "ar": "اطووا الورقة وأعطوها لشخص آخر في البيت ليحلّها."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Hablad: ¿se podía resolver? ¿Faltaba o sobraba algún dato? ¿Qué operación ha usado?",
+          "va": "Parleu: es podia resoldre? Faltava o sobrava alguna dada? Quina operació ha fet servir?",
+          "en": "Talk about it: could it be solved? Was a fact missing or extra? Which operation did they use?",
+          "fr": "Parlez-en : pouvait-on le résoudre ? Manquait-il ou y avait-il une donnée en trop ? Quelle opération a été utilisée ?",
+          "ar": "تحدّثوا: هل أمكن حلّها؟ هل نقص معطى أو زاد؟ أي عملية استُعملت؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Inventad la historia de palabra, sin escribir, con números pequeños.",
+      "va": "Inventeu la història de paraula, sense escriure, amb números menuts.",
+      "en": "Make up the story out loud, without writing, with small numbers.",
+      "fr": "Inventez l'histoire à l'oral, sans écrire, avec de petits nombres.",
+      "ar": "اخترعوا القصة شفهيًا، دون كتابة، بأعداد صغيرة."
+    },
+    "masDificil": {
+      "es": "Inventad un problema de dos pasos, o uno con un dato que sobre para despistar.",
+      "va": "Inventeu un problema de dos passos, o un amb una dada que sobre per a despistar.",
+      "en": "Make up a two-step problem, or one with an extra fact to throw people off.",
+      "fr": "Inventez un problème en deux étapes, ou un problème avec une donnée en trop pour brouiller les pistes.",
+      "ar": "اخترعوا مسألة من خطوتين، أو مسألة فيها معطى زائد للتمويه."
+    },
+    "paraQueSirve": {
+      "es": "Quien inventa problemas entiende mejor los que lee: sabe qué es un dato, qué es la pregunta y qué operación encaja.",
+      "va": "Qui inventa problemes entén millor els que llig: sap què és una dada, què és la pregunta i quina operació hi encaixa.",
+      "en": "Someone who makes up word problems understands the ones they read better: they know what a fact is, what the question is and which operation fits.",
+      "fr": "Qui invente des problèmes comprend mieux ceux qu'il lit : on sait ce qu'est une donnée, ce qu'est la question et quelle opération convient.",
+      "ar": "من يخترع المسائل يفهم أفضل ما يقرؤه منها: يعرف ما المعطى، وما السؤال، وأي عملية تناسب."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Fuimos 5 al río y cada persona llevó 2 bocadillos. ¿Cuántos bocadillos llevamos?",
+        "va": "Vam anar 5 al riu i cada persona va portar 2 entrepans. Quants entrepans vam portar?",
+        "en": "5 of us went to the river and each person brought 2 sandwiches. How many sandwiches did we bring?",
+        "fr": "Nous sommes allés à 5 à la rivière et chaque personne a apporté 2 sandwichs. Combien de sandwichs avons-nous apportés ?",
+        "ar": "ذهبنا 5 أشخاص إلى النهر وأحضر كل شخص شطيرتين. كم شطيرة أحضرنا؟"
+      },
+      "pista": {
+        "es": "Son 5 grupos de 2: cuenta de 2 en 2 o piensa en la tabla del 2.",
+        "va": "Són 5 grups de 2: compta de 2 en 2 o pensa en la taula del 2.",
+        "en": "It is 5 groups of 2: count in twos or think of the 2 times table.",
+        "fr": "Ce sont 5 groupes de 2 : compte de 2 en 2 ou pense à la table de 2.",
+        "ar": "إنها 5 مجموعات من 2: لنعدّ 2 بـ2 أو نفكّر في جدول 2."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 2",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llevamos 10 bocadillos.",
+          "va": "Vam portar 10 entrepans.",
+          "en": "We brought 10 sandwiches.",
+          "fr": "Nous avons apporté 10 sandwichs.",
+          "ar": "أحضرنا 10 شطائر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con la comida de una excursión.",
+        "va": "Inventa'n tu una amb el menjar d'una excursió.",
+        "en": "Make one up with the food from an outing.",
+        "fr": "Invente un problème avec la nourriture d'une sortie.",
+        "ar": "لنخترع مسألة عن طعام نزهة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En el viaje paramos a los 45 kilómetros y después hicimos 38 más. ¿Cuántos kilómetros recorrimos?",
+        "va": "En el viatge vam parar als 45 quilòmetres i després en vam fer 38 més. Quants quilòmetres vam recórrer?",
+        "en": "On the trip we stopped after 45 kilometres and then drove 38 more. How many kilometres did we travel?",
+        "fr": "Pendant le voyage, nous nous sommes arrêtés après 45 kilomètres, puis nous en avons fait 38 de plus. Combien de kilomètres avons-nous parcourus ?",
+        "ar": "في الرحلة توقّفنا بعد 45 كيلومترًا ثم قطعنا 38 أخرى. كم كيلومترًا قطعنا؟"
+      },
+      "pista": {
+        "es": "Suma las decenas (40 y 30) y luego las unidades (5 y 8).",
+        "va": "Suma les desenes (40 i 30) i després les unitats (5 i 8).",
+        "en": "Add the tens (40 and 30) and then the ones (5 and 8).",
+        "fr": "Additionne les dizaines (40 et 30), puis les unités (5 et 8).",
+        "ar": "لنجمع العشرات (40 و30) ثم الآحاد (5 و8)."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "45 + 38",
+        "resultado": 83,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Recorrimos 83 kilómetros.",
+          "va": "Vam recórrer 83 quilòmetres.",
+          "en": "We travelled 83 kilometres.",
+          "fr": "Nous avons parcouru 83 kilomètres.",
+          "ar": "قطعنا 83 كيلومترًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos trozos de un viaje.",
+        "va": "Inventa'n tu una amb dos trossos d'un viatge.",
+        "en": "Make one up with two parts of a journey.",
+        "fr": "Invente un problème avec deux parties d'un voyage.",
+        "ar": "لنخترع مسألة عن جزأين من رحلة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Este problema tiene un dato que sobra: «Mi tía tiene 34 años y compra 3 entradas de 6 €. ¿Cuánto paga?». ¿Cuál sobra? ¿Cuánto paga?",
+        "va": "Aquest problema té una dada que sobra: «La meua tia té 34 anys i compra 3 entrades de 6 €. Quant paga?». Quina sobra? Quant paga?",
+        "en": "This word problem has an extra fact: “My aunt is 34 and buys 3 tickets at €6 each. How much does she pay?”. Which fact is extra? How much does she pay?",
+        "fr": "Ce problème a une donnée en trop : « Ma tante a 34 ans et achète 3 billets à 6 €. Combien paie-t-elle ? ». Laquelle est en trop ? Combien paie-t-elle ?",
+        "ar": "في هذه المسألة معطى زائد: «عمر خالتي 34 سنة، واشترت 3 تذاكر ثمن كل منها 6 €. كم دفعت؟». ما المعطى الزائد؟ وكم دفعت؟"
+      },
+      "pista": {
+        "es": "Lee la pregunta primero: ¿qué números necesitas para contestarla?",
+        "va": "Llig la pregunta primer: quins números necessites per a contestar-la?",
+        "en": "Read the question first: which numbers do you use to answer it?",
+        "fr": "Lis d'abord la question : de quels nombres as-tu besoin pour y répondre ?",
+        "ar": "لنقرأ السؤال أولًا: أي أعداد نحتاج إليها للإجابة؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Sobra la edad de la tía. Paga 18 €: {{3 × 6 = 18}}. Si lo descubre leyendo la pregunta primero, es una gran pista para otros problemas.",
+          "va": "Sobra l'edat de la tia. Paga 18 €: {{3 × 6 = 18}}. Si ho descobreix llegint la pregunta primer, és una gran pista per a altres problemes.",
+          "en": "The aunt's age is extra. She pays €18: {{3 × 6 = 18}}. If they find it by reading the question first, that's a great clue for other problems.",
+          "fr": "L'âge de la tante est en trop. Elle paie 18 € : {{3 × 6 = 18}}. Le découvrir en lisant d'abord la question est un excellent indice pour d'autres problèmes.",
+          "ar": "عمر الخالة زائد. دفعت 18 €: {{3 × 6 = 18}}. واكتشاف ذلك بقراءة السؤال أولًا مفتاح جيد لمسائل أخرى."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema con un dato que sobre y que alguien de casa lo encuentre.",
+        "va": "Inventa'n tu un problema amb una dada que sobre i que algú de casa la trobe.",
+        "en": "Make up a word problem with an extra fact and let someone at home find it.",
+        "fr": "Invente un problème avec une donnée en trop et que quelqu'un de la maison la trouve.",
+        "ar": "لنخترع مسألة فيها معطى زائد ونطلب من أحد في البيت أن يجده."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 26,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: llevamos 3 paquetes de 6 zumos a la excursión y nos bebemos 10. ¿Cuántos quedan?",
+        "va": "Per a recordar: portem 3 paquets de 6 sucs a l'excursió i ens en bevem 10. Quants en queden?",
+        "en": "Let's remember: we take 3 packs of 6 juice cartons on the outing and drink 10. How many are left?",
+        "fr": "Pour se souvenir : nous emportons 3 paquets de 6 jus en sortie et nous en buvons 10. Combien en reste-t-il ?",
+        "ar": "لنتذكّر: أخذنا إلى النزهة 3 علب في كل منها 6 عصائر وشربنا 10. كم بقي؟"
+      },
+      "pista": {
+        "es": "Son dos pasos: primero, cuántos zumos hay; después, cuántos quedan.",
+        "va": "Són dos passos: primer, quants sucs hi ha; després, quants en queden.",
+        "en": "There are two steps: first, how many cartons there are; then, how many are left.",
+        "fr": "Il y a deux étapes : d'abord, combien il y a de jus ; ensuite, combien il en reste.",
+        "ar": "إنهما خطوتان: أولًا كم عصيرًا هناك، ثم كم بقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 6 - 10",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 8 zumos: {{3 × 6 = 18}} y {{18 − 10 = 8}}.",
+          "va": "En queden 8: {{3 × 6 = 18}} i {{18 − 10 = 8}}.",
+          "en": "8 cartons are left: {{3 × 6 = 18}} and {{18 − 10 = 8}}.",
+          "fr": "Il reste 8 jus : {{3 × 6 = 18}} et {{18 − 10 = 8}}.",
+          "ar": "بقيت 8 عصائر: {{3 × 6 = 18}} و{{18 − 10 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos con algo que se compra en paquetes.",
+        "va": "Inventa'n tu un de dos passos amb alguna cosa que es compra en paquets.",
+        "en": "Make up a two-step one with something that comes in packs.",
+        "fr": "Invente un problème en deux étapes avec quelque chose qui s'achète en paquets.",
+        "ar": "لنخترع مسألة من خطوتين عن شيء يُشترى في علب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Inventa un problema sobre tu mejor día del verano y explícame cómo se resuelve.",
+        "va": "Inventa un problema sobre el teu millor dia de l'estiu i explica'm com es resol.",
+        "en": "Make up a word problem about your best day of the summer and explain to me how to solve it.",
+        "fr": "Invente un problème sur ton meilleur jour de l'été et explique-moi comment on le résout.",
+        "ar": "لنخترع مسألة عن أجمل يوم في الصيف، واشرح لي أو اشرحي لي كيف تُحلّ."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué hicimos ese día? ¿Qué podríamos contar?»",
+        "va": "Si no sap per on començar: «Què vam fer aquell dia? Què podríem comptar?»",
+        "en": "If they don't know where to start: “What did we do that day? What could we count?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce qu'on a fait ce jour-là ? Qu'est-ce qu'on pourrait compter ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا فعلنا في ذلك اليوم؟ ماذا يمكن أن نعدّ؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Es el último reto del verano: resolved juntos el problema, celebradlo y guardad el papel. El año que viene será divertido leerlo.",
+          "va": "És l'últim repte de l'estiu: resoleu junts el problema, celebreu-ho i guardeu el paper. L'any que ve serà divertit llegir-lo.",
+          "en": "It is the last summer challenge: solve the problem together, celebrate and keep the paper. It will be fun to read next year.",
+          "fr": "C'est le dernier défi de l'été : résolvez le problème ensemble, fêtez-le et gardez le papier. L'année prochaine, ce sera amusant de le relire.",
+          "ar": "إنه آخر تحدٍّ في الصيف: حلّوا المسألة معًا، واحتفلوا، واحتفظوا بالورقة. سيكون ممتعًا أن نقرأها في السنة القادمة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "bb48d794a427"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "bb48d794a427"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "bb48d794a427"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "bb48d794a427"
+      }
+    }
+  }
+}

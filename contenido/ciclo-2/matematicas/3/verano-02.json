@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.v02",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "verano": 2,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Números de la calle",
+    "va": "Números del carrer",
+    "en": "Street numbers",
+    "fr": "Les nombres de la rue",
+    "ar": "أعداد الشارع"
+  },
+  "objetivo": {
+    "es": "En los paseos de verano hay números de cuatro cifras por todas partes: matrículas, portales, precios. Leerlos y compararlos mantiene fresco lo que vale cada cifra según su sitio.",
+    "va": "En les passejades d'estiu hi ha números de quatre xifres per tot arreu: matrícules, portals, preus. Llegir-los i comparar-los manté fresc el que val cada xifra segons el lloc on és.",
+    "en": "On summer walks there are four-digit numbers everywhere: number plates, house numbers, prices. Reading and comparing them keeps fresh what each digit is worth depending on its place.",
+    "fr": "Pendant les promenades d'été, il y a des nombres à quatre chiffres partout : plaques d'immatriculation, numéros de porte, prix. Les lire et les comparer garde en tête ce que vaut chaque chiffre selon sa place.",
+    "ar": "في نزهات الصيف أعداد من أربعة أرقام في كل مكان: لوحات السيارات، أرقام الأبواب، الأسعار. قراءتها ومقارنتها تُبقي حاضرًا ما تساويه كل خانة حسب مكانها."
+  },
+  "comoAyudar": {
+    "es": "Cuando compare dos números, preguntad «¿en qué te has fijado primero?». La clave es mirar las cifras de la izquierda: los millares.",
+    "va": "Quan compare dos números, pregunteu «en què t'has fixat primer?». La clau és mirar les xifres de l'esquerra: els milers.",
+    "en": "When they compare two numbers, ask “What did you look at first?”. The key is to look at the digits on the left: the thousands.",
+    "fr": "Quand il ou elle compare deux nombres, demandez « Qu'est-ce que tu as regardé en premier ? ». La clé, c'est de regarder les chiffres de gauche : les milliers.",
+    "ar": "عندما نقارن عددين، اسألوا «إلى ماذا نظرنا أولًا؟». المفتاح هو النظر إلى الأرقام في اليسار: الآلاف."
+  },
+  "saberes": [
+    "matematicas.numeros.millar",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cazar matrículas",
+      "va": "Caçar matrícules",
+      "en": "Number plate hunt",
+      "fr": "La chasse aux plaques",
+      "ar": "صيد لوحات السيارات"
+    },
+    "material": [
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      },
+      {
+        "es": "Un paseo por la calle o junto a un aparcamiento",
+        "va": "Una passejada pel carrer o al costat d'un aparcament",
+        "en": "A walk along the street or past a car park",
+        "fr": "Une promenade dans la rue ou près d'un parking",
+        "ar": "نزهة في الشارع أو بجانب موقف سيارات"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Durante el paseo, cada persona elige una matrícula y lee en voz alta su número de cuatro cifras: 4705 es «cuatro mil setecientos cinco».",
+          "va": "Durant la passejada, cada persona tria una matrícula i llig en veu alta el seu número de quatre xifres: 4705 és «quatre mil set-cents cinc».",
+          "en": "During the walk, each person picks a number plate and reads its four-digit number out loud: 4705 is “four thousand seven hundred and five”.",
+          "fr": "Pendant la promenade, chaque personne choisit une plaque et lit à voix haute son nombre à quatre chiffres : 4705, c'est « quatre mille sept cent cinq ».",
+          "ar": "أثناء النزهة، يختار كل شخص لوحة سيارة ويقرأ بصوت عالٍ عددها المكوّن من أربعة أرقام: 4705 هو «أربعة آلاف وسبعمئة وخمسة»."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Apuntadlos en el papel uno debajo del otro, con los millares, las centenas, las decenas y las unidades bien en columna.",
+          "va": "Apunteu-los en el paper l'un davall de l'altre, amb els milers, les centenes, les desenes i les unitats ben en columna.",
+          "en": "Write them on the paper one under the other, with the thousands, hundreds, tens and ones neatly in columns.",
+          "fr": "Écrivez-les sur le papier les uns sous les autres, avec les milliers, les centaines, les dizaines et les unités bien en colonnes.",
+          "ar": "اكتبوها على الورقة واحدًا تحت الآخر، مع الآلاف والمئات والعشرات والآحاد في أعمدة مرتّبة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "¿Cuál es el mayor? Comparad primero los millares; si son iguales, las centenas, y así hasta el final.",
+          "va": "Quin és el major? Compareu primer els milers; si són iguals, les centenes, i així fins al final.",
+          "en": "Which is the greatest? Compare the thousands first; if they are the same, the hundreds, and so on to the end.",
+          "fr": "Lequel est le plus grand ? Comparez d'abord les milliers ; s'ils sont égaux, les centaines, et ainsi de suite jusqu'au bout.",
+          "ar": "أيها الأكبر؟ قارنوا الآلاف أولًا؛ وإذا كانت متساوية فالمئات، وهكذا حتى النهاية."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Al volver a casa, ordenad todos los números del más pequeño al más grande. ¿Quién cazó el mayor?",
+          "va": "En tornar a casa, ordeneu tots els números del més menut al més gran. Qui va caçar el major?",
+          "en": "Back home, put all the numbers in order from smallest to greatest. Who caught the greatest one?",
+          "fr": "De retour à la maison, rangez tous les nombres du plus petit au plus grand. Qui a attrapé le plus grand ?",
+          "ar": "عند العودة إلى البيت، رتّبوا كل الأعداد من الأصغر إلى الأكبر. من اصطاد الأكبر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Fijaos solo en las dos últimas cifras de cada matrícula y comparad números de dos cifras.",
+      "va": "Fixeu-vos només en les dues últimes xifres de cada matrícula i compareu números de dues xifres.",
+      "en": "Look only at the last two digits of each plate and compare two-digit numbers.",
+      "fr": "Regardez seulement les deux derniers chiffres de chaque plaque et comparez des nombres à deux chiffres.",
+      "ar": "انظروا فقط إلى الرقمين الأخيرين من كل لوحة وقارنوا أعدادًا من رقمين."
+    },
+    "masDificil": {
+      "es": "Con las cuatro cifras de una matrícula, formad el número más grande y el más pequeño posibles. ¿Cuánto hay de uno a otro?",
+      "va": "Amb les quatre xifres d'una matrícula, formeu el número més gran i el més menut possibles. Quina diferència hi ha entre l'un i l'altre?",
+      "en": "With the four digits of one plate, make the greatest and the smallest numbers you can. How far is it from one to the other?",
+      "fr": "Avec les quatre chiffres d'une plaque, formez le plus grand et le plus petit nombre possibles. Combien y a-t-il de l'un à l'autre ?",
+      "ar": "بأرقام لوحة واحدة الأربعة، كوّنوا أكبر عدد ممكن وأصغر عدد ممكن. كم الفرق بينهما؟"
+    },
+    "paraQueSirve": {
+      "es": "Saber qué vale cada cifra según dónde está es la base de las cuentas con números grandes de 4.º. Y la calle está llena de números de verdad.",
+      "va": "Saber què val cada xifra segons on és és la base dels comptes amb números grans de 4t. I el carrer és ple de números de veritat.",
+      "en": "Knowing what each digit is worth depending on where it is underpins the sums with big numbers in Year 4. And the street is full of real numbers.",
+      "fr": "Savoir ce que vaut chaque chiffre selon sa place est la base des calculs avec de grands nombres en 4.º. Et la rue est pleine de vrais nombres.",
+      "ar": "معرفة قيمة كل رقم حسب مكانه هي أساس الحساب بالأعداد الكبيرة في الصف الرابع. والشارع مليء بأعداد حقيقية."
+    },
+    "aviso": {
+      "es": "Mirad las matrículas desde la acera, lejos de los coches en marcha.",
+      "va": "Mireu les matrícules des de la vorera, lluny dels cotxes en marxa.",
+      "en": "Look at the number plates from the pavement, away from moving cars.",
+      "fr": "Regardez les plaques depuis le trottoir, loin des voitures qui roulent.",
+      "ar": "انظروا إلى اللوحات من الرصيف، بعيدًا عن السيارات المتحرّكة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Un coche tiene el número 3816 en la matrícula y otro, el 3861. ¿Cuántos más tiene el segundo?",
+        "va": "Un cotxe té el número 3816 a la matrícula i un altre, el 3861. Quants més té el segon?",
+        "en": "One car has the number 3816 on its plate and another has 3861. How much more is the second one?",
+        "fr": "Une voiture a le nombre 3816 sur sa plaque et une autre, 3861. De combien le deuxième est-il plus grand ?",
+        "ar": "على لوحة سيارة العدد 3816 وعلى لوحة سيارة أخرى 3861. بكم يزيد العدد الثاني؟"
+      },
+      "pista": {
+        "es": "Los millares y las centenas son iguales: mira las decenas. Luego cuenta de 3816 a 3861.",
+        "va": "Els milers i les centenes són iguals: mira les desenes. Després compta de 3816 a 3861.",
+        "en": "The thousands and hundreds are the same: look at the tens. Then count from 3816 to 3861.",
+        "fr": "Les milliers et les centaines sont égaux : regarde les dizaines. Ensuite, compte de 3816 à 3861.",
+        "ar": "الآلاف والمئات متساوية: لننظر إلى العشرات. ثم نعدّ من 3816 إلى 3861."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3861 - 3816",
+        "resultado": 45,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El segundo tiene 45 más.",
+          "va": "El segon en té 45 més.",
+          "en": "The second one is 45 more.",
+          "fr": "Le deuxième est plus grand de 45.",
+          "ar": "الثاني يزيد بـ45."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos matrículas que se parezcan mucho.",
+        "va": "Inventa'n tu una amb dues matrícules que s'assemblen molt.",
+        "en": "Make one up with two number plates that look very alike.",
+        "fr": "Invente un problème avec deux plaques qui se ressemblent beaucoup.",
+        "ar": "لنخترع مسألة عن لوحتين متشابهتين جدًا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "El portal de Lucía está en el número 128 de la calle y el de su abuelo, en el 96. ¿Cuántos números hay de uno a otro?",
+        "va": "El portal de la Lucía és al número 128 del carrer i el del seu avi, al 96. Quants números separen l'un de l'altre?",
+        "en": "Lucía's door is at number 128 on the street and her grandad's is at 96. How many numbers is it from one to the other?",
+        "fr": "La porte de Lucía est au numéro 128 de la rue et celle de son grand-père, au 96. Combien de numéros y a-t-il de l'une à l'autre ?",
+        "ar": "باب لوسيا في الرقم 128 من الشارع، وباب جدّها في الرقم 96. كم رقمًا بينهما؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba: de 96 a 100 van 4, y de 100 a 128…",
+        "va": "Compta cap amunt: de 96 a 100 en van 4, i de 100 a 128…",
+        "en": "Count up: from 96 to 100 is 4, and from 100 to 128…",
+        "fr": "Compte en avançant : de 96 à 100, ça fait 4, et de 100 à 128…",
+        "ar": "لنعدّ صعودًا: من 96 إلى 100 هي 4، ومن 100 إلى 128…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "128 - 96",
+        "resultado": 32,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 32 números de uno a otro.",
+          "va": "Hi ha 32 números de l'un a l'altre.",
+          "en": "It is 32 numbers from one to the other.",
+          "fr": "Il y a 32 numéros de l'une à l'autre.",
+          "ar": "بينهما 32 رقمًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con el número de vuestro portal y el de alguien a quien queráis.",
+        "va": "Inventa'n tu una amb el número del vostre portal i el d'algú que estimeu.",
+        "en": "Make one up with your house number and that of someone you love.",
+        "fr": "Invente un problème avec votre numéro de porte et celui de quelqu'un que vous aimez.",
+        "ar": "لنخترع مسألة برقم بابنا ورقم باب شخص نحبّه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Una matrícula tiene el 5094 y otra, el 5940. ¿Cuál es mayor y por cuánto?",
+        "va": "Una matrícula té el 5094 i una altra, el 5940. Quin és major i per quant?",
+        "en": "One plate has 5094 and another has 5940. Which is greater, and by how much?",
+        "fr": "Une plaque porte 5094 et une autre, 5940. Lequel est le plus grand, et de combien ?",
+        "ar": "على لوحة العدد 5094 وعلى أخرى 5940. أيهما أكبر وبكم؟"
+      },
+      "pista": {
+        "es": "Los dos tienen 5 millares. Mira las centenas: 0 y 9. Luego resta el pequeño del grande.",
+        "va": "Els dos tenen 5 milers. Mira les centenes: 0 i 9. Després resta el menut del gran.",
+        "en": "Both have 5 thousands. Look at the hundreds: 0 and 9. Then take the smaller one from the greater one.",
+        "fr": "Les deux ont 5 milliers. Regarde les centaines : 0 et 9. Ensuite, enlève le petit du grand.",
+        "ar": "كلاهما فيه 5 آلاف. لننظر إلى المئات: 0 و9. ثم نطرح الأصغر من الأكبر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5940 - 5094",
+        "resultado": 846,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es mayor el 5940, por 846.",
+          "va": "És major el 5940, per 846.",
+          "en": "5940 is greater, by 846.",
+          "fr": "5940 est le plus grand, de 846.",
+          "ar": "العدد 5940 أكبر، بفارق 846."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos números que tengan las mismas cifras en distinto orden.",
+        "va": "Inventa'n tu una amb dos números que tinguen les mateixes xifres en un ordre diferent.",
+        "en": "Make one up with two numbers that have the same digits in a different order.",
+        "fr": "Invente un problème avec deux nombres qui ont les mêmes chiffres dans un ordre différent.",
+        "ar": "لنخترع مسألة بعددين لهما الأرقام نفسها بترتيب مختلف."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: el contador del coche marca 2350 kilómetros y hoy hacemos 200 más. ¿Qué número marcará?",
+        "va": "Per a recordar: el comptador del cotxe marca 2350 quilòmetres i hui en fem 200 més. Quin número marcarà?",
+        "en": "Let's remember: the car's counter shows 2350 kilometres and today we drive 200 more. What number will it show?",
+        "fr": "Pour se souvenir : le compteur de la voiture affiche 2350 kilomètres et aujourd'hui nous en faisons 200 de plus. Quel nombre affichera-t-il ?",
+        "ar": "لنتذكّر: عدّاد السيارة يشير إلى 2350 كيلومترًا، واليوم نقطع 200 أخرى. أي عدد سيُظهر؟"
+      },
+      "pista": {
+        "es": "Solo cambian las centenas: 3 centenas y 2 más.",
+        "va": "Només canvien les centenes: 3 centenes i 2 més.",
+        "en": "Only the hundreds change: 3 hundreds and 2 more.",
+        "fr": "Seules les centaines changent : 3 centaines et 2 de plus.",
+        "ar": "تتغيّر المئات فقط: 3 مئات و2 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2350 + 200",
+        "resultado": 2550,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Marcará 2550 kilómetros.",
+          "va": "Marcarà 2550 quilòmetres.",
+          "en": "It will show 2550 kilometres.",
+          "fr": "Il affichera 2550 kilomètres.",
+          "ar": "سيُظهر 2550 كيلومترًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una sumando centenas a un número de cuatro cifras.",
+        "va": "Inventa'n tu una sumant centenes a un número de quatre xifres.",
+        "en": "Make one up adding hundreds to a four-digit number.",
+        "fr": "Invente un problème en ajoutant des centaines à un nombre à quatre chiffres.",
+        "ar": "لنخترع مسألة نضيف فيها مئات إلى عدد من أربعة أرقام."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué número de cuatro cifras has visto hoy? Explícame cuánto vale cada una de sus cifras.",
+        "va": "Quin número de quatre xifres has vist hui? Explica'm quant val cadascuna de les seues xifres.",
+        "en": "Which four-digit number did you see today? Explain to me what each of its digits is worth.",
+        "fr": "Quel nombre à quatre chiffres as-tu vu aujourd'hui ? Explique-moi ce que vaut chacun de ses chiffres.",
+        "ar": "أي عدد من أربعة أرقام رأيناه اليوم؟ اشرح لي أو اشرحي لي كم تساوي كل خانة فيه."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «En 4705, ¿qué vale el 7? ¿Y si lo cambias de sitio?»",
+        "va": "Si no sap per on començar: «En 4705, què val el 7? I si el canvies de lloc?»",
+        "en": "If they don't know where to start: “In 4705, what is the 7 worth? And if you move it?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Dans 4705, que vaut le 7 ? Et si tu le changes de place ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «في 4705، كم يساوي الـ7؟ وإذا غيّرنا مكانه؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "22db6947b272"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "22db6947b272"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "22db6947b272"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "22db6947b272"
+      }
+    }
+  }
+}

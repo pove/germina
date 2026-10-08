@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.v04",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "verano": 4,
+  "tipo": "verano",
+  "titulo": {
+    "es": "El tesoro escondido",
+    "va": "El tresor amagat",
+    "en": "The hidden treasure",
+    "fr": "Le trésor caché",
+    "ar": "الكنز المخبّأ"
+  },
+  "objetivo": {
+    "es": "Esconder algo y dibujar el mapa para encontrarlo es orientarse y dar instrucciones precisas: pasos, flechas y puntos cardinales (norte, sur, este y oeste).",
+    "va": "Amagar alguna cosa i dibuixar el mapa per a trobar-la és orientar-se i donar instruccions precises: passos, fletxes i punts cardinals (nord, sud, est i oest).",
+    "en": "Hiding something and drawing the map to find it is about finding your way and giving precise instructions: steps, arrows and the compass points (north, south, east and west).",
+    "fr": "Cacher quelque chose et dessiner la carte pour le retrouver, c'est s'orienter et donner des instructions précises : des pas, des flèches et les points cardinaux (nord, sud, est et ouest).",
+    "ar": "أن نخبّئ شيئًا ونرسم خريطة للعثور عليه يعني أن نتوجّه ونعطي تعليمات دقيقة: خطوات وأسهم واتجاهات أصلية (الشمال والجنوب والشرق والغرب)."
+  },
+  "comoAyudar": {
+    "es": "Si el mapa no lleva al tesoro, no pasa nada: buscad juntos en qué paso se torció el camino y cambiad solo ese.",
+    "va": "Si el mapa no porta al tresor, no passa res: busqueu junts en quin pas es va torçar el camí i canvieu només aquell.",
+    "en": "If the map doesn't lead to the treasure, that's fine: look together for the step where the path went wrong and change only that one.",
+    "fr": "Si la carte ne mène pas au trésor, ce n'est pas grave : cherchez ensemble à quelle étape le chemin s'est trompé et changez seulement celle-là.",
+    "ar": "إذا لم توصل الخريطة إلى الكنز، فلا بأس: ابحثوا معًا عن الخطوة التي انحرف فيها الطريق وغيّروها هي فقط."
+  },
+  "saberes": [
+    "matematicas.geometria.localizacion",
+    "matematicas.computacional.algoritmos"
+  ],
+  "criterios": [
+    "matematicas.c2.5.3",
+    "matematicas.c2.4.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Mapa del tesoro",
+      "va": "Mapa del tresor",
+      "en": "Treasure map",
+      "fr": "La carte au trésor",
+      "ar": "خريطة الكنز"
+    },
+    "material": [
+      {
+        "es": "Un objeto pequeño para esconder: el tesoro",
+        "va": "Un objecte menut per a amagar: el tresor",
+        "en": "A small object to hide: the treasure",
+        "fr": "Un petit objet à cacher : le trésor",
+        "ar": "شيء صغير نخبّئه: الكنز"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      },
+      {
+        "es": "Una brújula, si tenéis (si no, el sol)",
+        "va": "Una brúixola, si en teniu (si no, el sol)",
+        "en": "A compass, if you have one (if not, the sun)",
+        "fr": "Une boussole, si vous en avez une (sinon, le soleil)",
+        "ar": "بوصلة إن وُجدت (وإلا فالشمس)"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "brujula",
+        "texto": {
+          "es": "Averiguad dónde está el norte: el sol sale por el este y se pone por el oeste. Marcad una N en lo alto del papel.",
+          "va": "Esbrineu on és el nord: el sol ix per l'est i es pon per l'oest. Marqueu una N a la part de dalt del paper.",
+          "en": "Work out where north is: the sun rises in the east and sets in the west. Mark an N at the top of the paper.",
+          "fr": "Trouvez où est le nord : le soleil se lève à l'est et se couche à l'ouest. Marquez un N en haut du papier.",
+          "ar": "اعرفوا أين الشمال: الشمس تشرق من الشرق وتغرب في الغرب. ضعوا حرف N في أعلى الورقة."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Una persona esconde el tesoro en casa, el parque o la playa, y cuenta sus pasos desde un punto de salida.",
+          "va": "Una persona amaga el tresor a casa, al parc o a la platja, i compta els passos des d'un punt d'eixida.",
+          "en": "One person hides the treasure at home, in the park or on the beach, and counts their steps from a starting point.",
+          "fr": "Une personne cache le trésor à la maison, au parc ou à la plage, et compte ses pas depuis un point de départ.",
+          "ar": "يخبّئ شخص الكنز في البيت أو الحديقة أو على الشاطئ، ويعدّ خطواته من نقطة انطلاق."
+        }
+      },
+      {
+        "pictograma": "mapa",
+        "texto": {
+          "es": "Dibuja el mapa con flechas y números: «3 pasos al norte, 2 al este». Las demás personas no miran.",
+          "va": "Dibuixa el mapa amb fletxes i números: «3 passos al nord, 2 a l'est». Les altres persones no miren.",
+          "en": "They draw the map with arrows and numbers: “3 steps north, 2 east”. The others don't look.",
+          "fr": "Elle dessine la carte avec des flèches et des nombres : « 3 pas vers le nord, 2 vers l'est ». Les autres ne regardent pas.",
+          "ar": "يرسم الخريطة بأسهم وأعداد: «3 خطوات نحو الشمال، 2 نحو الشرق». والآخرون لا ينظرون."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Las demás siguen el mapa paso a paso. ¿Habéis llegado? Si no, buscad juntos qué flecha cambiar.",
+          "va": "Les altres segueixen el mapa pas a pas. Hi heu arribat? Si no, busqueu junts quina fletxa canviar.",
+          "en": "The others follow the map step by step. Did you get there? If not, look together for which arrow to change.",
+          "fr": "Les autres suivent la carte pas à pas. Vous êtes arrivés ? Sinon, cherchez ensemble quelle flèche changer.",
+          "ar": "يتبع الآخرون الخريطة خطوة خطوة. هل وصلتم؟ إن لم تصلوا، ابحثوا معًا عن السهم الذي نغيّره."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "En vez de norte y este, usad «adelante», «a la derecha» y «a la izquierda», y pocos pasos.",
+      "va": "En lloc de nord i est, feu servir «avant», «a la dreta» i «a l'esquerra», i pocs passos.",
+      "en": "Instead of north and east, use “forward”, “to the right” and “to the left”, and just a few steps.",
+      "fr": "Au lieu de nord et est, utilisez « en avant », « à droite » et « à gauche », et peu de pas.",
+      "ar": "بدل الشمال والشرق، استعملوا «إلى الأمام» و«إلى اليمين» و«إلى اليسار»، وخطوات قليلة."
+    },
+    "masDificil": {
+      "es": "Escribid también el camino de vuelta: ¿qué flechas llevan desde el tesoro hasta la salida?",
+      "va": "Escriviu també el camí de tornada: quines fletxes porten des del tresor fins a l'eixida?",
+      "en": "Also write the way back: which arrows lead from the treasure to the start?",
+      "fr": "Écrivez aussi le chemin du retour : quelles flèches mènent du trésor au départ ?",
+      "ar": "اكتبوا أيضًا طريق العودة: أي أسهم تقود من الكنز إلى نقطة الانطلاق؟"
+    },
+    "paraQueSirve": {
+      "es": "Dar instrucciones exactas y en orden es pensar como quien programa, y orientarse en un plano sirve para moverse por cualquier sitio.",
+      "va": "Donar instruccions exactes i en ordre és pensar com qui programa, i orientar-se en un plànol serveix per a moure's per qualsevol lloc.",
+      "en": "Giving exact instructions in order is thinking like a programmer, and finding your way on a map helps you get around anywhere.",
+      "fr": "Donner des instructions exactes et dans l'ordre, c'est penser comme quelqu'un qui programme, et s'orienter sur un plan sert à se déplacer partout.",
+      "ar": "إعطاء تعليمات دقيقة ومرتّبة تفكير كتفكير المبرمجين، والتوجّه على خريطة يساعد على التنقّل في أي مكان."
+    },
+    "aviso": {
+      "es": "Esconded el tesoro en sitios seguros, lejos del agua y de la calle.",
+      "va": "Amagueu el tresor en llocs segurs, lluny de l'aigua i del carrer.",
+      "en": "Hide the treasure in safe places, away from water and the road.",
+      "fr": "Cachez le trésor dans des endroits sûrs, loin de l'eau et de la rue.",
+      "ar": "خبّئوا الكنز في أماكن آمنة، بعيدًا عن الماء والشارع."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "El mapa dice: 4 pasos al norte, luego 3 al este y luego 2 más al norte. ¿Cuántos pasos se dan en total?",
+        "va": "El mapa diu: 4 passos al nord, després 3 a l'est i després 2 més al nord. Quants passos es fan en total?",
+        "en": "The map says: 4 steps north, then 3 east and then 2 more north. How many steps is that in all?",
+        "fr": "La carte dit : 4 pas vers le nord, puis 3 vers l'est, puis 2 de plus vers le nord. Combien de pas fait-on en tout ?",
+        "ar": "تقول الخريطة: 4 خطوات نحو الشمال، ثم 3 نحو الشرق، ثم 2 أخرى نحو الشمال. كم خطوة نخطو كلها؟"
+      },
+      "pista": {
+        "es": "Junta todos los pasos, vayan hacia donde vayan.",
+        "va": "Ajunta tots els passos, vagen cap a on vagen.",
+        "en": "Put all the steps together, whichever way they go.",
+        "fr": "Rassemble tous les pas, quelle que soit leur direction.",
+        "ar": "لنجمع كل الخطوات مهما كان اتجاهها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 3 + 2",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se dan 9 pasos.",
+          "va": "Es fan 9 passos.",
+          "en": "That is 9 steps.",
+          "fr": "On fait 9 pas.",
+          "ar": "نخطو 9 خطوات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un camino con tres flechas y que alguien cuente los pasos.",
+        "va": "Inventa'n tu un camí amb tres fletxes i que algú compte els passos.",
+        "en": "Make up a path with three arrows and let someone count the steps.",
+        "fr": "Invente un chemin avec trois flèches et que quelqu'un compte les pas.",
+        "ar": "لنخترع طريقًا بثلاثة أسهم ونطلب من أحد أن يعدّ الخطوات."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Desde la sombrilla caminamos 6 pasos al norte hasta el tesoro. Para volver, ¿cuántos pasos damos y hacia dónde?",
+        "va": "Des del para-sol caminem 6 passos al nord fins al tresor. Per a tornar, quants passos fem i cap a on?",
+        "en": "From the beach umbrella we walk 6 steps north to the treasure. To go back, how many steps do we take, and which way?",
+        "fr": "Depuis le parasol, nous marchons 6 pas vers le nord jusqu'au trésor. Pour revenir, combien de pas faisons-nous, et dans quelle direction ?",
+        "ar": "من المظلّة مشينا 6 خطوات نحو الشمال حتى الكنز. للعودة، كم خطوة نخطو وإلى أين؟"
+      },
+      "pista": {
+        "es": "Piensa en lo contrario del norte.",
+        "va": "Pensa en el contrari del nord.",
+        "en": "Think about the opposite of north.",
+        "fr": "Pense au contraire du nord.",
+        "ar": "لنفكّر في عكس الشمال."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "6 pasos al sur: el mismo número de pasos, en la dirección contraria. Si dice «6 hacia atrás», también vale.",
+          "va": "6 passos al sud: el mateix nombre de passos, en la direcció contrària. Si diu «6 cap arrere», també val.",
+          "en": "6 steps south: the same number of steps, in the opposite direction. If they say “6 backwards”, that works too.",
+          "fr": "6 pas vers le sud : le même nombre de pas, dans la direction contraire. S'il ou elle dit « 6 en arrière », ça marche aussi.",
+          "ar": "6 خطوات نحو الجنوب: العدد نفسه من الخطوات في الاتجاه المعاكس. وإذا كان الجواب «6 إلى الخلف»، فهو صحيح أيضًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un camino de ida y que alguien te diga el de vuelta.",
+        "va": "Inventa'n tu un camí d'anada i que algú et diga el de tornada.",
+        "en": "Make up a way there and let someone tell you the way back.",
+        "fr": "Invente un chemin aller et que quelqu'un te dise le chemin retour.",
+        "ar": "لنخترع طريق ذهاب ونطلب من أحد أن يقول طريق العودة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para llegar al tesoro hay 12 pasos al este. Ya hemos dado 7. ¿Cuántos faltan?",
+        "va": "Per a arribar al tresor hi ha 12 passos a l'est. Ja n'hem fet 7. Quants en falten?",
+        "en": "It is 12 steps east to the treasure. We have already taken 7. How many are left?",
+        "fr": "Pour arriver au trésor, il y a 12 pas vers l'est. Nous en avons déjà fait 7. Combien en manque-t-il ?",
+        "ar": "حتى الكنز 12 خطوة نحو الشرق. خطونا منها 7. كم خطوة بقيت؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba desde 7 hasta 12.",
+        "va": "Compta cap amunt des de 7 fins a 12.",
+        "en": "Count up from 7 to 12.",
+        "fr": "Compte en avançant de 7 jusqu'à 12.",
+        "ar": "لنعدّ صعودًا من 7 إلى 12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 7",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 5 pasos.",
+          "va": "En falten 5.",
+          "en": "5 steps are left.",
+          "fr": "Il manque 5 pas.",
+          "ar": "بقيت 5 خطوات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿cuántos pasos faltan?» por el pasillo de casa.",
+        "va": "Inventa'n tu una de «quants passos falten?» pel corredor de casa.",
+        "en": "Make up a “how many steps are left?” one along the hallway at home.",
+        "fr": "Invente un problème « combien de pas il manque ? » dans le couloir de la maison.",
+        "ar": "لنخترع مسألة «كم خطوة بقيت؟» في ممرّ البيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 10,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar: salimos a buscar el tesoro a las 11:30 y lo encontramos a las 11:45. ¿Cuánto tardamos?",
+        "va": "Per a recordar: eixim a buscar el tresor a les 11:30 i el trobem a les 11:45. Quant tardem?",
+        "en": "Let's remember: we set off to look for the treasure at 11:30 and find it at 11:45. How long did it take?",
+        "fr": "Pour se souvenir : nous partons chercher le trésor à 11:30 et nous le trouvons à 11:45. Combien de temps avons-nous mis ?",
+        "ar": "لنتذكّر: خرجنا نبحث عن الكنز في 11:30 ووجدناه في 11:45. كم استغرقنا؟"
+      },
+      "pista": {
+        "es": "En el reloj, de y media a menos cuarto es un cuarto de hora.",
+        "va": "En el rellotge, d'i mitja a menys quart és un quart d'hora.",
+        "en": "On the clock, from half past to quarter to is a quarter of an hour.",
+        "fr": "Sur l'horloge, de la demie à moins le quart, c'est un quart d'heure.",
+        "ar": "في الساعة، من النصف إلى إلا ربعًا ربع ساعة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "45 - 30",
+        "resultado": 15,
+        "unidad": "min",
+        "texto": {
+          "es": "Tardamos 15 minutos: un cuarto de hora.",
+          "va": "Tardem 15 minuts: un quart d'hora.",
+          "en": "It took 15 minutes: a quarter of an hour.",
+          "fr": "Nous avons mis 15 minutes : un quart d'heure.",
+          "ar": "استغرقنا 15 دقيقة: ربع ساعة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con la hora a la que salís de casa y la hora a la que llegáis a algún sitio.",
+        "va": "Inventa'n tu una amb l'hora a què eixiu de casa i l'hora a què arribeu a algun lloc.",
+        "en": "Make one up with the time you leave home and the time you arrive somewhere.",
+        "fr": "Invente un problème avec l'heure à laquelle vous partez de la maison et celle à laquelle vous arrivez quelque part.",
+        "ar": "لنخترع مسألة بالوقت الذي نخرج فيه من البيت والوقت الذي نصل فيه إلى مكان ما."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo ir desde tu cama hasta la cocina, paso a paso, como si yo fuera un robot.",
+        "va": "Explica'm com anar des del teu llit fins a la cuina, pas a pas, com si jo fora un robot.",
+        "en": "Explain to me how to get from your bed to the kitchen, step by step, as if I were a robot.",
+        "fr": "Explique-moi comment aller de ton lit à la cuisine, pas à pas, comme si j'étais un robot.",
+        "ar": "اشرح لي أو اشرحي لي كيف نذهب من السرير إلى المطبخ خطوة خطوة، كأنني روبوت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Hacia dónde miro primero? ¿Cuántos pasos doy?»",
+        "va": "Si no sap per on començar: «Cap a on mire primer? Quants passos faig?»",
+        "en": "If they don't know where to start: “Which way do I face first? How many steps do I take?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Vers où je regarde d'abord ? Combien de pas je fais ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إلى أين أنظر أولًا؟ كم خطوة أخطو؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Haced de robot de verdad: seguid las instrucciones al pie de la letra. Si chocáis con una pared, reíos y arreglad juntos ese paso.",
+          "va": "Feu de robot de veritat: seguiu les instruccions al peu de la lletra. Si xoqueu amb una paret, rieu i arregleu junts aquell pas.",
+          "en": "Really be the robot: follow the instructions word for word. If you bump into a wall, laugh and fix that step together.",
+          "fr": "Faites vraiment le robot : suivez les instructions à la lettre. Si vous vous cognez contre un mur, riez et arrangez ensemble cette étape.",
+          "ar": "كونوا روبوتًا حقيقيًا: اتبعوا التعليمات حرفيًا. وإذا اصطدمتم بجدار، اضحكوا وأصلحوا تلك الخطوة معًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "eb66a867cd8f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "eb66a867cd8f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "eb66a867cd8f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "eb66a867cd8f"
+      }
+    }
+  }
+}

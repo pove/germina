@@ -1,0 +1,341 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.v06",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "verano": 6,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Cazar ángulos",
+    "va": "Caçar angles",
+    "en": "Angle hunt",
+    "fr": "La chasse aux angles",
+    "ar": "صيد الزوايا"
+  },
+  "objetivo": {
+    "es": "Un ángulo es lo que se abre entre dos lados, como un abanico o unas tijeras. La esquina de un folio es un ángulo recto y sirve de medida: hay ángulos más pequeños (agudos), iguales (rectos) y más grandes (obtusos).",
+    "va": "Un angle és el que s'obri entre dos costats, com un ventall o unes tisores. La cantonada d'un foli és un angle recte i serveix de mesura: hi ha angles més menuts (aguts), iguals (rectes) i més grans (obtusos).",
+    "en": "An angle is the opening between two sides, like a fan or a pair of scissors. The corner of a sheet of paper is a right angle and works as a measure: there are smaller angles (acute), equal ones (right) and bigger ones (obtuse).",
+    "fr": "Un angle, c'est l'ouverture entre deux côtés, comme un éventail ou une paire de ciseaux. Le coin d'une feuille est un angle droit et sert de mesure : il y a des angles plus petits (aigus), égaux (droits) et plus grands (obtus).",
+    "ar": "الزاوية هي الانفتاح بين ضلعين، مثل المروحة اليدوية أو المقصّ. وزاوية الورقة قائمة وتصلح مقياسًا: هناك زوايا أصغر (حادّة)، ومساوية (قائمة)، وأكبر (منفرجة)."
+  },
+  "comoAyudar": {
+    "es": "Si duda, que ponga la esquina del folio encima del ángulo. Comparar con algo que se toca es mejor que adivinar.",
+    "va": "Si dubta, que pose la cantonada del foli damunt de l'angle. Comparar amb una cosa que es toca és millor que endevinar.",
+    "en": "If they hesitate, let them put the corner of the paper over the angle. Comparing with something you can touch is better than guessing.",
+    "fr": "S'il ou elle hésite, qu'il ou elle pose le coin de la feuille sur l'angle. Comparer avec quelque chose qu'on touche vaut mieux que deviner.",
+    "ar": "إذا تردّد الطفل، فليضع زاوية الورقة فوق الزاوية. المقارنة بشيء نلمسه أفضل من التخمين."
+  },
+  "saberes": [
+    "matematicas.geometria.angulos"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El abanico de ángulos",
+      "va": "El ventall d'angles",
+      "en": "The angle fan",
+      "fr": "L'éventail des angles",
+      "ar": "مروحة الزوايا"
+    },
+    "material": [
+      {
+        "es": "Un folio para doblar en abanico",
+        "va": "Un foli per a doblegar en ventall",
+        "en": "A sheet of paper to fold into a fan",
+        "fr": "Une feuille à plier en éventail",
+        "ar": "ورقة نطويها على شكل مروحة"
+      },
+      {
+        "es": "Otro folio para usar su esquina",
+        "va": "Un altre foli per a fer servir la seua cantonada",
+        "en": "Another sheet of paper to use its corner",
+        "fr": "Une autre feuille pour utiliser son coin",
+        "ar": "ورقة أخرى نستعمل زاويتها"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Doblad un folio en abanico, como un acordeón. Abridlo poco, a medias y mucho: el hueco entre los dos bordes es un ángulo.",
+          "va": "Doblegueu un foli en ventall, com un acordió. Obriu-lo poc, a mitges i molt: el buit entre les dues vores és un angle.",
+          "en": "Fold a sheet of paper into a fan, like an accordion. Open it a little, halfway and a lot: the gap between the two edges is an angle.",
+          "fr": "Pliez une feuille en éventail, comme un accordéon. Ouvrez-le un peu, à moitié et beaucoup : l'espace entre les deux bords est un angle.",
+          "ar": "اطووا ورقة على شكل مروحة مثل الأكورديون. افتحوها قليلًا ثم إلى النصف ثم كثيرًا: الفراغ بين الحافّتين زاوية."
+        }
+      },
+      {
+        "pictograma": "angulo",
+        "texto": {
+          "es": "Coged la esquina de otro folio: es un ángulo recto. Abrid el abanico hasta que coincida con ella.",
+          "va": "Agafeu la cantonada d'un altre foli: és un angle recte. Obriu el ventall fins que coincidisca amb ella.",
+          "en": "Take the corner of another sheet: it is a right angle. Open the fan until it matches it.",
+          "fr": "Prenez le coin d'une autre feuille : c'est un angle droit. Ouvrez l'éventail jusqu'à ce qu'il coïncide avec lui.",
+          "ar": "خذوا زاوية ورقة أخرى: إنها زاوية قائمة. افتحوا المروحة حتى تنطبق عليها."
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "Salid a cazar ángulos por casa o por la calle: el respaldo de una silla, unas tijeras, las agujas del reloj, un tejado. ¿Son más pequeños, iguales o más grandes que la esquina del folio?",
+          "va": "Eixiu a caçar angles per casa o pel carrer: el respatler d'una cadira, unes tisores, les agulles del rellotge, una teulada. Són més menuts, iguals o més grans que la cantonada del foli?",
+          "en": "Go angle hunting around the house or in the street: the back of a chair, scissors, clock hands, a roof. Are they smaller than, equal to or bigger than the corner of the paper?",
+          "fr": "Partez à la chasse aux angles dans la maison ou dans la rue : le dossier d'une chaise, des ciseaux, les aiguilles de l'horloge, un toit. Sont-ils plus petits, égaux ou plus grands que le coin de la feuille ?",
+          "ar": "اخرجوا لصيد الزوايا في البيت أو الشارع: ظهر كرسي، مقصّ، عقارب الساعة، سقف. هل هي أصغر من زاوية الورقة أم مساوية لها أم أكبر؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Apuntadlos en tres columnas: agudos (más pequeños), rectos (iguales) y obtusos (más grandes). ¿En qué columna hay más?",
+          "va": "Apunteu-los en tres columnes: aguts (més menuts), rectes (iguals) i obtusos (més grans). En quina columna n'hi ha més?",
+          "en": "Write them in three columns: acute (smaller), right (equal) and obtuse (bigger). Which column has the most?",
+          "fr": "Notez-les en trois colonnes : aigus (plus petits), droits (égaux) et obtus (plus grands). Quelle colonne en a le plus ?",
+          "ar": "دوّنوها في ثلاثة أعمدة: حادّة (أصغر)، قائمة (مساوية)، منفرجة (أكبر). في أي عمود يوجد أكثر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Buscad solo ángulos rectos: esquinas de mesas, libros, puertas y ventanas.",
+      "va": "Busqueu només angles rectes: cantonades de taules, llibres, portes i finestres.",
+      "en": "Look only for right angles: corners of tables, books, doors and windows.",
+      "fr": "Cherchez seulement des angles droits : coins de tables, de livres, de portes et de fenêtres.",
+      "ar": "ابحثوا عن الزوايا القائمة فقط: زوايا الطاولات والكتب والأبواب والنوافذ."
+    },
+    "masDificil": {
+      "es": "Mirad un reloj de agujas a distintas horas: ¿a qué horas forman un ángulo recto? ¿Y uno más grande?",
+      "va": "Mireu un rellotge d'agulles a diferents hores: a quines hores formen un angle recte? I un de més gran?",
+      "en": "Look at a clock with hands at different times: at what times do they make a right angle? And a bigger one?",
+      "fr": "Regardez une horloge à aiguilles à différentes heures : à quelles heures forment-elles un angle droit ? Et un plus grand ?",
+      "ar": "انظروا إلى ساعة ذات عقارب في أوقات مختلفة: في أي ساعات تكوّن زاوية قائمة؟ وزاوية أكبر؟"
+    },
+    "paraQueSirve": {
+      "es": "Los ángulos están en la construcción, el deporte y el dibujo. Compararlos con una esquina es la primera forma de medirlos, antes de usar el transportador.",
+      "va": "Els angles són en la construcció, l'esport i el dibuix. Comparar-los amb una cantonada és la primera manera de mesurar-los, abans de fer servir el transportador.",
+      "en": "Angles are in building, sport and drawing. Comparing them with a corner is the first way to measure them, before using a protractor.",
+      "fr": "Les angles sont dans la construction, le sport et le dessin. Les comparer avec un coin est la première façon de les mesurer, avant d'utiliser le rapporteur.",
+      "ar": "الزوايا موجودة في البناء والرياضة والرسم. ومقارنتها بزاوية الورقة أول طريقة لقياسها، قبل استعمال المنقلة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "A las 3:00, las agujas del reloj forman un ángulo. ¿Es agudo, recto u obtuso? ¿Y a las 5:00?",
+        "va": "A les 3:00, les agulles del rellotge formen un angle. És agut, recte o obtús? I a les 5:00?",
+        "en": "At 3:00, the hands of a clock make an angle. Is it acute, right or obtuse? And at 5:00?",
+        "fr": "À 3:00, les aiguilles de l'horloge forment un angle. Est-il aigu, droit ou obtus ? Et à 5:00 ?",
+        "ar": "في الساعة 3:00 يكوّن عقربا الساعة زاوية. هل هي حادّة أم قائمة أم منفرجة؟ وفي الساعة 5:00؟"
+      },
+      "pista": {
+        "es": "Imagina la esquina de un folio con un lado en el 12.",
+        "va": "Imagina la cantonada d'un foli amb un costat al 12.",
+        "en": "Imagine the corner of a sheet of paper with one side on the 12.",
+        "fr": "Imagine le coin d'une feuille avec un côté sur le 12.",
+        "ar": "لنتخيّل زاوية ورقة أحد ضلعيها على الرقم 12."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "A las 3:00 es recto, como la esquina de un folio. A las 5:00 es obtuso: está más abierto. Con un reloj delante se ve mejor.",
+          "va": "A les 3:00 és recte, com la cantonada d'un foli. A les 5:00 és obtús: està més obert. Amb un rellotge davant es veu millor.",
+          "en": "At 3:00 it is a right angle, like the corner of a sheet of paper. At 5:00 it is obtuse: it is more open. It is easier to see with a clock in front of you.",
+          "fr": "À 3:00, il est droit, comme le coin d'une feuille. À 5:00, il est obtus : il est plus ouvert. Avec une horloge devant soi, on le voit mieux.",
+          "ar": "في 3:00 هي قائمة مثل زاوية الورقة. وفي 5:00 هي منفرجة: أكثر انفتاحًا. ويتّضح ذلك أكثر بوجود ساعة أمامنا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con otra hora y que alguien de casa diga qué ángulo forman las agujas.",
+        "va": "Inventa'n tu una amb una altra hora i que algú de casa diga quin angle formen les agulles.",
+        "en": "Make one up with another time and let someone at home say what angle the hands make.",
+        "fr": "Invente un problème avec une autre heure et que quelqu'un de la maison dise quel angle forment les aiguilles.",
+        "ar": "لنخترع مسألة بوقت آخر ونطلب من أحد في البيت أن يقول أي زاوية يكوّنها العقربان."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Un cuadrado tiene 4 ángulos rectos y una escuadra tiene 1. ¿Cuántos ángulos rectos hay en 6 cuadrados y 3 escuadras?",
+        "va": "Un quadrat té 4 angles rectes i un escaire en té 1. Quants angles rectes hi ha en 6 quadrats i 3 escaires?",
+        "en": "A square has 4 right angles and a set square has 1. How many right angles are there in 6 squares and 3 set squares?",
+        "fr": "Un carré a 4 angles droits et une équerre en a 1. Combien d'angles droits y a-t-il dans 6 carrés et 3 équerres ?",
+        "ar": "للمربّع 4 زوايا قائمة وللمثلّث القائم (الكوس) زاوية واحدة. كم زاوية قائمة في 6 مربّعات و3 مثلّثات قائمة؟"
+      },
+      "pista": {
+        "es": "Dos pasos: primero los de los cuadrados, {{6 × 4}}; después, suma los de las escuadras.",
+        "va": "Dos passos: primer els dels quadrats, {{6 × 4}}; després, suma els dels escaires.",
+        "en": "Two steps: first the squares' ones, {{6 × 4}}; then add the set squares' ones.",
+        "fr": "Deux étapes : d'abord ceux des carrés, {{6 × 4}} ; ensuite, ajoute ceux des équerres.",
+        "ar": "خطوتان: أولًا زوايا المربّعات {{6 × 4}}، ثم نضيف زوايا المثلّثات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 4 + 3",
+        "resultado": 27,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 27 ángulos rectos.",
+          "va": "Hi ha 27 angles rectes.",
+          "en": "There are 27 right angles.",
+          "fr": "Il y a 27 angles droits.",
+          "ar": "هناك 27 زاوية قائمة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de dos pasos con figuras y sus ángulos.",
+        "va": "Inventa'n tu una de dos passos amb figures i els seus angles.",
+        "en": "Make up a two-step one with shapes and their angles.",
+        "fr": "Invente un problème en deux étapes avec des figures et leurs angles.",
+        "ar": "لنخترع مسألة من خطوتين عن أشكال وزواياها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una vuelta completa sobre ti mismo son 4 ángulos rectos. Si das 3 vueltas, ¿cuántos ángulos rectos has girado?",
+        "va": "Una volta completa sobre tu mateix són 4 angles rectes. Si fas 3 voltes, quants angles rectes has girat?",
+        "en": "A full turn on the spot is 4 right angles. If you do 3 turns, how many right angles have you turned?",
+        "fr": "Un tour complet sur soi-même, c'est 4 angles droits. Si tu fais 3 tours, combien d'angles droits as-tu tourné ?",
+        "ar": "الدورة الكاملة حول أنفسنا تساوي 4 زوايا قائمة. إذا دُرنا 3 دورات، فكم زاوية قائمة دُرنا؟"
+      },
+      "pista": {
+        "es": "Ponte de pie y gira de esquina en esquina de la habitación: cada esquina es un ángulo recto.",
+        "va": "Posa't dret o dreta i gira de cantonada en cantonada de l'habitació: cada cantonada és un angle recte.",
+        "en": "Stand up and turn from corner to corner of the room: each corner is a right angle.",
+        "fr": "Lève-toi et tourne d'un coin à l'autre de la pièce : chaque coin est un angle droit.",
+        "ar": "لنقف وندور من زاوية إلى زاوية في الغرفة: كل زاوية قائمة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 4",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Has girado 12 ángulos rectos.",
+          "va": "Has girat 12 angles rectes.",
+          "en": "You have turned 12 right angles.",
+          "fr": "Tu as tourné 12 angles droits.",
+          "ar": "دُرنا 12 زاوية قائمة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de giros con media vuelta, que son 2 ángulos rectos.",
+        "va": "Inventa'n tu una de girs amb mitja volta, que són 2 angles rectes.",
+        "en": "Make one up about turns with a half turn, which is 2 right angles.",
+        "fr": "Invente un problème de rotations avec un demi-tour, qui fait 2 angles droits.",
+        "ar": "لنخترع مسألة عن الدوران بنصف دورة، وهي زاويتان قائمتان."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar: un álbum tiene sitio para 1000 cromos y ya hemos pegado 365. ¿Cuántos faltan?",
+        "va": "Per a recordar: un àlbum té lloc per a 1000 cromos i ja n'hem apegat 365. Quants en falten?",
+        "en": "Let's remember: an album has room for 1000 stickers and we have already stuck in 365. How many are missing?",
+        "fr": "Pour se souvenir : un album a de la place pour 1000 images et nous en avons déjà collé 365. Combien en manque-t-il ?",
+        "ar": "لنتذكّر: في ألبوم مكان لـ1000 صورة وألصقنا منها 365. كم صورة بقيت؟"
+      },
+      "pista": {
+        "es": "Abre los ceros: 1000 son 9 centenas, 9 decenas y 10 unidades. O cuenta hacia arriba desde 365.",
+        "va": "Obri els zeros: 1000 són 9 centenes, 9 desenes i 10 unitats. O compta cap amunt des de 365.",
+        "en": "Open up the zeros: 1000 is 9 hundreds, 9 tens and 10 ones. Or count up from 365.",
+        "fr": "Ouvre les zéros : 1000, c'est 9 centaines, 9 dizaines et 10 unités. Ou compte en avançant à partir de 365.",
+        "ar": "لنفتح الأصفار: 1000 تساوي 9 مئات و9 عشرات و10 آحاد. أو لنعدّ صعودًا من 365."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 - 365",
+        "resultado": 635,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 635 cromos.",
+          "va": "En falten 635.",
+          "en": "635 stickers are missing.",
+          "fr": "Il manque 635 images.",
+          "ar": "بقيت 635 صورة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿cuánto falta para 1000?».",
+        "va": "Inventa'n tu una de «quant falta per a 1000?».",
+        "en": "Make up a “how much is left to 1000?” one.",
+        "fr": "Invente un problème « combien il manque pour arriver à 1000 ? ».",
+        "ar": "لنخترع مسألة «كم بقي حتى 1000؟»."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo sabes si un ángulo es agudo, recto u obtuso. Enséñame uno de cada en la habitación.",
+        "va": "Explica'm com saps si un angle és agut, recte o obtús. Ensenya'm un de cada a l'habitació.",
+        "en": "Explain to me how you know if an angle is acute, right or obtuse. Show me one of each in the room.",
+        "fr": "Explique-moi comment tu sais si un angle est aigu, droit ou obtus. Montre-m'en un de chaque dans la pièce.",
+        "ar": "اشرح لي أو اشرحي لي كيف نعرف إن كانت الزاوية حادّة أم قائمة أم منفرجة. لنُرِ واحدة من كل نوع في الغرفة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué esquina de esta habitación es seguro que es recta?»",
+        "va": "Si no sap per on començar: «Quina cantonada d'aquesta habitació segur que és recta?»",
+        "en": "If they don't know where to start: “Which corner of this room is definitely a right angle?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Quel coin de cette pièce est sûrement droit ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أي زاوية في هذه الغرفة قائمة بالتأكيد؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "5aa4c84b745f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "5aa4c84b745f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "5aa4c84b745f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "5aa4c84b745f"
+      }
+    }
+  }
+}

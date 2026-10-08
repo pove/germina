@@ -1,0 +1,350 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.v04",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "verano": 4,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Mosaicos",
+    "va": "Mosaics",
+    "en": "Tilings",
+    "fr": "Mosaïques",
+    "ar": "فسيفساء"
+  },
+  "objetivo": {
+    "es": "Un mosaico cubre el suelo sin huecos con una figura que se repite, se gira o se desplaza. Buscar mosaicos y dibujar uno propio es jugar con simetrías, giros y traslaciones, y descubrir figuras cóncavas (con «cueva») y convexas.",
+    "va": "Un mosaic cobreix el terra sense buits amb una figura que es repeteix, es gira o es desplaça. Buscar mosaics i dibuixar-ne un de propi és jugar amb simetries, girs i translacions, i descobrir figures còncaves (amb «cova») i convexes.",
+    "en": "A tiling covers the floor with no gaps using a shape that repeats, turns or slides. Looking for tilings and drawing your own is playing with reflections, rotations and translations, and discovering concave shapes (with a “cave”) and convex ones.",
+    "fr": "Une mosaïque couvre le sol sans trous avec une figure qui se répète, tourne ou glisse. Chercher des mosaïques et en dessiner une soi-même, c'est jouer avec les symétries, les rotations et les translations, et découvrir des figures concaves (avec une « grotte ») et convexes.",
+    "ar": "الفسيفساء تغطّي الأرض دون فراغات بشكل يتكرّر أو يدور أو ينزاح. البحث عن الفسيفساء ورسم واحدة خاصة بنا لعب بالتناظر والدوران والانسحاب، واكتشاف للأشكال المقعّرة (التي فيها «كهف») والمحدّبة."
+  },
+  "comoAyudar": {
+    "es": "No importa que el mosaico salga perfecto. Preguntad «¿qué has hecho con la figura: la has girado, la has movido o le has dado la vuelta?».",
+    "va": "No importa que el mosaic isca perfecte. Pregunteu «què has fet amb la figura: l'has girada, l'has moguda o li has donat la volta?».",
+    "en": "It doesn't matter if the tiling isn't perfect. Ask “What did you do with the shape: did you turn it, slide it or flip it over?”.",
+    "fr": "Peu importe que la mosaïque soit parfaite. Demandez « Qu'est-ce que tu as fait avec la figure : tu l'as tournée, déplacée ou retournée ? ».",
+    "ar": "لا يهمّ أن تكون الفسيفساء مثالية. اسألوا «ماذا فعلنا بالشكل: هل أدرناه أم حرّكناه أم قلبناه؟»."
+  },
+  "saberes": [
+    "matematicas.geometria.transformaciones",
+    "matematicas.geometria.poligonos",
+    "matematicas.geometria.concavidad"
+  ],
+  "criterios": [
+    "matematicas.c2.2.3",
+    "matematicas.c2.7.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Nuestro mosaico",
+      "va": "El nostre mosaic",
+      "en": "Our tiling",
+      "fr": "Notre mosaïque",
+      "ar": "فسيفساؤنا"
+    },
+    "material": [
+      {
+        "es": "Cartulina y tijeras",
+        "va": "Cartolina i tisores",
+        "en": "Card and scissors",
+        "fr": "Du papier cartonné et des ciseaux",
+        "ar": "ورق مقوّى ومقصّ"
+      },
+      {
+        "es": "Un papel grande y lápices de colores",
+        "va": "Un paper gran i llapis de colors",
+        "en": "A large sheet of paper and coloured pencils",
+        "fr": "Une grande feuille et des crayons de couleur",
+        "ar": "ورقة كبيرة وأقلام تلوين"
+      },
+      {
+        "es": "Un paseo por la calle o por casa para mirar suelos y paredes",
+        "va": "Una passejada pel carrer o per casa per a mirar terres i parets",
+        "en": "A walk around the street or the house to look at floors and walls",
+        "fr": "Une promenade dans la rue ou dans la maison pour regarder les sols et les murs",
+        "ar": "جولة في الشارع أو البيت للنظر إلى الأرضيات والجدران"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "Buscad mosaicos en suelos, paredes y aceras. ¿Qué figura se repite? ¿Quedan huecos?",
+          "va": "Busqueu mosaics en terres, parets i voreres. Quina figura es repeteix? Queden buits?",
+          "en": "Look for tilings on floors, walls and pavements. Which shape repeats? Are there any gaps?",
+          "fr": "Cherchez des mosaïques sur les sols, les murs et les trottoirs. Quelle figure se répète ? Reste-t-il des trous ?",
+          "ar": "ابحثوا عن الفسيفساء في الأرضيات والجدران والأرصفة. أي شكل يتكرّر؟ هل تبقى فراغات؟"
+        }
+      },
+      {
+        "pictograma": "tijeras",
+        "texto": {
+          "es": "Recortad una figura de cartulina: un cuadrado, un triángulo o una inventada. Para que tenga «cueva», cortad un mordisco en un lado y pegadlo en el lado contrario.",
+          "va": "Retalleu una figura de cartolina: un quadrat, un triangle o una d'inventada. Perquè tinga «cova», talleu un mos en un costat i apegueu-lo al costat contrari.",
+          "en": "Cut a shape out of card: a square, a triangle or one you invent. To give it a “cave”, cut a bite out of one side and stick it on the opposite side.",
+          "fr": "Découpez une figure dans du papier cartonné : un carré, un triangle ou une figure inventée. Pour lui faire une « grotte », découpez une morsure sur un côté et collez-la sur le côté opposé.",
+          "ar": "قصّوا شكلًا من الورق المقوّى: مربّعًا أو مثلّثًا أو شكلًا مخترعًا. ولكي يكون فيه «كهف»، اقطعوا قضمة من جهة وألصقوها في الجهة المقابلة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Poned la figura sobre el papel, dibujad su borde, desplazadla o giradla y volved a dibujar. Seguid hasta llenar el papel sin dejar huecos.",
+          "va": "Poseu la figura sobre el paper, dibuixeu-ne la vora, desplaceu-la o gireu-la i torneu a dibuixar. Continueu fins a omplir el paper sense deixar buits.",
+          "en": "Put the shape on the paper, draw round it, slide it or turn it and draw again. Keep going until the paper is full with no gaps.",
+          "fr": "Posez la figure sur le papier, tracez son contour, faites-la glisser ou tourner et dessinez à nouveau. Continuez jusqu'à remplir la feuille sans laisser de trous.",
+          "ar": "ضعوا الشكل على الورقة، وارسموا حدوده، ثم حرّكوه أو أديروه وارسموا من جديد. تابعوا حتى تمتلئ الورقة دون فراغات."
+        }
+      },
+      {
+        "pictograma": "formas",
+        "texto": {
+          "es": "Coloread el mosaico. ¿Dónde habéis movido la figura y dónde la habéis girado? ¿Vuestra figura es cóncava o convexa?",
+          "va": "Pinteu el mosaic. On heu mogut la figura i on l'heu girada? La vostra figura és còncava o convexa?",
+          "en": "Colour in the tiling. Where did you slide the shape and where did you turn it? Is your shape concave or convex?",
+          "fr": "Coloriez la mosaïque. Où avez-vous déplacé la figure et où l'avez-vous tournée ? Votre figure est-elle concave ou convexe ?",
+          "ar": "لوّنوا الفسيفساء. أين حرّكتم الشكل وأين أدرتموه؟ هل شكلكم مقعّر أم محدّب؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo cuadrados o rectángulos y desplazadlos, como baldosas.",
+      "va": "Feu servir només quadrats o rectangles i desplaceu-los, com rajoles.",
+      "en": "Use only squares or rectangles and slide them, like tiles.",
+      "fr": "Utilisez seulement des carrés ou des rectangles et faites-les glisser, comme des carreaux.",
+      "ar": "استعملوا المربّعات أو المستطيلات فقط وحرّكوها كالبلاط."
+    },
+    "masDificil": {
+      "es": "Probad con hexágonos, pentágonos o figuras con mordisco: ¿cuáles llenan el papel sin dejar huecos y cuáles no?",
+      "va": "Proveu amb hexàgons, pentàgons o figures amb mos: quines omplin el paper sense deixar buits i quines no?",
+      "en": "Try hexagons, pentagons or shapes with a bite: which fill the paper with no gaps and which don't?",
+      "fr": "Essayez avec des hexagones, des pentagones ou des figures avec une morsure : lesquelles remplissent la feuille sans trous, et lesquelles non ?",
+      "ar": "جرّبوا السداسيات أو الخماسيات أو الأشكال ذات القضمة: أيها يملأ الورقة دون فراغات وأيها لا؟"
+    },
+    "paraQueSirve": {
+      "es": "Mover, girar y dar la vuelta a figuras con la imaginación es la base de la geometría, del diseño y de muchos oficios, del suelo de la cocina a los videojuegos.",
+      "va": "Moure, girar i donar la volta a figures amb la imaginació és la base de la geometria, del disseny i de molts oficis, del terra de la cuina als videojocs.",
+      "en": "Sliding, turning and flipping shapes in your imagination underpins geometry, design and many jobs, from the kitchen floor to video games.",
+      "fr": "Déplacer, tourner et retourner des figures en imagination, c'est la base de la géométrie, du design et de beaucoup de métiers, du sol de la cuisine aux jeux vidéo.",
+      "ar": "تحريك الأشكال وإدارتها وقلبها في الخيال أساس الهندسة والتصميم ومهن كثيرة، من أرضية المطبخ إلى ألعاب الفيديو."
+    },
+    "aviso": {
+      "es": "Las tijeras, con una persona adulta cerca.",
+      "va": "Les tisores, amb una persona adulta a prop.",
+      "en": "Scissors with an adult nearby.",
+      "fr": "Les ciseaux, avec une personne adulte à proximité.",
+      "ar": "المقصّ بوجود شخص بالغ قريب."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "El suelo de la terraza tiene 8 filas de 9 baldosas. ¿Cuántas baldosas hay?",
+        "va": "El terra de la terrassa té 8 files de 9 rajoles. Quantes rajoles hi ha?",
+        "en": "The terrace floor has 8 rows of 9 tiles. How many tiles are there?",
+        "fr": "Le sol de la terrasse a 8 rangées de 9 carreaux. Combien y a-t-il de carreaux ?",
+        "ar": "في أرضية الشرفة 8 صفوف في كل منها 9 بلاطات. كم بلاطة هناك؟"
+      },
+      "pista": {
+        "es": "Por 9 es por 10 y quitar una vez: {{8 × 10 = 80}}, y luego quita 8.",
+        "va": "Per 9 és per 10 i llevar una vegada: {{8 × 10 = 80}}, i després lleva'n 8.",
+        "en": "Times 9 is times 10 and take one away: {{8 × 10 = 80}}, then take away 8.",
+        "fr": "Fois 9, c'est fois 10 et on enlève une fois : {{8 × 10 = 80}}, puis enlève 8.",
+        "ar": "الضرب في 9 هو الضرب في 10 ثم نطرح مرة: {{8 × 10 = 80}}، ثم نطرح 8."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 9",
+        "resultado": 72,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 72 baldosas.",
+          "va": "Hi ha 72 rajoles.",
+          "en": "There are 72 tiles.",
+          "fr": "Il y a 72 carreaux.",
+          "ar": "هناك 72 بلاطة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una contando las baldosas de una habitación de casa.",
+        "va": "Inventa'n tu una comptant les rajoles d'una habitació de casa.",
+        "en": "Make one up counting the tiles in a room at home.",
+        "fr": "Invente un problème en comptant les carreaux d'une pièce de la maison.",
+        "ar": "لنخترع مسألة بعدّ بلاط غرفة في البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Cada baldosa cuadrada tiene 4 ángulos rectos. ¿Cuántos ángulos rectos hay en 15 baldosas?",
+        "va": "Cada rajola quadrada té 4 angles rectes. Quants angles rectes hi ha en 15 rajoles?",
+        "en": "Each square tile has 4 right angles. How many right angles are there on 15 tiles?",
+        "fr": "Chaque carreau carré a 4 angles droits. Combien d'angles droits y a-t-il sur 15 carreaux ?",
+        "ar": "لكل بلاطة مربّعة 4 زوايا قائمة. كم زاوية قائمة في 15 بلاطة؟"
+      },
+      "pista": {
+        "es": "Parte el 15 en 10 y 5: {{10 × 4}} y {{5 × 4}}.",
+        "va": "Parteix el 15 en 10 i 5: {{10 × 4}} i {{5 × 4}}.",
+        "en": "Split 15 into 10 and 5: {{10 × 4}} and {{5 × 4}}.",
+        "fr": "Partage 15 en 10 et 5 : {{10 × 4}} et {{5 × 4}}.",
+        "ar": "لنقسم 15 إلى 10 و5: {{10 × 4}} و{{5 × 4}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 × 4",
+        "resultado": 60,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 60 ángulos rectos.",
+          "va": "Hi ha 60 angles rectes.",
+          "en": "There are 60 right angles.",
+          "fr": "Il y a 60 angles droits.",
+          "ar": "هناك 60 زاوية قائمة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con triángulos o hexágonos: ¿cuántos lados o vértices hay en total?",
+        "va": "Inventa'n tu una amb triangles o hexàgons: quants costats o vèrtexs hi ha en total?",
+        "en": "Make one up with triangles or hexagons: how many sides or vertices are there in all?",
+        "fr": "Invente un problème avec des triangles ou des hexagones : combien de côtés ou de sommets y a-t-il en tout ?",
+        "ar": "لنخترع مسألة عن مثلّثات أو سداسيات: كم ضلعًا أو رأسًا هناك كلها؟"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Una estrella de cinco puntas, ¿es cóncava o convexa? ¿Y un cuadrado?",
+        "va": "Una estrela de cinc puntes, és còncava o convexa? I un quadrat?",
+        "en": "Is a five-pointed star concave or convex? And a square?",
+        "fr": "Une étoile à cinq branches est-elle concave ou convexe ? Et un carré ?",
+        "ar": "هل النجمة الخماسية مقعّرة أم محدّبة؟ والمربّع؟"
+      },
+      "pista": {
+        "es": "Imagina una goma elástica alrededor de la figura: ¿toca todo el borde o deja «cuevas» sin tocar?",
+        "va": "Imagina una goma elàstica al voltant de la figura: toca tota la vora o deixa «coves» sense tocar?",
+        "en": "Imagine an elastic band around the shape: does it touch the whole edge or leave “caves” untouched?",
+        "fr": "Imagine un élastique autour de la figure : touche-t-il tout le bord ou laisse-t-il des « grottes » sans les toucher ?",
+        "ar": "لنتخيّل شريطًا مطّاطيًا حول الشكل: هل يلمس الحافّة كلها أم يترك «كهوفًا» لا يلمسها؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La estrella es cóncava: tiene «cuevas» entre las puntas. El cuadrado es convexo: la goma toca todo su borde. Si lo explica con otras palabras, también vale.",
+          "va": "L'estrela és còncava: té «coves» entre les puntes. El quadrat és convex: la goma toca tota la vora. Si ho explica amb altres paraules, també val.",
+          "en": "The star is concave: it has “caves” between the points. The square is convex: the band touches its whole edge. Explaining it in other words is fine too.",
+          "fr": "L'étoile est concave : elle a des « grottes » entre les branches. Le carré est convexe : l'élastique touche tout son bord. L'expliquer avec d'autres mots, ça va aussi.",
+          "ar": "النجمة مقعّرة: فيها «كهوف» بين الرؤوس. والمربّع محدّب: الشريط يلمس حافّته كلها. وإن شُرح ذلك بكلمات أخرى فهو صحيح أيضًا."
+        }
+      },
+      "inventala": {
+        "es": "Dibuja tú una figura cóncava y otra convexa y que alguien de casa diga cuál es cuál.",
+        "va": "Dibuixa tu una figura còncava i una altra convexa i que algú de casa diga quina és quina.",
+        "en": "Draw a concave shape and a convex one and let someone at home say which is which.",
+        "fr": "Dessine une figure concave et une figure convexe et que quelqu'un de la maison dise laquelle est laquelle.",
+        "ar": "لنرسم شكلًا مقعّرًا وآخر محدّبًا ونطلب من أحد في البيت أن يقول أيهما أيهما."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 27,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: una alfombra rectangular ocupa 6 baldosas de largo y 4 de ancho. ¿Cuántas baldosas tapa?",
+        "va": "Per a recordar: una catifa rectangular ocupa 6 rajoles de llarg i 4 d'ample. Quantes rajoles tapa?",
+        "en": "Let's remember: a rectangular rug is 6 tiles long and 4 tiles wide. How many tiles does it cover?",
+        "fr": "Pour se souvenir : un tapis rectangulaire fait 6 carreaux de long et 4 de large. Combien de carreaux couvre-t-il ?",
+        "ar": "لنتذكّر: سجّادة مستطيلة طولها 6 بلاطات وعرضها 4. كم بلاطة تغطّي؟"
+      },
+      "pista": {
+        "es": "Es como contar cuadrados: 4 filas de 6.",
+        "va": "És com comptar quadrats: 4 files de 6.",
+        "en": "It's like counting squares: 4 rows of 6.",
+        "fr": "C'est comme compter des carrés : 4 rangées de 6.",
+        "ar": "إنه مثل عدّ المربّعات: 4 صفوف في كل منها 6."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 4",
+        "resultado": 24,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tapa 24 baldosas: es su área.",
+          "va": "Tapa 24 rajoles: és la seua àrea.",
+          "en": "It covers 24 tiles: that is its area.",
+          "fr": "Il couvre 24 carreaux : c'est son aire.",
+          "ar": "تغطّي 24 بلاطة: هذه مساحتها."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con una mesa o una cama: ¿cuántas baldosas tapa?",
+        "va": "Inventa'n tu una amb una taula o un llit: quantes rajoles tapa?",
+        "en": "Make one up with a table or a bed: how many tiles does it cover?",
+        "fr": "Invente un problème avec une table ou un lit : combien de carreaux couvre-t-il ?",
+        "ar": "لنخترع مسألة عن طاولة أو سرير: كم بلاطة يغطّي؟"
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame la diferencia entre girar una figura, moverla y darle la vuelta. Puedes enseñármelo con un libro.",
+        "va": "Explica'm la diferència entre girar una figura, moure-la i donar-li la volta. Pots ensenyar-m'ho amb un llibre.",
+        "en": "Explain to me the difference between turning a shape, sliding it and flipping it. You can show me with a book.",
+        "fr": "Explique-moi la différence entre tourner une figure, la déplacer et la retourner. Tu peux me le montrer avec un livre.",
+        "ar": "اشرح لي أو اشرحي لي الفرق بين إدارة شكل وتحريكه وقلبه. يمكن أن نُري ذلك بكتاب."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Pon el libro en la mesa. ¿Qué cambia si lo giras? ¿Y si lo deslizas?»",
+        "va": "Si no sap per on començar: «Posa el llibre a la taula. Què canvia si el gires? I si el llisques?»",
+        "en": "If they don't know where to start: “Put the book on the table. What changes if you turn it? And if you slide it?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Pose le livre sur la table. Qu'est-ce qui change si tu le tournes ? Et si tu le fais glisser ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «لنضع الكتاب على الطاولة. ماذا يتغيّر إذا أدرناه؟ وإذا زلقناه؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "082c17b756ee"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "082c17b756ee"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "082c17b756ee"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "082c17b756ee"
+      }
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.v03",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "verano": 3,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Mariposas de pintura",
+    "va": "Papallones de pintura",
+    "en": "Paint butterflies",
+    "fr": "Papillons de peinture",
+    "ar": "فراشات من الألوان"
+  },
+  "objetivo": {
+    "es": "Una figura es simétrica cuando, al doblarla por una línea, las dos mitades coinciden. Con pintura y papel se descubre jugando, y después se ve por todas partes.",
+    "va": "Una figura és simètrica quan, en doblegar-la per una línia, les dues meitats coincideixen. Amb pintura i paper es descobreix jugant, i després es veu per tot arreu.",
+    "en": "A shape is symmetrical when, folded along a line, the two halves match. With paint and paper you discover it by playing, and then you see it everywhere.",
+    "fr": "Une figure est symétrique quand, pliée le long d'une ligne, ses deux moitiés se superposent. Avec de la peinture et du papier, on le découvre en jouant, puis on le voit partout.",
+    "ar": "يكون الشكل متناظرًا عندما ينطبق نصفاه إذا طويناه على خط. بالألوان والورق نكتشف ذلك ونحن نلعب، ثم نراه في كل مكان."
+  },
+  "comoAyudar": {
+    "es": "Antes de abrir el papel, preguntad «¿cómo crees que saldrá?». Imaginar el resultado es la mitad del juego.",
+    "va": "Abans d'obrir el paper, pregunteu «com creus que eixirà?». Imaginar el resultat és la meitat del joc.",
+    "en": "Before opening the paper, ask “What do you think it will look like?”. Imagining the result is half the game.",
+    "fr": "Avant d'ouvrir le papier, demandez « Comment tu crois que ça va être ? ». Imaginer le résultat, c'est la moitié du jeu.",
+    "ar": "قبل فتح الورقة، اسألوا «كيف نتوقّع أن يكون الشكل؟». تخيّل النتيجة نصف اللعبة."
+  },
+  "saberes": [
+    "matematicas.geometria.transformaciones"
+  ],
+  "criterios": [
+    "matematicas.c2.2.3",
+    "matematicas.c2.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Mariposas de pintura",
+      "va": "Papallones de pintura",
+      "en": "Paint butterflies",
+      "fr": "Papillons de peinture",
+      "ar": "فراشات من الألوان"
+    },
+    "material": [
+      {
+        "es": "Folios",
+        "va": "Folis",
+        "en": "Sheets of paper",
+        "fr": "Des feuilles de papier",
+        "ar": "أوراق بيضاء"
+      },
+      {
+        "es": "Pintura de dedos o témperas",
+        "va": "Pintura de dits o tèmperes",
+        "en": "Finger paint or poster paint",
+        "fr": "De la peinture à doigts ou de la gouache",
+        "ar": "ألوان للأصابع أو ألوان مائية"
+      },
+      {
+        "es": "Un trapo o papel de cocina",
+        "va": "Un drap o paper de cuina",
+        "en": "A cloth or kitchen paper",
+        "fr": "Un chiffon ou de l'essuie-tout",
+        "ar": "قطعة قماش أو مناديل مطبخ"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Doblad un folio por la mitad y volved a abrirlo. La raya del doblez es el eje de simetría.",
+          "va": "Doblegueu un foli per la meitat i torneu a obrir-lo. La ratlla del plec és l'eix de simetria.",
+          "en": "Fold a sheet of paper in half and open it again. The fold line is the line of symmetry.",
+          "fr": "Pliez une feuille en deux et rouvrez-la. Le trait du pli est l'axe de symétrie.",
+          "ar": "اطووا ورقة من المنتصف ثم افتحوها. خط الطيّ هو محور التناظر."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Pintad media mariposa solo a un lado del doblez, con bastante pintura y colores distintos.",
+          "va": "Pinteu mitja papallona només a un costat del plec, amb prou pintura i colors diferents.",
+          "en": "Paint half a butterfly on just one side of the fold, with plenty of paint and different colours.",
+          "fr": "Peignez un demi-papillon d'un seul côté du pli, avec assez de peinture et des couleurs différentes.",
+          "ar": "ارسموا نصف فراشة على جهة واحدة فقط من خط الطيّ، بكمية كافية من الألوان المختلفة."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Doblad otra vez, apretad con la mano y abrid. ¿Las dos alas son iguales? ¿Dónde ha ido a parar cada color?",
+          "va": "Doblegueu una altra vegada, premeu amb la mà i obriu. Les dues ales són iguals? On ha anat a parar cada color?",
+          "en": "Fold it again, press with your hand and open it. Are both wings the same? Where did each colour end up?",
+          "fr": "Repliez, appuyez avec la main et ouvrez. Les deux ailes sont-elles pareilles ? Où chaque couleur est-elle allée ?",
+          "ar": "اطووا الورقة مرة أخرى، واضغطوا عليها باليد، ثم افتحوها. هل الجناحان متماثلان؟ أين ذهب كل لون؟"
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "Cuando se seque, salid a buscar simetrías: hojas, ventanas, caras, letras como la A o la M. ¿Alguna tiene más de un eje?",
+          "va": "Quan s'asseque, eixiu a buscar simetries: fulles, finestres, cares, lletres com la A o la M. N'hi ha alguna que tinga més d'un eix?",
+          "en": "When it is dry, go looking for symmetry: leaves, windows, faces, letters like A or M. Does any have more than one line of symmetry?",
+          "fr": "Quand c'est sec, partez à la recherche de symétries : feuilles, fenêtres, visages, lettres comme A ou M. Y en a-t-il une avec plus d'un axe ?",
+          "ar": "عندما تجفّ، اخرجوا للبحث عن التناظر: أوراق الشجر، النوافذ، الوجوه، حروف مثل A أو M. هل لشيء منها أكثر من محور؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Pintad solo unas manchas grandes y descubrid qué animal o qué forma sale al abrir.",
+      "va": "Pinteu només unes taques grans i descobriu quin animal o quina forma ix en obrir.",
+      "en": "Just paint a few big blobs and find out what animal or shape appears when you open it.",
+      "fr": "Peignez seulement quelques grosses taches et découvrez quel animal ou quelle forme apparaît à l'ouverture.",
+      "ar": "ارسموا بقعًا كبيرة فقط واكتشفوا أي حيوان أو شكل يظهر عند الفتح."
+    },
+    "masDificil": {
+      "es": "Dibujad media figura en papel de cuadritos, junto a una línea, y que otra persona complete la otra mitad sin doblar.",
+      "va": "Dibuixeu mitja figura en paper de quadrets, al costat d'una línia, i que una altra persona complete l'altra meitat sense doblegar.",
+      "en": "Draw half a shape on squared paper, next to a line, and let another person complete the other half without folding.",
+      "fr": "Dessinez une demi-figure sur du papier quadrillé, contre une ligne, et qu'une autre personne complète l'autre moitié sans plier.",
+      "ar": "ارسموا نصف شكل على ورق مربّعات بجانب خط، ودعوا شخصًا آخر يُكمل النصف الآخر من دون طيّ."
+    },
+    "paraQueSirve": {
+      "es": "La simetría enseña a mirar las formas con atención y a imaginar movimientos, algo que se usa en geometría, en dibujo y en muchos oficios.",
+      "va": "La simetria ensenya a mirar les formes amb atenció i a imaginar moviments, una cosa que s'usa en geometria, en dibuix i en molts oficis.",
+      "en": "Symmetry teaches you to look at shapes carefully and to imagine movements, something used in geometry, in drawing and in many jobs.",
+      "fr": "La symétrie apprend à regarder les formes avec attention et à imaginer des mouvements, ce qui sert en géométrie, en dessin et dans beaucoup de métiers.",
+      "ar": "التناظر يعلّمنا أن ننظر إلى الأشكال بانتباه وأن نتخيّل الحركات، وهذا يُستعمل في الهندسة والرسم ومهن كثيرة."
+    },
+    "aviso": {
+      "es": "Proteged la mesa y la ropa: la pintura mancha.",
+      "va": "Protegiu la taula i la roba: la pintura taca.",
+      "en": "Protect the table and your clothes: paint stains.",
+      "fr": "Protégez la table et les vêtements : la peinture tache.",
+      "ar": "احموا الطاولة والملابس: الألوان تترك بقعًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué letras mayúsculas tienen simetría? Mira las de tu nombre.",
+        "va": "Quines lletres majúscules tenen simetria? Mira les del teu nom.",
+        "en": "Which capital letters are symmetrical? Look at the ones in your name.",
+        "fr": "Quelles lettres majuscules sont symétriques ? Regarde celles de ton prénom.",
+        "ar": "أي الحروف الكبيرة متناظرة؟ لننظر إلى حروف أسمائنا بالحروف اللاتينية."
+      },
+      "pista": {
+        "es": "Escríbelas grandes y pon un lápiz justo en el medio: ¿un lado es como el otro en un espejo?",
+        "va": "Escriu-les grans i posa un llapis just al mig: un costat és com l'altre en un espill?",
+        "en": "Write them big and put a pencil right in the middle: is one side like the other in a mirror?",
+        "fr": "Écris-les en grand et pose un crayon juste au milieu : un côté est-il comme l'autre dans un miroir ?",
+        "ar": "لنكتبها كبيرة ونضع قلمًا في وسطها تمامًا: هل جهة مثل الأخرى في المرآة؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Letras como A, H, M, O, T, U, V o X tienen eje; la F, la G o la R no. Lo bonito es comprobarlo juntos, sin prisa.",
+          "va": "Lletres com A, H, M, O, T, U, V o X tenen eix; la F, la G o la R no. El bonic és comprovar-ho junts, sense pressa.",
+          "en": "Letters like A, H, M, O, T, U, V or X have a line of symmetry; F, G and R don't. The fun part is checking together, without hurrying.",
+          "fr": "Des lettres comme A, H, M, O, T, U, V ou X ont un axe ; F, G ou R, non. Le plus joli, c'est de le vérifier ensemble, sans se presser.",
+          "ar": "حروف مثل A وH وM وO وT وU وV وX لها محور؛ أما F وG وR فلا. الجميل أن نتحقّق من ذلك معًا بلا عجلة."
+        }
+      },
+      "inventala": {
+        "es": "Ahora busca tú una palabra con todas las letras simétricas, como MOTO.",
+        "va": "Ara busca tu una paraula amb totes les lletres simètriques, com MOTO.",
+        "en": "Now you find a word where all the letters are symmetrical, like MOTO.",
+        "fr": "Maintenant, cherche un mot dont toutes les lettres sont symétriques, comme MOTO.",
+        "ar": "والآن لنبحث عن كلمة كل حروفها متناظرة، مثل MOTO."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una mariposa tiene 4 manchas en un ala. Si es simétrica, ¿cuántas manchas tiene en total?",
+        "va": "Una papallona té 4 taques en una ala. Si és simètrica, quantes taques té en total?",
+        "en": "A butterfly has 4 spots on one wing. If it is symmetrical, how many spots does it have in all?",
+        "fr": "Un papillon a 4 taches sur une aile. S'il est symétrique, combien de taches a-t-il en tout ?",
+        "ar": "على جناح فراشة 4 بقع. إذا كانت متناظرة، فكم بقعة عليها كلها؟"
+      },
+      "pista": {
+        "es": "La otra ala es igual, como en un espejo.",
+        "va": "L'altra ala és igual, com en un espill.",
+        "en": "The other wing is the same, like in a mirror.",
+        "fr": "L'autre aile est pareille, comme dans un miroir.",
+        "ar": "الجناح الآخر مثله تمامًا، كما في المرآة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 2",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 8 manchas.",
+          "va": "Té 8 taques.",
+          "en": "It has 8 spots.",
+          "fr": "Il a 8 taches.",
+          "ar": "عليها 8 بقع."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con un dibujo simétrico: una cara, una casa, un cohete…",
+        "va": "Inventa'n tu una amb un dibuix simètric: una cara, una casa, un coet…",
+        "en": "Make one up with a symmetrical drawing: a face, a house, a rocket…",
+        "fr": "Invente un problème avec un dessin symétrique : un visage, une maison, une fusée…",
+        "ar": "لنخترع مسألة عن رسم متناظر: وجه، بيت، صاروخ…"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Una ventana simétrica tiene 10 cristales en total. ¿Cuántos hay a cada lado del eje?",
+        "va": "Una finestra simètrica té 10 vidres en total. Quants n'hi ha a cada costat de l'eix?",
+        "en": "A symmetrical window has 10 panes in all. How many are there on each side of the line of symmetry?",
+        "fr": "Une fenêtre symétrique a 10 carreaux en tout. Combien y en a-t-il de chaque côté de l'axe ?",
+        "ar": "نافذة متناظرة فيها 10 ألواح زجاج. كم لوحًا في كل جهة من المحور؟"
+      },
+      "pista": {
+        "es": "Los dos lados tienen los mismos: reparte 10 en 2 partes iguales.",
+        "va": "Els dos costats en tenen els mateixos: reparteix 10 en 2 parts iguals.",
+        "en": "Both sides have the same number: share 10 into 2 equal parts.",
+        "fr": "Les deux côtés en ont autant : partage 10 en 2 parts égales.",
+        "ar": "في الجهتين العدد نفسه: لنوزّع 10 على جزأين متساويين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 : 2",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 5 cristales a cada lado.",
+          "va": "Hi ha 5 vidres a cada costat.",
+          "en": "There are 5 panes on each side.",
+          "fr": "Il y a 5 carreaux de chaque côté.",
+          "ar": "في كل جهة 5 ألواح."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con las ventanas o las baldosas de vuestra casa.",
+        "va": "Inventa'n tu una amb les finestres o les rajoles de casa vostra.",
+        "en": "Make one up with the windows or tiles in your home.",
+        "fr": "Invente un problème avec les fenêtres ou le carrelage de chez vous.",
+        "ar": "لنخترع مسألة عن نوافذ البيت أو بلاطه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 27,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: un cuadrado de papel tiene lados de 15 cm. ¿Cuánto mide todo su borde?",
+        "va": "Per a recordar: un quadrat de paper té costats de 15 cm. Quant mesura tota la vora?",
+        "en": "Let's remember: a paper square has sides of 15 cm. How long is its whole edge?",
+        "fr": "Pour se souvenir : un carré de papier a des côtés de 15 cm. Combien mesure tout son bord ?",
+        "ar": "لنتذكّر: مربّع من الورق طول ضلعه 15 cm. كم طول حافّته كلها؟"
+      },
+      "pista": {
+        "es": "Un cuadrado tiene 4 lados iguales: suma 15 cuatro veces o multiplica.",
+        "va": "Un quadrat té 4 costats iguals: suma 15 quatre vegades o multiplica.",
+        "en": "A square has 4 equal sides: add 15 four times or multiply.",
+        "fr": "Un carré a 4 côtés égaux : ajoute 15 quatre fois ou multiplie.",
+        "ar": "للمربّع 4 أضلاع متساوية: لنجمع 15 أربع مرات أو نضرب."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 × 4",
+        "resultado": 60,
+        "unidad": "cm",
+        "texto": {
+          "es": "Su borde mide 60 cm. Es su perímetro.",
+          "va": "La vora mesura 60 cm. És el seu perímetre.",
+          "en": "Its edge is 60 cm long. That is its perimeter.",
+          "fr": "Son bord mesure 60 cm. C'est son périmètre.",
+          "ar": "طول حافّته 60 cm. هذا محيطه."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una midiendo el borde de una servilleta o de un libro.",
+        "va": "Inventa'n tu una mesurant la vora d'un tovalló o d'un llibre.",
+        "en": "Make one up measuring the edge of a napkin or a book.",
+        "fr": "Invente un problème en mesurant le bord d'une serviette ou d'un livre.",
+        "ar": "لنخترع مسألة بقياس حافّة منديل أو كتاب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Dónde has encontrado simetrías estos días? Explícame cómo sabes que una cosa es simétrica.",
+        "va": "On has trobat simetries aquests dies? Explica'm com saps que una cosa és simètrica.",
+        "en": "Where have you found symmetry these days? Explain to me how you know something is symmetrical.",
+        "fr": "Où as-tu trouvé des symétries ces jours-ci ? Explique-moi comment tu sais qu'une chose est symétrique.",
+        "ar": "أين وجدنا التناظر في هذه الأيام؟ اشرح لي أو اشرحي لي كيف نعرف أن شيئًا متناظر."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Tu cara es simétrica? ¿Y si guiñas un ojo?»",
+        "va": "Si no sap per on començar: «La teua cara és simètrica? I si fas l'ullet?»",
+        "en": "If they don't know where to start: “Is your face symmetrical? And if you wink?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Ton visage est symétrique ? Et si tu fais un clin d'œil ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل وجوهنا متناظرة؟ وإذا غمزنا بعين واحدة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "6de1d94c1383"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "6de1d94c1383"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "6de1d94c1383"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "6de1d94c1383"
+      }
+    }
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.v10",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "verano": 10,
+  "tipo": "verano",
+  "titulo": {
+    "es": "El robot de casa",
+    "va": "El robot de casa",
+    "en": "The home robot",
+    "fr": "Le robot de la maison",
+    "ar": "روبوت البيت"
+  },
+  "objetivo": {
+    "es": "Un algoritmo es una lista de instrucciones exactas y en orden. Hacer de robot y dar órdenes para dibujar una figura o llegar a la cocina enseña lo importante que es ser preciso, y que un fallo se arregla cambiando un solo paso.",
+    "va": "Un algorisme és una llista d'instruccions exactes i en ordre. Fer de robot i donar ordres per a dibuixar una figura o arribar a la cuina ensenya com és d'important ser precís, i que una errada s'arregla canviant un sol pas.",
+    "en": "An algorithm is a list of exact instructions in order. Playing robot and giving commands to draw a shape or reach the kitchen shows how important it is to be precise, and that a mistake is fixed by changing just one step.",
+    "fr": "Un algorithme est une liste d'instructions exactes et dans l'ordre. Faire le robot et donner des ordres pour dessiner une figure ou aller à la cuisine montre combien il est important d'être précis, et qu'une erreur se répare en changeant une seule étape.",
+    "ar": "الخوارزمية قائمة تعليمات دقيقة ومرتّبة. لعب دور الروبوت وإعطاء الأوامر لرسم شكل أو للوصول إلى المطبخ يعلّم أهمية الدقّة، وأن الخطأ يُصلَح بتغيير خطوة واحدة فقط."
+  },
+  "comoAyudar": {
+    "es": "Cuando el robot se choque, reíos juntos y buscad qué orden cambiar. Trabajar en equipo es parte del reto: una persona da órdenes, otra las sigue y otra las apunta.",
+    "va": "Quan el robot xoque, rieu junts i busqueu quina ordre canviar. Treballar en equip és part del repte: una persona dona ordres, una altra les segueix i una altra les apunta.",
+    "en": "When the robot bumps into something, laugh together and look for which command to change. Teamwork is part of the challenge: one person gives commands, another follows them and another writes them down.",
+    "fr": "Quand le robot se cogne, riez ensemble et cherchez quel ordre changer. Travailler en équipe fait partie du défi : une personne donne les ordres, une autre les suit et une autre les note.",
+    "ar": "عندما يصطدم الروبوت، اضحكوا معًا وابحثوا عن الأمر الذي نغيّره. العمل في فريق جزء من التحدّي: شخص يعطي الأوامر، وآخر ينفّذها، وثالث يدوّنها."
+  },
+  "saberes": [
+    "matematicas.computacional.algoritmos",
+    "matematicas.computacional.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c2.4.1",
+    "matematicas.c2.6.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El robot de casa",
+      "va": "El robot de casa",
+      "en": "The home robot",
+      "fr": "Le robot de la maison",
+      "ar": "روبوت البيت"
+    },
+    "material": [
+      {
+        "es": "Papel de cuadritos y lápiz",
+        "va": "Paper de quadrets i llapis",
+        "en": "Squared paper and a pencil",
+        "fr": "Du papier quadrillé et un crayon",
+        "ar": "ورق مربّعات وقلم رصاص"
+      },
+      {
+        "es": "Un objeto que sirva de meta",
+        "va": "Un objecte que servisca de meta",
+        "en": "An object to be the goal",
+        "fr": "Un objet qui sert d'arrivée",
+        "ar": "شيء يكون هو الهدف"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid las órdenes que entiende el robot: «avanza 1 paso», «gira a la derecha», «gira a la izquierda» y «coge».",
+          "va": "Escriviu les ordres que entén el robot: «avança 1 pas», «gira a la dreta», «gira a l'esquerra» i «agafa».",
+          "en": "Write down the commands the robot understands: “step forward 1”, “turn right”, “turn left” and “pick up”.",
+          "fr": "Écrivez les ordres que le robot comprend : « avance d'1 pas », « tourne à droite », « tourne à gauche » et « prends ».",
+          "ar": "اكتبوا الأوامر التي يفهمها الروبوت: «تقدّم خطوة»، «استدر يمينًا»، «استدر يسارًا»، «خُذ»."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Una persona hace de robot y solo obedece esas órdenes, al pie de la letra. Otra la guía hasta un objeto de la casa.",
+          "va": "Una persona fa de robot i només obeeix aquestes ordres, al peu de la lletra. Una altra la guia fins a un objecte de la casa.",
+          "en": "One person is the robot and only obeys those commands, word for word. Another person guides them to an object in the house.",
+          "fr": "Une personne fait le robot et n'obéit qu'à ces ordres, à la lettre. Une autre la guide jusqu'à un objet de la maison.",
+          "ar": "يؤدّي شخص دور الروبوت ولا يطيع إلا هذه الأوامر حرفيًا. ويوجّهه شخص آخر إلى شيء في البيت."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Otra persona, si la hay, apunta las órdenes en orden. Si el robot choca, buscad juntos qué orden cambiar y repetid.",
+          "va": "Una altra persona, si n'hi ha, apunta les ordres en ordre. Si el robot xoca, busqueu junts quina ordre canviar i repetiu.",
+          "en": "Another person, if there is one, writes the commands down in order. If the robot bumps into something, look together for which command to change and try again.",
+          "fr": "Une autre personne, s'il y en a une, note les ordres dans l'ordre. Si le robot se cogne, cherchez ensemble quel ordre changer et recommencez.",
+          "ar": "يدوّن شخص آخر، إن وُجد، الأوامر بالترتيب. وإذا اصطدم الروبوت، ابحثوا معًا عن الأمر الذي نغيّره وأعيدوا."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Ahora en papel: el robot dibuja en la cuadrícula siguiendo órdenes como «2 cuadros arriba, 3 a la derecha». ¿Sale la figura que se quería?",
+          "va": "Ara en paper: el robot dibuixa en la quadrícula seguint ordres com «2 quadres amunt, 3 a la dreta». Ix la figura que es volia?",
+          "en": "Now on paper: the robot draws on the grid following commands like “2 squares up, 3 right”. Does the intended shape come out?",
+          "fr": "Maintenant sur papier : le robot dessine sur le quadrillage en suivant des ordres comme « 2 carreaux vers le haut, 3 à droite ». La figure voulue apparaît-elle ?",
+          "ar": "الآن على الورق: يرسم الروبوت على الشبكة متّبعًا أوامر مثل «مربّعان إلى الأعلى، 3 إلى اليمين». هل يظهر الشكل المطلوب؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad un camino corto, en línea recta y con un solo giro.",
+      "va": "Feu servir un camí curt, en línia recta i amb un sol gir.",
+      "en": "Use a short path, in a straight line with just one turn.",
+      "fr": "Utilisez un chemin court, en ligne droite et avec un seul virage.",
+      "ar": "استعملوا طريقًا قصيرًا ومستقيمًا فيه انعطافة واحدة فقط."
+    },
+    "masDificil": {
+      "es": "Añadid una orden de repetir: «repite 4 veces: avanza 3 y gira a la derecha». ¿Qué figura dibuja el robot?",
+      "va": "Afegiu una ordre de repetir: «repeteix 4 vegades: avança 3 i gira a la dreta». Quina figura dibuixa el robot?",
+      "en": "Add a repeat command: “repeat 4 times: forward 3 and turn right”. What shape does the robot draw?",
+      "fr": "Ajoutez un ordre de répétition : « répète 4 fois : avance de 3 et tourne à droite ». Quelle figure le robot dessine-t-il ?",
+      "ar": "أضيفوا أمر تكرار: «كرّر 4 مرات: تقدّم 3 واستدر يمينًا». أي شكل يرسم الروبوت؟"
+    },
+    "paraQueSirve": {
+      "es": "Así piensan quienes programan ordenadores y robots. Y explicar algo paso a paso, sin saltarse nada, sirve para todo: una receta, un camino o un juego nuevo.",
+      "va": "Així pensen els qui programen ordinadors i robots. I explicar una cosa pas a pas, sense saltar-se res, serveix per a tot: una recepta, un camí o un joc nou.",
+      "en": "That is how people who program computers and robots think. And explaining something step by step, without skipping anything, is useful for everything: a recipe, a route or a new game.",
+      "fr": "C'est ainsi que pensent les personnes qui programment des ordinateurs et des robots. Et expliquer quelque chose pas à pas, sans rien sauter, sert à tout : une recette, un chemin ou un nouveau jeu.",
+      "ar": "هكذا يفكّر من يبرمجون الحواسيب والروبوتات. وشرح شيء خطوة خطوة دون تجاوز أي شيء ينفع في كل شيء: وصفة، طريق، لعبة جديدة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "El robot avanza 4 pasos, gira, avanza 7, gira otra vez y avanza 5. ¿Cuántos pasos ha dado?",
+        "va": "El robot avança 4 passos, gira, avança 7, gira una altra vegada i avança 5. Quants passos ha fet?",
+        "en": "The robot goes forward 4 steps, turns, goes forward 7, turns again and goes forward 5. How many steps has it taken?",
+        "fr": "Le robot avance de 4 pas, tourne, avance de 7, tourne encore et avance de 5. Combien de pas a-t-il faits ?",
+        "ar": "يتقدّم الروبوت 4 خطوات، ثم يستدير، ثم يتقدّم 7، ثم يستدير مرة أخرى ويتقدّم 5. كم خطوة خطا؟"
+      },
+      "pista": {
+        "es": "Los giros no son pasos: suma solo los avances.",
+        "va": "Els girs no són passos: suma només els avanços.",
+        "en": "Turns aren't steps: add only the forward moves.",
+        "fr": "Les virages ne sont pas des pas : additionne seulement les avancées.",
+        "ar": "الاستدارات ليست خطوات: لنجمع التقدّمات فقط."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 7 + 5",
+        "resultado": 16,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ha dado 16 pasos.",
+          "va": "Ha fet 16 passos.",
+          "en": "It has taken 16 steps.",
+          "fr": "Il a fait 16 pas.",
+          "ar": "خطا 16 خطوة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un recorrido para el robot y que alguien de casa cuente los pasos.",
+        "va": "Inventa'n tu un recorregut per al robot i que algú de casa compte els passos.",
+        "en": "Make up a route for the robot and let someone at home count the steps.",
+        "fr": "Invente un parcours pour le robot et que quelqu'un de la maison compte les pas.",
+        "ar": "لنخترع مسارًا للروبوت ونطلب من أحد في البيت أن يعدّ الخطوات."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "La orden «repite 6 veces: avanza 8 pasos», ¿cuántos pasos hace dar al robot?",
+        "va": "L'ordre «repeteix 6 vegades: avança 8 passos», quants passos fa fer al robot?",
+        "en": "How many steps does the command “repeat 6 times: forward 8 steps” make the robot take?",
+        "fr": "L'ordre « répète 6 fois : avance de 8 pas » fait faire combien de pas au robot ?",
+        "ar": "الأمر «كرّر 6 مرات: تقدّم 8 خطوات»، كم خطوة يجعل الروبوت يخطو؟"
+      },
+      "pista": {
+        "es": "Repetir es multiplicar: 6 veces 8.",
+        "va": "Repetir és multiplicar: 6 vegades 8.",
+        "en": "Repeating is multiplying: 6 times 8.",
+        "fr": "Répéter, c'est multiplier : 6 fois 8.",
+        "ar": "التكرار ضرب: 6 مرات 8."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 8",
+        "resultado": 48,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le hace dar 48 pasos.",
+          "va": "Li fa fer 48 passos.",
+          "en": "It makes it take 48 steps.",
+          "fr": "Il lui fait faire 48 pas.",
+          "ar": "يجعله يخطو 48 خطوة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una orden de repetir y que alguien calcule cuántos pasos son.",
+        "va": "Inventa'n tu una ordre de repetir i que algú calcule quants passos són.",
+        "en": "Make up a repeat command and let someone work out how many steps it is.",
+        "fr": "Invente un ordre de répétition et que quelqu'un calcule combien de pas ça fait.",
+        "ar": "لنخترع أمر تكرار ونطلب من أحد أن يحسب كم خطوة هو."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "«Repite 4 veces: avanza 3 cuadros y gira a la derecha». ¿Qué figura dibuja el robot?",
+        "va": "«Repeteix 4 vegades: avança 3 quadres i gira a la dreta». Quina figura dibuixa el robot?",
+        "en": "“Repeat 4 times: forward 3 squares and turn right”. What shape does the robot draw?",
+        "fr": "« Répète 4 fois : avance de 3 carreaux et tourne à droite ». Quelle figure le robot dessine-t-il ?",
+        "ar": "«كرّر 4 مرات: تقدّم 3 مربّعات واستدر يمينًا». أي شكل يرسم الروبوت؟"
+      },
+      "pista": {
+        "es": "Dibújalo en papel de cuadritos siguiendo la orden.",
+        "va": "Dibuixa-ho en paper de quadrets seguint l'ordre.",
+        "en": "Draw it on squared paper following the command.",
+        "fr": "Dessine-le sur du papier quadrillé en suivant l'ordre.",
+        "ar": "لنرسمه على ورق مربّعات متّبعين الأمر."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Un cuadrado de 3 cuadros de lado: 4 lados iguales y 4 giros rectos. Si lo comprueba dibujando, mejor que decirlo de memoria.",
+          "va": "Un quadrat de 3 quadres de costat: 4 costats iguals i 4 girs rectes. Si ho comprova dibuixant, millor que dir-ho de memòria.",
+          "en": "A square with sides of 3 squares: 4 equal sides and 4 right-angle turns. Checking by drawing is better than saying it from memory.",
+          "fr": "Un carré de 3 carreaux de côté : 4 côtés égaux et 4 virages droits. Le vérifier en dessinant vaut mieux que le dire de mémoire.",
+          "ar": "مربّع طول ضلعه 3 مربّعات: 4 أضلاع متساوية و4 استدارات قائمة. التحقّق بالرسم أفضل من القول حفظًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una orden de repetir que dibuje un rectángulo.",
+        "va": "Inventa'n tu una ordre de repetir que dibuixe un rectangle.",
+        "en": "Make up a repeat command that draws a rectangle.",
+        "fr": "Invente un ordre de répétition qui dessine un rectangle.",
+        "ar": "لنخترع أمر تكرار يرسم مستطيلًا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 26,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: compramos 4 cajas de 12 rotuladores y los repartimos entre 6 personas. ¿Cuántos le tocan a cada una?",
+        "va": "Per a recordar: comprem 4 capses de 12 retoladors i els repartim entre 6 persones. Quants en toquen a cadascuna?",
+        "en": "Let's remember: we buy 4 boxes of 12 felt-tip pens and share them among 6 people. How many does each person get?",
+        "fr": "Pour se souvenir : nous achetons 4 boîtes de 12 feutres et nous les partageons entre 6 personnes. Combien chacune en reçoit-elle ?",
+        "ar": "لنتذكّر: اشترينا 4 علب في كل منها 12 قلم تلوين ووزّعناها على 6 أشخاص. كم قلمًا يأخذ كل واحد؟"
+      },
+      "pista": {
+        "es": "Dos pasos: primero, cuántos rotuladores hay; después, el reparto.",
+        "va": "Dos passos: primer, quants retoladors hi ha; després, el repartiment.",
+        "en": "Two steps: first, how many pens there are; then, the sharing.",
+        "fr": "Deux étapes : d'abord, combien il y a de feutres ; ensuite, le partage.",
+        "ar": "خطوتان: أولًا كم قلمًا هناك، ثم التوزيع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 12 : 6",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le tocan 8 a cada una: {{4 × 12 = 48}} y {{48 : 6 = 8}}.",
+          "va": "En toquen 8 a cadascuna: {{4 × 12 = 48}} i {{48 : 6 = 8}}.",
+          "en": "Each person gets 8: {{4 × 12 = 48}} and {{48 : 6 = 8}}.",
+          "fr": "Chacune en reçoit 8 : {{4 × 12 = 48}} et {{48 : 6 = 8}}.",
+          "ar": "يأخذ كل واحد 8: {{4 × 12 = 48}} و{{48 : 6 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos con cajas y un reparto.",
+        "va": "Inventa'n tu un de dos passos amb capses i un repartiment.",
+        "en": "Make up a two-step one with boxes and sharing.",
+        "fr": "Invente un problème en deux étapes avec des boîtes et un partage.",
+        "ar": "لنخترع مسألة من خطوتين عن علب وتوزيع."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame, como si yo fuera un robot, cómo se hace un bocadillo. Sin saltarte ningún paso.",
+        "va": "Explica'm, com si jo fora un robot, com es fa un entrepà. Sense saltar-te cap pas.",
+        "en": "Explain to me, as if I were a robot, how to make a sandwich. Without skipping any step.",
+        "fr": "Explique-moi, comme si j'étais un robot, comment on fait un sandwich. Sans sauter aucune étape.",
+        "ar": "اشرح لي أو اشرحي لي، كأنني روبوت، كيف تُصنع شطيرة. دون تجاوز أي خطوة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué hago primero: abro el pan o cojo el cuchillo?»",
+        "va": "Si no sap per on començar: «Què faig primer: obric el pa o agafe el ganivet?»",
+        "en": "If they don't know where to start: “What do I do first: open the bread or pick up the knife?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que je fais d'abord : j'ouvre le pain ou je prends le couteau ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا أفعل أولًا: أفتح الخبز أم آخذ السكين؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Haced de robot de verdad: si se salta abrir el pan, no lo abráis. Reíd juntos, completad la receta y celebrad el último reto del verano.",
+          "va": "Feu de robot de veritat: si se salta obrir el pa, no l'obriu. Rieu junts, completeu la recepta i celebreu l'últim repte de l'estiu.",
+          "en": "Really be the robot: if they skip opening the bread, don't open it. Laugh together, finish the recipe and celebrate the last summer challenge.",
+          "fr": "Faites vraiment le robot : s'il ou elle oublie d'ouvrir le pain, ne l'ouvrez pas. Riez ensemble, terminez la recette et fêtez le dernier défi de l'été.",
+          "ar": "كونوا روبوتًا حقيقيًا: إذا تجاوز الطفل خطوة فتح الخبز، فلا تفتحوه. اضحكوا معًا، وأكملوا الوصفة، واحتفلوا بآخر تحدٍّ في الصيف."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "4c45446bd72a"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "4c45446bd72a"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "4c45446bd72a"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "4c45446bd72a"
+      }
+    }
+  }
+}
