@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s28",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 28,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Preguntar y contar",
+    "va": "Preguntar i comptar",
+    "en": "Ask and count",
+    "fr": "Demander et compter",
+    "ar": "نسأل ونعدّ"
+  },
+  "objetivo": {
+    "es": "Esta semana hacen una encuesta: preguntan algo a varias personas, cuentan las respuestas con palotes y lo dibujan en un gráfico de barras para verlo de un vistazo.",
+    "va": "Aquesta setmana fan una enquesta (encuesta): pregunten alguna cosa a diverses persones, compten les respostes amb palets i ho dibuixen en un gràfic de barres (gráfico de barras) per a veure-ho d'una ullada.",
+    "en": "This week they do a survey (encuesta): they ask several people something, count the answers with tally marks and draw it in a bar chart (gráfico de barras) to see it at a glance.",
+    "fr": "Cette semaine, on fait une enquête (encuesta) : on pose une question à plusieurs personnes, on compte les réponses avec des bâtons et on les dessine dans un diagramme en barres (gráfico de barras) pour tout voir d'un coup d'œil.",
+    "ar": "هذا الأسبوع يُجري الأطفال استطلاعًا (encuesta): يسألون عدة أشخاص سؤالًا، ويعدّون الإجابات بخطوط صغيرة، ويرسمونها في مخطّط بالأعمدة (gráfico de barras) ليروها بنظرة واحدة."
+  },
+  "comoAyudar": {
+    "es": "Dejad que haga las preguntas en persona, con una persona adulta al lado si es fuera de casa. Y al ver el gráfico, preguntad primero «¿qué nos cuenta?».",
+    "va": "Deixeu que faça les preguntes en persona, amb una persona adulta al costat si és fora de casa. I en veure el gràfic, pregunteu primer «què ens conta?».",
+    "en": "Let them ask the questions in person, with an adult alongside if it's outside the home. And when you look at the chart, first ask “What does it tell us?”",
+    "fr": "Laissez poser les questions en personne, avec un adulte à côté si c'est en dehors de la maison. Et devant le diagramme, demandez d'abord « Qu'est-ce qu'il nous raconte ? ».",
+    "ar": "اتركوا الطفل يطرح الأسئلة بنفسه، مع شخص بالغ إلى جانبه إن كان خارج البيت. وعند رؤية المخطّط، اسألوا أولًا «ماذا يخبرنا؟»."
+  },
+  "saberes": [
+    "matematicas.datos.encuestas",
+    "matematicas.datos.frecuencias",
+    "matematicas.datos.barras",
+    "matematicas.datos.representaciones"
+  ],
+  "criterios": [
+    "matematicas.c2.3.1",
+    "matematicas.c2.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La fruta favorita",
+      "va": "La fruita preferida",
+      "en": "Favourite fruit",
+      "fr": "Le fruit préféré",
+      "ar": "الفاكهة المفضّلة"
+    },
+    "material": [
+      {
+        "es": "Papel cuadriculado",
+        "va": "Paper quadriculat",
+        "en": "Squared paper",
+        "fr": "Du papier quadrillé",
+        "ar": "ورق مربّعات"
+      },
+      {
+        "es": "Lápices de colores",
+        "va": "Llapis de colors",
+        "en": "Coloured pencils",
+        "fr": "Des crayons de couleur",
+        "ar": "أقلام ملوّنة"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "fruta",
+        "texto": {
+          "es": "Elegid 4 frutas (por ejemplo, plátano, manzana, naranja y fresa) y escribidlas en un papel, una debajo de otra.",
+          "va": "Trieu 4 fruites (per exemple, plàtan, poma, taronja i maduixa) i escriviu-les en un paper, una davall de l'altra.",
+          "en": "Choose 4 fruits (for example, banana, apple, orange and strawberry) and write them on a piece of paper, one under the other.",
+          "fr": "Choisissez 4 fruits (par exemple, banane, pomme, orange et fraise) et écrivez-les sur un papier, l'un sous l'autre.",
+          "ar": "اختاروا 4 أنواع من الفاكهة (مثلًا الموز والتفاح والبرتقال والفراولة) واكتبوها على ورقة، واحدة تحت الأخرى."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Preguntad a la familia, por teléfono a quien esté lejos o a vecinos de confianza: «¿Cuál de estas frutas te gusta más?». Cada persona elige una.",
+          "va": "Pregunteu a la família, per telèfon a qui estiga lluny o a veïns de confiança: «Quina d'aquestes fruites t'agrada més?». Cada persona en tria una.",
+          "en": "Ask your family, people who live far away by phone, or neighbours you trust: “Which of these fruits do you like best?” Each person chooses one.",
+          "fr": "Demandez à la famille, par téléphone à ceux qui sont loin, ou à des voisins de confiance : « Lequel de ces fruits préfères-tu ? ». Chaque personne en choisit un.",
+          "ar": "اسألوا العائلة، أو بالهاتف من يعيش بعيدًا، أو جيرانًا موثوقين: «أيّ هذه الفواكه تحبّ أكثر؟». يختار كل شخص واحدة."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Por cada respuesta, un palote al lado de su fruta. Cada 5, el quinto palote tacha los otros cuatro: así se cuentan rápido.",
+          "va": "Per cada resposta, un palet al costat de la seua fruita. Cada 5, el cinqué palet ratlla els altres quatre: així es compten ràpid.",
+          "en": "For each answer, a tally mark next to its fruit. Every fifth mark crosses out the other four: that way they're quick to count.",
+          "fr": "Pour chaque réponse, un bâton à côté de son fruit. Tous les 5, le cinquième bâton barre les quatre autres : comme ça, on compte vite.",
+          "ar": "لكل إجابة خط صغير بجانب فاكهتها. وكل خامس خط يشطب الأربعة السابقة: هكذا نعدّها بسرعة."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "En el papel cuadriculado, pintad una barra por fruta, tan alta como sus votos: un cuadradito por voto. ¿Cuál tiene más? ¿Cuántos votos más que la que menos?",
+          "va": "En el paper quadriculat, pinteu una barra per fruita, tan alta com els seus vots: un quadradet per vot. Quina en té més? Quants vots més que la que menys?",
+          "en": "On the squared paper, colour a bar for each fruit, as tall as its votes: one little square per vote. Which has the most? How many more votes than the one with the fewest?",
+          "fr": "Sur le papier quadrillé, coloriez une barre par fruit, aussi haute que ses votes : un petit carreau par vote. Lequel en a le plus ? Combien de votes de plus que celui qui en a le moins ?",
+          "ar": "على ورق المربّعات، لوّنوا عمودًا لكل فاكهة بارتفاع أصواتها: مربّع صغير لكل صوت. أيّها حصل على أكثر؟ وكم صوتًا يزيد عن الأقل؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced un pictograma: dibujad una fruta pequeña por cada voto, en fila.",
+      "va": "Feu un pictograma: dibuixeu una fruita menuda per cada vot, en fila.",
+      "en": "Make a pictogram: draw a small fruit for each vote, in a row.",
+      "fr": "Faites un pictogramme : dessinez un petit fruit par vote, en ligne.",
+      "ar": "اصنعوا مخطّطًا بالصور: ارسموا فاكهة صغيرة لكل صوت، في صف."
+    },
+    "masDificil": {
+      "es": "Haced otra encuesta (el animal favorito, cómo venís al cole…) y comparad las dos: ¿en cuál están más igualadas las barras?",
+      "va": "Feu una altra enquesta (l'animal preferit, com veniu a l'escola…) i compareu-les: en quina estan més igualades les barres?",
+      "en": "Do another survey (favourite animal, how you get to school…) and compare the two: in which one are the bars more even?",
+      "fr": "Faites une autre enquête (l'animal préféré, comment on vient à l'école…) et comparez les deux : dans laquelle les barres sont-elles le plus égales ?",
+      "ar": "أجروا استطلاعًا آخر (الحيوان المفضّل، كيف تأتون إلى المدرسة…) وقارنوا بينهما: في أيّهما الأعمدة أكثر تقاربًا؟"
+    },
+    "paraQueSirve": {
+      "es": "Preguntar, contar y dibujar los datos es lo que hacen los periódicos y la ciencia para entender lo que pasa. Y leer un gráfico ayuda a no creerse cualquier cosa sin mirar.",
+      "va": "Preguntar, comptar i dibuixar les dades és el que fan els periòdics i la ciència per a entendre el que passa. I llegir un gràfic ajuda a no creure's qualsevol cosa sense mirar.",
+      "en": "Asking, counting and drawing data is what newspapers and scientists do to understand what's going on. And reading a chart helps you not to believe just anything without looking.",
+      "fr": "Demander, compter et dessiner les données, c'est ce que font les journaux et la science pour comprendre ce qui se passe. Et lire un graphique aide à ne pas croire n'importe quoi sans regarder.",
+      "ar": "السؤال والعدّ ورسم البيانات هو ما تفعله الصحف والعلوم لفهم ما يحدث. وقراءة المخطّط تساعد على ألّا نصدّق أي شيء دون أن ننظر."
+    },
+    "aviso": {
+      "es": "Para preguntar fuera de casa, siempre con una persona adulta.",
+      "va": "Per a preguntar fora de casa, sempre amb una persona adulta.",
+      "en": "When asking outside the home, always go with an adult.",
+      "fr": "Pour poser des questions en dehors de la maison, toujours avec un adulte.",
+      "ar": "للسؤال خارج البيت، دائمًا مع شخص بالغ."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En una encuesta, 8 personas eligen el plátano y 5, la manzana. ¿Cuántas personas más prefieren el plátano?",
+        "va": "En una enquesta, 8 persones trien el plàtan i 5, la poma. Quantes persones més preferixen el plàtan?",
+        "en": "In a survey, 8 people choose banana and 5 choose apple. How many more people prefer banana?",
+        "fr": "Dans une enquête, 8 personnes choisissent la banane et 5, la pomme. Combien de personnes de plus préfèrent la banane ?",
+        "ar": "في استطلاع، اختار 8 أشخاص الموز و5 التفاح. كم شخصًا يفضّل الموز أكثر؟"
+      },
+      "pista": {
+        "es": "Cuenta desde el 5 hasta el 8.",
+        "va": "Compta des del 5 fins al 8.",
+        "en": "Count from 5 up to 8.",
+        "fr": "Compte de 5 jusqu'à 8.",
+        "ar": "لنعدّ من 5 حتى 8."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 - 5",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Lo prefieren 3 personas más.",
+          "va": "El preferixen 3 persones més.",
+          "en": "3 more people prefer it.",
+          "fr": "3 personnes de plus la préfèrent.",
+          "ar": "يفضّله 3 أشخاص أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comparar dos respuestas de una encuesta.",
+        "va": "Inventa'n tu una de comparar dues respostes d'una enquesta.",
+        "en": "Make one up comparing two answers in a survey.",
+        "fr": "Invente un problème où l'on compare deux réponses d'une enquête.",
+        "ar": "لنخترع مسألة نقارن فيها إجابتين في استطلاع."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Iris cuenta con palotes los votos de la naranja: hay un grupo de 5 tachado y 3 palotes sueltos. ¿Cuántos votos son?",
+        "va": "Iris compta amb palets els vots de la taronja: hi ha un grup de 5 ratllat i 3 palets solts. Quants vots són?",
+        "en": "Iris counts the votes for orange with tally marks: there's one crossed-out group of 5 and 3 single marks. How many votes is that?",
+        "fr": "Iris compte avec des bâtons les votes pour l'orange : il y a un groupe de 5 barré et 3 bâtons à part. Combien de votes cela fait-il ?",
+        "ar": "تعدّ إيريس أصوات البرتقال بخطوط صغيرة: هناك مجموعة من 5 مشطوبة و3 خطوط منفردة. كم صوتًا؟"
+      },
+      "pista": {
+        "es": "El grupo tachado vale 5.",
+        "va": "El grup ratllat val 5.",
+        "en": "The crossed-out group is worth 5.",
+        "fr": "Le groupe barré vaut 5.",
+        "ar": "المجموعة المشطوبة تساوي 5."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 3",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 8 votos.",
+          "va": "Són 8 vots.",
+          "en": "That's 8 votes.",
+          "fr": "Cela fait 8 votes.",
+          "ar": "8 أصوات."
+        }
+      },
+      "inventala": {
+        "es": "Dibuja tú unos palotes y pregunta a alguien de casa cuántos son.",
+        "va": "Dibuixa tu uns palets i pregunta a algú de casa quants són.",
+        "en": "Draw some tally marks and ask someone at home how many there are.",
+        "fr": "Dessine des bâtons et demande à quelqu'un de la maison combien il y en a.",
+        "ar": "لنرسم خطوطًا صغيرة ونسأل أحدًا في البيت كم عددها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En un gráfico de barras, la barra de la fresa llega al 12 y la de la naranja, al 7. ¿Cuántos votos de diferencia hay?",
+        "va": "En un gràfic de barres, la barra de la maduixa arriba al 12 i la de la taronja, al 7. Quants vots de diferència hi ha?",
+        "en": "In a bar chart, the strawberry bar reaches 12 and the orange bar reaches 7. What's the difference in votes?",
+        "fr": "Dans un diagramme en barres, la barre de la fraise monte jusqu'à 12 et celle de l'orange, jusqu'à 7. Combien de votes d'écart y a-t-il ?",
+        "ar": "في مخطّط بالأعمدة، يصل عمود الفراولة إلى 12 وعمود البرتقال إلى 7. كم صوتًا الفرق؟"
+      },
+      "pista": {
+        "es": "Cuenta los cuadraditos que la barra de la fresa sobresale por encima de la de la naranja.",
+        "va": "Compta els quadradets que la barra de la maduixa sobreïx per damunt de la de la taronja.",
+        "en": "Count the little squares the strawberry bar sticks up above the orange bar.",
+        "fr": "Compte les petits carreaux qui dépassent de la barre de la fraise au-dessus de celle de l'orange.",
+        "ar": "لنعدّ المربّعات الصغيرة التي يزيد بها عمود الفراولة على عمود البرتقال."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 7",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 5 votos de diferencia: {{12 − 7 = 5}}.",
+          "va": "Hi ha 5 vots de diferència: {{12 − 7 = 5}}.",
+          "en": "The difference is 5 votes: {{12 − 7 = 5}}.",
+          "fr": "Il y a 5 votes d'écart : {{12 − 7 = 5}}.",
+          "ar": "الفرق 5 أصوات: {{12 − 7 = 5}}."
+        }
+      },
+      "inventala": {
+        "es": "Dibuja tú dos barras y pregunta cuánto más alta es una que la otra.",
+        "va": "Dibuixa tu dues barres i pregunta quant més alta és una que l'altra.",
+        "en": "Draw two bars and ask how much taller one is than the other.",
+        "fr": "Dessine deux barres et demande de combien l'une est plus haute que l'autre.",
+        "ar": "لنرسم عمودين ونسأل بكم يزيد أحدهما على الآخر."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 27,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: un cuadrado tiene lados de 9 cm. ¿Cuánto mide su perímetro?",
+        "va": "Per a recordar: un quadrat té costats de 9 cm. Quant mesura el seu perímetre?",
+        "en": "Let's remember: a square has sides of 9 cm. What is its perimeter?",
+        "fr": "Pour se souvenir : un carré a des côtés de 9 cm. Combien mesure son périmètre ?",
+        "ar": "لنتذكّر: طول ضلع مربّع 9 سم. كم يبلغ محيطه؟"
+      },
+      "pista": {
+        "es": "{{4 × 9}} es el doble de {{2 × 9 = 18}}.",
+        "va": "{{4 × 9}} és el doble de {{2 × 9 = 18}}.",
+        "en": "{{4 × 9}} is double {{2 × 9 = 18}}.",
+        "fr": "{{4 × 9}}, c'est le double de {{2 × 9 = 18}}.",
+        "ar": "{{4 × 9}} هي ضعف {{2 × 9 = 18}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 9",
+        "resultado": 36,
+        "unidad": "cm",
+        "texto": {
+          "es": "Mide 36 cm.",
+          "va": "Mesura 36 cm.",
+          "en": "It's 36 cm.",
+          "fr": "Il mesure 36 cm.",
+          "ar": "يبلغ 36 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de perímetros con un polígono que hayas cazado por casa.",
+        "va": "Inventa'n tu una de perímetres amb un polígon que hages caçat per casa.",
+        "en": "Make up a perimeter one with a polygon you found around the house.",
+        "fr": "Invente un problème de périmètre avec un polygone trouvé dans la maison.",
+        "ar": "لنخترع مسألة عن المحيط بمضلّع اصطدناه في البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué nos cuenta el gráfico de la fruta favorita? Explícamelo como si fuera una noticia.",
+        "va": "Què ens conta el gràfic de la fruita preferida? Explica-m'ho com si fora una notícia.",
+        "en": "What does the favourite fruit chart tell us? Explain it to me as if it were a news story.",
+        "fr": "Que nous raconte le diagramme du fruit préféré ? Explique-le-moi comme si c'était une nouvelle du journal.",
+        "ar": "ماذا يخبرنا مخطّط الفاكهة المفضّلة؟ اشرح لي أو اشرحي لي كأنه خبر."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuál es la fruta que más gusta? ¿Y la que menos? ¿Hay alguna sorpresa?»",
+        "va": "Si no sap per on començar: «Quina és la fruita que més agrada? I la que menys? Hi ha alguna sorpresa?»",
+        "en": "If they don't know where to start: “Which fruit is liked most? And least? Is there a surprise?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Quel est le fruit qui plaît le plus ? Et le moins ? Y a-t-il une surprise ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ما الفاكهة الأكثر حبًّا؟ والأقل؟ هل هناك مفاجأة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier frase sobre el gráfico vale: «la que más», «la que menos», «hay empate». Si se anima, que le ponga un titular a su noticia.",
+          "va": "Qualsevol frase sobre el gràfic val: «la que més», «la que menys», «hi ha empat». Si s'anima, que li pose un titular a la seua notícia.",
+          "en": "Any sentence about the chart is fine: “the most”, “the least”, “it's a tie”. If they're up for it, they can give their news story a headline.",
+          "fr": "N'importe quelle phrase sur le diagramme convient : « celui qui a le plus », « le moins », « il y a égalité ». Avec un peu d'envie, on peut donner un titre à la nouvelle.",
+          "ar": "أي جملة عن المخطّط تصلح: «الأكثر»، «الأقل»، «هناك تعادل». وإن رغب الطفل، فليضع عنوانًا لخبره."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "5c5aaebad102"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "5c5aaebad102"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "5c5aaebad102"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "5c5aaebad102"
+      }
+    }
+  }
+}

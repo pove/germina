@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s23",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 23,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Repartir el dinero",
+    "va": "Repartir els diners",
+    "en": "Sharing out money",
+    "fr": "Partager l'argent",
+    "ar": "نوزّع النقود"
+  },
+  "objetivo": {
+    "es": "Esta semana dividen entre una cifra repartiendo billetes y monedas. Cuando los billetes de 10 € no se pueden repartir, se cambian por monedas de 1 €: es la misma idea que hay detrás de la división en papel.",
+    "va": "Aquesta setmana dividixen entre una xifra repartint bitllets i monedes. Quan els bitllets de 10 € no es poden repartir, es canvien per monedes d'1 €: és la mateixa idea que hi ha darrere de la divisió en paper.",
+    "en": "This week they divide by a one-digit number by sharing out notes and coins. When the 10 € notes can't be shared, they're swapped for 1 € coins: it's the same idea behind written division.",
+    "fr": "Cette semaine, on divise par un chiffre en partageant des billets et des pièces. Quand les billets de 10 € ne peuvent pas être partagés, on les change contre des pièces de 1 € : c'est la même idée que dans la division posée.",
+    "ar": "هذا الأسبوع يقسم الأطفال على عدد من رقم واحد بتوزيع أوراق نقدية وقطع نقدية. وعندما لا يمكن توزيع أوراق الـ10 يورو، تُستبدل بقطع من فئة 1 يورو: إنها الفكرة نفسها التي وراء القسمة على الورق."
+  },
+  "comoAyudar": {
+    "es": "Haced el reparto con billetes y monedas de papel antes de escribir nada. Si se pierde en la cuenta escrita, volved al dinero: «¿qué billetes quedaban?».",
+    "va": "Feu el repartiment amb bitllets i monedes de paper abans d'escriure res. Si es perd en el compte escrit, torneu als diners: «quins bitllets quedaven?».",
+    "en": "Do the sharing with paper notes and coins before writing anything. If they get lost in the written sum, go back to the money: “Which notes were left?”",
+    "fr": "Faites le partage avec des billets et des pièces en papier avant d'écrire quoi que ce soit. En cas de confusion dans le calcul écrit, revenez à l'argent : « Quels billets restaient ? ».",
+    "ar": "قوموا بالتوزيع بأوراق وقطع نقدية من الورق قبل كتابة أي شيء. وإذا ضاع الطفل في الحساب المكتوب، عودوا إلى النقود: «ما الأوراق التي بقيت؟»."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Repartir 74 €",
+      "va": "Repartir 74 €",
+      "en": "Sharing 74 €",
+      "fr": "Partager 74 €",
+      "ar": "نوزّع 74 يورو"
+    },
+    "material": [
+      {
+        "es": "Papel para hacer 7 billetes de 10 € y 14 monedas de 1 €",
+        "va": "Paper per a fer 7 bitllets de 10 € i 14 monedes d'1 €",
+        "en": "Paper to make 7 notes of 10 € and 14 coins of 1 €",
+        "fr": "Du papier pour faire 7 billets de 10 € et 14 pièces de 1 €",
+        "ar": "ورق لصنع 7 أوراق نقدية من فئة 10 يورو و14 قطعة من فئة 1 يورو"
+      },
+      {
+        "es": "3 sobres o platos",
+        "va": "3 sobres o plats",
+        "en": "3 envelopes or plates",
+        "fr": "3 enveloppes ou assiettes",
+        "ar": "3 مغلّفات أو صحون"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Preparad 7 billetes de 10 € y 4 monedas de 1 € de papel: son 74 €. Dejad aparte 10 monedas más, para los cambios. Poned 3 sobres, uno por persona.",
+          "va": "Prepareu 7 bitllets de 10 € i 4 monedes d'1 € de paper: són 74 €. Deixeu a banda 10 monedes més, per als canvis. Poseu 3 sobres, un per persona.",
+          "en": "Get 7 paper notes of 10 € and 4 paper coins of 1 € ready: that's 74 €. Keep 10 more coins to one side, for swapping. Put out 3 envelopes, one per person.",
+          "fr": "Préparez 7 billets de 10 € et 4 pièces de 1 € en papier : ça fait 74 €. Gardez 10 pièces de plus à part, pour la monnaie. Posez 3 enveloppes, une par personne.",
+          "ar": "حضّروا 7 أوراق نقدية من فئة 10 يورو و4 قطع من فئة 1 يورو من الورق: المجموع 74 يورو. ضعوا جانبًا 10 قطع أخرى للصرف. وضعوا 3 مغلّفات، مغلّفًا لكل شخص."
+        }
+      },
+      {
+        "pictograma": "sobre",
+        "texto": {
+          "es": "Repartid primero los billetes: 2 en cada sobre. Sobra 1 billete, que no se puede repartir entre 3.",
+          "va": "Repartiu primer els bitllets: 2 en cada sobre. En sobra 1, que no es pot repartir entre 3.",
+          "en": "Share out the notes first: 2 in each envelope. 1 note is left over, which can't be shared between 3.",
+          "fr": "Partagez d'abord les billets : 2 dans chaque enveloppe. Il reste 1 billet, qu'on ne peut pas partager entre 3.",
+          "ar": "وزّعوا الأوراق النقدية أولًا: ورقتان في كل مغلّف. تبقى ورقة واحدة لا يمكن توزيعها على 3."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Cambiad ese billete por 10 monedas de 1 €. Ahora hay {{10 + 4 = 14}} monedas. Repartidlas: 4 en cada sobre, y sobran 2.",
+          "va": "Canvieu eixe bitllet per 10 monedes d'1 €. Ara hi ha {{10 + 4 = 14}} monedes. Repartiu-les: 4 en cada sobre, i en sobren 2.",
+          "en": "Swap that note for 10 coins of 1 €. Now there are {{10 + 4 = 14}} coins. Share them out: 4 in each envelope, and 2 are left over.",
+          "fr": "Changez ce billet contre 10 pièces de 1 €. Maintenant, il y a {{10 + 4 = 14}} pièces. Partagez-les : 4 dans chaque enveloppe, et il en reste 2.",
+          "ar": "استبدلوا تلك الورقة بـ10 قطع من فئة 1 يورو. صار هناك {{10 + 4 = 14}} قطعة. وزّعوها: 4 في كل مغلّف، وتبقى قطعتان."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Cada sobre tiene 2 billetes y 4 monedas: 24 €. Sobran 2 €. Comprobadlo: {{3 × 24 + 2 = 74}}.",
+          "va": "Cada sobre té 2 bitllets i 4 monedes: 24 €. En sobren 2 €. Comproveu-ho: {{3 × 24 + 2 = 74}}.",
+          "en": "Each envelope has 2 notes and 4 coins: 24 €. 2 € are left over. Check it: {{3 × 24 + 2 = 74}}.",
+          "fr": "Chaque enveloppe a 2 billets et 4 pièces : 24 €. Il reste 2 €. Vérifiez : {{3 × 24 + 2 = 74}}.",
+          "ar": "في كل مغلّف ورقتان و4 قطع: 24 يورو. ويبقى 2 يورو. تحقّقوا: {{3 × 24 + 2 = 74}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Repartid 48 € entre 2 personas: aquí no hace falta cambiar ningún billete.",
+      "va": "Repartiu 48 € entre 2 persones: ací no cal canviar cap bitllet.",
+      "en": "Share 48 € between 2 people: here no note needs swapping.",
+      "fr": "Partagez 48 € entre 2 personnes : ici, pas besoin de changer de billet.",
+      "ar": "وزّعوا 48 يورو على شخصين: هنا لا داعي لصرف أي ورقة."
+    },
+    "masDificil": {
+      "es": "Repartid 135 € entre 4 personas, con billetes de 100 € y de 10 € y monedas de 1 €. ¿Cuántas veces cambiáis billetes por otros más pequeños?",
+      "va": "Repartiu 135 € entre 4 persones, amb bitllets de 100 € i de 10 € i monedes d'1 €. Quantes vegades canvieu bitllets per altres de més menuts?",
+      "en": "Share 135 € between 4 people, with 100 € and 10 € notes and 1 € coins. How many times do you swap notes for smaller ones?",
+      "fr": "Partagez 135 € entre 4 personnes, avec des billets de 100 € et de 10 € et des pièces de 1 €. Combien de fois changez-vous des billets contre de plus petits ?",
+      "ar": "وزّعوا 135 يورو على 4 أشخاص، بأوراق من فئة 100 يورو و10 يورو وقطع من فئة 1 يورو. كم مرة تصرفون أوراقًا بأخرى أصغر؟"
+    },
+    "paraQueSirve": {
+      "es": "Repartir dinero, aunque sea de papel, muestra qué pasa en la división en papel cuando «no cabe»: se pasa a la cifra siguiente, igual que se cambia un billete por monedas.",
+      "va": "Repartir diners, encara que siguen de paper, mostra què passa en la divisió en paper quan «no hi cap»: es passa a la xifra següent, igual que es canvia un bitllet per monedes.",
+      "en": "Sharing out money, even paper money, shows what happens in written division when “it doesn't go”: you move on to the next digit, just like swapping a note for coins.",
+      "fr": "Partager de l'argent, même en papier, montre ce qui se passe dans la division posée quand « ça ne rentre pas » : on passe au chiffre suivant, comme on change un billet contre des pièces.",
+      "ar": "توزيع النقود، ولو كانت من الورق، يبيّن ما يحدث في القسمة على الورق عندما «لا يكفي»: ننتقل إلى الرقم التالي، كما نصرف ورقة نقدية بقطع."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Tres hermanas reciben 96 € de regalo y se los reparten a partes iguales. ¿Cuánto le toca a cada una?",
+        "va": "Tres germanes reben 96 € de regal i se'ls repartixen a parts iguals. Quant li toca a cadascuna?",
+        "en": "Three sisters get 96 € as a present and share it equally. How much does each one get?",
+        "fr": "Trois sœurs reçoivent 96 € en cadeau et se les partagent en parts égales. Combien chacune reçoit-elle ?",
+        "ar": "حصلت ثلاث أخوات على 96 يورو هديةً واقتسمنها بالتساوي. كم نصيب كل واحدة؟"
+      },
+      "pista": {
+        "es": "Reparte primero los 9 billetes de 10 € y después las 6 monedas.",
+        "va": "Repartix primer els 9 bitllets de 10 € i després les 6 monedes.",
+        "en": "First share out the 9 notes of 10 € and then the 6 coins.",
+        "fr": "Partage d'abord les 9 billets de 10 €, puis les 6 pièces.",
+        "ar": "لنوزّع أولًا الأوراق التسع من فئة 10 يورو، ثم القطع الست."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "96 : 3",
+        "resultado": 32,
+        "unidad": "euros",
+        "texto": {
+          "es": "A cada una le tocan 32 €: {{3 × 32 = 96}}.",
+          "va": "A cadascuna li toquen 32 €: {{3 × 32 = 96}}.",
+          "en": "Each one gets 32 €: {{3 × 32 = 96}}.",
+          "fr": "Chacune reçoit 32 € : {{3 × 32 = 96}}.",
+          "ar": "نصيب كل واحدة 32 يورو: {{3 × 32 = 96}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto de dinero en el que no haga falta cambiar billetes.",
+        "va": "Inventa't un repartiment de diners en què no es canvie cap bitllet.",
+        "en": "Make up a money-sharing problem where no notes need swapping.",
+        "fr": "Invente un partage d'argent où l'on n'a pas besoin de changer de billets.",
+        "ar": "لنخترع توزيعًا للنقود لا نحتاج فيه إلى صرف أوراق."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Cuatro amigas y amigos pagan entre todos un regalo de 52 €. ¿Cuánto pone cada persona?",
+        "va": "Quatre amigues i amics paguen entre tots un regal de 52 €. Quant hi posa cada persona?",
+        "en": "Four friends pay together for a 52 € present. How much does each person put in?",
+        "fr": "Quatre amies et amis paient ensemble un cadeau de 52 €. Combien chaque personne met-elle ?",
+        "ar": "يدفع أربعة أصدقاء وصديقات معًا ثمن هدية قيمتها 52 يورو. كم يدفع كل شخص؟"
+      },
+      "pista": {
+        "es": "5 billetes de 10 € entre 4: 1 para cada persona y sobra 1. Cámbialo por 10 monedas.",
+        "va": "5 bitllets de 10 € entre 4: 1 per a cada persona i en sobra 1. Canvia'l per 10 monedes.",
+        "en": "5 notes of 10 € between 4: 1 for each person and 1 left over. Swap it for 10 coins.",
+        "fr": "5 billets de 10 € entre 4 : 1 pour chaque personne, et il en reste 1. Change-le contre 10 pièces.",
+        "ar": "5 أوراق من فئة 10 يورو على 4: ورقة لكل شخص وتبقى واحدة. لنصرفها بـ10 قطع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "52 : 4",
+        "resultado": 13,
+        "unidad": "euros",
+        "texto": {
+          "es": "Cada persona pone 13 €: {{4 × 13 = 52}}.",
+          "va": "Cada persona hi posa 13 €: {{4 × 13 = 52}}.",
+          "en": "Each person puts in 13 €: {{4 × 13 = 52}}.",
+          "fr": "Chaque personne met 13 € : {{4 × 13 = 52}}.",
+          "ar": "يدفع كل شخص 13 يورو: {{4 × 13 = 52}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de pagar algo entre varias personas.",
+        "va": "Inventa'n tu una de pagar alguna cosa entre diverses persones.",
+        "en": "Make one up about several people paying for something together.",
+        "fr": "Invente un problème où plusieurs personnes paient quelque chose ensemble.",
+        "ar": "لنخترع مسألة يدفع فيها عدة أشخاص ثمن شيء معًا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Se reparten 65 € entre 6 personas a partes iguales. ¿Cuánto le toca a cada una y cuánto sobra?",
+        "va": "Es repartixen 65 € entre 6 persones a parts iguals. Quant li toca a cadascuna i quant en sobra?",
+        "en": "65 € is shared equally between 6 people. How much does each get and how much is left over?",
+        "fr": "On partage 65 € en parts égales entre 6 personnes. Combien chacune reçoit-elle et combien reste-t-il ?",
+        "ar": "يُوزَّع 65 يورو على 6 أشخاص بالتساوي. كم نصيب كل واحد وكم يبقى؟"
+      },
+      "pista": {
+        "es": "Los 6 billetes de 10 € se reparten justos. ¿Y las 5 monedas?",
+        "va": "Els 6 bitllets de 10 € es repartixen justos. I les 5 monedes?",
+        "en": "The 6 notes of 10 € share out exactly. And the 5 coins?",
+        "fr": "Les 6 billets de 10 € se partagent tout juste. Et les 5 pièces ?",
+        "ar": "الأوراق الست من فئة 10 يورو تُوزَّع تمامًا. وماذا عن القطع الخمس؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(65 - 5) : 6",
+        "resultado": 10,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le tocan 10 € a cada una y sobran 5 €: {{6 × 10 + 5 = 65}}.",
+          "va": "Li toquen 10 € a cadascuna i en sobren 5 €: {{6 × 10 + 5 = 65}}.",
+          "en": "Each gets 10 € and 5 € is left over: {{6 × 10 + 5 = 65}}.",
+          "fr": "Chacune reçoit 10 € et il reste 5 € : {{6 × 10 + 5 = 65}}.",
+          "ar": "نصيب كل واحد 10 يورو ويبقى 5 يورو: {{6 × 10 + 5 = 65}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto de dinero en el que sobre algo, y decide qué haríais con lo que sobra.",
+        "va": "Inventa't un repartiment de diners en què sobre alguna cosa, i decidix què faríeu amb el que sobra.",
+        "en": "Make up a money-sharing problem where something is left over, and decide what you'd do with it.",
+        "fr": "Invente un partage d'argent où il reste quelque chose, et décide ce que vous feriez de ce qui reste.",
+        "ar": "لنخترع توزيعًا للنقود يبقى فيه شيء، ونقرّر ماذا نفعل بالباقي."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 21,
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Para recordar: en una pizzería hay 4 masas y 5 ingredientes, y cada pizza lleva una masa y un ingrediente. ¿Cuántas pizzas distintas se pueden hacer?",
+        "va": "Per a recordar: en una pizzeria hi ha 4 masses i 5 ingredients, i cada pizza porta una massa i un ingredient. Quantes pizzes diferents es poden fer?",
+        "en": "Let's remember: a pizzeria has 4 bases and 5 toppings, and each pizza has one base and one topping. How many different pizzas can be made?",
+        "fr": "Pour se souvenir : dans une pizzeria, il y a 4 pâtes et 5 garnitures, et chaque pizza a une pâte et une garniture. Combien de pizzas différentes peut-on faire ?",
+        "ar": "لنتذكّر: في محل بيتزا 4 أنواع من العجين و5 مكوّنات، وكل بيتزا فيها نوع عجين ومكوّن واحد. كم بيتزا مختلفة يمكن صنعها؟"
+      },
+      "pista": {
+        "es": "De cada masa salen 5 ramas, una por ingrediente.",
+        "va": "De cada massa ixen 5 branques, una per ingredient.",
+        "en": "From each base come 5 branches, one for each topping.",
+        "fr": "De chaque pâte partent 5 branches, une par garniture.",
+        "ar": "من كل نوع عجين تخرج 5 فروع، فرع لكل مكوّن."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 5",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se pueden hacer 20 pizzas distintas.",
+          "va": "Es poden fer 20 pizzes diferents.",
+          "en": "20 different pizzas can be made.",
+          "fr": "On peut faire 20 pizzas différentes.",
+          "ar": "يمكن صنع 20 بيتزا مختلفة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de combinaciones con tu comida favorita.",
+        "va": "Inventa'n tu una de combinacions amb el teu menjar preferit.",
+        "en": "Make up a combinations one with your favourite food.",
+        "fr": "Invente un problème de combinaisons avec ton plat préféré.",
+        "ar": "لنخترع مسألة تركيبات بطعامنا المفضّل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si al repartir no hay billetes de 10 € para todo el mundo, ¿qué haces? Explícamelo con dinero de papel.",
+        "va": "Si en repartir no hi ha bitllets de 10 € per a tothom, què fas? Explica-m'ho amb diners de paper.",
+        "en": "If, when sharing, there aren't enough 10 € notes for everyone, what do you do? Explain it to me with paper money.",
+        "fr": "Si, en partageant, il n'y a pas assez de billets de 10 € pour tout le monde, que fais-tu ? Explique-le-moi avec de l'argent en papier.",
+        "ar": "إذا لم تكفِ أوراق الـ10 يورو الجميع عند التوزيع، ماذا نفعل؟ اشرح لي أو اشرحي لي بنقود من الورق."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Te acuerdas del billete que sobraba al repartir 74 €? ¿Qué hicimos con él?»",
+        "va": "Si no sap per on començar: «Te'n recordes del bitllet que sobrava en repartir 74 €? Què en vam fer?»",
+        "en": "If they don't know where to start: “Do you remember the note left over when we shared 74 €? What did we do with it?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu te rappelles le billet qui restait quand on a partagé 74 € ? Qu'est-ce qu'on en a fait ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل نتذكّر الورقة التي بقيت عند توزيع 74 يورو؟ ماذا فعلنا بها؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si dice «lo cambio por monedas», ya tiene la idea. Pedid que os lo enseñe con un reparto inventado por él o por ella.",
+          "va": "Si diu «el canvie per monedes», ja té la idea. Demaneu que us ho ensenye amb un repartiment inventat per ell o per ella.",
+          "en": "If they say “I swap it for coins”, they've got the idea. Ask them to show you with a sharing problem they make up.",
+          "fr": "Si la réponse est « je le change contre des pièces », l'idée est là. Demandez qu'on vous le montre avec un partage inventé.",
+          "ar": "إذا قيل «أصرفها بقطع نقدية»، فقد وصلت الفكرة. اطلبوا أن يُعرض عليكم ذلك بتوزيع مخترع."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "e8b14b471eb2"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "e8b14b471eb2"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "e8b14b471eb2"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "e8b14b471eb2"
+      }
+    }
+  }
+}

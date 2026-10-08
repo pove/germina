@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s27",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 27,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Formas y bordes",
+    "va": "Formes i vores",
+    "en": "Shapes and edges",
+    "fr": "Formes et bords",
+    "ar": "أشكال وحواف"
+  },
+  "objetivo": {
+    "es": "Esta semana conocen los polígonos: formas planas y cerradas con lados rectos. Cuentan sus lados y sus vértices (las esquinas) y miden su perímetro, que es lo que mide el borde.",
+    "va": "Aquesta setmana coneixen els polígons (polígonos): formes planes i tancades amb costats rectes. Compten els seus costats i els seus vèrtexs (les cantonades) i mesuren el seu perímetre (perímetro), que és el que mesura la vora.",
+    "en": "This week they get to know polygons (polígonos): flat, closed shapes with straight sides. They count their sides and vertices (the corners) and measure their perimeter (perímetro), which is the length of the edge.",
+    "fr": "Cette semaine, on découvre les polygones (polígonos) : des formes planes et fermées aux côtés droits. On compte leurs côtés et leurs sommets (les coins) et on mesure leur périmètre (perímetro), c'est-à-dire la longueur du bord.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى المضلّعات (polígonos): أشكال مستوية ومغلقة أضلاعها مستقيمة. يعدّون أضلاعها ورؤوسها (الزوايا) ويقيسون محيطها (perímetro)، أي طول حافتها."
+  },
+  "comoAyudar": {
+    "es": "Salid de caza por casa sin prisa. Si señala un círculo como polígono, no digáis que no: preguntad «¿tiene lados rectos?» y dejad que lo descubra.",
+    "va": "Eixiu de caça per casa sense pressa. Si assenyala un cercle com a polígon, no digueu que no: pregunteu «té costats rectes?» i deixeu que ho descobrisca.",
+    "en": "Go hunting around the house without rushing. If they point to a circle as a polygon, don't say no: ask “Does it have straight sides?” and let them find out.",
+    "fr": "Partez à la chasse dans la maison sans vous presser. Si un cercle est montré comme polygone, ne dites pas non : demandez « Il a des côtés droits ? » et laissez découvrir.",
+    "ar": "انطلقوا في صيد الأشكال في البيت دون عجلة. وإذا أشار الطفل إلى دائرة على أنها مضلّع، لا تقولوا لا: اسألوا «هل لها أضلاع مستقيمة؟» واتركوه يكتشف."
+  },
+  "saberes": [
+    "matematicas.geometria.vertices-lados",
+    "matematicas.geometria.poligonos",
+    "matematicas.geometria.perimetros-areas",
+    "matematicas.geometria.lineas"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cazar formas",
+      "va": "Caçar formes",
+      "en": "Shape hunt",
+      "fr": "La chasse aux formes",
+      "ar": "صيد الأشكال"
+    },
+    "material": [
+      {
+        "es": "Una cuerda o un cordón",
+        "va": "Una corda o un cordó",
+        "en": "A piece of string or a cord",
+        "fr": "Une ficelle ou un cordon",
+        "ar": "حبل أو خيط"
+      },
+      {
+        "es": "Una regla o una cinta métrica",
+        "va": "Un regle o una cinta mètrica",
+        "en": "A ruler or a tape measure",
+        "fr": "Une règle ou un mètre ruban",
+        "ar": "مسطرة أو شريط قياس"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "Buscad por casa formas con lados rectos: una ventana, una baldosa, un libro, la señal del portal. ¿Cuántos lados tiene cada una? ¿Y cuántos vértices?",
+          "va": "Busqueu per casa formes amb costats rectes: una finestra, una rajola, un llibre, el senyal del portal. Quants costats té cadascuna? I quants vèrtexs?",
+          "en": "Look around the house for shapes with straight sides: a window, a floor tile, a book, the sign in the entrance hall. How many sides does each have? And how many vertices?",
+          "fr": "Cherchez dans la maison des formes aux côtés droits : une fenêtre, un carreau, un livre, le panneau de l'entrée. Combien de côtés a chacune ? Et combien de sommets ?",
+          "ar": "ابحثوا في البيت عن أشكال أضلاعها مستقيمة: نافذة، بلاطة، كتاب، لافتة المدخل. كم ضلعًا لكل منها؟ وكم رأسًا؟"
+        }
+      },
+      {
+        "pictograma": "formas",
+        "texto": {
+          "es": "Buscad también cosas con líneas curvas, como un plato o un reloj redondo. Esas no son polígonos: no tienen lados rectos.",
+          "va": "Busqueu també coses amb línies corbes, com un plat o un rellotge redó. Eixes no són polígons: no tenen costats rectes.",
+          "en": "Also look for things with curved lines, like a plate or a round clock. Those aren't polygons: they don't have straight sides.",
+          "fr": "Cherchez aussi des choses avec des lignes courbes, comme une assiette ou une horloge ronde. Ce ne sont pas des polygones : elles n'ont pas de côtés droits.",
+          "ar": "ابحثوا أيضًا عن أشياء خطوطها منحنية، مثل صحن أو ساعة مستديرة. هذه ليست مضلّعات: ليست لها أضلاع مستقيمة."
+        }
+      },
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Rodead el borde de una mesa con una cuerda, marcad con los dedos dónde se junta y estiradla en el suelo. Ese largo es el perímetro de la mesa.",
+          "va": "Envolteu la vora d'una taula amb una corda, marqueu amb els dits on s'ajunta i estireu-la en el terra. Eixa llargària és el perímetre de la taula.",
+          "en": "Wrap a piece of string around the edge of a table, mark with your fingers where it meets and stretch it out on the floor. That length is the table's perimeter.",
+          "fr": "Faites le tour du bord d'une table avec une ficelle, marquez avec les doigts l'endroit où elle se rejoint et étirez-la par terre. Cette longueur, c'est le périmètre de la table.",
+          "ar": "لفّوا حبلًا حول حافة طاولة، وحدّدوا بأصابعكم مكان التقائه، ثم مدّوه على الأرض. ذلك الطول هو محيط الطاولة."
+        }
+      },
+      {
+        "pictograma": "regla",
+        "texto": {
+          "es": "Medid la cuerda con la regla o la cinta métrica. Después, medid cada lado de la mesa y sumadlos: ¿sale lo mismo?",
+          "va": "Mesureu la corda amb el regle o la cinta mètrica. Després, mesureu cada costat de la taula i sumeu-los: ix el mateix?",
+          "en": "Measure the string with the ruler or tape measure. Then measure each side of the table and add them up: do you get the same?",
+          "fr": "Mesurez la ficelle avec la règle ou le mètre ruban. Ensuite, mesurez chaque côté de la table et additionnez-les : trouvez-vous pareil ?",
+          "ar": "قيسوا الحبل بالمسطرة أو بشريط القياس. ثم قيسوا كل ضلع من أضلاع الطاولة واجمعوها: هل تحصلون على النتيجة نفسها؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Quedaos con contar lados y vértices, y dibujad en un papel las formas que encontréis.",
+      "va": "Quedeu-vos amb comptar costats i vèrtexs, i dibuixeu en un paper les formes que trobeu.",
+      "en": "Stick to counting sides and vertices, and draw the shapes you find on a piece of paper.",
+      "fr": "Contentez-vous de compter les côtés et les sommets, et dessinez sur un papier les formes trouvées.",
+      "ar": "اكتفوا بعدّ الأضلاع والرؤوس، وارسموا على ورقة الأشكال التي تجدونها."
+    },
+    "masDificil": {
+      "es": "Medid el perímetro de un libro con la regla, lado a lado, como {{20 + 15 + 20 + 15 = 70}} cm. ¿Hay alguna forma más rápida de calcularlo?",
+      "va": "Mesureu el perímetre d'un llibre amb el regle, costat a costat, com ara {{20 + 15 + 20 + 15 = 70}} cm. Hi ha alguna manera més ràpida de calcular-lo?",
+      "en": "Measure the perimeter of a book with the ruler, side by side, like {{20 + 15 + 20 + 15 = 70}} cm. Is there a quicker way to work it out?",
+      "fr": "Mesurez le périmètre d'un livre avec la règle, côté par côté, comme {{20 + 15 + 20 + 15 = 70}} cm. Y a-t-il une façon plus rapide de le calculer ?",
+      "ar": "قيسوا محيط كتاب بالمسطرة، ضلعًا ضلعًا، مثل {{20 + 15 + 20 + 15 = 70}} سم. هل توجد طريقة أسرع لحسابه؟"
+    },
+    "paraQueSirve": {
+      "es": "Mirar las formas de casa con ojos de geometría hace que los polígonos no sean solo dibujos del libro. Y medir con una cuerda deja ver qué es el perímetro antes de calcularlo.",
+      "va": "Mirar les formes de casa amb ulls de geometria fa que els polígons no siguen només dibuixos del llibre. I mesurar amb una corda deixa veure què és el perímetre abans de calcular-lo.",
+      "en": "Looking at shapes at home with geometry eyes means polygons aren't just drawings in a book. And measuring with string lets them see what perimeter is before calculating it.",
+      "fr": "Regarder les formes de la maison avec des yeux de géomètre fait que les polygones ne sont plus seulement des dessins du livre. Et mesurer avec une ficelle permet de voir ce qu'est le périmètre avant de le calculer.",
+      "ar": "النظر إلى أشكال البيت بعين الهندسة يجعل المضلّعات أكثر من رسوم في الكتاب. والقياس بالحبل يُظهر معنى المحيط قبل حسابه."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una baldosa cuadrada mide 30 cm de lado. ¿Cuánto mide su perímetro?",
+        "va": "Una rajola quadrada mesura 30 cm de costat. Quant mesura el seu perímetre?",
+        "en": "A square floor tile has sides of 30 cm. What is its perimeter?",
+        "fr": "Un carreau carré mesure 30 cm de côté. Combien mesure son périmètre ?",
+        "ar": "طول ضلع بلاطة مربّعة 30 سم. كم يبلغ محيطها؟"
+      },
+      "pista": {
+        "es": "Un cuadrado tiene 4 lados iguales.",
+        "va": "Un quadrat té 4 costats iguals.",
+        "en": "A square has 4 equal sides.",
+        "fr": "Un carré a 4 côtés égaux.",
+        "ar": "للمربّع 4 أضلاع متساوية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 30",
+        "resultado": 120,
+        "unidad": "cm",
+        "texto": {
+          "es": "Mide 120 cm: 4 lados de 30 cm.",
+          "va": "Mesura 120 cm: 4 costats de 30 cm.",
+          "en": "It's 120 cm: 4 sides of 30 cm.",
+          "fr": "Il mesure 120 cm : 4 côtés de 30 cm.",
+          "ar": "يبلغ 120 سم: 4 أضلاع طول كل منها 30 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con algo cuadrado de tu casa.",
+        "va": "Inventa'n tu una amb alguna cosa quadrada de casa.",
+        "en": "Make one up with something square at home.",
+        "fr": "Invente un problème avec quelque chose de carré chez toi.",
+        "ar": "لنخترع مسألة بشيء مربّع في بيتنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un triángulo tiene lados de 5 cm, 7 cm y 8 cm. ¿Cuánto mide su perímetro?",
+        "va": "Un triangle té costats de 5 cm, 7 cm i 8 cm. Quant mesura el seu perímetre?",
+        "en": "A triangle has sides of 5 cm, 7 cm and 8 cm. What is its perimeter?",
+        "fr": "Un triangle a des côtés de 5 cm, 7 cm et 8 cm. Combien mesure son périmètre ?",
+        "ar": "أطوال أضلاع مثلّث 5 سم و7 سم و8 سم. كم يبلغ محيطه؟"
+      },
+      "pista": {
+        "es": "El perímetro es la suma de todos los lados.",
+        "va": "El perímetre és la suma de tots els costats.",
+        "en": "The perimeter is the sum of all the sides.",
+        "fr": "Le périmètre, c'est la somme de tous les côtés.",
+        "ar": "المحيط هو مجموع كل الأضلاع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 7 + 8",
+        "resultado": 20,
+        "unidad": "cm",
+        "texto": {
+          "es": "Mide 20 cm: {{5 + 7 + 8 = 20}}.",
+          "va": "Mesura 20 cm: {{5 + 7 + 8 = 20}}.",
+          "en": "It's 20 cm: {{5 + 7 + 8 = 20}}.",
+          "fr": "Il mesure 20 cm : {{5 + 7 + 8 = 20}}.",
+          "ar": "يبلغ 20 سم: {{5 + 7 + 8 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Dibuja tú un polígono con lados de medidas distintas e inventa la pregunta.",
+        "va": "Dibuixa tu un polígon amb costats de mesures diferents i inventa la pregunta.",
+        "en": "Draw a polygon with sides of different lengths and make up the question.",
+        "fr": "Dessine un polygone aux côtés de longueurs différentes et invente la question.",
+        "ar": "لنرسم مضلّعًا أطوال أضلاعه مختلفة ونخترع السؤال."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un marco de fotos rectangular mide 24 cm de largo y 16 cm de ancho. ¿Cuánto mide todo su borde? ¿Cuántos vértices tiene?",
+        "va": "Un marc de fotos rectangular mesura 24 cm de llarg i 16 cm d'ample. Quant mesura tota la seua vora? Quants vèrtexs té?",
+        "en": "A rectangular photo frame is 24 cm long and 16 cm wide. How long is its whole edge? How many vertices does it have?",
+        "fr": "Un cadre photo rectangulaire mesure 24 cm de long et 16 cm de large. Combien mesure tout son bord ? Combien a-t-il de sommets ?",
+        "ar": "إطار صور مستطيل طوله 24 سم وعرضه 16 سم. كم يبلغ طول حافته كلها؟ وكم رأسًا له؟"
+      },
+      "pista": {
+        "es": "Tiene dos lados de 24 cm y dos de 16 cm.",
+        "va": "Té dos costats de 24 cm i dos de 16 cm.",
+        "en": "It has two sides of 24 cm and two of 16 cm.",
+        "fr": "Il a deux côtés de 24 cm et deux de 16 cm.",
+        "ar": "له ضلعان طول كل منهما 24 سم وضلعان طول كل منهما 16 سم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 + 16 + 24 + 16",
+        "resultado": 80,
+        "unidad": "cm",
+        "texto": {
+          "es": "El borde mide 80 cm: {{24 + 16 + 24 + 16 = 80}}. Tiene 4 vértices.",
+          "va": "La vora mesura 80 cm: {{24 + 16 + 24 + 16 = 80}}. Té 4 vèrtexs.",
+          "en": "The edge is 80 cm: {{24 + 16 + 24 + 16 = 80}}. It has 4 vertices.",
+          "fr": "Le bord mesure 80 cm : {{24 + 16 + 24 + 16 = 80}}. Il a 4 sommets.",
+          "ar": "طول الحافة 80 سم: {{24 + 16 + 24 + 16 = 80}}. وله 4 رؤوس."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con algo rectangular de tu casa y mídelo de verdad.",
+        "va": "Inventa'n tu una amb alguna cosa rectangular de casa i mesura-la de veritat.",
+        "en": "Make one up with something rectangular at home and really measure it.",
+        "fr": "Invente un problème avec quelque chose de rectangulaire chez toi et mesure-le pour de vrai.",
+        "ar": "لنخترع مسألة بشيء مستطيل في بيتنا ونقيسه فعلًا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 26,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: en la mesa hay 4 platos con 3 fresas cada uno y os coméis 5. ¿Cuántas fresas quedan?",
+        "va": "Per a recordar: a la taula hi ha 4 plats amb 3 maduixes cadascun i us en mengeu 5. Quantes maduixes queden?",
+        "en": "Let's remember: there are 4 plates on the table with 3 strawberries on each, and you eat 5. How many strawberries are left?",
+        "fr": "Pour se souvenir : sur la table, il y a 4 assiettes avec 3 fraises chacune, et vous en mangez 5. Combien de fraises reste-t-il ?",
+        "ar": "لنتذكّر: على الطاولة 4 صحون في كل منها 3 حبات فراولة، وأكلنا 5. كم حبة فراولة بقيت؟"
+      },
+      "pista": {
+        "es": "Primero, cuántas fresas había; después, quita las que os coméis.",
+        "va": "Primer, quantes maduixes hi havia; després, lleva les que us mengeu.",
+        "en": "First, how many strawberries there were; then take away the ones you eat.",
+        "fr": "D'abord, combien de fraises il y avait ; ensuite, enlève celles que vous mangez.",
+        "ar": "أولًا، كم حبة كانت هناك؛ ثم لنطرح ما أكلناه."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(4 × 3) - 5",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 7 fresas: {{4 × 3 = 12}} y {{12 − 5 = 7}}.",
+          "va": "En queden 7: {{4 × 3 = 12}} i {{12 − 5 = 7}}.",
+          "en": "7 strawberries are left: {{4 × 3 = 12}} and {{12 − 5 = 7}}.",
+          "fr": "Il reste 7 fraises : {{4 × 3 = 12}} et {{12 − 5 = 7}}.",
+          "ar": "بقيت 7 حبات: {{4 × 3 = 12}} و{{12 − 5 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos con fruta de la cocina.",
+        "va": "Inventa'n tu un de dos passos amb fruita de la cuina.",
+        "en": "Make up a two-step one with fruit from the kitchen.",
+        "fr": "Invente un problème en deux étapes avec des fruits de la cuisine.",
+        "ar": "لنخترع مسألة من خطوتين بفاكهة من المطبخ."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si una forma es un polígono? Explícamelo con algo que veamos ahora mismo.",
+        "va": "Com saps si una forma és un polígon? Explica-m'ho amb alguna cosa que vegem ara mateix.",
+        "en": "How do you know whether a shape is a polygon? Explain it to me with something we can see right now.",
+        "fr": "Comment sais-tu si une forme est un polygone ? Explique-le-moi avec quelque chose qu'on voit maintenant.",
+        "ar": "كيف نعرف أن شكلًا ما مضلّع؟ اشرح لي أو اشرحي لي بشيء نراه الآن."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Esta ventana es un polígono? ¿Y el plato? ¿En qué se diferencian?»",
+        "va": "Si no sap per on començar: «Aquesta finestra és un polígon? I el plat? En què es diferencien?»",
+        "en": "If they don't know where to start: “Is this window a polygon? And the plate? How are they different?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Cette fenêtre est-elle un polygone ? Et l'assiette ? En quoi sont-elles différentes ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل هذه النافذة مضلّع؟ والصحن؟ بماذا يختلفان؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea clave es «cerrada y con lados rectos». Si da otra razón que tenga sentido, escuchadla y buscad juntos un ejemplo.",
+          "va": "La idea clau és «tancada i amb costats rectes». Si dona una altra raó que tinga sentit, escolteu-la i busqueu junts un exemple.",
+          "en": "The key idea is “closed and with straight sides”. If they give another reason that makes sense, listen and look for an example together.",
+          "fr": "L'idée clé, c'est « fermée et avec des côtés droits ». Si une autre raison sensée apparaît, écoutez-la et cherchez ensemble un exemple.",
+          "ar": "الفكرة الأساسية هي «مغلق وأضلاعه مستقيمة». وإذا قُدّم سبب آخر معقول، استمعوا إليه وابحثوا معًا عن مثال."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "4ec56037758c"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "4ec56037758c"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "4ec56037758c"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "4ec56037758c"
+      }
+    }
+  }
+}

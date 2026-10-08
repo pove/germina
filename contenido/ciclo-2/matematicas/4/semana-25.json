@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s25",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 25,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Múltiplos y divisores",
+    "va": "Múltiples i divisors",
+    "en": "Multiples and factors",
+    "fr": "Multiples et diviseurs",
+    "ar": "المضاعفات والقواسم"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren los múltiplos y los divisores, que son las tablas leídas al revés. 12 es múltiplo de 3 porque está en la tabla del 3, y 3 es divisor de 12 porque 12 se reparte entre 3 sin que sobre nada.",
+    "va": "Aquesta setmana descobreixen els múltiples i els divisors (múltiplos y divisores), que són les taules llegides al revés. 12 és múltiple de 3 perquè està en la taula del 3, i 3 és divisor de 12 perquè 12 es repartix entre 3 sense que en sobre res.",
+    "en": "This week they discover multiples and factors (múltiplos y divisores), which are the times tables read backwards. 12 is a multiple of 3 because it's in the 3 times table, and 3 is a factor of 12 because 12 shares between 3 with nothing left over.",
+    "fr": "Cette semaine, on découvre les multiples et les diviseurs (múltiplos y divisores), c'est-à-dire les tables lues à l'envers. 12 est un multiple de 3 parce qu'il est dans la table de 3, et 3 est un diviseur de 12 parce que 12 se partage entre 3 sans reste.",
+    "ar": "هذا الأسبوع يكتشف الأطفال المضاعفات والقواسم (múltiplos y divisores)، وهي جداول الضرب مقروءة بالعكس. 12 من مضاعفات 3 لأنه في جدول 3، و3 من قواسم 12 لأن 12 يُقسم على 3 دون باقٍ."
+  },
+  "comoAyudar": {
+    "es": "Las palabras «múltiplo» y «divisor» se confunden con facilidad. No pasa nada: preguntad «¿está en la tabla?» y «¿se reparte sin que sobre?», y que elija la palabra después.",
+    "va": "Les paraules «múltiple» i «divisor» es confonen amb facilitat. No passa res: pregunteu «està en la taula?» i «es repartix sense que en sobre?», i que trie la paraula després.",
+    "en": "The words “multiple” and “factor” are easily mixed up. That's fine: ask “Is it in the times table?” and “Does it share out with nothing left over?”, and let them choose the word afterwards.",
+    "fr": "Les mots « multiple » et « diviseur » se confondent facilement. Ce n'est pas grave : demandez « Il est dans la table ? » et « Ça se partage sans reste ? », et laissez choisir le mot après.",
+    "ar": "تختلط كلمتا «مضاعف» و«قاسم» بسهولة. لا بأس: اسألوا «هل هو في الجدول؟» و«هل يُقسم دون باقٍ؟»، ثم اتركوا الطفل يختار الكلمة."
+  },
+  "saberes": [
+    "matematicas.numeros.multiplos-divisores",
+    "matematicas.computacional.secuencias-numericas"
+  ],
+  "criterios": [
+    "matematicas.c2.2.3",
+    "matematicas.c2.4.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Rectángulos de 12 botones",
+      "va": "Rectangles de 12 botons",
+      "en": "Rectangles of 12 buttons",
+      "fr": "Des rectangles de 12 boutons",
+      "ar": "مستطيلات من 12 زرًّا"
+    },
+    "material": [
+      {
+        "es": "12 botones o legumbres",
+        "va": "12 botons o llegums",
+        "en": "12 buttons or dried beans",
+        "fr": "12 boutons ou légumes secs",
+        "ar": "12 زرًّا أو حبة بقول"
+      },
+      {
+        "es": "Papel cuadriculado y lápiz",
+        "va": "Paper quadriculat i llapis",
+        "en": "Squared paper and a pencil",
+        "fr": "Du papier quadrillé et un crayon",
+        "ar": "ورق مربّعات وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "boton",
+        "texto": {
+          "es": "Con 12 botones, formad un rectángulo: filas iguales, sin que sobre ninguno. Por ejemplo, 3 filas de 4.",
+          "va": "Amb 12 botons, formeu un rectangle: files iguals, sense que en sobre cap. Per exemple, 3 files de 4.",
+          "en": "With 12 buttons, make a rectangle: equal rows, with none left over. For example, 3 rows of 4.",
+          "fr": "Avec 12 boutons, formez un rectangle : des rangées égales, sans qu'il en reste. Par exemple, 3 rangées de 4.",
+          "ar": "بـ12 زرًّا، كوّنوا مستطيلًا: صفوف متساوية دون أن يبقى زرّ. مثلًا 3 صفوف في كل منها 4."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Buscad todas las formas: 1 fila de 12, 2 filas de 6, 3 filas de 4… ¿Y 5 filas? ¿Por qué no sale?",
+          "va": "Busqueu totes les maneres: 1 fila de 12, 2 files de 6, 3 files de 4… I 5 files? Per què no ix?",
+          "en": "Find all the ways: 1 row of 12, 2 rows of 6, 3 rows of 4… And 5 rows? Why doesn't it work?",
+          "fr": "Cherchez toutes les façons : 1 rangée de 12, 2 rangées de 6, 3 rangées de 4… Et 5 rangées ? Pourquoi ça ne marche pas ?",
+          "ar": "ابحثوا عن كل الطرق: صف من 12، وصفّان من 6، و3 صفوف من 4… وماذا عن 5 صفوف؟ لماذا لا تنجح؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad en papel cuadriculado cada rectángulo que salga y escribid su multiplicación: {{1 × 12 = 12}}, {{2 × 6 = 12}}, {{3 × 4 = 12}}…",
+          "va": "Dibuixeu en paper quadriculat cada rectangle que isca i escriviu la seua multiplicació: {{1 × 12 = 12}}, {{2 × 6 = 12}}, {{3 × 4 = 12}}…",
+          "en": "Draw each rectangle you find on squared paper and write its multiplication: {{1 × 12 = 12}}, {{2 × 6 = 12}}, {{3 × 4 = 12}}…",
+          "fr": "Dessinez sur papier quadrillé chaque rectangle trouvé et écrivez sa multiplication : {{1 × 12 = 12}}, {{2 × 6 = 12}}, {{3 × 4 = 12}}…",
+          "ar": "ارسموا على ورق المربّعات كل مستطيل يخرج واكتبوا عملية الضرب الخاصة به: {{1 × 12 = 12}}، {{2 × 6 = 12}}، {{3 × 4 = 12}}…"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad qué números han salido en las filas y en las columnas: 1, 2, 3, 4, 6 y 12. Son los divisores de 12.",
+          "va": "Mireu quins números han eixit en les files i en les columnes: 1, 2, 3, 4, 6 i 12. Són els divisors de 12.",
+          "en": "Look at the numbers that came up in the rows and columns: 1, 2, 3, 4, 6 and 12. They're the factors of 12.",
+          "fr": "Regardez quels nombres sont apparus dans les rangées et les colonnes : 1, 2, 3, 4, 6 et 12. Ce sont les diviseurs de 12.",
+          "ar": "انظروا إلى الأعداد التي ظهرت في الصفوف والأعمدة: 1، 2، 3، 4، 6، 12. إنها قواسم 12."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 6 botones: ¿cuántos rectángulos salen?",
+      "va": "Comenceu amb 6 botons: quants rectangles n'ixen?",
+      "en": "Start with 6 buttons: how many rectangles can you make?",
+      "fr": "Commencez avec 6 boutons : combien de rectangles peut-on faire ?",
+      "ar": "ابدؤوا بـ6 أزرار: كم مستطيلًا يخرج؟"
+    },
+    "masDificil": {
+      "es": "Probad con 24 botones y con 7. ¿Con cuál salen más rectángulos? Con 7 solo sale una fila larga: ¿encontráis otros números así?",
+      "va": "Proveu amb 24 botons i amb 7. Amb quin n'ixen més rectangles? Amb 7 només ix una fila llarga: en trobeu d'altres així?",
+      "en": "Try with 24 buttons and with 7. Which one gives more rectangles? With 7 you only get one long row: can you find other numbers like that?",
+      "fr": "Essayez avec 24 boutons et avec 7. Avec lequel obtient-on plus de rectangles ? Avec 7, on n'a qu'une longue rangée : trouvez-vous d'autres nombres comme ça ?",
+      "ar": "جرّبوا بـ24 زرًّا وبـ7. مع أيّهما تخرج مستطيلات أكثر؟ مع 7 لا يخرج إلا صف طويل واحد: هل تجدون أعدادًا أخرى مثله؟"
+    },
+    "paraQueSirve": {
+      "es": "Los divisores sirven para repartir sin que sobre: organizar equipos, mesas o paquetes. Y ver los rectángulos hace que la palabra «divisor» tenga una imagen detrás.",
+      "va": "Els divisors servixen per a repartir sense que en sobre: organitzar equips, taules o paquets. I veure els rectangles fa que la paraula «divisor» tinga una imatge darrere.",
+      "en": "Factors help you share with nothing left over: organising teams, tables or packs. And seeing the rectangles gives the word “factor” a picture behind it.",
+      "fr": "Les diviseurs servent à partager sans reste : organiser des équipes, des tables ou des paquets. Et voir les rectangles donne une image au mot « diviseur ».",
+      "ar": "القواسم تفيد في التوزيع دون باقٍ: تنظيم الفرق أو الطاولات أو الرزم. ورؤية المستطيلات تجعل لكلمة «قاسم» صورة في الذهن."
+    },
+    "aviso": {
+      "es": "Los botones y las legumbres, lejos de hermanos o hermanas pequeños.",
+      "va": "Els botons i els llegums, lluny de germans o germanes menuts.",
+      "en": "Keep the buttons and beans away from younger brothers and sisters.",
+      "fr": "Gardez les boutons et les légumes secs loin des petits frères et sœurs.",
+      "ar": "أبعدوا الأزرار والبقول عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Hay 18 sillas para colocar en filas iguales. ¿Se pueden poner en 4 filas sin que sobre ninguna? ¿Y en 3?",
+        "va": "Hi ha 18 cadires per a col·locar en files iguals. Es poden posar en 4 files sense que en sobre cap? I en 3?",
+        "en": "There are 18 chairs to arrange in equal rows. Can they go in 4 rows with none left over? And in 3?",
+        "fr": "Il y a 18 chaises à placer en rangées égales. Peut-on les mettre en 4 rangées sans qu'il en reste ? Et en 3 ?",
+        "ar": "هناك 18 كرسيًّا نرتّبها في صفوف متساوية. هل يمكن وضعها في 4 صفوف دون باقٍ؟ وفي 3؟"
+      },
+      "pista": {
+        "es": "¿Está el 18 en la tabla del 4? ¿Y en la del 3?",
+        "va": "Està el 18 en la taula del 4? I en la del 3?",
+        "en": "Is 18 in the 4 times table? And in the 3 times table?",
+        "fr": "Est-ce que 18 est dans la table de 4 ? Et dans celle de 3 ?",
+        "ar": "هل 18 في جدول 4؟ وفي جدول 3؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "18 : 3",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En 4 filas no, porque sobran 2. En 3 sí: 3 filas de 6, porque {{3 × 6 = 18}}.",
+          "va": "En 4 files no, perquè en sobren 2. En 3 sí: 3 files de 6, perquè {{3 × 6 = 18}}.",
+          "en": "Not in 4 rows, because 2 are left over. In 3, yes: 3 rows of 6, because {{3 × 6 = 18}}.",
+          "fr": "En 4 rangées, non, parce qu'il en reste 2. En 3, oui : 3 rangées de 6, parce que {{3 × 6 = 18}}.",
+          "ar": "في 4 صفوف لا، لأنه يبقى كرسيّان. وفي 3 نعم: 3 صفوف من 6، لأن {{3 × 6 = 18}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de colocar cosas en filas iguales sin que sobre nada.",
+        "va": "Inventa'n tu una de col·locar coses en files iguals sense que en sobre res.",
+        "en": "Make one up about arranging things in equal rows with nothing left over.",
+        "fr": "Invente un problème où l'on range des choses en rangées égales sans reste.",
+        "ar": "لنخترع مسألة نرتّب فيها أشياء في صفوف متساوية دون باقٍ."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Abril cuenta de 6 en 6: 6, 12, 18… ¿Llegará justo al 40?",
+        "va": "Abril compta de 6 en 6: 6, 12, 18… Arribarà just al 40?",
+        "en": "Abril counts in 6s: 6, 12, 18… Will she land exactly on 40?",
+        "fr": "Abril compte de 6 en 6 : 6, 12, 18… Tombera-t-elle pile sur 40 ?",
+        "ar": "تعدّ أبريل ستة ستة: 6، 12، 18… هل ستصل إلى 40 تمامًا؟"
+      },
+      "pista": {
+        "es": "Sigue contando: 24, 30… ¿qué viene después del 36?",
+        "va": "Continua comptant: 24, 30… què ve després del 36?",
+        "en": "Keep counting: 24, 30… what comes after 36?",
+        "fr": "Continue à compter : 24, 30… qu'est-ce qui vient après 36 ?",
+        "ar": "لنتابع العدّ: 24، 30… ماذا يأتي بعد 36؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 7",
+        "resultado": 42,
+        "unidad": "unidades",
+        "texto": {
+          "es": "No: después del 36 va el 42. El 40 no es múltiplo de 6.",
+          "va": "No: després del 36 va el 42. El 40 no és múltiple de 6.",
+          "en": "No: after 36 comes 42. 40 isn't a multiple of 6.",
+          "fr": "Non : après 36 vient 42. 40 n'est pas un multiple de 6.",
+          "ar": "لا: بعد 36 يأتي 42. العدد 40 ليس من مضاعفات 6."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿llegará justo?» contando de 4 en 4 o de 7 en 7.",
+        "va": "Inventa't una pregunta de «hi arribarà just?» comptant de 4 en 4 o de 7 en 7.",
+        "en": "Make up a “will it land exactly?” question counting in 4s or 7s.",
+        "fr": "Invente une question « tombera-t-on pile ? » en comptant de 4 en 4 ou de 7 en 7.",
+        "ar": "لنخترع سؤال «هل سنصل تمامًا؟» بالعدّ أربعة أربعة أو سبعة سبعة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para un juego, 24 personas forman equipos iguales. ¿Cuántas personas puede tener cada equipo? Busca al menos tres formas.",
+        "va": "Per a un joc, 24 persones formen equips iguals. Quantes persones pot tindre cada equip? Busca almenys tres maneres.",
+        "en": "For a game, 24 people form equal teams. How many people can each team have? Find at least three ways.",
+        "fr": "Pour un jeu, 24 personnes forment des équipes égales. Combien de personnes peut avoir chaque équipe ? Trouve au moins trois façons.",
+        "ar": "للعبة، يكوّن 24 شخصًا فرقًا متساوية. كم شخصًا يمكن أن يكون في كل فريق؟ لنبحث عن ثلاث طرق على الأقل."
+      },
+      "pista": {
+        "es": "Busca números que multiplicados por otro den 24: {{4 × 6}}, {{3 × 8}}…",
+        "va": "Busca números que multiplicats per un altre donen 24: {{4 × 6}}, {{3 × 8}}…",
+        "en": "Look for numbers that, multiplied by another, make 24: {{4 × 6}}, {{3 × 8}}…",
+        "fr": "Cherche des nombres qui, multipliés par un autre, donnent 24 : {{4 × 6}}, {{3 × 8}}…",
+        "ar": "لنبحث عن أعداد تعطي 24 إذا ضُربت في عدد آخر: {{4 × 6}}، {{3 × 8}}…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 : 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Los equipos pueden ser de 2, 3, 4, 6, 8 o 12 personas: son divisores de 24. Por ejemplo, con equipos de 6 salen 4 equipos, porque {{4 × 6 = 24}}.",
+          "va": "Els equips poden ser de 2, 3, 4, 6, 8 o 12 persones: són divisors de 24. Per exemple, amb equips de 6 n'ixen 4, perquè {{4 × 6 = 24}}.",
+          "en": "Teams can have 2, 3, 4, 6, 8 or 12 people: they're factors of 24. For example, with teams of 6 you get 4 teams, because {{4 × 6 = 24}}.",
+          "fr": "Les équipes peuvent avoir 2, 3, 4, 6, 8 ou 12 personnes : ce sont des diviseurs de 24. Par exemple, avec des équipes de 6, on a 4 équipes, parce que {{4 × 6 = 24}}.",
+          "ar": "يمكن أن يكون في الفريق 2 أو 3 أو 4 أو 6 أو 8 أو 12 شخصًا: إنها قواسم 24. مثلًا، مع فرق من 6 تخرج 4 فرق، لأن {{4 × 6 = 24}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de hacer equipos o mesas con las personas de tu clase.",
+        "va": "Inventa'n tu una de fer equips o taules amb les persones de la teua classe.",
+        "en": "Make one up about making teams or tables with the people in your class.",
+        "fr": "Invente un problème où l'on fait des équipes ou des tables avec les personnes de ta classe.",
+        "ar": "لنخترع مسألة نكوّن فيها فرقًا أو طاولات بأشخاص من قسمنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 24,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: Óscar ha calculado que {{96 : 4}} da 24. ¿Cómo lo compruebas?",
+        "va": "Per a recordar: Óscar ha calculat que {{96 : 4}} dona 24. Com ho comproves?",
+        "en": "Let's remember: Óscar worked out that {{96 : 4}} is 24. How do you check it?",
+        "fr": "Pour se souvenir : Óscar a calculé que {{96 : 4}} donne 24. Comment le vérifies-tu ?",
+        "ar": "لنتذكّر: حسب أوسكار أن {{96 : 4}} تعطي 24. كيف نتحقّق من ذلك؟"
+      },
+      "pista": {
+        "es": "Multiplica el divisor por el cociente.",
+        "va": "Multiplica el divisor pel quocient.",
+        "en": "Multiply the divisor by the quotient.",
+        "fr": "Multiplie le diviseur par le quotient.",
+        "ar": "لنضرب المقسوم عليه في ناتج القسمة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 24",
+        "resultado": 96,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Multiplicando: {{4 × 24 = 96}}. Está bien.",
+          "va": "Multiplicant: {{4 × 24 = 96}}. Està bé.",
+          "en": "By multiplying: {{4 × 24 = 96}}. It's right.",
+          "fr": "En multipliant : {{4 × 24 = 96}}. C'est juste.",
+          "ar": "بالضرب: {{4 × 24 = 96}}. النتيجة صحيحة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una división para que alguien de casa la compruebe multiplicando.",
+        "va": "Inventa't una divisió perquè algú de casa la comprove multiplicant.",
+        "en": "Make up a division for someone at home to check by multiplying.",
+        "fr": "Invente une division que quelqu'un de la maison vérifiera en multipliant.",
+        "ar": "لنخترع قسمة يتحقّق منها أحد في البيت بالضرب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué diferencia hay entre «múltiplo» y «divisor»? Explícamelo con el 12.",
+        "va": "Quina diferència hi ha entre «múltiple» i «divisor»? Explica-m'ho amb el 12.",
+        "en": "What's the difference between “multiple” and “factor”? Explain it to me with the number 12.",
+        "fr": "Quelle différence y a-t-il entre « multiple » et « diviseur » ? Explique-le-moi avec le 12.",
+        "ar": "ما الفرق بين «مضاعف» و«قاسم»؟ اشرح لي أو اشرحي لي بالعدد 12."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿El 12 está en la tabla del 3? ¿Y el 12 se reparte entre 3 sin que sobre?»",
+        "va": "Si no sap per on començar: «El 12 està en la taula del 3? I el 12 es repartix entre 3 sense que en sobre?»",
+        "en": "If they don't know where to start: “Is 12 in the 3 times table? And does 12 share between 3 with nothing left over?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Est-ce que 12 est dans la table de 3 ? Et est-ce que 12 se partage entre 3 sans reste ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل 12 في جدول 3؟ وهل يُقسم 12 على 3 دون باقٍ؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Es normal que las mezcle. Si con el ejemplo se ve la idea, ya está: la palabra exacta llegará con el tiempo.",
+          "va": "És normal que les mescle. Si amb l'exemple es veu la idea, ja està: la paraula exacta arribarà amb el temps.",
+          "en": "It's normal to mix them up. If the idea shows in the example, that's enough: the exact word will come with time.",
+          "fr": "C'est normal de les mélanger. Si l'idée se voit dans l'exemple, c'est gagné : le mot exact viendra avec le temps.",
+          "ar": "من الطبيعي أن تختلط الكلمتان. إذا ظهرت الفكرة في المثال فهذا يكفي: الكلمة الدقيقة ستأتي مع الوقت."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "6418538418e2"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "6418538418e2"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "6418538418e2"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "6418538418e2"
+      }
+    }
+  }
+}

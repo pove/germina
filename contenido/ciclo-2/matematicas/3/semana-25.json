@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s25",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 25,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Solo faltan seis",
+    "va": "Només en falten sis",
+    "en": "Only six to go",
+    "fr": "Plus que six",
+    "ar": "بقيت ستة فقط"
+  },
+  "objetivo": {
+    "es": "Esta semana llegan las últimas tablas: la del 7, la del 8 y la del 9. La buena noticia: con lo que ya saben y dando la vuelta a las multiplicaciones, solo quedan seis resultados nuevos: {{7 × 7}}, {{7 × 8}}, {{7 × 9}}, {{8 × 8}}, {{8 × 9}} y {{9 × 9}}.",
+    "va": "Aquesta setmana arriben les últimes taules (tablas): la del 7, la del 8 i la del 9. La bona notícia: amb el que ja saben i donant la volta a les multiplicacions, només queden sis resultats nous: {{7 × 7}}, {{7 × 8}}, {{7 × 9}}, {{8 × 8}}, {{8 × 9}} i {{9 × 9}}.",
+    "en": "This week the last times tables (tablas) arrive: 7, 8 and 9. The good news: with what they already know and by turning multiplications around, only six new answers are left: {{7 × 7}}, {{7 × 8}}, {{7 × 9}}, {{8 × 8}}, {{8 × 9}} and {{9 × 9}}.",
+    "fr": "Cette semaine arrivent les dernières tables (tablas) : celle de 7, de 8 et de 9. La bonne nouvelle : avec ce qu'on sait déjà et en retournant les multiplications, il ne reste que six résultats nouveaux : {{7 × 7}}, {{7 × 8}}, {{7 × 9}}, {{8 × 8}}, {{8 × 9}} et {{9 × 9}}.",
+    "ar": "هذا الأسبوع تصل آخر جداول الضرب (tablas): جدول 7 و8 و9. والخبر الجيد: بما يعرفونه وبقلب عمليات الضرب، لا تبقى إلا ست نتائج جديدة: {{7 × 7}} و{{7 × 8}} و{{7 × 9}} و{{8 × 8}} و{{8 × 9}} و{{9 × 9}}."
+  },
+  "comoAyudar": {
+    "es": "Celebrad todo lo que ya saben: casi toda la tabla del 9 sale de otras tablas. Los seis nuevos, en la nevera, se miran de pasada, sin preguntar a todas horas.",
+    "va": "Celebreu tot el que ja saben: quasi tota la taula del 9 ix d'altres taules. Els sis nous, en la nevera, es miren de passada, sense preguntar a totes hores.",
+    "en": "Celebrate everything they already know: almost all of the 9 times table comes from other tables. The six new ones, on the fridge, are glanced at in passing, without quizzing all the time.",
+    "fr": "Fêtez tout ce qui est déjà connu : presque toute la table de 9 vient d'autres tables. Les six nouveaux, sur le frigo, se regardent en passant, sans poser la question à tout bout de champ.",
+    "ar": "احتفلوا بكل ما يعرفونه: معظم جدول 9 يأتي من جداول أخرى. أمّا الستة الجديدة، فتُعلَّق على الثلاجة ويُنظر إليها عرضًا، دون أسئلة طوال الوقت."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.propiedades",
+    "matematicas.computacional.secuencias-numericas"
+  ],
+  "criterios": [
+    "matematicas.c2.2.3",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La tarjeta de la nevera",
+      "va": "La targeta de la nevera",
+      "en": "The fridge card",
+      "fr": "La carte du frigo",
+      "ar": "بطاقة الثلاجة"
+    },
+    "material": [
+      {
+        "es": "Un trozo de cartulina o papel",
+        "va": "Un tros de cartolina o paper",
+        "en": "A piece of card or paper",
+        "fr": "Un morceau de bristol ou de papier",
+        "ar": "قطعة من الورق المقوّى أو الورق"
+      },
+      {
+        "es": "Rotuladores",
+        "va": "Retoladors",
+        "en": "Felt-tip pens",
+        "fr": "Des feutres",
+        "ar": "أقلام تلوين"
+      },
+      {
+        "es": "Un imán o celo",
+        "va": "Un imant o cinta adhesiva",
+        "en": "A magnet or sticky tape",
+        "fr": "Un aimant ou du ruban adhésif",
+        "ar": "مغناطيس أو شريط لاصق"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "La tabla del 9 con los dedos: con las manos abiertas, doblad el cuarto dedo empezando por la izquierda. Antes quedan 3 dedos y después 6: {{9 × 4 = 36}}.",
+          "va": "La taula del 9 amb els dits: amb les mans obertes, doblegueu el quart dit començant per l'esquerra. Abans en queden 3 i després 6: {{9 × 4 = 36}}.",
+          "en": "The 9 times table on your fingers: with your hands open, fold down the fourth finger starting from the left. There are 3 fingers before it and 6 after: {{9 × 4 = 36}}.",
+          "fr": "La table de 9 avec les doigts : mains ouvertes, pliez le quatrième doigt en partant de la gauche. Il reste 3 doigts avant et 6 après : {{9 × 4 = 36}}.",
+          "ar": "جدول 9 بالأصابع: باليدين مفتوحتين، اثنوا الإصبع الرابع بدءًا من اليسار. قبله 3 أصابع وبعده 6: {{9 × 4 = 36}}."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid la tabla del 9 en columna: 9, 18, 27, 36… Sumad las cifras de cada resultado: {{1 + 8 = 9}}, {{2 + 7 = 9}}… ¿Qué pasa siempre?",
+          "va": "Escriviu la taula del 9 en columna: 9, 18, 27, 36… Sumeu les xifres de cada resultat: {{1 + 8 = 9}}, {{2 + 7 = 9}}… Què passa sempre?",
+          "en": "Write the 9 times table in a column: 9, 18, 27, 36… Add the digits of each answer: {{1 + 8 = 9}}, {{2 + 7 = 9}}… What always happens?",
+          "fr": "Écrivez la table de 9 en colonne : 9, 18, 27, 36… Additionnez les chiffres de chaque résultat : {{1 + 8 = 9}}, {{2 + 7 = 9}}… Que se passe-t-il toujours ?",
+          "ar": "اكتبوا جدول 9 في عمود: 9، 18، 27، 36… اجمعوا رقمي كل نتيجة: {{1 + 8 = 9}}، {{2 + 7 = 9}}… ماذا يحدث دائمًا؟"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad también la columna: las decenas suben de una en una y las unidades bajan. ¿Por qué será? Una pista: sumar 9 es sumar 10 y quitar 1.",
+          "va": "Mireu també la columna: les desenes pugen d'una en una i les unitats baixen. Per què serà? Una pista: sumar 9 és sumar 10 i llevar 1.",
+          "en": "Look at the column too: the tens go up one at a time and the ones go down. Why might that be? A clue: adding 9 is adding 10 and taking away 1.",
+          "fr": "Regardez aussi la colonne : les dizaines montent de un en un et les unités descendent. Pourquoi ? Un indice : ajouter 9, c'est ajouter 10 et enlever 1.",
+          "ar": "انظروا أيضًا إلى العمود: العشرات تصعد واحدًا واحدًا والآحاد تنزل. لماذا؟ تلميح: جمع 9 هو جمع 10 وطرح 1."
+        }
+      },
+      {
+        "pictograma": "nevera",
+        "texto": {
+          "es": "Escribid en la tarjeta los seis nuevos con su resultado: {{7 × 7 = 49}}, {{7 × 8 = 56}}, {{7 × 9 = 63}}, {{8 × 8 = 64}}, {{8 × 9 = 72}} y {{9 × 9 = 81}}. Colgadla en la nevera.",
+          "va": "Escriviu en la targeta els sis nous amb el seu resultat: {{7 × 7 = 49}}, {{7 × 8 = 56}}, {{7 × 9 = 63}}, {{8 × 8 = 64}}, {{8 × 9 = 72}} i {{9 × 9 = 81}}. Pengeu-la en la nevera.",
+          "en": "Write the six new ones with their answers on the card: {{7 × 7 = 49}}, {{7 × 8 = 56}}, {{7 × 9 = 63}}, {{8 × 8 = 64}}, {{8 × 9 = 72}} and {{9 × 9 = 81}}. Stick it on the fridge.",
+          "fr": "Écrivez sur la carte les six nouveaux avec leur résultat : {{7 × 7 = 49}}, {{7 × 8 = 56}}, {{7 × 9 = 63}}, {{8 × 8 = 64}}, {{8 × 9 = 72}} et {{9 × 9 = 81}}. Accrochez-la sur le frigo.",
+          "ar": "اكتبوا على البطاقة الستة الجديدة مع نتائجها: {{7 × 7 = 49}} و{{7 × 8 = 56}} و{{7 × 9 = 63}} و{{8 × 8 = 64}} و{{8 × 9 = 72}} و{{9 × 9 = 81}}. علّقوها على الثلاجة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Quedaos con la tabla del 9 en los dedos y dejad la tarjeta para otro día.",
+      "va": "Quedeu-vos amb la taula del 9 en els dits i deixeu la targeta per a un altre dia.",
+      "en": "Stick with the 9 times table on your fingers and leave the card for another day.",
+      "fr": "Restez sur la table de 9 avec les doigts et gardez la carte pour un autre jour.",
+      "ar": "اكتفوا بجدول 9 بالأصابع واتركوا البطاقة ليوم آخر."
+    },
+    "masDificil": {
+      "es": "Buscad un truco para cada uno de los seis: {{8 × 8}} es el doble de {{4 × 8}}; {{7 × 9}} es {{7 × 10}} menos 7…",
+      "va": "Busqueu un truc per a cadascun dels sis: {{8 × 8}} és el doble de {{4 × 8}}; {{7 × 9}} és {{7 × 10}} menys 7…",
+      "en": "Find a trick for each of the six: {{8 × 8}} is double {{4 × 8}}; {{7 × 9}} is {{7 × 10}} minus 7…",
+      "fr": "Trouvez une astuce pour chacun des six : {{8 × 8}}, c'est le double de {{4 × 8}} ; {{7 × 9}}, c'est {{7 × 10}} moins 7…",
+      "ar": "ابحثوا عن حيلة لكل واحدة من الست: {{8 × 8}} هي ضعف {{4 × 8}}؛ و{{7 × 9}} هي {{7 × 10}} ناقص 7…"
+    },
+    "paraQueSirve": {
+      "es": "Ver que solo faltan seis quita miedo a las tablas grandes. Y descubrir patrones, como el de las cifras del 9, hace que los números tengan sentido y no sean solo memoria.",
+      "va": "Veure que només en falten sis lleva la por a les taules grans. I descobrir patrons, com el de les xifres del 9, fa que els números tinguen sentit i no siguen només memòria.",
+      "en": "Seeing that only six are left takes away the fear of the big times tables. And discovering patterns, like the one in the digits of 9, makes numbers make sense rather than just being memory.",
+      "fr": "Voir qu'il n'en reste que six enlève la peur des grandes tables. Et découvrir des régularités, comme celle des chiffres de 9, donne du sens aux nombres au lieu de n'être que de la mémoire.",
+      "ar": "رؤية أنه لم يبقَ إلا ستة يزيل الخوف من الجداول الكبيرة. واكتشاف الأنماط، مثل نمط أرقام جدول 9، يجعل للأعداد معنى ولا تبقى مجرد حفظ."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una semana tiene 7 días. ¿Cuántos días hay en 8 semanas?",
+        "va": "Una setmana té 7 dies. Quants dies hi ha en 8 setmanes?",
+        "en": "A week has 7 days. How many days are there in 8 weeks?",
+        "fr": "Une semaine a 7 jours. Combien de jours y a-t-il en 8 semaines ?",
+        "ar": "في الأسبوع 7 أيام. كم يومًا في 8 أسابيع؟"
+      },
+      "pista": {
+        "es": "{{7 × 8}} es el doble de {{7 × 4 = 28}}.",
+        "va": "{{7 × 8}} és el doble de {{7 × 4 = 28}}.",
+        "en": "{{7 × 8}} is double {{7 × 4 = 28}}.",
+        "fr": "{{7 × 8}}, c'est le double de {{7 × 4 = 28}}.",
+        "ar": "{{7 × 8}} هي ضعف {{7 × 4 = 28}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 7",
+        "resultado": 56,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 56 días.",
+          "va": "Hi ha 56 dies.",
+          "en": "There are 56 days.",
+          "fr": "Il y a 56 jours.",
+          "ar": "هناك 56 يومًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con semanas y días hasta tu cumpleaños o hasta las vacaciones.",
+        "va": "Inventa'n tu una amb setmanes i dies fins al teu aniversari o fins a les vacances.",
+        "en": "Make one up with weeks and days until your birthday or the holidays.",
+        "fr": "Invente un problème avec des semaines et des jours jusqu'à ton anniversaire ou jusqu'aux vacances.",
+        "ar": "لنخترع مسألة بالأسابيع والأيام حتى عيد ميلادنا أو حتى العطلة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una araña tiene 8 patas. ¿Cuántas patas tienen 9 arañas?",
+        "va": "Una aranya té 8 potes. Quantes potes tenen 9 aranyes?",
+        "en": "A spider has 8 legs. How many legs do 9 spiders have?",
+        "fr": "Une araignée a 8 pattes. Combien de pattes ont 9 araignées ?",
+        "ar": "للعنكبوت 8 أرجل. كم رِجلًا لـ9 عناكب؟"
+      },
+      "pista": {
+        "es": "{{10 × 8 = 80}}, y quita una araña.",
+        "va": "{{10 × 8 = 80}}, i lleva una aranya.",
+        "en": "{{10 × 8 = 80}}, then take away one spider.",
+        "fr": "{{10 × 8 = 80}}, puis enlève une araignée.",
+        "ar": "{{10 × 8 = 80}}، ثم لنطرح عنكبوتًا واحدًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 × 8",
+        "resultado": 72,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 72 patas: {{80 − 8 = 72}}.",
+          "va": "Tenen 72 potes: {{80 − 8 = 72}}.",
+          "en": "They have 72 legs: {{80 − 8 = 72}}.",
+          "fr": "Elles ont 72 pattes : {{80 − 8 = 72}}.",
+          "ar": "لها 72 رِجلًا: {{80 − 8 = 72}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con animales que tengan 8 patas o 6 patas.",
+        "va": "Inventa'n tu una amb animals que tinguen 8 potes o 6 potes.",
+        "en": "Make one up with animals that have 8 legs or 6 legs.",
+        "fr": "Invente un problème avec des animaux à 8 ou à 6 pattes.",
+        "ar": "لنخترع مسألة عن حيوانات لها 8 أرجل أو 6 أرجل."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Gael dice que en la tabla del 9 las cifras de cada resultado suman siempre 9. Mira {{9 × 6 = 54}}: ¿tiene razón?",
+        "va": "Gael diu que en la taula del 9 les xifres de cada resultat sumen sempre 9. Mira {{9 × 6 = 54}}: té raó?",
+        "en": "Gael says that in the 9 times table the digits of each answer always add up to 9. Look at {{9 × 6 = 54}}: is he right?",
+        "fr": "Gael dit que dans la table de 9 les chiffres de chaque résultat font toujours 9. Regarde {{9 × 6 = 54}} : a-t-il raison ?",
+        "ar": "يقول غايل إن رقمي كل نتيجة في جدول 9 مجموعهما دائمًا 9. لننظر إلى {{9 × 6 = 54}}: هل هو محق؟"
+      },
+      "pista": {
+        "es": "Suma el 5 y el 4.",
+        "va": "Suma el 5 i el 4.",
+        "en": "Add the 5 and the 4.",
+        "fr": "Additionne le 5 et le 4.",
+        "ar": "لنجمع 5 و4."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 4",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí: {{5 + 4 = 9}}. Pasa en toda la tabla del 9, hasta {{9 × 10 = 90}}.",
+          "va": "Sí: {{5 + 4 = 9}}. Passa en tota la taula del 9, fins a {{9 × 10 = 90}}.",
+          "en": "Yes: {{5 + 4 = 9}}. It happens all through the 9 times table, up to {{9 × 10 = 90}}.",
+          "fr": "Oui : {{5 + 4 = 9}}. Ça marche dans toute la table de 9, jusqu'à {{9 × 10 = 90}}.",
+          "ar": "نعم: {{5 + 4 = 9}}. ويحدث هذا في جدول 9 كله حتى {{9 × 10 = 90}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pregunta sobre un patrón de la tabla del 9.",
+        "va": "Inventa't una altra pregunta sobre un patró de la taula del 9.",
+        "en": "Make up another question about a pattern in the 9 times table.",
+        "fr": "Invente une autre question sur une régularité de la table de 9.",
+        "ar": "لنخترع سؤالًا آخر عن نمط في جدول 9."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 24,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: con 24 calcetines, ¿cuántos pares se pueden hacer?",
+        "va": "Per a recordar: amb 24 calcetins, quants parells es poden fer?",
+        "en": "Let's remember: with 24 socks, how many pairs can you make?",
+        "fr": "Pour se souvenir : avec 24 chaussettes, combien de paires peut-on faire ?",
+        "ar": "لنتذكّر: بـ24 جوربًا، كم زوجًا يمكن أن نصنع؟"
+      },
+      "pista": {
+        "es": "¿Qué número por 2 da 24?",
+        "va": "Quin número per 2 dona 24?",
+        "en": "What number times 2 makes 24?",
+        "fr": "Quel nombre fois 2 donne 24 ?",
+        "ar": "أي عدد في 2 يعطي 24؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 : 2",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se pueden hacer 12 pares: {{12 × 2 = 24}}.",
+          "va": "Es poden fer 12 parells: {{12 × 2 = 24}}.",
+          "en": "You can make 12 pairs: {{12 × 2 = 24}}.",
+          "fr": "On peut faire 12 paires : {{12 × 2 = 24}}.",
+          "ar": "يمكن أن نصنع 12 زوجًا: {{12 × 2 = 24}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de hacer grupos con cosas de casa.",
+        "va": "Inventa'n tu una de fer grups amb coses de casa.",
+        "en": "Make one up about making groups with things at home.",
+        "fr": "Invente un problème où l'on fait des groupes avec des choses de la maison.",
+        "ar": "لنخترع مسألة نكوّن فيها مجموعات بأشياء من البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué crees que solo faltan seis resultados nuevos? Explícamelo con alguno de la tabla del 7.",
+        "va": "Per què creus que només falten sis resultats nous? Explica-m'ho amb algun de la taula del 7.",
+        "en": "Why do you think only six new answers are left? Explain it to me with one from the 7 times table.",
+        "fr": "Pourquoi crois-tu qu'il ne reste que six résultats nouveaux ? Explique-le-moi avec un résultat de la table de 7.",
+        "ar": "لماذا نظنّ أنه لم يبقَ إلا ست نتائج جديدة؟ اشرح لي أو اشرحي لي بواحدة من جدول 7."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuánto es {{7 × 3}}? ¿Y {{3 × 7}}? ¿Ya lo sabías?»",
+        "va": "Si no sap per on començar: «Quant és {{7 × 3}}? I {{3 × 7}}? Ja ho sabies?»",
+        "en": "If they don't know where to start: “What is {{7 × 3}}? And {{3 × 7}}? Did you already know it?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien fait {{7 × 3}} ? Et {{3 × 7}} ? Tu le savais déjà ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم تساوي {{7 × 3}}؟ و{{3 × 7}}؟ هل كنّا نعرفها؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea es «muchos ya los sé de otras tablas, dándoles la vuelta». Si no sale, buscad juntos {{7 × 5}} en la tabla del 5.",
+          "va": "La idea és «molts ja els sé d'altres taules, donant-los la volta». Si no ix, busqueu junts {{7 × 5}} en la taula del 5.",
+          "en": "The idea is “I already know lots of them from other tables, by turning them around”. If it doesn't come, look for {{7 × 5}} in the 5 times table together.",
+          "fr": "L'idée, c'est « j'en connais déjà beaucoup grâce aux autres tables, en les retournant ». Sinon, cherchez ensemble {{7 × 5}} dans la table de 5.",
+          "ar": "الفكرة هي «أعرف كثيرًا منها من جداول أخرى بقلبها». وإن لم تخطر، ابحثوا معًا عن {{7 × 5}} في جدول 5."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "856ba114ddf5"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "856ba114ddf5"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "856ba114ddf5"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "856ba114ddf5"
+      }
+    }
+  }
+}
