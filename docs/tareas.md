@@ -75,7 +75,7 @@ Una tanda por sesión, siempre imitando la semilla de ejemplo y respetando el ma
 
 1. Semanas 1 a 8 de 3.º y 4.º (la 7 de 3.º ya existe). **Hecha.**
 2. Semanas 9 a 15. **Hecha.**
-3. Semanas 16 a 22.
+3. Semanas 16 a 22. **Hecha.**
 4. Semanas 23 a 28.
 5. Semanas 29 a 35.
 6. Semanas 36 a 41.

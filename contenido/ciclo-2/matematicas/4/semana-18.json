@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s18",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 18,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Partir para multiplicar",
+    "va": "Partir per a multiplicar",
+    "en": "Split it to multiply",
+    "fr": "Couper pour multiplier",
+    "ar": "نقسم لنضرب"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden a multiplicar por un número de dos cifras partiéndolo en trozos fáciles: {{23 × 14}} es {{23 × 10}} más {{23 × 4}}. Lo ven dibujando rectángulos en papel cuadriculado.",
+    "va": "Aquesta setmana aprenen a multiplicar per un número de dues xifres partint-lo en trossos fàcils: {{23 × 14}} és {{23 × 10}} més {{23 × 4}}. Ho veuen dibuixant rectangles en paper quadriculat.",
+    "en": "This week they learn to multiply by a two-digit number by splitting it into easy pieces: {{23 × 14}} is {{23 × 10}} plus {{23 × 4}}. They see it by drawing rectangles on squared paper.",
+    "fr": "Cette semaine, on apprend à multiplier par un nombre à deux chiffres en le coupant en morceaux faciles : {{23 × 14}}, c'est {{23 × 10}} plus {{23 × 4}}. On le voit en dessinant des rectangles sur du papier quadrillé.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال الضرب في عدد من رقمين بتقسيمه إلى أجزاء سهلة: {{23 × 14}} هي {{23 × 10}} زائد {{23 × 4}}. ويرون ذلك برسم مستطيلات على ورق مربّعات."
+  },
+  "comoAyudar": {
+    "es": "No hace falta contar los cuadraditos uno a uno: la gracia es ver que cada trozo se calcula fácil. Si se pierde, volved al dibujo y señalad cada trozo con el dedo.",
+    "va": "No cal comptar els quadradets un a un: la gràcia és veure que cada tros es calcula fàcilment. Si es perd, torneu al dibuix i assenyaleu cada tros amb el dit.",
+    "en": "Counting the little squares one by one isn't the idea: the point is to see that each piece is easy to work out. If they get lost, go back to the drawing and point to each piece.",
+    "fr": "Pas besoin de compter les petits carreaux un par un : l'idée, c'est de voir que chaque morceau se calcule facilement. En cas de doute, revenez au dessin et montrez chaque morceau du doigt.",
+    "ar": "لا داعي لعدّ المربّعات الصغيرة واحدًا واحدًا: الفكرة أن نرى أن كل جزء يُحسب بسهولة. وإذا ضاع الطفل، عودوا إلى الرسم وأشيروا إلى كل جزء بالإصبع."
+  },
+  "saberes": [
+    "matematicas.operaciones.propiedades",
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El rectángulo partido",
+      "va": "El rectangle partit",
+      "en": "The split rectangle",
+      "fr": "Le rectangle coupé",
+      "ar": "المستطيل المقسوم"
+    },
+    "material": [
+      {
+        "es": "Papel cuadriculado (una hoja de libreta sirve)",
+        "va": "Paper quadriculat (un full de llibreta servix)",
+        "en": "Squared paper (a page from a school notebook will do)",
+        "fr": "Du papier quadrillé (une feuille de cahier suffit)",
+        "ar": "ورق مربّعات (تصلح ورقة من دفتر)"
+      },
+      {
+        "es": "Lápices de colores",
+        "va": "Llapis de colors",
+        "en": "Coloured pencils",
+        "fr": "Des crayons de couleur",
+        "ar": "أقلام ملوّنة"
+      },
+      {
+        "es": "Una regla",
+        "va": "Un regle",
+        "en": "A ruler",
+        "fr": "Une règle",
+        "ar": "مسطرة"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "regla",
+        "texto": {
+          "es": "En el papel cuadriculado, dibujad con regla un rectángulo de 23 cuadraditos de largo y 14 de alto.",
+          "va": "En el paper quadriculat, dibuixeu amb regle un rectangle de 23 quadradets de llarg i 14 d'alt.",
+          "en": "On the squared paper, use a ruler to draw a rectangle 23 squares long and 14 squares high.",
+          "fr": "Sur le papier quadrillé, tracez à la règle un rectangle de 23 carreaux de long et 14 de haut.",
+          "ar": "على ورق المربّعات، ارسموا بالمسطرة مستطيلًا طوله 23 مربّعًا وارتفاعه 14."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Trazad una raya que lo parta en dos: un trozo de 23 por 10 arriba y otro de 23 por 4 abajo. Pintad cada trozo de un color.",
+          "va": "Traceu una ratlla que el partisca en dos: un tros de 23 per 10 dalt i un altre de 23 per 4 baix. Pinteu cada tros d'un color.",
+          "en": "Draw a line that splits it in two: a 23 by 10 piece on top and a 23 by 4 piece below. Colour each piece a different colour.",
+          "fr": "Tracez un trait qui le coupe en deux : un morceau de 23 sur 10 en haut et un autre de 23 sur 4 en bas. Coloriez chaque morceau d'une couleur.",
+          "ar": "ارسموا خطًا يقسمه إلى جزأين: جزء 23 في 10 في الأعلى وآخر 23 في 4 في الأسفل. لوّنوا كل جزء بلون."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Calculad cada trozo: {{23 × 10 = 230}} y {{23 × 4 = 92}}. Para el segundo, podéis partir otra vez: {{20 × 4 = 80}} y {{3 × 4 = 12}}.",
+          "va": "Calculeu cada tros: {{23 × 10 = 230}} i {{23 × 4 = 92}}. Per al segon, podeu partir una altra vegada: {{20 × 4 = 80}} i {{3 × 4 = 12}}.",
+          "en": "Work out each piece: {{23 × 10 = 230}} and {{23 × 4 = 92}}. For the second one, you can split again: {{20 × 4 = 80}} and {{3 × 4 = 12}}.",
+          "fr": "Calculez chaque morceau : {{23 × 10 = 230}} et {{23 × 4 = 92}}. Pour le deuxième, vous pouvez couper encore : {{20 × 4 = 80}} et {{3 × 4 = 12}}.",
+          "ar": "احسبوا كل جزء: {{23 × 10 = 230}} و{{23 × 4 = 92}}. وللجزء الثاني يمكنكم التقسيم مرة أخرى: {{20 × 4 = 80}} و{{3 × 4 = 12}}."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Sumad los trozos: {{230 + 92 = 322}}. Son los cuadraditos del rectángulo entero: {{23 × 14 = 322}}.",
+          "va": "Sumeu els trossos: {{230 + 92 = 322}}. Són els quadradets del rectangle sencer: {{23 × 14 = 322}}.",
+          "en": "Add the pieces: {{230 + 92 = 322}}. That's how many squares the whole rectangle has: {{23 × 14 = 322}}.",
+          "fr": "Additionnez les morceaux : {{230 + 92 = 322}}. Ce sont les carreaux du rectangle entier : {{23 × 14 = 322}}.",
+          "ar": "اجمعوا الأجزاء: {{230 + 92 = 322}}. هذه مربّعات المستطيل كله: {{23 × 14 = 322}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con un rectángulo de 12 por 13 y partidlo en {{12 × 10}} y {{12 × 3}}.",
+      "va": "Comenceu amb un rectangle de 12 per 13 i partiu-lo en {{12 × 10}} i {{12 × 3}}.",
+      "en": "Start with a 12 by 13 rectangle and split it into {{12 × 10}} and {{12 × 3}}.",
+      "fr": "Commencez avec un rectangle de 12 sur 13 et coupez-le en {{12 × 10}} et {{12 × 3}}.",
+      "ar": "ابدؤوا بمستطيل 12 في 13 وقسّموه إلى {{12 × 10}} و{{12 × 3}}."
+    },
+    "masDificil": {
+      "es": "Partid también el 23: el rectángulo queda en cuatro trozos, {{20 × 10}}, {{3 × 10}}, {{20 × 4}} y {{3 × 4}}. ¿Suman lo mismo?",
+      "va": "Partiu també el 23: el rectangle queda en quatre trossos, {{20 × 10}}, {{3 × 10}}, {{20 × 4}} i {{3 × 4}}. Sumen el mateix?",
+      "en": "Split the 23 as well: the rectangle ends up in four pieces, {{20 × 10}}, {{3 × 10}}, {{20 × 4}} and {{3 × 4}}. Do they add up to the same?",
+      "fr": "Coupez aussi le 23 : le rectangle se retrouve en quatre morceaux, {{20 × 10}}, {{3 × 10}}, {{20 × 4}} et {{3 × 4}}. Est-ce que ça fait pareil ?",
+      "ar": "قسّموا الـ23 أيضًا: يصير المستطيل أربعة أجزاء، {{20 × 10}} و{{3 × 10}} و{{20 × 4}} و{{3 × 4}}. هل مجموعها هو نفسه؟"
+    },
+    "paraQueSirve": {
+      "es": "Partir un número en trozos fáciles es la idea que hay detrás de la multiplicación en papel. Con el dibujo, la cuenta deja de ser un truco y se entiende por qué funciona.",
+      "va": "Partir un número en trossos fàcils és la idea que hi ha darrere de la multiplicació en paper. Amb el dibuix, el compte deixa de ser un truc i s'entén per què funciona.",
+      "en": "Splitting a number into easy pieces is the idea behind written multiplication. With the drawing, the method stops being a trick and you understand why it works.",
+      "fr": "Couper un nombre en morceaux faciles, c'est l'idée qui se cache derrière la multiplication posée. Avec le dessin, le calcul n'est plus un truc et on comprend pourquoi il marche.",
+      "ar": "تقسيم العدد إلى أجزاء سهلة هو الفكرة التي وراء الضرب على الورق. ومع الرسم، لا يبقى الحساب حيلة، بل نفهم لماذا ينجح."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un autobús tiene 54 asientos. ¿Cuántos asientos hay en 12 autobuses iguales?",
+        "va": "Un autobús té 54 seients. Quants seients hi ha en 12 autobusos iguals?",
+        "en": "A bus has 54 seats. How many seats are there on 12 identical buses?",
+        "fr": "Un bus a 54 places. Combien de places y a-t-il dans 12 bus identiques ?",
+        "ar": "في الحافلة 54 مقعدًا. كم مقعدًا في 12 حافلة متماثلة؟"
+      },
+      "pista": {
+        "es": "Parte el 12: {{54 × 10 = 540}} y {{54 × 2 = 108}}.",
+        "va": "Partix el 12: {{54 × 10 = 540}} i {{54 × 2 = 108}}.",
+        "en": "Split the 12: {{54 × 10 = 540}} and {{54 × 2 = 108}}.",
+        "fr": "Coupe le 12 : {{54 × 10 = 540}} et {{54 × 2 = 108}}.",
+        "ar": "لنقسم الـ12: {{54 × 10 = 540}} و{{54 × 2 = 108}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "54 × 12",
+        "resultado": 648,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 648 asientos: {{540 + 108 = 648}}.",
+          "va": "Hi ha 648 seients: {{540 + 108 = 648}}.",
+          "en": "There are 648 seats: {{540 + 108 = 648}}.",
+          "fr": "Il y a 648 places : {{540 + 108 = 648}}.",
+          "ar": "هناك 648 مقعدًا: {{540 + 108 = 648}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de autobuses, vagones o filas de un cine.",
+        "va": "Inventa'n tu una d'autobusos, vagons o files d'un cine.",
+        "en": "Make one up about buses, train carriages or rows in a cinema.",
+        "fr": "Invente un problème avec des bus, des wagons ou des rangées de cinéma.",
+        "ar": "لنخترع مسألة عن حافلات أو عربات قطار أو صفوف في سينما."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una caja trae 24 galletas. ¿Cuántas galletas hay en 15 cajas?",
+        "va": "Una capsa porta 24 galetes. Quantes galetes hi ha en 15 capses?",
+        "en": "A box holds 24 biscuits. How many biscuits are there in 15 boxes?",
+        "fr": "Une boîte contient 24 biscuits. Combien de biscuits y a-t-il dans 15 boîtes ?",
+        "ar": "في العلبة 24 بسكويتة. كم بسكويتة في 15 علبة؟"
+      },
+      "pista": {
+        "es": "{{24 × 10 = 240}}, y {{24 × 5}} es la mitad de 240.",
+        "va": "{{24 × 10 = 240}}, i {{24 × 5}} és la meitat de 240.",
+        "en": "{{24 × 10 = 240}}, and {{24 × 5}} is half of 240.",
+        "fr": "{{24 × 10 = 240}}, et {{24 × 5}}, c'est la moitié de 240.",
+        "ar": "{{24 × 10 = 240}}، و{{24 × 5}} هي نصف 240."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 × 15",
+        "resultado": 360,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 360 galletas: {{240 + 120 = 360}}.",
+          "va": "Hi ha 360 galetes: {{240 + 120 = 360}}.",
+          "en": "There are 360 biscuits: {{240 + 120 = 360}}.",
+          "fr": "Il y a 360 biscuits : {{240 + 120 = 360}}.",
+          "ar": "هناك 360 بسكويتة: {{240 + 120 = 360}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación por 15 y pártela en 10 y 5.",
+        "va": "Inventa't una multiplicació per 15 i partix-la en 10 i 5.",
+        "en": "Make up a multiplication by 15 and split it into 10 and 5.",
+        "fr": "Invente une multiplication par 15 et coupe-la en 10 et 5.",
+        "ar": "لنخترع عملية ضرب في 15 ونقسمها إلى 10 و5."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Ona calcula {{32 × 13}} así: {{32 × 10 = 320}} y {{32 × 3 = 96}}. ¿Cuánto le sale?",
+        "va": "Ona calcula {{32 × 13}} així: {{32 × 10 = 320}} i {{32 × 3 = 96}}. Quant li ix?",
+        "en": "Ona works out {{32 × 13}} like this: {{32 × 10 = 320}} and {{32 × 3 = 96}}. What does she get?",
+        "fr": "Ona calcule {{32 × 13}} comme ça : {{32 × 10 = 320}} et {{32 × 3 = 96}}. Combien trouve-t-elle ?",
+        "ar": "تحسب أونا {{32 × 13}} هكذا: {{32 × 10 = 320}} و{{32 × 3 = 96}}. كم تحصل؟"
+      },
+      "pista": {
+        "es": "Suma los dos trozos.",
+        "va": "Suma els dos trossos.",
+        "en": "Add the two pieces.",
+        "fr": "Additionne les deux morceaux.",
+        "ar": "لنجمع الجزأين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "32 × 13",
+        "resultado": 416,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le sale 416: {{320 + 96 = 416}}.",
+          "va": "Li ix 416: {{320 + 96 = 416}}.",
+          "en": "She gets 416: {{320 + 96 = 416}}.",
+          "fr": "Elle trouve 416 : {{320 + 96 = 416}}.",
+          "ar": "تحصل على 416: {{320 + 96 = 416}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación por un número entre 11 y 19 y pártela como Ona.",
+        "va": "Inventa't una multiplicació per un número entre 11 i 19 i partix-la com Ona.",
+        "en": "Make up a multiplication by a number between 11 and 19 and split it like Ona.",
+        "fr": "Invente une multiplication par un nombre entre 11 et 19 et coupe-la comme Ona.",
+        "ar": "لنخترع عملية ضرب في عدد بين 11 و19 ونقسمها مثل أونا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 15,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: compras dos libretas de 1,85 € cada una y pagas con 5 €. ¿Cuánto te devuelven?",
+        "va": "Per a recordar: compres dues llibretes d'1,85 € cadascuna i pagues amb 5 €. Quant et tornen?",
+        "en": "Let's remember: you buy two notebooks at 1,85 € each and pay with 5 €. How much change do you get?",
+        "fr": "Pour se souvenir : tu achètes deux cahiers à 1,85 € chacun et tu paies avec 5 €. Combien te rend-on ?",
+        "ar": "لنتذكّر: اشترينا دفترين ثمن كل منهما 1,85 يورو، ودفعنا 5 يورو. كم يُرجَع لنا؟"
+      },
+      "pista": {
+        "es": "Dos libretas cuestan 3,70 €. Cuenta hacia arriba hasta 5 €.",
+        "va": "Dues llibretes costen 3,70 €. Compta cap amunt fins a 5 €.",
+        "en": "Two notebooks cost 3,70 €. Count up to 5 €.",
+        "fr": "Deux cahiers coûtent 3,70 €. Compte en avançant jusqu'à 5 €.",
+        "ar": "ثمن الدفترين 3,70 يورو. لنعدّ صعودًا حتى 5 يورو."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "500 - (2 × 185)",
+        "resultado": 130,
+        "unidad": "cent",
+        "texto": {
+          "es": "Te devuelven 1,30 €.",
+          "va": "Et tornen 1,30 €.",
+          "en": "You get 1,30 € back.",
+          "fr": "On te rend 1,30 €.",
+          "ar": "يُرجَع لنا 1,30 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar dos cosas iguales y pagar con un billete.",
+        "va": "Inventa'n tu una de comprar dues coses iguals i pagar amb un bitllet.",
+        "en": "Make one up about buying two identical things and paying with a note.",
+        "fr": "Invente un problème où l'on achète deux choses identiques et où l'on paie avec un billet.",
+        "ar": "لنخترع مسألة نشتري فيها شيئين متماثلين وندفع بورقة نقدية."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué {{23 × 14}} es lo mismo que {{23 × 10}} más {{23 × 4}}? Explícamelo con un dibujo.",
+        "va": "Per què {{23 × 14}} és el mateix que {{23 × 10}} més {{23 × 4}}? Explica-m'ho amb un dibuix.",
+        "en": "Why is {{23 × 14}} the same as {{23 × 10}} plus {{23 × 4}}? Explain it to me with a drawing.",
+        "fr": "Pourquoi {{23 × 14}} est-il pareil que {{23 × 10}} plus {{23 × 4}} ? Explique-le-moi avec un dessin.",
+        "ar": "لماذا {{23 × 14}} هي نفسها {{23 × 10}} زائد {{23 × 4}}؟ اشرح لي أو اشرحي لي برسم."
+      },
+      "pista": {
+        "es": "Si se queda en blanco: «¿Te acuerdas del rectángulo partido? ¿Qué había en cada trozo?»",
+        "va": "Si es queda en blanc: «Te'n recordes del rectangle partit? Què hi havia en cada tros?»",
+        "en": "If they go blank: “Do you remember the split rectangle? What was in each piece?”",
+        "fr": "S'il ou elle reste sans idée : « Tu te rappelles le rectangle coupé ? Qu'y avait-il dans chaque morceau ? »",
+        "ar": "إن لم تخطر فكرة، اسألوا: «هل نتذكّر المستطيل المقسوم؟ ماذا كان في كل جزء؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si dibuja el rectángulo y señala los dos trozos, ya lo está explicando. No hace falta que use palabras difíciles.",
+          "va": "Si dibuixa el rectangle i assenyala els dos trossos, ja ho està explicant. No cal que faça servir paraules difícils.",
+          "en": "If they draw the rectangle and point to the two pieces, they're already explaining it. There's no need for difficult words.",
+          "fr": "Si le rectangle est dessiné et que les deux morceaux sont montrés, c'est déjà une explication. Pas besoin de mots difficiles.",
+          "ar": "إذا رُسم المستطيل وأُشير إلى جزأيه، فهذا شرح بالفعل. لا داعي لكلمات صعبة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "d2472dca135e"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "d2472dca135e"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "d2472dca135e"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "d2472dca135e"
+      }
+    }
+  }
+}

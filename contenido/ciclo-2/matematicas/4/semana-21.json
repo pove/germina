@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s21",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 21,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Árboles de combinaciones",
+    "va": "Arbres de combinacions",
+    "en": "Combination trees",
+    "fr": "Les arbres de combinaisons",
+    "ar": "أشجار التركيبات"
+  },
+  "objetivo": {
+    "es": "Esta semana cuentan combinaciones dibujando un diagrama de árbol, y descubren que la multiplicación las cuenta todas de golpe: con 3 primeros y 4 segundos salen {{3 × 4 = 12}} menús.",
+    "va": "Aquesta setmana compten combinacions dibuixant un diagrama d'arbre (diagrama de árbol), i descobreixen que la multiplicació les compta totes de colp: amb 3 primers i 4 segons ixen {{3 × 4 = 12}} menús.",
+    "en": "This week they count combinations by drawing a tree diagram (diagrama de árbol), and discover that multiplication counts them all at once: with 3 starters and 4 main courses there are {{3 × 4 = 12}} menus.",
+    "fr": "Cette semaine, on compte des combinaisons en dessinant un arbre (diagrama de árbol), et on découvre que la multiplication les compte toutes d'un coup : avec 3 entrées et 4 plats, on obtient {{3 × 4 = 12}} menus.",
+    "ar": "هذا الأسبوع يعدّ الأطفال التركيبات برسم مخطّط شجري (diagrama de árbol)، ويكتشفون أن الضرب يعدّها كلها دفعة واحدة: مع 3 أطباق أولى و4 أطباق رئيسية تخرج {{3 × 4 = 12}} قائمة طعام."
+  },
+  "comoAyudar": {
+    "es": "Dibujad el árbol juntos y en grande. Si se lía con tantas ramas, contad solo las de un primer plato y preguntad: «¿Y los demás tendrán las mismas?».",
+    "va": "Dibuixeu l'arbre junts i en gran. Si s'embolica amb tantes branques, compteu només les d'un primer plat i pregunteu: «I els altres en tindran les mateixes?».",
+    "en": "Draw the tree together and make it big. If they get muddled with so many branches, count only the ones from one starter and ask: “Will the others have the same number?”",
+    "fr": "Dessinez l'arbre ensemble et en grand. En cas de confusion avec tant de branches, comptez seulement celles d'une entrée et demandez : « Et les autres en auront autant ? »",
+    "ar": "ارسموا الشجرة معًا وبحجم كبير. وإذا اختلطت الفروع الكثيرة على الطفل، عدّوا فروع طبق أول واحد فقط واسألوا: «وهل للبقية العدد نفسه؟»."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.3.2",
+    "matematicas.c2.2.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El menú de casa",
+      "va": "El menú de casa",
+      "en": "The home menu",
+      "fr": "Le menu de la maison",
+      "ar": "قائمة طعام البيت"
+    },
+    "material": [
+      {
+        "es": "Un papel grande",
+        "va": "Un paper gran",
+        "en": "A large sheet of paper",
+        "fr": "Une grande feuille de papier",
+        "ar": "ورقة كبيرة"
+      },
+      {
+        "es": "Lápices de colores",
+        "va": "Llapis de colors",
+        "en": "Coloured pencils",
+        "fr": "Des crayons de couleur",
+        "ar": "أقلام ملوّنة"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cocina",
+        "texto": {
+          "es": "Inventad un menú con 3 primeros (por ejemplo, lentejas, ensalada y sopa), 4 segundos y 2 postres. Escribidlo como en un restaurante.",
+          "va": "Inventeu un menú amb 3 primers (per exemple, llentilles, ensalada i sopa), 4 segons i 2 postres. Escriviu-lo com en un restaurant.",
+          "en": "Make up a menu with 3 starters (for example, lentils, salad and soup), 4 main courses and 2 desserts. Write it out like in a restaurant.",
+          "fr": "Inventez un menu avec 3 entrées (par exemple, lentilles, salade et soupe), 4 plats et 2 desserts. Écrivez-le comme au restaurant.",
+          "ar": "اخترعوا قائمة طعام فيها 3 أطباق أولى (مثلًا عدس وسلطة وحساء)، و4 أطباق رئيسية، وحلويان. اكتبوها كما في المطعم."
+        }
+      },
+      {
+        "pictograma": "arbol",
+        "texto": {
+          "es": "Dibujad el árbol: del punto de salida, 3 ramas, una por primero. De cada primero, 4 ramas, una por segundo.",
+          "va": "Dibuixeu l'arbre: del punt d'eixida, 3 branques, una per primer. De cada primer, 4 branques, una per segon.",
+          "en": "Draw the tree: from the starting point, 3 branches, one for each starter. From each starter, 4 branches, one for each main course.",
+          "fr": "Dessinez l'arbre : du point de départ, 3 branches, une par entrée. De chaque entrée, 4 branches, une par plat.",
+          "ar": "ارسموا الشجرة: من نقطة البداية 3 فروع، فرع لكل طبق أول. ومن كل طبق أول 4 فروع، فرع لكل طبق رئيسي."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Contad las puntas: hay {{3 × 4 = 12}} formas de elegir primero y segundo. Ahora, de cada punta, sacad 2 ramas de postre.",
+          "va": "Compteu les puntes: hi ha {{3 × 4 = 12}} maneres de triar primer i segon. Ara, de cada punta, traieu 2 branques de postres.",
+          "en": "Count the tips: there are {{3 × 4 = 12}} ways to choose a starter and a main course. Now, from each tip, draw 2 dessert branches.",
+          "fr": "Comptez les bouts : il y a {{3 × 4 = 12}} façons de choisir une entrée et un plat. Maintenant, de chaque bout, tracez 2 branches de dessert.",
+          "ar": "عدّوا الأطراف: هناك {{3 × 4 = 12}} طريقة لاختيار طبق أول وطبق رئيسي. والآن، من كل طرف ارسموا فرعين للحلوى."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Cuántos menús distintos hay? Contadlos y buscad la multiplicación que los cuenta: {{3 × 4 × 2 = 24}}.",
+          "va": "Quants menús diferents hi ha? Compteu-los i busqueu la multiplicació que els compta: {{3 × 4 × 2 = 24}}.",
+          "en": "How many different menus are there? Count them and look for the multiplication that counts them: {{3 × 4 × 2 = 24}}.",
+          "fr": "Combien y a-t-il de menus différents ? Comptez-les et cherchez la multiplication qui les compte : {{3 × 4 × 2 = 24}}.",
+          "ar": "كم قائمة طعام مختلفة هناك؟ عدّوها وابحثوا عن عملية الضرب التي تعدّها: {{3 × 4 × 2 = 24}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad sin postres: con 3 primeros y 4 segundos ya salen 12 menús.",
+      "va": "Comenceu sense postres: amb 3 primers i 4 segons ja ixen 12 menús.",
+      "en": "Start without desserts: 3 starters and 4 main courses already give 12 menus.",
+      "fr": "Commencez sans dessert : avec 3 entrées et 4 plats, on a déjà 12 menus.",
+      "ar": "ابدؤوا دون حلوى: مع 3 أطباق أولى و4 أطباق رئيسية تخرج 12 قائمة."
+    },
+    "masDificil": {
+      "es": "Añadid 3 bebidas: ¿cuántos menús hay ahora? ¿Se puede dibujar el árbol entero o es mejor multiplicar?",
+      "va": "Afegiu 3 begudes: quants menús hi ha ara? Es pot dibuixar l'arbre sencer o és millor multiplicar?",
+      "en": "Add 3 drinks: how many menus are there now? Can you draw the whole tree, or is it better to multiply?",
+      "fr": "Ajoutez 3 boissons : combien de menus y a-t-il maintenant ? Peut-on dessiner l'arbre entier ou vaut-il mieux multiplier ?",
+      "ar": "أضيفوا 3 مشروبات: كم قائمة هناك الآن؟ هل يمكن رسم الشجرة كلها أم الأفضل أن نضرب؟"
+    },
+    "paraQueSirve": {
+      "es": "El árbol enseña a contar con orden, sin dejarse ninguna opción ni repetir. Y al ver que las ramas se multiplican, la multiplicación cobra un sentido nuevo.",
+      "va": "L'arbre ensenya a comptar amb ordre, sense deixar-se cap opció ni repetir. I en veure que les branques es multipliquen, la multiplicació pren un sentit nou.",
+      "en": "The tree teaches counting in order, without missing or repeating any option. And seeing the branches multiply gives multiplication a new meaning.",
+      "fr": "L'arbre apprend à compter avec ordre, sans oublier ni répéter aucune option. Et en voyant les branches se multiplier, la multiplication prend un sens nouveau.",
+      "ar": "تعلّم الشجرة العدّ بترتيب، دون نسيان أي خيار أو تكراره. وعندما نرى الفروع تتضاعف، يكتسب الضرب معنى جديدًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "diagrama-arbol",
+      "texto": {
+        "es": "Para ir a la piscina, Fátima puede elegir entre 3 bañadores, 2 toallas y 2 gorros. ¿De cuántas formas distintas puede preparar la bolsa?",
+        "va": "Per a anar a la piscina, Fàtima pot triar entre 3 banyadors, 2 tovalloles i 2 gorres. De quantes maneres diferents pot preparar la bossa?",
+        "en": "To go to the pool, Fátima can choose from 3 swimsuits, 2 towels and 2 swimming caps. How many different ways can she pack her bag?",
+        "fr": "Pour aller à la piscine, Fátima peut choisir entre 3 maillots, 2 serviettes et 2 bonnets. De combien de façons différentes peut-elle préparer son sac ?",
+        "ar": "للذهاب إلى المسبح، يمكن لفاطمة أن تختار بين 3 ملابس سباحة ومنشفتين وقبعتي سباحة. بكم طريقة مختلفة يمكنها تحضير حقيبتها؟"
+      },
+      "pista": {
+        "es": "Haz un árbol: de cada bañador salen las toallas, y de cada toalla, los gorros.",
+        "va": "Fes un arbre: de cada banyador ixen les tovalloles, i de cada tovallola, les gorres.",
+        "en": "Draw a tree: the towels branch off each swimsuit, and the caps branch off each towel.",
+        "fr": "Fais un arbre : de chaque maillot partent les serviettes, et de chaque serviette, les bonnets.",
+        "ar": "لنرسم شجرة: من كل لباس سباحة تخرج المناشف، ومن كل منشفة تخرج القبعات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 2 × 2",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "De 12 formas: {{3 × 2 × 2 = 12}}.",
+          "va": "De 12 maneres: {{3 × 2 × 2 = 12}}.",
+          "en": "12 ways: {{3 × 2 × 2 = 12}}.",
+          "fr": "De 12 façons : {{3 × 2 × 2 = 12}}.",
+          "ar": "بـ12 طريقة: {{3 × 2 × 2 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de preparar una mochila eligiendo entre varias cosas.",
+        "va": "Inventa'n tu una de preparar una motxilla triant entre diverses coses.",
+        "en": "Make one up about packing a rucksack by choosing between several things.",
+        "fr": "Invente un problème où l'on prépare un sac à dos en choisissant entre plusieurs choses.",
+        "ar": "لنخترع مسألة عن تحضير حقيبة ظهر بالاختيار بين عدة أشياء."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Un candado tiene dos ruedas con las cifras del 0 al 9. ¿Cuántas combinaciones distintas tiene?",
+        "va": "Un cadenat té dues rodes amb les xifres del 0 al 9. Quantes combinacions diferents té?",
+        "en": "A padlock has two wheels with the digits 0 to 9. How many different combinations does it have?",
+        "fr": "Un cadenas a deux molettes avec les chiffres de 0 à 9. Combien de combinaisons différentes a-t-il ?",
+        "ar": "لقفل عجلتان عليهما الأرقام من 0 إلى 9. كم تركيبة مختلفة له؟"
+      },
+      "pista": {
+        "es": "Por cada cifra de la primera rueda, ¿cuántas puede haber en la segunda?",
+        "va": "Per cada xifra de la primera roda, quantes en pot haver en la segona?",
+        "en": "For each digit on the first wheel, how many can there be on the second?",
+        "fr": "Pour chaque chiffre de la première molette, combien peut-il y en avoir sur la deuxième ?",
+        "ar": "لكل رقم في العجلة الأولى، كم رقمًا يمكن أن يكون في الثانية؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 × 10",
+        "resultado": 100,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 100 combinaciones, del 00 al 99.",
+          "va": "Té 100 combinacions, del 00 al 99.",
+          "en": "It has 100 combinations, from 00 to 99.",
+          "fr": "Il a 100 combinaisons, de 00 à 99.",
+          "ar": "له 100 تركيبة، من 00 إلى 99."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con un candado de tres ruedas o con ruedas de pocas cifras.",
+        "va": "Inventa'n tu una amb un cadenat de tres rodes o amb rodes de poques xifres.",
+        "en": "Make one up with a three-wheel padlock or with wheels that have only a few digits.",
+        "fr": "Invente un problème avec un cadenas à trois molettes ou avec des molettes de peu de chiffres.",
+        "ar": "لنخترع مسألة عن قفل بثلاث عجلات أو بعجلات عليها أرقام قليلة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Para la excursión, el bocadillo puede ser de pan blanco o integral, con 4 rellenos, y con tomate o sin tomate. ¿Cuántos bocadillos distintos se pueden hacer?",
+        "va": "Per a l'excursió, l'entrepà pot ser de pa blanc o integral, amb 4 farcits, i amb tomaca o sense tomaca. Quants entrepans diferents es poden fer?",
+        "en": "For the school trip, the sandwich can be white or wholemeal bread, with 4 fillings, and with or without tomato. How many different sandwiches can be made?",
+        "fr": "Pour la sortie, le sandwich peut être au pain blanc ou complet, avec 4 garnitures, et avec ou sans tomate. Combien de sandwichs différents peut-on faire ?",
+        "ar": "للرحلة، يمكن أن تكون الشطيرة من خبز أبيض أو أسمر، مع 4 حشوات، وبالطماطم أو دونها. كم شطيرة مختلفة يمكن تحضيرها؟"
+      },
+      "pista": {
+        "es": "Multiplica las opciones de cada cosa: pan, relleno y tomate.",
+        "va": "Multiplica les opcions de cada cosa: pa, farcit i tomaca.",
+        "en": "Multiply the options for each thing: bread, filling and tomato.",
+        "fr": "Multiplie les choix pour chaque chose : pain, garniture et tomate.",
+        "ar": "لنضرب خيارات كل شيء: الخبز والحشوة والطماطم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 4 × 2",
+        "resultado": 16,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se pueden hacer 16 bocadillos distintos.",
+          "va": "Es poden fer 16 entrepans diferents.",
+          "en": "16 different sandwiches can be made.",
+          "fr": "On peut faire 16 sandwichs différents.",
+          "ar": "يمكن تحضير 16 شطيرة مختلفة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de combinar tres cosas, como en una pizzería o una heladería.",
+        "va": "Inventa'n tu una de combinar tres coses, com en una pizzeria o una gelateria.",
+        "en": "Make one up about combining three things, like in a pizzeria or an ice-cream shop.",
+        "fr": "Invente un problème où l'on combine trois choses, comme dans une pizzeria ou chez un glacier.",
+        "ar": "لنخترع مسألة نجمع فيها بين ثلاثة أشياء، كما في محل بيتزا أو محل بوظة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 20,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: una familia gasta 23 € a la semana en fruta. ¿Cuánto gasta en 11 semanas? Primero, a ojo.",
+        "va": "Per a recordar: una família gasta 23 € a la setmana en fruita. Quant gasta en 11 setmanes? Primer, a ull.",
+        "en": "Let's remember: a family spends 23 € a week on fruit. How much does it spend in 11 weeks? First, estimate.",
+        "fr": "Pour se souvenir : une famille dépense 23 € par semaine en fruits. Combien dépense-t-elle en 11 semaines ? D'abord, à vue d'œil.",
+        "ar": "لنتذكّر: تنفق عائلة 23 يورو في الأسبوع على الفاكهة. كم تنفق في 11 أسبوعًا؟ أولًا بالتقريب."
+      },
+      "pista": {
+        "es": "Por 11 es por 10 y una vez más.",
+        "va": "Per 11 és per 10 i una vegada més.",
+        "en": "Times 11 is times 10 and one more time.",
+        "fr": "Fois 11, c'est fois 10 et encore une fois.",
+        "ar": "الضرب في 11 هو الضرب في 10 ومرة أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "23 × 11",
+        "resultado": 253,
+        "unidad": "euros",
+        "texto": {
+          "es": "A ojo, algo más de 230 €, porque {{23 × 10 = 230}} y falta una semana. Exactamente, 253 €.",
+          "va": "A ull, una mica més de 230 €, perquè {{23 × 10 = 230}} i falta una setmana. Exactament, 253 €.",
+          "en": "Roughly, a bit more than 230 €, because {{23 × 10 = 230}} and there's one more week. Exactly, 253 €.",
+          "fr": "À vue d'œil, un peu plus de 230 €, parce que {{23 × 10 = 230}} et il reste une semaine. Exactement, 253 €.",
+          "ar": "بالتقريب أكثر بقليل من 230 يورو، لأن {{23 × 10 = 230}} ويبقى أسبوع واحد. وبالضبط 253 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un gasto de cada semana y estímalo antes de calcular.",
+        "va": "Inventa'n tu una d'una despesa de cada setmana i estima-la abans de calcular.",
+        "en": "Make one up about a weekly cost and estimate it before calculating.",
+        "fr": "Invente un problème avec une dépense de chaque semaine et estime-la avant de calculer.",
+        "ar": "لنخترع مسألة عن مصروف أسبوعي ونقدّره قبل الحساب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué las combinaciones se pueden contar multiplicando? Explícamelo con un árbol.",
+        "va": "Per què les combinacions es poden comptar multiplicant? Explica-m'ho amb un arbre.",
+        "en": "Why can combinations be counted by multiplying? Explain it to me with a tree.",
+        "fr": "Pourquoi peut-on compter les combinaisons en multipliant ? Explique-le-moi avec un arbre.",
+        "ar": "لماذا يمكن عدّ التركيبات بالضرب؟ اشرح لي أو اشرحي لي بشجرة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántas ramas salían de cada primer plato? ¿Y cuántos primeros había?»",
+        "va": "Si no sap per on començar: «Quantes branques eixien de cada primer plat? I quants primers hi havia?»",
+        "en": "If they don't know where to start: “How many branches came off each starter? And how many starters were there?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de branches partaient de chaque entrée ? Et combien d'entrées y avait-il ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم فرعًا خرج من كل طبق أول؟ وكم طبقًا أول كان هناك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea clave es «cada rama tiene las mismas ramitas». Si llega ahí, ya está. Si no, contad juntos las ramitas de dos ramas y comparadlas.",
+          "va": "La idea clau és «cada branca té les mateixes branquetes». Si hi arriba, ja està. Si no, compteu junts les branquetes de dues branques i compareu-les.",
+          "en": "The key idea is “every branch has the same number of little branches”. If they get there, that's it. If not, count the little branches on two branches together and compare them.",
+          "fr": "L'idée clé, c'est « chaque branche a autant de petites branches ». Si on y arrive, c'est gagné. Sinon, comptez ensemble les petites branches de deux branches et comparez-les.",
+          "ar": "الفكرة الأساسية هي «لكل فرع عدد الفروع الصغيرة نفسه». إذا وصلنا إليها فقد انتهينا. وإن لم نصل، عدّوا معًا الفروع الصغيرة لفرعين وقارنوها."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "fdf64ebd30f3"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "fdf64ebd30f3"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "fdf64ebd30f3"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "fdf64ebd30f3"
+      }
+    }
+  }
+}

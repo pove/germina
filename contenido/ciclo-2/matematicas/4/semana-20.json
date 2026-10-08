@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s20",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 20,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Multiplicar y comprobar",
+    "va": "Multiplicar i comprovar",
+    "en": "Multiply and check",
+    "fr": "Multiplier et vérifier",
+    "ar": "نضرب ونتحقّق"
+  },
+  "objetivo": {
+    "es": "Esta semana multiplican por números de dos cifras y, antes de calcular, estiman el resultado. Después comparan: si la cuenta se aleja mucho de lo estimado, algo ha pasado.",
+    "va": "Aquesta setmana multipliquen per números de dues xifres i, abans de calcular, estimen (estimar) el resultat. Després comparen: si el compte s'allunya molt del que havien estimat, alguna cosa ha passat.",
+    "en": "This week they multiply by two-digit numbers and, before calculating, estimate (estimar) the answer. Then they compare: if the result is far from the estimate, something has gone wrong.",
+    "fr": "Cette semaine, on multiplie par des nombres à deux chiffres et, avant de calculer, on estime (estimar) le résultat. Ensuite, on compare : si le calcul s'éloigne beaucoup de l'estimation, il s'est passé quelque chose.",
+    "ar": "هذا الأسبوع يضرب الأطفال في أعداد من رقمين، وقبل الحساب يقدّرون (estimar) النتيجة. ثم يقارنون: إذا ابتعد الحساب كثيرًا عن التقدير، فقد حدث شيء ما."
+  },
+  "comoAyudar": {
+    "es": "Pedid siempre el «más o menos» antes de la cuenta. Si el resultado se aleja mucho, no digáis que está mal: preguntad «¿cuadra con lo que pensabas?» y dejad que lo descubra.",
+    "va": "Demaneu sempre el «més o menys» abans del compte. Si el resultat s'allunya molt, no digueu que està malament: pregunteu «quadra amb el que pensaves?» i deixeu que ho descobrisca.",
+    "en": "Always ask for the “roughly” before the sum. If the answer is way off, don't say it's wrong: ask “Does that fit with what you thought?” and let them discover it.",
+    "fr": "Demandez toujours le « à peu près » avant le calcul. Si le résultat s'éloigne beaucoup, ne dites pas que c'est faux : demandez « Ça colle avec ce que tu pensais ? » et laissez découvrir.",
+    "ar": "اطلبوا دائمًا «التقدير» قبل الحساب. وإذا ابتعدت النتيجة كثيرًا، لا تقولوا إنها خطأ: اسألوا «هل تتّفق مع ما توقّعناه؟» واتركوا الطفل يكتشف ذلك."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c2.3.4",
+    "matematicas.c2.1.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El pan de 12 semanas",
+      "va": "El pa de 12 setmanes",
+      "en": "Twelve weeks of bread",
+      "fr": "Le pain de 12 semaines",
+      "ar": "خبز 12 أسبوعًا"
+    },
+    "material": [
+      {
+        "es": "El tique de la compra o lo que soléis gastar en pan",
+        "va": "El tiquet de la compra o el que acostumeu a gastar en pa",
+        "en": "A shopping receipt, or what you usually spend on bread",
+        "fr": "Le ticket de caisse ou ce que vous dépensez d'habitude en pain",
+        "ar": "إيصال المشتريات أو ما تنفقونه عادةً على الخبز"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Pensad cuánto gastáis en pan en una semana, en euros redondos. Si no lo sabéis, inventadlo: por ejemplo, 9 €.",
+          "va": "Penseu quant gasteu en pa en una setmana, en euros redons. Si no ho sabeu, inventeu-ho: per exemple, 9 €.",
+          "en": "Think about how much you spend on bread in a week, in round euros. If you don't know, make it up: for example, 9 €.",
+          "fr": "Réfléchissez à ce que vous dépensez en pain en une semaine, en euros ronds. Si vous ne savez pas, inventez : par exemple, 9 €.",
+          "ar": "فكّروا كم تنفقون على الخبز في أسبوع، باليورو المدوّر. وإن لم تعرفوا، اخترعوا رقمًا: مثلًا 9 يورو."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Antes de calcular, cada persona dice a ojo cuánto se gastará en 12 semanas. Apuntad todas las estimaciones.",
+          "va": "Abans de calcular, cada persona diu a ull quant es gastarà en 12 setmanes. Apunteu totes les estimacions.",
+          "en": "Before calculating, each person guesses how much will be spent in 12 weeks. Write down all the estimates.",
+          "fr": "Avant de calculer, chaque personne dit à vue d'œil combien on dépensera en 12 semaines. Notez toutes les estimations.",
+          "ar": "قبل الحساب، يقدّر كل شخص كم سيُنفق في 12 أسبوعًا. دوّنوا كل التقديرات."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Ahora, la cuenta: {{9 × 12}} es {{9 × 10 = 90}} más {{9 × 2 = 18}}, es decir, {{90 + 18 = 108}}. Son 108 €.",
+          "va": "Ara, el compte: {{9 × 12}} és {{9 × 10 = 90}} més {{9 × 2 = 18}}, és a dir, {{90 + 18 = 108}}. Són 108 €.",
+          "en": "Now the sum: {{9 × 12}} is {{9 × 10 = 90}} plus {{9 × 2 = 18}}, that is, {{90 + 18 = 108}}. That's 108 €.",
+          "fr": "Maintenant, le calcul : {{9 × 12}}, c'est {{9 × 10 = 90}} plus {{9 × 2 = 18}}, c'est-à-dire {{90 + 18 = 108}}. Ça fait 108 €.",
+          "ar": "الآن الحساب: {{9 × 12}} هي {{9 × 10 = 90}} زائد {{9 × 2 = 18}}، أي {{90 + 18 = 108}}. المجموع 108 يورو."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Qué estimación se ha acercado más? Y, sobre todo, ¿tiene sentido el resultado? 12 semanas son casi 3 meses.",
+          "va": "Quina estimació s'hi ha acostat més? I, sobretot, té sentit el resultat? 12 setmanes són quasi 3 mesos.",
+          "en": "Which estimate came closest? And, above all, does the answer make sense? 12 weeks is almost 3 months.",
+          "fr": "Quelle estimation était la plus proche ? Et surtout, le résultat a-t-il du sens ? 12 semaines, c'est presque 3 mois.",
+          "ar": "أيّ تقدير كان الأقرب؟ والأهم: هل للنتيجة معنى؟ 12 أسبوعًا هي تقريبًا 3 أشهر."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Calculad primero 10 semanas, {{9 × 10 = 90}}, y después añadid las otras 2.",
+      "va": "Calculeu primer 10 setmanes, {{9 × 10 = 90}}, i després afegiu-ne les altres 2.",
+      "en": "First work out 10 weeks, {{9 × 10 = 90}}, and then add the other 2.",
+      "fr": "Calculez d'abord 10 semaines, {{9 × 10 = 90}}, puis ajoutez les 2 autres.",
+      "ar": "احسبوا أولًا 10 أسابيع، {{9 × 10 = 90}}، ثم أضيفوا الأسبوعين الآخرين."
+    },
+    "masDificil": {
+      "es": "Usad el precio con céntimos, como 8,40 € a la semana: pensad en céntimos, {{840 × 12}}, y estimad primero con {{800 × 12}}.",
+      "va": "Feu servir el preu amb cèntims, com ara 8,40 € a la setmana: penseu en cèntims, {{840 × 12}}, i estimeu primer amb {{800 × 12}}.",
+      "en": "Use a price with cents, like 8,40 € a week: think in cents, {{840 × 12}}, and estimate first with {{800 × 12}}.",
+      "fr": "Utilisez un prix avec des centimes, comme 8,40 € par semaine : pensez en centimes, {{840 × 12}}, et estimez d'abord avec {{800 × 12}}.",
+      "ar": "استعملوا سعرًا فيه سنتات، مثل 8,40 يورو في الأسبوع: فكّروا بالسنتات، {{840 × 12}}، وقدّروا أولًا بـ{{800 × 12}}."
+    },
+    "paraQueSirve": {
+      "es": "Estimar antes de calcular le da a cualquier cuenta un «¿cuadra?». Es la mejor forma de pillar un despiste, en el cuaderno y fuera: en la tienda, en un viaje o al ahorrar.",
+      "va": "Estimar abans de calcular dona a qualsevol compte un «quadra?». És la millor manera d'enxampar una distracció, en el quadern i fora: a la botiga, en un viatge o en estalviar.",
+      "en": "Estimating before calculating gives any sum a “does it fit?”. It's the best way to catch a slip, in the notebook and beyond: in a shop, on a trip or when saving.",
+      "fr": "Estimer avant de calculer donne à tout calcul un « est-ce que ça colle ? ». C'est le meilleur moyen d'attraper une étourderie, dans le cahier et ailleurs : au magasin, en voyage ou pour économiser.",
+      "ar": "التقدير قبل الحساب يمنح كل عملية سؤال «هل تتّفق؟». إنه أفضل طريقة لاكتشاف السهو، في الدفتر وخارجه: في المتجر، وفي السفر، وعند الادّخار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En una granja se recogen 48 huevos al día. ¿Cuántos huevos se recogen en 21 días? Primero, a ojo.",
+        "va": "En una granja es repleguen 48 ous al dia. Quants ous es repleguen en 21 dies? Primer, a ull.",
+        "en": "On a farm, 48 eggs are collected every day. How many eggs are collected in 21 days? First, estimate.",
+        "fr": "Dans une ferme, on ramasse 48 œufs par jour. Combien d'œufs ramasse-t-on en 21 jours ? D'abord, à vue d'œil.",
+        "ar": "في مزرعة يُجمع 48 بيضة كل يوم. كم بيضة تُجمع في 21 يومًا؟ أولًا بالتقريب."
+      },
+      "pista": {
+        "es": "Redondea: 48 es casi 50, y 21 es casi 20.",
+        "va": "Arredonix: 48 és quasi 50, i 21 és quasi 20.",
+        "en": "Round them: 48 is almost 50, and 21 is almost 20.",
+        "fr": "Arrondis : 48, c'est presque 50, et 21, c'est presque 20.",
+        "ar": "لنقرّب: 48 تقارب 50، و21 تقارب 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "48 × 21",
+        "resultado": 1008,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A ojo, unos 1000: por ejemplo, {{50 × 20 = 1000}} (otro redondeo cercano también vale). Exactamente son 1008.",
+          "va": "A ull, uns 1000: per exemple, {{50 × 20 = 1000}} (un altre arredoniment pròxim també val). Exactament són 1008.",
+          "en": "Roughly 1000: for example, {{50 × 20 = 1000}} (another close rounding is fine too). Exactly, it's 1008.",
+          "fr": "À vue d'œil, environ 1000 : par exemple, {{50 × 20 = 1000}} (un autre arrondi proche convient aussi). Exactement, ça fait 1008.",
+          "ar": "بالتقريب نحو 1000: مثلًا {{50 × 20 = 1000}} (وأي تقريب قريب آخر يصلح أيضًا). وبالضبط 1008."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de algo que pasa cada día durante unas semanas.",
+        "va": "Inventa'n tu una d'alguna cosa que passa cada dia durant unes setmanes.",
+        "en": "Make one up about something that happens every day for a few weeks.",
+        "fr": "Invente un problème avec quelque chose qui se passe chaque jour pendant quelques semaines.",
+        "ar": "لنخترع مسألة عن شيء يحدث كل يوم لعدة أسابيع."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "La entrada al museo cuesta 14 € y va una clase de 26 personas. ¿Pagarán más o menos de 300 €? ¿Cuánto exactamente?",
+        "va": "L'entrada al museu costa 14 € i hi va una classe de 26 persones. Pagaran més o menys de 300 €? Quant exactament?",
+        "en": "Museum tickets cost 14 € each and a class of 26 people is going. Will they pay more or less than 300 €? How much exactly?",
+        "fr": "L'entrée du musée coûte 14 € et une classe de 26 personnes y va. Paieront-ils plus ou moins de 300 € ? Combien exactement ?",
+        "ar": "ثمن تذكرة المتحف 14 يورو، وسيذهب قسم فيه 26 شخصًا. هل سيدفعون أكثر من 300 يورو أم أقل؟ وكم بالضبط؟"
+      },
+      "pista": {
+        "es": "Redondea: 14 es casi 15 y 26 es casi 25.",
+        "va": "Arredonix: 14 és quasi 15 i 26 és quasi 25.",
+        "en": "Round them: 14 is almost 15 and 26 is almost 25.",
+        "fr": "Arrondis : 14, c'est presque 15, et 26, presque 25.",
+        "ar": "لنقرّب: 14 تقارب 15، و26 تقارب 25."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "14 × 26",
+        "resultado": 364,
+        "unidad": "euros",
+        "texto": {
+          "es": "Más de 300 €: a ojo, por ejemplo, {{15 × 25 = 375}} (otro redondeo cercano también vale). Exactamente pagan 364 €.",
+          "va": "Més de 300 €: a ull, per exemple, {{15 × 25 = 375}} (un altre arredoniment pròxim també val). Exactament paguen 364 €.",
+          "en": "More than 300 €: roughly, for example, {{15 × 25 = 375}} (another close rounding is fine too). Exactly, they pay 364 €.",
+          "fr": "Plus de 300 € : à vue d'œil, par exemple, {{15 × 25 = 375}} (un autre arrondi proche convient aussi). Exactement, ils paient 364 €.",
+          "ar": "أكثر من 300 يورو: بالتقريب مثلًا {{15 × 25 = 375}} (وأي تقريب قريب آخر يصلح أيضًا). وبالضبط يدفعون 364 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de entradas para un grupo, con el precio de cada una.",
+        "va": "Inventa'n tu una d'entrades per a un grup, amb el preu de cadascuna.",
+        "en": "Make one up about tickets for a group, with the price of each one.",
+        "fr": "Invente un problème d'entrées pour un groupe, avec le prix de chacune.",
+        "ar": "لنخترع مسألة عن تذاكر لمجموعة مع ثمن كل تذكرة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Sara calcula {{37 × 19}} y le sale 7030. Sin hacer la cuenta, ¿cómo sabes que algo ha pasado?",
+        "va": "Sara calcula {{37 × 19}} i li ix 7030. Sense fer el compte, com saps que alguna cosa ha passat?",
+        "en": "Sara works out {{37 × 19}} and gets 7030. Without doing the sum, how do you know something has gone wrong?",
+        "fr": "Sara calcule {{37 × 19}} et trouve 7030. Sans faire le calcul, comment sais-tu qu'il s'est passé quelque chose ?",
+        "ar": "تحسب سارة {{37 × 19}} فتحصل على 7030. دون إجراء الحساب، كيف نعرف أن شيئًا ما حدث؟"
+      },
+      "pista": {
+        "es": "Redondea los dos números a la decena y multiplica.",
+        "va": "Arredonix els dos números a la desena i multiplica.",
+        "en": "Round both numbers to the nearest ten and multiply.",
+        "fr": "Arrondis les deux nombres à la dizaine et multiplie.",
+        "ar": "لنقرّب العددين إلى أقرب عشرة ثم نضرب."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 × 20",
+        "resultado": 800,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A ojo, {{40 × 20 = 800}}: saldrá unos cientos, no miles, así que 7030 es demasiado. La cuenta da 703.",
+          "va": "A ull, {{40 × 20 = 800}}: eixirà uns quants centenars, no milers, així que 7030 és massa. El compte dona 703.",
+          "en": "Roughly, {{40 × 20 = 800}}: the answer is in the hundreds, not the thousands, so 7030 is far too much. The sum comes to 703.",
+          "fr": "À vue d'œil, {{40 × 20 = 800}} : ça donne quelques centaines, pas des milliers, donc 7030, c'est beaucoup trop. Le calcul donne 703.",
+          "ar": "بالتقريب {{40 × 20 = 800}}: النتيجة بالمئات لا بالآلاف، إذن 7030 كثير جدًا. والحساب يعطي 703."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación con un resultado que no cuadre, y que alguien de casa descubra el despiste.",
+        "va": "Inventa't una multiplicació amb un resultat que no quadre, i que algú de casa en descobrisca la distracció.",
+        "en": "Make up a multiplication with an answer that doesn't fit, and have someone at home spot the slip.",
+        "fr": "Invente une multiplication avec un résultat qui ne colle pas, et fais trouver l'étourderie à quelqu'un de la maison.",
+        "ar": "لنخترع عملية ضرب نتيجتها لا تتّفق، ونطلب من أحد في البيت أن يكتشف السهو."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 19,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: ¿cuánto es {{4 × 17 × 25}}? Busca el orden más fácil.",
+        "va": "Per a recordar: quant és {{4 × 17 × 25}}? Busca l'ordre més fàcil.",
+        "en": "Let's remember: what is {{4 × 17 × 25}}? Look for the easiest order.",
+        "fr": "Pour se souvenir : combien fait {{4 × 17 × 25}} ? Cherche l'ordre le plus facile.",
+        "ar": "لنتذكّر: كم تساوي {{4 × 17 × 25}}؟ لنبحث عن الترتيب الأسهل."
+      },
+      "pista": {
+        "es": "Empieza por {{4 × 25 = 100}}.",
+        "va": "Comença per {{4 × 25 = 100}}.",
+        "en": "Start with {{4 × 25 = 100}}.",
+        "fr": "Commence par {{4 × 25 = 100}}.",
+        "ar": "لنبدأ بـ{{4 × 25 = 100}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 17 × 25",
+        "resultado": 1700,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Da 1700: {{4 × 25 = 100}} y {{100 × 17 = 1700}}.",
+          "va": "Dona 1700: {{4 × 25 = 100}} i {{100 × 17 = 1700}}.",
+          "en": "It's 1700: {{4 × 25 = 100}} and {{100 × 17 = 1700}}.",
+          "fr": "Ça fait 1700 : {{4 × 25 = 100}} et {{100 × 17 = 1700}}.",
+          "ar": "تساوي 1700: {{4 × 25 = 100}} و{{100 × 17 = 1700}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación de tres números que sea fácil si cambias el orden.",
+        "va": "Inventa't una multiplicació de tres números que siga fàcil si canvies l'ordre.",
+        "en": "Make up a multiplication of three numbers that's easy if you change the order.",
+        "fr": "Invente une multiplication de trois nombres qui devient facile si on change l'ordre.",
+        "ar": "لنخترع عملية ضرب لثلاثة أعداد تصبح سهلة إذا غيّرنا الترتيب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si una multiplicación te da un resultado muy raro, ¿qué haces? Explícame cómo descubres el despiste.",
+        "va": "Si una multiplicació et dona un resultat molt estrany, què fas? Explica'm com descobreixes la distracció.",
+        "en": "If a multiplication gives you a very odd answer, what do you do? Explain how you find the slip.",
+        "fr": "Si une multiplication te donne un résultat très bizarre, que fais-tu ? Explique-moi comment tu trouves l'étourderie.",
+        "ar": "إذا أعطتنا عملية ضرب نتيجة غريبة جدًا، ماذا نفعل؟ اشرح لي أو اشرحي لي كيف نكتشف السهو."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Te acuerdas del pan de 12 semanas? ¿Qué dijisteis antes de hacer la cuenta?»",
+        "va": "Si no sap per on començar: «Te'n recordes del pa de 12 setmanes? Què vau dir abans de fer el compte?»",
+        "en": "If they don't know where to start: “Do you remember twelve weeks of bread? What did we all say before doing the sum?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu te rappelles le pain de 12 semaines ? Qu'avez-vous dit avant de faire le calcul ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل نتذكّر خبز 12 أسبوعًا؟ ماذا قلنا قبل إجراء الحساب؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo que buscáis es que aparezca el «más o menos». Si no aparece, recordadlo vosotros con un ejemplo de casa y preguntad si le serviría.",
+          "va": "El que busqueu és que aparega el «més o menys». Si no apareix, recordeu-lo vosaltres amb un exemple de casa i pregunteu si li serviria.",
+          "en": "What you're looking for is the “roughly” coming up. If it doesn't, bring it up yourselves with an example from home and ask whether it would help.",
+          "fr": "Ce que vous cherchez, c'est que le « à peu près » apparaisse. Sinon, rappelez-le vous-mêmes avec un exemple de la maison et demandez s'il servirait.",
+          "ar": "ما تبحثون عنه هو أن يظهر «التقدير». وإن لم يظهر، ذكّروا به أنتم بمثال من البيت واسألوا إن كان سيفيد."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "c9218a31bd5a"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "c9218a31bd5a"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "c9218a31bd5a"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "c9218a31bd5a"
+      }
+    }
+  }
+}

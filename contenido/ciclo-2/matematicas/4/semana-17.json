@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s17",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 17,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: cartas y dados",
+    "va": "Setmana de recordar: cartes i daus",
+    "en": "Week to remember: cards and dice",
+    "fr": "Semaine pour se souvenir : cartes et dés",
+    "ar": "أسبوع التذكّر: أوراق ونرد"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven al cálculo de cabeza y a todas las tablas con cartas y dados. Suele ser semana de vacaciones: con unos minutos al día es suficiente.",
+    "va": "Aquesta setmana tornen al càlcul mental (cálculo mental) i a totes les taules (tablas) amb cartes i daus. Sol ser setmana de vacances: amb uns minuts al dia n'hi ha prou.",
+    "en": "This week they go back to mental maths (cálculo mental) and all the times tables (tablas) with cards and dice. It's usually a holiday week: a few minutes a day is enough.",
+    "fr": "Cette semaine, on revient au calcul mental (cálculo mental) et à toutes les tables (tablas) avec des cartes et des dés. C'est souvent une semaine de vacances : quelques minutes par jour suffisent.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى الحساب الذهني (cálculo mental) وكل جداول الضرب (tablas) بالأوراق والنرد. غالبًا ما يكون أسبوع عطلة: تكفي بضع دقائق في اليوم."
+  },
+  "comoAyudar": {
+    "es": "Antes de poner el cronómetro, jugad una ronda tranquila. Si el récord no se mejora, contad las parejas que han salido sin dudar: eso también es mejorar.",
+    "va": "Abans de posar el cronòmetre, jugueu una ronda tranquil·la. Si el rècord no es millora, compteu les parelles que han eixit sense dubtar: això també és millorar.",
+    "en": "Before starting the stopwatch, play a calm round. If the record isn't beaten, count the pairs that came out without hesitating: that's getting better too.",
+    "fr": "Avant de lancer le chrono, jouez un tour tranquille. Si le record n'est pas battu, comptez les paires sorties sans hésiter : ça aussi, c'est s'améliorer.",
+    "ar": "قبل تشغيل المؤقّت، العبوا جولة هادئة. وإذا لم يتحسّن الرقم القياسي، عدّوا الأزواج التي خرجت دون تردّد: هذا أيضًا تحسّن."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cartas rápidas con todas las tablas",
+      "va": "Cartes ràpides amb totes les taules",
+      "en": "Quick cards with all the times tables",
+      "fr": "Cartes rapides avec toutes les tables",
+      "ar": "أوراق سريعة مع كل جداول الضرب"
+    },
+    "material": [
+      {
+        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
+        "en": "A pack of cards (or cards from 1 to 10 made of paper)",
+        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+      },
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina stopwatch",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت جيرمينا"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Quitad las figuras y dejad las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Lleveu les figures i deixeu les cartes de l'1 al 10. Barregeu-les i poseu-les cap per avall en un munt.",
+          "en": "Take out the picture cards and keep the cards from 1 to 10. Shuffle them and put them face down in a pile.",
+          "fr": "Retirez les figures et gardez les cartes de 1 à 10. Mélangez-les et posez-les face cachée en un tas.",
+          "ar": "أخرجوا الصور واتركوا الأوراق من 1 إلى 10. اخلطوها وضعوها مقلوبة في كومة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Para calentar, sin reloj: dad la vuelta a dos cartas y decid el producto. Si alguno se resiste, usad un truco: {{6 × 8}} es el doble de {{3 × 8 = 24}}.",
+          "va": "Per a escalfar, sense rellotge: gireu dues cartes i digueu el producte. Si algun es resistix, feu servir un truc: {{6 × 8}} és el doble de {{3 × 8 = 24}}.",
+          "en": "To warm up, without the clock: turn over two cards and say the product. If one is tricky, use a trick: {{6 × 8}} is double {{3 × 8 = 24}}.",
+          "fr": "Pour s'échauffer, sans chrono : retournez deux cartes et dites le produit. Si l'un d'eux résiste, utilisez une astuce : {{6 × 8}}, c'est le double de {{3 × 8 = 24}}.",
+          "ar": "للإحماء، بلا مؤقّت: اقلبوا ورقتين وقولوا حاصل الضرب. وإذا استعصى أحدها، استعملوا حيلة: {{6 × 8}} هو ضعف {{3 × 8 = 24}}."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Con el cronómetro en 2 minutos: una persona da la vuelta a dos cartas a la vez y la otra dice el producto. Si una pareja se resiste, se dice «paso» y se deja a un lado.",
+          "va": "Amb el cronòmetre en 2 minuts: una persona gira dues cartes alhora i l'altra diu el producte. Si una parella es resistix, es diu «passe» i es deixa a banda.",
+          "en": "With the stopwatch at 2 minutes: one person turns over two cards at a time and the other says the product. If a pair is tricky, say “pass” and put it to one side.",
+          "fr": "Avec le chrono sur 2 minutes : une personne retourne deux cartes à la fois et l'autre dit le produit. Si une paire résiste, on dit « je passe » et on la met de côté.",
+          "ar": "مع ضبط المؤقّت على دقيقتين: يقلب شخص ورقتين معًا ويقول الآخر حاصل الضرب. وإذا استعصى زوج، نقول «أتجاوز» ونضعه جانبًا."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Contad las parejas acertadas y miradlo junto al récord de la semana 11, si lo apuntasteis. Las que se dejaron a un lado, miradlas juntos con calma.",
+          "va": "Compteu les parelles encertades i mireu-ho al costat del rècord de la setmana 11, si el vau apuntar. Les que es van deixar a banda, mireu-les junts amb calma.",
+          "en": "Count the pairs you got right and look at it next to the record from week 11, if you wrote it down. Look calmly together at the ones you put to one side.",
+          "fr": "Comptez les paires trouvées et regardez-les à côté du record de la semaine 11, si vous l'avez noté. Celles qui ont été mises de côté, regardez-les ensemble tranquillement.",
+          "ar": "عدّوا الأزواج الصحيحة وانظروا إليها بجانب الرقم القياسي للأسبوع 11، إن كنتم دوّنتموه. أمّا التي وُضعت جانبًا، فانظروا إليها معًا بهدوء."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Quitad las cartas del 7, del 8 y del 9 y jugad con las demás.",
+      "va": "Lleveu les cartes del 7, del 8 i del 9 i jugueu amb les altres.",
+      "en": "Take out the 7, 8 and 9 cards and play with the rest.",
+      "fr": "Retirez les cartes 7, 8 et 9 et jouez avec les autres.",
+      "ar": "أخرجوا أوراق 7 و8 و9 والعبوا بالباقي."
+    },
+    "masDificil": {
+      "es": "Dad la vuelta a una sola carta y multiplicadla por 11 o por 12. O multiplicad dos cartas y restad una tercera.",
+      "va": "Gireu una sola carta i multipliqueu-la per 11 o per 12. O multipliqueu dues cartes i resteu-ne una tercera.",
+      "en": "Turn over just one card and multiply it by 11 or 12. Or multiply two cards and subtract a third.",
+      "fr": "Retournez une seule carte et multipliez-la par 11 ou par 12. Ou multipliez deux cartes et soustrayez une troisième.",
+      "ar": "اقلبوا ورقة واحدة واضربوها في 11 أو 12. أو اضربوا ورقتين واطرحوا ورقة ثالثة."
+    },
+    "paraQueSirve": {
+      "es": "Volver a las tablas unas semanas después ayuda a que se queden para siempre. Y tenerlas a mano deja la cabeza libre para lo que viene: multiplicar por dos cifras.",
+      "va": "Tornar a les taules unes setmanes després ajuda que es queden per sempre. I tindre-les a mà deixa el cap lliure per al que ve: multiplicar per dues xifres.",
+      "en": "Coming back to the times tables a few weeks later helps them stick for good. And having them to hand frees the mind for what's coming next: multiplying by two-digit numbers.",
+      "fr": "Revenir aux tables quelques semaines plus tard aide à les garder pour toujours. Et les avoir sous la main laisse la tête libre pour la suite : multiplier par deux chiffres.",
+      "ar": "العودة إلى جداول الضرب بعد بضعة أسابيع تساعد على ترسيخها إلى الأبد. ومعرفتها جيدًا تترك الذهن حرًّا لما سيأتي: الضرب في عدد من رقمين."
+    },
+    "rapidez": {
+      "segundos": 120,
+      "seCuenta": {
+        "es": "parejas de cartas acertadas",
+        "va": "parelles de cartes encertades",
+        "en": "pairs of cards you got right",
+        "fr": "paires de cartes trouvées",
+        "ar": "أزواج الأوراق الصحيحة"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En un teatro hay 9 filas de 8 butacas. ¿Cuántas butacas hay?",
+        "va": "En un teatre hi ha 9 files de 8 butaques. Quantes butaques hi ha?",
+        "en": "A theatre has 9 rows of 8 seats. How many seats are there?",
+        "fr": "Dans un théâtre, il y a 9 rangées de 8 fauteuils. Combien y a-t-il de fauteuils ?",
+        "ar": "في مسرح 9 صفوف في كل منها 8 مقاعد. كم مقعدًا هناك؟"
+      },
+      "pista": {
+        "es": "{{10 × 8 = 80}}, y quita una fila de 8.",
+        "va": "{{10 × 8 = 80}}, i lleva una fila de 8.",
+        "en": "{{10 × 8 = 80}}, then take away one row of 8.",
+        "fr": "{{10 × 8 = 80}}, puis enlève une rangée de 8.",
+        "ar": "{{10 × 8 = 80}}، ثم لنطرح صفًّا من 8."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 × 8",
+        "resultado": 72,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 72 butacas: {{80 − 8 = 72}}.",
+          "va": "Hi ha 72 butaques: {{80 − 8 = 72}}.",
+          "en": "There are 72 seats: {{80 − 8 = 72}}.",
+          "fr": "Il y a 72 fauteuils : {{80 − 8 = 72}}.",
+          "ar": "هناك 72 مقعدًا: {{80 − 8 = 72}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de la tabla del 9 y resuélvela con el truco de «por 10 y quitar una vez».",
+        "va": "Inventa'n tu una de la taula del 9 i resol-la amb el truc de «per 10 i llevar una vegada».",
+        "en": "Make up a 9 times table one and work it out with the “times 10 and take one away” trick.",
+        "fr": "Invente un problème de la table de 9 et trouve la réponse avec l'astuce « fois 10 et on enlève une fois ».",
+        "ar": "لنخترع مسألة من جدول 9 ونحلّها بحيلة «في 10 ثم نطرح مرة»."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Cada semana, en casa de Leo se compran 7 barras de pan. ¿Cuántas barras se compran en 6 semanas?",
+        "va": "Cada setmana, a casa de Leo es compren 7 barres de pa. Quantes barres es compren en 6 setmanes?",
+        "en": "Every week, Leo's family buys 7 loaves of bread. How many loaves do they buy in 6 weeks?",
+        "fr": "Chaque semaine, chez Leo, on achète 7 baguettes. Combien de baguettes achète-t-on en 6 semaines ?",
+        "ar": "في كل أسبوع، تشتري عائلة ليو 7 أرغفة خبز. كم رغيفًا تشتري في 6 أسابيع؟"
+      },
+      "pista": {
+        "es": "{{6 × 7}} es el doble de {{3 × 7 = 21}}.",
+        "va": "{{6 × 7}} és el doble de {{3 × 7 = 21}}.",
+        "en": "{{6 × 7}} is double {{3 × 7 = 21}}.",
+        "fr": "{{6 × 7}}, c'est le double de {{3 × 7 = 21}}.",
+        "ar": "{{6 × 7}} هو ضعف {{3 × 7 = 21}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 7",
+        "resultado": 42,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se compran 42 barras.",
+          "va": "Se'n compren 42.",
+          "en": "They buy 42 loaves.",
+          "fr": "On achète 42 baguettes.",
+          "ar": "تشتري 42 رغيفًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de algo que se compra cada semana en tu casa.",
+        "va": "Inventa'n tu una d'alguna cosa que es compra cada setmana a casa.",
+        "en": "Make one up about something your family buys every week.",
+        "fr": "Invente un problème avec quelque chose qu'on achète chaque semaine chez toi.",
+        "ar": "لنخترع مسألة عن شيء يُشترى كل أسبوع في بيتنا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una caja de bombones tiene 6 filas de 6. ¿Cuántos bombones hay?",
+        "va": "Una capsa de bombons té 6 files de 6. Quants bombons hi ha?",
+        "en": "A box of chocolates has 6 rows of 6. How many chocolates are there?",
+        "fr": "Une boîte de chocolats a 6 rangées de 6. Combien y a-t-il de chocolats ?",
+        "ar": "في علبة الشوكولاتة 6 صفوف في كل منها 6. كم قطعة شوكولاتة هناك؟"
+      },
+      "pista": {
+        "es": "{{5 × 6 = 30}}, y suma una fila más.",
+        "va": "{{5 × 6 = 30}}, i suma una fila més.",
+        "en": "{{5 × 6 = 30}}, then add one more row.",
+        "fr": "{{5 × 6 = 30}}, puis ajoute une rangée de plus.",
+        "ar": "{{5 × 6 = 30}}، ثم لنضف صفًّا آخر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 6",
+        "resultado": 36,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 36 bombones.",
+          "va": "Hi ha 36 bombons.",
+          "en": "There are 36 chocolates.",
+          "fr": "Il y a 36 chocolats.",
+          "ar": "هناك 36 قطعة شوكولاتة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de una caja con las mismas filas que columnas.",
+        "va": "Inventa'n tu una d'una capsa amb les mateixes files que columnes.",
+        "en": "Make one up about a box with as many rows as columns.",
+        "fr": "Invente un problème avec une boîte qui a autant de rangées que de colonnes.",
+        "ar": "لنخترع مسألة عن علبة عدد صفوفها يساوي عدد أعمدتها."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: un tren tiene 8 vagones de 48 asientos. ¿Cuántos asientos hay, más o menos: cerca de 200, de 400 o de 800?",
+        "va": "Per a recordar: un tren té 8 vagons de 48 seients. Quants seients hi ha, més o menys: prop de 200, de 400 o de 800?",
+        "en": "Let's remember: a train has 8 carriages with 48 seats each. About how many seats are there: close to 200, 400 or 800?",
+        "fr": "Pour se souvenir : un train a 8 wagons de 48 places. Combien y a-t-il de places, à peu près : près de 200, de 400 ou de 800 ?",
+        "ar": "لنتذكّر: للقطار 8 عربات في كل منها 48 مقعدًا. كم مقعدًا تقريبًا: قرابة 200 أم 400 أم 800؟"
+      },
+      "pista": {
+        "es": "48 está muy cerca de 50.",
+        "va": "48 està molt prop de 50.",
+        "en": "48 is very close to 50.",
+        "fr": "48 est très proche de 50.",
+        "ar": "العدد 48 قريب جدًا من 50."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 50",
+        "resultado": 400,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Cerca de 400: 48 es casi 50, y {{8 × 50 = 400}}.",
+          "va": "Prop de 400: 48 és quasi 50, i {{8 × 50 = 400}}.",
+          "en": "Close to 400: 48 is almost 50, and {{8 × 50 = 400}}.",
+          "fr": "Près de 400 : 48, c'est presque 50, et {{8 × 50 = 400}}.",
+          "ar": "قرابة 400: العدد 48 يقارب 50، و{{8 × 50 = 400}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para calcular a ojo con un número cercano a 50 o a 100.",
+        "va": "Inventa'n tu una per a calcular a ull amb un número pròxim a 50 o a 100.",
+        "en": "Make one up to estimate with a number close to 50 or 100.",
+        "fr": "Invente un problème à calculer à vue d'œil avec un nombre proche de 50 ou de 100.",
+        "ar": "لنخترع مسألة نحسبها بالتقريب بعدد قريب من 50 أو 100."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué tabla te ha costado más este trimestre? Explícame el truco que usas para ella.",
+        "va": "Quina taula t'ha costat més aquest trimestre? Explica'm el truc que fas servir per a ella.",
+        "en": "Which times table has been hardest for you this term? Explain the trick you use for it.",
+        "fr": "Quelle table t'a coûté le plus ce trimestre ? Explique-moi l'astuce que tu utilises pour elle.",
+        "ar": "أي جدول ضرب كان الأصعب علينا هذا الفصل؟ اشرح لي أو اشرحي لي الحيلة التي نستعملها له."
+      },
+      "pista": {
+        "es": "Si no sabe qué decir: «¿Cómo calculas {{7 × 8}}? ¿Y {{9 × 6}}?»",
+        "va": "Si no sap què dir: «Com calcules {{7 × 8}}? I {{9 × 6}}?»",
+        "en": "If they don't know what to say: “How do you work out {{7 × 8}}? And {{9 × 6}}?”",
+        "fr": "S'il ou elle ne sait pas quoi dire : « Comment calcules-tu {{7 × 8}} ? Et {{9 × 6}} ? »",
+        "ar": "إن لم تكن هناك فكرة، اسألوا: «كيف نحسب {{7 × 8}}؟ و{{9 × 6}}؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier truco vale si funciona. Pedid que os lo enseñe con una carta y probadlo vosotros también.",
+          "va": "Qualsevol truc val si funciona. Demaneu que us l'ensenye amb una carta i proveu-lo vosaltres també.",
+          "en": "Any trick is fine if it works. Ask them to show you with a card and try it out yourselves too.",
+          "fr": "Toute astuce convient si elle marche. Demandez qu'on vous la montre avec une carte et essayez-la vous aussi.",
+          "ar": "أي حيلة تصلح إن كانت تنجح. اطلبوا أن تُعرض عليكم بورقة وجرّبوها أنتم أيضًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "dc08805a98a5"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "dc08805a98a5"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "dc08805a98a5"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "dc08805a98a5"
+      }
+    }
+  }
+}

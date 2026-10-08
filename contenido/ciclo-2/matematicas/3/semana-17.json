@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s17",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 17,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: cartas y dados",
+    "va": "Setmana de recordar: cartes i daus",
+    "en": "Week to remember: cards and dice",
+    "fr": "Semaine pour se souvenir : cartes et dés",
+    "ar": "أسبوع التذكّر: أوراق ونرد"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven al cálculo de cabeza y a las tablas del 2, del 5 y del 10 con cartas y dados. Suele ser semana de vacaciones: con unos minutos al día es suficiente.",
+    "va": "Aquesta setmana tornen al càlcul mental (cálculo mental) i a les taules (tablas) del 2, del 5 i del 10 amb cartes i daus. Sol ser setmana de vacances: amb uns minuts al dia n'hi ha prou.",
+    "en": "This week they go back to mental maths (cálculo mental) and the 2, 5 and 10 times tables (tablas) with cards and dice. It's usually a holiday week: a few minutes a day is enough.",
+    "fr": "Cette semaine, on revient au calcul mental (cálculo mental) et aux tables (tablas) de 2, de 5 et de 10 avec des cartes et des dés. C'est souvent une semaine de vacances : quelques minutes par jour suffisent.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى الحساب الذهني (cálculo mental) وجداول ضرب (tablas) 2 و5 و10 بالأوراق والنرد. غالبًا ما يكون أسبوع عطلة: تكفي بضع دقائق في اليوم."
+  },
+  "comoAyudar": {
+    "es": "Si el récord no se mejora, no pasa nada: contad las cartas que han salido sin dudar y celebradlo. Lo que cuenta es acertar con calma, no correr.",
+    "va": "Si el rècord no es millora, no passa res: compteu les cartes que han eixit sense dubtar i celebreu-ho. El que compta és encertar amb calma, no córrer.",
+    "en": "If the record isn't beaten, that's fine: count the cards that came out without hesitating and celebrate that. What matters is getting them right calmly, not rushing.",
+    "fr": "Si le record n'est pas battu, ce n'est pas grave : comptez les cartes qui sont sorties sans hésiter et fêtez-le. Ce qui compte, c'est de trouver avec calme, pas de courir.",
+    "ar": "إذا لم يتحسّن الرقم القياسي فلا بأس: عدّوا الأوراق التي خرجت دون تردّد واحتفلوا بها. المهم الإجابة الصحيحة بهدوء، لا السرعة."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cartas rápidas del 2, del 5 y del 10",
+      "va": "Cartes ràpides del 2, del 5 i del 10",
+      "en": "Quick cards with 2, 5 and 10",
+      "fr": "Cartes rapides avec 2, 5 et 10",
+      "ar": "أوراق سريعة مع 2 و5 و10"
+    },
+    "material": [
+      {
+        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
+        "en": "A pack of cards (or cards from 1 to 10 made of paper)",
+        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+      },
+      {
+        "es": "Un dado",
+        "va": "Un dau",
+        "en": "A die",
+        "fr": "Un dé",
+        "ar": "نرد"
+      },
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina stopwatch",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت جيرمينا"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Quitad las figuras y dejad las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Lleveu les figures i deixeu les cartes de l'1 al 10. Barregeu-les i poseu-les cap per avall en un munt.",
+          "en": "Take out the picture cards and keep the cards from 1 to 10. Shuffle them and put them face down in a pile.",
+          "fr": "Retirez les figures et gardez les cartes de 1 à 10. Mélangez-les et posez-les face cachée en un tas.",
+          "ar": "أخرجوا الصور واتركوا الأوراق من 1 إلى 10. اخلطوها وضعوها مقلوبة في كومة."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Tirad el dado para saber con qué tabla se juega: si sale 1 o 2, la del 2; si sale 3 o 4, la del 5; y si sale 5 o 6, la del 10.",
+          "va": "Tireu el dau per a saber amb quina taula es juga: si ix 1 o 2, la del 2; si ix 3 o 4, la del 5; i si ix 5 o 6, la del 10.",
+          "en": "Roll the die to find out which table you're playing with: 1 or 2 means the 2 times table; 3 or 4, the 5 times table; and 5 or 6, the 10 times table.",
+          "fr": "Lancez le dé pour savoir avec quelle table on joue : 1 ou 2, la table de 2 ; 3 ou 4, celle de 5 ; et 5 ou 6, celle de 10.",
+          "ar": "ارموا النرد لتعرفوا بأي جدول نلعب: إذا ظهر 1 أو 2 فجدول 2، وإذا ظهر 3 أو 4 فجدول 5، وإذا ظهر 5 أو 6 فجدول 10."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Con el cronómetro en 2 minutos: una persona da la vuelta a las cartas y la otra multiplica cada una por el número de la tabla, como {{5 × 8 = 40}}. Cada carta acertada va a un montón aparte.",
+          "va": "Amb el cronòmetre en 2 minuts: una persona gira les cartes i l'altra multiplica cadascuna pel número de la taula, com ara {{5 × 8 = 40}}. Cada carta encertada va a un munt a part.",
+          "en": "With the stopwatch at 2 minutes: one person turns the cards over and the other multiplies each one by the table's number, like {{5 × 8 = 40}}. Each card they get right goes on a separate pile.",
+          "fr": "Avec le chrono sur 2 minutes : une personne retourne les cartes et l'autre multiplie chacune par le nombre de la table, comme {{5 × 8 = 40}}. Chaque carte trouvée va sur un tas à part.",
+          "ar": "مع ضبط المؤقّت على دقيقتين: يقلب شخص الأوراق ويضرب الآخر كل ورقة في عدد الجدول، مثل {{5 × 8 = 40}}. كل ورقة صحيحة توضع في كومة منفصلة."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Contad las cartas acertadas y miradlo junto al récord de la semana 13, si lo apuntasteis. Las cartas que se han resistido, miradlas juntos con calma al acabar.",
+          "va": "Compteu les cartes encertades i mireu-ho al costat del rècord de la setmana 13, si el vau apuntar. Les cartes que s'han resistit, mireu-les junts amb calma en acabar.",
+          "en": "Count the cards you got right and look at it next to the record from week 13, if you wrote it down. Look at the tricky cards together calmly at the end.",
+          "fr": "Comptez les cartes trouvées et regardez-les à côté du record de la semaine 13, si vous l'avez noté. Les cartes qui ont résisté, regardez-les ensemble tranquillement à la fin.",
+          "ar": "عدّوا الأوراق الصحيحة وانظروا إليها بجانب الرقم القياسي للأسبوع 13، إن كنتم دوّنتموه. أمّا الأوراق التي استعصت، فانظروا إليها معًا بهدوء في النهاية."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad solo con la tabla del 2 o con la del 10, y las primeras veces, sin cronómetro.",
+      "va": "Jugueu només amb la taula del 2 o amb la del 10 i, les primeres vegades, sense cronòmetre.",
+      "en": "Play only with the 2 or the 10 times table and, the first few times, without the stopwatch.",
+      "fr": "Jouez seulement avec la table de 2 ou celle de 10 et, les premières fois, sans chrono.",
+      "ar": "العبوا بجدول 2 أو جدول 10 فقط، وفي المرات الأولى بلا مؤقّت."
+    },
+    "masDificil": {
+      "es": "Tirad el dado en cada carta, no solo al principio: así la tabla cambia cada vez.",
+      "va": "Tireu el dau en cada carta, no només al principi: així la taula canvia cada vegada.",
+      "en": "Roll the die for every card, not just at the start: that way the table changes each time.",
+      "fr": "Lancez le dé à chaque carte, pas seulement au début : comme ça, la table change à chaque fois.",
+      "ar": "ارموا النرد مع كل ورقة، لا في البداية فقط: هكذا يتغيّر الجدول في كل مرة."
+    },
+    "paraQueSirve": {
+      "es": "Volver a las mismas tablas unas semanas después ayuda a que se queden para siempre. Y notar que ahora salen más fácil que la otra vez anima mucho.",
+      "va": "Tornar a les mateixes taules unes setmanes després ajuda que es queden per sempre. I notar que ara ixen més fàcilment que l'altra vegada anima molt.",
+      "en": "Coming back to the same times tables a few weeks later helps them stick for good. And noticing they come more easily than last time is very encouraging.",
+      "fr": "Revenir aux mêmes tables quelques semaines plus tard aide à les garder pour toujours. Et remarquer qu'elles viennent plus facilement que la dernière fois, ça encourage beaucoup.",
+      "ar": "العودة إلى الجداول نفسها بعد بضعة أسابيع تساعد على ترسيخها إلى الأبد. وملاحظة أنها صارت أسهل من المرة السابقة تشجّع كثيرًا."
+    },
+    "rapidez": {
+      "segundos": 120,
+      "seCuenta": {
+        "es": "cartas acertadas",
+        "va": "cartes encertades",
+        "en": "cards you got right",
+        "fr": "cartes trouvées",
+        "ar": "الأوراق الصحيحة"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Daniel tiene 8 monedas de 5 céntimos. ¿Cuántos céntimos tiene?",
+        "va": "Daniel té 8 monedes de 5 cèntims. Quants cèntims té?",
+        "en": "Daniel has 8 five-cent coins. How many cents does he have?",
+        "fr": "Daniel a 8 pièces de 5 centimes. Combien de centimes a-t-il ?",
+        "ar": "عند دانيال 8 قطع نقدية من فئة 5 سنتات. كم سنتًا عنده؟"
+      },
+      "pista": {
+        "es": "Cuenta de 5 en 5, una vez por moneda: 5, 10, 15…",
+        "va": "Compta de 5 en 5, una vegada per moneda: 5, 10, 15…",
+        "en": "Count in 5s, once for each coin: 5, 10, 15…",
+        "fr": "Compte de 5 en 5, une fois par pièce : 5, 10, 15…",
+        "ar": "لنعدّ خمسة خمسة، مرة لكل قطعة: 5، 10، 15…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 5",
+        "resultado": 40,
+        "unidad": "cent",
+        "texto": {
+          "es": "Tiene 40 céntimos: {{8 × 5 = 40}}.",
+          "va": "Té 40 cèntims: {{8 × 5 = 40}}.",
+          "en": "He has 40 cents: {{8 × 5 = 40}}.",
+          "fr": "Il a 40 centimes : {{8 × 5 = 40}}.",
+          "ar": "عنده 40 سنتًا: {{8 × 5 = 40}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con monedas de 5 céntimos o de 10 céntimos.",
+        "va": "Inventa'n tu una amb monedes de 5 cèntims o de 10 cèntims.",
+        "en": "Make one up with five-cent or ten-cent coins.",
+        "fr": "Invente un problème avec des pièces de 5 ou de 10 centimes.",
+        "ar": "لنخترع مسألة بقطع نقدية من فئة 5 سنتات أو 10 سنتات."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para la cena se ponen 9 platos y 2 servilletas en cada uno. ¿Cuántas servilletas hacen falta?",
+        "va": "Per al sopar es posen 9 plats i 2 tovalloles en cadascun. Quantes tovalloles calen?",
+        "en": "For dinner, 9 plates are set out with 2 napkins on each. How many napkins are needed?",
+        "fr": "Pour le dîner, on met 9 assiettes et 2 serviettes sur chacune. De combien de serviettes a-t-on besoin ?",
+        "ar": "للعشاء نضع 9 صحون وعلى كل صحن منديلان. كم منديلًا نحتاج؟"
+      },
+      "pista": {
+        "es": "Es el doble de 9: 9 y 9.",
+        "va": "És el doble de 9: 9 i 9.",
+        "en": "It's double 9: 9 and 9.",
+        "fr": "C'est le double de 9 : 9 et 9.",
+        "ar": "إنه ضعف 9: أي 9 و9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 × 2",
+        "resultado": 18,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hacen falta 18 servilletas.",
+          "va": "Calen 18 tovalloles.",
+          "en": "18 napkins are needed.",
+          "fr": "On a besoin de 18 serviettes.",
+          "ar": "نحتاج 18 منديلًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de dobles con cosas que se ponen en la mesa.",
+        "va": "Inventa'n tu una de dobles amb coses que es posen a taula.",
+        "en": "Make up a doubles one with things you put on the table.",
+        "fr": "Invente un problème de doubles avec des choses qu'on met sur la table.",
+        "ar": "لنخترع مسألة أضعاف بأشياء نضعها على المائدة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un paquete trae 10 pegatinas. ¿Cuántas pegatinas hay en 7 paquetes?",
+        "va": "Un paquet porta 10 adhesius. Quants adhesius hi ha en 7 paquets?",
+        "en": "A packet has 10 stickers. How many stickers are there in 7 packets?",
+        "fr": "Un paquet contient 10 autocollants. Combien d'autocollants y a-t-il dans 7 paquets ?",
+        "ar": "في العلبة 10 ملصقات. كم ملصقًا في 7 علب؟"
+      },
+      "pista": {
+        "es": "Al multiplicar por 10, al número le sale un 0 detrás: el 7 se convierte en 70.",
+        "va": "En multiplicar per 10, al número li ix un 0 darrere: el 7 es converteix en 70.",
+        "en": "When you multiply by 10, the number gets a 0 on the end: 7 becomes 70.",
+        "fr": "Quand on multiplie par 10, le nombre gagne un 0 à la fin : 7 devient 70.",
+        "ar": "عند الضرب في 10 يظهر 0 بعد العدد: يصير 7 هو 70."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 10",
+        "resultado": 70,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 70 pegatinas.",
+          "va": "Hi ha 70 adhesius.",
+          "en": "There are 70 stickers.",
+          "fr": "Il y a 70 autocollants.",
+          "ar": "هناك 70 ملصقًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de paquetes que traigan 10 cosas.",
+        "va": "Inventa'n tu una de paquets que porten 10 coses.",
+        "en": "Make one up about packets that hold 10 things.",
+        "fr": "Invente un problème avec des paquets de 10 choses.",
+        "ar": "لنخترع مسألة عن علب فيها 10 أشياء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: en un tren van 340 personas y en una estación suben 100 más. ¿Cuántas van ahora?",
+        "va": "Per a recordar: en un tren van 340 persones i en una estació en pugen 100 més. Quantes en van ara?",
+        "en": "Let's remember: there are 340 people on a train and 100 more get on at a station. How many are on it now?",
+        "fr": "Pour se souvenir : dans un train, il y a 340 personnes et 100 de plus montent à une gare. Combien y en a-t-il maintenant ?",
+        "ar": "لنتذكّر: في قطار 340 شخصًا، وصعد 100 آخرون في محطة. كم شخصًا فيه الآن؟"
+      },
+      "pista": {
+        "es": "Solo cambian las centenas: 3 centenas y 1 más son 4 centenas.",
+        "va": "Només canvien les centenes: 3 centenes i 1 més són 4 centenes.",
+        "en": "Only the hundreds change: 3 hundreds and 1 more make 4 hundreds.",
+        "fr": "Seules les centaines changent : 3 centaines et 1 de plus font 4 centaines.",
+        "ar": "تتغيّر المئات فقط: 3 مئات ومئة أخرى تساوي 4 مئات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "340 + 100",
+        "resultado": 440,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora van 440 personas.",
+          "va": "Ara en van 440.",
+          "en": "There are 440 people on it now.",
+          "fr": "Maintenant, il y a 440 personnes.",
+          "ar": "فيه الآن 440 شخصًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se sume 100 de cabeza.",
+        "va": "Inventa'n tu una en què se sume 100 de cap.",
+        "en": "Make one up where you add 100 in your head.",
+        "fr": "Invente un problème où l'on ajoute 100 de tête.",
+        "ar": "لنخترع مسألة نجمع فيها 100 ذهنيًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué tabla te sale más fácil, la del 2, la del 5 o la del 10? Explícame por qué.",
+        "va": "Quina taula t'ix més fàcil, la del 2, la del 5 o la del 10? Explica'm per què.",
+        "en": "Which table comes most easily to you, the 2, the 5 or the 10? Explain to me why.",
+        "fr": "Quelle table te vient le plus facilement, celle de 2, de 5 ou de 10 ? Explique-moi pourquoi.",
+        "ar": "أي جدول أسهل علينا: جدول 2 أم 5 أم 10؟ اشرح لي أو اشرحي لي لماذا."
+      },
+      "pista": {
+        "es": "Si no sabe qué decir: «¿En cuál ves un truco? ¿En cuál acaban siempre igual los números?»",
+        "va": "Si no sap què dir: «En quina veus un truc? En quina acaben sempre igual els números?»",
+        "en": "If they don't know what to say: “In which one do you see a trick? In which one do the numbers always end the same way?”",
+        "fr": "S'il ou elle ne sait pas quoi dire : « Dans laquelle vois-tu une astuce ? Dans laquelle les nombres finissent-ils toujours pareil ? »",
+        "ar": "إن لم تكن هناك فكرة، اسألوا: «في أي جدول نرى حيلة؟ وفي أيّها تنتهي الأعداد دائمًا بالطريقة نفسها؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier respuesta sirve. Si cuenta un truco, pedid que os lo enseñe con una carta de la baraja.",
+          "va": "Qualsevol resposta servix. Si conta un truc, demaneu que us l'ensenye amb una carta de la baralla.",
+          "en": "Any answer is fine. If they share a trick, ask them to show you with a card from the pack.",
+          "fr": "Toute réponse convient. Si une astuce apparaît, demandez qu'on vous la montre avec une carte du jeu.",
+          "ar": "أي إجابة تصلح. وإذا ذُكرت حيلة، اطلبوا أن تُعرض عليكم بورقة من المجموعة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "0ac6b22f90b7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "0ac6b22f90b7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "0ac6b22f90b7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "0ac6b22f90b7"
+      }
+    }
+  }
+}

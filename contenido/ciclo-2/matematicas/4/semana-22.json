@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s22",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 22,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: multiplicar",
+    "va": "Setmana de recordar: multiplicar",
+    "en": "Week to remember: multiplying",
+    "fr": "Semaine pour se souvenir : multiplier",
+    "ar": "أسبوع التذكّر: الضرب"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a multiplicar por una y por dos cifras, a cambiar el orden para calcular mejor, a estimar y a contar combinaciones. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a multiplicar per una i per dues xifres, a canviar l'ordre per a calcular millor, a estimar i a comptar combinacions. No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to multiplying by one and two-digit numbers, changing the order to calculate more easily, estimating and counting combinations. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient à la multiplication par un et par deux chiffres, à l'ordre qu'on change pour mieux calculer, à l'estimation et aux combinaisons. Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى الضرب في عدد من رقم ومن رقمين، وإلى تغيير الترتيب لنحسب بسهولة، وإلى التقدير، وعدّ التركيبات. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Jugad a llenar todos los cartones entre todos, no a ver quién gana. Si alguien duda con una multiplicación, que diga en voz alta cómo la piensa: así aprende todo el mundo.",
+    "va": "Jugueu a omplir tots els cartons entre tots, no a veure qui guanya. Si algú dubta amb una multiplicació, que diga en veu alta com la pensa: així aprén tothom.",
+    "en": "Play at filling all the cards together, not at seeing who wins. If someone isn't sure about a multiplication, have them say out loud how they're thinking: that way everyone learns.",
+    "fr": "Jouez à remplir tous les cartons ensemble, pas à voir qui gagne. Si quelqu'un hésite sur une multiplication, qu'il ou elle dise à voix haute comment il ou elle la pense : comme ça, tout le monde apprend.",
+    "ar": "العبوا لملء كل البطاقات معًا، لا لمعرفة من يفوز. وإذا تردّد أحدكم في عملية ضرب، فليقل بصوت عالٍ كيف يفكّر فيها: هكذا يتعلّم الجميع."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.propiedades"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Bingo de productos",
+      "va": "Bingo de productes",
+      "en": "Product bingo",
+      "fr": "Le loto des produits",
+      "ar": "بينغو حواصل الضرب"
+    },
+    "material": [
+      {
+        "es": "Papel o cartulina para los cartones",
+        "va": "Paper o cartolina per als cartons",
+        "en": "Paper or card for the bingo cards",
+        "fr": "Du papier ou du bristol pour les cartons",
+        "ar": "ورق أو ورق مقوّى للبطاقات"
+      },
+      {
+        "es": "Legumbres, botones o trocitos de papel para tapar",
+        "va": "Llegums, botons o trossets de paper per a tapar",
+        "en": "Dried beans, buttons or bits of paper to cover the numbers",
+        "fr": "Des légumes secs, des boutons ou des petits bouts de papier pour couvrir",
+        "ar": "بقول أو أزرار أو قطع ورق صغيرة للتغطية"
+      },
+      {
+        "es": "Papelitos y un bote",
+        "va": "Paperets i un pot",
+        "en": "Slips of paper and a jar",
+        "fr": "Des petits papiers et un pot",
+        "ar": "قصاصات ورق ووعاء"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Escribid en papelitos multiplicaciones de un número de dos cifras por una cifra, como {{24 × 3}}, {{15 × 6}} o {{32 × 4}}, y metedlos en un bote.",
+          "va": "Escriviu en paperets multiplicacions d'un número de dues xifres per una xifra, com ara {{24 × 3}}, {{15 × 6}} o {{32 × 4}}, i poseu-los en un pot.",
+          "en": "Write multiplications of a two-digit number by a one-digit number on slips of paper, like {{24 × 3}}, {{15 × 6}} or {{32 × 4}}, and put them in a jar.",
+          "fr": "Écrivez sur des petits papiers des multiplications d'un nombre à deux chiffres par un chiffre, comme {{24 × 3}}, {{15 × 6}} ou {{32 × 4}}, et mettez-les dans un pot.",
+          "ar": "اكتبوا على قصاصات ورق عمليات ضرب عدد من رقمين في رقم واحد، مثل {{24 × 3}} أو {{15 × 6}} أو {{32 × 4}}، وضعوها في وعاء."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Calculad juntos los resultados y apuntadlos en una lista: 72, 90, 128… Cada persona hace un cartón de 9 casillas con resultados de esa lista.",
+          "va": "Calculeu junts els resultats i apunteu-los en una llista: 72, 90, 128… Cada persona fa un cartó de 9 caselles amb resultats d'eixa llista.",
+          "en": "Work out the answers together and write them in a list: 72, 90, 128… Each person makes a card with 9 boxes using answers from that list.",
+          "fr": "Calculez ensemble les résultats et notez-les dans une liste : 72, 90, 128… Chaque personne fait un carton de 9 cases avec des résultats de cette liste.",
+          "ar": "احسبوا النتائج معًا ودوّنوها في قائمة: 72، 90، 128… يصنع كل شخص بطاقة من 9 خانات بنتائج من تلك القائمة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, una persona saca un papelito y lo canta: «¡Veinticuatro por tres!». Quien tenga el 72 lo tapa.",
+          "va": "Per torns, una persona trau un paperet i el canta: «Vint-i-quatre per tres!». Qui tinga el 72 el tapa.",
+          "en": "Taking turns, one person pulls out a slip and calls it out: “Twenty-four times three!” Whoever has 72 covers it.",
+          "fr": "Chacun son tour, une personne tire un papier et l'annonce : « Vingt-quatre fois trois ! » Celui ou celle qui a 72 le couvre.",
+          "ar": "بالتناوب، يسحب شخص قصاصة ويعلنها: «أربعة وعشرون في ثلاثة!». ومن لديه 72 يغطّيه."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Seguid hasta que todos los cartones queden tapados. Antes de celebrarlo, comprobad juntos los resultados tapados.",
+          "va": "Continueu fins que tots els cartons queden tapats. Abans de celebrar-ho, comproveu junts els resultats tapats.",
+          "en": "Keep going until all the cards are covered. Before celebrating, check the covered answers together.",
+          "fr": "Continuez jusqu'à ce que tous les cartons soient couverts. Avant de fêter ça, vérifiez ensemble les résultats couverts.",
+          "ar": "تابعوا حتى تُغطّى كل البطاقات. وقبل الاحتفال، تحقّقوا معًا من النتائج المغطّاة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad multiplicaciones de las tablas, sin números de dos cifras.",
+      "va": "Feu servir multiplicacions de les taules, sense números de dues xifres.",
+      "en": "Use multiplications from the times tables, without two-digit numbers.",
+      "fr": "Utilisez des multiplications des tables, sans nombres à deux chiffres.",
+      "ar": "استعملوا عمليات ضرب من الجداول، دون أعداد من رقمين."
+    },
+    "masDificil": {
+      "es": "Añadid papelitos de dos cifras por dos cifras, como {{12 × 11}}, o de tres números, como {{5 × 7 × 2}}.",
+      "va": "Afegiu paperets de dues xifres per dues xifres, com ara {{12 × 11}}, o de tres números, com ara {{5 × 7 × 2}}.",
+      "en": "Add slips with two-digit by two-digit numbers, like {{12 × 11}}, or with three numbers, like {{5 × 7 × 2}}.",
+      "fr": "Ajoutez des papiers avec deux chiffres par deux chiffres, comme {{12 × 11}}, ou avec trois nombres, comme {{5 × 7 × 2}}.",
+      "ar": "أضيفوا قصاصات فيها ضرب عدد من رقمين في عدد من رقمين، مثل {{12 × 11}}، أو ضرب ثلاثة أعداد، مثل {{5 × 7 × 2}}."
+    },
+    "paraQueSirve": {
+      "es": "Hacer las cuentas para preparar los cartones ya es medio juego. Y oír y pensar cada multiplicación, una y otra vez, ayuda a que el cálculo salga con soltura.",
+      "va": "Fer els comptes per a preparar els cartons ja és mig joc. I sentir i pensar cada multiplicació, una vegada i una altra, ajuda que el càlcul isca amb soltesa.",
+      "en": "Doing the sums to prepare the cards is already half the game. And hearing and thinking through each multiplication, again and again, helps calculation flow easily.",
+      "fr": "Faire les calculs pour préparer les cartons, c'est déjà la moitié du jeu. Et entendre et penser chaque multiplication, encore et encore, aide le calcul à venir avec aisance.",
+      "ar": "إجراء الحساب لتحضير البطاقات نصف اللعبة. وسماع كل عملية ضرب والتفكير فيها، مرة بعد مرة، يساعد على أن يصير الحساب سلسًا."
+    },
+    "aviso": {
+      "es": "Las legumbres y los botones, lejos de hermanos o hermanas pequeños.",
+      "va": "Els llegums i els botons, lluny de germans o germanes menuts.",
+      "en": "Keep the beans and buttons away from younger brothers and sisters.",
+      "fr": "Gardez les légumes secs et les boutons loin des petits frères et sœurs.",
+      "ar": "أبعدوا البقول والأزرار عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una caja de folios trae 25 paquetes. ¿Cuántos paquetes hay en 16 cajas?",
+        "va": "Una capsa de folis porta 25 paquets. Quants paquets hi ha en 16 capses?",
+        "en": "A box of paper holds 25 packs. How many packs are there in 16 boxes?",
+        "fr": "Un carton de papier contient 25 ramettes. Combien de ramettes y a-t-il dans 16 cartons ?",
+        "ar": "في صندوق الورق 25 رزمة. كم رزمة في 16 صندوقًا؟"
+      },
+      "pista": {
+        "es": "Parte el 16: {{25 × 10 = 250}} y {{25 × 6 = 150}}.",
+        "va": "Partix el 16: {{25 × 10 = 250}} i {{25 × 6 = 150}}.",
+        "en": "Split the 16: {{25 × 10 = 250}} and {{25 × 6 = 150}}.",
+        "fr": "Coupe le 16 : {{25 × 10 = 250}} et {{25 × 6 = 150}}.",
+        "ar": "لنقسم الـ16: {{25 × 10 = 250}} و{{25 × 6 = 150}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "25 × 16",
+        "resultado": 400,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 400 paquetes: {{250 + 150 = 400}}.",
+          "va": "Hi ha 400 paquets: {{250 + 150 = 400}}.",
+          "en": "There are 400 packs: {{250 + 150 = 400}}.",
+          "fr": "Il y a 400 ramettes : {{250 + 150 = 400}}.",
+          "ar": "هناك 400 رزمة: {{250 + 150 = 400}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación por un número entre 11 y 19 y pártela en trozos.",
+        "va": "Inventa't una multiplicació per un número entre 11 i 19 i partix-la en trossos.",
+        "en": "Make up a multiplication by a number between 11 and 19 and split it into pieces.",
+        "fr": "Invente une multiplication par un nombre entre 11 et 19 et coupe-la en morceaux.",
+        "ar": "لنخترع عملية ضرب في عدد بين 11 و19 ونقسمها إلى أجزاء."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "En una tienda de bicicletas hay cuadros de 4 colores y sillines de 3 colores. ¿Cuántas bicicletas distintas se pueden montar?",
+        "va": "En una botiga de bicicletes hi ha quadres de 4 colors i selletes de 3 colors. Quantes bicicletes diferents es poden muntar?",
+        "en": "A bike shop has frames in 4 colours and saddles in 3 colours. How many different bikes can be put together?",
+        "fr": "Dans un magasin de vélos, il y a des cadres de 4 couleurs et des selles de 3 couleurs. Combien de vélos différents peut-on monter ?",
+        "ar": "في محل دراجات هياكل بـ4 ألوان ومقاعد بـ3 ألوان. كم دراجة مختلفة يمكن تركيبها؟"
+      },
+      "pista": {
+        "es": "Dibuja un árbol o multiplica las opciones.",
+        "va": "Dibuixa un arbre o multiplica les opcions.",
+        "en": "Draw a tree or multiply the options.",
+        "fr": "Dessine un arbre ou multiplie les choix.",
+        "ar": "لنرسم شجرة أو نضرب الخيارات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 3",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se pueden montar 12 bicicletas distintas.",
+          "va": "Es poden muntar 12 bicicletes diferents.",
+          "en": "12 different bikes can be put together.",
+          "fr": "On peut monter 12 vélos différents.",
+          "ar": "يمكن تركيب 12 دراجة مختلفة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de combinar colores para montar algo.",
+        "va": "Inventa'n tu una de combinar colors per a muntar alguna cosa.",
+        "en": "Make one up about combining colours to put something together.",
+        "fr": "Invente un problème où l'on combine des couleurs pour monter quelque chose.",
+        "ar": "لنخترع مسألة نجمع فيها بين ألوان لتركيب شيء ما."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "¿Cuánto es {{5 × 13 × 20}}? Busca el orden más fácil.",
+        "va": "Quant és {{5 × 13 × 20}}? Busca l'ordre més fàcil.",
+        "en": "What is {{5 × 13 × 20}}? Look for the easiest order.",
+        "fr": "Combien fait {{5 × 13 × 20}} ? Cherche l'ordre le plus facile.",
+        "ar": "كم تساوي {{5 × 13 × 20}}؟ لنبحث عن الترتيب الأسهل."
+      },
+      "pista": {
+        "es": "Empieza por {{5 × 20 = 100}}.",
+        "va": "Comença per {{5 × 20 = 100}}.",
+        "en": "Start with {{5 × 20 = 100}}.",
+        "fr": "Commence par {{5 × 20 = 100}}.",
+        "ar": "لنبدأ بـ{{5 × 20 = 100}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 13 × 20",
+        "resultado": 1300,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Da 1300: {{5 × 20 = 100}} y {{100 × 13 = 1300}}.",
+          "va": "Dona 1300: {{5 × 20 = 100}} i {{100 × 13 = 1300}}.",
+          "en": "It's 1300: {{5 × 20 = 100}} and {{100 × 13 = 1300}}.",
+          "fr": "Ça fait 1300 : {{5 × 20 = 100}} et {{100 × 13 = 1300}}.",
+          "ar": "تساوي 1300: {{5 × 20 = 100}} و{{100 × 13 = 1300}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación de tres números con un 5 y un 20, o con un 25 y un 4.",
+        "va": "Inventa't una multiplicació de tres números amb un 5 i un 20, o amb un 25 i un 4.",
+        "en": "Make up a multiplication of three numbers with a 5 and a 20, or a 25 and a 4.",
+        "fr": "Invente une multiplication de trois nombres avec un 5 et un 20, ou un 25 et un 4.",
+        "ar": "لنخترع عملية ضرب لثلاثة أعداد فيها 5 و20، أو 25 و4."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: Nerea dice que {{48 × 6}} da más o menos 300. ¿Es razonable?",
+        "va": "Per a recordar: Nerea diu que {{48 × 6}} dona més o menys 300. És raonable?",
+        "en": "Let's remember: Nerea says that {{48 × 6}} comes to about 300. Is that reasonable?",
+        "fr": "Pour se souvenir : Nerea dit que {{48 × 6}} fait à peu près 300. Est-ce raisonnable ?",
+        "ar": "لنتذكّر: تقول نيريا إن {{48 × 6}} تساوي 300 تقريبًا. هل هذا معقول؟"
+      },
+      "pista": {
+        "es": "48 está muy cerca de 50.",
+        "va": "48 està molt prop de 50.",
+        "en": "48 is very close to 50.",
+        "fr": "48 est très proche de 50.",
+        "ar": "العدد 48 قريب جدًا من 50."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "48 × 6",
+        "resultado": 288,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí: 48 es casi 50, y {{50 × 6 = 300}}. Saldrá un poco menos de 300.",
+          "va": "Sí: 48 és quasi 50, i {{50 × 6 = 300}}. Eixirà una mica menys de 300.",
+          "en": "Yes: 48 is almost 50, and {{50 × 6 = 300}}. It will be a little under 300.",
+          "fr": "Oui : 48, c'est presque 50, et {{50 × 6 = 300}}. Ça fera un peu moins de 300.",
+          "ar": "نعم: العدد 48 يقارب 50، و{{50 × 6 = 300}}. ستكون النتيجة أقل من 300 بقليل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación, di a ojo cuánto dará y que alguien de casa diga si es razonable.",
+        "va": "Inventa't una multiplicació, digues a ull quant donarà i que algú de casa diga si és raonable.",
+        "en": "Make up a multiplication, guess roughly what it will be and have someone at home say whether that's reasonable.",
+        "fr": "Invente une multiplication, dis à vue d'œil combien elle fera et demande à quelqu'un de la maison si c'est raisonnable.",
+        "ar": "لنخترع عملية ضرب، ونقدّر نتيجتها، ونطلب من أحد في البيت أن يقول هل التقدير معقول."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas en mates, ¿qué forma de multiplicar te gusta más? Explícamela con un ejemplo.",
+        "va": "De tot el que heu fet aquestes setmanes en mates, quina manera de multiplicar t'agrada més? Explica-me-la amb un exemple.",
+        "en": "Of everything in maths these weeks, which way of multiplying do you like best? Explain it to me with an example.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, quelle façon de multiplier préfères-tu ? Explique-la-moi avec un exemple.",
+        "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، أي طريقة ضرب نحبّها أكثر؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas del rectángulo partido? ¿Y del camino más corto? ¿Y del menú de casa?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes del rectangle partit? I del camí més curt? I del menú de casa?»",
+        "en": "You can help them remember: “Do you remember the split rectangle? And the shortest route? And the home menu?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles le rectangle coupé ? Et le chemin le plus court ? Et le menu de la maison ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر المستطيل المقسوم؟ والطريق الأقصر؟ وقائمة طعام البيت؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay respuesta buena ni mala. Si os apetece, probad su forma con una multiplicación vuestra y contadle qué tal os ha ido.",
+          "va": "No hi ha resposta bona ni dolenta. Si us ve de gust, proveu la seua manera amb una multiplicació vostra i conteu-li com us ha anat.",
+          "en": "There's no right or wrong answer. If you feel like it, try their way with a multiplication of your own and tell them how it went.",
+          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si vous en avez envie, essayez sa façon avec une multiplication à vous et racontez comment ça s'est passé.",
+          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإن رغبتم، جرّبوا طريقته بعملية ضرب من عندكم واحكوا له كيف سار الأمر."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "97ae31a291a6"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "97ae31a291a6"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "97ae31a291a6"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "97ae31a291a6"
+      }
+    }
+  }
+}

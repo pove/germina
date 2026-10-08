@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s18",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 18,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Tabla del 4: doble y otra vez doble",
+    "va": "Taula del 4: doble i una altra vegada doble",
+    "en": "The 4 times table: double and double again",
+    "fr": "Table de 4 : le double, puis encore le double",
+    "ar": "جدول ضرب 4: الضعف ثم الضعف مرة أخرى"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden la tabla del 4 con un truco: multiplicar por 4 es hacer el doble y otra vez el doble. Por ejemplo, {{2 × 3 = 6}}, y el doble de 6 es 12, así que {{4 × 3 = 12}}.",
+    "va": "Aquesta setmana aprenen la taula del 4 (tabla del 4) amb un truc: multiplicar per 4 és fer el doble (doble) i una altra vegada el doble. Per exemple, {{2 × 3 = 6}}, i el doble de 6 és 12, així que {{4 × 3 = 12}}.",
+    "en": "This week they learn the 4 times table (tabla del 4) with a trick: multiplying by 4 is doubling (doble) and doubling again. For example, {{2 × 3 = 6}}, and double 6 is 12, so {{4 × 3 = 12}}.",
+    "fr": "Cette semaine, on apprend la table de 4 (tabla del 4) avec une astuce : multiplier par 4, c'est faire le double (doble), puis encore le double. Par exemple, {{2 × 3 = 6}}, et le double de 6 est 12, donc {{4 × 3 = 12}}.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال جدول ضرب 4 (tabla del 4) بحيلة: الضرب في 4 هو أن نأخذ الضعف (doble) ثم الضعف مرة أخرى. مثلًا، {{2 × 3 = 6}}، وضعف 6 هو 12، إذن {{4 × 3 = 12}}."
+  },
+  "comoAyudar": {
+    "es": "Cuando una del 4 se resista, no deis el resultado: preguntad «¿cuánto es por 2?» y dejad que haga el doble. Así el truco se queda.",
+    "va": "Quan una del 4 es resistisca, no doneu el resultat: pregunteu «quant és per 2?» i deixeu que en faça el doble. Així el truc es queda.",
+    "en": "When a 4 times table fact is tricky, don't give the answer: ask “What is it times 2?” and let them double it. That way the trick sticks.",
+    "fr": "Quand un résultat de la table de 4 résiste, ne le donnez pas : demandez « Ça fait combien fois 2 ? » et laissez faire le double. Comme ça, l'astuce reste.",
+    "ar": "عندما تستعصي عملية من جدول 4، لا تعطوا النتيجة: اسألوا «كم تساوي في 2؟» واتركوا الطفل يأخذ الضعف. هكذا تبقى الحيلة."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.propiedades"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.2.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Doblar y volver a doblar",
+      "va": "Doblegar i tornar a doblegar",
+      "en": "Fold and fold again",
+      "fr": "Plier et replier",
+      "ar": "نطوي ثم نطوي من جديد"
+    },
+    "material": [
+      {
+        "es": "Tiras de papel (una hoja cortada a lo largo)",
+        "va": "Tires de paper (un full tallat a la llarga)",
+        "en": "Strips of paper (a sheet cut lengthways)",
+        "fr": "Des bandes de papier (une feuille coupée dans la longueur)",
+        "ar": "شرائط ورق (ورقة مقطوعة بالطول)"
+      },
+      {
+        "es": "Galletas pequeñas o trocitos de papel",
+        "va": "Galetes menudes o trossets de paper",
+        "en": "Small biscuits or bits of paper",
+        "fr": "Des petits biscuits ou des petits bouts de papier",
+        "ar": "بسكويت صغير أو قطع ورق صغيرة"
+      },
+      {
+        "es": "Un lápiz",
+        "va": "Un llapis",
+        "en": "A pencil",
+        "fr": "Un crayon",
+        "ar": "قلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tira",
+        "texto": {
+          "es": "Doblad una tira de papel por la mitad y abridla: hay 2 partes. Doblad otra tira por la mitad y otra vez por la mitad, y abridla: ¡ahora hay 4!",
+          "va": "Doblegueu una tira de paper per la meitat i obriu-la: hi ha 2 parts. Doblegueu una altra tira per la meitat i una altra vegada per la meitat, i obriu-la: ara n'hi ha 4!",
+          "en": "Fold a strip of paper in half and open it: there are 2 parts. Fold another strip in half and in half again, then open it: now there are 4!",
+          "fr": "Pliez une bande de papier en deux et dépliez-la : il y a 2 parties. Pliez une autre bande en deux, puis encore en deux, et dépliez-la : maintenant, il y en a 4 !",
+          "ar": "اطووا شريطًا من الورق من المنتصف وافتحوه: هناك جزءان. اطووا شريطًا آخر من المنتصف ثم من المنتصف مرة أخرى وافتحوه: الآن هناك 4 أجزاء!"
+        }
+      },
+      {
+        "pictograma": "galleta",
+        "texto": {
+          "es": "En la tira de 2 partes, poned 3 galletas en cada parte. ¿Cuántas hay? {{2 × 3 = 6}}.",
+          "va": "En la tira de 2 parts, poseu 3 galetes en cada part. Quantes n'hi ha? {{2 × 3 = 6}}.",
+          "en": "On the strip with 2 parts, put 3 biscuits on each part. How many are there? {{2 × 3 = 6}}.",
+          "fr": "Sur la bande à 2 parties, mettez 3 biscuits sur chaque partie. Combien y en a-t-il ? {{2 × 3 = 6}}.",
+          "ar": "على الشريط ذي الجزأين، ضعوا 3 بسكويتات على كل جزء. كم بسكويتة هناك؟ {{2 × 3 = 6}}."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Ahora, en la tira de 4 partes, poned 3 galletas en cada parte. Hay el doble que antes: {{4 × 3 = 12}}.",
+          "va": "Ara, en la tira de 4 parts, poseu 3 galetes en cada part. N'hi ha el doble que abans: {{4 × 3 = 12}}.",
+          "en": "Now, on the strip with 4 parts, put 3 biscuits on each part. There are double the biscuits there were before: {{4 × 3 = 12}}.",
+          "fr": "Maintenant, sur la bande à 4 parties, mettez 3 biscuits sur chaque partie. Il y en a le double d'avant : {{4 × 3 = 12}}.",
+          "ar": "الآن، على الشريط ذي الأجزاء الأربعة، ضعوا 3 بسكويتات على كل جزء. هناك ضعف ما كان قبلًا: {{4 × 3 = 12}}."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Probad con otros números, como 5 galletas por parte. Escribid cada vez el doble y el doble del doble: {{2 × 5 = 10}} y {{4 × 5 = 20}}.",
+          "va": "Proveu amb altres números, com ara 5 galetes per part. Escriviu cada vegada el doble i el doble del doble: {{2 × 5 = 10}} i {{4 × 5 = 20}}.",
+          "en": "Try other numbers, like 5 biscuits on each part. Each time, write the double and the double of the double: {{2 × 5 = 10}} and {{4 × 5 = 20}}.",
+          "fr": "Essayez avec d'autres nombres, comme 5 biscuits par partie. Écrivez à chaque fois le double et le double du double : {{2 × 5 = 10}} et {{4 × 5 = 20}}.",
+          "ar": "جرّبوا أعدادًا أخرى، مثل 5 بسكويتات على كل جزء. اكتبوا في كل مرة الضعف وضعف الضعف: {{2 × 5 = 10}} و{{4 × 5 = 20}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo números del 1 al 5 y contad las galletas una a una si os ayuda.",
+      "va": "Feu servir només números de l'1 al 5 i compteu les galetes una a una si us ajuda.",
+      "en": "Use only numbers from 1 to 5 and count the biscuits one by one if it helps.",
+      "fr": "Utilisez seulement les nombres de 1 à 5 et comptez les biscuits un par un si ça aide.",
+      "ar": "استعملوا الأعداد من 1 إلى 5 فقط، وعدّوا البسكويت واحدة واحدة إن كان ذلك يساعد."
+    },
+    "masDificil": {
+      "es": "Doblad la tira una tercera vez: ¿cuántas partes salen? Con 8 partes, {{8 × 3}} es el doble de {{4 × 3}}.",
+      "va": "Doblegueu la tira una tercera vegada: quantes parts ixen? Amb 8 parts, {{8 × 3}} és el doble de {{4 × 3}}.",
+      "en": "Fold the strip a third time: how many parts do you get? With 8 parts, {{8 × 3}} is double {{4 × 3}}.",
+      "fr": "Pliez la bande une troisième fois : combien de parties obtenez-vous ? Avec 8 parties, {{8 × 3}}, c'est le double de {{4 × 3}}.",
+      "ar": "اطووا الشريط مرة ثالثة: كم جزءًا يظهر؟ مع 8 أجزاء، {{8 × 3}} هو ضعف {{4 × 3}}."
+    },
+    "paraQueSirve": {
+      "es": "Ver que la tabla del 4 sale de la del 2 enseña que las tablas no van sueltas: unas ayudan a construir otras. Y si un resultado se olvida, se puede recuperar.",
+      "va": "Veure que la taula del 4 ix de la del 2 ensenya que les taules no van soltes: unes ajuden a construir-ne d'altres. I si un resultat s'oblida, es pot recuperar.",
+      "en": "Seeing that the 4 times table comes from the 2 times table shows that the tables aren't separate: some help build others. And if an answer is forgotten, it can be worked out again.",
+      "fr": "Voir que la table de 4 vient de celle de 2 montre que les tables ne sont pas isolées : certaines aident à en construire d'autres. Et si on oublie un résultat, on peut le retrouver.",
+      "ar": "رؤية أن جدول 4 يأتي من جدول 2 تعلّم أن الجداول ليست منفصلة: بعضها يساعد على بناء غيره. وإذا نُسيت نتيجة، يمكن استرجاعها."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un coche tiene 4 ruedas. ¿Cuántas ruedas hay en 6 coches?",
+        "va": "Un cotxe té 4 rodes. Quantes rodes hi ha en 6 cotxes?",
+        "en": "A car has 4 wheels. How many wheels are there on 6 cars?",
+        "fr": "Une voiture a 4 roues. Combien de roues y a-t-il sur 6 voitures ?",
+        "ar": "للسيارة 4 عجلات. كم عجلة في 6 سيارات؟"
+      },
+      "pista": {
+        "es": "Primero el doble: {{2 × 6 = 12}}. Y ahora, el doble de 12.",
+        "va": "Primer el doble: {{2 × 6 = 12}}. I ara, el doble de 12.",
+        "en": "First the double: {{2 × 6 = 12}}. And now, double 12.",
+        "fr": "D'abord le double : {{2 × 6 = 12}}. Et maintenant, le double de 12.",
+        "ar": "أولًا الضعف: {{2 × 6 = 12}}. والآن ضعف 12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 6",
+        "resultado": 24,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 24 ruedas.",
+          "va": "Hi ha 24 rodes.",
+          "en": "There are 24 wheels.",
+          "fr": "Il y a 24 roues.",
+          "ar": "هناك 24 عجلة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cosas que tengan 4 patas o 4 ruedas.",
+        "va": "Inventa'n tu una de coses que tinguen 4 potes o 4 rodes.",
+        "en": "Make one up about things that have 4 legs or 4 wheels.",
+        "fr": "Invente un problème avec des choses qui ont 4 pattes ou 4 roues.",
+        "ar": "لنخترع مسألة عن أشياء لها 4 أرجل أو 4 عجلات."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "La madre de Irene compra 4 bolsas con 7 mandarinas cada una. ¿Cuántas mandarinas son?",
+        "va": "La mare d'Irene compra 4 bosses amb 7 mandarines cadascuna. Quantes mandarines són?",
+        "en": "Irene's mum buys 4 bags with 7 mandarins in each. How many mandarins is that?",
+        "fr": "La maman d'Irene achète 4 sacs de 7 mandarines chacun. Combien de mandarines cela fait-il ?",
+        "ar": "اشترت أمّ إيرين 4 أكياس في كل منها 7 يوسفيات. كم يوسفية في المجموع؟"
+      },
+      "pista": {
+        "es": "{{2 × 7 = 14}}, y el doble de 14 es…",
+        "va": "{{2 × 7 = 14}}, i el doble de 14 és…",
+        "en": "{{2 × 7 = 14}}, and double 14 is…",
+        "fr": "{{2 × 7 = 14}}, et le double de 14, c'est…",
+        "ar": "{{2 × 7 = 14}}، وضعف 14 هو…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 7",
+        "resultado": 28,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 28 mandarinas.",
+          "va": "Són 28 mandarines.",
+          "en": "That's 28 mandarins.",
+          "fr": "Cela fait 28 mandarines.",
+          "ar": "28 يوسفية."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de bolsas iguales de fruta.",
+        "va": "Inventa'n tu una de bosses iguals de fruita.",
+        "en": "Make one up about equal bags of fruit.",
+        "fr": "Invente un problème avec des sacs de fruits tous pareils.",
+        "ar": "لنخترع مسألة عن أكياس فاكهة متساوية."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Martín dice que {{4 × 9}} es 36, porque {{2 × 9 = 18}} y {{18 + 18 = 36}}. ¿Tiene razón?",
+        "va": "Martín diu que {{4 × 9}} és 36, perquè {{2 × 9 = 18}} i {{18 + 18 = 36}}. Té raó?",
+        "en": "Martín says that {{4 × 9}} is 36, because {{2 × 9 = 18}} and {{18 + 18 = 36}}. Is he right?",
+        "fr": "Martín dit que {{4 × 9}} fait 36, parce que {{2 × 9 = 18}} et {{18 + 18 = 36}}. A-t-il raison ?",
+        "ar": "يقول مارتين إن {{4 × 9}} تساوي 36، لأن {{2 × 9 = 18}} و{{18 + 18 = 36}}. هل هو محق؟"
+      },
+      "pista": {
+        "es": "Haz tú también el doble y otra vez el doble, y mira si te sale lo mismo.",
+        "va": "Fes tu també el doble i una altra vegada el doble, i mira si t'ix el mateix.",
+        "en": "Do the double and double again yourself, and see if you get the same.",
+        "fr": "Fais toi aussi le double, puis encore le double, et regarde si tu trouves pareil.",
+        "ar": "لنأخذ نحن أيضًا الضعف ثم الضعف مرة أخرى، ونرى هل نحصل على النتيجة نفسها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 9",
+        "resultado": 36,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, tiene razón: {{4 × 9 = 36}}.",
+          "va": "Sí, té raó: {{4 × 9 = 36}}.",
+          "en": "Yes, he's right: {{4 × 9 = 36}}.",
+          "fr": "Oui, il a raison : {{4 × 9 = 36}}.",
+          "ar": "نعم، هو محق: {{4 × 9 = 36}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación por 4 y explica cómo la haces con dobles.",
+        "va": "Inventa't una multiplicació per 4 i explica com la fas amb dobles.",
+        "en": "Make up a multiplication by 4 and explain how you do it with doubles.",
+        "fr": "Invente une multiplication par 4 et explique comment tu la fais avec des doubles.",
+        "ar": "لنخترع عملية ضرب في 4 ونشرح كيف نحسبها بالأضعاف."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: un pack trae 5 yogures. ¿Cuántos yogures hay en 8 packs?",
+        "va": "Per a recordar: un paquet porta 5 iogurts. Quants iogurts hi ha en 8 paquets?",
+        "en": "Let's remember: a pack has 5 yoghurts. How many yoghurts are there in 8 packs?",
+        "fr": "Pour se souvenir : un pack contient 5 yaourts. Combien de yaourts y a-t-il dans 8 packs ?",
+        "ar": "لنتذكّر: في كل رزمة 5 علب زبادي. كم علبة زبادي في 8 رزم؟"
+      },
+      "pista": {
+        "es": "Cuenta de 5 en 5, o piensa en {{10 × 8 = 80}} y haz la mitad.",
+        "va": "Compta de 5 en 5, o pensa en {{10 × 8 = 80}} i fes-ne la meitat.",
+        "en": "Count in 5s, or think of {{10 × 8 = 80}} and halve it.",
+        "fr": "Compte de 5 en 5, ou pense à {{10 × 8 = 80}} et prends la moitié.",
+        "ar": "لنعدّ خمسة خمسة، أو نفكّر في {{10 × 8 = 80}} ونأخذ النصف."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 5",
+        "resultado": 40,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 40 yogures.",
+          "va": "Hi ha 40 iogurts.",
+          "en": "There are 40 yoghurts.",
+          "fr": "Il y a 40 yaourts.",
+          "ar": "هناك 40 علبة زبادي."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de packs que traigan 5 cosas.",
+        "va": "Inventa'n tu una de paquets que porten 5 coses.",
+        "en": "Make one up about packs that hold 5 things.",
+        "fr": "Invente un problème avec des packs de 5 choses.",
+        "ar": "لنخترع مسألة عن علب فيها 5 أشياء."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué la tabla del 4 es el doble de la del 2? Explícamelo con una tira de papel o con dibujos.",
+        "va": "Per què la taula del 4 és el doble de la del 2? Explica-m'ho amb una tira de paper o amb dibuixos.",
+        "en": "Why is the 4 times table double the 2 times table? Explain it to me with a strip of paper or with drawings.",
+        "fr": "Pourquoi la table de 4 est-elle le double de celle de 2 ? Explique-le-moi avec une bande de papier ou avec des dessins.",
+        "ar": "لماذا جدول 4 هو ضعف جدول 2؟ اشرح لي أو اشرحي لي بشريط ورق أو برسوم."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántas partes salen al doblar una vez? ¿Y al doblar otra vez?»",
+        "va": "Si no sap per on començar: «Quantes parts ixen en doblegar una vegada? I en doblegar una altra vegada?»",
+        "en": "If they don't know where to start: “How many parts do you get when you fold once? And when you fold again?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de parties obtiens-tu en pliant une fois ? Et en repliant ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم جزءًا يظهر عندما نطوي مرة؟ وعندما نطوي مرة أخرى؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta una explicación perfecta. Si dobla la tira y os lo enseña, ya lo está explicando.",
+          "va": "No cal una explicació perfecta. Si doblega la tira i us ho ensenya, ja ho està explicant.",
+          "en": "The explanation doesn't need to be perfect. If they fold the strip and show you, they're already explaining it.",
+          "fr": "L'explication n'a pas besoin d'être parfaite. Si la bande est pliée et qu'on vous la montre, c'est déjà une explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. إذا طُوي الشريط وعُرض عليكم، فهذا شرح بالفعل."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "82dc15139b26"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "82dc15139b26"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "82dc15139b26"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "82dc15139b26"
+      }
+    }
+  }
+}

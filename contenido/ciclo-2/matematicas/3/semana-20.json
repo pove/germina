@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s20",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 20,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Tablas del 3 y del 6",
+    "va": "Taules del 3 i del 6",
+    "en": "The 3 and 6 times tables",
+    "fr": "Tables de 3 et de 6",
+    "ar": "جدولا ضرب 3 و6"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden la tabla del 3 y la del 6, y descubren que cada resultado de la tabla del 6 es el doble del de la tabla del 3: {{3 × 4 = 12}} y {{6 × 4 = 24}}.",
+    "va": "Aquesta setmana aprenen la taula del 3 i la del 6 (tablas del 3 y del 6), i descobreixen que cada resultat de la taula del 6 és el doble del de la taula del 3: {{3 × 4 = 12}} i {{6 × 4 = 24}}.",
+    "en": "This week they learn the 3 and 6 times tables (tablas del 3 y del 6), and discover that each answer in the 6 times table is double the one in the 3 times table: {{3 × 4 = 12}} and {{6 × 4 = 24}}.",
+    "fr": "Cette semaine, on apprend la table de 3 et celle de 6 (tablas del 3 y del 6), et on découvre que chaque résultat de la table de 6 est le double de celui de la table de 3 : {{3 × 4 = 12}} et {{6 × 4 = 24}}.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال جدولي ضرب 3 و6 (tablas del 3 y del 6)، ويكتشفون أن كل نتيجة في جدول 6 هي ضعف النتيجة في جدول 3: {{3 × 4 = 12}} و{{6 × 4 = 24}}."
+  },
+  "comoAyudar": {
+    "es": "Si una del 6 se resiste, buscad juntos la del 3 y haced el doble. Y si se resiste la del 3, contad de 3 en 3 con los dedos: eso también es pensar.",
+    "va": "Si una del 6 es resistix, busqueu junts la del 3 i feu-ne el doble. I si es resistix la del 3, compteu de 3 en 3 amb els dits: això també és pensar.",
+    "en": "If a 6 times table fact is tricky, find the 3 times table one together and double it. And if the 3 times table one is tricky, count in 3s on your fingers: that's thinking too.",
+    "fr": "Si un résultat de la table de 6 résiste, cherchez ensemble celui de la table de 3 et faites le double. Et si c'est celui de 3 qui résiste, comptez de 3 en 3 sur les doigts : ça aussi, c'est réfléchir.",
+    "ar": "إذا استعصت عملية من جدول 6، ابحثوا معًا عن نظيرتها في جدول 3 وخذوا ضعفها. وإذا استعصت عملية من جدول 3، عدّوا ثلاثة ثلاثة على الأصابع: هذا أيضًا تفكير."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.propiedades",
+    "matematicas.computacional.secuencias-numericas"
+  ],
+  "criterios": [
+    "matematicas.c2.2.3",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El dado doble",
+      "va": "El dau doble",
+      "en": "The double die",
+      "fr": "Le dé double",
+      "ar": "النرد المضاعف"
+    },
+    "material": [
+      {
+        "es": "Un dado",
+        "va": "Un dau",
+        "en": "A die",
+        "fr": "Un dé",
+        "ar": "نرد"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Haced en un papel dos columnas y escribid arriba «por 3» y «por 6».",
+          "va": "Feu en un paper dues columnes i escriviu dalt «per 3» i «per 6».",
+          "en": "Make two columns on a piece of paper and write “times 3” and “times 6” at the top.",
+          "fr": "Faites deux colonnes sur un papier et écrivez en haut « fois 3 » et « fois 6 ».",
+          "ar": "اصنعوا على ورقة عمودين واكتبوا في أعلاهما «في 3» و«في 6»."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Tirad el dado. Si sale un 4, en la columna «por 3» escribid {{3 × 4 = 12}}, y en la de «por 6», {{6 × 4 = 24}}.",
+          "va": "Tireu el dau. Si ix un 4, en la columna «per 3» escriviu {{3 × 4 = 12}}, i en la de «per 6», {{6 × 4 = 24}}.",
+          "en": "Roll the die. If you get a 4, write {{3 × 4 = 12}} in the “times 3” column, and {{6 × 4 = 24}} in the “times 6” one.",
+          "fr": "Lancez le dé. Si vous faites un 4, écrivez {{3 × 4 = 12}} dans la colonne « fois 3 », et {{6 × 4 = 24}} dans la colonne « fois 6 ».",
+          "ar": "ارموا النرد. إذا ظهر 4، اكتبوا في عمود «في 3» {{3 × 4 = 12}}، وفي عمود «في 6» {{6 × 4 = 24}}."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Tirad unas cuantas veces más y apuntadlo todo. Si alguna se resiste, contad de 3 en 3 o de 6 en 6 con los dedos.",
+          "va": "Tireu unes quantes vegades més i apunteu-ho tot. Si alguna es resistix, compteu de 3 en 3 o de 6 en 6 amb els dits.",
+          "en": "Roll a few more times and write everything down. If one is tricky, count in 3s or 6s on your fingers.",
+          "fr": "Lancez encore quelques fois et notez tout. Si un résultat résiste, comptez de 3 en 3 ou de 6 en 6 sur les doigts.",
+          "ar": "ارموا النرد بضع مرات أخرى ودوّنوا كل شيء. وإذا استعصت عملية، عدّوا ثلاثة ثلاثة أو ستة ستة على الأصابع."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad las dos columnas juntas: 12 y 24, 15 y 30… ¿Qué relación hay entre el número de una columna y el de la otra?",
+          "va": "Mireu les dues columnes juntes: 12 i 24, 15 i 30… Quina relació hi ha entre el número d'una columna i el de l'altra?",
+          "en": "Look at both columns together: 12 and 24, 15 and 30… How is the number in one column related to the one in the other?",
+          "fr": "Regardez les deux colonnes ensemble : 12 et 24, 15 et 30… Quel lien y a-t-il entre le nombre d'une colonne et celui de l'autre ?",
+          "ar": "انظروا إلى العمودين معًا: 12 و24، 15 و30… ما العلاقة بين العدد في عمود والعدد في العمود الآخر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad solo con la columna «por 3» y dibujad grupos de 3 puntos para cada tirada.",
+      "va": "Jugueu només amb la columna «per 3» i dibuixeu grups de 3 punts per a cada tirada.",
+      "en": "Play only with the “times 3” column and draw groups of 3 dots for each roll.",
+      "fr": "Jouez seulement avec la colonne « fois 3 » et dessinez des groupes de 3 points à chaque lancer.",
+      "ar": "العبوا بعمود «في 3» فقط، وارسموا مجموعات من 3 نقاط لكل رمية."
+    },
+    "masDificil": {
+      "es": "Tirad dos dados y sumadlos para tener números hasta el 12: ¿cuánto es {{6 × 11}}? ¿Y {{3 × 12}}?",
+      "va": "Tireu dos daus i sumeu-los per a tindre números fins al 12: quant és {{6 × 11}}? I {{3 × 12}}?",
+      "en": "Roll two dice and add them to get numbers up to 12: what is {{6 × 11}}? And {{3 × 12}}?",
+      "fr": "Lancez deux dés et additionnez-les pour avoir des nombres jusqu'à 12 : combien fait {{6 × 11}} ? Et {{3 × 12}} ?",
+      "ar": "ارموا نردين واجمعوهما لتحصلوا على أعداد حتى 12: كم تساوي {{6 × 11}}؟ و{{3 × 12}}؟"
+    },
+    "paraQueSirve": {
+      "es": "Ver que el 6 es el doble del 3 une dos tablas en una. Y buscar relaciones entre números es lo que hacen las matemáticas: ver un patrón donde parecía que no lo había.",
+      "va": "Veure que el 6 és el doble del 3 unix dues taules en una. I buscar relacions entre números és el que fan les matemàtiques: veure un patró on semblava que no n'hi havia.",
+      "en": "Seeing that 6 is double 3 joins two times tables into one. And looking for links between numbers is what maths is about: seeing a pattern where there seemed to be none.",
+      "fr": "Voir que 6 est le double de 3 réunit deux tables en une. Et chercher des liens entre les nombres, c'est ce que font les maths : voir une régularité là où il semblait ne pas y en avoir.",
+      "ar": "رؤية أن 6 هي ضعف 3 تجمع جدولين في جدول واحد. والبحث عن علاقات بين الأعداد هو ما تفعله الرياضيات: رؤية نمط حيث بدا أنه لا يوجد."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un triciclo tiene 3 ruedas. ¿Cuántas ruedas hay en 5 triciclos?",
+        "va": "Un tricicle té 3 rodes. Quantes rodes hi ha en 5 tricicles?",
+        "en": "A tricycle has 3 wheels. How many wheels are there on 5 tricycles?",
+        "fr": "Un tricycle a 3 roues. Combien de roues y a-t-il sur 5 tricycles ?",
+        "ar": "للدراجة الثلاثية 3 عجلات. كم عجلة في 5 دراجات ثلاثية؟"
+      },
+      "pista": {
+        "es": "Cuenta de 3 en 3, una vez por triciclo: 3, 6, 9…",
+        "va": "Compta de 3 en 3, una vegada per tricicle: 3, 6, 9…",
+        "en": "Count in 3s, once for each tricycle: 3, 6, 9…",
+        "fr": "Compte de 3 en 3, une fois par tricycle : 3, 6, 9…",
+        "ar": "لنعدّ ثلاثة ثلاثة، مرة لكل دراجة: 3، 6، 9…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 3",
+        "resultado": 15,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 15 ruedas.",
+          "va": "Hi ha 15 rodes.",
+          "en": "There are 15 wheels.",
+          "fr": "Il y a 15 roues.",
+          "ar": "هناك 15 عجلة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cosas que vayan de 3 en 3.",
+        "va": "Inventa'n tu una de coses que vagen de 3 en 3.",
+        "en": "Make one up about things that come in 3s.",
+        "fr": "Invente un problème avec des choses qui vont par 3.",
+        "ar": "لنخترع مسألة عن أشياء تأتي ثلاثة ثلاثة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una caja tiene 6 huevos. ¿Cuántos huevos hay en 4 cajas?",
+        "va": "Una capsa té 6 ous. Quants ous hi ha en 4 capses?",
+        "en": "A box holds 6 eggs. How many eggs are there in 4 boxes?",
+        "fr": "Une boîte contient 6 œufs. Combien d'œufs y a-t-il dans 4 boîtes ?",
+        "ar": "في العلبة 6 بيضات. كم بيضة في 4 علب؟"
+      },
+      "pista": {
+        "es": "Primero {{3 × 4 = 12}}, y luego el doble.",
+        "va": "Primer {{3 × 4 = 12}}, i després el doble.",
+        "en": "First {{3 × 4 = 12}}, and then double it.",
+        "fr": "D'abord {{3 × 4 = 12}}, puis le double.",
+        "ar": "أولًا {{3 × 4 = 12}}، ثم الضعف."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 6",
+        "resultado": 24,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 24 huevos.",
+          "va": "Hi ha 24 ous.",
+          "en": "There are 24 eggs.",
+          "fr": "Il y a 24 œufs.",
+          "ar": "هناك 24 بيضة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de cajas o paquetes de 6.",
+        "va": "Inventa'n tu una de capses o paquets de 6.",
+        "en": "Make one up about boxes or packs of 6.",
+        "fr": "Invente un problème avec des boîtes ou des paquets de 6.",
+        "ar": "لنخترع مسألة عن علب أو رزم فيها 6."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Mira la serie: 6, 12, 18, 24… ¿Qué número va después? ¿Y el siguiente?",
+        "va": "Mira la sèrie: 6, 12, 18, 24… Quin número va després? I el següent?",
+        "en": "Look at the sequence: 6, 12, 18, 24… Which number comes next? And the one after?",
+        "fr": "Regarde la suite : 6, 12, 18, 24… Quel nombre vient après ? Et le suivant ?",
+        "ar": "لننظر إلى المتتالية: 6، 12، 18، 24… ما العدد التالي؟ والذي بعده؟"
+      },
+      "pista": {
+        "es": "¿Cuánto se suma cada vez?",
+        "va": "Quant se suma cada vegada?",
+        "en": "How much is added each time?",
+        "fr": "Combien ajoute-t-on à chaque fois ?",
+        "ar": "كم نضيف في كل مرة؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 + 6",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van el 30 y el 36: es la tabla del 6, de 6 en 6.",
+          "va": "Van el 30 i el 36: és la taula del 6, de 6 en 6.",
+          "en": "Next come 30 and 36: it's the 6 times table, going up in 6s.",
+          "fr": "Viennent 30 et 36 : c'est la table de 6, de 6 en 6.",
+          "ar": "يأتي 30 ثم 36: إنه جدول 6، ستة ستة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una serie de 3 en 3 y que alguien de casa adivine el número siguiente.",
+        "va": "Inventa't una sèrie de 3 en 3 i que algú de casa endevine el número següent.",
+        "en": "Make up a sequence going up in 3s and have someone at home guess the next number.",
+        "fr": "Invente une suite de 3 en 3 et fais deviner le nombre suivant à quelqu'un de la maison.",
+        "ar": "لنخترع متتالية ثلاثة ثلاثة ونطلب من أحد في البيت أن يخمّن العدد التالي."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 19,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: Biel sabe que {{2 × 8 = 16}}. ¿Cuánto es {{8 × 2}}?",
+        "va": "Per a recordar: Biel sap que {{2 × 8 = 16}}. Quant és {{8 × 2}}?",
+        "en": "Let's remember: Biel knows that {{2 × 8 = 16}}. What is {{8 × 2}}?",
+        "fr": "Pour se souvenir : Biel sait que {{2 × 8 = 16}}. Combien fait {{8 × 2}} ?",
+        "ar": "لنتذكّر: يعرف بيل أن {{2 × 8 = 16}}. كم تساوي {{8 × 2}}؟"
+      },
+      "pista": {
+        "es": "Piensa en el plato que se gira: ¿cambia algo si le das la vuelta?",
+        "va": "Pensa en el plat que es gira: canvia alguna cosa si li dones la volta?",
+        "en": "Think of the plate you turned: does anything change if you turn it around?",
+        "fr": "Pense à l'assiette qu'on tourne : est-ce que quelque chose change si on la retourne ?",
+        "ar": "لنتذكّر الصحن الذي أدرناه: هل يتغيّر شيء إذا قلبنا العملية؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 2",
+        "resultado": 16,
+        "unidad": "unidades",
+        "texto": {
+          "es": "También es 16: el orden no cambia el resultado.",
+          "va": "També és 16: l'ordre no canvia el resultat.",
+          "en": "It's 16 too: the order doesn't change the answer.",
+          "fr": "Ça fait aussi 16 : l'ordre ne change pas le résultat.",
+          "ar": "تساوي 16 أيضًا: الترتيب لا يغيّر النتيجة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación, dale la vuelta y comprueba que da lo mismo.",
+        "va": "Inventa't una multiplicació, dona-li la volta i comprova que dona el mateix.",
+        "en": "Make up a multiplication, turn it around and check it gives the same answer.",
+        "fr": "Invente une multiplication, retourne-la et vérifie que ça donne pareil.",
+        "ar": "لنخترع عملية ضرب ونقلبها ونتحقّق من أنها تعطي النتيجة نفسها."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo puedes saber cuánto es {{6 × 7}} si sabes cuánto es {{3 × 7}}? Explícamelo.",
+        "va": "Com pots saber quant és {{6 × 7}} si saps quant és {{3 × 7}}? Explica-m'ho.",
+        "en": "How can you work out {{6 × 7}} if you know {{3 × 7}}? Explain it to me.",
+        "fr": "Comment peux-tu savoir combien fait {{6 × 7}} si tu sais combien fait {{3 × 7}} ? Explique-le-moi.",
+        "ar": "كيف يمكننا معرفة {{6 × 7}} إذا كنّا نعرف {{3 × 7}}؟ اشرح لي أو اشرحي لي."
+      },
+      "pista": {
+        "es": "Si se queda en blanco: «¿Cuánto es {{3 × 7}}? ¿Y si lo tuvieras dos veces?»",
+        "va": "Si es queda en blanc: «Quant és {{3 × 7}}? I si el tingueres dues vegades?»",
+        "en": "If they go blank: “What is {{3 × 7}}? And what if you had it twice?”",
+        "fr": "S'il ou elle reste sans idée : « Combien fait {{3 × 7}} ? Et si tu l'avais deux fois ? »",
+        "ar": "إن لم تخطر فكرة، اسألوا: «كم تساوي {{3 × 7}}؟ وماذا لو أخذناها مرتين؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo bonito es que llegue a «hago el doble». Si no llega, no pasa nada: jugad otra vez al dado doble y volved a preguntar otro día.",
+          "va": "El bonic és que arribe a «faig el doble». Si no hi arriba, no passa res: jugueu una altra vegada al dau doble i torneu a preguntar un altre dia.",
+          "en": "The lovely part is getting to “I double it”. If they don't get there, that's fine: play the double die again and ask another day.",
+          "fr": "Le plus beau, c'est d'arriver à « je fais le double ». Sinon, ce n'est pas grave : rejouez au dé double et reposez la question un autre jour.",
+          "ar": "الجميل أن نصل إلى «آخذ الضعف». وإن لم نصل، فلا بأس: العبوا النرد المضاعف مرة أخرى واسألوا في يوم آخر."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "a7791b9daaa4"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "a7791b9daaa4"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "a7791b9daaa4"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "a7791b9daaa4"
+      }
+    }
+  }
+}
