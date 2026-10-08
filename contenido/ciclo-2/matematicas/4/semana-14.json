@@ -149,11 +149,11 @@
         "resultado": 90,
         "unidad": "unidades",
         "texto": {
-          "es": "Cerca de 90: {{30 × 3 = 90}}. Exactamente son 84.",
-          "va": "Prop de 90: {{30 × 3 = 90}}. Exactament són 84.",
-          "en": "About 90: {{30 × 3 = 90}}. Exactly, it's 84.",
-          "fr": "Environ 90 : {{30 × 3 = 90}}. Exactement, ça fait 84.",
-          "ar": "نحو 90: {{30 × 3 = 90}}. وبالضبط 84."
+          "es": "Cerca de 90: 28 es casi 30, y {{30 × 3 = 90}}.",
+          "va": "Prop de 90: 28 és quasi 30, i {{30 × 3 = 90}}.",
+          "en": "About 90: 28 is almost 30, and {{30 × 3 = 90}}.",
+          "fr": "Environ 90 : 28, c'est presque 30, et {{30 × 3 = 90}}.",
+          "ar": "نحو 90: العدد 28 يقارب 30، و{{30 × 3 = 90}}."
         }
       },
       "inventala": {
@@ -188,11 +188,11 @@
         "resultado": 144,
         "unidad": "unidades",
         "texto": {
-          "es": "No: el resultado está entre 120 y 180. Exactamente son 144.",
-          "va": "No: el resultat està entre 120 i 180. Exactament són 144.",
-          "en": "No: the answer is between 120 and 180. Exactly, it's 144.",
-          "fr": "Non : le résultat est entre 120 et 180. Exactement, ça fait 144.",
-          "ar": "لا: النتيجة بين 120 و180. وبالضبط 144."
+          "es": "No: 6 veces 20 son 120 y 6 veces 30 son 180, así que el resultado está entre 120 y 180, lejos de 300.",
+          "va": "No: 6 vegades 20 són 120 i 6 vegades 30 són 180, així que el resultat està entre 120 i 180, lluny de 300.",
+          "en": "No: 6 times 20 is 120 and 6 times 30 is 180, so the answer is between 120 and 180, far from 300.",
+          "fr": "Non : 6 fois 20, ça fait 120, et 6 fois 30, ça fait 180, donc le résultat est entre 120 et 180, loin de 300.",
+          "ar": "لا: 6 مرات 20 تساوي 120، و6 مرات 30 تساوي 180، إذن النتيجة بين 120 و180، بعيدة عن 300."
         }
       },
       "inventala": {
@@ -227,11 +227,11 @@
         "resultado": 279,
         "unidad": "euros",
         "texto": {
-          "es": "Más o menos 270 €. Exactamente, 279 €.",
-          "va": "Més o menys 270 €. Exactament, 279 €.",
-          "en": "About 270 €. Exactly, 279 €.",
-          "fr": "Environ 270 €. Exactement, 279 €.",
-          "ar": "نحو 270 يورو. وبالضبط 279 يورو."
+          "es": "Más o menos 270 €: por ejemplo, {{30 × 9 = 270}} (otro redondeo cercano también vale). Exactamente, 279 €.",
+          "va": "Més o menys 270 €: per exemple, {{30 × 9 = 270}} (un altre arredoniment pròxim també val). Exactament, 279 €.",
+          "en": "About 270 €: for example, {{30 × 9 = 270}} (another close rounding is fine too). Exactly, 279 €.",
+          "fr": "Environ 270 € : par exemple, {{30 × 9 = 270}} (un autre arrondi proche convient aussi). Exactement, 279 €.",
+          "ar": "نحو 270 يورو: مثلًا {{30 × 9 = 270}} (وأي تقريب قريب آخر يصلح أيضًا). وبالضبط 279 يورو."
         }
       },
       "inventala": {
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "adbd7cfa4400"
+        "huella": "b31b9908ac4b"
       },
       "en": {
         "estado": "automatica",
-        "huella": "adbd7cfa4400"
+        "huella": "b31b9908ac4b"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "adbd7cfa4400"
+        "huella": "b31b9908ac4b"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "adbd7cfa4400"
+        "huella": "b31b9908ac4b"
       }
     }
   }

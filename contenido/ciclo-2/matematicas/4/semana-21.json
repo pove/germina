@@ -266,11 +266,11 @@
         "resultado": 253,
         "unidad": "euros",
         "texto": {
-          "es": "A ojo, unos 230 €, porque {{23 × 10 = 230}}. Exactamente, 253 €.",
-          "va": "A ull, uns 230 €, perquè {{23 × 10 = 230}}. Exactament, 253 €.",
-          "en": "Roughly 230 €, because {{23 × 10 = 230}}. Exactly, 253 €.",
-          "fr": "À vue d'œil, environ 230 €, parce que {{23 × 10 = 230}}. Exactement, 253 €.",
-          "ar": "بالتقريب نحو 230 يورو، لأن {{23 × 10 = 230}}. وبالضبط 253 يورو."
+          "es": "A ojo, algo más de 230 €, porque {{23 × 10 = 230}} y falta una semana. Exactamente, 253 €.",
+          "va": "A ull, una mica més de 230 €, perquè {{23 × 10 = 230}} i falta una setmana. Exactament, 253 €.",
+          "en": "Roughly, a bit more than 230 €, because {{23 × 10 = 230}} and there's one more week. Exactly, 253 €.",
+          "fr": "À vue d'œil, un peu plus de 230 €, parce que {{23 × 10 = 230}} et il reste une semaine. Exactement, 253 €.",
+          "ar": "بالتقريب أكثر بقليل من 230 يورو، لأن {{23 × 10 = 230}} ويبقى أسبوع واحد. وبالضبط 253 يورو."
         }
       },
       "inventala": {
@@ -318,19 +318,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "73545ede5081"
+        "huella": "fdf64ebd30f3"
       },
       "en": {
         "estado": "automatica",
-        "huella": "73545ede5081"
+        "huella": "fdf64ebd30f3"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "73545ede5081"
+        "huella": "fdf64ebd30f3"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "73545ede5081"
+        "huella": "fdf64ebd30f3"
       }
     }
   }

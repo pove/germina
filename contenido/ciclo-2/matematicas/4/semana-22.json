@@ -281,11 +281,11 @@
         "resultado": 288,
         "unidad": "unidades",
         "texto": {
-          "es": "Sí: {{50 × 6 = 300}}, y 48 es un poco menos. Exactamente son 288.",
-          "va": "Sí: {{50 × 6 = 300}}, i 48 és una mica menys. Exactament són 288.",
-          "en": "Yes: {{50 × 6 = 300}}, and 48 is a little less. Exactly, it's 288.",
-          "fr": "Oui : {{50 × 6 = 300}}, et 48, c'est un peu moins. Exactement, ça fait 288.",
-          "ar": "نعم: {{50 × 6 = 300}}، و48 أقل قليلًا. وبالضبط 288."
+          "es": "Sí: 48 es casi 50, y {{50 × 6 = 300}}. Saldrá un poco menos de 300.",
+          "va": "Sí: 48 és quasi 50, i {{50 × 6 = 300}}. Eixirà una mica menys de 300.",
+          "en": "Yes: 48 is almost 50, and {{50 × 6 = 300}}. It will be a little under 300.",
+          "fr": "Oui : 48, c'est presque 50, et {{50 × 6 = 300}}. Ça fera un peu moins de 300.",
+          "ar": "نعم: العدد 48 يقارب 50، و{{50 × 6 = 300}}. ستكون النتيجة أقل من 300 بقليل."
         }
       },
       "inventala": {
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d2c5139d4875"
+        "huella": "97ae31a291a6"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d2c5139d4875"
+        "huella": "97ae31a291a6"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d2c5139d4875"
+        "huella": "97ae31a291a6"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d2c5139d4875"
+        "huella": "97ae31a291a6"
       }
     }
   }

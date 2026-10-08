@@ -149,11 +149,11 @@
         "resultado": 1008,
         "unidad": "unidades",
         "texto": {
-          "es": "Unos 1000, porque {{50 × 20 = 1000}}. Exactamente son 1008.",
-          "va": "Uns 1000, perquè {{50 × 20 = 1000}}. Exactament són 1008.",
-          "en": "About 1000, because {{50 × 20 = 1000}}. Exactly, it's 1008.",
-          "fr": "Environ 1000, parce que {{50 × 20 = 1000}}. Exactement, ça fait 1008.",
-          "ar": "نحو 1000، لأن {{50 × 20 = 1000}}. وبالضبط 1008."
+          "es": "A ojo, unos 1000: por ejemplo, {{50 × 20 = 1000}} (otro redondeo cercano también vale). Exactamente son 1008.",
+          "va": "A ull, uns 1000: per exemple, {{50 × 20 = 1000}} (un altre arredoniment pròxim també val). Exactament són 1008.",
+          "en": "Roughly 1000: for example, {{50 × 20 = 1000}} (another close rounding is fine too). Exactly, it's 1008.",
+          "fr": "À vue d'œil, environ 1000 : par exemple, {{50 × 20 = 1000}} (un autre arrondi proche convient aussi). Exactement, ça fait 1008.",
+          "ar": "بالتقريب نحو 1000: مثلًا {{50 × 20 = 1000}} (وأي تقريب قريب آخر يصلح أيضًا). وبالضبط 1008."
         }
       },
       "inventala": {
@@ -188,11 +188,11 @@
         "resultado": 364,
         "unidad": "euros",
         "texto": {
-          "es": "Más de 300 €: a ojo, {{15 × 25 = 375}}. Exactamente pagan 364 €.",
-          "va": "Més de 300 €: a ull, {{15 × 25 = 375}}. Exactament paguen 364 €.",
-          "en": "More than 300 €: roughly, {{15 × 25 = 375}}. Exactly, they pay 364 €.",
-          "fr": "Plus de 300 € : à vue d'œil, {{15 × 25 = 375}}. Exactement, ils paient 364 €.",
-          "ar": "أكثر من 300 يورو: بالتقريب {{15 × 25 = 375}}. وبالضبط يدفعون 364 يورو."
+          "es": "Más de 300 €: a ojo, por ejemplo, {{15 × 25 = 375}} (otro redondeo cercano también vale). Exactamente pagan 364 €.",
+          "va": "Més de 300 €: a ull, per exemple, {{15 × 25 = 375}} (un altre arredoniment pròxim també val). Exactament paguen 364 €.",
+          "en": "More than 300 €: roughly, for example, {{15 × 25 = 375}} (another close rounding is fine too). Exactly, they pay 364 €.",
+          "fr": "Plus de 300 € : à vue d'œil, par exemple, {{15 × 25 = 375}} (un autre arrondi proche convient aussi). Exactement, ils paient 364 €.",
+          "ar": "أكثر من 300 يورو: بالتقريب مثلًا {{15 × 25 = 375}} (وأي تقريب قريب آخر يصلح أيضًا). وبالضبط يدفعون 364 يورو."
         }
       },
       "inventala": {
@@ -227,11 +227,11 @@
         "resultado": 800,
         "unidad": "unidades",
         "texto": {
-          "es": "A ojo sale {{40 × 20 = 800}}, así que 7030 es demasiado. La cuenta da 703.",
-          "va": "A ull ix {{40 × 20 = 800}}, així que 7030 és massa. El compte dona 703.",
-          "en": "Roughly, {{40 × 20 = 800}}, so 7030 is far too much. The sum comes to 703.",
-          "fr": "À vue d'œil, {{40 × 20 = 800}}, donc 7030, c'est beaucoup trop. Le calcul donne 703.",
-          "ar": "بالتقريب {{40 × 20 = 800}}، إذن 7030 كثير جدًا. والحساب يعطي 703."
+          "es": "A ojo, {{40 × 20 = 800}}: saldrá unos cientos, no miles, así que 7030 es demasiado. La cuenta da 703.",
+          "va": "A ull, {{40 × 20 = 800}}: eixirà uns quants centenars, no milers, així que 7030 és massa. El compte dona 703.",
+          "en": "Roughly, {{40 × 20 = 800}}: the answer is in the hundreds, not the thousands, so 7030 is far too much. The sum comes to 703.",
+          "fr": "À vue d'œil, {{40 × 20 = 800}} : ça donne quelques centaines, pas des milliers, donc 7030, c'est beaucoup trop. Le calcul donne 703.",
+          "ar": "بالتقريب {{40 × 20 = 800}}: النتيجة بالمئات لا بالآلاف، إذن 7030 كثير جدًا. والحساب يعطي 703."
         }
       },
       "inventala": {
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "2d325da6482a"
+        "huella": "c9218a31bd5a"
       },
       "en": {
         "estado": "automatica",
-        "huella": "2d325da6482a"
+        "huella": "c9218a31bd5a"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "2d325da6482a"
+        "huella": "c9218a31bd5a"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "2d325da6482a"
+        "huella": "c9218a31bd5a"
       }
     }
   }

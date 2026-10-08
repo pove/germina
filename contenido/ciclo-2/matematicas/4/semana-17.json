@@ -277,11 +277,11 @@
         "resultado": 400,
         "unidad": "unidades",
         "texto": {
-          "es": "Cerca de 400: {{8 × 50 = 400}}. Exactamente son 384.",
-          "va": "Prop de 400: {{8 × 50 = 400}}. Exactament són 384.",
-          "en": "Close to 400: {{8 × 50 = 400}}. Exactly, it's 384.",
-          "fr": "Près de 400 : {{8 × 50 = 400}}. Exactement, ça fait 384.",
-          "ar": "قرابة 400: {{8 × 50 = 400}}. وبالضبط 384."
+          "es": "Cerca de 400: 48 es casi 50, y {{8 × 50 = 400}}.",
+          "va": "Prop de 400: 48 és quasi 50, i {{8 × 50 = 400}}.",
+          "en": "Close to 400: 48 is almost 50, and {{8 × 50 = 400}}.",
+          "fr": "Près de 400 : 48, c'est presque 50, et {{8 × 50 = 400}}.",
+          "ar": "قرابة 400: العدد 48 يقارب 50، و{{8 × 50 = 400}}."
         }
       },
       "inventala": {
@@ -329,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "bd5d391e1720"
+        "huella": "dc08805a98a5"
       },
       "en": {
         "estado": "automatica",
-        "huella": "bd5d391e1720"
+        "huella": "dc08805a98a5"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "bd5d391e1720"
+        "huella": "dc08805a98a5"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "bd5d391e1720"
+        "huella": "dc08805a98a5"
       }
     }
   }
