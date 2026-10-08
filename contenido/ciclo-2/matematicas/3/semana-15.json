@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s15",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 15,
+  "tipo": "tema",
+  "titulo": {
+    "es": "La tienda",
+    "va": "La botiga",
+    "en": "The shop",
+    "fr": "Le magasin",
+    "ar": "الدكّان"
+  },
+  "objetivo": {
+    "es": "Esta semana juegan con euros y céntimos: ven que 1 € son 100 céntimos, pagan con 5 € y calculan la vuelta contando hacia arriba, como se hace en las tiendas.",
+    "va": "Aquesta setmana juguen amb euros i cèntims (céntimos): veuen que 1 € són 100 cèntims, paguen amb 5 € i calculen el canvi (la vuelta) comptant cap amunt, com es fa a les botigues.",
+    "en": "This week they play with euros and cents (céntimos): they see that 1 € is 100 cents, pay with 5 € and work out the change (la vuelta) by counting up, as shops do.",
+    "fr": "Cette semaine, on joue avec les euros et les centimes (céntimos) : on voit que 1 € fait 100 centimes, on paie avec 5 € et on calcule la monnaie (la vuelta) en comptant en avançant, comme dans les magasins.",
+    "ar": "هذا الأسبوع يلعب الأطفال باليورو والسنتات (céntimos): يرون أن 1 يورو يساوي 100 سنت، ويدفعون 5 يورو ويحسبون الباقي من المال (la vuelta) بالعدّ صعودًا، كما يُفعل في المحلّات."
+  },
+  "comoAyudar": {
+    "es": "Si sale la ocasión en una tienda de verdad, dejad que pague y cuente la vuelta. Y en casa, que sea vuestro hijo o hija quien ponga los precios.",
+    "va": "Si ix l'ocasió en una botiga de veritat, deixeu que pague i compte el canvi. I a casa, que siga el vostre fill o filla qui pose els preus.",
+    "en": "If the chance comes up in a real shop, let your child pay and count the change. And at home, let them set the prices.",
+    "fr": "Si l'occasion se présente dans un vrai magasin, laissez votre enfant payer et compter la monnaie. Et à la maison, c'est lui ou elle qui fixe les prix.",
+    "ar": "إذا سنحت الفرصة في محلّ حقيقي، اتركوا ابنكم أو ابنتكم يدفع ويعدّ الباقي. وفي البيت، ليكن هو أو هي من يضع الأسعار."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c2.1.1",
+    "matematicas.c2.7.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La tienda de casa con monedas",
+      "va": "La botiga de casa amb monedes",
+      "en": "The home shop with coins",
+      "fr": "Le magasin de la maison avec des pièces",
+      "ar": "دكّان البيت بالقطع النقدية"
+    },
+    "material": [
+      {
+        "es": "Monedas de verdad o de papel: de 2 €, de 1 € y de 50, 20 y 10 céntimos",
+        "va": "Monedes de veritat o de paper: de 2 €, d'1 € i de 50, 20 i 10 cèntims",
+        "en": "Real or paper coins: 2 €, 1 €, and 50, 20 and 10 cents",
+        "fr": "Des pièces vraies ou en papier : 2 €, 1 €, et 50, 20 et 10 centimes",
+        "ar": "قطع نقدية حقيقية أو ورقية: 2 يورو، 1 يورو، و50 و20 و10 سنتات"
+      },
+      {
+        "es": "Un billete de 5 € (de verdad o de papel)",
+        "va": "Un bitllet de 5 € (de veritat o de paper)",
+        "en": "A 5 € note (real or paper)",
+        "fr": "Un billet de 5 € (vrai ou en papier)",
+        "ar": "ورقة نقدية من فئة 5 يورو (حقيقية أو من ورق)"
+      },
+      {
+        "es": "Cosas de casa para vender, con un papelito de precio",
+        "va": "Coses de casa per a vendre, amb un paperet de preu",
+        "en": "Things from home to sell, each with a little price tag",
+        "fr": "Des choses de la maison à vendre, avec une petite étiquette de prix",
+        "ar": "أشياء من البيت للبيع، على كل منها ورقة صغيرة بالسعر"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Mirad las monedas: ¿cuántas de 50 céntimos hacen 1 €? ¿Y cuántas de 10 céntimos? 1 € son 100 céntimos.",
+          "va": "Mireu les monedes: quantes de 50 cèntims fan 1 €? I quantes de 10 cèntims? 1 € són 100 cèntims.",
+          "en": "Look at the coins: how many 50-cent coins make 1 €? And how many 10-cent coins? 1 € is 100 cents.",
+          "fr": "Regardez les pièces : combien de pièces de 50 centimes font 1 € ? Et combien de 10 centimes ? 1 €, c'est 100 centimes.",
+          "ar": "انظروا إلى القطع النقدية: كم قطعة من فئة 50 سنتًا تساوي 1 يورو؟ وكم قطعة من فئة 10 سنتات؟ 1 يورو يساوي 100 سنت."
+        }
+      },
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Poned precio a cuatro o cinco cosas de casa, siempre por debajo de 5 €: la manzana, 1,50 €; el cuento, 3,20 €.",
+          "va": "Poseu preu a quatre o cinc coses de casa, sempre per davall de 5 €: la poma, 1,50 €; el conte, 3,20 €.",
+          "en": "Put prices on four or five things from home, always under 5 €: the apple, 1,50 €; the storybook, 3,20 €.",
+          "fr": "Mettez un prix sur quatre ou cinq choses de la maison, toujours en dessous de 5 € : la pomme, 1,50 € ; le livre, 3,20 €.",
+          "ar": "ضعوا أسعارًا لأربعة أو خمسة أشياء من البيت، دائمًا أقل من 5 يورو: التفاحة 1,50 يورو، والقصة 3,20 يورو."
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Quien compra paga con el billete de 5 €. Quien vende cuenta hacia arriba con monedas: de 3,20 € a 4 € van 80 céntimos, y de 4 € a 5 €, 1 €. La vuelta es 1,80 €.",
+          "va": "Qui compra paga amb el bitllet de 5 €. Qui ven compta cap amunt amb monedes: de 3,20 € a 4 € en van 80 cèntims, i de 4 € a 5 €, 1 €. El canvi és 1,80 €.",
+          "en": "The buyer pays with the 5 € note. The seller counts up with coins: from 3,20 € to 4 € is 80 cents, and from 4 € to 5 €, 1 €. The change is 1,80 €.",
+          "fr": "Qui achète paie avec le billet de 5 €. Qui vend compte en avançant avec des pièces : de 3,20 € à 4 €, ça fait 80 centimes, et de 4 € à 5 €, 1 €. La monnaie est de 1,80 €.",
+          "ar": "من يشتري يدفع بورقة الـ5 يورو. ومن يبيع يعدّ صعودًا بالقطع النقدية: من 3,20 يورو إلى 4 يورو هناك 80 سنتًا، ومن 4 يورو إلى 5 يورو، 1 يورو. الباقي 1,80 يورو."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Juntad el precio y la vuelta: si dan 5 €, la cuenta cuadra. Después, cambiad los papeles.",
+          "va": "Ajunteu el preu i el canvi: si fan 5 €, el compte quadra. Després, canvieu els papers.",
+          "en": "Put the price and the change together: if they make 5 €, it adds up. Then swap roles.",
+          "fr": "Rassemblez le prix et la monnaie : si ça fait 5 €, le compte est bon. Ensuite, échangez les rôles.",
+          "ar": "اجمعوا السعر والباقي: إذا كان المجموع 5 يورو، فالحساب صحيح. ثم تبادلوا الأدوار."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad precios en euros enteros (2 €, 3 €) o con 50 céntimos (1,50 €).",
+      "va": "Feu servir preus en euros sencers (2 €, 3 €) o amb 50 cèntims (1,50 €).",
+      "en": "Use prices in whole euros (2 €, 3 €) or with 50 cents (1,50 €).",
+      "fr": "Utilisez des prix en euros entiers (2 €, 3 €) ou avec 50 centimes (1,50 €).",
+      "ar": "استعملوا أسعارًا باليورو الكامل (2 يورو، 3 يورو) أو مع 50 سنتًا (1,50 يورو)."
+    },
+    "masDificil": {
+      "es": "Comprad dos cosas a la vez con el mismo billete de 5 € y calculad primero cuánto cuestan juntas.",
+      "va": "Compreu dues coses alhora amb el mateix bitllet de 5 € i calculeu primer quant costen juntes.",
+      "en": "Buy two things at once with the same 5 € note and first work out how much they cost together.",
+      "fr": "Achetez deux choses à la fois avec le même billet de 5 € et calculez d'abord combien elles coûtent ensemble.",
+      "ar": "اشتروا شيئين معًا بورقة الـ5 يورو نفسها، واحسبوا أولًا كم يكلّفان معًا."
+    },
+    "paraQueSirve": {
+      "es": "Contar hacia arriba es como se da la vuelta en las tiendas, y manejar monedas ayuda a entender que 100 céntimos son 1 €, lo que prepara los números con coma.",
+      "va": "Comptar cap amunt és com es dona el canvi a les botigues, i manejar monedes ajuda a entendre que 100 cèntims són 1 €, cosa que prepara els números amb coma.",
+      "en": "Counting up is how shops give change, and handling coins helps them understand that 100 cents is 1 €, which prepares them for decimal numbers.",
+      "fr": "Compter en avançant, c'est comme ça qu'on rend la monnaie dans les magasins, et manipuler des pièces aide à comprendre que 100 centimes font 1 €, ce qui prépare les nombres à virgule.",
+      "ar": "العدّ صعودًا هو طريقة إعطاء الباقي في المحلّات، والتعامل مع القطع النقدية يساعد على فهم أن 100 سنت تساوي 1 يورو، وهذا يمهّد للأعداد العشرية."
+    },
+    "aviso": {
+      "es": "Guardad las monedas lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu les monedes lluny de germans o germanes menuts.",
+      "en": "Keep the coins away from younger brothers and sisters.",
+      "fr": "Gardez les pièces loin des petits frères et sœurs.",
+      "ar": "أبعدوا القطع النقدية عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Tienes una moneda de 1 € y una de 50 céntimos. ¿Cuánto dinero tienes?",
+        "va": "Tens una moneda d'1 € i una de 50 cèntims. Quants diners tens?",
+        "en": "You have a 1 € coin and a 50-cent coin. How much money do you have?",
+        "fr": "Tu as une pièce de 1 € et une de 50 centimes. Combien d'argent as-tu ?",
+        "ar": "معنا قطعة نقدية من فئة 1 يورو وأخرى من فئة 50 سنتًا. كم من المال معنا؟"
+      },
+      "pista": {
+        "es": "1 € son 100 céntimos. Súmale los 50.",
+        "va": "1 € són 100 cèntims. Suma-hi els 50.",
+        "en": "1 € is 100 cents. Add the 50.",
+        "fr": "1 €, c'est 100 centimes. Ajoute les 50.",
+        "ar": "1 يورو يساوي 100 سنت. لنضف إليها 50."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 + 50",
+        "resultado": 150,
+        "unidad": "cent",
+        "texto": {
+          "es": "Tienes 1,50 €.",
+          "va": "Tens 1,50 €.",
+          "en": "You have 1,50 €.",
+          "fr": "Tu as 1,50 €.",
+          "ar": "معنا 1,50 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos o tres monedas distintas.",
+        "va": "Inventa'n tu una amb dues o tres monedes diferents.",
+        "en": "Make one up with two or three different coins.",
+        "fr": "Invente un problème avec deux ou trois pièces différentes.",
+        "ar": "لنخترع مسألة بقطعتين أو ثلاث قطع نقدية مختلفة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Un zumo cuesta 70 céntimos y pagas con 1 €. ¿Cuánto te devuelven?",
+        "va": "Un suc costa 70 cèntims i pagues amb 1 €. Quant et tornen?",
+        "en": "A juice costs 70 cents and you pay with 1 €. How much change do you get?",
+        "fr": "Un jus coûte 70 centimes et tu paies avec 1 €. Combien on te rend ?",
+        "ar": "ثمن العصير 70 سنتًا وندفع 1 يورو. كم يعيدون لنا؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba de 10 en 10: 80, 90, 100.",
+        "va": "Compta cap amunt de 10 en 10: 80, 90, 100.",
+        "en": "Count up in tens: 80, 90, 100.",
+        "fr": "Compte en avançant de 10 en 10 : 80, 90, 100.",
+        "ar": "لنعدّ صعودًا عشرةً عشرة: 80، 90، 100."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 70",
+        "resultado": 30,
+        "unidad": "cent",
+        "texto": {
+          "es": "Te devuelven 30 céntimos.",
+          "va": "Et tornen 30 cèntims.",
+          "en": "You get 30 cents change.",
+          "fr": "On te rend 30 centimes.",
+          "ar": "يعيدون لنا 30 سنتًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de pagar algo con una moneda de 1 €.",
+        "va": "Inventa'n tu una de pagar alguna cosa amb una moneda d'1 €.",
+        "en": "Make one up about paying for something with a 1 € coin.",
+        "fr": "Invente un problème où l'on paie quelque chose avec une pièce de 1 €.",
+        "ar": "لنخترع مسألة ندفع فيها ثمن شيء بقطعة من فئة 1 يورو."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "El padre de Rubén compra un cuaderno de 3,50 € y paga con 5 €. ¿Cuál es la vuelta?",
+        "va": "El pare de Rubén compra un quadern de 3,50 € i paga amb 5 €. Quin és el canvi?",
+        "en": "Rubén's dad buys a notebook for 3,50 € and pays with 5 €. What is the change?",
+        "fr": "Le papa de Rubén achète un cahier à 3,50 € et paie avec 5 €. Combien on lui rend ?",
+        "ar": "اشترى والد روبن دفترًا بـ3,50 يورو ودفع 5 يورو. كم الباقي؟"
+      },
+      "pista": {
+        "es": "De 3,50 € a 4 € van 50 céntimos. De 4 € a 5 €, 1 € más.",
+        "va": "De 3,50 € a 4 € en van 50 cèntims. De 4 € a 5 €, 1 € més.",
+        "en": "From 3,50 € to 4 € is 50 cents. From 4 € to 5 €, 1 € more.",
+        "fr": "De 3,50 € à 4 €, ça fait 50 centimes. De 4 € à 5 €, 1 € de plus.",
+        "ar": "من 3,50 يورو إلى 4 يورو هناك 50 سنتًا. ومن 4 يورو إلى 5 يورو، 1 يورو آخر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "500 - 350",
+        "resultado": 150,
+        "unidad": "cent",
+        "texto": {
+          "es": "La vuelta es 1,50 €.",
+          "va": "El canvi és 1,50 €.",
+          "en": "The change is 1,50 €.",
+          "fr": "On lui rend 1,50 €.",
+          "ar": "الباقي 1,50 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar algo de la papelería con 5 €.",
+        "va": "Inventa'n tu una de comprar alguna cosa de la papereria amb 5 €.",
+        "en": "Make one up about buying something at the stationery shop with 5 €.",
+        "fr": "Invente un problème où l'on achète quelque chose à la papeterie avec 5 €.",
+        "ar": "لنخترع مسألة نشتري فيها شيئًا من المكتبة بـ5 يورو."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: ¿cuántos dedos hay en 7 manos?",
+        "va": "Per a recordar: quants dits hi ha en 7 mans?",
+        "en": "Let's remember: how many fingers are there on 7 hands?",
+        "fr": "Pour se souvenir : combien y a-t-il de doigts sur 7 mains ?",
+        "ar": "لنتذكّر: كم إصبعًا في 7 أيدٍ؟"
+      },
+      "pista": {
+        "es": "Cuenta de 5 en 5: 5, 10, 15, 20…",
+        "va": "Compta de 5 en 5: 5, 10, 15, 20…",
+        "en": "Count in fives: 5, 10, 15, 20…",
+        "fr": "Compte de 5 en 5 : 5, 10, 15, 20…",
+        "ar": "لنعدّ خمسًا خمسًا: 5، 10، 15، 20…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 5",
+        "resultado": 35,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 35 dedos: {{7 × 5 = 35}}.",
+          "va": "Hi ha 35 dits: {{7 × 5 = 35}}.",
+          "en": "There are 35 fingers: {{7 × 5 = 35}}.",
+          "fr": "Il y a 35 doigts : {{7 × 5 = 35}}.",
+          "ar": "هناك 35 إصبعًا: {{7 × 5 = 35}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de la tabla del 5 con cosas de casa.",
+        "va": "Inventa'n tu una de la taula del 5 amb coses de casa.",
+        "en": "Make one up from the 5 times table with things from home.",
+        "fr": "Invente un problème de la table de 5 avec des choses de la maison.",
+        "ar": "لنخترع مسألة من جدول ضرب 5 بأشياء من البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si alguien paga con 5 € algo que cuesta 4,20 €, ¿cómo le das la vuelta? Explícamelo como si fueras de la tienda.",
+        "va": "Si algú paga amb 5 € una cosa que costa 4,20 €, com li tornes el canvi? Explica-m'ho com si fores de la botiga.",
+        "en": "If someone pays with 5 € for something that costs 4,20 €, how do you give them their change? Explain it to me as if you worked in the shop.",
+        "fr": "Si quelqu'un paie avec 5 € quelque chose qui coûte 4,20 €, comment tu lui rends la monnaie ? Explique-le-moi comme si tu tenais le magasin.",
+        "ar": "إذا دفع أحدهم 5 يورو ثمن شيء سعره 4,20 يورو، فكيف نعيد له الباقي؟ اشرح لي أو اشرحي لي كأنّك صاحب الدكّان أو صاحبته."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuánto falta de 4,20 € a 4,50 €? ¿Y de 4,50 € a 5 €?»",
+        "va": "Si no sap per on començar: «Quant falta de 4,20 € a 4,50 €? I de 4,50 € a 5 €?»",
+        "en": "If they don't know where to start: “How much is it from 4,20 € to 4,50 €? And from 4,50 € to 5 €?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien il manque de 4,20 € à 4,50 € ? Et de 4,50 € à 5 € ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم ينقص من 4,20 يورو إلى 4,50 يورو؟ ومن 4,50 يورو إلى 5 يورو؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede contar hacia arriba (4,30, 4,40, 4,50 y 5 €) o pensar en céntimos. La vuelta son 80 céntimos; si sale otra cosa, preguntad cómo lo ha pensado y probad juntos con monedas.",
+          "va": "Pot comptar cap amunt (4,30, 4,40, 4,50 i 5 €) o pensar en cèntims. El canvi són 80 cèntims; si ix una altra cosa, pregunteu com ho ha pensat i proveu junts amb monedes.",
+          "en": "They might count up (4,30, 4,40, 4,50 and 5 €) or think in cents. The change is 80 cents; if they get something else, ask how they worked it out and try together with coins.",
+          "fr": "Il ou elle peut compter en avançant (4,30, 4,40, 4,50 et 5 €) ou penser en centimes. La monnaie est de 80 centimes ; si ça donne autre chose, demandez comment il ou elle a réfléchi et essayez ensemble avec des pièces.",
+          "ar": "قد يعدّ صعودًا (4,30، 4,40، 4,50، ثم 5 يورو) أو يفكّر بالسنتات. الباقي 80 سنتًا؛ وإذا خرجت نتيجة أخرى، اسألوا كيف كان التفكير وجرّبوا معًا بالقطع النقدية."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b2c98f59b927"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b2c98f59b927"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b2c98f59b927"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b2c98f59b927"
+      }
+    }
+  }
+}

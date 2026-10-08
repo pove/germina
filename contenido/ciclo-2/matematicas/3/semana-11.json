@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s11",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 11,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Grupos iguales",
+    "va": "Grups iguals",
+    "en": "Equal groups",
+    "fr": "Des groupes égaux",
+    "ar": "مجموعات متساوية"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren que multiplicar es sumar grupos iguales: 4 pares de calcetines son {{2 + 2 + 2 + 2 = 8}}, y eso se escribe más corto {{4 × 2 = 8}}. Se lee «4 veces 2».",
+    "va": "Aquesta setmana descobreixen que multiplicar és sumar grups iguals: 4 parells de calcetins són {{2 + 2 + 2 + 2 = 8}}, i això s'escriu més curt {{4 × 2 = 8}}. Es llig «4 vegades 2». A classe es diu multiplicació (multiplicación).",
+    "en": "This week they discover that multiplying is adding equal groups: 4 pairs of socks are {{2 + 2 + 2 + 2 = 8}}, and that is written more briefly as {{4 × 2 = 8}}. It is read “4 times 2”. In class it is called multiplicación (multiplication).",
+    "fr": "Cette semaine, on découvre que multiplier, c'est ajouter des groupes égaux : 4 paires de chaussettes, c'est {{2 + 2 + 2 + 2 = 8}}, et ça s'écrit plus court {{4 × 2 = 8}}. On lit « 4 fois 2 ». En classe, on dit multiplication (multiplicación).",
+    "ar": "هذا الأسبوع يكتشف الأطفال أن الضرب (multiplicación) هو جمع مجموعات متساوية: 4 أزواج من الجوارب هي {{2 + 2 + 2 + 2 = 8}}، وتُكتب باختصار {{4 × 2 = 8}}. وتُقرأ «4 مرات 2»."
+  },
+  "comoAyudar": {
+    "es": "Antes de contar de uno en uno, preguntad «¿cuántos grupos hay? ¿Cuántos hay en cada grupo?». Contar de uno en uno también vale: es el camino para ver que sumar grupos es más rápido.",
+    "va": "Abans de comptar d'un en un, pregunteu «quants grups hi ha? Quants n'hi ha en cada grup?». Comptar d'un en un també val: és el camí per a veure que sumar grups és més ràpid.",
+    "en": "Before counting one by one, ask “How many groups are there? How many are in each group?” Counting one by one is fine too: it's the way to see that adding groups is quicker.",
+    "fr": "Avant de compter un par un, demandez « Combien de groupes il y a ? Combien dans chaque groupe ? ». Compter un par un, c'est bien aussi : c'est le chemin pour voir qu'ajouter des groupes va plus vite.",
+    "ar": "قبل العدّ واحدًا واحدًا، اسألوا «كم مجموعة هناك؟ وكم في كل مجموعة؟». والعدّ واحدًا واحدًا مقبول أيضًا: فهو الطريق لرؤية أن جمع المجموعات أسرع."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.2.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La despensa en grupos",
+      "va": "El rebost en grups",
+      "en": "The cupboard in groups",
+      "fr": "Le placard en groupes",
+      "ar": "المؤونة في مجموعات"
+    },
+    "material": [
+      {
+        "es": "Cosas de casa que vengan en grupos: packs de yogures, una huevera, calcetines por pares",
+        "va": "Coses de casa que vinguen en grups: paquets de iogurts, una ouera, calcetins per parells",
+        "en": "Things at home that come in groups: packs of yoghurts, an egg box, pairs of socks",
+        "fr": "Des choses de la maison qui vont par groupes : des packs de yaourts, une boîte d'œufs, des chaussettes par paires",
+        "ar": "أشياء في البيت تأتي في مجموعات: علب الزبادي، علبة بيض، جوارب أزواجًا"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "nevera",
+        "texto": {
+          "es": "Buscad por casa cosas que vengan en grupos iguales: los yogures de la nevera, los huevos de la huevera, los calcetines por pares.",
+          "va": "Busqueu per casa coses que vinguen en grups iguals: els iogurts del frigorífic, els ous de l'ouera, els calcetins per parells.",
+          "en": "Look around the house for things that come in equal groups: yoghurts in the fridge, eggs in the egg box, socks in pairs.",
+          "fr": "Cherchez dans la maison des choses qui vont par groupes égaux : les yaourts du frigo, les œufs de la boîte, les chaussettes par paires.",
+          "ar": "ابحثوا في البيت عن أشياء تأتي في مجموعات متساوية: الزبادي في الثلاجة، البيض في علبته، الجوارب أزواجًا."
+        }
+      },
+      {
+        "pictograma": "calcetin",
+        "texto": {
+          "es": "Elegid una y contadla por grupos, en voz alta. Con 4 pares de calcetines: 2, 4, 6, 8.",
+          "va": "Trieu-ne una i compteu-la per grups, en veu alta. Amb 4 parells de calcetins: 2, 4, 6, 8.",
+          "en": "Choose one and count it in groups, out loud. With 4 pairs of socks: 2, 4, 6, 8.",
+          "fr": "Choisissez-en une et comptez par groupes, à voix haute. Avec 4 paires de chaussettes : 2, 4, 6, 8.",
+          "ar": "اختاروا واحدة منها وعدّوها بالمجموعات بصوت عالٍ. مع 4 أزواج من الجوارب: 2، 4، 6، 8."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid la suma y la multiplicación: {{2 + 2 + 2 + 2 = 8}} y {{4 × 2 = 8}}. El primer número dice cuántos grupos hay; el segundo, cuántos hay en cada grupo.",
+          "va": "Escriviu la suma i la multiplicació: {{2 + 2 + 2 + 2 = 8}} i {{4 × 2 = 8}}. El primer número diu quants grups hi ha; el segon, quants n'hi ha en cada grup.",
+          "en": "Write the addition and the multiplication: {{2 + 2 + 2 + 2 = 8}} and {{4 × 2 = 8}}. The first number says how many groups there are; the second, how many are in each group.",
+          "fr": "Écrivez l'addition et la multiplication : {{2 + 2 + 2 + 2 = 8}} et {{4 × 2 = 8}}. Le premier nombre dit combien il y a de groupes ; le second, combien il y en a dans chaque groupe.",
+          "ar": "اكتبوا الجمع والضرب: {{2 + 2 + 2 + 2 = 8}} و{{4 × 2 = 8}}. العدد الأول يقول كم مجموعة هناك، والثاني كم في كل مجموعة."
+        }
+      },
+      {
+        "pictograma": "huevera",
+        "texto": {
+          "es": "Haced lo mismo con otra cosa. Dos hueveras de 6 huevos son {{6 + 6 = 12}}, es decir, {{2 × 6 = 12}}.",
+          "va": "Feu el mateix amb una altra cosa. Dues oueres de 6 ous són {{6 + 6 = 12}}, és a dir, {{2 × 6 = 12}}.",
+          "en": "Do the same with something else. Two egg boxes of 6 eggs are {{6 + 6 = 12}}, that is, {{2 × 6 = 12}}.",
+          "fr": "Faites pareil avec autre chose. Deux boîtes de 6 œufs, c'est {{6 + 6 = 12}}, c'est-à-dire {{2 × 6 = 12}}.",
+          "ar": "افعلوا الشيء نفسه مع شيء آخر. علبتا بيض في كل منهما 6 بيضات هما {{6 + 6 = 12}}، أي {{2 × 6 = 12}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad grupos de 2 (calcetines, zapatos, guantes) y pocos grupos: 3 pares, 4 pares.",
+      "va": "Feu servir grups de 2 (calcetins, sabates, guants) i pocs grups: 3 parells, 4 parells.",
+      "en": "Use groups of 2 (socks, shoes, gloves) and only a few groups: 3 pairs, 4 pairs.",
+      "fr": "Utilisez des groupes de 2 (chaussettes, chaussures, gants) et peu de groupes : 3 paires, 4 paires.",
+      "ar": "استعملوا مجموعات من 2 (جوارب، أحذية، قفازات) وعددًا قليلًا من المجموعات: 3 أزواج، 4 أزواج."
+    },
+    "masDificil": {
+      "es": "Buscad algo colocado en filas, como un cartón de 5 filas de 6 huevos, y escribid la multiplicación: ¿cuántas filas hay y cuántos en cada fila?",
+      "va": "Busqueu alguna cosa col·locada en files, com un cartó de 5 files de 6 ous, i escriviu la multiplicació: quantes files hi ha i quants n'hi ha en cada fila?",
+      "en": "Look for something arranged in rows, like a tray of 5 rows of 6 eggs, and write the multiplication: how many rows are there and how many in each row?",
+      "fr": "Cherchez quelque chose rangé en rangées, comme un plateau de 5 rangées de 6 œufs, et écrivez la multiplication : combien de rangées et combien dans chaque rangée ?",
+      "ar": "ابحثوا عن شيء مرتّب في صفوف، مثل كرتونة فيها 5 صفوف من 6 بيضات، واكتبوا عملية الضرب: كم صفًّا هناك وكم في كل صف؟"
+    },
+    "paraQueSirve": {
+      "es": "Ver los grupos con las manos antes de la tabla hace que el signo × tenga sentido: es una forma corta de escribir una suma que se repite.",
+      "va": "Veure els grups amb les mans abans de la taula fa que el signe × tinga sentit: és una manera curta d'escriure una suma que es repetix.",
+      "en": "Seeing the groups with their hands before learning the times table gives the × sign meaning: it's a short way of writing an addition that repeats.",
+      "fr": "Voir les groupes avec les mains avant la table donne du sens au signe × : c'est une façon courte d'écrire une addition qui se répète.",
+      "ar": "رؤية المجموعات باليدين قبل جدول الضرب تعطي الإشارة × معناها: إنها طريقة مختصرة لكتابة جمع يتكرّر."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En la nevera hay 3 packs de 4 yogures. ¿Cuántos yogures hay?",
+        "va": "Al frigorífic hi ha 3 paquets de 4 iogurts. Quants iogurts hi ha?",
+        "en": "There are 3 packs of 4 yoghurts in the fridge. How many yoghurts are there?",
+        "fr": "Dans le frigo, il y a 3 packs de 4 yaourts. Combien y a-t-il de yaourts ?",
+        "ar": "في الثلاجة 3 علب في كل منها 4 علب زبادي. كم علبة زبادي هناك؟"
+      },
+      "pista": {
+        "es": "Suma un pack detrás de otro: 4, 8 y…",
+        "va": "Suma un paquet darrere de l'altre: 4, 8 i…",
+        "en": "Add one pack after another: 4, 8 and…",
+        "fr": "Ajoute un pack après l'autre : 4, 8 et…",
+        "ar": "لنجمع علبة بعد أخرى: 4، 8، ثم…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 4",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 12 yogures: {{3 × 4 = 12}}.",
+          "va": "Hi ha 12 iogurts: {{3 × 4 = 12}}.",
+          "en": "There are 12 yoghurts: {{3 × 4 = 12}}.",
+          "fr": "Il y a 12 yaourts : {{3 × 4 = 12}}.",
+          "ar": "هناك 12 علبة زبادي: {{3 × 4 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con packs de algo que haya en tu cocina.",
+        "va": "Inventa'n tu una amb paquets d'alguna cosa que hi haja a la teua cuina.",
+        "en": "Make one up with packs of something from your kitchen.",
+        "fr": "Invente un problème avec des packs de quelque chose de ta cuisine.",
+        "ar": "لنخترع مسألة عن علب شيء موجود في مطبخنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Inés pone 5 platos en la mesa y 2 galletas en cada plato. ¿Cuántas galletas pone?",
+        "va": "Inés posa 5 plats a la taula i 2 galetes en cada plat. Quantes galetes posa?",
+        "en": "Inés puts 5 plates on the table and 2 biscuits on each plate. How many biscuits does she put out?",
+        "fr": "Inés met 5 assiettes sur la table et 2 biscuits dans chaque assiette. Combien de biscuits met-elle ?",
+        "ar": "تضع إينيس 5 صحون على الطاولة وبسكويتتين في كل صحن. كم بسكويتة تضع؟"
+      },
+      "pista": {
+        "es": "Cuenta de 2 en 2, un plato cada vez.",
+        "va": "Compta de 2 en 2, un plat cada vegada.",
+        "en": "Count in twos, one plate at a time.",
+        "fr": "Compte de 2 en 2, une assiette à la fois.",
+        "ar": "لنعدّ اثنين اثنين، صحنًا بعد صحن."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 2",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Pone 10 galletas.",
+          "va": "En posa 10.",
+          "en": "She puts out 10 biscuits.",
+          "fr": "Elle met 10 biscuits.",
+          "ar": "تضع 10 بسكويتات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se ponga lo mismo en cada plato o en cada vaso.",
+        "va": "Inventa'n tu una en què es pose el mateix en cada plat o en cada got.",
+        "en": "Make one up where the same amount goes on each plate or in each cup.",
+        "fr": "Invente un problème où l'on met la même chose dans chaque assiette ou chaque verre.",
+        "ar": "لنخترع مسألة نضع فيها العدد نفسه في كل صحن أو في كل كوب."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Las madres de Kofi compran 4 paquetes de 6 zumos. ¿Cuántos zumos son?",
+        "va": "Les mares de Kofi compren 4 paquets de 6 sucs. Quants sucs són?",
+        "en": "Kofi's mums buy 4 packs of 6 juice cartons. How many juices is that?",
+        "fr": "Les mamans de Kofi achètent 4 packs de 6 jus. Combien de jus cela fait-il ?",
+        "ar": "اشترت أمّا كوفي 4 علب في كل منها 6 عصائر. كم عصيرًا اشترتا؟"
+      },
+      "pista": {
+        "es": "6 y 6 son 12. Y 12 y 12, ¿cuántos son?",
+        "va": "6 i 6 són 12. I 12 i 12, quants són?",
+        "en": "6 and 6 make 12. And 12 and 12 make…?",
+        "fr": "6 et 6 font 12. Et 12 et 12, ça fait combien ?",
+        "ar": "6 و6 تساوي 12. و12 و12 كم تساوي؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 6",
+        "resultado": 24,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 24 zumos.",
+          "va": "Són 24 sucs.",
+          "en": "That's 24 juices.",
+          "fr": "Ça fait 24 jus.",
+          "ar": "إنها 24 عصيرًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de una compra con varios paquetes iguales.",
+        "va": "Inventa'n tu una d'una compra amb uns quants paquets iguals.",
+        "en": "Make one up about shopping with several identical packs.",
+        "fr": "Invente un problème de courses avec plusieurs paquets pareils.",
+        "ar": "لنخترع مسألة عن تسوّق فيه عدة علب متشابهة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: la biblioteca del barrio tiene 340 cuentos y le regalan 100 más. ¿Cuántos tiene ahora?",
+        "va": "Per a recordar: la biblioteca del barri té 340 contes i li'n regalen 100 més. Quants en té ara?",
+        "en": "Let's remember: the local library has 340 storybooks and is given 100 more. How many does it have now?",
+        "fr": "Pour se souvenir : la bibliothèque du quartier a 340 albums et on lui en offre 100 de plus. Combien en a-t-elle maintenant ?",
+        "ar": "لنتذكّر: في مكتبة الحيّ 340 قصة، وأُهديت إليها 100 أخرى. كم قصة فيها الآن؟"
+      },
+      "pista": {
+        "es": "Solo cambia la cifra de las centenas.",
+        "va": "Només canvia la xifra de les centenes.",
+        "en": "Only the hundreds digit changes.",
+        "fr": "Seul le chiffre des centaines change.",
+        "ar": "رقم المئات وحده يتغيّر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "340 + 100",
+        "resultado": 440,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora tiene 440 cuentos.",
+          "va": "Ara en té 440.",
+          "en": "Now it has 440 storybooks.",
+          "fr": "Maintenant, elle en a 440.",
+          "ar": "فيها الآن 440 قصة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se sumen o se resten 100.",
+        "va": "Inventa'n tu una en què se sumen o es resten 100.",
+        "en": "Make one up where you add or take away 100.",
+        "fr": "Invente un problème où l'on ajoute ou on enlève 100.",
+        "ar": "لنخترع مسألة نجمع فيها 100 أو نطرحها."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué quiere decir {{4 × 2}}? Explícamelo con cosas que haya en casa.",
+        "va": "Què vol dir {{4 × 2}}? Explica-m'ho amb coses que hi haja a casa.",
+        "en": "What does {{4 × 2}} mean? Explain it to me with things from home.",
+        "fr": "Que veut dire {{4 × 2}} ? Explique-le-moi avec des choses de la maison.",
+        "ar": "ماذا تعني {{4 × 2}}؟ اشرح لي أو اشرحي لي بأشياء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántos calcetines hay en 4 pares?»",
+        "va": "Si no sap per on començar: «Quants calcetins hi ha en 4 parells?»",
+        "en": "If they don't know where to start: “How many socks are there in 4 pairs?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de chaussettes dans 4 paires ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم جوربًا في 4 أزواج؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir «4 veces 2» o enseñar 4 grupos de 2. Si lo explica con 2 grupos de 4, también salen 8: preguntad si sale lo mismo y por qué.",
+          "va": "Pot dir «4 vegades 2» o ensenyar 4 grups de 2. Si ho explica amb 2 grups de 4, també n'ixen 8: pregunteu si ix el mateix i per què.",
+          "en": "They might say “4 times 2” or show 4 groups of 2. If they explain it with 2 groups of 4, that makes 8 too: ask whether it comes out the same and why.",
+          "fr": "Il ou elle peut dire « 4 fois 2 » ou montrer 4 groupes de 2. S'il ou elle l'explique avec 2 groupes de 4, ça fait 8 aussi : demandez si ça donne pareil et pourquoi.",
+          "ar": "قد يقول «4 مرات 2» أو يُظهر 4 مجموعات من 2. وإذا شرحها بمجموعتين من 4، فالناتج 8 أيضًا: اسألوا هل النتيجة نفسها ولماذا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "64729abbbc35"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "64729abbbc35"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "64729abbbc35"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "64729abbbc35"
+      }
+    }
+  }
+}

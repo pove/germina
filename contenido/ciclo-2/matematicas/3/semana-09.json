@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s09",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 9,
+  "tipo": "tema",
+  "titulo": {
+    "es": "De cabeza: de 10 en 10 y de 100 en 100",
+    "va": "De cap: de 10 en 10 i de 100 en 100",
+    "en": "In your head: in tens and in hundreds",
+    "fr": "De tête : de 10 en 10 et de 100 en 100",
+    "ar": "في الذهن: بالعشرات وبالمئات"
+  },
+  "objetivo": {
+    "es": "Esta semana suman y restan decenas y centenas de cabeza, como {{340 + 20}} o {{580 − 100}}. Descubren que solo cambia una cifra y que las demás se quedan quietas. En clase lo llaman «cálculo mental».",
+    "va": "Aquesta setmana sumen i resten desenes i centenes de cap, com {{340 + 20}} o {{580 − 100}}. Descobreixen que només canvia una xifra i que les altres es queden quietes. A classe ho diuen en castellà: «cálculo mental» (càlcul mental).",
+    "en": "This week they add and subtract tens and hundreds in their heads, like {{340 + 20}} or {{580 − 100}}. They discover that only one digit changes and the others stay still. In class, in Spanish, they call it «cálculo mental» (mental calculation).",
+    "fr": "Cette semaine, on ajoute et on enlève des dizaines et des centaines de tête, comme {{340 + 20}} ou {{580 − 100}}. On découvre qu'un seul chiffre change et que les autres ne bougent pas. En classe, en espagnol, on l'appelle « cálculo mental » (calcul mental).",
+    "ar": "هذا الأسبوع يجمع الأطفال ويطرحون العشرات والمئات في الذهن، مثل {{340 + 20}} أو {{580 − 100}}. يكتشفون أن رقمًا واحدًا فقط يتغيّر وأن الأرقام الأخرى تبقى كما هي. في القسم يسمّونه بالإسبانية «cálculo mental» (الحساب الذهني)."
+  },
+  "comoAyudar": {
+    "es": "Decid los números en voz alta y despacio. Si se atasca, preguntad «¿qué cifra cambia?» y dejad que mire el número escrito en un papel.",
+    "va": "Digueu els números en veu alta i a poc a poc. Si s'encalla, pregunteu «quina xifra canvia?» i deixeu que mire el número escrit en un paper.",
+    "en": "Say the numbers out loud and slowly. If your child gets stuck, ask “Which digit changes?” and let them look at the number written on paper.",
+    "fr": "Dites les nombres à voix haute et lentement. Si votre enfant bloque, demandez « Quel chiffre change ? » et laissez-le regarder le nombre écrit sur un papier.",
+    "ar": "قولوا الأعداد بصوت عالٍ وببطء. إذا توقّف ابنكم أو ابنتكم، اسألوا «أيّ رقم يتغيّر؟» واتركوا العدد مكتوبًا على ورقة لينظر إليه."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.2.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El ascensor",
+      "va": "L'ascensor",
+      "en": "The lift",
+      "fr": "L'ascenseur",
+      "ar": "المصعد"
+    },
+    "material": [
+      {
+        "es": "Una pelota o un calcetín hecho una bola",
+        "va": "Una pilota o un calcetí fet una bola",
+        "en": "A ball, or a sock rolled into a ball",
+        "fr": "Une balle ou une chaussette roulée en boule",
+        "ar": "كرة أو جورب ملفوف على شكل كرة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "ascensor",
+        "texto": {
+          "es": "Escribid un número de tres cifras en un papel, por ejemplo 250. Es la planta donde está el ascensor.",
+          "va": "Escriviu un número de tres xifres en un paper, per exemple 250. És el pis on està l'ascensor.",
+          "en": "Write a three-digit number on a piece of paper, for example 250. That is the floor where the lift is.",
+          "fr": "Écrivez un nombre à trois chiffres sur un papier, par exemple 250. C'est l'étage où se trouve l'ascenseur.",
+          "ar": "اكتبوا عددًا من ثلاثة أرقام على ورقة، مثلًا 250. هذا هو الطابق الذي يوجد فيه المصعد."
+        }
+      },
+      {
+        "pictograma": "pelota",
+        "texto": {
+          "es": "Quien tiene la pelota dice «sube 10», «baja 10», «sube 100» o «baja 100» y la pasa. Quien la recibe dice en voz alta adónde llega el ascensor: «¡260!».",
+          "va": "Qui té la pilota diu «puja 10», «baixa 10», «puja 100» o «baixa 100» i la passa. Qui la rep diu en veu alta on arriba l'ascensor: «260!».",
+          "en": "Whoever has the ball says “up 10”, “down 10”, “up 100” or “down 100” and passes it. Whoever catches it says out loud where the lift arrives: “260!”",
+          "fr": "Celui ou celle qui a la balle dit « monte de 10 », « descends de 10 », « monte de 100 » ou « descends de 100 » et la lance. Qui la reçoit dit à voix haute où arrive l'ascenseur : « 260 ! »",
+          "ar": "من معه الكرة يقول «اصعد 10» أو «انزل 10» أو «اصعد 100» أو «انزل 100» ثم يرميها. ومن يلتقطها يقول بصوت عالٍ أين يصل المصعد: «260!»."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Apuntad cada parada. Después de unas cuantas, mirad la lista: ¿qué cifra cambia al subir 10? ¿Y al subir 100?",
+          "va": "Apunteu cada parada. Després d'unes quantes, mireu la llista: quina xifra canvia en pujar 10? I en pujar 100?",
+          "en": "Write down each stop. After a few, look at the list: which digit changes when you go up 10? And when you go up 100?",
+          "fr": "Notez chaque arrêt. Après quelques-uns, regardez la liste : quel chiffre change quand on monte de 10 ? Et quand on monte de 100 ?",
+          "ar": "دوّنوا كل محطة. بعد عدة محطات، انظروا إلى القائمة: أيّ رقم يتغيّر عندما نصعد 10؟ وعندما نصعد 100؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Para acabar, haced el viaje de una vez: si desde 250 habéis subido 100 tres veces y bajado 10 dos veces, ¿dónde estáis? {{250 + 300 − 20 = 530}}.",
+          "va": "Per a acabar, feu el viatge d'una vegada: si des de 250 heu pujat 100 tres vegades i baixat 10 dues vegades, on esteu? {{250 + 300 − 20 = 530}}.",
+          "en": "To finish, do the whole trip in one go: if from 250 you went up 100 three times and down 10 twice, where are you? {{250 + 300 − 20 = 530}}.",
+          "fr": "Pour finir, faites tout le trajet d'un coup : si, depuis 250, vous êtes montés de 100 trois fois et descendus de 10 deux fois, où êtes-vous ? {{250 + 300 − 20 = 530}}.",
+          "ar": "في النهاية، قوموا بالرحلة كلها مرة واحدة: إذا صعدنا من 250 مئةً ثلاث مرات ونزلنا 10 مرتين، فأين نحن؟ {{250 + 300 − 20 = 530}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad solo con «sube 10» y «baja 10», empezando en un número redondo como 40.",
+      "va": "Jugueu només amb «puja 10» i «baixa 10», començant en un número redó com 40.",
+      "en": "Play only with “up 10” and “down 10”, starting at a round number like 40.",
+      "fr": "Jouez seulement avec « monte de 10 » et « descends de 10 », en partant d'un nombre rond comme 40.",
+      "ar": "العبوا فقط بـ«اصعد 10» و«انزل 10»، وابدؤوا من عدد مدوّر مثل 40."
+    },
+    "masDificil": {
+      "es": "Pasad por los cambios de centena: empezad en 380 y subid de 10 en 10. ¿Qué pasa al llegar al 400? Probad también a bajar de 10 en 10 desde 1020.",
+      "va": "Passeu pels canvis de centena: comenceu en 380 i pugeu de 10 en 10. Què passa en arribar al 400? Proveu també a baixar de 10 en 10 des de 1020.",
+      "en": "Go through the changes of hundred (centena): start at 380 and go up in tens. What happens when you reach 400? Also try going down in tens from 1020.",
+      "fr": "Passez les changements de centaine (centena) : partez de 380 et montez de 10 en 10. Que se passe-t-il en arrivant à 400 ? Essayez aussi de descendre de 10 en 10 depuis 1020.",
+      "ar": "مرّوا بتغيّر المئات (centena): ابدؤوا من 380 واصعدوا عشرةً عشرة. ماذا يحدث عند الوصول إلى 400؟ وجرّبوا أيضًا النزول عشرةً عشرة من 1020."
+    },
+    "paraQueSirve": {
+      "es": "Sumar y restar decenas y centenas sin papel es la base del cálculo mental: luego sirve para sumas más largas y para saber si un resultado tiene sentido.",
+      "va": "Sumar i restar desenes i centenes sense paper és la base del càlcul mental: després servix per a sumes més llargues i per a saber si un resultat té sentit.",
+      "en": "Adding and subtracting tens and hundreds without paper is the basis of mental calculation: later it helps with longer additions and with knowing whether an answer makes sense.",
+      "fr": "Ajouter et enlever des dizaines et des centaines sans papier, c'est la base du calcul mental : ensuite, ça sert pour des additions plus longues et pour savoir si un résultat a du sens.",
+      "ar": "جمع العشرات والمئات وطرحها بلا ورقة هو أساس الحساب الذهني: يفيد لاحقًا في عمليات جمع أطول وفي معرفة إن كانت النتيجة معقولة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Nora tiene 230 cromos y su tío le da 40 más. ¿Cuántos tiene ahora?",
+        "va": "Nora té 230 cromos i el seu tio li'n dona 40 més. Quants en té ara?",
+        "en": "Nora has 230 stickers and her uncle gives her 40 more. How many does she have now?",
+        "fr": "Nora a 230 images à coller et son oncle lui en donne 40 de plus. Combien en a-t-elle maintenant ?",
+        "ar": "عند نورة 230 صورة لاصقة وأعطاها خالها 40 أخرى. كم صار عندها الآن؟"
+      },
+      "pista": {
+        "es": "Las 2 centenas no cambian. Piensa solo en las decenas: 3 decenas y 4 decenas.",
+        "va": "Les 2 centenes no canvien. Pensa només en les desenes: 3 desenes i 4 desenes.",
+        "en": "The 2 hundreds don't change. Think only about the tens: 3 tens and 4 tens.",
+        "fr": "Les 2 centaines ne changent pas. Pense seulement aux dizaines : 3 dizaines et 4 dizaines.",
+        "ar": "المئتان لا تتغيّران. لنفكّر في العشرات فقط: 3 عشرات و4 عشرات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "230 + 40",
+        "resultado": 270,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora tiene 270 cromos.",
+          "va": "Ara en té 270.",
+          "en": "Now she has 270 stickers.",
+          "fr": "Maintenant, elle en a 270.",
+          "ar": "صار عندها 270 صورة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se sumen decenas a un número de tres cifras.",
+        "va": "Inventa'n tu una en què se sumen desenes a un número de tres xifres.",
+        "en": "Make one up where you add tens to a three-digit number.",
+        "fr": "Invente un problème où l'on ajoute des dizaines à un nombre à trois chiffres.",
+        "ar": "لنخترع مسألة نجمع فيها عشرات إلى عدد من ثلاثة أرقام."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Un tren lleva 450 personas y en una estación bajan 200. ¿Cuántas siguen en el tren?",
+        "va": "Un tren porta 450 persones i en una estació en baixen 200. Quantes continuen en el tren?",
+        "en": "A train is carrying 450 people and 200 get off at a station. How many are still on the train?",
+        "fr": "Un train transporte 450 personnes et 200 descendent à une gare. Combien restent dans le train ?",
+        "ar": "في قطار 450 شخصًا ونزل منهم 200 في إحدى المحطات. كم شخصًا بقي في القطار؟"
+      },
+      "pista": {
+        "es": "Quita 2 centenas a las 4 centenas. Las decenas y las unidades se quedan igual.",
+        "va": "Lleva 2 centenes a les 4 centenes. Les desenes i les unitats es queden igual.",
+        "en": "Take 2 hundreds from the 4 hundreds. The tens and ones stay the same.",
+        "fr": "Enlève 2 centaines aux 4 centaines. Les dizaines et les unités restent pareilles.",
+        "ar": "لنأخذ مئتين من 4 مئات. العشرات والآحاد تبقى كما هي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "450 - 200",
+        "resultado": 250,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Siguen 250 personas.",
+          "va": "En continuen 250.",
+          "en": "250 people are still on the train.",
+          "fr": "Il reste 250 personnes.",
+          "ar": "بقي 250 شخصًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un tren en el que suban o bajen 100 personas.",
+        "va": "Inventa'n tu una d'un tren en què pugen o baixen 100 persones.",
+        "en": "Make one up about a train where 100 people get on or off.",
+        "fr": "Invente un problème de train où 100 personnes montent ou descendent.",
+        "ar": "لنخترع مسألة عن قطار يصعد إليه أو ينزل منه 100 شخص."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "El camino al parque mide 590 metros y lo alargan 20 metros más. ¿Cuánto mide ahora?",
+        "va": "El camí al parc fa 590 metres i l'allarguen 20 metres més. Quant fa ara?",
+        "en": "The path to the park is 590 metres long and they make it 20 metres longer. How long is it now?",
+        "fr": "Le chemin du parc mesure 590 mètres et on l'allonge de 20 mètres. Combien mesure-t-il maintenant ?",
+        "ar": "طول الطريق إلى الحديقة 590 مترًا، ثم أطالوه 20 مترًا. كم طوله الآن؟"
+      },
+      "pista": {
+        "es": "De 590 a 600 van 10. Aún te quedan 10 más.",
+        "va": "De 590 a 600 en van 10. Encara te'n queden 10 més.",
+        "en": "From 590 to 600 is 10. You still have 10 more to go.",
+        "fr": "De 590 à 600, ça fait 10. Il t'en reste encore 10.",
+        "ar": "من 590 إلى 600 هي 10. وبقيت 10 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "590 + 20",
+        "resultado": 610,
+        "unidad": "m",
+        "texto": {
+          "es": "Ahora mide 610 metros.",
+          "va": "Ara fa 610 metres.",
+          "en": "Now it is 610 metres long.",
+          "fr": "Maintenant, il mesure 610 mètres.",
+          "ar": "طوله الآن 610 أمتار."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una suma de decenas en la que cambie la centena, como pasar de 290 a 300.",
+        "va": "Inventa'n tu una suma de desenes en què canvie la centena, com passar de 290 a 300.",
+        "en": "Make up an addition of tens where the hundreds digit changes, like going from 290 to 300.",
+        "fr": "Invente une addition de dizaines où la centaine change, comme passer de 290 à 300.",
+        "ar": "لنخترع عملية جمع عشرات تتغيّر فيها المئات، مثل الانتقال من 290 إلى 300."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: en una caja hay 53 rotuladores y se secan 8. ¿Cuántos quedan?",
+        "va": "Per a recordar: en una caixa hi ha 53 retoladors i se n'assequen 8. Quants en queden?",
+        "en": "Let's remember: there are 53 felt-tip pens in a box and 8 dry out. How many are left?",
+        "fr": "Pour se souvenir : dans une boîte, il y a 53 feutres et 8 sèchent. Combien en reste-t-il ?",
+        "ar": "لنتذكّر: في علبة 53 قلم تلوين وجفّ منها 8. كم بقي؟"
+      },
+      "pista": {
+        "es": "Las 8 no salen de las 3 sueltas: abre una decena. Ahora hay 4 decenas y 13 sueltas.",
+        "va": "Els 8 no ixen dels 3 solts: obri una desena. Ara hi ha 4 desenes i 13 solts.",
+        "en": "You can't take 8 from the 3 loose ones: open a ten. Now there are 4 tens and 13 loose ones.",
+        "fr": "On ne peut pas enlever 8 des 3 unités : ouvre une dizaine. Maintenant, il y a 4 dizaines et 13 unités.",
+        "ar": "لا يمكن أخذ 8 من 3 آحاد: لنفتح عشرة. الآن هناك 4 عشرات و13 آحادًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "53 - 8",
+        "resultado": 45,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 45 rotuladores.",
+          "va": "En queden 45.",
+          "en": "There are 45 pens left.",
+          "fr": "Il reste 45 feutres.",
+          "ar": "بقي 45 قلمًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una resta en la que se abra una decena.",
+        "va": "Inventa'n tu una resta en què s'òbriga una desena.",
+        "en": "Make up a subtraction where you open a ten.",
+        "fr": "Invente une soustraction où l'on ouvre une dizaine.",
+        "ar": "لنخترع عملية طرح نفتح فيها عشرة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo se suma 100 de cabeza? Explícamelo con un número que elijas tú.",
+        "va": "Com se suma 100 de cap? Explica-m'ho amb un número que tries tu.",
+        "en": "How do you add 100 in your head? Explain it to me with a number you choose.",
+        "fr": "Comment on ajoute 100 de tête ? Explique-le-moi avec un nombre que tu choisis.",
+        "ar": "كيف نجمع 100 في الذهن؟ اشرح لي أو اشرحي لي بعدد تختاره أو تختارينه."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si estoy en el 340 y subo 100, ¿adónde llego? ¿Cómo lo sabes?»",
+        "va": "Si no sap per on començar: «Si estic en el 340 i puge 100, on arribe? Com ho saps?»",
+        "en": "If they don't know where to start: “If I'm at 340 and go up 100, where do I get to? How do you know?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si je suis à 340 et que je monte de 100, où j'arrive ? Comment tu le sais ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كنّا عند 340 وصعدنا 100، فإلى أين نصل؟ وكيف نعرف ذلك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que solo cambia la cifra de las centenas. Si se lía, escribid el número en un papel y mirad juntos qué cifra se mueve.",
+          "va": "Pot dir que només canvia la xifra de les centenes. Si s'embolica, escriviu el número en un paper i mireu junts quina xifra es mou.",
+          "en": "They might say that only the hundreds digit changes. If they get muddled, write the number on paper and look together at which digit moves.",
+          "fr": "Il ou elle peut dire que seul le chiffre des centaines change. S'il ou elle s'embrouille, écrivez le nombre sur un papier et regardez ensemble quel chiffre bouge.",
+          "ar": "قد يقول إن رقم المئات وحده يتغيّر. إذا اختلط عليه الأمر، اكتبوا العدد على ورقة وانظروا معًا أيّ رقم يتحرّك."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "88ece45cfcd1"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "88ece45cfcd1"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "88ece45cfcd1"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "88ece45cfcd1"
+      }
+    }
+  }
+}
