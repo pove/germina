@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s32",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 32,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Partes de un todo",
+    "va": "Parts d'un tot",
+    "en": "Parts of a whole",
+    "fr": "Les parts d'un tout",
+    "ar": "أجزاء من كلّ"
+  },
+  "objetivo": {
+    "es": "Esta semana ven la fracción como parte de un todo y como medida: medio litro, un cuarto de kilo, tres quintos de una tira. Aprenden los nombres: en {{3/5}}, el 5 (denominador) dice en cuántas partes se parte y el 3 (numerador), cuántas se toman.",
+    "va": "Aquesta setmana veuen la fracció com a part d'un tot i com a mesura: mig litre, un quart de quilo, tres cinquens d'una tira. Aprenen els noms: en {{3/5}}, el 5 (denominador) diu en quantes parts es partix i el 3 (numerador), quantes se'n prenen.",
+    "en": "This week they see fractions as part of a whole and as a measure: half a litre, a quarter of a kilo, three fifths of a strip. They learn the names: in {{3/5}}, the 5 (denominator) says how many parts it's split into and the 3 (numerator), how many are taken.",
+    "fr": "Cette semaine, on voit la fraction comme une part d'un tout et comme une mesure : un demi-litre, un quart de kilo, trois cinquièmes d'une bande. On apprend les noms : dans {{3/5}}, le 5 (dénominateur) dit en combien de parts on partage et le 3 (numérateur), combien on en prend.",
+    "ar": "هذا الأسبوع يرى الأطفال الكسر جزءًا من كلّ ووحدةً للقياس: نصف لتر، ربع كيلو، ثلاثة أخماس شريط. ويتعلّمون الأسماء: في {{3/5}}، العدد 5 (المقام) يقول إلى كم جزءًا نقسم، والعدد 3 (البسط) كم جزءًا نأخذ."
+  },
+  "comoAyudar": {
+    "es": "Mirad juntos los envases de la cocina: «medio litro», «250 g», «un cuarto». Preguntad «¿cuántos de estos hacen un litro?» y dejad que lo piense con el envase en la mano.",
+    "va": "Mireu junts els envasos de la cuina: «mig litre», «250 g», «un quart». Pregunteu «quants d'aquests fan un litre?» i deixeu que ho pense amb l'envàs a la mà.",
+    "en": "Look at the kitchen containers together: “half a litre”, “250 g”, “a quarter”. Ask “How many of these make a litre?” and let them think with the container in their hand.",
+    "fr": "Regardez ensemble les emballages de la cuisine : « demi-litre », « 250 g », « un quart ». Demandez « Combien de ceux-ci font un litre ? » et laissez réfléchir avec l'emballage en main.",
+    "ar": "انظروا معًا إلى عبوات المطبخ: «نصف لتر»، «250 غ»، «ربع». اسألوا «كم واحدة من هذه تصنع لترًا؟» واتركوا الطفل يفكّر والعبوة في يده."
+  },
+  "saberes": [
+    "matematicas.fracciones.fraccion",
+    "matematicas.fracciones.utilidad"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Recetas y tiras",
+      "va": "Receptes i tires",
+      "en": "Recipes and strips",
+      "fr": "Recettes et bandes",
+      "ar": "وصفات وشرائط"
+    },
+    "material": [
+      {
+        "es": "Envases de la cocina (leche, harina, arroz…)",
+        "va": "Envasos de la cuina (llet, farina, arròs…)",
+        "en": "Kitchen containers (milk, flour, rice…)",
+        "fr": "Des emballages de la cuisine (lait, farine, riz…)",
+        "ar": "عبوات من المطبخ (حليب، دقيق، أرز…)"
+      },
+      {
+        "es": "Tiras de papel iguales y una regla",
+        "va": "Tires de paper iguals i un regle",
+        "en": "Equal paper strips and a ruler",
+        "fr": "Des bandes de papier égales et une règle",
+        "ar": "شرائط ورق متساوية ومسطرة"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "botella",
+        "texto": {
+          "es": "Buscad en la cocina envases con medidas: un brick de 1 litro (1000 ml), un paquete de 1 kilo (1000 g), una botella de medio litro…",
+          "va": "Busqueu a la cuina envasos amb mesures: un cartró d'1 litre (1000 ml), un paquet d'1 quilo (1000 g), una botella de mig litre…",
+          "en": "Find containers with measurements in the kitchen: a 1-litre carton (1000 ml), a 1-kilo packet (1000 g), a half-litre bottle…",
+          "fr": "Cherchez dans la cuisine des emballages avec des mesures : une brique d'1 litre (1000 ml), un paquet d'1 kilo (1000 g), une bouteille d'un demi-litre…",
+          "ar": "ابحثوا في المطبخ عن عبوات عليها مقادير: علبة لتر (1000 مل)، كيس كيلو (1000 غ)، زجاجة نصف لتر…"
+        }
+      },
+      {
+        "pictograma": "balanza",
+        "texto": {
+          "es": "Calculad: medio litro son {{1000 : 2 = 500}} ml; un cuarto de kilo son {{1000 : 4 = 250}} g. ¿Hay algún envase con esas medidas?",
+          "va": "Calculeu: mig litre són {{1000 : 2 = 500}} ml; un quart de quilo són {{1000 : 4 = 250}} g. Hi ha algun envàs amb eixes mesures?",
+          "en": "Work it out: half a litre is {{1000 : 2 = 500}} ml; a quarter of a kilo is {{1000 : 4 = 250}} g. Is there a container with those measurements?",
+          "fr": "Calculez : un demi-litre, c'est {{1000 : 2 = 500}} ml ; un quart de kilo, {{1000 : 4 = 250}} g. Y a-t-il un emballage avec ces mesures ?",
+          "ar": "احسبوا: نصف لتر يساوي {{1000 : 2 = 500}} مل؛ وربع كيلو يساوي {{1000 : 4 = 250}} غ. هل هناك عبوة بهذه المقادير؟"
+        }
+      },
+      {
+        "pictograma": "tira",
+        "texto": {
+          "es": "Doblad tiras iguales en 2, en 4 y en 5 partes. Escribid en cada parte su nombre: {{1/2}}, {{1/4}}, {{1/5}}.",
+          "va": "Doblegueu tires iguals en 2, en 4 i en 5 parts. Escriviu en cada part el seu nom: {{1/2}}, {{1/4}}, {{1/5}}.",
+          "en": "Fold equal strips into 2, 4 and 5 parts. Write each part's name on it: {{1/2}}, {{1/4}}, {{1/5}}.",
+          "fr": "Pliez des bandes égales en 2, en 4 et en 5 parts. Écrivez sur chaque part son nom : {{1/2}}, {{1/4}}, {{1/5}}.",
+          "ar": "اطووا شرائط متساوية إلى 2 و4 و5 أجزاء. اكتبوا على كل جزء اسمه: {{1/2}} و{{1/4}} و{{1/5}}."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Pintad 3 partes de la tira de quintos: son tres quintos, {{3/5}}. ¿Y lo que queda sin pintar? Son {{2/5}}.",
+          "va": "Pinteu 3 parts de la tira de cinquens: són tres cinquens, {{3/5}}. I el que queda sense pintar? Són {{2/5}}.",
+          "en": "Colour 3 parts of the fifths strip: that's three fifths, {{3/5}}. And what's left uncoloured? That's {{2/5}}.",
+          "fr": "Coloriez 3 parts de la bande des cinquièmes : ce sont trois cinquièmes, {{3/5}}. Et ce qui reste ? Ce sont {{2/5}}.",
+          "ar": "لوّنوا 3 أجزاء من شريط الأخماس: هذه ثلاثة أخماس، {{3/5}}. وما بقي دون تلوين؟ إنه {{2/5}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Quedaos con mitades y cuartos: medio litro, un cuarto de kilo y tiras dobladas en 2 y en 4.",
+      "va": "Quedeu-vos amb meitats i quarts: mig litre, un quart de quilo i tires doblegades en 2 i en 4.",
+      "en": "Stick with halves and quarters: half a litre, a quarter of a kilo and strips folded into 2 and 4.",
+      "fr": "Restez sur les moitiés et les quarts : demi-litre, quart de kilo et bandes pliées en 2 et en 4.",
+      "ar": "اكتفوا بالأنصاف والأرباع: نصف لتر وربع كيلو وشرائط مطويّة إلى 2 و4."
+    },
+    "masDificil": {
+      "es": "¿Cuántos ml son tres cuartos de litro? ¿Y cuántos gramos son {{3/4}} de kilo? Buscad una receta que lo use.",
+      "va": "Quants ml són tres quarts de litre? I quants grams són {{3/4}} de quilo? Busqueu una recepta que ho faça servir.",
+      "en": "How many ml is three quarters of a litre? And how many grams is {{3/4}} of a kilo? Find a recipe that uses it.",
+      "fr": "Combien de ml font trois quarts de litre ? Et combien de grammes font {{3/4}} de kilo ? Cherchez une recette qui l'utilise.",
+      "ar": "كم مل في ثلاثة أرباع اللتر؟ وكم غرامًا في {{3/4}} الكيلو؟ ابحثوا عن وصفة تستعمل ذلك."
+    },
+    "paraQueSirve": {
+      "es": "Las fracciones están en la cocina, en las recetas y en los envases. Verlas como medidas de verdad hace que el numerador y el denominador tengan sentido.",
+      "va": "Les fraccions són a la cuina, en les receptes i en els envasos. Veure-les com a mesures de veritat fa que el numerador i el denominador tinguen sentit.",
+      "en": "Fractions are in the kitchen, in recipes and on packaging. Seeing them as real measurements makes the numerator and denominator make sense.",
+      "fr": "Les fractions sont dans la cuisine, dans les recettes et sur les emballages. Les voir comme de vraies mesures donne du sens au numérateur et au dénominateur.",
+      "ar": "الكسور موجودة في المطبخ وفي الوصفات وعلى العبوات. ورؤيتها مقاديرَ حقيقية تجعل للبسط والمقام معنى."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un brick de leche tiene 1000 ml. ¿Cuántos ml son medio litro? ¿Y un cuarto de litro?",
+        "va": "Un cartró de llet té 1000 ml. Quants ml són mig litre? I un quart de litre?",
+        "en": "A carton of milk holds 1000 ml. How many ml is half a litre? And a quarter of a litre?",
+        "fr": "Une brique de lait contient 1000 ml. Combien de ml font un demi-litre ? Et un quart de litre ?",
+        "ar": "في علبة الحليب 1000 مل. كم مل في نصف لتر؟ وفي ربع لتر؟"
+      },
+      "pista": {
+        "es": "La mitad es repartir en 2; un cuarto, en 4.",
+        "va": "La meitat és repartir en 2; un quart, en 4.",
+        "en": "Half is sharing into 2; a quarter, into 4.",
+        "fr": "La moitié, c'est partager en 2 ; un quart, en 4.",
+        "ar": "النصف هو التوزيع على 2؛ والربع على 4."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 : 2",
+        "resultado": 500,
+        "unidad": "ml",
+        "texto": {
+          "es": "Medio litro son 500 ml y un cuarto de litro, 250 ml.",
+          "va": "Mig litre són 500 ml i un quart de litre, 250 ml.",
+          "en": "Half a litre is 500 ml and a quarter of a litre, 250 ml.",
+          "fr": "Un demi-litre, c'est 500 ml, et un quart de litre, 250 ml.",
+          "ar": "نصف لتر يساوي 500 مل، وربع لتر 250 مل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con un envase de tu cocina.",
+        "va": "Inventa'n tu una amb un envàs de la teua cuina.",
+        "en": "Make one up with a container from your kitchen.",
+        "fr": "Invente un problème avec un emballage de ta cuisine.",
+        "ar": "لنخترع مسألة بعبوة من مطبخنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una receta pide un cuarto de kilo de harina. ¿Cuántos gramos son?",
+        "va": "Una recepta demana un quart de quilo de farina. Quants grams són?",
+        "en": "A recipe asks for a quarter of a kilo of flour. How many grams is that?",
+        "fr": "Une recette demande un quart de kilo de farine. Combien de grammes cela fait-il ?",
+        "ar": "تطلب وصفة ربع كيلو من الدقيق. كم غرامًا هذا؟"
+      },
+      "pista": {
+        "es": "Un kilo son 1000 g. Repártelos en 4.",
+        "va": "Un quilo són 1000 g. Repartix-los en 4.",
+        "en": "A kilo is 1000 g. Share it into 4.",
+        "fr": "Un kilo, c'est 1000 g. Partage-les en 4.",
+        "ar": "الكيلو 1000 غ. لنوزّعها على 4."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 : 4",
+        "resultado": 250,
+        "unidad": "g",
+        "texto": {
+          "es": "Son 250 g.",
+          "va": "Són 250 g.",
+          "en": "It's 250 g.",
+          "fr": "Ça fait 250 g.",
+          "ar": "إنها 250 غ."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una receta con medio kilo o un cuarto de algo.",
+        "va": "Inventa't una recepta amb mig quilo o un quart d'alguna cosa.",
+        "en": "Make up a recipe with half a kilo or a quarter of something.",
+        "fr": "Invente une recette avec un demi-kilo ou un quart de quelque chose.",
+        "ar": "لنخترع وصفة فيها نصف كيلو أو ربع شيء ما."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una tira de 60 cm se dobla en 5 partes iguales. ¿Cómo se llama cada parte y cuánto mide? ¿Y 3 de esas partes?",
+        "va": "Una tira de 60 cm es doblega en 5 parts iguals. Com s'anomena cada part i quant mesura? I 3 d'eixes parts?",
+        "en": "A 60 cm strip is folded into 5 equal parts. What is each part called and how long is it? And 3 of those parts?",
+        "fr": "Une bande de 60 cm est pliée en 5 parts égales. Comment s'appelle chaque part et combien mesure-t-elle ? Et 3 de ces parts ?",
+        "ar": "شريط طوله 60 سم طُوي إلى 5 أجزاء متساوية. ما اسم كل جزء وكم طوله؟ وكم طول 3 أجزاء منها؟"
+      },
+      "pista": {
+        "es": "Primero, cuánto mide un quinto: 60 entre 5. Después, por 3.",
+        "va": "Primer, quant mesura un cinqué: 60 entre 5. Després, per 3.",
+        "en": "First, how long a fifth is: 60 divided by 5. Then, times 3.",
+        "fr": "D'abord, combien mesure un cinquième : 60 divisé par 5. Ensuite, fois 3.",
+        "ar": "أولًا كم طول الخمس: 60 على 5. ثم نضرب في 3."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(60 : 5) × 3",
+        "resultado": 36,
+        "unidad": "cm",
+        "texto": {
+          "es": "Cada parte es un quinto, {{1/5}}, y mide 12 cm. Tres quintos, {{3/5}}, miden {{12 × 3 = 36}} cm.",
+          "va": "Cada part és un cinqué, {{1/5}}, i mesura 12 cm. Tres cinquens, {{3/5}}, mesuren {{12 × 3 = 36}} cm.",
+          "en": "Each part is a fifth, {{1/5}}, and is 12 cm long. Three fifths, {{3/5}}, are {{12 × 3 = 36}} cm.",
+          "fr": "Chaque part est un cinquième, {{1/5}}, et mesure 12 cm. Trois cinquièmes, {{3/5}}, mesurent {{12 × 3 = 36}} cm.",
+          "ar": "كل جزء خمس، {{1/5}}، وطوله 12 سم. وثلاثة أخماس، {{3/5}}، طولها {{12 × 3 = 36}} سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de partir una cuerda o una tira y tomar varias partes.",
+        "va": "Inventa'n tu una de partir una corda o una tira i prendre'n diverses parts.",
+        "en": "Make one up about cutting a string or a strip and taking several parts.",
+        "fr": "Invente un problème où l'on coupe une ficelle ou une bande et où l'on prend plusieurs parts.",
+        "ar": "لنخترع مسألة نقسم فيها حبلًا أو شريطًا ونأخذ عدة أجزاء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 31,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: en una papelería que abre a las 9, compras 4 cuadernos de 3 €. ¿Cuánto pagas? ¿Qué dato sobra?",
+        "va": "Per a recordar: en una papereria que obri a les 9, compres 4 quaderns de 3 €. Quant pagues? Quina dada sobra?",
+        "en": "Let's remember: in a stationery shop that opens at 9, you buy 4 notebooks at 3 €. How much do you pay? Which piece of information isn't needed?",
+        "fr": "Pour se souvenir : dans une papeterie qui ouvre à 9 heures, tu achètes 4 cahiers à 3 €. Combien paies-tu ? Quelle donnée ne sert à rien ?",
+        "ar": "لنتذكّر: في مكتبة تفتح الساعة 9، اشترينا 4 دفاتر ثمن كل منها 3 يورو. كم دفعنا؟ وأي معطى زائد؟"
+      },
+      "pista": {
+        "es": "¿La hora cambia el precio?",
+        "va": "L'hora canvia el preu?",
+        "en": "Does the time change the price?",
+        "fr": "L'heure change-t-elle le prix ?",
+        "ar": "هل تغيّر الساعة الثمن؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 3",
+        "resultado": 12,
+        "unidad": "euros",
+        "texto": {
+          "es": "Pagas 12 €. Sobra la hora.",
+          "va": "Pagues 12 €. Sobra l'hora.",
+          "en": "You pay 12 €. The time isn't needed.",
+          "fr": "Tu paies 12 €. L'heure ne sert à rien.",
+          "ar": "ندفع 12 يورو. الساعة معطى زائد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema con trampa sobre una tienda de tu barrio.",
+        "va": "Inventa't un problema amb trampa sobre una botiga del teu barri.",
+        "en": "Make up a trick problem about a shop in your neighbourhood.",
+        "fr": "Invente un problème piégé sur un magasin de ton quartier.",
+        "ar": "لنخترع مسألة فيها فخّ عن متجر في حيّنا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué quiere decir {{3/4}}? Explícamelo con una tira de papel o con una pizza.",
+        "va": "Què vol dir {{3/4}}? Explica-m'ho amb una tira de paper o amb una pizza.",
+        "en": "What does {{3/4}} mean? Explain it to me with a paper strip or a pizza.",
+        "fr": "Que veut dire {{3/4}} ? Explique-le-moi avec une bande de papier ou une pizza.",
+        "ar": "ماذا يعني {{3/4}}؟ اشرح لي أو اشرحي لي بشريط ورق أو ببيتزا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿En cuántas partes partimos? ¿Cuántas cogemos?»",
+        "va": "Si no sap per on començar: «En quantes parts partim? Quantes n'agafem?»",
+        "en": "If they don't know where to start: “How many parts do we split it into? How many do we take?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « En combien de parts on partage ? Combien on en prend ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إلى كم جزءًا نقسم؟ وكم جزءًا نأخذ؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo que buscáis es «parto en 4 y cojo 3». Si además usa las palabras numerador y denominador, estupendo, pero no hace falta.",
+          "va": "El que busqueu és «partisc en 4 i n'agafe 3». Si a més fa servir les paraules numerador i denominador, estupend, però no cal.",
+          "en": "What you're looking for is “I split it into 4 and take 3”. If they also use the words numerator and denominator, wonderful, but it's not necessary.",
+          "fr": "Ce que vous cherchez, c'est « je partage en 4 et j'en prends 3 ». Si les mots numérateur et dénominateur apparaissent, formidable, mais ce n'est pas indispensable.",
+          "ar": "ما تبحثون عنه هو «أقسم إلى 4 وآخذ 3». وإن استُعملت أيضًا كلمتا البسط والمقام فرائع، لكن ذلك ليس ضروريًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f5317ea6f0bd"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f5317ea6f0bd"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f5317ea6f0bd"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f5317ea6f0bd"
+      }
+    }
+  }
+}

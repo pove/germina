@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s35",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 35,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Décimas",
+    "va": "Dècimes",
+    "en": "Tenths",
+    "fr": "Les dixièmes",
+    "ar": "الأعشار"
+  },
+  "objetivo": {
+    "es": "Esta semana conocen las décimas: si se parte un metro en 10 trozos iguales, cada trozo es una décima, {{1/10}}, que también se escribe 0,1. Así, 3 décimas de metro son 0,3 m, es decir, 30 cm.",
+    "va": "Aquesta setmana coneixen les dècimes: si es partix un metre en 10 trossos iguals, cada tros és una dècima, {{1/10}}, que també s'escriu 0,1. Així, 3 dècimes de metre són 0,3 m, és a dir, 30 cm.",
+    "en": "This week they meet tenths (décimas): if a metre is split into 10 equal pieces, each piece is a tenth, {{1/10}}, which is also written 0,1. So 3 tenths of a metre is 0,3 m, that is, 30 cm.",
+    "fr": "Cette semaine, on découvre les dixièmes (décimas) : si on partage un mètre en 10 morceaux égaux, chaque morceau est un dixième, {{1/10}}, qu'on écrit aussi 0,1. Ainsi, 3 dixièmes de mètre font 0,3 m, c'est-à-dire 30 cm.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى الأعشار (décimas): إذا قُسم متر إلى 10 قطع متساوية، فكل قطعة عُشر، {{1/10}}، ويُكتب أيضًا 0,1. هكذا تكون 3 أعشار المتر 0,3 م، أي 30 سم."
+  },
+  "comoAyudar": {
+    "es": "Leed los decimales en voz alta como en clase: «cero coma tres» y también «tres décimas». Si se lía con la coma, volved a la cinta y contad los trozos de 10 cm.",
+    "va": "Llegiu els decimals en veu alta com a classe: «zero coma tres» i també «tres dècimes». Si s'embolica amb la coma, torneu a la cinta i compteu els trossos de 10 cm.",
+    "en": "Read decimals out loud the way they do in class: “zero comma three” and also “three tenths”. If they get muddled with the comma, go back to the tape and count the 10 cm pieces.",
+    "fr": "Lisez les décimaux à voix haute comme en classe : « zéro virgule trois » et aussi « trois dixièmes ». En cas de confusion avec la virgule, revenez au mètre et comptez les morceaux de 10 cm.",
+    "ar": "اقرؤوا الأعداد العشرية بصوت عالٍ كما في القسم: «صفر فاصلة ثلاثة» و«ثلاثة أعشار». وإذا اختلطت الفاصلة على الطفل، عودوا إلى الشريط وعدّوا قطع الـ10 سم."
+  },
+  "saberes": [
+    "matematicas.fracciones.decimales",
+    "matematicas.fracciones.fraccion",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El metro en diez trozos",
+      "va": "El metre en deu trossos",
+      "en": "The metre in ten pieces",
+      "fr": "Le mètre en dix morceaux",
+      "ar": "المتر في عشر قطع"
+    },
+    "material": [
+      {
+        "es": "Una cinta métrica o un metro",
+        "va": "Una cinta mètrica o un metre",
+        "en": "A tape measure or a metre rule",
+        "fr": "Un mètre ruban ou un mètre",
+        "ar": "شريط قياس أو مقياس متري"
+      },
+      {
+        "es": "Una tira de papel de 1 metro (varias hojas pegadas) y lápices de colores",
+        "va": "Una tira de paper d'1 metre (diversos fulls apegats) i llapis de colors",
+        "en": "A 1-metre paper strip (several sheets stuck together) and coloured pencils",
+        "fr": "Une bande de papier d'1 mètre (plusieurs feuilles collées) et des crayons de couleur",
+        "ar": "شريط ورق طوله متر (عدة أوراق ملصقة) وأقلام ملوّنة"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "regla",
+        "texto": {
+          "es": "Con la cinta métrica, marcad la tira de papel cada 10 cm. Salen 10 trozos iguales: cada uno es una décima de metro, 0,1 m.",
+          "va": "Amb la cinta mètrica, marqueu la tira de paper cada 10 cm. Ixen 10 trossos iguals: cadascun és una dècima de metre, 0,1 m.",
+          "en": "With the tape measure, mark the paper strip every 10 cm. You get 10 equal pieces: each one is a tenth of a metre, 0,1 m.",
+          "fr": "Avec le mètre ruban, marquez la bande de papier tous les 10 cm. On obtient 10 morceaux égaux : chacun est un dixième de mètre, 0,1 m.",
+          "ar": "بشريط القياس، علّموا شريط الورق كل 10 سم. تخرج 10 قطع متساوية: كل قطعة عُشر المتر، 0,1 م."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Escribid debajo de cada marca su nombre: 0,1 – 0,2 – 0,3… hasta 1. Pintad los trozos de dos colores, alternando.",
+          "va": "Escriviu davall de cada marca el seu nom: 0,1 – 0,2 – 0,3… fins a 1. Pinteu els trossos de dos colors, alternant.",
+          "en": "Write each mark's name under it: 0,1 – 0,2 – 0,3… up to 1. Colour the pieces in two alternating colours.",
+          "fr": "Écrivez sous chaque marque son nom : 0,1 – 0,2 – 0,3… jusqu'à 1. Coloriez les morceaux de deux couleurs, en alternant.",
+          "ar": "اكتبوا تحت كل علامة اسمها: 0,1 – 0,2 – 0,3… حتى 1. لوّنوا القطع بلونين بالتناوب."
+        }
+      },
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Medid cosas de casa con la tira: un libro, una silla, una puerta. Decid cuánto miden en décimas: «la silla mide unas 4 décimas, 0,4 m».",
+          "va": "Mesureu coses de casa amb la tira: un llibre, una cadira, una porta. Digueu quant mesuren en dècimes: «la cadira mesura unes 4 dècimes, 0,4 m».",
+          "en": "Measure things at home with the strip: a book, a chair, a door. Say how long they are in tenths: “the chair is about 4 tenths, 0,4 m”.",
+          "fr": "Mesurez des choses de la maison avec la bande : un livre, une chaise, une porte. Dites combien elles mesurent en dixièmes : « la chaise mesure environ 4 dixièmes, 0,4 m ».",
+          "ar": "قيسوا أشياء في البيت بالشريط: كتابًا، كرسيًّا، بابًا. قولوا كم طولها بالأعشار: «طول الكرسي نحو 4 أعشار، 0,4 م»."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad la tira: 10 décimas hacen un metro entero, {{0,1 × 10 = 1}}. ¿Cuántas décimas le faltan a la silla para llegar al metro?",
+          "va": "Mireu la tira: 10 dècimes fan un metre sencer, {{0,1 × 10 = 1}}. Quantes dècimes li falten a la cadira per a arribar al metre?",
+          "en": "Look at the strip: 10 tenths make a whole metre, {{0,1 × 10 = 1}}. How many tenths is the chair short of a metre?",
+          "fr": "Regardez la bande : 10 dixièmes font un mètre entier, {{0,1 × 10 = 1}}. Combien de dixièmes manque-t-il à la chaise pour arriver au mètre ?",
+          "ar": "انظروا إلى الشريط: 10 أعشار تصنع مترًا كاملًا، {{0,1 × 10 = 1}}. كم عُشرًا ينقص الكرسي ليبلغ مترًا؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Medid solo cosas que midan un número justo de trozos de 10 cm, y contad los trozos con el dedo.",
+      "va": "Mesureu només coses que mesuren un nombre just de trossos de 10 cm, i compteu els trossos amb el dit.",
+      "en": "Measure only things that are an exact number of 10 cm pieces, and count the pieces with your finger.",
+      "fr": "Mesurez seulement des choses qui font un nombre exact de morceaux de 10 cm, et comptez les morceaux du doigt.",
+      "ar": "قيسوا أشياء طولها عدد كامل من قطع الـ10 سم فقط، وعدّوا القطع بالإصبع."
+    },
+    "masDificil": {
+      "es": "Medid algo que pase del metro, como una puerta. ¿Cómo se escribe 1 metro y 3 décimas? ¿Y en centímetros?",
+      "va": "Mesureu alguna cosa que passe del metre, com una porta. Com s'escriu 1 metre i 3 dècimes? I en centímetres?",
+      "en": "Measure something longer than a metre, like a door. How do you write 1 metre and 3 tenths? And in centimetres?",
+      "fr": "Mesurez quelque chose qui dépasse le mètre, comme une porte. Comment écrit-on 1 mètre et 3 dixièmes ? Et en centimètres ?",
+      "ar": "قيسوا شيئًا يزيد على المتر، مثل باب. كيف نكتب مترًا و3 أعشار؟ وكم يساوي بالسنتيمترات؟"
+    },
+    "paraQueSirve": {
+      "es": "Las décimas unen las fracciones con los números con coma. Verlas en una tira de un metro ayuda a entender qué significa la coma antes de hacer cuentas con ella.",
+      "va": "Les dècimes unixen les fraccions amb els números amb coma. Veure-les en una tira d'un metre ajuda a entendre què significa la coma abans de fer comptes amb ella.",
+      "en": "Tenths link fractions with numbers with a decimal comma. Seeing them on a metre-long strip helps them understand what the comma means before doing sums with it.",
+      "fr": "Les dixièmes relient les fractions aux nombres à virgule. Les voir sur une bande d'un mètre aide à comprendre ce que veut dire la virgule avant de calculer avec.",
+      "ar": "الأعشار تربط الكسور بالأعداد ذات الفاصلة. ورؤيتها على شريط طوله متر تساعد على فهم معنى الفاصلة قبل الحساب بها."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un lápiz mide 0,2 m. ¿Cuántos centímetros son?",
+        "va": "Un llapis mesura 0,2 m. Quants centímetres són?",
+        "en": "A pencil is 0,2 m long. How many centimetres is that?",
+        "fr": "Un crayon mesure 0,2 m. Combien de centimètres cela fait-il ?",
+        "ar": "طول قلم رصاص 0,2 م. كم سنتيمترًا هذا؟"
+      },
+      "pista": {
+        "es": "Cada décima de metro son 10 cm.",
+        "va": "Cada dècima de metre són 10 cm.",
+        "en": "Each tenth of a metre is 10 cm.",
+        "fr": "Chaque dixième de mètre, c'est 10 cm.",
+        "ar": "كل عُشر متر يساوي 10 سم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 10",
+        "resultado": 20,
+        "unidad": "cm",
+        "texto": {
+          "es": "Son 20 cm: 2 décimas de metro.",
+          "va": "Són 20 cm: 2 dècimes de metre.",
+          "en": "It's 20 cm: 2 tenths of a metre.",
+          "fr": "Ça fait 20 cm : 2 dixièmes de mètre.",
+          "ar": "إنها 20 سم: عُشرا متر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con algo de tu mochila medido en décimas de metro.",
+        "va": "Inventa'n tu una amb alguna cosa de la motxilla mesurada en dècimes de metre.",
+        "en": "Make one up with something from your school bag measured in tenths of a metre.",
+        "fr": "Invente un problème avec quelque chose de ton cartable mesuré en dixièmes de mètre.",
+        "ar": "لنخترع مسألة بشيء من حقيبتنا مقيسًا بأعشار المتر."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un trozo de cuerda mide 7 décimas de metro. ¿Cómo se escribe con coma? ¿Cuántos centímetros le faltan para el metro?",
+        "va": "Un tros de corda mesura 7 dècimes de metre. Com s'escriu amb coma? Quants centímetres li falten per al metre?",
+        "en": "A piece of string is 7 tenths of a metre long. How do you write it with a comma? How many centimetres short of a metre is it?",
+        "fr": "Un morceau de ficelle mesure 7 dixièmes de mètre. Comment l'écrit-on avec une virgule ? Combien de centimètres lui manque-t-il pour faire un mètre ?",
+        "ar": "طول قطعة حبل 7 أعشار المتر. كيف نكتبها بالفاصلة؟ وكم سنتيمترًا ينقصها لتبلغ مترًا؟"
+      },
+      "pista": {
+        "es": "7 décimas son 70 cm. ¿Cuánto va de 70 a 100?",
+        "va": "7 dècimes són 70 cm. Quant va de 70 a 100?",
+        "en": "7 tenths is 70 cm. How far is it from 70 to 100?",
+        "fr": "7 dixièmes, c'est 70 cm. Combien y a-t-il de 70 à 100 ?",
+        "ar": "7 أعشار تساوي 70 سم. كم من 70 إلى 100؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 70",
+        "resultado": 30,
+        "unidad": "cm",
+        "texto": {
+          "es": "Se escribe 0,7 m. Le faltan 30 cm, es decir, 0,3 m.",
+          "va": "S'escriu 0,7 m. Li falten 30 cm, és a dir, 0,3 m.",
+          "en": "It's written 0,7 m. It's 30 cm short, that is, 0,3 m.",
+          "fr": "On l'écrit 0,7 m. Il lui manque 30 cm, c'est-à-dire 0,3 m.",
+          "ar": "تُكتب 0,7 م. وينقصها 30 سم، أي 0,3 م."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿cuánto le falta para el metro?» con décimas.",
+        "va": "Inventa'n tu una de «quant li falta per al metre?» amb dècimes.",
+        "en": "Make up a “how far is it from a metre?” one with tenths.",
+        "fr": "Invente un problème « combien lui manque-t-il pour un mètre ? » avec des dixièmes.",
+        "ar": "لنخترع مسألة «كم ينقصها لتبلغ مترًا؟» بالأعشار."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una mesa mide 0,6 m de ancho y una silla, 0,4 m. ¿Cuál es más ancha? ¿Cuántos centímetros más?",
+        "va": "Una taula mesura 0,6 m d'ample i una cadira, 0,4 m. Quina és més ampla? Quants centímetres més?",
+        "en": "A table is 0,6 m wide and a chair is 0,4 m. Which is wider? By how many centimetres?",
+        "fr": "Une table mesure 0,6 m de large et une chaise, 0,4 m. Laquelle est la plus large ? De combien de centimètres ?",
+        "ar": "عرض طاولة 0,6 م وعرض كرسي 0,4 م. أيّهما أعرض؟ وبكم سنتيمترًا؟"
+      },
+      "pista": {
+        "es": "Pásalo a centímetros: 0,6 m son 60 cm.",
+        "va": "Passa-ho a centímetres: 0,6 m són 60 cm.",
+        "en": "Change them to centimetres: 0,6 m is 60 cm.",
+        "fr": "Passe en centimètres : 0,6 m, c'est 60 cm.",
+        "ar": "لنحوّلها إلى سنتيمترات: 0,6 م تساوي 60 سم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "60 - 40",
+        "resultado": 20,
+        "unidad": "cm",
+        "texto": {
+          "es": "La mesa es más ancha, 20 cm más: {{0,6 − 0,4 = 0,2}} m.",
+          "va": "La taula és més ampla, 20 cm més: {{0,6 − 0,4 = 0,2}} m.",
+          "en": "The table is wider, by 20 cm: {{0,6 − 0,4 = 0,2}} m.",
+          "fr": "La table est plus large, de 20 cm : {{0,6 − 0,4 = 0,2}} m.",
+          "ar": "الطاولة أعرض بـ20 سم: {{0,6 − 0,4 = 0,2}} م."
+        }
+      },
+      "inventala": {
+        "es": "Mide tú dos cosas de casa en décimas de metro e inventa una pregunta para compararlas.",
+        "va": "Mesura tu dues coses de casa en dècimes de metre i inventa una pregunta per a comparar-les.",
+        "en": "Measure two things at home in tenths of a metre and make up a question to compare them.",
+        "fr": "Mesure deux choses de la maison en dixièmes de mètre et invente une question pour les comparer.",
+        "ar": "لنقس شيئين في البيت بأعشار المتر ونخترع سؤالًا نقارن فيه بينهما."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 33,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: en la cinta de 100 cm, ¿dónde está {{3/4}} de metro?",
+        "va": "Per a recordar: en la cinta de 100 cm, on està {{3/4}} de metre?",
+        "en": "Let's remember: on the 100 cm tape, where is {{3/4}} of a metre?",
+        "fr": "Pour se souvenir : sur le mètre de 100 cm, où se trouve {{3/4}} de mètre ?",
+        "ar": "لنتذكّر: على شريط طوله 100 سم، أين يقع {{3/4}} المتر؟"
+      },
+      "pista": {
+        "es": "Un cuarto de 100 son 25. ¿Y tres cuartos?",
+        "va": "Un quart de 100 són 25. I tres quarts?",
+        "en": "A quarter of 100 is 25. And three quarters?",
+        "fr": "Un quart de 100, c'est 25. Et trois quarts ?",
+        "ar": "ربع 100 هو 25. وماذا عن ثلاثة أرباع؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(100 : 4) × 3",
+        "resultado": 75,
+        "unidad": "cm",
+        "texto": {
+          "es": "Está en 75 cm, después de la mitad.",
+          "va": "Està en 75 cm, després de la meitat.",
+          "en": "It's at 75 cm, after the half.",
+          "fr": "Il se trouve à 75 cm, après la moitié.",
+          "ar": "يقع عند 75 سم، بعد النصف."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta para colocar una fracción en la cinta.",
+        "va": "Inventa't una pregunta per a col·locar una fracció en la cinta.",
+        "en": "Make up a question about placing a fraction on the tape.",
+        "fr": "Invente une question pour placer une fraction sur le mètre.",
+        "ar": "لنخترع سؤالًا نضع فيه كسرًا على الشريط."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué quiere decir 0,1? Explícamelo con el metro o con la tira de papel.",
+        "va": "Què vol dir 0,1? Explica-m'ho amb el metre o amb la tira de paper.",
+        "en": "What does 0,1 mean? Explain it to me with the metre rule or the paper strip.",
+        "fr": "Que veut dire 0,1 ? Explique-le-moi avec le mètre ou la bande de papier.",
+        "ar": "ماذا يعني 0,1؟ اشرح لي أو اشرحي لي بالمتر أو بشريط الورق."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿En cuántos trozos partimos el metro? ¿Cuánto medía cada trozo?»",
+        "va": "Si no sap per on començar: «En quants trossos vam partir el metre? Quant mesurava cada tros?»",
+        "en": "If they don't know where to start: “How many pieces did we split the metre into? How long was each piece?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « En combien de morceaux a-t-on partagé le mètre ? Combien mesurait chaque morceau ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إلى كم قطعة قسمنا المتر؟ وكم كان طول كل قطعة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea clave es «uno de diez trozos iguales». Si además lo relaciona con 10 cm o con {{1/10}}, estupendo.",
+          "va": "La idea clau és «un de deu trossos iguals». Si a més ho relaciona amb 10 cm o amb {{1/10}}, estupend.",
+          "en": "The key idea is “one of ten equal pieces”. If they also link it to 10 cm or {{1/10}}, wonderful.",
+          "fr": "L'idée clé, c'est « un morceau sur dix morceaux égaux ». Si on fait aussi le lien avec 10 cm ou {{1/10}}, formidable.",
+          "ar": "الفكرة الأساسية هي «قطعة من عشر قطع متساوية». وإن رُبطت أيضًا بـ10 سم أو {{1/10}}، فرائع."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f2b0e81e5e6d"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f2b0e81e5e6d"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f2b0e81e5e6d"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f2b0e81e5e6d"
+      }
+    }
+  }
+}

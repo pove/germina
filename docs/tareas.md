@@ -77,7 +77,7 @@ Una tanda por sesión, siempre imitando la semilla de ejemplo y respetando el ma
 2. Semanas 9 a 15. **Hecha.**
 3. Semanas 16 a 22. **Hecha.**
 4. Semanas 23 a 28. **Hecha.**
-5. Semanas 29 a 35.
+5. Semanas 29 a 35. **Hecha.**
 6. Semanas 36 a 41.
 7. Retos de verano 1 a 10 de 3.º y 4.º.
 

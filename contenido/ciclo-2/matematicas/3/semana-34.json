@@ -1,0 +1,363 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s34",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 34,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: multiplicar y fracciones",
+    "va": "Setmana de recordar: multiplicar i fraccions",
+    "en": "Week to remember: multiplying and fractions",
+    "fr": "Semaine pour se souvenir : multiplier et fractions",
+    "ar": "أسبوع التذكّر: الضرب والكسور"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a todas las tablas, a multiplicar partiendo en decenas y unidades, a los problemas con datos que sobran y a las mitades, tercios y cuartos. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a totes les taules (tablas), a multiplicar partint en desenes i unitats, als problemes amb dades que sobren i a les meitats, terços i quarts. No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to all the times tables (tablas), multiplying by splitting into tens and ones, problems with extra information, and halves, thirds and quarters. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient à toutes les tables (tablas), à la multiplication en coupant en dizaines et unités, aux problèmes avec des données inutiles et aux moitiés, tiers et quarts. Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى كل جداول الضرب (tablas)، والضرب بالتقسيم إلى عشرات وآحاد، والمسائل ذات المعطيات الزائدة، والأنصاف والأثلاث والأرباع. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "En las cartas rápidas, lo que cuenta es acertar. Si una se resiste, se dice «paso», se deja a un lado y se mira con calma al acabar.",
+    "va": "En les cartes ràpides, el que compta és encertar. Si una es resistix, es diu «passe», es deixa a banda i es mira amb calma en acabar.",
+    "en": "In quick cards, what counts is getting it right. If one is tricky, say “pass”, put it aside and look at it calmly at the end.",
+    "fr": "Aux cartes rapides, ce qui compte, c'est de trouver. Si une carte résiste, on dit « je passe », on la met de côté et on la regarde tranquillement à la fin.",
+    "ar": "في الأوراق السريعة، المهم هو الإجابة الصحيحة. وإذا استعصت ورقة، نقول «أتجاوز» ونضعها جانبًا وننظر إليها بهدوء في النهاية."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.fracciones.fraccion",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cartas rápidas y tortilla de papel",
+      "va": "Cartes ràpides i truita de paper",
+      "en": "Quick cards and a paper omelette",
+      "fr": "Cartes rapides et omelette en papier",
+      "ar": "أوراق سريعة وعجّة من ورق"
+    },
+    "material": [
+      {
+        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
+        "en": "A pack of cards (or cards from 1 to 10 made of paper)",
+        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+      },
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina stopwatch",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت جيرمينا"
+      },
+      {
+        "es": "Un círculo de papel y tijeras",
+        "va": "Un cercle de paper i tisores",
+        "en": "A paper circle and scissors",
+        "fr": "Un cercle de papier et des ciseaux",
+        "ar": "دائرة من الورق ومقص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Quitad las figuras y dejad las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Lleveu les figures i deixeu les cartes de l'1 al 10. Barregeu-les i poseu-les cap per avall en un munt.",
+          "en": "Take out the picture cards and keep the cards from 1 to 10. Shuffle them and put them face down in a pile.",
+          "fr": "Retirez les figures et gardez les cartes de 1 à 10. Mélangez-les et posez-les face cachée en un tas.",
+          "ar": "أخرجوا الصور واتركوا الأوراق من 1 إلى 10. اخلطوها وضعوها مقلوبة في كومة."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Con el cronómetro en 2 minutos: una persona da la vuelta a dos cartas y la otra dice el producto, como {{6 × 7 = 42}}. Cada pareja acertada va a un montón aparte.",
+          "va": "Amb el cronòmetre en 2 minuts: una persona gira dues cartes i l'altra diu el producte, com ara {{6 × 7 = 42}}. Cada parella encertada va a un munt a part.",
+          "en": "With the stopwatch at 2 minutes: one person turns over two cards and the other says the product, like {{6 × 7 = 42}}. Each pair they get right goes on a separate pile.",
+          "fr": "Avec le chrono sur 2 minutes : une personne retourne deux cartes et l'autre dit le produit, comme {{6 × 7 = 42}}. Chaque paire trouvée va sur un tas à part.",
+          "ar": "مع ضبط المؤقّت على دقيقتين: يقلب شخص ورقتين ويقول الآخر حاصل الضرب، مثل {{6 × 7 = 42}}. كل زوج صحيح يوضع في كومة منفصلة."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Contad las parejas acertadas: es vuestro récord. Cambiad los papeles y jugad otra vez.",
+          "va": "Compteu les parelles encertades: és el vostre rècord. Canvieu els papers i jugueu una altra vegada.",
+          "en": "Count the pairs you got right: that's your record. Swap roles and play again.",
+          "fr": "Comptez les paires trouvées : c'est votre record. Échangez les rôles et rejouez.",
+          "ar": "عدّوا الأزواج الصحيحة: هذا رقمكم القياسي. تبادلوا الأدوار والعبوا مرة أخرى."
+        }
+      },
+      {
+        "pictograma": "tijeras",
+        "texto": {
+          "es": "Para celebrarlo, una tortilla de papel: partid el círculo en tantos trozos iguales como personas hayan jugado. Si sois 2, mitades; si sois 4, cuartos. ¿Cómo se llama cada trozo?",
+          "va": "Per a celebrar-ho, una truita de paper: partiu el cercle en tants trossos iguals com persones hagen jugat. Si sou 2, meitats; si sou 4, quarts. Com s'anomena cada tros?",
+          "en": "To celebrate, a paper omelette: cut the circle into as many equal pieces as people who played. If there are 2 of you, halves; if 4, quarters. What is each piece called?",
+          "fr": "Pour fêter ça, une omelette en papier : partagez le cercle en autant de morceaux égaux que de personnes qui ont joué. À 2, des moitiés ; à 4, des quarts. Comment s'appelle chaque morceau ?",
+          "ar": "للاحتفال، عجّة من ورق: قسّموا الدائرة إلى قطع متساوية بعدد من لعبوا. إذا كنتم اثنين فأنصاف، وإذا كنتم 4 فأرباع. ما اسم كل قطعة؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad una sola carta y multiplicadla siempre por el mismo número: por 2, por 5 o por 10.",
+      "va": "Feu servir una sola carta i multipliqueu-la sempre pel mateix número: per 2, per 5 o per 10.",
+      "en": "Use just one card and always multiply it by the same number: by 2, by 5 or by 10.",
+      "fr": "Utilisez une seule carte et multipliez-la toujours par le même nombre : par 2, par 5 ou par 10.",
+      "ar": "استعملوا ورقة واحدة واضربوها دائمًا في العدد نفسه: في 2 أو 5 أو 10."
+    },
+    "masDificil": {
+      "es": "Formad un número de dos cifras con dos cartas (un 2 y un 3 son 23) y multiplicadlo por una tercera, partiendo en decenas y unidades.",
+      "va": "Feu un número de dues xifres amb dues cartes (un 2 i un 3 fan 23) i multipliqueu-lo per una tercera, partint en desenes i unitats.",
+      "en": "Make a two-digit number with two cards (a 2 and a 3 make 23) and multiply it by a third card, splitting into tens and ones.",
+      "fr": "Formez un nombre à deux chiffres avec deux cartes (un 2 et un 3 font 23) et multipliez-le par une troisième, en coupant en dizaines et unités.",
+      "ar": "كوّنوا عددًا من رقمين بورقتين (2 و3 تعطيان 23) واضربوه في ورقة ثالثة، بالتقسيم إلى عشرات وآحاد."
+    },
+    "paraQueSirve": {
+      "es": "Volver a las tablas a final de curso ayuda a que se queden para el verano. Y partir la tortilla une las tablas con las fracciones: repartir es dividir.",
+      "va": "Tornar a les taules a final de curs ajuda que es queden per a l'estiu. I partir la truita unix les taules amb les fraccions: repartir és dividir.",
+      "en": "Coming back to the times tables at the end of the year helps them stick through the summer. And cutting the omelette links times tables and fractions: sharing is dividing.",
+      "fr": "Revenir aux tables en fin d'année aide à les garder pour l'été. Et partager l'omelette relie les tables et les fractions : partager, c'est diviser.",
+      "ar": "العودة إلى جداول الضرب في آخر السنة تساعد على بقائها خلال الصيف. وتقسيم العجّة يربط الجداول بالكسور: التوزيع قسمة."
+    },
+    "aviso": {
+      "es": "Las tijeras, siempre con una persona adulta.",
+      "va": "Les tisores, sempre amb una persona adulta.",
+      "en": "Scissors always with an adult.",
+      "fr": "Les ciseaux, toujours avec un adulte.",
+      "ar": "المقص دائمًا بحضور شخص بالغ."
+    },
+    "rapidez": {
+      "segundos": 120,
+      "seCuenta": {
+        "es": "parejas de cartas acertadas",
+        "va": "parelles de cartes encertades",
+        "en": "pairs of cards you got right",
+        "fr": "paires de cartes trouvées",
+        "ar": "أزواج الأوراق الصحيحة"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un álbum tiene 8 páginas con 7 cromos en cada una. ¿Cuántos cromos caben?",
+        "va": "Un àlbum té 8 pàgines amb 7 cromos en cadascuna. Quants cromos hi caben?",
+        "en": "An album has 8 pages with 7 stickers on each. How many stickers fit?",
+        "fr": "Un album a 8 pages avec 7 images sur chacune. Combien d'images peut-il contenir ?",
+        "ar": "في ألبوم 8 صفحات، في كل صفحة 7 صور. كم صورة يتّسع؟"
+      },
+      "pista": {
+        "es": "Mira la tarjeta de la nevera, o haz el doble de {{4 × 7 = 28}}.",
+        "va": "Mira la targeta de la nevera, o fes el doble de {{4 × 7 = 28}}.",
+        "en": "Look at the fridge card, or double {{4 × 7 = 28}}.",
+        "fr": "Regarde la carte du frigo, ou fais le double de {{4 × 7 = 28}}.",
+        "ar": "لننظر إلى بطاقة الثلاجة، أو نأخذ ضعف {{4 × 7 = 28}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 7",
+        "resultado": 56,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Caben 56 cromos.",
+          "va": "Hi caben 56 cromos.",
+          "en": "56 stickers fit.",
+          "fr": "Il peut contenir 56 images.",
+          "ar": "يتّسع لـ56 صورة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con uno de los seis de la nevera.",
+        "va": "Inventa'n tu una amb un dels sis de la nevera.",
+        "en": "Make one up with one of the six on the fridge.",
+        "fr": "Invente un problème avec l'un des six du frigo.",
+        "ar": "لنخترع مسألة بواحدة من الست المعلّقة على الثلاجة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Con 12 galletas, ¿qué es más, un tercio o la mitad? ¿Cuántas galletas más?",
+        "va": "Amb 12 galetes, què és més, un terç o la meitat? Quantes galetes més?",
+        "en": "With 12 biscuits, which is more, a third or a half? How many more biscuits?",
+        "fr": "Avec 12 biscuits, qu'est-ce qui est plus, un tiers ou la moitié ? Combien de biscuits de plus ?",
+        "ar": "مع 12 بسكويتة، أيّهما أكثر: الثلث أم النصف؟ وبكم بسكويتة؟"
+      },
+      "pista": {
+        "es": "Un tercio es repartir en 3; la mitad, en 2.",
+        "va": "Un terç és repartir en 3; la meitat, en 2.",
+        "en": "A third is sharing into 3; a half, into 2.",
+        "fr": "Un tiers, c'est partager en 3 ; la moitié, en 2.",
+        "ar": "الثلث هو التوزيع على 3؛ والنصف على 2."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(12 : 2) - (12 : 3)",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "La mitad: son 6 galletas, y un tercio son 4. La mitad tiene 2 más.",
+          "va": "La meitat: són 6 galetes, i un terç en són 4. La meitat en té 2 més.",
+          "en": "Half: that's 6 biscuits, and a third is 4. Half has 2 more.",
+          "fr": "La moitié : ça fait 6 biscuits, et un tiers, 4. La moitié en a 2 de plus.",
+          "ar": "النصف: 6 بسكويتات، والثلث 4. النصف أكثر بـ2."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para comparar un tercio y un cuarto de algo.",
+        "va": "Inventa'n tu una per a comparar un terç i un quart d'alguna cosa.",
+        "en": "Make one up comparing a third and a quarter of something.",
+        "fr": "Invente un problème pour comparer un tiers et un quart de quelque chose.",
+        "ar": "لنخترع مسألة نقارن فيها ثلث شيء بربعه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un bote de pinturas cuesta 16 €. ¿Cuánto cuestan 3 botes?",
+        "va": "Un pot de pintures costa 16 €. Quant costen 3 pots?",
+        "en": "A pot of paint costs 16 €. How much do 3 pots cost?",
+        "fr": "Un pot de peinture coûte 16 €. Combien coûtent 3 pots ?",
+        "ar": "ثمن علبة ألوان 16 يورو. كم ثمن 3 علب؟"
+      },
+      "pista": {
+        "es": "Parte el 16: {{10 × 3 = 30}} y {{6 × 3 = 18}}.",
+        "va": "Partix el 16: {{10 × 3 = 30}} i {{6 × 3 = 18}}.",
+        "en": "Split the 16: {{10 × 3 = 30}} and {{6 × 3 = 18}}.",
+        "fr": "Coupe le 16 : {{10 × 3 = 30}} et {{6 × 3 = 18}}.",
+        "ar": "لنقسم الـ16: {{10 × 3 = 30}} و{{6 × 3 = 18}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "16 × 3",
+        "resultado": 48,
+        "unidad": "euros",
+        "texto": {
+          "es": "Cuestan 48 €: {{30 + 18 = 48}}.",
+          "va": "Costen 48 €: {{30 + 18 = 48}}.",
+          "en": "They cost 48 €: {{30 + 18 = 48}}.",
+          "fr": "Ils coûtent 48 € : {{30 + 18 = 48}}.",
+          "ar": "ثمنها 48 يورو: {{30 + 18 = 48}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar varias cosas iguales de precio con dos cifras.",
+        "va": "Inventa'n tu una de comprar diverses coses iguals amb un preu de dues xifres.",
+        "en": "Make one up about buying several identical things with a two-digit price.",
+        "fr": "Invente un problème où l'on achète plusieurs choses identiques à un prix à deux chiffres.",
+        "ar": "لنخترع مسألة نشتري فيها عدة أشياء متماثلة ثمنها من رقمين."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 31,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: en la clase hay 25 sillas y 5 ventanas. Se rompen 3 sillas. ¿Cuántas sillas quedan? ¿Qué dato sobra?",
+        "va": "Per a recordar: a la classe hi ha 25 cadires i 5 finestres. Es trenquen 3 cadires. Quantes cadires queden? Quina dada sobra?",
+        "en": "Let's remember: the classroom has 25 chairs and 5 windows. 3 chairs break. How many chairs are left? Which piece of information isn't needed?",
+        "fr": "Pour se souvenir : dans la classe, il y a 25 chaises et 5 fenêtres. 3 chaises se cassent. Combien de chaises reste-t-il ? Quelle donnée ne sert à rien ?",
+        "ar": "لنتذكّر: في القسم 25 كرسيًّا و5 نوافذ. انكسرت 3 كراسٍ. كم كرسيًّا بقي؟ وأي معطى زائد؟"
+      },
+      "pista": {
+        "es": "¿Las ventanas cambian algo en las sillas?",
+        "va": "Les finestres canvien alguna cosa en les cadires?",
+        "en": "Do the windows change anything about the chairs?",
+        "fr": "Les fenêtres changent-elles quelque chose aux chaises ?",
+        "ar": "هل تغيّر النوافذ شيئًا في الكراسي؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "25 - 3",
+        "resultado": 22,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 22 sillas. Sobran las ventanas.",
+          "va": "Queden 22 cadires. Sobren les finestres.",
+          "en": "22 chairs are left. The windows aren't needed.",
+          "fr": "Il reste 22 chaises. Les fenêtres ne servent à rien.",
+          "ar": "بقي 22 كرسيًّا. النوافذ معطى زائد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema con trampa sobre tu clase.",
+        "va": "Inventa't un problema amb trampa sobre la teua classe.",
+        "en": "Make up a trick problem about your class.",
+        "fr": "Invente un problème piégé sur ta classe.",
+        "ar": "لنخترع مسألة فيها فخّ عن قسمنا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué truco de las tablas te ha ayudado más en las cartas rápidas? Explícamelo con una carta.",
+        "va": "Quin truc de les taules t'ha ajudat més en les cartes ràpides? Explica-m'ho amb una carta.",
+        "en": "Which times table trick helped you most in quick cards? Explain it to me with a card.",
+        "fr": "Quelle astuce des tables t'a le plus aidé aux cartes rapides ? Explique-la-moi avec une carte.",
+        "ar": "أي حيلة من حيل جداول الضرب ساعدتنا أكثر في الأوراق السريعة؟ اشرح لي أو اشرحي لي بورقة."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas de los dedos del 9? ¿Y del doble del doble? ¿Y de darle la vuelta?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes dels dits del 9? I del doble del doble? I de donar-li la volta?»",
+        "en": "You can help them remember: “Do you remember the 9s on your fingers? And double the double? And turning it around?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles les doigts pour la table de 9 ? Et le double du double ? Et la multiplication qu'on retourne ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر أصابع جدول 9؟ وضعف الضعف؟ وقلب العملية؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier truco vale si le sirve. Pedid que os lo enseñe con una carta y probadlo vosotros también.",
+          "va": "Qualsevol truc val si li servix. Demaneu que us l'ensenye amb una carta i proveu-lo vosaltres també.",
+          "en": "Any trick is fine if it works for them. Ask them to show you with a card and try it yourselves too.",
+          "fr": "Toute astuce convient si elle sert. Demandez qu'on vous la montre avec une carte et essayez-la vous aussi.",
+          "ar": "أي حيلة تصلح إن كانت مفيدة. اطلبوا أن تُعرض عليكم بورقة وجرّبوها أنتم أيضًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f4ee85cae725"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f4ee85cae725"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f4ee85cae725"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f4ee85cae725"
+      }
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s31",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 31,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué datos hacen falta?",
+    "va": "Quines dades calen?",
+    "en": "Which numbers do we need?",
+    "fr": "Quelles données faut-il ?",
+    "ar": "ما المعطيات اللازمة؟"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden a leer un problema con calma y separar los datos que sirven de los que no: la edad del perro o el color del coche casi nunca cambian la cuenta.",
+    "va": "Aquesta setmana aprenen a llegir un problema amb calma i separar les dades que servixen de les que no: l'edat del gos o el color del cotxe quasi mai canvien el compte.",
+    "en": "This week they learn to read a problem calmly and separate the useful information from the rest: the dog's age or the colour of the car hardly ever change the sum.",
+    "fr": "Cette semaine, on apprend à lire un problème calmement et à séparer les données utiles des autres : l'âge du chien ou la couleur de la voiture ne changent presque jamais le calcul.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال قراءة المسألة بهدوء والفصل بين المعطيات المفيدة وغيرها: عمر الكلب أو لون السيارة نادرًا ما يغيّران الحساب."
+  },
+  "comoAyudar": {
+    "es": "Contad los problemas en voz alta, como un cuento, y exagerad los datos que sobran. Si usa un dato que no sirve, preguntad «¿y eso para qué sirve aquí?» y dejad que lo piense.",
+    "va": "Conteu els problemes en veu alta, com un conte, i exagereu les dades que sobren. Si fa servir una dada que no servix, pregunteu «i això què hi té a veure?» i deixeu que ho pense.",
+    "en": "Tell the problems out loud, like a story, and exaggerate the information that isn't needed. If they use something that doesn't help, ask “What's that got to do with it?” and let them think.",
+    "fr": "Racontez les problèmes à voix haute, comme une histoire, et exagérez les données inutiles. Si une donnée inutile est utilisée, demandez « Et ça, quel rapport ? » et laissez réfléchir.",
+    "ar": "احكوا المسائل بصوت عالٍ كأنها قصة، وبالغوا في المعطيات الزائدة. وإذا استُعمل معطى لا يفيد، اسألوا «وما علاقة هذا؟» واتركوا الطفل يفكّر."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c2.1.1",
+    "matematicas.c2.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Problemas con trampa",
+      "va": "Problemes amb trampa",
+      "en": "Trick problems",
+      "fr": "Problèmes piégés",
+      "ar": "مسائل فيها فخّ"
+    },
+    "material": [
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "La persona adulta cuenta un problema con un dato que no sirve: «La perra Luna tiene 7 años. En casa hay 3 platos con 4 croquetas. ¿Cuántas croquetas hay?».",
+          "va": "La persona adulta conta un problema amb una dada que no servix: «La gossa Lluna té 7 anys. A casa hi ha 3 plats amb 4 croquetes. Quantes croquetes hi ha?».",
+          "en": "The adult tells a problem with a piece of information that isn't needed: “Luna the dog is 7 years old. At home there are 3 plates with 4 croquettes each. How many croquettes are there?”",
+          "fr": "L'adulte raconte un problème avec une donnée inutile : « La chienne Luna a 7 ans. À la maison, il y a 3 assiettes avec 4 croquettes. Combien y a-t-il de croquettes ? ».",
+          "ar": "يحكي الشخص البالغ مسألة فيها معطى لا يفيد: «عمر الكلبة لونا 7 سنوات. في البيت 3 صحون في كل منها 4 كرات كروكيت. كم كرة كروكيت هناك؟»."
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "El niño o la niña busca la trampa: ¿qué dato no sirve para la pregunta? Lo tacha en el papel o lo dice en voz alta.",
+          "va": "El xiquet o la xiqueta busca la trampa: quina dada no servix per a la pregunta? La ratlla en el paper o la diu en veu alta.",
+          "en": "The child looks for the trick: which piece of information doesn't help with the question? They cross it out on paper or say it out loud.",
+          "fr": "L'enfant cherche le piège : quelle donnée ne sert pas pour la question ? Il ou elle la barre sur le papier ou la dit à voix haute.",
+          "ar": "يبحث الطفل عن الفخّ: أي معطى لا يفيد في السؤال؟ يشطبه على الورقة أو يقوله بصوت عالٍ."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Después, resuelve la pregunta solo con los datos que sirven: {{3 × 4 = 12}} croquetas. La edad de Luna no cambia nada.",
+          "va": "Després, resol la pregunta només amb les dades que servixen: {{3 × 4 = 12}} croquetes. L'edat de Lluna no canvia res.",
+          "en": "Then they answer the question using only the useful information: {{3 × 4 = 12}} croquettes. Luna's age doesn't change anything.",
+          "fr": "Ensuite, on répond à la question seulement avec les données utiles : {{3 × 4 = 12}} croquettes. L'âge de Luna ne change rien.",
+          "ar": "ثم يجيب عن السؤال بالمعطيات المفيدة فقط: {{3 × 4 = 12}} كرة. عمر لونا لا يغيّر شيئًا."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Cambiad los papeles: ahora el niño o la niña inventa un problema con trampa para la persona adulta.",
+          "va": "Canvieu els papers: ara el xiquet o la xiqueta inventa un problema amb trampa per a la persona adulta.",
+          "en": "Swap roles: now the child makes up a trick problem for the adult.",
+          "fr": "Échangez les rôles : maintenant, c'est l'enfant qui invente un problème piégé pour l'adulte.",
+          "ar": "تبادلوا الأدوار: الآن يخترع الطفل مسألة فيها فخّ للشخص البالغ."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced problemas muy cortos, con un solo dato de más y muy exagerado: «El elefante del zoo pesa mucho…».",
+      "va": "Feu problemes molt curts, amb una sola dada de més i molt exagerada: «L'elefant del zoo pesa molt…».",
+      "en": "Make very short problems with just one extra, very exaggerated piece of information: “The zoo elephant is very heavy…”",
+      "fr": "Faites des problèmes très courts, avec une seule donnée en trop, très exagérée : « L'éléphant du zoo pèse très lourd… ».",
+      "ar": "اصنعوا مسائل قصيرة جدًا فيها معطى زائد واحد مبالغ فيه: «فيل حديقة الحيوان ثقيل جدًا…»."
+    },
+    "masDificil": {
+      "es": "Meted dos datos que sobran, o uno que parece útil pero no lo es: un número que no hace falta para la pregunta.",
+      "va": "Poseu dues dades que sobren, o una que sembla útil però no ho és: un número que no cal per a la pregunta.",
+      "en": "Include two extra pieces of information, or one that looks useful but isn't: a number the question doesn't need.",
+      "fr": "Mettez deux données inutiles, ou une qui semble utile mais ne l'est pas : un nombre dont la question n'a pas besoin.",
+      "ar": "ضعوا معطيين زائدين، أو معطى يبدو مفيدًا لكنه ليس كذلك: عددًا لا يحتاجه السؤال."
+    },
+    "paraQueSirve": {
+      "es": "En la vida, los problemas vienen con mucha información y no toda sirve. Aprender a elegir los datos es tan importante como saber hacer la cuenta.",
+      "va": "En la vida, els problemes vénen amb molta informació i no tota servix. Aprendre a triar les dades és tan important com saber fer el compte.",
+      "en": "In life, problems come with lots of information and not all of it is useful. Learning to choose the right information is as important as knowing how to do the sum.",
+      "fr": "Dans la vie, les problèmes arrivent avec beaucoup d'informations, et toutes ne servent pas. Apprendre à choisir les données est aussi important que savoir faire le calcul.",
+      "ar": "في الحياة تأتي المسائل بمعلومات كثيرة، وليست كلها مفيدة. وتعلّم اختيار المعطيات مهمّ بقدر معرفة الحساب."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Candela tiene 9 años y 14 lápices de colores. Su abuela le regala 6 lápices más. ¿Cuántos lápices tiene ahora?",
+        "va": "Candela té 9 anys i 14 llapis de colors. La seua àvia li regala 6 llapis més. Quants llapis té ara?",
+        "en": "Candela is 9 years old and has 14 coloured pencils. Her grandma gives her 6 more. How many pencils does she have now?",
+        "fr": "Candela a 9 ans et 14 crayons de couleur. Sa mamie lui offre 6 crayons de plus. Combien de crayons a-t-elle maintenant ?",
+        "ar": "عمر كانديلا 9 سنوات وعندها 14 قلمًا ملوّنًا. أهدتها جدّتها 6 أقلام أخرى. كم قلمًا عندها الآن؟"
+      },
+      "pista": {
+        "es": "¿La edad de Candela cambia algo en los lápices?",
+        "va": "L'edat de Candela canvia alguna cosa en els llapis?",
+        "en": "Does Candela's age change anything about the pencils?",
+        "fr": "Est-ce que l'âge de Candela change quelque chose aux crayons ?",
+        "ar": "هل يغيّر عمر كانديلا شيئًا في الأقلام؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "14 + 6",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 20 lápices. La edad de Candela no hace falta.",
+          "va": "Té 20 llapis. L'edat de Candela no cal.",
+          "en": "She has 20 pencils. Candela's age isn't needed.",
+          "fr": "Elle a 20 crayons. L'âge de Candela ne sert à rien.",
+          "ar": "عندها 20 قلمًا. عمر كانديلا ليس لازمًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno con la edad de alguien de tu familia como dato que sobra.",
+        "va": "Inventa'n tu un amb l'edat d'algú de la teua família com a dada que sobra.",
+        "en": "Make one up with someone in your family's age as the extra information.",
+        "fr": "Invente un problème avec l'âge de quelqu'un de ta famille comme donnée inutile.",
+        "ar": "لنخترع مسألة يكون فيها عمر أحد أفراد عائلتنا معطًى زائدًا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "En una tienda que abre a las 10, una camiseta azul cuesta 8 € y una gorra roja, 5 €. ¿Cuánto cuestan las dos cosas juntas?",
+        "va": "En una botiga que obri a les 10, una samarreta blava costa 8 € i una gorra roja, 5 €. Quant costen les dues coses juntes?",
+        "en": "In a shop that opens at 10, a blue T-shirt costs 8 € and a red cap costs 5 €. How much do the two things cost together?",
+        "fr": "Dans un magasin qui ouvre à 10 heures, un tee-shirt bleu coûte 8 € et une casquette rouge, 5 €. Combien coûtent les deux ensemble ?",
+        "ar": "في متجر يفتح الساعة 10، ثمن قميص أزرق 8 يورو وقبعة حمراء 5 يورو. كم ثمن الاثنين معًا؟"
+      },
+      "pista": {
+        "es": "Busca los números que hablan de dinero.",
+        "va": "Busca els números que parlen de diners.",
+        "en": "Look for the numbers that are about money.",
+        "fr": "Cherche les nombres qui parlent d'argent.",
+        "ar": "لنبحث عن الأعداد التي تتحدّث عن النقود."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 5",
+        "resultado": 13,
+        "unidad": "euros",
+        "texto": {
+          "es": "Cuestan 13 €. Ni la hora ni los colores hacen falta.",
+          "va": "Costen 13 €. Ni l'hora ni els colors calen.",
+          "en": "They cost 13 €. Neither the time nor the colours are needed.",
+          "fr": "Elles coûtent 13 €. Ni l'heure ni les couleurs ne servent.",
+          "ar": "ثمنهما 13 يورو. لا الساعة ولا الألوان لازمة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de compras con un dato de hora que sobre.",
+        "va": "Inventa'n tu un de compres amb una dada d'hora que sobre.",
+        "en": "Make up a shopping one with a time that isn't needed.",
+        "fr": "Invente un problème de courses avec une heure qui ne sert à rien.",
+        "ar": "لنخترع مسألة تسوّق فيها ساعة زائدة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En el autobús de la excursión, que es verde y lo conduce Rosa, van 4 filas de 5 niñas y niños. ¿Cuántas niñas y niños van?",
+        "va": "En l'autobús de l'excursió, que és verd i el conduïx Rosa, van 4 files de 5 xiquetes i xiquets. Quantes xiquetes i xiquets hi van?",
+        "en": "On the school trip bus, which is green and driven by Rosa, there are 4 rows of 5 children. How many children are on it?",
+        "fr": "Dans le bus de la sortie, qui est vert et que conduit Rosa, il y a 4 rangées de 5 enfants. Combien d'enfants y a-t-il ?",
+        "ar": "في حافلة الرحلة، وهي خضراء تقودها روسا، 4 صفوف في كل منها 5 أطفال. كم طفلًا وطفلة في الحافلة؟"
+      },
+      "pista": {
+        "es": "¿El color del autobús o el nombre de quien conduce cambian la cuenta?",
+        "va": "El color de l'autobús o el nom de qui conduïx canvien el compte?",
+        "en": "Do the colour of the bus or the driver's name change the sum?",
+        "fr": "La couleur du bus ou le nom de la personne qui conduit changent-ils le calcul ?",
+        "ar": "هل يغيّر لون الحافلة أو اسم من يقودها الحساب؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 5",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 20 niñas y niños: {{4 × 5 = 20}}. El color y el nombre no hacen falta.",
+          "va": "Hi van 20 xiquetes i xiquets: {{4 × 5 = 20}}. El color i el nom no calen.",
+          "en": "There are 20 children: {{4 × 5 = 20}}. The colour and the name aren't needed.",
+          "fr": "Il y a 20 enfants : {{4 × 5 = 20}}. La couleur et le nom ne servent à rien.",
+          "ar": "في الحافلة 20 طفلًا وطفلة: {{4 × 5 = 20}}. اللون والاسم ليسا لازمين."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de filas iguales con dos datos que sobren.",
+        "va": "Inventa'n tu un de files iguals amb dues dades que sobren.",
+        "en": "Make up an equal rows one with two pieces of information that aren't needed.",
+        "fr": "Invente un problème de rangées égales avec deux données inutiles.",
+        "ar": "لنخترع مسألة صفوف متساوية فيها معطيان زائدان."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 30,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: ¿cuánto es {{4 × 23}}? Parte el 23 en 20 y 3.",
+        "va": "Per a recordar: quant és {{4 × 23}}? Partix el 23 en 20 i 3.",
+        "en": "Let's remember: what is {{4 × 23}}? Split 23 into 20 and 3.",
+        "fr": "Pour se souvenir : combien fait {{4 × 23}} ? Coupe 23 en 20 et 3.",
+        "ar": "لنتذكّر: كم تساوي {{4 × 23}}؟ لنقسم 23 إلى 20 و3."
+      },
+      "pista": {
+        "es": "{{4 × 20 = 80}} y {{4 × 3 = 12}}.",
+        "va": "{{4 × 20 = 80}} i {{4 × 3 = 12}}.",
+        "en": "{{4 × 20 = 80}} and {{4 × 3 = 12}}.",
+        "fr": "{{4 × 20 = 80}} et {{4 × 3 = 12}}.",
+        "ar": "{{4 × 20 = 80}} و{{4 × 3 = 12}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 23",
+        "resultado": 92,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es 92: {{80 + 12 = 92}}.",
+          "va": "És 92: {{80 + 12 = 92}}.",
+          "en": "It's 92: {{80 + 12 = 92}}.",
+          "fr": "Ça fait 92 : {{80 + 12 = 92}}.",
+          "ar": "تساوي 92: {{80 + 12 = 92}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación de sobres con billetes y monedas.",
+        "va": "Inventa't una multiplicació de sobres amb bitllets i monedes.",
+        "en": "Make up an envelopes multiplication with notes and coins.",
+        "fr": "Invente une multiplication d'enveloppes avec des billets et des pièces.",
+        "ar": "لنخترع عملية ضرب مغلّفات فيها أوراق وقطع نقدية."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si un dato de un problema no hace falta? Explícamelo con un problema que inventes tú.",
+        "va": "Com saps si una dada d'un problema no cal? Explica-m'ho amb un problema que inventes tu.",
+        "en": "How do you know if a piece of information in a problem isn't needed? Explain it to me with a problem you make up.",
+        "fr": "Comment sais-tu si une donnée d'un problème ne sert à rien ? Explique-le-moi avec un problème que tu inventes.",
+        "ar": "كيف نعرف أن معطى في مسألة ليس لازمًا؟ اشرح لي أو اشرحي لي بمسألة نخترعها."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué pregunta el problema? ¿Qué números te ayudan a responder?»",
+        "va": "Si no sap per on començar: «Què pregunta el problema? Quins números t'ajuden a respondre?»",
+        "en": "If they don't know where to start: “What is the problem asking? Which numbers help you answer?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Que demande le problème ? Quels nombres t'aident à répondre ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «عمّ تسأل المسألة؟ وأي الأعداد تساعدنا على الإجابة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea clave es «mirar primero la pregunta». Si lo dice con sus palabras, perfecto. Resolved juntos el problema que invente.",
+          "va": "La idea clau és «mirar primer la pregunta». Si ho diu amb les seues paraules, perfecte. Resoleu junts el problema que invente.",
+          "en": "The key idea is “look at the question first”. If they say it in their own words, perfect. Solve the problem they make up together.",
+          "fr": "L'idée clé, c'est « regarder d'abord la question ». Si c'est dit avec ses propres mots, parfait. Résolvez ensemble le problème inventé.",
+          "ar": "الفكرة الأساسية هي «ننظر إلى السؤال أولًا». إن قيلت بكلمات خاصة، فممتاز. حلّوا معًا المسألة المخترعة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "a0561f315b8f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "a0561f315b8f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "a0561f315b8f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "a0561f315b8f"
+      }
+    }
+  }
+}

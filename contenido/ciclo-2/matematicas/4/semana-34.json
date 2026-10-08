@@ -1,0 +1,356 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s34",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 34,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: fracciones y cálculo",
+    "va": "Setmana de recordar: fraccions i càlcul",
+    "en": "Week to remember: fractions and calculation",
+    "fr": "Semaine pour se souvenir : fractions et calcul",
+    "ar": "أسبوع التذكّر: الكسور والحساب"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a todas las tablas, a multiplicar y dividir por 10, 100 y 1000, a los problemas con datos que sobran y a las fracciones en la cinta. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a totes les taules (tablas), a multiplicar i dividir per 10, 100 i 1000, als problemes amb dades que sobren i a les fraccions en la cinta. No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to all the times tables (tablas), multiplying and dividing by 10, 100 and 1000, problems with extra information and fractions on the tape. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient à toutes les tables (tablas), à la multiplication et la division par 10, 100 et 1000, aux problèmes avec des données inutiles et aux fractions sur le mètre ruban. Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى كل جداول الضرب (tablas)، والضرب والقسمة على 10 و100 و1000، والمسائل ذات المعطيات الزائدة، والكسور على الشريط. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "En las cartas rápidas, lo que cuenta es acertar. Si el récord no se mejora, mirad cuántas parejas salieron sin dudar: eso también es avanzar.",
+    "va": "En les cartes ràpides, el que compta és encertar. Si el rècord no es millora, mireu quantes parelles van eixir sense dubtar: això també és avançar.",
+    "en": "In quick cards, what counts is getting it right. If the record isn't beaten, look at how many pairs came out without hesitating: that's moving forward too.",
+    "fr": "Aux cartes rapides, ce qui compte, c'est de trouver. Si le record n'est pas battu, regardez combien de paires sont sorties sans hésiter : ça aussi, c'est avancer.",
+    "ar": "في الأوراق السريعة، المهم هو الإجابة الصحيحة. وإذا لم يتحسّن الرقم القياسي، انظروا كم زوجًا خرج دون تردّد: هذا أيضًا تقدّم."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.fracciones.fraccion",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cartas rápidas y fracciones en la cinta",
+      "va": "Cartes ràpides i fraccions en la cinta",
+      "en": "Quick cards and fractions on the tape",
+      "fr": "Cartes rapides et fractions sur le mètre",
+      "ar": "أوراق سريعة وكسور على الشريط"
+    },
+    "material": [
+      {
+        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
+        "en": "A pack of cards (or cards from 1 to 10 made of paper)",
+        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+      },
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina stopwatch",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت جيرمينا"
+      },
+      {
+        "es": "Una cinta métrica de costura y tarjetas con fracciones",
+        "va": "Una cinta mètrica de cosir i targetes amb fraccions",
+        "en": "A sewing tape measure and cards with fractions",
+        "fr": "Un mètre ruban de couture et des cartes avec des fractions",
+        "ar": "شريط قياس للخياطة وبطاقات عليها كسور"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Quitad las figuras y dejad las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Lleveu les figures i deixeu les cartes de l'1 al 10. Barregeu-les i poseu-les cap per avall en un munt.",
+          "en": "Take out the picture cards and keep the cards from 1 to 10. Shuffle them and put them face down in a pile.",
+          "fr": "Retirez les figures et gardez les cartes de 1 à 10. Mélangez-les et posez-les face cachée en un tas.",
+          "ar": "أخرجوا الصور واتركوا الأوراق من 1 إلى 10. اخلطوها وضعوها مقلوبة في كومة."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Con el cronómetro en 2 minutos: una persona da la vuelta a dos cartas y la otra dice el producto, como {{8 × 9 = 72}}. Cada pareja acertada va a un montón aparte.",
+          "va": "Amb el cronòmetre en 2 minuts: una persona gira dues cartes i l'altra diu el producte, com ara {{8 × 9 = 72}}. Cada parella encertada va a un munt a part.",
+          "en": "With the stopwatch at 2 minutes: one person turns over two cards and the other says the product, like {{8 × 9 = 72}}. Each pair they get right goes on a separate pile.",
+          "fr": "Avec le chrono sur 2 minutes : une personne retourne deux cartes et l'autre dit le produit, comme {{8 × 9 = 72}}. Chaque paire trouvée va sur un tas à part.",
+          "ar": "مع ضبط المؤقّت على دقيقتين: يقلب شخص ورقتين ويقول الآخر حاصل الضرب، مثل {{8 × 9 = 72}}. كل زوج صحيح يوضع في كومة منفصلة."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Contad las parejas acertadas: es vuestro récord. Cambiad los papeles y jugad otra vez.",
+          "va": "Compteu les parelles encertades: és el vostre rècord. Canvieu els papers i jugueu una altra vegada.",
+          "en": "Count the pairs you got right: that's your record. Swap roles and play again.",
+          "fr": "Comptez les paires trouvées : c'est votre record. Échangez les rôles et rejouez.",
+          "ar": "عدّوا الأزواج الصحيحة: هذا رقمكم القياسي. تبادلوا الأدوار والعبوا مرة أخرى."
+        }
+      },
+      {
+        "pictograma": "cinta",
+        "texto": {
+          "es": "Después, escribid tarjetas con fracciones ({{1/2}}, {{1/4}}, {{3/4}}, {{2/5}}, {{9/10}}…) y colocadlas sobre la cinta, de la más pequeña a la más grande.",
+          "va": "Després, escriviu targetes amb fraccions ({{1/2}}, {{1/4}}, {{3/4}}, {{2/5}}, {{9/10}}…) i col·loqueu-les sobre la cinta, de la més menuda a la més gran.",
+          "en": "Then write cards with fractions ({{1/2}}, {{1/4}}, {{3/4}}, {{2/5}}, {{9/10}}…) and place them on the tape, from smallest to biggest.",
+          "fr": "Ensuite, écrivez des cartes avec des fractions ({{1/2}}, {{1/4}}, {{3/4}}, {{2/5}}, {{9/10}}…) et placez-les sur le mètre, de la plus petite à la plus grande.",
+          "ar": "بعد ذلك، اكتبوا بطاقات عليها كسور ({{1/2}} و{{1/4}} و{{3/4}} و{{2/5}} و{{9/10}}…) وضعوها على الشريط من الأصغر إلى الأكبر."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Quitad las cartas del 7, del 8 y del 9, y en la cinta usad solo mitades y cuartos.",
+      "va": "Lleveu les cartes del 7, del 8 i del 9, i en la cinta feu servir només meitats i quarts.",
+      "en": "Take out the 7, 8 and 9 cards, and on the tape use only halves and quarters.",
+      "fr": "Retirez les cartes 7, 8 et 9, et sur le mètre utilisez seulement des moitiés et des quarts.",
+      "ar": "أخرجوا أوراق 7 و8 و9، واستعملوا على الشريط الأنصاف والأرباع فقط."
+    },
+    "masDificil": {
+      "es": "Dad la vuelta a una carta y multiplicadla por 10, por 100 o por 1000 según tire un dado (1-2, 3-4, 5-6).",
+      "va": "Gireu una carta i multipliqueu-la per 10, per 100 o per 1000 segons ixca en un dau (1-2, 3-4, 5-6).",
+      "en": "Turn over a card and multiply it by 10, 100 or 1000 depending on a dice roll (1-2, 3-4, 5-6).",
+      "fr": "Retournez une carte et multipliez-la par 10, par 100 ou par 1000 selon un lancer de dé (1-2, 3-4, 5-6).",
+      "ar": "اقلبوا ورقة واضربوها في 10 أو 100 أو 1000 حسب رمية النرد (1-2، 3-4، 5-6)."
+    },
+    "paraQueSirve": {
+      "es": "Volver a las tablas a final de curso ayuda a que se queden para el verano. Y ordenar fracciones en la cinta prepara lo que viene: los decimales.",
+      "va": "Tornar a les taules a final de curs ajuda que es queden per a l'estiu. I ordenar fraccions en la cinta prepara el que ve: els decimals.",
+      "en": "Coming back to the times tables at the end of the year helps them stick through the summer. And ordering fractions on the tape prepares for what's next: decimals.",
+      "fr": "Revenir aux tables en fin d'année aide à les garder pour l'été. Et ranger des fractions sur le mètre prépare la suite : les décimaux.",
+      "ar": "العودة إلى الجداول في آخر السنة تساعد على بقائها خلال الصيف. وترتيب الكسور على الشريط يحضّر لما سيأتي: الأعداد العشرية."
+    },
+    "rapidez": {
+      "segundos": 120,
+      "seCuenta": {
+        "es": "parejas de cartas acertadas",
+        "va": "parelles de cartes encertades",
+        "en": "pairs of cards you got right",
+        "fr": "paires de cartes trouvées",
+        "ar": "أزواج الأوراق الصحيحة"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "¿Cuánto es {{48 × 100}}?",
+        "va": "Quant és {{48 × 100}}?",
+        "en": "What is {{48 × 100}}?",
+        "fr": "Combien fait {{48 × 100}} ?",
+        "ar": "كم تساوي {{48 × 100}}؟"
+      },
+      "pista": {
+        "es": "Por 100, cada cifra se mueve dos casillas.",
+        "va": "Per 100, cada xifra es mou dues caselles.",
+        "en": "Times 100, each digit moves two columns.",
+        "fr": "Fois 100, chaque chiffre se déplace de deux cases.",
+        "ar": "عند الضرب في 100 ينتقل كل رقم خانتين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "48 × 100",
+        "resultado": 4800,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es 4800.",
+          "va": "És 4800.",
+          "en": "It's 4800.",
+          "fr": "Ça fait 4800.",
+          "ar": "تساوي 4800."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una orden para la máquina de las cifras.",
+        "va": "Inventa't una ordre per a la màquina de les xifres.",
+        "en": "Make up an order for the digit machine.",
+        "fr": "Invente un ordre pour la machine à chiffres.",
+        "ar": "لنخترع أمرًا لآلة الأرقام."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la cinta de 100 cm, ¿qué está más lejos del 0, {{2/5}} o {{1/2}}? ¿Por cuántos centímetros?",
+        "va": "En la cinta de 100 cm, què està més lluny del 0, {{2/5}} o {{1/2}}? Per quants centímetres?",
+        "en": "On the 100 cm tape, which is further from 0, {{2/5}} or {{1/2}}? By how many centimetres?",
+        "fr": "Sur le mètre de 100 cm, qu'est-ce qui est le plus loin de 0, {{2/5}} ou {{1/2}} ? De combien de centimètres ?",
+        "ar": "على شريط طوله 100 سم، أيّهما أبعد عن 0: {{2/5}} أم {{1/2}}؟ وبكم سنتيمترًا؟"
+      },
+      "pista": {
+        "es": "Un quinto de 100 son 20, así que {{2/5}} está en 40 cm. ¿Y la mitad?",
+        "va": "Un cinqué de 100 són 20, així que {{2/5}} està en 40 cm. I la meitat?",
+        "en": "A fifth of 100 is 20, so {{2/5}} is at 40 cm. And the half?",
+        "fr": "Un cinquième de 100, c'est 20, donc {{2/5}} est à 40 cm. Et la moitié ?",
+        "ar": "خمس 100 هو 20، إذن {{2/5}} عند 40 سم. وأين النصف؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "50 - 40",
+        "resultado": 10,
+        "unidad": "cm",
+        "texto": {
+          "es": "{{1/2}} está más lejos: en 50 cm, 10 cm más allá que {{2/5}}.",
+          "va": "{{1/2}} està més lluny: en 50 cm, 10 cm més enllà que {{2/5}}.",
+          "en": "{{1/2}} is further: at 50 cm, 10 cm beyond {{2/5}}.",
+          "fr": "{{1/2}} est plus loin : à 50 cm, 10 cm plus loin que {{2/5}}.",
+          "ar": "{{1/2}} أبعد: عند 50 سم، أي بعد {{2/5}} بـ10 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta para comparar dos fracciones en la cinta.",
+        "va": "Inventa't una pregunta per a comparar dues fraccions en la cinta.",
+        "en": "Make up a question comparing two fractions on the tape.",
+        "fr": "Invente une question pour comparer deux fractions sur le mètre.",
+        "ar": "لنخترع سؤالًا نقارن فيه بين كسرين على الشريط."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Un club compra 6 balones de 12 € cada uno y paga con un billete de 100 €. ¿Cuánto le devuelven?",
+        "va": "Un club compra 6 pilotes de 12 € cadascuna i paga amb un bitllet de 100 €. Quant li tornen?",
+        "en": "A club buys 6 balls at 12 € each and pays with a 100 € note. How much change does it get?",
+        "fr": "Un club achète 6 ballons à 12 € chacun et paie avec un billet de 100 €. Combien lui rend-on ?",
+        "ar": "اشترى نادٍ 6 كرات ثمن كل منها 12 يورو ودفع بورقة نقدية من فئة 100 يورو. كم يُرجَع له؟"
+      },
+      "pista": {
+        "es": "Primero, cuánto cuestan los 6 balones. Después, cuánto falta hasta 100 €.",
+        "va": "Primer, quant costen les 6 pilotes. Després, quant falta fins a 100 €.",
+        "en": "First, how much the 6 balls cost. Then, how much more to get to 100 €.",
+        "fr": "D'abord, combien coûtent les 6 ballons. Ensuite, combien il manque jusqu'à 100 €.",
+        "ar": "أولًا، كم ثمن الكرات الست. ثم كم يبقى حتى 100 يورو."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - (6 × 12)",
+        "resultado": 28,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le devuelven 28 €: {{6 × 12 = 72}} y {{100 − 72 = 28}}.",
+          "va": "Li tornen 28 €: {{6 × 12 = 72}} i {{100 − 72 = 28}}.",
+          "en": "It gets 28 € back: {{6 × 12 = 72}} and {{100 − 72 = 28}}.",
+          "fr": "On lui rend 28 € : {{6 × 12 = 72}} et {{100 − 72 = 28}}.",
+          "ar": "يُرجَع له 28 يورو: {{6 × 12 = 72}} و{{100 − 72 = 28}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos para un equipo o un club.",
+        "va": "Inventa'n tu un de dos passos per a un equip o un club.",
+        "en": "Make up a two-step one for a team or a club.",
+        "fr": "Invente un problème en deux étapes pour une équipe ou un club.",
+        "ar": "لنخترع مسألة من خطوتين لفريق أو نادٍ."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 25,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: ¿es 54 múltiplo de 6?",
+        "va": "Per a recordar: és 54 múltiple de 6?",
+        "en": "Let's remember: is 54 a multiple of 6?",
+        "fr": "Pour se souvenir : 54 est-il un multiple de 6 ?",
+        "ar": "لنتذكّر: هل 54 من مضاعفات 6؟"
+      },
+      "pista": {
+        "es": "¿Está el 54 en la tabla del 6?",
+        "va": "Està el 54 en la taula del 6?",
+        "en": "Is 54 in the 6 times table?",
+        "fr": "Est-ce que 54 est dans la table de 6 ?",
+        "ar": "هل 54 في جدول 6؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "54 : 6",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, porque {{6 × 9 = 54}}.",
+          "va": "Sí, perquè {{6 × 9 = 54}}.",
+          "en": "Yes, because {{6 × 9 = 54}}.",
+          "fr": "Oui, parce que {{6 × 9 = 54}}.",
+          "ar": "نعم، لأن {{6 × 9 = 54}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de múltiplos para alguien de casa.",
+        "va": "Inventa't una pregunta de múltiples per a algú de casa.",
+        "en": "Make up a multiples question for someone at home.",
+        "fr": "Invente une question de multiples pour quelqu'un de la maison.",
+        "ar": "لنخترع سؤالًا عن المضاعفات لأحد في البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué tabla te sale ahora mejor que al principio del curso? Explícame qué te ha ayudado.",
+        "va": "Quina taula t'ix ara millor que al principi del curs? Explica'm què t'ha ajudat.",
+        "en": "Which times table comes more easily now than at the start of the year? Explain what helped you.",
+        "fr": "Quelle table te vient mieux maintenant qu'au début de l'année ? Explique-moi ce qui t'a aidé.",
+        "ar": "أي جدول ضرب صار أسهل الآن مما كان في بداية السنة؟ اشرح لي أو اشرحي لي ما الذي ساعدنا."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas del dominó de tablas? ¿Y del bingo de productos? ¿Y de los trucos de la nevera?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes del dòmino de taules? I del bingo de productes? I dels trucs de la nevera?»",
+        "en": "You can help them remember: “Do you remember the times table dominoes? And product bingo? And the tricks on the fridge?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles le domino des tables ? Et le loto des produits ? Et les astuces du frigo ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر دومينو الجداول؟ وبينغو حواصل الضرب؟ وحيل الثلاجة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Celebrad lo que ha mejorado, sea mucho o poco. Si os apetece, apuntad juntos la tabla y el truco para recordarlo en verano.",
+          "va": "Celebreu el que ha millorat, siga molt o poc. Si us ve de gust, apunteu junts la taula i el truc per a recordar-lo a l'estiu.",
+          "en": "Celebrate what has improved, whether it's a lot or a little. If you like, write down the table and the trick together to remember it over the summer.",
+          "fr": "Fêtez ce qui s'est amélioré, beaucoup ou peu. Si vous en avez envie, notez ensemble la table et l'astuce pour vous en souvenir cet été.",
+          "ar": "احتفلوا بما تحسّن، كثيرًا كان أو قليلًا. وإن رغبتم، دوّنوا معًا الجدول والحيلة لتذكّرها في الصيف."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "6005672d5e0c"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "6005672d5e0c"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "6005672d5e0c"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "6005672d5e0c"
+      }
+    }
+  }
+}

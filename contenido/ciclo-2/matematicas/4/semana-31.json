@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s31",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 31,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué datos hacen falta?",
+    "va": "Quines dades calen?",
+    "en": "Which numbers do we need?",
+    "fr": "Quelles données faut-il ?",
+    "ar": "ما المعطيات اللازمة؟"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden a leer un problema con calma y separar los datos que sirven de los que sobran. Antes de calcular, se preguntan: «¿Qué me piden? ¿Qué necesito para responder?».",
+    "va": "Aquesta setmana aprenen a llegir un problema amb calma i separar les dades que servixen de les que sobren. Abans de calcular, es pregunten: «Què em demanen? Què necessite per a respondre?».",
+    "en": "This week they learn to read a problem calmly and separate the useful information from the extra. Before calculating, they ask themselves: “What's the question? What do I want to know to answer it?”",
+    "fr": "Cette semaine, on apprend à lire un problème calmement et à séparer les données utiles des données inutiles. Avant de calculer, on se demande : « Qu'est-ce qu'on me demande ? De quoi ai-je besoin pour répondre ? ».",
+    "ar": "هذا الأسبوع يتعلّم الأطفال قراءة المسألة بهدوء والفصل بين المعطيات المفيدة والزائدة. وقبل الحساب يسألون أنفسهم: «ما المطلوب؟ وماذا أحتاج لأجيب؟»."
+  },
+  "comoAyudar": {
+    "es": "Leed el problema en voz alta y, antes de calcular, pedid que diga con sus palabras qué se pregunta. Si usa un dato que sobra, preguntad «¿para qué te sirve ese número?».",
+    "va": "Llegiu el problema en veu alta i, abans de calcular, demaneu que diga amb les seues paraules què es pregunta. Si fa servir una dada que sobra, pregunteu «per a què et servix eixe número?».",
+    "en": "Read the problem out loud and, before calculating, ask them to say in their own words what the question is. If they use a number that isn't needed, ask “What does that number help you with?”",
+    "fr": "Lisez le problème à voix haute et, avant de calculer, demandez de dire avec ses propres mots ce qu'on demande. Si une donnée inutile est utilisée, demandez « À quoi te sert ce nombre ? ».",
+    "ar": "اقرؤوا المسألة بصوت عالٍ، وقبل الحساب اطلبوا أن يقول الطفل بكلماته ما المطلوب. وإذا استُعمل معطى زائد، اسألوا «بماذا يفيدك هذا العدد؟»."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c2.1.1",
+    "matematicas.c2.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Una receta con trampa",
+      "va": "Una recepta amb trampa",
+      "en": "A trick recipe",
+      "fr": "Une recette piégée",
+      "ar": "وصفة فيها فخّ"
+    },
+    "material": [
+      {
+        "es": "Una receta (de un libro, de la familia o inventada)",
+        "va": "Una recepta (d'un llibre, de la família o inventada)",
+        "en": "A recipe (from a book, from the family or made up)",
+        "fr": "Une recette (d'un livre, de la famille ou inventée)",
+        "ar": "وصفة (من كتاب أو من العائلة أو مخترعة)"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "folleto",
+        "texto": {
+          "es": "Escribid una receta con sus datos. Por ejemplo, bizcocho para 8 personas: 3 huevos, 1 yogur, 300 g de harina, 40 minutos de horno.",
+          "va": "Escriviu una recepta amb les seues dades. Per exemple, coca per a 8 persones: 3 ous, 1 iogurt, 300 g de farina, 40 minuts de forn.",
+          "en": "Write out a recipe with its numbers. For example, sponge cake for 8 people: 3 eggs, 1 yoghurt, 300 g of flour, 40 minutes in the oven.",
+          "fr": "Écrivez une recette avec ses données. Par exemple, un gâteau pour 8 personnes : 3 œufs, 1 yaourt, 300 g de farine, 40 minutes au four.",
+          "ar": "اكتبوا وصفة بمعطياتها. مثلًا كعكة لـ8 أشخاص: 3 بيضات، علبة زبادي، 300 غ من الدقيق، 40 دقيقة في الفرن."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Haceos preguntas: «Si somos 16, ¿cuántos huevos hacen falta?». ¿Qué datos de la receta usáis? ¿Cuáles no hacen falta para esa pregunta?",
+          "va": "Feu-vos preguntes: «Si som 16, quants ous calen?». Quines dades de la recepta feu servir? Quines no calen per a eixa pregunta?",
+          "en": "Ask each other questions: “If there are 16 of us, how many eggs?” Which numbers in the recipe do you use? Which ones aren't needed for that question?",
+          "fr": "Posez-vous des questions : « Si on est 16, combien d'œufs faut-il ? ». Quelles données de la recette utilisez-vous ? Lesquelles ne servent pas pour cette question ?",
+          "ar": "اطرحوا أسئلة على بعضكم: «إذا كنّا 16، كم بيضة نحتاج؟». أي معطيات الوصفة تستعملون؟ وأيّها ليس لازمًا لهذا السؤال؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Resolved juntos: para 16 personas, el doble de huevos, {{3 × 2 = 6}}. Los minutos de horno no cambian nada.",
+          "va": "Resoleu junts: per a 16 persones, el doble d'ous, {{3 × 2 = 6}}. Els minuts de forn no canvien res.",
+          "en": "Solve it together: for 16 people, double the eggs, {{3 × 2 = 6}}. The oven minutes don't change anything.",
+          "fr": "Résolvez ensemble : pour 16 personnes, le double d'œufs, {{3 × 2 = 6}}. Les minutes de four ne changent rien.",
+          "ar": "حلّوا معًا: لـ16 شخصًا ضعف البيض، {{3 × 2 = 6}}. ودقائق الفرن لا تغيّر شيئًا."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Ahora el niño o la niña añade a la receta un dato que no sirva para nada («la cuchara es azul») y prepara una pregunta con trampa para la familia.",
+          "va": "Ara el xiquet o la xiqueta afegix a la recepta una dada que no servisca per a res («la cullera és blava») i prepara una pregunta amb trampa per a la família.",
+          "en": "Now the child adds a useless detail to the recipe (“the spoon is blue”) and prepares a trick question for the family.",
+          "fr": "Maintenant, l'enfant ajoute à la recette une donnée qui ne sert à rien (« la cuillère est bleue ») et prépare une question piégée pour la famille.",
+          "ar": "الآن يضيف الطفل إلى الوصفة معطًى لا يفيد في شيء («الملعقة زرقاء») ويحضّر سؤالًا فيه فخّ للعائلة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad una receta con solo tres datos y haced una sola pregunta.",
+      "va": "Feu servir una recepta amb només tres dades i feu una sola pregunta.",
+      "en": "Use a recipe with only three numbers and ask just one question.",
+      "fr": "Utilisez une recette avec seulement trois données et posez une seule question.",
+      "ar": "استعملوا وصفة فيها ثلاثة معطيات فقط واطرحوا سؤالًا واحدًا."
+    },
+    "masDificil": {
+      "es": "Preguntad por una receta para 4 personas (la mitad) o para 12 (una vez y media). ¿Qué datos cambian y cuáles se quedan igual?",
+      "va": "Pregunteu per una recepta per a 4 persones (la meitat) o per a 12 (una vegada i mitja). Quines dades canvien i quines es queden igual?",
+      "en": "Ask about a recipe for 4 people (half) or for 12 (one and a half times). Which numbers change and which stay the same?",
+      "fr": "Posez des questions pour une recette pour 4 personnes (la moitié) ou pour 12 (une fois et demie). Quelles données changent et lesquelles restent pareilles ?",
+      "ar": "اسألوا عن وصفة لـ4 أشخاص (النصف) أو لـ12 (مرة ونصف). أي المعطيات تتغيّر وأيّها يبقى كما هو؟"
+    },
+    "paraQueSirve": {
+      "es": "En la vida, los problemas vienen con mucha información y no toda sirve. Elegir los datos que importan es una de las partes más difíciles, y más útiles, de resolver problemas.",
+      "va": "En la vida, els problemes vénen amb molta informació i no tota servix. Triar les dades que importen és una de les parts més difícils, i més útils, de resoldre problemes.",
+      "en": "In life, problems come with lots of information and not all of it is useful. Choosing the information that matters is one of the hardest, and most useful, parts of solving problems.",
+      "fr": "Dans la vie, les problèmes arrivent avec beaucoup d'informations, et toutes ne servent pas. Choisir les données qui comptent est l'une des parties les plus difficiles, et les plus utiles, de la résolution de problèmes.",
+      "ar": "في الحياة تأتي المسائل بمعلومات كثيرة، وليست كلها مفيدة. واختيار المعطيات المهمة من أصعب أجزاء حلّ المسائل وأكثرها فائدة."
+    },
+    "aviso": {
+      "es": "Si os animáis a hacer la receta de verdad, el horno siempre lo maneja una persona adulta.",
+      "va": "Si us animeu a fer la recepta de veritat, el forn sempre el fa servir una persona adulta.",
+      "en": "If you decide to make the recipe for real, an adult always handles the oven.",
+      "fr": "Si vous vous lancez dans la vraie recette, c'est toujours un adulte qui s'occupe du four.",
+      "ar": "إذا قرّرتم تحضير الوصفة فعلًا، فالفرن دائمًا يتولّاه شخص بالغ."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Una receta de tortitas para 6 personas lleva 300 g de harina y se hace en 20 minutos. ¿Cuánta harina toca por persona?",
+        "va": "Una recepta de creps per a 6 persones porta 300 g de farina i es fa en 20 minuts. Quanta farina toca per persona?",
+        "en": "A pancake recipe for 6 people uses 300 g of flour and takes 20 minutes. How much flour is that per person?",
+        "fr": "Une recette de crêpes pour 6 personnes demande 300 g de farine et se prépare en 20 minutes. Combien de farine par personne ?",
+        "ar": "وصفة فطائر لـ6 أشخاص فيها 300 غ من الدقيق وتُحضَّر في 20 دقيقة. كم دقيقًا لكل شخص؟"
+      },
+      "pista": {
+        "es": "¿Los minutos cambian la harina? Reparte los 300 g entre 6.",
+        "va": "Els minuts canvien la farina? Repartix els 300 g entre 6.",
+        "en": "Do the minutes change the flour? Share the 300 g between 6.",
+        "fr": "Les minutes changent-elles la farine ? Partage les 300 g entre 6.",
+        "ar": "هل تغيّر الدقائق كمية الدقيق؟ لنوزّع الـ300 غ على 6."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "300 : 6",
+        "resultado": 50,
+        "unidad": "g",
+        "texto": {
+          "es": "Tocan 50 g de harina por persona. Los 20 minutos no hacen falta.",
+          "va": "Toquen 50 g de farina per persona. Els 20 minuts no calen.",
+          "en": "That's 50 g of flour per person. The 20 minutes aren't needed.",
+          "fr": "Ça fait 50 g de farine par personne. Les 20 minutes ne servent à rien.",
+          "ar": "لكل شخص 50 غ من الدقيق. الدقائق العشرون ليست لازمة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de recetas con un dato de tiempo que sobre.",
+        "va": "Inventa'n tu una de receptes amb una dada de temps que sobre.",
+        "en": "Make up a recipe one with a time that isn't needed.",
+        "fr": "Invente un problème de recette avec une durée qui ne sert à rien.",
+        "ar": "لنخترع مسألة وصفة فيها مدة زمنية زائدة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Martina compra 3 entradas de teatro de 15 € para la función de las 18:00, que dura 90 minutos. ¿Cuánto paga?",
+        "va": "Martina compra 3 entrades de teatre de 15 € per a la funció de les 18:00, que dura 90 minuts. Quant paga?",
+        "en": "Martina buys 3 theatre tickets at 15 € for the 18:00 show, which lasts 90 minutes. How much does she pay?",
+        "fr": "Martina achète 3 places de théâtre à 15 € pour la séance de 18:00, qui dure 90 minutes. Combien paie-t-elle ?",
+        "ar": "اشترت مارتينا 3 تذاكر مسرح ثمن كل منها 15 يورو لعرض الساعة 18:00 الذي يدوم 90 دقيقة. كم دفعت؟"
+      },
+      "pista": {
+        "es": "¿Qué números hablan de dinero?",
+        "va": "Quins números parlen de diners?",
+        "en": "Which numbers are about money?",
+        "fr": "Quels nombres parlent d'argent ?",
+        "ar": "أي الأعداد تتحدّث عن النقود؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 15",
+        "resultado": 45,
+        "unidad": "euros",
+        "texto": {
+          "es": "Paga 45 €. Sobran la hora y la duración.",
+          "va": "Paga 45 €. Sobren l'hora i la duració.",
+          "en": "She pays 45 €. The time and the length of the show aren't needed.",
+          "fr": "Elle paie 45 €. L'heure et la durée ne servent à rien.",
+          "ar": "دفعت 45 يورو. الساعة ومدة العرض معطيات زائدة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de entradas con dos datos que sobren.",
+        "va": "Inventa'n tu una d'entrades amb dues dades que sobren.",
+        "en": "Make up a tickets one with two pieces of extra information.",
+        "fr": "Invente un problème de billets avec deux données inutiles.",
+        "ar": "لنخترع مسألة تذاكر فيها معطيان زائدان."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Un club de lectura tiene 48 personas; 30 de ellas, desde hace más de un año. Este mes se apuntan 17 y se van 9. ¿Cuántas personas hay ahora en el club?",
+        "va": "Un club de lectura té 48 persones; 30 d'elles, des de fa més d'un any. Aquest mes se n'apunten 17 i se'n van 9. Quantes persones hi ha ara en el club?",
+        "en": "A book club has 48 members; 30 of them have been in it for more than a year. This month 17 join and 9 leave. How many members are there now?",
+        "fr": "Un club de lecture compte 48 personnes, dont 30 depuis plus d'un an. Ce mois-ci, 17 s'inscrivent et 9 s'en vont. Combien de personnes y a-t-il maintenant dans le club ?",
+        "ar": "في نادٍ للقراءة 48 شخصًا، 30 منهم منذ أكثر من سنة. هذا الشهر انضمّ 17 وغادر 9. كم شخصًا في النادي الآن؟"
+      },
+      "pista": {
+        "es": "¿El 30 cambia cuántas personas hay? Empieza por las 48.",
+        "va": "El 30 canvia quantes persones hi ha? Comença per les 48.",
+        "en": "Does the 30 change how many members there are? Start with the 48.",
+        "fr": "Le 30 change-t-il le nombre de personnes ? Commence par les 48.",
+        "ar": "هل يغيّر العدد 30 عدد الأشخاص؟ لنبدأ بالـ48."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(48 + 17) - 9",
+        "resultado": 56,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 56 personas: {{48 + 17 = 65}} y {{65 − 9 = 56}}. El 30 sobra.",
+          "va": "Hi ha 56 persones: {{48 + 17 = 65}} i {{65 − 9 = 56}}. El 30 sobra.",
+          "en": "There are 56 members: {{48 + 17 = 65}} and {{65 − 9 = 56}}. The 30 isn't needed.",
+          "fr": "Il y a 56 personnes : {{48 + 17 = 65}} et {{65 − 9 = 56}}. Le 30 ne sert à rien.",
+          "ar": "في النادي 56 شخصًا: {{48 + 17 = 65}} و{{65 − 9 = 56}}. العدد 30 زائد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos con un número que parezca útil pero no lo sea.",
+        "va": "Inventa'n tu un de dos passos amb un número que semble útil però no ho siga.",
+        "en": "Make up a two-step one with a number that looks useful but isn't.",
+        "fr": "Invente un problème en deux étapes avec un nombre qui semble utile mais ne l'est pas.",
+        "ar": "لنخترع مسألة من خطوتين فيها عدد يبدو مفيدًا وليس كذلك."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 30,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: ¿cuánto es {{2700 : 100}}?",
+        "va": "Per a recordar: quant és {{2700 : 100}}?",
+        "en": "Let's remember: what is {{2700 : 100}}?",
+        "fr": "Pour se souvenir : combien fait {{2700 : 100}} ?",
+        "ar": "لنتذكّر: كم تساوي {{2700 : 100}}؟"
+      },
+      "pista": {
+        "es": "Entre 100, cada cifra se mueve dos casillas hacia las unidades.",
+        "va": "Entre 100, cada xifra es mou dues caselles cap a les unitats.",
+        "en": "Divided by 100, each digit moves two columns towards the ones.",
+        "fr": "Divisé par 100, chaque chiffre se déplace de deux cases vers les unités.",
+        "ar": "عند القسمة على 100 ينتقل كل رقم خانتين نحو الآحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2700 : 100",
+        "resultado": 27,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es 27: {{27 × 100 = 2700}}.",
+          "va": "És 27: {{27 × 100 = 2700}}.",
+          "en": "It's 27: {{27 × 100 = 2700}}.",
+          "fr": "Ça fait 27 : {{27 × 100 = 2700}}.",
+          "ar": "تساوي 27: {{27 × 100 = 2700}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una orden para la máquina de las cifras y que alguien de casa la haga de cabeza.",
+        "va": "Inventa't una ordre per a la màquina de les xifres i que algú de casa la faça de cap.",
+        "en": "Make up an order for the digit machine and have someone at home do it in their head.",
+        "fr": "Invente un ordre pour la machine à chiffres et fais-le faire de tête à quelqu'un de la maison.",
+        "ar": "لنخترع أمرًا لآلة الأرقام ونطلب من أحد في البيت أن ينفّذه ذهنيًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué crees que algunos problemas traen datos que no hacen falta? Explícamelo con uno que inventes tú.",
+        "va": "Per què creus que alguns problemes porten dades que no calen? Explica-m'ho amb un que inventes tu.",
+        "en": "Why do you think some problems include information that isn't needed? Explain it to me with one you make up.",
+        "fr": "Pourquoi crois-tu que certains problèmes contiennent des données inutiles ? Explique-le-moi avec un problème que tu inventes.",
+        "ar": "لماذا نظنّ أن بعض المسائل تأتي بمعطيات غير لازمة؟ اشرح لي أو اشرحي لي بمسألة نخترعها."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Cuando vas a comprar, ¿te fijas en todos los números del tique o solo en algunos?»",
+        "va": "Si no sap per on començar: «Quan vas a comprar, et fixes en tots els números del tiquet o només en alguns?»",
+        "en": "If they don't know where to start: “When you go shopping, do you look at every number on the receipt or just some?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Quand tu fais les courses, tu regardes tous les nombres du ticket ou seulement certains ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «عندما نتسوّق، هل ننتبه إلى كل أعداد الإيصال أم إلى بعضها فقط؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier razón con sentido vale («para pensar», «porque en la vida pasa así»). Resolved juntos el problema que invente.",
+          "va": "Qualsevol raó amb sentit val («per a pensar», «perquè en la vida passa així»). Resoleu junts el problema que invente.",
+          "en": "Any sensible reason is fine (“to make you think”, “because that's how life is”). Solve the problem they make up together.",
+          "fr": "Toute raison sensée convient (« pour réfléchir », « parce que dans la vie, c'est comme ça »). Résolvez ensemble le problème inventé.",
+          "ar": "أي سبب معقول يصلح («لنفكّر»، «لأن الحياة هكذا»). حلّوا معًا المسألة المخترعة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "e41980367cd8"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "e41980367cd8"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "e41980367cd8"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "e41980367cd8"
+      }
+    }
+  }
+}
