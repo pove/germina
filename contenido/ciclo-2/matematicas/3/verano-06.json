@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.v06",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "verano": 6,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Cajas por dentro y por fuera",
+    "va": "Capses per dins i per fora",
+    "en": "Boxes inside and out",
+    "fr": "Les boîtes, dedans et dehors",
+    "ar": "العلب من الداخل والخارج"
+  },
+  "objetivo": {
+    "es": "Las cajas de casa son poliedros: tienen caras planas, aristas (los bordes donde se juntan dos caras) y vértices (las esquinas). Contarlas y desmontar una caja enseña cómo un cuerpo sale de una forma plana.",
+    "va": "Les capses de casa són poliedres: tenen cares planes, arestes (les vores on s'ajunten dues cares) i vèrtexs (les cantonades). Comptar-les i desmuntar una capsa ensenya com un cos ix d'una forma plana.",
+    "en": "The boxes at home are polyhedra (poliedros): they have flat faces, edges (where two faces meet) and vertices (the corners). Counting them and taking a box apart shows how a solid comes from a flat shape.",
+    "fr": "Les boîtes de la maison sont des polyèdres (poliedros) : elles ont des faces planes, des arêtes (les bords où deux faces se rejoignent) et des sommets (les coins). Les compter et défaire une boîte montre comment un solide naît d'une forme plate.",
+    "ar": "علب البيت مجسّمات متعدّدة الوجوه (poliedros): لها أوجه مستوية، وأحرف (الحواف التي يلتقي فيها وجهان)، ورؤوس (الزوايا). عدّها وفكّ علبة يُظهر كيف يخرج المجسّم من شكل مسطّح."
+  },
+  "comoAyudar": {
+    "es": "Al contar aristas es fácil perderse. Proponed marcar cada una con una pegatina o un trocito de cinta: así nadie cuenta dos veces la misma.",
+    "va": "En comptar arestes és fàcil perdre's. Proposeu marcar cadascuna amb un adhesiu o un trosset de cinta: així ningú no compta dues vegades la mateixa.",
+    "en": "It's easy to lose track when counting edges. Suggest marking each one with a sticker or a bit of tape: that way nobody counts the same one twice.",
+    "fr": "En comptant les arêtes, on se perd facilement. Proposez de marquer chacune avec une gommette ou un bout de ruban adhésif : ainsi, personne ne compte deux fois la même.",
+    "ar": "من السهل أن نضيع عند عدّ الأحرف. اقترحوا وضع ملصق أو قطعة شريط لاصق على كل حرف: هكذا لا يعدّ أحد الحرف نفسه مرتين."
+  },
+  "saberes": [
+    "matematicas.geometria.poliedros"
+  ],
+  "criterios": [
+    "matematicas.c2.5.2",
+    "matematicas.c2.2.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Desmontar una caja",
+      "va": "Desmuntar una capsa",
+      "en": "Taking a box apart",
+      "fr": "Défaire une boîte",
+      "ar": "فكّ علبة"
+    },
+    "material": [
+      {
+        "es": "Cajas vacías: de cereales, de galletas, de pasta de dientes…",
+        "va": "Capses buides: de cereals, de galetes, de pasta de dents…",
+        "en": "Empty boxes: cereal, biscuit, toothpaste boxes…",
+        "fr": "Des boîtes vides : de céréales, de biscuits, de dentifrice…",
+        "ar": "علب فارغة: علب حبوب الإفطار، البسكويت، معجون الأسنان…"
+      },
+      {
+        "es": "Pegatinas o trocitos de cinta adhesiva",
+        "va": "Adhesius o trossets de cinta adhesiva",
+        "en": "Stickers or bits of sticky tape",
+        "fr": "Des gommettes ou des bouts de ruban adhésif",
+        "ar": "ملصقات أو قطع من الشريط اللاصق"
+      },
+      {
+        "es": "Tijeras",
+        "va": "Tisores",
+        "en": "Scissors",
+        "fr": "Des ciseaux",
+        "ar": "مقصّ"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "caja",
+        "texto": {
+          "es": "Elegid una caja y contad sus caras: arriba, abajo, delante, detrás y los dos lados.",
+          "va": "Trieu una capsa i compteu-ne les cares: dalt, baix, davant, darrere i els dos costats.",
+          "en": "Choose a box and count its faces: top, bottom, front, back and the two sides.",
+          "fr": "Choisissez une boîte et comptez ses faces : dessus, dessous, devant, derrière et les deux côtés.",
+          "ar": "اختاروا علبة وعدّوا أوجهها: الأعلى، الأسفل، الأمام، الخلف، والجانبان."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Ahora las aristas, los bordes donde se juntan dos caras. Marcad cada una con una pegatina para no repetir. ¿Cuántas salen?",
+          "va": "Ara les arestes, les vores on s'ajunten dues cares. Marqueu cadascuna amb un adhesiu per a no repetir. Quantes n'ixen?",
+          "en": "Now the edges, where two faces meet. Mark each one with a sticker so you don't repeat any. How many are there?",
+          "fr": "Maintenant les arêtes, les bords où deux faces se rejoignent. Marquez chacune avec une gommette pour ne pas recompter. Combien y en a-t-il ?",
+          "ar": "الآن الأحرف، الحواف التي يلتقي فيها وجهان. ضعوا ملصقًا على كل حرف حتى لا نكرّر. كم حرفًا هناك؟"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Y los vértices, las esquinas donde se juntan tres aristas. ¿Todas las cajas tienen los mismos números?",
+          "va": "I els vèrtexs, les cantonades on s'ajunten tres arestes. Totes les capses tenen els mateixos números?",
+          "en": "And the vertices, the corners where three edges meet. Do all the boxes have the same numbers?",
+          "fr": "Et les sommets, les coins où trois arêtes se rejoignent. Toutes les boîtes ont-elles les mêmes nombres ?",
+          "ar": "ثم الرؤوس، الزوايا التي تلتقي فيها ثلاثة أحرف. هل لكل العلب الأعداد نفسها؟"
+        }
+      },
+      {
+        "pictograma": "tijeras",
+        "texto": {
+          "es": "Con una persona adulta, cortad por algunas aristas hasta que la caja quede plana. ¿Qué formas veis? Es el desarrollo de la caja.",
+          "va": "Amb una persona adulta, talleu per algunes arestes fins que la capsa quede plana. Quines formes veieu? És el desenvolupament de la capsa.",
+          "en": "With an adult, cut along some edges until the box lies flat. What shapes can you see? That is the box's net.",
+          "fr": "Avec une personne adulte, coupez le long de quelques arêtes jusqu'à ce que la boîte soit à plat. Quelles formes voyez-vous ? C'est le patron de la boîte.",
+          "ar": "مع شخص بالغ، قصّوا على طول بعض الأحرف حتى تصبح العلبة مسطّحة. أي أشكال ترون؟ هذا هو مُنبسط العلبة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Contad solo las caras de varias cajas y separad las que tienen todas las caras iguales (los cubos) de las demás.",
+      "va": "Compteu només les cares de diverses capses i separeu les que tenen totes les cares iguals (els cubs) de les altres.",
+      "en": "Just count the faces of several boxes and separate the ones with all faces the same (cubes) from the rest.",
+      "fr": "Comptez seulement les faces de plusieurs boîtes et séparez celles dont toutes les faces sont pareilles (les cubes) des autres.",
+      "ar": "عدّوا أوجه عدة علب فقط، وافصلوا العلب التي كل أوجهها متساوية (المكعّبات) عن غيرها."
+    },
+    "masDificil": {
+      "es": "Buscad algo con forma de pirámide o de prisma con triángulos (como algunas chocolatinas) y contad también sus caras, aristas y vértices.",
+      "va": "Busqueu alguna cosa amb forma de piràmide o de prisma amb triangles (com algunes xocolatines) i compteu-ne també les cares, les arestes i els vèrtexs.",
+      "en": "Look for something shaped like a pyramid or a triangular prism (like some chocolate bars) and count its faces, edges and vertices too.",
+      "fr": "Cherchez quelque chose en forme de pyramide ou de prisme à triangles (comme certaines barres de chocolat) et comptez aussi ses faces, ses arêtes et ses sommets.",
+      "ar": "ابحثوا عن شيء على شكل هرم أو موشور مثلّثي (مثل بعض ألواح الشوكولاتة) وعدّوا أيضًا أوجهه وأحرفه ورؤوسه."
+    },
+    "paraQueSirve": {
+      "es": "Pasar de una caja a su forma plana y al revés entrena la vista en el espacio, que se usa para montar muebles, leer planos o hacer maquetas.",
+      "va": "Passar d'una capsa a la seua forma plana i al revés entrena la vista en l'espai, que s'usa per a muntar mobles, llegir plànols o fer maquetes.",
+      "en": "Going from a box to its flat shape and back trains your sense of space, which is used to build furniture, read plans or make models.",
+      "fr": "Passer d'une boîte à sa forme plate et inversement entraîne la vision dans l'espace, qui sert à monter des meubles, lire des plans ou faire des maquettes.",
+      "ar": "الانتقال من العلبة إلى شكلها المسطّح وبالعكس يدرّب النظر في الفضاء، وهذا يُستعمل في تركيب الأثاث وقراءة المخطّطات وصنع المجسّمات."
+    },
+    "aviso": {
+      "es": "Las tijeras, siempre con una persona adulta al lado.",
+      "va": "Les tisores, sempre amb una persona adulta al costat.",
+      "en": "Scissors only with an adult nearby.",
+      "fr": "Les ciseaux, toujours avec une personne adulte à côté.",
+      "ar": "المقصّ دائمًا بوجود شخص بالغ بجانبنا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una caja de zapatos tiene 6 caras. ¿Cuántas caras tienen 4 cajas iguales?",
+        "va": "Una capsa de sabates té 6 cares. Quantes cares tenen 4 capses iguals?",
+        "en": "A shoebox has 6 faces. How many faces do 4 boxes like it have?",
+        "fr": "Une boîte à chaussures a 6 faces. Combien de faces ont 4 boîtes pareilles ?",
+        "ar": "لعلبة الأحذية 6 أوجه. كم وجهًا لـ4 علب مثلها؟"
+      },
+      "pista": {
+        "es": "Suma 6 cuatro veces o piensa en la tabla del 4: el doble del doble.",
+        "va": "Suma 6 quatre vegades o pensa en la taula del 4: el doble del doble.",
+        "en": "Add 6 four times or think of the 4 times table: double the double.",
+        "fr": "Ajoute 6 quatre fois ou pense à la table de 4 : le double du double.",
+        "ar": "لنجمع 6 أربع مرات أو نفكّر في جدول 4: ضعف الضعف."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 6",
+        "resultado": 24,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 24 caras.",
+          "va": "Tenen 24 cares.",
+          "en": "They have 24 faces.",
+          "fr": "Elles ont 24 faces.",
+          "ar": "لها 24 وجهًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con las cajas que tengáis en la despensa.",
+        "va": "Inventa'n tu una amb les capses que tingueu al rebost.",
+        "en": "Make one up with the boxes in your cupboard.",
+        "fr": "Invente un problème avec les boîtes de votre placard.",
+        "ar": "لنخترع مسألة عن العلب الموجودة في خزانة المطبخ."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Un cubo tiene 12 aristas. Queremos marcarlas con pegatinas y tenemos 7. ¿Cuántas nos faltan?",
+        "va": "Un cub té 12 arestes. Volem marcar-les amb adhesius i en tenim 7. Quants ens en falten?",
+        "en": "A cube has 12 edges. We want to mark them with stickers and we have 7. How many more do we need?",
+        "fr": "Un cube a 12 arêtes. Nous voulons les marquer avec des gommettes et nous en avons 7. Combien nous en manque-t-il ?",
+        "ar": "للمكعّب 12 حرفًا. نريد وضع ملصق على كل حرف ومعنا 7 ملصقات. كم ملصقًا ينقصنا؟"
+      },
+      "pista": {
+        "es": "Cuenta desde 7 hasta 12.",
+        "va": "Compta des de 7 fins a 12.",
+        "en": "Count from 7 to 12.",
+        "fr": "Compte de 7 jusqu'à 12.",
+        "ar": "لنعدّ من 7 إلى 12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 7",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Nos faltan 5 pegatinas.",
+          "va": "Ens en falten 5.",
+          "en": "We need 5 more stickers.",
+          "fr": "Il nous manque 5 gommettes.",
+          "ar": "تنقصنا 5 ملصقات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿cuántas faltan?» con las caras o las esquinas de una caja.",
+        "va": "Inventa'n tu una de «quantes en falten?» amb les cares o les cantonades d'una capsa.",
+        "en": "Make up a “how many are left?” one with the faces or corners of a box.",
+        "fr": "Invente un problème « combien il en manque ? » avec les faces ou les coins d'une boîte.",
+        "ar": "لنخترع مسألة «كم ينقص؟» عن أوجه علبة أو زواياها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "¿Qué tiene más vértices: una caja de cereales o un dado? ¿Por qué?",
+        "va": "Què té més vèrtexs: una capsa de cereals o un dau? Per què?",
+        "en": "Which has more vertices: a cereal box or a dice? Why?",
+        "fr": "Qu'est-ce qui a le plus de sommets : une boîte de céréales ou un dé ? Pourquoi ?",
+        "ar": "أيهما له رؤوس أكثر: علبة حبوب الإفطار أم حجر النرد؟ لماذا؟"
+      },
+      "pista": {
+        "es": "Cuenta las esquinas de arriba y las de abajo de cada uno.",
+        "va": "Compta les cantonades de dalt i les de baix de cadascun.",
+        "en": "Count the corners at the top and at the bottom of each.",
+        "fr": "Compte les coins du haut et ceux du bas de chacun.",
+        "ar": "لنعدّ الزوايا في الأعلى والأسفل لكل منهما."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Tienen los mismos: 8. La caja es más grande y alargada, pero el número de esquinas no cambia. Si lo descubre contando, mejor que diciéndolo de memoria.",
+          "va": "En tenen els mateixos: 8. La capsa és més gran i allargada, però el nombre de cantonades no canvia. Si ho descobreix comptant, millor que dient-ho de memòria.",
+          "en": "They have the same: 8. The box is bigger and longer, but the number of corners doesn't change. Finding it out by counting is better than saying it from memory.",
+          "fr": "Ils en ont autant : 8. La boîte est plus grande et allongée, mais le nombre de coins ne change pas. Le découvrir en comptant vaut mieux que le dire de mémoire.",
+          "ar": "لهما العدد نفسه: 8. العلبة أكبر وأطول، لكن عدد الزوايا لا يتغيّر. اكتشاف ذلك بالعدّ أفضل من قوله حفظًا."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una comparación entre dos objetos de casa: ¿cuál tiene más caras?",
+        "va": "Ara inventa'n tu una comparació entre dos objectes de casa: quin té més cares?",
+        "en": "Now make up a comparison between two objects at home: which has more faces?",
+        "fr": "Maintenant, invente une comparaison entre deux objets de la maison : lequel a le plus de faces ?",
+        "ar": "والآن لنخترع مقارنة بين شيئين في البيت: أيهما له أوجه أكثر؟"
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 19,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: en una caja de bombones hay 3 filas de 5. Si la giras, ves 5 filas de 3. ¿Cuántos bombones hay?",
+        "va": "Per a recordar: en una capsa de bombons hi ha 3 files de 5. Si la gires, veus 5 files de 3. Quants bombons hi ha?",
+        "en": "Let's remember: a box of chocolates has 3 rows of 5. If you turn it, you see 5 rows of 3. How many chocolates are there?",
+        "fr": "Pour se souvenir : dans une boîte de chocolats, il y a 3 rangées de 5. Si tu la tournes, tu vois 5 rangées de 3. Combien y a-t-il de chocolats ?",
+        "ar": "لنتذكّر: في علبة شوكولاتة 3 صفوف في كل منها 5. إذا أدرناها نرى 5 صفوف في كل منها 3. كم قطعة فيها؟"
+      },
+      "pista": {
+        "es": "Gires como gires la caja, los bombones son los mismos.",
+        "va": "Gires com gires la capsa, els bombons són els mateixos.",
+        "en": "However you turn the box, the chocolates are the same.",
+        "fr": "Peu importe comment tu tournes la boîte, les chocolats sont les mêmes.",
+        "ar": "مهما أدرنا العلبة، تبقى القطع نفسها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 5",
+        "resultado": 15,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 15 bombones: {{3 × 5 = 5 × 3}}.",
+          "va": "Hi ha 15 bombons: {{3 × 5 = 5 × 3}}.",
+          "en": "There are 15 chocolates: {{3 × 5 = 5 × 3}}.",
+          "fr": "Il y a 15 chocolats : {{3 × 5 = 5 × 3}}.",
+          "ar": "فيها 15 قطعة: {{3 × 5 = 5 × 3}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con algo colocado en filas y columnas: una huevera, un tablero, una ventana.",
+        "va": "Inventa'n tu una amb alguna cosa col·locada en files i columnes: una ouera, un tauler, una finestra.",
+        "en": "Make one up with something set out in rows and columns: an egg box, a board, a window.",
+        "fr": "Invente un problème avec quelque chose rangé en lignes et en colonnes : une boîte à œufs, un plateau de jeu, une fenêtre.",
+        "ar": "لنخترع مسألة عن شيء مرتّب في صفوف وأعمدة: علبة بيض، لوحة لعب، نافذة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Elige un objeto de casa. Explícame cuántas caras, aristas y vértices tiene y cómo los has contado.",
+        "va": "Tria un objecte de casa. Explica'm quantes cares, arestes i vèrtexs té i com els has comptat.",
+        "en": "Choose an object at home. Explain to me how many faces, edges and vertices it has and how you counted them.",
+        "fr": "Choisis un objet de la maison. Explique-moi combien il a de faces, d'arêtes et de sommets, et comment tu les as comptés.",
+        "ar": "لنختر شيئًا من البيت. اشرح لي أو اشرحي لي كم وجهًا وحرفًا ورأسًا له وكيف عددناها."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Dónde se juntan dos caras? ¿Me lo enseñas con el dedo?»",
+        "va": "Si no sap per on començar: «On s'ajunten dues cares? M'ho ensenyes amb el dit?»",
+        "en": "If they don't know where to start: “Where do two faces meet? Can you show me with your finger?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Où deux faces se rejoignent-elles ? Tu me montres avec le doigt ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أين يلتقي وجهان؟ هل نُريه بالإصبع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "be354a586d31"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "be354a586d31"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "be354a586d31"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "be354a586d31"
+      }
+    }
+  }
+}

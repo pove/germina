@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.v05",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "verano": 5,
+  "tipo": "verano",
+  "titulo": {
+    "es": "El tesoro en la cuadrícula",
+    "va": "El tresor a la quadrícula",
+    "en": "Treasure on the grid",
+    "fr": "Le trésor sur le quadrillage",
+    "ar": "الكنز في الشبكة"
+  },
+  "objetivo": {
+    "es": "En una cuadrícula, cada casilla tiene nombre: una letra para la columna y un número para la fila, como B3 o D5. Esconder tesoros y encontrarlos dando coordenadas es aprender a localizar, como en un mapa o en el juego de los barcos.",
+    "va": "En una quadrícula, cada casella té nom: una lletra per a la columna i un número per a la fila, com B3 o D5. Amagar tresors i trobar-los donant coordenades és aprendre a localitzar, com en un mapa o en el joc dels vaixells.",
+    "en": "On a grid, each square has a name: a letter for the column and a number for the row, like B3 or D5. Hiding treasures and finding them by giving coordinates is learning to locate things, as on a map or in the ships game.",
+    "fr": "Sur un quadrillage, chaque case a un nom : une lettre pour la colonne et un nombre pour la ligne, comme B3 ou D5. Cacher des trésors et les retrouver en donnant des coordonnées, c'est apprendre à se repérer, comme sur une carte ou au jeu des bateaux.",
+    "ar": "في الشبكة، لكل خانة اسم: حرف للعمود وعدد للصف، مثل B3 أو D5. إخفاء الكنوز وإيجادها بإعطاء الإحداثيات تعلّم لتحديد المواقع، كما في الخريطة أو في لعبة السفن."
+  },
+  "comoAyudar": {
+    "es": "Si se confunde el orden, acordad una regla y decidla en voz alta: «primero la letra, que va de lado; después el número, que sube».",
+    "va": "Si es confon l'ordre, acordeu una regla i digueu-la en veu alta: «primer la lletra, que va de costat; després el número, que puja».",
+    "en": "If the order gets mixed up, agree on a rule and say it out loud: “First the letter, which goes across; then the number, which goes up”.",
+    "fr": "Si l'ordre se mélange, mettez-vous d'accord sur une règle et dites-la à voix haute : « D'abord la lettre, qui va de côté ; ensuite le nombre, qui monte ».",
+    "ar": "إذا اختلط الترتيب، اتّفقوا على قاعدة وقولوها بصوت عالٍ: «أولًا الحرف الذي يسير أفقيًا، ثم العدد الذي يصعد»."
+  },
+  "saberes": [
+    "matematicas.geometria.localizacion",
+    "matematicas.computacional.algoritmos"
+  ],
+  "criterios": [
+    "matematicas.c2.5.3",
+    "matematicas.c2.4.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Tesoros en la cuadrícula",
+      "va": "Tresors a la quadrícula",
+      "en": "Treasures on the grid",
+      "fr": "Des trésors sur le quadrillage",
+      "ar": "كنوز في الشبكة"
+    },
+    "material": [
+      {
+        "es": "Papel de cuadritos o una cuadrícula dibujada de 6 × 6",
+        "va": "Paper de quadrets o una quadrícula dibuixada de 6 × 6",
+        "en": "Squared paper or a drawn 6 × 6 grid",
+        "fr": "Du papier quadrillé ou un quadrillage de 6 × 6 dessiné",
+        "ar": "ورق مربّعات أو شبكة مرسومة من 6 × 6"
+      },
+      {
+        "es": "Dos lápices de colores",
+        "va": "Dos llapis de colors",
+        "en": "Two coloured pencils",
+        "fr": "Deux crayons de couleur",
+        "ar": "قلما تلوين"
+      },
+      {
+        "es": "Un libro o una carpeta para tapar el papel",
+        "va": "Un llibre o una carpeta per a tapar el paper",
+        "en": "A book or folder to hide your paper",
+        "fr": "Un livre ou un classeur pour cacher la feuille",
+        "ar": "كتاب أو ملفّ لتغطية الورقة"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Cada persona dibuja una cuadrícula de 6 por 6. Poned letras de la A a la F en una fila de arriba y números del 1 al 6 en una columna al lado.",
+          "va": "Cada persona dibuixa una quadrícula de 6 per 6. Poseu lletres de l'A a la F en una fila de dalt i números de l'1 al 6 en una columna al costat.",
+          "en": "Each person draws a 6 by 6 grid. Write letters A to F along the top and numbers 1 to 6 down the side.",
+          "fr": "Chaque personne dessine un quadrillage de 6 sur 6. Écrivez les lettres de A à F sur une ligne en haut et les nombres de 1 à 6 dans une colonne à côté.",
+          "ar": "يرسم كل شخص شبكة من 6 في 6. اكتبوا الحروف من A إلى F في صفّ في الأعلى، والأعداد من 1 إلى 6 في عمود بجانبها."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Sin que la otra persona lo vea, marcad 3 tesoros en 3 casillas.",
+          "va": "Sense que l'altra persona ho veja, marqueu 3 tresors en 3 caselles.",
+          "en": "Without the other person seeing, mark 3 treasures in 3 squares.",
+          "fr": "Sans que l'autre personne le voie, marquez 3 trésors dans 3 cases.",
+          "ar": "من دون أن يرى الشخص الآخر، ضعوا علامة على 3 كنوز في 3 خانات."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, decid una casilla: «C4». La otra persona contesta «¡tesoro!», «agua» o «cerca», si hay un tesoro justo al lado.",
+          "va": "Per torns, digueu una casella: «C4». L'altra persona contesta «tresor!», «aigua» o «a prop», si hi ha un tresor just al costat.",
+          "en": "Take turns saying a square: “C4”. The other person answers “treasure!”, “water” or “close”, if there is a treasure right next to it.",
+          "fr": "Chacun votre tour, dites une case : « C4 ». L'autre personne répond « trésor ! », « dans l'eau » ou « tout près » s'il y a un trésor juste à côté.",
+          "ar": "بالتناوب، قولوا خانة: «C4». يجيب الشخص الآخر «كنز!» أو «ماء» أو «قريب» إذا كان هناك كنز بجانبها مباشرة."
+        }
+      },
+      {
+        "pictograma": "mapa",
+        "texto": {
+          "es": "Apuntad en vuestra cuadrícula lo que os contestan. ¿Quién encuentra antes los 3 tesoros? ¿Qué estrategia ha funcionado?",
+          "va": "Apunteu a la vostra quadrícula el que us contesten. Qui troba abans els 3 tresors? Quina estratègia ha funcionat?",
+          "en": "Mark on your grid what the other person answers. Who finds the 3 treasures first? Which strategy worked?",
+          "fr": "Notez sur votre quadrillage ce qu'on vous répond. Qui trouve en premier les 3 trésors ? Quelle stratégie a marché ?",
+          "ar": "دوّنوا على شبكتكم ما يُجاب به. من يجد الكنوز الثلاثة أولًا؟ أي استراتيجية نجحت؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad una cuadrícula de 4 por 4 y un solo tesoro.",
+      "va": "Feu servir una quadrícula de 4 per 4 i un sol tresor.",
+      "en": "Use a 4 by 4 grid and just one treasure.",
+      "fr": "Utilisez un quadrillage de 4 sur 4 et un seul trésor.",
+      "ar": "استعملوا شبكة من 4 في 4 وكنزًا واحدًا."
+    },
+    "masDificil": {
+      "es": "Esconded tesoros más grandes, de 2 o 3 casillas seguidas, como los barcos.",
+      "va": "Amagueu tresors més grans, de 2 o 3 caselles seguides, com els vaixells.",
+      "en": "Hide bigger treasures, 2 or 3 squares in a row, like the ships.",
+      "fr": "Cachez des trésors plus grands, de 2 ou 3 cases à la suite, comme les bateaux.",
+      "ar": "خبّئوا كنوزًا أكبر من خانتين أو ثلاث متتالية، مثل السفن."
+    },
+    "paraQueSirve": {
+      "es": "Las coordenadas sirven para leer mapas, planos de ciudades o el número del asiento en el cine. Y pensar una estrategia para buscar es pensar como quien programa.",
+      "va": "Les coordenades serveixen per a llegir mapes, plànols de ciutats o el número del seient al cinema. I pensar una estratègia per a buscar és pensar com qui programa.",
+      "en": "Coordinates help you read maps, city plans or your seat number at the cinema. And thinking up a search strategy is thinking like a programmer.",
+      "fr": "Les coordonnées servent à lire des cartes, des plans de ville ou le numéro de son siège au cinéma. Et imaginer une stratégie pour chercher, c'est penser comme quelqu'un qui programme.",
+      "ar": "الإحداثيات تساعد على قراءة الخرائط ومخطّطات المدن ورقم المقعد في السينما. والتفكير في استراتيجية للبحث تفكير كتفكير المبرمجين."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Las letras van de la A a la F de lado y los números del 1 al 6 hacia arriba. Desde B2 te mueves 3 casillas de lado, hacia la F, y 2 hacia arriba. ¿A qué casilla llegas?",
+        "va": "Les lletres van de l'A a la F de costat i els números de l'1 al 6 cap amunt. Des de B2 et mous 3 caselles de costat, cap a la F, i 2 cap amunt. A quina casella arribes?",
+        "en": "The letters go from A to F across and the numbers from 1 to 6 upwards. From B2 you move 3 squares across, towards F, and 2 up. Which square do you reach?",
+        "fr": "Les lettres vont de A à F sur le côté et les nombres de 1 à 6 vers le haut. Depuis B2, tu te déplaces de 3 cases sur le côté, vers F, et de 2 vers le haut. Sur quelle case arrives-tu ?",
+        "ar": "الحروف من A إلى F أفقيًا، والأعداد من 1 إلى 6 صعودًا. من B2 نتحرّك 3 خانات أفقيًا نحو F، وخانتين إلى الأعلى. إلى أي خانة نصل؟"
+      },
+      "pista": {
+        "es": "Cambia primero la letra (B, C, D, E…) y después el número.",
+        "va": "Canvia primer la lletra (B, C, D, E…) i després el número.",
+        "en": "Change the letter first (B, C, D, E…) and then the number.",
+        "fr": "Change d'abord la lettre (B, C, D, E…), puis le nombre.",
+        "ar": "لنغيّر الحرف أولًا (B، C، D، E…) ثم العدد."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "A E4: tres letras después de la B es la E, y dos más que 2 es 4. Si lo hace con el dedo sobre la cuadrícula, mejor todavía.",
+          "va": "A E4: tres lletres després de la B és la E, i dos més que 2 és 4. Si ho fa amb el dit sobre la quadrícula, encara millor.",
+          "en": "E4: three letters after B is E, and two more than 2 is 4. Doing it with a finger on the grid is even better.",
+          "fr": "E4 : trois lettres après B, c'est E, et deux de plus que 2, c'est 4. Le faire avec le doigt sur le quadrillage, c'est encore mieux.",
+          "ar": "إلى E4: بعد B بثلاثة حروف يأتي E، و2 زائد 2 يساوي 4. وإن فعلنا ذلك بالإصبع على الشبكة فهذا أفضل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un movimiento por la cuadrícula y que alguien de casa diga dónde acaba.",
+        "va": "Inventa'n tu un moviment per la quadrícula i que algú de casa diga on acaba.",
+        "en": "Make up a move on the grid and let someone at home say where it ends.",
+        "fr": "Invente un déplacement sur le quadrillage et que quelqu'un de la maison dise où il se termine.",
+        "ar": "لنخترع حركة على الشبكة ونطلب من أحد في البيت أن يقول أين تنتهي."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Una cuadrícula tiene 6 columnas, de la A a la F, y 6 filas, del 1 al 6. ¿Cuántas casillas tiene?",
+        "va": "Una quadrícula té 6 columnes, de l'A a la F, i 6 files, de l'1 al 6. Quantes caselles té?",
+        "en": "A grid has 6 columns, A to F, and 6 rows, 1 to 6. How many squares does it have?",
+        "fr": "Un quadrillage a 6 colonnes, de A à F, et 6 lignes, de 1 à 6. Combien a-t-il de cases ?",
+        "ar": "شبكة فيها 6 أعمدة من A إلى F و6 صفوف من 1 إلى 6. كم خانة فيها؟"
+      },
+      "pista": {
+        "es": "Cada letra se junta con cada número: A1, A2… hasta A6, y lo mismo con la B…",
+        "va": "Cada lletra s'ajunta amb cada número: A1, A2… fins a A6, i el mateix amb la B…",
+        "en": "Each letter goes with each number: A1, A2… up to A6, and the same with B…",
+        "fr": "Chaque lettre va avec chaque nombre : A1, A2… jusqu'à A6, et pareil avec B…",
+        "ar": "كل حرف يجتمع مع كل عدد: A1، A2… حتى A6، والأمر نفسه مع B…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 6",
+        "resultado": 36,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 36 casillas.",
+          "va": "Té 36 caselles.",
+          "en": "It has 36 squares.",
+          "fr": "Il a 36 cases.",
+          "ar": "فيها 36 خانة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con una cuadrícula que no sea cuadrada, por ejemplo de 5 letras y 8 números.",
+        "va": "Inventa'n tu una amb una quadrícula que no siga quadrada, per exemple de 5 lletres i 8 números.",
+        "en": "Make one up with a grid that isn't square, for example 5 letters and 8 numbers.",
+        "fr": "Invente un problème avec un quadrillage qui n'est pas carré, par exemple 5 lettres et 8 nombres.",
+        "ar": "لنخترع مسألة عن شبكة غير مربّعة، مثلًا 5 حروف و8 أعداد."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En una cuadrícula de 8 × 8 escondemos 5 tesoros. ¿En cuántas casillas hay agua?",
+        "va": "En una quadrícula de 8 × 8 amaguem 5 tresors. En quantes caselles hi ha aigua?",
+        "en": "On an 8 × 8 grid we hide 5 treasures. How many squares are water?",
+        "fr": "Sur un quadrillage de 8 × 8, nous cachons 5 trésors. Combien de cases sont dans l'eau ?",
+        "ar": "في شبكة من 8 × 8 خبّأنا 5 كنوز. كم خانة فيها ماء؟"
+      },
+      "pista": {
+        "es": "Dos pasos: primero, cuántas casillas hay; después, quita las de los tesoros.",
+        "va": "Dos passos: primer, quantes caselles hi ha; després, lleva les dels tresors.",
+        "en": "Two steps: first, how many squares there are; then take away the treasure ones.",
+        "fr": "Deux étapes : d'abord, combien il y a de cases ; ensuite, enlève celles des trésors.",
+        "ar": "خطوتان: أولًا كم خانة هناك، ثم نطرح خانات الكنوز."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 8 - 5",
+        "resultado": 59,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay agua en 59 casillas: {{8 × 8 = 64}} y {{64 − 5 = 59}}.",
+          "va": "Hi ha aigua en 59 caselles: {{8 × 8 = 64}} i {{64 − 5 = 59}}.",
+          "en": "59 squares are water: {{8 × 8 = 64}} and {{64 − 5 = 59}}.",
+          "fr": "59 cases sont dans l'eau : {{8 × 8 = 64}} et {{64 − 5 = 59}}.",
+          "ar": "في 59 خانة ماء: {{8 × 8 = 64}} و{{64 − 5 = 59}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de dos pasos con una cuadrícula y unos cuantos tesoros.",
+        "va": "Inventa'n tu una de dos passos amb una quadrícula i uns quants tresors.",
+        "en": "Make up a two-step one with a grid and a few treasures.",
+        "fr": "Invente un problème en deux étapes avec un quadrillage et quelques trésors.",
+        "ar": "لنخترع مسألة من خطوتين عن شبكة وبعض الكنوز."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 10,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar: una partida empieza a las 17:40 y acaba a las 18:25. ¿Cuántos minutos dura?",
+        "va": "Per a recordar: una partida comença a les 17:40 i acaba a les 18:25. Quants minuts dura?",
+        "en": "Let's remember: a game starts at 17:40 and ends at 18:25. How many minutes does it last?",
+        "fr": "Pour se souvenir : une partie commence à 17:40 et finit à 18:25. Combien de minutes dure-t-elle ?",
+        "ar": "لنتذكّر: تبدأ جولة لعب في 17:40 وتنتهي في 18:25. كم دقيقة تدوم؟"
+      },
+      "pista": {
+        "es": "De 17:40 a 18:00 van 20 minutos, y de 18:00 a 18:25…",
+        "va": "De 17:40 a 18:00 en van 20 minuts, i de 18:00 a 18:25…",
+        "en": "From 17:40 to 18:00 is 20 minutes, and from 18:00 to 18:25…",
+        "fr": "De 17:40 à 18:00, il y a 20 minutes, et de 18:00 à 18:25…",
+        "ar": "من 17:40 إلى 18:00 هي 20 دقيقة، ومن 18:00 إلى 18:25…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 + 25",
+        "resultado": 45,
+        "unidad": "min",
+        "texto": {
+          "es": "Dura 45 minutos.",
+          "va": "Dura 45 minuts.",
+          "en": "It lasts 45 minutes.",
+          "fr": "Elle dure 45 minutes.",
+          "ar": "تدوم 45 دقيقة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con el horario de una actividad de verano que cruce una hora en punto.",
+        "va": "Inventa'n tu una amb l'horari d'una activitat d'estiu que passe per una hora en punt.",
+        "en": "Make one up with the times of a summer activity that goes past an o'clock.",
+        "fr": "Invente un problème avec l'horaire d'une activité d'été qui passe une heure pile.",
+        "ar": "لنخترع مسألة بمواعيد نشاط صيفي يتجاوز ساعة تامّة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo buscarías un tesoro escondido en la cuadrícula haciendo las menos preguntas posibles.",
+        "va": "Explica'm com buscaries un tresor amagat a la quadrícula fent les menys preguntes possibles.",
+        "en": "Explain to me how you would look for a treasure hidden on the grid asking as few questions as possible.",
+        "fr": "Explique-moi comment tu chercherais un trésor caché sur le quadrillage en posant le moins de questions possible.",
+        "ar": "اشرح لي أو اشرحي لي كيف نبحث عن كنز مخبّأ في الشبكة بأقل عدد ممكن من الأسئلة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si te dicen “cerca”, ¿qué casillas eliges después?»",
+        "va": "Si no sap per on començar: «Si et diuen “a prop”, quines caselles tries després?»",
+        "en": "If they don't know where to start: “If you are told “close”, which squares do you choose next?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si on te dit “tout près”, quelles cases choisis-tu ensuite ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا قيل لنا “قريب”، فأي خانات نختار بعد ذلك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay una única estrategia buena. Escuchad la suya, probadla en una partida y comparadla con la vuestra.",
+          "va": "No hi ha una única estratègia bona. Escolteu la seua, proveu-la en una partida i compareu-la amb la vostra.",
+          "en": "There is no single right strategy. Listen to theirs, try it in a game and compare it with yours.",
+          "fr": "Il n'y a pas une seule bonne stratégie. Écoutez la sienne, essayez-la pendant une partie et comparez-la avec la vôtre.",
+          "ar": "لا توجد استراتيجية واحدة جيدة. استمعوا إلى استراتيجية الطفل، وجرّبوها في جولة، وقارنوها باستراتيجيتكم."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "6965d50edcbb"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "6965d50edcbb"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "6965d50edcbb"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "6965d50edcbb"
+      }
+    }
+  }
+}

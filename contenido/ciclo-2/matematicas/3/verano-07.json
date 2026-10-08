@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.v07",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "verano": 7,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Collares con patrón",
+    "va": "Collarets amb patró",
+    "en": "Pattern necklaces",
+    "fr": "Des colliers à motif",
+    "ar": "قلائد بنمط"
+  },
+  "objetivo": {
+    "es": "Un patrón es algo que se repite siempre igual: rojo, azul, azul, rojo, azul, azul… Descubrir la regla permite saber qué viene después sin mirarlo.",
+    "va": "Un patró és una cosa que es repeteix sempre igual: roig, blau, blau, roig, blau, blau… Descobrir la regla permet saber què ve després sense mirar-ho.",
+    "en": "A pattern is something that repeats in the same way: red, blue, blue, red, blue, blue… Finding the rule lets you know what comes next without looking.",
+    "fr": "Un motif, c'est quelque chose qui se répète toujours pareil : rouge, bleu, bleu, rouge, bleu, bleu… Trouver la règle permet de savoir ce qui vient après sans regarder.",
+    "ar": "النمط شيء يتكرّر دائمًا بالطريقة نفسها: أحمر، أزرق، أزرق، أحمر، أزرق، أزرق… واكتشاف القاعدة يسمح بمعرفة ما يأتي بعد ذلك دون النظر."
+  },
+  "comoAyudar": {
+    "es": "Cuando adivine la pieza siguiente, preguntad «¿cómo lo sabes?». Decir la regla en voz alta es lo más importante del juego.",
+    "va": "Quan endevine la peça següent, pregunteu «com ho saps?». Dir la regla en veu alta és el més important del joc.",
+    "en": "When they guess the next piece, ask “How do you know?”. Saying the rule out loud is the most important part of the game.",
+    "fr": "Quand il ou elle devine la pièce suivante, demandez « Comment tu le sais ? ». Dire la règle à voix haute, c'est le plus important du jeu.",
+    "ar": "عندما نخمّن القطعة التالية، اسألوا «كيف عرفنا؟». قول القاعدة بصوت عالٍ هو أهم ما في اللعبة."
+  },
+  "saberes": [
+    "matematicas.computacional.secuencias-figuras",
+    "matematicas.computacional.secuencias-numericas"
+  ],
+  "criterios": [
+    "matematicas.c2.4.2",
+    "matematicas.c2.2.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Collares con patrón",
+      "va": "Collarets amb patró",
+      "en": "Pattern necklaces",
+      "fr": "Des colliers à motif",
+      "ar": "قلائد بنمط"
+    },
+    "material": [
+      {
+        "es": "Macarrones o cuentas de colores",
+        "va": "Macarrons o comptes de colors",
+        "en": "Pasta tubes or coloured beads",
+        "fr": "Des macaronis ou des perles de couleur",
+        "ar": "معكرونة أنبوبية أو خرز ملوّن"
+      },
+      {
+        "es": "Un cordón o un hilo grueso",
+        "va": "Un cordó o un fil gruixut",
+        "en": "A cord or thick thread",
+        "fr": "Un cordon ou un fil épais",
+        "ar": "خيط سميك أو شريط"
+      },
+      {
+        "es": "Rotuladores, si los macarrones son de un solo color",
+        "va": "Retoladors, si els macarrons són d'un sol color",
+        "en": "Felt-tip pens, if the pasta is all one colour",
+        "fr": "Des feutres, si les macaronis sont d'une seule couleur",
+        "ar": "أقلام تلوين إذا كانت المعكرونة بلون واحد"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Pintad algunos macarrones de colores o usad cuentas. Una persona empieza un collar con un patrón: rojo, azul, azul, rojo, azul, azul…",
+          "va": "Pinteu alguns macarrons de colors o feu servir comptes. Una persona comença un collaret amb un patró: roig, blau, blau, roig, blau, blau…",
+          "en": "Colour some pasta or use beads. One person starts a necklace with a pattern: red, blue, blue, red, blue, blue…",
+          "fr": "Coloriez quelques macaronis ou prenez des perles. Une personne commence un collier avec un motif : rouge, bleu, bleu, rouge, bleu, bleu…",
+          "ar": "لوّنوا بعض المعكرونة أو استعملوا الخرز. يبدأ شخص قلادة بنمط: أحمر، أزرق، أزرق، أحمر، أزرق، أزرق…"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "La otra persona mira y dice qué viene después. ¿Cuál es la regla? ¿Cuántas piezas tiene el trozo que se repite?",
+          "va": "L'altra persona mira i diu què ve després. Quina és la regla? Quantes peces té el tros que es repeteix?",
+          "en": "The other person looks and says what comes next. What is the rule? How many pieces are in the bit that repeats?",
+          "fr": "L'autre personne regarde et dit ce qui vient après. Quelle est la règle ? Combien de pièces a le morceau qui se répète ?",
+          "ar": "ينظر الشخص الآخر ويقول ماذا يأتي بعد ذلك. ما القاعدة؟ كم قطعة في الجزء الذي يتكرّر؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Cambiad los papeles e inventad patrones más difíciles: con tres colores, o uno que crezca (rojo, azul, rojo, azul, azul, rojo, azul, azul, azul…).",
+          "va": "Canvieu els papers i inventeu patrons més difícils: amb tres colors, o un que cresca (roig, blau, roig, blau, blau, roig, blau, blau, blau…).",
+          "en": "Swap roles and make up harder patterns: with three colours, or one that grows (red, blue, red, blue, blue, red, blue, blue, blue…).",
+          "fr": "Échangez les rôles et inventez des motifs plus difficiles : avec trois couleurs, ou un qui grandit (rouge, bleu, rouge, bleu, bleu, rouge, bleu, bleu, bleu…).",
+          "ar": "تبادلوا الأدوار واخترعوا أنماطًا أصعب: بثلاثة ألوان، أو نمطًا ينمو (أحمر، أزرق، أحمر، أزرق، أزرق، أحمر، أزرق، أزرق، أزرق…)."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Antes de terminar un collar, adivinad: si seguimos así, ¿de qué color será la pieza número 20? Después, comprobadlo.",
+          "va": "Abans d'acabar un collaret, endevineu: si seguim així, de quin color serà la peça número 20? Després, comproveu-ho.",
+          "en": "Before finishing a necklace, guess: if we carry on like this, what colour will piece number 20 be? Then check.",
+          "fr": "Avant de finir un collier, devinez : si on continue ainsi, de quelle couleur sera la pièce numéro 20 ? Ensuite, vérifiez.",
+          "ar": "قبل إنهاء القلادة، خمّنوا: إذا تابعنا هكذا، فما لون القطعة رقم 20؟ ثم تحقّقوا."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos colores y un trozo que se repite de dos piezas: rojo, azul, rojo, azul…",
+      "va": "Feu servir només dos colors i un tros que es repeteix de dues peces: roig, blau, roig, blau…",
+      "en": "Use just two colours and a repeating bit of two pieces: red, blue, red, blue…",
+      "fr": "Utilisez seulement deux couleurs et un morceau de deux pièces qui se répète : rouge, bleu, rouge, bleu…",
+      "ar": "استعملوا لونين فقط وجزءًا متكرّرًا من قطعتين: أحمر، أزرق، أحمر، أزرق…"
+    },
+    "masDificil": {
+      "es": "Haced un patrón con números en vez de colores: 2, 5, 8, 11… ¿Cuál es el número que va en el lugar 10?",
+      "va": "Feu un patró amb números en lloc de colors: 2, 5, 8, 11… Quin és el número que va en el lloc 10?",
+      "en": "Make a pattern with numbers instead of colours: 2, 5, 8, 11… Which number goes in place 10?",
+      "fr": "Faites un motif avec des nombres au lieu de couleurs : 2, 5, 8, 11… Quel nombre va à la 10e place ?",
+      "ar": "اصنعوا نمطًا بالأعداد بدل الألوان: 2، 5، 8، 11… ما العدد الذي يأتي في المكان العاشر؟"
+    },
+    "paraQueSirve": {
+      "es": "Buscar regularidades es la base de las tablas, de las series de números y de la programación. Y al final queda un collar para regalar.",
+      "va": "Buscar regularitats és la base de les taules, de les sèries de números i de la programació. I al final queda un collaret per a regalar.",
+      "en": "Looking for regular patterns underpins the times tables, number sequences and programming. And at the end there's a necklace to give away.",
+      "fr": "Chercher des régularités, c'est la base des tables, des suites de nombres et de la programmation. Et à la fin, il reste un collier à offrir.",
+      "ar": "البحث عن الانتظام أساس جداول الضرب ومتتاليات الأعداد والبرمجة. وفي النهاية تبقى قلادة نهديها."
+    },
+    "aviso": {
+      "es": "Las cuentas y los macarrones, lejos de hermanos o hermanas pequeños.",
+      "va": "Les comptes i els macarrons, lluny de germans o germanes menuts.",
+      "en": "Keep beads and pasta away from younger brothers and sisters.",
+      "fr": "Les perles et les macaronis, loin des petits frères et sœurs.",
+      "ar": "أبعدوا الخرز والمعكرونة عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En un collar se repite: 2 macarrones rojos y 1 azul. Si hay 4 azules, ¿cuántos rojos hay?",
+        "va": "En un collaret es repeteix: 2 macarrons rojos i 1 blau. Si n'hi ha 4 de blaus, quants rojos hi ha?",
+        "en": "A necklace repeats: 2 red pasta tubes and 1 blue. If there are 4 blue ones, how many red ones are there?",
+        "fr": "Sur un collier, on répète : 2 macaronis rouges et 1 bleu. S'il y a 4 bleus, combien y a-t-il de rouges ?",
+        "ar": "في قلادة يتكرّر: قطعتا معكرونة حمراوان وقطعة زرقاء. إذا كان فيها 4 زرقاء، فكم حمراء فيها؟"
+      },
+      "pista": {
+        "es": "Cada azul lleva 2 rojos a su lado. Dibújalo si te ayuda.",
+        "va": "Cada blau porta 2 rojos al costat. Dibuixa-ho si t'ajuda.",
+        "en": "Each blue one comes with 2 red ones. Draw it if it helps.",
+        "fr": "Chaque bleu va avec 2 rouges. Dessine-le si ça t'aide.",
+        "ar": "مع كل قطعة زرقاء قطعتان حمراوان. لنرسمها إن كان ذلك يساعد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 2",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 8 macarrones rojos.",
+          "va": "Hi ha 8 macarrons rojos.",
+          "en": "There are 8 red pasta tubes.",
+          "fr": "Il y a 8 macaronis rouges.",
+          "ar": "فيها 8 قطع حمراء."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con tu propio patrón de colores.",
+        "va": "Inventa'n tu una amb el teu propi patró de colors.",
+        "en": "Make one up with your own colour pattern.",
+        "fr": "Invente un problème avec ton propre motif de couleurs.",
+        "ar": "لنخترع مسألة بنمط ألوان من اختيارنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "La serie va 5, 10, 15, 20… ¿Qué número va en el lugar 8?",
+        "va": "La sèrie va 5, 10, 15, 20… Quin número va en el lloc 8?",
+        "en": "The sequence goes 5, 10, 15, 20… Which number goes in place 8?",
+        "fr": "La suite fait 5, 10, 15, 20… Quel nombre va à la 8e place ?",
+        "ar": "المتتالية: 5، 10، 15، 20… ما العدد في المكان الثامن؟"
+      },
+      "pista": {
+        "es": "Es la tabla del 5: el lugar 1 es {{1 × 5}}, el lugar 2 es {{2 × 5}}…",
+        "va": "És la taula del 5: el lloc 1 és {{1 × 5}}, el lloc 2 és {{2 × 5}}…",
+        "en": "It is the 5 times table: place 1 is {{1 × 5}}, place 2 is {{2 × 5}}…",
+        "fr": "C'est la table de 5 : la 1re place est {{1 × 5}}, la 2e est {{2 × 5}}…",
+        "ar": "إنه جدول 5: المكان الأول {{1 × 5}}، والمكان الثاني {{2 × 5}}…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 5",
+        "resultado": 40,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En el lugar 8 va el 40.",
+          "va": "En el lloc 8 va el 40.",
+          "en": "40 goes in place 8.",
+          "fr": "À la 8e place, il y a 40.",
+          "ar": "في المكان الثامن العدد 40."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una serie que vaya de 2 en 2 o de 10 en 10 y pregunta por un lugar.",
+        "va": "Inventa'n tu una sèrie que vaja de 2 en 2 o de 10 en 10 i pregunta per un lloc.",
+        "en": "Make up a sequence that goes up in twos or tens and ask about one place.",
+        "fr": "Invente une suite qui avance de 2 en 2 ou de 10 en 10 et pose une question sur une place.",
+        "ar": "لنخترع متتالية تسير 2 بـ2 أو 10 بـ10 ونسأل عن مكان فيها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Rojo, azul, verde, rojo, azul, verde… ¿De qué color es la pieza número 10?",
+        "va": "Roig, blau, verd, roig, blau, verd… De quin color és la peça número 10?",
+        "en": "Red, blue, green, red, blue, green… What colour is piece number 10?",
+        "fr": "Rouge, bleu, vert, rouge, bleu, vert… De quelle couleur est la pièce numéro 10 ?",
+        "ar": "أحمر، أزرق، أخضر، أحمر، أزرق، أخضر… ما لون القطعة رقم 10؟"
+      },
+      "pista": {
+        "es": "El trozo que se repite tiene 3 piezas. ¿Dónde acaba la tercera vuelta?",
+        "va": "El tros que es repeteix té 3 peces. On acaba la tercera volta?",
+        "en": "The repeating bit has 3 pieces. Where does the third round end?",
+        "fr": "Le morceau qui se répète a 3 pièces. Où se termine le troisième tour ?",
+        "ar": "الجزء المتكرّر فيه 3 قطع. أين تنتهي الدورة الثالثة؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Roja: tres vueltas completas llegan hasta la pieza 9, y la 10 empieza otra vez por el rojo. Si cuenta pieza a pieza con los dedos, también vale.",
+          "va": "Roja: tres voltes completes arriben fins a la peça 9, i la 10 comença una altra vegada pel roig. Si compta peça a peça amb els dits, també val.",
+          "en": "Red: three full rounds reach piece 9, and piece 10 starts again with red. Counting piece by piece on fingers works too.",
+          "fr": "Rouge : trois tours complets vont jusqu'à la pièce 9, et la 10e recommence par le rouge. Compter pièce par pièce sur les doigts, ça marche aussi.",
+          "ar": "حمراء: ثلاث دورات كاملة تصل إلى القطعة 9، والقطعة 10 تبدأ من جديد بالأحمر. والعدّ قطعةً قطعةً بالأصابع صحيح أيضًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un patrón de tres colores y pregunta por la pieza número 12.",
+        "va": "Inventa'n tu un patró de tres colors i pregunta per la peça número 12.",
+        "en": "Make up a three-colour pattern and ask about piece number 12.",
+        "fr": "Invente un motif à trois couleurs et pose une question sur la pièce numéro 12.",
+        "ar": "لنخترع نمطًا بثلاثة ألوان ونسأل عن القطعة رقم 12."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 13,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: en la serie 10, 20, 30… ¿qué número va en el lugar 7?",
+        "va": "Per a recordar: en la sèrie 10, 20, 30… quin número va en el lloc 7?",
+        "en": "Let's remember: in the sequence 10, 20, 30… which number goes in place 7?",
+        "fr": "Pour se souvenir : dans la suite 10, 20, 30… quel nombre va à la 7e place ?",
+        "ar": "لنتذكّر: في المتتالية 10، 20، 30… ما العدد في المكان السابع؟"
+      },
+      "pista": {
+        "es": "Por 10 es añadir un cero.",
+        "va": "Per 10 és afegir un zero.",
+        "en": "Times 10 means adding a zero.",
+        "fr": "Fois 10, c'est ajouter un zéro.",
+        "ar": "الضرب في 10 يعني إضافة صفر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 10",
+        "resultado": 70,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En el lugar 7 va el 70.",
+          "va": "En el lloc 7 va el 70.",
+          "en": "70 goes in place 7.",
+          "fr": "À la 7e place, il y a 70.",
+          "ar": "في المكان السابع العدد 70."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una serie con la tabla del 2 y pregunta por el lugar 9.",
+        "va": "Inventa'n tu una sèrie amb la taula del 2 i pregunta pel lloc 9.",
+        "en": "Make up a sequence with the 2 times table and ask about place 9.",
+        "fr": "Invente une suite avec la table de 2 et pose une question sur la 9e place.",
+        "ar": "لنخترع متتالية بجدول 2 ونسأل عن المكان التاسع."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Inventa un patrón con gestos (palmada, pisotón, palmada…) y explícame su regla.",
+        "va": "Inventa un patró amb gestos (palmada, potada, palmada…) i explica'm la seua regla.",
+        "en": "Make up a pattern with actions (clap, stamp, clap…) and explain its rule to me.",
+        "fr": "Invente un motif avec des gestes (clap, pied, clap…) et explique-moi sa règle.",
+        "ar": "لنخترع نمطًا بالحركات (تصفيق، دقّ بالقدم، تصفيق…) واشرح لي أو اشرحي لي قاعدته."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Yo hago palmada, palmada, chasquido… ¿qué viene ahora?»",
+        "va": "Si no sap per on començar: «Jo faig palmada, palmada, espetec… què ve ara?»",
+        "en": "If they don't know where to start: “I go clap, clap, click… what comes now?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Je fais clap, clap, claquement de doigts… qu'est-ce qui vient maintenant ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أنا أصفّق، أصفّق، أطقطق بأصابعي… ماذا يأتي الآن؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Seguid el patrón juntos un rato. Si se rompe, buscad dónde y volved a empezar: es parte de la gracia.",
+          "va": "Seguiu el patró junts una estona. Si es trenca, busqueu on i torneu a començar: és part de la gràcia.",
+          "en": "Follow the pattern together for a while. If it breaks, find where and start again: that is part of the fun.",
+          "fr": "Suivez le motif ensemble un moment. S'il se casse, cherchez où et recommencez : ça fait partie du jeu.",
+          "ar": "تابعوا النمط معًا قليلًا. وإذا انكسر، ابحثوا أين وابدؤوا من جديد: هذا جزء من المتعة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "083b62b753b8"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "083b62b753b8"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "083b62b753b8"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "083b62b753b8"
+      }
+    }
+  }
+}

@@ -57,7 +57,7 @@ for (const idioma of IDIOMAS) {
       await expect(page).toHaveURL(/jardin$/);
       await expect(page.getByRole('link', { name: `${T('semana.titulo', idioma, { n: 7 })}: ${T('jardin.estado.flor', idioma)}` })).toBeVisible();
       await expect(page.getByRole('link', { name: `${T('semana.titulo', idioma, { n: 8 })}: ${T('jardin.estado.semilla', idioma)}` })).toBeVisible();
-      await expect(page.getByRole('img', { name: `${T('verano.titulo', idioma, { n: 1 })}: ${T('jardin.estado.en_camino', idioma)}` })).toBeVisible();
+      await expect(page.getByRole('link', { name: `${T('verano.titulo', idioma, { n: 1 })}: ${T('jardin.estado.semilla', idioma)}` })).toBeVisible();
       await expect(page.locator('.planta')).toHaveCount(41 + 10);
 
       // Y queda guardado, también tras recargar.
@@ -223,6 +223,7 @@ test('el nombre de la cabecera lleva a «Esta semana»', async ({ page }) => {
 
 test('sin ningún reto de verano publicado, «en camino» no ofrece ir a otro', async ({ page }) => {
   await preparar(page, { almacen: { idioma: 'es' } });
+  await ocultarSemillas(page, Array.from({ length: 10 }, (_, i) => `${CURSO_3}/v${String(i + 1).padStart(2, '0')}`));
   await page.goto('./#/2/matematicas/3/verano/1');
   await expect(page.getByText(T('semana.en_camino', 'es'))).toBeVisible();
   await expect(page.getByText(T('semana.mientras_tanto', 'es'))).toHaveCount(0);
@@ -275,7 +276,7 @@ test.describe('cursos y cambio de curso', () => {
     await expect(page.getByText(T('cambio_curso.fin_ciclo', 'es'))).toBeVisible();
     await page.getByRole('link', { name: T('cambio_curso.ver_verano', 'es') }).click();
     await expect(page).toHaveURL(/\/2\/matematicas\/4\/verano\/1$/);
-    await expect(page.getByText(T('semana.en_camino', 'es'))).toBeVisible();
+    await expect(page.getByRole('heading', { level: 1 })).toHaveText('Tablas de verano');
     expect(await guardado(page)).toMatchObject({ cursos: [], cursoActivo: null, ultimoAnoCurso: 2027 });
   });
 
