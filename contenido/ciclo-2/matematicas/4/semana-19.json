@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s19",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 19,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Cambiar el orden para calcular mejor",
+    "va": "Canviar l'ordre per a calcular millor",
+    "en": "Change the order to calculate more easily",
+    "fr": "Changer l'ordre pour mieux calculer",
+    "ar": "نغيّر الترتيب لنحسب بسهولة"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren que, al multiplicar varios números, se pueden cambiar de orden y agrupar como venga mejor: en {{25 × 7 × 4}}, primero {{25 × 4 = 100}} y luego {{100 × 7 = 700}}. En clase hablan de las propiedades conmutativa, asociativa y distributiva.",
+    "va": "Aquesta setmana descobreixen que, en multiplicar diversos números, es poden canviar d'ordre i agrupar com vinga millor: en {{25 × 7 × 4}}, primer {{25 × 4 = 100}} i després {{100 × 7 = 700}}. A classe parlen, en castellà, de les «propiedades conmutativa, asociativa y distributiva».",
+    "en": "This week they discover that, when multiplying several numbers, you can change their order and group them however works best: in {{25 × 7 × 4}}, first {{25 × 4 = 100}} and then {{100 × 7 = 700}}. In class, in Spanish, they talk about the «propiedades conmutativa, asociativa y distributiva» (commutative, associative and distributive properties).",
+    "fr": "Cette semaine, on découvre que, quand on multiplie plusieurs nombres, on peut changer leur ordre et les regrouper comme ça arrange : dans {{25 × 7 × 4}}, d'abord {{25 × 4 = 100}}, puis {{100 × 7 = 700}}. En classe, en espagnol, on parle des « propiedades conmutativa, asociativa y distributiva » (commutativité, associativité et distributivité).",
+    "ar": "هذا الأسبوع يكتشف الأطفال أنه عند ضرب عدة أعداد يمكن تغيير ترتيبها وتجميعها كما يناسب: في {{25 × 7 × 4}}، أولًا {{25 × 4 = 100}} ثم {{100 × 7 = 700}}. في القسم يتحدّثون بالإسبانية عن «propiedades conmutativa, asociativa y distributiva» (خصائص التبديل والتجميع والتوزيع)."
+  },
+  "comoAyudar": {
+    "es": "Lo importante no es llegar antes, sino explicar el camino. Preguntad «¿por qué has empezado por ahí?» y contad también el vuestro: a veces hay más de uno bueno.",
+    "va": "L'important no és arribar abans, sinó explicar el camí. Pregunteu «per què has començat per ací?» i conteu també el vostre: de vegades n'hi ha més d'un de bo.",
+    "en": "What matters isn't getting there first, but explaining the route. Ask “Why did you start there?” and share your own route too: sometimes there's more than one good one.",
+    "fr": "L'important n'est pas d'arriver en premier, mais d'expliquer le chemin. Demandez « Pourquoi as-tu commencé par là ? » et racontez aussi le vôtre : parfois, il y en a plusieurs de bons.",
+    "ar": "المهم ليس الوصول أولًا، بل شرح الطريق. اسألوا «لماذا بدأنا من هنا؟» واحكوا طريقكم أيضًا: أحيانًا يكون هناك أكثر من طريق جيد."
+  },
+  "saberes": [
+    "matematicas.operaciones.propiedades",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c2.2.2",
+    "matematicas.c2.6.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El camino más corto",
+      "va": "El camí més curt",
+      "en": "The shortest route",
+      "fr": "Le chemin le plus court",
+      "ar": "الطريق الأقصر"
+    },
+    "material": [
+      {
+        "es": "Papelitos",
+        "va": "Paperets",
+        "en": "Slips of paper",
+        "fr": "Des petits papiers",
+        "ar": "قصاصات ورق"
+      },
+      {
+        "es": "Un lápiz",
+        "va": "Un llapis",
+        "en": "A pencil",
+        "fr": "Un crayon",
+        "ar": "قلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Escribid en papelitos tres multiplicaciones de tres números: {{5 × 9 × 2}}, {{25 × 3 × 4}} y {{2 × 7 × 50}}.",
+          "va": "Escriviu en paperets tres multiplicacions de tres números: {{5 × 9 × 2}}, {{25 × 3 × 4}} i {{2 × 7 × 50}}.",
+          "en": "Write three multiplications of three numbers on slips of paper: {{5 × 9 × 2}}, {{25 × 3 × 4}} and {{2 × 7 × 50}}.",
+          "fr": "Écrivez sur des petits papiers trois multiplications de trois nombres : {{5 × 9 × 2}}, {{25 × 3 × 4}} et {{2 × 7 × 50}}.",
+          "ar": "اكتبوا على قصاصات ورق ثلاث عمليات ضرب لثلاثة أعداد: {{5 × 9 × 2}} و{{25 × 3 × 4}} و{{2 × 7 × 50}}."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Cada persona elige un papelito y busca, de cabeza, en qué orden le resulta más fácil multiplicar.",
+          "va": "Cada persona tria un paperet i busca, de cap, en quin ordre li resulta més fàcil multiplicar.",
+          "en": "Each person picks a slip and works out, in their head, which order makes the multiplication easiest.",
+          "fr": "Chaque personne choisit un papier et cherche, de tête, dans quel ordre il est le plus facile de multiplier.",
+          "ar": "يختار كل شخص قصاصة ويبحث ذهنيًا عن الترتيب الذي يسهّل عليه الضرب."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, cada persona explica su camino en voz alta: «Primero {{5 × 2 = 10}}, y luego {{10 × 9 = 90}}».",
+          "va": "Per torns, cada persona explica el seu camí en veu alta: «Primer {{5 × 2 = 10}}, i després {{10 × 9 = 90}}».",
+          "en": "Taking turns, each person explains their route out loud: “First {{5 × 2 = 10}}, and then {{10 × 9 = 90}}.”",
+          "fr": "Chacun son tour, chaque personne explique son chemin à voix haute : « D'abord {{5 × 2 = 10}}, puis {{10 × 9 = 90}}. »",
+          "ar": "بالتناوب، يشرح كل شخص طريقه بصوت عالٍ: «أولًا {{5 × 2 = 10}}، ثم {{10 × 9 = 90}}»."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Comparad los caminos: ¿alguien lo ha hecho en otro orden? ¿Ha dado lo mismo? ¿Cuál ha sido el más corto?",
+          "va": "Compareu els camins: algú ho ha fet en un altre ordre? Ha donat el mateix? Quin ha sigut el més curt?",
+          "en": "Compare routes: did anyone do it in a different order? Did it come out the same? Which was the shortest?",
+          "fr": "Comparez les chemins : quelqu'un l'a-t-il fait dans un autre ordre ? Ça a donné pareil ? Quel a été le plus court ?",
+          "ar": "قارنوا الطرق: هل حسبها أحد بترتيب آخر؟ هل أعطت النتيجة نفسها؟ أيّ طريق كان الأقصر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad multiplicaciones en las que salga 10 al juntar dos de los números, como {{2 × 8 × 5}} o {{5 × 3 × 2}}.",
+      "va": "Feu servir multiplicacions en què isca 10 en ajuntar dos dels números, com ara {{2 × 8 × 5}} o {{5 × 3 × 2}}.",
+      "en": "Use multiplications where two of the numbers make 10 together, like {{2 × 8 × 5}} or {{5 × 3 × 2}}.",
+      "fr": "Utilisez des multiplications où deux des nombres donnent 10 ensemble, comme {{2 × 8 × 5}} ou {{5 × 3 × 2}}.",
+      "ar": "استعملوا عمليات ضرب يعطي فيها عددان معًا 10، مثل {{2 × 8 × 5}} أو {{5 × 3 × 2}}."
+    },
+    "masDificil": {
+      "es": "Probad con la distributiva: {{8 × 26}} es {{8 × 25}} más 8. ¿Os sale más rápido así que con la cuenta en papel?",
+      "va": "Proveu amb la distributiva: {{8 × 26}} és {{8 × 25}} més 8. Us ix més ràpid així que amb el compte en paper?",
+      "en": "Try the distributive property: {{8 × 26}} is {{8 × 25}} plus 8. Is it quicker this way than on paper?",
+      "fr": "Essayez la distributivité : {{8 × 26}}, c'est {{8 × 25}} plus 8. Est-ce plus rapide comme ça qu'avec le calcul sur papier ?",
+      "ar": "جرّبوا خاصية التوزيع: {{8 × 26}} هي {{8 × 25}} زائد 8. هل هذا أسرع من الحساب على الورق؟"
+    },
+    "paraQueSirve": {
+      "es": "Elegir el orden es lo que hace que el cálculo mental sea rápido y cómodo. Y explicar el camino en voz alta ayuda a pensar con claridad y a escuchar otras formas de hacerlo.",
+      "va": "Triar l'ordre és el que fa que el càlcul mental siga ràpid i còmode. I explicar el camí en veu alta ajuda a pensar amb claredat i a escoltar altres maneres de fer-ho.",
+      "en": "Choosing the order is what makes mental maths quick and comfortable. And explaining the route out loud helps them think clearly and listen to other ways of doing it.",
+      "fr": "Choisir l'ordre, c'est ce qui rend le calcul mental rapide et confortable. Et expliquer le chemin à voix haute aide à penser clairement et à écouter d'autres façons de faire.",
+      "ar": "اختيار الترتيب هو ما يجعل الحساب الذهني سريعًا ومريحًا. وشرح الطريق بصوت عالٍ يساعد على التفكير بوضوح وعلى الاستماع إلى طرق أخرى."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En una papelería hay 2 estanterías, cada una con 7 cajas de 5 rotuladores. ¿Cuántos rotuladores hay?",
+        "va": "En una papereria hi ha 2 prestatgeries, cadascuna amb 7 capses de 5 retoladors. Quants retoladors hi ha?",
+        "en": "A stationery shop has 2 shelves, each with 7 boxes of 5 felt-tip pens. How many pens are there?",
+        "fr": "Dans une papeterie, il y a 2 étagères, chacune avec 7 boîtes de 5 feutres. Combien y a-t-il de feutres ?",
+        "ar": "في مكتبة لبيع الأدوات رفّان، على كل منهما 7 علب في كل علبة 5 أقلام تلوين. كم قلمًا هناك؟"
+      },
+      "pista": {
+        "es": "Empieza por {{2 × 5 = 10}}.",
+        "va": "Comença per {{2 × 5 = 10}}.",
+        "en": "Start with {{2 × 5 = 10}}.",
+        "fr": "Commence par {{2 × 5 = 10}}.",
+        "ar": "لنبدأ بـ{{2 × 5 = 10}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 7 × 5",
+        "resultado": 70,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 70 rotuladores: {{2 × 5 = 10}} y {{10 × 7 = 70}}.",
+          "va": "Hi ha 70 retoladors: {{2 × 5 = 10}} i {{10 × 7 = 70}}.",
+          "en": "There are 70 pens: {{2 × 5 = 10}} and {{10 × 7 = 70}}.",
+          "fr": "Il y a 70 feutres : {{2 × 5 = 10}} et {{10 × 7 = 70}}.",
+          "ar": "هناك 70 قلمًا: {{2 × 5 = 10}} و{{10 × 7 = 70}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de estanterías, cajas y cosas dentro de las cajas.",
+        "va": "Inventa'n tu una de prestatgeries, capses i coses dins de les capses.",
+        "en": "Make one up about shelves, boxes and things inside the boxes.",
+        "fr": "Invente un problème avec des étagères, des boîtes et des choses dans les boîtes.",
+        "ar": "لنخترع مسألة عن رفوف وعلب وأشياء داخل العلب."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "¿Cuánto es {{25 × 6 × 4}}? Busca el orden más fácil.",
+        "va": "Quant és {{25 × 6 × 4}}? Busca l'ordre més fàcil.",
+        "en": "What is {{25 × 6 × 4}}? Look for the easiest order.",
+        "fr": "Combien fait {{25 × 6 × 4}} ? Cherche l'ordre le plus facile.",
+        "ar": "كم تساوي {{25 × 6 × 4}}؟ لنبحث عن الترتيب الأسهل."
+      },
+      "pista": {
+        "es": "{{25 × 4 = 100}}. ¿Y ahora?",
+        "va": "{{25 × 4 = 100}}. I ara?",
+        "en": "{{25 × 4 = 100}}. And now?",
+        "fr": "{{25 × 4 = 100}}. Et maintenant ?",
+        "ar": "{{25 × 4 = 100}}. والآن؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "25 × 6 × 4",
+        "resultado": 600,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Da 600: {{25 × 4 = 100}} y {{100 × 6 = 600}}.",
+          "va": "Dona 600: {{25 × 4 = 100}} i {{100 × 6 = 600}}.",
+          "en": "It's 600: {{25 × 4 = 100}} and {{100 × 6 = 600}}.",
+          "fr": "Ça fait 600 : {{25 × 4 = 100}} et {{100 × 6 = 600}}.",
+          "ar": "تساوي 600: {{25 × 4 = 100}} و{{100 × 6 = 600}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación de tres números en la que haya un 25 y un 4.",
+        "va": "Inventa't una multiplicació de tres números en què hi haja un 25 i un 4.",
+        "en": "Make up a multiplication of three numbers that includes a 25 and a 4.",
+        "fr": "Invente une multiplication de trois nombres où il y a un 25 et un 4.",
+        "ar": "لنخترع عملية ضرب لثلاثة أعداد فيها 25 و4."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Darío calcula {{9 × 12}} así: {{9 × 10 = 90}} y {{9 × 2 = 18}}. ¿Cuánto le sale? ¿Se te ocurre otra forma?",
+        "va": "Darío calcula {{9 × 12}} així: {{9 × 10 = 90}} i {{9 × 2 = 18}}. Quant li ix? Se t'ocorre una altra manera?",
+        "en": "Darío works out {{9 × 12}} like this: {{9 × 10 = 90}} and {{9 × 2 = 18}}. What does he get? Can you think of another way?",
+        "fr": "Darío calcule {{9 × 12}} comme ça : {{9 × 10 = 90}} et {{9 × 2 = 18}}. Combien trouve-t-il ? Vois-tu une autre façon ?",
+        "ar": "يحسب داريو {{9 × 12}} هكذا: {{9 × 10 = 90}} و{{9 × 2 = 18}}. كم يحصل؟ هل تخطر لنا طريقة أخرى؟"
+      },
+      "pista": {
+        "es": "Suma los dos trozos. Otra forma: {{10 × 12 = 120}} y quita 12.",
+        "va": "Suma els dos trossos. Una altra manera: {{10 × 12 = 120}} i lleva 12.",
+        "en": "Add the two pieces. Another way: {{10 × 12 = 120}} and take away 12.",
+        "fr": "Additionne les deux morceaux. Autre façon : {{10 × 12 = 120}} et enlève 12.",
+        "ar": "لنجمع الجزأين. وطريقة أخرى: {{10 × 12 = 120}} ثم نطرح 12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 × 12",
+        "resultado": 108,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le sale 108: {{90 + 18 = 108}}. También: {{120 − 12 = 108}}.",
+          "va": "Li ix 108: {{90 + 18 = 108}}. També: {{120 − 12 = 108}}.",
+          "en": "He gets 108: {{90 + 18 = 108}}. Also: {{120 − 12 = 108}}.",
+          "fr": "Il trouve 108 : {{90 + 18 = 108}}. Ou aussi : {{120 − 12 = 108}}.",
+          "ar": "يحصل على 108: {{90 + 18 = 108}}. وأيضًا: {{120 − 12 = 108}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación que se pueda hacer de dos formas y explícalas.",
+        "va": "Inventa't una multiplicació que es puga fer de dues maneres i explica-les.",
+        "en": "Make up a multiplication that can be done in two ways and explain both.",
+        "fr": "Invente une multiplication qu'on peut faire de deux façons et explique-les.",
+        "ar": "لنخترع عملية ضرب يمكن حسابها بطريقتين ونشرحهما."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 18,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: una caja trae 36 lápices. ¿Cuántos lápices hay en 13 cajas?",
+        "va": "Per a recordar: una capsa porta 36 llapis. Quants llapis hi ha en 13 capses?",
+        "en": "Let's remember: a box holds 36 pencils. How many pencils are there in 13 boxes?",
+        "fr": "Pour se souvenir : une boîte contient 36 crayons. Combien de crayons y a-t-il dans 13 boîtes ?",
+        "ar": "لنتذكّر: في العلبة 36 قلم رصاص. كم قلمًا في 13 علبة؟"
+      },
+      "pista": {
+        "es": "Parte el 13: {{36 × 10 = 360}} y {{36 × 3 = 108}}.",
+        "va": "Partix el 13: {{36 × 10 = 360}} i {{36 × 3 = 108}}.",
+        "en": "Split the 13: {{36 × 10 = 360}} and {{36 × 3 = 108}}.",
+        "fr": "Coupe le 13 : {{36 × 10 = 360}} et {{36 × 3 = 108}}.",
+        "ar": "لنقسم الـ13: {{36 × 10 = 360}} و{{36 × 3 = 108}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "36 × 13",
+        "resultado": 468,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 468 lápices: {{360 + 108 = 468}}.",
+          "va": "Hi ha 468 llapis: {{360 + 108 = 468}}.",
+          "en": "There are 468 pencils: {{360 + 108 = 468}}.",
+          "fr": "Il y a 468 crayons : {{360 + 108 = 468}}.",
+          "ar": "هناك 468 قلمًا: {{360 + 108 = 468}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación por un número de dos cifras y pártela en trozos.",
+        "va": "Inventa't una multiplicació per un número de dues xifres i partix-la en trossos.",
+        "en": "Make up a multiplication by a two-digit number and split it into pieces.",
+        "fr": "Invente une multiplication par un nombre à deux chiffres et coupe-la en morceaux.",
+        "ar": "لنخترع عملية ضرب في عدد من رقمين ونقسمها إلى أجزاء."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué crees que, al multiplicar, se puede cambiar el orden y da lo mismo? Explícamelo con un ejemplo.",
+        "va": "Per què creus que, en multiplicar, es pot canviar l'ordre i dona el mateix? Explica-m'ho amb un exemple.",
+        "en": "Why do you think you can change the order when multiplying and get the same answer? Explain it to me with an example.",
+        "fr": "Pourquoi crois-tu que, quand on multiplie, on peut changer l'ordre et que ça donne pareil ? Explique-le-moi avec un exemple.",
+        "ar": "لماذا نظنّ أنه يمكن تغيير الترتيب عند الضرب وتبقى النتيجة نفسها؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué pasa si pones 3 filas de 4 botones y giras el plato?»",
+        "va": "Si no sap per on començar: «Què passa si poses 3 files de 4 botons i gires el plat?»",
+        "en": "If they don't know where to start: “What happens if you put 3 rows of 4 buttons on a plate and turn it?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Que se passe-t-il si tu mets 3 rangées de 4 boutons et que tu tournes l'assiette ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا يحدث إذا وضعنا 3 صفوف من 4 أزرار في صحن وأدرناه؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede que lo explique con un dibujo, con objetos o con una cuenta: todo vale. Escuchad y preguntad «¿pasa siempre?».",
+          "va": "Pot ser que ho explique amb un dibuix, amb objectes o amb un compte: tot val. Escolteu i pregunteu «passa sempre?».",
+          "en": "They might explain it with a drawing, with objects or with a sum: anything goes. Listen and ask “Does it always happen?”.",
+          "fr": "L'explication peut venir avec un dessin, des objets ou un calcul : tout est bon. Écoutez et demandez « Ça marche toujours ? ».",
+          "ar": "قد يأتي الشرح برسم أو بأشياء أو بعملية حسابية: كل ذلك يصلح. استمعوا واسألوا «هل يحدث هذا دائمًا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "d4d42c92b00c"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "d4d42c92b00c"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "d4d42c92b00c"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "d4d42c92b00c"
+      }
+    }
+  }
+}

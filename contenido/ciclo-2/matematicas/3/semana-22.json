@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s22",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 22,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: tablas y combinaciones",
+    "va": "Setmana de recordar: taules i combinacions",
+    "en": "Week to remember: times tables and combinations",
+    "fr": "Semaine pour se souvenir : tables et combinaisons",
+    "ar": "أسبوع التذكّر: جداول الضرب والتركيبات"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a las tablas del 2, 3, 4, 5, 6 y 10, a dar la vuelta a la multiplicación y a contar combinaciones. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a les taules (tablas) del 2, 3, 4, 5, 6 i 10, a donar la volta a la multiplicació i a comptar combinacions. No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to the 2, 3, 4, 5, 6 and 10 times tables (tablas), to turning multiplication around and to counting combinations. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient aux tables (tablas) de 2, 3, 4, 5, 6 et 10, à la multiplication qu'on retourne et aux combinaisons. Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى جداول ضرب (tablas) 2 و3 و4 و5 و6 و10، وإلى قلب عملية الضرب، وإلى عدّ التركيبات. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Jugad a llenar todos los cartones entre todos, no a ver quién gana. Si alguien duda, se dice el truco en voz alta: «es el doble de…», «dale la vuelta».",
+    "va": "Jugueu a omplir tots els cartons entre tots, no a veure qui guanya. Si algú dubta, es diu el truc en veu alta: «és el doble de…», «dona-li la volta».",
+    "en": "Play at filling all the cards together, not at seeing who wins. If someone isn't sure, say the trick out loud: “It's double…”, “Turn it around”.",
+    "fr": "Jouez à remplir tous les cartons ensemble, pas à voir qui gagne. Si quelqu'un hésite, on dit l'astuce à voix haute : « c'est le double de… », « retourne-la ».",
+    "ar": "العبوا لملء كل البطاقات معًا، لا لمعرفة من يفوز. وإذا تردّد أحدكم، قولوا الحيلة بصوت عالٍ: «إنها ضعف…»، «اقلبها»."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.propiedades"
+  ],
+  "criterios": [
+    "matematicas.c2.2.4",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Bingo de tablas",
+      "va": "Bingo de taules",
+      "en": "Times table bingo",
+      "fr": "Le loto des tables",
+      "ar": "بينغو جداول الضرب"
+    },
+    "material": [
+      {
+        "es": "Papel o cartulina para los cartones",
+        "va": "Paper o cartolina per als cartons",
+        "en": "Paper or card for the bingo cards",
+        "fr": "Du papier ou du bristol pour les cartons",
+        "ar": "ورق أو ورق مقوّى للبطاقات"
+      },
+      {
+        "es": "Legumbres, botones o trocitos de papel para tapar",
+        "va": "Llegums, botons o trossets de paper per a tapar",
+        "en": "Dried beans, buttons or bits of paper to cover the numbers",
+        "fr": "Des légumes secs, des boutons ou des petits bouts de papier pour couvrir",
+        "ar": "بقول أو أزرار أو قطع ورق صغيرة للتغطية"
+      },
+      {
+        "es": "Papelitos y un bote",
+        "va": "Paperets i un pot",
+        "en": "Slips of paper and a jar",
+        "fr": "Des petits papiers et un pot",
+        "ar": "قصاصات ورق ووعاء"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Escribid en papelitos multiplicaciones de las tablas del 2 al 6 y del 10, como {{3 × 4}} o {{6 × 5}}, y metedlos en un bote.",
+          "va": "Escriviu en paperets multiplicacions de les taules del 2 al 6 i del 10, com ara {{3 × 4}} o {{6 × 5}}, i poseu-los en un pot.",
+          "en": "Write multiplications from the 2 to 6 and 10 times tables on slips of paper, like {{3 × 4}} or {{6 × 5}}, and put them in a jar.",
+          "fr": "Écrivez sur des petits papiers des multiplications des tables de 2 à 6 et de 10, comme {{3 × 4}} ou {{6 × 5}}, et mettez-les dans un pot.",
+          "ar": "اكتبوا على قصاصات ورق عمليات ضرب من جداول 2 إلى 6 وجدول 10، مثل {{3 × 4}} أو {{6 × 5}}، وضعوها في وعاء."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Cada persona hace un cartón con 9 casillas y escribe en ellas 9 resultados de esas tablas, los que quiera: 12, 30, 18…",
+          "va": "Cada persona fa un cartó amb 9 caselles i hi escriu 9 resultats d'eixes taules, els que vulga: 12, 30, 18…",
+          "en": "Each person makes a card with 9 boxes and writes 9 answers from those tables in them, whichever they like: 12, 30, 18…",
+          "fr": "Chaque personne fait un carton de 9 cases et y écrit 9 résultats de ces tables, ceux qu'elle veut : 12, 30, 18…",
+          "ar": "يصنع كل شخص بطاقة فيها 9 خانات ويكتب فيها 9 نتائج من تلك الجداول، ما يشاء منها: 12، 30، 18…"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, una persona saca un papelito y lo canta: «¡Seis por cinco!». Quien tenga el 30 en su cartón lo tapa.",
+          "va": "Per torns, una persona trau un paperet i el canta: «Sis per cinc!». Qui tinga el 30 en el seu cartó el tapa.",
+          "en": "Taking turns, one person pulls out a slip and calls it out: “Six times five!” Whoever has 30 on their card covers it.",
+          "fr": "Chacun son tour, une personne tire un papier et l'annonce : « Six fois cinq ! » Celui ou celle qui a 30 sur son carton le couvre.",
+          "ar": "بالتناوب، يسحب شخص قصاصة ويعلنها: «ستة في خمسة!». ومن لديه 30 في بطاقته يغطّيه."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Seguid hasta que todos los cartones queden tapados. Antes de celebrarlo, comprobad juntos los resultados tapados.",
+          "va": "Continueu fins que tots els cartons queden tapats. Abans de celebrar-ho, comproveu junts els resultats tapats.",
+          "en": "Keep going until all the cards are covered. Before celebrating, check the covered answers together.",
+          "fr": "Continuez jusqu'à ce que tous les cartons soient couverts. Avant de fêter ça, vérifiez ensemble les résultats couverts.",
+          "ar": "تابعوا حتى تُغطّى كل البطاقات. وقبل الاحتفال، تحقّقوا معًا من النتائج المغطّاة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo las tablas del 2, del 5 y del 10, y cartones de 6 casillas.",
+      "va": "Feu servir només les taules del 2, del 5 i del 10, i cartons de 6 caselles.",
+      "en": "Use only the 2, 5 and 10 times tables, and cards with 6 boxes.",
+      "fr": "Utilisez seulement les tables de 2, de 5 et de 10, et des cartons de 6 cases.",
+      "ar": "استعملوا جداول 2 و5 و10 فقط، وبطاقات من 6 خانات."
+    },
+    "masDificil": {
+      "es": "Cantad las multiplicaciones al revés («cinco por seis») para recordar que dan lo mismo, o añadid papelitos de combinaciones: «3 camisetas y 2 pantalones».",
+      "va": "Canteu les multiplicacions al revés («cinc per sis») per a recordar que donen el mateix, o afegiu paperets de combinacions: «3 samarretes i 2 pantalons».",
+      "en": "Call out the multiplications the other way round (“five times six”) to remember they give the same answer, or add slips with combinations: “3 T-shirts and 2 pairs of trousers”.",
+      "fr": "Annoncez les multiplications à l'envers (« cinq fois six ») pour se rappeler que ça donne pareil, ou ajoutez des papiers de combinaisons : « 3 tee-shirts et 2 pantalons ».",
+      "ar": "أعلنوا عمليات الضرب بالعكس («خمسة في ستة») لتتذكّروا أنها تعطي النتيجة نفسها، أو أضيفوا قصاصات تركيبات: «3 قمصان وسروالان»."
+    },
+    "paraQueSirve": {
+      "es": "En el bingo, las tablas se oyen, se piensan y se buscan en el cartón, una y otra vez. Volver a ellas jugando ayuda a que se queden sin esfuerzo.",
+      "va": "En el bingo, les taules se senten, es pensen i es busquen en el cartó, una vegada i una altra. Tornar-hi jugant ajuda que es queden sense esforç.",
+      "en": "In bingo, the times tables are heard, thought about and looked for on the card, again and again. Coming back to them through play helps them stick effortlessly.",
+      "fr": "Au loto, les tables s'entendent, se pensent et se cherchent sur le carton, encore et encore. Y revenir en jouant aide à les garder sans effort.",
+      "ar": "في البينغو، نسمع جداول الضرب ونفكّر فيها ونبحث عنها في البطاقة، مرة بعد مرة. العودة إليها باللعب تساعد على ترسيخها دون عناء."
+    },
+    "aviso": {
+      "es": "Las legumbres y los botones, lejos de hermanos o hermanas pequeños.",
+      "va": "Els llegums i els botons, lluny de germans o germanes menuts.",
+      "en": "Keep the beans and buttons away from younger brothers and sisters.",
+      "fr": "Gardez les légumes secs et les boutons loin des petits frères et sœurs.",
+      "ar": "أبعدوا البقول والأزرار عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En el comedor del cole, cada mesa tiene 4 sillas. ¿Cuántas sillas hay en 7 mesas?",
+        "va": "En el menjador de l'escola, cada taula té 4 cadires. Quantes cadires hi ha en 7 taules?",
+        "en": "In the school dining hall, each table has 4 chairs. How many chairs are there at 7 tables?",
+        "fr": "À la cantine de l'école, chaque table a 4 chaises. Combien de chaises y a-t-il pour 7 tables ?",
+        "ar": "في مطعم المدرسة، لكل طاولة 4 كراسٍ. كم كرسيًّا في 7 طاولات؟"
+      },
+      "pista": {
+        "es": "El doble de 7 es 14, y el doble de 14…",
+        "va": "El doble de 7 és 14, i el doble de 14…",
+        "en": "Double 7 is 14, and double 14…",
+        "fr": "Le double de 7 est 14, et le double de 14…",
+        "ar": "ضعف 7 هو 14، وضعف 14…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 4",
+        "resultado": 28,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 28 sillas.",
+          "va": "Hi ha 28 cadires.",
+          "en": "There are 28 chairs.",
+          "fr": "Il y a 28 chaises.",
+          "ar": "هناك 28 كرسيًّا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de la tabla del 4 con cosas del cole.",
+        "va": "Inventa'n tu una de la taula del 4 amb coses de l'escola.",
+        "en": "Make up a 4 times table one with things from school.",
+        "fr": "Invente un problème de la table de 4 avec des choses de l'école.",
+        "ar": "لنخترع مسألة من جدول 4 بأشياء من المدرسة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Para merendar hay pan o galletas, y para beber, leche, agua o zumo. ¿Cuántas meriendas distintas se pueden hacer?",
+        "va": "Per a berenar hi ha pa o galetes, i per a beure, llet, aigua o suc. Quants berenars diferents es poden fer?",
+        "en": "For a snack there's bread or biscuits, and to drink, milk, water or juice. How many different snacks can you make?",
+        "fr": "Pour le goûter, il y a du pain ou des biscuits, et pour boire, du lait, de l'eau ou du jus. Combien de goûters différents peut-on faire ?",
+        "ar": "للوجبة الخفيفة هناك خبز أو بسكويت، وللشرب حليب أو ماء أو عصير. كم وجبة خفيفة مختلفة يمكن أن نحضّر؟"
+      },
+      "pista": {
+        "es": "Dibuja un árbol: de cada comida salen tres ramas, una por bebida.",
+        "va": "Dibuixa un arbre: de cada menjar ixen tres branques, una per beguda.",
+        "en": "Draw a tree: from each food come three branches, one for each drink.",
+        "fr": "Dessine un arbre : de chaque aliment partent trois branches, une par boisson.",
+        "ar": "لنرسم شجرة: من كل طعام تخرج ثلاثة فروع، فرع لكل مشروب."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 3",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se pueden hacer 6 meriendas distintas.",
+          "va": "Es poden fer 6 berenars diferents.",
+          "en": "You can make 6 different snacks.",
+          "fr": "On peut faire 6 goûters différents.",
+          "ar": "يمكن أن نحضّر 6 وجبات خفيفة مختلفة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de combinar comida y bebida con lo que haya en tu cocina.",
+        "va": "Inventa'n tu una de combinar menjar i beguda amb el que hi haja a la teua cuina.",
+        "en": "Make one up about combining food and drink with what's in your kitchen.",
+        "fr": "Invente un problème où l'on combine nourriture et boisson avec ce qu'il y a dans ta cuisine.",
+        "ar": "لنخترع مسألة نجمع فيها بين طعام ومشروب مما في مطبخنا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Martina pega 6 pegatinas en cada página de su álbum. ¿Cuántas pegatinas hay en 5 páginas?",
+        "va": "Martina apega 6 adhesius en cada pàgina del seu àlbum. Quants adhesius hi ha en 5 pàgines?",
+        "en": "Martina sticks 6 stickers on each page of her album. How many stickers are there on 5 pages?",
+        "fr": "Martina colle 6 autocollants sur chaque page de son album. Combien d'autocollants y a-t-il sur 5 pages ?",
+        "ar": "تلصق مارتينا 6 ملصقات في كل صفحة من ألبومها. كم ملصقًا في 5 صفحات؟"
+      },
+      "pista": {
+        "es": "Puedes darle la vuelta y contar de 5 en 5, seis veces: 5, 10, 15…",
+        "va": "Pots donar-li la volta i comptar de 5 en 5, sis vegades: 5, 10, 15…",
+        "en": "You can turn it around and count in 5s, six times: 5, 10, 15…",
+        "fr": "Tu peux la retourner et compter de 5 en 5, six fois : 5, 10, 15…",
+        "ar": "يمكننا قلبها والعدّ خمسة خمسة، ست مرات: 5، 10، 15…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 6",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 30 pegatinas: {{5 × 6 = 30}}, igual que {{6 × 5 = 30}}.",
+          "va": "Hi ha 30 adhesius: {{5 × 6 = 30}}, igual que {{6 × 5 = 30}}.",
+          "en": "There are 30 stickers: {{5 × 6 = 30}}, just like {{6 × 5 = 30}}.",
+          "fr": "Il y a 30 autocollants : {{5 × 6 = 30}}, comme {{6 × 5 = 30}}.",
+          "ar": "هناك 30 ملصقًا: {{5 × 6 = 30}}، مثل {{6 × 5 = 30}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un álbum y resuélvela dándole la vuelta.",
+        "va": "Inventa'n tu una d'un àlbum i resol-la donant-li la volta.",
+        "en": "Make one up about an album and work it out by turning it around.",
+        "fr": "Invente un problème avec un album et trouve la réponse en le retournant.",
+        "ar": "لنخترع مسألة عن ألبوم ونحلّها بقلب العملية."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar: la aguja larga del reloj está en el 9. ¿Cuántos minutos han pasado desde la hora en punto?",
+        "va": "Per a recordar: l'agulla llarga del rellotge està en el 9. Quants minuts han passat des de l'hora en punt?",
+        "en": "Let's remember: the long hand of the clock is on the 9. How many minutes have passed since the hour?",
+        "fr": "Pour se souvenir : la grande aiguille de l'horloge est sur le 9. Combien de minutes se sont écoulées depuis l'heure pile ?",
+        "ar": "لنتذكّر: العقرب الطويل للساعة عند الرقم 9. كم دقيقة مرّت منذ الساعة تمامًا؟"
+      },
+      "pista": {
+        "es": "Cada número del reloj son 5 minutos: cuenta de 5 en 5 hasta el 9.",
+        "va": "Cada número del rellotge són 5 minuts: compta de 5 en 5 fins al 9.",
+        "en": "Each number on the clock is 5 minutes: count in 5s up to the 9.",
+        "fr": "Chaque nombre de l'horloge vaut 5 minutes : compte de 5 en 5 jusqu'au 9.",
+        "ar": "كل رقم في الساعة يساوي 5 دقائق: لنعدّ خمسة خمسة حتى الرقم 9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 × 5",
+        "resultado": 45,
+        "unidad": "min",
+        "texto": {
+          "es": "Han pasado 45 minutos.",
+          "va": "Han passat 45 minuts.",
+          "en": "45 minutes have passed.",
+          "fr": "45 minutes se sont écoulées.",
+          "ar": "مرّت 45 دقيقة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con la aguja larga en otro número.",
+        "va": "Inventa'n tu una amb l'agulla llarga en un altre número.",
+        "en": "Make one up with the long hand on another number.",
+        "fr": "Invente un problème avec la grande aiguille sur un autre nombre.",
+        "ar": "لنخترع مسألة يكون فيها العقرب الطويل عند رقم آخر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas en mates, ¿qué tabla se te ha quedado mejor? ¿Y cuál te cuesta todavía? Explícame un truco para esa.",
+        "va": "De tot el que heu fet aquestes setmanes en mates, quina taula se t'ha quedat millor? I quina et costa encara? Explica'm un truc per a eixa.",
+        "en": "Of everything in maths these weeks, which times table has stuck best? And which one is still hard? Explain a trick for that one.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, quelle table as-tu le mieux retenue ? Et laquelle te coûte encore ? Explique-moi une astuce pour celle-là.",
+        "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، أي جدول ضرب ترسّخ أكثر؟ وأيّها ما زال صعبًا؟ اشرح لي أو اشرحي لي حيلة له."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas de doblar la tira? ¿Y de girar el plato? ¿Y del dado doble?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes de doblegar la tira? I de girar el plat? I del dau doble?»",
+        "en": "You can help them remember: “Do you remember folding the strip? And turning the plate? And the double die?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles la bande pliée ? Et l'assiette qu'on tourne ? Et le dé double ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر طيّ الشريط؟ وإدارة الصحن؟ والنرد المضاعف؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay respuesta buena ni mala. Si una tabla le cuesta, buscad juntos un truco y probadlo en el bingo.",
+          "va": "No hi ha resposta bona ni dolenta. Si una taula li costa, busqueu junts un truc i proveu-lo en el bingo.",
+          "en": "There's no right or wrong answer. If a times table is hard, look for a trick together and try it out in bingo.",
+          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si une table coûte, cherchez ensemble une astuce et essayez-la au loto.",
+          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإذا كان جدول صعبًا، ابحثوا معًا عن حيلة وجرّبوها في البينغو."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "941add2f7206"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "941add2f7206"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "941add2f7206"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "941add2f7206"
+      }
+    }
+  }
+}

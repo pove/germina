@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s21",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 21,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿De cuántas maneras?",
+    "va": "De quantes maneres?",
+    "en": "How many ways?",
+    "fr": "De combien de façons ?",
+    "ar": "بكم طريقة؟"
+  },
+  "objetivo": {
+    "es": "Esta semana buscan todas las formas de combinar cosas, como camisetas y pantalones, dibujándolas con orden para no dejarse ninguna. Así descubren que también se pueden contar con una multiplicación.",
+    "va": "Aquesta setmana busquen totes les maneres de combinar coses, com ara samarretes i pantalons, dibuixant-les amb ordre per no deixar-se'n cap. Així descobreixen que també es poden comptar amb una multiplicació.",
+    "en": "This week they look for all the ways to combine things, like T-shirts and trousers, drawing them in order so as not to miss any. That's how they discover they can also be counted with a multiplication.",
+    "fr": "Cette semaine, on cherche toutes les façons de combiner des choses, comme des tee-shirts et des pantalons, en les dessinant avec ordre pour n'en oublier aucune. On découvre ainsi qu'on peut aussi les compter avec une multiplication.",
+    "ar": "هذا الأسبوع يبحث الأطفال عن كل طرق الجمع بين الأشياء، مثل القمصان والسراويل، ويرسمونها بترتيب حتى لا ينسوا أيًّا منها. وهكذا يكتشفون أنه يمكن عدّها أيضًا بعملية ضرب."
+  },
+  "comoAyudar": {
+    "es": "Dejad que pruebe a su manera aunque se deje alguna combinación. Después, preguntad: «¿Cómo sabes que están todas?». Ordenarlas es lo más importante.",
+    "va": "Deixeu que ho provi a la seua manera encara que es deixe alguna combinació. Després, pregunteu: «Com saps que hi són totes?». Ordenar-les és el més important.",
+    "en": "Let them try their own way, even if they miss a combination. Then ask: “How do you know you've got them all?” Putting them in order is what matters most.",
+    "fr": "Laissez essayer à sa façon, même si une combinaison est oubliée. Ensuite, demandez : « Comment sais-tu qu'elles y sont toutes ? » Les mettre en ordre, c'est le plus important.",
+    "ar": "اتركوا الطفل يجرّب على طريقته حتى لو نسي تركيبة. ثم اسألوا: «كيف نعرف أنها كلها هنا؟». ترتيبها هو الأهم."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.3.2",
+    "matematicas.c2.1.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La fábrica de bocadillos",
+      "va": "La fàbrica d'entrepans",
+      "en": "The sandwich factory",
+      "fr": "L'usine à sandwichs",
+      "ar": "مصنع الشطائر"
+    },
+    "material": [
+      {
+        "es": "Papel",
+        "va": "Paper",
+        "en": "Paper",
+        "fr": "Du papier",
+        "ar": "ورق"
+      },
+      {
+        "es": "Lápices de colores",
+        "va": "Llapis de colors",
+        "en": "Coloured pencils",
+        "fr": "Des crayons de couleur",
+        "ar": "أقلام ملوّنة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "pan",
+        "texto": {
+          "es": "Imaginad que hay 3 panes (de barra, de molde y redondo) y 2 rellenos (queso y tomate). Cada bocadillo lleva un pan y un relleno.",
+          "va": "Imagineu que hi ha 3 pans (de barra, de motle i redó) i 2 farcits (formatge i tomaca). Cada entrepà porta un pa i un farcit.",
+          "en": "Imagine there are 3 kinds of bread (a baguette, sliced bread and a round roll) and 2 fillings (cheese and tomato). Each sandwich has one bread and one filling.",
+          "fr": "Imaginez qu'il y a 3 pains (baguette, pain de mie et pain rond) et 2 garnitures (fromage et tomate). Chaque sandwich a un pain et une garniture.",
+          "ar": "تخيّلوا أن هناك 3 أنواع من الخبز (خبز طويل، وخبز توست، وخبز مستدير) وحشوتين (جبن وطماطم). كل شطيرة فيها نوع خبز وحشوة واحدة."
+        }
+      },
+      {
+        "pictograma": "arbol",
+        "texto": {
+          "es": "Dibujad los 3 panes uno debajo de otro. De cada pan, sacad una flecha hacia cada relleno.",
+          "va": "Dibuixeu els 3 pans un davall de l'altre. De cada pa, traieu una fletxa cap a cada farcit.",
+          "en": "Draw the 3 breads one under the other. From each bread, draw an arrow to each filling.",
+          "fr": "Dessinez les 3 pains l'un sous l'autre. De chaque pain, tracez une flèche vers chaque garniture.",
+          "ar": "ارسموا أنواع الخبز الثلاثة واحدًا تحت الآخر. ومن كل نوع، ارسموا سهمًا إلى كل حشوة."
+        }
+      },
+      {
+        "pictograma": "bocadillo",
+        "texto": {
+          "es": "Contad los bocadillos distintos siguiendo las flechas: de barra con queso, de barra con tomate… ¿Cuántos salen?",
+          "va": "Compteu els entrepans diferents seguint les fletxes: de barra amb formatge, de barra amb tomaca… Quants n'ixen?",
+          "en": "Count the different sandwiches by following the arrows: baguette with cheese, baguette with tomato… How many are there?",
+          "fr": "Comptez les sandwichs différents en suivant les flèches : baguette au fromage, baguette à la tomate… Combien y en a-t-il ?",
+          "ar": "عدّوا الشطائر المختلفة باتّباع الأسهم: خبز طويل بالجبن، خبز طويل بالطماطم… كم شطيرة تخرج؟"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Salen 6: cada pan va con 2 rellenos, y hay 3 panes. Es {{3 × 2 = 6}}. ¿Cuántos saldrían con un tercer relleno?",
+          "va": "N'ixen 6: cada pa va amb 2 farcits, i hi ha 3 pans. És {{3 × 2 = 6}}. Quants n'eixirien amb un tercer farcit?",
+          "en": "There are 6: each bread goes with 2 fillings, and there are 3 breads. That's {{3 × 2 = 6}}. How many would there be with a third filling?",
+          "fr": "Il y en a 6 : chaque pain va avec 2 garnitures, et il y a 3 pains. C'est {{3 × 2 = 6}}. Combien y en aurait-il avec une troisième garniture ?",
+          "ar": "تخرج 6: كل نوع خبز مع حشوتين، وهناك 3 أنواع. أي {{3 × 2 = 6}}. كم شطيرة تخرج لو أضفنا حشوة ثالثة؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 2 panes y 2 rellenos, y dibujad cada bocadillo en un papelito para moverlos con las manos.",
+      "va": "Comenceu amb 2 pans i 2 farcits, i dibuixeu cada entrepà en un paperet per a moure'ls amb les mans.",
+      "en": "Start with 2 breads and 2 fillings, and draw each sandwich on a slip of paper so you can move them around with your hands.",
+      "fr": "Commencez avec 2 pains et 2 garnitures, et dessinez chaque sandwich sur un petit papier pour pouvoir les déplacer avec les mains.",
+      "ar": "ابدؤوا بنوعين من الخبز وحشوتين، وارسموا كل شطيرة على قصاصة ورق لتحريكها باليدين."
+    },
+    "masDificil": {
+      "es": "Añadid una bebida, agua o zumo: ¿cuántas meriendas distintas salen ahora con pan, relleno y bebida?",
+      "va": "Afegiu una beguda, aigua o suc: quants berenars diferents ixen ara amb pa, farcit i beguda?",
+      "en": "Add a drink, water or juice: how many different snacks are there now with bread, filling and drink?",
+      "fr": "Ajoutez une boisson, eau ou jus : combien de goûters différents y a-t-il maintenant avec pain, garniture et boisson ?",
+      "ar": "أضيفوا مشروبًا، ماءً أو عصيرًا: كم وجبة خفيفة مختلفة تخرج الآن بالخبز والحشوة والمشروب؟"
+    },
+    "paraQueSirve": {
+      "es": "Contar con orden, sin dejarse nada ni repetir, es una forma de pensar que sirve para muchos problemas. Y descubrir que una multiplicación lo cuenta todo de golpe es una sorpresa muy bonita.",
+      "va": "Comptar amb ordre, sense deixar-se res ni repetir, és una manera de pensar que servix per a molts problemes. I descobrir que una multiplicació ho compta tot de colp és una sorpresa molt bonica.",
+      "en": "Counting in order, without missing or repeating anything, is a way of thinking that helps with lots of problems. And discovering that a multiplication counts it all at once is a lovely surprise.",
+      "fr": "Compter avec ordre, sans rien oublier ni répéter, est une façon de penser qui sert pour beaucoup de problèmes. Et découvrir qu'une multiplication compte tout d'un coup est une très belle surprise.",
+      "ar": "العدّ بترتيب، دون نسيان شيء أو تكراره، طريقة تفكير تفيد في مسائل كثيرة. واكتشاف أن عملية ضرب تعدّ كل شيء دفعة واحدة مفاجأة جميلة جدًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Zoe tiene 2 camisetas (una roja y una azul) y 3 pantalones. ¿De cuántas maneras distintas se puede vestir?",
+        "va": "Zoe té 2 samarretes (una roja i una blava) i 3 pantalons. De quantes maneres diferents es pot vestir?",
+        "en": "Zoe has 2 T-shirts (a red one and a blue one) and 3 pairs of trousers. How many different outfits can she wear?",
+        "fr": "Zoe a 2 tee-shirts (un rouge et un bleu) et 3 pantalons. De combien de façons différentes peut-elle s'habiller ?",
+        "ar": "عند زوي قميصان (أحمر وأزرق) و3 سراويل. بكم طريقة مختلفة يمكنها أن تلبس؟"
+      },
+      "pista": {
+        "es": "Dibuja las 2 camisetas y une cada una con los 3 pantalones.",
+        "va": "Dibuixa les 2 samarretes i uneix cadascuna amb els 3 pantalons.",
+        "en": "Draw the 2 T-shirts and join each one to the 3 pairs of trousers.",
+        "fr": "Dessine les 2 tee-shirts et relie chacun aux 3 pantalons.",
+        "ar": "لنرسم القميصين ونصل كل واحد منهما بالسراويل الثلاثة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 3",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "De 6 maneras: {{2 × 3 = 6}}.",
+          "va": "De 6 maneres: {{2 × 3 = 6}}.",
+          "en": "6 outfits: {{2 × 3 = 6}}.",
+          "fr": "De 6 façons : {{2 × 3 = 6}}.",
+          "ar": "بـ6 طرق: {{2 × 3 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con ropa de tu armario.",
+        "va": "Inventa'n tu una amb roba del teu armari.",
+        "en": "Make one up with clothes from your wardrobe.",
+        "fr": "Invente un problème avec des vêtements de ton armoire.",
+        "ar": "لنخترع مسألة بملابس من خزانتنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "diagrama-arbol",
+      "texto": {
+        "es": "En la heladería hay 4 sabores y cada helado se puede pedir en cucurucho o en tarrina. ¿Cuántos helados distintos se pueden pedir?",
+        "va": "A la gelateria hi ha 4 sabors i cada gelat es pot demanar en cucurutxo o en terrina. Quants gelats diferents es poden demanar?",
+        "en": "The ice-cream shop has 4 flavours and each ice cream comes in a cone or a tub. How many different ice creams can you order?",
+        "fr": "Chez le glacier, il y a 4 parfums et chaque glace se prend en cornet ou en pot. Combien de glaces différentes peut-on commander ?",
+        "ar": "في محل البوظة 4 نكهات، ويمكن طلب كل بوظة في قمع أو في كوب. كم بوظة مختلفة يمكن طلبها؟"
+      },
+      "pista": {
+        "es": "Haz un árbol: de cada sabor salen dos ramas, cucurucho y tarrina.",
+        "va": "Fes un arbre: de cada sabor ixen dues branques, cucurutxo i terrina.",
+        "en": "Draw a tree: from each flavour come two branches, cone and tub.",
+        "fr": "Fais un arbre : de chaque parfum partent deux branches, cornet et pot.",
+        "ar": "لنرسم شجرة: من كل نكهة يخرج فرعان، قمع وكوب."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 2",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se pueden pedir 8 helados distintos.",
+          "va": "Es poden demanar 8 gelats diferents.",
+          "en": "You can order 8 different ice creams.",
+          "fr": "On peut commander 8 glaces différentes.",
+          "ar": "يمكن طلب 8 أنواع مختلفة من البوظة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de una heladería o de un menú.",
+        "va": "Inventa'n tu una d'una gelateria o d'un menú.",
+        "en": "Make one up about an ice-cream shop or a menu.",
+        "fr": "Invente un problème avec un glacier ou un menu.",
+        "ar": "لنخترع مسألة عن محل بوظة أو قائمة طعام."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Thiago tiene 3 gorros y 3 bufandas, y quiere ponerse cada día una combinación distinta. ¿Para cuántos días tiene?",
+        "va": "Thiago té 3 gorros i 3 bufandes, i vol posar-se cada dia una combinació diferent. Per a quants dies en té?",
+        "en": "Thiago has 3 hats and 3 scarves, and wants to wear a different combination every day. How many days can he do that for?",
+        "fr": "Thiago a 3 bonnets et 3 écharpes, et il veut porter une combinaison différente chaque jour. Pendant combien de jours peut-il le faire ?",
+        "ar": "عند تياغو 3 قبعات صوفية و3 أوشحة، ويريد أن يلبس كل يوم تركيبة مختلفة. لكم يومًا تكفيه؟"
+      },
+      "pista": {
+        "es": "Ayúdate con dibujos: el primer gorro con cada bufanda, luego el segundo…",
+        "va": "Ajuda't amb dibuixos: el primer gorro amb cada bufanda, després el segon…",
+        "en": "Try with drawings: the first hat with each scarf, then the second…",
+        "fr": "Essaie avec des dessins : le premier bonnet avec chaque écharpe, puis le deuxième…",
+        "ar": "لنجرّب بالرسوم: القبعة الأولى مع كل وشاح، ثم الثانية…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 3",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene para 9 días: {{3 × 3 = 9}}.",
+          "va": "En té per a 9 dies: {{3 × 3 = 9}}.",
+          "en": "He can do it for 9 days: {{3 × 3 = 9}}.",
+          "fr": "Il peut le faire pendant 9 jours : {{3 × 3 = 9}}.",
+          "ar": "تكفيه لـ9 أيام: {{3 × 3 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de combinar dos cosas distintas para cada día.",
+        "va": "Inventa'n tu una de combinar dues coses diferents per a cada dia.",
+        "en": "Make one up about combining two different things for each day.",
+        "fr": "Invente un problème où l'on combine deux choses différentes pour chaque jour.",
+        "ar": "لنخترع مسألة نجمع فيها بين شيئين مختلفين لكل يوم."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 20,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: un paquete trae 6 zumos. ¿Cuántos zumos hay en 3 paquetes?",
+        "va": "Per a recordar: un paquet porta 6 sucs. Quants sucs hi ha en 3 paquets?",
+        "en": "Let's remember: a pack has 6 juices. How many juices are there in 3 packs?",
+        "fr": "Pour se souvenir : un pack contient 6 jus. Combien de jus y a-t-il dans 3 packs ?",
+        "ar": "لنتذكّر: في الرزمة 6 علب عصير. كم علبة عصير في 3 رزم؟"
+      },
+      "pista": {
+        "es": "{{3 × 3 = 9}}, y el doble de 9 es…",
+        "va": "{{3 × 3 = 9}}, i el doble de 9 és…",
+        "en": "{{3 × 3 = 9}}, and double 9 is…",
+        "fr": "{{3 × 3 = 9}}, et le double de 9, c'est…",
+        "ar": "{{3 × 3 = 9}}، وضعف 9 هو…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 6",
+        "resultado": 18,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 18 zumos.",
+          "va": "Hi ha 18 sucs.",
+          "en": "There are 18 juices.",
+          "fr": "Il y a 18 jus.",
+          "ar": "هناك 18 علبة عصير."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de la tabla del 6 y resuélvela con la del 3.",
+        "va": "Inventa'n tu una de la taula del 6 i resol-la amb la del 3.",
+        "en": "Make up a 6 times table one and work it out with the 3 times table.",
+        "fr": "Invente un problème de la table de 6 et trouve la réponse avec celle de 3.",
+        "ar": "لنخترع مسألة من جدول 6 ونحلّها بجدول 3."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes que has encontrado todas las combinaciones y no te falta ninguna? Explícamelo con un ejemplo.",
+        "va": "Com saps que has trobat totes les combinacions i no te'n falta cap? Explica-m'ho amb un exemple.",
+        "en": "How do you know you've found all the combinations and none are missing? Explain it to me with an example.",
+        "fr": "Comment sais-tu que tu as trouvé toutes les combinaisons et qu'il n'en manque aucune ? Explique-le-moi avec un exemple.",
+        "ar": "كيف نعرف أننا وجدنا كل التركيبات ولم ينقص منها شيء؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Por dónde empezaste con los bocadillos? ¿Qué hiciste para no repetir?»",
+        "va": "Si no sap per on començar: «Per on vas començar amb els entrepans? Què vas fer per no repetir?»",
+        "en": "If they don't know where to start: “Where did you start with the sandwiches? What did you do so as not to repeat any?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Par où as-tu commencé avec les sandwichs ? Qu'as-tu fait pour ne pas répéter ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «من أين بدأنا مع الشطائر؟ وماذا فعلنا حتى لا نكرّر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay una sola forma buena: con dibujos, con flechas, en una lista… Lo que importa es que haya un orden. Escuchad y preguntad «¿y luego?».",
+          "va": "No hi ha una sola manera bona: amb dibuixos, amb fletxes, en una llista… El que importa és que hi haja un ordre. Escolteu i pregunteu «i després?».",
+          "en": "There isn't just one good way: with drawings, arrows, a list… What matters is that there's an order. Listen and ask “And then?”.",
+          "fr": "Il n'y a pas qu'une seule bonne façon : avec des dessins, des flèches, une liste… Ce qui compte, c'est qu'il y ait un ordre. Écoutez et demandez « Et après ? ».",
+          "ar": "لا توجد طريقة صحيحة واحدة فقط: بالرسوم أو بالأسهم أو بقائمة… المهم أن يكون هناك ترتيب. استمعوا واسألوا «ثم ماذا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "d5a83fb6d495"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "d5a83fb6d495"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "d5a83fb6d495"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "d5a83fb6d495"
+      }
+    }
+  }
+}

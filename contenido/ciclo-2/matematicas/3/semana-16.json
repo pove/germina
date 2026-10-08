@@ -1,0 +1,354 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s16",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 16,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: juegos en familia",
+    "va": "Setmana de recordar: jocs en família",
+    "en": "Week to remember: family games",
+    "fr": "Semaine pour se souvenir : jeux en famille",
+    "ar": "أسبوع التذكّر: ألعاب عائلية"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a las sumas y restas, a los grupos iguales y a las tablas del 2, del 5 y del 10, jugando. Suele ser semana de vacaciones: basta con una partida en familia.",
+    "va": "Aquesta setmana tornen a les sumes i restes, als grups iguals i a les taules (tablas) del 2, del 5 i del 10, jugant. Sol ser setmana de vacances: n'hi ha prou amb una partida en família.",
+    "en": "This week they go back to addition and subtraction, equal groups and the 2, 5 and 10 times tables (tablas), by playing. It's usually a holiday week: one family game is enough.",
+    "fr": "Cette semaine, on revient aux additions et soustractions, aux groupes égaux et aux tables (tablas) de 2, de 5 et de 10, en jouant. C'est souvent une semaine de vacances : une partie en famille suffit.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى الجمع والطرح، والمجموعات المتساوية، وجداول ضرب (tablas) 2 و5 و10، باللعب. غالبًا ما يكون أسبوع عطلة: تكفي لعبة واحدة مع العائلة."
+  },
+  "comoAyudar": {
+    "es": "Jugad en equipo: cada suma de los dados la comprueba otra persona antes de mover. Si alguien se despista al contar, se vuelve a contar entre todos, sin prisa.",
+    "va": "Jugueu en equip: cada suma dels daus la comprova una altra persona abans de moure. Si algú es despista en comptar, es torna a comptar entre tots, sense pressa.",
+    "en": "Play as a team: another person checks each dice sum before moving. If someone slips up while counting, count again together, without rushing.",
+    "fr": "Jouez en équipe : une autre personne vérifie chaque somme des dés avant d'avancer. Si quelqu'un se trompe en comptant, on recompte tous ensemble, sans se presser.",
+    "ar": "العبوا كفريق: يتحقّق شخص آخر من مجموع النردين قبل التحريك. وإذا سها أحدكم في العدّ، نعيد العدّ معًا بلا عجلة."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c2.7.1",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Una partida con cuentas",
+      "va": "Una partida amb comptes",
+      "en": "A game with sums",
+      "fr": "Une partie avec des calculs",
+      "ar": "لعبة فيها حساب"
+    },
+    "material": [
+      {
+        "es": "Un juego de mesa de casa con dados: parchís, oca o el que tengáis",
+        "va": "Un joc de taula de casa amb daus: parxís, oca o el que tingueu",
+        "en": "A board game with dice from home: ludo, snakes and ladders or whatever you have",
+        "fr": "Un jeu de société de la maison avec des dés : petits chevaux, jeu de l'oie ou celui que vous avez",
+        "ar": "لعبة لوحية من البيت فيها نرد: البارتشيس أو لعبة الإوزة أو أي لعبة عندكم"
+      },
+      {
+        "es": "Dos dados",
+        "va": "Dos daus",
+        "en": "Two dice",
+        "fr": "Deux dés",
+        "ar": "نردان"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "tablero",
+        "texto": {
+          "es": "Elegid un juego de mesa con dados. Esta vez se tiran dos dados y se avanza lo que suman: si salen 4 y 5, {{4 + 5 = 9}} casillas.",
+          "va": "Trieu un joc de taula amb daus. Aquesta vegada es tiren dos daus i s'avança el que sumen: si ixen 4 i 5, {{4 + 5 = 9}} caselles.",
+          "en": "Choose a board game with dice. This time you roll two dice and move forward what they add up to: if you get 4 and 5, {{4 + 5 = 9}} squares.",
+          "fr": "Choisissez un jeu de société avec des dés. Cette fois, on lance deux dés et on avance de leur somme : si on fait 4 et 5, {{4 + 5 = 9}} cases.",
+          "ar": "اختاروا لعبة لوحية فيها نرد. هذه المرة نرمي نردين ونتقدّم بمجموعهما: إذا ظهر 4 و5، نتقدّم {{4 + 5 = 9}} خانات."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Antes de mover, quien tira dice la suma en voz alta y otra persona la comprueba. Si sale un doble, como 3 y 3, se dice también como multiplicación: {{2 × 3 = 6}}.",
+          "va": "Abans de moure, qui tira diu la suma en veu alta i una altra persona la comprova. Si ix un doble, com 3 i 3, es diu també com a multiplicació: {{2 × 3 = 6}}.",
+          "en": "Before moving, whoever rolled says the sum out loud and another person checks it. If you roll a double, like 3 and 3, say it as a multiplication too: {{2 × 3 = 6}}.",
+          "fr": "Avant d'avancer, la personne qui a lancé dit la somme à voix haute et une autre la vérifie. Si on fait un double, comme 3 et 3, on le dit aussi en multiplication : {{2 × 3 = 6}}.",
+          "ar": "قبل التحريك، يقول من رمى النرد المجموع بصوت عالٍ ويتحقّق منه شخص آخر. وإذا ظهر عددان متماثلان، مثل 3 و3، نقوله أيضًا كعملية ضرب: {{2 × 3 = 6}}."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Para saber en qué casilla está vuestra pieza sin contar de una en una, contad de 5 en 5 y luego seguid de una en una: 5, 10, 15, 20, 21, 22.",
+          "va": "Per a saber en quina casella està la vostra peça sense comptar d'una en una, compteu de 5 en 5 i després continueu d'una en una: 5, 10, 15, 20, 21, 22.",
+          "en": "To find out which square your piece is on without counting one by one, count in 5s and then carry on in 1s: 5, 10, 15, 20, 21, 22.",
+          "fr": "Pour savoir sur quelle case est votre pion sans compter une par une, comptez de 5 en 5, puis continuez une par une : 5, 10, 15, 20, 21, 22.",
+          "ar": "لمعرفة الخانة التي فيها قطعتكم دون العدّ واحدة واحدة، عدّوا خمسة خمسة ثم تابعوا واحدة واحدة: 5، 10، 15، 20، 21، 22."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Apuntad cuánto avanza cada persona en cada jugada. Al acabar, sumadlo todo: ¿cuántas casillas habéis recorrido entre todo el equipo?",
+          "va": "Apunteu quant avança cada persona en cada jugada. En acabar, sumeu-ho tot: quantes caselles heu recorregut entre tot l'equip?",
+          "en": "Write down how far each person moves on each turn. At the end, add it all up: how many squares has the whole team travelled?",
+          "fr": "Notez de combien avance chaque personne à chaque tour. À la fin, additionnez tout : combien de cases toute l'équipe a-t-elle parcourues ?",
+          "ar": "دوّنوا كم يتقدّم كل شخص في كل دور. وفي النهاية اجمعوا كل شيء: كم خانة قطع الفريق كله؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad con un solo dado y, para mover, contad las casillas de 2 en 2 cuando se pueda.",
+      "va": "Jugueu amb un sol dau i, per a moure, compteu les caselles de 2 en 2 quan es puga.",
+      "en": "Play with just one die and, when you can, count the squares in 2s to move.",
+      "fr": "Jouez avec un seul dé et, pour avancer, comptez les cases de 2 en 2 quand c'est possible.",
+      "ar": "العبوا بنرد واحد فقط، وعند التحريك عدّوا الخانات اثنتين اثنتين متى أمكن."
+    },
+    "masDificil": {
+      "es": "Jugad al dominó: en cada pieza que pongáis, decid la suma y la multiplicación de sus puntos. Una pieza de 5 y 4 da {{5 + 4 = 9}} y {{5 × 4 = 20}}.",
+      "va": "Jugueu al dòmino: en cada peça que poseu, digueu la suma i la multiplicació dels seus punts. Una peça de 5 i 4 dona {{5 + 4 = 9}} i {{5 × 4 = 20}}.",
+      "en": "Play dominoes: for each piece you put down, say the sum and the product of its dots. A 5 and 4 piece gives {{5 + 4 = 9}} and {{5 × 4 = 20}}.",
+      "fr": "Jouez aux dominos : pour chaque pièce posée, dites la somme et le produit de ses points. Une pièce 5 et 4 donne {{5 + 4 = 9}} et {{5 × 4 = 20}}.",
+      "ar": "العبوا الدومينو: مع كل قطعة تضعونها، قولوا مجموع نقاطها وحاصل ضربها. قطعة فيها 5 و4 تعطي {{5 + 4 = 9}} و{{5 × 4 = 20}}."
+    },
+    "paraQueSirve": {
+      "es": "Jugar en familia pone las sumas y las tablas en marcha sin que lo parezca. Y comprobar las cuentas de los demás, en equipo, enseña que despistarse forma parte del juego.",
+      "va": "Jugar en família posa les sumes i les taules en marxa sense que ho semble. I comprovar els comptes dels altres, en equip, ensenya que despistar-se forma part del joc.",
+      "en": "Playing as a family gets addition and times tables going without it feeling like it. And checking each other's sums, as a team, shows that slipping up is part of the game.",
+      "fr": "Jouer en famille met les additions et les tables en route sans que ça se voie. Et vérifier les calculs des autres, en équipe, montre que se tromper fait partie du jeu.",
+      "ar": "اللعب مع العائلة يشغّل الجمع وجداول الضرب دون أن يبدو الأمر كذلك. والتحقّق من حساب الآخرين، كفريق، يعلّم أن السهو جزء من اللعب."
+    },
+    "aviso": {
+      "es": "Los dados y las piezas pequeñas, lejos de hermanos o hermanas pequeños.",
+      "va": "Els daus i les peces menudes, lluny de germans o germanes menuts.",
+      "en": "Keep the dice and small pieces away from younger brothers and sisters.",
+      "fr": "Gardez les dés et les petites pièces loin des petits frères et sœurs.",
+      "ar": "أبعدوا النرد والقطع الصغيرة عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En la oca, Leo avanza 28 casillas en la primera ronda y 15 en la segunda. ¿Cuántas casillas ha avanzado en total?",
+        "va": "En l'oca, Leo avança 28 caselles en la primera ronda i 15 en la segona. Quantes caselles ha avançat en total?",
+        "en": "In snakes and ladders, Leo moves 28 squares in the first round and 15 in the second. How many squares has he moved in total?",
+        "fr": "Au jeu de l'oie, Leo avance de 28 cases au premier tour et de 15 au deuxième. De combien de cases a-t-il avancé en tout ?",
+        "ar": "في لعبة الإوزة، تقدّم ليو 28 خانة في الجولة الأولى و15 في الثانية. كم خانة تقدّم في المجموع؟"
+      },
+      "pista": {
+        "es": "Suma primero las decenas: 20 y 10 son 30. Después las unidades: 8 y 5 son 13.",
+        "va": "Suma primer les desenes: 20 i 10 són 30. Després les unitats: 8 i 5 són 13.",
+        "en": "Add the tens first: 20 and 10 make 30. Then the ones: 8 and 5 make 13.",
+        "fr": "Additionne d'abord les dizaines : 20 et 10 font 30. Puis les unités : 8 et 5 font 13.",
+        "ar": "لنجمع العشرات أولًا: 20 و10 تساوي 30. ثم الآحاد: 8 و5 تساوي 13."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "28 + 15",
+        "resultado": 43,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ha avanzado 43 casillas: {{30 + 13 = 43}}.",
+          "va": "Ha avançat 43 caselles: {{30 + 13 = 43}}.",
+          "en": "He has moved 43 squares: {{30 + 13 = 43}}.",
+          "fr": "Il a avancé de 43 cases : {{30 + 13 = 43}}.",
+          "ar": "تقدّم 43 خانة: {{30 + 13 = 43}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de un juego de mesa en el que se sumen dos rondas.",
+        "va": "Inventa'n tu una d'un joc de taula en què se sumen dues rondes.",
+        "en": "Make one up about a board game where you add two rounds.",
+        "fr": "Invente un problème de jeu de société où l'on additionne deux tours.",
+        "ar": "لنخترع مسألة عن لعبة لوحية نجمع فيها جولتين."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En el dominó, Aya pone 4 piezas y cada una tiene 5 puntos. ¿Cuántos puntos son?",
+        "va": "En el dòmino, Aya posa 4 peces i cadascuna té 5 punts. Quants punts són?",
+        "en": "In dominoes, Aya puts down 4 pieces and each one has 5 dots. How many dots is that?",
+        "fr": "Aux dominos, Aya pose 4 pièces et chacune a 5 points. Combien de points cela fait-il ?",
+        "ar": "في الدومينو، وضعت آية 4 قطع وفي كل واحدة 5 نقاط. كم نقطة في المجموع؟"
+      },
+      "pista": {
+        "es": "Cuenta de 5 en 5, una vez por pieza: 5, 10…",
+        "va": "Compta de 5 en 5, una vegada per peça: 5, 10…",
+        "en": "Count in 5s, once for each piece: 5, 10…",
+        "fr": "Compte de 5 en 5, une fois par pièce : 5, 10…",
+        "ar": "لنعدّ خمسة خمسة، مرة لكل قطعة: 5، 10…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 5",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 20 puntos: {{4 × 5 = 20}}.",
+          "va": "Són 20 punts: {{4 × 5 = 20}}.",
+          "en": "That's 20 dots: {{4 × 5 = 20}}.",
+          "fr": "Cela fait 20 points : {{4 × 5 = 20}}.",
+          "ar": "20 نقطة: {{4 × 5 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con piezas de dominó que tengan todas los mismos puntos.",
+        "va": "Inventa'n tu una amb peces de dòmino que tinguen totes els mateixos punts.",
+        "en": "Make one up with domino pieces that all have the same number of dots.",
+        "fr": "Invente un problème avec des dominos qui ont tous le même nombre de points.",
+        "ar": "لنخترع مسألة بقطع دومينو لها كلها عدد النقاط نفسه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "La oca tiene 63 casillas y tu pieza está en la 47. ¿Cuántas casillas le faltan para llegar al final?",
+        "va": "L'oca té 63 caselles i la teua peça està en la 47. Quantes caselles li falten per a arribar al final?",
+        "en": "The board has 63 squares and your piece is on 47. How many squares are left to reach the end?",
+        "fr": "Le jeu de l'oie a 63 cases et ton pion est sur la 47. Combien de cases lui manque-t-il pour arriver au bout ?",
+        "ar": "في لعبة الإوزة 63 خانة، وقطعتنا في الخانة 47. كم خانة بقيت لتصل إلى النهاية؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba: de 47 a 50 van 3, y de 50 a 63 van 13.",
+        "va": "Compta cap amunt: de 47 a 50 en van 3, i de 50 a 63 en van 13.",
+        "en": "Count up: from 47 to 50 is 3, and from 50 to 63 is 13.",
+        "fr": "Compte en avançant : de 47 à 50, ça fait 3, et de 50 à 63, ça fait 13.",
+        "ar": "لنعدّ صعودًا: من 47 إلى 50 هي 3، ومن 50 إلى 63 هي 13."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "63 - 47",
+        "resultado": 16,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 16 casillas.",
+          "va": "Li'n falten 16.",
+          "en": "16 squares are left.",
+          "fr": "Il lui manque 16 cases.",
+          "ar": "بقيت 16 خانة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿cuánto falta?» con el tablero de un juego de casa.",
+        "va": "Inventa'n tu una de «quant falta?» amb el tauler d'un joc de casa.",
+        "en": "Make up a “how many are left?” one with the board of a game from home.",
+        "fr": "Invente un problème « combien il manque ? » avec le plateau d'un jeu de la maison.",
+        "ar": "لنخترع مسألة «كم بقي؟» بلوحة لعبة من البيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 15,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: un juego de cartas cuesta 2,80 € y pagas con 5 €. ¿Cuánto te devuelven?",
+        "va": "Per a recordar: un joc de cartes costa 2,80 € i pagues amb 5 €. Quant et tornen?",
+        "en": "Let's remember: a card game costs 2,80 € and you pay with 5 €. How much change do you get?",
+        "fr": "Pour se souvenir : un jeu de cartes coûte 2,80 € et tu paies avec 5 €. Combien te rend-on ?",
+        "ar": "لنتذكّر: لعبة أوراق ثمنها 2,80 يورو، ودفعنا 5 يورو. كم يُرجَع لنا؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba: de 2,80 € a 3 € van 20 céntimos, y de 3 € a 5 €, 2 €.",
+        "va": "Compta cap amunt: de 2,80 € a 3 € van 20 cèntims, i de 3 € a 5 €, 2 €.",
+        "en": "Count up: from 2,80 € to 3 € is 20 cents, and from 3 € to 5 €, 2 €.",
+        "fr": "Compte en avançant : de 2,80 € à 3 €, ça fait 20 centimes, et de 3 € à 5 €, 2 €.",
+        "ar": "لنعدّ صعودًا: من 2,80 يورو إلى 3 يورو 20 سنتًا، ومن 3 يورو إلى 5 يورو 2 يورو."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "500 - 280",
+        "resultado": 220,
+        "unidad": "cent",
+        "texto": {
+          "es": "Te devuelven 2,20 €.",
+          "va": "Et tornen 2,20 €.",
+          "en": "You get 2,20 € back.",
+          "fr": "On te rend 2,20 €.",
+          "ar": "يُرجَع لنا 2,20 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar un juego y pagar con un billete.",
+        "va": "Inventa'n tu una de comprar un joc i pagar amb un bitllet.",
+        "en": "Make one up about buying a game and paying with a note.",
+        "fr": "Invente un problème où l'on achète un jeu et où l'on paie avec un billet.",
+        "ar": "لنخترع مسألة نشتري فيها لعبة وندفع بورقة نقدية."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿En qué juego de casa se usan más las mates? Explícame dónde aparecen las cuentas cuando jugamos.",
+        "va": "En quin joc de casa es fan servir més les mates? Explica'm on apareixen els comptes quan juguem.",
+        "en": "Which game at home uses the most maths? Explain to me where the sums come up when we play.",
+        "fr": "Dans quel jeu de la maison utilise-t-on le plus les maths ? Explique-moi où apparaissent les calculs quand on joue.",
+        "ar": "في أي لعبة من ألعاب البيت نستعمل الرياضيات أكثر؟ اشرح لي أو اشرحي لي أين يظهر الحساب عندما نلعب."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué haces cuando sacas dos dados? ¿Y para saber cuántas casillas faltan?»",
+        "va": "Si no sap per on començar: «Què fas quan trus dos daus? I per a saber quantes caselles falten?»",
+        "en": "If they don't know where to start: “What do you do when you roll two dice? And to know how many squares are left?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Que fais-tu quand tu lances deux dés ? Et pour savoir combien de cases il reste ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا نفعل عندما نرمي نردين؟ وكيف نعرف كم خانة بقيت؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier juego vale. Escuchad, preguntad «¿y dónde más?» y, si os apetece, jugad a ese juego esta semana.",
+          "va": "Qualsevol joc val. Escolteu, pregunteu «i on més?» i, si us ve de gust, jugueu a eixe joc aquesta setmana.",
+          "en": "Any game is fine. Listen, ask “Where else?” and, if you feel like it, play that game this week.",
+          "fr": "N'importe quel jeu convient. Écoutez, demandez « Et où encore ? » et, si vous en avez envie, jouez à ce jeu cette semaine.",
+          "ar": "أي لعبة تصلح. استمعوا، واسألوا «وأين أيضًا؟»، وإن رغبتم، العبوا تلك اللعبة هذا الأسبوع."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "1ee759474272"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "1ee759474272"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "1ee759474272"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "1ee759474272"
+      }
+    }
+  }
+}
