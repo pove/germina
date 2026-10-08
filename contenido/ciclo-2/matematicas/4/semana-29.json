@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s29",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 29,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: dividir y problemas",
+    "va": "Setmana de recordar: dividir i problemes",
+    "en": "Week to remember: dividing and problems",
+    "fr": "Semaine pour se souvenir : diviser et problèmes",
+    "ar": "أسبوع التذكّر: القسمة والمسائل"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a dividir y comprobar, a los múltiplos y divisores, a los problemas de dos pasos, a perímetros y áreas y a la moda y el rango. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a dividir i comprovar, als múltiples i divisors, als problemes de dos passos, a perímetres i àrees i a la moda i el rang. No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to dividing and checking, multiples and factors, two-step problems, perimeter and area, and mode and range. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient à la division et à sa vérification, aux multiples et diviseurs, aux problèmes en deux étapes, aux périmètres et aires, et au mode et à l'étendue. Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى القسمة والتحقّق منها، والمضاعفات والقواسم، ومسائل الخطوتين، والمحيط والمساحة، والمنوال والمدى. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Dejad que cada persona invente su problema como le salga: si le falta un dato, quien lo resuelve lo pedirá. Así descubren juntos qué hace funcionar un problema.",
+    "va": "Deixeu que cada persona invente el seu problema com li isca: si li falta una dada, qui el resol la demanarà. Així descobreixen junts què fa funcionar un problema.",
+    "en": "Let each person make up their problem however it comes out: if a number is missing, whoever solves it will ask for it. That way they discover together what makes a problem work.",
+    "fr": "Laissez chaque personne inventer son problème comme il vient : s'il manque une donnée, celle ou celui qui le résout la demandera. Ainsi, on découvre ensemble ce qui fait qu'un problème marche.",
+    "ar": "اتركوا كل شخص يخترع مسألته كما تخرج: إذا نقص معطى، سيطلبه من يحلّها. هكذا يكتشفون معًا ما يجعل المسألة تنجح."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.numeros.multiplos-divisores",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c2.1.2",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Problemas de cocina",
+      "va": "Problemes de cuina",
+      "en": "Kitchen problems",
+      "fr": "Problèmes de cuisine",
+      "ar": "مسائل المطبخ"
+    },
+    "material": [
+      {
+        "es": "Lo que haya en la cocina: paquetes, latas, huevos, fruta…",
+        "va": "El que hi haja a la cuina: paquets, llandes, ous, fruita…",
+        "en": "Whatever is in the kitchen: packets, tins, eggs, fruit…",
+        "fr": "Ce qu'il y a dans la cuisine : paquets, boîtes de conserve, œufs, fruits…",
+        "ar": "ما في المطبخ: علب، معلّبات، بيض، فاكهة…"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cocina",
+        "texto": {
+          "es": "Mirad juntos la cocina y buscad datos: cuántos huevos hay en la caja, cuántos gramos tiene un paquete, cuánto costó algo.",
+          "va": "Mireu junts la cuina i busqueu dades: quants ous hi ha en la capsa, quants grams té un paquet, quant va costar alguna cosa.",
+          "en": "Look around the kitchen together and find data: how many eggs are in the box, how many grams a packet weighs, how much something cost.",
+          "fr": "Regardez ensemble la cuisine et cherchez des données : combien d'œufs il y a dans la boîte, combien de grammes pèse un paquet, combien a coûté quelque chose.",
+          "ar": "انظروا معًا إلى المطبخ وابحثوا عن معطيات: كم بيضة في العلبة، كم غرامًا في علبة، كم كان ثمن شيء ما."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Cada persona inventa un problema con esos datos. Que haya al menos uno de dividir: «Si repartimos estos 12 huevos en 5 tortillas…».",
+          "va": "Cada persona inventa un problema amb eixes dades. Que n'hi haja almenys un de dividir: «Si repartim aquests 12 ous en 5 truites…».",
+          "en": "Each person makes up a problem with that data. Include at least one division: “If we share these 12 eggs between 5 omelettes…”",
+          "fr": "Chaque personne invente un problème avec ces données. Qu'il y ait au moins une division : « Si on répartit ces 12 œufs dans 5 omelettes… ».",
+          "ar": "يخترع كل شخص مسألة بهذه المعطيات. ولتكن واحدة منها على الأقل مسألة قسمة: «إذا وزّعنا هذا البيض الـ12 على 5 عجّات…»."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Intercambiad los problemas. Quien resuelve explica en voz alta qué hace primero y por qué.",
+          "va": "Intercanvieu els problemes. Qui resol explica en veu alta què fa primer i per què.",
+          "en": "Swap problems. Whoever solves explains out loud what they do first and why.",
+          "fr": "Échangez les problèmes. Celui ou celle qui résout explique à voix haute ce qu'il ou elle fait d'abord et pourquoi.",
+          "ar": "تبادلوا المسائل. يشرح من يحلّ بصوت عالٍ ماذا يفعل أولًا ولماذا."
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "Comprobad cada división con una multiplicación: el divisor por el cociente, más el resto, da lo que había al principio.",
+          "va": "Comproveu cada divisió amb una multiplicació: el divisor pel quocient, més el residu, dona el que hi havia al principi.",
+          "en": "Check each division with a multiplication: divisor times quotient, plus the remainder, should give what you started with.",
+          "fr": "Vérifiez chaque division avec une multiplication : le diviseur fois le quotient, plus le reste, redonne ce qu'il y avait au début.",
+          "ar": "تحقّقوا من كل قسمة بالضرب: المقسوم عليه في ناتج القسمة، زائد الباقي، يعطي ما كان في البداية."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Inventad problemas de un solo paso y resolvedlos con las cosas delante.",
+      "va": "Inventeu problemes d'un sol pas i resoleu-los amb les coses davant.",
+      "en": "Make up one-step problems and solve them with the things in front of you.",
+      "fr": "Inventez des problèmes en une seule étape et résolvez-les avec les choses devant vous.",
+      "ar": "اخترعوا مسائل من خطوة واحدة وحلّوها والأشياء أمامكم."
+    },
+    "masDificil": {
+      "es": "Meted en vuestro problema un dato que sobre, o una pregunta de «¿es múltiplo de…?». ¿Lo descubre quien lo resuelve?",
+      "va": "Poseu en el vostre problema una dada que sobre, o una pregunta de «és múltiple de…?». La descobrix qui el resol?",
+      "en": "Put an extra piece of information in your problem, or an “is it a multiple of…?” question. Does the person solving it notice?",
+      "fr": "Mettez dans votre problème une donnée inutile, ou une question « est-ce un multiple de… ? ». La personne qui le résout s'en rend-elle compte ?",
+      "ar": "ضعوا في مسألتكم معطًى زائدًا، أو سؤال «هل هو من مضاعفات…؟». هل يكتشفه من يحلّها؟"
+    },
+    "paraQueSirve": {
+      "es": "Inventar un problema hace pensar en qué datos tiene y qué se pregunta. Y comprobar las divisiones da seguridad sin que nadie diga si está bien.",
+      "va": "Inventar un problema fa pensar quines dades té i què es pregunta. I comprovar les divisions dona seguretat sense que ningú diga si està bé.",
+      "en": "Making up a problem makes you think about what information it has and what it asks. And checking divisions gives confidence without anyone else saying whether it's right.",
+      "fr": "Inventer un problème fait réfléchir aux données et à la question. Et vérifier les divisions donne de l'assurance sans que personne ne dise si c'est juste.",
+      "ar": "اختراع مسألة يجعلنا نفكّر في معطياتها وفيما تسأل عنه. والتحقّق من القسمة يمنح الثقة دون أن يقول أحد إن النتيجة صحيحة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Cuatro primas se reparten 87 € a partes iguales. ¿Cuánto le toca a cada una y cuánto sobra?",
+        "va": "Quatre cosines es repartixen 87 € a parts iguals. Quant li toca a cadascuna i quant en sobra?",
+        "en": "Four cousins share 87 € equally. How much does each one get and how much is left over?",
+        "fr": "Quatre cousines se partagent 87 € en parts égales. Combien chacune reçoit-elle et combien reste-t-il ?",
+        "ar": "تقتسم أربع بنات عمّ 87 يورو بالتساوي. كم نصيب كل واحدة وكم يبقى؟"
+      },
+      "pista": {
+        "es": "8 billetes de 10 € entre 4 son 2 para cada una. ¿Y las 7 monedas?",
+        "va": "8 bitllets de 10 € entre 4 són 2 per a cadascuna. I les 7 monedes?",
+        "en": "8 notes of 10 € between 4 is 2 each. And the 7 coins?",
+        "fr": "8 billets de 10 € entre 4, ça fait 2 chacune. Et les 7 pièces ?",
+        "ar": "8 أوراق من فئة 10 يورو على 4 تعني ورقتين لكل واحدة. وماذا عن القطع السبع؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(87 - 3) : 4",
+        "resultado": 21,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le tocan 21 € a cada una y sobran 3 €: {{4 × 21 + 3 = 87}}.",
+          "va": "Li toquen 21 € a cadascuna i en sobren 3 €: {{4 × 21 + 3 = 87}}.",
+          "en": "Each gets 21 € and 3 € is left over: {{4 × 21 + 3 = 87}}.",
+          "fr": "Chacune reçoit 21 € et il reste 3 € : {{4 × 21 + 3 = 87}}.",
+          "ar": "نصيب كل واحدة 21 يورو ويبقى 3 يورو: {{4 × 21 + 3 = 87}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto de dinero con resto y escribe cómo lo compruebas.",
+        "va": "Inventa't un repartiment de diners amb residu i escriu com el comproves.",
+        "en": "Make up a money-sharing problem with a remainder and write how you'd check it.",
+        "fr": "Invente un partage d'argent avec reste et écris comment tu le vérifies.",
+        "ar": "لنخترع توزيعًا للنقود فيه باقٍ ونكتب كيف نتحقّق منه."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "¿Es 36 múltiplo de 4? ¿Y de 5?",
+        "va": "És 36 múltiple de 4? I de 5?",
+        "en": "Is 36 a multiple of 4? And of 5?",
+        "fr": "36 est-il un multiple de 4 ? Et de 5 ?",
+        "ar": "هل 36 من مضاعفات 4؟ ومن مضاعفات 5؟"
+      },
+      "pista": {
+        "es": "¿Está el 36 en la tabla del 4? ¿Y en la del 5?",
+        "va": "Està el 36 en la taula del 4? I en la del 5?",
+        "en": "Is 36 in the 4 times table? And in the 5 times table?",
+        "fr": "Est-ce que 36 est dans la table de 4 ? Et dans celle de 5 ?",
+        "ar": "هل 36 في جدول 4؟ وفي جدول 5؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "36 : 4",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es múltiplo de 4, porque {{4 × 9 = 36}}. De 5 no: entre 5 sobra 1.",
+          "va": "És múltiple de 4, perquè {{4 × 9 = 36}}. De 5 no: entre 5 en sobra 1.",
+          "en": "It's a multiple of 4, because {{4 × 9 = 36}}. Not of 5: divided by 5, 1 is left over.",
+          "fr": "C'est un multiple de 4, parce que {{4 × 9 = 36}}. Pas de 5 : divisé par 5, il reste 1.",
+          "ar": "هو من مضاعفات 4، لأن {{4 × 9 = 36}}. ومن مضاعفات 5 لا: عند القسمة على 5 يبقى 1."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿es múltiplo de…?» con un número de dos cifras.",
+        "va": "Inventa't una pregunta de «és múltiple de…?» amb un número de dues xifres.",
+        "en": "Make up an “is it a multiple of…?” question with a two-digit number.",
+        "fr": "Invente une question « est-ce un multiple de… ? » avec un nombre à deux chiffres.",
+        "ar": "لنخترع سؤال «هل هو من مضاعفات…؟» بعدد من رقمين."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Un tren lleva 320 personas. En una estación bajan 85 y suben 140. ¿Cuántas personas van ahora?",
+        "va": "Un tren porta 320 persones. En una estació en baixen 85 i en pugen 140. Quantes persones hi van ara?",
+        "en": "A train is carrying 320 people. At a station, 85 get off and 140 get on. How many people are on it now?",
+        "fr": "Un train transporte 320 personnes. À une gare, 85 descendent et 140 montent. Combien de personnes y a-t-il maintenant ?",
+        "ar": "في قطار 320 شخصًا. في محطة نزل 85 وصعد 140. كم شخصًا في القطار الآن؟"
+      },
+      "pista": {
+        "es": "Primero los que bajan; después, los que suben.",
+        "va": "Primer els que baixen; després, els que pugen.",
+        "en": "First the people getting off; then the ones getting on.",
+        "fr": "D'abord ceux qui descendent ; ensuite, ceux qui montent.",
+        "ar": "أولًا من نزلوا، ثم من صعدوا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(320 - 85) + 140",
+        "resultado": 375,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 375 personas: {{320 − 85 = 235}} y {{235 + 140 = 375}}.",
+          "va": "Hi van 375 persones: {{320 − 85 = 235}} i {{235 + 140 = 375}}.",
+          "en": "There are 375 people: {{320 − 85 = 235}} and {{235 + 140 = 375}}.",
+          "fr": "Il y a 375 personnes : {{320 − 85 = 235}} et {{235 + 140 = 375}}.",
+          "ar": "في القطار 375 شخصًا: {{320 − 85 = 235}} و{{235 + 140 = 375}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos con gente que sube y baja.",
+        "va": "Inventa'n tu un de dos passos amb gent que puja i baixa.",
+        "en": "Make up a two-step one about people getting on and off.",
+        "fr": "Invente un problème en deux étapes avec des gens qui montent et descendent.",
+        "ar": "لنخترع مسألة من خطوتين عن أشخاص يصعدون وينزلون."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 28,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: los puntos de cinco partidas fueron 7, 9, 7, 12 y 5. ¿Cuál es el rango? ¿Y la moda?",
+        "va": "Per a recordar: els punts de cinc partides van ser 7, 9, 7, 12 i 5. Quin és el rang? I la moda?",
+        "en": "Let's remember: the points in five games were 7, 9, 7, 12 and 5. What's the range? And the mode?",
+        "fr": "Pour se souvenir : les points de cinq parties ont été 7, 9, 7, 12 et 5. Quelle est l'étendue ? Et le mode ?",
+        "ar": "لنتذكّر: كانت نقاط خمس مباريات 7 و9 و7 و12 و5. ما المدى؟ وما المنوال؟"
+      },
+      "pista": {
+        "es": "Para el rango, resta el más bajo al más alto. Para la moda, busca el que se repite.",
+        "va": "Per al rang, resta el més baix al més alt. Per a la moda, busca el que es repetix.",
+        "en": "For the range, subtract the lowest from the highest. For the mode, look for the one that repeats.",
+        "fr": "Pour l'étendue, soustrais le plus bas du plus haut. Pour le mode, cherche celui qui se répète.",
+        "ar": "للمدى، لنطرح الأدنى من الأعلى. وللمنوال، لنبحث عمّا يتكرّر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 5",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El rango es {{12 − 5 = 7}} y la moda también es 7, porque sale dos veces.",
+          "va": "El rang és {{12 − 5 = 7}} i la moda també és 7, perquè ix dues vegades.",
+          "en": "The range is {{12 − 5 = 7}} and the mode is also 7, because it appears twice.",
+          "fr": "L'étendue est {{12 − 5 = 7}} et le mode est aussi 7, parce qu'il apparaît deux fois.",
+          "ar": "المدى {{12 − 5 = 7}}، والمنوال أيضًا 7 لأنه يظهر مرتين."
+        }
+      },
+      "inventala": {
+        "es": "Apunta tú los puntos de unas partidas en casa y busca la moda y el rango.",
+        "va": "Apunta tu els punts d'unes partides a casa i busca'n la moda i el rang.",
+        "en": "Write down the points from some games at home and find the mode and the range.",
+        "fr": "Note les points de quelques parties à la maison et cherche le mode et l'étendue.",
+        "ar": "لندوّن نقاط بعض الألعاب في البيت ونبحث عن المنوال والمدى."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas en mates, ¿qué te ha costado más y qué te ha salido mejor? Explícamelo con un ejemplo.",
+        "va": "De tot el que heu fet aquestes setmanes en mates, què t'ha costat més i què t'ha eixit millor? Explica-m'ho amb un exemple.",
+        "en": "Of everything in maths these weeks, what was hardest and what went best? Explain it to me with an example.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce qui t'a coûté le plus et qu'est-ce qui t'a le mieux réussi ? Explique-le-moi avec un exemple.",
+        "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، ما الذي كان أصعب وما الذي نجح أكثر؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas de repartir 74 €? ¿Y de los detectives de divisiones? ¿Y de la temperatura de la semana?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes de repartir 74 €? I dels detectius de divisions? I de la temperatura de la setmana?»",
+        "en": "You can help them remember: “Do you remember sharing 74 €? And the division detectives? And the week's temperatures?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles le partage des 74 € ? Et les détectives des divisions ? Et la température de la semaine ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر توزيع 74 يورو؟ ومحقّقي القسمة؟ وحرارة الأسبوع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay respuesta buena ni mala. Si algo le costó, buscad juntos un reto parecido y jugadlo otra vez esta semana.",
+          "va": "No hi ha resposta bona ni dolenta. Si alguna cosa li va costar, busqueu junts un repte semblant i jugueu-lo una altra vegada aquesta setmana.",
+          "en": "There's no right or wrong answer. If something was hard, find a similar challenge together and play it again this week.",
+          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si quelque chose a coûté, cherchez ensemble un défi semblable et rejouez-le cette semaine.",
+          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإذا كان شيء صعبًا، ابحثوا معًا عن تحدٍّ مشابه والعبوه مرة أخرى هذا الأسبوع."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "fabc54c3d2f3"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "fabc54c3d2f3"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "fabc54c3d2f3"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "fabc54c3d2f3"
+      }
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s35",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 35,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Multiplicar y estimar",
+    "va": "Multiplicar i estimar",
+    "en": "Multiply and estimate",
+    "fr": "Multiplier et estimer",
+    "ar": "نضرب ونقدّر"
+  },
+  "objetivo": {
+    "es": "Esta semana multiplican números de dos cifras por una cifra con llevada y, antes de calcular, dicen «más o menos» cuánto saldrá. Así pueden ver si el resultado tiene sentido.",
+    "va": "Aquesta setmana multipliquen números de dues xifres per una xifra portant-se'n i, abans de calcular, diuen «més o menys» quant eixirà (estimar). Així poden veure si el resultat té sentit.",
+    "en": "This week they multiply two-digit numbers by one-digit numbers with carrying and, before calculating, say roughly what it will come to (estimar). That way they can see if the answer makes sense.",
+    "fr": "Cette semaine, on multiplie des nombres à deux chiffres par un chiffre avec retenue et, avant de calculer, on dit « à peu près » combien ça fera (estimar). Ainsi, on voit si le résultat a du sens.",
+    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين في رقم واحد مع الاحتفاظ، وقبل الحساب يقولون «تقريبًا» كم ستكون النتيجة (estimar). هكذا يرون إن كان للنتيجة معنى."
+  },
+  "comoAyudar": {
+    "es": "Pedid siempre el «más o menos» antes de la cuenta, y no os preocupéis si se aleja: lo bonito es comparar después. Si el resultado no cuadra, preguntad «¿te lo esperabas?».",
+    "va": "Demaneu sempre el «més o menys» abans del compte, i no us preocupeu si s'allunya: el bonic és comparar després. Si el resultat no quadra, pregunteu «t'ho esperaves?».",
+    "en": "Always ask for the “roughly” before the sum, and don't worry if it's far off: the fun part is comparing afterwards. If the answer doesn't fit, ask “Did you expect that?”",
+    "fr": "Demandez toujours le « à peu près » avant le calcul, et ne vous inquiétez pas s'il est loin : le plus beau, c'est de comparer après. Si le résultat ne colle pas, demandez « Tu t'y attendais ? ».",
+    "ar": "اطلبوا دائمًا «التقدير» قبل الحساب، ولا تقلقوا إن ابتعد: الجميل هو المقارنة بعد ذلك. وإذا لم تتّفق النتيجة، اسألوا «هل كنت تتوقّعها؟»."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c2.3.4",
+    "matematicas.c2.1.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La excursión",
+      "va": "L'excursió",
+      "en": "The trip",
+      "fr": "La sortie",
+      "ar": "الرحلة"
+    },
+    "material": [
+      {
+        "es": "Papel para hacer billetes de 10 € y monedas de 1 €",
+        "va": "Paper per a fer bitllets de 10 € i monedes d'1 €",
+        "en": "Paper to make 10 € notes and 1 € coins",
+        "fr": "Du papier pour faire des billets de 10 € et des pièces de 1 €",
+        "ar": "ورق لصنع أوراق نقدية من فئة 10 يورو وقطع من فئة 1 يورو"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Imaginad que vais de excursión 4 personas y cada entrada cuesta 18 €. Antes de calcular, cada persona dice: ¿será más o menos de 80 €?",
+          "va": "Imagineu que aneu d'excursió 4 persones i cada entrada costa 18 €. Abans de calcular, cada persona diu: serà més o menys de 80 €?",
+          "en": "Imagine 4 of you are going on a trip and each ticket costs 18 €. Before calculating, each person says: will it be more or less than 80 €?",
+          "fr": "Imaginez que vous partez en sortie à 4 et que chaque entrée coûte 18 €. Avant de calculer, chaque personne dit : ce sera plus ou moins de 80 € ?",
+          "ar": "تخيّلوا أنكم 4 أشخاص ذاهبون في رحلة وثمن كل تذكرة 18 يورو. قبل الحساب، يقول كل شخص: هل سيكون المجموع أكثر من 80 يورو أم أقل؟"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Pensadlo a ojo: 18 es casi 20, y {{20 × 4 = 80}}. Como 18 es un poco menos que 20, saldrá un poco menos de 80.",
+          "va": "Penseu-ho a ull: 18 és quasi 20, i {{20 × 4 = 80}}. Com que 18 és una mica menys que 20, eixirà una mica menys de 80.",
+          "en": "Think roughly: 18 is almost 20, and {{20 × 4 = 80}}. Since 18 is a bit less than 20, it will be a bit less than 80.",
+          "fr": "Réfléchissez à vue d'œil : 18, c'est presque 20, et {{20 × 4 = 80}}. Comme 18 est un peu moins que 20, ce sera un peu moins de 80.",
+          "ar": "فكّروا بالتقريب: 18 تقارب 20، و{{20 × 4 = 80}}. وبما أن 18 أقل قليلًا من 20، فسيكون المجموع أقل قليلًا من 80."
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Ahora con dinero de papel: 4 veces 1 billete de 10 € y 8 monedas. Billetes: {{10 × 4 = 40}}. Monedas: {{8 × 4 = 32}}, que son 3 billetes y 2 monedas.",
+          "va": "Ara amb diners de paper: 4 vegades 1 bitllet de 10 € i 8 monedes. Bitllets: {{10 × 4 = 40}}. Monedes: {{8 × 4 = 32}}, que són 3 bitllets i 2 monedes.",
+          "en": "Now with paper money: 4 times 1 note of 10 € and 8 coins. Notes: {{10 × 4 = 40}}. Coins: {{8 × 4 = 32}}, which is 3 notes and 2 coins.",
+          "fr": "Maintenant avec de l'argent en papier : 4 fois 1 billet de 10 € et 8 pièces. Billets : {{10 × 4 = 40}}. Pièces : {{8 × 4 = 32}}, soit 3 billets et 2 pièces.",
+          "ar": "الآن بنقود من الورق: 4 مرات ورقة من فئة 10 يورو و8 قطع. الأوراق: {{10 × 4 = 40}}. القطع: {{8 × 4 = 32}}، أي 3 أوراق وقطعتان."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Juntadlo todo: {{40 + 32 = 72}}. Son 72 €, un poco menos de 80, como habíais pensado. ¿Quién se acercó más?",
+          "va": "Ajunteu-ho tot: {{40 + 32 = 72}}. Són 72 €, una mica menys de 80, com havíeu pensat. Qui s'hi va acostar més?",
+          "en": "Put it all together: {{40 + 32 = 72}}. That's 72 €, a bit less than 80, as you thought. Who came closest?",
+          "fr": "Rassemblez tout : {{40 + 32 = 72}}. Ça fait 72 €, un peu moins de 80, comme vous l'aviez pensé. Qui était le plus proche ?",
+          "ar": "اجمعوا كل شيء: {{40 + 32 = 72}}. المجموع 72 يورو، أقل قليلًا من 80 كما توقّعتم. من كان الأقرب؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 3 entradas de 12 €: a ojo, unos 30 €; con la cuenta, {{12 × 3 = 36}}.",
+      "va": "Comenceu amb 3 entrades de 12 €: a ull, uns 30 €; amb el compte, {{12 × 3 = 36}}.",
+      "en": "Start with 3 tickets at 12 €: roughly 30 €; with the sum, {{12 × 3 = 36}}.",
+      "fr": "Commencez avec 3 entrées à 12 € : à vue d'œil, environ 30 € ; avec le calcul, {{12 × 3 = 36}}.",
+      "ar": "ابدؤوا بـ3 تذاكر ثمن كل منها 12 يورو: بالتقريب نحو 30 يورو؛ وبالحساب {{12 × 3 = 36}}."
+    },
+    "masDificil": {
+      "es": "Haced la excursión de toda la clase: 25 personas a 7 € cada una. ¿Más o menos de 200 €?",
+      "va": "Feu l'excursió de tota la classe: 25 persones a 7 € cadascuna. Més o menys de 200 €?",
+      "en": "Do the trip for the whole class: 25 people at 7 € each. More or less than 200 €?",
+      "fr": "Faites la sortie de toute la classe : 25 personnes à 7 € chacune. Plus ou moins de 200 € ?",
+      "ar": "احسبوا رحلة القسم كله: 25 شخصًا، 7 يورو لكل واحد. أكثر من 200 يورو أم أقل؟"
+    },
+    "paraQueSirve": {
+      "es": "Estimar antes de calcular da a cualquier cuenta un «¿cuadra?». Es la mejor forma de pillar un despiste, en el cuaderno y en la tienda.",
+      "va": "Estimar abans de calcular dona a qualsevol compte un «quadra?». És la millor manera d'enxampar una distracció, en el quadern i a la botiga.",
+      "en": "Estimating before calculating gives any sum a “does it fit?”. It's the best way to catch a slip, in the notebook and in the shop.",
+      "fr": "Estimer avant de calculer donne à tout calcul un « est-ce que ça colle ? ». C'est le meilleur moyen d'attraper une étourderie, dans le cahier et au magasin.",
+      "ar": "التقدير قبل الحساب يمنح كل عملية سؤال «هل تتّفق؟». إنه أفضل طريقة لاكتشاف السهو، في الدفتر وفي المتجر."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Un libro cuesta 19 €. ¿Cuánto cuestan 3 libros? Primero, a ojo.",
+        "va": "Un llibre costa 19 €. Quant costen 3 llibres? Primer, a ull.",
+        "en": "A book costs 19 €. How much do 3 books cost? First, estimate.",
+        "fr": "Un livre coûte 19 €. Combien coûtent 3 livres ? D'abord, à vue d'œil.",
+        "ar": "ثمن كتاب 19 يورو. كم ثمن 3 كتب؟ أولًا بالتقريب."
+      },
+      "pista": {
+        "es": "19 es casi 20.",
+        "va": "19 és quasi 20.",
+        "en": "19 is almost 20.",
+        "fr": "19, c'est presque 20.",
+        "ar": "19 تقارب 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "19 × 3",
+        "resultado": 57,
+        "unidad": "euros",
+        "texto": {
+          "es": "A ojo, unos 60 €: por ejemplo, {{20 × 3 = 60}}. Exactamente, 57 €.",
+          "va": "A ull, uns 60 €: per exemple, {{20 × 3 = 60}}. Exactament, 57 €.",
+          "en": "Roughly 60 €: for example, {{20 × 3 = 60}}. Exactly, 57 €.",
+          "fr": "À vue d'œil, environ 60 € : par exemple, {{20 × 3 = 60}}. Exactement, 57 €.",
+          "ar": "بالتقريب نحو 60 يورو: مثلًا {{20 × 3 = 60}}. وبالضبط 57 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de comprar varias cosas con un precio cercano a 10, 20 o 50 €.",
+        "va": "Inventa'n tu una de comprar diverses coses amb un preu pròxim a 10, 20 o 50 €.",
+        "en": "Make one up about buying several things with a price close to 10, 20 or 50 €.",
+        "fr": "Invente un problème où l'on achète plusieurs choses à un prix proche de 10, 20 ou 50 €.",
+        "ar": "لنخترع مسألة نشتري فيها عدة أشياء ثمنها قريب من 10 أو 20 أو 50 يورو."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un tren tiene 6 vagones de 48 asientos. ¿Habrá más o menos de 300 asientos? ¿Cuántos exactamente?",
+        "va": "Un tren té 6 vagons de 48 seients. Hi haurà més o menys de 300 seients? Quants exactament?",
+        "en": "A train has 6 carriages with 48 seats each. Will there be more or fewer than 300 seats? How many exactly?",
+        "fr": "Un train a 6 wagons de 48 places. Y aura-t-il plus ou moins de 300 places ? Combien exactement ?",
+        "ar": "للقطار 6 عربات في كل منها 48 مقعدًا. هل ستكون المقاعد أكثر من 300 أم أقل؟ وكم بالضبط؟"
+      },
+      "pista": {
+        "es": "48 es casi 50. Para la cuenta: {{40 × 6 = 240}} y {{8 × 6 = 48}}.",
+        "va": "48 és quasi 50. Per al compte: {{40 × 6 = 240}} i {{8 × 6 = 48}}.",
+        "en": "48 is almost 50. For the sum: {{40 × 6 = 240}} and {{8 × 6 = 48}}.",
+        "fr": "48, c'est presque 50. Pour le calcul : {{40 × 6 = 240}} et {{8 × 6 = 48}}.",
+        "ar": "48 تقارب 50. وللحساب: {{40 × 6 = 240}} و{{8 × 6 = 48}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 48",
+        "resultado": 288,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Menos de 300: 48 es un poco menos que 50, y {{6 × 50 = 300}}. Exactamente son 288.",
+          "va": "Menys de 300: 48 és una mica menys que 50, i {{6 × 50 = 300}}. Exactament són 288.",
+          "en": "Fewer than 300: 48 is a bit less than 50, and {{6 × 50 = 300}}. Exactly, it's 288.",
+          "fr": "Moins de 300 : 48, c'est un peu moins que 50, et {{6 × 50 = 300}}. Exactement, ça fait 288.",
+          "ar": "أقل من 300: 48 أقل قليلًا من 50، و{{6 × 50 = 300}}. وبالضبط 288."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de vagones, filas o cajas, y di primero «más o menos».",
+        "va": "Inventa'n tu una de vagons, files o capses, i digues primer «més o menys».",
+        "en": "Make one up about carriages, rows or boxes, and say “roughly” first.",
+        "fr": "Invente un problème de wagons, de rangées ou de boîtes, et dis d'abord « à peu près ».",
+        "ar": "لنخترع مسألة عن عربات أو صفوف أو علب، ونقول «تقريبًا» أولًا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Celia calcula {{5 × 27}} y le sale 1035. Sin hacer la cuenta, ¿cómo sabes que algo ha pasado?",
+        "va": "Celia calcula {{5 × 27}} i li ix 1035. Sense fer el compte, com saps que alguna cosa ha passat?",
+        "en": "Celia works out {{5 × 27}} and gets 1035. Without doing the sum, how do you know something has gone wrong?",
+        "fr": "Celia calcule {{5 × 27}} et trouve 1035. Sans faire le calcul, comment sais-tu qu'il s'est passé quelque chose ?",
+        "ar": "تحسب سيليا {{5 × 27}} فتحصل على 1035. دون إجراء الحساب، كيف نعرف أن شيئًا ما حدث؟"
+      },
+      "pista": {
+        "es": "27 es casi 30. ¿Cuánto es {{5 × 30}}?",
+        "va": "27 és quasi 30. Quant és {{5 × 30}}?",
+        "en": "27 is almost 30. What is {{5 × 30}}?",
+        "fr": "27, c'est presque 30. Combien fait {{5 × 30}} ?",
+        "ar": "27 تقارب 30. كم تساوي {{5 × 30}}؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 30",
+        "resultado": 150,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A ojo, {{5 × 30 = 150}}: saldrá algo más de cien, no más de mil. La cuenta da 135.",
+          "va": "A ull, {{5 × 30 = 150}}: eixirà una mica més de cent, no més de mil. El compte dona 135.",
+          "en": "Roughly, {{5 × 30 = 150}}: it'll be a bit over a hundred, not over a thousand. The sum comes to 135.",
+          "fr": "À vue d'œil, {{5 × 30 = 150}} : ça fera un peu plus de cent, pas plus de mille. Le calcul donne 135.",
+          "ar": "بالتقريب {{5 × 30 = 150}}: ستكون النتيجة أكثر من مئة بقليل، لا أكثر من ألف. والحساب يعطي 135."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación con un resultado que no cuadre, y que alguien de casa descubra el despiste.",
+        "va": "Inventa't una multiplicació amb un resultat que no quadre, i que algú de casa en descobrisca la distracció.",
+        "en": "Make up a multiplication with an answer that doesn't fit, and have someone at home spot the slip.",
+        "fr": "Invente une multiplication avec un résultat qui ne colle pas, et fais trouver l'étourderie à quelqu'un de la maison.",
+        "ar": "لنخترع عملية ضرب نتيجتها لا تتّفق، ونطلب من أحد في البيت أن يكتشف السهو."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 33,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: una tira de 40 cm se parte en cuartos. ¿Cuánto mide cada cuarto?",
+        "va": "Per a recordar: una tira de 40 cm es partix en quarts. Quant mesura cada quart?",
+        "en": "Let's remember: a 40 cm strip is cut into quarters. How long is each quarter?",
+        "fr": "Pour se souvenir : une bande de 40 cm est coupée en quarts. Combien mesure chaque quart ?",
+        "ar": "لنتذكّر: شريط طوله 40 سم قُسم أرباعًا. كم طول كل ربع؟"
+      },
+      "pista": {
+        "es": "Un cuarto es repartir en 4 partes iguales.",
+        "va": "Un quart és repartir en 4 parts iguals.",
+        "en": "A quarter is sharing into 4 equal parts.",
+        "fr": "Un quart, c'est partager en 4 parts égales.",
+        "ar": "الربع هو التوزيع على 4 أجزاء متساوية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 : 4",
+        "resultado": 10,
+        "unidad": "cm",
+        "texto": {
+          "es": "Cada cuarto mide 10 cm.",
+          "va": "Cada quart mesura 10 cm.",
+          "en": "Each quarter is 10 cm long.",
+          "fr": "Chaque quart mesure 10 cm.",
+          "ar": "طول كل ربع 10 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de partir una tira en mitades, tercios o cuartos.",
+        "va": "Inventa'n tu una de partir una tira en meitats, terços o quarts.",
+        "en": "Make one up about cutting a strip into halves, thirds or quarters.",
+        "fr": "Invente un problème où l'on coupe une bande en moitiés, en tiers ou en quarts.",
+        "ar": "لنخترع مسألة نقسم فيها شريطًا أنصافًا أو أثلاثًا أو أرباعًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué es buena idea pensar «más o menos» antes de multiplicar? Explícamelo con la excursión.",
+        "va": "Per què és bona idea pensar «més o menys» abans de multiplicar? Explica-m'ho amb l'excursió.",
+        "en": "Why is it a good idea to think “roughly” before multiplying? Explain it to me with the trip.",
+        "fr": "Pourquoi est-ce une bonne idée de penser « à peu près » avant de multiplier ? Explique-le-moi avec la sortie.",
+        "ar": "لماذا من الجيد أن نفكّر «تقريبًا» قبل الضرب؟ اشرح لي أو اشرحي لي بمثال الرحلة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si te hubiera salido 720 €, ¿te lo habrías creído?»",
+        "va": "Si no sap per on començar: «Si t'haguera eixit 720 €, t'ho hauries cregut?»",
+        "en": "If they don't know where to start: “If you'd got 720 €, would you have believed it?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si tu avais trouvé 720 €, tu l'aurais cru ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «لو حصلنا على 720 يورو، هل كنّا سنصدّق ذلك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo que buscáis es «para saber si me he equivocado». Si lo dice con otras palabras, también vale.",
+          "va": "El que busqueu és «per a saber si m'he equivocat». Si ho diu amb altres paraules, també val.",
+          "en": "What you're looking for is “to know if I've made a mistake”. If they say it in other words, that's fine too.",
+          "fr": "Ce que vous cherchez, c'est « pour savoir si je me suis trompé ». Avec d'autres mots, ça marche aussi.",
+          "ar": "ما تبحثون عنه هو «لأعرف إن كنت أخطأت». وإن قيل بكلمات أخرى، فهذا يصلح أيضًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "bbf8a73a3b4a"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "bbf8a73a3b4a"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "bbf8a73a3b4a"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "bbf8a73a3b4a"
+      }
+    }
+  }
+}

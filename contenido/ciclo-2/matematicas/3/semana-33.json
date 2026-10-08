@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s33",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 33,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué trozo es más grande?",
+    "va": "Quin tros és més gran?",
+    "en": "Which piece is bigger?",
+    "fr": "Quel morceau est le plus grand ?",
+    "ar": "أي قطعة أكبر؟"
+  },
+  "objetivo": {
+    "es": "Esta semana conocen los tercios ({{1/3}}) y comparan fracciones con objetos. Descubren algo que sorprende: cuantas más partes, más pequeño es cada trozo, así que {{1/2}} es más que {{1/4}}.",
+    "va": "Aquesta setmana coneixen els terços ({{1/3}}) i comparen fraccions amb objectes. Descobreixen una cosa que sorprén: com més parts, més menut és cada tros, així que {{1/2}} és més que {{1/4}}.",
+    "en": "This week they meet thirds ({{1/3}}) and compare fractions with objects. They discover something surprising: the more parts, the smaller each piece, so {{1/2}} is more than {{1/4}}.",
+    "fr": "Cette semaine, on découvre les tiers ({{1/3}}) et on compare des fractions avec des objets. Et on découvre quelque chose d'étonnant : plus il y a de parts, plus chaque morceau est petit, donc {{1/2}} est plus que {{1/4}}.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى الأثلاث ({{1/3}}) ويقارنون الكسور بالأشياء. ويكتشفون أمرًا مفاجئًا: كلما زادت الأجزاء صغرت كل قطعة، إذن {{1/2}} أكبر من {{1/4}}."
+  },
+  "comoAyudar": {
+    "es": "Es muy normal pensar que {{1/4}} es más que {{1/2}} «porque 4 es más que 2». No lo neguéis: poned las tiras una encima de otra y dejad que lo vea.",
+    "va": "És molt normal pensar que {{1/4}} és més que {{1/2}} «perquè 4 és més que 2». No ho negueu: poseu les tires una damunt de l'altra i deixeu que ho veja.",
+    "en": "It's very normal to think {{1/4}} is more than {{1/2}} “because 4 is more than 2”. Don't deny it: put the strips on top of each other and let them see.",
+    "fr": "C'est très normal de penser que {{1/4}} est plus que {{1/2}} « parce que 4 est plus que 2 ». Ne le niez pas : posez les bandes l'une sur l'autre et laissez voir.",
+    "ar": "من الطبيعي جدًا أن نظنّ أن {{1/4}} أكبر من {{1/2}} «لأن 4 أكبر من 2». لا تنفوا ذلك: ضعوا الشرائط فوق بعضها واتركوا الطفل يرى."
+  },
+  "saberes": [
+    "matematicas.fracciones.fraccion",
+    "matematicas.fracciones.comparar"
+  ],
+  "criterios": [
+    "matematicas.c2.2.1",
+    "matematicas.c2.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Tiras dobladas",
+      "va": "Tires doblegades",
+      "en": "Folded strips",
+      "fr": "Les bandes pliées",
+      "ar": "شرائط مطويّة"
+    },
+    "material": [
+      {
+        "es": "4 tiras de papel iguales (de una hoja cortada a lo largo)",
+        "va": "4 tires de paper iguals (d'un full tallat a la llarga)",
+        "en": "4 equal strips of paper (from a sheet cut lengthways)",
+        "fr": "4 bandes de papier égales (d'une feuille coupée dans la longueur)",
+        "ar": "4 شرائط ورق متساوية (من ورقة مقطوعة بالطول)"
+      },
+      {
+        "es": "Lápices de colores",
+        "va": "Llapis de colors",
+        "en": "Coloured pencils",
+        "fr": "Des crayons de couleur",
+        "ar": "أقلام ملوّنة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tira",
+        "texto": {
+          "es": "Dejad una tira entera. Doblad otra en 2 partes iguales, otra en 3 y otra en 4. Abridlas y marcad los dobleces con lápiz.",
+          "va": "Deixeu una tira sencera. Doblegueu-ne una altra en 2 parts iguals, una altra en 3 i una altra en 4. Obriu-les i marqueu els doblecs amb llapis.",
+          "en": "Leave one strip whole. Fold another into 2 equal parts, another into 3 and another into 4. Open them and mark the folds in pencil.",
+          "fr": "Laissez une bande entière. Pliez-en une autre en 2 parts égales, une autre en 3 et une autre en 4. Dépliez-les et marquez les plis au crayon.",
+          "ar": "اتركوا شريطًا كاملًا. اطووا آخر إلى جزأين متساويين، وآخر إلى 3، وآخر إلى 4. افتحوها وحدّدوا خطوط الطيّ بالقلم."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Pintad un trozo de cada tira y escribid su nombre: {{1/2}}, {{1/3}} y {{1/4}}. Doblar en 3 cuesta un poco: se enrolla como una carta.",
+          "va": "Pinteu un tros de cada tira i escriviu-ne el nom: {{1/2}}, {{1/3}} i {{1/4}}. Doblegar en 3 costa una mica: s'enrotlla com una carta.",
+          "en": "Colour one piece of each strip and write its name: {{1/2}}, {{1/3}} and {{1/4}}. Folding in 3 is a bit tricky: roll it like a letter.",
+          "fr": "Coloriez un morceau de chaque bande et écrivez son nom : {{1/2}}, {{1/3}} et {{1/4}}. Plier en 3, c'est un peu difficile : on roule comme une lettre.",
+          "ar": "لوّنوا قطعة من كل شريط واكتبوا اسمها: {{1/2}} و{{1/3}} و{{1/4}}. الطيّ إلى 3 صعب قليلًا: نلفّه كما نطوي رسالة."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Poned las tiras una encima de otra, empezando por la entera. ¿Qué trozo pintado es más largo? ¿Y el más corto?",
+          "va": "Poseu les tires una damunt de l'altra, començant per la sencera. Quin tros pintat és més llarg? I el més curt?",
+          "en": "Lay the strips on top of each other, starting with the whole one. Which coloured piece is longest? And the shortest?",
+          "fr": "Posez les bandes l'une sur l'autre, en commençant par l'entière. Quel morceau colorié est le plus long ? Et le plus court ?",
+          "ar": "ضعوا الشرائط فوق بعضها بدءًا بالكامل. أي قطعة ملوّنة أطول؟ وأيّها أقصر؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Hablad de lo que veis: cuantas más partes tiene la tira, más pequeño es cada trozo. Por eso {{1/2}} es más que {{1/3}}, y {{1/3}} es más que {{1/4}}.",
+          "va": "Parleu del que veieu: com més parts té la tira, més menut és cada tros. Per això {{1/2}} és més que {{1/3}}, i {{1/3}} és més que {{1/4}}.",
+          "en": "Talk about what you see: the more parts the strip has, the smaller each piece. That's why {{1/2}} is more than {{1/3}}, and {{1/3}} is more than {{1/4}}.",
+          "fr": "Parlez de ce que vous voyez : plus la bande a de parts, plus chaque morceau est petit. C'est pour ça que {{1/2}} est plus que {{1/3}}, et {{1/3}} plus que {{1/4}}.",
+          "ar": "تحدّثوا عمّا ترونه: كلما زادت أجزاء الشريط صغرت كل قطعة. لذلك {{1/2}} أكبر من {{1/3}}، و{{1/3}} أكبر من {{1/4}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo la tira entera, la de mitades y la de cuartos.",
+      "va": "Feu servir només la tira sencera, la de meitats i la de quarts.",
+      "en": "Use only the whole strip, the halves one and the quarters one.",
+      "fr": "Utilisez seulement la bande entière, celle des moitiés et celle des quarts.",
+      "ar": "استعملوا الشريط الكامل وشريط الأنصاف وشريط الأرباع فقط."
+    },
+    "masDificil": {
+      "es": "Pintad 2 trozos de la tira de cuartos y 2 de la de tercios. ¿Qué es más, {{2/4}} o {{2/3}}?",
+      "va": "Pinteu 2 trossos de la tira de quarts i 2 de la de terços. Què és més, {{2/4}} o {{2/3}}?",
+      "en": "Colour 2 pieces of the quarters strip and 2 of the thirds strip. Which is more, {{2/4}} or {{2/3}}?",
+      "fr": "Coloriez 2 morceaux de la bande des quarts et 2 de celle des tiers. Qu'est-ce qui est plus, {{2/4}} ou {{2/3}} ?",
+      "ar": "لوّنوا قطعتين من شريط الأرباع وقطعتين من شريط الأثلاث. أيّهما أكبر: {{2/4}} أم {{2/3}}؟"
+    },
+    "paraQueSirve": {
+      "es": "Comparar trozos de verdad deja ver por qué un número más grande abajo da un trozo más pequeño. Es una idea que, sin tiras, cuesta mucho de creer.",
+      "va": "Comparar trossos de veritat deixa veure per què un número més gran baix dona un tros més menut. És una idea que, sense tires, costa molt de creure.",
+      "en": "Comparing real pieces shows why a bigger number on the bottom gives a smaller piece. It's an idea that's very hard to believe without the strips.",
+      "fr": "Comparer de vrais morceaux permet de voir pourquoi un nombre plus grand en bas donne un morceau plus petit. Sans les bandes, c'est une idée très difficile à croire.",
+      "ar": "مقارنة قطع حقيقية تُظهر لماذا يعطي عدد أكبر في الأسفل قطعة أصغر. إنها فكرة يصعب تصديقها دون الشرائط."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Con 12 fresas, ¿qué es más: la mitad o un cuarto? ¿Cuántas fresas más?",
+        "va": "Amb 12 maduixes, què és més: la meitat o un quart? Quantes maduixes més?",
+        "en": "With 12 strawberries, which is more: half or a quarter? How many more strawberries?",
+        "fr": "Avec 12 fraises, qu'est-ce qui est plus : la moitié ou un quart ? Combien de fraises de plus ?",
+        "ar": "مع 12 حبة فراولة، أيّهما أكثر: النصف أم الربع؟ وبكم حبة؟"
+      },
+      "pista": {
+        "es": "La mitad es repartir en 2; un cuarto, repartir en 4.",
+        "va": "La meitat és repartir en 2; un quart, repartir en 4.",
+        "en": "Half is sharing into 2; a quarter, sharing into 4.",
+        "fr": "La moitié, c'est partager en 2 ; un quart, partager en 4.",
+        "ar": "النصف هو التوزيع على 2؛ والربع التوزيع على 4."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(12 : 2) - (12 : 4)",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "La mitad: son 6 fresas, y un cuarto son 3. La mitad tiene 3 más.",
+          "va": "La meitat: són 6 maduixes, i un quart en són 3. La meitat en té 3 més.",
+          "en": "Half: that's 6 strawberries, and a quarter is 3. Half has 3 more.",
+          "fr": "La moitié : ça fait 6 fraises, et un quart, 3. La moitié en a 3 de plus.",
+          "ar": "النصف: 6 حبات، والربع 3. النصف أكثر بـ3."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para comparar la mitad y un cuarto de algo.",
+        "va": "Inventa'n tu una per a comparar la meitat i un quart d'alguna cosa.",
+        "en": "Make one up comparing half and a quarter of something.",
+        "fr": "Invente un problème pour comparer la moitié et un quart de quelque chose.",
+        "ar": "لنخترع مسألة نقارن فيها نصف شيء بربعه."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una tira de 30 cm se dobla en 3 partes iguales. ¿Cómo se llama cada parte? ¿Cuánto mide?",
+        "va": "Una tira de 30 cm es doblega en 3 parts iguals. Com s'anomena cada part? Quant mesura?",
+        "en": "A 30 cm strip is folded into 3 equal parts. What is each part called? How long is it?",
+        "fr": "Une bande de 30 cm est pliée en 3 parts égales. Comment s'appelle chaque part ? Combien mesure-t-elle ?",
+        "ar": "شريط طوله 30 سم طُوي إلى 3 أجزاء متساوية. ما اسم كل جزء؟ وكم طوله؟"
+      },
+      "pista": {
+        "es": "Reparte los 30 cm en 3 partes iguales.",
+        "va": "Repartix els 30 cm en 3 parts iguals.",
+        "en": "Share the 30 cm into 3 equal parts.",
+        "fr": "Partage les 30 cm en 3 parts égales.",
+        "ar": "لنوزّع الـ30 سم على 3 أجزاء متساوية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "30 : 3",
+        "resultado": 10,
+        "unidad": "cm",
+        "texto": {
+          "es": "Cada parte es un tercio, {{1/3}}, y mide 10 cm.",
+          "va": "Cada part és un terç, {{1/3}}, i mesura 10 cm.",
+          "en": "Each part is a third, {{1/3}}, and is 10 cm long.",
+          "fr": "Chaque part est un tiers, {{1/3}}, et mesure 10 cm.",
+          "ar": "كل جزء ثلث، {{1/3}}، وطوله 10 سم."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de partir una cuerda o una tira en tercios.",
+        "va": "Inventa'n tu una de partir una corda o una tira en terços.",
+        "en": "Make one up about cutting a string or a strip into thirds.",
+        "fr": "Invente un problème où l'on coupe une ficelle ou une bande en tiers.",
+        "ar": "لنخترع مسألة نقسم فيها حبلًا أو شريطًا أثلاثًا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Bruno dice que un cuarto es más que una mitad, porque 4 es más que 2. ¿Tiene razón? Piénsalo con 8 galletas.",
+        "va": "Bruno diu que un quart és més que una meitat, perquè 4 és més que 2. Té raó? Pensa-ho amb 8 galetes.",
+        "en": "Bruno says a quarter is more than a half, because 4 is more than 2. Is he right? Think about it with 8 biscuits.",
+        "fr": "Bruno dit qu'un quart est plus qu'une moitié, parce que 4 est plus que 2. A-t-il raison ? Réfléchis avec 8 biscuits.",
+        "ar": "يقول برونو إن الربع أكبر من النصف لأن 4 أكبر من 2. هل هو محق؟ لنفكّر بـ8 بسكويتات."
+      },
+      "pista": {
+        "es": "¿Cuántas son la mitad de 8? ¿Y un cuarto de 8?",
+        "va": "Quantes són la meitat de 8? I un quart de 8?",
+        "en": "What's half of 8? And a quarter of 8?",
+        "fr": "Combien fait la moitié de 8 ? Et un quart de 8 ?",
+        "ar": "كم نصف 8؟ وكم ربع 8؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 : 4",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "No: la mitad de 8 son 4 galletas y un cuarto, solo 2. Cuantas más partes, más pequeño es cada trozo.",
+          "va": "No: la meitat de 8 són 4 galetes i un quart, només 2. Com més parts, més menut és cada tros.",
+          "en": "No: half of 8 is 4 biscuits and a quarter is only 2. The more parts, the smaller each piece.",
+          "fr": "Non : la moitié de 8, c'est 4 biscuits, et un quart, seulement 2. Plus il y a de parts, plus chaque morceau est petit.",
+          "ar": "لا: نصف 8 هو 4 بسكويتات والربع 2 فقط. كلما زادت الأجزاء صغرت كل قطعة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta para que alguien de casa compare dos fracciones con objetos.",
+        "va": "Inventa't una pregunta perquè algú de casa compare dues fraccions amb objectes.",
+        "en": "Make up a question for someone at home to compare two fractions with objects.",
+        "fr": "Invente une question pour que quelqu'un de la maison compare deux fractions avec des objets.",
+        "ar": "لنخترع سؤالًا يقارن فيه أحد في البيت بين كسرين بالأشياء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 32,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: una pizza se parte en cuartos y se la comen 2 personas a partes iguales. ¿Cuántos cuartos come cada una?",
+        "va": "Per a recordar: una pizza es partix en quarts i se la mengen 2 persones a parts iguals. Quants quarts en menja cadascuna?",
+        "en": "Let's remember: a pizza is cut into quarters and 2 people eat it in equal shares. How many quarters does each one eat?",
+        "fr": "Pour se souvenir : une pizza est coupée en quarts et 2 personnes la mangent en parts égales. Combien de quarts mange chacune ?",
+        "ar": "لنتذكّر: قُسّمت بيتزا أرباعًا وأكلها شخصان بالتساوي. كم ربعًا أكل كل واحد؟"
+      },
+      "pista": {
+        "es": "Una pizza entera tiene 4 cuartos.",
+        "va": "Una pizza sencera té 4 quarts.",
+        "en": "A whole pizza has 4 quarters.",
+        "fr": "Une pizza entière a 4 quarts.",
+        "ar": "في البيتزا الكاملة 4 أرباع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 : 2",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Cada persona come 2 cuartos, es decir, media pizza.",
+          "va": "Cada persona en menja 2 quarts, és a dir, mitja pizza.",
+          "en": "Each person eats 2 quarters, that is, half a pizza.",
+          "fr": "Chaque personne mange 2 quarts, c'est-à-dire une demi-pizza.",
+          "ar": "يأكل كل واحد ربعين، أي نصف بيتزا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto de una pizza o una tortilla en cuartos.",
+        "va": "Inventa't un repartiment d'una pizza o una truita en quarts.",
+        "en": "Make up a sharing problem with a pizza or an omelette cut into quarters.",
+        "fr": "Invente un partage d'une pizza ou d'une omelette en quarts.",
+        "ar": "لنخترع توزيعًا لبيتزا أو عجّة مقسومة أرباعًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si partes una tira en más trozos, ¿los trozos son más grandes o más pequeños? Explícamelo con tiras de papel.",
+        "va": "Si partixes una tira en més trossos, els trossos són més grans o més menuts? Explica-m'ho amb tires de paper.",
+        "en": "If you split a strip into more pieces, are the pieces bigger or smaller? Explain it to me with paper strips.",
+        "fr": "Si tu partages une bande en plus de morceaux, les morceaux sont-ils plus grands ou plus petits ? Explique-le-moi avec des bandes de papier.",
+        "ar": "إذا قسمنا شريطًا إلى قطع أكثر، هل تصبح القطع أكبر أم أصغر؟ اشرح لي أو اشرحي لي بشرائط الورق."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si repartimos una tortilla entre 2 o entre 8, ¿cuándo te toca un trozo más grande?»",
+        "va": "Si no sap per on començar: «Si repartim una truita entre 2 o entre 8, quan et toca un tros més gran?»",
+        "en": "If they don't know where to start: “If we share an omelette between 2 or between 8, when do you get a bigger piece?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si on partage une omelette entre 2 ou entre 8, quand as-tu le plus gros morceau ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا قسمنا عجّة بين 2 أو بين 8، متى تكون قطعتنا أكبر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si dice «más pequeños, porque se reparte entre más»… perfecto. Si duda, volved a las tiras y comparadlas juntos.",
+          "va": "Si diu «més menuts, perquè es repartix entre més»… perfecte. Si dubta, torneu a les tires i compareu-les junts.",
+          "en": "If they say “smaller, because it's shared between more”… perfect. If they're unsure, go back to the strips and compare them together.",
+          "fr": "Si la réponse est « plus petits, parce qu'on partage entre plus de monde »… parfait. En cas de doute, revenez aux bandes et comparez-les ensemble.",
+          "ar": "إذا قيل «أصغر، لأننا نوزّع على عدد أكبر»… فممتاز. وإن كان هناك تردّد، عودوا إلى الشرائط وقارنوها معًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f313e4c4e932"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f313e4c4e932"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f313e4c4e932"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f313e4c4e932"
+      }
+    }
+  }
+}

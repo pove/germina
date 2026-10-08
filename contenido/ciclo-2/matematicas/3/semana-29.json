@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s29",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 29,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: repartir y problemas",
+    "va": "Setmana de recordar: repartir i problemes",
+    "en": "Week to remember: sharing and problems",
+    "fr": "Semaine pour se souvenir : partager et problèmes",
+    "ar": "أسبوع التذكّر: التوزيع والمسائل"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a repartir y hacer grupos, a las tablas del 7, del 8 y del 9, a los problemas de dos pasos y a los polígonos. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a repartir i fer grups, a les taules (tablas) del 7, del 8 i del 9, als problemes de dos passos i als polígons. No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to sharing and grouping, the 7, 8 and 9 times tables (tablas), two-step problems and polygons. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient au partage et aux groupes, aux tables (tablas) de 7, de 8 et de 9, aux problèmes en deux étapes et aux polygones. Rien de nouveau : c'est pour que tout se pose.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى التوزيع وتكوين المجموعات، وجداول ضرب (tablas) 7 و8 و9، والمسائل ذات الخطوتين، والمضلّعات. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Dejad que cada persona invente su problema sin tocar el enunciado: si le falta un dato, quien lo resuelve lo pedirá. Así descubren juntos qué hace falta para que un problema funcione.",
+    "va": "Deixeu que cada persona invente el seu problema sense tocar-ne l'enunciat: si li falta una dada, qui el resol la demanarà. Així descobreixen junts què necessita un problema per a funcionar.",
+    "en": "Let each person make up their own problem without changing the wording: if a number is missing, whoever solves it will ask for it. That way they discover together what makes a problem work.",
+    "fr": "Laissez chaque personne inventer son problème sans toucher à l'énoncé : s'il manque une donnée, celle ou celui qui le résout la demandera. Ainsi, on découvre ensemble ce qui fait qu'un problème marche.",
+    "ar": "اتركوا كل شخص يخترع مسألته دون تعديل نصّها: إذا نقص معطى، سيطلبه من يحلّها. هكذا يكتشفون معًا ما تحتاجه المسألة لتنجح."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.fracciones.perseverancia",
+    "matematicas.geometria.poligonos"
+  ],
+  "criterios": [
+    "matematicas.c2.1.2",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Problemas de cocina",
+      "va": "Problemes de cuina",
+      "en": "Kitchen problems",
+      "fr": "Problèmes de cuisine",
+      "ar": "مسائل المطبخ"
+    },
+    "material": [
+      {
+        "es": "Lo que haya en la cocina: fruta, huevos, galletas, vasos…",
+        "va": "El que hi haja a la cuina: fruita, ous, galetes, gots…",
+        "en": "Whatever is in the kitchen: fruit, eggs, biscuits, glasses…",
+        "fr": "Ce qu'il y a dans la cuisine : fruits, œufs, biscuits, verres…",
+        "ar": "ما في المطبخ: فاكهة، بيض، بسكويت، أكواب…"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cocina",
+        "texto": {
+          "es": "Mirad juntos qué hay en la cocina y contad algunas cosas: cuántos huevos, cuántas manzanas, cuántos vasos.",
+          "va": "Mireu junts què hi ha a la cuina i compteu algunes coses: quants ous, quantes pomes, quants gots.",
+          "en": "Look together at what's in the kitchen and count a few things: how many eggs, how many apples, how many glasses.",
+          "fr": "Regardez ensemble ce qu'il y a dans la cuisine et comptez quelques choses : combien d'œufs, de pommes, de verres.",
+          "ar": "انظروا معًا إلى ما في المطبخ وعدّوا بعض الأشياء: كم بيضة، كم تفاحة، كم كوبًا."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Cada persona inventa un problema con esas cosas: de repartir («12 galletas para 4»), de grupos o de dos pasos.",
+          "va": "Cada persona inventa un problema amb eixes coses: de repartir («12 galetes per a 4»), de grups o de dos passos.",
+          "en": "Each person makes up a problem with those things: sharing (“12 biscuits for 4”), grouping or two steps.",
+          "fr": "Chaque personne invente un problème avec ces choses : de partage (« 12 biscuits pour 4 »), de groupes ou en deux étapes.",
+          "ar": "يخترع كل شخص مسألة بهذه الأشياء: توزيع («12 بسكويتة لـ4»)، أو مجموعات، أو خطوتين."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Intercambiad los problemas. Quien resuelve, lo hace con dibujos: platos, círculos, palitos… y luego escribe la cuenta.",
+          "va": "Intercanvieu els problemes. Qui resol, ho fa amb dibuixos: plats, cercles, palets… i després escriu el compte.",
+          "en": "Swap problems. Whoever solves uses drawings: plates, circles, sticks… and then writes the sum.",
+          "fr": "Échangez les problèmes. Celui ou celle qui résout le fait avec des dessins : assiettes, cercles, bâtons… puis écrit le calcul.",
+          "ar": "تبادلوا المسائل. من يحلّ يستعمل الرسوم: صحونًا ودوائر وخطوطًا… ثم يكتب العملية."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Comprobad juntos con las cosas de verdad: ¿salen las mismas galletas en cada plato? ¿Sobra alguna?",
+          "va": "Comproveu junts amb les coses de veritat: ixen les mateixes galetes en cada plat? En sobra alguna?",
+          "en": "Check together with the real things: does each plate get the same number of biscuits? Are any left over?",
+          "fr": "Vérifiez ensemble avec les vraies choses : chaque assiette a-t-elle autant de biscuits ? En reste-t-il ?",
+          "ar": "تحقّقوا معًا بالأشياء الحقيقية: هل في كل صحن العدد نفسه من البسكويت؟ هل يبقى شيء؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Inventad problemas de un solo paso y resolvedlos con las cosas delante.",
+      "va": "Inventeu problemes d'un sol pas i resoleu-los amb les coses davant.",
+      "en": "Make up one-step problems and solve them with the things in front of you.",
+      "fr": "Inventez des problèmes en une seule étape et résolvez-les avec les choses devant vous.",
+      "ar": "اخترعوا مسائل من خطوة واحدة وحلّوها والأشياء أمامكم."
+    },
+    "masDificil": {
+      "es": "Inventad un problema en el que sobre algo al repartir, y decidid qué haríais con lo que sobra.",
+      "va": "Inventeu un problema en què sobre alguna cosa en repartir, i decidiu què faríeu amb el que sobra.",
+      "en": "Make up a problem where something is left over when sharing, and decide what you'd do with it.",
+      "fr": "Inventez un problème où il reste quelque chose au partage, et décidez ce que vous feriez de ce qui reste.",
+      "ar": "اخترعوا مسألة يبقى فيها شيء عند التوزيع، وقرّروا ماذا تفعلون بالباقي."
+    },
+    "paraQueSirve": {
+      "es": "Inventar un problema hace pensar qué datos tiene y qué se pregunta. Y resolverlo con dibujos ayuda a entenderlo antes de calcular.",
+      "va": "Inventar un problema fa pensar quines dades té i què es pregunta. I resoldre'l amb dibuixos ajuda a entendre'l abans de calcular.",
+      "en": "Making up a problem makes you think about what information it has and what it's asking. And solving it with drawings helps you understand it before calculating.",
+      "fr": "Inventer un problème fait réfléchir aux données qu'il contient et à ce qu'on demande. Et le résoudre avec des dessins aide à le comprendre avant de calculer.",
+      "ar": "اختراع مسألة يجعلنا نفكّر في معطياتها وفيما تسأل عنه. وحلّها بالرسوم يساعد على فهمها قبل الحساب."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Hay 17 fresas para 5 personas. Si se reparten a partes iguales, ¿cuántas toca a cada una? ¿Sobra alguna?",
+        "va": "Hi ha 17 maduixes per a 5 persones. Si es repartixen a parts iguals, quantes en toquen a cadascuna? En sobra alguna?",
+        "en": "There are 17 strawberries for 5 people. If they're shared equally, how many does each person get? Are any left over?",
+        "fr": "Il y a 17 fraises pour 5 personnes. Si on les partage en parts égales, combien chacune en reçoit-elle ? En reste-t-il ?",
+        "ar": "هناك 17 حبة فراولة لـ5 أشخاص. إذا وُزّعت بالتساوي، كم حبة لكل واحد؟ هل يبقى شيء؟"
+      },
+      "pista": {
+        "es": "Piensa en la tabla del 5: 5, 10, 15… ¿Cuánto falta para 17?",
+        "va": "Pensa en la taula del 5: 5, 10, 15… Quant falta per a 17?",
+        "en": "Think of the 5 times table: 5, 10, 15… How far is it to 17?",
+        "fr": "Pense à la table de 5 : 5, 10, 15… Combien manque-t-il pour 17 ?",
+        "ar": "لنفكّر في جدول 5: 5، 10، 15… كم يبقى حتى 17؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(17 - 2) : 5",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tocan 3 a cada persona y sobran 2: {{5 × 3 + 2 = 17}}.",
+          "va": "En toquen 3 a cada persona i en sobren 2: {{5 × 3 + 2 = 17}}.",
+          "en": "Each person gets 3 and 2 are left over: {{5 × 3 + 2 = 17}}.",
+          "fr": "Chacune en reçoit 3 et il en reste 2 : {{5 × 3 + 2 = 17}}.",
+          "ar": "لكل واحد 3 وتبقى حبّتان: {{5 × 3 + 2 = 17}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto con fruta de tu cocina.",
+        "va": "Inventa't un repartiment amb fruita de la teua cuina.",
+        "en": "Make up a sharing problem with fruit from your kitchen.",
+        "fr": "Invente un partage avec des fruits de ta cuisine.",
+        "ar": "لنخترع توزيعًا بفاكهة من مطبخنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el frutero hay 8 manzanas y 6 peras. Os coméis 5 piezas. ¿Cuántas piezas de fruta quedan?",
+        "va": "En el fruiter hi ha 8 pomes i 6 peres. Us en mengeu 5 peces. Quantes peces de fruita queden?",
+        "en": "The fruit bowl has 8 apples and 6 pears. You eat 5 pieces. How many pieces of fruit are left?",
+        "fr": "Dans la corbeille, il y a 8 pommes et 6 poires. Vous mangez 5 fruits. Combien de fruits reste-t-il ?",
+        "ar": "في سلة الفاكهة 8 تفاحات و6 إجاصات. أكلنا 5 حبات. كم حبة فاكهة بقيت؟"
+      },
+      "pista": {
+        "es": "Primer paso: cuántas piezas hay. Segundo paso: quita las que os coméis.",
+        "va": "Primer pas: quantes peces hi ha. Segon pas: lleva les que us mengeu.",
+        "en": "First step: how many pieces there are. Second step: take away the ones you eat.",
+        "fr": "Première étape : combien de fruits il y a. Deuxième étape : enlève ceux que vous mangez.",
+        "ar": "الخطوة الأولى: كم حبة هناك. الخطوة الثانية: لنطرح ما أكلناه."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(8 + 6) - 5",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 9 piezas: {{8 + 6 = 14}} y {{14 − 5 = 9}}.",
+          "va": "En queden 9: {{8 + 6 = 14}} i {{14 − 5 = 9}}.",
+          "en": "9 pieces are left: {{8 + 6 = 14}} and {{14 − 5 = 9}}.",
+          "fr": "Il reste 9 fruits : {{8 + 6 = 14}} et {{14 − 5 = 9}}.",
+          "ar": "بقيت 9 حبات: {{8 + 6 = 14}} و{{14 − 5 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos con algo de la nevera.",
+        "va": "Inventa'n tu un de dos passos amb alguna cosa de la nevera.",
+        "en": "Make up a two-step one with something from the fridge.",
+        "fr": "Invente un problème en deux étapes avec quelque chose du frigo.",
+        "ar": "لنخترع مسألة من خطوتين بشيء من الثلاجة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un hexágono tiene 6 lados iguales de 4 cm. ¿Cuánto mide su perímetro? ¿Cuántos vértices tiene?",
+        "va": "Un hexàgon té 6 costats iguals de 4 cm. Quant mesura el seu perímetre? Quants vèrtexs té?",
+        "en": "A hexagon has 6 equal sides of 4 cm. What is its perimeter? How many vertices does it have?",
+        "fr": "Un hexagone a 6 côtés égaux de 4 cm. Combien mesure son périmètre ? Combien a-t-il de sommets ?",
+        "ar": "للمسدّس 6 أضلاع متساوية طول كل منها 4 سم. كم يبلغ محيطه؟ وكم رأسًا له؟"
+      },
+      "pista": {
+        "es": "Suma 6 veces 4, o multiplica.",
+        "va": "Suma 6 vegades 4, o multiplica.",
+        "en": "Add 4 six times, or multiply.",
+        "fr": "Ajoute 6 fois 4, ou multiplie.",
+        "ar": "لنجمع 4 ست مرات، أو نضرب."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 4",
+        "resultado": 24,
+        "unidad": "cm",
+        "texto": {
+          "es": "Su perímetro mide 24 cm y tiene 6 vértices.",
+          "va": "El seu perímetre mesura 24 cm i té 6 vèrtexs.",
+          "en": "Its perimeter is 24 cm and it has 6 vertices.",
+          "fr": "Son périmètre mesure 24 cm et il a 6 sommets.",
+          "ar": "محيطه 24 سم وله 6 رؤوس."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con un polígono de lados iguales, como un triángulo o un cuadrado.",
+        "va": "Inventa'n tu una amb un polígon de costats iguals, com un triangle o un quadrat.",
+        "en": "Make one up with a polygon with equal sides, like a triangle or a square.",
+        "fr": "Invente un problème avec un polygone aux côtés égaux, comme un triangle ou un carré.",
+        "ar": "لنخترع مسألة بمضلّع أضلاعه متساوية، مثل مثلّث أو مربّع."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 25,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: ¿cuánto es {{7 × 9}}?",
+        "va": "Per a recordar: quant és {{7 × 9}}?",
+        "en": "Let's remember: what is {{7 × 9}}?",
+        "fr": "Pour se souvenir : combien fait {{7 × 9}} ?",
+        "ar": "لنتذكّر: كم تساوي {{7 × 9}}؟"
+      },
+      "pista": {
+        "es": "{{7 × 10 = 70}}, y quita un 7.",
+        "va": "{{7 × 10 = 70}}, i lleva un 7.",
+        "en": "{{7 × 10 = 70}}, then take away one 7.",
+        "fr": "{{7 × 10 = 70}}, puis enlève un 7.",
+        "ar": "{{7 × 10 = 70}}، ثم لنطرح 7 واحدة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 9",
+        "resultado": 63,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es 63: {{70 − 7 = 63}}.",
+          "va": "És 63: {{70 − 7 = 63}}.",
+          "en": "It's 63: {{70 − 7 = 63}}.",
+          "fr": "Ça fait 63 : {{70 − 7 = 63}}.",
+          "ar": "تساوي 63: {{70 − 7 = 63}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta con otro de los seis de la nevera.",
+        "va": "Inventa't una pregunta amb un altre dels sis de la nevera.",
+        "en": "Make up a question with another of the six on the fridge.",
+        "fr": "Invente une question avec un autre des six du frigo.",
+        "ar": "لنخترع سؤالًا بواحدة أخرى من الست المعلّقة على الثلاجة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas en mates, ¿qué te ha gustado más: repartir, las tablas nuevas, los problemas de dos pasos, las formas o las encuestas? Explícame por qué.",
+        "va": "De tot el que heu fet aquestes setmanes en mates, què t'ha agradat més: repartir, les taules noves, els problemes de dos passos, les formes o les enquestes? Explica'm per què.",
+        "en": "Of everything in maths these weeks, what did you like best: sharing, the new times tables, two-step problems, shapes or surveys? Explain why.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce que tu as préféré : partager, les nouvelles tables, les problèmes en deux étapes, les formes ou les enquêtes ? Explique-moi pourquoi.",
+        "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، ما الذي أحببناه أكثر: التوزيع، أم الجداول الجديدة، أم مسائل الخطوتين، أم الأشكال، أم الاستطلاعات؟ اشرح لي أو اشرحي لي لماذا."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas de los platos para todos? ¿Y de la tarjeta de la nevera? ¿Y de la fruta favorita?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes dels plats per a tots? I de la targeta de la nevera? I de la fruita preferida?»",
+        "en": "You can help them remember: “Do you remember plates for everyone? And the fridge card? And the favourite fruit?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles les assiettes pour tout le monde ? Et la carte du frigo ? Et le fruit préféré ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر صحونًا للجميع؟ وبطاقة الثلاجة؟ والفاكهة المفضّلة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay respuesta buena ni mala. Si os apetece, repetid juntos esta semana el reto que más le gustó.",
+          "va": "No hi ha resposta bona ni dolenta. Si us ve de gust, repetiu junts aquesta setmana el repte que més li va agradar.",
+          "en": "There's no right or wrong answer. If you feel like it, do their favourite challenge again together this week.",
+          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si vous en avez envie, refaites ensemble cette semaine le défi préféré.",
+          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإن رغبتم، أعيدوا معًا هذا الأسبوع التحدّي الذي أحبّه الطفل أكثر."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "6259b25d18a2"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "6259b25d18a2"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "6259b25d18a2"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "6259b25d18a2"
+      }
+    }
+  }
+}

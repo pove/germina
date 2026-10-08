@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s32",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 32,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Mitades y cuartos",
+    "va": "Meitats i quarts",
+    "en": "Halves and quarters",
+    "fr": "Moitiés et quarts",
+    "ar": "أنصاف وأرباع"
+  },
+  "objetivo": {
+    "es": "Esta semana empiezan con las fracciones: partir algo en 2 partes iguales (mitades) o en 4 (cuartos). En clase se escriben así: {{1/2}} y {{1/4}}. Lo importante es que las partes sean iguales.",
+    "va": "Aquesta setmana comencen amb les fraccions (fracciones): partir alguna cosa en 2 parts iguals (meitats) o en 4 (quarts). A classe s'escriuen així: {{1/2}} i {{1/4}}. L'important és que les parts siguen iguals.",
+    "en": "This week they start fractions (fracciones): splitting something into 2 equal parts (halves) or 4 (quarters). In class they're written like this: {{1/2}} and {{1/4}}. What matters is that the parts are equal.",
+    "fr": "Cette semaine, on commence les fractions (fracciones) : partager quelque chose en 2 parts égales (des moitiés) ou en 4 (des quarts). En classe, on les écrit ainsi : {{1/2}} et {{1/4}}. L'important, c'est que les parts soient égales.",
+    "ar": "هذا الأسبوع يبدأ الأطفال الكسور (fracciones): تقسيم شيء إلى جزأين متساويين (أنصاف) أو إلى 4 (أرباع). في القسم تُكتب هكذا: {{1/2}} و{{1/4}}. المهم أن تكون الأجزاء متساوية."
+  },
+  "comoAyudar": {
+    "es": "Aprovechad la comida: media manzana, un cuarto de tortilla, la mitad del bocadillo. Si parte en trozos distintos, preguntad «¿son iguales?» antes de decir cómo se llaman.",
+    "va": "Aprofiteu el menjar: mitja poma, un quart de truita, la meitat de l'entrepà. Si partix en trossos diferents, pregunteu «són iguals?» abans de dir com s'anomenen.",
+    "en": "Make use of food: half an apple, a quarter of an omelette, half the sandwich. If they cut pieces of different sizes, ask “Are they equal?” before saying what they're called.",
+    "fr": "Profitez des repas : une demi-pomme, un quart d'omelette, la moitié du sandwich. Si les morceaux sont différents, demandez « Ils sont égaux ? » avant de dire comment ils s'appellent.",
+    "ar": "استفيدوا من الطعام: نصف تفاحة، ربع عجّة، نصف شطيرة. وإذا قُسّمت قطع مختلفة، اسألوا «هل هي متساوية؟» قبل تسميتها."
+  },
+  "saberes": [
+    "matematicas.fracciones.fraccion",
+    "matematicas.fracciones.utilidad"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La pizza de cartón",
+      "va": "La pizza de cartó",
+      "en": "The cardboard pizza",
+      "fr": "La pizza en carton",
+      "ar": "بيتزا الكرتون"
+    },
+    "material": [
+      {
+        "es": "Dos círculos de cartón o dos servilletas de papel",
+        "va": "Dos cercles de cartó o dos tovallons de paper",
+        "en": "Two cardboard circles or two paper napkins",
+        "fr": "Deux cercles en carton ou deux serviettes en papier",
+        "ar": "دائرتان من الكرتون أو منديلان ورقيّان"
+      },
+      {
+        "es": "Tijeras y rotuladores",
+        "va": "Tisores i retoladors",
+        "en": "Scissors and felt-tip pens",
+        "fr": "Des ciseaux et des feutres",
+        "ar": "مقص وأقلام تلوين"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "pizza",
+        "texto": {
+          "es": "Dibujad en un círculo los ingredientes de una pizza. Doblad el círculo por la mitad y recortad por el doblez: son 2 mitades, {{1/2}} y {{1/2}}.",
+          "va": "Dibuixeu en un cercle els ingredients d'una pizza. Doblegueu el cercle per la meitat i retalleu pel doblec: són 2 meitats, {{1/2}} i {{1/2}}.",
+          "en": "Draw a pizza's toppings on a circle. Fold it in half and cut along the fold: that's 2 halves, {{1/2}} and {{1/2}}.",
+          "fr": "Dessinez sur un cercle les ingrédients d'une pizza. Pliez le cercle en deux et découpez le long du pli : ce sont 2 moitiés, {{1/2}} et {{1/2}}.",
+          "ar": "ارسموا على دائرة مكوّنات بيتزا. اطووا الدائرة من المنتصف وقصّوا على خط الطيّ: هذان نصفان، {{1/2}} و{{1/2}}."
+        }
+      },
+      {
+        "pictograma": "tijeras",
+        "texto": {
+          "es": "Con la otra pizza, doblad dos veces por la mitad y recortad: salen 4 trozos iguales. Cada uno es un cuarto, {{1/4}}.",
+          "va": "Amb l'altra pizza, doblegueu dues vegades per la meitat i retalleu: ixen 4 trossos iguals. Cadascun és un quart, {{1/4}}.",
+          "en": "With the other pizza, fold it in half twice and cut: you get 4 equal pieces. Each one is a quarter, {{1/4}}.",
+          "fr": "Avec l'autre pizza, pliez deux fois en deux et découpez : on obtient 4 morceaux égaux. Chacun est un quart, {{1/4}}.",
+          "ar": "بالبيتزا الأخرى، اطووها من المنتصف مرتين وقصّوا: تخرج 4 قطع متساوية. كل قطعة ربع، {{1/4}}."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Poned cuartos encima de una mitad. ¿Cuántos cuartos hacen falta para taparla? Dos: {{2/4}} es lo mismo que {{1/2}}.",
+          "va": "Poseu quarts damunt d'una meitat. Quants quarts calen per a tapar-la? Dos: {{2/4}} és el mateix que {{1/2}}.",
+          "en": "Put quarters on top of a half. How many quarters does it take to cover it? Two: {{2/4}} is the same as {{1/2}}.",
+          "fr": "Posez des quarts sur une moitié. Combien de quarts faut-il pour la couvrir ? Deux : {{2/4}}, c'est pareil que {{1/2}}.",
+          "ar": "ضعوا أرباعًا فوق نصف. كم ربعًا نحتاج لتغطيته؟ ربعان: {{2/4}} هو نفسه {{1/2}}."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Repartid la pizza de cuartos entre 2 personas: ¿cuántos cuartos toca a cada una? ¿Y entre 4?",
+          "va": "Repartiu la pizza de quarts entre 2 persones: quants quarts en toquen a cadascuna? I entre 4?",
+          "en": "Share the quarters pizza between 2 people: how many quarters does each one get? And between 4?",
+          "fr": "Partagez la pizza en quarts entre 2 personnes : combien de quarts chacune reçoit-elle ? Et entre 4 ?",
+          "ar": "وزّعوا بيتزا الأرباع على شخصين: كم ربعًا لكل واحد؟ وعلى 4؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Quedaos con las mitades: partid servilletas, galletas o una hoja en 2 partes iguales.",
+      "va": "Quedeu-vos amb les meitats: partiu tovallons, galetes o un full en 2 parts iguals.",
+      "en": "Stick with halves: split napkins, biscuits or a sheet of paper into 2 equal parts.",
+      "fr": "Restez sur les moitiés : partagez des serviettes, des biscuits ou une feuille en 2 parts égales.",
+      "ar": "اكتفوا بالأنصاف: قسّموا مناديل أو بسكويتًا أو ورقة إلى جزأين متساويين."
+    },
+    "masDificil": {
+      "es": "Doblad una tercera vez: ¿cuántos trozos salen? ¿Cómo se llama cada uno? ¿Cuántos hacen falta para un cuarto?",
+      "va": "Doblegueu una tercera vegada: quants trossos ixen? Com s'anomena cadascun? Quants en calen per a un quart?",
+      "en": "Fold a third time: how many pieces do you get? What is each one called? How many make a quarter?",
+      "fr": "Pliez une troisième fois : combien de morceaux obtient-on ? Comment s'appelle chacun ? Combien en faut-il pour un quart ?",
+      "ar": "اطووا مرة ثالثة: كم قطعة تخرج؟ ما اسم كل منها؟ وكم قطعة نحتاج لربع؟"
+    },
+    "paraQueSirve": {
+      "es": "Las fracciones aparecen en la cocina, en la hora («y cuarto», «y media») y al repartir. Verlas con trozos de verdad hace que {{1/2}} no sea solo un número escrito.",
+      "va": "Les fraccions apareixen en la cuina, en l'hora («i quart», «i mitja») i en repartir. Veure-les amb trossos de veritat fa que {{1/2}} no siga només un número escrit.",
+      "en": "Fractions show up in cooking, in telling the time (“quarter past”, “half past”) and when sharing. Seeing them with real pieces means {{1/2}} isn't just a written number.",
+      "fr": "Les fractions apparaissent en cuisine, dans l'heure (« et quart », « et demie ») et au moment de partager. Les voir avec de vrais morceaux fait que {{1/2}} n'est pas qu'un nombre écrit.",
+      "ar": "تظهر الكسور في المطبخ وفي الساعة («والربع»، «والنصف») وعند التوزيع. ورؤيتها بقطع حقيقية تجعل {{1/2}} أكثر من عدد مكتوب."
+    },
+    "aviso": {
+      "es": "Las tijeras, siempre con una persona adulta.",
+      "va": "Les tisores, sempre amb una persona adulta.",
+      "en": "Scissors always with an adult.",
+      "fr": "Les ciseaux, toujours avec un adulte.",
+      "ar": "المقص دائمًا بحضور شخص بالغ."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Una pizza se parte en 4 trozos iguales y te comes 1. ¿Qué parte de la pizza te has comido? ¿Cuántos trozos quedan?",
+        "va": "Una pizza es partix en 4 trossos iguals i te'n menges 1. Quina part de la pizza t'has menjat? Quants trossos queden?",
+        "en": "A pizza is cut into 4 equal pieces and you eat 1. What part of the pizza have you eaten? How many pieces are left?",
+        "fr": "Une pizza est coupée en 4 morceaux égaux et tu en manges 1. Quelle part de la pizza as-tu mangée ? Combien de morceaux reste-t-il ?",
+        "ar": "قُسّمت بيتزا إلى 4 قطع متساوية وأكلنا قطعة. أي جزء من البيتزا أكلنا؟ وكم قطعة بقيت؟"
+      },
+      "pista": {
+        "es": "Si hay 4 trozos iguales, cada uno es un cuarto.",
+        "va": "Si hi ha 4 trossos iguals, cadascun és un quart.",
+        "en": "If there are 4 equal pieces, each one is a quarter.",
+        "fr": "S'il y a 4 morceaux égaux, chacun est un quart.",
+        "ar": "إذا كانت هناك 4 قطع متساوية، فكل قطعة ربع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 - 1",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Te has comido un cuarto, {{1/4}}, y quedan 3 trozos: tres cuartos, {{3/4}}.",
+          "va": "T'has menjat un quart, {{1/4}}, i queden 3 trossos: tres quarts, {{3/4}}.",
+          "en": "You've eaten a quarter, {{1/4}}, and 3 pieces are left: three quarters, {{3/4}}.",
+          "fr": "Tu as mangé un quart, {{1/4}}, et il reste 3 morceaux : trois quarts, {{3/4}}.",
+          "ar": "أكلنا ربعًا، {{1/4}}، وبقيت 3 قطع: ثلاثة أرباع، {{3/4}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con algo de comer partido en cuartos.",
+        "va": "Inventa'n tu una amb alguna cosa de menjar partida en quarts.",
+        "en": "Make one up with something to eat cut into quarters.",
+        "fr": "Invente un problème avec quelque chose à manger coupé en quarts.",
+        "ar": "لنخترع مسألة بطعام مقسوم أرباعًا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "En un plato hay 10 galletas. ¿Cuántas galletas son la mitad?",
+        "va": "En un plat hi ha 10 galetes. Quantes galetes són la meitat?",
+        "en": "There are 10 biscuits on a plate. How many biscuits is half?",
+        "fr": "Dans une assiette, il y a 10 biscuits. Combien de biscuits font la moitié ?",
+        "ar": "في صحن 10 بسكويتات. كم بسكويتة هي النصف؟"
+      },
+      "pista": {
+        "es": "Haz 2 montones iguales.",
+        "va": "Fes 2 munts iguals.",
+        "en": "Make 2 equal piles.",
+        "fr": "Fais 2 tas égaux.",
+        "ar": "لنصنع كومتين متساويتين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 : 2",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "La mitad son 5 galletas: {{10 : 2 = 5}}.",
+          "va": "La meitat són 5 galetes: {{10 : 2 = 5}}.",
+          "en": "Half is 5 biscuits: {{10 : 2 = 5}}.",
+          "fr": "La moitié, c'est 5 biscuits : {{10 : 2 = 5}}.",
+          "ar": "النصف 5 بسكويتات: {{10 : 2 = 5}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de «¿cuánto es la mitad?» con cosas de casa.",
+        "va": "Inventa'n tu una de «quant és la meitat?» amb coses de casa.",
+        "en": "Make up a “what's half?” one with things at home.",
+        "fr": "Invente un problème « combien fait la moitié ? » avec des choses de la maison.",
+        "ar": "لنخترع مسألة «كم النصف؟» بأشياء من البيت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "¿Cuántos cuartos de pizza hacen falta para tener media pizza?",
+        "va": "Quants quarts de pizza calen per a tindre mitja pizza?",
+        "en": "How many quarters of a pizza make half a pizza?",
+        "fr": "Combien de quarts de pizza faut-il pour avoir une demi-pizza ?",
+        "ar": "كم ربعًا من البيتزا نحتاج لنحصل على نصف بيتزا؟"
+      },
+      "pista": {
+        "es": "Una pizza entera tiene 4 cuartos. ¿Cuántos son la mitad de 4?",
+        "va": "Una pizza sencera té 4 quarts. Quants són la meitat de 4?",
+        "en": "A whole pizza has 4 quarters. What's half of 4?",
+        "fr": "Une pizza entière a 4 quarts. Combien fait la moitié de 4 ?",
+        "ar": "في البيتزا الكاملة 4 أرباع. كم نصف 4؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 : 2",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hacen falta 2 cuartos: {{2/4}} es lo mismo que {{1/2}}.",
+          "va": "Calen 2 quarts: {{2/4}} és el mateix que {{1/2}}.",
+          "en": "It takes 2 quarters: {{2/4}} is the same as {{1/2}}.",
+          "fr": "Il en faut 2 : {{2/4}}, c'est pareil que {{1/2}}.",
+          "ar": "نحتاج ربعين: {{2/4}} هو نفسه {{1/2}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta para tapar una mitad con trozos más pequeños.",
+        "va": "Inventa't una pregunta per a tapar una meitat amb trossos més menuts.",
+        "en": "Make up a question about covering a half with smaller pieces.",
+        "fr": "Invente une question où l'on couvre une moitié avec des morceaux plus petits.",
+        "ar": "لنخترع سؤالًا عن تغطية نصف بقطع أصغر."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 31,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: Vera tiene 7 años y compra 3 cuadernos de 2 € cada uno. ¿Cuánto paga? ¿Qué dato sobra?",
+        "va": "Per a recordar: Vera té 7 anys i compra 3 quaderns de 2 € cadascun. Quant paga? Quina dada sobra?",
+        "en": "Let's remember: Vera is 7 years old and buys 3 notebooks at 2 € each. How much does she pay? Which piece of information isn't needed?",
+        "fr": "Pour se souvenir : Vera a 7 ans et achète 3 cahiers à 2 € chacun. Combien paie-t-elle ? Quelle donnée ne sert à rien ?",
+        "ar": "لنتذكّر: عمر فيرا 7 سنوات واشترت 3 دفاتر ثمن كل منها 2 يورو. كم دفعت؟ وأي معطى زائد؟"
+      },
+      "pista": {
+        "es": "¿La edad de Vera cambia el precio?",
+        "va": "L'edat de Vera canvia el preu?",
+        "en": "Does Vera's age change the price?",
+        "fr": "L'âge de Vera change-t-il le prix ?",
+        "ar": "هل يغيّر عمر فيرا الثمن؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 2",
+        "resultado": 6,
+        "unidad": "euros",
+        "texto": {
+          "es": "Paga 6 €. Sobra la edad de Vera.",
+          "va": "Paga 6 €. Sobra l'edat de Vera.",
+          "en": "She pays 6 €. Vera's age isn't needed.",
+          "fr": "Elle paie 6 €. L'âge de Vera ne sert à rien.",
+          "ar": "دفعت 6 يورو. عمر فيرا معطى زائد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un problema con trampa para alguien de casa.",
+        "va": "Inventa't un problema amb trampa per a algú de casa.",
+        "en": "Make up a trick problem for someone at home.",
+        "fr": "Invente un problème piégé pour quelqu'un de la maison.",
+        "ar": "لنخترع مسألة فيها فخّ لأحد في البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué es la mitad de algo? Explícamelo partiendo una servilleta o una hoja.",
+        "va": "Què és la meitat d'alguna cosa? Explica-m'ho partint un tovalló o un full.",
+        "en": "What is half of something? Explain it to me by splitting a napkin or a sheet of paper.",
+        "fr": "C'est quoi, la moitié de quelque chose ? Explique-le-moi en partageant une serviette ou une feuille.",
+        "ar": "ما نصف شيء ما؟ اشرح لي أو اشرحي لي بتقسيم منديل أو ورقة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si parto el bocadillo así, en un trozo grande y otro pequeño, ¿son mitades?»",
+        "va": "Si no sap per on començar: «Si partisc l'entrepà així, en un tros gran i un altre menut, són meitats?»",
+        "en": "If they don't know where to start: “If I cut the sandwich like this, into a big piece and a small one, are they halves?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si je coupe le sandwich comme ça, en un gros morceau et un petit, ce sont des moitiés ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا قسمت الشطيرة هكذا، قطعة كبيرة وأخرى صغيرة، هل هما نصفان؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La idea clave es «dos partes iguales». Si parte la hoja y comprueba poniendo una mitad encima de la otra, ya lo ha explicado.",
+          "va": "La idea clau és «dues parts iguals». Si partix el full i ho comprova posant una meitat damunt de l'altra, ja ho ha explicat.",
+          "en": "The key idea is “two equal parts”. If they split the sheet and check by putting one half on top of the other, they've explained it.",
+          "fr": "L'idée clé, c'est « deux parts égales ». Si la feuille est partagée et qu'on vérifie en posant une moitié sur l'autre, c'est expliqué.",
+          "ar": "الفكرة الأساسية هي «جزءان متساويان». إذا قُسمت الورقة وتُحقّق بوضع نصف فوق الآخر، فقد شُرحت الفكرة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f44a6154f18e"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f44a6154f18e"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f44a6154f18e"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f44a6154f18e"
+      }
+    }
+  }
+}

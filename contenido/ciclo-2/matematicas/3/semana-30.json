@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s30",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 30,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Partir para multiplicar",
+    "va": "Partir per a multiplicar",
+    "en": "Split it to multiply",
+    "fr": "Couper pour multiplier",
+    "ar": "نقسم لنضرب"
+  },
+  "objetivo": {
+    "es": "Esta semana multiplican números de dos cifras por una cifra partiéndolos en decenas y unidades: {{23 × 4}} es {{20 × 4 = 80}} más {{3 × 4 = 12}}, es decir, 92.",
+    "va": "Aquesta setmana multipliquen números de dues xifres per una xifra partint-los en desenes i unitats: {{23 × 4}} és {{20 × 4 = 80}} més {{3 × 4 = 12}}, és a dir, 92.",
+    "en": "This week they multiply two-digit numbers by one-digit numbers by splitting them into tens and ones: {{23 × 4}} is {{20 × 4 = 80}} plus {{3 × 4 = 12}}, that is, 92.",
+    "fr": "Cette semaine, on multiplie des nombres à deux chiffres par un chiffre en les coupant en dizaines et unités : {{23 × 4}}, c'est {{20 × 4 = 80}} plus {{3 × 4 = 12}}, c'est-à-dire 92.",
+    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين في رقم واحد بتقسيمها إلى عشرات وآحاد: {{23 × 4}} هي {{20 × 4 = 80}} زائد {{3 × 4 = 12}}، أي 92."
+  },
+  "comoAyudar": {
+    "es": "Usad dinero de papel o de juguete: los billetes de 10 son las decenas y las monedas de 1, las unidades. Si se pierde, que cuente primero los billetes y después las monedas.",
+    "va": "Feu servir diners de paper o de joguet: els bitllets de 10 són les desenes i les monedes d'1, les unitats. Si es perd, que compte primer els bitllets i després les monedes.",
+    "en": "Use paper or toy money: the 10 notes are the tens and the 1 coins are the ones. If they get lost, have them count the notes first and then the coins.",
+    "fr": "Utilisez de l'argent en papier ou en jouet : les billets de 10 sont les dizaines et les pièces de 1, les unités. En cas de confusion, comptez d'abord les billets, puis les pièces.",
+    "ar": "استعملوا نقودًا من الورق أو من الألعاب: أوراق الـ10 هي العشرات وقطع الـ1 هي الآحاد. وإذا ضاع الطفل، فليعدّ الأوراق أولًا ثم القطع."
+  },
+  "saberes": [
+    "matematicas.operaciones.propiedades",
+    "matematicas.operaciones.producto-cociente"
+  ],
+  "criterios": [
+    "matematicas.c2.5.1",
+    "matematicas.c2.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cuatro sobres de 23 €",
+      "va": "Quatre sobres de 23 €",
+      "en": "Four envelopes of 23 €",
+      "fr": "Quatre enveloppes de 23 €",
+      "ar": "أربعة مغلّفات في كل منها 23 يورو"
+    },
+    "material": [
+      {
+        "es": "Papel para hacer 8 billetes de 10 € y 12 monedas de 1 €",
+        "va": "Paper per a fer 8 bitllets de 10 € i 12 monedes d'1 €",
+        "en": "Paper to make 8 notes of 10 € and 12 coins of 1 €",
+        "fr": "Du papier pour faire 8 billets de 10 € et 12 pièces de 1 €",
+        "ar": "ورق لصنع 8 أوراق نقدية من فئة 10 يورو و12 قطعة من فئة 1 يورو"
+      },
+      {
+        "es": "4 sobres",
+        "va": "4 sobres",
+        "en": "4 envelopes",
+        "fr": "4 enveloppes",
+        "ar": "4 مغلّفات"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "sobre",
+        "texto": {
+          "es": "Meted en cada sobre 23 €: 2 billetes de 10 € y 3 monedas de 1 €. Así, 4 sobres.",
+          "va": "Poseu en cada sobre 23 €: 2 bitllets de 10 € i 3 monedes d'1 €. Així, 4 sobres.",
+          "en": "Put 23 € in each envelope: 2 notes of 10 € and 3 coins of 1 €. Do this for 4 envelopes.",
+          "fr": "Mettez 23 € dans chaque enveloppe : 2 billets de 10 € et 3 pièces de 1 €. Faites ainsi 4 enveloppes.",
+          "ar": "ضعوا في كل مغلّف 23 يورو: ورقتين من فئة 10 يورو و3 قطع من فئة 1 يورو. هكذا 4 مغلّفات."
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Abrid los sobres y juntad primero los billetes: 4 sobres de 2 billetes son 8 billetes, {{20 × 4 = 80}} €.",
+          "va": "Obriu els sobres i ajunteu primer els bitllets: 4 sobres de 2 bitllets són 8 bitllets, {{20 × 4 = 80}} €.",
+          "en": "Open the envelopes and first put the notes together: 4 envelopes of 2 notes is 8 notes, {{20 × 4 = 80}} €.",
+          "fr": "Ouvrez les enveloppes et rassemblez d'abord les billets : 4 enveloppes de 2 billets, ça fait 8 billets, {{20 × 4 = 80}} €.",
+          "ar": "افتحوا المغلّفات واجمعوا الأوراق أولًا: 4 مغلّفات في كل منها ورقتان تساوي 8 أوراق، أي {{20 × 4 = 80}} يورو."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Ahora las monedas: 4 sobres de 3 monedas son {{3 × 4 = 12}} €.",
+          "va": "Ara les monedes: 4 sobres de 3 monedes són {{3 × 4 = 12}} €.",
+          "en": "Now the coins: 4 envelopes of 3 coins is {{3 × 4 = 12}} €.",
+          "fr": "Maintenant les pièces : 4 enveloppes de 3 pièces, ça fait {{3 × 4 = 12}} €.",
+          "ar": "الآن القطع: 4 مغلّفات في كل منها 3 قطع تساوي {{3 × 4 = 12}} يورو."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Sumad los dos montones: {{80 + 12 = 92}}. Escribidlo como multiplicación: {{23 × 4 = 92}}.",
+          "va": "Sumeu els dos munts: {{80 + 12 = 92}}. Escriviu-ho com a multiplicació: {{23 × 4 = 92}}.",
+          "en": "Add the two piles: {{80 + 12 = 92}}. Write it as a multiplication: {{23 × 4 = 92}}.",
+          "fr": "Additionnez les deux tas : {{80 + 12 = 92}}. Écrivez-le comme une multiplication : {{23 × 4 = 92}}.",
+          "ar": "اجمعوا الكومتين: {{80 + 12 = 92}}. واكتبوها عملية ضرب: {{23 × 4 = 92}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 2 sobres de 12 €: {{10 × 2}} y {{2 × 2}}.",
+      "va": "Comenceu amb 2 sobres de 12 €: {{10 × 2}} i {{2 × 2}}.",
+      "en": "Start with 2 envelopes of 12 €: {{10 × 2}} and {{2 × 2}}.",
+      "fr": "Commencez avec 2 enveloppes de 12 € : {{10 × 2}} et {{2 × 2}}.",
+      "ar": "ابدؤوا بمغلّفين في كل منهما 12 يورو: {{10 × 2}} و{{2 × 2}}."
+    },
+    "masDificil": {
+      "es": "Probad con 5 sobres de 37 €. ¿Cuántos billetes y cuántas monedas salen? ¿Hace falta cambiar monedas por billetes?",
+      "va": "Proveu amb 5 sobres de 37 €. Quants bitllets i quantes monedes ixen? Toca canviar monedes per bitllets?",
+      "en": "Try 5 envelopes of 37 €. How many notes and coins do you get? Do you swap coins for notes?",
+      "fr": "Essayez avec 5 enveloppes de 37 €. Combien de billets et de pièces obtenez-vous ? Faut-il échanger des pièces contre des billets ?",
+      "ar": "جرّبوا 5 مغلّفات في كل منها 37 يورو. كم ورقة وكم قطعة تخرج؟ هل نستبدل قطعًا بأوراق؟"
+    },
+    "paraQueSirve": {
+      "es": "Partir en decenas y unidades convierte una multiplicación difícil en dos fáciles. Es la misma idea que usarán en la multiplicación en papel, pero aquí se ve con las manos.",
+      "va": "Partir en desenes i unitats convertix una multiplicació difícil en dues de fàcils. És la mateixa idea que faran servir en la multiplicació en paper, però ací es veu amb les mans.",
+      "en": "Splitting into tens and ones turns one hard multiplication into two easy ones. It's the same idea they'll use in written multiplication, but here they see it with their hands.",
+      "fr": "Couper en dizaines et unités transforme une multiplication difficile en deux faciles. C'est la même idée que dans la multiplication posée, mais ici on la voit avec les mains.",
+      "ar": "التقسيم إلى عشرات وآحاد يحوّل عملية ضرب صعبة إلى عمليتين سهلتين. إنها الفكرة نفسها التي سيستعملونها في الضرب على الورق، لكنها هنا تُرى باليدين."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un paquete trae 32 cromos. ¿Cuántos cromos hay en 3 paquetes?",
+        "va": "Un paquet porta 32 cromos. Quants cromos hi ha en 3 paquets?",
+        "en": "A packet has 32 stickers. How many stickers are there in 3 packets?",
+        "fr": "Un paquet contient 32 images. Combien d'images y a-t-il dans 3 paquets ?",
+        "ar": "في العلبة 32 صورة. كم صورة في 3 علب؟"
+      },
+      "pista": {
+        "es": "Parte el 32: {{30 × 3 = 90}} y {{2 × 3 = 6}}.",
+        "va": "Partix el 32: {{30 × 3 = 90}} i {{2 × 3 = 6}}.",
+        "en": "Split the 32: {{30 × 3 = 90}} and {{2 × 3 = 6}}.",
+        "fr": "Coupe le 32 : {{30 × 3 = 90}} et {{2 × 3 = 6}}.",
+        "ar": "لنقسم الـ32: {{30 × 3 = 90}} و{{2 × 3 = 6}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "32 × 3",
+        "resultado": 96,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 96 cromos: {{90 + 6 = 96}}.",
+          "va": "Hi ha 96 cromos: {{90 + 6 = 96}}.",
+          "en": "There are 96 stickers: {{90 + 6 = 96}}.",
+          "fr": "Il y a 96 images : {{90 + 6 = 96}}.",
+          "ar": "هناك 96 صورة: {{90 + 6 = 96}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de paquetes iguales con un número de dos cifras.",
+        "va": "Inventa'n tu una de paquets iguals amb un número de dues xifres.",
+        "en": "Make one up about equal packs with a two-digit number.",
+        "fr": "Invente un problème de paquets égaux avec un nombre à deux chiffres.",
+        "ar": "لنخترع مسألة عن علب متساوية بعدد من رقمين."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una entrada de cine cuesta 14 €. ¿Cuánto pagan 5 personas?",
+        "va": "Una entrada de cine costa 14 €. Quant paguen 5 persones?",
+        "en": "A cinema ticket costs 14 €. How much do 5 people pay?",
+        "fr": "Une place de cinéma coûte 14 €. Combien paient 5 personnes ?",
+        "ar": "ثمن تذكرة السينما 14 يورو. كم يدفع 5 أشخاص؟"
+      },
+      "pista": {
+        "es": "{{10 × 5 = 50}} y {{4 × 5 = 20}}.",
+        "va": "{{10 × 5 = 50}} i {{4 × 5 = 20}}.",
+        "en": "{{10 × 5 = 50}} and {{4 × 5 = 20}}.",
+        "fr": "{{10 × 5 = 50}} et {{4 × 5 = 20}}.",
+        "ar": "{{10 × 5 = 50}} و{{4 × 5 = 20}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "14 × 5",
+        "resultado": 70,
+        "unidad": "euros",
+        "texto": {
+          "es": "Pagan 70 €: {{50 + 20 = 70}}.",
+          "va": "Paguen 70 €: {{50 + 20 = 70}}.",
+          "en": "They pay 70 €: {{50 + 20 = 70}}.",
+          "fr": "Elles paient 70 € : {{50 + 20 = 70}}.",
+          "ar": "يدفعون 70 يورو: {{50 + 20 = 70}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de entradas para las personas de tu casa.",
+        "va": "Inventa'n tu una d'entrades per a les persones de casa.",
+        "en": "Make one up about tickets for the people at home.",
+        "fr": "Invente un problème de billets pour les personnes de ta maison.",
+        "ar": "لنخترع مسألة عن تذاكر لأهل البيت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Leire calcula {{21 × 6}} así: {{20 × 6 = 120}} y {{1 × 6 = 6}}. ¿Cuánto le sale?",
+        "va": "Leire calcula {{21 × 6}} així: {{20 × 6 = 120}} i {{1 × 6 = 6}}. Quant li ix?",
+        "en": "Leire works out {{21 × 6}} like this: {{20 × 6 = 120}} and {{1 × 6 = 6}}. What does she get?",
+        "fr": "Leire calcule {{21 × 6}} comme ça : {{20 × 6 = 120}} et {{1 × 6 = 6}}. Combien trouve-t-elle ?",
+        "ar": "تحسب ليري {{21 × 6}} هكذا: {{20 × 6 = 120}} و{{1 × 6 = 6}}. كم تحصل؟"
+      },
+      "pista": {
+        "es": "Suma los dos trozos.",
+        "va": "Suma els dos trossos.",
+        "en": "Add the two pieces.",
+        "fr": "Additionne les deux morceaux.",
+        "ar": "لنجمع الجزأين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "21 × 6",
+        "resultado": 126,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le sale 126: {{120 + 6 = 126}}.",
+          "va": "Li ix 126: {{120 + 6 = 126}}.",
+          "en": "She gets 126: {{120 + 6 = 126}}.",
+          "fr": "Elle trouve 126 : {{120 + 6 = 126}}.",
+          "ar": "تحصل على 126: {{120 + 6 = 126}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una multiplicación de dos cifras por una y pártela como Leire.",
+        "va": "Inventa't una multiplicació de dues xifres per una i partix-la com Leire.",
+        "en": "Make up a two-digit by one-digit multiplication and split it like Leire.",
+        "fr": "Invente une multiplication d'un nombre à deux chiffres par un chiffre et coupe-la comme Leire.",
+        "ar": "لنخترع عملية ضرب عدد من رقمين في رقم واحد ونقسمها مثل ليري."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 28,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: en una encuesta del animal favorito, 9 personas votan el gato y 6, el perro. ¿Cuántos votos más tiene el gato?",
+        "va": "Per a recordar: en una enquesta de l'animal preferit, 9 persones voten el gat i 6, el gos. Quants vots més té el gat?",
+        "en": "Let's remember: in a favourite animal survey, 9 people vote for the cat and 6 for the dog. How many more votes does the cat have?",
+        "fr": "Pour se souvenir : dans une enquête sur l'animal préféré, 9 personnes votent pour le chat et 6 pour le chien. Combien de votes de plus a le chat ?",
+        "ar": "لنتذكّر: في استطلاع عن الحيوان المفضّل، صوّت 9 أشخاص للقطّ و6 للكلب. كم صوتًا زائدًا للقطّ؟"
+      },
+      "pista": {
+        "es": "Cuenta desde el 6 hasta el 9.",
+        "va": "Compta des del 6 fins al 9.",
+        "en": "Count from 6 up to 9.",
+        "fr": "Compte de 6 jusqu'à 9.",
+        "ar": "لنعدّ من 6 حتى 9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 6",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El gato tiene 3 votos más.",
+          "va": "El gat té 3 vots més.",
+          "en": "The cat has 3 more votes.",
+          "fr": "Le chat a 3 votes de plus.",
+          "ar": "للقطّ 3 أصوات زيادة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una encuesta rápida para hacer en la cena.",
+        "va": "Inventa't una enquesta ràpida per a fer en el sopar.",
+        "en": "Make up a quick survey to do at dinner.",
+        "fr": "Invente une petite enquête à faire pendant le dîner.",
+        "ar": "لنخترع استطلاعًا سريعًا نجريه على العشاء."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué {{23 × 4}} es lo mismo que {{20 × 4}} más {{3 × 4}}? Explícamelo con billetes y monedas.",
+        "va": "Per què {{23 × 4}} és el mateix que {{20 × 4}} més {{3 × 4}}? Explica-m'ho amb bitllets i monedes.",
+        "en": "Why is {{23 × 4}} the same as {{20 × 4}} plus {{3 × 4}}? Explain it to me with notes and coins.",
+        "fr": "Pourquoi {{23 × 4}} est-il pareil que {{20 × 4}} plus {{3 × 4}} ? Explique-le-moi avec des billets et des pièces.",
+        "ar": "لماذا {{23 × 4}} هي نفسها {{20 × 4}} زائد {{3 × 4}}؟ اشرح لي أو اشرحي لي بالأوراق والقطع النقدية."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué había en cada sobre? ¿Qué contaste primero?»",
+        "va": "Si no sap per on començar: «Què hi havia en cada sobre? Què vas comptar primer?»",
+        "en": "If they don't know where to start: “What was in each envelope? What did you count first?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'y avait-il dans chaque enveloppe ? Qu'as-tu compté d'abord ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا كان في كل مغلّف؟ ماذا عددنا أولًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si separa billetes y monedas y lo cuenta, ya lo está explicando. No hace falta que use la palabra «descomponer».",
+          "va": "Si separa bitllets i monedes i ho compta, ja ho està explicant. No cal que faça servir la paraula «descompondre».",
+          "en": "If they separate notes and coins and count them, they're already explaining it. There's no need for the word “decompose”.",
+          "fr": "Si les billets et les pièces sont séparés et comptés, c'est déjà une explication. Pas besoin du mot « décomposer ».",
+          "ar": "إذا فُصلت الأوراق عن القطع وعُدّت، فهذا شرح بالفعل. لا داعي لكلمة «التفكيك»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b6f01da0b4f7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b6f01da0b4f7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b6f01da0b4f7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b6f01da0b4f7"
+      }
+    }
+  }
+}

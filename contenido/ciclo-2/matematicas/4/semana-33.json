@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s33",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 33,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Fracciones en la cinta",
+    "va": "Fraccions en la cinta",
+    "en": "Fractions on the tape",
+    "fr": "Les fractions sur le mètre ruban",
+    "ar": "الكسور على الشريط"
+  },
+  "objetivo": {
+    "es": "Esta semana colocan fracciones en la recta, usando la cinta métrica: el 0 al principio, el metro entero al final y la mitad en 50 cm. Así comparan cada fracción con 0, con {{1/2}} y con 1.",
+    "va": "Aquesta setmana col·loquen fraccions en la recta (recta numérica), fent servir la cinta mètrica: el 0 al principi, el metre sencer al final i la meitat en 50 cm. Així comparen cada fracció amb 0, amb {{1/2}} i amb 1.",
+    "en": "This week they place fractions on the number line (recta numérica) using a tape measure: 0 at the start, the whole metre at the end and the half at 50 cm. That way they compare each fraction with 0, {{1/2}} and 1.",
+    "fr": "Cette semaine, on place des fractions sur la droite numérique (recta numérica) avec un mètre ruban : le 0 au début, le mètre entier à la fin et la moitié à 50 cm. Ainsi, on compare chaque fraction avec 0, {{1/2}} et 1.",
+    "ar": "هذا الأسبوع يضع الأطفال الكسور على خط الأعداد (recta numérica) باستعمال شريط القياس: 0 في البداية، والمتر الكامل في النهاية، والنصف عند 50 سم. هكذا يقارنون كل كسر بـ0 و{{1/2}} و1."
+  },
+  "comoAyudar": {
+    "es": "Cuando dude dónde va una fracción, preguntad primero «¿es más o menos que la mitad?». Con eso ya tiene media respuesta.",
+    "va": "Quan dubte on va una fracció, pregunteu primer «és més o menys que la meitat?». Amb això ja té mitja resposta.",
+    "en": "When they're unsure where a fraction goes, first ask “Is it more or less than half?” That's already half the answer.",
+    "fr": "En cas de doute sur la place d'une fraction, demandez d'abord « C'est plus ou moins que la moitié ? ». C'est déjà la moitié de la réponse.",
+    "ar": "عندما يتردّد الطفل في موضع كسر، اسألوا أولًا «هل هو أكثر من النصف أم أقل؟». بهذا يكون نصف الجواب جاهزًا."
+  },
+  "saberes": [
+    "matematicas.fracciones.fraccion",
+    "matematicas.fracciones.comparar",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c2.5.3",
+    "matematicas.c2.2.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La cinta de costura",
+      "va": "La cinta de cosir",
+      "en": "The sewing tape",
+      "fr": "Le mètre de couture",
+      "ar": "شريط الخياطة"
+    },
+    "material": [
+      {
+        "es": "Una cinta métrica de costura (o una tira de papel de 1 metro marcada cada 10 cm)",
+        "va": "Una cinta mètrica de cosir (o una tira de paper d'1 metre marcada cada 10 cm)",
+        "en": "A sewing tape measure (or a 1-metre paper strip marked every 10 cm)",
+        "fr": "Un mètre ruban de couture (ou une bande de papier d'1 mètre marquée tous les 10 cm)",
+        "ar": "شريط قياس للخياطة (أو شريط ورق طوله متر مُعلَّم كل 10 سم)"
+      },
+      {
+        "es": "Pinzas o papelitos para marcar",
+        "va": "Pinces o paperets per a marcar",
+        "en": "Pegs or slips of paper for marking",
+        "fr": "Des pinces ou des petits papiers pour marquer",
+        "ar": "ملاقط أو قصاصات ورق للتعليم"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "cinta",
+        "texto": {
+          "es": "Estirad la cinta en el suelo o en la mesa desde el 0 hasta el 100. Ese trozo es 1 metro: el todo.",
+          "va": "Estireu la cinta en el terra o en la taula des del 0 fins al 100. Eixe tros és 1 metre: el tot.",
+          "en": "Stretch the tape on the floor or table from 0 to 100. That length is 1 metre: the whole.",
+          "fr": "Étirez le mètre ruban par terre ou sur la table de 0 à 100. Ce morceau, c'est 1 mètre : le tout.",
+          "ar": "مدّوا الشريط على الأرض أو الطاولة من 0 إلى 100. هذا الجزء متر واحد: الكلّ."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Marcad con pinzas la mitad ({{1/2}}, en 50 cm), un cuarto ({{1/4}}, en 25 cm) y tres cuartos ({{3/4}}, en 75 cm).",
+          "va": "Marqueu amb pinces la meitat ({{1/2}}, en 50 cm), un quart ({{1/4}}, en 25 cm) i tres quarts ({{3/4}}, en 75 cm).",
+          "en": "Mark with pegs the half ({{1/2}}, at 50 cm), a quarter ({{1/4}}, at 25 cm) and three quarters ({{3/4}}, at 75 cm).",
+          "fr": "Marquez avec des pinces la moitié ({{1/2}}, à 50 cm), un quart ({{1/4}}, à 25 cm) et trois quarts ({{3/4}}, à 75 cm).",
+          "ar": "علّموا بالملاقط النصف ({{1/2}}، عند 50 سم)، والربع ({{1/4}}، عند 25 سم)، وثلاثة الأرباع ({{3/4}}، عند 75 سم)."
+        }
+      },
+      {
+        "pictograma": "recta",
+        "texto": {
+          "es": "Ahora una persona dice otra fracción, como {{2/5}} o {{7/10}}, y la otra decide: ¿va antes o después de la mitad? Después, la colocan juntas en su sitio.",
+          "va": "Ara una persona diu una altra fracció, com ara {{2/5}} o {{7/10}}, i l'altra decidix: va abans o després de la meitat? Després, la col·loquen juntes en el seu lloc.",
+          "en": "Now one person says another fraction, like {{2/5}} or {{7/10}}, and the other decides: does it go before or after the half? Then they place it together.",
+          "fr": "Maintenant, une personne dit une autre fraction, comme {{2/5}} ou {{7/10}}, et l'autre décide : avant ou après la moitié ? Ensuite, on la place ensemble.",
+          "ar": "الآن يقول شخص كسرًا آخر، مثل {{2/5}} أو {{7/10}}، ويقرّر الآخر: هل يأتي قبل النصف أم بعده؟ ثم يضعانه معًا في مكانه."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad la cinta llena de marcas. ¿Cuál está más cerca del 0? ¿Y del metro entero? ¿Hay dos fracciones en el mismo sitio?",
+          "va": "Mireu la cinta plena de marques. Quina està més prop del 0? I del metre sencer? Hi ha dues fraccions en el mateix lloc?",
+          "en": "Look at the tape full of marks. Which is closest to 0? And to the whole metre? Are two fractions in the same place?",
+          "fr": "Regardez le mètre plein de marques. Laquelle est la plus proche de 0 ? Et du mètre entier ? Y a-t-il deux fractions au même endroit ?",
+          "ar": "انظروا إلى الشريط المليء بالعلامات. أيّها الأقرب إلى 0؟ وإلى المتر الكامل؟ هل هناك كسران في المكان نفسه؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo la mitad y los cuartos, y una tira de papel de 1 metro doblada.",
+      "va": "Feu servir només la meitat i els quarts, i una tira de paper d'1 metre doblegada.",
+      "en": "Use only the half and the quarters, and a folded 1-metre paper strip.",
+      "fr": "Utilisez seulement la moitié et les quarts, et une bande de papier d'1 mètre pliée.",
+      "ar": "استعملوا النصف والأرباع فقط، وشريط ورق طوله متر مطويًّا."
+    },
+    "masDificil": {
+      "es": "Buscad fracciones que caigan en el mismo sitio que la mitad, como {{2/4}} o {{5/10}}. ¿Encontráis más?",
+      "va": "Busqueu fraccions que caiguen en el mateix lloc que la meitat, com {{2/4}} o {{5/10}}. En trobeu més?",
+      "en": "Look for fractions that land in the same place as the half, like {{2/4}} or {{5/10}}. Can you find more?",
+      "fr": "Cherchez des fractions qui tombent au même endroit que la moitié, comme {{2/4}} ou {{5/10}}. En trouvez-vous d'autres ?",
+      "ar": "ابحثوا عن كسور تقع في مكان النصف نفسه، مثل {{2/4}} أو {{5/10}}. هل تجدون غيرها؟"
+    },
+    "paraQueSirve": {
+      "es": "Ver las fracciones en la cinta las convierte en números con su sitio, como el 3 o el 7. Y compararlas con la mitad es un truco que sirve toda la vida.",
+      "va": "Veure les fraccions en la cinta les convertix en números amb el seu lloc, com el 3 o el 7. I comparar-les amb la meitat és un truc que servix tota la vida.",
+      "en": "Seeing fractions on the tape turns them into numbers with their own place, like 3 or 7. And comparing them with a half is a trick that's useful for life.",
+      "fr": "Voir les fractions sur le mètre en fait des nombres avec leur place, comme 3 ou 7. Et les comparer à la moitié est une astuce qui sert toute la vie.",
+      "ar": "رؤية الكسور على الشريط تجعلها أعدادًا لها مكانها، مثل 3 أو 7. ومقارنتها بالنصف حيلة تفيد طوال الحياة."
+    },
+    "aviso": {
+      "es": "Las pinzas y los papelitos, lejos de hermanos o hermanas pequeños.",
+      "va": "Les pinces i els paperets, lluny de germans o germanes menuts.",
+      "en": "Keep the pegs and slips of paper away from younger brothers and sisters.",
+      "fr": "Gardez les pinces et les petits papiers loin des petits frères et sœurs.",
+      "ar": "أبعدوا الملاقط وقصاصات الورق عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la cinta de 100 cm, ¿dónde está {{1/4}} de metro? ¿Y {{3/4}}? ¿Cuántos centímetros hay entre las dos marcas?",
+        "va": "En la cinta de 100 cm, on està {{1/4}} de metre? I {{3/4}}? Quants centímetres hi ha entre les dues marques?",
+        "en": "On the 100 cm tape, where is {{1/4}} of a metre? And {{3/4}}? How many centimetres are there between the two marks?",
+        "fr": "Sur le mètre de 100 cm, où se trouve {{1/4}} de mètre ? Et {{3/4}} ? Combien de centimètres y a-t-il entre les deux marques ?",
+        "ar": "على شريط طوله 100 سم، أين يقع {{1/4}} المتر؟ وأين {{3/4}}؟ وكم سنتيمترًا بين العلامتين؟"
+      },
+      "pista": {
+        "es": "Un cuarto de 100 son 25. Tres cuartos, tres veces 25.",
+        "va": "Un quart de 100 són 25. Tres quarts, tres vegades 25.",
+        "en": "A quarter of 100 is 25. Three quarters is three times 25.",
+        "fr": "Un quart de 100, c'est 25. Trois quarts, trois fois 25.",
+        "ar": "ربع 100 هو 25. وثلاثة الأرباع ثلاث مرات 25."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "75 - 25",
+        "resultado": 50,
+        "unidad": "cm",
+        "texto": {
+          "es": "{{1/4}} está en 25 cm y {{3/4}}, en 75 cm. Entre las dos hay {{75 − 25 = 50}} cm: media cinta.",
+          "va": "{{1/4}} està en 25 cm i {{3/4}}, en 75 cm. Entre les dues hi ha {{75 − 25 = 50}} cm: mitja cinta.",
+          "en": "{{1/4}} is at 25 cm and {{3/4}} at 75 cm. Between them there are {{75 − 25 = 50}} cm: half the tape.",
+          "fr": "{{1/4}} est à 25 cm et {{3/4}}, à 75 cm. Entre les deux, il y a {{75 − 25 = 50}} cm : la moitié du mètre.",
+          "ar": "يقع {{1/4}} عند 25 سم، و{{3/4}} عند 75 سم. وبينهما {{75 − 25 = 50}} سم: نصف الشريط."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta sobre la distancia entre dos fracciones en la cinta.",
+        "va": "Inventa't una pregunta sobre la distància entre dues fraccions en la cinta.",
+        "en": "Make up a question about the distance between two fractions on the tape.",
+        "fr": "Invente une question sur la distance entre deux fractions sur le mètre.",
+        "ar": "لنخترع سؤالًا عن المسافة بين كسرين على الشريط."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "¿Qué fracción está más cerca del metro entero, {{4/5}} o {{1/5}}? ¿A cuántos centímetros del final está?",
+        "va": "Quina fracció està més prop del metre sencer, {{4/5}} o {{1/5}}? A quants centímetres del final està?",
+        "en": "Which fraction is closer to the whole metre, {{4/5}} or {{1/5}}? How many centimetres from the end is it?",
+        "fr": "Quelle fraction est la plus proche du mètre entier, {{4/5}} ou {{1/5}} ? À combien de centimètres de la fin est-elle ?",
+        "ar": "أي كسر أقرب إلى المتر الكامل: {{4/5}} أم {{1/5}}؟ وعلى بعد كم سنتيمترًا من النهاية يقع؟"
+      },
+      "pista": {
+        "es": "Un quinto de 100 son 20. ¿Dónde caen {{1/5}} y {{4/5}}?",
+        "va": "Un cinqué de 100 són 20. On cauen {{1/5}} i {{4/5}}?",
+        "en": "A fifth of 100 is 20. Where do {{1/5}} and {{4/5}} land?",
+        "fr": "Un cinquième de 100, c'est 20. Où tombent {{1/5}} et {{4/5}} ?",
+        "ar": "خمس 100 هو 20. أين يقع {{1/5}} و{{4/5}}؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 80",
+        "resultado": 20,
+        "unidad": "cm",
+        "texto": {
+          "es": "{{4/5}}: está en 80 cm, a solo 20 cm del metro. {{1/5}} está en 20 cm, muy cerca del 0.",
+          "va": "{{4/5}}: està en 80 cm, a només 20 cm del metre. {{1/5}} està en 20 cm, molt prop del 0.",
+          "en": "{{4/5}}: it's at 80 cm, only 20 cm from the metre. {{1/5}} is at 20 cm, very close to 0.",
+          "fr": "{{4/5}} : elle est à 80 cm, à seulement 20 cm du mètre. {{1/5}} est à 20 cm, tout près de 0.",
+          "ar": "{{4/5}}: يقع عند 80 سم، على بعد 20 سم فقط من المتر. أمّا {{1/5}} فعند 20 سم، قريبًا جدًا من 0."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta de «¿cuál está más cerca de…?» con dos fracciones.",
+        "va": "Inventa't una pregunta de «quina està més prop de…?» amb dues fraccions.",
+        "en": "Make up a “which is closer to…?” question with two fractions.",
+        "fr": "Invente une question « laquelle est la plus proche de… ? » avec deux fractions.",
+        "ar": "لنخترع سؤال «أيّهما أقرب إلى…؟» بكسرين."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En una tira de 40 cm, ¿dónde cae {{3/8}}? ¿Antes o después de la mitad?",
+        "va": "En una tira de 40 cm, on cau {{3/8}}? Abans o després de la meitat?",
+        "en": "On a 40 cm strip, where does {{3/8}} land? Before or after the half?",
+        "fr": "Sur une bande de 40 cm, où tombe {{3/8}} ? Avant ou après la moitié ?",
+        "ar": "على شريط طوله 40 سم، أين يقع {{3/8}}؟ قبل النصف أم بعده؟"
+      },
+      "pista": {
+        "es": "Un octavo de 40 son 5. ¿Y tres octavos?",
+        "va": "Un octau de 40 són 5. I tres octaus?",
+        "en": "An eighth of 40 is 5. And three eighths?",
+        "fr": "Un huitième de 40, c'est 5. Et trois huitièmes ?",
+        "ar": "ثُمن 40 هو 5. وماذا عن ثلاثة أثمان؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(40 : 8) × 3",
+        "resultado": 15,
+        "unidad": "cm",
+        "texto": {
+          "es": "Cae en 15 cm, antes de la mitad (20 cm). Tiene sentido: la mitad serían {{4/8}}.",
+          "va": "Cau en 15 cm, abans de la meitat (20 cm). Té sentit: la meitat serien {{4/8}}.",
+          "en": "It lands at 15 cm, before the half (20 cm). That makes sense: half would be {{4/8}}.",
+          "fr": "Elle tombe à 15 cm, avant la moitié (20 cm). C'est logique : la moitié, ce serait {{4/8}}.",
+          "ar": "يقع عند 15 سم، قبل النصف (20 سم). وهذا منطقي: النصف هو {{4/8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una fracción y que alguien de casa diga si va antes o después de la mitad.",
+        "va": "Inventa't una fracció i que algú de casa diga si va abans o després de la meitat.",
+        "en": "Make up a fraction and have someone at home say whether it goes before or after the half.",
+        "fr": "Invente une fraction et fais dire à quelqu'un de la maison si elle va avant ou après la moitié.",
+        "ar": "لنخترع كسرًا ونطلب من أحد في البيت أن يقول هل يأتي قبل النصف أم بعده."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 32,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: ¿cuántos gramos son medio kilo?",
+        "va": "Per a recordar: quants grams són mig quilo?",
+        "en": "Let's remember: how many grams is half a kilo?",
+        "fr": "Pour se souvenir : combien de grammes font un demi-kilo ?",
+        "ar": "لنتذكّر: كم غرامًا في نصف كيلو؟"
+      },
+      "pista": {
+        "es": "Un kilo son 1000 g.",
+        "va": "Un quilo són 1000 g.",
+        "en": "A kilo is 1000 g.",
+        "fr": "Un kilo, c'est 1000 g.",
+        "ar": "الكيلو 1000 غ."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1000 : 2",
+        "resultado": 500,
+        "unidad": "g",
+        "texto": {
+          "es": "Medio kilo son 500 g.",
+          "va": "Mig quilo són 500 g.",
+          "en": "Half a kilo is 500 g.",
+          "fr": "Un demi-kilo, c'est 500 g.",
+          "ar": "نصف الكيلو 500 غ."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta con un cuarto o tres cuartos de kilo.",
+        "va": "Inventa't una pregunta amb un quart o tres quarts de quilo.",
+        "en": "Make up a question with a quarter or three quarters of a kilo.",
+        "fr": "Invente une question avec un quart ou trois quarts de kilo.",
+        "ar": "لنخترع سؤالًا فيه ربع كيلو أو ثلاثة أرباع الكيلو."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si una fracción es más o menos que la mitad? Explícamelo con la cinta.",
+        "va": "Com saps si una fracció és més o menys que la meitat? Explica-m'ho amb la cinta.",
+        "en": "How do you know if a fraction is more or less than a half? Explain it to me with the tape.",
+        "fr": "Comment sais-tu si une fraction est plus ou moins que la moitié ? Explique-le-moi avec le mètre.",
+        "ar": "كيف نعرف أن كسرًا أكثر من النصف أو أقل؟ اشرح لي أو اشرحي لي بالشريط."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Dónde está la mitad en la cinta? ¿Y {{3/5}}? ¿Queda antes o después?»",
+        "va": "Si no sap per on començar: «On està la meitat en la cinta? I {{3/5}}? Queda abans o després?»",
+        "en": "If they don't know where to start: “Where is the half on the tape? And {{3/5}}? Is it before or after?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Où est la moitié sur le mètre ? Et {{3/5}} ? C'est avant ou après ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أين النصف على الشريط؟ وأين {{3/5}}؟ قبله أم بعده؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede que lo explique con la cinta o con un truco («si arriba hay más de la mitad de lo de abajo…»). Las dos formas valen; pedid que os lo enseñe con un ejemplo.",
+          "va": "Pot ser que ho explique amb la cinta o amb un truc («si dalt hi ha més de la meitat del de baix…»). Les dues maneres valen; demaneu que us ho ensenye amb un exemple.",
+          "en": "They might explain it with the tape or with a trick (“if the top is more than half of the bottom…”). Both work; ask them to show you with an example.",
+          "fr": "L'explication peut venir avec le mètre ou avec une astuce (« si le nombre du haut est plus que la moitié de celui du bas… »). Les deux conviennent ; demandez qu'on vous le montre avec un exemple.",
+          "ar": "قد يأتي الشرح بالشريط أو بحيلة («إذا كان البسط أكثر من نصف المقام…»). الطريقتان تصلحان؛ اطلبوا أن يُعرض عليكم ذلك بمثال."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "c8218f7598d3"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "c8218f7598d3"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "c8218f7598d3"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "c8218f7598d3"
+      }
+    }
+  }
+}
