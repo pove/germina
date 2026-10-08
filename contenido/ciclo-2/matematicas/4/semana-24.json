@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s24",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 24,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Dividir y comprobar",
+    "va": "Dividir i comprovar",
+    "en": "Divide and check",
+    "fr": "Diviser et vérifier",
+    "ar": "نقسم ونتحقّق"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden los nombres de la división (dividendo, divisor, cociente y resto) y a comprobarla con una multiplicación: el divisor por el cociente, más el resto, da el dividendo. Por ejemplo, {{85 : 4}} da 21 y sobra 1, porque {{4 × 21 + 1 = 85}}.",
+    "va": "Aquesta setmana aprenen els noms de la divisió (dividend, divisor, quocient i residu; en castellà, «dividendo, divisor, cociente y resto») i a comprovar-la amb una multiplicació: el divisor pel quocient, més el residu, dona el dividend. Per exemple, {{85 : 4}} dona 21 i en sobra 1, perquè {{4 × 21 + 1 = 85}}.",
+    "en": "This week they learn the names of the parts of a division (in Spanish, «dividendo, divisor, cociente y resto»: dividend, divisor, quotient and remainder) and how to check it with a multiplication: divisor times quotient, plus the remainder, gives the dividend. For example, {{85 : 4}} is 21 with 1 left over, because {{4 × 21 + 1 = 85}}.",
+    "fr": "Cette semaine, on apprend le nom des parties de la division (en espagnol, « dividendo, divisor, cociente y resto » : dividende, diviseur, quotient et reste) et à la vérifier avec une multiplication : le diviseur fois le quotient, plus le reste, donne le dividende. Par exemple, {{85 : 4}} donne 21 et il reste 1, parce que {{4 × 21 + 1 = 85}}.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال أسماء أجزاء القسمة (بالإسبانية «dividendo, divisor, cociente y resto»: المقسوم والمقسوم عليه وناتج القسمة والباقي)، وكيف يتحقّقون منها بالضرب: المقسوم عليه في ناتج القسمة، زائد الباقي، يعطي المقسوم. مثلًا، {{85 : 4}} تعطي 21 ويبقى 1، لأن {{4 × 21 + 1 = 85}}."
+  },
+  "comoAyudar": {
+    "es": "Comprobar no es desconfiar: es lo que hace cualquiera que calcula mucho. Si una división no cuadra, celebrad haber encontrado el despiste y buscad juntos dónde estaba.",
+    "va": "Comprovar no és desconfiar: és el que fa qualsevol que calcula molt. Si una divisió no quadra, celebreu haver trobat la distracció i busqueu junts on era.",
+    "en": "Checking isn't distrust: it's what anyone who calculates a lot does. If a division doesn't fit, celebrate finding the slip and look together for where it was.",
+    "fr": "Vérifier, ce n'est pas se méfier : c'est ce que fait toute personne qui calcule beaucoup. Si une division ne colle pas, fêtez d'avoir trouvé l'étourderie et cherchez ensemble où elle était.",
+    "ar": "التحقّق ليس شكًّا: إنه ما يفعله كل من يحسب كثيرًا. وإذا لم تتّفق قسمة، احتفلوا باكتشاف السهو وابحثوا معًا عن موضعه."
+  },
+  "saberes": [
+    "matematicas.operaciones.propiedades",
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.computacional.igualdades"
+  ],
+  "criterios": [
+    "matematicas.c2.1.3",
+    "matematicas.c2.2.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Detectives de divisiones",
+      "va": "Detectius de divisions",
+      "en": "Division detectives",
+      "fr": "Détectives des divisions",
+      "ar": "محقّقو القسمة"
+    },
+    "material": [
+      {
+        "es": "Papelitos",
+        "va": "Paperets",
+        "en": "Slips of paper",
+        "fr": "Des petits papiers",
+        "ar": "قصاصات ورق"
+      },
+      {
+        "es": "Un lápiz",
+        "va": "Un llapis",
+        "en": "A pencil",
+        "fr": "Un crayon",
+        "ar": "قلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Una persona escribe en papelitos tres divisiones con su resultado, y en una mete un despiste a propósito. Por ejemplo: {{96 : 8}} da 12; {{75 : 5}} da 15; {{84 : 6}} da 15.",
+          "va": "Una persona escriu en paperets tres divisions amb el seu resultat, i en una hi posa una distracció a propòsit. Per exemple: {{96 : 8}} dona 12; {{75 : 5}} dona 15; {{84 : 6}} dona 15.",
+          "en": "One person writes three divisions with their answers on slips of paper, and puts a deliberate slip in one. For example: {{96 : 8}} is 12; {{75 : 5}} is 15; {{84 : 6}} is 15.",
+          "fr": "Une personne écrit sur des petits papiers trois divisions avec leur résultat, et glisse exprès une étourderie dans l'une d'elles. Par exemple : {{96 : 8}} donne 12 ; {{75 : 5}} donne 15 ; {{84 : 6}} donne 15.",
+          "ar": "يكتب شخص على قصاصات ثلاث عمليات قسمة مع نتائجها، ويضع سهوًا متعمّدًا في إحداها. مثلًا: {{96 : 8}} تعطي 12؛ {{75 : 5}} تعطي 15؛ {{84 : 6}} تعطي 15."
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "La otra persona hace de detective: multiplica el divisor por el cociente. {{8 × 12 = 96}}: esta cuadra. {{5 × 15 = 75}}: esta también.",
+          "va": "L'altra persona fa de detectiu: multiplica el divisor pel quocient. {{8 × 12 = 96}}: aquesta quadra. {{5 × 15 = 75}}: aquesta també.",
+          "en": "The other person is the detective: they multiply the divisor by the quotient. {{8 × 12 = 96}}: this one fits. {{5 × 15 = 75}}: this one too.",
+          "fr": "L'autre personne joue au détective : elle multiplie le diviseur par le quotient. {{8 × 12 = 96}} : celle-ci colle. {{5 × 15 = 75}} : celle-là aussi.",
+          "ar": "يقوم الشخص الآخر بدور المحقّق: يضرب المقسوم عليه في ناتج القسمة. {{8 × 12 = 96}}: هذه تتّفق. {{5 × 15 = 75}}: وهذه أيضًا."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Y la tercera? {{6 × 15 = 90}}, no 84. ¡Despiste encontrado! ¿Cuál es el cociente bueno? Buscad qué número por 6 da 84.",
+          "va": "I la tercera? {{6 × 15 = 90}}, no 84. Distracció trobada! Quin és el quocient bo? Busqueu quin número per 6 dona 84.",
+          "en": "And the third? {{6 × 15 = 90}}, not 84. Slip found! What's the right quotient? Look for the number that times 6 makes 84.",
+          "fr": "Et la troisième ? {{6 × 15 = 90}}, pas 84. Étourderie trouvée ! Quel est le bon quotient ? Cherchez quel nombre fois 6 donne 84.",
+          "ar": "والثالثة؟ {{6 × 15 = 90}}، لا 84. وُجد السهو! ما ناتج القسمة الصحيح؟ ابحثوا عن العدد الذي في 6 يعطي 84."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "El número escondido: «84 entre algo da 7». ¿Qué número se esconde? Pensadlo con la multiplicación: ¿7 por cuánto da 84?",
+          "va": "El número amagat: «84 entre alguna cosa dona 7». Quin número s'amaga? Penseu-ho amb la multiplicació: 7 per quant dona 84?",
+          "en": "The hidden number: “84 divided by something is 7”. What's the hidden number? Think with multiplication: 7 times what makes 84?",
+          "fr": "Le nombre caché : « 84 divisé par quelque chose donne 7 ». Quel nombre se cache ? Pensez avec la multiplication : 7 fois combien donne 84 ?",
+          "ar": "العدد المخفيّ: «84 مقسومًا على عدد ما يعطي 7». ما العدد المخفيّ؟ فكّروا بالضرب: 7 في كم يعطي 84؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad divisiones de las tablas, como {{56 : 7}} o {{45 : 9}}, sin resto.",
+      "va": "Feu servir divisions de les taules, com ara {{56 : 7}} o {{45 : 9}}, sense residu.",
+      "en": "Use divisions from the times tables, like {{56 : 7}} or {{45 : 9}}, with no remainder.",
+      "fr": "Utilisez des divisions des tables, comme {{56 : 7}} ou {{45 : 9}}, sans reste.",
+      "ar": "استعملوا قسمات من الجداول، مثل {{56 : 7}} أو {{45 : 9}}، دون باقٍ."
+    },
+    "masDificil": {
+      "es": "Meted divisiones con resto, como {{50 : 7}}, que da 7 y sobra 1. Para comprobarlas: {{7 × 7 + 1 = 50}}.",
+      "va": "Poseu divisions amb residu, com ara {{50 : 7}}, que dona 7 i en sobra 1. Per a comprovar-les: {{7 × 7 + 1 = 50}}.",
+      "en": "Include divisions with a remainder, like {{50 : 7}}, which is 7 with 1 left over. To check them: {{7 × 7 + 1 = 50}}.",
+      "fr": "Ajoutez des divisions avec reste, comme {{50 : 7}}, qui donne 7 et il reste 1. Pour les vérifier : {{7 × 7 + 1 = 50}}.",
+      "ar": "أدخلوا قسمات فيها باقٍ، مثل {{50 : 7}}، التي تعطي 7 ويبقى 1. وللتحقّق منها: {{7 × 7 + 1 = 50}}."
+    },
+    "paraQueSirve": {
+      "es": "Saber comprobar da seguridad: nadie tiene por qué decir si está bien. Y ver que la división y la multiplicación se deshacen la una a la otra ayuda a entender las dos.",
+      "va": "Saber comprovar dona seguretat: no cal que ningú diga si està bé. I veure que la divisió i la multiplicació es desfan l'una a l'altra ajuda a entendre-les totes dues.",
+      "en": "Knowing how to check gives confidence: there's no need for anyone to say whether it's right. And seeing that division and multiplication undo each other helps them understand both.",
+      "fr": "Savoir vérifier donne de l'assurance : personne n'a besoin de dire si c'est juste. Et voir que la division et la multiplication se défont l'une l'autre aide à comprendre les deux.",
+      "ar": "معرفة التحقّق تمنح الثقة: لا يلزم أن يقول أحد إن النتيجة صحيحة. ورؤية أن القسمة والضرب يلغي أحدهما الآخر تساعد على فهمهما معًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Rania mete 72 fotos en un álbum, 6 en cada página. ¿Cuántas páginas llena? Comprueba tu resultado.",
+        "va": "Rania posa 72 fotos en un àlbum, 6 en cada pàgina. Quantes pàgines n'ompli? Comprova el teu resultat.",
+        "en": "Rania puts 72 photos in an album, 6 on each page. How many pages does she fill? Check your answer.",
+        "fr": "Rania met 72 photos dans un album, 6 par page. Combien de pages remplit-elle ? Vérifie ton résultat.",
+        "ar": "تضع رانيا 72 صورة في ألبوم، 6 في كل صفحة. كم صفحة تملأ؟ لنتحقّق من النتيجة."
+      },
+      "pista": {
+        "es": "¿Qué número por 6 da 72? Puedes partir el 72 en 60 y 12.",
+        "va": "Quin número per 6 dona 72? Pots partir el 72 en 60 i 12.",
+        "en": "What number times 6 makes 72? You can split 72 into 60 and 12.",
+        "fr": "Quel nombre fois 6 donne 72 ? Tu peux couper 72 en 60 et 12.",
+        "ar": "أي عدد في 6 يعطي 72؟ يمكننا تقسيم 72 إلى 60 و12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "72 : 6",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llena 12 páginas. Para comprobarlo: {{6 × 12 = 72}}.",
+          "va": "N'ompli 12. Per a comprovar-ho: {{6 × 12 = 72}}.",
+          "en": "She fills 12 pages. To check: {{6 × 12 = 72}}.",
+          "fr": "Elle remplit 12 pages. Pour vérifier : {{6 × 12 = 72}}.",
+          "ar": "تملأ 12 صفحة. وللتحقّق: {{6 × 12 = 72}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una división y comprueba el resultado con una multiplicación.",
+        "va": "Inventa't una divisió i comprova el resultat amb una multiplicació.",
+        "en": "Make up a division and check the answer with a multiplication.",
+        "fr": "Invente une division et vérifie le résultat avec une multiplication.",
+        "ar": "لنخترع عملية قسمة ونتحقّق من نتيجتها بالضرب."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Mario reparte 47 pegatinas en sobres de 5. ¿Cuántos sobres llena y cuántas pegatinas sobran?",
+        "va": "Mario repartix 47 adhesius en sobres de 5. Quants sobres n'ompli i quants adhesius en sobren?",
+        "en": "Mario shares 47 stickers into envelopes of 5. How many envelopes does he fill and how many stickers are left over?",
+        "fr": "Mario répartit 47 autocollants dans des enveloppes de 5. Combien d'enveloppes remplit-il et combien d'autocollants reste-t-il ?",
+        "ar": "يوزّع ماريو 47 ملصقًا في مغلّفات من 5. كم مغلّفًا يملأ وكم ملصقًا يبقى؟"
+      },
+      "pista": {
+        "es": "Busca el número de la tabla del 5 que más se acerca a 47 sin pasarse.",
+        "va": "Busca el número de la taula del 5 que més s'acosta a 47 sense passar-se'n.",
+        "en": "Look for the number in the 5 times table that gets closest to 47 without going over.",
+        "fr": "Cherche le nombre de la table de 5 le plus proche de 47 sans le dépasser.",
+        "ar": "لنبحث في جدول 5 عن أقرب عدد إلى 47 دون أن يتجاوزه."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(47 - 2) : 5",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llena 9 sobres y sobran 2 pegatinas: {{5 × 9 + 2 = 47}}.",
+          "va": "N'ompli 9 i en sobren 2: {{5 × 9 + 2 = 47}}.",
+          "en": "He fills 9 envelopes and 2 stickers are left over: {{5 × 9 + 2 = 47}}.",
+          "fr": "Il remplit 9 enveloppes et il reste 2 autocollants : {{5 × 9 + 2 = 47}}.",
+          "ar": "يملأ 9 مغلّفات ويبقى ملصقان: {{5 × 9 + 2 = 47}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una división con resto y escribe cómo la comprobarías.",
+        "va": "Inventa't una divisió amb residu i escriu com la comprovaries.",
+        "en": "Make up a division with a remainder and write how you'd check it.",
+        "fr": "Invente une division avec reste et écris comment tu la vérifierais.",
+        "ar": "لنخترع قسمة فيها باقٍ ونكتب كيف نتحقّق منها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Elena dice que {{91 : 7}} da 13. ¿Cómo puedes saber si tiene razón sin hacer la división?",
+        "va": "Elena diu que {{91 : 7}} dona 13. Com pots saber si té raó sense fer la divisió?",
+        "en": "Elena says that {{91 : 7}} is 13. How can you tell whether she's right without doing the division?",
+        "fr": "Elena dit que {{91 : 7}} donne 13. Comment peux-tu savoir si elle a raison sans faire la division ?",
+        "ar": "تقول إلينا إن {{91 : 7}} تعطي 13. كيف نعرف إن كانت محقّة دون إجراء القسمة؟"
+      },
+      "pista": {
+        "es": "Multiplica el divisor por el cociente: {{7 × 13}}.",
+        "va": "Multiplica el divisor pel quocient: {{7 × 13}}.",
+        "en": "Multiply the divisor by the quotient: {{7 × 13}}.",
+        "fr": "Multiplie le diviseur par le quotient : {{7 × 13}}.",
+        "ar": "لنضرب المقسوم عليه في ناتج القسمة: {{7 × 13}}."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 13",
+        "resultado": 91,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Multiplicando: {{7 × 13 = 91}}. Elena tiene razón.",
+          "va": "Multiplicant: {{7 × 13 = 91}}. Elena té raó.",
+          "en": "By multiplying: {{7 × 13 = 91}}. Elena is right.",
+          "fr": "En multipliant : {{7 × 13 = 91}}. Elena a raison.",
+          "ar": "بالضرب: {{7 × 13 = 91}}. إلينا محقّة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una división con un despiste para que alguien de casa lo descubra.",
+        "va": "Inventa't una divisió amb una distracció perquè algú de casa la descobrisca.",
+        "en": "Make up a division with a slip in it for someone at home to spot.",
+        "fr": "Invente une division avec une étourderie à faire trouver à quelqu'un de la maison.",
+        "ar": "لنخترع قسمة فيها سهو ليكتشفه أحد في البيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 23,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: cinco personas se reparten 85 € a partes iguales. ¿Cuánto le toca a cada una?",
+        "va": "Per a recordar: cinc persones es repartixen 85 € a parts iguals. Quant li toca a cadascuna?",
+        "en": "Let's remember: five people share 85 € equally. How much does each one get?",
+        "fr": "Pour se souvenir : cinq personnes se partagent 85 € en parts égales. Combien chacune reçoit-elle ?",
+        "ar": "لنتذكّر: يقتسم خمسة أشخاص 85 يورو بالتساوي. كم نصيب كل واحد؟"
+      },
+      "pista": {
+        "es": "8 billetes de 10 € entre 5: 1 para cada persona y sobran 3. Cámbialos por monedas.",
+        "va": "8 bitllets de 10 € entre 5: 1 per a cada persona i en sobren 3. Canvia'ls per monedes.",
+        "en": "8 notes of 10 € between 5: 1 for each person and 3 left over. Swap them for coins.",
+        "fr": "8 billets de 10 € entre 5 : 1 pour chaque personne, et il en reste 3. Change-les contre des pièces.",
+        "ar": "8 أوراق من فئة 10 يورو على 5: ورقة لكل شخص وتبقى 3. لنصرفها بقطع نقدية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "85 : 5",
+        "resultado": 17,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le tocan 17 €: {{5 × 17 = 85}}.",
+          "va": "Li toquen 17 €: {{5 × 17 = 85}}.",
+          "en": "Each gets 17 €: {{5 × 17 = 85}}.",
+          "fr": "Chacune reçoit 17 € : {{5 × 17 = 85}}.",
+          "ar": "نصيب كل واحد 17 يورو: {{5 × 17 = 85}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto de dinero en el que haga falta cambiar billetes.",
+        "va": "Inventa't un repartiment de diners en què es canvien bitllets.",
+        "en": "Make up a money-sharing problem where notes need swapping.",
+        "fr": "Invente un partage d'argent où l'on a besoin de changer des billets.",
+        "ar": "لنخترع توزيعًا للنقود نحتاج فيه إلى صرف أوراق."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si una división está bien sin que nadie te lo diga? Explícamelo con un ejemplo.",
+        "va": "Com saps si una divisió està bé sense que ningú t'ho diga? Explica-m'ho amb un exemple.",
+        "en": "How do you know whether a division is right without anyone telling you? Explain it to me with an example.",
+        "fr": "Comment sais-tu si une division est juste sans que personne ne te le dise ? Explique-le-moi avec un exemple.",
+        "ar": "كيف نعرف أن قسمة صحيحة دون أن يخبرنا أحد؟ اشرح لي أو اشرحي لي بمثال."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué hacía el detective con las divisiones?»",
+        "va": "Si no sap per on començar: «Què feia el detectiu amb les divisions?»",
+        "en": "If they don't know where to start: “What did the detective do with the divisions?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Que faisait le détective avec les divisions ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا كان المحقّق يفعل بالقسمات؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo que buscáis es «multiplico para comprobar». Si además se acuerda de sumar el resto, estupendo.",
+          "va": "El que busqueu és «multiplique per a comprovar». Si a més se'n recorda de sumar el residu, estupend.",
+          "en": "What you're looking for is “I multiply to check”. If they also remember to add the remainder, wonderful.",
+          "fr": "Ce que vous cherchez, c'est « je multiplie pour vérifier ». Si on pense en plus à ajouter le reste, formidable.",
+          "ar": "ما تبحثون عنه هو «أضرب لأتحقّق». وإن تذكّر الطفل أيضًا جمع الباقي، فرائع."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "d4ca449f62b3"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "d4ca449f62b3"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "d4ca449f62b3"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "d4ca449f62b3"
+      }
+    }
+  }
+}

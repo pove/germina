@@ -1,0 +1,341 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s27",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 27,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Bordes y superficies",
+    "va": "Vores i superfícies",
+    "en": "Edges and surfaces",
+    "fr": "Bords et surfaces",
+    "ar": "حواف وسطوح"
+  },
+  "objetivo": {
+    "es": "Esta semana distinguen el perímetro (lo que mide el borde) del área (lo que ocupa la superficie), contando cuadrados. También buscan ángulos rectos y rectas paralelas y perpendiculares.",
+    "va": "Aquesta setmana distingixen el perímetre (el que mesura la vora) de l'àrea (el que ocupa la superfície), comptant quadrats. També busquen angles rectes i rectes paral·leles i perpendiculars.",
+    "en": "This week they tell perimeter (the length of the edge) apart from area (the space a surface covers), by counting squares. They also look for right angles and for parallel and perpendicular lines.",
+    "fr": "Cette semaine, on distingue le périmètre (la longueur du bord) de l'aire (ce qu'occupe la surface), en comptant des carrés. On cherche aussi des angles droits et des droites parallèles et perpendiculaires.",
+    "ar": "هذا الأسبوع يميّز الأطفال بين المحيط (طول الحافة) والمساحة (ما يشغله السطح) بعدّ المربّعات. ويبحثون أيضًا عن زوايا قائمة وعن مستقيمات متوازية ومتعامدة."
+  },
+  "comoAyudar": {
+    "es": "Perímetro y área se confunden mucho. Una pista que ayuda: el perímetro se recorre con el dedo por el borde; el área se pinta por dentro.",
+    "va": "Perímetre i àrea es confonen molt. Una pista que ajuda: el perímetre es recorre amb el dit per la vora; l'àrea es pinta per dins.",
+    "en": "Perimeter and area are often mixed up. A helpful clue: you trace the perimeter with your finger along the edge; you colour the area in.",
+    "fr": "Périmètre et aire se confondent souvent. Un indice qui aide : le périmètre se suit du doigt le long du bord ; l'aire se colorie à l'intérieur.",
+    "ar": "يختلط المحيط والمساحة كثيرًا. تلميح مفيد: المحيط نتتبّعه بالإصبع على الحافة؛ والمساحة نلوّنها من الداخل."
+  },
+  "saberes": [
+    "matematicas.geometria.perimetros-areas",
+    "matematicas.geometria.angulos",
+    "matematicas.geometria.poligonos",
+    "matematicas.geometria.posiciones-rectas",
+    "matematicas.geometria.estrategias"
+  ],
+  "criterios": [
+    "matematicas.c2.3.2",
+    "matematicas.c2.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Baldosas y esquinas",
+      "va": "Rajoles i cantonades",
+      "en": "Tiles and corners",
+      "fr": "Carreaux et coins",
+      "ar": "بلاط وزوايا"
+    },
+    "material": [
+      {
+        "es": "Un folio",
+        "va": "Un foli",
+        "en": "A sheet of paper",
+        "fr": "Une feuille de papier",
+        "ar": "ورقة"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Buscad un suelo con baldosas (la cocina, el baño o el pasillo) y elegid un rectángulo de baldosas enteras. Contad cuántas hay en una fila y cuántas filas hay.",
+          "va": "Busqueu un terra amb rajoles (la cuina, el bany o el corredor) i trieu un rectangle de rajoles senceres. Compteu quantes n'hi ha en una fila i quantes files hi ha.",
+          "en": "Find a tiled floor (the kitchen, bathroom or hallway) and choose a rectangle of whole tiles. Count how many are in one row and how many rows there are.",
+          "fr": "Trouvez un sol carrelé (la cuisine, la salle de bains ou le couloir) et choisissez un rectangle de carreaux entiers. Comptez combien il y en a dans une rangée et combien de rangées il y a.",
+          "ar": "ابحثوا عن أرضية مبلّطة (المطبخ أو الحمّام أو الممر) واختاروا مستطيلًا من البلاطات الكاملة. عدّوا البلاطات في صف واحد وعدد الصفوف."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Multiplicad: si hay 8 filas de 6 baldosas, el área es {{8 × 6 = 48}} baldosas. Es lo que se pinta por dentro.",
+          "va": "Multipliqueu: si hi ha 8 files de 6 rajoles, l'àrea és {{8 × 6 = 48}} rajoles. És el que es pinta per dins.",
+          "en": "Multiply: if there are 8 rows of 6 tiles, the area is {{8 × 6 = 48}} tiles. That's what you colour in.",
+          "fr": "Multipliez : s'il y a 8 rangées de 6 carreaux, l'aire est de {{8 × 6 = 48}} carreaux. C'est ce qu'on colorie à l'intérieur.",
+          "ar": "اضربوا: إذا كانت هناك 8 صفوف في كل منها 6 بلاطات، فالمساحة {{8 × 6 = 48}} بلاطة. هذا ما نلوّنه من الداخل."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Ahora el borde: recorred el rectángulo con el dedo y contad los lados de baldosa. En 8 por 6: {{8 + 6 + 8 + 6 = 28}}. Ese es el perímetro.",
+          "va": "Ara la vora: recorreu el rectangle amb el dit i compteu els costats de rajola. En 8 per 6: {{8 + 6 + 8 + 6 = 28}}. Eixe és el perímetre.",
+          "en": "Now the edge: trace the rectangle with your finger and count the tile sides. For 8 by 6: {{8 + 6 + 8 + 6 = 28}}. That's the perimeter.",
+          "fr": "Maintenant le bord : suivez le rectangle du doigt et comptez les côtés de carreau. Pour 8 sur 6 : {{8 + 6 + 8 + 6 = 28}}. C'est le périmètre.",
+          "ar": "الآن الحافة: تتبّعوا المستطيل بالإصبع وعدّوا أضلاع البلاط. في 8 في 6: {{8 + 6 + 8 + 6 = 28}}. هذا هو المحيط."
+        }
+      },
+      {
+        "pictograma": "angulo",
+        "texto": {
+          "es": "Con la esquina de un folio, buscad ángulos rectos en las baldosas, en la puerta y en la mesa. Mirad las juntas: unas líneas nunca se cruzan (son paralelas) y otras se cruzan en ángulo recto (son perpendiculares).",
+          "va": "Amb la cantonada d'un foli, busqueu angles rectes en les rajoles, en la porta i en la taula. Mireu les juntes: unes línies no es creuen mai (són paral·leles) i altres es creuen en angle recte (són perpendiculars).",
+          "en": "With the corner of a sheet of paper, look for right angles in the tiles, the door and the table. Look at the gaps between tiles: some lines never cross (they're parallel) and others cross at a right angle (they're perpendicular).",
+          "fr": "Avec le coin d'une feuille, cherchez des angles droits sur les carreaux, la porte et la table. Regardez les joints : certaines lignes ne se croisent jamais (elles sont parallèles) et d'autres se croisent à angle droit (elles sont perpendiculaires).",
+          "ar": "بزاوية ورقة، ابحثوا عن زوايا قائمة في البلاط والباب والطاولة. وانظروا إلى الفواصل: بعض الخطوط لا تتقاطع أبدًا (متوازية) وبعضها يتقاطع بزاوية قائمة (متعامدة)."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Dibujad en papel cuadriculado un rectángulo de 4 por 3 y contad los cuadraditos de dentro y los lados del borde.",
+      "va": "Dibuixeu en paper quadriculat un rectangle de 4 per 3 i compteu els quadradets de dins i els costats de la vora.",
+      "en": "Draw a 4 by 3 rectangle on squared paper and count the little squares inside and the sides along the edge.",
+      "fr": "Dessinez sur papier quadrillé un rectangle de 4 sur 3 et comptez les petits carreaux à l'intérieur et les côtés du bord.",
+      "ar": "ارسموا على ورق المربّعات مستطيلًا 4 في 3 وعدّوا المربّعات الصغيرة في داخله والأضلاع على حافته."
+    },
+    "masDificil": {
+      "es": "Dibujad en papel cuadriculado dos rectángulos con el mismo perímetro, como uno de 6 por 2 y otro de 4 por 4. ¿Tienen la misma área?",
+      "va": "Dibuixeu en paper quadriculat dos rectangles amb el mateix perímetre, com un de 6 per 2 i un altre de 4 per 4. Tenen la mateixa àrea?",
+      "en": "Draw two rectangles with the same perimeter on squared paper, like a 6 by 2 and a 4 by 4. Do they have the same area?",
+      "fr": "Dessinez sur papier quadrillé deux rectangles de même périmètre, comme un de 6 sur 2 et un de 4 sur 4. Ont-ils la même aire ?",
+      "ar": "ارسموا على ورق المربّعات مستطيلين لهما المحيط نفسه، مثل 6 في 2 و4 في 4. هل لهما المساحة نفسها؟"
+    },
+    "paraQueSirve": {
+      "es": "Contar baldosas hace que el área sea algo que se ve y se toca, no una fórmula. Y distinguir borde y superficie sirve para pintar una pared, poner un rodapié o elegir una alfombra.",
+      "va": "Comptar rajoles fa que l'àrea siga una cosa que es veu i es toca, no una fórmula. I distingir vora i superfície servix per a pintar una paret, posar un sòcol o triar una catifa.",
+      "en": "Counting tiles makes area something you can see and touch, not a formula. And telling edge and surface apart helps when painting a wall, fitting a skirting board or choosing a rug.",
+      "fr": "Compter des carreaux fait de l'aire quelque chose qu'on voit et qu'on touche, pas une formule. Et distinguer bord et surface sert pour peindre un mur, poser une plinthe ou choisir un tapis.",
+      "ar": "عدّ البلاط يجعل المساحة شيئًا يُرى ويُلمس، لا صيغة. والتمييز بين الحافة والسطح يفيد عند طلاء جدار أو تركيب إطار سفلي أو اختيار سجّادة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "El suelo de un patio está cubierto con 9 filas de 7 baldosas. ¿Cuántas baldosas hay?",
+        "va": "El terra d'un pati està cobert amb 9 files de 7 rajoles. Quantes rajoles hi ha?",
+        "en": "A courtyard floor is covered with 9 rows of 7 tiles. How many tiles are there?",
+        "fr": "Le sol d'une cour est couvert de 9 rangées de 7 carreaux. Combien y a-t-il de carreaux ?",
+        "ar": "أرضية فناء مغطّاة بـ9 صفوف في كل منها 7 بلاطات. كم بلاطة هناك؟"
+      },
+      "pista": {
+        "es": "{{10 × 7 = 70}}, y quita una fila.",
+        "va": "{{10 × 7 = 70}}, i lleva una fila.",
+        "en": "{{10 × 7 = 70}}, then take away one row.",
+        "fr": "{{10 × 7 = 70}}, puis enlève une rangée.",
+        "ar": "{{10 × 7 = 70}}، ثم لنطرح صفًّا واحدًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 × 7",
+        "resultado": 63,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 63 baldosas: el área del patio es de 63 baldosas.",
+          "va": "Hi ha 63 rajoles: l'àrea del pati és de 63 rajoles.",
+          "en": "There are 63 tiles: the area of the courtyard is 63 tiles.",
+          "fr": "Il y a 63 carreaux : l'aire de la cour est de 63 carreaux.",
+          "ar": "هناك 63 بلاطة: مساحة الفناء 63 بلاطة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con las baldosas de algún sitio de tu casa o de tu cole.",
+        "va": "Inventa'n tu una amb les rajoles d'algun lloc de casa o de l'escola.",
+        "en": "Make one up with the tiles somewhere at home or at school.",
+        "fr": "Invente un problème avec les carreaux d'un endroit de ta maison ou de ton école.",
+        "ar": "لنخترع مسألة ببلاط مكان ما في بيتنا أو مدرستنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un huerto rectangular mide 12 m de largo y 5 m de ancho. ¿Cuántos metros de valla hacen falta para rodearlo?",
+        "va": "Un hort rectangular mesura 12 m de llarg i 5 m d'ample. Quants metres de tanca calen per a envoltar-lo?",
+        "en": "A rectangular vegetable garden is 12 m long and 5 m wide. How many metres of fence are needed to go all the way round?",
+        "fr": "Un potager rectangulaire mesure 12 m de long et 5 m de large. Combien de mètres de clôture faut-il pour en faire le tour ?",
+        "ar": "بستان مستطيل طوله 12 م وعرضه 5 م. كم مترًا من السياج نحتاج لنحيط به؟"
+      },
+      "pista": {
+        "es": "Tiene dos lados de 12 m y dos de 5 m.",
+        "va": "Té dos costats de 12 m i dos de 5 m.",
+        "en": "It has two sides of 12 m and two of 5 m.",
+        "fr": "Il a deux côtés de 12 m et deux de 5 m.",
+        "ar": "له ضلعان طول كل منهما 12 م وضلعان طول كل منهما 5 م."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 + 5 + 12 + 5",
+        "resultado": 34,
+        "unidad": "m",
+        "texto": {
+          "es": "Hacen falta 34 m de valla: {{12 + 5 + 12 + 5 = 34}}.",
+          "va": "Calen 34 m de tanca: {{12 + 5 + 12 + 5 = 34}}.",
+          "en": "34 m of fence are needed: {{12 + 5 + 12 + 5 = 34}}.",
+          "fr": "On a besoin de 34 m de clôture : {{12 + 5 + 12 + 5 = 34}}.",
+          "ar": "نحتاج 34 م من السياج: {{12 + 5 + 12 + 5 = 34}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de rodear algo con una valla, una cinta o un cordón.",
+        "va": "Inventa'n tu una d'envoltar alguna cosa amb una tanca, una cinta o un cordó.",
+        "en": "Make one up about going round something with a fence, a ribbon or a cord.",
+        "fr": "Invente un problème où l'on fait le tour de quelque chose avec une clôture, un ruban ou un cordon.",
+        "ar": "لنخترع مسألة نحيط فيها شيئًا بسياج أو شريط أو خيط."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Kenji dibuja en papel cuadriculado un cuadrado de 5 cuadraditos de lado. ¿Cuál es su área? ¿Y su perímetro?",
+        "va": "Kenji dibuixa en paper quadriculat un quadrat de 5 quadradets de costat. Quina és la seua àrea? I el seu perímetre?",
+        "en": "Kenji draws a square on squared paper with sides of 5 little squares. What is its area? And its perimeter?",
+        "fr": "Kenji dessine sur papier quadrillé un carré de 5 petits carreaux de côté. Quelle est son aire ? Et son périmètre ?",
+        "ar": "يرسم كينجي على ورق المربّعات مربّعًا طول ضلعه 5 مربّعات صغيرة. ما مساحته؟ وما محيطه؟"
+      },
+      "pista": {
+        "es": "El área se cuenta por dentro: filas por columnas. El perímetro, por el borde: 4 lados.",
+        "va": "L'àrea es compta per dins: files per columnes. El perímetre, per la vora: 4 costats.",
+        "en": "Area is counted inside: rows times columns. Perimeter, along the edge: 4 sides.",
+        "fr": "L'aire se compte à l'intérieur : rangées fois colonnes. Le périmètre, le long du bord : 4 côtés.",
+        "ar": "المساحة تُعدّ من الداخل: الصفوف في الأعمدة. والمحيط على الحافة: 4 أضلاع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 5",
+        "resultado": 25,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Su área es de 25 cuadraditos ({{5 × 5 = 25}}) y su perímetro, de 20 lados de cuadradito ({{4 × 5 = 20}}).",
+          "va": "La seua àrea és de 25 quadradets ({{5 × 5 = 25}}) i el seu perímetre, de 20 costats de quadradet ({{4 × 5 = 20}}).",
+          "en": "Its area is 25 little squares ({{5 × 5 = 25}}) and its perimeter is 20 square sides ({{4 × 5 = 20}}).",
+          "fr": "Son aire est de 25 petits carreaux ({{5 × 5 = 25}}) et son périmètre, de 20 côtés de carreau ({{4 × 5 = 20}}).",
+          "ar": "مساحته 25 مربّعًا صغيرًا ({{5 × 5 = 25}})، ومحيطه 20 ضلع مربّع ({{4 × 5 = 20}})."
+        }
+      },
+      "inventala": {
+        "es": "Dibuja tú un rectángulo en papel cuadriculado y pregunta su área y su perímetro.",
+        "va": "Dibuixa tu un rectangle en paper quadriculat i pregunta la seua àrea i el seu perímetre.",
+        "en": "Draw a rectangle on squared paper and ask for its area and perimeter.",
+        "fr": "Dessine un rectangle sur papier quadrillé et demande son aire et son périmètre.",
+        "ar": "لنرسم مستطيلًا على ورق المربّعات ونسأل عن مساحته ومحيطه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 26,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: compras 3 libros de 12 € cada uno y pagas con 50 €. ¿Cuánto te devuelven?",
+        "va": "Per a recordar: compres 3 llibres de 12 € cadascun i pagues amb 50 €. Quant et tornen?",
+        "en": "Let's remember: you buy 3 books at 12 € each and pay with 50 €. How much change do you get?",
+        "fr": "Pour se souvenir : tu achètes 3 livres à 12 € chacun et tu paies avec 50 €. Combien te rend-on ?",
+        "ar": "لنتذكّر: اشترينا 3 كتب ثمن كل منها 12 يورو، ودفعنا 50 يورو. كم يُرجَع لنا؟"
+      },
+      "pista": {
+        "es": "Primero, cuánto cuestan los 3 libros. Después, cuánto falta hasta 50 €.",
+        "va": "Primer, quant costen els 3 llibres. Després, quant falta fins a 50 €.",
+        "en": "First, how much the 3 books cost. Then, how much more to get to 50 €.",
+        "fr": "D'abord, combien coûtent les 3 livres. Ensuite, combien il manque jusqu'à 50 €.",
+        "ar": "أولًا، كم ثمن الكتب الثلاثة. ثم كم يبقى حتى 50 يورو."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "50 - (3 × 12)",
+        "resultado": 14,
+        "unidad": "euros",
+        "texto": {
+          "es": "Te devuelven 14 €: {{3 × 12 = 36}} y {{50 − 36 = 14}}.",
+          "va": "Et tornen 14 €: {{3 × 12 = 36}} i {{50 − 36 = 14}}.",
+          "en": "You get 14 € back: {{3 × 12 = 36}} and {{50 − 36 = 14}}.",
+          "fr": "On te rend 14 € : {{3 × 12 = 36}} et {{50 − 36 = 14}}.",
+          "ar": "يُرجَع لنا 14 يورو: {{3 × 12 = 36}} و{{50 − 36 = 14}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos con algo que quieras comprar.",
+        "va": "Inventa'n tu un de dos passos amb alguna cosa que vulgues comprar.",
+        "en": "Make up a two-step one with something you'd like to buy.",
+        "fr": "Invente un problème en deux étapes avec quelque chose que tu voudrais acheter.",
+        "ar": "لنخترع مسألة من خطوتين بشيء نرغب في شرائه."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué diferencia hay entre el perímetro y el área? Explícamelo con una mesa o una baldosa.",
+        "va": "Quina diferència hi ha entre el perímetre i l'àrea? Explica-m'ho amb una taula o una rajola.",
+        "en": "What's the difference between perimeter and area? Explain it to me with a table or a tile.",
+        "fr": "Quelle différence y a-t-il entre le périmètre et l'aire ? Explique-le-moi avec une table ou un carreau.",
+        "ar": "ما الفرق بين المحيط والمساحة؟ اشرح لي أو اشرحي لي بطاولة أو بلاطة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué recorrías con el dedo? ¿Y qué pintabas por dentro?»",
+        "va": "Si no sap per on començar: «Què recorries amb el dit? I què pintaves per dins?»",
+        "en": "If they don't know where to start: “What did you trace with your finger? And what did you colour in?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu suivais du doigt ? Et qu'est-ce que tu coloriais à l'intérieur ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا كنّا نتتبّع بالإصبع؟ وماذا كنّا نلوّن من الداخل؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si usa sus palabras («el borde» y «lo de dentro»), ya lo ha entendido. Pedid que os lo enseñe con el dedo sobre la mesa.",
+          "va": "Si fa servir les seues paraules («la vora» i «el de dins»), ja ho ha entés. Demaneu que us ho ensenye amb el dit damunt de la taula.",
+          "en": "If they use their own words (“the edge” and “the inside”), they've understood. Ask them to show you with a finger on the table.",
+          "fr": "Avec ses propres mots (« le bord » et « l'intérieur »), c'est déjà compris. Demandez qu'on vous le montre du doigt sur la table.",
+          "ar": "إذا استُعملت كلمات خاصة («الحافة» و«الداخل»)، فقد فُهمت الفكرة. اطلبوا أن يُعرض عليكم ذلك بالإصبع على الطاولة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f828786b53a3"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f828786b53a3"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f828786b53a3"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f828786b53a3"
+      }
+    }
+  }
+}

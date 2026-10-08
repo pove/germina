@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s26",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 26,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Dos pasos",
+    "va": "Dos passos",
+    "en": "Two steps",
+    "fr": "Deux étapes",
+    "ar": "خطوتان"
+  },
+  "objetivo": {
+    "es": "Esta semana resuelven problemas de dos pasos, en los que una cuenta lleva a otra: por ejemplo, primero cuántas galletas hacen falta y después cuántas faltan. Dibujarlo antes de calcular ayuda mucho.",
+    "va": "Aquesta setmana resolen problemes de dos passos, en què un compte porta a un altre: per exemple, primer quantes galetes calen i després quantes en falten. Dibuixar-ho abans de calcular ajuda molt.",
+    "en": "This week they solve two-step problems, where one sum leads to another: for example, first how many biscuits are needed and then how many are missing. Drawing it before calculating helps a lot.",
+    "fr": "Cette semaine, on résout des problèmes en deux étapes, où un calcul mène à un autre : par exemple, d'abord combien de biscuits il en faut en tout, puis combien il en manque. Le dessiner avant de calculer aide beaucoup.",
+    "ar": "هذا الأسبوع يحلّ الأطفال مسائل من خطوتين، تقود فيها عملية إلى أخرى: مثلًا، أولًا كم بسكويتة نحتاج ثم كم ينقص. والرسم قبل الحساب يساعد كثيرًا."
+  },
+  "comoAyudar": {
+    "es": "Si se atasca, no deis la cuenta: preguntad «¿qué sabemos?» y «¿qué queremos saber?». Y si el primer camino no lleva a ningún sitio, se busca otro: equivocarse es parte de pensar.",
+    "va": "Si s'encalla, no doneu el compte: pregunteu «què sabem?» i «què volem saber?». I si el primer camí no porta enlloc, se'n busca un altre: equivocar-se és part de pensar.",
+    "en": "If they get stuck, don't give them the sum: ask “What do we know?” and “What do we want to find out?” And if the first route goes nowhere, look for another: getting things wrong is part of thinking.",
+    "fr": "En cas de blocage, ne donnez pas le calcul : demandez « Qu'est-ce qu'on sait ? » et « Qu'est-ce qu'on veut savoir ? ». Et si le premier chemin ne mène nulle part, on en cherche un autre : se tromper fait partie de réfléchir.",
+    "ar": "إذا تعثّر الطفل، لا تعطوه العملية: اسألوا «ماذا نعرف؟» و«ماذا نريد أن نعرف؟». وإذا لم يوصل الطريق الأول إلى شيء، نبحث عن غيره: الخطأ جزء من التفكير."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c2.1.2",
+    "matematicas.c2.1.3",
+    "matematicas.c2.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La merienda",
+      "va": "El berenar",
+      "en": "Snack time",
+      "fr": "Le goûter",
+      "ar": "الوجبة الخفيفة"
+    },
+    "material": [
+      {
+        "es": "Galletas (o papelitos que hagan de galletas)",
+        "va": "Galetes (o paperets que facen de galetes)",
+        "en": "Biscuits (or slips of paper pretending to be biscuits)",
+        "fr": "Des biscuits (ou des petits papiers qui font office de biscuits)",
+        "ar": "بسكويت (أو قصاصات ورق تقوم مقامه)"
+      },
+      {
+        "es": "Un plato",
+        "va": "Un plat",
+        "en": "A plate",
+        "fr": "Une assiette",
+        "ar": "صحن"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Poned 3 galletas en un plato. Imaginad que sois 4 personas y cada una quiere 2 galletas. ¿Llegan?",
+          "va": "Poseu 3 galetes en un plat. Imagineu que sou 4 persones i cadascuna en vol 2. N'hi ha prou?",
+          "en": "Put 3 biscuits on a plate. Imagine there are 4 of you and each person wants 2 biscuits. Are there enough?",
+          "fr": "Mettez 3 biscuits dans une assiette. Imaginez que vous êtes 4 et que chaque personne en veut 2. Y en a-t-il assez ?",
+          "ar": "ضعوا 3 بسكويتات في صحن. تخيّلوا أنكم 4 أشخاص وكل واحد يريد بسكويتتين. هل تكفي؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Antes de calcular, dibujadlo: 4 caras y 2 galletas debajo de cada una. Tachad las 3 que ya están en el plato.",
+          "va": "Abans de calcular, dibuixeu-ho: 4 cares i 2 galetes davall de cadascuna. Ratlleu les 3 que ja estan en el plat.",
+          "en": "Before calculating, draw it: 4 faces with 2 biscuits under each one. Cross out the 3 that are already on the plate.",
+          "fr": "Avant de calculer, dessinez-le : 4 visages et 2 biscuits sous chacun. Barrez les 3 qui sont déjà dans l'assiette.",
+          "ar": "قبل الحساب، ارسموا ذلك: 4 وجوه وتحت كل وجه بسكويتتان. اشطبوا الثلاث الموجودة في الصحن."
+        }
+      },
+      {
+        "pictograma": "galleta",
+        "texto": {
+          "es": "Ahora con cuentas. Primer paso: hacen falta {{4 × 2 = 8}} galletas. Segundo paso: faltan {{8 − 3 = 5}}.",
+          "va": "Ara amb comptes. Primer pas: calen {{4 × 2 = 8}} galetes. Segon pas: en falten {{8 − 3 = 5}}.",
+          "en": "Now with sums. First step: {{4 × 2 = 8}} biscuits are needed. Second step: {{8 − 3 = 5}} are missing.",
+          "fr": "Maintenant avec des calculs. Première étape : il en faut {{4 × 2 = 8}}. Deuxième étape : il en manque {{8 − 3 = 5}}.",
+          "ar": "الآن بالحساب. الخطوة الأولى: نحتاج {{4 × 2 = 8}} بسكويتات. الخطوة الثانية: ينقص {{8 − 3 = 5}}."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Cambiad los datos con vuestra familia de verdad: ¿cuántas personas sois? ¿Cuántas galletas quiere cada una? Cada persona explica sus dos pasos.",
+          "va": "Canvieu les dades amb la vostra família de veritat: quantes persones sou? Quantes galetes en vol cadascuna? Cada persona explica els seus dos passos.",
+          "en": "Change the numbers to fit your real family: how many of you are there? How many biscuits does each person want? Each person explains their two steps.",
+          "fr": "Changez les données avec votre vraie famille : combien êtes-vous ? Combien de biscuits chaque personne veut-elle ? Chaque personne explique ses deux étapes.",
+          "ar": "غيّروا المعطيات بحسب عائلتكم الحقيقية: كم شخصًا أنتم؟ كم بسكويتة يريد كل واحد؟ يشرح كل شخص خطوتيه."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced el primer paso con las galletas delante y el segundo contando con los dedos las que faltan.",
+      "va": "Feu el primer pas amb les galetes davant i el segon comptant amb els dits les que falten.",
+      "en": "Do the first step with the biscuits in front of you and the second by counting the missing ones on your fingers.",
+      "fr": "Faites la première étape avec les biscuits devant vous et la deuxième en comptant sur les doigts ceux qui manquent.",
+      "ar": "قوموا بالخطوة الأولى والبسكويت أمامكم، وبالثانية بعدّ الناقص على الأصابع."
+    },
+    "masDificil": {
+      "es": "Añadid un tercer paso: si las galletas vienen en paquetes de 4, ¿cuántos paquetes abrís? ¿Sobra alguna?",
+      "va": "Afegiu un tercer pas: si les galetes vénen en paquets de 4, quants paquets obriu? En sobra alguna?",
+      "en": "Add a third step: if biscuits come in packs of 4, how many packs do you open? Are any left over?",
+      "fr": "Ajoutez une troisième étape : si les biscuits sont vendus par paquets de 4, combien de paquets ouvrez-vous ? En reste-t-il ?",
+      "ar": "أضيفوا خطوة ثالثة: إذا كان البسكويت في علب من 4، كم علبة تفتحون؟ هل يبقى شيء؟"
+    },
+    "paraQueSirve": {
+      "es": "Los problemas de verdad casi nunca se resuelven con una sola cuenta. Pararse a pensar «¿qué sé y qué quiero saber?» y dibujarlo es una forma de pensar que sirve siempre.",
+      "va": "Els problemes de veritat quasi mai es resolen amb un sol compte. Aturar-se a pensar «què sé i què vull saber?» i dibuixar-ho és una manera de pensar que servix sempre.",
+      "en": "Real problems are hardly ever solved with a single sum. Stopping to think “What do I know and what do I want to find out?” and drawing it is a way of thinking that always helps.",
+      "fr": "Les vrais problèmes se résolvent presque jamais avec un seul calcul. S'arrêter pour penser « Qu'est-ce que je sais et qu'est-ce que je veux savoir ? » et le dessiner est une façon de penser qui sert toujours.",
+      "ar": "المسائل الحقيقية نادرًا ما تُحلّ بعملية واحدة. التوقّف للتفكير «ماذا أعرف وماذا أريد أن أعرف؟» ورسم ذلك طريقة تفكير تفيد دائمًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para un cumpleaños se compran 3 bolsas de 10 globos y se pinchan 4. ¿Cuántos globos quedan?",
+        "va": "Per a un aniversari es compren 3 bosses de 10 globus i se'n punxen 4. Quants globus queden?",
+        "en": "For a birthday, 3 bags of 10 balloons are bought and 4 pop. How many balloons are left?",
+        "fr": "Pour un anniversaire, on achète 3 sachets de 10 ballons et 4 éclatent. Combien de ballons reste-t-il ?",
+        "ar": "لعيد ميلاد اشتُريت 3 أكياس في كل منها 10 بالونات، وانفجر 4. كم بالونًا بقي؟"
+      },
+      "pista": {
+        "es": "Primer paso: ¿cuántos globos se compran? Segundo paso: quita los que se pinchan.",
+        "va": "Primer pas: quants globus es compren? Segon pas: lleva els que es punxen.",
+        "en": "First step: how many balloons are bought? Second step: take away the ones that pop.",
+        "fr": "Première étape : combien de ballons achète-t-on ? Deuxième étape : enlève ceux qui éclatent.",
+        "ar": "الخطوة الأولى: كم بالونًا اشتُري؟ الخطوة الثانية: لنطرح التي انفجرت."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(3 × 10) - 4",
+        "resultado": 26,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 26 globos: {{3 × 10 = 30}} y {{30 − 4 = 26}}.",
+          "va": "En queden 26: {{3 × 10 = 30}} i {{30 − 4 = 26}}.",
+          "en": "26 balloons are left: {{3 × 10 = 30}} and {{30 − 4 = 26}}.",
+          "fr": "Il reste 26 ballons : {{3 × 10 = 30}} et {{30 − 4 = 26}}.",
+          "ar": "بقي 26 بالونًا: {{3 × 10 = 30}} و{{30 − 4 = 26}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de dos pasos para una fiesta.",
+        "va": "Inventa'n tu un de dos passos per a una festa.",
+        "en": "Make up a two-step one for a party.",
+        "fr": "Invente un problème en deux étapes pour une fête.",
+        "ar": "لنخترع مسألة من خطوتين لحفلة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Lucas compra 2 cuadernos de 3 € cada uno y paga con un billete de 10 €. ¿Cuánto le devuelven?",
+        "va": "Lucas compra 2 quaderns de 3 € cadascun i paga amb un bitllet de 10 €. Quant li tornen?",
+        "en": "Lucas buys 2 notebooks at 3 € each and pays with a 10 € note. How much change does he get?",
+        "fr": "Lucas achète 2 cahiers à 3 € chacun et paie avec un billet de 10 €. Combien lui rend-on ?",
+        "ar": "اشترى لوكاس دفترين ثمن كل منهما 3 يورو ودفع بورقة نقدية من فئة 10 يورو. كم يُرجَع له؟"
+      },
+      "pista": {
+        "es": "Primero, cuánto cuestan los dos cuadernos. Después, cuánto falta hasta 10 €.",
+        "va": "Primer, quant costen els dos quaderns. Després, quant falta fins a 10 €.",
+        "en": "First, how much the two notebooks cost. Then, how much more to get to 10 €.",
+        "fr": "D'abord, combien coûtent les deux cahiers. Ensuite, combien il manque jusqu'à 10 €.",
+        "ar": "أولًا، كم ثمن الدفترين. ثم كم يبقى حتى 10 يورو."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - (2 × 3)",
+        "resultado": 4,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le devuelven 4 €: {{2 × 3 = 6}} y {{10 − 6 = 4}}.",
+          "va": "Li tornen 4 €: {{2 × 3 = 6}} i {{10 − 6 = 4}}.",
+          "en": "He gets 4 € back: {{2 × 3 = 6}} and {{10 − 6 = 4}}.",
+          "fr": "On lui rend 4 € : {{2 × 3 = 6}} et {{10 − 6 = 4}}.",
+          "ar": "يُرجَع له 4 يورو: {{2 × 3 = 6}} و{{10 − 6 = 4}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de comprar varias cosas iguales y pagar con un billete.",
+        "va": "Inventa'n tu un de comprar diverses coses iguals i pagar amb un bitllet.",
+        "en": "Make one up about buying several identical things and paying with a note.",
+        "fr": "Invente un problème où l'on achète plusieurs choses identiques et où l'on paie avec un billet.",
+        "ar": "لنخترع مسألة نشتري فيها عدة أشياء متماثلة وندفع بورقة نقدية."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el autobús van 25 personas. En una parada bajan 8 y suben 12. ¿Cuántas personas van ahora?",
+        "va": "En l'autobús van 25 persones. En una parada en baixen 8 i en pugen 12. Quantes persones hi van ara?",
+        "en": "There are 25 people on the bus. At a stop, 8 get off and 12 get on. How many people are on it now?",
+        "fr": "Dans le bus, il y a 25 personnes. À un arrêt, 8 descendent et 12 montent. Combien de personnes y a-t-il maintenant ?",
+        "ar": "في الحافلة 25 شخصًا. في محطة نزل 8 وصعد 12. كم شخصًا في الحافلة الآن؟"
+      },
+      "pista": {
+        "es": "Primero los que bajan; después, los que suben.",
+        "va": "Primer els que baixen; després, els que pugen.",
+        "en": "First the people getting off; then the ones getting on.",
+        "fr": "D'abord ceux qui descendent ; ensuite, ceux qui montent.",
+        "ar": "أولًا من نزلوا، ثم من صعدوا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(25 - 8) + 12",
+        "resultado": 29,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 29 personas: {{25 − 8 = 17}} y {{17 + 12 = 29}}.",
+          "va": "Hi van 29 persones: {{25 − 8 = 17}} i {{17 + 12 = 29}}.",
+          "en": "There are 29 people: {{25 − 8 = 17}} and {{17 + 12 = 29}}.",
+          "fr": "Il y a 29 personnes : {{25 − 8 = 17}} et {{17 + 12 = 29}}.",
+          "ar": "في الحافلة 29 شخصًا: {{25 − 8 = 17}} و{{17 + 12 = 29}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú uno de gente que sube y baja de un tren o de un ascensor.",
+        "va": "Inventa'n tu un de gent que puja i baixa d'un tren o d'un ascensor.",
+        "en": "Make one up about people getting on and off a train or a lift.",
+        "fr": "Invente un problème avec des gens qui montent et descendent d'un train ou d'un ascenseur.",
+        "ar": "لنخترع مسألة عن أشخاص يصعدون إلى قطار أو مصعد وينزلون منه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 25,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: ¿cuánto es {{8 × 8}}? Si no te acuerdas, piensa en el doble de {{4 × 8}}.",
+        "va": "Per a recordar: quant és {{8 × 8}}? Si no te'n recordes, pensa en el doble de {{4 × 8}}.",
+        "en": "Let's remember: what is {{8 × 8}}? If you don't remember, think of double {{4 × 8}}.",
+        "fr": "Pour se souvenir : combien fait {{8 × 8}} ? Si tu ne t'en souviens pas, pense au double de {{4 × 8}}.",
+        "ar": "لنتذكّر: كم تساوي {{8 × 8}}؟ إن لم نتذكّر، لنفكّر في ضعف {{4 × 8}}."
+      },
+      "pista": {
+        "es": "{{4 × 8 = 32}}, y el doble de 32 es…",
+        "va": "{{4 × 8 = 32}}, i el doble de 32 és…",
+        "en": "{{4 × 8 = 32}}, and double 32 is…",
+        "fr": "{{4 × 8 = 32}}, et le double de 32, c'est…",
+        "ar": "{{4 × 8 = 32}}، وضعف 32 هو…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 × 8",
+        "resultado": 64,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es 64: {{32 + 32 = 64}}.",
+          "va": "És 64: {{32 + 32 = 64}}.",
+          "en": "It's 64: {{32 + 32 = 64}}.",
+          "fr": "Ça fait 64 : {{32 + 32 = 64}}.",
+          "ar": "تساوي 64: {{32 + 32 = 64}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta con uno de los seis de la nevera.",
+        "va": "Inventa't una pregunta amb un dels sis de la nevera.",
+        "en": "Make up a question with one of the six on the fridge.",
+        "fr": "Invente une question avec l'un des six du frigo.",
+        "ar": "لنخترع سؤالًا بواحدة من الست المعلّقة على الثلاجة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuando un problema tiene dos pasos, ¿cómo sabes por cuál empezar? Explícamelo con el de la merienda.",
+        "va": "Quan un problema té dos passos, com saps per quin començar? Explica-m'ho amb el del berenar.",
+        "en": "When a problem has two steps, how do you know which one to start with? Explain it to me with the snack one.",
+        "fr": "Quand un problème a deux étapes, comment sais-tu par laquelle commencer ? Explique-le-moi avec celui du goûter.",
+        "ar": "عندما تكون للمسألة خطوتان، كيف نعرف بأيّهما نبدأ؟ اشرح لي أو اشرحي لي بمسألة الوجبة الخفيفة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué calculamos primero, cuántas galletas hacían falta o cuántas faltaban?»",
+        "va": "Si no sap per on començar: «Què vam calcular primer, quantes galetes calien o quantes en faltaven?»",
+        "en": "If they don't know where to start: “What did we work out first, how many biscuits were needed or how many were missing?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'a-t-on calculé d'abord, combien de biscuits il en fallait ou combien il en manquait ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا حسبنا أولًا: كم بسكويتة نحتاج أم كم ينقص؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hay un único orden bueno, y con el dibujo también vale. Si se equivoca de paso, preguntad «¿y eso qué nos dice?» y seguid juntos.",
+          "va": "No hi ha un únic ordre bo, i amb el dibuix també val. Si s'equivoca de pas, pregunteu «i això què ens diu?» i continueu junts.",
+          "en": "There's no single right order, and a drawing works too. If they take the wrong step, ask “And what does that tell us?” and carry on together.",
+          "fr": "Il n'y a pas un seul bon ordre, et avec le dessin, ça marche aussi. En cas d'erreur d'étape, demandez « Et ça, qu'est-ce que ça nous dit ? » et continuez ensemble.",
+          "ar": "لا يوجد ترتيب صحيح واحد، والرسم يصلح أيضًا. وإذا أخطأ الطفل في الخطوة، اسألوا «وماذا يخبرنا ذلك؟» وتابعوا معًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "faf36e12aa27"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "faf36e12aa27"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "faf36e12aa27"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "faf36e12aa27"
+      }
+    }
+  }
+}

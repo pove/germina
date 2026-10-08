@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "id": "2.matematicas.4.s28",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 4,
+  "semana": 28,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Lo que cuentan los datos",
+    "va": "El que conten les dades",
+    "en": "What the data tell us",
+    "fr": "Ce que racontent les données",
+    "ar": "ما تخبرنا به البيانات"
+  },
+  "objetivo": {
+    "es": "Esta semana leen y hacen gráficos de barras y conocen dos ideas nuevas: la moda (el dato que más se repite) y el rango (la diferencia entre el dato más alto y el más bajo).",
+    "va": "Aquesta setmana lligen i fan gràfics de barres i coneixen dues idees noves: la moda (la dada que més es repetix) i el rang (rango: la diferència entre la dada més alta i la més baixa).",
+    "en": "This week they read and make bar charts and meet two new ideas: the mode (moda: the value that comes up most) and the range (rango: the difference between the highest and lowest values).",
+    "fr": "Cette semaine, on lit et on fait des diagrammes en barres et on découvre deux idées nouvelles : le mode (moda : la valeur qui revient le plus) et l'étendue (rango : l'écart entre la valeur la plus haute et la plus basse).",
+    "ar": "هذا الأسبوع يقرأ الأطفال مخطّطات بالأعمدة ويرسمونها، ويتعرّفون إلى فكرتين جديدتين: المنوال (moda: القيمة الأكثر تكرارًا) والمدى (rango: الفرق بين أعلى قيمة وأدناها)."
+  },
+  "comoAyudar": {
+    "es": "Al mirar un gráfico, preguntad primero «¿qué te llama la atención?» y después buscad la moda y el rango. Si salen opiniones distintas sobre lo que cuenta, todas se escuchan.",
+    "va": "En mirar un gràfic, pregunteu primer «què et crida l'atenció?» i després busqueu la moda i el rang. Si ixen opinions diferents sobre el que conta, totes s'escolten.",
+    "en": "When looking at a chart, first ask “What do you notice?” and then look for the mode and the range. If different opinions come up about what it shows, listen to all of them.",
+    "fr": "Devant un graphique, demandez d'abord « Qu'est-ce qui attire ton attention ? », puis cherchez le mode et l'étendue. Si des avis différents apparaissent sur ce qu'il raconte, on les écoute tous.",
+    "ar": "عند النظر إلى مخطّط، اسألوا أولًا «ما الذي يلفت انتباهنا؟» ثم ابحثوا عن المنوال والمدى. وإذا ظهرت آراء مختلفة فيما يخبر به، تُسمع كلها."
+  },
+  "saberes": [
+    "matematicas.datos.barras",
+    "matematicas.datos.medidas-centrales",
+    "matematicas.datos.rango",
+    "matematicas.datos.interpretacion",
+    "matematicas.datos.respeto"
+  ],
+  "criterios": [
+    "matematicas.c2.3.2",
+    "matematicas.c2.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La temperatura de la semana",
+      "va": "La temperatura de la setmana",
+      "en": "The week's temperatures",
+      "fr": "La température de la semaine",
+      "ar": "حرارة الأسبوع"
+    },
+    "material": [
+      {
+        "es": "Un termómetro, el periódico o la radio para saber la temperatura",
+        "va": "Un termòmetre, el periòdic o la ràdio per a saber la temperatura",
+        "en": "A thermometer, the newspaper or the radio to find out the temperature",
+        "fr": "Un thermomètre, le journal ou la radio pour connaître la température",
+        "ar": "ميزان حرارة أو الجريدة أو الإذاعة لمعرفة درجة الحرارة"
+      },
+      {
+        "es": "Papel cuadriculado",
+        "va": "Paper quadriculat",
+        "en": "Squared paper",
+        "fr": "Du papier quadrillé",
+        "ar": "ورق مربّعات"
+      },
+      {
+        "es": "Lápices de colores",
+        "va": "Llapis de colors",
+        "en": "Coloured pencils",
+        "fr": "Des crayons de couleur",
+        "ar": "أقلام ملوّنة"
+      }
+    ],
+    "minutos": 15,
+    "pasos": [
+      {
+        "pictograma": "termometro",
+        "texto": {
+          "es": "Cada día de la semana, apuntad la temperatura más alta. Podéis mirarla en el termómetro, en el periódico o en la radio.",
+          "va": "Cada dia de la setmana, apunteu la temperatura més alta. Podeu mirar-la en el termòmetre, en el periòdic o en la ràdio.",
+          "en": "Every day of the week, write down the highest temperature. You can check it on a thermometer, in the newspaper or on the radio.",
+          "fr": "Chaque jour de la semaine, notez la température la plus haute. Vous pouvez la regarder sur le thermomètre, dans le journal ou à la radio.",
+          "ar": "في كل يوم من أيام الأسبوع، دوّنوا أعلى درجة حرارة. يمكنكم معرفتها من ميزان الحرارة أو الجريدة أو الإذاعة."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "En papel cuadriculado, dibujad una barra por día, tan alta como la temperatura: un cuadradito por grado.",
+          "va": "En paper quadriculat, dibuixeu una barra per dia, tan alta com la temperatura: un quadradet per grau.",
+          "en": "On squared paper, draw a bar for each day, as tall as the temperature: one little square per degree.",
+          "fr": "Sur papier quadrillé, dessinez une barre par jour, aussi haute que la température : un petit carreau par degré.",
+          "ar": "على ورق المربّعات، ارسموا عمودًا لكل يوم بارتفاع درجة الحرارة: مربّع صغير لكل درجة."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Buscad la moda: ¿qué temperatura se repite más? Si ninguna se repite, no hay moda, y eso también es una respuesta.",
+          "va": "Busqueu la moda: quina temperatura es repetix més? Si no se'n repetix cap, no hi ha moda, i això també és una resposta.",
+          "en": "Find the mode: which temperature comes up most? If none repeats, there's no mode, and that's an answer too.",
+          "fr": "Cherchez le mode : quelle température revient le plus ? Si aucune ne se répète, il n'y a pas de mode, et c'est aussi une réponse.",
+          "ar": "ابحثوا عن المنوال: أي درجة حرارة تتكرّر أكثر؟ وإن لم تتكرّر أي درجة، فلا يوجد منوال، وهذه أيضًا إجابة."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Buscad el rango: restad la temperatura más baja a la más alta. Si la más alta es 18 y la más baja 11, el rango es {{18 − 11 = 7}} grados.",
+          "va": "Busqueu el rang: resteu la temperatura més baixa a la més alta. Si la més alta és 18 i la més baixa 11, el rang és {{18 − 11 = 7}} graus.",
+          "en": "Find the range: subtract the lowest temperature from the highest. If the highest is 18 and the lowest 11, the range is {{18 − 11 = 7}} degrees.",
+          "fr": "Cherchez l'étendue : soustrayez la température la plus basse de la plus haute. Si la plus haute est 18 et la plus basse 11, l'étendue est de {{18 − 11 = 7}} degrés.",
+          "ar": "ابحثوا عن المدى: اطرحوا أدنى درجة حرارة من أعلاها. إذا كانت الأعلى 18 والأدنى 11، فالمدى {{18 − 11 = 7}} درجات."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Apuntad solo 5 días y buscad el día más caluroso y el más frío.",
+      "va": "Apunteu només 5 dies i busqueu el dia més calorós i el més fred.",
+      "en": "Write down just 5 days and find the warmest and the coldest day.",
+      "fr": "Notez seulement 5 jours et cherchez le jour le plus chaud et le plus froid.",
+      "ar": "دوّنوا 5 أيام فقط وابحثوا عن أدفأ يوم وأبردها."
+    },
+    "masDificil": {
+      "es": "Apuntad también la temperatura más baja de cada día y dibujadla en otra barra de otro color. ¿Qué día hay más diferencia entre las dos?",
+      "va": "Apunteu també la temperatura més baixa de cada dia i dibuixeu-la en una altra barra d'un altre color. Quin dia hi ha més diferència entre les dues?",
+      "en": "Also write down each day's lowest temperature and draw it as another bar in a different colour. On which day is the difference between the two biggest?",
+      "fr": "Notez aussi la température la plus basse de chaque jour et dessinez-la dans une autre barre d'une autre couleur. Quel jour l'écart entre les deux est-il le plus grand ?",
+      "ar": "دوّنوا أيضًا أدنى درجة حرارة في كل يوم وارسموها في عمود آخر بلون آخر. في أي يوم يكون الفرق بينهما أكبر؟"
+    },
+    "paraQueSirve": {
+      "es": "Los datos están en todas partes: el tiempo, los deportes, las noticias. Saber leer un gráfico y buscar lo que se repite o cuánto cambia ayuda a entender el mundo sin dejarse engañar.",
+      "va": "Les dades són per tot arreu: el temps, els esports, les notícies. Saber llegir un gràfic i buscar el que es repetix o quant canvia ajuda a entendre el món sense deixar-se enganyar.",
+      "en": "Data are everywhere: the weather, sport, the news. Knowing how to read a chart and look for what repeats or how much it changes helps you understand the world without being fooled.",
+      "fr": "Les données sont partout : la météo, le sport, les informations. Savoir lire un graphique et chercher ce qui se répète ou combien ça change aide à comprendre le monde sans se laisser tromper.",
+      "ar": "البيانات في كل مكان: الطقس والرياضة والأخبار. معرفة قراءة المخطّط والبحث عمّا يتكرّر أو مقدار ما يتغيّر تساعد على فهم العالم دون أن ننخدع."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Las temperaturas más altas de una semana fueron 14, 16, 16, 13, 16, 15 y 12 grados. ¿Cuál es la moda? ¿Y el rango?",
+        "va": "Les temperatures més altes d'una setmana van ser 14, 16, 16, 13, 16, 15 i 12 graus. Quina és la moda? I el rang?",
+        "en": "The highest temperatures in one week were 14, 16, 16, 13, 16, 15 and 12 degrees. What's the mode? And the range?",
+        "fr": "Les températures les plus hautes d'une semaine ont été de 14, 16, 16, 13, 16, 15 et 12 degrés. Quel est le mode ? Et l'étendue ?",
+        "ar": "كانت أعلى درجات الحرارة في أسبوع 14 و16 و16 و13 و16 و15 و12 درجة. ما المنوال؟ وما المدى؟"
+      },
+      "pista": {
+        "es": "Para la moda, cuenta cuántas veces sale cada número. Para el rango, busca el más alto y el más bajo.",
+        "va": "Per a la moda, compta quantes vegades ix cada número. Per al rang, busca el més alt i el més baix.",
+        "en": "For the mode, count how many times each number appears. For the range, find the highest and the lowest.",
+        "fr": "Pour le mode, compte combien de fois apparaît chaque nombre. Pour l'étendue, cherche le plus haut et le plus bas.",
+        "ar": "للمنوال، لنعدّ كم مرة يظهر كل عدد. وللمدى، لنبحث عن الأعلى والأدنى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "16 - 12",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "La moda es 16, que sale tres veces. El rango es {{16 − 12 = 4}} grados.",
+          "va": "La moda és 16, que ix tres vegades. El rang és {{16 − 12 = 4}} graus.",
+          "en": "The mode is 16, which appears three times. The range is {{16 − 12 = 4}} degrees.",
+          "fr": "Le mode est 16, qui apparaît trois fois. L'étendue est de {{16 − 12 = 4}} degrés.",
+          "ar": "المنوال 16، إذ يظهر ثلاث مرات. والمدى {{16 − 12 = 4}} درجات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una lista de datos y que alguien de casa busque la moda y el rango.",
+        "va": "Inventa't una llista de dades i que algú de casa en busque la moda i el rang.",
+        "en": "Make up a list of data and have someone at home find the mode and the range.",
+        "fr": "Invente une liste de données et fais chercher le mode et l'étendue à quelqu'un de la maison.",
+        "ar": "لنخترع قائمة بيانات ونطلب من أحد في البيت أن يبحث عن المنوال والمدى."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En un gráfico de deportes favoritos, el fútbol tiene 9 votos, el baloncesto 6, la natación 9 y el patinaje 4. ¿Cuál es la moda? ¿Cuántos votos van del más votado al menos votado?",
+        "va": "En un gràfic d'esports preferits, el futbol té 9 vots, el bàsquet 6, la natació 9 i el patinatge 4. Quina és la moda? Quants vots van del més votat al menys votat?",
+        "en": "In a chart of favourite sports, football has 9 votes, basketball 6, swimming 9 and skating 4. What's the mode? How many votes are there between the most and least voted?",
+        "fr": "Dans un graphique des sports préférés, le football a 9 votes, le basket 6, la natation 9 et le patinage 4. Quel est le mode ? Combien de votes séparent le plus voté du moins voté ?",
+        "ar": "في مخطّط للرياضات المفضّلة، لكرة القدم 9 أصوات، ولكرة السلة 6، وللسباحة 9، وللتزلّج 4. ما المنوال؟ وكم صوتًا بين الأكثر تصويتًا والأقل؟"
+      },
+      "pista": {
+        "es": "Fíjate: hay dos barras igual de altas.",
+        "va": "Fixa't: hi ha dues barres igual d'altes.",
+        "en": "Look carefully: two bars are the same height.",
+        "fr": "Regarde bien : il y a deux barres aussi hautes l'une que l'autre.",
+        "ar": "لننتبه: هناك عمودان بالارتفاع نفسه."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 4",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay dos modas, el fútbol y la natación, con 9 votos cada uno. Del más votado al menos votado van {{9 − 4 = 5}} votos.",
+          "va": "Hi ha dues modes, el futbol i la natació, amb 9 vots cadascun. Del més votat al menys votat van {{9 − 4 = 5}} vots.",
+          "en": "There are two modes, football and swimming, with 9 votes each. Between the most and least voted there are {{9 − 4 = 5}} votes.",
+          "fr": "Il y a deux modes, le football et la natation, avec 9 votes chacun. Entre le plus voté et le moins voté, il y a {{9 − 4 = 5}} votes.",
+          "ar": "هناك منوالان، كرة القدم والسباحة، بـ9 أصوات لكل منهما. وبين الأكثر تصويتًا والأقل {{9 − 4 = 5}} أصوات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un gráfico en el que haya empate y pregunta cuál es la moda.",
+        "va": "Inventa't un gràfic en què hi haja empat i pregunta quina és la moda.",
+        "en": "Make up a chart with a tie and ask what the mode is.",
+        "fr": "Invente un graphique où il y a égalité et demande quel est le mode.",
+        "ar": "لنخترع مخطّطًا فيه تعادل ونسأل عن المنوال."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En una encuesta sobre cómo vienen al cole, 12 personas vienen andando, 7 en coche y 5 en bici. ¿Cuántas más vienen andando que en coche? ¿Cuántas han respondido?",
+        "va": "En una enquesta sobre com vénen a l'escola, 12 persones vénen a peu, 7 en cotxe i 5 en bici. Quantes més vénen a peu que en cotxe? Quantes han respost?",
+        "en": "In a survey about how people get to school, 12 walk, 7 come by car and 5 by bike. How many more walk than come by car? How many people answered?",
+        "fr": "Dans une enquête sur la façon de venir à l'école, 12 personnes viennent à pied, 7 en voiture et 5 à vélo. Combien de plus viennent à pied qu'en voiture ? Combien ont répondu ?",
+        "ar": "في استطلاع عن طريقة المجيء إلى المدرسة، يأتي 12 شخصًا مشيًا، و7 بالسيارة، و5 بالدراجة. كم يزيد من يأتون مشيًا على من يأتون بالسيارة؟ وكم شخصًا أجاب؟"
+      },
+      "pista": {
+        "es": "Para la primera pregunta, compara dos barras. Para la segunda, súmalas todas.",
+        "va": "Per a la primera pregunta, compara dues barres. Per a la segona, suma-les totes.",
+        "en": "For the first question, compare two bars. For the second, add them all up.",
+        "fr": "Pour la première question, compare deux barres. Pour la deuxième, additionne-les toutes.",
+        "ar": "للسؤال الأول، لنقارن بين عمودين. وللثاني، لنجمعها كلها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 7",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Andando vienen 5 personas más que en coche: {{12 − 7 = 5}}. Han respondido {{12 + 7 + 5 = 24}} personas.",
+          "va": "A peu vénen 5 persones més que en cotxe: {{12 − 7 = 5}}. Han respost {{12 + 7 + 5 = 24}} persones.",
+          "en": "5 more people walk than come by car: {{12 − 7 = 5}}. {{12 + 7 + 5 = 24}} people answered.",
+          "fr": "5 personnes de plus viennent à pied qu'en voiture : {{12 − 7 = 5}}. {{12 + 7 + 5 = 24}} personnes ont répondu.",
+          "ar": "يأتي مشيًا 5 أشخاص أكثر ممن يأتون بالسيارة: {{12 − 7 = 5}}. وأجاب {{12 + 7 + 5 = 24}} شخصًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una encuesta para tu clase y piensa qué preguntas le harías al gráfico.",
+        "va": "Inventa't una enquesta per a la teua classe i pensa quines preguntes li faries al gràfic.",
+        "en": "Make up a survey for your class and think of the questions you'd ask about the chart.",
+        "fr": "Invente une enquête pour ta classe et pense aux questions que tu poserais sur le graphique.",
+        "ar": "لنخترع استطلاعًا لقسمنا ونفكّر في الأسئلة التي نطرحها عن المخطّط."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 27,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: un salón rectangular mide 6 m de largo y 4 m de ancho. ¿Cuánto mide su perímetro?",
+        "va": "Per a recordar: un saló rectangular mesura 6 m de llarg i 4 m d'ample. Quant mesura el seu perímetre?",
+        "en": "Let's remember: a rectangular living room is 6 m long and 4 m wide. What is its perimeter?",
+        "fr": "Pour se souvenir : un salon rectangulaire mesure 6 m de long et 4 m de large. Combien mesure son périmètre ?",
+        "ar": "لنتذكّر: غرفة جلوس مستطيلة طولها 6 م وعرضها 4 م. كم يبلغ محيطها؟"
+      },
+      "pista": {
+        "es": "Dos lados de 6 m y dos de 4 m.",
+        "va": "Dos costats de 6 m i dos de 4 m.",
+        "en": "Two sides of 6 m and two of 4 m.",
+        "fr": "Deux côtés de 6 m et deux de 4 m.",
+        "ar": "ضلعان طول كل منهما 6 م وضلعان طول كل منهما 4 م."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 4 + 6 + 4",
+        "resultado": 20,
+        "unidad": "m",
+        "texto": {
+          "es": "Mide 20 m: {{6 + 4 + 6 + 4 = 20}}.",
+          "va": "Mesura 20 m: {{6 + 4 + 6 + 4 = 20}}.",
+          "en": "It's 20 m: {{6 + 4 + 6 + 4 = 20}}.",
+          "fr": "Il mesure 20 m : {{6 + 4 + 6 + 4 = 20}}.",
+          "ar": "يبلغ 20 م: {{6 + 4 + 6 + 4 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se pregunte el perímetro y también el área.",
+        "va": "Inventa'n tu una en què es pregunte el perímetre i també l'àrea.",
+        "en": "Make one up that asks for the perimeter and the area too.",
+        "fr": "Invente un problème qui demande le périmètre et aussi l'aire.",
+        "ar": "لنخترع مسألة نسأل فيها عن المحيط والمساحة أيضًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Para qué sirve saber la moda o el rango de unos datos? Explícamelo con la temperatura o con otro ejemplo.",
+        "va": "Per a què servix saber la moda o el rang d'unes dades? Explica-m'ho amb la temperatura o amb un altre exemple.",
+        "en": "What's the point of knowing the mode or the range of some data? Explain it to me with the temperatures or another example.",
+        "fr": "À quoi sert de connaître le mode ou l'étendue de données ? Explique-le-moi avec la température ou un autre exemple.",
+        "ar": "ما فائدة معرفة المنوال أو المدى لبيانات ما؟ اشرح لي أو اشرحي لي بدرجات الحرارة أو بمثال آخر."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si el rango de la semana es muy grande, ¿qué ropa nos llevamos?»",
+        "va": "Si no sap per on començar: «Si el rang de la setmana és molt gran, quina roba ens emportem?»",
+        "en": "If they don't know where to start: “If the week's range is very big, what clothes do we take?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si l'étendue de la semaine est très grande, quels vêtements on emporte ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كان مدى الأسبوع كبيرًا جدًا، أي ملابس نأخذ؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier ejemplo de la vida vale: la ropa, los partidos, lo que más se vende… Escuchad y contad vosotros también uno vuestro.",
+          "va": "Qualsevol exemple de la vida val: la roba, els partits, el que més es ven… Escolteu i conteu-ne vosaltres també un de vostre.",
+          "en": "Any everyday example is fine: clothes, matches, what sells most… Listen and share one of your own too.",
+          "fr": "N'importe quel exemple de la vie convient : les vêtements, les matchs, ce qui se vend le plus… Écoutez et racontez aussi un exemple à vous.",
+          "ar": "أي مثال من الحياة يصلح: الملابس، المباريات، الأكثر مبيعًا… استمعوا واحكوا مثالًا من عندكم أيضًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b54fd9a2f576"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b54fd9a2f576"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b54fd9a2f576"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b54fd9a2f576"
+      }
+    }
+  }
+}

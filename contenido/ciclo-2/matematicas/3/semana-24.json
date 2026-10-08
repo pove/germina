@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "2.matematicas.3.s24",
+  "ciclo": 2,
+  "area": "matematicas",
+  "curso": 3,
+  "semana": 24,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuántos grupos?",
+    "va": "Quants grups?",
+    "en": "How many groups?",
+    "fr": "Combien de groupes ?",
+    "ar": "كم مجموعة؟"
+  },
+  "objetivo": {
+    "es": "Esta semana ven la otra cara de dividir: hacer grupos. ¿Cuántos paquetes de 4 salen con 12 pinzas? {{12 : 4 = 3}}, porque {{3 × 4 = 12}}. La división y la multiplicación van de la mano.",
+    "va": "Aquesta setmana veuen l'altra cara de dividir: fer grups. Quants paquets de 4 ixen amb 12 pinces? {{12 : 4 = 3}}, perquè {{3 × 4 = 12}}. La divisió i la multiplicació van de la mà.",
+    "en": "This week they see the other side of dividing: making groups. How many packs of 4 can you make with 12 pegs? {{12 : 4 = 3}}, because {{3 × 4 = 12}}. Division and multiplication go hand in hand.",
+    "fr": "Cette semaine, on découvre l'autre façon de diviser : faire des groupes. Combien de paquets de 4 peut-on faire avec 12 pinces ? {{12 : 4 = 3}}, parce que {{3 × 4 = 12}}. La division et la multiplication vont main dans la main.",
+    "ar": "هذا الأسبوع يرى الأطفال الوجه الآخر للقسمة: تكوين المجموعات. كم رزمة من 4 نصنع بـ12 ملقطًا؟ {{12 : 4 = 3}}، لأن {{3 × 4 = 12}}. القسمة والضرب يسيران يدًا بيد."
+  },
+  "comoAyudar": {
+    "es": "Cuando una división se resista, preguntad «¿qué número por 4 da 12?». Así las tablas que ya saben les ayudan a dividir.",
+    "va": "Quan una divisió es resistisca, pregunteu «quin número per 4 dona 12?». Així les taules que ja saben els ajuden a dividir.",
+    "en": "When a division is tricky, ask “What number times 4 makes 12?” That way the times tables they already know help them divide.",
+    "fr": "Quand une division résiste, demandez « Quel nombre fois 4 donne 12 ? ». Comme ça, les tables déjà connues aident à diviser.",
+    "ar": "عندما تستعصي قسمة، اسألوا «أي عدد في 4 يعطي 12؟». هكذا تساعد جداول الضرب المعروفة على القسمة."
+  },
+  "saberes": [
+    "matematicas.operaciones.producto-cociente",
+    "matematicas.operaciones.propiedades",
+    "matematicas.computacional.igualdades"
+  ],
+  "criterios": [
+    "matematicas.c2.2.2",
+    "matematicas.c2.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Paquetes de 4",
+      "va": "Paquets de 4",
+      "en": "Packs of 4",
+      "fr": "Des paquets de 4",
+      "ar": "رزم من 4"
+    },
+    "material": [
+      {
+        "es": "12 pinzas de la ropa (o 12 calcetines)",
+        "va": "12 pinces de la roba (o 12 calcetins)",
+        "en": "12 clothes pegs (or 12 socks)",
+        "fr": "12 pinces à linge (ou 12 chaussettes)",
+        "ar": "12 ملقط غسيل (أو 12 جوربًا)"
+      },
+      {
+        "es": "Papel y lápiz",
+        "va": "Paper i llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Juntad 12 pinzas y haced paquetes de 4: enganchadlas entre ellas o dejadlas en montones.",
+          "va": "Ajunteu 12 pinces i feu paquets de 4: enganxeu-les entre elles o deixeu-les en munts.",
+          "en": "Gather 12 pegs and make packs of 4: clip them together or leave them in piles.",
+          "fr": "Rassemblez 12 pinces et faites des paquets de 4 : accrochez-les entre elles ou laissez-les en tas.",
+          "ar": "اجمعوا 12 ملقطًا واصنعوا رزمًا من 4: اشبكوها ببعضها أو اتركوها أكوامًا."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Cuántos paquetes salen? Salen 3. Escribid la división: {{12 : 4 = 3}}.",
+          "va": "Quants paquets ixen? N'ixen 3. Escriviu la divisió: {{12 : 4 = 3}}.",
+          "en": "How many packs do you get? You get 3. Write the division: {{12 : 4 = 3}}.",
+          "fr": "Combien de paquets obtenez-vous ? 3. Écrivez la division : {{12 : 4 = 3}}.",
+          "ar": "كم رزمة تخرج؟ تخرج 3. اكتبوا القسمة: {{12 : 4 = 3}}."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Ahora, al revés: 3 paquetes de 4 son {{3 × 4 = 12}}. Escribid las dos cuentas una al lado de la otra: son la misma idea.",
+          "va": "Ara, al revés: 3 paquets de 4 són {{3 × 4 = 12}}. Escriviu els dos comptes un al costat de l'altre: són la mateixa idea.",
+          "en": "Now the other way round: 3 packs of 4 is {{3 × 4 = 12}}. Write the two sums side by side: they're the same idea.",
+          "fr": "Maintenant, à l'envers : 3 paquets de 4, c'est {{3 × 4 = 12}}. Écrivez les deux calculs côte à côte : c'est la même idée.",
+          "ar": "والآن بالعكس: 3 رزم من 4 هي {{3 × 4 = 12}}. اكتبوا العمليتين جنبًا إلى جنب: إنهما الفكرة نفسها."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "El número escondido: una persona dice «algo por 4 son 20» y la otra adivina qué número se esconde. Después, cambiad los papeles.",
+          "va": "El número amagat: una persona diu «alguna cosa per 4 són 20» i l'altra endevina quin número s'amaga. Després, canvieu els papers.",
+          "en": "The hidden number: one person says “something times 4 is 20” and the other guesses the hidden number. Then swap roles.",
+          "fr": "Le nombre caché : une personne dit « quelque chose fois 4 font 20 » et l'autre devine le nombre caché. Ensuite, échangez les rôles.",
+          "ar": "العدد المخفيّ: يقول شخص «عدد ما في 4 يساوي 20» ويخمّن الآخر العدد المخفيّ. ثم تبادلوا الأدوار."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced pares de calcetines: ¿cuántos pares salen con 10 calcetines?",
+      "va": "Feu parells de calcetins: quants parells ixen amb 10 calcetins?",
+      "en": "Make pairs of socks: how many pairs can you make with 10 socks?",
+      "fr": "Faites des paires de chaussettes : combien de paires obtient-on avec 10 chaussettes ?",
+      "ar": "اصنعوا أزواجًا من الجوارب: كم زوجًا يخرج من 10 جوارب؟"
+    },
+    "masDificil": {
+      "es": "Con 15 pinzas, haced paquetes de 4. ¿Cuántos salen y cuántas sobran? Escribidlo así: {{3 × 4 + 3 = 15}}.",
+      "va": "Amb 15 pinces, feu paquets de 4. Quants n'ixen i quantes en sobren? Escriviu-ho així: {{3 × 4 + 3 = 15}}.",
+      "en": "With 15 pegs, make packs of 4. How many do you get and how many are left over? Write it like this: {{3 × 4 + 3 = 15}}.",
+      "fr": "Avec 15 pinces, faites des paquets de 4. Combien en obtenez-vous et combien en reste-t-il ? Écrivez-le comme ça : {{3 × 4 + 3 = 15}}.",
+      "ar": "بـ15 ملقطًا، اصنعوا رزمًا من 4. كم رزمة تخرج وكم ملقطًا يبقى؟ اكتبوها هكذا: {{3 × 4 + 3 = 15}}."
+    },
+    "paraQueSirve": {
+      "es": "Ver que dividir es preguntar «¿cuántas veces cabe?» une la división con las tablas que ya saben. Y el número escondido es el comienzo de las ecuaciones, jugando.",
+      "va": "Veure que dividir és preguntar «quantes vegades hi cap?» unix la divisió amb les taules que ja saben. I el número amagat és el començament de les equacions, jugant.",
+      "en": "Seeing that dividing means asking “how many times does it fit?” links division to the times tables they already know. And the hidden number is the beginning of equations, through play.",
+      "fr": "Voir que diviser, c'est se demander « combien de fois ça rentre ? », relie la division aux tables déjà connues. Et le nombre caché, c'est le début des équations, en jouant.",
+      "ar": "رؤية أن القسمة سؤال «كم مرة يدخل؟» تربطها بجداول الضرب المعروفة. والعدد المخفيّ بداية المعادلات، باللعب."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Hay 18 huevos y se guardan en hueveras de 6. ¿Cuántas hueveras hacen falta?",
+        "va": "Hi ha 18 ous i es guarden en oueres de 6. Quantes oueres calen?",
+        "en": "There are 18 eggs and they're stored in boxes of 6. How many boxes are needed?",
+        "fr": "Il y a 18 œufs et on les range dans des boîtes de 6. Combien de boîtes faut-il ?",
+        "ar": "هناك 18 بيضة تُحفظ في علب من 6. كم علبة نحتاج؟"
+      },
+      "pista": {
+        "es": "¿Qué número por 6 da 18?",
+        "va": "Quin número per 6 dona 18?",
+        "en": "What number times 6 makes 18?",
+        "fr": "Quel nombre fois 6 donne 18 ?",
+        "ar": "أي عدد في 6 يعطي 18؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "18 : 6",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hacen falta 3 hueveras: {{3 × 6 = 18}}.",
+          "va": "Calen 3 oueres: {{3 × 6 = 18}}.",
+          "en": "3 boxes are needed: {{3 × 6 = 18}}.",
+          "fr": "On a besoin de 3 boîtes : {{3 × 6 = 18}}.",
+          "ar": "نحتاج 3 علب: {{3 × 6 = 18}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de guardar cosas en cajas o paquetes iguales.",
+        "va": "Inventa'n tu una de guardar coses en capses o paquets iguals.",
+        "en": "Make one up about storing things in equal boxes or packs.",
+        "fr": "Invente un problème où l'on range des choses dans des boîtes ou des paquets égaux.",
+        "ar": "لنخترع مسألة نحفظ فيها أشياء في علب أو رزم متساوية."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para una carrera de relevos, 20 niñas y niños hacen equipos de 5. ¿Cuántos equipos salen?",
+        "va": "Per a una carrera de relleus, 20 xiquetes i xiquets fan equips de 5. Quants equips n'ixen?",
+        "en": "For a relay race, 20 girls and boys make teams of 5. How many teams are there?",
+        "fr": "Pour une course de relais, 20 filles et garçons font des équipes de 5. Combien d'équipes y a-t-il ?",
+        "ar": "لسباق التتابع، يكوّن 20 طفلًا وطفلة فرقًا من 5. كم فريقًا يخرج؟"
+      },
+      "pista": {
+        "es": "Cuenta de 5 en 5 hasta 20: ¿cuántas veces has contado?",
+        "va": "Compta de 5 en 5 fins a 20: quantes vegades has comptat?",
+        "en": "Count in 5s up to 20: how many times did you count?",
+        "fr": "Compte de 5 en 5 jusqu'à 20 : combien de fois as-tu compté ?",
+        "ar": "لنعدّ خمسة خمسة حتى 20: كم مرة عددنا؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 : 5",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Salen 4 equipos: {{20 : 5 = 4}}.",
+          "va": "N'ixen 4: {{20 : 5 = 4}}.",
+          "en": "There are 4 teams: {{20 : 5 = 4}}.",
+          "fr": "Il y a 4 équipes : {{20 : 5 = 4}}.",
+          "ar": "تخرج 4 فرق: {{20 : 5 = 4}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de hacer equipos para un juego.",
+        "va": "Inventa'n tu una de fer equips per a un joc.",
+        "en": "Make one up about making teams for a game.",
+        "fr": "Invente un problème où l'on fait des équipes pour un jeu.",
+        "ar": "لنخترع مسألة نكوّن فيها فرقًا للعبة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "El número escondido: ¿qué número multiplicado por 3 da 21?",
+        "va": "El número amagat: quin número multiplicat per 3 dona 21?",
+        "en": "The hidden number: what number multiplied by 3 makes 21?",
+        "fr": "Le nombre caché : quel nombre multiplié par 3 donne 21 ?",
+        "ar": "العدد المخفيّ: أي عدد مضروبًا في 3 يعطي 21؟"
+      },
+      "pista": {
+        "es": "Recorre la tabla del 3: 3, 6, 9… hasta llegar a 21.",
+        "va": "Recorre la taula del 3: 3, 6, 9… fins a arribar a 21.",
+        "en": "Go through the 3 times table: 3, 6, 9… until you reach 21.",
+        "fr": "Parcours la table de 3 : 3, 6, 9… jusqu'à arriver à 21.",
+        "ar": "لنمرّ على جدول 3: 3، 6، 9… حتى نصل إلى 21."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "21 : 3",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es el 7: {{7 × 3 = 21}}, así que {{21 : 3 = 7}}.",
+          "va": "És el 7: {{7 × 3 = 21}}, així que {{21 : 3 = 7}}.",
+          "en": "It's 7: {{7 × 3 = 21}}, so {{21 : 3 = 7}}.",
+          "fr": "C'est 7 : {{7 × 3 = 21}}, donc {{21 : 3 = 7}}.",
+          "ar": "إنه 7: {{7 × 3 = 21}}، إذن {{21 : 3 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un número escondido para que lo adivine alguien de casa.",
+        "va": "Inventa't un número amagat perquè l'endevine algú de casa.",
+        "en": "Make up a hidden number for someone at home to guess.",
+        "fr": "Invente un nombre caché à faire deviner à quelqu'un de la maison.",
+        "ar": "لنخترع عددًا مخفيًّا يخمّنه أحد في البيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 23,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: hay 10 galletas para 3 personas. Si se reparten a partes iguales, ¿cuántas toca a cada una? ¿Sobra alguna?",
+        "va": "Per a recordar: hi ha 10 galetes per a 3 persones. Si es repartixen a parts iguals, quantes en toquen a cadascuna? En sobra alguna?",
+        "en": "Let's remember: there are 10 biscuits for 3 people. If they're shared equally, how many does each person get? Are any left over?",
+        "fr": "Pour se souvenir : il y a 10 biscuits pour 3 personnes. Si on les partage en parts égales, combien chacune en reçoit-elle ? En reste-t-il ?",
+        "ar": "لنتذكّر: هناك 10 بسكويتات لـ3 أشخاص. إذا وُزّعت بالتساوي، كم بسكويتة لكل واحد؟ هل يبقى شيء؟"
+      },
+      "pista": {
+        "es": "Dibuja 3 platos y reparte de una en una.",
+        "va": "Dibuixa 3 plats i repartix d'una en una.",
+        "en": "Draw 3 plates and share them out one at a time.",
+        "fr": "Dessine 3 assiettes et distribue un par un.",
+        "ar": "لنرسم 3 صحون ونوزّع واحدة واحدة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "(10 - 1) : 3",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tocan 3 a cada persona y sobra 1: {{3 × 3 + 1 = 10}}.",
+          "va": "En toquen 3 a cada persona i en sobra 1: {{3 × 3 + 1 = 10}}.",
+          "en": "Each person gets 3 and 1 is left over: {{3 × 3 + 1 = 10}}.",
+          "fr": "Chacune en reçoit 3 et il en reste 1 : {{3 × 3 + 1 = 10}}.",
+          "ar": "لكل واحد 3 وتبقى واحدة: {{3 × 3 + 1 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto y decide qué haríais con lo que sobra.",
+        "va": "Inventa't un repartiment i decidix què faríeu amb el que sobra.",
+        "en": "Make up a sharing problem and decide what you'd do with what's left over.",
+        "fr": "Invente un partage et décide ce que vous feriez de ce qui reste.",
+        "ar": "لنخترع توزيعًا ونقرّر ماذا نفعل بالباقي."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿En qué se parecen {{12 : 4 = 3}} y {{3 × 4 = 12}}? Explícamelo con pinzas, calcetines o dibujos.",
+        "va": "En què s'assemblen {{12 : 4 = 3}} i {{3 × 4 = 12}}? Explica-m'ho amb pinces, calcetins o dibuixos.",
+        "en": "How are {{12 : 4 = 3}} and {{3 × 4 = 12}} alike? Explain it to me with pegs, socks or drawings.",
+        "fr": "En quoi {{12 : 4 = 3}} et {{3 × 4 = 12}} se ressemblent-ils ? Explique-le-moi avec des pinces, des chaussettes ou des dessins.",
+        "ar": "بماذا تتشابه {{12 : 4 = 3}} و{{3 × 4 = 12}}؟ اشرح لي أو اشرحي لي بالملاقط أو الجوارب أو الرسوم."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántos paquetes de 4 hiciste? ¿Y cuántas pinzas había en total?»",
+        "va": "Si no sap per on començar: «Quants paquets de 4 vas fer? I quantes pinces hi havia en total?»",
+        "en": "If they don't know where to start: “How many packs of 4 did you make? And how many pegs were there altogether?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de paquets de 4 as-tu faits ? Et combien de pinces y avait-il en tout ? »",
+        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم رزمة من 4 صنعنا؟ وكم ملقطًا كان هناك في المجموع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si dice que son «la misma cuenta al revés», perfecto. Si no, haced juntos los paquetes otra vez y escribid las dos cuentas.",
+          "va": "Si diu que són «el mateix compte al revés», perfecte. Si no, feu junts els paquets una altra vegada i escriviu els dos comptes.",
+          "en": "If they say they're “the same sum the other way round”, perfect. If not, make the packs together again and write both sums.",
+          "fr": "Si la réponse est « le même calcul à l'envers », parfait. Sinon, refaites ensemble les paquets et écrivez les deux calculs.",
+          "ar": "إذا قيل إنهما «العملية نفسها بالعكس»، فممتاز. وإن لم يُقل، اصنعوا الرزم معًا مرة أخرى واكتبوا العمليتين."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b4195caa5805"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b4195caa5805"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b4195caa5805"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b4195caa5805"
+      }
+    }
+  }
+}
