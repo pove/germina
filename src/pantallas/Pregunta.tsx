@@ -19,7 +19,17 @@ export function Pregunta({ curso, n, p }: Props) {
   const semana = { tipo: 'semana', ...curso, n } as const;
   const enlace = (q: number, texto: string, rel: 'prev' | 'next') => (
     <a class="boton" href={construir({ tipo: 'pregunta', ...curso, n, p: q })} rel={rel}>
+      {rel === 'prev' && (
+        <span class="flecha-texto" aria-hidden="true">
+          ←
+        </span>
+      )}
       {texto}
+      {rel === 'next' && (
+        <span class="flecha-texto" aria-hidden="true">
+          →
+        </span>
+      )}
     </a>
   );
 
@@ -41,14 +51,16 @@ export function Pregunta({ curso, n, p }: Props) {
           if (!pregunta) return null;
           return (
             <>
-              <h1 tabIndex={-1}>
-                {tDinamico(`dia.${p}`)} · {t('pregunta.titulo', { n: p })}
-              </h1>
-              <p class="subtitulo">
-                {t('semana.titulo', { n })}: <Contenido texto={c.semilla.titulo} />
-              </p>
+              <div class="portada portada-pregunta">
+                <h1 tabIndex={-1}>
+                  {tDinamico(`dia.${p}`)} · {t('pregunta.titulo', { n: p })}
+                </h1>
+                <p class="subtitulo">
+                  {t('semana.titulo', { n })}: <Contenido texto={c.semilla.titulo} />
+                </p>
+              </div>
               <TarjetaPregunta key={`${n}-${p}`} curso={curso} claveSemilla={claveSemana(n)} pregunta={pregunta} numero={p} />
-              <nav class="acciones-pie" aria-label={t('semana.preguntas')}>
+              <nav class="acciones-pie paginacion" aria-label={t('semana.preguntas')}>
                 {p > 1 && enlace(p - 1, t('pregunta.anterior'), 'prev')}
                 {p < 5 && enlace(p + 1, t('pregunta.siguiente'), 'next')}
               </nav>
@@ -58,6 +70,9 @@ export function Pregunta({ curso, n, p }: Props) {
       />
       <div class="acciones-pie">
         <a class="boton" href={construir(semana)}>
+          <span class="flecha-texto" aria-hidden="true">
+            ←
+          </span>
           {t('reto.ver_semana')}
         </a>
       </div>

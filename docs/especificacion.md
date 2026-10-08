@@ -267,7 +267,7 @@ por bloque:
 ## 9. Privacidad y páginas legales
 
 - **Privacidad**, en los cinco idiomas: la web no recoge ningún dato; no hay formularios, cuentas, cookies ni analítica; lo marcado se queda en el móvil y se borra con «Empezar de cero» o al borrar los datos del navegador. Por transparencia, se dice que GitHub, el alojamiento, registra la dirección IP de las visitas por motivos de seguridad.
-- **Accesibilidad**: declaración breve (objetivo WCAG 2.1 AA, limitaciones conocidas y cómo comunicarlas al centro).
+- **Accesibilidad**: declaración breve (objetivo WCAG 2.1 AA y limitaciones conocidas).
 - No hay aviso de cookies porque no hay cookies.
 
 ## 10. Tecnología

@@ -11,8 +11,6 @@ import { Icono } from '../piezas/Icono';
 import { contexto } from '../piezas/Layout';
 import { Plegable } from '../piezas/Plegable';
 
-const ICONO: Record<EstadoPlanta, 'semilla' | 'brote' | 'flor'> = { semilla: 'semilla', brote: 'brote', flor: 'flor' };
-
 export function Explicacion() {
   return (
     <ol class="explicacion">
@@ -35,18 +33,20 @@ export function Explicacion() {
 function Planta({ curso, verano, n, existe, actual, estado }: { curso: Curso; verano: boolean; n: number; existe: boolean; actual: boolean; estado: EstadoPlanta }) {
   const nombre = verano ? t('verano.titulo', { n }) : t('semana.titulo', { n });
   const texto = existe ? tDinamico(`jardin.estado.${estado}`) : t('jardin.estado.en_camino');
+  // La semana de hoy se marca aunque su semilla aún esté en camino.
+  const clase = `planta ${existe ? `planta-${estado}` : 'planta-sin-semilla'}${actual ? ' planta-hoy' : ''}`;
   const contenido = (
     <>
-      <Icono nombre={ICONO[estado]} />
+      <Icono nombre={estado} />
       <span class="numero">{n}</span>
     </>
   );
   return existe ? (
-    <a class={`planta planta-${estado}`} href={construir({ tipo: verano ? 'verano' : 'semana', ...curso, n })} aria-current={actual ? 'date' : undefined} aria-label={`${nombre}: ${texto}`}>
+    <a class={clase} href={construir({ tipo: verano ? 'verano' : 'semana', ...curso, n })} aria-current={actual ? 'date' : undefined} aria-label={`${nombre}: ${texto}`}>
       {contenido}
     </a>
   ) : (
-    <span class="planta planta-sin-semilla" role="img" aria-label={`${nombre}: ${texto}`}>
+    <span class={clase} role="img" aria-current={actual ? 'date' : undefined} aria-label={`${nombre}: ${texto}`}>
       {contenido}
     </span>
   );
@@ -56,10 +56,11 @@ export function Jardin({ curso }: { curso: Curso }) {
   const indice = useCarga(cargarIndice, []);
   const progreso = datos.value.progreso[claveProgreso(anoCursoHoy.value, curso)] ?? {};
   const sit = situacionHoy.value;
-  // El «?» es solo un adorno: el lector de pantalla lee «Qué es el jardín», sin el signo.
+  // El icono es solo un adorno: el lector de pantalla lee «Qué es el jardín».
   const ayuda = (
     <>
-      <span aria-hidden="true">?</span> {t('jardin.ayuda')}
+      <Icono nombre="ayuda" clase="icono-boton icono-ayuda" />
+      {t('jardin.ayuda')}
     </>
   );
 
@@ -67,7 +68,7 @@ export function Jardin({ curso }: { curso: Curso }) {
     <>
       <p class="contexto">{contexto(curso)}</p>
       <h1 tabIndex={-1}>{t('jardin.titulo')}</h1>
-      <Plegable etiqueta={ayuda} clase="boton-ayuda">
+      <Plegable etiqueta={ayuda} clase="boton-ayuda boton-plegable">
         <Explicacion />
       </Plegable>
       <Cargando

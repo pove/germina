@@ -26,6 +26,11 @@ export function Aprenden({ curso }: { curso: Curso }) {
                 .map((trimestre) => (
                   <section key={trimestre} class={Number(trimestre) === trimestreActual ? 'tarjeta destacada' : 'tarjeta'} aria-labelledby={`trimestre-${trimestre}`}>
                     <h2 id={`trimestre-${trimestre}`}>{t('aprenden.trimestre', { n: trimestre })}</h2>
+                    {Number(trimestre) === trimestreActual && (
+                      <p class="chips">
+                        <span class="chip chip-hoy">{t('aprenden.ahora')}</span>
+                      </p>
+                    )}
                     <ul>
                       {(delCurso[trimestre] ?? []).map((frase, i) => (
                         <li key={i}>

@@ -19,7 +19,7 @@ export function TarjetaPregunta({ curso, claveSemilla, pregunta, encabezado, num
   const hablada = marcadoDe(curso, claveSemilla)?.hecho.includes(pregunta.id) ?? false;
   const Titulo = encabezado;
   return (
-    <article class="tarjeta">
+    <article class="tarjeta tarjeta-pregunta">
       {Titulo && (
         <Titulo>
           {tDinamico(`dia.${numero}`)} · {t('pregunta.titulo', { n: numero })}
@@ -29,12 +29,12 @@ export function TarjetaPregunta({ curso, claveSemilla, pregunta, encabezado, num
         <Contenido texto={pregunta.texto} />
       </p>
       <div class="acciones">
-        <Plegable etiqueta={t('pregunta.pista')} etiquetaAbierto={t('pregunta.ocultar_pista')}>
+        <Plegable clase="boton-plegable" etiqueta={t('pregunta.pista')} etiquetaAbierto={t('pregunta.ocultar_pista')}>
           <p>
             <Contenido texto={pregunta.pista} />
           </p>
         </Plegable>
-        <Plegable etiqueta={t('pregunta.ver_respuesta')} etiquetaAbierto={t('pregunta.ocultar_respuesta')}>
+        <Plegable clase="boton-plegable" etiqueta={t('pregunta.ver_respuesta')} etiquetaAbierto={t('pregunta.ocultar_respuesta')}>
           {pregunta.respuesta.tipo === 'calculo' ? (
             <p>
               <Contenido texto={pregunta.respuesta.texto} />
@@ -49,7 +49,7 @@ export function TarjetaPregunta({ curso, claveSemilla, pregunta, encabezado, num
           )}
         </Plegable>
         {pregunta.inventala && (
-          <Plegable etiqueta={t('pregunta.inventala')}>
+          <Plegable clase="boton-plegable" etiqueta={t('pregunta.inventala')}>
             <p>
               <Contenido texto={pregunta.inventala} />
             </p>

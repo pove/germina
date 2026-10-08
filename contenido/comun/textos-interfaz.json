@@ -134,17 +134,25 @@
   },
   "semana.cambiar_curso": { "es": "Cambiar a {curso}", "va": "Canviar a {curso}", "en": "Switch to {curso}", "fr": "Passer en {curso}", "ar": "انتقلوا إلى {curso}" },
   "semana.en_camino": {
-    "es": "Esta semilla está en camino. Mientras tanto, podéis volver a cualquier semana anterior.",
-    "va": "Aquesta llavor està en camí. Mentrestant, podeu tornar a qualsevol setmana anterior.",
-    "en": "This seed is on its way. In the meantime, you can go back to any earlier week.",
-    "fr": "Cette graine est en route. En attendant, vous pouvez revenir à n'importe quelle semaine précédente.",
-    "ar": "هذه البذرة في الطريق. في هذه الأثناء يمكنكم العودة إلى أي أسبوع سابق."
+    "es": "Esta semilla está en camino.",
+    "va": "Aquesta llavor està en camí.",
+    "en": "This seed is on its way.",
+    "fr": "Cette graine est en route.",
+    "ar": "هذه البذرة في الطريق."
+  },
+  "semana.mientras_tanto": {
+    "es": "Mientras tanto, podéis jugar otra semilla que ya está lista.",
+    "va": "Mentrestant, podeu jugar una altra llavor que ja està llesta.",
+    "en": "In the meantime, you can play another seed that is ready.",
+    "fr": "En attendant, vous pouvez jouer avec une autre graine déjà prête.",
+    "ar": "في هذه الأثناء يمكنكم اللعب ببذرة أخرى جاهزة."
   },
   "semana.ir_a": { "es": "Ir a la semana {n}", "va": "Anar a la setmana {n}", "en": "Go to week {n}", "fr": "Aller à la semaine {n}", "ar": "اذهبوا إلى الأسبوع {n}" },
 
   "verano.titulo": { "es": "Reto de verano {n}", "va": "Repte d'estiu {n}", "en": "Summer challenge {n}", "fr": "Défi de l'été {n}", "ar": "تحدّي الصيف {n}" },
   "verano.anterior": { "es": "Reto de verano anterior", "va": "Repte d'estiu anterior", "en": "Previous summer challenge", "fr": "Défi de l'été précédent", "ar": "تحدّي الصيف السابق" },
   "verano.siguiente": { "es": "Reto de verano siguiente", "va": "Repte d'estiu següent", "en": "Next summer challenge", "fr": "Défi de l'été suivant", "ar": "تحدّي الصيف التالي" },
+  "verano.ir_a": { "es": "Ir al reto de verano {n}", "va": "Anar al repte d'estiu {n}", "en": "Go to summer challenge {n}", "fr": "Aller au défi de l'été {n}", "ar": "اذهبوا إلى تحدّي الصيف {n}" },
   "verano.intro": {
     "es": "Retos para el verano, cuando os venga bien. Elegid el que más os apetezca.",
     "va": "Reptes per a l'estiu, quan us vinga bé. Trieu el que més us abelleixi.",
@@ -212,6 +220,7 @@
   "jardin.estado.en_camino": { "es": "Semilla en camino", "va": "Llavor en camí", "en": "Seed on its way", "fr": "Graine en route", "ar": "بذرة في الطريق" },
 
   "aprenden.titulo": { "es": "Qué aprenden este curso", "va": "Què aprenen aquest curs", "en": "What they learn this year", "fr": "Ce qu'ils apprennent cette année", "ar": "ماذا يتعلمون هذه السنة" },
+  "aprenden.ahora": { "es": "Ahora", "va": "Ara", "en": "Now", "fr": "En ce moment", "ar": "الآن" },
   "aprenden.trimestre": { "es": "Trimestre {n}", "va": "Trimestre {n}", "en": "Term {n}", "fr": "Trimestre {n}", "ar": "الفصل {n}" },
 
   "ayuda.titulo": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
@@ -603,20 +612,6 @@
     "en": "We haven't checked Germina with every screen reader or every phone, so something may not work the same on yours.",
     "fr": "Nous n'avons pas vérifié Germina avec tous les lecteurs d'écran ni avec tous les téléphones : il se peut que quelque chose ne fonctionne pas de la même façon sur le vôtre.",
     "ar": "لم نراجع Germina مع كل قارئات الشاشة ولا مع كل الهواتف: وقد لا يعمل شيء ما بالطريقة نفسها على هاتفكم."
-  },
-  "accesibilidad.avisar_titulo": {
-    "es": "Si algo no os funciona",
-    "va": "Si alguna cosa no us funciona",
-    "en": "If something doesn't work for you",
-    "fr": "Si quelque chose ne fonctionne pas pour vous",
-    "ar": "إذا لم يعمل شيء ما معكم"
-  },
-  "accesibilidad.avisar": {
-    "es": "Contádselo al centro educativo de vuestros hijos e hijas, y el centro lo hará llegar a quienes mantienen Germina. Decid qué intentabais hacer, en qué móvil y con qué lector de pantalla, si usáis uno.",
-    "va": "Conteu-ho al centre educatiu dels vostres fills i filles, i el centre ho farà arribar a qui manté Germina. Digueu què intentàveu fer, en quin mòbil i amb quin lector de pantalla, si en useu un.",
-    "en": "Tell your children's school, and the school will pass it on to the people who look after Germina. Say what you were trying to do, on which phone and with which screen reader, if you use one.",
-    "fr": "Dites-le à l'école de vos enfants, qui le transmettra aux personnes qui s'occupent de Germina. Précisez ce que vous essayiez de faire, sur quel téléphone et avec quel lecteur d'écran, si vous en utilisez un.",
-    "ar": "أخبروا مدرسة أبنائكم وبناتكم، وستوصل المدرسة ذلك إلى القائمين على Germina. اذكروا ما كنتم تحاولون فعله، وعلى أي هاتف، ومع أي قارئ شاشة إن كنتم تستخدمون واحدًا."
   },
 
   "bienvenida.adultos": {

@@ -14,7 +14,7 @@ export function Ayuda() {
         hijo={(ideas) => (
           <ul class="ideas">
             {ideas.map((idea, i) => (
-              <li key={i} class="tarjeta">
+              <li key={i} class="tarjeta idea">
                 <Contenido texto={idea} />
               </li>
             ))}
