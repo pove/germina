@@ -25,7 +25,7 @@
     "va": "Feu el repartiment amb bitllets i monedes de paper abans d'escriure res. Si es perd en el compte escrit, torneu als diners: «quins bitllets quedaven?».",
     "en": "Do the sharing with paper notes and coins before writing anything. If they get lost in the written sum, go back to the money: “Which notes were left?”",
     "fr": "Faites le partage avec des billets et des pièces en papier avant d'écrire quoi que ce soit. En cas de confusion dans le calcul écrit, revenez à l'argent : « Quels billets restaient ? ».",
-    "ar": "قوموا بالتوزيع بأوراق وقطع نقدية من الورق قبل كتابة أي شيء. وإذا ضاع الطفل في الحساب المكتوب، عودوا إلى النقود: «ما الأوراق التي بقيت؟»."
+    "ar": "قوموا بالتوزيع بأوراق وقطع نقدية من الورق قبل كتابة أي شيء. وإذا ضاع الأطفال في الحساب المكتوب، عودوا إلى النقود: «ما الأوراق التي بقيت؟»."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente",
@@ -176,11 +176,11 @@
       "rol": "tema",
       "tipoProblema": "dinero",
       "texto": {
-        "es": "Cuatro amigas y amigos pagan entre todos un regalo de 52 €. ¿Cuánto pone cada persona?",
-        "va": "Quatre amigues i amics paguen entre tots un regal de 52 €. Quant hi posa cada persona?",
-        "en": "Four friends pay together for a 52 € present. How much does each person put in?",
-        "fr": "Quatre amies et amis paient ensemble un cadeau de 52 €. Combien chaque personne met-elle ?",
-        "ar": "يدفع أربعة أصدقاء وصديقات معًا ثمن هدية قيمتها 52 يورو. كم يدفع كل شخص؟"
+        "es": "Cuatro amigas y amigos pagan a partes iguales un regalo de 52 €. ¿Cuánto pone cada persona?",
+        "va": "Quatre amigues i amics paguen a parts iguals un regal de 52 €. Quant hi posa cada persona?",
+        "en": "Four friends split the cost of a 52 € present equally. How much does each person put in?",
+        "fr": "Quatre amies et amis paient un cadeau de 52 € à parts égales. Combien chaque personne met-elle ?",
+        "ar": "يدفع أربعة أصدقاء وصديقات بالتساوي ثمن هدية قيمتها 52 يورو. كم يدفع كل شخص؟"
       },
       "pista": {
         "es": "5 billetes de 10 € entre 4: 1 para cada persona y sobra 1. Cámbialo por 10 monedas.",
@@ -284,7 +284,7 @@
       "inventala": {
         "es": "Inventa tú una de combinaciones con tu comida favorita.",
         "va": "Inventa'n tu una de combinacions amb el teu menjar preferit.",
-        "en": "Make up a combinations one with your favourite food.",
+        "en": "Make up a combinations problem with your favourite food.",
         "fr": "Invente un problème de combinaisons avec ton plat préféré.",
         "ar": "لنخترع مسألة تركيبات بطعامنا المفضّل."
       }
@@ -305,7 +305,7 @@
         "va": "Si no sap per on començar: «Te'n recordes del bitllet que sobrava en repartir 74 €? Què en vam fer?»",
         "en": "If they don't know where to start: “Do you remember the note left over when we shared 74 €? What did we do with it?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Tu te rappelles le billet qui restait quand on a partagé 74 € ? Qu'est-ce qu'on en a fait ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل نتذكّر الورقة التي بقيت عند توزيع 74 يورو؟ ماذا فعلنا بها؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نتذكّر الورقة التي بقيت عند توزيع 74 يورو؟ ماذا فعلنا بها؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -313,8 +313,8 @@
           "es": "Si dice «lo cambio por monedas», ya tiene la idea. Pedid que os lo enseñe con un reparto inventado por él o por ella.",
           "va": "Si diu «el canvie per monedes», ja té la idea. Demaneu que us ho ensenye amb un repartiment inventat per ell o per ella.",
           "en": "If they say “I swap it for coins”, they've got the idea. Ask them to show you with a sharing problem they make up.",
-          "fr": "Si la réponse est « je le change contre des pièces », l'idée est là. Demandez qu'on vous le montre avec un partage inventé.",
-          "ar": "إذا قيل «أصرفها بقطع نقدية»، فقد وصلت الفكرة. اطلبوا أن يُعرض عليكم ذلك بتوزيع مخترع."
+          "fr": "Si la réponse est « je le change contre des pièces », l'idée est là. Demandez-lui de vous le montrer avec un partage qu'il ou elle invente.",
+          "ar": "إذا قيل «أصرفها بقطع نقدية»، فقد وصلت الفكرة. اطلبوا من الأطفال أن يُروكم ذلك بتوزيع يخترعونه."
         }
       }
     }
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "e8b14b471eb2"
+        "huella": "a5c739217248"
       },
       "en": {
         "estado": "automatica",
-        "huella": "e8b14b471eb2"
+        "huella": "a5c739217248"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "e8b14b471eb2"
+        "huella": "a5c739217248"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "e8b14b471eb2"
+        "huella": "a5c739217248"
       }
     }
   }

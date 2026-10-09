@@ -15,14 +15,14 @@
   },
   "objetivo": {
     "es": "Esta semana vuelven a dividir y comprobar, a los múltiplos y divisores, a los problemas de dos pasos, a perímetros y áreas y a la moda y el rango. No hay nada nuevo: es para que se asiente.",
-    "va": "Aquesta setmana tornen a dividir i comprovar, als múltiples i divisors, als problemes de dos passos, a perímetres i àrees i a la moda i el rang. No hi ha res nou: és perquè s'assente.",
-    "en": "This week they go back to dividing and checking, multiples and factors, two-step problems, perimeter and area, and mode and range. There is nothing new: it's so it all settles in.",
-    "fr": "Cette semaine, on revient à la division et à sa vérification, aux multiples et diviseurs, aux problèmes en deux étapes, aux périmètres et aires, et au mode et à l'étendue. Rien de nouveau : c'est pour que tout se pose.",
-    "ar": "هذا الأسبوع يعود الأطفال إلى القسمة والتحقّق منها، والمضاعفات والقواسم، ومسائل الخطوتين، والمحيط والمساحة، والمنوال والمدى. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+    "va": "Aquesta setmana tornen a dividir i comprovar, als múltiples (múltiplos) i divisors, als problemes de dos passos, a perímetres (perímetros) i àrees i a la moda i el rang (rango). No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to dividing and checking, multiples (múltiplos) and factors (divisores), two-step problems, perimeter (perímetros) and area (áreas), and mode (moda) and range (rango). There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient à la division et à sa vérification, aux multiples (múltiplos) et diviseurs (divisores), aux problèmes en deux étapes, aux périmètres (perímetros) et aires (áreas), et au mode (moda) et à l'étendue (rango). Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى القسمة والتحقّق منها، والمضاعفات (múltiplos) والقواسم (divisores)، ومسائل الخطوتين، والمحيط (perímetros) والمساحة (áreas)، والمنوال (moda) والمدى (rango). لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
     "es": "Dejad que cada persona invente su problema como le salga: si le falta un dato, quien lo resuelve lo pedirá. Así descubren juntos qué hace funcionar un problema.",
-    "va": "Deixeu que cada persona invente el seu problema com li isca: si li falta una dada, qui el resol la demanarà. Així descobreixen junts què fa funcionar un problema.",
+    "va": "Deixeu que cada persona invente el seu problema com li isca: si li falta una dada, qui el resol la demanarà. Així descobrixen junts què fa funcionar un problema.",
     "en": "Let each person make up their problem however it comes out: if a number is missing, whoever solves it will ask for it. That way they discover together what makes a problem work.",
     "fr": "Laissez chaque personne inventer son problème comme il vient : s'il manque une donnée, celle ou celui qui le résout la demandera. Ainsi, on découvre ensemble ce qui fait qu'un problème marche.",
     "ar": "اتركوا كل شخص يخترع مسألته كما تخرج: إذا نقص معطى، سيطلبه من يحلّها. هكذا يكتشفون معًا ما يجعل المسألة تنجح."
@@ -181,7 +181,7 @@
         "va": "Està el 36 en la taula del 4? I en la del 5?",
         "en": "Is 36 in the 4 times table? And in the 5 times table?",
         "fr": "Est-ce que 36 est dans la table de 4 ? Et dans celle de 5 ?",
-        "ar": "هل 36 في جدول 4؟ وفي جدول 5؟"
+        "ar": "هل 36 في جدول ضرب 4؟ وفي جدول ضرب 5؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -193,12 +193,12 @@
           "va": "És múltiple de 4, perquè {{4 × 9 = 36}}. De 5 no: entre 5 en sobra 1.",
           "en": "It's a multiple of 4, because {{4 × 9 = 36}}. Not of 5: divided by 5, 1 is left over.",
           "fr": "C'est un multiple de 4, parce que {{4 × 9 = 36}}. Pas de 5 : divisé par 5, il reste 1.",
-          "ar": "هو من مضاعفات 4، لأن {{4 × 9 = 36}}. ومن مضاعفات 5 لا: عند القسمة على 5 يبقى 1."
+          "ar": "هو من مضاعفات 4، لأن {{4 × 9 = 36}}. وليس من مضاعفات 5: عند القسمة على 5 يبقى 1."
         }
       },
       "inventala": {
         "es": "Inventa tú una pregunta de «¿es múltiplo de…?» con un número de dos cifras.",
-        "va": "Inventa't una pregunta de «és múltiple de…?» amb un número de dues xifres.",
+        "va": "Inventa't una pregunta de «és múltiple de…?» amb un nombre de dues xifres.",
         "en": "Make up an “is it a multiple of…?” question with a two-digit number.",
         "fr": "Invente une question « est-ce un multiple de… ? » avec un nombre à deux chiffres.",
         "ar": "لنخترع سؤال «هل هو من مضاعفات…؟» بعدد من رقمين."
@@ -207,40 +207,40 @@
     {
       "id": "p3",
       "rol": "tema",
-      "tipoProblema": "combinar",
+      "tipoProblema": "medida",
       "texto": {
-        "es": "Un tren lleva 320 personas. En una estación bajan 85 y suben 140. ¿Cuántas personas van ahora?",
-        "va": "Un tren porta 320 persones. En una estació en baixen 85 i en pugen 140. Quantes persones hi van ara?",
-        "en": "A train is carrying 320 people. At a station, 85 get off and 140 get on. How many people are on it now?",
-        "fr": "Un train transporte 320 personnes. À une gare, 85 descendent et 140 montent. Combien de personnes y a-t-il maintenant ?",
-        "ar": "في قطار 320 شخصًا. في محطة نزل 85 وصعد 140. كم شخصًا في القطار الآن؟"
+        "es": "Un rincón del patio mide 6 baldosas de largo y 4 de ancho. Ya hay puestas 9 baldosas. ¿Cuántas faltan para cubrirlo entero?",
+        "va": "Un racó del pati fa 6 rajoles de llarg i 4 d'ample. Ja hi ha posades 9 rajoles. Quantes en falten per a cobrir-lo sencer?",
+        "en": "A corner of the courtyard is 6 tiles long and 4 tiles wide. 9 tiles are already laid. How many more are needed to cover it all?",
+        "fr": "Un coin de la cour mesure 6 carreaux de long et 4 de large. 9 carreaux sont déjà posés. Combien en manque-t-il pour le couvrir entièrement ?",
+        "ar": "ركن في الفناء طوله 6 بلاطات وعرضه 4. وُضعت فيه 9 بلاطات. كم بلاطة تنقص لتغطيته كله؟"
       },
       "pista": {
-        "es": "Primero los que bajan; después, los que suben.",
-        "va": "Primer els que baixen; després, els que pugen.",
-        "en": "First the people getting off; then the ones getting on.",
-        "fr": "D'abord ceux qui descendent ; ensuite, ceux qui montent.",
-        "ar": "أولًا من نزلوا، ثم من صعدوا."
+        "es": "Primero, cuántas baldosas caben en todo el rincón: filas por columnas. Después, quita las que ya están.",
+        "va": "Primer, quantes rajoles caben en tot el racó: files per columnes. Després, lleva les que ja hi són.",
+        "en": "First, how many tiles fit in the whole corner: rows times columns. Then take away the ones already there.",
+        "fr": "D'abord, combien de carreaux tiennent dans tout le coin : les rangées fois les colonnes. Ensuite, enlève ceux qui sont déjà posés.",
+        "ar": "أولًا، كم بلاطة يتّسع لها الركن كله: الصفوف في الأعمدة. ثم لنطرح البلاطات الموضوعة."
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "(320 - 85) + 140",
-        "resultado": 375,
+        "operacion": "(6 × 4) - 9",
+        "resultado": 15,
         "unidad": "unidades",
         "texto": {
-          "es": "Van 375 personas: {{320 − 85 = 235}} y {{235 + 140 = 375}}.",
-          "va": "Hi van 375 persones: {{320 − 85 = 235}} i {{235 + 140 = 375}}.",
-          "en": "There are 375 people: {{320 − 85 = 235}} and {{235 + 140 = 375}}.",
-          "fr": "Il y a 375 personnes : {{320 − 85 = 235}} et {{235 + 140 = 375}}.",
-          "ar": "في القطار 375 شخصًا: {{320 − 85 = 235}} و{{235 + 140 = 375}}."
+          "es": "Faltan 15 baldosas: el área del rincón es {{6 × 4 = 24}} baldosas, y {{24 − 9 = 15}}.",
+          "va": "En falten 15: l'àrea del racó és {{6 × 4 = 24}} rajoles, i {{24 − 9 = 15}}.",
+          "en": "15 more tiles are needed: the area of the corner is {{6 × 4 = 24}} tiles, and {{24 − 9 = 15}}.",
+          "fr": "Il en manque 15 : l'aire du coin est de {{6 × 4 = 24}} carreaux, et {{24 − 9 = 15}}.",
+          "ar": "تنقص 15 بلاطة: مساحة الركن {{6 × 4 = 24}} بلاطة، و{{24 − 9 = 15}}."
         }
       },
       "inventala": {
-        "es": "Inventa tú uno de dos pasos con gente que sube y baja.",
-        "va": "Inventa'n tu un de dos passos amb gent que puja i baixa.",
-        "en": "Make up a two-step one about people getting on and off.",
-        "fr": "Invente un problème en deux étapes avec des gens qui montent et descendent.",
-        "ar": "لنخترع مسألة من خطوتين عن أشخاص يصعدون وينزلون."
+        "es": "Inventa tú uno de dos pasos con las baldosas de algún sitio de tu casa.",
+        "va": "Inventa'n tu un de dos passos amb les rajoles d'algun lloc de casa.",
+        "en": "Make up a two-step problem with the tiles somewhere in your home.",
+        "fr": "Invente un problème en deux étapes avec les carreaux d'un endroit de ta maison.",
+        "ar": "لنخترع مسألة من خطوتين ببلاط مكان ما في بيتنا."
       }
     },
     {
@@ -249,11 +249,11 @@
       "recupera": 28,
       "tipoProblema": "comparar",
       "texto": {
-        "es": "Para recordar: los puntos de cinco partidas fueron 7, 9, 7, 12 y 5. ¿Cuál es el rango? ¿Y la moda?",
-        "va": "Per a recordar: els punts de cinc partides van ser 7, 9, 7, 12 i 5. Quin és el rang? I la moda?",
-        "en": "Let's remember: the points in five games were 7, 9, 7, 12 and 5. What's the range? And the mode?",
-        "fr": "Pour se souvenir : les points de cinq parties ont été 7, 9, 7, 12 et 5. Quelle est l'étendue ? Et le mode ?",
-        "ar": "لنتذكّر: كانت نقاط خمس مباريات 7 و9 و7 و12 و5. ما المدى؟ وما المنوال؟"
+        "es": "Para recordar: los puntos de cinco partidas fueron 7, 9, 7, 13 y 5. ¿Cuál es el rango? ¿Y la moda?",
+        "va": "Per a recordar: els punts de cinc partides van ser 7, 9, 7, 13 i 5. Quin és el rang? I la moda?",
+        "en": "Let's remember: the points in five games were 7, 9, 7, 13 and 5. What's the range? And the mode?",
+        "fr": "Pour se souvenir : les points de cinq parties ont été 7, 9, 7, 13 et 5. Quelle est l'étendue ? Et le mode ?",
+        "ar": "لنتذكّر: كانت نقاط خمس مباريات 7 و9 و7 و13 و5. ما المدى؟ وما المنوال؟"
       },
       "pista": {
         "es": "Para el rango, resta el más bajo al más alto. Para la moda, busca el que se repite.",
@@ -264,15 +264,15 @@
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "12 - 5",
-        "resultado": 7,
+        "operacion": "13 - 5",
+        "resultado": 8,
         "unidad": "unidades",
         "texto": {
-          "es": "El rango es {{12 − 5 = 7}} y la moda también es 7, porque sale dos veces.",
-          "va": "El rang és {{12 − 5 = 7}} i la moda també és 7, perquè ix dues vegades.",
-          "en": "The range is {{12 − 5 = 7}} and the mode is also 7, because it appears twice.",
-          "fr": "L'étendue est {{12 − 5 = 7}} et le mode est aussi 7, parce qu'il apparaît deux fois.",
-          "ar": "المدى {{12 − 5 = 7}}، والمنوال أيضًا 7 لأنه يظهر مرتين."
+          "es": "El rango es {{13 − 5 = 8}} y la moda es 7, porque sale dos veces.",
+          "va": "El rang és {{13 − 5 = 8}} i la moda és 7, perquè ix dues vegades.",
+          "en": "The range is {{13 − 5 = 8}} and the mode is 7, because it appears twice.",
+          "fr": "L'étendue est {{13 − 5 = 8}} et le mode est 7, parce qu'il apparaît deux fois.",
+          "ar": "المدى {{13 − 5 = 8}}، والمنوال 7 لأنه يظهر مرتين."
         }
       },
       "inventala": {
@@ -289,9 +289,9 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "De todo lo de estas semanas en mates, ¿qué te ha costado más y qué te ha salido mejor? Explícamelo con un ejemplo.",
-        "va": "De tot el que heu fet aquestes setmanes en mates, què t'ha costat més i què t'ha eixit millor? Explica-m'ho amb un exemple.",
+        "va": "De tot el que has fet aquestes setmanes en mates, què t'ha costat més i què t'ha eixit millor? Explica-m'ho amb un exemple.",
         "en": "Of everything in maths these weeks, what was hardest and what went best? Explain it to me with an example.",
-        "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce qui t'a coûté le plus et qu'est-ce qui t'a le mieux réussi ? Explique-le-moi avec un exemple.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce qui a été le plus difficile pour toi et qu'est-ce qui t'a le mieux réussi ? Explique-le-moi avec un exemple.",
         "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، ما الذي كان أصعب وما الذي نجح أكثر؟ اشرح لي أو اشرحي لي بمثال."
       },
       "pista": {
@@ -304,11 +304,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Si algo le costó, buscad juntos un reto parecido y jugadlo otra vez esta semana.",
-          "va": "No hi ha resposta bona ni dolenta. Si alguna cosa li va costar, busqueu junts un repte semblant i jugueu-lo una altra vegada aquesta setmana.",
-          "en": "There's no right or wrong answer. If something was hard, find a similar challenge together and play it again this week.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si quelque chose a coûté, cherchez ensemble un défi semblable et rejouez-le cette semaine.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإذا كان شيء صعبًا، ابحثوا معًا عن تحدٍّ مشابه والعبوه مرة أخرى هذا الأسبوع."
+          "es": "Cualquier respuesta vale. Si algo le costó, buscad juntos un reto parecido y jugadlo otra vez esta semana.",
+          "va": "Qualsevol resposta val. Si alguna cosa li va costar, busqueu junts un repte semblant i jugueu-lo una altra vegada aquesta setmana.",
+          "en": "Any answer works. If something was hard, find a similar challenge together and play it again this week.",
+          "fr": "Toutes les réponses conviennent. Si quelque chose lui a paru difficile, cherchez ensemble un défi semblable et rejouez-le cette semaine.",
+          "ar": "كل إجابة تصلح. وإذا كان شيء صعبًا، ابحثوا معًا عن تحدٍّ مشابه والعبوه مرة أخرى هذا الأسبوع."
         }
       }
     }
@@ -320,19 +320,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "fabc54c3d2f3"
+        "huella": "3e2c3d5e45df"
       },
       "en": {
         "estado": "automatica",
-        "huella": "fabc54c3d2f3"
+        "huella": "3e2c3d5e45df"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "fabc54c3d2f3"
+        "huella": "3e2c3d5e45df"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "fabc54c3d2f3"
+        "huella": "3e2c3d5e45df"
       }
     }
   }

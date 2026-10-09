@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana, con números grandes, aprenden a reconocer qué clase de resta pide cada problema: quitar, comparar o cuánto falta. Y a decidir si un problema se resuelve sumando o restando.",
-    "va": "Aquesta setmana, amb nombres grans, aprenen a reconéixer quina classe de resta (resta) demana cada problema (problema): llevar, comparar o quant en falta. I a decidir si un problema es resol sumant o restant.",
+    "va": "Aquesta setmana, amb nombres grans, aprenen a reconéixer quina classe de resta demana cada problema: llevar, comparar o quant en falta. I a decidir si un problema es resol sumant o restant.",
     "en": "This week, with big numbers, they learn to recognise which kind of subtraction (resta) each word problem (problema) asks for: taking away, comparing or how many are missing. And to decide whether a problem is solved by adding or subtracting.",
     "fr": "Cette semaine, avec de grands nombres, on apprend à reconnaître quelle sorte de soustraction (resta) demande chaque problème (problema) : enlever, comparer ou combien il manque. Et à décider si un problème se résout en additionnant ou en soustrayant.",
     "ar": "هذا الأسبوع، بأعداد كبيرة، يتعلّم الأطفال التعرّف على نوع الطرح (resta) الذي تطلبه كل مسألة (problema): أخذ أو مقارنة أو كم ينقص. ويتعلّمون أن يقرّروا هل تُحلّ المسألة بالجمع أم بالطرح."
@@ -25,7 +25,7 @@
     "va": "Quan aparega un problema, demaneu que us el conte amb les seues paraules abans de fer cap compte. Si el pot contar, quasi sempre ja sap quina operació usar.",
     "en": "When a word problem comes up, ask them to tell it in their own words before doing any sums. If they can tell it, they nearly always already know which operation to use.",
     "fr": "Quand un problème apparaît, demandez à votre enfant de le raconter avec ses mots avant de faire le moindre calcul. S'il ou elle peut le raconter, il ou elle sait presque toujours déjà quelle opération utiliser.",
-    "ar": "عندما تظهر مسألة، اطلبوا روايتها بالكلمات الخاصة قبل أي حساب. إذا أمكنت روايتها، فغالبًا ما تكون العملية المناسبة معروفة."
+    "ar": "عندما تظهر مسألة، اطلبوا من الأطفال أن يحكوها لكم بكلماتهم قبل أي حساب. إذا استطاعوا أن يحكوها، فغالبًا ما يعرفون العملية المناسبة."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta"
@@ -86,7 +86,7 @@
         "texto": {
           "es": "Inventad preguntas con esos números: «¿Cuántos años más tiene la abuela que yo?», «¿Cuánto me falta para medir como la persona más alta?», «Si quito 100 cm a mi altura, ¿qué queda?».",
           "va": "Inventeu preguntes amb eixos nombres: «Quants anys més té l'àvia que jo?», «Quant em falta per a fer d'alt com la persona més alta?», «Si lleve 100 cm a la meua altura, què queda?».",
-          "en": "Make up questions with those numbers: “How many years older is Grandma than me?”, “How many centimetres short am I of the tallest person?”, “If I take 100 cm off my height, what's left?”.",
+          "en": "Make up questions with those numbers: “How many years older is Grandma than me?”, “How many more centimetres until I'm as tall as the tallest person?”, “If I take 100 cm off my height, what's left?”.",
           "fr": "Inventez des questions avec ces nombres : « Combien d'années de plus a mamie que moi ? », « Combien il me manque pour être aussi grand ou grande que la personne la plus grande ? », « Si j'enlève 100 cm à ma taille, qu'est-ce qui reste ? ».",
           "ar": "اخترعوا أسئلة بهذه الأعداد: «بكم سنة تكبرني الجدة؟»، «كم ينقصني لأصير بطول أطول شخص؟»، «إذا أخذنا 100 سم من طولي، ماذا يبقى؟»."
         }
@@ -139,7 +139,7 @@
       "pista": {
         "es": "Es de quitar: a las butacas que hay les quitas las ocupadas.",
         "va": "És de llevar: a les butaques que hi ha els lleves les ocupades.",
-        "en": "It's a taking-away one: from the seats there are, take away the ones that are taken.",
+        "en": "It's a taking-away one: from the seats there are, take away the occupied ones.",
         "fr": "C'est pour enlever : aux fauteuils qu'il y a, tu enlèves ceux qui sont occupés.",
         "ar": "هذه مسألة أخذ: من المقاعد الموجودة نأخذ المقاعد المشغولة."
       },
@@ -159,7 +159,7 @@
       "inventala": {
         "es": "Inventa tú una de quitar con un sitio donde haya muchos asientos.",
         "va": "Inventa'n tu una de llevar amb un lloc on hi haja molts seients.",
-        "en": "Make up a taking-away one about a place with lots of seats.",
+        "en": "Make up a taking-away problem about a place with lots of seats.",
         "fr": "Invente un problème où l'on enlève, dans un endroit avec beaucoup de places assises.",
         "ar": "لنخترع مسألة أخذ عن مكان فيه مقاعد كثيرة."
       }
@@ -303,11 +303,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Pistas que suelen dar: «quedan» (quitar), «más que» o «menos que» (comparar), «falta» o «para llegar» (cuánto falta). Si encuentra sus propias palabras clave, mejor todavía.",
-          "va": "Pistes que solen donar: «queden» (llevar), «més que» o «menys que» (comparar), «falta» o «per a arribar» (quant en falta). Si troba les seues pròpies paraules clau, millor encara.",
-          "en": "Clues they often give: “left” (taking away), “more than” or “less than” (comparing), “missing” or “to reach” (how many are missing). If they find their own key words, even better.",
-          "fr": "Indices souvent donnés : « il reste » (enlever), « plus que » ou « moins que » (comparer), « il manque » ou « pour arriver à » (combien il manque). S'il ou elle trouve ses propres mots clés, c'est encore mieux.",
-          "ar": "تلميحات تُذكر عادةً: «بقي» (أخذ)، «أكثر من» أو «أقل من» (مقارنة)، «ينقص» أو «للوصول إلى» (كم ينقص). وإذا وُجدت كلمات مفتاحية خاصة، فهذا أفضل."
+          "es": "A veces ayudan palabras como «quedan» (quitar), «más que» o «menos que» (comparar), «falta» o «para llegar» (cuánto falta), pero lo que importa es la historia: ¿qué pasa con las cosas? Si lo cuenta con sus palabras, mejor todavía.",
+          "va": "De vegades ajuden paraules com «queden» (llevar), «més que» o «menys que» (comparar), «falta» o «per a arribar» (quant en falta), però el que importa és la història: què passa amb les coses? Si ho conta amb les seues paraules, millor encara.",
+          "en": "Words like “left” (taking away), “more than” or “less than” (comparing), “missing” or “to reach” (how many are missing) sometimes help, but what matters is the story: what happens to the things? If they tell it in their own words, even better.",
+          "fr": "Des mots comme « il reste » (enlever), « plus que » ou « moins que » (comparer), « il manque » ou « pour arriver à » (combien il manque) aident parfois, mais ce qui compte, c'est l'histoire : que se passe-t-il avec les choses ? S'il ou elle la raconte avec ses mots, c'est encore mieux.",
+          "ar": "قد تساعد أحيانًا كلمات مثل «بقي» (أخذ)، و«أكثر من» أو «أقل من» (مقارنة)، و«ينقص» أو «للوصول إلى» (كم ينقص)، لكن المهم هو الحكاية: ماذا يحدث للأشياء؟ وإذا حكى الأطفال المسألة بكلماتهم، فهذا أفضل."
         }
       }
     }
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "9567161d7bc1"
+        "huella": "4a4d7261b8d6"
       },
       "en": {
         "estado": "automatica",
-        "huella": "9567161d7bc1"
+        "huella": "4a4d7261b8d6"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "9567161d7bc1"
+        "huella": "4a4d7261b8d6"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "9567161d7bc1"
+        "huella": "4a4d7261b8d6"
       }
     }
   }

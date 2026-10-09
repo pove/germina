@@ -85,11 +85,11 @@
       {
         "pictograma": "calendario",
         "texto": {
-          "es": "Escribid uno de los números y descomponedlo. Con el año del calendario: {{2026 = 2000 + 20 + 6}}.",
-          "va": "Escriviu un dels nombres i descomponeu-lo. Amb l'any del calendari: {{2026 = 2000 + 20 + 6}}.",
-          "en": "Write down one of the numbers and break it down. With the year on the calendar: {{2026 = 2000 + 20 + 6}}.",
-          "fr": "Écrivez un des nombres et décomposez-le. Avec l'année du calendrier : {{2026 = 2000 + 20 + 6}}.",
-          "ar": "اكتبوا أحد الأعداد وفكّكوه. مع سنة التقويم: {{2026 = 2000 + 20 + 6}}."
+          "es": "Escribid uno de los números y descomponedlo. Por ejemplo, con el año 2026: {{2026 = 2000 + 20 + 6}}.",
+          "va": "Escriviu un dels nombres i descomponeu-lo. Per exemple, amb l'any 2026: {{2026 = 2000 + 20 + 6}}.",
+          "en": "Write down one of the numbers and break it down. For example, with the year 2026: {{2026 = 2000 + 20 + 6}}.",
+          "fr": "Écrivez un des nombres et décomposez-le. Par exemple, avec l'année 2026 : {{2026 = 2000 + 20 + 6}}.",
+          "ar": "اكتبوا أحد الأعداد وفكّكوه. مثلًا مع السنة 2026: {{2026 = 2000 + 20 + 6}}."
         }
       },
       {
@@ -120,7 +120,7 @@
     "paraQueSirve": {
       "es": "Los números grandes están por todas partes. Leerlos en voz alta y descomponerlos ayuda a entender cuánto vale cada cifra.",
       "va": "Els nombres grans estan per tot arreu. Llegir-los en veu alta i descompondre'ls ajuda a entendre quant val cada xifra.",
-      "en": "Big numbers are everywhere. Reading them aloud and breaking them down helps understand what each digit is worth.",
+      "en": "Big numbers are everywhere. Reading them aloud and breaking them down helps you understand what each digit is worth.",
       "fr": "Les grands nombres sont partout. Les lire à voix haute et les décomposer aide à comprendre ce que vaut chaque chiffre.",
       "ar": "الأعداد الكبيرة في كل مكان. قراءتها بصوت عالٍ وتفكيكها يساعدان على فهم قيمة كل رقم."
     }
@@ -250,7 +250,7 @@
       "tipoProblema": "anadir",
       "texto": {
         "es": "Para recordar lo de 3.º: en un huerto hay 356 lechugas y se plantan 27 más. ¿Cuántas hay ahora?",
-        "va": "Per a recordar el que vàreu fer a 3r: en un hort hi ha 356 encisams i se'n planten 27 més. Quants n'hi ha ara?",
+        "va": "Per a recordar el de 3r: en un hort hi ha 356 encisams i se'n planten 27 més. Quants n'hi ha ara?",
         "en": "Let's remember Year 3: a vegetable garden has 356 lettuces and 27 more are planted. How many are there now?",
         "fr": "Pour se souvenir de l'an dernier : dans un potager, il y a 356 salades et on en plante 27 de plus. Combien y en a-t-il maintenant ?",
         "ar": "لنتذكّر ما تعلّمناه في السنة الثالثة: في بستان 356 خسّة وزُرعت 27 أخرى. كم خسّة فيه الآن؟"
@@ -299,7 +299,7 @@
         "va": "Si no se li n'acut cap, busqueu-ne un junts en un envàs o a la porta de la nevera.",
         "en": "If they can't think of one, look for one together on some packaging or on the fridge door.",
         "fr": "S'il ou elle n'en trouve aucun, cherchez-en un ensemble sur un emballage ou sur la porte du frigo.",
-        "ar": "إن لم يخطر أي عدد، ابحثوا معًا عن واحد على علبة أو على باب الثلاجة."
+        "ar": "إن لم يخطر في البال أي عدد، ابحثوا معًا عن واحد على علبة أو على باب الثلاجة."
       },
       "respuesta": {
         "tipo": "abierta",
@@ -308,7 +308,7 @@
           "va": "Si se salta un zero en llegir (per exemple, 3050 com «tres-cents cinquanta»), tapeu xifres junts i pregunteu «quants milers hi ha?».",
           "en": "If they skip a zero when reading (for example, 3050 as “three hundred and fifty”), cover digits together and ask “How many thousands are there?”.",
           "fr": "S'il ou elle saute un zéro en lisant (par exemple, 3050 lu « trois cent cinquante »), cachez des chiffres ensemble et demandez « Combien y a-t-il de milliers ? ».",
-          "ar": "إذا قُفز على صفر عند القراءة (مثلًا، قراءة 3050 «ثلاثمئة وخمسين»)، غطّوا الأرقام معًا واسألوا «كم ألفًا هناك؟»."
+          "ar": "إذا سقط صفر عند القراءة (مثلًا، قراءة 3050 «ثلاثمئة وخمسين»)، غطّوا الأرقام معًا واسألوا «كم ألفًا هناك؟»."
         }
       }
     }
@@ -320,19 +320,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "b2249fd593ef"
+        "huella": "89cbe574bcf9"
       },
       "en": {
         "estado": "automatica",
-        "huella": "b2249fd593ef"
+        "huella": "89cbe574bcf9"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "b2249fd593ef"
+        "huella": "89cbe574bcf9"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "b2249fd593ef"
+        "huella": "89cbe574bcf9"
       }
     }
   }

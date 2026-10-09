@@ -24,7 +24,7 @@
       },
       {
         "es": "Descubren que multiplicar es sumar grupos iguales y empiezan las tablas del 2, del 10 y del 5.",
-        "va": "Descobreixen que multiplicar és sumar grups iguals i comencen les taules del 2, del 10 i del 5.",
+        "va": "Descobrixen que multiplicar és sumar grups iguals i comencen les taules del 2, del 10 i del 5.",
         "en": "They discover that multiplying is adding equal groups and begin the 2, 10 and 5 times tables.",
         "fr": "Ils découvrent que multiplier, c'est additionner des groupes égaux, et commencent les tables de 2, de 10 et de 5.",
         "ar": "يكتشفون أن الضرب هو جمع مجموعات متساوية، ويبدؤون جداول ضرب 2 و10 و5."
@@ -54,8 +54,8 @@
       },
       {
         "es": "Dividen como repartir en partes iguales y como formar grupos, y ven qué pasa con lo que sobra.",
-        "va": "Divideixen com a repartir en parts iguals i com a formar grups, i veuen què passa amb el que sobra.",
-        "en": "They divide by sharing out equally and by making groups, and see what happens with what is left over.",
+        "va": "Dividixen com a repartir en parts iguals i com a formar grups, i veuen què passa amb el que sobra.",
+        "en": "They divide by sharing out equally and by making groups, and see what happens to what is left over.",
         "fr": "Ils divisent en partageant en parts égales et en formant des groupes, et voient ce qui se passe avec ce qui reste.",
         "ar": "يقسمون بتوزيع الأشياء بالتساوي وبتكوين مجموعات، ويرون ما يحدث للباقي."
       },
@@ -91,7 +91,7 @@
       },
       {
         "es": "Descubren la mitad, el cuarto y el tercio con objetos, y comparan trozos.",
-        "va": "Descobreixen la meitat, el quart i el terç amb objectes, i comparen trossos.",
+        "va": "Descobrixen la meitat, el quart i el terç amb objectes, i comparen trossos.",
         "en": "They discover halves, quarters and thirds with objects, and compare pieces.",
         "fr": "Ils découvrent la moitié, le quart et le tiers avec des objets, et comparent des morceaux.",
         "ar": "يكتشفون النصف والربع والثلث بالأشياء، ويقارنون القطع."
@@ -105,7 +105,7 @@
       },
       {
         "es": "Distinguen lo que es seguro, posible o imposible, y juegan a pensar estrategias.",
-        "va": "Distingeixen el que és segur, possible o impossible, i juguen a pensar estratègies.",
+        "va": "Distingixen el que és segur, possible o impossible, i juguen a pensar estratègies.",
         "en": "They tell apart what is certain, possible or impossible, and play at thinking up strategies.",
         "fr": "Ils distinguent ce qui est certain, possible ou impossible, et jouent à imaginer des stratégies.",
         "ar": "يميّزون ما هو مؤكّد وما هو ممكن وما هو مستحيل، ويلعبون بابتكار الاستراتيجيات."
@@ -167,14 +167,14 @@
       },
       {
         "es": "Cuentan combinaciones con árboles y dividen entre una cifra repartiendo dinero.",
-        "va": "Compten combinacions amb arbres i divideixen entre una xifra repartint diners.",
+        "va": "Compten combinacions amb arbres i dividixen entre una xifra repartint diners.",
         "en": "They count combinations with tree diagrams and divide by one digit by sharing out money.",
         "fr": "Ils comptent des combinaisons avec des arbres et divisent par un chiffre en partageant de l'argent.",
-        "ar": "يعدّون الاحتمالات المركّبة بالأشجار ويقسمون على رقم واحد بتوزيع النقود."
+        "ar": "يعدّون التركيبات بالمخطّطات الشجرية ويقسمون على رقم واحد بتوزيع النقود."
       },
       {
         "es": "Comprueban una división con la multiplicación y descubren los múltiplos y los divisores.",
-        "va": "Comproven una divisió amb la multiplicació i descobreixen els múltiples i els divisors.",
+        "va": "Comproven una divisió amb la multiplicació i descobrixen els múltiples i els divisors.",
         "en": "They check a division with a multiplication and discover multiples and divisors.",
         "fr": "Ils vérifient une division avec la multiplication et découvrent les multiples et les diviseurs.",
         "ar": "يتحققون من القسمة بالضرب ويكتشفون المضاعفات والقواسم."
@@ -190,16 +190,16 @@
     "3": [
       {
         "es": "Multiplican y dividen por 10, por 100 y por 1000.",
-        "va": "Multipliquen i divideixen per 10, per 100 i per 1000.",
+        "va": "Multipliquen i dividixen per 10, per 100 i per 1000.",
         "en": "They multiply and divide by 10, by 100 and by 1000.",
         "fr": "Ils multiplient et divisent par 10, par 100 et par 1000.",
-        "ar": "يضربون ويقسمون على 10 وعلى 100 وعلى 1000."
+        "ar": "يضربون في 10 وفي 100 وفي 1000 ويقسمون عليها."
       },
       {
         "es": "Ven la fracción como parte de un todo y la colocan en la recta, con una cinta métrica o un metro de costura.",
         "va": "Veuen la fracció com a part d'un tot i la col·loquen en la recta, amb una cinta mètrica o un metre de costura.",
         "en": "They see a fraction as part of a whole and place it on the number line, using a tape measure or a sewing tape.",
-        "fr": "Ils voient la fraction comme une partie d'un tout et la placent sur la droite, avec un mètre ruban.",
+        "fr": "Ils voient la fraction comme une partie d'un tout et la placent sur la droite numérique, avec un mètre ruban.",
         "ar": "يرون الكسر جزءًا من كل ويضعونه على خط الأعداد، بشريط القياس أو شريط الخياطة."
       },
       {
@@ -219,7 +219,7 @@
       {
         "es": "Piensan estrategias ganadoras en juegos sin azar.",
         "va": "Pensen estratègies guanyadores en jocs sense atzar.",
-        "en": "They think up winning strategies in games without luck.",
+        "en": "They think up winning strategies in games that don't depend on luck.",
         "fr": "Ils imaginent des stratégies gagnantes dans des jeux sans hasard.",
         "ar": "يبتكرون استراتيجيات رابحة في ألعاب لا تعتمد على الحظ."
       }

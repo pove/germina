@@ -11,7 +11,7 @@
     "va": "Amb 20 € al súper",
     "en": "With 20 € at the supermarket",
     "fr": "Avec 20 € au supermarché",
-    "ar": "بـ20 يورو في السوق"
+    "ar": "بـ20 يورو في السوبرماركت"
   },
   "objetivo": {
     "es": "Esta semana hacen la compra con 20 €: suman precios con céntimos, calculan la vuelta y ven que los céntimos son la parte que va después de la coma. 50 céntimos es medio euro: 2,50 € son dos euros y medio.",
@@ -25,7 +25,7 @@
     "va": "Al súper de veritat, deixeu que porte el compte de dues o tres coses i diga si arriben els diners. Arrodonir a euros sencers ja és un gran pas.",
     "en": "At the real supermarket, let your child keep track of two or three items and say whether the money is enough. Rounding to whole euros is already a big step.",
     "fr": "Au vrai supermarché, laissez votre enfant faire le compte de deux ou trois articles et dire si l'argent suffit. Arrondir à l'euro, c'est déjà un grand pas.",
-    "ar": "في السوق الحقيقي، اتركوا ابنكم أو ابنتكم يحسب ثمن شيئين أو ثلاثة ويقول إن كان المال يكفي. التقريب إلى يورو كامل خطوة كبيرة في حدّ ذاتها."
+    "ar": "في السوبرماركت الحقيقي، اتركوا ابنكم أو ابنتكم يحسب ثمن شيئين أو ثلاثة ويقول إن كان المال يكفي. التقريب إلى يورو كامل خطوة كبيرة في حدّ ذاتها."
   },
   "saberes": [
     "matematicas.medida.magnitudes",
@@ -50,7 +50,7 @@
         "va": "Un fullet del súper",
         "en": "A supermarket leaflet",
         "fr": "Un prospectus du supermarché",
-        "ar": "نشرة إعلانات السوق"
+        "ar": "نشرة إعلانات السوبرماركت"
       },
       {
         "es": "Billetes y monedas de papel (o de verdad)",
@@ -92,11 +92,11 @@
       {
         "pictograma": "billete",
         "texto": {
-          "es": "Pagad con el billete de 20 € y calculad la vuelta contando hacia arriba con monedas: de 6,85 € a 7 €, 15 céntimos; de 7 € a 20 €, 13 €. La vuelta es 13,15 €.",
-          "va": "Pagueu amb el bitllet de 20 € i calculeu el canvi comptant cap amunt amb monedes: de 6,85 € a 7 €, 15 cèntims; de 7 € a 20 €, 13 €. El canvi és 13,15 €.",
-          "en": "Pay with the 20 € note and work out the change by counting up with coins: from 6,85 € to 7 €, 15 cents; from 7 € to 20 €, 13 €. The change is 13,15 €.",
-          "fr": "Payez avec le billet de 20 € et calculez la monnaie en comptant en avançant avec des pièces : de 6,85 € à 7 €, 15 centimes ; de 7 € à 20 €, 13 €. La monnaie est de 13,15 €.",
-          "ar": "ادفعوا بورقة الـ20 يورو واحسبوا الباقي بالعدّ صعودًا بالقطع النقدية: من 6,85 يورو إلى 7 يورو، 15 سنتًا؛ ومن 7 يورو إلى 20 يورو، 13 يورو. الباقي 13,15 يورو."
+          "es": "Pagad con el billete de 20 € y calculad la vuelta contando hacia arriba con monedas: de 6,85 € a 7 €, 15 céntimos; de 7 € a 20 €, 13 €. La vuelta es 13,15 €. Podéis dibujar una línea con 6,85 €, 7 € y 20 € para verlo.",
+          "va": "Pagueu amb el bitllet de 20 € i calculeu el canvi comptant cap amunt amb monedes: de 6,85 € a 7 €, 15 cèntims; de 7 € a 20 €, 13 €. El canvi és 13,15 €. Podeu dibuixar una línia amb 6,85 €, 7 € i 20 € per a veure-ho.",
+          "en": "Pay with the 20 € note and work out the change by counting up with coins: from 6,85 € to 7 €, 15 cents; from 7 € to 20 €, 13 €. The change is 13,15 €. You can draw a line with 6,85 €, 7 € and 20 € on it to see it.",
+          "fr": "Payez avec le billet de 20 € et calculez la monnaie en comptant en avançant avec des pièces : de 6,85 € à 7 €, 15 centimes ; de 7 € à 20 €, 13 €. La monnaie est de 13,15 €. Vous pouvez dessiner une ligne avec 6,85 €, 7 € et 20 € pour le voir.",
+          "ar": "ادفعوا بورقة الـ20 يورو واحسبوا الباقي بالعدّ صعودًا بالقطع النقدية: من 6,85 يورو إلى 7 يورو، 15 سنتًا؛ ومن 7 يورو إلى 20 يورو، 13 يورو. الباقي 13,15 يورو. يمكنكم رسم خط عليه 6,85 يورو و7 يورو و20 يورو لتروا ذلك."
         }
       },
       {
@@ -126,10 +126,10 @@
     },
     "paraQueSirve": {
       "es": "Manejar euros y céntimos es el primer contacto con los números con coma, y calcular si llega el dinero es algo que se usa toda la vida.",
-      "va": "Manejar euros i cèntims és el primer contacte amb els números amb coma, i calcular si arriben els diners és una cosa que es fa servir tota la vida.",
+      "va": "Manejar euros i cèntims és el primer contacte amb els nombres amb coma, i calcular si arriben els diners és una cosa que es fa servir tota la vida.",
       "en": "Handling euros and cents is their first contact with decimal numbers, and working out whether there's enough money is something used for life.",
       "fr": "Manipuler des euros et des centimes, c'est le premier contact avec les nombres à virgule, et calculer si l'argent suffit sert toute la vie.",
-      "ar": "التعامل مع اليورو والسنتات هو أول تعارف مع الأعداد العشرية، وحساب ما إذا كان المال يكفي أمر نستعمله طوال الحياة."
+      "ar": "التعامل مع اليورو والسنتات هو أول تعرّف على الأعداد العشرية، وحساب ما إذا كان المال يكفي أمر نستعمله طوال الحياة."
     },
     "aviso": {
       "es": "Si usáis monedas de verdad, guardadlas lejos de hermanos o hermanas pequeños.",
@@ -306,14 +306,14 @@
         "va": "Si vas al súper amb 20 €, com saps si t'arriba per al que vols comprar? Explica-m'ho.",
         "en": "If you go to the supermarket with 20 €, how do you know whether it's enough for what you want to buy? Explain it to me.",
         "fr": "Si tu vas au supermarché avec 20 €, comment sais-tu si ça suffit pour ce que tu veux acheter ? Explique-le-moi.",
-        "ar": "إذا ذهبنا إلى السوق بـ20 يورو، فكيف نعرف إن كانت تكفي لما نريد شراءه؟ اشرح لي أو اشرحي لي."
+        "ar": "إذا ذهبنا إلى السوبرماركت بـ20 يورو، فكيف نعرف إن كانت تكفي لما نريد شراءه؟ اشرح لي أو اشرحي لي."
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «Si algo cuesta 4,95 €, ¿a cuántos euros lo redondearías?»",
         "va": "Si no sap per on començar: «Si una cosa costa 4,95 €, a quants euros l'arrodoniries?»",
         "en": "If they don't know where to start: “If something costs 4,95 €, how many euros would you round it to?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si quelque chose coûte 4,95 €, à combien d'euros tu l'arrondirais ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كان ثمن شيء 4,95 يورو، فإلى كم يورو نقرّبه؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كان ثمن شيء 4,95 يورو، فإلى كم يورو نقرّبه؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -322,7 +322,7 @@
           "va": "Pot arrodonir els preus i sumar-los, o anar restant de 20 €. Qualsevol manera amb sentit val; pregunteu també: «i si no arriba, què faries?».",
           "en": "They might round the prices and add them, or keep subtracting from 20 €. Any way that makes sense is fine; also ask: “And if it isn't enough, what would you do?”",
           "fr": "Il ou elle peut arrondir les prix et les additionner, ou soustraire au fur et à mesure de 20 €. Toute façon qui a du sens est bonne ; demandez aussi : « Et si ça ne suffit pas, tu ferais quoi ? »",
-          "ar": "قد يقرّب الأسعار ويجمعها، أو يطرح تدريجيًا من 20 يورو. كل طريقة لها معنى مقبولة؛ واسألوا أيضًا: «وإذا لم يكفِ المال، ماذا نفعل؟»."
+          "ar": "قد يقرّبون الأسعار ويجمعونها، أو يطرحون تدريجيًا من 20 يورو. كل طريقة لها معنى مقبولة؛ واسألوا أيضًا: «وإذا لم يكفِ المال، ماذا نفعل؟»."
         }
       }
     }
@@ -334,19 +334,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "1b952888d5a8"
+        "huella": "3cd724f863ca"
       },
       "en": {
         "estado": "automatica",
-        "huella": "1b952888d5a8"
+        "huella": "3cd724f863ca"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "1b952888d5a8"
+        "huella": "3cd724f863ca"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "1b952888d5a8"
+        "huella": "3cd724f863ca"
       }
     }
   }

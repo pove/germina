@@ -9,16 +9,16 @@
   "titulo": {
     "es": "Semana de recordar: restas, horas y grupos",
     "va": "Setmana de recordar: restes, hores i grups",
-    "en": "Week to remember: subtractions, times and groups",
+    "en": "Week to remember: subtractions, telling the time and groups",
     "fr": "Semaine pour se souvenir : soustractions, heures et groupes",
     "ar": "أسبوع التذكّر: الطرح والساعة والمجموعات"
   },
   "objetivo": {
     "es": "Esta semana vuelven a las restas en las que se abre una decena, al cálculo de cabeza con decenas y centenas, a la hora del reloj y a los grupos iguales. No hay nada nuevo: es para que se asiente.",
     "va": "Aquesta setmana tornen a les restes en què s'obri una desena (decena), al càlcul de cap amb desenes i centenes, a l'hora del rellotge i als grups iguals. No hi ha res nou: és perquè s'assente.",
-    "en": "This week they go back to subtractions where you open a ten (decena), to working out tens and hundreds in their heads, to telling the time and to equal groups. There is nothing new: it's so it all settles in.",
-    "fr": "Cette semaine, on revient aux soustractions où l'on ouvre une dizaine (decena), au calcul de tête avec des dizaines et des centaines, à l'heure de l'horloge et aux groupes égaux. Rien de nouveau : c'est pour que tout se pose.",
-    "ar": "هذا الأسبوع يعود الأطفال إلى الطرح الذي نفتح فيه عشرة (decena)، وإلى الحساب الذهني بالعشرات والمئات، وإلى قراءة الساعة، وإلى المجموعات المتساوية. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+    "en": "This week they go back to subtractions where you open a ten (decena), to working out tens and hundreds (centenas) in their heads, to telling the time and to equal groups. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient aux soustractions où l'on ouvre une dizaine (decena), au calcul de tête avec des dizaines et des centaines (centenas), à l'heure de l'horloge et aux groupes égaux. Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى الطرح الذي نفتح فيه عشرة (decena)، وإلى الحساب الذهني بالعشرات والمئات (centenas)، وإلى قراءة الساعة، وإلى المجموعات المتساوية. لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
     "es": "Si en una casilla se atasca, dad la pista y seguid jugando. Lo importante es que el juego siga y que todo el mundo quiera otra partida.",
@@ -42,7 +42,7 @@
       "va": "L'oca de casa",
       "en": "Our own board game",
       "fr": "Notre jeu de l'oie",
-      "ar": "لعبة الإوزّة المنزلية"
+      "ar": "لعبة الإوزّة في البيت"
     },
     "material": [
       {
@@ -91,8 +91,8 @@
         "texto": {
           "es": "Por turnos, tirad el dado y avanzad. Si caéis en una casilla con algo escrito, lo resolvéis en voz alta: el resultado de la resta, la hora con las agujas dibujadas o la multiplicación.",
           "va": "Per torns, tireu el dau i avanceu. Si caieu en una casella amb alguna cosa escrita, la resoleu en veu alta: el resultat de la resta, l'hora amb les agulles dibuixades o la multiplicació.",
-          "en": "Take turns to roll the dice and move forward. If you land on a square with something written on it, work it out out loud: the answer to the subtraction, the time with the hands drawn, or the multiplication.",
-          "fr": "Chacun son tour, lancez le dé et avancez. Si vous tombez sur une case où quelque chose est écrit, trouvez-le à voix haute : le résultat de la soustraction, l'heure avec les aiguilles dessinées ou la multiplication.",
+          "en": "Take turns to roll the dice and move forward. If you land on a square with something written on it, work it out aloud: the answer to the subtraction, the time with the hands drawn, or the multiplication.",
+          "fr": "Chacun son tour, lancez le dé et avancez. Si vous tombez sur une case où quelque chose est écrit, dites la réponse à voix haute : le résultat de la soustraction, l'heure avec les aiguilles dessinées ou la multiplication.",
           "ar": "بالتناوب، ارموا النرد وتقدّموا. إذا وقعتم على خانة فيها شيء مكتوب، فحلّوه بصوت عالٍ: ناتج الطرح، أو الوقت برسم العقربين، أو عملية الضرب."
         }
       },
@@ -122,7 +122,7 @@
       "va": "Poseu restes sense obrir desenes, hores en punt i grups de 2.",
       "en": "Use subtractions without opening tens, o'clock times and groups of 2.",
       "fr": "Mettez des soustractions sans ouvrir de dizaine, des heures pile et des groupes de 2.",
-      "ar": "ضعوا عمليات طرح بلا فتح عشرات، وأوقاتًا تمامًا، ومجموعات من 2."
+      "ar": "ضعوا عمليات طرح بلا فتح عشرات، وأوقاتًا مثل الرابعة تمامًا، ومجموعات من 2."
     },
     "masDificil": {
       "es": "Añadid casillas de «¿cuánto falta?»: de las 5 y media a las 6, o de 38 a 50.",
@@ -153,7 +153,7 @@
       "tipoProblema": "detraccion",
       "texto": {
         "es": "En un tarro hay 61 pinzas y Bilal usa 24 para tender la ropa. ¿Cuántas quedan en el tarro?",
-        "va": "En un pot hi ha 61 pinces i Bilal en fa servir 24 per a estendre la roba. Quantes en queden al pot?",
+        "va": "En un pot hi ha 61 pinces i el Bilal en fa servir 24 per a estendre la roba. Quantes en queden al pot?",
         "en": "There are 61 clothes pegs in a jar and Bilal uses 24 to hang out the washing. How many are left in the jar?",
         "fr": "Dans un pot, il y a 61 pinces à linge et Bilal en utilise 24 pour étendre le linge. Combien en reste-t-il dans le pot ?",
         "ar": "في مرطبان 61 ملقط غسيل، واستعمل بلال 24 منها لنشر الملابس. كم ملقطًا بقي في المرطبان؟"
@@ -163,7 +163,7 @@
         "va": "Les 4 no ixen d'1: obri una desena. Ara hi ha 5 desenes i 11 soltes.",
         "en": "You can't take 4 from 1: open a ten. Now there are 5 tens and 11 loose ones.",
         "fr": "On ne peut pas enlever 4 de 1 : ouvre une dizaine. Maintenant, il y a 5 dizaines et 11 unités.",
-        "ar": "لا يمكن أخذ 4 من 1: لنفتح عشرة. الآن هناك 5 عشرات و11 آحادًا."
+        "ar": "لا يمكن أخذ 4 من 1: لنفتح عشرة. الآن هناك 5 عشرات و11 من الآحاد."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -192,7 +192,7 @@
       "tipoProblema": "tiempo",
       "texto": {
         "es": "Vega entra a natación a las 5 en punto y sale a las 5 y media. ¿Cuántos minutos está en el agua?",
-        "va": "Vega entra a natació a les 5 en punt i ix a les 5 i mitja. Quants minuts està dins de l'aigua?",
+        "va": "La Vega entra a natació a les 5 en punt i ix a les 5 i mitja. Quants minuts està dins de l'aigua?",
         "en": "Vega starts swimming at 5 o'clock and finishes at half past 5. How many minutes is she in the water?",
         "fr": "Vega commence la natation à 5 heures pile et sort à 5 heures et demie. Combien de minutes reste-t-elle dans l'eau ?",
         "ar": "تبدأ فيغا السباحة في الخامسة تمامًا وتخرج في الخامسة والنصف. كم دقيقة تبقى في الماء؟"
@@ -267,41 +267,41 @@
     {
       "id": "p4",
       "rol": "recordar",
-      "recupera": 10,
-      "tipoProblema": "tiempo",
+      "recupera": 9,
+      "tipoProblema": "detraccion",
       "texto": {
-        "es": "Para recordar: la aguja corta ha pasado un poco del 9 y la larga está en el 6. ¿Qué hora es?",
-        "va": "Per a recordar: l'agulla curta ha passat un poc del 9 i la llarga està en el 6. Quina hora és?",
-        "en": "Let's remember: the short hand is just past 9 and the long hand is on 6. What time is it?",
-        "fr": "Pour se souvenir : la petite aiguille a un peu dépassé le 9 et la grande est sur le 6. Quelle heure est-il ?",
-        "ar": "لنتذكّر: تجاوز العقرب القصير 9 بقليل والطويل عند 6. كم الساعة؟"
+        "es": "Para recordar: en una caja hay 450 pajitas y se usan 200 en una fiesta. ¿Cuántas quedan?",
+        "va": "Per a recordar: en una caixa hi ha 450 palletes i se'n fan servir 200 en una festa. Quantes en queden?",
+        "en": "Let's remember: there are 450 straws in a box and 200 are used at a party. How many are left?",
+        "fr": "Pour se souvenir : dans une boîte, il y a 450 pailles et on en utilise 200 pour une fête. Combien en reste-t-il ?",
+        "ar": "لنتذكّر: في علبة 450 ماصّة، واستُعمل منها 200 في حفلة. كم بقي؟"
       },
       "pista": {
-        "es": "Cuando la larga está en el 6, es «y media». ¿De qué hora?",
-        "va": "Quan la llarga està en el 6, és «i mitja». De quina hora?",
-        "en": "When the long hand is on 6, it's “half past”. Half past what?",
-        "fr": "Quand la grande est sur le 6, c'est « et demie ». Mais de quelle heure ?",
-        "ar": "عندما يكون الطويل عند 6، نقول «والنصف». لكن أيّ ساعة؟"
+        "es": "Solo cambia la cifra de las centenas.",
+        "va": "Només canvia la xifra de les centenes.",
+        "en": "Only the hundreds digit changes.",
+        "fr": "Seul le chiffre des centaines change.",
+        "ar": "يتغيّر رقم المئات فقط."
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "9 × 60 + 30",
-        "resultado": 570,
-        "unidad": "min",
+        "operacion": "450 - 200",
+        "resultado": 250,
+        "unidad": "unidades",
         "texto": {
-          "es": "Son las 9 y media (9:30).",
-          "va": "Són les 9 i mitja (9:30).",
-          "en": "It's half past 9 (9:30).",
-          "fr": "Il est 9 heures et demie (9:30).",
-          "ar": "الساعة التاسعة والنصف (9:30)."
+          "es": "Quedan 250 pajitas.",
+          "va": "En queden 250.",
+          "en": "There are 250 straws left.",
+          "fr": "Il reste 250 pailles.",
+          "ar": "بقيت 250 ماصّة."
         }
       },
       "inventala": {
-        "es": "Inventa tú una hora y dibuja las agujas para que otra persona la lea.",
-        "va": "Inventa't una hora i dibuixa les agulles perquè una altra persona la llija.",
-        "en": "Make up a time and draw the hands for someone else to read it.",
-        "fr": "Invente une heure et dessine les aiguilles pour qu'une autre personne la lise.",
-        "ar": "لنخترع وقتًا ونرسم العقربين ليقرأه شخص آخر."
+        "es": "Inventa tú una en la que se quiten 100 o 200.",
+        "va": "Inventa'n tu una en què es lleven 100 o 200.",
+        "en": "Make up one where you take away 100 or 200.",
+        "fr": "Invente un problème où l'on enlève 100 ou 200.",
+        "ar": "لنخترع مسألة نأخذ فيها 100 أو 200."
       }
     },
     {
@@ -310,7 +310,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "De todo lo de estas semanas en mates, ¿qué te ha gustado más? ¿Y qué te ha costado? Explícame por qué.",
-        "va": "De tot el que heu fet aquestes setmanes en mates, què t'ha agradat més? I què t'ha costat? Explica'm per què.",
+        "va": "De tot el que has fet aquestes setmanes en mates, què t'ha agradat més? I què t'ha costat? Explica'm per què.",
         "en": "Of everything in maths these weeks, what did you like most? And what was hard? Tell me why.",
         "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce qui t'a le plus plu ? Et qu'est-ce qui a été difficile ? Explique-moi pourquoi.",
         "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، ما الذي أعجبك أكثر؟ وما الذي كان صعبًا؟ اشرح لي أو اشرحي لي لماذا."
@@ -325,11 +325,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Lo que cuente como difícil es una pista para jugar un poco más con eso en casa, sin prisa.",
-          "va": "No hi ha resposta bona ni dolenta. El que conte com a difícil és una pista per a jugar una mica més amb això a casa, sense pressa.",
-          "en": "There's no right or wrong answer. Whatever they say was hard is a clue for playing a bit more with it at home, without rushing.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Ce qui lui a paru difficile est une piste pour jouer un peu plus avec ça à la maison, sans se presser.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. ما يُذكر على أنه صعب هو إشارة لنلعب به قليلًا في البيت، دون استعجال."
+          "es": "Cualquier respuesta vale. Lo que cuente como difícil es una pista para jugar un poco más con eso en casa, sin prisa.",
+          "va": "Qualsevol resposta val. El que conte com a difícil és una pista per a jugar una mica més amb això a casa, sense pressa.",
+          "en": "Any answer works. Whatever they say was hard is a clue for playing a bit more with it at home, without rushing.",
+          "fr": "Toutes les réponses conviennent. Ce qui lui a paru difficile est une piste pour jouer un peu plus avec ça à la maison, sans se presser.",
+          "ar": "كل إجابة تصلح. ما يُذكر على أنه صعب يدلّنا على ما نلعب به أكثر قليلًا في البيت، دون استعجال."
         }
       }
     }
@@ -341,19 +341,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "601e922af1cd"
+        "huella": "5f55619e9505"
       },
       "en": {
         "estado": "automatica",
-        "huella": "601e922af1cd"
+        "huella": "5f55619e9505"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "601e922af1cd"
+        "huella": "5f55619e9505"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "601e922af1cd"
+        "huella": "5f55619e9505"
       }
     }
   }

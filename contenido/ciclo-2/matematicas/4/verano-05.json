@@ -15,16 +15,16 @@
   },
   "objetivo": {
     "es": "En una cuadrícula, cada casilla tiene nombre: una letra para la columna y un número para la fila, como B3 o D5. Esconder tesoros y encontrarlos dando coordenadas es aprender a localizar, como en un mapa o en el juego de los barcos.",
-    "va": "En una quadrícula, cada casella té nom: una lletra per a la columna i un número per a la fila, com B3 o D5. Amagar tresors i trobar-los donant coordenades és aprendre a localitzar, com en un mapa o en el joc dels vaixells.",
-    "en": "On a grid, each square has a name: a letter for the column and a number for the row, like B3 or D5. Hiding treasures and finding them by giving coordinates is learning to locate things, as on a map or in the ships game.",
-    "fr": "Sur un quadrillage, chaque case a un nom : une lettre pour la colonne et un nombre pour la ligne, comme B3 ou D5. Cacher des trésors et les retrouver en donnant des coordonnées, c'est apprendre à se repérer, comme sur une carte ou au jeu des bateaux.",
-    "ar": "في الشبكة، لكل خانة اسم: حرف للعمود وعدد للصف، مثل B3 أو D5. إخفاء الكنوز وإيجادها بإعطاء الإحداثيات تعلّم لتحديد المواقع، كما في الخريطة أو في لعبة السفن."
+    "va": "En una quadrícula, cada casella té nom: una lletra per a la columna i un número per a la fila, com B3 o D5. Amagar tresors i trobar-los donant coordenades (coordenadas) és aprendre a localitzar, com en un mapa o en el joc dels vaixells.",
+    "en": "On a grid, each square has a name: a letter for the column and a number for the row, like B3 or D5. Hiding treasures and finding them by giving coordinates (coordenadas) is learning to locate things, as on a map or in the ships game.",
+    "fr": "Sur un quadrillage, chaque case a un nom : une lettre pour la colonne et un nombre pour la ligne, comme B3 ou D5. Cacher des trésors et les retrouver en donnant des coordonnées (coordenadas), c'est apprendre à se repérer, comme sur une carte ou au jeu des bateaux.",
+    "ar": "في الشبكة، لكل خانة اسم: حرف للعمود وعدد للصف، مثل B3 أو D5. وإخفاء الكنوز وإيجادها بإعطاء الإحداثيات (coordenadas) هو تعلّم تحديد المواقع، كما في الخريطة أو في لعبة السفن."
   },
   "comoAyudar": {
     "es": "Si se confunde el orden, acordad una regla y decidla en voz alta: «primero la letra, que va de lado; después el número, que sube».",
     "va": "Si es confon l'ordre, acordeu una regla i digueu-la en veu alta: «primer la lletra, que va de costat; després el número, que puja».",
     "en": "If the order gets mixed up, agree on a rule and say it out loud: “First the letter, which goes across; then the number, which goes up”.",
-    "fr": "Si l'ordre se mélange, mettez-vous d'accord sur une règle et dites-la à voix haute : « D'abord la lettre, qui va de côté ; ensuite le nombre, qui monte ».",
+    "fr": "Si l'ordre se mélange, mettez-vous d'accord sur une règle et dites-la à voix haute : « D'abord la lettre, qui va horizontalement ; ensuite le nombre, qui monte ».",
     "ar": "إذا اختلط الترتيب، اتّفقوا على قاعدة وقولوها بصوت عالٍ: «أولًا الحرف الذي يسير أفقيًا، ثم العدد الذي يصعد»."
   },
   "saberes": [
@@ -101,11 +101,11 @@
       {
         "pictograma": "mapa",
         "texto": {
-          "es": "Apuntad en vuestra cuadrícula lo que os contestan. ¿Quién encuentra antes los 3 tesoros? ¿Qué estrategia ha funcionado?",
-          "va": "Apunteu a la vostra quadrícula el que us contesten. Qui troba abans els 3 tresors? Quina estratègia ha funcionat?",
-          "en": "Mark on your grid what the other person answers. Who finds the 3 treasures first? Which strategy worked?",
-          "fr": "Notez sur votre quadrillage ce qu'on vous répond. Qui trouve en premier les 3 trésors ? Quelle stratégie a marché ?",
-          "ar": "دوّنوا على شبكتكم ما يُجاب به. من يجد الكنوز الثلاثة أولًا؟ أي استراتيجية نجحت؟"
+          "es": "Con un lápiz de otro color, apuntad en vuestra cuadrícula lo que os contestan, para no confundirlo con vuestros tesoros. ¿Quién encuentra antes los 3 tesoros? ¿Qué estrategia ha funcionado?",
+          "va": "Amb un llapis d'un altre color, apunteu a la vostra quadrícula el que us contesten, per a no confondre-ho amb els vostres tresors. Qui troba abans els 3 tresors? Quina estratègia ha funcionat?",
+          "en": "With a pencil of another colour, mark on your grid what the other person answers, so you don't mix it up with your own treasures. Who finds the 3 treasures first? Which strategy worked?",
+          "fr": "Avec un crayon d'une autre couleur, notez sur votre quadrillage ce qu'on vous répond, pour ne pas le confondre avec vos trésors. Qui trouve en premier les 3 trésors ? Quelle stratégie a marché ?",
+          "ar": "بقلم من لون آخر، دوّنوا على شبكتكم ما يُجاب به، حتى لا يختلط بكنوزكم. من يجد الكنوز الثلاثة أولًا؟ أي استراتيجية نجحت؟"
         }
       }
     ],
@@ -125,7 +125,7 @@
     },
     "paraQueSirve": {
       "es": "Las coordenadas sirven para leer mapas, planos de ciudades o el número del asiento en el cine. Y pensar una estrategia para buscar es pensar como quien programa.",
-      "va": "Les coordenades serveixen per a llegir mapes, plànols de ciutats o el número del seient al cinema. I pensar una estratègia per a buscar és pensar com qui programa.",
+      "va": "Les coordenades servixen per a llegir mapes, plànols de ciutats o el número del seient al cinema. I pensar una estratègia per a buscar és pensar com qui programa.",
       "en": "Coordinates help you read maps, city plans or your seat number at the cinema. And thinking up a search strategy is thinking like a programmer.",
       "fr": "Les coordonnées servent à lire des cartes, des plans de ville ou le numéro de son siège au cinéma. Et imaginer une stratégie pour chercher, c'est penser comme quelqu'un qui programme.",
       "ar": "الإحداثيات تساعد على قراءة الخرائط ومخطّطات المدن ورقم المقعد في السينما. والتفكير في استراتيجية للبحث تفكير كتفكير المبرمجين."
@@ -140,7 +140,7 @@
         "es": "Las letras van de la A a la F de lado y los números del 1 al 6 hacia arriba. Desde B2 te mueves 3 casillas de lado, hacia la F, y 2 hacia arriba. ¿A qué casilla llegas?",
         "va": "Les lletres van de l'A a la F de costat i els números de l'1 al 6 cap amunt. Des de B2 et mous 3 caselles de costat, cap a la F, i 2 cap amunt. A quina casella arribes?",
         "en": "The letters go from A to F across and the numbers from 1 to 6 upwards. From B2 you move 3 squares across, towards F, and 2 up. Which square do you reach?",
-        "fr": "Les lettres vont de A à F sur le côté et les nombres de 1 à 6 vers le haut. Depuis B2, tu te déplaces de 3 cases sur le côté, vers F, et de 2 vers le haut. Sur quelle case arrives-tu ?",
+        "fr": "Les lettres vont de A à F horizontalement et les nombres de 1 à 6 vers le haut. Depuis B2, tu te déplaces de 3 cases horizontalement, vers F, et de 2 vers le haut. Sur quelle case arrives-tu ?",
         "ar": "الحروف من A إلى F أفقيًا، والأعداد من 1 إلى 6 صعودًا. من B2 نتحرّك 3 خانات أفقيًا نحو F، وخانتين إلى الأعلى. إلى أي خانة نصل؟"
       },
       "pista": {
@@ -162,7 +162,7 @@
       },
       "inventala": {
         "es": "Inventa tú un movimiento por la cuadrícula y que alguien de casa diga dónde acaba.",
-        "va": "Inventa'n tu un moviment per la quadrícula i que algú de casa diga on acaba.",
+        "va": "Inventa tu un moviment per la quadrícula i que algú de casa diga on acaba.",
         "en": "Make up a move on the grid and let someone at home say where it ends.",
         "fr": "Invente un déplacement sur le quadrillage et que quelqu'un de la maison dise où il se termine.",
         "ar": "لنخترع حركة على الشبكة ونطلب من أحد في البيت أن يقول أين تنتهي."
@@ -212,11 +212,11 @@
       "rol": "tema",
       "tipoProblema": "detraccion",
       "texto": {
-        "es": "En una cuadrícula de 8 × 8 escondemos 5 tesoros. ¿En cuántas casillas hay agua?",
-        "va": "En una quadrícula de 8 × 8 amaguem 5 tresors. En quantes caselles hi ha aigua?",
-        "en": "On an 8 × 8 grid we hide 5 treasures. How many squares are water?",
-        "fr": "Sur un quadrillage de 8 × 8, nous cachons 5 trésors. Combien de cases sont dans l'eau ?",
-        "ar": "في شبكة من 8 × 8 خبّأنا 5 كنوز. كم خانة فيها ماء؟"
+        "es": "En una cuadrícula de 8 × 8 escondemos 5 tesoros. ¿En cuántas casillas hay agua, es decir, no hay tesoro?",
+        "va": "En una quadrícula de 8 × 8 amaguem 5 tresors. En quantes caselles hi ha aigua, és a dir, no hi ha tresor?",
+        "en": "On an 8 × 8 grid we hide 5 treasures. How many squares are water, that is, have no treasure?",
+        "fr": "Sur un quadrillage de 8 × 8, nous cachons 5 trésors. Combien de cases sont dans l'eau, c'est-à-dire sans trésor ?",
+        "ar": "في شبكة من 8 × 8 خبّأنا 5 كنوز. كم خانة فيها ماء، أي ليس فيها كنز؟"
       },
       "pista": {
         "es": "Dos pasos: primero, cuántas casillas hay; después, quita las de los tesoros.",
@@ -241,7 +241,7 @@
       "inventala": {
         "es": "Inventa tú una de dos pasos con una cuadrícula y unos cuantos tesoros.",
         "va": "Inventa'n tu una de dos passos amb una quadrícula i uns quants tresors.",
-        "en": "Make up a two-step one with a grid and a few treasures.",
+        "en": "Make up a two-step problem with a grid and a few treasures.",
         "fr": "Invente un problème en deux étapes avec un quadrillage et quelques trésors.",
         "ar": "لنخترع مسألة من خطوتين عن شبكة وبعض الكنوز."
       }
@@ -256,14 +256,14 @@
         "va": "Per a recordar: una partida comença a les 17:40 i acaba a les 18:25. Quants minuts dura?",
         "en": "Let's remember: a game starts at 17:40 and ends at 18:25. How many minutes does it last?",
         "fr": "Pour se souvenir : une partie commence à 17:40 et finit à 18:25. Combien de minutes dure-t-elle ?",
-        "ar": "لنتذكّر: تبدأ جولة لعب في 17:40 وتنتهي في 18:25. كم دقيقة تدوم؟"
+        "ar": "لنتذكّر: تبدأ جولة لعب في الساعة 17:40 وتنتهي في الساعة 18:25. كم دقيقة تدوم؟"
       },
       "pista": {
         "es": "De 17:40 a 18:00 van 20 minutos, y de 18:00 a 18:25…",
         "va": "De 17:40 a 18:00 en van 20 minuts, i de 18:00 a 18:25…",
         "en": "From 17:40 to 18:00 is 20 minutes, and from 18:00 to 18:25…",
         "fr": "De 17:40 à 18:00, il y a 20 minutes, et de 18:00 à 18:25…",
-        "ar": "من 17:40 إلى 18:00 هي 20 دقيقة، ومن 18:00 إلى 18:25…"
+        "ar": "من الساعة 17:40 إلى 18:00 هي 20 دقيقة، ومن الساعة 18:00 إلى 18:25…"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -281,9 +281,9 @@
       "inventala": {
         "es": "Inventa tú una con el horario de una actividad de verano que cruce una hora en punto.",
         "va": "Inventa'n tu una amb l'horari d'una activitat d'estiu que passe per una hora en punt.",
-        "en": "Make one up with the times of a summer activity that goes past an o'clock.",
+        "en": "Make one up with the times of a summer activity that starts before an o'clock time and ends after it.",
         "fr": "Invente un problème avec l'horaire d'une activité d'été qui passe une heure pile.",
-        "ar": "لنخترع مسألة بمواعيد نشاط صيفي يتجاوز ساعة تامّة."
+        "ar": "لنخترع مسألة بمواعيد نشاط صيفي يبدأ قبل ساعة تمامًا وينتهي بعدها."
       }
     },
     {
@@ -292,7 +292,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "Explícame cómo buscarías un tesoro escondido en la cuadrícula haciendo las menos preguntas posibles.",
-        "va": "Explica'm com buscaries un tresor amagat a la quadrícula fent les menys preguntes possibles.",
+        "va": "Explica'm com buscaries un tresor amagat a la quadrícula fent tan poques preguntes com siga possible.",
         "en": "Explain to me how you would look for a treasure hidden on the grid asking as few questions as possible.",
         "fr": "Explique-moi comment tu chercherais un trésor caché sur le quadrillage en posant le moins de questions possible.",
         "ar": "اشرح لي أو اشرحي لي كيف نبحث عن كنز مخبّأ في الشبكة بأقل عدد ممكن من الأسئلة."
@@ -300,9 +300,9 @@
       "pista": {
         "es": "Si no sabe por dónde empezar: «Si te dicen “cerca”, ¿qué casillas eliges después?»",
         "va": "Si no sap per on començar: «Si et diuen “a prop”, quines caselles tries després?»",
-        "en": "If they don't know where to start: “If you are told “close”, which squares do you choose next?”",
+        "en": "If they don't know where to start: “If you are told ‘close’, which squares do you choose next?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si on te dit “tout près”, quelles cases choisis-tu ensuite ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا قيل لنا “قريب”، فأي خانات نختار بعد ذلك؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا قيل لنا “قريب”، فأي خانات نختار بعد ذلك؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -311,7 +311,7 @@
           "va": "No hi ha una única estratègia bona. Escolteu la seua, proveu-la en una partida i compareu-la amb la vostra.",
           "en": "There is no single right strategy. Listen to theirs, try it in a game and compare it with yours.",
           "fr": "Il n'y a pas une seule bonne stratégie. Écoutez la sienne, essayez-la pendant une partie et comparez-la avec la vôtre.",
-          "ar": "لا توجد استراتيجية واحدة جيدة. استمعوا إلى استراتيجية الطفل، وجرّبوها في جولة، وقارنوها باستراتيجيتكم."
+          "ar": "لا توجد استراتيجية واحدة جيدة. استمعوا إلى استراتيجية الأطفال، وجرّبوها في جولة، وقارنوها باستراتيجيتكم."
         }
       }
     }
@@ -323,19 +323,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "6965d50edcbb"
+        "huella": "5ff4cbd69813"
       },
       "en": {
         "estado": "automatica",
-        "huella": "6965d50edcbb"
+        "huella": "5ff4cbd69813"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "6965d50edcbb"
+        "huella": "5ff4cbd69813"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "6965d50edcbb"
+        "huella": "5ff4cbd69813"
       }
     }
   }

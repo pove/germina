@@ -21,11 +21,11 @@
     "ar": "هذا الأسبوع يتعلّم الأطفال التحقّق من الطرح بالجمع، والنظر هل للنتيجة معنى قبل قبولها، بالتقدير (estimar): إذا أعطت {{4012 − 1980}} أكثر من 3000، فهناك شيء غير صحيح."
   },
   "comoAyudar": {
-    "es": "Equivocarse a propósito y dejar que os pillen es muy divertido para ellos. Y, cuando sea al revés, celebrad que lo ha visto antes de que se lo dijerais.",
-    "va": "Equivocar-se a propòsit i deixar que us enxampen és molt divertit per a ells. I, quan siga al revés, celebreu que ho ha vist abans que li ho diguéreu.",
+    "es": "Equivocarse a propósito y dejar que os pillen les divierte mucho. Y, cuando sea al revés, celebrad que lo ha visto antes de que se lo dijerais.",
+    "va": "Equivocar-se a propòsit i deixar que us enxampen els fa molta gràcia. I, quan siga al revés, celebreu que ho ha vist abans que li ho diguéreu.",
     "en": "Making a slip on purpose and letting them catch you is great fun for them. And when it's the other way round, celebrate that they spotted it before you said anything.",
     "fr": "Se tromper exprès et se faire attraper, c'est très amusant pour les enfants. Et quand c'est l'inverse, fêtez qu'il ou elle l'a vu avant que vous ne le disiez.",
-    "ar": "الخطأ المتعمّد وترك الأطفال يكتشفونه أمر ممتع جدًا لهم. وعندما يحدث العكس، احتفلوا بأنهم رأوه قبل أن تقولوه."
+    "ar": "الخطأ المتعمّد وترك الأطفال يكتشفونه أمر ممتع جدًا لهم. وعندما يحدث العكس، احتفلوا بأنهم رأوه قبل أن تنبّهوهم إليه."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -57,11 +57,11 @@
       {
         "pictograma": "papel",
         "texto": {
-          "es": "La persona adulta escribe tres restas con su resultado. Dos están bien: {{1000 − 365 = 635}} y {{742 − 318 = 424}}. En la tercera, {{503 − 129}}, pone 384 a propósito.",
-          "va": "La persona adulta escriu tres restes amb el seu resultat. Dues estan bé: {{1000 − 365 = 635}} i {{742 − 318 = 424}}. En la tercera, {{503 − 129}}, posa 384 a propòsit.",
-          "en": "The adult writes three subtractions with their answers. Two are right: {{1000 − 365 = 635}} and {{742 − 318 = 424}}. In the third, {{503 − 129}}, they write 384 on purpose.",
-          "fr": "L'adulte écrit trois soustractions avec leur résultat. Deux sont justes : {{1000 − 365 = 635}} et {{742 − 318 = 424}}. Dans la troisième, {{503 − 129}}, il ou elle écrit 384 exprès.",
-          "ar": "يكتب الشخص البالغ ثلاث عمليات طرح مع نتائجها. اثنتان صحيحتان: {{1000 − 365 = 635}} و{{742 − 318 = 424}}. وفي الثالثة، {{503 − 129}}، يكتب 384 عمدًا."
+          "es": "La persona adulta escribe tres restas con su resultado. Dos están bien: {{1000 − 365 = 635}} y {{742 − 318 = 424}}. En la tercera, {{503 − 129}}, pone 674 a propósito.",
+          "va": "La persona adulta escriu tres restes amb el seu resultat. Dues estan bé: {{1000 − 365 = 635}} i {{742 − 318 = 424}}. En la tercera, {{503 − 129}}, posa 674 a propòsit.",
+          "en": "The adult writes three subtractions with their answers. Two are right: {{1000 − 365 = 635}} and {{742 − 318 = 424}}. In the third, {{503 − 129}}, they write 674 on purpose.",
+          "fr": "L'adulte écrit trois soustractions avec leur résultat. Deux sont justes : {{1000 − 365 = 635}} et {{742 − 318 = 424}}. Dans la troisième, {{503 − 129}}, il ou elle écrit 674 exprès.",
+          "ar": "يكتب الشخص البالغ ثلاث عمليات طرح مع نتائجها. اثنتان صحيحتان: {{1000 − 365 = 635}} و{{742 − 318 = 424}}. وفي الثالثة، {{503 − 129}}، يكتب 674 عمدًا."
         }
       },
       {
@@ -110,8 +110,8 @@
       "ar": "أخفوا سهوًا أصغر، في العشرات فقط، لا يُرى بالتقدير ولا يُكتشف إلا بالتحقّق."
     },
     "paraQueSirve": {
-      "es": "Comprobar con una suma y estimar dan seguridad: así no hace falta que nadie diga si una cuenta está bien, se puede ver por uno mismo.",
-      "va": "Comprovar amb una suma i estimar donen seguretat: així no cal que ningú diga si un compte està bé, es pot veure per un mateix.",
+      "es": "Comprobar con una suma y estimar dan seguridad: así no hace falta que nadie diga si una cuenta está bien: se puede ver sin ayuda.",
+      "va": "Comprovar amb una suma i estimar donen seguretat: així no cal que ningú diga si un compte està bé: es pot veure sense ajuda.",
       "en": "Checking with an addition and estimating build confidence: that way you don't depend on anyone to say whether a sum is right: you can see it for yourself.",
       "fr": "Vérifier avec une addition et estimer donnent de l'assurance : ainsi, personne n'a besoin de dire si un calcul est juste, on peut le voir soi-même.",
       "ar": "التحقّق بالجمع والتقدير يمنحان الثقة: هكذا لا نحتاج أحدًا ليقول إن الحساب صحيح، بل نراه بأنفسنا."
@@ -222,7 +222,7 @@
         "texto": {
           "es": "No: a ojo da unos 2000, así que 3032 es demasiado. La resta da 2032.",
           "va": "No: a ull dona uns 2000, així que 3032 és massa. La resta dona 2032.",
-          "en": "No: roughly it's about 2000, so 3032 is too much. The subtraction gives 2032.",
+          "en": "No: by estimating, it's about 2000, so 3032 is too much. The subtraction gives 2032.",
           "fr": "Non : à vue d'œil, ça fait environ 2000, donc 3032, c'est trop. La soustraction donne 2032.",
           "ar": "لا: تقديريًا نحو 2000، إذن 3032 كثير جدًا. ناتج الطرح 2032."
         }
@@ -312,19 +312,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "b6e1fa57f95f"
+        "huella": "e43f6c922807"
       },
       "en": {
         "estado": "automatica",
-        "huella": "b6e1fa57f95f"
+        "huella": "e43f6c922807"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "b6e1fa57f95f"
+        "huella": "e43f6c922807"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "b6e1fa57f95f"
+        "huella": "e43f6c922807"
       }
     }
   }

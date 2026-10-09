@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana ven la fracción como parte de un todo y como medida: medio litro, un cuarto de kilo, tres quintos de una tira. Aprenden los nombres: en {{3/5}}, el 5 (denominador) dice en cuántas partes se parte y el 3 (numerador), cuántas se toman.",
-    "va": "Aquesta setmana veuen la fracció com a part d'un tot i com a mesura: mig litre, un quart de quilo, tres cinquens d'una tira. Aprenen els noms: en {{3/5}}, el 5 (denominador) diu en quantes parts es partix i el 3 (numerador), quantes se'n prenen.",
-    "en": "This week they see fractions as part of a whole and as a measure: half a litre, a quarter of a kilo, three fifths of a strip. They learn the names: in {{3/5}}, the 5 (denominator) says how many parts it's split into and the 3 (numerator), how many are taken.",
-    "fr": "Cette semaine, on voit la fraction comme une part d'un tout et comme une mesure : un demi-litre, un quart de kilo, trois cinquièmes d'une bande. On apprend les noms : dans {{3/5}}, le 5 (dénominateur) dit en combien de parts on partage et le 3 (numérateur), combien on en prend.",
-    "ar": "هذا الأسبوع يرى الأطفال الكسر جزءًا من كلّ ووحدةً للقياس: نصف لتر، ربع كيلو، ثلاثة أخماس شريط. ويتعلّمون الأسماء: في {{3/5}}، العدد 5 (المقام) يقول إلى كم جزءًا نقسم، والعدد 3 (البسط) كم جزءًا نأخذ."
+    "va": "Aquesta setmana veuen la fracció (fracción) com a part d'un tot i com a mesura: mig litre, un quart de quilo, tres cinquens d'una tira. Aprenen els noms: en {{3/5}}, el 5 (denominador) diu en quantes parts es partix i el 3 (numerador), quantes se'n prenen.",
+    "en": "This week they see fractions (fracción) as part of a whole and as a measure: half a litre, a quarter of a kilo, three fifths of a strip. They learn the names: in {{3/5}}, the 5 (denominator, denominador) says how many parts it's split into and the 3 (numerator, numerador), how many are taken.",
+    "fr": "Cette semaine, on voit la fraction (fracción) comme une part d'un tout et comme une mesure : un demi-litre, un quart de kilo, trois cinquièmes d'une bande. On apprend les noms : dans {{3/5}}, le 5 (dénominateur, denominador) dit en combien de parts on partage et le 3 (numérateur, numerador), combien on en prend.",
+    "ar": "هذا الأسبوع يرى الأطفال الكسر (fracción) جزءًا من كلّ ومقدارًا في القياس: نصف لتر، ربع كيلو، ثلاثة أخماس شريط. ويتعلّمون الأسماء: في {{3/5}}، العدد 5 (المقام، denominador) يقول إلى كم جزءًا نقسم، والعدد 3 (البسط، numerador) كم جزءًا نأخذ."
   },
   "comoAyudar": {
     "es": "Mirad juntos los envases de la cocina: «medio litro», «250 g», «un cuarto». Preguntad «¿cuántos de estos hacen un litro?» y dejad que lo piense con el envase en la mano.",
     "va": "Mireu junts els envasos de la cuina: «mig litre», «250 g», «un quart». Pregunteu «quants d'aquests fan un litre?» i deixeu que ho pense amb l'envàs a la mà.",
     "en": "Look at the kitchen containers together: “half a litre”, “250 g”, “a quarter”. Ask “How many of these make a litre?” and let them think with the container in their hand.",
-    "fr": "Regardez ensemble les emballages de la cuisine : « demi-litre », « 250 g », « un quart ». Demandez « Combien de ceux-ci font un litre ? » et laissez réfléchir avec l'emballage en main.",
-    "ar": "انظروا معًا إلى عبوات المطبخ: «نصف لتر»، «250 غ»، «ربع». اسألوا «كم واحدة من هذه تصنع لترًا؟» واتركوا الطفل يفكّر والعبوة في يده."
+    "fr": "Regardez ensemble les emballages de la cuisine : « demi-litre », « 250 g », « un quart ». Demandez « Combien d'emballages comme celui-ci font un litre ? » et laissez réfléchir avec l'emballage en main.",
+    "ar": "انظروا معًا إلى عبوات المطبخ: «نصف لتر»، «250 غ»، «ربع». اسألوا «كم واحدة من هذه تصنع لترًا؟» واتركوا الأطفال يفكّرون والعبوة في أيديهم."
   },
   "saberes": [
     "matematicas.fracciones.fraccion",
@@ -97,7 +97,7 @@
           "es": "Pintad 3 partes de la tira de quintos: son tres quintos, {{3/5}}. ¿Y lo que queda sin pintar? Son {{2/5}}.",
           "va": "Pinteu 3 parts de la tira de cinquens: són tres cinquens, {{3/5}}. I el que queda sense pintar? Són {{2/5}}.",
           "en": "Colour 3 parts of the fifths strip: that's three fifths, {{3/5}}. And what's left uncoloured? That's {{2/5}}.",
-          "fr": "Coloriez 3 parts de la bande des cinquièmes : ce sont trois cinquièmes, {{3/5}}. Et ce qui reste ? Ce sont {{2/5}}.",
+          "fr": "Coloriez 3 parts de la bande des cinquièmes : ce sont trois cinquièmes, {{3/5}}. Et la partie qui n'est pas coloriée ? Ce sont {{2/5}}.",
           "ar": "لوّنوا 3 أجزاء من شريط الأخماس: هذه ثلاثة أخماس، {{3/5}}. وما بقي دون تلوين؟ إنه {{2/5}}."
         }
       }
@@ -218,7 +218,7 @@
         "es": "Primero, cuánto mide un quinto: 60 entre 5. Después, por 3.",
         "va": "Primer, quant mesura un cinqué: 60 entre 5. Després, per 3.",
         "en": "First, how long a fifth is: 60 divided by 5. Then, times 3.",
-        "fr": "D'abord, combien mesure un cinquième : 60 divisé par 5. Ensuite, fois 3.",
+        "fr": "D'abord, combien mesure un cinquième : 60 divisé par 5. Ensuite, multiplie par 3.",
         "ar": "أولًا كم طول الخمس: 60 على 5. ثم نضرب في 3."
       },
       "respuesta": {
@@ -298,7 +298,7 @@
         "va": "Si no sap per on començar: «En quantes parts partim? Quantes n'agafem?»",
         "en": "If they don't know where to start: “How many parts do we split it into? How many do we take?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « En combien de parts on partage ? Combien on en prend ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إلى كم جزءًا نقسم؟ وكم جزءًا نأخذ؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إلى كم جزءًا نقسم؟ وكم جزءًا نأخذ؟»"
       },
       "respuesta": {
         "tipo": "abierta",

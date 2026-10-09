@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana vuelven a los números grandes, a las restas, a las tablas y al dinero, jugando. Suele ser semana de vacaciones: basta con una partida en familia.",
-    "va": "Aquesta setmana tornen als números grans, a les restes, a les taules (tablas) i als diners, jugant. Sol ser setmana de vacances: n'hi ha prou amb una partida en família.",
+    "va": "Aquesta setmana tornen als nombres grans, a les restes, a les taules (tablas) i als diners, jugant. Sol ser setmana de vacances: n'hi ha prou amb una partida en família.",
     "en": "This week they go back to big numbers, subtraction, times tables (tablas) and money, by playing. It's usually a holiday week: one family game is enough.",
     "fr": "Cette semaine, on revient aux grands nombres, aux soustractions, aux tables (tablas) et à l'argent, en jouant. C'est souvent une semaine de vacances : une partie en famille suffit.",
     "ar": "هذا الأسبوع يعود الأطفال إلى الأعداد الكبيرة، والطرح، وجداول الضرب (tablas)، والنقود، باللعب. غالبًا ما يكون أسبوع عطلة: تكفي لعبة واحدة مع العائلة."
@@ -73,11 +73,11 @@
       {
         "pictograma": "tablero",
         "texto": {
-          "es": "Elegid un juego de mesa con dados y añadidle una norma nueva: cada jugada, además de mover, da puntos, y los puntos son los dos dados multiplicados.",
-          "va": "Trieu un joc de taula amb daus i afegiu-li una norma nova: cada jugada, a més de moure, dona punts, i els punts són els dos daus multiplicats.",
-          "en": "Choose a board game with dice and add a new rule: as well as moving, each turn scores points, and the points are the two dice multiplied together.",
-          "fr": "Choisissez un jeu de société avec des dés et ajoutez-lui une nouvelle règle : à chaque tour, en plus d'avancer, on gagne des points, et les points sont les deux dés multipliés.",
-          "ar": "اختاروا لعبة لوحية فيها نرد وأضيفوا إليها قاعدة جديدة: كل دور، إضافةً إلى التحريك، يعطي نقاطًا، والنقاط هي حاصل ضرب النردين."
+          "es": "Elegid un juego de mesa con dados y añadidle una norma nueva: cada jugada, además de mover, da puntos, y los puntos son los dos dados multiplicados. Jugad unas 10 rondas o hasta que pasen 15 minutos.",
+          "va": "Trieu un joc de taula amb daus i afegiu-li una norma nova: cada jugada, a més de moure, dona punts, i els punts són els dos daus multiplicats. Jugueu unes 10 rondes o fins que passen 15 minuts.",
+          "en": "Choose a board game with dice and add a new rule: as well as moving, each turn scores points, and the points are the two dice multiplied together. Play about 10 rounds or until 15 minutes have gone by.",
+          "fr": "Choisissez un jeu de société avec des dés et ajoutez-lui une nouvelle règle : à chaque tour, en plus d'avancer, on gagne des points, et les points sont les deux dés multipliés. Jouez environ 10 tours ou jusqu'à ce que 15 minutes soient passées.",
+          "ar": "اختاروا لعبة لوحية فيها نرد وأضيفوا إليها قاعدة جديدة: كل دور، إضافةً إلى التحريك، يعطي نقاطًا، والنقاط هي حاصل ضرب النردين. العبوا نحو 10 جولات أو حتى تمرّ 15 دقيقة."
         }
       },
       {
@@ -107,7 +107,7 @@
           "va": "En acabar la partida, sumeu els punts de tot l'equip. Abans, digueu a ull: haureu passat de 500?",
           "en": "When the game is over, add up the whole team's points. First, guess: will you have gone past 500?",
           "fr": "À la fin de la partie, additionnez les points de toute l'équipe. Avant, dites à vue d'œil : aurez-vous dépassé 500 ?",
-          "ar": "في نهاية اللعبة، اجمعوا نقاط الفريق كله. وقبل ذلك، خمّنوا: هل تجاوزتم 500؟"
+          "ar": "في نهاية اللعبة، اجمعوا نقاط الفريق كله. وقبل ذلك، قدّروا بالنظر: هل تجاوزتم 500؟"
         }
       }
     ],
@@ -119,17 +119,17 @@
       "ar": "اضربوا نردًا واحدًا في 2 أو 5 أو 10، بدل ضرب النردين أحدهما في الآخر."
     },
     "masDificil": {
-      "es": "Haced que cada casilla valga el doble: al acabar, calculad cuántos puntos valen las casillas que ha recorrido cada pieza, como {{2 × 37 = 74}}.",
-      "va": "Feu que cada casella valga el doble: en acabar, calculeu quants punts valen les caselles que ha recorregut cada peça, com ara {{2 × 37 = 74}}.",
-      "en": "Make each square worth double: at the end, work out how many points the squares each piece has travelled are worth, like {{2 × 37 = 74}}.",
-      "fr": "Faites valoir chaque case le double : à la fin, calculez combien de points valent les cases parcourues par chaque pion, comme {{2 × 37 = 74}}.",
-      "ar": "اجعلوا كل خانة تساوي الضعف: في النهاية، احسبوا كم نقطة تساوي الخانات التي قطعتها كل قطعة، مثل {{2 × 37 = 74}}."
+      "es": "Haced que cada casilla valga 2 puntos: al acabar, calculad cuántos puntos valen las casillas que ha recorrido cada pieza, como {{2 × 37 = 74}} si ha recorrido 37.",
+      "va": "Feu que cada casella valga 2 punts: en acabar, calculeu quants punts valen les caselles que ha recorregut cada peça, com ara {{2 × 37 = 74}} si n'ha recorregut 37.",
+      "en": "Make each square worth 2 points: at the end, work out how many points the squares each piece has travelled are worth, like {{2 × 37 = 74}} if it has travelled 37.",
+      "fr": "Faites valoir 2 points à chaque case : à la fin, calculez combien de points valent les cases parcourues par chaque pion, comme {{2 × 37 = 74}} s'il en a parcouru 37.",
+      "ar": "اجعلوا كل خانة تساوي نقطتين: في النهاية، احسبوا كم نقطة تساوي الخانات التي قطعتها كل قطعة، مثل {{2 × 37 = 74}} إذا قطعت 37 خانة."
     },
     "paraQueSirve": {
       "es": "Una norma nueva convierte cualquier juego de casa en un rato de cálculo mental. Y jugar en equipo, comprobando las cuentas de los demás, enseña que despistarse forma parte del juego.",
       "va": "Una norma nova convertix qualsevol joc de casa en una estona de càlcul mental. I jugar en equip, comprovant els comptes dels altres, ensenya que despistar-se forma part del joc.",
       "en": "A new rule turns any game at home into a bit of mental maths. And playing as a team, checking each other's sums, shows that slipping up is part of the game.",
-      "fr": "Une nouvelle règle transforme n'importe quel jeu de la maison en un moment de calcul mental. Et jouer en équipe, en vérifiant les calculs des autres, montre que se tromper fait partie du jeu.",
+      "fr": "Une nouvelle règle transforme n'importe quel jeu de la maison en un moment de calcul mental. Et jouer en équipe, en vérifiant les calculs des autres, montre que faire une étourderie fait partie du jeu.",
       "ar": "قاعدة جديدة تحوّل أي لعبة في البيت إلى وقت من الحساب الذهني. واللعب كفريق، مع التحقّق من حساب الآخرين، يعلّم أن السهو جزء من اللعب."
     },
     "aviso": {
@@ -225,7 +225,7 @@
       "tipoProblema": "dinero",
       "texto": {
         "es": "Un juego de mesa cuesta 17,50 € y la familia de Hamid paga con un billete de 20 €. ¿Cuánto le devuelven?",
-        "va": "Un joc de taula costa 17,50 € i la família de Hamid paga amb un bitllet de 20 €. Quant li tornen?",
+        "va": "Un joc de taula costa 17,50 € i la família de l'Hamid paga amb un bitllet de 20 €. Quant li tornen?",
         "en": "A board game costs 17,50 € and Hamid's family pays with a 20 € note. How much change do they get?",
         "fr": "Un jeu de société coûte 17,50 € et la famille de Hamid paie avec un billet de 20 €. Combien lui rend-on ?",
         "ar": "ثمن لعبة لوحية 17,50 يورو، ودفعت عائلة حامد بورقة نقدية من فئة 20 يورو. كم يُرجَع لها؟"
@@ -267,7 +267,7 @@
         "es": "Para recordar: un álbum de cromos tiene 400 huecos y ya hay 263 cromos pegados. ¿Cuántos faltan para llenarlo?",
         "va": "Per a recordar: un àlbum de cromos té 400 buits i ja hi ha 263 cromos apegats. Quants en falten per a omplir-lo?",
         "en": "Let's remember: a sticker album has 400 spaces and 263 stickers are already in. How many more to fill it?",
-        "fr": "Pour se souvenir : un album d'images a 400 emplacements et 263 images sont déjà collées. Combien en manque-t-il pour le remplir ?",
+        "fr": "Pour se souvenir : un album de vignettes a 400 emplacements et 263 vignettes sont déjà collées. Combien en manque-t-il pour le remplir ?",
         "ar": "لنتذكّر: في ألبوم الصور 400 مكان، وقد أُلصقت فيه 263 صورة. كم صورة تنقص لملئه؟"
       },
       "pista": {
@@ -314,7 +314,7 @@
         "va": "Si no sap per on començar: «Quins comptes fem en el parxís? I amb les cartes? I per a saber quant falta?»",
         "en": "If they don't know where to start: “What sums do we do in ludo? And with cards? And to know how much is left?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Quels calculs fait-on aux petits chevaux ? Et avec les cartes ? Et pour savoir combien il reste ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ما الحساب الذي نقوم به في البارتشيس؟ وبالأوراق؟ ولمعرفة كم بقي؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ما الحساب الذي نقوم به في البارتشيس؟ وبالأوراق؟ ولمعرفة كم بقي؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -335,19 +335,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "f04a04bae806"
+        "huella": "bfbe8634de0f"
       },
       "en": {
         "estado": "automatica",
-        "huella": "f04a04bae806"
+        "huella": "bfbe8634de0f"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "f04a04bae806"
+        "huella": "bfbe8634de0f"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "f04a04bae806"
+        "huella": "bfbe8634de0f"
       }
     }
   }

@@ -25,7 +25,7 @@
     "va": "Deixeu que agafe els paquets amb les mans i compare: «quin pesa més?». Abans de llegir l'etiqueta, que ho endevine; després, comproveu-ho junts.",
     "en": "Let them pick up the packets and compare: “Which is heavier?” Before reading the label, have them guess; then check together.",
     "fr": "Laissez prendre les paquets dans les mains et comparer : « Lequel est le plus lourd ? ». Avant de lire l'étiquette, faites deviner ; ensuite, vérifiez ensemble.",
-    "ar": "اتركوا الطفل يحمل العلب بيديه ويقارن: «أيّها أثقل؟». وقبل قراءة الملصق، ليخمّن؛ ثم تحقّقوا معًا."
+    "ar": "اتركوا الأطفال يحملون العلب بأيديهم ويقارنون: «أيّها أثقل؟». وقبل قراءة الملصق، ليخمّنوا؛ ثم تحقّقوا معًا."
   },
   "saberes": [
     "matematicas.medida.magnitudes",
@@ -49,7 +49,7 @@
         "es": "Paquetes y botellas de la despensa con su etiqueta (500 g, 1 kg, 1 l…)",
         "va": "Paquets i botelles del rebost amb la seua etiqueta (500 g, 1 kg, 1 l…)",
         "en": "Packets and bottles from the pantry with their labels (500 g, 1 kg, 1 l…)",
-        "fr": "Des paquets et des bouteilles du placard avec leur étiquette (500 g, 1 kg, 1 l…)",
+        "fr": "Des paquets et des bouteilles du garde-manger avec leur étiquette (500 g, 1 kg, 1 l…)",
         "ar": "علب وزجاجات من خزانة المؤونة مع ملصقاتها (500 غ، 1 كغ، 1 ل…)"
       },
       {
@@ -86,9 +86,9 @@
         "pictograma": "botella",
         "texto": {
           "es": "En el fregadero y con una persona adulta, llenad de agua la botella de medio litro y echadla en la de litro. ¿Cuántas veces hace falta para llenarla?",
-          "va": "En la pica i amb una persona adulta, ompliu d'aigua la botella de mig litre i aboqueu-la en la de litre. Quantes botelles de mig litre hi caben?",
+          "va": "En la pica i amb una persona adulta, ompliu d'aigua la botella de mig litre i aboqueu-la en la de litre. Quantes vegades fa falta per a omplir-la?",
           "en": "At the sink and with an adult, fill the half-litre bottle with water and pour it into the litre bottle. How many times does it take to fill it?",
-          "fr": "À l'évier et avec un adulte, remplissez d'eau la bouteille d'un demi-litre et versez-la dans celle d'un litre. Combien de fois faut-il pour la remplir ?",
+          "fr": "À l'évier et avec un adulte, remplissez d'eau la bouteille d'un demi-litre et versez-la dans celle d'un litre. Combien de fois faut-il le faire pour la remplir ?",
           "ar": "عند المغسلة ومع شخص بالغ، املؤوا زجاجة نصف اللتر بالماء واسكبوها في زجاجة اللتر. كم مرة نحتاج لملئها؟"
         }
       },
@@ -168,7 +168,7 @@
         "es": "Inventa tú una con paquetes de la despensa.",
         "va": "Inventa'n tu una amb paquets del rebost.",
         "en": "Make one up with packets from the pantry.",
-        "fr": "Invente un problème avec des paquets du placard.",
+        "fr": "Invente un problème avec des paquets du garde-manger.",
         "ar": "لنخترع مسألة بعلب من خزانة المؤونة."
       }
     },
@@ -219,7 +219,7 @@
         "es": "En la despensa hay un paquete de 500 g de pasta y otro de 250 g. ¿Cuántos gramos hay en total? ¿Llega a un kilo?",
         "va": "En el rebost hi ha un paquet de 500 g de pasta i un altre de 250 g. Quants grams hi ha en total? Arriba a un quilo?",
         "en": "In the pantry there's a 500 g packet of pasta and another of 250 g. How many grams are there in total? Does it reach a kilo?",
-        "fr": "Dans le placard, il y a un paquet de 500 g de pâtes et un autre de 250 g. Combien de grammes y a-t-il en tout ? Est-ce que ça fait un kilo ?",
+        "fr": "Dans le garde-manger, il y a un paquet de 500 g de pâtes et un autre de 250 g. Combien de grammes y a-t-il en tout ? Est-ce que ça fait un kilo ?",
         "ar": "في خزانة المؤونة كيس معكرونة وزنه 500 غ وآخر 250 غ. كم غرامًا في المجموع؟ هل يبلغ كيلو؟"
       },
       "pista": {
@@ -312,10 +312,10 @@
         "tipo": "abierta",
         "orientacion": {
           "es": "Pesan lo mismo: un kilo es un kilo. Lo interesante es la conversación: el algodón ocupa mucho más sitio. Reíd juntos si cae en la trampa.",
-          "va": "Pesen el mateix: un quilo és un quilo. L'interessant és la conversa: el cotó ocupa molt més lloc. Riu-vos-en junts si cau en la trampa.",
+          "va": "Pesen el mateix: un quilo és un quilo. L'interessant és la conversa: el cotó ocupa molt més lloc. Rieu-vos-en junts si cau en la trampa.",
           "en": "They weigh the same: a kilo is a kilo. The interesting part is the conversation: cotton wool takes up much more space. Laugh together if they fall for it.",
           "fr": "Ils pèsent pareil : un kilo, c'est un kilo. Ce qui est intéressant, c'est la conversation : le coton prend beaucoup plus de place. Riez ensemble si on tombe dans le piège.",
-          "ar": "وزنهما واحد: الكيلو كيلو. والمثير هو الحديث: القطن يشغل مكانًا أكبر بكثير. اضحكوا معًا إن وقع الطفل في الفخّ."
+          "ar": "وزنهما واحد: الكيلو كيلو. والمثير هو الحديث: القطن يشغل مكانًا أكبر بكثير. اضحكوا معًا إن وقع الأطفال في الفخّ."
         }
       }
     }

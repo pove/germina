@@ -15,16 +15,16 @@
   },
   "objetivo": {
     "es": "En verano, las tablas se mantienen jugando: unas cartas rápidas en la playa, el parque o la terraza bastan para no perderlas de vista y llegar a 4.º con ellas a mano.",
-    "va": "A l'estiu, les taules es mantenen jugant: unes cartes ràpides a la platja, al parc o a la terrassa són suficients per a no perdre-les de vista i arribar a 4t amb elles a mà.",
-    "en": "In summer, the times tables stay fresh through play: a quick card game on the beach, in the park or on the terrace is enough to keep them in mind and arrive in Year 4 (4.º) with them at hand.",
-    "fr": "En été, les tables se gardent en jouant : quelques cartes rapides à la plage, au parc ou en terrasse suffisent pour ne pas les perdre de vue et arriver en 4.º (CM1) en les ayant sous la main.",
-    "ar": "في الصيف، تبقى جداول الضرب حاضرة باللعب: بضع أوراق سريعة على الشاطئ أو في الحديقة أو على الشرفة تكفي لكي لا ننساها ونصل إلى الصف الرابع (4.º) وهي في متناولنا."
+    "va": "A l'estiu, les taules (tablas) es mantenen jugant: unes cartes ràpides a la platja, al parc o a la terrassa són suficients per a no perdre-les de vista i arribar a 4t amb elles a mà.",
+    "en": "In summer, the times tables (tablas) stay fresh through play: a quick card game on the beach, in the park or on the terrace is enough to keep them in mind and arrive in Year 4 (4.º) with them at hand.",
+    "fr": "En été, les tables (tablas) se gardent en jouant : quelques cartes rapides à la plage, au parc ou en terrasse suffisent pour ne pas les perdre de vue et arriver en 4.º (CM1) en les ayant sous la main.",
+    "ar": "في الصيف، تبقى جداول الضرب (tablas) حاضرة باللعب: بضع أوراق سريعة على الشاطئ أو في الحديقة أو على الشرفة تكفي لكي لا ننساها ونصل إلى الصف الرابع (4.º) وهي في متناولنا."
   },
   "comoAyudar": {
-    "es": "Jugad primero con calma, sin cronómetro. Si un resultado se resiste, preguntad «¿cuál sabes que esté cerca?» en vez de decirlo.",
-    "va": "Jugueu primer amb calma, sense cronòmetre. Si un resultat es resisteix, pregunteu «quin en saps que estiga a prop?» en lloc de dir-lo.",
-    "en": "Play calmly first, without the timer. If an answer won't come, ask “Which one do you know that is close?” instead of saying it.",
-    "fr": "Jouez d'abord tranquillement, sans chronomètre. Si un résultat résiste, demandez « Lequel tu connais qui est tout près ? » au lieu de le dire.",
+    "es": "Jugad primero con calma, sin cronómetro. Si un resultado se resiste, preguntad «¿qué resultado cercano te sabes?» en vez de decirlo.",
+    "va": "Jugueu primer amb calma, sense cronòmetre. Si un resultat es resistix, pregunteu «quin resultat proper et saps?» en lloc de dir-lo.",
+    "en": "Play calmly first, without the timer. If an answer won't come, ask “Which nearby answer do you know?” instead of saying it.",
+    "fr": "Jouez d'abord tranquillement, sans chronomètre. Si un résultat résiste, demandez « Quel résultat proche est-ce que tu connais ? » au lieu de le dire.",
     "ar": "العبوا أولًا بهدوء ومن دون مؤقّت. وإذا استعصت نتيجة، اسألوا «أي نتيجة نعرفها قريبة منها؟» بدل أن تقولوها."
   },
   "saberes": [
@@ -45,18 +45,18 @@
     },
     "material": [
       {
-        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
-        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
+        "es": "Una baraja francesa o de póquer (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla francesa o de pòquer (o cartes de l'1 al 10 fetes en paper)",
         "en": "A pack of cards (or cards from 1 to 10 made from paper)",
-        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
-        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+        "fr": "Un jeu de 52 cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب من 52 ورقة (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
       },
       {
         "es": "El cronómetro de Germina",
         "va": "El cronòmetre de Germina",
         "en": "The Germina timer",
         "fr": "Le chronomètre de Germina",
-        "ar": "مؤقّت جيرمينا"
+        "ar": "مؤقّت Germina"
       },
       {
         "es": "Una toalla o una mesa para poner las cartas",
@@ -71,21 +71,21 @@
       {
         "pictograma": "cartas",
         "texto": {
-          "es": "Quitad las figuras y dejad las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
-          "va": "Lleveu les figures i deixeu les cartes de l'1 al 10. Barregeu-les i poseu-les cap per avall en un munt.",
-          "en": "Take out the picture cards and keep the cards from 1 to 10. Shuffle them and put them face down in a pile.",
-          "fr": "Retirez les figures et gardez les cartes de 1 à 10. Mélangez-les et posez-les face cachée en une pile.",
-          "ar": "أخرجوا الصور واتركوا الأوراق من 1 إلى 10. اخلطوها وضعوها مقلوبة في كومة."
+          "es": "Quitad las figuras (J, Q y K) y dejad las cartas del 1 al 10: el as vale 1. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Lleveu les figures (J, Q i K) i deixeu les cartes de l'1 al 10: l'as val 1. Barregeu-les i poseu-les cap per avall en un munt.",
+          "en": "Take out the picture cards (J, Q and K) and keep the cards from 1 to 10: the ace counts as 1. Shuffle them and put them face down in a pile.",
+          "fr": "Retirez les figures (valets, dames et rois) et gardez les cartes de 1 à 10 : l'as vaut 1. Mélangez-les et posez-les face cachée en une pile.",
+          "ar": "أخرجوا الصور (J وQ وK) واتركوا الأوراق من 1 إلى 10: الآس يساوي 1. اخلطوها وضعوها مقلوبة في كومة."
         }
       },
       {
         "pictograma": "manos",
         "texto": {
           "es": "Para calentar, sin reloj: dad la vuelta a dos cartas y decid el producto. Si alguno se resiste, buscad uno cercano: {{6 × 7}} son 6 más que {{6 × 6}}.",
-          "va": "Per a escalfar, sense rellotge: gireu dues cartes i digueu el producte. Si algun es resisteix, busqueu-ne un de proper: {{6 × 7}} són 6 més que {{6 × 6}}.",
-          "en": "To warm up, without the clock: turn over two cards and say the product. If one won't come, look for one nearby: {{6 × 7}} is 6 more than {{6 × 6}}.",
-          "fr": "Pour s'échauffer, sans montre : retournez deux cartes et dites le produit. Si un résultat résiste, cherchez-en un tout près : {{6 × 7}}, c'est 6 de plus que {{6 × 6}}.",
-          "ar": "للإحماء، بلا مؤقّت: اقلبوا ورقتين وقولوا حاصل الضرب. وإذا استعصى أحدها، ابحثوا عن نتيجة قريبة: {{6 × 7}} أكثر بـ6 من {{6 × 6}}."
+          "va": "Per a escalfar, sense rellotge: gireu dues cartes i digueu el producte (producto). Si algun es resistix, busqueu-ne un de proper: {{6 × 7}} són 6 més que {{6 × 6}}.",
+          "en": "To warm up, without the timer: turn over two cards and say the product (producto). If one won't come, look for one nearby: {{6 × 7}} is 6 more than {{6 × 6}}.",
+          "fr": "Pour s'échauffer, sans chronomètre : retournez deux cartes et dites le produit (producto). Si un résultat résiste, cherchez-en un tout près : {{6 × 7}}, c'est 6 de plus que {{6 × 6}}.",
+          "ar": "للإحماء، بلا مؤقّت: اقلبوا ورقتين وقولوا حاصل الضرب (producto). وإذا استعصى أحدها، ابحثوا عن نتيجة قريبة: {{6 × 7}} أكثر بـ6 من {{6 × 6}}."
         }
       },
       {
@@ -111,7 +111,7 @@
     ],
     "masFacil": {
       "es": "Usad una sola carta y multiplicadla siempre por el mismo número: por 2, por 5 o por 10.",
-      "va": "Feu servir una sola carta i multipliqueu-la sempre pel mateix número: per 2, per 5 o per 10.",
+      "va": "Feu servir una sola carta i multipliqueu-la sempre pel mateix nombre: per 2, per 5 o per 10.",
       "en": "Use just one card and always multiply it by the same number: by 2, by 5 or by 10.",
       "fr": "Utilisez une seule carte et multipliez-la toujours par le même nombre : par 2, par 5 ou par 10.",
       "ar": "استعملوا ورقة واحدة واضربوها دائمًا في العدد نفسه: في 2 أو 5 أو 10."
@@ -158,14 +158,14 @@
         "va": "A la piscina hi ha 6 carrers i en cada un neden 4 persones. Quantes persones neden?",
         "en": "The pool has 6 lanes and 4 people are swimming in each one. How many people are swimming?",
         "fr": "À la piscine, il y a 6 couloirs et 4 personnes nagent dans chacun. Combien de personnes nagent ?",
-        "ar": "في المسبح 6 ممرّات، وفي كل ممرّ يسبح 4 أشخاص. كم شخصًا يسبح؟"
+        "ar": "في المسبح 6 مسارات، وفي كل مسار يسبح 4 أشخاص. كم شخصًا يسبح؟"
       },
       "pista": {
         "es": "La del 4 es el doble del doble: el doble de 6 es 12, y el doble de 12…",
         "va": "La del 4 és el doble del doble: el doble de 6 és 12, i el doble de 12…",
         "en": "The 4 times table is double the double: double 6 is 12, and double 12 is…",
         "fr": "La table de 4, c'est le double du double : le double de 6 est 12, et le double de 12…",
-        "ar": "جدول 4 هو ضعف الضعف: ضعف 6 هو 12، وضعف 12 هو…"
+        "ar": "جدول ضرب 4 هو ضعف الضعف: ضعف 6 هو 12، وضعف 12 هو…"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -243,7 +243,7 @@
         "va": "La del 5 va de 5 en 5, com els minuts del rellotge: 5, 10, 15…",
         "en": "The 5 times table goes up in fives, like the minutes on a clock: 5, 10, 15…",
         "fr": "La table de 5 avance de 5 en 5, comme les minutes de l'horloge : 5, 10, 15…",
-        "ar": "جدول 5 يسير 5 بـ5 مثل دقائق الساعة: 5، 10، 15…"
+        "ar": "جدول ضرب 5 يسير 5 بـ5 مثل دقائق الساعة: 5، 10، 15…"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -280,7 +280,7 @@
       },
       "pista": {
         "es": "Reparte de una en una, como las cartas, o piensa: ¿3 por cuánto da 18?",
-        "va": "Reparteix d'una en una, com les cartes, o pensa: 3 per quant fa 18?",
+        "va": "Repartix d'una en una, com les cartes, o pensa: 3 per quant fa 18?",
         "en": "Share them out one at a time, like cards, or think: 3 times what makes 18?",
         "fr": "Distribue-les une par une, comme les cartes, ou réfléchis : 3 fois combien font 18 ?",
         "ar": "لنوزّعها واحدة واحدة مثل الأوراق، أو لنفكّر: 3 في كم يساوي 18؟"
@@ -312,7 +312,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "¿Qué tabla te sale ya sin pensar? Explícame un truco para alguna que todavía se resista.",
-        "va": "Quina taula et surt ja sense pensar? Explica'm un truc per a alguna que encara es resistisca.",
+        "va": "Quina taula et ix ja sense pensar? Explica'm un truc per a alguna que encara es resistisca.",
         "en": "Which times table comes to you without thinking now? Explain a trick for one that still won't come.",
         "fr": "Quelle table connais-tu déjà sans réfléchir ? Explique-moi une astuce pour une table qui résiste encore.",
         "ar": "أي جدول ضرب نعرفه الآن دون تفكير؟ اشرح لي أو اشرحي لي حيلة لجدول ما زال يستعصي."
@@ -322,7 +322,7 @@
         "va": "Si no sap per on començar: «Com trauries {{6 × 7}} si saps {{6 × 5}}?»",
         "en": "If they don't know where to start: “How would you get {{6 × 7}} if you know {{6 × 5}}?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Comment tu trouverais {{6 × 7}} si tu connais {{6 × 5}} ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كيف نجد {{6 × 7}} إذا كنّا نعرف {{6 × 5}}؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كيف نجد {{6 × 7}} إذا كنّا نعرف {{6 × 5}}؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -343,19 +343,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "702cef34a646"
+        "huella": "9825a6cff306"
       },
       "en": {
         "estado": "automatica",
-        "huella": "702cef34a646"
+        "huella": "9825a6cff306"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "702cef34a646"
+        "huella": "9825a6cff306"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "702cef34a646"
+        "huella": "9825a6cff306"
       }
     }
   }

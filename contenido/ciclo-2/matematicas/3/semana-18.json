@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana aprenden la tabla del 4 con un truco: multiplicar por 4 es hacer el doble y otra vez el doble. Por ejemplo, {{2 × 3 = 6}}, y el doble de 6 es 12, así que {{4 × 3 = 12}}.",
-    "va": "Aquesta setmana aprenen la taula del 4 (tabla del 4) amb un truc: multiplicar per 4 és fer el doble (doble) i una altra vegada el doble. Per exemple, {{2 × 3 = 6}}, i el doble de 6 és 12, així que {{4 × 3 = 12}}.",
+    "va": "Aquesta setmana aprenen la taula del 4 (tabla del 4) amb un truc: multiplicar per 4 és fer el doble i una altra vegada el doble. Per exemple, {{2 × 3 = 6}}, i el doble de 6 és 12, així que {{4 × 3 = 12}}.",
     "en": "This week they learn the 4 times table (tabla del 4) with a trick: multiplying by 4 is doubling (doble) and doubling again. For example, {{2 × 3 = 6}}, and double 6 is 12, so {{4 × 3 = 12}}.",
     "fr": "Cette semaine, on apprend la table de 4 (tabla del 4) avec une astuce : multiplier par 4, c'est faire le double (doble), puis encore le double. Par exemple, {{2 × 3 = 6}}, et le double de 6 est 12, donc {{4 × 3 = 12}}.",
     "ar": "هذا الأسبوع يتعلّم الأطفال جدول ضرب 4 (tabla del 4) بحيلة: الضرب في 4 هو أن نأخذ الضعف (doble) ثم الضعف مرة أخرى. مثلًا، {{2 × 3 = 6}}، وضعف 6 هو 12، إذن {{4 × 3 = 12}}."
@@ -25,7 +25,7 @@
     "va": "Quan una del 4 es resistisca, no doneu el resultat: pregunteu «quant és per 2?» i deixeu que en faça el doble. Així el truc es queda.",
     "en": "When a 4 times table fact is tricky, don't give the answer: ask “What is it times 2?” and let them double it. That way the trick sticks.",
     "fr": "Quand un résultat de la table de 4 résiste, ne le donnez pas : demandez « Ça fait combien fois 2 ? » et laissez faire le double. Comme ça, l'astuce reste.",
-    "ar": "عندما تستعصي عملية من جدول 4، لا تعطوا النتيجة: اسألوا «كم تساوي في 2؟» واتركوا الطفل يأخذ الضعف. هكذا تبقى الحيلة."
+    "ar": "عندما تستعصي عملية من جدول ضرب 4، لا تعطوا النتيجة: اسألوا «كم يساوي العدد نفسه في 2؟» واتركوا الأطفال يأخذون الضعف. هكذا تبقى الحيلة."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente",
@@ -102,7 +102,7 @@
         "pictograma": "lapiz",
         "texto": {
           "es": "Probad con otros números, como 5 galletas por parte. Escribid cada vez el doble y el doble del doble: {{2 × 5 = 10}} y {{4 × 5 = 20}}.",
-          "va": "Proveu amb altres números, com ara 5 galetes per part. Escriviu cada vegada el doble i el doble del doble: {{2 × 5 = 10}} i {{4 × 5 = 20}}.",
+          "va": "Proveu amb altres nombres, com ara 5 galetes per part. Escriviu cada vegada el doble i el doble del doble: {{2 × 5 = 10}} i {{4 × 5 = 20}}.",
           "en": "Try other numbers, like 5 biscuits on each part. Each time, write the double and the double of the double: {{2 × 5 = 10}} and {{4 × 5 = 20}}.",
           "fr": "Essayez avec d'autres nombres, comme 5 biscuits par partie. Écrivez à chaque fois le double et le double du double : {{2 × 5 = 10}} et {{4 × 5 = 20}}.",
           "ar": "جرّبوا أعدادًا أخرى، مثل 5 بسكويتات على كل جزء. اكتبوا في كل مرة الضعف وضعف الضعف: {{2 × 5 = 10}} و{{4 × 5 = 20}}."
@@ -111,7 +111,7 @@
     ],
     "masFacil": {
       "es": "Usad solo números del 1 al 5 y contad las galletas una a una si os ayuda.",
-      "va": "Feu servir només números de l'1 al 5 i compteu les galetes una a una si us ajuda.",
+      "va": "Feu servir només nombres de l'1 al 5 i compteu les galetes una a una si us ajuda.",
       "en": "Use only numbers from 1 to 5 and count the biscuits one by one if it helps.",
       "fr": "Utilisez seulement les nombres de 1 à 5 et comptez les biscuits un par un si ça aide.",
       "ar": "استعملوا الأعداد من 1 إلى 5 فقط، وعدّوا البسكويت واحدة واحدة إن كان ذلك يساعد."
@@ -128,7 +128,7 @@
       "va": "Veure que la taula del 4 ix de la del 2 ensenya que les taules no van soltes: unes ajuden a construir-ne d'altres. I si un resultat s'oblida, es pot recuperar.",
       "en": "Seeing that the 4 times table comes from the 2 times table shows that the tables aren't separate: some help build others. And if an answer is forgotten, it can be worked out again.",
       "fr": "Voir que la table de 4 vient de celle de 2 montre que les tables ne sont pas isolées : certaines aident à en construire d'autres. Et si on oublie un résultat, on peut le retrouver.",
-      "ar": "رؤية أن جدول 4 يأتي من جدول 2 تعلّم أن الجداول ليست منفصلة: بعضها يساعد على بناء غيره. وإذا نُسيت نتيجة، يمكن استرجاعها."
+      "ar": "رؤية أن جدول ضرب 4 يأتي من جدول ضرب 2 تعلّم أن الجداول ليست منفصلة: بعضها يساعد على بناء غيره. وإذا نُسيت نتيجة، يمكن استرجاعها."
     }
   },
   "preguntas": [
@@ -180,7 +180,7 @@
         "va": "La mare d'Irene compra 4 bosses amb 7 mandarines cadascuna. Quantes mandarines són?",
         "en": "Irene's mum buys 4 bags with 7 mandarins in each. How many mandarins is that?",
         "fr": "La maman d'Irene achète 4 sacs de 7 mandarines chacun. Combien de mandarines cela fait-il ?",
-        "ar": "اشترت أمّ إيرين 4 أكياس في كل منها 7 يوسفيات. كم يوسفية في المجموع؟"
+        "ar": "اشترت أمّ إيرين 4 أكياس في كل منها 7 حبّات يوسفي. كم حبّة يوسفي في المجموع؟"
       },
       "pista": {
         "es": "{{2 × 7 = 14}}, y el doble de 14 es…",
@@ -199,7 +199,7 @@
           "va": "Són 28 mandarines.",
           "en": "That's 28 mandarins.",
           "fr": "Cela fait 28 mandarines.",
-          "ar": "28 يوسفية."
+          "ar": "28 حبّة يوسفي."
         }
       },
       "inventala": {
@@ -298,14 +298,14 @@
         "va": "Per què la taula del 4 és el doble de la del 2? Explica-m'ho amb una tira de paper o amb dibuixos.",
         "en": "Why is the 4 times table double the 2 times table? Explain it to me with a strip of paper or with drawings.",
         "fr": "Pourquoi la table de 4 est-elle le double de celle de 2 ? Explique-le-moi avec une bande de papier ou avec des dessins.",
-        "ar": "لماذا جدول 4 هو ضعف جدول 2؟ اشرح لي أو اشرحي لي بشريط ورق أو برسوم."
+        "ar": "لماذا جدول ضرب 4 هو ضعف جدول ضرب 2؟ اشرح لي أو اشرحي لي بشريط ورق أو برسوم."
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿Cuántas partes salen al doblar una vez? ¿Y al doblar otra vez?»",
         "va": "Si no sap per on començar: «Quantes parts ixen en doblegar una vegada? I en doblegar una altra vegada?»",
         "en": "If they don't know where to start: “How many parts do you get when you fold once? And when you fold again?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Combien de parties obtiens-tu en pliant une fois ? Et en repliant ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم جزءًا يظهر عندما نطوي مرة؟ وعندما نطوي مرة أخرى؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كم جزءًا يظهر عندما نطوي مرة؟ وعندما نطوي مرة أخرى؟»"
       },
       "respuesta": {
         "tipo": "abierta",

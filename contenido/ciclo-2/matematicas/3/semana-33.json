@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana conocen los tercios ({{1/3}}) y comparan fracciones con objetos. Descubren algo que sorprende: cuantas más partes, más pequeño es cada trozo, así que {{1/2}} es más que {{1/4}}.",
-    "va": "Aquesta setmana coneixen els terços ({{1/3}}) i comparen fraccions amb objectes. Descobreixen una cosa que sorprén: com més parts, més menut és cada tros, així que {{1/2}} és més que {{1/4}}.",
-    "en": "This week they meet thirds ({{1/3}}) and compare fractions with objects. They discover something surprising: the more parts, the smaller each piece, so {{1/2}} is more than {{1/4}}.",
-    "fr": "Cette semaine, on découvre les tiers ({{1/3}}) et on compare des fractions avec des objets. Et on découvre quelque chose d'étonnant : plus il y a de parts, plus chaque morceau est petit, donc {{1/2}} est plus que {{1/4}}.",
-    "ar": "هذا الأسبوع يتعرّف الأطفال إلى الأثلاث ({{1/3}}) ويقارنون الكسور بالأشياء. ويكتشفون أمرًا مفاجئًا: كلما زادت الأجزاء صغرت كل قطعة، إذن {{1/2}} أكبر من {{1/4}}."
+    "va": "Aquesta setmana coneixen els terços ({{1/3}}, tercios) i comparen fraccions (fracciones) amb objectes. Descobrixen una cosa que sorprén: com més parts, més menut és cada tros, així que {{1/2}} és més que {{1/4}}.",
+    "en": "This week they meet thirds ({{1/3}}, tercios) and compare fractions (fracciones) with objects. They discover something surprising: the more parts, the smaller each piece, so {{1/2}} is more than {{1/4}}.",
+    "fr": "Cette semaine, on découvre les tiers ({{1/3}}, tercios) et on compare des fractions (fracciones) avec des objets. Et on découvre quelque chose d'étonnant : plus il y a de parts, plus chaque morceau est petit, donc {{1/2}} est plus grand que {{1/4}}.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى الأثلاث ({{1/3}}، tercios) ويقارنون الكسور (fracciones) بالأشياء. ويكتشفون أمرًا مفاجئًا: كلما زادت الأجزاء صغرت كل قطعة، إذن {{1/2}} أكبر من {{1/4}}."
   },
   "comoAyudar": {
     "es": "Es muy normal pensar que {{1/4}} es más que {{1/2}} «porque 4 es más que 2». No lo neguéis: poned las tiras una encima de otra y dejad que lo vea.",
     "va": "És molt normal pensar que {{1/4}} és més que {{1/2}} «perquè 4 és més que 2». No ho negueu: poseu les tires una damunt de l'altra i deixeu que ho veja.",
     "en": "It's very normal to think {{1/4}} is more than {{1/2}} “because 4 is more than 2”. Don't deny it: put the strips on top of each other and let them see.",
-    "fr": "C'est très normal de penser que {{1/4}} est plus que {{1/2}} « parce que 4 est plus que 2 ». Ne le niez pas : posez les bandes l'une sur l'autre et laissez voir.",
-    "ar": "من الطبيعي جدًا أن نظنّ أن {{1/4}} أكبر من {{1/2}} «لأن 4 أكبر من 2». لا تنفوا ذلك: ضعوا الشرائط فوق بعضها واتركوا الطفل يرى."
+    "fr": "C'est très normal de penser que {{1/4}} est plus grand que {{1/2}} « parce que 4 est plus grand que 2 ». Ne le niez pas : posez les bandes l'une sur l'autre et laissez votre enfant le voir.",
+    "ar": "من الطبيعي جدًا أن نظنّ أن {{1/4}} أكبر من {{1/2}} «لأن 4 أكبر من 2». لا تعترضوا على ذلك: ضعوا الشرائط فوق بعضها واتركوا الأطفال يرون بأنفسهم."
   },
   "saberes": [
     "matematicas.fracciones.fraccion",
@@ -88,7 +88,7 @@
           "va": "Poseu les tires una damunt de l'altra, començant per la sencera. Quin tros pintat és més llarg? I el més curt?",
           "en": "Lay the strips on top of each other, starting with the whole one. Which coloured piece is longest? And the shortest?",
           "fr": "Posez les bandes l'une sur l'autre, en commençant par l'entière. Quel morceau colorié est le plus long ? Et le plus court ?",
-          "ar": "ضعوا الشرائط فوق بعضها بدءًا بالكامل. أي قطعة ملوّنة أطول؟ وأيّها أقصر؟"
+          "ar": "ضعوا الشرائط فوق بعضها بدءًا بالشريط الكامل. أي قطعة ملوّنة أطول؟ وأيّها أقصر؟"
         }
       },
       {
@@ -97,7 +97,7 @@
           "es": "Hablad de lo que veis: cuantas más partes tiene la tira, más pequeño es cada trozo. Por eso {{1/2}} es más que {{1/3}}, y {{1/3}} es más que {{1/4}}.",
           "va": "Parleu del que veieu: com més parts té la tira, més menut és cada tros. Per això {{1/2}} és més que {{1/3}}, i {{1/3}} és més que {{1/4}}.",
           "en": "Talk about what you see: the more parts the strip has, the smaller each piece. That's why {{1/2}} is more than {{1/3}}, and {{1/3}} is more than {{1/4}}.",
-          "fr": "Parlez de ce que vous voyez : plus la bande a de parts, plus chaque morceau est petit. C'est pour ça que {{1/2}} est plus que {{1/3}}, et {{1/3}} plus que {{1/4}}.",
+          "fr": "Parlez de ce que vous voyez : plus la bande a de parts, plus chaque morceau est petit. C'est pour ça que {{1/2}} est plus grand que {{1/3}}, et {{1/3}} plus grand que {{1/4}}.",
           "ar": "تحدّثوا عمّا ترونه: كلما زادت أجزاء الشريط صغرت كل قطعة. لذلك {{1/2}} أكبر من {{1/3}}، و{{1/3}} أكبر من {{1/4}}."
         }
       }
@@ -113,12 +113,12 @@
       "es": "Pintad 2 trozos de la tira de cuartos y 2 de la de tercios. ¿Qué es más, {{2/4}} o {{2/3}}?",
       "va": "Pinteu 2 trossos de la tira de quarts i 2 de la de terços. Què és més, {{2/4}} o {{2/3}}?",
       "en": "Colour 2 pieces of the quarters strip and 2 of the thirds strip. Which is more, {{2/4}} or {{2/3}}?",
-      "fr": "Coloriez 2 morceaux de la bande des quarts et 2 de celle des tiers. Qu'est-ce qui est plus, {{2/4}} ou {{2/3}} ?",
+      "fr": "Coloriez 2 morceaux de la bande des quarts et 2 de celle des tiers. Lequel est le plus grand, {{2/4}} ou {{2/3}} ?",
       "ar": "لوّنوا قطعتين من شريط الأرباع وقطعتين من شريط الأثلاث. أيّهما أكبر: {{2/4}} أم {{2/3}}؟"
     },
     "paraQueSirve": {
       "es": "Comparar trozos de verdad deja ver por qué un número más grande abajo da un trozo más pequeño. Es una idea que, sin tiras, cuesta mucho de creer.",
-      "va": "Comparar trossos de veritat deixa veure per què un número més gran baix dona un tros més menut. És una idea que, sense tires, costa molt de creure.",
+      "va": "Comparar trossos de veritat deixa veure per què un nombre més gran baix dona un tros més menut. És una idea que, sense tires, costa molt de creure.",
       "en": "Comparing real pieces shows why a bigger number on the bottom gives a smaller piece. It's an idea that's very hard to believe without the strips.",
       "fr": "Comparer de vrais morceaux permet de voir pourquoi un nombre plus grand en bas donne un morceau plus petit. Sans les bandes, c'est une idée très difficile à croire.",
       "ar": "مقارنة قطع حقيقية تُظهر لماذا يعطي عدد أكبر في الأسفل قطعة أصغر. إنها فكرة يصعب تصديقها دون الشرائط."
@@ -133,7 +133,7 @@
         "es": "Con 12 fresas, ¿qué es más: la mitad o un cuarto? ¿Cuántas fresas más?",
         "va": "Amb 12 maduixes, què és més: la meitat o un quart? Quantes maduixes més?",
         "en": "With 12 strawberries, which is more: half or a quarter? How many more strawberries?",
-        "fr": "Avec 12 fraises, qu'est-ce qui est plus : la moitié ou un quart ? Combien de fraises de plus ?",
+        "fr": "Avec 12 fraises, qu'est-ce qui fait le plus : la moitié ou un quart ? Combien de fraises de plus ?",
         "ar": "مع 12 حبة فراولة، أيّهما أكثر: النصف أم الربع؟ وبكم حبة؟"
       },
       "pista": {
@@ -211,7 +211,7 @@
         "es": "Bruno dice que un cuarto es más que una mitad, porque 4 es más que 2. ¿Tiene razón? Piénsalo con 8 galletas.",
         "va": "Bruno diu que un quart és més que una meitat, perquè 4 és més que 2. Té raó? Pensa-ho amb 8 galetes.",
         "en": "Bruno says a quarter is more than a half, because 4 is more than 2. Is he right? Think about it with 8 biscuits.",
-        "fr": "Bruno dit qu'un quart est plus qu'une moitié, parce que 4 est plus que 2. A-t-il raison ? Réfléchis avec 8 biscuits.",
+        "fr": "Bruno dit qu'un quart est plus grand qu'une moitié, parce que 4 est plus grand que 2. A-t-il raison ? Réfléchis avec 8 biscuits.",
         "ar": "يقول برونو إن الربع أكبر من النصف لأن 4 أكبر من 2. هل هو محق؟ لنفكّر بـ8 بسكويتات."
       },
       "pista": {
@@ -298,7 +298,7 @@
         "va": "Si no sap per on començar: «Si repartim una truita entre 2 o entre 8, quan et toca un tros més gran?»",
         "en": "If they don't know where to start: “If we share an omelette between 2 or between 8, when do you get a bigger piece?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si on partage une omelette entre 2 ou entre 8, quand as-tu le plus gros morceau ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا قسمنا عجّة بين 2 أو بين 8، متى تكون قطعتنا أكبر؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا قسمنا عجّة بين 2 أو بين 8، متى تكون قطعتنا أكبر؟»"
       },
       "respuesta": {
         "tipo": "abierta",

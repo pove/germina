@@ -8,21 +8,21 @@
   "tipo": "tema",
   "titulo": {
     "es": "Multiplicar números grandes",
-    "va": "Multiplicar números grans",
+    "va": "Multiplicar nombres grans",
     "en": "Multiplying big numbers",
     "fr": "Multiplier de grands nombres",
     "ar": "ضرب الأعداد الكبيرة"
   },
   "objetivo": {
     "es": "Esta semana multiplican números de dos y tres cifras por una cifra, llevándose cuando hace falta ({{24 × 3 = 72}}), y descubren que multiplicar por 10 o por 100 es añadir uno o dos ceros.",
-    "va": "Aquesta setmana multipliquen números de dues i tres xifres per una xifra, portant-se'n quan fa falta ({{24 × 3 = 72}}), i descobreixen que multiplicar per 10 o per 100 és afegir un o dos zeros. A classe ho diuen en castellà: «multiplicación con llevada».",
+    "va": "Aquesta setmana multipliquen nombres de dues i tres xifres per una xifra, portant-se'n quan fa falta ({{24 × 3 = 72}}), i descobrixen que multiplicar per 10 o per 100 és afegir un o dos zeros. A classe ho diuen en castellà: «multiplicación con llevada».",
     "en": "This week they multiply two- and three-digit numbers by a one-digit number, carrying when needed ({{24 × 3 = 72}}), and discover that multiplying by 10 or by 100 means adding one or two zeros. In class, in Spanish, they call it «multiplicación con llevada» (multiplication with carrying).",
     "fr": "Cette semaine, on multiplie des nombres à deux et trois chiffres par un nombre à un chiffre, avec une retenue quand il en faut une ({{24 × 3 = 72}}), et on découvre que multiplier par 10 ou par 100, c'est ajouter un ou deux zéros. En classe, en espagnol, on l'appelle « multiplicación con llevada » (multiplication avec retenue).",
     "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين وثلاثة أرقام في عدد من رقم واحد، مع الاحتفاظ عند الحاجة ({{24 × 3 = 72}})، ويكتشفون أن الضرب في 10 أو في 100 هو إضافة صفر أو صفرين. في القسم يسمّونه بالإسبانية «multiplicación con llevada» (الضرب مع الاحتفاظ)."
   },
   "comoAyudar": {
     "es": "Antes de multiplicar en papel, proponed calcularlo partiendo el número: {{24 × 3}} es {{20 × 3}} y {{4 × 3}}. Así la llevada tiene sentido y no es un truco que se olvida.",
-    "va": "Abans de multiplicar en paper, proposeu calcular-ho partint el número: {{24 × 3}} és {{20 × 3}} i {{4 × 3}}. Així la llevada té sentit i no és un truc que s'oblida.",
+    "va": "Abans de multiplicar en paper, proposeu calcular-ho partint el nombre: {{24 × 3}} és {{20 × 3}} i {{4 × 3}}. Així la llevada té sentit i no és un truc que s'oblida.",
     "en": "Before multiplying on paper, suggest working it out by splitting the number: {{24 × 3}} is {{20 × 3}} and {{4 × 3}}. That way carrying makes sense and isn't a trick that gets forgotten.",
     "fr": "Avant de multiplier sur papier, proposez de calculer en coupant le nombre : {{24 × 3}}, c'est {{20 × 3}} et {{4 × 3}}. Comme ça, la retenue a du sens et ce n'est pas un truc qu'on oublie.",
     "ar": "قبل الضرب على الورق، اقترحوا حسابه بتقسيم العدد: {{24 × 3}} هو {{20 × 3}} و{{4 × 3}}. هكذا يصبح للاحتفاظ معنى ولا يكون حيلة تُنسى."
@@ -49,7 +49,7 @@
         "va": "Un fullet del súper (o una llista de preus inventada)",
         "en": "A supermarket leaflet (or a made-up price list)",
         "fr": "Un prospectus du supermarché (ou une liste de prix inventée)",
-        "ar": "نشرة إعلانات السوق (أو قائمة أسعار مخترعة)"
+        "ar": "نشرة إعلانات السوبرماركت (أو قائمة أسعار مخترعة)"
       },
       {
         "es": "Papel y lápiz",
@@ -64,11 +64,11 @@
       {
         "pictograma": "folleto",
         "texto": {
-          "es": "Imaginad una merienda para 8 personas. Elegid del folleto lo que tomará cada persona y redondead los precios a euros enteros: un bocadillo, 3 €; un zumo, 2 €; una pieza de fruta, 1 €.",
-          "va": "Imagineu un berenar per a 8 persones. Trieu del fullet el que prendrà cada persona i arrodoniu els preus a euros sencers: un entrepà, 3 €; un suc, 2 €; una peça de fruita, 1 €.",
-          "en": "Imagine a snack for 8 people. Choose from the leaflet what each person will have and round the prices to whole euros: a sandwich, 3 €; a juice, 2 €; a piece of fruit, 1 €.",
-          "fr": "Imaginez un goûter pour 8 personnes. Choisissez dans le prospectus ce que prendra chaque personne et arrondissez les prix à l'euro : un sandwich, 3 € ; un jus, 2 € ; un fruit, 1 €.",
-          "ar": "تخيّلوا وجبة خفيفة لـ8 أشخاص. اختاروا من النشرة ما سيتناوله كل شخص وقرّبوا الأسعار إلى يورو كامل: شطيرة 3 يورو، عصير 2 يورو، حبة فاكهة 1 يورو."
+          "es": "Imaginad una merienda para 8 personas. Elegid del folleto lo que tomará cada persona y redondead los precios a euros enteros. Por ejemplo: un bocadillo, 3 €; un zumo, 2 €; una pieza de fruta, 1 €.",
+          "va": "Imagineu un berenar per a 8 persones. Trieu del fullet el que prendrà cada persona i arrodoniu els preus a euros sencers. Per exemple: un entrepà, 3 €; un suc, 2 €; una peça de fruita, 1 €.",
+          "en": "Imagine a snack for 8 people. Choose from the leaflet what each person will have and round the prices to whole euros. For example: a sandwich, 3 €; a juice, 2 €; a piece of fruit, 1 €.",
+          "fr": "Imaginez un goûter pour 8 personnes. Choisissez dans le prospectus ce que prendra chaque personne et arrondissez les prix à l'euro. Par exemple : un sandwich, 3 € ; un jus, 2 € ; un fruit, 1 €.",
+          "ar": "تخيّلوا وجبة خفيفة لـ8 أشخاص. اختاروا من النشرة ما سيتناوله كل شخص وقرّبوا الأسعار إلى يورو كامل. مثلًا: شطيرة 3 يورو، عصير 2 يورو، حبة فاكهة 1 يورو."
         }
       },
       {
@@ -94,11 +94,11 @@
       {
         "pictograma": "billete",
         "texto": {
-          "es": "Ahora, una merienda para 80 personas, como en una fiesta del barrio: {{48 × 10 = 480}}. ¿Qué le ha pasado al número?",
-          "va": "Ara, un berenar per a 80 persones, com en una festa del barri: {{48 × 10 = 480}}. Què li ha passat al número?",
-          "en": "Now, a snack for 80 people, like at a neighbourhood party: {{48 × 10 = 480}}. What happened to the number?",
-          "fr": "Maintenant, un goûter pour 80 personnes, comme à une fête de quartier : {{48 × 10 = 480}}. Qu'est-il arrivé au nombre ?",
-          "ar": "والآن، وجبة لـ80 شخصًا، كما في حفلة الحيّ: {{48 × 10 = 480}}. ماذا حدث للعدد؟"
+          "es": "Ahora, una merienda para 80 personas (10 veces más), como en una fiesta del barrio: si para 8 costaba 48 €, para 80 cuesta {{48 × 10 = 480}} €. ¿Qué le ha pasado al número?",
+          "va": "Ara, un berenar per a 80 persones (10 vegades més), com en una festa del barri: si per a 8 costava 48 €, per a 80 costa {{48 × 10 = 480}} €. Què li ha passat al nombre?",
+          "en": "Now, a snack for 80 people (10 times as many), like at a neighbourhood party: if it cost 48 € for 8, for 80 it costs {{48 × 10 = 480}} €. What happened to the number?",
+          "fr": "Maintenant, un goûter pour 80 personnes (10 fois plus), comme à une fête de quartier : si pour 8 il coûtait 48 €, pour 80 il coûte {{48 × 10 = 480}} €. Qu'est-il arrivé au nombre ?",
+          "ar": "والآن، وجبة لـ80 شخصًا (10 أضعاف)، كما في حفلة الحيّ: إذا كانت تكلّف 48 يورو لـ8 أشخاص، فهي تكلّف لـ80 شخصًا {{48 × 10 = 480}} يورو. ماذا حدث للعدد؟"
         }
       }
     ],
@@ -118,7 +118,7 @@
     },
     "paraQueSirve": {
       "es": "Partir un número en decenas y unidades antes de multiplicar es lo que hay detrás de la multiplicación en papel. Con precios reales, además, se ve para qué sirve.",
-      "va": "Partir un número en desenes i unitats abans de multiplicar és el que hi ha darrere de la multiplicació en paper. Amb preus reals, a més, es veu per a què servix.",
+      "va": "Partir un nombre en desenes i unitats abans de multiplicar és el que hi ha darrere de la multiplicació en paper. Amb preus reals, a més, es veu per a què servix.",
       "en": "Splitting a number into tens and ones before multiplying is what's behind multiplication on paper. And with real prices, you can see what it's for.",
       "fr": "Couper un nombre en dizaines et unités avant de multiplier, c'est ce qu'il y a derrière la multiplication sur papier. Et avec de vrais prix, on voit à quoi ça sert.",
       "ar": "تقسيم العدد إلى عشرات وآحاد قبل الضرب هو ما يقف وراء الضرب على الورق. ومع الأسعار الحقيقية نرى أيضًا فائدته."
@@ -208,30 +208,30 @@
       "rol": "tema",
       "tipoProblema": "suma-repetida",
       "texto": {
-        "es": "Una caja trae 100 clips. ¿Cuántos clips hay en 7 cajas?",
-        "va": "Una caixa porta 100 clips. Quants clips hi ha en 7 caixes?",
-        "en": "A box has 100 paper clips. How many paper clips are there in 7 boxes?",
-        "fr": "Une boîte contient 100 trombones. Combien y a-t-il de trombones dans 7 boîtes ?",
-        "ar": "في علبة 100 مشبك ورق. كم مشبكًا في 7 علب؟"
+        "es": "Una caja trae 124 clips. ¿Cuántos clips hay en 3 cajas?",
+        "va": "Una caixa porta 124 clips. Quants clips hi ha en 3 caixes?",
+        "en": "A box has 124 paper clips. How many paper clips are there in 3 boxes?",
+        "fr": "Une boîte contient 124 trombones. Combien y a-t-il de trombones dans 3 boîtes ?",
+        "ar": "في علبة 124 مشبك ورق. كم مشبكًا في 3 علب؟"
       },
       "pista": {
-        "es": "Multiplicar por 100 es añadir dos ceros: 7 centenas.",
-        "va": "Multiplicar per 100 és afegir dos zeros: 7 centenes.",
-        "en": "Multiplying by 100 means adding two zeros: 7 hundreds.",
-        "fr": "Multiplier par 100, c'est ajouter deux zéros : 7 centaines.",
-        "ar": "الضرب في 100 هو إضافة صفرين: 7 مئات."
+        "es": "Parte el 124: {{100 × 3 = 300}}, {{20 × 3 = 60}} y {{4 × 3 = 12}}.",
+        "va": "Partix el 124: {{100 × 3 = 300}}, {{20 × 3 = 60}} i {{4 × 3 = 12}}.",
+        "en": "Split the 124: {{100 × 3 = 300}}, {{20 × 3 = 60}} and {{4 × 3 = 12}}.",
+        "fr": "Coupe le 124 : {{100 × 3 = 300}}, {{20 × 3 = 60}} et {{4 × 3 = 12}}.",
+        "ar": "لنقسم 124: {{100 × 3 = 300}} و{{20 × 3 = 60}} و{{4 × 3 = 12}}."
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "7 × 100",
-        "resultado": 700,
+        "operacion": "124 × 3",
+        "resultado": 372,
         "unidad": "unidades",
         "texto": {
-          "es": "Hay 700 clips.",
-          "va": "Hi ha 700 clips.",
-          "en": "There are 700 paper clips.",
-          "fr": "Il y a 700 trombones.",
-          "ar": "هناك 700 مشبك."
+          "es": "Hay 372 clips.",
+          "va": "Hi ha 372 clips.",
+          "en": "There are 372 paper clips.",
+          "fr": "Il y a 372 trombones.",
+          "ar": "هناك 372 مشبكًا."
         }
       },
       "inventala": {
@@ -298,7 +298,7 @@
         "va": "Si no sap per on començar: «Quant és {{20 × 4}}? I {{3 × 4}}?»",
         "en": "If they don't know where to start: “What is {{20 × 4}}? And {{3 × 4}}?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Combien fait {{20 × 4}} ? Et {{3 × 4}} ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم يساوي {{20 × 4}}؟ و{{3 × 4}}؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كم يساوي {{20 × 4}}؟ و{{3 × 4}}؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -307,7 +307,7 @@
           "va": "Pot partir el 23 en 20 i 3, o fer el doble del doble (46 i 92). Ix 92; si ix una altra cosa, pregunteu com ho ha pensat i dibuixeu junts 4 grups de 23.",
           "en": "They might split 23 into 20 and 3, or do double the double (46 and 92). It comes to 92; if they get something else, ask how they worked it out and draw 4 groups of 23 together.",
           "fr": "Il ou elle peut couper 23 en 20 et 3, ou faire le double du double (46 et 92). Ça fait 92 ; si ça donne autre chose, demandez comment il ou elle a réfléchi et dessinez ensemble 4 groupes de 23.",
-          "ar": "قد يقسم 23 إلى 20 و3، أو يحسب ضعف الضعف (46 ثم 92). الناتج 92؛ وإذا خرجت نتيجة أخرى، اسألوا كيف كان التفكير وارسموا معًا 4 مجموعات من 23."
+          "ar": "قد يقسمون 23 إلى 20 و3، أو يحسبون ضعف الضعف (46 ثم 92). الناتج 92؛ وإذا خرجت نتيجة أخرى، اسألوا كيف كان التفكير وارسموا معًا 4 مجموعات من 23."
         }
       }
     }
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "ee819bccbabf"
+        "huella": "28a8bd5e74dc"
       },
       "en": {
         "estado": "automatica",
-        "huella": "ee819bccbabf"
+        "huella": "28a8bd5e74dc"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "ee819bccbabf"
+        "huella": "28a8bd5e74dc"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "ee819bccbabf"
+        "huella": "28a8bd5e74dc"
       }
     }
   }

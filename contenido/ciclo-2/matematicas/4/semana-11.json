@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Esta semana vuelven a todas las tablas con estrategias: el orden no cambia el producto ({{3 × 8 = 8 × 3}}), la del 4 es el doble del doble y la del 9 es «por 10 y quitar una vez». Si un resultado se olvida, se puede reconstruir.",
-    "va": "Aquesta setmana tornen a totes les taules amb estratègies: l'ordre no canvia el producte (producto) ({{3 × 8 = 8 × 3}}), la del 4 és el doble del doble i la del 9 és «per 10 i llevar una vegada». Si un resultat s'oblida, es pot reconstruir.",
-    "en": "This week they go back to all the times tables with strategies: the order doesn't change the product (producto) ({{3 × 8 = 8 × 3}}), the 4 times table is double the double, and the 9 times table is “times 10 and take one away”. If an answer is forgotten, it can be rebuilt.",
-    "fr": "Cette semaine, on revient à toutes les tables avec des stratégies : l'ordre ne change pas le produit (producto) ({{3 × 8 = 8 × 3}}), la table de 4 est le double du double et celle de 9, c'est « fois 10 et on enlève une fois ». Si on oublie un résultat, on peut le retrouver.",
-    "ar": "هذا الأسبوع يعود الأطفال إلى كل جداول الضرب مع استراتيجيات: الترتيب لا يغيّر حاصل الضرب (producto) ({{3 × 8 = 8 × 3}})، وجدول 4 هو ضعف الضعف، وجدول 9 هو «في 10 ثم نطرح مرة واحدة». وإذا نُسيت نتيجة، يمكن إعادة بنائها."
+    "va": "Aquesta setmana tornen a totes les taules (tablas) amb estratègies: l'ordre no canvia el producte (producto) ({{3 × 8 = 8 × 3}}), la del 4 és el doble del doble i la del 9 és «per 10 i llevar una vegada». Si un resultat s'oblida, es pot reconstruir.",
+    "en": "This week they go back to all the times tables (tablas) with strategies: the order doesn't change the product (producto) ({{3 × 8 = 8 × 3}}), the 4 times table is double the double, and the 9 times table is “times 10 and take one away”. If an answer is forgotten, it can be rebuilt.",
+    "fr": "Cette semaine, on revient à toutes les tables (tablas) avec des stratégies : l'ordre ne change pas le produit (producto) ({{3 × 8 = 8 × 3}}), la table de 4 est le double du double et celle de 9, c'est « fois 10 et on enlève une fois ». Si on oublie un résultat, on peut le retrouver.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى كل جداول الضرب (tablas) مع استراتيجيات: الترتيب لا يغيّر حاصل الضرب (producto) ({{3 × 8 = 8 × 3}})، وجدول ضرب 4 هو ضعف الضعف، وجدول ضرب 9 هو «في 10 ثم نطرح مرة واحدة». وإذا نُسيت نتيجة، يمكن إعادة بنائها."
   },
   "comoAyudar": {
     "es": "Cuando una multiplicación se resista, en vez de dar el resultado, preguntad «¿cuál sabes que esté cerca?». Si sabe que {{6 × 5 = 30}}, {{6 × 6}} son 6 más.",
@@ -46,18 +46,18 @@
     },
     "material": [
       {
-        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
-        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
+        "es": "Una baraja francesa o de póquer (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla francesa o de pòquer (o cartes de l'1 al 10 fetes en paper)",
         "en": "A pack of cards (or cards from 1 to 10 made of paper)",
-        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
-        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+        "fr": "Un jeu de 52 cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب من 52 ورقة (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
       },
       {
         "es": "El cronómetro de Germina",
         "va": "El cronòmetre de Germina",
         "en": "The Germina stopwatch",
         "fr": "Le chronomètre de Germina",
-        "ar": "مؤقّت جيرمينا"
+        "ar": "مؤقّت Germina"
       }
     ],
     "minutos": 10,
@@ -105,7 +105,7 @@
     ],
     "masFacil": {
       "es": "Usad una sola carta y multiplicadla siempre por el mismo número: por 2, por 5 o por 10.",
-      "va": "Feu servir una sola carta i multipliqueu-la sempre pel mateix número: per 2, per 5 o per 10.",
+      "va": "Feu servir una sola carta i multipliqueu-la sempre pel mateix nombre: per 2, per 5 o per 10.",
       "en": "Use just one card and always multiply it by the same number: by 2, by 5 or by 10.",
       "fr": "Utilisez une seule carte et multipliez-la toujours par le même nombre : par 2, par 5 ou par 10.",
       "ar": "استعملوا ورقة واحدة واضربوها دائمًا في العدد نفسه: في 2 أو 5 أو 10."
@@ -184,14 +184,14 @@
         "va": "Cada paquet porta 4 batuts. Quants batuts hi ha en 6 paquets?",
         "en": "Each pack has 4 milkshakes. How many milkshakes are there in 6 packs?",
         "fr": "Chaque pack contient 4 milk-shakes. Combien y a-t-il de milk-shakes dans 6 packs ?",
-        "ar": "في كل علبة 4 مشروبات حليب. كم مشروبًا في 6 علب؟"
+        "ar": "في كل علبة 4 عبوات من مخفوق الحليب. كم عبوة في 6 علب؟"
       },
       "pista": {
         "es": "Para la tabla del 4, el doble del doble: el doble de 6 es 12, y el doble de 12…",
         "va": "Per a la taula del 4, el doble del doble: el doble de 6 és 12, i el doble de 12…",
         "en": "For the 4 times table, double the double: double 6 is 12, and double 12 is…",
         "fr": "Pour la table de 4, le double du double : le double de 6, c'est 12, et le double de 12…",
-        "ar": "في جدول 4، ضعف الضعف: ضعف 6 هو 12، وضعف 12 هو…"
+        "ar": "في جدول ضرب 4، ضعف الضعف: ضعف 6 هو 12، وضعف 12 هو…"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -203,7 +203,7 @@
           "va": "Hi ha 24 batuts.",
           "en": "There are 24 milkshakes.",
           "fr": "Il y a 24 milk-shakes.",
-          "ar": "هناك 24 مشروبًا."
+          "ar": "هناك 24 عبوة من مخفوق الحليب."
         }
       },
       "inventala": {
@@ -211,7 +211,7 @@
         "va": "Inventa'n tu una de la taula del 4 i conta com la calcules amb el doble del doble.",
         "en": "Make one up from the 4 times table and explain how you work it out with double the double.",
         "fr": "Invente un problème de la table de 4 et raconte comment tu le calcules avec le double du double.",
-        "ar": "لنخترع مسألة من جدول 4 ونحكي كيف نحسبها بضعف الضعف."
+        "ar": "لنخترع مسألة من جدول ضرب 4 ونحكي كيف نحسبها بضعف الضعف."
       }
     },
     {
@@ -250,7 +250,7 @@
         "va": "Inventa'n tu una de la taula del 9 i fes servir el truc de «per 10 i llevar una vegada».",
         "en": "Make one up from the 9 times table and use the “times 10 and take one away” trick.",
         "fr": "Invente un problème de la table de 9 et utilise l'astuce « fois 10 et on enlève une fois ».",
-        "ar": "لنخترع مسألة من جدول 9 ونستعمل حيلة «في 10 ثم نطرح مرة»."
+        "ar": "لنخترع مسألة من جدول ضرب 9 ونستعمل حيلة «في 10 ثم نطرح مرة»."
       }
     },
     {
@@ -263,14 +263,14 @@
         "va": "Per a recordar: la classe de música comença a les 16:15 i acaba a les 17:00. Quant dura?",
         "en": "Let's remember: the music class starts at 16:15 and ends at 17:00. How long does it last?",
         "fr": "Pour se souvenir : le cours de musique commence à 16:15 et finit à 17:00. Combien de temps dure-t-il ?",
-        "ar": "لنتذكّر: يبدأ درس الموسيقى في 16:15 وينتهي في 17:00. كم يدوم؟"
+        "ar": "لنتذكّر: يبدأ درس الموسيقى في الساعة 16:15 وينتهي في الساعة 17:00. كم يدوم؟"
       },
       "pista": {
         "es": "Cuenta hacia arriba de 16:15 a 17:00: ¿cuántos minutos faltan para la hora en punto?",
         "va": "Compta cap amunt de 16:15 a 17:00: quants minuts falten per a l'hora en punt?",
         "en": "Count up from 16:15 to 17:00: how many minutes until the hour?",
         "fr": "Compte en avançant de 16:15 à 17:00 : combien de minutes il manque pour l'heure pile ?",
-        "ar": "لنعدّ صعودًا من 16:15 إلى 17:00: كم دقيقة بقيت حتى تصبح الساعة تمامًا؟"
+        "ar": "لنعدّ صعودًا من الساعة 16:15 إلى 17:00: كم دقيقة بقيت حتى تصبح الساعة تمامًا؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -309,16 +309,16 @@
         "va": "Si no sap per on començar: «Com calcularies {{7 × 6}} si saps {{7 × 5}}?»",
         "en": "If they don't know where to start: “How would you work out {{7 × 6}} if you know {{7 × 5}}?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Comment tu calculerais {{7 × 6}} si tu connais {{7 × 5}} ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كيف نحسب {{7 × 6}} إذا كنّا نعرف {{7 × 5}}؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كيف نحسب {{7 × 6}} إذا كنّا نعرف {{7 × 5}}؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
           "es": "Cualquier truco con sentido vale. Si dice que no tiene ninguno, buscad uno juntos: partir en dos multiplicaciones más fáciles o cambiar el orden de los números.",
-          "va": "Qualsevol truc amb sentit val. Si diu que no en té cap, busqueu-ne un junts: partir en dues multiplicacions més fàcils o canviar l'ordre dels números.",
+          "va": "Qualsevol truc amb sentit val. Si diu que no en té cap, busqueu-ne un junts: partir en dues multiplicacions més fàcils o canviar l'ordre dels nombres.",
           "en": "Any trick that makes sense is fine. If they say they don't have one, look for one together: split it into two easier multiplications or swap the order of the numbers.",
           "fr": "Toute astuce qui a du sens est bonne. S'il ou elle dit ne pas en avoir, cherchez-en une ensemble : couper en deux multiplications plus faciles ou changer l'ordre des nombres.",
-          "ar": "كل حيلة لها معنى مقبولة. وإذا قال إنه لا يعرف أيّ حيلة، فابحثوا عن واحدة معًا: تقسيمها إلى عمليتي ضرب أسهل أو تغيير ترتيب العددين."
+          "ar": "كل حيلة لها معنى مقبولة. وإذا قالوا إنهم لا يعرفون أيّ حيلة، فابحثوا عن واحدة معًا: تقسيمها إلى عمليتي ضرب أسهل أو تغيير ترتيب العددين."
         }
       }
     }
@@ -330,19 +330,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "48fb653a92a4"
+        "huella": "d110ae8a10e8"
       },
       "en": {
         "estado": "automatica",
-        "huella": "48fb653a92a4"
+        "huella": "d110ae8a10e8"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "48fb653a92a4"
+        "huella": "d110ae8a10e8"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "48fb653a92a4"
+        "huella": "d110ae8a10e8"
       }
     }
   }

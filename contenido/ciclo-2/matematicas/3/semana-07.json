@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana descubren qué hacer cuando, en una resta, arriba hay menos unidades que abajo: se abre una decena y se convierte en 10 unidades. En clase lo llaman «resta con llevada».",
-    "va": "Aquesta setmana descobreixen què fer quan, en una resta, dalt hi ha menys unitats que baix: s'obri una desena (decena) i es converteix en 10 unitats. A classe ho diuen en castellà: «resta con llevada».",
+    "va": "Aquesta setmana descobrixen què fer quan, en una resta, dalt hi ha menys unitats que baix: s'obri una desena (decena) i es convertix en 10 unitats. A classe ho diuen en castellà: «resta con llevada».",
     "en": "This week they discover what to do when, in a subtraction, there are fewer ones on top than below: you open a ten (decena) and turn it into 10 ones. In class, in Spanish, they call it «resta con llevada».",
     "fr": "Cette semaine, on découvre quoi faire quand, dans une soustraction, il y a moins d'unités en haut qu'en bas : on ouvre une dizaine (decena) et on la change en 10 unités. En classe, en espagnol, on l'appelle « resta con llevada » (soustraction avec retenue).",
     "ar": "هذا الأسبوع يكتشف الأطفال ماذا نفعل في الطرح عندما تكون الآحاد في الأعلى أقل منها في الأسفل: نفتح عشرة (decena) ونحوّلها إلى 10 آحاد. في القسم يسمّونها بالإسبانية «resta con llevada» (الطرح مع الاستلاف)."
@@ -73,7 +73,7 @@
         "pictograma": "vaso",
         "texto": {
           "es": "Meted 10 legumbres en cada vaso hasta llenar 4 vasos y dejad 2 sueltas al lado. Eso es el número 42: 4 decenas y 2 unidades.",
-          "va": "Poseu 10 llegums en cada got fins a omplir-ne 4 i deixeu-ne 2 de solts al costat. Això és el número 42: 4 desenes i 2 unitats.",
+          "va": "Poseu 10 llegums en cada got fins a omplir-ne 4 i deixeu-ne 2 de solts al costat. Això és el nombre 42: 4 desenes i 2 unitats.",
           "en": "Put 10 beans in each cup until 4 cups are full, and leave 2 loose beans beside them. That is the number 42: 4 tens and 2 ones.",
           "fr": "Mettez 10 grains dans chaque verre jusqu'à remplir 4 verres, et laissez-en 2 à côté. C'est le nombre 42 : 4 dizaines et 2 unités.",
           "ar": "ضعوا 10 حبات في كل كوب حتى تمتلئ 4 أكواب، واتركوا حبتين منفردتين بجانبها. هذا هو العدد 42: 4 عشرات و2 آحاد."
@@ -313,7 +313,7 @@
         "va": "Si no sap per on començar: «Has obert alguna desena aquesta setmana? M'ensenyes com?»",
         "en": "If they don't know where to start: “Did you open a ten this week? Can you show me how?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Tu as ouvert une dizaine cette semaine ? Tu me montres comment ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل فتحنا عشرة هذا الأسبوع؟ كيف نفعل ذلك؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل فتحنا عشرة هذا الأسبوع؟ كيف نفعل ذلك؟»"
       },
       "respuesta": {
         "tipo": "abierta",

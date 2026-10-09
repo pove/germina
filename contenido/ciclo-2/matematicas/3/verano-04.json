@@ -18,7 +18,7 @@
     "va": "Amagar alguna cosa i dibuixar el mapa per a trobar-la és orientar-se i donar instruccions precises: passos, fletxes i punts cardinals (nord, sud, est i oest).",
     "en": "Hiding something and drawing the map to find it is about finding your way and giving precise instructions: steps, arrows and the compass points (north, south, east and west).",
     "fr": "Cacher quelque chose et dessiner la carte pour le retrouver, c'est s'orienter et donner des instructions précises : des pas, des flèches et les points cardinaux (nord, sud, est et ouest).",
-    "ar": "أن نخبّئ شيئًا ونرسم خريطة للعثور عليه يعني أن نتوجّه ونعطي تعليمات دقيقة: خطوات وأسهم واتجاهات أصلية (الشمال والجنوب والشرق والغرب)."
+    "ar": "أن نخبّئ شيئًا ونرسم خريطة للعثور عليه يعني أن نحدّد الاتجاهات ونعطي تعليمات دقيقة: خطوات وأسهم واتجاهات أصلية (الشمال والجنوب والشرق والغرب)."
   },
   "comoAyudar": {
     "es": "Si el mapa no lleva al tesoro, no pasa nada: buscad juntos en qué paso se torció el camino y cambiad solo ese.",
@@ -71,11 +71,11 @@
       {
         "pictograma": "brujula",
         "texto": {
-          "es": "Averiguad dónde está el norte: el sol sale por el este y se pone por el oeste. Marcad una N en lo alto del papel.",
-          "va": "Esbrineu on és el nord: el sol ix per l'est i es pon per l'oest. Marqueu una N a la part de dalt del paper.",
-          "en": "Work out where north is: the sun rises in the east and sets in the west. Mark an N at the top of the paper.",
-          "fr": "Trouvez où est le nord : le soleil se lève à l'est et se couche à l'ouest. Marquez un N en haut du papier.",
-          "ar": "اعرفوا أين الشمال: الشمس تشرق من الشرق وتغرب في الغرب. ضعوا حرف N في أعلى الورقة."
+          "es": "Averiguad dónde está el norte con la brújula o, si no tenéis, con el sol: por la mañana, poneos de cara a donde sale (el este) y el norte queda a vuestra izquierda. No miréis al sol directamente. Marcad una N en lo alto del papel.",
+          "va": "Esbrineu on és el nord amb la brúixola o, si no en teniu, amb el sol: de matí, poseu-vos de cara a on ix (l'est) i el nord queda a la vostra esquerra. No mireu el sol directament. Marqueu una N a la part de dalt del paper.",
+          "en": "Work out where north is with the compass or, if you don't have one, with the sun: in the morning, face where it rises (the east) and north is on your left. Don't look straight at the sun. Mark an N at the top of the paper.",
+          "fr": "Trouvez où est le nord avec la boussole ou, si vous n'en avez pas, avec le soleil : le matin, mettez-vous face à l'endroit où il se lève (l'est) et le nord est à votre gauche. Ne regardez pas le soleil directement. Marquez un N en haut du papier.",
+          "ar": "اعرفوا أين الشمال بالبوصلة، وإن لم تكن عندكم فبالشمس: في الصباح قفوا ووجوهكم نحو مكان شروقها (الشرق)، فيكون الشمال عن يساركم. لا تنظروا إلى الشمس مباشرة. ضعوا حرف N (الشمال) في أعلى الورقة."
         }
       },
       {
@@ -92,7 +92,7 @@
         "pictograma": "mapa",
         "texto": {
           "es": "Dibuja el mapa con flechas y números: «3 pasos al norte, 2 al este». Las demás personas no miran.",
-          "va": "Dibuixa el mapa amb fletxes i números: «3 passos al nord, 2 a l'est». Les altres persones no miren.",
+          "va": "Dibuixa el mapa amb fletxes i nombres: «3 passos al nord, 2 a l'est». Les altres persones no miren.",
           "en": "They draw the map with arrows and numbers: “3 steps north, 2 east”. The others don't look.",
           "fr": "Elle dessine la carte avec des flèches et des nombres : « 3 pas vers le nord, 2 vers l'est ». Les autres ne regardent pas.",
           "ar": "يرسم الخريطة بأسهم وأعداد: «3 خطوات نحو الشمال، 2 نحو الشرق». والآخرون لا ينظرون."
@@ -102,7 +102,7 @@
         "pictograma": "ojo",
         "texto": {
           "es": "Las demás siguen el mapa paso a paso. ¿Habéis llegado? Si no, buscad juntos qué flecha cambiar.",
-          "va": "Les altres segueixen el mapa pas a pas. Hi heu arribat? Si no, busqueu junts quina fletxa canviar.",
+          "va": "Les altres seguixen el mapa pas a pas. Hi heu arribat? Si no, busqueu junts quina fletxa canviar.",
           "en": "The others follow the map step by step. Did you get there? If not, look together for which arrow to change.",
           "fr": "Les autres suivent la carte pas à pas. Vous êtes arrivés ? Sinon, cherchez ensemble quelle flèche changer.",
           "ar": "يتبع الآخرون الخريطة خطوة خطوة. هل وصلتم؟ إن لم تصلوا، ابحثوا معًا عن السهم الذي نغيّره."
@@ -125,17 +125,17 @@
     },
     "paraQueSirve": {
       "es": "Dar instrucciones exactas y en orden es pensar como quien programa, y orientarse en un plano sirve para moverse por cualquier sitio.",
-      "va": "Donar instruccions exactes i en ordre és pensar com qui programa, i orientar-se en un plànol serveix per a moure's per qualsevol lloc.",
+      "va": "Donar instruccions exactes i en ordre és pensar com qui programa, i orientar-se en un plànol servix per a moure's per qualsevol lloc.",
       "en": "Giving exact instructions in order is thinking like a programmer, and finding your way on a map helps you get around anywhere.",
       "fr": "Donner des instructions exactes et dans l'ordre, c'est penser comme quelqu'un qui programme, et s'orienter sur un plan sert à se déplacer partout.",
-      "ar": "إعطاء تعليمات دقيقة ومرتّبة تفكير كتفكير المبرمجين، والتوجّه على خريطة يساعد على التنقّل في أي مكان."
+      "ar": "إعطاء تعليمات دقيقة ومرتّبة تفكير كتفكير المبرمجين، ومعرفة الاتجاهات على خريطة تساعد على التنقّل في أي مكان."
     },
     "aviso": {
-      "es": "Esconded el tesoro en sitios seguros, lejos del agua y de la calle.",
-      "va": "Amagueu el tresor en llocs segurs, lluny de l'aigua i del carrer.",
-      "en": "Hide the treasure in safe places, away from water and the road.",
-      "fr": "Cachez le trésor dans des endroits sûrs, loin de l'eau et de la rue.",
-      "ar": "خبّئوا الكنز في أماكن آمنة، بعيدًا عن الماء والشارع."
+      "es": "Esconded el tesoro en sitios seguros, lejos del agua y de la calle, y donde no lo alcancen hermanos o hermanas pequeños.",
+      "va": "Amagueu el tresor en llocs segurs, lluny de l'aigua i del carrer, i on no l'abasten germans o germanes menuts.",
+      "en": "Hide the treasure in safe places, away from water and the road, and out of reach of younger brothers and sisters.",
+      "fr": "Cachez le trésor dans des endroits sûrs, loin de l'eau et de la rue, et hors de portée des petits frères et sœurs.",
+      "ar": "خبّئوا الكنز في أماكن آمنة، بعيدًا عن الماء والشارع، وبعيدًا عن متناول الإخوة والأخوات الصغار."
     }
   },
   "preguntas": [
@@ -203,7 +203,7 @@
           "va": "6 passos al sud: el mateix nombre de passos, en la direcció contrària. Si diu «6 cap arrere», també val.",
           "en": "6 steps south: the same number of steps, in the opposite direction. If they say “6 backwards”, that works too.",
           "fr": "6 pas vers le sud : le même nombre de pas, dans la direction contraire. S'il ou elle dit « 6 en arrière », ça marche aussi.",
-          "ar": "6 خطوات نحو الجنوب: العدد نفسه من الخطوات في الاتجاه المعاكس. وإذا كان الجواب «6 إلى الخلف»، فهو صحيح أيضًا."
+          "ar": "6 خطوات نحو الجنوب: العدد نفسه من الخطوات في الاتجاه المعاكس. وإذا كان الجواب «6 إلى الخلف»، فهذا يصلح أيضًا."
         }
       },
       "inventala": {
@@ -263,14 +263,14 @@
         "va": "Per a recordar: eixim a buscar el tresor a les 11:30 i el trobem a les 11:45. Quant tardem?",
         "en": "Let's remember: we set off to look for the treasure at 11:30 and find it at 11:45. How long did it take?",
         "fr": "Pour se souvenir : nous partons chercher le trésor à 11:30 et nous le trouvons à 11:45. Combien de temps avons-nous mis ?",
-        "ar": "لنتذكّر: خرجنا نبحث عن الكنز في 11:30 ووجدناه في 11:45. كم استغرقنا؟"
+        "ar": "لنتذكّر: خرجنا نبحث عن الكنز في الساعة 11:30 ووجدناه في الساعة 11:45. كم استغرقنا؟"
       },
       "pista": {
         "es": "En el reloj, de y media a menos cuarto es un cuarto de hora.",
-        "va": "En el rellotge, d'i mitja a menys quart és un quart d'hora.",
+        "va": "En el rellotge, d'onze i mitja a dotze menys quart és un quart d'hora.",
         "en": "On the clock, from half past to quarter to is a quarter of an hour.",
         "fr": "Sur l'horloge, de la demie à moins le quart, c'est un quart d'heure.",
-        "ar": "في الساعة، من النصف إلى إلا ربعًا ربع ساعة."
+        "ar": "في الساعة، من الحادية عشرة والنصف إلى الثانية عشرة إلا ربعًا ربع ساعة."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -309,7 +309,7 @@
         "va": "Si no sap per on començar: «Cap a on mire primer? Quants passos faig?»",
         "en": "If they don't know where to start: “Which way do I face first? How many steps do I take?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Vers où je regarde d'abord ? Combien de pas je fais ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إلى أين أنظر أولًا؟ كم خطوة أخطو؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إلى أين أنظر أولًا؟ كم خطوة أخطو؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -330,19 +330,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "eb66a867cd8f"
+        "huella": "710682315175"
       },
       "en": {
         "estado": "automatica",
-        "huella": "eb66a867cd8f"
+        "huella": "710682315175"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "eb66a867cd8f"
+        "huella": "710682315175"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "eb66a867cd8f"
+        "huella": "710682315175"
       }
     }
   }

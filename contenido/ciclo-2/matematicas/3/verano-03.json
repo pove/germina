@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Una figura es simétrica cuando, al doblarla por una línea, las dos mitades coinciden. Con pintura y papel se descubre jugando, y después se ve por todas partes.",
-    "va": "Una figura és simètrica quan, en doblegar-la per una línia, les dues meitats coincideixen. Amb pintura i paper es descobreix jugant, i després es veu per tot arreu.",
+    "va": "Una figura és simètrica quan, en doblegar-la per una línia, les dues meitats coincidixen. Amb pintura i paper es descobrix jugant, i després es veu per tot arreu.",
     "en": "A shape is symmetrical when, folded along a line, the two halves match. With paint and paper you discover it by playing, and then you see it everywhere.",
     "fr": "Une figure est symétrique quand, pliée le long d'une ligne, ses deux moitiés se superposent. Avec de la peinture et du papier, on le découvre en jouant, puis on le voit partout.",
     "ar": "يكون الشكل متناظرًا عندما ينطبق نصفاه إذا طويناه على خط. بالألوان والورق نكتشف ذلك ونحن نلعب، ثم نراه في كل مكان."
@@ -55,7 +55,7 @@
         "va": "Pintura de dits o tèmperes",
         "en": "Finger paint or poster paint",
         "fr": "De la peinture à doigts ou de la gouache",
-        "ar": "ألوان للأصابع أو ألوان مائية"
+        "ar": "ألوان للأصابع أو ألوان غواش"
       },
       {
         "es": "Un trapo o papel de cocina",
@@ -159,11 +159,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Letras como A, H, M, O, T, U, V o X tienen eje; la F, la G o la R no. Lo bonito es comprobarlo juntos, sin prisa.",
-          "va": "Lletres com A, H, M, O, T, U, V o X tenen eix; la F, la G o la R no. El bonic és comprovar-ho junts, sense pressa.",
-          "en": "Letters like A, H, M, O, T, U, V or X have a line of symmetry; F, G and R don't. The fun part is checking together, without hurrying.",
-          "fr": "Des lettres comme A, H, M, O, T, U, V ou X ont un axe ; F, G ou R, non. Le plus joli, c'est de le vérifier ensemble, sans se presser.",
-          "ar": "حروف مثل A وH وM وO وT وU وV وX لها محور؛ أما F وG وR فلا. الجميل أن نتحقّق من ذلك معًا بلا عجلة."
+          "es": "Letras como A, H, M, O, T, U, V o X tienen eje; la F, la G o la R no. La B, la C, la D o la E también lo tienen, pero tumbado: probad con el lápiz acostado. Lo bonito es comprobarlo juntos, sin prisa.",
+          "va": "Lletres com A, H, M, O, T, U, V o X tenen eix; la F, la G o la R no. La B, la C, la D o la E també en tenen, però horitzontal: proveu amb el llapis tombat. El bonic és comprovar-ho junts, sense pressa.",
+          "en": "Letters like A, H, M, O, T, U, V or X have a line of symmetry; F, G and R don't. B, C, D and E have one too, but lying down: try with the pencil placed flat across them. The fun part is checking together, without hurrying.",
+          "fr": "Des lettres comme A, H, M, O, T, U, V ou X ont un axe ; F, G ou R, non. B, C, D ou E en ont un aussi, mais couché : essayez avec le crayon à l'horizontale. Le plus joli, c'est de le vérifier ensemble, sans se presser.",
+          "ar": "حروف مثل A وH وM وO وT وU وV وX لها محور؛ أما F وG وR فلا. وللحروف B وC وD وE محور أيضًا لكنه أفقي: جرّبوا بوضع القلم أفقيًا. الجميل أن نتحقّق من ذلك معًا بلا عجلة."
         }
       },
       "inventala": {
@@ -226,7 +226,7 @@
       },
       "pista": {
         "es": "Los dos lados tienen los mismos: reparte 10 en 2 partes iguales.",
-        "va": "Els dos costats en tenen els mateixos: reparteix 10 en 2 parts iguals.",
+        "va": "Els dos costats en tenen els mateixos: repartix 10 en 2 parts iguals.",
         "en": "Both sides have the same number: share 10 into 2 equal parts.",
         "fr": "Les deux côtés en ont autant : partage 10 en 2 parts égales.",
         "ar": "في الجهتين العدد نفسه: لنوزّع 10 على جزأين متساويين."
@@ -262,7 +262,7 @@
         "va": "Per a recordar: un quadrat de paper té costats de 15 cm. Quant mesura tota la vora?",
         "en": "Let's remember: a paper square has sides of 15 cm. How long is its whole edge?",
         "fr": "Pour se souvenir : un carré de papier a des côtés de 15 cm. Combien mesure tout son bord ?",
-        "ar": "لنتذكّر: مربّع من الورق طول ضلعه 15 cm. كم طول حافّته كلها؟"
+        "ar": "لنتذكّر: مربّع من الورق طول ضلعه 15 سم. كم طول حافّته كلها؟"
       },
       "pista": {
         "es": "Un cuadrado tiene 4 lados iguales: suma 15 cuatro veces o multiplica.",
@@ -281,7 +281,7 @@
           "va": "La vora mesura 60 cm. És el seu perímetre.",
           "en": "Its edge is 60 cm long. That is its perimeter.",
           "fr": "Son bord mesure 60 cm. C'est son périmètre.",
-          "ar": "طول حافّته 60 cm. هذا محيطه."
+          "ar": "طول حافّته 60 سم. هذا محيطه."
         }
       },
       "inventala": {
@@ -308,7 +308,7 @@
         "va": "Si no sap per on començar: «La teua cara és simètrica? I si fas l'ullet?»",
         "en": "If they don't know where to start: “Is your face symmetrical? And if you wink?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Ton visage est symétrique ? Et si tu fais un clin d'œil ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل وجوهنا متناظرة؟ وإذا غمزنا بعين واحدة؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل وجوهنا متناظرة؟ وإذا غمزنا بعين واحدة؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -329,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "6de1d94c1383"
+        "huella": "e420f8bee37d"
       },
       "en": {
         "estado": "automatica",
-        "huella": "6de1d94c1383"
+        "huella": "e420f8bee37d"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "6de1d94c1383"
+        "huella": "e420f8bee37d"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "6de1d94c1383"
+        "huella": "e420f8bee37d"
       }
     }
   }

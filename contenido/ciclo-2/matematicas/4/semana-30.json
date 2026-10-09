@@ -11,21 +11,21 @@
     "va": "Per 10, per 100, per 1000",
     "en": "Times 10, 100, 1000",
     "fr": "Fois 10, fois 100, fois 1000",
-    "ar": "في 10 وفي 100 وفي 1000"
+    "ar": "الضرب في 10 و100 و1000"
   },
   "objetivo": {
     "es": "Esta semana multiplican y dividen por 10, 100 y 1000. No es «poner ceros»: las cifras se mueven de casilla. Por 10, cada cifra pasa a valer diez veces más: las unidades pasan a ser decenas.",
-    "va": "Aquesta setmana multipliquen i dividixen per 10, 100 i 1000. No és «posar zeros»: les xifres es mouen de casella. Per 10, cada xifra passa a valdre deu vegades més: les unitats passen a ser desenes.",
-    "en": "This week they multiply and divide by 10, 100 and 1000. It isn't “adding zeros”: the digits move to another column. Times 10, each digit becomes worth ten times more: ones become tens.",
-    "fr": "Cette semaine, on multiplie et on divise par 10, 100 et 1000. Ce n'est pas « ajouter des zéros » : les chiffres changent de case. Fois 10, chaque chiffre vaut dix fois plus : les unités deviennent des dizaines.",
-    "ar": "هذا الأسبوع يضرب الأطفال ويقسمون على 10 و100 و1000. الأمر ليس «إضافة أصفار»: الأرقام تنتقل من خانة إلى أخرى. عند الضرب في 10 تصبح قيمة كل رقم عشرة أضعاف: الآحاد تصير عشرات."
+    "va": "Aquesta setmana multipliquen i dividixen per 10, 100 i 1000. No és «posar zeros»: les xifres es mouen de casella. Per 10, cada xifra passa a valdre deu vegades més: les unitats passen a ser desenes (decenas).",
+    "en": "This week they multiply and divide by 10, 100 and 1000. It isn't “adding zeros”: the digits move to another column. Times 10, each digit becomes worth ten times more: ones become tens (decenas).",
+    "fr": "Cette semaine, on multiplie et on divise par 10, 100 et 1000. Ce n'est pas « ajouter des zéros » : les chiffres changent de case. Fois 10, chaque chiffre vaut dix fois plus : les unités deviennent des dizaines (decenas).",
+    "ar": "هذا الأسبوع يضرب الأطفال في 10 و100 و1000 ويقسمون عليها. الأمر ليس «إضافة أصفار»: الأرقام تنتقل من خانة إلى أخرى. عند الضرب في 10 تصبح قيمة كل رقم عشرة أضعاف: الآحاد تصير عشرات (decenas)."
   },
   "comoAyudar": {
-    "es": "Si dice «se pone un cero», no está mal, pero preguntad «¿y qué le pasa al 3? ¿Dónde estaba y dónde está ahora?». Así el truco tiene una razón detrás.",
-    "va": "Si diu «es posa un zero», no està malament, però pregunteu «i què li passa al 3? On estava i on està ara?». Així el truc té una raó darrere.",
-    "en": "If they say “you add a zero”, that's not wrong, but ask “And what happens to the 3? Where was it and where is it now?” That way the trick has a reason behind it.",
-    "fr": "Si la réponse est « on ajoute un zéro », ce n'est pas faux, mais demandez « Et qu'arrive-t-il au 3 ? Où était-il et où est-il maintenant ? ». Comme ça, l'astuce a une raison.",
-    "ar": "إذا قيل «نضيف صفرًا»، فهذا ليس خطأ، لكن اسألوا «وماذا يحدث للرقم 3؟ أين كان وأين صار؟». هكذا يكون للحيلة سبب."
+    "es": "Si dice «se pone un cero», vale, pero preguntad «¿y qué le pasa al 3? ¿Dónde estaba y dónde está ahora?». Así el truco tiene una razón detrás.",
+    "va": "Si diu «es posa un zero», val, però pregunteu «i què li passa al 3? On estava i on està ara?». Així el truc té una raó darrere.",
+    "en": "If they say “you add a zero”, that's fine, but ask “And what happens to the 3? Where was it and where is it now?” That way the trick has a reason behind it.",
+    "fr": "Si la réponse est « on ajoute un zéro », ça marche, mais demandez « Et qu'arrive-t-il au 3 ? Où était-il et où est-il maintenant ? ». Comme ça, l'astuce a une raison.",
+    "ar": "إذا قيل «نضيف صفرًا»، فلا بأس، لكن اسألوا «وماذا يحدث للرقم 3؟ أين كان وأين صار؟». هكذا يكون للحيلة سبب."
   },
   "saberes": [
     "matematicas.operaciones.calculo-mental",
@@ -58,6 +58,13 @@
         "en": "Slips of paper with the digits 0 to 9 (several zeros)",
         "fr": "Des petits papiers avec les chiffres de 0 à 9 (plusieurs zéros)",
         "ar": "قصاصات عليها الأرقام من 0 إلى 9 (عدة أصفار)"
+      },
+      {
+        "es": "Un lápiz o un rotulador",
+        "va": "Un llapis o un retolador",
+        "en": "A pencil or a felt-tip pen",
+        "fr": "Un crayon ou un feutre",
+        "ar": "قلم رصاص أو قلم تلوين"
       }
     ],
     "minutos": 10,
@@ -67,16 +74,16 @@
         "texto": {
           "es": "Dibujad en la hoja una tabla de cinco casillas y escribid encima: DM, UM, C, D, U (decenas de millar, unidades de millar, centenas, decenas y unidades).",
           "va": "Dibuixeu en el full una taula de cinc caselles i escriviu-hi damunt: DM, UM, C, D, U (desenes de miler, unitats de miler, centenes, desenes i unitats).",
-          "en": "Draw a table with five boxes on the sheet and write above them: DM, UM, C, D, U (ten thousands, thousands, hundreds, tens and ones, in Spanish).",
-          "fr": "Dessinez sur la feuille un tableau de cinq cases et écrivez au-dessus : DM, UM, C, D, U (dizaines de mille, unités de mille, centaines, dizaines et unités, en espagnol).",
-          "ar": "ارسموا على الورقة جدولًا من خمس خانات واكتبوا فوقها: DM وUM وC وD وU (عشرات الألوف، والألوف، والمئات، والعشرات، والآحاد بالإسبانية)."
+          "en": "Draw a table with five boxes on the sheet and write above them: DM, UM, C, D, U (the Spanish initials for ten thousands, thousands, hundreds, tens and ones).",
+          "fr": "Dessinez sur la feuille un tableau de cinq cases et écrivez au-dessus : DM, UM, C, D, U (dizaines de mille, unités de mille, centaines, dizaines et unités).",
+          "ar": "ارسموا على الورقة جدولًا من خمس خانات واكتبوا فوقها: DM وUM وC وD وU (الحروف الأولى بالإسبانية لـ: عشرات الألوف، والألوف، والمئات، والعشرات، والآحاد)."
         }
       },
       {
         "pictograma": "tarjetas",
         "texto": {
           "es": "Una persona coloca un número con los papelitos, por ejemplo 36: el 3 en las decenas y el 6 en las unidades.",
-          "va": "Una persona col·loca un número amb els paperets, per exemple 36: el 3 en les desenes i el 6 en les unitats.",
+          "va": "Una persona col·loca un nombre amb els paperets, per exemple 36: el 3 en les desenes i el 6 en les unitats.",
           "en": "One person places a number with the slips, for example 36: the 3 in the tens and the 6 in the ones.",
           "fr": "Une personne place un nombre avec les petits papiers, par exemple 36 : le 3 dans les dizaines et le 6 dans les unités.",
           "ar": "يضع شخص عددًا بالقصاصات، مثلًا 36: الرقم 3 في العشرات و6 في الآحاد."
@@ -105,7 +112,7 @@
     ],
     "masFacil": {
       "es": "Usad solo «por 10» y «entre 10», con números de dos cifras.",
-      "va": "Feu servir només «per 10» i «entre 10», amb números de dues xifres.",
+      "va": "Feu servir només «per 10» i «entre 10», amb nombres de dues xifres.",
       "en": "Use only “times 10” and “divided by 10”, with two-digit numbers.",
       "fr": "Utilisez seulement « fois 10 » et « divisé par 10 », avec des nombres à deux chiffres.",
       "ar": "استعملوا «في 10» و«على 10» فقط، بأعداد من رقمين."
@@ -278,7 +285,7 @@
       "inventala": {
         "es": "Inventa tú una de área con el suelo de algún sitio que conozcas.",
         "va": "Inventa'n tu una d'àrea amb el terra d'algun lloc que conegues.",
-        "en": "Make up an area one with the floor of somewhere you know.",
+        "en": "Make up an area problem with the floor of somewhere you know.",
         "fr": "Invente un problème d'aire avec le sol d'un endroit que tu connais.",
         "ar": "لنخترع مسألة مساحة بأرضية مكان نعرفه."
       }
@@ -299,7 +306,7 @@
         "va": "Si no sap per on començar: «Posa el 7 en les unitats. On està després de “per 100”? Quant val ara?»",
         "en": "If they don't know where to start: “Put the 7 in the ones. Where is it after ‘times 100’? What's it worth now?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Mets le 7 dans les unités. Où est-il après “fois 100” ? Combien vaut-il maintenant ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «لنضع 7 في الآحاد. أين يصبح بعد “في 100”؟ وكم قيمته الآن؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «لنضع 7 في الآحاد. أين يصبح بعد “الضرب في 100”؟ وكم قيمته الآن؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -320,19 +327,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "f41593fcde05"
+        "huella": "7538b301229b"
       },
       "en": {
         "estado": "automatica",
-        "huella": "f41593fcde05"
+        "huella": "7538b301229b"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "f41593fcde05"
+        "huella": "7538b301229b"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "f41593fcde05"
+        "huella": "7538b301229b"
       }
     }
   }

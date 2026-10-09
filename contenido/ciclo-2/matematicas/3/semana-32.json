@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana empiezan con las fracciones: partir algo en 2 partes iguales (mitades) o en 4 (cuartos). En clase se escriben así: {{1/2}} y {{1/4}}. Lo importante es que las partes sean iguales.",
-    "va": "Aquesta setmana comencen amb les fraccions (fracciones): partir alguna cosa en 2 parts iguals (meitats) o en 4 (quarts). A classe s'escriuen així: {{1/2}} i {{1/4}}. L'important és que les parts siguen iguals.",
-    "en": "This week they start fractions (fracciones): splitting something into 2 equal parts (halves) or 4 (quarters). In class they're written like this: {{1/2}} and {{1/4}}. What matters is that the parts are equal.",
-    "fr": "Cette semaine, on commence les fractions (fracciones) : partager quelque chose en 2 parts égales (des moitiés) ou en 4 (des quarts). En classe, on les écrit ainsi : {{1/2}} et {{1/4}}. L'important, c'est que les parts soient égales.",
-    "ar": "هذا الأسبوع يبدأ الأطفال الكسور (fracciones): تقسيم شيء إلى جزأين متساويين (أنصاف) أو إلى 4 (أرباع). في القسم تُكتب هكذا: {{1/2}} و{{1/4}}. المهم أن تكون الأجزاء متساوية."
+    "va": "Aquesta setmana comencen amb les fraccions (fracciones): partir alguna cosa en 2 parts iguals (meitats) o en 4 (quarts, cuartos). A classe s'escriuen així: {{1/2}} i {{1/4}}. L'important és que les parts siguen iguals.",
+    "en": "This week they start fractions (fracciones): splitting something into 2 equal parts (halves) or 4 (quarters, cuartos). In class they're written like this: {{1/2}} and {{1/4}}. What matters is that the parts are equal.",
+    "fr": "Cette semaine, on commence les fractions (fracciones) : partager quelque chose en 2 parts égales (des moitiés) ou en 4 (des quarts, cuartos). En classe, on les écrit ainsi : {{1/2}} et {{1/4}}. L'important, c'est que les parts soient égales.",
+    "ar": "هذا الأسبوع يبدأ الأطفال الكسور (fracciones): تقسيم شيء إلى جزأين متساويين (أنصاف) أو إلى 4 (أرباع، cuartos). في القسم تُكتب هكذا: {{1/2}} و{{1/4}}. المهم أن تكون الأجزاء متساوية."
   },
   "comoAyudar": {
     "es": "Aprovechad la comida: media manzana, un cuarto de tortilla, la mitad del bocadillo. Si parte en trozos distintos, preguntad «¿son iguales?» antes de decir cómo se llaman.",
     "va": "Aprofiteu el menjar: mitja poma, un quart de truita, la meitat de l'entrepà. Si partix en trossos diferents, pregunteu «són iguals?» abans de dir com s'anomenen.",
     "en": "Make use of food: half an apple, a quarter of an omelette, half the sandwich. If they cut pieces of different sizes, ask “Are they equal?” before saying what they're called.",
     "fr": "Profitez des repas : une demi-pomme, un quart d'omelette, la moitié du sandwich. Si les morceaux sont différents, demandez « Ils sont égaux ? » avant de dire comment ils s'appellent.",
-    "ar": "استفيدوا من الطعام: نصف تفاحة، ربع عجّة، نصف شطيرة. وإذا قُسّمت قطع مختلفة، اسألوا «هل هي متساوية؟» قبل تسميتها."
+    "ar": "استفيدوا من الطعام: نصف تفاحة، ربع عجّة، نصف شطيرة. وإذا قُسّم الشيء إلى قطع مختلفة، اسألوا «هل هي متساوية؟» قبل تسميتها."
   },
   "saberes": [
     "matematicas.fracciones.fraccion",
@@ -118,7 +118,7 @@
     },
     "paraQueSirve": {
       "es": "Las fracciones aparecen en la cocina, en la hora («y cuarto», «y media») y al repartir. Verlas con trozos de verdad hace que {{1/2}} no sea solo un número escrito.",
-      "va": "Les fraccions apareixen en la cuina, en l'hora («i quart», «i mitja») i en repartir. Veure-les amb trossos de veritat fa que {{1/2}} no siga només un número escrit.",
+      "va": "Les fraccions apareixen en la cuina, en l'hora («i quart», «i mitja») i en repartir. Veure-les amb trossos de veritat fa que {{1/2}} no siga només un nombre escrit.",
       "en": "Fractions show up in cooking, in telling the time (“quarter past”, “half past”) and when sharing. Seeing them with real pieces means {{1/2}} isn't just a written number.",
       "fr": "Les fractions apparaissent en cuisine, dans l'heure (« et quart », « et demie ») et au moment de partager. Les voir avec de vrais morceaux fait que {{1/2}} n'est pas qu'un nombre écrit.",
       "ar": "تظهر الكسور في المطبخ وفي الساعة («والربع»، «والنصف») وعند التوزيع. ورؤيتها بقطع حقيقية تجعل {{1/2}} أكثر من عدد مكتوب."
@@ -305,7 +305,7 @@
         "va": "Si no sap per on començar: «Si partisc l'entrepà així, en un tros gran i un altre menut, són meitats?»",
         "en": "If they don't know where to start: “If I cut the sandwich like this, into a big piece and a small one, are they halves?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si je coupe le sandwich comme ça, en un gros morceau et un petit, ce sont des moitiés ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا قسمت الشطيرة هكذا، قطعة كبيرة وأخرى صغيرة، هل هما نصفان؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا قسمت الشطيرة هكذا، قطعة كبيرة وأخرى صغيرة، هل هما نصفان؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -313,8 +313,8 @@
           "es": "La idea clave es «dos partes iguales». Si parte la hoja y comprueba poniendo una mitad encima de la otra, ya lo ha explicado.",
           "va": "La idea clau és «dues parts iguals». Si partix el full i ho comprova posant una meitat damunt de l'altra, ja ho ha explicat.",
           "en": "The key idea is “two equal parts”. If they split the sheet and check by putting one half on top of the other, they've explained it.",
-          "fr": "L'idée clé, c'est « deux parts égales ». Si la feuille est partagée et qu'on vérifie en posant une moitié sur l'autre, c'est expliqué.",
-          "ar": "الفكرة الأساسية هي «جزءان متساويان». إذا قُسمت الورقة وتُحقّق بوضع نصف فوق الآخر، فقد شُرحت الفكرة."
+          "fr": "L'idée clé, c'est « deux parts égales ». Si votre enfant partage la feuille et vérifie en posant une moitié sur l'autre, l'explication est là.",
+          "ar": "الفكرة الأساسية هي «جزءان متساويان». إذا قسم الأطفال الورقة وتحقّقوا من ذلك بوضع نصف فوق الآخر، فقد شرحوا الفكرة."
         }
       }
     }

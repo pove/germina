@@ -168,14 +168,14 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "Tiras un dado normal, con números del 1 al 6. ¿Es seguro, posible o imposible que salga un 7? ¿Y un 4?",
-        "va": "Tires un dau normal, amb números de l'1 al 6. És segur, possible o impossible que isca un 7? I un 4?",
+        "va": "Tires un dau normal, amb nombres de l'1 al 6. És segur, possible o impossible que isca un 7? I un 4?",
         "en": "You roll a normal die, with numbers from 1 to 6. Is rolling a 7 certain, possible or impossible? And a 4?",
         "fr": "Tu lances un dé normal, avec des nombres de 1 à 6. Est-il sûr, possible ou impossible de faire 7 ? Et 4 ?",
         "ar": "نرمي نردًا عاديًا عليه الأعداد من 1 إلى 6. هل الحصول على 7 مؤكّد أم ممكن أم مستحيل؟ وماذا عن 4؟"
       },
       "pista": {
         "es": "Mira qué números tiene el dado.",
-        "va": "Mira quins números té el dau.",
+        "va": "Mira quins nombres té el dau.",
         "en": "Look at which numbers the die has.",
         "fr": "Regarde quels nombres il y a sur le dé.",
         "ar": "لننظر إلى الأعداد التي على النرد."
@@ -284,25 +284,25 @@
       "texto": {
         "es": "Dime algo que sea imposible que pase mañana, algo posible y algo seguro. Explícame por qué.",
         "va": "Digues-me alguna cosa que siga impossible que passe demà, alguna cosa possible i alguna cosa segura. Explica'm per què.",
-        "en": "Tell me something that's impossible tomorrow, something possible and something certain. Explain why.",
+        "en": "Tell me something that's impossible for tomorrow, something possible and something certain. Explain why.",
         "fr": "Dis-moi quelque chose d'impossible pour demain, quelque chose de possible et quelque chose de sûr. Explique-moi pourquoi.",
         "ar": "لنذكر شيئًا مستحيلًا غدًا، وشيئًا ممكنًا، وشيئًا مؤكّدًا. اشرح لي أو اشرحي لي لماذا."
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿Es posible que mañana llueva? ¿Es seguro que mañana sea…?»",
-        "va": "Si no sap per on començar: «És possible que demà plega? És segur que demà siga…?»",
+        "va": "Si no sap per on començar: «És possible que demà ploga? És segur que demà siga…?»",
         "en": "If they don't know where to start: “Is it possible it'll rain tomorrow? Is it certain that tomorrow will be…?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Est-il possible qu'il pleuve demain ? Est-il sûr que demain sera… ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل من الممكن أن تمطر غدًا؟ وهل من المؤكّد أن يكون غدًا…؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل من الممكن أن تمطر غدًا؟ وهل من المؤكّد أن يكون غدًا…؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Cualquier ejemplo con sentido vale («seguro que mañana es jueves», «posible que llueva»). Si alguno no encaja, preguntad «¿estás segura o seguro?» y hablad de ello.",
-          "va": "Qualsevol exemple amb sentit val («segur que demà és dijous», «possible que plega»). Si algun no encaixa, pregunteu «n'estàs segura o segur?» i parleu-ne.",
-          "en": "Any sensible example is fine (“tomorrow is certainly Thursday”, “it might rain”). If one doesn't fit, ask “Are you sure?” and talk about it.",
-          "fr": "Tout exemple sensé convient (« c'est sûr que demain, c'est jeudi », « c'est possible qu'il pleuve »). Si un exemple ne colle pas, demandez « Tu en es sûr ou sûre ? » et parlez-en.",
-          "ar": "أي مثال معقول يصلح («من المؤكّد أن غدًا الخميس»، «من الممكن أن تمطر»). وإن لم يناسب مثال، اسألوا «هل أنت متأكّد؟» وتحدّثوا في الأمر."
+          "es": "Cualquier ejemplo con sentido vale («si hoy es miércoles, seguro que mañana es jueves», «posible que llueva»). Si alguno no encaja, preguntad «¿estás segura o seguro?» y hablad de ello.",
+          "va": "Qualsevol exemple amb sentit val («si hui és dimecres, segur que demà és dijous», «possible que ploga»). Si algun no encaixa, pregunteu «n'estàs segura o segur?» i parleu-ne.",
+          "en": "Any sensible example is fine (“if today is Wednesday, tomorrow is certainly Thursday”, “it might rain”). If one doesn't fit, ask “Are you sure?” and talk about it.",
+          "fr": "Tout exemple sensé convient (« si aujourd'hui c'est mercredi, c'est sûr que demain, c'est jeudi », « c'est possible qu'il pleuve »). Si un exemple ne colle pas, demandez « Tu en es sûr ou sûre ? » et parlez-en.",
+          "ar": "أي مثال معقول يصلح («إذا كان اليوم الأربعاء، فمن المؤكّد أن غدًا الخميس»، «من الممكن أن تمطر»). وإن لم يناسب مثال، اسألوا «هل نحن متأكّدون؟» وتحدّثوا في الأمر."
         }
       }
     }
@@ -314,19 +314,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "00a735f67f86"
+        "huella": "6139451eae28"
       },
       "en": {
         "estado": "automatica",
-        "huella": "00a735f67f86"
+        "huella": "6139451eae28"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "00a735f67f86"
+        "huella": "6139451eae28"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "00a735f67f86"
+        "huella": "6139451eae28"
       }
     }
   }

@@ -24,8 +24,8 @@
     "es": "Contad los problemas en voz alta, como un cuento, y exagerad los datos que sobran. Si usa un dato que no sirve, preguntad «¿y eso para qué sirve aquí?» y dejad que lo piense.",
     "va": "Conteu els problemes en veu alta, com un conte, i exagereu les dades que sobren. Si fa servir una dada que no servix, pregunteu «i això què hi té a veure?» i deixeu que ho pense.",
     "en": "Tell the problems out loud, like a story, and exaggerate the information that isn't needed. If they use something that doesn't help, ask “What's that got to do with it?” and let them think.",
-    "fr": "Racontez les problèmes à voix haute, comme une histoire, et exagérez les données inutiles. Si une donnée inutile est utilisée, demandez « Et ça, quel rapport ? » et laissez réfléchir.",
-    "ar": "احكوا المسائل بصوت عالٍ كأنها قصة، وبالغوا في المعطيات الزائدة. وإذا استُعمل معطى لا يفيد، اسألوا «وما علاقة هذا؟» واتركوا الطفل يفكّر."
+    "fr": "Racontez les problèmes à voix haute, comme une histoire, et exagérez les données inutiles. Si votre enfant utilise une donnée inutile, demandez « Et ça, quel rapport ? » et laissez-lui le temps de réfléchir.",
+    "ar": "احكوا المسائل بصوت عالٍ كأنها قصة، وبالغوا في المعطيات الزائدة. وإذا استعمل الأطفال معطًى لا يفيد، اسألوا «وما علاقة هذا؟» واتركوهم يفكّرون."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -58,10 +58,10 @@
       {
         "pictograma": "conversacion",
         "texto": {
-          "es": "La persona adulta cuenta un problema con un dato que no sirve: «La perra Luna tiene 7 años. En casa hay 3 platos con 4 croquetas. ¿Cuántas croquetas hay?».",
-          "va": "La persona adulta conta un problema amb una dada que no servix: «La gossa Lluna té 7 anys. A casa hi ha 3 plats amb 4 croquetes. Quantes croquetes hi ha?».",
+          "es": "La persona adulta cuenta un problema con un dato que no sirve: «La perra Luna tiene 7 años. En casa hay 3 platos con 4 croquetas cada uno. ¿Cuántas croquetas hay?».",
+          "va": "La persona adulta conta un problema amb una dada que no servix: «La gossa Lluna té 7 anys. A casa hi ha 3 plats amb 4 croquetes cadascun. Quantes croquetes hi ha?».",
           "en": "The adult tells a problem with a piece of information that isn't needed: “Luna the dog is 7 years old. At home there are 3 plates with 4 croquettes each. How many croquettes are there?”",
-          "fr": "L'adulte raconte un problème avec une donnée inutile : « La chienne Luna a 7 ans. À la maison, il y a 3 assiettes avec 4 croquettes. Combien y a-t-il de croquettes ? ».",
+          "fr": "L'adulte raconte un problème avec une donnée inutile : « La chienne Luna a 7 ans. À la maison, il y a 3 assiettes avec 4 croquettes chacune. Combien y a-t-il de croquettes ? ».",
           "ar": "يحكي الشخص البالغ مسألة فيها معطى لا يفيد: «عمر الكلبة لونا 7 سنوات. في البيت 3 صحون في كل منها 4 كرات كروكيت. كم كرة كروكيت هناك؟»."
         }
       },
@@ -72,7 +72,7 @@
           "va": "El xiquet o la xiqueta busca la trampa: quina dada no servix per a la pregunta? La ratlla en el paper o la diu en veu alta.",
           "en": "The child looks for the trick: which piece of information doesn't help with the question? They cross it out on paper or say it out loud.",
           "fr": "L'enfant cherche le piège : quelle donnée ne sert pas pour la question ? Il ou elle la barre sur le papier ou la dit à voix haute.",
-          "ar": "يبحث الطفل عن الفخّ: أي معطى لا يفيد في السؤال؟ يشطبه على الورقة أو يقوله بصوت عالٍ."
+          "ar": "يبحث الطفل أو الطفلة عن الفخّ: أي معطى لا يفيد في السؤال؟ يشطبه على الورقة أو يقوله بصوت عالٍ."
         }
       },
       {
@@ -92,7 +92,7 @@
           "va": "Canvieu els papers: ara el xiquet o la xiqueta inventa un problema amb trampa per a la persona adulta.",
           "en": "Swap roles: now the child makes up a trick problem for the adult.",
           "fr": "Échangez les rôles : maintenant, c'est l'enfant qui invente un problème piégé pour l'adulte.",
-          "ar": "تبادلوا الأدوار: الآن يخترع الطفل مسألة فيها فخّ للشخص البالغ."
+          "ar": "تبادلوا الأدوار: الآن يخترع الطفل أو الطفلة مسألة فيها فخّ للشخص البالغ."
         }
       }
     ],
@@ -105,7 +105,7 @@
     },
     "masDificil": {
       "es": "Meted dos datos que sobran, o uno que parece útil pero no lo es: un número que no hace falta para la pregunta.",
-      "va": "Poseu dues dades que sobren, o una que sembla útil però no ho és: un número que no cal per a la pregunta.",
+      "va": "Poseu dues dades que sobren, o una que sembla útil però no ho és: un nombre que no cal per a la pregunta.",
       "en": "Include two extra pieces of information, or one that looks useful but isn't: a number the question doesn't need.",
       "fr": "Mettez deux données inutiles, ou une qui semble utile mais ne l'est pas : un nombre dont la question n'a pas besoin.",
       "ar": "ضعوا معطيين زائدين، أو معطى يبدو مفيدًا لكنه ليس كذلك: عددًا لا يحتاجه السؤال."
@@ -171,7 +171,7 @@
       },
       "pista": {
         "es": "Busca los números que hablan de dinero.",
-        "va": "Busca els números que parlen de diners.",
+        "va": "Busca els nombres que parlen de diners.",
         "en": "Look for the numbers that are about money.",
         "fr": "Cherche les nombres qui parlent d'argent.",
         "ar": "لنبحث عن الأعداد التي تتحدّث عن النقود."
@@ -192,9 +192,9 @@
       "inventala": {
         "es": "Inventa tú uno de compras con un dato de hora que sobre.",
         "va": "Inventa'n tu un de compres amb una dada d'hora que sobre.",
-        "en": "Make up a shopping one with a time that isn't needed.",
+        "en": "Make up a shopping problem with a time that isn't needed.",
         "fr": "Invente un problème de courses avec une heure qui ne sert à rien.",
-        "ar": "لنخترع مسألة تسوّق فيها ساعة زائدة."
+        "ar": "لنخترع مسألة تسوّق فيها معطًى زائد عن الساعة."
       }
     },
     {
@@ -231,7 +231,7 @@
       "inventala": {
         "es": "Inventa tú uno de filas iguales con dos datos que sobren.",
         "va": "Inventa'n tu un de files iguals amb dues dades que sobren.",
-        "en": "Make up an equal rows one with two pieces of information that aren't needed.",
+        "en": "Make up an equal rows problem with two pieces of information that aren't needed.",
         "fr": "Invente un problème de rangées égales avec deux données inutiles.",
         "ar": "لنخترع مسألة صفوف متساوية فيها معطيان زائدان."
       }
@@ -273,7 +273,7 @@
         "va": "Inventa't una multiplicació de sobres amb bitllets i monedes.",
         "en": "Make up an envelopes multiplication with notes and coins.",
         "fr": "Invente une multiplication d'enveloppes avec des billets et des pièces.",
-        "ar": "لنخترع عملية ضرب مغلّفات فيها أوراق وقطع نقدية."
+        "ar": "لنخترع عملية ضرب مغلّفات فيها أوراق نقدية وقطع نقدية."
       }
     },
     {
@@ -289,10 +289,10 @@
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿Qué pregunta el problema? ¿Qué números te ayudan a responder?»",
-        "va": "Si no sap per on començar: «Què pregunta el problema? Quins números t'ajuden a respondre?»",
+        "va": "Si no sap per on començar: «Què pregunta el problema? Quins nombres t'ajuden a respondre?»",
         "en": "If they don't know where to start: “What is the problem asking? Which numbers help you answer?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Que demande le problème ? Quels nombres t'aident à répondre ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «عمّ تسأل المسألة؟ وأي الأعداد تساعدنا على الإجابة؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «عمّ تسأل المسألة؟ وأي الأعداد تساعدنا على الإجابة؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -313,19 +313,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "a0561f315b8f"
+        "huella": "0ce79f2614b6"
       },
       "en": {
         "estado": "automatica",
-        "huella": "a0561f315b8f"
+        "huella": "0ce79f2614b6"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "a0561f315b8f"
+        "huella": "0ce79f2614b6"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "a0561f315b8f"
+        "huella": "0ce79f2614b6"
       }
     }
   }

@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Una cinta métrica es una recta de números: cada metro se parte en 10 décimas (10 cm) y en 100 centésimas (1 cm). Colocar 0,5 o 0,25 en su sitio ayuda a ver que 0,5 es más que 0,25 aunque tenga menos cifras.",
-    "va": "Una cinta mètrica és una recta de números: cada metre es parteix en 10 dècimes (10 cm) i en 100 centèsimes (1 cm). Col·locar 0,5 o 0,25 al seu lloc ajuda a veure que 0,5 és més que 0,25 encara que tinga menys xifres.",
-    "en": "A tape measure is a number line: each metre splits into 10 tenths (10 cm) and 100 hundredths (1 cm). Putting 0,5 or 0,25 in their place helps you see that 0,5 is more than 0,25 even though it has fewer digits.",
-    "fr": "Un mètre ruban est une droite numérique : chaque mètre se partage en 10 dixièmes (10 cm) et en 100 centièmes (1 cm). Placer 0,5 ou 0,25 au bon endroit aide à voir que 0,5 est plus grand que 0,25 même s'il a moins de chiffres.",
-    "ar": "شريط القياس خطّ أعداد: كل متر ينقسم إلى 10 أعشار (10 cm) و100 جزء من مئة (1 cm). ووضع 0,5 أو 0,25 في مكانه يساعد على رؤية أن 0,5 أكبر من 0,25 مع أن أرقامه أقل."
+    "va": "Una cinta mètrica és una recta de nombres: cada metre es partix en 10 dècimes (décimas), de 10 cm, i en 100 centèsimes (centésimas), d'1 cm. Col·locar 0,5 o 0,25 al seu lloc ajuda a veure que 0,5 és més que 0,25 encara que tinga menys xifres.",
+    "en": "A tape measure is a number line: each metre splits into 10 tenths (décimas) of 10 cm and 100 hundredths (centésimas) of 1 cm. Putting 0,5 or 0,25 in their place helps you see that 0,5 is more than 0,25 even though it has fewer digits.",
+    "fr": "Un mètre ruban est une droite numérique : chaque mètre se partage en 10 dixièmes (décimas) de 10 cm et en 100 centièmes (centésimas) d'1 cm. Placer 0,5 ou 0,25 au bon endroit aide à voir que 0,5 est plus grand que 0,25 même s'il a moins de chiffres.",
+    "ar": "شريط القياس خطّ أعداد: كل متر ينقسم إلى 10 أعشار (décimas)، كل منها 10 سم، و100 جزء من مئة (centésimas)، كل منها 1 سم. ووضع 0,5 أو 0,25 في مكانه يساعد على رؤية أن 0,5 أكبر من 0,25 مع أن أرقامه أقل."
   },
   "comoAyudar": {
     "es": "Si duda entre 0,5 y 0,25, preguntad «¿cuántos céntimos serían?». Con dinero se ve claro: 50 céntimos son más que 25.",
     "va": "Si dubta entre 0,5 i 0,25, pregunteu «quants cèntims serien?». Amb diners es veu clar: 50 cèntims són més que 25.",
     "en": "If they hesitate between 0,5 and 0,25, ask “How many cents would that be?”. With money it is clear: 50 cents is more than 25.",
     "fr": "S'il ou elle hésite entre 0,5 et 0,25, demandez « Ça ferait combien de centimes ? ». Avec l'argent, c'est clair : 50 centimes, c'est plus que 25.",
-    "ar": "إذا تردّد الطفل بين 0,5 و0,25، اسألوا «كم سنتًا يكون ذلك؟». بالنقود يتّضح الأمر: 50 سنتًا أكثر من 25."
+    "ar": "إذا تردّد الأطفال بين 0,5 و0,25، اسألوا «كم سنتًا يكون ذلك؟». بالنقود يتّضح الأمر: 50 سنتًا أكثر من 25."
   },
   "saberes": [
     "matematicas.fracciones.decimales",
@@ -71,21 +71,21 @@
       {
         "pictograma": "cinta",
         "texto": {
-          "es": "Extended la cinta en el suelo desde el 0 hasta el 200: un metro y otro metro. Señalad dónde está 1 metro.",
-          "va": "Esteneu la cinta a terra des del 0 fins al 200: un metre i un altre metre. Assenyaleu on és 1 metre.",
-          "en": "Lay the tape on the floor from 0 to 200: one metre and another metre. Point to where 1 metre is.",
-          "fr": "Étalez le ruban par terre de 0 à 200 : un mètre et encore un mètre. Montrez où se trouve 1 mètre.",
-          "ar": "افردوا الشريط على الأرض من 0 إلى 200: مترًا ثم مترًا آخر. أشيروا إلى مكان المتر الواحد."
+          "es": "Extended la cinta en el suelo desde el 0 hasta el 150: un metro y medio metro más. Señalad dónde está 1 metro.",
+          "va": "Esteneu la cinta a terra des del 0 fins al 150: un metre i mig metre més. Assenyaleu on és 1 metre.",
+          "en": "Lay the tape on the floor from 0 to 150: one metre and another half metre. Point to where 1 metre is.",
+          "fr": "Étalez le ruban par terre de 0 à 150 : un mètre et encore un demi-mètre. Montrez où se trouve 1 mètre.",
+          "ar": "افردوا الشريط على الأرض من 0 إلى 150: مترًا ثم نصف متر آخر. أشيروا إلى مكان المتر الواحد."
         }
       },
       {
         "pictograma": "tarjetas",
         "texto": {
-          "es": "Escribid en tarjetas: 0,5; 0,25; 0,75; 1,1; 1,5 y 0,1. Cada persona coge una.",
-          "va": "Escriviu en targetes: 0,5; 0,25; 0,75; 1,1; 1,5 i 0,1. Cada persona n'agafa una.",
-          "en": "Write on cards: 0,5; 0,25; 0,75; 1,1; 1,5 and 0,1. Each person takes one.",
-          "fr": "Écrivez sur des cartes : 0,5 ; 0,25 ; 0,75 ; 1,1 ; 1,5 et 0,1. Chaque personne en prend une.",
-          "ar": "اكتبوا على البطاقات: 0,5؛ 0,25؛ 0,75؛ 1,1؛ 1,5؛ 0,1. يأخذ كل شخص بطاقة."
+          "es": "Escribid en tarjetas: 0,5; 0,25; 0,75; 1,1; 1,5 y 0,1. Repartidlas entre todas las personas.",
+          "va": "Escriviu en targetes: 0,5; 0,25; 0,75; 1,1; 1,5 i 0,1. Repartiu-les entre totes les persones.",
+          "en": "Write on cards: 0,5; 0,25; 0,75; 1,1; 1,5 and 0,1. Share them out among everyone.",
+          "fr": "Écrivez sur des cartes : 0,5 ; 0,25 ; 0,75 ; 1,1 ; 1,5 et 0,1. Répartissez-les entre toutes les personnes.",
+          "ar": "اكتبوا على البطاقات: 0,5؛ 0,25؛ 0,75؛ 1,1؛ 1,5؛ 0,1. وزّعوها على الجميع."
         }
       },
       {
@@ -95,7 +95,7 @@
           "va": "Col·loqueu cada targeta al seu lloc de la cinta: 0,5 m són 50 cm. Expliqueu per què la poseu just ací.",
           "en": "Put each card in its place on the tape: 0,5 m is 50 cm. Explain why you put it right there.",
           "fr": "Placez chaque carte à sa place sur le ruban : 0,5 m, c'est 50 cm. Expliquez pourquoi vous la mettez juste là.",
-          "ar": "ضعوا كل بطاقة في مكانها على الشريط: 0,5 m تساوي 50 cm. اشرحوا لماذا وضعتموها هناك بالضبط."
+          "ar": "ضعوا كل بطاقة في مكانها على الشريط: 0,5 م تساوي 50 سم. اشرحوا لماذا وضعتموها هناك بالضبط."
         }
       },
       {
@@ -114,7 +114,7 @@
       "va": "Feu servir només dècimes: 0,1; 0,3; 0,5 i 0,9. Cada dècima són 10 cm més.",
       "en": "Use only tenths: 0,1; 0,3; 0,5 and 0,9. Each tenth is 10 cm more.",
       "fr": "Utilisez seulement des dixièmes : 0,1 ; 0,3 ; 0,5 et 0,9. Chaque dixième, c'est 10 cm de plus.",
-      "ar": "استعملوا الأعشار فقط: 0,1؛ 0,3؛ 0,5؛ 0,9. كل عُشر يزيد 10 cm."
+      "ar": "استعملوا الأعشار فقط: 0,1؛ 0,3؛ 0,5؛ 0,9. كل عُشر يزيد 10 سم."
     },
     "masDificil": {
       "es": "Añadid 0,05 y 1,05. ¿Por qué 1,05 va antes que 1,1?",
@@ -126,8 +126,8 @@
     "paraQueSirve": {
       "es": "Los decimales están en las medidas, los precios y las marcas deportivas. Verlos en una cinta hace que tengan sentido y no sean solo una coma.",
       "va": "Els decimals són en les mesures, els preus i les marques esportives. Veure'ls en una cinta fa que tinguen sentit i no siguen només una coma.",
-      "en": "Decimals are in measurements, prices and sports results. Seeing them on a tape makes them make sense instead of being just a comma.",
-      "fr": "Les décimaux sont dans les mesures, les prix et les performances sportives. Les voir sur un ruban leur donne du sens, au lieu d'être juste une virgule.",
+      "en": "Decimals are in measurements, prices and sports results. Seeing them on a tape gives them meaning, so they are not just a comma.",
+      "fr": "Les décimaux sont dans les mesures, les prix et les performances sportives. Les voir sur un ruban leur donne du sens : ce n'est plus juste une virgule.",
       "ar": "الأعداد العشرية موجودة في القياسات والأسعار والأرقام الرياضية. ورؤيتها على شريط تجعل لها معنى بدل أن تكون مجرد فاصلة."
     }
   },
@@ -141,14 +141,14 @@
         "va": "Un salt de longitud mesura 1,25 m i un altre, 1,4 m. Quants centímetres més llarg és el segon?",
         "en": "One long jump measures 1,25 m and another 1,4 m. How many centimetres longer is the second?",
         "fr": "Un saut en longueur mesure 1,25 m et un autre, 1,4 m. De combien de centimètres le deuxième est-il plus long ?",
-        "ar": "قفزة طويلة طولها 1,25 m وأخرى 1,4 m. بكم سنتيمترًا تزيد الثانية؟"
+        "ar": "قفزة طويلة طولها 1,25 م وأخرى 1,4 م. بكم سنتيمترًا تزيد الثانية؟"
       },
       "pista": {
         "es": "Pásalos a centímetros: 1,25 m son 125 cm y 1,4 m son 140 cm.",
         "va": "Passa'ls a centímetres: 1,25 m són 125 cm i 1,4 m són 140 cm.",
         "en": "Change them to centimetres: 1,25 m is 125 cm and 1,4 m is 140 cm.",
         "fr": "Convertis-les en centimètres : 1,25 m, c'est 125 cm et 1,4 m, c'est 140 cm.",
-        "ar": "لنحوّلهما إلى سنتيمترات: 1,25 m تساوي 125 cm، و1,4 m تساوي 140 cm."
+        "ar": "لنحوّلهما إلى سنتيمترات: 1,25 م تساوي 125 سم، و1,4 م تساوي 140 سم."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -160,7 +160,7 @@
           "va": "El segon és 15 cm més llarg.",
           "en": "The second is 15 cm longer.",
           "fr": "Le deuxième est plus long de 15 cm.",
-          "ar": "الثانية أطول بـ15 cm."
+          "ar": "الثانية أطول بـ15 سم."
         }
       },
       "inventala": {
@@ -180,14 +180,14 @@
         "va": "Una tira de paper mesura 0,5 m i una altra, 0,25 m. Si les posem l'una darrere de l'altra, quants centímetres mesuren?",
         "en": "One strip of paper is 0,5 m long and another is 0,25 m. If we put them end to end, how many centimetres long are they?",
         "fr": "Une bande de papier mesure 0,5 m et une autre, 0,25 m. Si on les met bout à bout, combien de centimètres mesurent-elles ?",
-        "ar": "شريط من الورق طوله 0,5 m وآخر 0,25 m. إذا وضعناهما واحدًا بعد الآخر، فكم سنتيمترًا طولهما؟"
+        "ar": "شريحة من الورق طولها 0,5 م وأخرى 0,25 م. إذا وضعناهما واحدة بعد الأخرى، فكم سنتيمترًا طولهما؟"
       },
       "pista": {
         "es": "0,5 m son 50 cm y 0,25 m son 25 cm.",
         "va": "0,5 m són 50 cm i 0,25 m són 25 cm.",
         "en": "0,5 m is 50 cm and 0,25 m is 25 cm.",
         "fr": "0,5 m, c'est 50 cm et 0,25 m, c'est 25 cm.",
-        "ar": "0,5 m تساوي 50 cm، و0,25 m تساوي 25 cm."
+        "ar": "0,5 م تساوي 50 سم، و0,25 م تساوي 25 سم."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -199,7 +199,7 @@
           "va": "Mesuren 75 cm, és a dir, 0,75 m.",
           "en": "They are 75 cm long, that is, 0,75 m.",
           "fr": "Elles mesurent 75 cm, c'est-à-dire 0,75 m.",
-          "ar": "طولهما 75 cm، أي 0,75 m."
+          "ar": "طولهما 75 سم، أي 0,75 م."
         }
       },
       "inventala": {
@@ -240,7 +240,7 @@
       },
       "inventala": {
         "es": "Inventa tú cuatro números con coma y que alguien de casa los ordene.",
-        "va": "Inventa'n tu quatre números amb coma i que algú de casa els ordene.",
+        "va": "Inventa'n tu quatre nombres amb coma i que algú de casa els ordene.",
         "en": "Make up four decimal numbers and let someone at home put them in order.",
         "fr": "Invente quatre nombres à virgule et que quelqu'un de la maison les range.",
         "ar": "لنخترع أربعة أعداد عشرية ونطلب من أحد في البيت أن يرتّبها."
@@ -260,10 +260,10 @@
       },
       "pista": {
         "es": "Un metro son 100 cm. Parte 100 en dos partes iguales.",
-        "va": "Un metre són 100 cm. Parteix 100 en dues parts iguals.",
+        "va": "Un metre són 100 cm. Partix 100 en dues parts iguals.",
         "en": "A metre is 100 cm. Split 100 into two equal parts.",
         "fr": "Un mètre, c'est 100 cm. Partage 100 en deux parts égales.",
-        "ar": "المتر يساوي 100 cm. لنقسم 100 إلى جزأين متساويين."
+        "ar": "المتر يساوي 100 سم. لنقسم 100 إلى جزأين متساويين."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -275,7 +275,7 @@
           "va": "Són 50 cm: ½ m és el mateix que 0,5 m.",
           "en": "It is 50 cm: ½ m is the same as 0,5 m.",
           "fr": "Ça fait 50 cm : ½ m, c'est la même chose que 0,5 m.",
-          "ar": "تساوي 50 cm: ½ m هو نفسه 0,5 m."
+          "ar": "تساوي 50 سم: نصف متر هو نفسه 0,5 م."
         }
       },
       "inventala": {
@@ -299,10 +299,10 @@
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿Qué prefieres, medio euro o 25 céntimos?»",
-        "va": "Si no sap per on començar: «Què prefereixes, mig euro o 25 cèntims?»",
+        "va": "Si no sap per on començar: «Què preferixes, mig euro o 25 cèntims?»",
         "en": "If they don't know where to start: “Which would you rather have, half a euro or 25 cents?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu préfères, un demi-euro ou 25 centimes ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أيهما نفضّل، نصف يورو أم 25 سنتًا؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «أيهما نفضّل، نصف يورو أم 25 سنتًا؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -323,19 +323,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "307761731e60"
+        "huella": "89fce5859dcf"
       },
       "en": {
         "estado": "automatica",
-        "huella": "307761731e60"
+        "huella": "89fce5859dcf"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "307761731e60"
+        "huella": "89fce5859dcf"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "307761731e60"
+        "huella": "89fce5859dcf"
       }
     }
   }

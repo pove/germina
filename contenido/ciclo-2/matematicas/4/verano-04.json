@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Un mosaico cubre el suelo sin huecos con una figura que se repite, se gira o se desplaza. Buscar mosaicos y dibujar uno propio es jugar con simetrías, giros y traslaciones, y descubrir figuras cóncavas (con «cueva») y convexas.",
-    "va": "Un mosaic cobreix el terra sense buits amb una figura que es repeteix, es gira o es desplaça. Buscar mosaics i dibuixar-ne un de propi és jugar amb simetries, girs i translacions, i descobrir figures còncaves (amb «cova») i convexes.",
-    "en": "A tiling covers the floor with no gaps using a shape that repeats, turns or slides. Looking for tilings and drawing your own is playing with reflections, rotations and translations, and discovering concave shapes (with a “cave”) and convex ones.",
-    "fr": "Une mosaïque couvre le sol sans trous avec une figure qui se répète, tourne ou glisse. Chercher des mosaïques et en dessiner une soi-même, c'est jouer avec les symétries, les rotations et les translations, et découvrir des figures concaves (avec une « grotte ») et convexes.",
-    "ar": "الفسيفساء تغطّي الأرض دون فراغات بشكل يتكرّر أو يدور أو ينزاح. البحث عن الفسيفساء ورسم واحدة خاصة بنا لعب بالتناظر والدوران والانسحاب، واكتشاف للأشكال المقعّرة (التي فيها «كهف») والمحدّبة."
+    "va": "Un mosaic cobrix el terra sense buits amb una figura que es repetix, es gira o es desplaça. Buscar mosaics i dibuixar-ne un de propi és jugar amb simetries, girs i translacions (traslaciones), i descobrir figures còncaves (amb «cova») i convexes.",
+    "en": "A tiling covers the floor with no gaps using a shape that repeats, turns or slides. Looking for tilings and drawing your own is playing with symmetry (simetrías), rotations and translations (traslaciones), and discovering concave shapes (with a “cave”) and convex ones.",
+    "fr": "Une mosaïque couvre le sol sans trous avec une figure qui se répète, tourne ou glisse. Chercher des mosaïques et en dessiner une soi-même, c'est jouer avec les symétries (simetrías), les rotations et les translations (traslaciones), et découvrir des figures concaves (avec une « grotte ») et convexes.",
+    "ar": "الفسيفساء تغطّي الأرض دون فراغات بشكل يتكرّر أو يدور أو ينزاح. البحث عن الفسيفساء ورسم واحدة خاصة بنا لعب بالتناظر (simetrías) والدوران والانسحاب (traslaciones)، واكتشاف للأشكال المقعّرة (التي فيها «كهف») والمحدّبة."
   },
   "comoAyudar": {
     "es": "No importa que el mosaico salga perfecto. Preguntad «¿qué has hecho con la figura: la has girado, la has movido o le has dado la vuelta?».",
@@ -73,7 +73,7 @@
         "pictograma": "lupa",
         "texto": {
           "es": "Buscad mosaicos en suelos, paredes y aceras. ¿Qué figura se repite? ¿Quedan huecos?",
-          "va": "Busqueu mosaics en terres, parets i voreres. Quina figura es repeteix? Queden buits?",
+          "va": "Busqueu mosaics en terres, parets i voreres. Quina figura es repetix? Queden buits?",
           "en": "Look for tilings on floors, walls and pavements. Which shape repeats? Are there any gaps?",
           "fr": "Cherchez des mosaïques sur les sols, les murs et les trottoirs. Quelle figure se répète ? Reste-t-il des trous ?",
           "ar": "ابحثوا عن الفسيفساء في الأرضيات والجدران والأرصفة. أي شكل يتكرّر؟ هل تبقى فراغات؟"
@@ -85,7 +85,7 @@
           "es": "Recortad una figura de cartulina: un cuadrado, un triángulo o una inventada. Para que tenga «cueva», cortad un mordisco en un lado y pegadlo en el lado contrario.",
           "va": "Retalleu una figura de cartolina: un quadrat, un triangle o una d'inventada. Perquè tinga «cova», talleu un mos en un costat i apegueu-lo al costat contrari.",
           "en": "Cut a shape out of card: a square, a triangle or one you invent. To give it a “cave”, cut a bite out of one side and stick it on the opposite side.",
-          "fr": "Découpez une figure dans du papier cartonné : un carré, un triangle ou une figure inventée. Pour lui faire une « grotte », découpez une morsure sur un côté et collez-la sur le côté opposé.",
+          "fr": "Découpez une figure dans du papier cartonné : un carré, un triangle ou une figure inventée. Pour lui faire une « grotte », découpez une encoche, comme une bouchée, sur un côté et collez-la sur le côté opposé.",
           "ar": "قصّوا شكلًا من الورق المقوّى: مربّعًا أو مثلّثًا أو شكلًا مخترعًا. ولكي يكون فيه «كهف»، اقطعوا قضمة من جهة وألصقوها في الجهة المقابلة."
         }
       },
@@ -121,8 +121,8 @@
       "es": "Probad con hexágonos, pentágonos o figuras con mordisco: ¿cuáles llenan el papel sin dejar huecos y cuáles no?",
       "va": "Proveu amb hexàgons, pentàgons o figures amb mos: quines omplin el paper sense deixar buits i quines no?",
       "en": "Try hexagons, pentagons or shapes with a bite: which fill the paper with no gaps and which don't?",
-      "fr": "Essayez avec des hexagones, des pentagones ou des figures avec une morsure : lesquelles remplissent la feuille sans trous, et lesquelles non ?",
-      "ar": "جرّبوا السداسيات أو الخماسيات أو الأشكال ذات القضمة: أيها يملأ الورقة دون فراغات وأيها لا؟"
+      "fr": "Essayez avec des hexagones, des pentagones ou des figures avec une encoche : lesquelles remplissent la feuille sans trous, et lesquelles non ?",
+      "ar": "جرّبوا المسدّسات أو المخمّسات أو الأشكال ذات القضمة: أيها يملأ الورقة دون فراغات وأيها لا؟"
     },
     "paraQueSirve": {
       "es": "Mover, girar y dar la vuelta a figuras con la imaginación es la base de la geometría, del diseño y de muchos oficios, del suelo de la cocina a los videojuegos.",
@@ -182,40 +182,37 @@
     {
       "id": "p2",
       "rol": "tema",
-      "tipoProblema": "suma-repetida",
+      "tipoProblema": "abierta",
       "texto": {
-        "es": "Cada baldosa cuadrada tiene 4 ángulos rectos. ¿Cuántos ángulos rectos hay en 15 baldosas?",
-        "va": "Cada rajola quadrada té 4 angles rectes. Quants angles rectes hi ha en 15 rajoles?",
-        "en": "Each square tile has 4 right angles. How many right angles are there on 15 tiles?",
-        "fr": "Chaque carreau carré a 4 angles droits. Combien d'angles droits y a-t-il sur 15 carreaux ?",
-        "ar": "لكل بلاطة مربّعة 4 زوايا قائمة. كم زاوية قائمة في 15 بلاطة؟"
+        "es": "Una baldosa tiene dibujada una flecha que apunta hacia arriba. Si la giras media vuelta, ¿hacia dónde apunta? ¿Y si la giras un cuarto de vuelta hacia la derecha?",
+        "va": "Una rajola té dibuixada una fletxa que apunta cap amunt. Si la gires mitja volta, cap a on apunta? I si la gires un quart de volta cap a la dreta?",
+        "en": "A tile has an arrow drawn on it pointing up. If you turn it half a turn, which way does it point? And if you turn it a quarter turn to the right?",
+        "fr": "Un carreau porte une flèche qui pointe vers le haut. Si tu le tournes d'un demi-tour, vers où pointe-t-elle ? Et si tu le tournes d'un quart de tour vers la droite ?",
+        "ar": "على بلاطة سهم يشير إلى الأعلى. إذا أدرناها نصف دورة، فإلى أين يشير؟ وإذا أدرناها ربع دورة إلى اليمين؟"
       },
       "pista": {
-        "es": "Parte el 15 en 10 y 5: {{10 × 4}} y {{5 × 4}}.",
-        "va": "Parteix el 15 en 10 i 5: {{10 × 4}} i {{5 × 4}}.",
-        "en": "Split 15 into 10 and 5: {{10 × 4}} and {{5 × 4}}.",
-        "fr": "Partage 15 en 10 et 5 : {{10 × 4}} et {{5 × 4}}.",
-        "ar": "لنقسم 15 إلى 10 و5: {{10 × 4}} و{{5 × 4}}."
+        "es": "Pon un lápiz apuntando hacia arriba y gíralo despacio, como la baldosa.",
+        "va": "Posa un llapis que apunte cap amunt i gira'l a poc a poc, com la rajola.",
+        "en": "Hold a pencil pointing up and turn it slowly, like the tile.",
+        "fr": "Pose un crayon qui pointe vers le haut et tourne-le doucement, comme le carreau.",
+        "ar": "لنضع قلمًا يشير إلى الأعلى ونُدِره ببطء مثل البلاطة."
       },
       "respuesta": {
-        "tipo": "calculo",
-        "operacion": "15 × 4",
-        "resultado": 60,
-        "unidad": "unidades",
-        "texto": {
-          "es": "Hay 60 ángulos rectos.",
-          "va": "Hi ha 60 angles rectes.",
-          "en": "There are 60 right angles.",
-          "fr": "Il y a 60 angles droits.",
-          "ar": "هناك 60 زاوية قائمة."
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Con media vuelta, la flecha apunta hacia abajo. Con un cuarto de vuelta hacia la derecha, apunta a la derecha. Si lo enseña girando un lápiz o un libro, también vale.",
+          "va": "Amb mitja volta, la fletxa apunta cap avall. Amb un quart de volta cap a la dreta, apunta a la dreta. Si ho mostra girant un llapis o un llibre, també val.",
+          "en": "With half a turn, the arrow points down. With a quarter turn to the right, it points to the right. Showing it by turning a pencil or a book is fine too.",
+          "fr": "Avec un demi-tour, la flèche pointe vers le bas. Avec un quart de tour vers la droite, elle pointe vers la droite. Le montrer en tournant un crayon ou un livre, ça va aussi.",
+          "ar": "بنصف دورة يشير السهم إلى الأسفل. وبربع دورة إلى اليمين يشير إلى اليمين. وإن عُرض ذلك بتدوير قلم أو كتاب فهذا يصلح أيضًا."
         }
       },
       "inventala": {
-        "es": "Inventa tú una con triángulos o hexágonos: ¿cuántos lados o vértices hay en total?",
-        "va": "Inventa'n tu una amb triangles o hexàgons: quants costats o vèrtexs hi ha en total?",
-        "en": "Make one up with triangles or hexagons: how many sides or vertices are there in all?",
-        "fr": "Invente un problème avec des triangles ou des hexagones : combien de côtés ou de sommets y a-t-il en tout ?",
-        "ar": "لنخترع مسألة عن مثلّثات أو سداسيات: كم ضلعًا أو رأسًا هناك كلها؟"
+        "es": "Inventa tú una con otra flecha y otro giro, y que alguien de casa diga hacia dónde apunta.",
+        "va": "Inventa'n tu una amb una altra fletxa i un altre gir, i que algú de casa diga cap a on apunta.",
+        "en": "Make one up with another arrow and another turn, and let someone at home say which way it points.",
+        "fr": "Invente un problème avec une autre flèche et un autre tour, et que quelqu'un de la maison dise vers où elle pointe.",
+        "ar": "لنخترع مسألة بسهم آخر ودورة أخرى، ونطلب من أحد في البيت أن يقول إلى أين يشير."
       }
     },
     {
@@ -243,7 +240,7 @@
           "va": "L'estrela és còncava: té «coves» entre les puntes. El quadrat és convex: la goma toca tota la vora. Si ho explica amb altres paraules, també val.",
           "en": "The star is concave: it has “caves” between the points. The square is convex: the band touches its whole edge. Explaining it in other words is fine too.",
           "fr": "L'étoile est concave : elle a des « grottes » entre les branches. Le carré est convexe : l'élastique touche tout son bord. L'expliquer avec d'autres mots, ça va aussi.",
-          "ar": "النجمة مقعّرة: فيها «كهوف» بين الرؤوس. والمربّع محدّب: الشريط يلمس حافّته كلها. وإن شُرح ذلك بكلمات أخرى فهو صحيح أيضًا."
+          "ar": "النجمة مقعّرة: فيها «كهوف» بين الرؤوس. والمربّع محدّب: الشريط يلمس حافّته كلها. وإن شُرح ذلك بكلمات أخرى فهذا يصلح أيضًا."
         }
       },
       "inventala": {
@@ -251,7 +248,7 @@
         "va": "Dibuixa tu una figura còncava i una altra convexa i que algú de casa diga quina és quina.",
         "en": "Draw a concave shape and a convex one and let someone at home say which is which.",
         "fr": "Dessine une figure concave et une figure convexe et que quelqu'un de la maison dise laquelle est laquelle.",
-        "ar": "لنرسم شكلًا مقعّرًا وآخر محدّبًا ونطلب من أحد في البيت أن يقول أيهما أيهما."
+        "ar": "لنرسم شكلًا مقعّرًا وآخر محدّبًا ونطلب من أحد في البيت أن يقول أيهما المقعّر وأيهما المحدّب."
       }
     },
     {
@@ -307,10 +304,10 @@
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «Pon el libro en la mesa. ¿Qué cambia si lo giras? ¿Y si lo deslizas?»",
-        "va": "Si no sap per on començar: «Posa el llibre a la taula. Què canvia si el gires? I si el llisques?»",
+        "va": "Si no sap per on començar: «Posa el llibre a la taula. Què canvia si el gires? I si el fas lliscar?»",
         "en": "If they don't know where to start: “Put the book on the table. What changes if you turn it? And if you slide it?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Pose le livre sur la table. Qu'est-ce qui change si tu le tournes ? Et si tu le fais glisser ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «لنضع الكتاب على الطاولة. ماذا يتغيّر إذا أدرناه؟ وإذا زلقناه؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «لنضع الكتاب على الطاولة. ماذا يتغيّر إذا أدرناه؟ وإذا أزحناه؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -331,19 +328,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "082c17b756ee"
+        "huella": "6786f13f3818"
       },
       "en": {
         "estado": "automatica",
-        "huella": "082c17b756ee"
+        "huella": "6786f13f3818"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "082c17b756ee"
+        "huella": "6786f13f3818"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "082c17b756ee"
+        "huella": "6786f13f3818"
       }
     }
   }

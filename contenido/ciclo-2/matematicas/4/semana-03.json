@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Esta semana comparan y ordenan números grandes y aprenden a redondear a la centena y al millar: 689 está más cerca de 700 que de 600. Sirve para calcular a ojo.",
-    "va": "Aquesta setmana comparen i ordenen nombres grans i aprenen a arrodonir (redondear) a la centena i al miler: 689 està més a prop de 700 que de 600. Serveix per a calcular a ull.",
-    "en": "This week they compare and order big numbers and learn to round (redondear) to the nearest hundred and thousand: 689 is closer to 700 than to 600. It helps to estimate.",
-    "fr": "Cette semaine, on compare et on range de grands nombres, et on apprend à arrondir (redondear) à la centaine et au millier : 689 est plus près de 700 que de 600. Ça sert à calculer à vue d'œil.",
-    "ar": "هذا الأسبوع يقارن الأطفال الأعداد الكبيرة ويرتّبونها، ويتعلّمون التقريب (redondear) إلى المئة وإلى الألف: 689 أقرب إلى 700 منه إلى 600. هذا يفيد في التقدير."
+    "va": "Aquesta setmana comparen i ordenen nombres grans i aprenen a arrodonir (redondear) a la centena i al miler (millar): 689 està més a prop de 700 que de 600. Servix per a calcular a ull.",
+    "en": "This week they compare and order big numbers and learn to round (redondear) to the nearest hundred (centena) and thousand (millar): 689 is closer to 700 than to 600. It helps to estimate.",
+    "fr": "Cette semaine, on compare et on range de grands nombres, et on apprend à arrondir (redondear) à la centaine (centena) et au millier (millar) : 689 est plus près de 700 que de 600. Ça sert à calculer à vue d'œil.",
+    "ar": "هذا الأسبوع يقارن الأطفال الأعداد الكبيرة ويرتّبونها، ويتعلّمون التقريب (redondear) إلى المئة (centena) وإلى الألف (millar): 689 أقرب إلى 700 منه إلى 600. هذا يفيد في التقدير."
   },
   "comoAyudar": {
     "es": "Cuando habléis de precios, redondead en voz alta: «esto cuesta 389 €, casi 400». Así lo oye como algo de todos los días y no como una regla.",
@@ -129,7 +129,7 @@
       "va": "Arrodonir permet saber, sense fer el compte, si una cosa és cara o barata, o si una suma té sentit.",
       "en": "Rounding lets you know, without doing the sum, whether something is expensive or cheap, or whether an addition makes sense.",
       "fr": "Arrondir permet de savoir, sans faire le calcul, si quelque chose est cher ou bon marché, ou si une addition a du sens.",
-      "ar": "التقريب يسمح بمعرفة، من غير حساب، هل الشيء غالٍ أم رخيص، أو هل لعملية جمع معنى."
+      "ar": "التقريب يتيح أن نعرف، من غير أن نحسب، إن كان الشيء غاليًا أم رخيصًا، أو إن كان لعملية الجمع معنى."
     },
     "aviso": {
       "es": "Recoged la cuerda al terminar para que nadie tropiece.",
@@ -195,7 +195,7 @@
         "va": "Calcula els dos costats per separat. El signe = diu que valen el mateix.",
         "en": "Work out both sides separately. The = sign says they are worth the same.",
         "fr": "Calcule les deux côtés séparément. Le signe = dit qu'ils valent la même chose.",
-        "ar": "لنحسب الجهتين كلًّا وحدها. علامة = تعني أنهما متساويتان."
+        "ar": "لنحسب كل جهة على حدة. علامة = تعني أن القيمتين متساويتان."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -212,7 +212,7 @@
       },
       "inventala": {
         "es": "Inventa tú una suma y una resta que den lo mismo, y únelas con el signo =.",
-        "va": "Inventa tu una suma i una resta que donen el mateix, i uneix-les amb el signe =.",
+        "va": "Inventa tu una suma i una resta que donen el mateix, i unix-les amb el signe =.",
         "en": "Make up an addition and a subtraction that give the same answer, and join them with the = sign.",
         "fr": "Invente une addition et une soustraction qui donnent la même chose, et relie-les avec le signe =.",
         "ar": "لنخترع عملية جمع وعملية طرح تعطيان النتيجة نفسها، ونربط بينهما بعلامة =."
@@ -230,7 +230,7 @@
         "ar": "قطعت سيارة عائلة إيكر 4720 كم هذه السنة. أيّ ألف هو الأقرب، 4000 أم 5000؟"
       },
       "pista": {
-        "es": "El millar del medio es 4500. ¿4720 está antes o después?",
+        "es": "El punto medio entre los dos millares es 4500. ¿4720 está antes o después?",
         "va": "El mig entre els dos milers és 4500. 4720 està abans o després?",
         "en": "Halfway between the thousands is 4500. Is 4720 before or after it?",
         "fr": "Le milieu entre les deux milliers, c'est 4500. 4720 est-il avant ou après ?",
@@ -318,7 +318,7 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Puede mirar las decenas (si son 5 o más, sube) o pensar en la cuerda. Con 250, que está justo en medio, en clase suelen redondear hacia arriba; si dice «en ningún lado», también tiene su lógica.",
+          "es": "Puede mirar las decenas (si son 5 o más, sube) o pensar en la cuerda. Con 250, que está justo en medio, en clase suelen redondear hacia arriba; si dice «de ninguno», también tiene su lógica.",
           "va": "Pot mirar les desenes (si són 5 o més, puja) o pensar en la corda. Amb 250, que està just al mig, a classe solen arrodonir cap amunt; si diu «de cap», també té la seua lògica.",
           "en": "They may look at the tens (5 or more, it goes up) or think of the rope. With 250, right in the middle, in class they usually round up; if they say “neither”, that makes sense too.",
           "fr": "Il ou elle peut regarder les dizaines (5 ou plus, on monte) ou penser à la corde. Avec 250, pile au milieu, en classe on arrondit souvent vers le haut ; s'il ou elle dit « d'aucun des deux », c'est logique aussi.",
@@ -334,19 +334,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "829ed7035a9f"
+        "huella": "01a5fa7410c3"
       },
       "en": {
         "estado": "automatica",
-        "huella": "829ed7035a9f"
+        "huella": "01a5fa7410c3"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "829ed7035a9f"
+        "huella": "01a5fa7410c3"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "829ed7035a9f"
+        "huella": "01a5fa7410c3"
       }
     }
   }

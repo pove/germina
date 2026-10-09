@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Esta semana leen y hacen gráficos de barras y conocen dos ideas nuevas: la moda (el dato que más se repite) y el rango (la diferencia entre el dato más alto y el más bajo).",
-    "va": "Aquesta setmana lligen i fan gràfics de barres i coneixen dues idees noves: la moda (la dada que més es repetix) i el rang (rango: la diferència entre la dada més alta i la més baixa).",
-    "en": "This week they read and make bar charts and meet two new ideas: the mode (moda: the value that comes up most) and the range (rango: the difference between the highest and lowest values).",
-    "fr": "Cette semaine, on lit et on fait des diagrammes en barres et on découvre deux idées nouvelles : le mode (moda : la valeur qui revient le plus) et l'étendue (rango : l'écart entre la valeur la plus haute et la plus basse).",
-    "ar": "هذا الأسبوع يقرأ الأطفال مخطّطات بالأعمدة ويرسمونها، ويتعرّفون إلى فكرتين جديدتين: المنوال (moda: القيمة الأكثر تكرارًا) والمدى (rango: الفرق بين أعلى قيمة وأدناها)."
+    "va": "Aquesta setmana lligen i fan gràfics de barres (gráficos de barras) i coneixen dues idees noves: la moda (la dada que més es repetix) i el rang (rango: la diferència entre la dada més alta i la més baixa).",
+    "en": "This week they read and make bar charts (gráficos de barras) and meet two new ideas: the mode (moda: the value that comes up most) and the range (rango: the difference between the highest and lowest values).",
+    "fr": "Cette semaine, on lit et on fait des diagrammes en barres (gráficos de barras) et on découvre deux idées nouvelles : le mode (moda : la valeur qui revient le plus) et l'étendue (rango : l'écart entre la valeur la plus haute et la plus basse).",
+    "ar": "هذا الأسبوع يقرأ الأطفال مخطّطات بالأعمدة (gráficos de barras) ويرسمونها، ويتعرّفون إلى فكرتين جديدتين: المنوال (moda: القيمة الأكثر تكرارًا) والمدى (rango: الفرق بين أعلى قيمة وأدناها)."
   },
   "comoAyudar": {
     "es": "Al mirar un gráfico, preguntad primero «¿qué te llama la atención?» y después buscad la moda y el rango. Si salen opiniones distintas sobre lo que cuenta, todas se escuchan.",
@@ -148,7 +148,7 @@
       },
       "pista": {
         "es": "Para la moda, cuenta cuántas veces sale cada número. Para el rango, busca el más alto y el más bajo.",
-        "va": "Per a la moda, compta quantes vegades ix cada número. Per al rang, busca el més alt i el més baix.",
+        "va": "Per a la moda, compta quantes vegades ix cada nombre. Per al rang, busca el més alt i el més baix.",
         "en": "For the mode, count how many times each number appears. For the range, find the highest and the lowest.",
         "fr": "Pour le mode, compte combien de fois apparaît chaque nombre. Pour l'étendue, cherche le plus haut et le plus bas.",
         "ar": "للمنوال، لنعدّ كم مرة يظهر كل عدد. وللمدى، لنبحث عن الأعلى والأدنى."
@@ -181,7 +181,7 @@
       "texto": {
         "es": "En un gráfico de deportes favoritos, el fútbol tiene 9 votos, el baloncesto 6, la natación 9 y el patinaje 4. ¿Cuál es la moda? ¿Cuántos votos van del más votado al menos votado?",
         "va": "En un gràfic d'esports preferits, el futbol té 9 vots, el bàsquet 6, la natació 9 i el patinatge 4. Quina és la moda? Quants vots van del més votat al menys votat?",
-        "en": "In a chart of favourite sports, football has 9 votes, basketball 6, swimming 9 and skating 4. What's the mode? How many votes are there between the most and least voted?",
+        "en": "In a chart of favourite sports, football has 9 votes, basketball 6, swimming 9 and skating 4. What's the mode? How many more votes does the most-voted sport have than the least-voted one?",
         "fr": "Dans un graphique des sports préférés, le football a 9 votes, le basket 6, la natation 9 et le patinage 4. Quel est le mode ? Combien de votes séparent le plus voté du moins voté ?",
         "ar": "في مخطّط للرياضات المفضّلة، لكرة القدم 9 أصوات، ولكرة السلة 6، وللسباحة 9، وللتزلّج 4. ما المنوال؟ وكم صوتًا بين الأكثر تصويتًا والأقل؟"
       },
@@ -225,11 +225,11 @@
         "ar": "في استطلاع عن طريقة المجيء إلى المدرسة، يأتي 12 شخصًا مشيًا، و7 بالسيارة، و5 بالدراجة. كم يزيد من يأتون مشيًا على من يأتون بالسيارة؟ وكم شخصًا أجاب؟"
       },
       "pista": {
-        "es": "Para la primera pregunta, compara dos barras. Para la segunda, súmalas todas.",
-        "va": "Per a la primera pregunta, compara dues barres. Per a la segona, suma-les totes.",
-        "en": "For the first question, compare two bars. For the second, add them all up.",
-        "fr": "Pour la première question, compare deux barres. Pour la deuxième, additionne-les toutes.",
-        "ar": "للسؤال الأول، لنقارن بين عمودين. وللثاني، لنجمعها كلها."
+        "es": "Para la primera pregunta, compara dos números (o dibuja una barra para cada forma de venir). Para la segunda, súmalos todos.",
+        "va": "Per a la primera pregunta, compara dos nombres (o dibuixa una barra per a cada manera de vindre). Per a la segona, suma'ls tots.",
+        "en": "For the first question, compare two numbers (or draw a bar for each way of getting to school). For the second, add them all up.",
+        "fr": "Pour la première question, compare deux nombres (ou dessine une barre pour chaque façon de venir). Pour la deuxième, additionne-les tous.",
+        "ar": "للسؤال الأول، لنقارن بين عددين (أو لنرسم عمودًا لكل طريقة مجيء). وللثاني، لنجمعها كلها."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -308,7 +308,7 @@
         "va": "Si no sap per on començar: «Si el rang de la setmana és molt gran, quina roba ens emportem?»",
         "en": "If they don't know where to start: “If the week's range is very big, what clothes do we take?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si l'étendue de la semaine est très grande, quels vêtements on emporte ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كان مدى الأسبوع كبيرًا جدًا، أي ملابس نأخذ؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كان مدى الأسبوع كبيرًا جدًا، أي ملابس نأخذ؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -329,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "b54fd9a2f576"
+        "huella": "10afa021f69a"
       },
       "en": {
         "estado": "automatica",
-        "huella": "b54fd9a2f576"
+        "huella": "10afa021f69a"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "b54fd9a2f576"
+        "huella": "10afa021f69a"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "b54fd9a2f576"
+        "huella": "10afa021f69a"
       }
     }
   }

@@ -15,14 +15,14 @@
   },
   "objetivo": {
     "es": "Los múltiplos de un número son los resultados de su tabla, y siguen sin fin. Con el juego del «¡pum!» se descubren a la carrera y aparecen trucos para reconocerlos: los del 2 acaban en cifra par, los del 5 en 0 o en 5, y en los del 3, al sumar sus cifras, sale otro múltiplo de 3.",
-    "va": "Els múltiples d'un número són els resultats de la seua taula, i continuen sense fi. Amb el joc del «pum!» es descobreixen a corre-cuita i apareixen trucs per a reconéixer-los: els del 2 acaben en xifra parella, els del 5 en 0 o en 5, i en els del 3, en sumar-ne les xifres, ix un altre múltiple de 3.",
-    "en": "The multiples of a number are the answers in its times table, and they go on for ever. With the “boom!” game you discover them at speed, and tricks for spotting them appear: multiples of 2 end in an even digit, multiples of 5 end in 0 or 5, and for multiples of 3, adding their digits gives another multiple of 3.",
-    "fr": "Les multiples d'un nombre sont les résultats de sa table, et ils continuent sans fin. Avec le jeu du « boum ! », on les découvre à toute vitesse et des astuces apparaissent pour les reconnaître : ceux de 2 finissent par un chiffre pair, ceux de 5 par 0 ou 5, et pour ceux de 3, en additionnant leurs chiffres, on obtient un autre multiple de 3.",
-    "ar": "مضاعفات عدد ما هي نتائج جدول ضربه، وهي لا تنتهي. بلعبة «بوم!» نكتشفها بسرعة وتظهر حيل للتعرّف عليها: مضاعفات 2 تنتهي برقم زوجي، ومضاعفات 5 تنتهي بـ0 أو 5، وفي مضاعفات 3 يعطي مجموع أرقامها مضاعفًا آخر لـ3."
+    "va": "Els múltiples (múltiplos) d'un nombre són els resultats de la seua taula (tabla), i continuen sense fi. Amb el joc del «pum!» es descobrixen a corre-cuita i apareixen trucs per a reconéixer-los: els del 2 acaben en xifra parella, els del 5 en 0 o en 5, i en els del 3, en sumar-ne les xifres, ix un altre múltiple de 3.",
+    "en": "The multiples (múltiplos) of a number are the answers in its times table (tabla), and they go on for ever. With the “boom!” game you discover them at speed, and tricks for spotting them appear: multiples of 2 end in an even digit, multiples of 5 end in 0 or 5, and for multiples of 3, adding their digits gives another multiple of 3.",
+    "fr": "Les multiples (múltiplos) d'un nombre sont les résultats de sa table (tabla), et ils continuent sans fin. Avec le jeu du « boum ! », on les découvre à toute vitesse et des astuces apparaissent pour les reconnaître : ceux de 2 finissent par un chiffre pair, ceux de 5 par 0 ou 5, et pour ceux de 3, en additionnant leurs chiffres, on obtient un autre multiple de 3.",
+    "ar": "مضاعفات (múltiplos) عدد ما هي نتائج جدول ضربه (tabla)، وهي لا تنتهي. بلعبة «بوم!» نكتشفها بسرعة وتظهر حيل للتعرّف عليها: مضاعفات 2 تنتهي برقم زوجي، ومضاعفات 5 تنتهي بـ0 أو 5، وفي مضاعفات 3 يعطي مجموع أرقامها مضاعفًا آخر لـ3."
   },
   "comoAyudar": {
     "es": "Si alguien se despista y no dice «¡pum!», nadie queda fuera: se para, se mira juntos por qué era múltiplo y se sigue jugando.",
-    "va": "Si algú es despista i no diu «pum!», ningú no queda fora: es para, es mira junts per què era múltiple i se segueix jugant.",
+    "va": "Si algú es despista i no diu «pum!», ningú no queda fora: es para, es mira junts per què era múltiple i se seguix jugant.",
     "en": "If someone slips and doesn't say “boom!”, nobody is out: you stop, look together at why it was a multiple, and carry on playing.",
     "fr": "Si quelqu'un se trompe et ne dit pas « boum ! », personne n'est éliminé : on s'arrête, on regarde ensemble pourquoi c'était un multiple et on continue à jouer.",
     "ar": "إذا سها أحد ولم يقل «بوم!»، فلا يخرج أحد من اللعبة: نتوقّف وننظر معًا لماذا كان مضاعفًا ثم نتابع اللعب."
@@ -65,7 +65,7 @@
         "pictograma": "conversacion",
         "texto": {
           "es": "Contad por turnos desde el 1: una persona dice 1, la siguiente 2… Pero en los múltiplos de 3 (3, 6, 9…) se dice «¡pum!» en vez del número.",
-          "va": "Compteu per torns des de l'1: una persona diu 1, la següent 2… Però en els múltiples de 3 (3, 6, 9…) es diu «pum!» en lloc del número.",
+          "va": "Compteu per torns des de l'1: una persona diu 1, la següent 2… Però en els múltiples de 3 (3, 6, 9…) es diu «pum!» en lloc del nombre.",
           "en": "Take turns counting from 1: one person says 1, the next 2… But for the multiples of 3 (3, 6, 9…) you say “boom!” instead of the number.",
           "fr": "Comptez chacun votre tour à partir de 1 : une personne dit 1, la suivante 2… Mais pour les multiples de 3 (3, 6, 9…), on dit « boum ! » à la place du nombre.",
           "ar": "عدّوا بالتناوب من 1: يقول شخص 1، والتالي 2… لكن في مضاعفات 3 (3، 6، 9…) نقول «بوم!» بدل العدد."
@@ -74,11 +74,11 @@
       {
         "pictograma": "manos",
         "texto": {
-          "es": "Si alguien dice el número en vez de «¡pum!», se para, se mira por qué era múltiplo y se vuelve a empezar desde el 1. ¿Hasta dónde llegáis?",
-          "va": "Si algú diu el número en lloc de «pum!», es para, es mira per què era múltiple i es torna a començar des de l'1. Fins on arribeu?",
-          "en": "If someone says the number instead of “boom!”, you stop, look at why it was a multiple and start again from 1. How far do you get?",
-          "fr": "Si quelqu'un dit le nombre au lieu de « boum ! », on s'arrête, on regarde pourquoi c'était un multiple et on recommence à 1. Jusqu'où arrivez-vous ?",
-          "ar": "إذا قال أحد العدد بدل «بوم!»، نتوقّف وننظر لماذا كان مضاعفًا ونبدأ من 1 من جديد. إلى أين تصلون؟"
+          "es": "Si alguien dice el número en vez de «¡pum!», se para, se mira por qué era múltiplo y se sigue contando desde ahí. ¿Hasta dónde llegáis?",
+          "va": "Si algú diu el nombre en lloc de «pum!», es para, es mira per què era múltiple i se segueix comptant des d'allí. Fins on arribeu?",
+          "en": "If someone says the number instead of “boom!”, you stop, look at why it was a multiple and carry on counting from there. How far do you get?",
+          "fr": "Si quelqu'un dit le nombre au lieu de « boum ! », on s'arrête, on regarde pourquoi c'était un multiple et on continue à compter à partir de là. Jusqu'où arrivez-vous ?",
+          "ar": "إذا قال أحد العدد بدل «بوم!»، نتوقّف وننظر لماذا كان مضاعفًا ونتابع العدّ من هناك. إلى أين تصلون؟"
         }
       },
       {
@@ -95,7 +95,7 @@
         "pictograma": "tarjetas",
         "texto": {
           "es": "Cambiad de número: múltiplos de 4 y después de 6. ¿Hay números que son «¡pum!» en los dos juegos?",
-          "va": "Canvieu de número: múltiples de 4 i després de 6. Hi ha números que són «pum!» en els dos jocs?",
+          "va": "Canvieu de nombre: múltiples de 4 i després de 6. Hi ha nombres que són «pum!» en els dos jocs?",
           "en": "Change the number: multiples of 4 and then of 6. Are there numbers that are “boom!” in both games?",
           "fr": "Changez de nombre : multiples de 4, puis de 6. Y a-t-il des nombres qui sont « boum ! » dans les deux jeux ?",
           "ar": "غيّروا العدد: مضاعفات 4 ثم مضاعفات 6. هل هناك أعداد تكون «بوم!» في اللعبتين؟"
@@ -111,7 +111,7 @@
     },
     "masDificil": {
       "es": "Jugad con dos números a la vez: «¡pum!» en los múltiplos de 3 y «¡pam!» en los de 4. ¿Qué se dice en el 12? ¿Y en el 24?",
-      "va": "Jugueu amb dos números alhora: «pum!» en els múltiples de 3 i «pam!» en els de 4. Què es diu en el 12? I en el 24?",
+      "va": "Jugueu amb dos nombres alhora: «pum!» en els múltiples de 3 i «pam!» en els de 4. Què es diu en el 12? I en el 24?",
       "en": "Play with two numbers at once: “boom!” for multiples of 3 and “bang!” for multiples of 4. What do you say at 12? And at 24?",
       "fr": "Jouez avec deux nombres à la fois : « boum ! » pour les multiples de 3 et « bam ! » pour ceux de 4. Que dit-on à 12 ? Et à 24 ?",
       "ar": "العبوا بعددين معًا: «بوم!» في مضاعفات 3 و«بام!» في مضاعفات 4. ماذا نقول عند 12؟ وعند 24؟"
@@ -141,7 +141,7 @@
         "va": "Els «pum!» són la taula del 3: 3, 6, 9… En quin lloc de la taula és el 30?",
         "en": "The “booms” are the 3 times table: 3, 6, 9… Which place in the table is 30?",
         "fr": "Les « boum » sont la table de 3 : 3, 6, 9… À quelle place de la table est 30 ?",
-        "ar": "أعداد «بوم!» هي جدول 3: 3، 6، 9… في أي مكان من الجدول يقع 30؟"
+        "ar": "أعداد «بوم!» هي جدول ضرب 3: 3، 6، 9… في أي مكان من الجدول يقع 30؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -158,7 +158,7 @@
       },
       "inventala": {
         "es": "Inventa tú una con otro número y otro final: los múltiplos de 4 hasta el 40.",
-        "va": "Inventa'n tu una amb un altre número i un altre final: els múltiples de 4 fins al 40.",
+        "va": "Inventa'n tu una amb un altre nombre i un altre final: els múltiples de 4 fins al 40.",
         "en": "Make one up with another number and another end: multiples of 4 up to 40.",
         "fr": "Invente un problème avec un autre nombre et une autre fin : les multiples de 4 jusqu'à 40.",
         "ar": "لنخترع مسألة بعدد آخر ونهاية أخرى: مضاعفات 4 حتى 40."
@@ -177,9 +177,9 @@
       },
       "pista": {
         "es": "Para el 3, suma sus cifras. Para el 4, parte por la mitad dos veces.",
-        "va": "Per al 3, suma'n les xifres. Per al 4, parteix-lo per la meitat dues vegades.",
+        "va": "Per al 3, suma'n les xifres. Per al 4, partix-lo per la meitat dues vegades.",
         "en": "For 3, add its digits. For 4, halve it twice.",
-        "fr": "Pour 3, additionne ses chiffres. Pour 4, coupe-le en deux deux fois de suite.",
+        "fr": "Pour 3, additionne ses chiffres. Pour 4, coupe-le en deux, puis encore en deux.",
         "ar": "بالنسبة إلى 3، لنجمع أرقامه. وبالنسبة إلى 4، لنقسمه على 2 مرتين."
       },
       "respuesta": {
@@ -189,12 +189,12 @@
           "va": "Sí als dos: {{8 + 4 = 12}}, que és múltiple de 3; i la meitat de 84 és 42 i la meitat de 42 és 21, així que {{4 × 21 = 84}}. També val comptar de 4 en 4 o dividir.",
           "en": "Yes to both: {{8 + 4 = 12}}, which is a multiple of 3; and half of 84 is 42 and half of 42 is 21, so {{4 × 21 = 84}}. Counting in fours or dividing works too.",
           "fr": "Oui aux deux : {{8 + 4 = 12}}, qui est un multiple de 3 ; et la moitié de 84 est 42, la moitié de 42 est 21, donc {{4 × 21 = 84}}. Compter de 4 en 4 ou diviser, ça marche aussi.",
-          "ar": "نعم للاثنين: {{8 + 4 = 12}}، وهو من مضاعفات 3؛ ونصف 84 هو 42 ونصف 42 هو 21، إذن {{4 × 21 = 84}}. والعدّ 4 بـ4 أو القسمة صحيحان أيضًا."
+          "ar": "نعم للاثنين: {{8 + 4 = 12}}، وهو من مضاعفات 3؛ ونصف 84 هو 42 ونصف 42 هو 21، إذن {{4 × 21 = 84}}. والعدّ 4 بـ4 أو القسمة يصلحان أيضًا."
         }
       },
       "inventala": {
         "es": "Inventa tú un número de dos cifras y que alguien de casa diga de qué números es múltiplo.",
-        "va": "Inventa'n tu un número de dues xifres i que algú de casa diga de quins números és múltiple.",
+        "va": "Inventa'n tu un nombre de dues xifres i que algú de casa diga de quins nombres és múltiple.",
         "en": "Make up a two-digit number and let someone at home say what it is a multiple of.",
         "fr": "Invente un nombre à deux chiffres et que quelqu'un de la maison dise de quels nombres il est multiple.",
         "ar": "لنخترع عددًا من رقمين ونطلب من أحد في البيت أن يقول لأي أعداد هو مضاعف."
@@ -285,7 +285,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "Explícame cómo sabes, sin hacer la división, si un número es múltiplo de 2, de 5 o de 10.",
-        "va": "Explica'm com saps, sense fer la divisió, si un número és múltiple de 2, de 5 o de 10.",
+        "va": "Explica'm com saps, sense fer la divisió, si un nombre és múltiple de 2, de 5 o de 10.",
         "en": "Explain to me how you know, without dividing, whether a number is a multiple of 2, 5 or 10.",
         "fr": "Explique-moi comment tu sais, sans faire la division, si un nombre est un multiple de 2, de 5 ou de 10.",
         "ar": "اشرح لي أو اشرحي لي كيف نعرف، دون إجراء القسمة، إن كان عدد ما من مضاعفات 2 أو 5 أو 10."
@@ -295,7 +295,7 @@
         "va": "Si no sap per on començar: «Mira el 230, el 235 i el 238. En què et fixes?»",
         "en": "If they don't know where to start: “Look at 230, 235 and 238. What do you notice?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Regarde 230, 235 et 238. Qu'est-ce que tu remarques ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «انظر إلى 230 و235 و238. إلى ماذا ننتبه؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «لننظر إلى 230 و235 و238. إلى ماذا ننتبه؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -316,19 +316,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d28fd0cd1fd6"
+        "huella": "f4b00c19d2d5"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d28fd0cd1fd6"
+        "huella": "f4b00c19d2d5"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d28fd0cd1fd6"
+        "huella": "f4b00c19d2d5"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d28fd0cd1fd6"
+        "huella": "f4b00c19d2d5"
       }
     }
   }

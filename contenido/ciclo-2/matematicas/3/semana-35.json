@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana multiplican números de dos cifras por una cifra con llevada y, antes de calcular, dicen «más o menos» cuánto saldrá. Así pueden ver si el resultado tiene sentido.",
-    "va": "Aquesta setmana multipliquen números de dues xifres per una xifra portant-se'n i, abans de calcular, diuen «més o menys» quant eixirà (estimar). Així poden veure si el resultat té sentit.",
-    "en": "This week they multiply two-digit numbers by one-digit numbers with carrying and, before calculating, say roughly what it will come to (estimar). That way they can see if the answer makes sense.",
-    "fr": "Cette semaine, on multiplie des nombres à deux chiffres par un chiffre avec retenue et, avant de calculer, on dit « à peu près » combien ça fera (estimar). Ainsi, on voit si le résultat a du sens.",
-    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين في رقم واحد مع الاحتفاظ، وقبل الحساب يقولون «تقريبًا» كم ستكون النتيجة (estimar). هكذا يرون إن كان للنتيجة معنى."
+    "va": "Aquesta setmana multipliquen nombres de dues xifres per una xifra amb llevada i, abans de calcular, diuen «més o menys» quant eixirà (estimar). Així poden veure si el resultat té sentit.",
+    "en": "This week they multiply two-digit numbers by one-digit numbers with carrying (llevada) and, before calculating, say roughly what it will come to (estimar). That way they can see if the answer makes sense.",
+    "fr": "Cette semaine, on multiplie des nombres à deux chiffres par un chiffre avec retenue (llevada) et, avant de calculer, on dit « à peu près » combien ça fera (estimar). Ainsi, on voit si le résultat a du sens.",
+    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين في رقم واحد مع الاحتفاظ (llevada)، وقبل الحساب يقولون «تقريبًا» كم ستكون النتيجة (estimar). هكذا يرون إن كان للنتيجة معنى."
   },
   "comoAyudar": {
     "es": "Pedid siempre el «más o menos» antes de la cuenta, y no os preocupéis si se aleja: lo bonito es comparar después. Si el resultado no cuadra, preguntad «¿te lo esperabas?».",
     "va": "Demaneu sempre el «més o menys» abans del compte, i no us preocupeu si s'allunya: el bonic és comparar després. Si el resultat no quadra, pregunteu «t'ho esperaves?».",
     "en": "Always ask for the “roughly” before the sum, and don't worry if it's far off: the fun part is comparing afterwards. If the answer doesn't fit, ask “Did you expect that?”",
     "fr": "Demandez toujours le « à peu près » avant le calcul, et ne vous inquiétez pas s'il est loin : le plus beau, c'est de comparer après. Si le résultat ne colle pas, demandez « Tu t'y attendais ? ».",
-    "ar": "اطلبوا دائمًا «التقدير» قبل الحساب، ولا تقلقوا إن ابتعد: الجميل هو المقارنة بعد ذلك. وإذا لم تتّفق النتيجة، اسألوا «هل كنت تتوقّعها؟»."
+    "ar": "اطلبوا دائمًا «التقدير» قبل الحساب، ولا تقلقوا إن ابتعد: الجميل هو المقارنة بعد ذلك. وإذا بدت النتيجة غير معقولة، اسألوا «هل كنّا نتوقّعها؟»."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente",
@@ -64,11 +64,11 @@
       {
         "pictograma": "conversacion",
         "texto": {
-          "es": "Imaginad que vais de excursión 4 personas y cada entrada cuesta 18 €. Antes de calcular, cada persona dice: ¿será más o menos de 80 €?",
-          "va": "Imagineu que aneu d'excursió 4 persones i cada entrada costa 18 €. Abans de calcular, cada persona diu: serà més o menys de 80 €?",
-          "en": "Imagine 4 of you are going on a trip and each ticket costs 18 €. Before calculating, each person says: will it be more or less than 80 €?",
-          "fr": "Imaginez que vous partez en sortie à 4 et que chaque entrée coûte 18 €. Avant de calculer, chaque personne dit : ce sera plus ou moins de 80 € ?",
-          "ar": "تخيّلوا أنكم 4 أشخاص ذاهبون في رحلة وثمن كل تذكرة 18 يورو. قبل الحساب، يقول كل شخص: هل سيكون المجموع أكثر من 80 يورو أم أقل؟"
+          "es": "Imaginad que vais de excursión 4 personas y cada entrada cuesta 18 €. Antes de calcular, cada persona dice cuánto cree que costará en total, más o menos.",
+          "va": "Imagineu que aneu d'excursió 4 persones i cada entrada costa 18 €. Abans de calcular, cada persona diu quant creu que costarà en total, més o menys.",
+          "en": "Imagine 4 of you are going on a trip and each ticket costs 18 €. Before calculating, each person says roughly how much they think it will cost in total.",
+          "fr": "Imaginez que vous partez en sortie à 4 et que chaque entrée coûte 18 €. Avant de calculer, chaque personne dit à peu près combien elle pense que ça coûtera au total.",
+          "ar": "تخيّلوا أنكم 4 أشخاص ذاهبون في رحلة وثمن كل تذكرة 18 يورو. قبل الحساب، يقول كل شخص كم يظنّ أن المجموع سيكون تقريبًا."
         }
       },
       {
@@ -121,7 +121,7 @@
       "va": "Estimar abans de calcular dona a qualsevol compte un «quadra?». És la millor manera d'enxampar una distracció, en el quadern i a la botiga.",
       "en": "Estimating before calculating gives any sum a “does it fit?”. It's the best way to catch a slip, in the notebook and in the shop.",
       "fr": "Estimer avant de calculer donne à tout calcul un « est-ce que ça colle ? ». C'est le meilleur moyen d'attraper une étourderie, dans le cahier et au magasin.",
-      "ar": "التقدير قبل الحساب يمنح كل عملية سؤال «هل تتّفق؟». إنه أفضل طريقة لاكتشاف السهو، في الدفتر وفي المتجر."
+      "ar": "التقدير قبل الحساب يمنح كل عملية سؤال «هل هي معقولة؟». إنه أفضل طريقة لاكتشاف السهو، في الدفتر وفي المتجر."
     }
   },
   "preguntas": [
@@ -208,11 +208,11 @@
       "rol": "tema",
       "tipoProblema": "suma-repetida",
       "texto": {
-        "es": "Celia calcula {{5 × 27}} y le sale 1035. Sin hacer la cuenta, ¿cómo sabes que algo ha pasado?",
-        "va": "Celia calcula {{5 × 27}} i li ix 1035. Sense fer el compte, com saps que alguna cosa ha passat?",
-        "en": "Celia works out {{5 × 27}} and gets 1035. Without doing the sum, how do you know something has gone wrong?",
-        "fr": "Celia calcule {{5 × 27}} et trouve 1035. Sans faire le calcul, comment sais-tu qu'il s'est passé quelque chose ?",
-        "ar": "تحسب سيليا {{5 × 27}} فتحصل على 1035. دون إجراء الحساب، كيف نعرف أن شيئًا ما حدث؟"
+        "es": "Celia calcula {{5 × 27}} y le sale 1035. Sin hacer la cuenta, ¿cómo sabes que no cuadra?",
+        "va": "Celia calcula {{5 × 27}} i li ix 1035. Sense fer el compte, com saps que no quadra?",
+        "en": "Celia works out {{5 × 27}} and gets 1035. Without doing the sum, how can you tell it doesn't fit?",
+        "fr": "Celia calcule {{5 × 27}} et trouve 1035. Sans faire le calcul, comment sais-tu que ça ne colle pas ?",
+        "ar": "تحسب سيليا {{5 × 27}} فتحصل على 1035. دون إجراء الحساب، كيف نعرف أن النتيجة غير معقولة؟"
       },
       "pista": {
         "es": "27 es casi 30. ¿Cuánto es {{5 × 30}}?",
@@ -239,7 +239,7 @@
         "va": "Inventa't una multiplicació amb un resultat que no quadre, i que algú de casa en descobrisca la distracció.",
         "en": "Make up a multiplication with an answer that doesn't fit, and have someone at home spot the slip.",
         "fr": "Invente une multiplication avec un résultat qui ne colle pas, et fais trouver l'étourderie à quelqu'un de la maison.",
-        "ar": "لنخترع عملية ضرب نتيجتها لا تتّفق، ونطلب من أحد في البيت أن يكتشف السهو."
+        "ar": "لنخترع عملية ضرب نتيجتها غير معقولة، ونطلب من أحد في البيت أن يكتشف السهو."
       }
     },
     {
@@ -298,7 +298,7 @@
         "va": "Si no sap per on començar: «Si t'haguera eixit 720 €, t'ho hauries cregut?»",
         "en": "If they don't know where to start: “If you'd got 720 €, would you have believed it?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si tu avais trouvé 720 €, tu l'aurais cru ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «لو حصلنا على 720 يورو، هل كنّا سنصدّق ذلك؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «لو حصلنا على 720 يورو، هل كنّا سنصدّق ذلك؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -306,7 +306,7 @@
           "es": "Lo que buscáis es «para saber si me he equivocado». Si lo dice con otras palabras, también vale.",
           "va": "El que busqueu és «per a saber si m'he equivocat». Si ho diu amb altres paraules, també val.",
           "en": "What you're looking for is “to know if I've made a mistake”. If they say it in other words, that's fine too.",
-          "fr": "Ce que vous cherchez, c'est « pour savoir si je me suis trompé ». Avec d'autres mots, ça marche aussi.",
+          "fr": "Ce que vous cherchez, c'est « pour savoir si je me suis trompé ou trompée ». Avec d'autres mots, ça marche aussi.",
           "ar": "ما تبحثون عنه هو «لأعرف إن كنت أخطأت». وإن قيل بكلمات أخرى، فهذا يصلح أيضًا."
         }
       }
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "bbf8a73a3b4a"
+        "huella": "f0e0d2d4cde4"
       },
       "en": {
         "estado": "automatica",
-        "huella": "bbf8a73a3b4a"
+        "huella": "f0e0d2d4cde4"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "bbf8a73a3b4a"
+        "huella": "f0e0d2d4cde4"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "bbf8a73a3b4a"
+        "huella": "f0e0d2d4cde4"
       }
     }
   }

@@ -25,7 +25,7 @@
     "va": "Si s'encalla, no doneu el compte: pregunteu «què sabem?» i «què volem saber?». I si el primer camí no porta enlloc, se'n busca un altre: equivocar-se és part de pensar.",
     "en": "If they get stuck, don't give them the sum: ask “What do we know?” and “What do we want to find out?” And if the first route goes nowhere, look for another: getting things wrong is part of thinking.",
     "fr": "En cas de blocage, ne donnez pas le calcul : demandez « Qu'est-ce qu'on sait ? » et « Qu'est-ce qu'on veut savoir ? ». Et si le premier chemin ne mène nulle part, on en cherche un autre : se tromper fait partie de réfléchir.",
-    "ar": "إذا تعثّر الطفل، لا تعطوه العملية: اسألوا «ماذا نعرف؟» و«ماذا نريد أن نعرف؟». وإذا لم يوصل الطريق الأول إلى شيء، نبحث عن غيره: الخطأ جزء من التفكير."
+    "ar": "إذا تعثّر الأطفال، لا تعطوهم العملية: اسألوا «ماذا نعرف؟» و«ماذا نريد أن نعرف؟». وإذا لم يوصل الطريق الأول إلى شيء، نبحث عن غيره: الخطأ جزء من التفكير."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -129,7 +129,7 @@
       "es": "Los problemas de verdad casi nunca se resuelven con una sola cuenta. Pararse a pensar «¿qué sé y qué quiero saber?» y dibujarlo es una forma de pensar que sirve siempre.",
       "va": "Els problemes de veritat quasi mai es resolen amb un sol compte. Aturar-se a pensar «què sé i què vull saber?» i dibuixar-ho és una manera de pensar que servix sempre.",
       "en": "Real problems are hardly ever solved with a single sum. Stopping to think “What do I know and what do I want to find out?” and drawing it is a way of thinking that always helps.",
-      "fr": "Les vrais problèmes se résolvent presque jamais avec un seul calcul. S'arrêter pour penser « Qu'est-ce que je sais et qu'est-ce que je veux savoir ? » et le dessiner est une façon de penser qui sert toujours.",
+      "fr": "Les vrais problèmes ne se résolvent presque jamais avec un seul calcul. S'arrêter pour penser « Qu'est-ce que je sais et qu'est-ce que je veux savoir ? » et le dessiner est une façon de penser qui sert toujours.",
       "ar": "المسائل الحقيقية نادرًا ما تُحلّ بعملية واحدة. التوقّف للتفكير «ماذا أعرف وماذا أريد أن أعرف؟» ورسم ذلك طريقة تفكير تفيد دائمًا."
     }
   },
@@ -143,7 +143,7 @@
         "va": "Per a un aniversari es compren 3 bosses de 10 globus i se'n punxen 4. Quants globus queden?",
         "en": "For a birthday, 3 bags of 10 balloons are bought and 4 pop. How many balloons are left?",
         "fr": "Pour un anniversaire, on achète 3 sachets de 10 ballons et 4 éclatent. Combien de ballons reste-t-il ?",
-        "ar": "لعيد ميلاد اشتُريت 3 أكياس في كل منها 10 بالونات، وانفجر 4. كم بالونًا بقي؟"
+        "ar": "لعيد ميلاد اشتُريت 3 أكياس في كل منها 10 بالونات، وانفجرت 4 منها. كم بالونًا بقي؟"
       },
       "pista": {
         "es": "Primer paso: ¿cuántos globos se compran? Segundo paso: quita los que se pinchan.",
@@ -168,7 +168,7 @@
       "inventala": {
         "es": "Inventa tú uno de dos pasos para una fiesta.",
         "va": "Inventa'n tu un de dos passos per a una festa.",
-        "en": "Make up a two-step one for a party.",
+        "en": "Make up a two-step problem for a party.",
         "fr": "Invente un problème en deux étapes pour une fête.",
         "ar": "لنخترع مسألة من خطوتين لحفلة."
       }
@@ -182,7 +182,7 @@
         "va": "Lucas compra 2 quaderns de 3 € cadascun i paga amb un bitllet de 10 €. Quant li tornen?",
         "en": "Lucas buys 2 notebooks at 3 € each and pays with a 10 € note. How much change does he get?",
         "fr": "Lucas achète 2 cahiers à 3 € chacun et paie avec un billet de 10 €. Combien lui rend-on ?",
-        "ar": "اشترى لوكاس دفترين ثمن كل منهما 3 يورو ودفع بورقة نقدية من فئة 10 يورو. كم يُرجَع له؟"
+        "ar": "اشترى لوكاس دفترين ثمن كل منهما 3 يورو ودفع بورقة نقدية من فئة 10 يورو. كم يعيدون له؟"
       },
       "pista": {
         "es": "Primero, cuánto cuestan los dos cuadernos. Después, cuánto falta hasta 10 €.",
@@ -201,7 +201,7 @@
           "va": "Li tornen 4 €: {{2 × 3 = 6}} i {{10 − 6 = 4}}.",
           "en": "He gets 4 € back: {{2 × 3 = 6}} and {{10 − 6 = 4}}.",
           "fr": "On lui rend 4 € : {{2 × 3 = 6}} et {{10 − 6 = 4}}.",
-          "ar": "يُرجَع له 4 يورو: {{2 × 3 = 6}} و{{10 − 6 = 4}}."
+          "ar": "يعيدون له 4 يورو: {{2 × 3 = 6}} و{{10 − 6 = 4}}."
         }
       },
       "inventala": {
@@ -307,16 +307,16 @@
         "va": "Si no sap per on començar: «Què vam calcular primer, quantes galetes calien o quantes en faltaven?»",
         "en": "If they don't know where to start: “What did we work out first, how many biscuits were needed or how many were missing?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Qu'a-t-on calculé d'abord, combien de biscuits il en fallait ou combien il en manquait ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا حسبنا أولًا: كم بسكويتة نحتاج أم كم ينقص؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا حسبنا أولًا: كم بسكويتة نحتاج أم كم ينقص؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
           "es": "No hay un único orden bueno, y con el dibujo también vale. Si se equivoca de paso, preguntad «¿y eso qué nos dice?» y seguid juntos.",
           "va": "No hi ha un únic ordre bo, i amb el dibuix també val. Si s'equivoca de pas, pregunteu «i això què ens diu?» i continueu junts.",
-          "en": "There's no single right order, and a drawing works too. If they take the wrong step, ask “And what does that tell us?” and carry on together.",
-          "fr": "Il n'y a pas un seul bon ordre, et avec le dessin, ça marche aussi. En cas d'erreur d'étape, demandez « Et ça, qu'est-ce que ça nous dit ? » et continuez ensemble.",
-          "ar": "لا يوجد ترتيب صحيح واحد، والرسم يصلح أيضًا. وإذا أخطأ الطفل في الخطوة، اسألوا «وماذا يخبرنا ذلك؟» وتابعوا معًا."
+          "en": "There's no single right order, and a drawing works too. If they mix up a step, ask “And what does that tell us?” and carry on together.",
+          "fr": "Il n'y a pas un seul bon ordre, et avec le dessin, ça marche aussi. Si votre enfant se trompe d'étape, demandez « Et ça, qu'est-ce que ça nous dit ? » et continuez ensemble.",
+          "ar": "لا يوجد ترتيب صحيح واحد، والرسم يصلح أيضًا. وإذا أخطأ الأطفال في الخطوة، اسألوا «وماذا يخبرنا ذلك؟» وتابعوا معًا."
         }
       }
     }

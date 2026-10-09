@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana cuentan combinaciones dibujando un diagrama de árbol, y descubren que la multiplicación las cuenta todas de golpe: con 3 primeros y 4 segundos salen {{3 × 4 = 12}} menús.",
-    "va": "Aquesta setmana compten combinacions dibuixant un diagrama d'arbre (diagrama de árbol), i descobreixen que la multiplicació les compta totes de colp: amb 3 primers i 4 segons ixen {{3 × 4 = 12}} menús.",
+    "va": "Aquesta setmana compten combinacions dibuixant un diagrama d'arbre (diagrama de árbol), i descobrixen que la multiplicació les compta totes de colp: amb 3 primers i 4 segons ixen {{3 × 4 = 12}} menús.",
     "en": "This week they count combinations by drawing a tree diagram (diagrama de árbol), and discover that multiplication counts them all at once: with 3 starters and 4 main courses there are {{3 × 4 = 12}} menus.",
     "fr": "Cette semaine, on compte des combinaisons en dessinant un arbre (diagrama de árbol), et on découvre que la multiplication les compte toutes d'un coup : avec 3 entrées et 4 plats, on obtient {{3 × 4 = 12}} menus.",
     "ar": "هذا الأسبوع يعدّ الأطفال التركيبات برسم مخطّط شجري (diagrama de árbol)، ويكتشفون أن الضرب يعدّها كلها دفعة واحدة: مع 3 أطباق أولى و4 أطباق رئيسية تخرج {{3 × 4 = 12}} قائمة طعام."
   },
   "comoAyudar": {
     "es": "Dibujad el árbol juntos y en grande. Si se lía con tantas ramas, contad solo las de un primer plato y preguntad: «¿Y los demás tendrán las mismas?».",
-    "va": "Dibuixeu l'arbre junts i en gran. Si s'embolica amb tantes branques, compteu només les d'un primer plat i pregunteu: «I els altres en tindran les mateixes?».",
+    "va": "Dibuixeu l'arbre junts i en gran. Si s'embolica amb tantes branques, compteu només les d'un primer plat i pregunteu: «I els altres tindran les mateixes?».",
     "en": "Draw the tree together and make it big. If they get muddled with so many branches, count only the ones from one starter and ask: “Will the others have the same number?”",
     "fr": "Dessinez l'arbre ensemble et en grand. En cas de confusion avec tant de branches, comptez seulement celles d'une entrée et demandez : « Et les autres en auront autant ? »",
-    "ar": "ارسموا الشجرة معًا وبحجم كبير. وإذا اختلطت الفروع الكثيرة على الطفل، عدّوا فروع طبق أول واحد فقط واسألوا: «وهل للبقية العدد نفسه؟»."
+    "ar": "ارسموا الشجرة معًا وبحجم كبير. وإذا اختلطت الفروع الكثيرة على الأطفال، عدّوا فروع طبق أول واحد فقط واسألوا: «وهل للبقية العدد نفسه؟»."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente"
@@ -102,11 +102,11 @@
       }
     ],
     "masFacil": {
-      "es": "Empezad sin postres: con 3 primeros y 4 segundos ya salen 12 menús.",
-      "va": "Comenceu sense postres: amb 3 primers i 4 segons ja ixen 12 menús.",
-      "en": "Start without desserts: 3 starters and 4 main courses already give 12 menus.",
-      "fr": "Commencez sans dessert : avec 3 entrées et 4 plats, on a déjà 12 menus.",
-      "ar": "ابدؤوا دون حلوى: مع 3 أطباق أولى و4 أطباق رئيسية تخرج 12 قائمة."
+      "es": "Empezad con menos platos: 2 primeros, 3 segundos y sin postres. Contad las puntas del árbol una a una.",
+      "va": "Comenceu amb menys plats: 2 primers, 3 segons i sense postres. Compteu les puntes de l'arbre una a una.",
+      "en": "Start with fewer dishes: 2 starters, 3 main courses and no desserts. Count the ends of the tree one by one.",
+      "fr": "Commencez avec moins de plats : 2 entrées, 3 plats et pas de dessert. Comptez les bouts de l'arbre un par un.",
+      "ar": "ابدؤوا بأطباق أقل: طبقان أولان و3 أطباق رئيسية ودون حلوى. عدّوا أطراف الشجرة واحدًا واحدًا."
     },
     "masDificil": {
       "es": "Añadid 3 bebidas: ¿cuántos menús hay ahora? ¿Se puede dibujar el árbol entero o es mejor multiplicar?",
@@ -176,7 +176,7 @@
       },
       "pista": {
         "es": "Por cada cifra de la primera rueda, ¿cuántas puede haber en la segunda?",
-        "va": "Per cada xifra de la primera roda, quantes en pot haver en la segona?",
+        "va": "Per cada xifra de la primera roda, quantes n'hi pot haver en la segona?",
         "en": "For each digit on the first wheel, how many can there be on the second?",
         "fr": "Pour chaque chiffre de la première molette, combien peut-il y en avoir sur la deuxième ?",
         "ar": "لكل رقم في العجلة الأولى، كم رقمًا يمكن أن يكون في الثانية؟"
@@ -209,7 +209,7 @@
       "texto": {
         "es": "Para la excursión, el bocadillo puede ser de pan blanco o integral, con 4 rellenos, y con tomate o sin tomate. ¿Cuántos bocadillos distintos se pueden hacer?",
         "va": "Per a l'excursió, l'entrepà pot ser de pa blanc o integral, amb 4 farcits, i amb tomaca o sense tomaca. Quants entrepans diferents es poden fer?",
-        "en": "For the school trip, the sandwich can be white or wholemeal bread, with 4 fillings, and with or without tomato. How many different sandwiches can be made?",
+        "en": "For the trip, the sandwich can be white or wholemeal bread, with 4 fillings, and with or without tomato. How many different sandwiches can be made?",
         "fr": "Pour la sortie, le sandwich peut être au pain blanc ou complet, avec 4 garnitures, et avec ou sans tomate. Combien de sandwichs différents peut-on faire ?",
         "ar": "للرحلة، يمكن أن تكون الشطيرة من خبز أبيض أو أسمر، مع 4 حشوات، وبالطماطم أو دونها. كم شطيرة مختلفة يمكن تحضيرها؟"
       },
@@ -297,7 +297,7 @@
         "va": "Si no sap per on començar: «Quantes branques eixien de cada primer plat? I quants primers hi havia?»",
         "en": "If they don't know where to start: “How many branches came off each starter? And how many starters were there?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Combien de branches partaient de chaque entrée ? Et combien d'entrées y avait-il ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم فرعًا خرج من كل طبق أول؟ وكم طبقًا أول كان هناك؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كم فرعًا خرج من كل طبق أول؟ وكم طبقًا أول كان هناك؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -306,7 +306,7 @@
           "va": "La idea clau és «cada branca té les mateixes branquetes». Si hi arriba, ja està. Si no, compteu junts les branquetes de dues branques i compareu-les.",
           "en": "The key idea is “every branch has the same number of little branches”. If they get there, that's it. If not, count the little branches on two branches together and compare them.",
           "fr": "L'idée clé, c'est « chaque branche a autant de petites branches ». Si on y arrive, c'est gagné. Sinon, comptez ensemble les petites branches de deux branches et comparez-les.",
-          "ar": "الفكرة الأساسية هي «لكل فرع عدد الفروع الصغيرة نفسه». إذا وصلنا إليها فقد انتهينا. وإن لم نصل، عدّوا معًا الفروع الصغيرة لفرعين وقارنوها."
+          "ar": "الفكرة الأساسية هي «لكل فرع عدد الفروع الصغيرة نفسه». إذا وصل الأطفال إليها فهذا يكفي. وإن لم يصلوا، عدّوا معًا الفروع الصغيرة لفرعين وقارنوها."
         }
       }
     }
@@ -318,19 +318,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "fdf64ebd30f3"
+        "huella": "934b730357a7"
       },
       "en": {
         "estado": "automatica",
-        "huella": "fdf64ebd30f3"
+        "huella": "934b730357a7"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "fdf64ebd30f3"
+        "huella": "934b730357a7"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "fdf64ebd30f3"
+        "huella": "934b730357a7"
       }
     }
   }

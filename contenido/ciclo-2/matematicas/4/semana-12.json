@@ -9,7 +9,7 @@
   "titulo": {
     "es": "Semana de recordar: restas, horas y tablas",
     "va": "Setmana de recordar: restes, hores i taules",
-    "en": "Week to remember: subtractions, times and times tables",
+    "en": "Week to remember: subtractions, clock times and times tables",
     "fr": "Semaine pour se souvenir : soustractions, heures et tables",
     "ar": "أسبوع التذكّر: الطرح والساعة وجداول الضرب"
   },
@@ -17,7 +17,7 @@
     "es": "Esta semana vuelven a las restas con ceros, a los trucos de cálculo, a las duraciones con horas de 24 y a las tablas. No hay nada nuevo: es para que se asiente.",
     "va": "Aquesta setmana tornen a les restes amb zeros, als trucs de càlcul, a les duracions amb hores de 24 i a les taules (tablas). No hi ha res nou: és perquè s'assente.",
     "en": "This week they go back to subtractions with zeros, calculation tricks, durations with the 24-hour clock and the times tables (tablas). There is nothing new: it's so it all settles in.",
-    "fr": "Cette semaine, on revient aux soustractions avec des zéros, aux astuces de calcul, aux durées avec les heures sur 24 et aux tables (tablas). Rien de nouveau : c'est pour que tout se pose.",
+    "fr": "Cette semaine, on revient aux soustractions avec des zéros, aux astuces de calcul, aux durées avec les heures sur 24 et aux tables (tablas). Rien de nouveau : c'est pour que tout se mette bien en place.",
     "ar": "هذا الأسبوع يعود الأطفال إلى الطرح مع الأصفار، وحيل الحساب، والمدد بنظام الأربع والعشرين ساعة، وجداول الضرب (tablas). لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
@@ -82,11 +82,11 @@
       {
         "pictograma": "domino",
         "texto": {
-          "es": "En cada pieza, escribid a un lado una multiplicación y al otro un resultado que no sea el suyo. Por ejemplo: {{6 × 4}} y 35; {{7 × 5}} y 18; {{3 × 6}} y 24. Fijaos: el 24 de la última encaja con la primera.",
-          "va": "En cada peça, escriviu a un costat una multiplicació i a l'altre un resultat que no siga el seu. Per exemple: {{6 × 4}} i 35; {{7 × 5}} i 18; {{3 × 6}} i 24. Fixeu-vos: el 24 de l'última encaixa amb la primera.",
-          "en": "On each piece, write a multiplication on one side and, on the other, an answer that isn't its own. For example: {{6 × 4}} and 35; {{7 × 5}} and 18; {{3 × 6}} and 24. Look: the 24 on the last one matches the first.",
-          "fr": "Sur chaque pièce, écrivez d'un côté une multiplication et de l'autre un résultat qui n'est pas le sien. Par exemple : {{6 × 4}} et 35 ; {{7 × 5}} et 18 ; {{3 × 6}} et 24. Regardez : le 24 de la dernière va avec la première.",
-          "ar": "على كل قطعة، اكتبوا في جهة عملية ضرب وفي الجهة الأخرى نتيجة ليست نتيجتها. مثلًا: {{6 × 4}} و35؛ {{7 × 5}} و18؛ {{3 × 6}} و24. لاحظوا: الـ24 في القطعة الأخيرة تناسب الأولى."
+          "es": "En cada pieza, escribid a un lado una multiplicación y al otro un resultado que no sea el suyo, pero sí el de otra pieza. Por ejemplo: {{6 × 4}} y 35; {{7 × 5}} y 18; {{3 × 6}} y 24. Fijaos: el 24 de la última encaja con la primera.",
+          "va": "En cada peça, escriviu a un costat una multiplicació i a l'altre un resultat que no siga el seu, però sí el d'una altra peça. Per exemple: {{6 × 4}} i 35; {{7 × 5}} i 18; {{3 × 6}} i 24. Fixeu-vos: el 24 de l'última encaixa amb la primera.",
+          "en": "On each piece, write a multiplication on one side and, on the other, an answer that isn't its own but belongs to another piece. For example: {{6 × 4}} and 35; {{7 × 5}} and 18; {{3 × 6}} and 24. Look: the 24 on the last one matches the first.",
+          "fr": "Sur chaque pièce, écrivez d'un côté une multiplication et de l'autre un résultat qui n'est pas le sien, mais celui d'une autre pièce. Par exemple : {{6 × 4}} et 35 ; {{7 × 5}} et 18 ; {{3 × 6}} et 24. Regardez : le 24 de la dernière va avec la première.",
+          "ar": "على كل قطعة، اكتبوا في جهة عملية ضرب وفي الجهة الأخرى نتيجة ليست نتيجتها، بل نتيجة قطعة أخرى. مثلًا: {{6 × 4}} و35؛ {{7 × 5}} و18؛ {{3 × 6}} و24. لاحظوا: الـ24 في القطعة الأخيرة تناسب الأولى."
         }
       },
       {
@@ -122,12 +122,12 @@
       "va": "Afegiu peces de restes amb zeros, com {{300 − 125}}, i de duracions, com «de 17:40 a 18:15», amb el seu resultat en una altra peça.",
       "en": "Add pieces with subtractions with zeros, like {{300 − 125}}, and durations, like “from 17:40 to 18:15”, with their answers on another piece.",
       "fr": "Ajoutez des pièces avec des soustractions avec des zéros, comme {{300 − 125}}, et des durées, comme « de 17:40 à 18:15 », avec leur résultat sur une autre pièce.",
-      "ar": "أضيفوا قطعًا فيها طرح مع أصفار، مثل {{300 − 125}}، ومددًا زمنية، مثل «من 17:40 إلى 18:15»، ونتيجتها في قطعة أخرى."
+      "ar": "أضيفوا قطعًا فيها طرح مع أصفار، مثل {{300 − 125}}، ومددًا زمنية، مثل «من الساعة 17:40 إلى 18:15»، ونتيجتها في قطعة أخرى."
     },
     "paraQueSirve": {
       "es": "Hacer el dominó y jugar con él mezcla las tablas con sus trucos y, si os animáis, las restas y las horas. Volver a lo aprendido de una forma distinta ayuda a que se quede.",
       "va": "Fer el dòmino i jugar-hi mescla les taules amb els seus trucs i, si us animeu, les restes i les hores. Tornar al que s'ha après d'una manera diferent ajuda que es quede.",
-      "en": "Making the dominoes and playing with them mixes the times tables and their tricks and, if you're up for it, subtractions and times. Coming back to what they've learned in a different way helps it stick.",
+      "en": "Making the dominoes and playing with them mixes the times tables and their tricks and, if you're up for it, subtractions and clock times. Coming back to what they've learned in a different way helps it stick.",
       "fr": "Fabriquer le domino et jouer avec mélange les tables et leurs astuces et, si vous en avez envie, les soustractions et les heures. Revenir à ce qu'on a appris d'une autre façon aide à le garder.",
       "ar": "صنع الدومينو واللعب به يمزج جداول الضرب وحيلها، وإن رغبتم الطرح والساعة أيضًا. العودة إلى ما تعلّموه بطريقة مختلفة تساعد على ترسيخه."
     },
@@ -176,7 +176,7 @@
         "va": "Inventa't una resta amb una quantitat redona d'euros, com 5 € o 10 €.",
         "en": "Make up a subtraction with a round amount of euros, like 5 € or 10 €.",
         "fr": "Invente une soustraction avec une somme ronde en euros, comme 5 € ou 10 €.",
-        "ar": "لنخترع عملية طرح بمبلغ مدوّر من اليورو، مثل 5 يورو أو 10 يورو."
+        "ar": "لنخترع عملية طرح بمبلغ من اليورو بلا سنتات، مثل 5 يورو أو 10 يورو."
       }
     },
     {
@@ -188,14 +188,14 @@
         "va": "El tren ix a les 18:50 i arriba a les 20:05. Quant dura el viatge?",
         "en": "The train leaves at 18:50 and arrives at 20:05. How long is the journey?",
         "fr": "Le train part à 18:50 et arrive à 20:05. Combien de temps dure le trajet ?",
-        "ar": "يغادر القطار في 18:50 ويصل في 20:05. كم تدوم الرحلة؟"
+        "ar": "يغادر القطار في الساعة 18:50 ويصل في الساعة 20:05. كم تدوم الرحلة؟"
       },
       "pista": {
         "es": "De 18:50 a 19:00 van 10 minutos; de 19:00 a 20:00, 1 hora; y luego 5 minutos más.",
         "va": "De 18:50 a 19:00 en van 10 minuts; de 19:00 a 20:00, 1 hora; i després 5 minuts més.",
         "en": "From 18:50 to 19:00 is 10 minutes; from 19:00 to 20:00, 1 hour; and then 5 more minutes.",
         "fr": "De 18:50 à 19:00, il y a 10 minutes ; de 19:00 à 20:00, 1 heure ; et puis 5 minutes de plus.",
-        "ar": "من 18:50 إلى 19:00 عشر دقائق؛ ومن 19:00 إلى 20:00 ساعة؛ ثم 5 دقائق أخرى."
+        "ar": "من الساعة 18:50 إلى 19:00 عشر دقائق؛ ومن الساعة 19:00 إلى 20:00 ساعة؛ ثم 5 دقائق أخرى."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -303,7 +303,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "De todo lo de estas semanas en mates, ¿qué truco te ha servido más? Explícamelo con un ejemplo.",
-        "va": "De tot el que heu fet aquestes setmanes en mates, quin truc t'ha servit més? Explica-m'ho amb un exemple.",
+        "va": "De tot el que has fet aquestes setmanes en mates, quin truc t'ha servit més? Explica-m'ho amb un exemple.",
         "en": "Of everything in maths these weeks, which trick has helped you most? Explain it to me with an example.",
         "fr": "De tout ce que tu as fait ces semaines en maths, quelle astuce t'a le plus servi ? Explique-la-moi avec un exemple.",
         "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، ما الحيلة التي أفادتنا أكثر؟ اشرح لي أو اشرحي لي بمثال."
@@ -318,11 +318,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Si no le viene ninguno, contad vosotros el vuestro y preguntad si le serviría.",
-          "va": "No hi ha resposta bona ni dolenta. Si no li'n ve cap al cap, conteu vosaltres el vostre i pregunteu si li serviria.",
-          "en": "There's no right or wrong answer. If nothing comes to mind, share your own trick and ask whether it would help them.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si rien ne lui vient, racontez votre propre astuce et demandez si elle lui servirait.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإن لم تخطر له أيّ حيلة، فاحكوا حيلتكم واسألوا إن كانت ستفيده."
+          "es": "Cualquier respuesta vale. Si no le viene ninguno, contad vosotros el vuestro y preguntad si le serviría.",
+          "va": "Qualsevol resposta val. Si no li'n ve cap al cap, conteu vosaltres el vostre i pregunteu si li serviria.",
+          "en": "Any answer works. If nothing comes to mind, share your own trick and ask whether it would help them.",
+          "fr": "Toutes les réponses conviennent. Si rien ne lui vient, racontez votre propre astuce et demandez si elle lui servirait.",
+          "ar": "كل إجابة تصلح. وإن لم تخطر لهم أيّ حيلة، فاحكوا حيلتكم واسألوا إن كانت ستفيدهم."
         }
       }
     }
@@ -334,19 +334,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "1a874a44e303"
+        "huella": "8953a7713ad6"
       },
       "en": {
         "estado": "automatica",
-        "huella": "1a874a44e303"
+        "huella": "8953a7713ad6"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "1a874a44e303"
+        "huella": "8953a7713ad6"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "1a874a44e303"
+        "huella": "8953a7713ad6"
       }
     }
   }

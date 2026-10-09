@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana comparan y ordenan números en la recta numérica, y aprenden a decir a qué decena está más cerca un número: el 38 está más cerca del 40 que del 30.",
-    "va": "Aquesta setmana comparen i ordenen nombres en la recta numèrica (recta numérica), i aprenen a dir a quina desena (decena) està més a prop un nombre: el 38 està més a prop del 40 que del 30.",
+    "va": "Aquesta setmana comparen i ordenen nombres en la recta numèrica, i aprenen a dir a quina desena (decena) està més a prop un nombre: el 38 està més a prop del 40 que del 30.",
     "en": "This week they compare and order numbers on the number line (recta numérica), and learn to say which ten (decena) a number is closest to: 38 is closer to 40 than to 30.",
     "fr": "Cette semaine, on compare et on range des nombres sur la droite numérique (recta numérica), et on apprend à dire de quelle dizaine (decena) un nombre est le plus proche : 38 est plus près de 40 que de 30.",
     "ar": "هذا الأسبوع يقارن الأطفال الأعداد ويرتّبونها على خط الأعداد (recta numérica)، ويتعلّمون قول أيّ عشرة (decena) هي الأقرب إلى عدد ما: 38 أقرب إلى 40 منه إلى 30."
   },
   "comoAyudar": {
-    "es": "Usad la palabra «cerca» en la vida diaria: «son las 8 y 50, ya casi son las 9», «esto cuesta 19 €, casi 20». Así la idea de la decena cercana se vuelve natural.",
-    "va": "Feu servir la paraula «prop» en la vida diària: «són les 8 i 50, ja quasi són les 9», «açò costa 19 €, quasi 20». Així la idea de la desena pròxima es torna natural.",
-    "en": "Use the word “close” in everyday life: “It's 8:50, almost 9”, “This costs 19 €, almost 20”. That way the idea of the nearest ten becomes natural.",
-    "fr": "Utilisez le mot « proche » au quotidien : « il est 8 h 50, il est presque 9 h », « ça coûte 19 €, presque 20 ». Ainsi, l'idée de la dizaine la plus proche devient naturelle.",
-    "ar": "استعملوا كلمة «قريب» في الحياة اليومية: «الساعة 8 و50، صارت تقريبًا 9»، «هذا بـ19 يورو، تقريبًا 20». هكذا تصبح فكرة العشرة القريبة طبيعية."
+    "es": "Usad la palabra «cerca» en la vida diaria: «son las 8:50, ya casi son las 9:00», «esto cuesta 19 €, casi 20». Así la idea de la decena cercana se vuelve natural.",
+    "va": "Feu servir la paraula «prop» en la vida diària: «són les 8:50, ja quasi són les 9:00», «açò costa 19 €, quasi 20». Així la idea de la desena pròxima es torna natural.",
+    "en": "Use the word “close” in everyday life: “It's 8:50, almost 9:00”, “This costs 19 €, almost 20”. That way the idea of the nearest ten becomes natural.",
+    "fr": "Utilisez le mot « proche » au quotidien : « il est 8:50, il est presque 9:00 », « ça coûte 19 €, presque 20 ». Ainsi, l'idée de la dizaine la plus proche devient naturelle.",
+    "ar": "استعملوا كلمة «قريب» في الحياة اليومية: «الساعة 8:50، صارت تقريبًا 9:00»، «هذا بـ19 يورو، تقريبًا 20». هكذا تصبح فكرة العشرة القريبة طبيعية."
   },
   "saberes": [
     "matematicas.numeros.recta-comparar",
@@ -148,8 +148,8 @@
         "es": "Lucía tiene 63 cromos y Hugo tiene 86. ¿Quién tiene más? ¿Cuántos más?",
         "va": "La Lucía té 63 cromos i l'Hugo en té 86. Qui en té més? Quants més?",
         "en": "Lucía has 63 cards and Hugo has 86. Who has more? How many more?",
-        "fr": "Lucía a 63 images et Hugo en a 86. Qui en a le plus ? Combien de plus ?",
-        "ar": "عند لوسيا 63 بطاقة وعند أوغو 86. من عنده أكثر؟ وكم زيادة؟"
+        "fr": "Lucía a 63 vignettes et Hugo en a 86. Qui en a le plus ? Combien de plus ?",
+        "ar": "عند لوسيا 63 ملصقًا وعند أوغو 86. من عنده أكثر؟ وكم زيادة؟"
       },
       "pista": {
         "es": "Mira primero las decenas: 8 decenas son más que 6 decenas.",
@@ -167,8 +167,8 @@
           "es": "Hugo tiene más: 23 cromos más.",
           "va": "L'Hugo en té més: 23 cromos més.",
           "en": "Hugo has more: 23 more cards.",
-          "fr": "Hugo en a plus : 23 images de plus.",
-          "ar": "عند أوغو أكثر: 23 بطاقة زيادة."
+          "fr": "Hugo en a plus : 23 vignettes de plus.",
+          "ar": "عند أوغو أكثر: 23 ملصقًا زيادة."
         }
       },
       "inventala": {
@@ -334,19 +334,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "ab83f11fa7b7"
+        "huella": "af845186e24a"
       },
       "en": {
         "estado": "automatica",
-        "huella": "ab83f11fa7b7"
+        "huella": "af845186e24a"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "ab83f11fa7b7"
+        "huella": "af845186e24a"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "ab83f11fa7b7"
+        "huella": "af845186e24a"
       }
     }
   }

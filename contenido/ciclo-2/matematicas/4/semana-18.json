@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana aprenden a multiplicar por un número de dos cifras partiéndolo en trozos fáciles: {{23 × 14}} es {{23 × 10}} más {{23 × 4}}. Lo ven dibujando rectángulos en papel cuadriculado.",
-    "va": "Aquesta setmana aprenen a multiplicar per un número de dues xifres partint-lo en trossos fàcils: {{23 × 14}} és {{23 × 10}} més {{23 × 4}}. Ho veuen dibuixant rectangles en paper quadriculat.",
+    "va": "Aquesta setmana aprenen a multiplicar per un nombre de dues xifres partint-lo en trossos fàcils: {{23 × 14}} és {{23 × 10}} més {{23 × 4}}. Ho veuen dibuixant rectangles en paper quadriculat.",
     "en": "This week they learn to multiply by a two-digit number by splitting it into easy pieces: {{23 × 14}} is {{23 × 10}} plus {{23 × 4}}. They see it by drawing rectangles on squared paper.",
     "fr": "Cette semaine, on apprend à multiplier par un nombre à deux chiffres en le coupant en morceaux faciles : {{23 × 14}}, c'est {{23 × 10}} plus {{23 × 4}}. On le voit en dessinant des rectangles sur du papier quadrillé.",
     "ar": "هذا الأسبوع يتعلّم الأطفال الضرب في عدد من رقمين بتقسيمه إلى أجزاء سهلة: {{23 × 14}} هي {{23 × 10}} زائد {{23 × 4}}. ويرون ذلك برسم مستطيلات على ورق مربّعات."
@@ -24,8 +24,8 @@
     "es": "No hace falta contar los cuadraditos uno a uno: la gracia es ver que cada trozo se calcula fácil. Si se pierde, volved al dibujo y señalad cada trozo con el dedo.",
     "va": "No cal comptar els quadradets un a un: la gràcia és veure que cada tros es calcula fàcilment. Si es perd, torneu al dibuix i assenyaleu cada tros amb el dit.",
     "en": "Counting the little squares one by one isn't the idea: the point is to see that each piece is easy to work out. If they get lost, go back to the drawing and point to each piece.",
-    "fr": "Pas besoin de compter les petits carreaux un par un : l'idée, c'est de voir que chaque morceau se calcule facilement. En cas de doute, revenez au dessin et montrez chaque morceau du doigt.",
-    "ar": "لا داعي لعدّ المربّعات الصغيرة واحدًا واحدًا: الفكرة أن نرى أن كل جزء يُحسب بسهولة. وإذا ضاع الطفل، عودوا إلى الرسم وأشيروا إلى كل جزء بالإصبع."
+    "fr": "Pas besoin de compter les petits carreaux un par un : l'idée, c'est de voir que chaque morceau se calcule facilement. S'il ou elle s'y perd, revenez au dessin et montrez chaque morceau du doigt.",
+    "ar": "لا داعي لعدّ المربّعات الصغيرة واحدًا واحدًا: الفكرة أن نرى أن كل جزء يُحسب بسهولة. وإذا ضاع الأطفال، عودوا إلى الرسم وأشيروا إلى كل جزء بالإصبع."
   },
   "saberes": [
     "matematicas.operaciones.propiedades",
@@ -125,7 +125,7 @@
     },
     "paraQueSirve": {
       "es": "Partir un número en trozos fáciles es la idea que hay detrás de la multiplicación en papel. Con el dibujo, la cuenta deja de ser un truco y se entiende por qué funciona.",
-      "va": "Partir un número en trossos fàcils és la idea que hi ha darrere de la multiplicació en paper. Amb el dibuix, el compte deixa de ser un truc i s'entén per què funciona.",
+      "va": "Partir un nombre en trossos fàcils és la idea que hi ha darrere de la multiplicació en paper. Amb el dibuix, el compte deixa de ser un truc i s'entén per què funciona.",
       "en": "Splitting a number into easy pieces is the idea behind written multiplication. With the drawing, the method stops being a trick and you understand why it works.",
       "fr": "Couper un nombre en morceaux faciles, c'est l'idée qui se cache derrière la multiplication posée. Avec le dessin, le calcul n'est plus un truc et on comprend pourquoi il marche.",
       "ar": "تقسيم العدد إلى أجزاء سهلة هو الفكرة التي وراء الضرب على الورق. ومع الرسم، لا يبقى الحساب حيلة، بل نفهم لماذا ينجح."
@@ -165,7 +165,7 @@
       },
       "inventala": {
         "es": "Inventa tú una de autobuses, vagones o filas de un cine.",
-        "va": "Inventa'n tu una d'autobusos, vagons o files d'un cine.",
+        "va": "Inventa'n tu una d'autobusos, vagons o files d'un cinema.",
         "en": "Make one up about buses, train carriages or rows in a cinema.",
         "fr": "Invente un problème avec des bus, des wagons ou des rangées de cinéma.",
         "ar": "لنخترع مسألة عن حافلات أو عربات قطار أو صفوف في سينما."
@@ -215,18 +215,18 @@
       "rol": "tema",
       "tipoProblema": "suma-repetida",
       "texto": {
-        "es": "Ona calcula {{32 × 13}} así: {{32 × 10 = 320}} y {{32 × 3 = 96}}. ¿Cuánto le sale?",
-        "va": "Ona calcula {{32 × 13}} així: {{32 × 10 = 320}} i {{32 × 3 = 96}}. Quant li ix?",
-        "en": "Ona works out {{32 × 13}} like this: {{32 × 10 = 320}} and {{32 × 3 = 96}}. What does she get?",
-        "fr": "Ona calcule {{32 × 13}} comme ça : {{32 × 10 = 320}} et {{32 × 3 = 96}}. Combien trouve-t-elle ?",
-        "ar": "تحسب أونا {{32 × 13}} هكذا: {{32 × 10 = 320}} و{{32 × 3 = 96}}. كم تحصل؟"
+        "es": "Ona calcula {{32 × 13}} así: primero {{32 × 10 = 320}}. ¿Qué trozo le falta y cuánto le sale?",
+        "va": "L'Ona calcula {{32 × 13}} així: primer {{32 × 10 = 320}}. Quin tros li falta i quant li ix?",
+        "en": "Ona works out {{32 × 13}} like this: first {{32 × 10 = 320}}. Which piece is still missing, and what does she get?",
+        "fr": "Ona calcule {{32 × 13}} comme ça : d'abord {{32 × 10 = 320}}. Quel morceau lui manque-t-il, et combien trouve-t-elle ?",
+        "ar": "تحسب أونا {{32 × 13}} هكذا: أولًا {{32 × 10 = 320}}. ما الجزء الذي ينقصها، وعلى كم تحصل؟"
       },
       "pista": {
-        "es": "Suma los dos trozos.",
-        "va": "Suma els dos trossos.",
-        "en": "Add the two pieces.",
-        "fr": "Additionne les deux morceaux.",
-        "ar": "لنجمع الجزأين."
+        "es": "El 13 es 10 y 3: le falta {{32 × 3}}. Luego suma los dos trozos.",
+        "va": "El 13 és 10 i 3: li falta {{32 × 3}}. Després suma els dos trossos.",
+        "en": "13 is 10 and 3: she's still missing {{32 × 3}}. Then add the two pieces.",
+        "fr": "13, c'est 10 et 3 : il lui manque {{32 × 3}}. Ensuite, additionne les deux morceaux.",
+        "ar": "الـ13 هي 10 و3: ينقصها {{32 × 3}}. ثم لنجمع الجزأين."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -234,16 +234,16 @@
         "resultado": 416,
         "unidad": "unidades",
         "texto": {
-          "es": "Le sale 416: {{320 + 96 = 416}}.",
-          "va": "Li ix 416: {{320 + 96 = 416}}.",
-          "en": "She gets 416: {{320 + 96 = 416}}.",
-          "fr": "Elle trouve 416 : {{320 + 96 = 416}}.",
-          "ar": "تحصل على 416: {{320 + 96 = 416}}."
+          "es": "Le falta {{32 × 3 = 96}}. Le sale 416: {{320 + 96 = 416}}.",
+          "va": "Li falta {{32 × 3 = 96}}. Li ix 416: {{320 + 96 = 416}}.",
+          "en": "She's missing {{32 × 3 = 96}}. She gets 416: {{320 + 96 = 416}}.",
+          "fr": "Il lui manque {{32 × 3 = 96}}. Elle trouve 416 : {{320 + 96 = 416}}.",
+          "ar": "ينقصها {{32 × 3 = 96}}. تحصل على 416: {{320 + 96 = 416}}."
         }
       },
       "inventala": {
         "es": "Inventa tú una multiplicación por un número entre 11 y 19 y pártela como Ona.",
-        "va": "Inventa't una multiplicació per un número entre 11 i 19 i partix-la com Ona.",
+        "va": "Inventa't una multiplicació per un nombre entre 11 i 19 i partix-la com l'Ona.",
         "en": "Make up a multiplication by a number between 11 and 19 and split it like Ona.",
         "fr": "Invente une multiplication par un nombre entre 11 et 19 et coupe-la comme Ona.",
         "ar": "لنخترع عملية ضرب في عدد بين 11 و19 ونقسمها مثل أونا."
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d2472dca135e"
+        "huella": "3f2567e30f75"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d2472dca135e"
+        "huella": "3f2567e30f75"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d2472dca135e"
+        "huella": "3f2567e30f75"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d2472dca135e"
+        "huella": "3f2567e30f75"
       }
     }
   }

@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Esta semana aprenden a estimar: decir más o menos cuánto saldrá una multiplicación antes de hacerla, redondeando ({{29 × 4}} da cerca de {{30 × 4 = 120}}), y mirar después si el resultado es razonable.",
-    "va": "Aquesta setmana aprenen a estimar (estimar): dir més o menys quant eixirà una multiplicació abans de fer-la, arrodonint ({{29 × 4}} dona prop de {{30 × 4 = 120}}), i mirar després si el resultat és raonable.",
-    "en": "This week they learn to estimate (estimar): saying roughly what a multiplication will come to before doing it, by rounding ({{29 × 4}} is close to {{30 × 4 = 120}}), and then checking whether the answer is reasonable.",
-    "fr": "Cette semaine, on apprend à estimer (estimar) : dire à peu près combien fera une multiplication avant de la faire, en arrondissant ({{29 × 4}} fait environ {{30 × 4 = 120}}), puis regarder si le résultat est raisonnable.",
-    "ar": "هذا الأسبوع يتعلّم الأطفال التقدير (estimar): أن يقولوا تقريبًا كم سيكون ناتج عملية ضرب قبل إجرائها، بالتقريب ({{29 × 4}} قريب من {{30 × 4 = 120}})، ثم أن ينظروا إن كانت النتيجة معقولة."
+    "va": "Aquesta setmana aprenen a estimar: dir més o menys quant eixirà una multiplicació abans de fer-la, arrodonint (redondear) ({{29 × 4}} dona prop de {{30 × 4 = 120}}), i mirar després si el resultat és raonable.",
+    "en": "This week they learn to estimate (estimar): saying roughly what a multiplication will come to before doing it, by rounding (redondear) ({{29 × 4}} is close to {{30 × 4 = 120}}), and then checking whether the answer is reasonable.",
+    "fr": "Cette semaine, on apprend à estimer (estimar) : dire à peu près combien fera une multiplication avant de la faire, en arrondissant (redondear) ({{29 × 4}} fait environ {{30 × 4 = 120}}), puis regarder si le résultat est raisonnable.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال التقدير (estimar): أن يقولوا تقريبًا كم سيكون ناتج عملية ضرب قبل إجرائها، بالتقريب (redondear) ({{29 × 4}} قريب من {{30 × 4 = 120}})، ثم أن ينظروا إن كانت النتيجة معقولة."
   },
   "comoAyudar": {
     "es": "Celebrad las estimaciones que se acercan, no solo las exactas. Preguntad «¿te parece mucho o poco?»: estimar es pensar, no adivinar al azar.",
@@ -121,7 +121,7 @@
       "va": "Estimar abans de calcular ajuda a adonar-se d'una distracció: si esperàveu unes 100 rajoles i n'ixen 1008, alguna cosa ha fallat. És la manera de comprovar que més es fa servir en el dia a dia.",
       "en": "Estimating before calculating helps them notice a slip: if you expected about 100 tiles and you get 1008, something went wrong. It's the way of checking that people use most in everyday life.",
       "fr": "Estimer avant de calculer aide à repérer une étourderie : si vous attendiez une centaine de carreaux et que vous trouvez 1008, quelque chose cloche. C'est la façon de vérifier qu'on utilise le plus au quotidien.",
-      "ar": "التقدير قبل الحساب يساعد على اكتشاف السهو: إذا توقّعتم نحو 100 بلاطة وخرج 1008، فهناك خطأ ما. إنها أكثر طرق التحقّق استعمالًا في الحياة اليومية."
+      "ar": "التقدير قبل الحساب يساعد على اكتشاف السهو: إذا توقّعتم نحو 100 بلاطة وخرج 1008، فقد حدث شيء ما. إنها أكثر طرق التحقّق استعمالًا في الحياة اليومية."
     }
   },
   "preguntas": [
@@ -170,7 +170,7 @@
       "tipoProblema": "suma-repetida",
       "texto": {
         "es": "En un cole hay 6 clases de 24 niños y niñas. Iker dice que son unos 300. ¿Es razonable?",
-        "va": "En una escola hi ha 6 classes de 24 xiquets i xiquetes. Iker diu que són uns 300. És raonable?",
+        "va": "En una escola hi ha 6 classes de 24 xiquets i xiquetes. L'Iker diu que són uns 300. És raonable?",
         "en": "A school has 6 classes of 24 children. Iker says that's about 300. Is that reasonable?",
         "fr": "Dans une école, il y a 6 classes de 24 enfants. Iker dit que ça fait environ 300. Est-ce raisonnable ?",
         "ar": "في مدرسة 6 أقسام في كل منها 24 طفلًا وطفلة. يقول إيكر إنهم نحو 300. هل هذا معقول؟"
@@ -215,11 +215,11 @@
         "ar": "في رحلة، يدفع كل شخص 9 يورو ويذهب 31 شخصًا. كم من المال يُجمع تقريبًا؟ وبالضبط؟"
       },
       "pista": {
-        "es": "Redondea 31 a 30: {{30 × 9 = 270}}. Luego suma la persona que falta.",
-        "va": "Arrodonix 31 a 30: {{30 × 9 = 270}}. Després suma la persona que falta.",
-        "en": "Round 31 to 30: {{30 × 9 = 270}}. Then add the missing person.",
-        "fr": "Arrondis 31 à 30 : {{30 × 9 = 270}}. Puis ajoute la personne qui manque.",
-        "ar": "لنقرّب 31 إلى 30: {{30 × 9 = 270}}. ثم نضيف الشخص الباقي."
+        "es": "Redondea 31 a 30: {{30 × 9 = 270}}. Luego suma lo que paga la persona que falta.",
+        "va": "Arrodonix 31 a 30: {{30 × 9 = 270}}. Després suma el que paga la persona que falta.",
+        "en": "Round 31 to 30: {{30 × 9 = 270}}. Then add what the missing person pays.",
+        "fr": "Arrondis 31 à 30 : {{30 × 9 = 270}}. Puis ajoute ce que paie la personne qui manque.",
+        "ar": "لنقرّب 31 إلى 30: {{30 × 9 = 270}}. ثم نضيف ما يدفعه الشخص الباقي."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -228,7 +228,7 @@
         "unidad": "euros",
         "texto": {
           "es": "Más o menos 270 €: por ejemplo, {{30 × 9 = 270}} (otro redondeo cercano también vale). Exactamente, 279 €.",
-          "va": "Més o menys 270 €: per exemple, {{30 × 9 = 270}} (un altre arredoniment pròxim també val). Exactament, 279 €.",
+          "va": "Més o menys 270 €: per exemple, {{30 × 9 = 270}} (un altre arrodoniment pròxim també val). Exactament, 279 €.",
           "en": "About 270 €: for example, {{30 × 9 = 270}} (another close rounding is fine too). Exactly, 279 €.",
           "fr": "Environ 270 € : par exemple, {{30 × 9 = 270}} (un autre arrondi proche convient aussi). Exactement, 279 €.",
           "ar": "نحو 270 يورو: مثلًا {{30 × 9 = 270}} (وأي تقريب قريب آخر يصلح أيضًا). وبالضبط 279 يورو."
@@ -251,7 +251,7 @@
         "es": "Para recordar: un álbum tiene 16 páginas y en cada página caben 6 cromos. ¿Cuántos cromos caben?",
         "va": "Per a recordar: un àlbum té 16 pàgines i en cada pàgina hi caben 6 cromos. Quants cromos hi caben?",
         "en": "Let's remember: an album has 16 pages and each page holds 6 stickers. How many stickers fit?",
-        "fr": "Pour se souvenir : un album a 16 pages et chaque page peut contenir 6 images. Combien d'images peut-il contenir ?",
+        "fr": "Pour se souvenir : un album a 16 pages et chaque page peut contenir 6 vignettes. Combien de vignettes peut-il contenir ?",
         "ar": "لنتذكّر: في ألبوم 16 صفحة، وتتّسع كل صفحة لـ6 صور لاصقة. كم صورة يتّسع لها الألبوم؟"
       },
       "pista": {
@@ -270,13 +270,13 @@
           "es": "Caben 96 cromos.",
           "va": "Hi caben 96 cromos.",
           "en": "96 stickers fit.",
-          "fr": "Il peut contenir 96 images.",
+          "fr": "Il peut contenir 96 vignettes.",
           "ar": "يتّسع لـ96 صورة."
         }
       },
       "inventala": {
         "es": "Inventa tú una multiplicación de un número de dos cifras y cuenta cómo lo partes.",
-        "va": "Inventa't una multiplicació d'un número de dues xifres i conta com el partixes.",
+        "va": "Inventa't una multiplicació d'un nombre de dues xifres i conta com el partixes.",
         "en": "Make up a multiplication with a two-digit number and explain how you split it.",
         "fr": "Invente une multiplication avec un nombre à deux chiffres et raconte comment tu le coupes.",
         "ar": "لنخترع عملية ضرب لعدد من رقمين ونحكي كيف نقسمه."
@@ -298,16 +298,16 @@
         "va": "Si no sap per on començar: «Quant és {{10 × 5}}? I {{12 × 5}} serà molt més?»",
         "en": "If they don't know where to start: “What is {{10 × 5}}? Will {{12 × 5}} be much more?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Combien fait {{10 × 5}} ? Et {{12 × 5}}, ce sera beaucoup plus ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم يساوي {{10 × 5}}؟ وهل سيكون {{12 × 5}} أكثر بكثير؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كم يساوي {{10 × 5}}؟ وهل سيكون {{12 × 5}} أكثر بكثير؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
           "es": "Puede decir que {{10 × 5 = 50}} y que 12 es poco más que 10, así que saldrá poco más de 50. Lo importante es la razón, no el número exacto.",
-          "va": "Pot dir que {{10 × 5 = 50}} i que 12 és poc més que 10, així que eixirà poc més de 50. L'important és la raó, no el número exacte.",
+          "va": "Pot dir que {{10 × 5 = 50}} i que 12 és poc més que 10, així que eixirà poc més de 50. L'important és la raó, no el nombre exacte.",
           "en": "They might say that {{10 × 5 = 50}} and 12 is only a bit more than 10, so it'll be a bit more than 50. What matters is the reason, not the exact number.",
           "fr": "Il ou elle peut dire que {{10 × 5 = 50}} et que 12, c'est à peine plus que 10, donc ça fera un peu plus de 50. L'important, c'est la raison, pas le nombre exact.",
-          "ar": "قد يقول إن {{10 × 5 = 50}} وإن 12 أكثر من 10 بقليل، فالناتج سيكون أكثر من 50 بقليل. المهمّ هو السبب، لا العدد الدقيق."
+          "ar": "قد يقولون إن {{10 × 5 = 50}} وإن 12 أكثر من 10 بقليل، فالناتج سيكون أكثر من 50 بقليل. المهمّ هو السبب، لا العدد الدقيق."
         }
       }
     }
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "b31b9908ac4b"
+        "huella": "528ec6f5eca3"
       },
       "en": {
         "estado": "automatica",
-        "huella": "b31b9908ac4b"
+        "huella": "528ec6f5eca3"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "b31b9908ac4b"
+        "huella": "528ec6f5eca3"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "b31b9908ac4b"
+        "huella": "528ec6f5eca3"
       }
     }
   }

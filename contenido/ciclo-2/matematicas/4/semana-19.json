@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana descubren que, al multiplicar varios números, se pueden cambiar de orden y agrupar como venga mejor: en {{25 × 7 × 4}}, primero {{25 × 4 = 100}} y luego {{100 × 7 = 700}}. En clase hablan de las propiedades conmutativa, asociativa y distributiva.",
-    "va": "Aquesta setmana descobreixen que, en multiplicar diversos números, es poden canviar d'ordre i agrupar com vinga millor: en {{25 × 7 × 4}}, primer {{25 × 4 = 100}} i després {{100 × 7 = 700}}. A classe parlen, en castellà, de les «propiedades conmutativa, asociativa y distributiva».",
+    "va": "Aquesta setmana descobrixen que, en multiplicar diversos nombres, es poden canviar d'ordre i agrupar com vinga millor: en {{25 × 7 × 4}}, primer {{25 × 4 = 100}} i després {{100 × 7 = 700}}. A classe parlen, en castellà, de les «propiedades conmutativa, asociativa y distributiva».",
     "en": "This week they discover that, when multiplying several numbers, you can change their order and group them however works best: in {{25 × 7 × 4}}, first {{25 × 4 = 100}} and then {{100 × 7 = 700}}. In class, in Spanish, they talk about the «propiedades conmutativa, asociativa y distributiva» (commutative, associative and distributive properties).",
     "fr": "Cette semaine, on découvre que, quand on multiplie plusieurs nombres, on peut changer leur ordre et les regrouper comme ça arrange : dans {{25 × 7 × 4}}, d'abord {{25 × 4 = 100}}, puis {{100 × 7 = 700}}. En classe, en espagnol, on parle des « propiedades conmutativa, asociativa y distributiva » (commutativité, associativité et distributivité).",
     "ar": "هذا الأسبوع يكتشف الأطفال أنه عند ضرب عدة أعداد يمكن تغيير ترتيبها وتجميعها كما يناسب: في {{25 × 7 × 4}}، أولًا {{25 × 4 = 100}} ثم {{100 × 7 = 700}}. في القسم يتحدّثون بالإسبانية عن «propiedades conmutativa, asociativa y distributiva» (خصائص التبديل والتجميع والتوزيع)."
@@ -25,7 +25,7 @@
     "va": "L'important no és arribar abans, sinó explicar el camí. Pregunteu «per què has començat per ací?» i conteu també el vostre: de vegades n'hi ha més d'un de bo.",
     "en": "What matters isn't getting there first, but explaining the route. Ask “Why did you start there?” and share your own route too: sometimes there's more than one good one.",
     "fr": "L'important n'est pas d'arriver en premier, mais d'expliquer le chemin. Demandez « Pourquoi as-tu commencé par là ? » et racontez aussi le vôtre : parfois, il y en a plusieurs de bons.",
-    "ar": "المهم ليس الوصول أولًا، بل شرح الطريق. اسألوا «لماذا بدأنا من هنا؟» واحكوا طريقكم أيضًا: أحيانًا يكون هناك أكثر من طريق جيد."
+    "ar": "المهم ليس الوصول أولًا، بل شرح الطريق. اسألوا «لماذا بدأتَ أو بدأتِ من هنا؟» واحكوا طريقكم أيضًا: أحيانًا يكون هناك أكثر من طريق جيد."
   },
   "saberes": [
     "matematicas.operaciones.propiedades",
@@ -65,7 +65,7 @@
         "pictograma": "tarjetas",
         "texto": {
           "es": "Escribid en papelitos tres multiplicaciones de tres números: {{5 × 9 × 2}}, {{25 × 3 × 4}} y {{2 × 7 × 50}}.",
-          "va": "Escriviu en paperets tres multiplicacions de tres números: {{5 × 9 × 2}}, {{25 × 3 × 4}} i {{2 × 7 × 50}}.",
+          "va": "Escriviu en paperets tres multiplicacions de tres nombres: {{5 × 9 × 2}}, {{25 × 3 × 4}} i {{2 × 7 × 50}}.",
           "en": "Write three multiplications of three numbers on slips of paper: {{5 × 9 × 2}}, {{25 × 3 × 4}} and {{2 × 7 × 50}}.",
           "fr": "Écrivez sur des petits papiers trois multiplications de trois nombres : {{5 × 9 × 2}}, {{25 × 3 × 4}} et {{2 × 7 × 50}}.",
           "ar": "اكتبوا على قصاصات ورق ثلاث عمليات ضرب لثلاثة أعداد: {{5 × 9 × 2}} و{{25 × 3 × 4}} و{{2 × 7 × 50}}."
@@ -74,11 +74,11 @@
       {
         "pictograma": "manos",
         "texto": {
-          "es": "Cada persona elige un papelito y busca, de cabeza, en qué orden le resulta más fácil multiplicar.",
-          "va": "Cada persona tria un paperet i busca, de cap, en quin ordre li resulta més fàcil multiplicar.",
-          "en": "Each person picks a slip and works out, in their head, which order makes the multiplication easiest.",
-          "fr": "Chaque personne choisit un papier et cherche, de tête, dans quel ordre il est le plus facile de multiplier.",
-          "ar": "يختار كل شخص قصاصة ويبحث ذهنيًا عن الترتيب الذي يسهّل عليه الضرب."
+          "es": "Elegid un papelito para todo el grupo. Cada persona busca, de cabeza, en qué orden le resulta más fácil multiplicar. Luego, el siguiente papelito.",
+          "va": "Trieu un paperet per a tot el grup. Cada persona busca, de cap, en quin ordre li resulta més fàcil multiplicar. Després, el paperet següent.",
+          "en": "Pick one slip for everyone. Each person works out, in their head, which order makes the multiplication easiest. Then, the next slip.",
+          "fr": "Choisissez un papier pour tout le monde. Chaque personne cherche, de tête, dans quel ordre il est le plus facile de multiplier. Ensuite, le papier suivant.",
+          "ar": "اختاروا قصاصة واحدة للجميع. يبحث كل شخص ذهنيًا عن الترتيب الذي يسهّل عليه الضرب. ثم القصاصة التالية."
         }
       },
       {
@@ -103,11 +103,11 @@
       }
     ],
     "masFacil": {
-      "es": "Usad multiplicaciones en las que salga 10 al juntar dos de los números, como {{2 × 8 × 5}} o {{5 × 3 × 2}}.",
-      "va": "Feu servir multiplicacions en què isca 10 en ajuntar dos dels números, com ara {{2 × 8 × 5}} o {{5 × 3 × 2}}.",
-      "en": "Use multiplications where two of the numbers make 10 together, like {{2 × 8 × 5}} or {{5 × 3 × 2}}.",
-      "fr": "Utilisez des multiplications où deux des nombres donnent 10 ensemble, comme {{2 × 8 × 5}} ou {{5 × 3 × 2}}.",
-      "ar": "استعملوا عمليات ضرب يعطي فيها عددان معًا 10، مثل {{2 × 8 × 5}} أو {{5 × 3 × 2}}."
+      "es": "Usad multiplicaciones en las que dos de los números den 10 al multiplicarlos, como {{2 × 8 × 5}} o {{5 × 3 × 2}}.",
+      "va": "Feu servir multiplicacions en què dos dels nombres donen 10 en multiplicar-los, com ara {{2 × 8 × 5}} o {{5 × 3 × 2}}.",
+      "en": "Use multiplications where two of the numbers make 10 when multiplied, like {{2 × 8 × 5}} or {{5 × 3 × 2}}.",
+      "fr": "Utilisez des multiplications où deux des nombres donnent 10 quand on les multiplie, comme {{2 × 8 × 5}} ou {{5 × 3 × 2}}.",
+      "ar": "استعملوا عمليات ضرب يعطي فيها عددان 10 عند ضربهما، مثل {{2 × 8 × 5}} أو {{5 × 3 × 2}}."
     },
     "masDificil": {
       "es": "Probad con la distributiva: {{8 × 26}} es {{8 × 25}} más 8. ¿Os sale más rápido así que con la cuenta en papel?",
@@ -197,7 +197,7 @@
       },
       "inventala": {
         "es": "Inventa tú una multiplicación de tres números en la que haya un 25 y un 4.",
-        "va": "Inventa't una multiplicació de tres números en què hi haja un 25 i un 4.",
+        "va": "Inventa't una multiplicació de tres nombres en què hi haja un 25 i un 4.",
         "en": "Make up a multiplication of three numbers that includes a 25 and a 4.",
         "fr": "Invente une multiplication de trois nombres où il y a un 25 et un 4.",
         "ar": "لنخترع عملية ضرب لثلاثة أعداد فيها 25 و4."
@@ -212,7 +212,7 @@
         "va": "Darío calcula {{9 × 12}} així: {{9 × 10 = 90}} i {{9 × 2 = 18}}. Quant li ix? Se t'ocorre una altra manera?",
         "en": "Darío works out {{9 × 12}} like this: {{9 × 10 = 90}} and {{9 × 2 = 18}}. What does he get? Can you think of another way?",
         "fr": "Darío calcule {{9 × 12}} comme ça : {{9 × 10 = 90}} et {{9 × 2 = 18}}. Combien trouve-t-il ? Vois-tu une autre façon ?",
-        "ar": "يحسب داريو {{9 × 12}} هكذا: {{9 × 10 = 90}} و{{9 × 2 = 18}}. كم يحصل؟ هل تخطر لنا طريقة أخرى؟"
+        "ar": "يحسب داريو {{9 × 12}} هكذا: {{9 × 10 = 90}} و{{9 × 2 = 18}}. على كم يحصل؟ هل تخطر لنا طريقة أخرى؟"
       },
       "pista": {
         "es": "Suma los dos trozos. Otra forma: {{10 × 12 = 120}} y quita 12.",
@@ -276,7 +276,7 @@
       },
       "inventala": {
         "es": "Inventa tú una multiplicación por un número de dos cifras y pártela en trozos.",
-        "va": "Inventa't una multiplicació per un número de dues xifres i partix-la en trossos.",
+        "va": "Inventa't una multiplicació per un nombre de dues xifres i partix-la en trossos.",
         "en": "Make up a multiplication by a two-digit number and split it into pieces.",
         "fr": "Invente une multiplication par un nombre à deux chiffres et coupe-la en morceaux.",
         "ar": "لنخترع عملية ضرب في عدد من رقمين ونقسمها إلى أجزاء."
@@ -298,7 +298,7 @@
         "va": "Si no sap per on començar: «Què passa si poses 3 files de 4 botons i gires el plat?»",
         "en": "If they don't know where to start: “What happens if you put 3 rows of 4 buttons on a plate and turn it?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Que se passe-t-il si tu mets 3 rangées de 4 boutons et que tu tournes l'assiette ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا يحدث إذا وضعنا 3 صفوف من 4 أزرار في صحن وأدرناه؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا يحدث إذا وضعنا 3 صفوف من 4 أزرار في صحن وأدرناه؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d4d42c92b00c"
+        "huella": "eb7a7c27d029"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d4d42c92b00c"
+        "huella": "eb7a7c27d029"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d4d42c92b00c"
+        "huella": "eb7a7c27d029"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d4d42c92b00c"
+        "huella": "eb7a7c27d029"
       }
     }
   }

@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana descubren los múltiplos y los divisores, que son las tablas leídas al revés. 12 es múltiplo de 3 porque está en la tabla del 3, y 3 es divisor de 12 porque 12 se reparte entre 3 sin que sobre nada.",
-    "va": "Aquesta setmana descobreixen els múltiples i els divisors (múltiplos y divisores), que són les taules llegides al revés. 12 és múltiple de 3 perquè està en la taula del 3, i 3 és divisor de 12 perquè 12 es repartix entre 3 sense que en sobre res.",
-    "en": "This week they discover multiples and factors (múltiplos y divisores), which are the times tables read backwards. 12 is a multiple of 3 because it's in the 3 times table, and 3 is a factor of 12 because 12 shares between 3 with nothing left over.",
-    "fr": "Cette semaine, on découvre les multiples et les diviseurs (múltiplos y divisores), c'est-à-dire les tables lues à l'envers. 12 est un multiple de 3 parce qu'il est dans la table de 3, et 3 est un diviseur de 12 parce que 12 se partage entre 3 sans reste.",
-    "ar": "هذا الأسبوع يكتشف الأطفال المضاعفات والقواسم (múltiplos y divisores)، وهي جداول الضرب مقروءة بالعكس. 12 من مضاعفات 3 لأنه في جدول 3، و3 من قواسم 12 لأن 12 يُقسم على 3 دون باقٍ."
+    "va": "Aquesta setmana descobrixen els múltiples i els divisors (múltiplos y divisores), que són les taules llegides al revés. 12 és múltiple de 3 perquè està en la taula del 3 (tabla del 3), i 3 és divisor de 12 perquè 12 es repartix entre 3 sense que en sobre res.",
+    "en": "This week they discover multiples and factors (múltiplos y divisores), which are the times tables read backwards. 12 is a multiple of 3 because it's in the 3 times table (tabla del 3), and 3 is a factor of 12 because 12 can be shared equally between 3 with nothing left over.",
+    "fr": "Cette semaine, on découvre les multiples et les diviseurs (múltiplos y divisores), c'est-à-dire les tables lues à l'envers. 12 est un multiple de 3 parce qu'il est dans la table de 3 (tabla del 3), et 3 est un diviseur de 12 parce que 12 se partage entre 3 sans reste.",
+    "ar": "هذا الأسبوع يكتشف الأطفال المضاعفات والقواسم (múltiplos y divisores)، وهي جداول الضرب مقروءة بالعكس. 12 من مضاعفات 3 لأنه في جدول ضرب 3 (tabla del 3)، و3 من قواسم 12 لأن 12 يُقسم على 3 دون باقٍ."
   },
   "comoAyudar": {
     "es": "Las palabras «múltiplo» y «divisor» se confunden con facilidad. No pasa nada: preguntad «¿está en la tabla?» y «¿se reparte sin que sobre?», y que elija la palabra después.",
     "va": "Les paraules «múltiple» i «divisor» es confonen amb facilitat. No passa res: pregunteu «està en la taula?» i «es repartix sense que en sobre?», i que trie la paraula després.",
     "en": "The words “multiple” and “factor” are easily mixed up. That's fine: ask “Is it in the times table?” and “Does it share out with nothing left over?”, and let them choose the word afterwards.",
     "fr": "Les mots « multiple » et « diviseur » se confondent facilement. Ce n'est pas grave : demandez « Il est dans la table ? » et « Ça se partage sans reste ? », et laissez choisir le mot après.",
-    "ar": "تختلط كلمتا «مضاعف» و«قاسم» بسهولة. لا بأس: اسألوا «هل هو في الجدول؟» و«هل يُقسم دون باقٍ؟»، ثم اتركوا الطفل يختار الكلمة."
+    "ar": "تختلط كلمتا «مضاعف» و«قاسم» بسهولة. لا بأس: اسألوا «هل هو في الجدول؟» و«هل يُقسم دون باقٍ؟»، ثم اتركوا الأطفال يختارون الكلمة."
   },
   "saberes": [
     "matematicas.numeros.multiplos-divisores",
@@ -95,7 +95,7 @@
         "pictograma": "ojo",
         "texto": {
           "es": "Mirad qué números han salido en las filas y en las columnas: 1, 2, 3, 4, 6 y 12. Son los divisores de 12.",
-          "va": "Mireu quins números han eixit en les files i en les columnes: 1, 2, 3, 4, 6 i 12. Són els divisors de 12.",
+          "va": "Mireu quins nombres han eixit en les files i en les columnes: 1, 2, 3, 4, 6 i 12. Són els divisors de 12.",
           "en": "Look at the numbers that came up in the rows and columns: 1, 2, 3, 4, 6 and 12. They're the factors of 12.",
           "fr": "Regardez quels nombres sont apparus dans les rangées et les colonnes : 1, 2, 3, 4, 6 et 12. Ce sont les diviseurs de 12.",
           "ar": "انظروا إلى الأعداد التي ظهرت في الصفوف والأعمدة: 1، 2، 3، 4، 6، 12. إنها قواسم 12."
@@ -148,7 +148,7 @@
         "va": "Està el 18 en la taula del 4? I en la del 3?",
         "en": "Is 18 in the 4 times table? And in the 3 times table?",
         "fr": "Est-ce que 18 est dans la table de 4 ? Et dans celle de 3 ?",
-        "ar": "هل 18 في جدول 4؟ وفي جدول 3؟"
+        "ar": "هل 18 في جدول ضرب 4؟ وفي جدول ضرب 3؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -223,7 +223,7 @@
       },
       "pista": {
         "es": "Busca números que multiplicados por otro den 24: {{4 × 6}}, {{3 × 8}}…",
-        "va": "Busca números que multiplicats per un altre donen 24: {{4 × 6}}, {{3 × 8}}…",
+        "va": "Busca nombres que multiplicats per un altre donen 24: {{4 × 6}}, {{3 × 8}}…",
         "en": "Look for numbers that, multiplied by another, make 24: {{4 × 6}}, {{3 × 8}}…",
         "fr": "Cherche des nombres qui, multipliés par un autre, donnent 24 : {{4 × 6}}, {{3 × 8}}…",
         "ar": "لنبحث عن أعداد تعطي 24 إذا ضُربت في عدد آخر: {{4 × 6}}، {{3 × 8}}…"
@@ -234,11 +234,11 @@
         "resultado": 4,
         "unidad": "unidades",
         "texto": {
-          "es": "Los equipos pueden ser de 2, 3, 4, 6, 8 o 12 personas: son divisores de 24. Por ejemplo, con equipos de 6 salen 4 equipos, porque {{4 × 6 = 24}}.",
-          "va": "Els equips poden ser de 2, 3, 4, 6, 8 o 12 persones: són divisors de 24. Per exemple, amb equips de 6 n'ixen 4, perquè {{4 × 6 = 24}}.",
-          "en": "Teams can have 2, 3, 4, 6, 8 or 12 people: they're factors of 24. For example, with teams of 6 you get 4 teams, because {{4 × 6 = 24}}.",
-          "fr": "Les équipes peuvent avoir 2, 3, 4, 6, 8 ou 12 personnes : ce sont des diviseurs de 24. Par exemple, avec des équipes de 6, on a 4 équipes, parce que {{4 × 6 = 24}}.",
-          "ar": "يمكن أن يكون في الفريق 2 أو 3 أو 4 أو 6 أو 8 أو 12 شخصًا: إنها قواسم 24. مثلًا، مع فرق من 6 تخرج 4 فرق، لأن {{4 × 6 = 24}}."
+          "es": "Los equipos pueden ser de 2, 3, 4, 6, 8 o 12 personas: son divisores de 24. Por ejemplo, con equipos de 6 salen 4 equipos, porque {{4 × 6 = 24}}. Con 1 o con 24 también sale, aunque serían equipos de una persona o un solo equipo.",
+          "va": "Els equips poden ser de 2, 3, 4, 6, 8 o 12 persones: són divisors de 24. Per exemple, amb equips de 6 n'ixen 4, perquè {{4 × 6 = 24}}. Amb 1 o amb 24 també ix, encara que serien equips d'una persona o un sol equip.",
+          "en": "Teams can have 2, 3, 4, 6, 8 or 12 people: they're factors of 24. For example, with teams of 6 you get 4 teams, because {{4 × 6 = 24}}. 1 and 24 work too, although that would mean one-person teams or just one team.",
+          "fr": "Les équipes peuvent avoir 2, 3, 4, 6, 8 ou 12 personnes : ce sont des diviseurs de 24. Par exemple, avec des équipes de 6, on a 4 équipes, parce que {{4 × 6 = 24}}. Avec 1 ou avec 24, ça marche aussi, même si ce seraient des équipes d'une personne ou une seule équipe.",
+          "ar": "يمكن أن يكون في الفريق 2 أو 3 أو 4 أو 6 أو 8 أو 12 شخصًا: إنها قواسم 24. مثلًا، مع فرق من 6 تخرج 4 فرق، لأن {{4 × 6 = 24}}. ويصلح 1 و24 أيضًا، مع أنها ستكون فرقًا من شخص واحد أو فريقًا واحدًا فقط."
         }
       },
       "inventala": {
@@ -303,9 +303,9 @@
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿El 12 está en la tabla del 3? ¿Y el 12 se reparte entre 3 sin que sobre?»",
         "va": "Si no sap per on començar: «El 12 està en la taula del 3? I el 12 es repartix entre 3 sense que en sobre?»",
-        "en": "If they don't know where to start: “Is 12 in the 3 times table? And does 12 share between 3 with nothing left over?”",
+        "en": "If they don't know where to start: “Is 12 in the 3 times table? And can 12 be shared equally between 3 with nothing left over?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Est-ce que 12 est dans la table de 3 ? Et est-ce que 12 se partage entre 3 sans reste ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل 12 في جدول 3؟ وهل يُقسم 12 على 3 دون باقٍ؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل 12 في جدول ضرب 3؟ وهل يُقسم 12 على 3 دون باقٍ؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "6418538418e2"
+        "huella": "59d740b92af7"
       },
       "en": {
         "estado": "automatica",
-        "huella": "6418538418e2"
+        "huella": "59d740b92af7"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "6418538418e2"
+        "huella": "59d740b92af7"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "6418538418e2"
+        "huella": "59d740b92af7"
       }
     }
   }

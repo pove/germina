@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Las cajas de casa son poliedros: tienen caras planas, aristas (los bordes donde se juntan dos caras) y vértices (las esquinas). Contarlas y desmontar una caja enseña cómo un cuerpo sale de una forma plana.",
-    "va": "Les capses de casa són poliedres: tenen cares planes, arestes (les vores on s'ajunten dues cares) i vèrtexs (les cantonades). Comptar-les i desmuntar una capsa ensenya com un cos ix d'una forma plana.",
-    "en": "The boxes at home are polyhedra (poliedros): they have flat faces, edges (where two faces meet) and vertices (the corners). Counting them and taking a box apart shows how a solid comes from a flat shape.",
-    "fr": "Les boîtes de la maison sont des polyèdres (poliedros) : elles ont des faces planes, des arêtes (les bords où deux faces se rejoignent) et des sommets (les coins). Les compter et défaire une boîte montre comment un solide naît d'une forme plate.",
-    "ar": "علب البيت مجسّمات متعدّدة الوجوه (poliedros): لها أوجه مستوية، وأحرف (الحواف التي يلتقي فيها وجهان)، ورؤوس (الزوايا). عدّها وفكّ علبة يُظهر كيف يخرج المجسّم من شكل مسطّح."
+    "va": "Les capses de casa són poliedres (poliedros): tenen cares planes, arestes (les vores on s'ajunten dues cares, aristas) i vèrtexs (les cantonades, vértices). Comptar-les i desmuntar una capsa ensenya com un cos ix d'una forma plana.",
+    "en": "The boxes at home are polyhedra (poliedros): they have flat faces, edges (where two faces meet, aristas) and vertices (the corners, vértices). Counting them and taking a box apart shows how a solid comes from a flat shape.",
+    "fr": "Les boîtes de la maison sont des polyèdres (poliedros) : elles ont des faces planes, des arêtes (les bords où deux faces se rejoignent, aristas) et des sommets (les coins, vértices). Les compter et défaire une boîte montre comment un solide naît d'une forme plate.",
+    "ar": "علب البيت مجسّمات متعدّدة الوجوه (poliedros): لها أوجه مستوية، وأحرف (الحواف التي يلتقي فيها وجهان، aristas)، ورؤوس (الزوايا، vértices). عدّها وفكّ علبة يُظهر كيف يخرج المجسّم من شكل مسطّح."
   },
   "comoAyudar": {
     "es": "Al contar aristas es fácil perderse. Proponed marcar cada una con una pegatina o un trocito de cinta: así nadie cuenta dos veces la misma.",
@@ -90,21 +90,21 @@
       {
         "pictograma": "ojo",
         "texto": {
-          "es": "Y los vértices, las esquinas donde se juntan tres aristas. ¿Todas las cajas tienen los mismos números?",
-          "va": "I els vèrtexs, les cantonades on s'ajunten tres arestes. Totes les capses tenen els mateixos números?",
-          "en": "And the vertices, the corners where three edges meet. Do all the boxes have the same numbers?",
-          "fr": "Et les sommets, les coins où trois arêtes se rejoignent. Toutes les boîtes ont-elles les mêmes nombres ?",
-          "ar": "ثم الرؤوس، الزوايا التي تلتقي فيها ثلاثة أحرف. هل لكل العلب الأعداد نفسها؟"
+          "es": "Y los vértices, las esquinas donde se juntan varias aristas (en las cajas, tres). ¿Todas las cajas tienen los mismos números?",
+          "va": "I els vèrtexs, les cantonades on s'ajunten diverses arestes (en les capses, tres). Totes les capses tenen els mateixos nombres?",
+          "en": "And the vertices, the corners where several edges meet (on boxes, three). Do all the boxes have the same numbers?",
+          "fr": "Et les sommets, les coins où plusieurs arêtes se rejoignent (sur les boîtes, trois). Toutes les boîtes ont-elles les mêmes nombres ?",
+          "ar": "ثم الرؤوس، الزوايا التي تلتقي فيها عدة أحرف (في العلب ثلاثة). هل لكل العلب الأعداد نفسها؟"
         }
       },
       {
         "pictograma": "tijeras",
         "texto": {
           "es": "Con una persona adulta, cortad por algunas aristas hasta que la caja quede plana. ¿Qué formas veis? Es el desarrollo de la caja.",
-          "va": "Amb una persona adulta, talleu per algunes arestes fins que la capsa quede plana. Quines formes veieu? És el desenvolupament de la capsa.",
-          "en": "With an adult, cut along some edges until the box lies flat. What shapes can you see? That is the box's net.",
-          "fr": "Avec une personne adulte, coupez le long de quelques arêtes jusqu'à ce que la boîte soit à plat. Quelles formes voyez-vous ? C'est le patron de la boîte.",
-          "ar": "مع شخص بالغ، قصّوا على طول بعض الأحرف حتى تصبح العلبة مسطّحة. أي أشكال ترون؟ هذا هو مُنبسط العلبة."
+          "va": "Amb una persona adulta, talleu per algunes arestes fins que la capsa quede plana. Quines formes veieu? És el desenvolupament (desarrollo) de la capsa.",
+          "en": "With an adult, cut along some edges until the box lies flat. What shapes can you see? That is the box's net (desarrollo).",
+          "fr": "Avec une personne adulte, coupez le long de quelques arêtes jusqu'à ce que la boîte soit à plat. Quelles formes voyez-vous ? C'est le patron (desarrollo) de la boîte.",
+          "ar": "مع شخص بالغ، قصّوا على طول بعض الأحرف حتى تصبح العلبة مسطّحة. أي أشكال ترون؟ هذه هي شبكة العلبة (desarrollo)."
         }
       }
     ],
@@ -127,7 +127,7 @@
       "va": "Passar d'una capsa a la seua forma plana i al revés entrena la vista en l'espai, que s'usa per a muntar mobles, llegir plànols o fer maquetes.",
       "en": "Going from a box to its flat shape and back trains your sense of space, which is used to build furniture, read plans or make models.",
       "fr": "Passer d'une boîte à sa forme plate et inversement entraîne la vision dans l'espace, qui sert à monter des meubles, lire des plans ou faire des maquettes.",
-      "ar": "الانتقال من العلبة إلى شكلها المسطّح وبالعكس يدرّب النظر في الفضاء، وهذا يُستعمل في تركيب الأثاث وقراءة المخطّطات وصنع المجسّمات."
+      "ar": "الانتقال من العلبة إلى شكلها المسطّح وبالعكس يدرّب الرؤية المكانية، وهذا يُستعمل في تركيب الأثاث وقراءة المخطّطات وصنع المجسّمات."
     },
     "aviso": {
       "es": "Las tijeras, siempre con una persona adulta al lado.",
@@ -151,10 +151,10 @@
       },
       "pista": {
         "es": "Suma 6 cuatro veces o piensa en la tabla del 4: el doble del doble.",
-        "va": "Suma 6 quatre vegades o pensa en la taula del 4: el doble del doble.",
-        "en": "Add 6 four times or think of the 4 times table: double the double.",
-        "fr": "Ajoute 6 quatre fois ou pense à la table de 4 : le double du double.",
-        "ar": "لنجمع 6 أربع مرات أو نفكّر في جدول 4: ضعف الضعف."
+        "va": "Suma 6 quatre vegades o pensa en la taula del 4 (tabla del 4): el doble del doble.",
+        "en": "Add 6 four times or think of the 4 times table (tabla del 4): double the double.",
+        "fr": "Ajoute 6 quatre fois ou pense à la table de 4 (tabla del 4) : le double du double.",
+        "ar": "لنجمع 6 أربع مرات أو نفكّر في جدول ضرب 4 (tabla del 4): ضعف الضعف."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -211,7 +211,7 @@
       "inventala": {
         "es": "Inventa tú una de «¿cuántas faltan?» con las caras o las esquinas de una caja.",
         "va": "Inventa'n tu una de «quantes en falten?» amb les cares o les cantonades d'una capsa.",
-        "en": "Make up a “how many are left?” one with the faces or corners of a box.",
+        "en": "Make up a “how many more do we need?” one with the faces or corners of a box.",
         "fr": "Invente un problème « combien il en manque ? » avec les faces ou les coins d'une boîte.",
         "ar": "لنخترع مسألة «كم ينقص؟» عن أوجه علبة أو زواياها."
       }
@@ -238,7 +238,7 @@
         "tipo": "abierta",
         "orientacion": {
           "es": "Tienen los mismos: 8. La caja es más grande y alargada, pero el número de esquinas no cambia. Si lo descubre contando, mejor que diciéndolo de memoria.",
-          "va": "En tenen els mateixos: 8. La capsa és més gran i allargada, però el nombre de cantonades no canvia. Si ho descobreix comptant, millor que dient-ho de memòria.",
+          "va": "En tenen els mateixos: 8. La capsa és més gran i allargada, però el nombre de cantonades no canvia. Si ho descobrix comptant, millor que dient-ho de memòria.",
           "en": "They have the same: 8. The box is bigger and longer, but the number of corners doesn't change. Finding it out by counting is better than saying it from memory.",
           "fr": "Ils en ont autant : 8. La boîte est plus grande et allongée, mais le nombre de coins ne change pas. Le découvrir en comptant vaut mieux que le dire de mémoire.",
           "ar": "لهما العدد نفسه: 8. العلبة أكبر وأطول، لكن عدد الزوايا لا يتغيّر. اكتشاف ذلك بالعدّ أفضل من قوله حفظًا."
@@ -308,7 +308,7 @@
         "va": "Si no sap per on començar: «On s'ajunten dues cares? M'ho ensenyes amb el dit?»",
         "en": "If they don't know where to start: “Where do two faces meet? Can you show me with your finger?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Où deux faces se rejoignent-elles ? Tu me montres avec le doigt ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أين يلتقي وجهان؟ هل نُريه بالإصبع؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «أين يلتقي وجهان؟ هل نُري ذلك بالإصبع؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -329,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "be354a586d31"
+        "huella": "db1cce187010"
       },
       "en": {
         "estado": "automatica",
-        "huella": "be354a586d31"
+        "huella": "db1cce187010"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "be354a586d31"
+        "huella": "db1cce187010"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "be354a586d31"
+        "huella": "db1cce187010"
       }
     }
   }
