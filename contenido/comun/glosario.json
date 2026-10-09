@@ -15,7 +15,7 @@
   { "es": "redondear", "va": "arrodonir", "en": "round", "fr": "arrondir", "ar": "قرّب", "nota": "Cambiar un número por el más cercano de una decena, una centena…" },
   { "es": "estimar", "va": "estimar", "en": "estimate", "fr": "estimer", "ar": "قدّر", "nota": "Calcular a ojo, antes de hacer la cuenta." },
   { "es": "suma", "va": "suma", "en": "addition", "fr": "addition", "ar": "الجمع" },
-  { "es": "sumando", "va": "sumand", "en": "addend", "fr": "terme", "ar": "المجموع عليه (حدّ الجمع)" },
+  { "es": "sumando", "va": "sumand", "en": "addend", "fr": "terme", "ar": "حدّ الجمع" },
   { "es": "resta", "va": "resta", "en": "subtraction", "fr": "soustraction", "ar": "الطرح" },
   { "es": "llevada", "va": "llevada", "en": "regrouping (carrying or borrowing)", "fr": "retenue", "ar": "الاستلاف أو الاحتفاظ", "nota": "En la suma, «me llevo una»; en la resta, se abre una decena. En clase la llaman así." },
   { "es": "multiplicación", "va": "multiplicació", "en": "multiplication", "fr": "multiplication", "ar": "الضرب" },
@@ -84,11 +84,11 @@
   { "es": "gráfico de barras", "va": "gràfic de barres", "en": "bar chart", "fr": "diagramme en barres", "ar": "مخطط الأعمدة" },
   { "es": "encuesta", "va": "enquesta", "en": "survey", "fr": "enquête", "ar": "استطلاع" },
   { "es": "moda", "va": "moda", "en": "mode", "fr": "mode", "ar": "المنوال", "nota": "El dato que más se repite." },
-  { "es": "media", "va": "mitjana", "en": "mean", "fr": "moyenne", "ar": "المتوسّط", "nota": "Lo que tocaría a cada uno si se repartiera todo por igual." },
+  { "es": "media", "va": "mitjana", "en": "mean", "fr": "moyenne", "ar": "المتوسّط", "nota": "Lo que tocaría a cada parte si se repartiera todo por igual." },
   { "es": "rango", "va": "rang", "en": "range", "fr": "étendue", "ar": "المدى", "nota": "La diferencia entre el dato mayor y el menor." },
   { "es": "seguro", "va": "segur", "en": "certain", "fr": "certain", "ar": "مؤكّد" },
   { "es": "posible", "va": "possible", "en": "possible", "fr": "possible", "ar": "ممكن" },
   { "es": "imposible", "va": "impossible", "en": "impossible", "fr": "impossible", "ar": "مستحيل" },
-  { "es": "diagrama de árbol", "va": "diagrama d'arbre", "en": "tree diagram", "fr": "arbre", "ar": "مخطّط شجري", "nota": "Dibujo con ramas para contar todas las combinaciones sin olvidar ninguna." },
+  { "es": "diagrama de árbol", "va": "diagrama d'arbre", "en": "tree diagram", "fr": "arbre de choix", "ar": "مخطّط شجري", "nota": "Dibujo con ramas para contar todas las combinaciones sin olvidar ninguna." },
   { "es": "espacio muestral", "va": "espai mostral", "en": "sample space", "fr": "univers", "ar": "فضاء العيّنة", "nota": "Todo lo que puede salir en un juego de azar." }
 ]

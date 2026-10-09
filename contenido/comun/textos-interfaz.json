@@ -16,11 +16,11 @@
     "va": "Aquest mòbil no permet guardar el que marqueu. Germina funciona igual, però s'oblidarà en tancar la pàgina.",
     "en": "This phone can't save what you tick off. Germina works the same, but it will be forgotten when you close the page.",
     "fr": "Ce téléphone ne peut pas enregistrer ce que vous cochez. Germina fonctionne pareil, mais tout sera oublié à la fermeture de la page.",
-    "ar": "هذا الهاتف لا يسمح بحفظ ما تعلّمونه. تعمل Germina كالمعتاد، لكن سيُنسى كل شيء عند إغلاق الصفحة."
+    "ar": "هذا الهاتف لا يسمح بحفظ ما تضعون عليه علامة. تعمل Germina كالمعتاد، لكن سيُنسى كل شيء عند إغلاق الصفحة."
   },
   "aviso.instalar": {
     "es": "Si añadís Germina a la pantalla de inicio, vuestro jardín estará más a salvo.",
-    "va": "Si afegiu Germina a la pantalla d'inici, el vostre jardí estarà més a bon recer.",
+    "va": "Si afegiu Germina a la pantalla d'inici, el vostre jardí estarà més segur.",
     "en": "If you add Germina to your home screen, your garden will be safer.",
     "fr": "Si vous ajoutez Germina à l'écran d'accueil, votre jardin sera plus en sécurité.",
     "ar": "إذا أضفتم Germina إلى الشاشة الرئيسية، فسيكون بستانكم أكثر أمانًا."
@@ -109,7 +109,7 @@
 
   "nav.inicio": { "es": "Esta semana", "va": "Aquesta setmana", "en": "This week", "fr": "Cette semaine", "ar": "هذا الأسبوع" },
   "nav.jardin": { "es": "El jardín", "va": "El jardí", "en": "The garden", "fr": "Le jardin", "ar": "البستان" },
-  "nav.aprenden": { "es": "Qué aprenden", "va": "Què aprenen", "en": "What they learn", "fr": "Ce qu'ils apprennent", "ar": "ماذا يتعلمون" },
+  "nav.aprenden": { "es": "Qué aprenden", "va": "Què aprenen", "en": "What they learn", "fr": "Ce qu'on apprend", "ar": "ماذا يتعلمون" },
   "nav.ayuda": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
   "nav.ajustes": { "es": "Ajustes", "va": "Ajustos", "en": "Settings", "fr": "Réglages", "ar": "الإعدادات" },
   "nav.volver": { "es": "Volver", "va": "Tornar", "en": "Back", "fr": "Retour", "ar": "رجوع" },
@@ -118,8 +118,8 @@
   "semana.anterior": { "es": "Semana anterior", "va": "Setmana anterior", "en": "Previous week", "fr": "Semaine précédente", "ar": "الأسبوع السابق" },
   "semana.siguiente": { "es": "Semana siguiente", "va": "Setmana següent", "en": "Next week", "fr": "Semaine suivante", "ar": "الأسبوع التالي" },
   "semana.volver_actual": { "es": "Volver a esta semana", "va": "Tornar a aquesta setmana", "en": "Back to this week", "fr": "Revenir à cette semaine", "ar": "العودة إلى هذا الأسبوع" },
-  "semana.de_recordar": { "es": "Semana de recordar", "va": "Setmana de recordar", "en": "Week to remember", "fr": "Semaine pour se souvenir", "ar": "أسبوع التذكّر" },
-  "semana.objetivo": { "es": "Lo que descubren esta semana", "va": "El que descobrixen aquesta setmana", "en": "What they discover this week", "fr": "Ce qu'ils découvrent cette semaine", "ar": "ما يكتشفونه هذا الأسبوع" },
+  "semana.de_recordar": { "es": "Semana de recordar", "va": "Setmana de recordar", "en": "Remembering week", "fr": "Semaine de rappel", "ar": "أسبوع التذكّر" },
+  "semana.objetivo": { "es": "Lo que descubren esta semana", "va": "El que descobrixen aquesta setmana", "en": "What they discover this week", "fr": "Ce qu'on découvre cette semaine", "ar": "ما يكتشفونه هذا الأسبوع" },
   "semana.pregunta_hoy": { "es": "La pregunta de hoy", "va": "La pregunta d'avui", "en": "Today's question", "fr": "La question du jour", "ar": "سؤال اليوم" },
   "semana.ver_pregunta": { "es": "Ver la pregunta", "va": "Veure la pregunta", "en": "See the question", "fr": "Voir la question", "ar": "شاهدوا السؤال" },
   "semana.reto": { "es": "El reto de la semana", "va": "El repte de la setmana", "en": "This week's challenge", "fr": "Le défi de la semaine", "ar": "تحدّي الأسبوع" },
@@ -215,11 +215,11 @@
   "jardin.semanas": { "es": "Las semanas del curso", "va": "Les setmanes del curs", "en": "The weeks of the year", "fr": "Les semaines de l'année", "ar": "أسابيع السنة الدراسية" },
   "jardin.veranos": { "es": "Retos de verano", "va": "Reptes d'estiu", "en": "Summer challenges", "fr": "Défis de l'été", "ar": "تحدّيات الصيف" },
   "jardin.estado.semilla": { "es": "Semilla", "va": "Llavor", "en": "Seed", "fr": "Graine", "ar": "بذرة" },
-  "jardin.estado.brote": { "es": "Brote", "va": "Borró", "en": "Sprout", "fr": "Pousse", "ar": "برعم" },
+  "jardin.estado.brote": { "es": "Brote", "va": "Brot", "en": "Sprout", "fr": "Pousse", "ar": "برعم" },
   "jardin.estado.flor": { "es": "En flor", "va": "En flor", "en": "In bloom", "fr": "En fleur", "ar": "مزهرة" },
   "jardin.estado.en_camino": { "es": "Semilla en camino", "va": "Llavor en camí", "en": "Seed on its way", "fr": "Graine en route", "ar": "بذرة في الطريق" },
 
-  "aprenden.titulo": { "es": "Qué aprenden este curso", "va": "Què aprenen aquest curs", "en": "What they learn this year", "fr": "Ce qu'ils apprennent cette année", "ar": "ماذا يتعلمون هذه السنة" },
+  "aprenden.titulo": { "es": "Qué aprenden este curso", "va": "Què aprenen aquest curs", "en": "What they learn this year", "fr": "Ce qu'on apprend cette année", "ar": "ماذا يتعلمون هذه السنة" },
   "aprenden.ahora": { "es": "Ahora", "va": "Ara", "en": "Now", "fr": "En ce moment", "ar": "الآن" },
   "aprenden.trimestre": { "es": "Trimestre {n}", "va": "Trimestre {n}", "en": "Term {n}", "fr": "Trimestre {n}", "ar": "الفصل {n}" },
 
@@ -239,7 +239,7 @@
     "va": "S'esborrarà tot el que heu marcat en aquest mòbil. Segur?",
     "en": "Everything you ticked off on this phone will be erased. Are you sure?",
     "fr": "Tout ce que vous avez coché sur ce téléphone sera effacé. Vous êtes sûrs ?",
-    "ar": "سيُمحى كل ما علّمتموه على هذا الهاتف. هل أنتم متأكدون؟"
+    "ar": "سيُمحى من هذا الهاتف كل ما وضعتم عليه علامة. هل أنتم متأكدون؟"
   },
   "ajustes.empezar_de_cero_si": { "es": "Sí, empezar de cero", "va": "Sí, començar de zero", "en": "Yes, start from scratch", "fr": "Oui, repartir de zéro", "ar": "نعم، ابدؤوا من الصفر" },
 
@@ -249,7 +249,7 @@
     "va": "Així Germina s'obri com una aplicació, funciona sense connexió i el mòbil no esborra el que heu marcat.",
     "en": "That way Germina opens like an app, works without a connection, and your phone doesn't erase what you ticked off.",
     "fr": "Ainsi Germina s'ouvre comme une application, fonctionne sans connexion et le téléphone n'efface pas ce que vous avez coché.",
-    "ar": "بهذه الطريقة تُفتح Germina كتطبيق، وتعمل دون اتصال، ولا يمحو الهاتف ما علّمتموه."
+    "ar": "بهذه الطريقة تُفتح Germina كتطبيق، وتعمل دون اتصال، ولا يمحو الهاتف ما وضعتم عليه علامة."
   },
   "instalar.iphone": { "es": "En iPhone (Safari)", "va": "A l'iPhone (Safari)", "en": "On iPhone (Safari)", "fr": "Sur iPhone (Safari)", "ar": "على آيفون (Safari)" },
   "instalar.iphone_pasos": {
@@ -274,7 +274,7 @@
     "va": "Obriu aquest enllaç en l'altre mòbil. El que heu marcat viatja dins del mateix enllaç i no passa per cap servidor.",
     "en": "Open this link on the other phone. What you ticked off travels inside the link itself and doesn't go through any server.",
     "fr": "Ouvrez ce lien sur l'autre téléphone. Ce que vous avez coché voyage dans le lien lui-même et ne passe par aucun serveur.",
-    "ar": "افتحوا هذا الرابط على الهاتف الآخر. ما علّمتموه ينتقل داخل الرابط نفسه ولا يمرّ عبر أي خادم."
+    "ar": "افتحوا هذا الرابط على الهاتف الآخر. ما وضعتم عليه علامة ينتقل داخل الرابط نفسه ولا يمرّ عبر أي خادم."
   },
   "pasar.enlace": { "es": "Enlace", "va": "Enllaç", "en": "Link", "fr": "Lien", "ar": "الرابط" },
   "pasar.copiar_enlace": { "es": "Copiar el enlace", "va": "Copiar l'enllaç", "en": "Copy the link", "fr": "Copier le lien", "ar": "انسخوا الرابط" },
@@ -303,7 +303,7 @@
     "va": "Es suma al que ja teniu marcat. No s'hi lleva res.",
     "en": "It adds to what you've already ticked off. Nothing is taken away.",
     "fr": "Il s'ajoute à ce que vous avez déjà coché. Rien n'est enlevé.",
-    "ar": "يُضاف إلى ما علّمتموه من قبل. ولا يُحذف شيء."
+    "ar": "يُضاف إلى ما وضعتم عليه علامة من قبل. ولا يُحذف شيء."
   },
   "recibir.anadir": { "es": "Añadir", "va": "Afegir", "en": "Add", "fr": "Ajouter", "ar": "أضيفوا" },
   "recibir.no": { "es": "No, gracias", "va": "No, gràcies", "en": "No, thanks", "fr": "Non, merci", "ar": "لا، شكرًا" },
@@ -499,7 +499,7 @@
     "va": "El que marqueu (preguntes i reptes), els rècords, l'idioma i els cursos es guarden només en aquest mòbil, a l'emmagatzematge del navegador. No ix d'ací: ningú més pot veure'l. Si el voleu portar a un altre mòbil, ho feu vosaltres amb l'enllaç, el QR o el codi que trobareu a Ajustos.",
     "en": "What you tick off (questions and challenges), the records, the language and the years are saved only on this phone, in the browser's storage. It never leaves here: nobody else can see it. If you want to take it to another phone, you do it yourselves with the link, the QR or the code you'll find in Settings.",
     "fr": "Ce que vous cochez (questions et défis), les records, la langue et les années sont enregistrés uniquement sur ce téléphone, dans le stockage du navigateur. Rien n'en sort : personne d'autre ne peut le voir. Si vous voulez l'emporter sur un autre téléphone, vous le faites vous-mêmes avec le lien, le QR ou le code que vous trouverez dans les Réglages.",
-    "ar": "ما تعلّمونه (الأسئلة والتحدّيات) والأرقام القياسية واللغة والصفوف تُحفظ في هذا الهاتف فقط، في تخزين المتصفح. لا يخرج من هنا: لا يستطيع أحد آخر رؤيته. وإن أردتم نقله إلى هاتف آخر فأنتم من يفعل ذلك بالرابط أو برمز QR أو بالرمز الذي ستجدونه في الإعدادات."
+    "ar": "ما تضعون عليه علامة (الأسئلة والتحدّيات) والأرقام القياسية واللغة والصفوف تُحفظ في هذا الهاتف فقط، في تخزين المتصفح. لا يخرج من هنا: لا يستطيع أحد آخر رؤيته. وإن أردتم نقله إلى هاتف آخر فأنتم من يفعل ذلك بالرابط أو برمز QR أو بالرمز الذي ستجدونه في الإعدادات."
   },
   "privacidad.borrar_titulo": {
     "es": "Cómo borrarlo",
@@ -510,7 +510,7 @@
   },
   "privacidad.borrar": {
     "es": "Con «Empezar de cero», en Ajustes, o borrando los datos de este sitio en el navegador. Desaparece sin más: no queda copia en ningún otro sitio.",
-    "va": "Amb «Començar de zero», a Ajustos, o esborrant les dades d'aquest lloc al navegador. Desapareix sense més: no en queda cap còpia en cap altre lloc.",
+    "va": "Amb «Començar de zero», a Ajustos, o esborrant les dades d'aquest lloc al navegador. Simplement desapareix: no en queda cap còpia en cap altre lloc.",
     "en": "With “Start from scratch” in Settings, or by clearing this site's data in your browser. It simply disappears: no copy is left anywhere else.",
     "fr": "Avec « Repartir de zéro », dans les Réglages, ou en effaçant les données de ce site dans le navigateur. Tout disparaît simplement : il n'en reste aucune copie ailleurs.",
     "ar": "عبر «ابدؤوا من الصفر» في الإعدادات، أو بمحو بيانات هذا الموقع من المتصفح. يختفي كل شيء ببساطة: لا تبقى أي نسخة في مكان آخر."

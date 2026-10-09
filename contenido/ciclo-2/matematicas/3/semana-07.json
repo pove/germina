@@ -16,7 +16,7 @@
   "objetivo": {
     "es": "Esta semana descubren qué hacer cuando, en una resta, arriba hay menos unidades que abajo: se abre una decena y se convierte en 10 unidades. En clase lo llaman «resta con llevada».",
     "va": "Aquesta setmana descobrixen què fer quan, en una resta, dalt hi ha menys unitats que baix: s'obri una desena (decena) i es convertix en 10 unitats. A classe ho diuen en castellà: «resta con llevada».",
-    "en": "This week they discover what to do when, in a subtraction, there are fewer ones on top than below: you open a ten (decena) and turn it into 10 ones. In class, in Spanish, they call it «resta con llevada».",
+    "en": "This week they discover what to do when, in a subtraction, there are fewer ones on top than below: you open a ten (decena) and turn it into 10 ones. In class, in Spanish, they call it «resta con llevada» (subtraction with borrowing).",
     "fr": "Cette semaine, on découvre quoi faire quand, dans une soustraction, il y a moins d'unités en haut qu'en bas : on ouvre une dizaine (decena) et on la change en 10 unités. En classe, en espagnol, on l'appelle « resta con llevada » (soustraction avec retenue).",
     "ar": "هذا الأسبوع يكتشف الأطفال ماذا نفعل في الطرح عندما تكون الآحاد في الأعلى أقل منها في الأسفل: نفتح عشرة (decena) ونحوّلها إلى 10 آحاد. في القسم يسمّونها بالإسبانية «resta con llevada» (الطرح مع الاستلاف)."
   },
@@ -82,8 +82,8 @@
       {
         "pictograma": "legumbres",
         "texto": {
-          "es": "Vamos a quitar 17. Las 7 sueltas no salen de 2, así que abrid un vaso y echad sus 10 legumbres con las sueltas. Ahora hay 3 vasos y 12 sueltas.",
-          "va": "Anem a llevar-ne 17. Els 7 solts no ixen de 2, així que obriu un got i tireu-ne els 10 llegums amb els solts. Ara hi ha 3 gots i 12 solts.",
+          "es": "Vamos a quitar 17. Las 7 no salen de las 2 sueltas, así que abrid un vaso y echad sus 10 legumbres con las sueltas. Ahora hay 3 vasos y 12 sueltas.",
+          "va": "Anem a llevar-ne 17. Els 7 no ixen dels 2 solts, així que obriu un got i tireu-ne els 10 llegums amb els solts. Ara hi ha 3 gots i 12 solts.",
           "en": "Let's take away 17. You can't take 7 loose beans from 2, so open a cup and pour its 10 beans in with the loose ones. Now there are 3 cups and 12 loose beans.",
           "fr": "Enlevons 17. On ne peut pas enlever 7 grains de 2, alors ouvrez un verre et versez ses 10 grains avec les autres. Maintenant, il y a 3 verres et 12 grains à côté.",
           "ar": "لنأخذ 17. لا يمكن أخذ 7 حبات من حبتين، لذلك افتحوا كوبًا وضعوا حباته العشر مع الحبات المنفردة. الآن هناك 3 أكواب و12 حبة منفردة."
@@ -334,19 +334,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "18e93b8753e1"
+        "huella": "76ff3cf21657"
       },
       "en": {
         "estado": "automatica",
-        "huella": "18e93b8753e1"
+        "huella": "76ff3cf21657"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "18e93b8753e1"
+        "huella": "76ff3cf21657"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "18e93b8753e1"
+        "huella": "76ff3cf21657"
       }
     }
   }

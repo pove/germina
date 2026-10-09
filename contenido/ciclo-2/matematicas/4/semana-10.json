@@ -14,7 +14,7 @@
     "ar": "كم بقي؟"
   },
   "objetivo": {
-    "es": "Esta semana calculan cuánto dura algo sabiendo cuándo empieza y cuándo acaba, y leen las horas de la tarde como en un reloj digital: las 5 de la tarde son las 17:00.",
+    "es": "Esta semana calculan cuánto dura algo sabiendo cuándo empieza y cuándo acaba, y leen las horas de la tarde como en un reloj digital: las 5 de la tarde son las 17:00. En clase lo llaman «horario de 24 horas».",
     "va": "Aquesta setmana calculen quant dura una cosa sabent quan comença i quan acaba, i llegixen les hores de la vesprada com en un rellotge digital: les 5 de la vesprada són les 17:00. A classe ho diuen en castellà: «horario de 24 horas».",
     "en": "This week they work out how long something lasts when they know when it starts and ends, and read afternoon and evening times as on a digital clock: 5 in the afternoon is 17:00. In class, in Spanish, this is called «horario de 24 horas» (the 24-hour clock).",
     "fr": "Cette semaine, on calcule combien de temps dure quelque chose quand on sait quand ça commence et quand ça finit, et on lit les heures de l'après-midi comme sur une horloge numérique : 5 heures de l'après-midi, c'est 17:00. En classe, en espagnol, on parle d'« horario de 24 horas » (l'heure sur 24 heures).",
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "3db074530354"
+        "huella": "8cc7cc1aab2b"
       },
       "en": {
         "estado": "automatica",
-        "huella": "3db074530354"
+        "huella": "8cc7cc1aab2b"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "3db074530354"
+        "huella": "8cc7cc1aab2b"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "3db074530354"
+        "huella": "8cc7cc1aab2b"
       }
     }
   }

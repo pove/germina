@@ -16,9 +16,9 @@
   "objetivo": {
     "es": "En verano, las tablas se mantienen jugando: unas cartas rápidas en la playa, el parque o la terraza bastan para no perderlas de vista y llegar a 4.º con ellas a mano.",
     "va": "A l'estiu, les taules (tablas) es mantenen jugant: unes cartes ràpides a la platja, al parc o a la terrassa són suficients per a no perdre-les de vista i arribar a 4t amb elles a mà.",
-    "en": "In summer, the times tables (tablas) stay fresh through play: a quick card game on the beach, in the park or on the terrace is enough to keep them in mind and arrive in Year 4 (4.º) with them at hand.",
-    "fr": "En été, les tables (tablas) se gardent en jouant : quelques cartes rapides à la plage, au parc ou en terrasse suffisent pour ne pas les perdre de vue et arriver en 4.º (CM1) en les ayant sous la main.",
-    "ar": "في الصيف، تبقى جداول الضرب (tablas) حاضرة باللعب: بضع أوراق سريعة على الشاطئ أو في الحديقة أو على الشرفة تكفي لكي لا ننساها ونصل إلى الصف الرابع (4.º) وهي في متناولنا."
+    "en": "In summer, the times tables (tablas) stay fresh through play: a quick card game on the beach, in the park or on the terrace is enough to keep them in mind and start 4th year with them at hand.",
+    "fr": "En été, les tables (tablas) se gardent en jouant : quelques cartes rapides à la plage, au parc ou en terrasse suffisent pour ne pas les perdre de vue et arriver en 4e année en les ayant sous la main.",
+    "ar": "في الصيف، تبقى جداول الضرب (tablas) حاضرة باللعب: بضع أوراق سريعة على الشاطئ أو في الحديقة أو على الشرفة تكفي لكي لا ننساها ونصل إلى الصف الرابع وهي في متناولنا."
   },
   "comoAyudar": {
     "es": "Jugad primero con calma, sin cronómetro. Si un resultado se resiste, preguntad «¿qué resultado cercano te sabes?» en vez de decirlo.",
@@ -47,9 +47,9 @@
       {
         "es": "Una baraja francesa o de póquer (o cartas del 1 al 10 hechas en papel)",
         "va": "Una baralla francesa o de pòquer (o cartes de l'1 al 10 fetes en paper)",
-        "en": "A pack of cards (or cards from 1 to 10 made from paper)",
+        "en": "A standard 52-card pack (or cards from 1 to 10 made of paper)",
         "fr": "Un jeu de 52 cartes (ou des cartes de 1 à 10 faites en papier)",
-        "ar": "مجموعة أوراق لعب من 52 ورقة (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+        "ar": "مجموعة أوراق لعب عادية من 52 ورقة (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
       },
       {
         "es": "El cronómetro de Germina",
@@ -126,8 +126,8 @@
     "paraQueSirve": {
       "es": "Lo que no se usa se olvida un poco. Unos minutos de juego de vez en cuando mantienen las tablas a mano para todo lo que viene en 4.º.",
       "va": "El que no s'usa s'oblida una mica. Uns minuts de joc de tant en tant mantenen les taules a mà per a tot el que ve a 4t.",
-      "en": "What isn't used gets a little forgotten. A few minutes of play now and then keep the times tables at hand for everything that comes in Year 4.",
-      "fr": "Ce qu'on n'utilise pas s'oublie un peu. Quelques minutes de jeu de temps en temps gardent les tables sous la main pour tout ce qui arrive en 4.º.",
+      "en": "What isn't used gets a little forgotten. A few minutes of play now and then keep the times tables at hand for everything that comes in 4th year.",
+      "fr": "Ce qu'on n'utilise pas s'oublie un peu. Quelques minutes de jeu de temps en temps gardent les tables sous la main pour tout ce qui arrive en 4e année.",
       "ar": "ما لا نستعمله ننساه قليلًا. دقائق قليلة من اللعب بين حين وآخر تُبقي جداول الضرب في متناولنا لكل ما سيأتي في الصف الرابع."
     },
     "aviso": {
