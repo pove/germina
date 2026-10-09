@@ -15,14 +15,14 @@
   },
   "objetivo": {
     "es": "Esta semana vuelven a repartir y hacer grupos, a las tablas del 7, del 8 y del 9, a los problemas de dos pasos y a los polígonos. No hay nada nuevo: es para que se asiente.",
-    "va": "Aquesta setmana tornen a repartir i fer grups, a les taules (tablas) del 7, del 8 i del 9, als problemes de dos passos i als polígons. No hi ha res nou: és perquè s'assente.",
-    "en": "This week they go back to sharing and grouping, the 7, 8 and 9 times tables (tablas), two-step problems and polygons. There is nothing new: it's so it all settles in.",
-    "fr": "Cette semaine, on revient au partage et aux groupes, aux tables (tablas) de 7, de 8 et de 9, aux problèmes en deux étapes et aux polygones. Rien de nouveau : c'est pour que tout se pose.",
-    "ar": "هذا الأسبوع يعود الأطفال إلى التوزيع وتكوين المجموعات، وجداول ضرب (tablas) 7 و8 و9، والمسائل ذات الخطوتين، والمضلّعات. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+    "va": "Aquesta setmana tornen a repartir i fer grups, a les taules (tablas) del 7, del 8 i del 9, als problemes de dos passos i als polígons (polígonos). No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to sharing and grouping, the 7, 8 and 9 times tables (tablas), two-step problems and polygons (polígonos). There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient au partage et aux groupes, aux tables (tablas) de 7, de 8 et de 9, aux problèmes en deux étapes et aux polygones (polígonos). Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى التوزيع وتكوين المجموعات، وجداول ضرب (tablas) 7 و8 و9، والمسائل ذات الخطوتين، والمضلّعات (polígonos). لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
     "es": "Dejad que cada persona invente su problema sin tocar el enunciado: si le falta un dato, quien lo resuelve lo pedirá. Así descubren juntos qué hace falta para que un problema funcione.",
-    "va": "Deixeu que cada persona invente el seu problema sense tocar-ne l'enunciat: si li falta una dada, qui el resol la demanarà. Així descobreixen junts què necessita un problema per a funcionar.",
+    "va": "Deixeu que cada persona invente el seu problema sense tocar-ne l'enunciat: si li falta una dada, qui el resol la demanarà. Així descobrixen junts què necessita un problema per a funcionar.",
     "en": "Let each person make up their own problem without changing the wording: if a number is missing, whoever solves it will ask for it. That way they discover together what makes a problem work.",
     "fr": "Laissez chaque personne inventer son problème sans toucher à l'énoncé : s'il manque une donnée, celle ou celui qui le résout la demandera. Ainsi, on découvre ensemble ce qui fait qu'un problème marche.",
     "ar": "اتركوا كل شخص يخترع مسألته دون تعديل نصّها: إذا نقص معطى، سيطلبه من يحلّها. هكذا يكتشفون معًا ما تحتاجه المسألة لتنجح."
@@ -86,7 +86,7 @@
         "pictograma": "conversacion",
         "texto": {
           "es": "Intercambiad los problemas. Quien resuelve, lo hace con dibujos: platos, círculos, palitos… y luego escribe la cuenta.",
-          "va": "Intercanvieu els problemes. Qui resol, ho fa amb dibuixos: plats, cercles, palets… i després escriu el compte.",
+          "va": "Intercanvieu els problemes. Qui resol, ho fa amb dibuixos: plats, cercles, palots… i després escriu el compte.",
           "en": "Swap problems. Whoever solves uses drawings: plates, circles, sticks… and then writes the sum.",
           "fr": "Échangez les problèmes. Celui ou celle qui résout le fait avec des dessins : assiettes, cercles, bâtons… puis écrit le calcul.",
           "ar": "تبادلوا المسائل. من يحلّ يستعمل الرسوم: صحونًا ودوائر وخطوطًا… ثم يكتب العملية."
@@ -142,7 +142,7 @@
         "va": "Pensa en la taula del 5: 5, 10, 15… Quant falta per a 17?",
         "en": "Think of the 5 times table: 5, 10, 15… How far is it to 17?",
         "fr": "Pense à la table de 5 : 5, 10, 15… Combien manque-t-il pour 17 ?",
-        "ar": "لنفكّر في جدول 5: 5، 10، 15… كم يبقى حتى 17؟"
+        "ar": "لنفكّر في جدول ضرب 5: 5، 10، 15… كم يبقى حتى 17؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -199,7 +199,7 @@
       "inventala": {
         "es": "Inventa tú uno de dos pasos con algo de la nevera.",
         "va": "Inventa'n tu un de dos passos amb alguna cosa de la nevera.",
-        "en": "Make up a two-step one with something from the fridge.",
+        "en": "Make up a two-step problem with something from the fridge.",
         "fr": "Invente un problème en deux étapes avec quelque chose du frigo.",
         "ar": "لنخترع مسألة من خطوتين بشيء من الثلاجة."
       }
@@ -260,7 +260,7 @@
         "va": "{{7 × 10 = 70}}, i lleva un 7.",
         "en": "{{7 × 10 = 70}}, then take away one 7.",
         "fr": "{{7 × 10 = 70}}, puis enlève un 7.",
-        "ar": "{{7 × 10 = 70}}، ثم لنطرح 7 واحدة."
+        "ar": "{{7 × 10 = 70}}، ثم لنطرح 7 مرة واحدة."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -289,7 +289,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "De todo lo de estas semanas en mates, ¿qué te ha gustado más: repartir, las tablas nuevas, los problemas de dos pasos, las formas o las encuestas? Explícame por qué.",
-        "va": "De tot el que heu fet aquestes setmanes en mates, què t'ha agradat més: repartir, les taules noves, els problemes de dos passos, les formes o les enquestes? Explica'm per què.",
+        "va": "De tot el que has fet aquestes setmanes en mates, què t'ha agradat més: repartir, les taules noves, els problemes de dos passos, les formes o les enquestes? Explica'm per què.",
         "en": "Of everything in maths these weeks, what did you like best: sharing, the new times tables, two-step problems, shapes or surveys? Explain why.",
         "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce que tu as préféré : partager, les nouvelles tables, les problèmes en deux étapes, les formes ou les enquêtes ? Explique-moi pourquoi.",
         "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، ما الذي أحببناه أكثر: التوزيع، أم الجداول الجديدة، أم مسائل الخطوتين، أم الأشكال، أم الاستطلاعات؟ اشرح لي أو اشرحي لي لماذا."
@@ -297,18 +297,18 @@
       "pista": {
         "es": "Podéis ayudar a recordar: «¿Te acuerdas de los platos para todos? ¿Y de la tarjeta de la nevera? ¿Y de la fruta favorita?»",
         "va": "Podeu ajudar a recordar: «Te'n recordes dels plats per a tots? I de la targeta de la nevera? I de la fruita preferida?»",
-        "en": "You can help them remember: “Do you remember plates for everyone? And the fridge card? And the favourite fruit?”",
+        "en": "You can help them remember: “Do you remember the plates for everyone? And the fridge card? And the favourite fruit?”",
         "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles les assiettes pour tout le monde ? Et la carte du frigo ? Et le fruit préféré ? »",
-        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر صحونًا للجميع؟ وبطاقة الثلاجة؟ والفاكهة المفضّلة؟»"
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر الصحون للجميع؟ وبطاقة الثلاجة؟ والفاكهة المفضّلة؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Si os apetece, repetid juntos esta semana el reto que más le gustó.",
-          "va": "No hi ha resposta bona ni dolenta. Si us ve de gust, repetiu junts aquesta setmana el repte que més li va agradar.",
-          "en": "There's no right or wrong answer. If you feel like it, do their favourite challenge again together this week.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si vous en avez envie, refaites ensemble cette semaine le défi préféré.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإن رغبتم، أعيدوا معًا هذا الأسبوع التحدّي الذي أحبّه الطفل أكثر."
+          "es": "Cualquier respuesta vale. Si os apetece, repetid juntos esta semana el reto que más le gustó.",
+          "va": "Qualsevol resposta val. Si us ve de gust, repetiu junts aquesta setmana el repte que més li va agradar.",
+          "en": "Any answer works. If you feel like it, do their favourite challenge again together this week.",
+          "fr": "Toutes les réponses conviennent. Si vous en avez envie, refaites ensemble cette semaine le défi préféré.",
+          "ar": "كل إجابة تصلح. وإن رغبتم، أعيدوا معًا هذا الأسبوع التحدّي الذي أحبّه الأطفال أكثر."
         }
       }
     }
@@ -320,19 +320,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "6259b25d18a2"
+        "huella": "581e7313c5f7"
       },
       "en": {
         "estado": "automatica",
-        "huella": "6259b25d18a2"
+        "huella": "581e7313c5f7"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "6259b25d18a2"
+        "huella": "581e7313c5f7"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "6259b25d18a2"
+        "huella": "581e7313c5f7"
       }
     }
   }

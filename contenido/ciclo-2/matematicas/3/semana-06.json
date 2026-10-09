@@ -16,16 +16,16 @@
   "objetivo": {
     "es": "Esta semana vuelven a lo de las cinco primeras: centenas, decenas y unidades, el millar, comparar, sumar llevándose una y las tres formas de restar. No hay nada nuevo: es para que se asiente.",
     "va": "Aquesta setmana tornen a allò de les cinc primeres: centenes, desenes (decenas) i unitats, el miler (millar), comparar, sumar portant-se'n una i les tres maneres de restar. No hi ha res de nou: és perquè s'assente.",
-    "en": "This week they go back to the first five: hundreds, tens (decenas) and ones, a thousand (millar), comparing, adding with carrying and the three ways to subtract. There's nothing new: it's so that it all settles.",
-    "fr": "Cette semaine, on revient sur les cinq premières : centaines, dizaines (decenas) et unités, le millier (millar), comparer, additionner avec retenue et les trois façons de soustraire. Rien de nouveau : c'est pour que tout se pose.",
-    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الخمسة الأولى: المئات والعشرات (decenas) والآحاد، والألف (millar)، والمقارنة، والجمع مع الاحتفاظ، وطرق الطرح الثلاث. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+    "en": "This week they go back to the first five: hundreds (centenas), tens (decenas) and ones, a thousand (millar), comparing, adding with carrying and the three ways to subtract. There's nothing new: it's so that it all settles.",
+    "fr": "Cette semaine, on revient sur les cinq premières : centaines (centenas), dizaines (decenas) et unités, le millier (millar), comparer, additionner avec retenue et les trois façons de soustraire. Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الخمسة الأولى: المئات (centenas) والعشرات (decenas) والآحاد، والألف (millar)، والمقارنة، والجمع مع الاحتفاظ، وطرق الطرح الثلاث. لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
     "es": "En el juego, quien pierde puede elegir quién empieza la siguiente partida. Así perder también tiene su parte buena y se juega con ganas otra vez.",
     "va": "En el joc, qui perd pot triar qui comença la partida següent. Així perdre també té la seua part bona i es juga amb ganes una altra vegada.",
     "en": "In the game, whoever loses gets to choose who starts the next round. That way losing has its good side too, and everyone is keen to play again.",
     "fr": "Dans le jeu, la personne qui perd peut choisir qui commence la partie suivante. Ainsi, perdre a aussi son bon côté et on rejoue avec envie.",
-    "ar": "في اللعبة، من يخسر يختار من يبدأ الجولة التالية. هكذا تصبح للخسارة جهة جيدة أيضًا، ونلعب مرة أخرى بحماس."
+    "ar": "في اللعبة، من يخسر يختار من يبدأ الجولة التالية. هكذا يصبح للخسارة جانب جيد أيضًا، ونلعب مرة أخرى بحماس."
   },
   "saberes": [
     "matematicas.numeros.sistema-decimal",
@@ -206,7 +206,7 @@
       "inventala": {
         "es": "Inventa tú una de quitar para una fiesta.",
         "va": "Inventa'n tu una de llevar per a una festa.",
-        "en": "Make up a taking-away one for a party.",
+        "en": "Make up a taking-away problem for a party.",
         "fr": "Invente un problème où l'on enlève quelque chose, pour une fête.",
         "ar": "لنخترع مسألة أخذ عن حفلة."
       }
@@ -256,30 +256,30 @@
       "recupera": 3,
       "tipoProblema": "comparar",
       "texto": {
-        "es": "Para recordar: ¿qué número va justo entre el 498 y el 500?",
-        "va": "Per a recordar: quin nombre va just entre el 498 i el 500?",
-        "en": "Let's remember: which number goes right between 498 and 500?",
-        "fr": "Pour se souvenir : quel nombre va juste entre 498 et 500 ?",
-        "ar": "لنتذكّر: أيّ عدد يأتي بين 498 و500 تمامًا؟"
+        "es": "Para recordar: ¿qué número va justo entre el 999 y el 1001?",
+        "va": "Per a recordar: quin nombre va just entre el 999 i el 1001?",
+        "en": "Let's remember: which number goes right between 999 and 1001?",
+        "fr": "Pour se souvenir : quel nombre va juste entre 999 et 1001 ?",
+        "ar": "لنتذكّر: أيّ عدد يأتي بين 999 و1001 تمامًا؟"
       },
       "pista": {
-        "es": "Imagina la cuerda: da un paso desde el 498.",
-        "va": "Imagina la corda: fes un pas des del 498.",
-        "en": "Picture the rope: take one step from 498.",
-        "fr": "Imagine la corde : fais un pas depuis 498.",
-        "ar": "لنتخيّل الحبل: نخطو خطوة واحدة من 498."
+        "es": "Imagina la cuerda: da un paso desde el 999.",
+        "va": "Imagina la corda: fes un pas des del 999.",
+        "en": "Picture the rope: take one step from 999.",
+        "fr": "Imagine la corde : fais un pas depuis 999.",
+        "ar": "لنتخيّل الحبل: نخطو خطوة واحدة من 999."
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "498 + 1",
-        "resultado": 499,
+        "operacion": "999 + 1",
+        "resultado": 1000,
         "unidad": "unidades",
         "texto": {
-          "es": "El 499.",
-          "va": "El 499.",
-          "en": "499.",
-          "fr": "499.",
-          "ar": "العدد 499."
+          "es": "El 1000: ¡un millar!",
+          "va": "El 1000: un miler!",
+          "en": "1000: a thousand!",
+          "fr": "1000 : un millier !",
+          "ar": "العدد 1000: ألف!"
         }
       },
       "inventala": {
@@ -296,7 +296,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "De todo lo de estas semanas en mates, ¿qué te ha resultado más fácil? ¿Y más difícil? Explícame por qué.",
-        "va": "De tot el que heu fet aquestes setmanes en mates, què t'ha resultat més fàcil? I més difícil? Explica'm per què.",
+        "va": "De tot el que has fet aquestes setmanes en mates, què t'ha resultat més fàcil? I més difícil? Explica'm per què.",
         "en": "Of everything in maths these weeks, what has been easiest for you? And hardest? Explain to me why.",
         "fr": "De tout ce que tu as fait ces semaines en maths, qu'est-ce qui a été le plus facile ? Et le plus difficile ? Explique-moi pourquoi.",
         "ar": "من كل ما تعلّمناه هذه الأسابيع في الرياضيات، ما الأسهل؟ وما الأصعب؟ اشرح لي أو اشرحي لي لماذا."
@@ -311,11 +311,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Lo que cuente como difícil es una pista para jugar un poco más con eso en casa, sin prisa.",
-          "va": "No hi ha resposta bona ni dolenta. El que conte com a difícil és una pista per a jugar una mica més amb això a casa, sense pressa.",
-          "en": "There's no right or wrong answer. Whatever they say is hard is a clue to play a bit more with that at home, without hurry.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Ce qu'il ou elle trouve difficile est un indice pour jouer un peu plus avec ça à la maison, sans se presser.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. ما يُذكر على أنه صعب هو تلميح لنلعب به قليلًا أكثر في البيت، من غير عجلة."
+          "es": "Cualquier respuesta vale. Lo que cuente como difícil es una pista para jugar un poco más con eso en casa, sin prisa.",
+          "va": "Qualsevol resposta val. El que conte com a difícil és una pista per a jugar una mica més amb això a casa, sense pressa.",
+          "en": "Any answer works. Whatever they say is hard is a clue to play a bit more with that at home, without hurry.",
+          "fr": "Toutes les réponses conviennent. Ce qu'il ou elle trouve difficile est un indice pour jouer un peu plus avec ça à la maison, sans se presser.",
+          "ar": "كل إجابة تصلح. ما يُذكر على أنه صعب هو تلميح لنلعب به قليلًا أكثر في البيت، من غير عجلة."
         }
       }
     }
@@ -327,19 +327,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "545d5097dea9"
+        "huella": "84fbbadf1057"
       },
       "en": {
         "estado": "automatica",
-        "huella": "545d5097dea9"
+        "huella": "84fbbadf1057"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "545d5097dea9"
+        "huella": "84fbbadf1057"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "545d5097dea9"
+        "huella": "84fbbadf1057"
       }
     }
   }

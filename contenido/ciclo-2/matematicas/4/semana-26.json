@@ -22,10 +22,10 @@
   },
   "comoAyudar": {
     "es": "Si se atasca, preguntad «¿qué sabemos?» y «¿qué queremos saber?». Y si el primer camino no lleva a ningún sitio, se busca otro sin agobio: así se resuelven los problemas de verdad.",
-    "va": "Si s'encalla, pregunteu «què sabem?» i «què volem saber?». I si el primer camí no porta enlloc, se'n busca un altre sense agobiar-se: així es resolen els problemes de veritat.",
+    "va": "Si s'encalla, pregunteu «què sabem?» i «què volem saber?». I si el primer camí no porta enlloc, se'n busca un altre sense atabalar-se: així es resolen els problemes de veritat.",
     "en": "If they get stuck, ask “What do we know?” and “What do we want to find out?” And if the first route goes nowhere, look for another without stress: that's how real problems get solved.",
     "fr": "En cas de blocage, demandez « Qu'est-ce qu'on sait ? » et « Qu'est-ce qu'on veut savoir ? ». Et si le premier chemin ne mène nulle part, on en cherche un autre sans stress : c'est comme ça qu'on résout les vrais problèmes.",
-    "ar": "إذا تعثّر الطفل، اسألوا «ماذا نعرف؟» و«ماذا نريد أن نعرف؟». وإذا لم يوصل الطريق الأول إلى شيء، نبحث عن غيره بلا ضغط: هكذا تُحلّ المسائل الحقيقية."
+    "ar": "إذا تعثّر الأطفال، اسألوا «ماذا نعرف؟» و«ماذا نريد أن نعرف؟». وإذا لم يوصل الطريق الأول إلى شيء، نبحث عن غيره بلا ضغط: هكذا تُحلّ المسائل الحقيقية."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -87,10 +87,10 @@
         "pictograma": "conversacion",
         "texto": {
           "es": "Otra persona lo resuelve en voz alta: primero, cuánto cuesta todo; después, la vuelta. Si quiere, puede dibujarlo antes.",
-          "va": "Una altra persona el resol en veu alta: primer, quant costa tot; després, la tornada. Si vol, pot dibuixar-ho abans.",
+          "va": "Una altra persona el resol en veu alta: primer, quant costa tot; després, el canvi. Si vol, pot dibuixar-ho abans.",
           "en": "Another person solves it out loud: first, how much everything costs; then, the change. If they like, they can draw it first.",
           "fr": "Une autre personne le résout à voix haute : d'abord, combien coûte le tout ; ensuite, la monnaie. Si elle veut, elle peut le dessiner avant.",
-          "ar": "يحلّها شخص آخر بصوت عالٍ: أولًا كم ثمن كل شيء، ثم الباقي. ويمكنه أن يرسمها قبل ذلك إن أراد."
+          "ar": "يحلّها شخص آخر بصوت عالٍ: أولًا كم ثمن كل شيء، ثم الباقي من المال. ويمكن رسمها قبل ذلك عند الرغبة."
         }
       },
       {
@@ -99,8 +99,8 @@
           "es": "Cambiad los papeles e inventad otro con una división: «Lo pagamos entre 2 personas. ¿Cuánto pone cada una?».",
           "va": "Canvieu els papers i inventeu-ne un altre amb una divisió: «Ho paguem entre 2 persones. Quant hi posa cadascuna?».",
           "en": "Swap roles and make up another one with a division: “Two of us split the cost. How much does each person pay?”",
-          "fr": "Échangez les rôles et inventez-en un autre avec une division : « On paie à 2 personnes. Combien met chacune ? ».",
-          "ar": "تبادلوا الأدوار واخترعوا مسألة أخرى فيها قسمة: «ندفع الثمن بين شخصين. كم يدفع كل واحد؟»."
+          "fr": "Échangez les rôles et inventez-en un autre avec une division : « On partage la dépense entre 2 personnes. Combien paie chacune ? ».",
+          "ar": "تبادلوا الأدوار واخترعوا مسألة أخرى فيها قسمة: «نتقاسم الثمن بين شخصين. كم يدفع كل شخص؟»."
         }
       }
     ],
@@ -161,7 +161,7 @@
       "inventala": {
         "es": "Inventa tú uno de dos pasos para organizar una excursión.",
         "va": "Inventa'n tu un de dos passos per a organitzar una excursió.",
-        "en": "Make up a two-step one about organising a trip.",
+        "en": "Make up a two-step problem about organising a trip.",
         "fr": "Invente un problème en deux étapes pour organiser une sortie.",
         "ar": "لنخترع مسألة من خطوتين لتنظيم رحلة."
       }
@@ -238,7 +238,7 @@
       },
       "inventala": {
         "es": "Inventa tú uno de cosas que salen y entran, con números grandes.",
-        "va": "Inventa'n tu un de coses que ixen i entren, amb números grans.",
+        "va": "Inventa'n tu un de coses que ixen i entren, amb nombres grans.",
         "en": "Make one up about things going out and coming in, with big numbers.",
         "fr": "Invente un problème avec des choses qui sortent et qui entrent, avec de grands nombres.",
         "ar": "لنخترع مسألة عن أشياء تخرج وتدخل، بأعداد كبيرة."
@@ -261,7 +261,7 @@
         "va": "Està el 45 en la taula del 5? I en la del 4?",
         "en": "Is 45 in the 5 times table? And in the 4 times table?",
         "fr": "Est-ce que 45 est dans la table de 5 ? Et dans celle de 4 ?",
-        "ar": "هل 45 في جدول 5؟ وفي جدول 4؟"
+        "ar": "هل 45 في جدول ضرب 5؟ وفي جدول ضرب 4؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -273,7 +273,7 @@
           "va": "És múltiple de 5, perquè {{5 × 9 = 45}}. De 4 no: entre 4 en sobra 1.",
           "en": "It's a multiple of 5, because {{5 × 9 = 45}}. Not of 4: divided by 4, 1 is left over.",
           "fr": "C'est un multiple de 5, parce que {{5 × 9 = 45}}. Pas de 4 : divisé par 4, il reste 1.",
-          "ar": "هو من مضاعفات 5، لأن {{5 × 9 = 45}}. ومن مضاعفات 4 لا: عند القسمة على 4 يبقى 1."
+          "ar": "هو من مضاعفات 5، لأن {{5 × 9 = 45}}. وليس من مضاعفات 4: عند القسمة على 4 يبقى 1."
         }
       },
       "inventala": {
@@ -300,15 +300,15 @@
         "va": "Si no sap per on començar: «Quants iogurts hi ha? I si ens en mengem dos cada dia?»",
         "en": "If they don't know where to start: “How many yoghurts are there? And what if we eat two a day?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Combien y a-t-il de yaourts ? Et si on en mange deux par jour ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم علبة زبادي هناك؟ وماذا لو أكلنا علبتين كل يوم؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كم علبة زبادي هناك؟ وماذا لو أكلنا علبتين كل يوم؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
           "es": "Cualquier problema vale si tiene dos cuentas. Resolvedlo juntos y, si falta un dato, preguntad «¿qué necesitamos saber?».",
           "va": "Qualsevol problema val si té dos comptes. Resoleu-lo junts i, si falta una dada, pregunteu «què necessitem saber?».",
-          "en": "Any problem is fine if it has two sums. Solve it together and, if a number is missing, ask “What information is missing?”",
-          "fr": "N'importe quel problème convient s'il a deux calculs. Résolvez-le ensemble et, s'il manque une donnée, demandez « Qu'est-ce qu'on a besoin de savoir ? ».",
+          "en": "Any problem is fine if it has two sums. Solve it together and, if a number is missing, ask “What information do we need?”",
+          "fr": "N'importe quel problème convient s'il a deux calculs. Résolvez-le ensemble et, s'il manque une donnée, demandez « Qu'est-ce qu'il nous faut savoir ? ».",
           "ar": "أي مسألة تصلح إن كانت فيها عمليتان. حلّوها معًا، وإذا نقص معطى، اسألوا «ماذا نحتاج أن نعرف؟»."
         }
       }

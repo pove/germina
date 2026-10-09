@@ -23,9 +23,9 @@
   "comoAyudar": {
     "es": "No le contéis el truco: dejad que lo descubra perdiendo y ganando. Y, para cerrar el ciclo, mirad juntos el jardín de 3.º y de 4.º: cada flor es una semana compartida.",
     "va": "No li conteu el truc: deixeu que el descobrisca perdent i guanyant. I, per a tancar el cicle, mireu junts el jardí de 3r i de 4t: cada flor és una setmana compartida.",
-    "en": "Don't tell them the trick: let them discover it by losing and winning. And, to close the cycle, look at the 3rd and 4th year gardens together: each flower is a week you shared.",
-    "fr": "Ne donnez pas l'astuce : laissez la découvrir en perdant et en gagnant. Et, pour clore le cycle, regardez ensemble le jardin de 3.º et de 4.º : chaque fleur est une semaine partagée.",
-    "ar": "لا تخبروا الطفل بالحيلة: اتركوه يكتشفها بالخسارة والربح. ولختام المرحلة، انظروا معًا إلى حديقة الصفّين الثالث والرابع: كل زهرة أسبوع مشترك."
+    "en": "Don't tell them the trick: let them discover it by losing and winning. And, to close the cycle, look together at the garden from 3rd and 4th year: each flower is a week you shared.",
+    "fr": "Ne donnez pas l'astuce : laissez votre enfant la découvrir en perdant et en gagnant. Et, pour clore le cycle, regardez ensemble le jardin de 3e et de 4e année : chaque fleur est une semaine partagée.",
+    "ar": "لا تخبروا الأطفال بالحيلة: اتركوهم يكتشفونها بالخسارة والفوز. ولختام المرحلة، انظروا معًا إلى بستان الصفّين الثالث والرابع: كل زهرة أسبوع مشترك."
   },
   "saberes": [
     "matematicas.computacional.juegos-estrategia",
@@ -49,7 +49,7 @@
         "va": "15 escuradents, palletes o llapis",
         "en": "15 sticks, straws or pencils",
         "fr": "15 bâtonnets, pailles ou crayons",
-        "ar": "15 عودًا أو مصّاصة أو قلمًا"
+        "ar": "15 عودًا أو ماصّةً أو قلمًا"
       },
       {
         "es": "Papel y lápiz",
@@ -85,7 +85,7 @@
         "pictograma": "lapiz",
         "texto": {
           "es": "Apuntad los números «buenos» que vayáis descubriendo: 1, 5… ¿Cuál viene después? ¿Qué patrón siguen?",
-          "va": "Apunteu els números «bons» que aneu descobrint: 1, 5… Quin ve després? Quin patró seguixen?",
+          "va": "Apunteu els nombres «bons» que aneu descobrint: 1, 5… Quin ve després? Quin patró seguixen?",
           "en": "Write down the “good” numbers you discover: 1, 5… What comes next? What pattern do they follow?",
           "fr": "Notez les « bons » nombres que vous découvrez : 1, 5… Lequel vient ensuite ? Quelle régularité suivent-ils ?",
           "ar": "دوّنوا الأعداد «الجيدة» التي تكتشفونها: 1، 5… ما التالي؟ وأي نمط تتبع؟"
@@ -97,7 +97,7 @@
           "es": "Escribid la regla como una receta, paso a paso, y probadla contra otra persona de casa. ¿Gana siempre quien la usa?",
           "va": "Escriviu la regla com una recepta, pas a pas, i proveu-la contra una altra persona de casa. Guanya sempre qui la fa servir?",
           "en": "Write the rule like a recipe, step by step, and try it against someone else at home. Does whoever uses it always win?",
-          "fr": "Écrivez la règle comme une recette, étape par étape, et essayez-la contre une autre personne de la maison. Celui ou celle qui l'utilise gagne-t-il toujours ?",
+          "fr": "Écrivez la règle comme une recette, étape par étape, et essayez-la contre une autre personne de la maison. La personne qui l'utilise gagne-t-elle toujours ?",
           "ar": "اكتبوا القاعدة كوصفة، خطوة بخطوة، وجرّبوها ضدّ شخص آخر في البيت. هل يفوز دائمًا من يستعملها؟"
         }
       }
@@ -111,7 +111,7 @@
     },
     "masDificil": {
       "es": "Cambiad la regla: ahora se pueden quitar 1, 2, 3 o 4. ¿Cuáles son los números buenos ahora? ¿Y la nueva receta?",
-      "va": "Canvieu la regla: ara es poden llevar 1, 2, 3 o 4. Quins són els números bons ara? I la nova recepta?",
+      "va": "Canvieu la regla: ara es poden llevar 1, 2, 3 o 4. Quins són els nombres bons ara? I la nova recepta?",
       "en": "Change the rule: now you can take 1, 2, 3 or 4. What are the good numbers now? And the new recipe?",
       "fr": "Changez la règle : maintenant, on peut enlever 1, 2, 3 ou 4. Quels sont les bons nombres maintenant ? Et la nouvelle recette ?",
       "ar": "غيّروا القاعدة: يمكن الآن أخذ 1 أو 2 أو 3 أو 4. ما الأعداد الجيدة الآن؟ وما الوصفة الجديدة؟"
@@ -215,12 +215,12 @@
         "es": "Con 15 palillos y empezando tú, ¿cuántos quitas en la primera jugada para ir ganando? ¿Por qué?",
         "va": "Amb 15 escuradents i començant tu, quants en lleves en la primera jugada per a anar guanyant? Per què?",
         "en": "With 15 sticks and you starting, how many do you take on the first turn to be on track to win? Why?",
-        "fr": "Avec 15 bâtonnets et en commençant, combien en enlèves-tu au premier tour pour être bien parti ? Pourquoi ?",
-        "ar": "مع 15 عودًا وبدءًا بنا، كم نأخذ في الدور الأول لنكون في طريق الفوز؟ ولماذا؟"
+        "fr": "Avec 15 bâtonnets et en commençant, combien en enlèves-tu au premier tour pour prendre l'avantage ? Pourquoi ?",
+        "ar": "إذا كان معنا 15 عودًا وبدأنا نحن، فكم نأخذ في الدور الأول لنكون في طريق الفوز؟ ولماذا؟"
       },
       "pista": {
         "es": "Los números buenos para dejar a la otra persona son 1, 5, 9, 13… ¿Cuál está más cerca de 15?",
-        "va": "Els números bons per a deixar a l'altra persona són 1, 5, 9, 13… Quin està més prop de 15?",
+        "va": "Els nombres bons per a deixar a l'altra persona són 1, 5, 9, 13… Quin està més prop de 15?",
         "en": "The good numbers to leave the other person are 1, 5, 9, 13… Which is closest to 15?",
         "fr": "Les bons nombres à laisser à l'autre sont 1, 5, 9, 13… Lequel est le plus proche de 15 ?",
         "ar": "الأعداد الجيدة لنتركها للآخر هي 1، 5، 9، 13… أيّها الأقرب إلى 15؟"
@@ -290,16 +290,16 @@
       "texto": {
         "es": "Mirad juntos el jardín de 3.º y de 4.º. ¿Qué semilla recuerdas mejor? Explícame qué aprendiste con ella.",
         "va": "Mireu junts el jardí de 3r i de 4t. Quina llavor recordes millor? Explica'm què vas aprendre amb ella.",
-        "en": "Look at the 3rd and 4th year gardens together. Which seed do you remember best? Explain what you learned with it.",
-        "fr": "Regardez ensemble le jardin de 3.º et de 4.º. De quelle graine te souviens-tu le mieux ? Explique-moi ce que tu as appris avec elle.",
-        "ar": "انظروا معًا إلى حديقة الصفّين الثالث والرابع. أي بذرة نتذكّرها أكثر؟ اشرح لي أو اشرحي لي ماذا تعلّمنا بها."
+        "en": "Look together at the garden from 3rd and 4th year. Which seed do you remember best? Explain what you learned with it.",
+        "fr": "Regardez ensemble le jardin de 3e et de 4e année. De quelle graine te souviens-tu le mieux ? Explique-moi ce que tu as appris avec elle.",
+        "ar": "انظروا معًا إلى بستان الصفّين الثالث والرابع. أي بذرة نتذكّرها أكثر؟ اشرح لي أو اشرحي لي ماذا تعلّمنا بها."
       },
       "pista": {
         "es": "Si no sabe cuál elegir: «Toca una flor y vamos a ver qué semana era».",
         "va": "Si no sap quina triar: «Toca una flor i anem a veure quina setmana era».",
         "en": "If they can't choose: “Tap a flower and let's see which week it was.”",
         "fr": "S'il ou elle n'arrive pas à choisir : « Touche une fleur et regardons quelle semaine c'était ».",
-        "ar": "إن لم يستطع الطفل الاختيار: «المس زهرة ولنرَ أي أسبوع كان»."
+        "ar": "إذا صعُب الاختيار: «لنلمس زهرة ولنرَ أي أسبوع كان»."
       },
       "respuesta": {
         "tipo": "abierta",

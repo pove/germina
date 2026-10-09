@@ -92,14 +92,14 @@
     "es": "¿Vuestro hijo o hija ha pasado a {curso}?",
     "va": "El vostre fill o filla ha passat a {curso}?",
     "en": "Has your child moved up to {curso}?",
-    "fr": "Votre enfant est-il passé en {curso} ?",
+    "fr": "Votre enfant est passé en {curso} ?",
     "ar": "هل انتقل ابنكم أو ابنتكم إلى {curso}؟"
   },
-  "cambio_curso.si": { "es": "Sí, ya está en {curso}", "va": "Sí, ja està en {curso}", "en": "Yes, now in {curso}", "fr": "Oui, maintenant en {curso}", "ar": "نعم، هو الآن في {curso}" },
-  "cambio_curso.no": { "es": "No, sigue en el mismo curso", "va": "No, continua en el mateix curs", "en": "No, still in the same year", "fr": "Non, toujours dans la même année", "ar": "لا، ما زال في الصف نفسه" },
+  "cambio_curso.si": { "es": "Sí, ya está en {curso}", "va": "Sí, ja està en {curso}", "en": "Yes, now in {curso}", "fr": "Oui, maintenant en {curso}", "ar": "نعم، الآن في {curso}" },
+  "cambio_curso.no": { "es": "No, sigue en el mismo curso", "va": "No, continua en el mateix curs", "en": "No, still in the same year", "fr": "Non, toujours dans la même année", "ar": "لا، في الصف نفسه" },
   "cambio_curso.fin_ciclo": {
     "es": "¡Ha terminado el 2.º ciclo! Si os apetece, podéis seguir con los retos de verano.",
-    "va": "Ha acabat el 2n cicle! Si us abelleix, podeu continuar amb els reptes d'estiu.",
+    "va": "Ha acabat el 2n cicle! Si us abellix, podeu continuar amb els reptes d'estiu.",
     "en": "The 2nd cycle is finished! If you like, you can carry on with the summer challenges.",
     "fr": "Le 2e cycle est terminé ! Si vous en avez envie, vous pouvez continuer avec les défis de l'été.",
     "ar": "انتهت الحلقة الثانية! إن أحببتم، يمكنكم متابعة تحديات الصيف."
@@ -119,7 +119,7 @@
   "semana.siguiente": { "es": "Semana siguiente", "va": "Setmana següent", "en": "Next week", "fr": "Semaine suivante", "ar": "الأسبوع التالي" },
   "semana.volver_actual": { "es": "Volver a esta semana", "va": "Tornar a aquesta setmana", "en": "Back to this week", "fr": "Revenir à cette semaine", "ar": "العودة إلى هذا الأسبوع" },
   "semana.de_recordar": { "es": "Semana de recordar", "va": "Setmana de recordar", "en": "Week to remember", "fr": "Semaine pour se souvenir", "ar": "أسبوع التذكّر" },
-  "semana.objetivo": { "es": "Lo que descubren esta semana", "va": "El que descobreixen aquesta setmana", "en": "What they discover this week", "fr": "Ce qu'ils découvrent cette semaine", "ar": "ما يكتشفونه هذا الأسبوع" },
+  "semana.objetivo": { "es": "Lo que descubren esta semana", "va": "El que descobrixen aquesta setmana", "en": "What they discover this week", "fr": "Ce qu'ils découvrent cette semaine", "ar": "ما يكتشفونه هذا الأسبوع" },
   "semana.pregunta_hoy": { "es": "La pregunta de hoy", "va": "La pregunta d'avui", "en": "Today's question", "fr": "La question du jour", "ar": "سؤال اليوم" },
   "semana.ver_pregunta": { "es": "Ver la pregunta", "va": "Veure la pregunta", "en": "See the question", "fr": "Voir la question", "ar": "شاهدوا السؤال" },
   "semana.reto": { "es": "El reto de la semana", "va": "El repte de la setmana", "en": "This week's challenge", "fr": "Le défi de la semaine", "ar": "تحدّي الأسبوع" },
@@ -155,7 +155,7 @@
   "verano.ir_a": { "es": "Ir al reto de verano {n}", "va": "Anar al repte d'estiu {n}", "en": "Go to summer challenge {n}", "fr": "Aller au défi de l'été {n}", "ar": "اذهبوا إلى تحدّي الصيف {n}" },
   "verano.intro": {
     "es": "Retos para el verano, cuando os venga bien. Elegid el que más os apetezca.",
-    "va": "Reptes per a l'estiu, quan us vinga bé. Trieu el que més us abelleixi.",
+    "va": "Reptes per a l'estiu, quan us vinga bé. Trieu el que més us abellisca.",
     "en": "Challenges for the summer, whenever suits you. Pick the one you fancy most.",
     "fr": "Des défis pour l'été, quand cela vous convient. Choisissez celui qui vous tente le plus.",
     "ar": "تحدّيات للصيف في الوقت الذي يناسبكم. اختاروا ما تحبونه أكثر."
@@ -177,8 +177,8 @@
   "pregunta.respuesta": { "es": "Respuesta", "va": "Resposta", "en": "Answer", "fr": "Réponse", "ar": "الإجابة" },
   "pregunta.orientacion": { "es": "Para orientaros", "va": "Per a orientar-vos", "en": "A little guidance", "fr": "Pour vous guider", "ar": "للإرشاد" },
   "pregunta.inventala": { "es": "Invéntala tú", "va": "Inventa-la tu", "en": "Make one up", "fr": "Invente-la", "ar": "لنخترع واحدة" },
-  "pregunta.hablado": { "es": "¡Lo hemos hablado!", "va": "Ho hem parlat!", "en": "We've talked about it!", "fr": "On en a parlé !", "ar": "تحدّثنا عنها!" },
-  "pregunta.hablado_marcado": { "es": "Hablada", "va": "Parlada", "en": "Talked about", "fr": "Dont on a parlé", "ar": "تم الحديث عنها" },
+  "pregunta.hablado": { "es": "¡Lo hemos hablado!", "va": "Ho hem parlat!", "en": "We've talked about it!", "fr": "On en a parlé !", "ar": "تحدّثنا عنه!" },
+  "pregunta.hablado_marcado": { "es": "Hablada", "va": "Parlada", "en": "Talked about", "fr": "Dont on a parlé", "ar": "تم الحديث عنه" },
   "pregunta.anterior": { "es": "Pregunta anterior", "va": "Pregunta anterior", "en": "Previous question", "fr": "Question précédente", "ar": "السؤال السابق" },
   "pregunta.siguiente": { "es": "Pregunta siguiente", "va": "Pregunta següent", "en": "Next question", "fr": "Question suivante", "ar": "السؤال التالي" },
 
@@ -188,8 +188,8 @@
   "reto.pasos": { "es": "Cómo se juega", "va": "Com es juga", "en": "How to play", "fr": "Comment jouer", "ar": "كيف نلعب" },
   "reto.mas_facil": { "es": "Más fácil", "va": "Més fàcil", "en": "Easier", "fr": "Plus facile", "ar": "أسهل" },
   "reto.mas_dificil": { "es": "Más difícil", "va": "Més difícil", "en": "Harder", "fr": "Plus difficile", "ar": "أصعب" },
-  "reto.para_que_sirve": { "es": "Para qué sirve", "va": "Per a què serveix", "en": "What it's for", "fr": "À quoi ça sert", "ar": "ما فائدته" },
-  "reto.aviso": { "es": "Un aviso", "va": "Un avís", "en": "A heads-up", "fr": "Un avertissement", "ar": "تنبيه" },
+  "reto.para_que_sirve": { "es": "Para qué sirve", "va": "Per a què servix", "en": "What it's for", "fr": "À quoi ça sert", "ar": "ما فائدته" },
+  "reto.aviso": { "es": "Un aviso", "va": "Un avís", "en": "A heads-up", "fr": "Attention", "ar": "تنبيه" },
   "reto.jugado": { "es": "¡Lo hemos jugado!", "va": "Hi hem jugat!", "en": "We've played it!", "fr": "On y a joué !", "ar": "لعبناه!" },
   "reto.jugado_marcado": { "es": "Jugado", "va": "Jugat", "en": "Played", "fr": "Joué", "ar": "تم اللعب" },
   "reto.ver_semana": { "es": "Volver a la semana", "va": "Tornar a la setmana", "en": "Back to the week", "fr": "Revenir à la semaine", "ar": "العودة إلى الأسبوع" },
@@ -203,7 +203,7 @@
 
   "record.titulo": { "es": "Récord", "va": "Rècord", "en": "Record", "fr": "Record", "ar": "الرقم القياسي" },
   "record.cuenta": { "es": "Se cuenta: {que}", "va": "Es compta: {que}", "en": "What counts: {que}", "fr": "On compte : {que}", "ar": "ما يُحتسب: {que}" },
-  "record.apuntar": { "es": "Apuntad cuántos habéis conseguido", "va": "Apunteu quants heu aconseguit", "en": "Write down how many you got", "fr": "Notez combien vous en avez eu", "ar": "دوّنوا كم حصلتم" },
+  "record.apuntar": { "es": "Apuntad cuántos habéis conseguido", "va": "Apunteu quants heu aconseguit", "en": "Write down how many you got", "fr": "Notez combien vous en avez eu", "ar": "دوّنوا العدد الذي حقّقتموه" },
   "record.hoy": { "es": "Hoy: {n}", "va": "Hui: {n}", "en": "Today: {n}", "fr": "Aujourd'hui : {n}", "ar": "اليوم: {n}" },
   "record.mejor": { "es": "Vuestro récord: {n}", "va": "El vostre rècord: {n}", "en": "Your record: {n}", "fr": "Votre record : {n}", "ar": "رقمكم القياسي: {n}" },
   "record.sin": { "es": "Todavía no hay récord", "va": "Encara no hi ha rècord", "en": "No record yet", "fr": "Pas encore de record", "ar": "لا يوجد رقم قياسي بعد" },
@@ -300,7 +300,7 @@
   "recibir.titulo": { "es": "¿Añadir este jardín al vuestro?", "va": "Voleu afegir aquest jardí al vostre?", "en": "Add this garden to yours?", "fr": "Ajouter ce jardin au vôtre ?", "ar": "هل تضيفون هذا البستان إلى بستانكم؟" },
   "recibir.explicacion": {
     "es": "Se suma a lo que ya tenéis marcado. No se quita nada.",
-    "va": "Se suma al que ja teniu marcat. No s'hi lleva res.",
+    "va": "Es suma al que ja teniu marcat. No s'hi lleva res.",
     "en": "It adds to what you've already ticked off. Nothing is taken away.",
     "fr": "Il s'ajoute à ce que vous avez déjà coché. Rien n'est enlevé.",
     "ar": "يُضاف إلى ما علّمتموه من قبل. ولا يُحذف شيء."
@@ -496,7 +496,7 @@
   },
   "privacidad.guardado": {
     "es": "Lo que marcáis (preguntas y retos), los récords, el idioma y los cursos se guardan solo en este móvil, en el almacenamiento del navegador. No sale de aquí: nadie más puede verlo. Si queréis llevarlo a otro móvil, lo hacéis vosotros con el enlace, el QR o el código que encontraréis en Ajustes.",
-    "va": "El que marqueu (preguntes i reptes), els rècords, l'idioma i els cursos es guarden només en aquest mòbil, a l'emmagatzematge del navegador. No isqueix d'ací: ningú més pot veure'l. Si el voleu portar a un altre mòbil, ho feu vosaltres amb l'enllaç, el QR o el codi que trobareu a Ajustos.",
+    "va": "El que marqueu (preguntes i reptes), els rècords, l'idioma i els cursos es guarden només en aquest mòbil, a l'emmagatzematge del navegador. No ix d'ací: ningú més pot veure'l. Si el voleu portar a un altre mòbil, ho feu vosaltres amb l'enllaç, el QR o el codi que trobareu a Ajustos.",
     "en": "What you tick off (questions and challenges), the records, the language and the years are saved only on this phone, in the browser's storage. It never leaves here: nobody else can see it. If you want to take it to another phone, you do it yourselves with the link, the QR or the code you'll find in Settings.",
     "fr": "Ce que vous cochez (questions et défis), les records, la langue et les années sont enregistrés uniquement sur ce téléphone, dans le stockage du navigateur. Rien n'en sort : personne d'autre ne peut le voir. Si vous voulez l'emporter sur un autre téléphone, vous le faites vous-mêmes avec le lien, le QR ou le code que vous trouverez dans les Réglages.",
     "ar": "ما تعلّمونه (الأسئلة والتحدّيات) والأرقام القياسية واللغة والصفوف تُحفظ في هذا الهاتف فقط، في تخزين المتصفح. لا يخرج من هنا: لا يستطيع أحد آخر رؤيته. وإن أردتم نقله إلى هاتف آخر فأنتم من يفعل ذلك بالرابط أو برمز QR أو بالرمز الذي ستجدونه في الإعدادات."
@@ -583,7 +583,7 @@
     "va": "Les animacions s'aturen si el mòbil demana menys moviment.",
     "en": "Animations stop if your phone asks for less motion.",
     "fr": "Les animations s'arrêtent si le téléphone demande moins de mouvement.",
-    "ar": "تتوقف الحركات إذا طلب الهاتف تقليل الحركة."
+    "ar": "تتوقف الرسوم المتحركة إذا طلب الهاتف تقليل الحركة."
   },
   "accesibilidad.cuidado_6": {
     "es": "El cronómetro avisa del final con un texto, no solo con sonido.",
@@ -601,7 +601,7 @@
   },
   "accesibilidad.limites_1": {
     "es": "Las versiones en valenciano, inglés, francés y árabe las traduce una máquina y todavía no las ha revisado una persona: pueden tener errores o frases poco naturales.",
-    "va": "Les versions en valencià, anglés, francés i àrab les tradueix una màquina i encara no les ha revisades una persona: poden tindre errors o frases poc naturals.",
+    "va": "Les versions en valencià, anglés, francés i àrab les traduïx una màquina i encara no les ha revisades una persona: poden tindre errors o frases poc naturals.",
     "en": "The Valencian, English, French and Arabic versions are machine-translated and have not yet been reviewed by a person: they may contain mistakes or unnatural phrasing.",
     "fr": "Les versions en valencien, en anglais, en français et en arabe sont traduites par une machine et n'ont pas encore été relues par une personne : elles peuvent contenir des erreurs ou des tournures peu naturelles.",
     "ar": "النسخ بالفالنسية والإنجليزية والفرنسية والعربية تترجمها آلة ولم يراجعها شخص بعد: وقد تحتوي على أخطاء أو عبارات غير طبيعية."

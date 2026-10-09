@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana vuelven a todas las tablas, a multiplicar y dividir por 10, 100 y 1000, a los problemas con datos que sobran y a las fracciones en la cinta. No hay nada nuevo: es para que se asiente.",
-    "va": "Aquesta setmana tornen a totes les taules (tablas), a multiplicar i dividir per 10, 100 i 1000, als problemes amb dades que sobren i a les fraccions en la cinta. No hi ha res nou: és perquè s'assente.",
-    "en": "This week they go back to all the times tables (tablas), multiplying and dividing by 10, 100 and 1000, problems with extra information and fractions on the tape. There is nothing new: it's so it all settles in.",
-    "fr": "Cette semaine, on revient à toutes les tables (tablas), à la multiplication et la division par 10, 100 et 1000, aux problèmes avec des données inutiles et aux fractions sur le mètre ruban. Rien de nouveau : c'est pour que tout se pose.",
-    "ar": "هذا الأسبوع يعود الأطفال إلى كل جداول الضرب (tablas)، والضرب والقسمة على 10 و100 و1000، والمسائل ذات المعطيات الزائدة، والكسور على الشريط. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+    "va": "Aquesta setmana tornen a totes les taules (tablas), a multiplicar i dividir per 10, 100 i 1000, als problemes amb dades que sobren i a les fraccions (fracciones) en la cinta. No hi ha res nou: és perquè s'assente.",
+    "en": "This week they go back to all the times tables (tablas), multiplying and dividing by 10, 100 and 1000, problems with extra information and fractions (fracciones) on the tape. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient à toutes les tables (tablas), à la multiplication et la division par 10, 100 et 1000, aux problèmes avec des données inutiles et aux fractions (fracciones) sur le mètre ruban. Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى كل جداول الضرب (tablas)، والضرب والقسمة على 10 و100 و1000، والمسائل ذات المعطيات الزائدة، والكسور (fracciones) على الشريط. لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
     "es": "En las cartas rápidas, lo que cuenta es acertar. Si el récord no se mejora, mirad cuántas parejas salieron sin dudar: eso también es avanzar.",
     "va": "En les cartes ràpides, el que compta és encertar. Si el rècord no es millora, mireu quantes parelles van eixir sense dubtar: això també és avançar.",
     "en": "In quick cards, what counts is getting it right. If the record isn't beaten, look at how many pairs came out without hesitating: that's moving forward too.",
     "fr": "Aux cartes rapides, ce qui compte, c'est de trouver. Si le record n'est pas battu, regardez combien de paires sont sorties sans hésiter : ça aussi, c'est avancer.",
-    "ar": "في الأوراق السريعة، المهم هو الإجابة الصحيحة. وإذا لم يتحسّن الرقم القياسي، انظروا كم زوجًا خرج دون تردّد: هذا أيضًا تقدّم."
+    "ar": "في الأوراق السريعة، المهم هو الإجابة الصحيحة. وإذا لم يتحسّن الرقم القياسي، انظروا كم زوجًا خرج دون تردّد: هذه أيضًا خطوة إلى الأمام."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente",
@@ -46,18 +46,18 @@
     },
     "material": [
       {
-        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
-        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
-        "en": "A pack of cards (or cards from 1 to 10 made of paper)",
-        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
-        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+        "es": "Una baraja francesa o de póquer (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla francesa o de pòquer (o cartes de l'1 al 10 fetes en paper)",
+        "en": "A standard 52-card pack (or cards from 1 to 10 made of paper)",
+        "fr": "Un jeu de 52 cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب عادية من 52 ورقة (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
       },
       {
         "es": "El cronómetro de Germina",
         "va": "El cronòmetre de Germina",
         "en": "The Germina stopwatch",
         "fr": "Le chronomètre de Germina",
-        "ar": "مؤقّت جيرمينا"
+        "ar": "مؤقّت Germina"
       },
       {
         "es": "Una cinta métrica de costura y tarjetas con fracciones",
@@ -65,6 +65,13 @@
         "en": "A sewing tape measure and cards with fractions",
         "fr": "Un mètre ruban de couture et des cartes avec des fractions",
         "ar": "شريط قياس للخياطة وبطاقات عليها كسور"
+      },
+      {
+        "es": "Un dado (para la versión más difícil)",
+        "va": "Un dau (per a la versió més difícil)",
+        "en": "A die (for the harder version)",
+        "fr": "Un dé (pour la version plus difficile)",
+        "ar": "نرد (للنسخة الأصعب)"
       }
     ],
     "minutos": 15,
@@ -72,11 +79,11 @@
       {
         "pictograma": "cartas",
         "texto": {
-          "es": "Quitad las figuras y dejad las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
-          "va": "Lleveu les figures i deixeu les cartes de l'1 al 10. Barregeu-les i poseu-les cap per avall en un munt.",
-          "en": "Take out the picture cards and keep the cards from 1 to 10. Shuffle them and put them face down in a pile.",
-          "fr": "Retirez les figures et gardez les cartes de 1 à 10. Mélangez-les et posez-les face cachée en un tas.",
-          "ar": "أخرجوا الصور واتركوا الأوراق من 1 إلى 10. اخلطوها وضعوها مقلوبة في كومة."
+          "es": "Quitad las figuras (J, Q y K) y dejad las cartas del 1 al 10: el as vale 1. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Lleveu les figures (J, Q i K) i deixeu les cartes de l'1 al 10: l'as val 1. Barregeu-les i poseu-les cap per avall en un munt.",
+          "en": "Take out the picture cards (J, Q and K) and keep the cards from 1 to 10: the ace counts as 1. Shuffle them and put them face down in a pile.",
+          "fr": "Retirez les figures (valets, dames et rois) et gardez les cartes de 1 à 10 : l'as vaut 1. Mélangez-les et posez-les face cachée en un tas.",
+          "ar": "أخرجوا الصور (J وQ وK) واتركوا الأوراق من 1 إلى 10: الآس يساوي 1. اخلطوها وضعوها في كومة ووجوهها إلى الأسفل."
         }
       },
       {
@@ -130,6 +137,13 @@
       "en": "Coming back to the times tables at the end of the year helps them stick through the summer. And ordering fractions on the tape prepares for what's next: decimals.",
       "fr": "Revenir aux tables en fin d'année aide à les garder pour l'été. Et ranger des fractions sur le mètre prépare la suite : les décimaux.",
       "ar": "العودة إلى الجداول في آخر السنة تساعد على بقائها خلال الصيف. وترتيب الكسور على الشريط يحضّر لما سيأتي: الأعداد العشرية."
+    },
+    "aviso": {
+      "es": "Guardad el dado lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu el dau lluny de germans o germanes menuts.",
+      "en": "Keep the die away from younger brothers and sisters.",
+      "fr": "Gardez le dé loin des petits frères et sœurs.",
+      "ar": "أبعدوا النرد عن الإخوة والأخوات الصغار."
     },
     "rapidez": {
       "segundos": 120,
@@ -255,7 +269,7 @@
       "inventala": {
         "es": "Inventa tú uno de dos pasos para un equipo o un club.",
         "va": "Inventa'n tu un de dos passos per a un equip o un club.",
-        "en": "Make up a two-step one for a team or a club.",
+        "en": "Make up a two-step problem for a team or a club.",
         "fr": "Invente un problème en deux étapes pour une équipe ou un club.",
         "ar": "لنخترع مسألة من خطوتين لفريق أو نادٍ."
       }
@@ -277,7 +291,7 @@
         "va": "Està el 54 en la taula del 6?",
         "en": "Is 54 in the 6 times table?",
         "fr": "Est-ce que 54 est dans la table de 6 ?",
-        "ar": "هل 54 في جدول 6؟"
+        "ar": "هل 54 في جدول ضرب 6؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -337,19 +351,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "6005672d5e0c"
+        "huella": "a35cc65166cd"
       },
       "en": {
         "estado": "automatica",
-        "huella": "6005672d5e0c"
+        "huella": "a35cc65166cd"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "6005672d5e0c"
+        "huella": "a35cc65166cd"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "6005672d5e0c"
+        "huella": "a35cc65166cd"
       }
     }
   }

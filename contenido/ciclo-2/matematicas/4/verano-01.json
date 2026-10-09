@@ -15,14 +15,14 @@
   },
   "objetivo": {
     "es": "En verano, todas las tablas se mantienen jugando. Unas partidas de cartas rápidas de vez en cuando bastan para llegar al tercer ciclo con ellas a mano y la cabeza libre para lo nuevo.",
-    "va": "A l'estiu, totes les taules es mantenen jugant. Unes partides de cartes ràpides de tant en tant són suficients per a arribar al tercer cicle amb elles a mà i el cap lliure per al que és nou.",
-    "en": "In summer, all the times tables stay fresh through play. A few quick card games now and then are enough to reach the next stage of primary school with them at hand and a clear head for new things.",
-    "fr": "En été, toutes les tables se gardent en jouant. Quelques parties de cartes rapides de temps en temps suffisent pour arriver au cycle suivant en les ayant sous la main et la tête libre pour la nouveauté.",
-    "ar": "في الصيف، تبقى كل جداول الضرب حاضرة باللعب. بضع جولات سريعة بالأوراق بين حين وآخر تكفي للوصول إلى المرحلة التالية وهي في متناولنا والذهن حرّ للجديد."
+    "va": "A l'estiu, totes les taules (tablas) es mantenen jugant. Unes partides de cartes ràpides de tant en tant són suficients per a arribar al tercer cicle amb elles a mà i el cap lliure per al que és nou.",
+    "en": "In summer, all the times tables (tablas) stay fresh through play. A few quick card games now and then are enough to reach the next stage of primary school with them at hand and a clear head for new things.",
+    "fr": "En été, toutes les tables (tablas) se gardent en jouant. Quelques parties de cartes rapides de temps en temps suffisent pour arriver au cycle suivant en les ayant sous la main et la tête libre pour la nouveauté.",
+    "ar": "في الصيف، تبقى كل جداول الضرب (tablas) حاضرة باللعب. بضع جولات سريعة بالأوراق بين حين وآخر تكفي للوصول إلى المرحلة التالية وهي في متناولنا والذهن حرّ للجديد."
   },
   "comoAyudar": {
     "es": "Si una multiplicación se resiste, en vez de dar el resultado, preguntad «¿cuál sabes que esté cerca?». Si sabe {{8 × 5 = 40}}, {{8 × 6}} son 8 más.",
-    "va": "Si una multiplicació es resisteix, en lloc de donar el resultat, pregunteu «quina en saps que estiga a prop?». Si sap {{8 × 5 = 40}}, {{8 × 6}} són 8 més.",
+    "va": "Si una multiplicació es resistix, en lloc de donar el resultat, pregunteu «quina en saps que estiga a prop?». Si sap {{8 × 5 = 40}}, {{8 × 6}} són 8 més.",
     "en": "If a multiplication won't come, instead of giving the answer, ask “Which one do you know that is close?”. If they know {{8 × 5 = 40}}, {{8 × 6}} is 8 more.",
     "fr": "Si une multiplication résiste, au lieu de donner le résultat, demandez « Laquelle tu connais qui est tout près ? ». S'il ou elle sait {{8 × 5 = 40}}, {{8 × 6}}, c'est 8 de plus.",
     "ar": "إذا استعصت عملية ضرب، فبدل إعطاء النتيجة اسألوا «أي نتيجة نعرفها قريبة منها؟». إذا كنّا نعرف {{8 × 5 = 40}}، فإن {{8 × 6}} أكثر بـ8."
@@ -45,18 +45,18 @@
     },
     "material": [
       {
-        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
-        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
-        "en": "A pack of cards (or cards from 1 to 10 made from paper)",
-        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
-        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+        "es": "Una baraja francesa o de póquer (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla francesa o de pòquer (o cartes de l'1 al 10 fetes en paper)",
+        "en": "A standard 52-card pack (or cards from 1 to 10 made from paper)",
+        "fr": "Un jeu de 52 cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب عادية من 52 ورقة (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
       },
       {
         "es": "El cronómetro de Germina",
         "va": "El cronòmetre de Germina",
         "en": "The Germina timer",
         "fr": "Le chronomètre de Germina",
-        "ar": "مؤقّت جيرمينا"
+        "ar": "مؤقّت Germina"
       },
       {
         "es": "Una toalla o una mesa para poner las cartas",
@@ -71,20 +71,20 @@
       {
         "pictograma": "cartas",
         "texto": {
-          "es": "Quitad las figuras y dejad las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
-          "va": "Lleveu les figures i deixeu les cartes de l'1 al 10. Barregeu-les i poseu-les cap per avall en un munt.",
-          "en": "Take out the picture cards and keep the cards from 1 to 10. Shuffle them and put them face down in a pile.",
-          "fr": "Retirez les figures et gardez les cartes de 1 à 10. Mélangez-les et posez-les face cachée en une pile.",
-          "ar": "أخرجوا الصور واتركوا الأوراق من 1 إلى 10. اخلطوها وضعوها مقلوبة في كومة."
+          "es": "Quitad las figuras (J, Q y K) y dejad las cartas del 1 al 10: el as vale 1. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Lleveu les figures (J, Q i K) i deixeu les cartes de l'1 al 10: l'as val 1. Barregeu-les i poseu-les cap per avall en un munt.",
+          "en": "Take out the picture cards (J, Q and K) and keep the cards from 1 to 10: the ace counts as 1. Shuffle them and put them face down in a pile.",
+          "fr": "Retirez les figures (valets, dames et rois) et gardez les cartes de 1 à 10 : l'as vaut 1. Mélangez-les et posez-les face cachée en une pile.",
+          "ar": "أخرجوا الصور (J وQ وK) واتركوا الأوراق من 1 إلى 10: الآس يساوي 1. اخلطوها وضعوها مقلوبة في كومة."
         }
       },
       {
         "pictograma": "manos",
         "texto": {
           "es": "Para calentar, sin reloj: dad la vuelta a dos cartas y decid el producto. Contad vuestros trucos: por 9 es por 10 y quitar una vez.",
-          "va": "Per a escalfar, sense rellotge: gireu dues cartes i digueu el producte. Conteu els vostres trucs: per 9 és per 10 i llevar una vegada.",
-          "en": "To warm up, without the clock: turn over two cards and say the product. Share your tricks: times 9 is times 10 and take one away.",
-          "fr": "Pour s'échauffer, sans montre : retournez deux cartes et dites le produit. Racontez vos astuces : fois 9, c'est fois 10 et on enlève une fois.",
+          "va": "Per a escalfar, sense cronòmetre: gireu dues cartes i digueu el producte. Conteu els vostres trucs: per 9 és per 10 i llevar una vegada.",
+          "en": "To warm up, without the timer: turn over two cards and say the product. Share your tricks: times 9 is times 10 and take one away.",
+          "fr": "Pour s'échauffer, sans chronomètre : retournez deux cartes et dites le produit. Racontez vos astuces : fois 9, c'est fois 10 et on enlève une fois.",
           "ar": "للإحماء، بلا مؤقّت: اقلبوا ورقتين وقولوا حاصل الضرب. احكوا حيلكم: الضرب في 9 هو الضرب في 10 ثم نطرح مرة."
         }
       },
@@ -111,23 +111,23 @@
     ],
     "masFacil": {
       "es": "Usad una sola carta y multiplicadla siempre por el mismo número, por ejemplo por 6 o por 8, hasta que salga sola.",
-      "va": "Feu servir una sola carta i multipliqueu-la sempre pel mateix número, per exemple per 6 o per 8, fins que isca sola.",
+      "va": "Feu servir una sola carta i multipliqueu-la sempre pel mateix nombre, per exemple per 6 o per 8, fins que isca sola.",
       "en": "Use just one card and always multiply it by the same number, for example by 6 or by 8, until it comes easily.",
       "fr": "Utilisez une seule carte et multipliez-la toujours par le même nombre, par exemple par 6 ou par 8, jusqu'à ce que ça vienne tout seul.",
       "ar": "استعملوا ورقة واحدة واضربوها دائمًا في العدد نفسه، مثلًا في 6 أو 8، حتى تصبح سهلة."
     },
     "masDificil": {
-      "es": "Sin cronómetro, con tres cartas: formad un número de dos cifras con las dos primeras y multiplicadlo por la tercera. {{34 × 6}} es {{30 × 6}} más {{4 × 6}}.",
-      "va": "Sense cronòmetre, amb tres cartes: formeu un número de dues xifres amb les dues primeres i multipliqueu-lo per la tercera. {{34 × 6}} és {{30 × 6}} més {{4 × 6}}.",
-      "en": "Without the timer, with three cards: make a two-digit number with the first two and multiply it by the third. {{34 × 6}} is {{30 × 6}} plus {{4 × 6}}.",
-      "fr": "Sans chronomètre, avec trois cartes : formez un nombre à deux chiffres avec les deux premières et multipliez-le par la troisième. {{34 × 6}}, c'est {{30 × 6}} plus {{4 × 6}}.",
-      "ar": "من دون مؤقّت، بثلاث أوراق: كوّنوا عددًا من رقمين بالورقتين الأوليين واضربوه في الثالثة. {{34 × 6}} هو {{30 × 6}} زائد {{4 × 6}}."
+      "es": "Sin cronómetro, con tres cartas: formad un número de dos cifras con las dos primeras (si sale un 10, tomad otra carta) y multiplicadlo por la tercera. {{34 × 6}} es {{30 × 6}} más {{4 × 6}}.",
+      "va": "Sense cronòmetre, amb tres cartes: formeu un nombre de dues xifres amb les dues primeres (si ix un 10, agafeu-ne una altra) i multipliqueu-lo per la tercera. {{34 × 6}} és {{30 × 6}} més {{4 × 6}}.",
+      "en": "Without the timer, with three cards: make a two-digit number with the first two (if a 10 comes up, take another card) and multiply it by the third. {{34 × 6}} is {{30 × 6}} plus {{4 × 6}}.",
+      "fr": "Sans chronomètre, avec trois cartes : formez un nombre à deux chiffres avec les deux premières (si un 10 sort, prenez une autre carte) et multipliez-le par la troisième. {{34 × 6}}, c'est {{30 × 6}} plus {{4 × 6}}.",
+      "ar": "من دون مؤقّت، بثلاث أوراق: كوّنوا عددًا من رقمين بالورقتين الأوليين (إذا ظهرت ورقة 10، فخذوا ورقة أخرى) واضربوه في الثالثة. {{34 × 6}} هو {{30 × 6}} زائد {{4 × 6}}."
     },
     "paraQueSirve": {
       "es": "En el tercer ciclo las tablas están dentro de todo: divisiones largas, fracciones, decimales. Tenerlas a mano deja la cabeza libre para entender lo nuevo.",
       "va": "En el tercer cicle les taules són dins de tot: divisions llargues, fraccions, decimals. Tindre-les a mà deixa el cap lliure per a entendre el que és nou.",
       "en": "In the next stage, times tables are inside everything: long division, fractions, decimals. Having them at hand leaves your head free to understand new things.",
-      "fr": "Au cycle suivant, les tables sont partout : longues divisions, fractions, décimaux. Les avoir sous la main laisse la tête libre pour comprendre la nouveauté.",
+      "fr": "Au cycle suivant, les tables sont partout : divisions posées, fractions, décimaux. Les avoir sous la main laisse la tête libre pour comprendre la nouveauté.",
       "ar": "في المرحلة التالية، جداول الضرب موجودة في كل شيء: القسمة الطويلة، الكسور، الأعداد العشرية. ومعرفتها جيدًا تترك الذهن حرًّا لفهم الجديد."
     },
     "aviso": {
@@ -195,7 +195,7 @@
       "texto": {
         "es": "La entrada al museo cuesta 9 € y vamos 7 personas. ¿Cuánto pagamos?",
         "va": "L'entrada al museu costa 9 € i anem 7 persones. Quant paguem?",
-        "en": "Museum entry costs €9 and 7 of us are going. How much do we pay?",
+        "en": "Museum entry costs 9 € and 7 of us are going. How much do we pay?",
         "fr": "L'entrée du musée coûte 9 € et nous sommes 7. Combien payons-nous ?",
         "ar": "ثمن دخول المتحف 9 € ونحن 7 أشخاص. كم ندفع؟"
       },
@@ -214,7 +214,7 @@
         "texto": {
           "es": "Pagamos 63 €.",
           "va": "Paguem 63 €.",
-          "en": "We pay €63.",
+          "en": "We pay 63 €.",
           "fr": "Nous payons 63 €.",
           "ar": "ندفع 63 €."
         }
@@ -312,7 +312,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "¿Qué multiplicación de las tablas se te resiste todavía? Explícame cómo la reconstruirías si se te olvida.",
-        "va": "Quina multiplicació de les taules se't resisteix encara? Explica'm com la reconstruiries si se t'oblida.",
+        "va": "Quina multiplicació de les taules se't resistix encara? Explica'm com la reconstruiries si se t'oblida.",
         "en": "Which times-table fact still won't come? Explain to me how you would rebuild it if you forgot it.",
         "fr": "Quelle multiplication des tables te résiste encore ? Explique-moi comment tu la retrouverais si tu l'oubliais.",
         "ar": "أي عملية ضرب في الجداول ما زالت تستعصي؟ اشرح لي أو اشرحي لي كيف نعيد بناءها إذا نسيناها."
@@ -322,7 +322,7 @@
         "va": "Si no sap per on començar: «Com trauries {{7 × 8}} si saps {{7 × 4}}?»",
         "en": "If they don't know where to start: “How would you get {{7 × 8}} if you know {{7 × 4}}?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Comment tu trouverais {{7 × 8}} si tu connais {{7 × 4}} ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كيف نجد {{7 × 8}} إذا كنّا نعرف {{7 × 4}}؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كيف نجد {{7 × 8}} إذا كنّا نعرف {{7 × 4}}؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -343,19 +343,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "cc34ce47a8f1"
+        "huella": "3c2e29c89dd6"
       },
       "en": {
         "estado": "automatica",
-        "huella": "cc34ce47a8f1"
+        "huella": "3c2e29c89dd6"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "cc34ce47a8f1"
+        "huella": "3c2e29c89dd6"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "cc34ce47a8f1"
+        "huella": "3c2e29c89dd6"
       }
     }
   }

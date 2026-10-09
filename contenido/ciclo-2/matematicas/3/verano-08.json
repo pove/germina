@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Repartir a partes iguales es dividir. En un picnic se ve muy claro, y también lo que sobra cuando no da para todos: el resto.",
-    "va": "Repartir a parts iguals és dividir. En un pícnic es veu molt clar, i també el que sobra quan no n'hi ha per a tots: el residu.",
-    "en": "Sharing equally is dividing. At a picnic you can see it very clearly, and also what is left over when there isn't enough for everyone: the remainder.",
-    "fr": "Partager en parts égales, c'est diviser. Pendant un pique-nique, on le voit très bien, et aussi ce qui reste quand il n'y en a pas assez pour tout le monde : le reste.",
-    "ar": "التوزيع بالتساوي قسمة. وفي النزهة يظهر ذلك بوضوح، ويظهر أيضًا ما يتبقّى عندما لا يكفي للجميع: الباقي."
+    "va": "Repartir a parts iguals és dividir. En un pícnic es veu molt clar, i també el que sobra quan no n'hi ha per a tots: el residu (resto).",
+    "en": "Sharing equally is dividing. At a picnic you can see it very clearly, and also what is left over when there isn't enough for everyone: the remainder (resto).",
+    "fr": "Partager en parts égales, c'est diviser. Pendant un pique-nique, on le voit très bien, et aussi ce qui reste quand il n'y en a pas assez pour tout le monde : le reste (resto).",
+    "ar": "التوزيع بالتساوي قسمة. وفي النزهة يظهر ذلك بوضوح، ويظهر أيضًا ما يتبقّى عندما لا يكفي للجميع: الباقي (resto)."
   },
   "comoAyudar": {
     "es": "Cuando sobre algo, preguntad «¿qué hacemos con lo que sobra?». Partirlo, guardarlo o dárselo a alguien: todas son buenas ideas para hablar.",
@@ -123,11 +123,11 @@
       "ar": "التوزيع والتفكير في الباقي هما القسمة الحقيقية، التي نستعملها للمشاركة وتكوين الفرق والتنظيم."
     },
     "aviso": {
-      "es": "Lavaos las manos antes de tocar la comida.",
-      "va": "Llaveu-vos les mans abans de tocar el menjar.",
-      "en": "Wash your hands before touching the food.",
-      "fr": "Lavez-vous les mains avant de toucher la nourriture.",
-      "ar": "اغسلوا أيديكم قبل لمس الطعام."
+      "es": "Lavaos las manos antes de tocar la comida. Si hay hermanos o hermanas pequeños, servidles las uvas partidas.",
+      "va": "Llaveu-vos les mans abans de tocar el menjar. Si hi ha germans o germanes menuts, serviu-los els grans de raïm partits.",
+      "en": "Wash your hands before touching the food. If there are younger brothers or sisters, cut their grapes up before serving them.",
+      "fr": "Lavez-vous les mains avant de toucher la nourriture. S'il y a des petits frères ou sœurs, coupez leurs grains de raisin.",
+      "ar": "اغسلوا أيديكم قبل لمس الطعام. وإن كان هناك إخوة أو أخوات صغار، فقطّعوا لهم حبات العنب."
     }
   },
   "preguntas": [
@@ -147,7 +147,7 @@
         "va": "4 per quant fa 20? Pensa en la taula del 4.",
         "en": "4 times what makes 20? Think of the 4 times table.",
         "fr": "4 fois combien font 20 ? Pense à la table de 4.",
-        "ar": "4 في كم يساوي 20؟ لنفكّر في جدول 4."
+        "ar": "4 في كم يساوي 20؟ لنفكّر في جدول ضرب 4."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -203,7 +203,7 @@
       },
       "inventala": {
         "es": "Inventa tú un reparto en el que sobre algo y decide qué hacer con ello.",
-        "va": "Inventa'n tu un repartiment en què sobre alguna cosa i decideix què fer-ne.",
+        "va": "Inventa'n tu un repartiment en què sobre alguna cosa i decidix què fer-ne.",
         "en": "Make up a sharing problem where something is left over and decide what to do with it.",
         "fr": "Invente un partage où il reste quelque chose et décide quoi en faire.",
         "ar": "لنخترع توزيعًا يتبقّى فيه شيء ونقرّر ماذا نفعل به."
@@ -265,7 +265,7 @@
         "va": "La del 4 és el doble del doble: el doble de 7 és 14, i el doble de 14…",
         "en": "The 4 times table is double the double: double 7 is 14, and double 14 is…",
         "fr": "La table de 4, c'est le double du double : le double de 7 est 14, et le double de 14…",
-        "ar": "جدول 4 هو ضعف الضعف: ضعف 7 هو 14، وضعف 14 هو…"
+        "ar": "جدول ضرب 4 هو ضعف الضعف: ضعف 7 هو 14، وضعف 14 هو…"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -285,7 +285,7 @@
         "va": "Inventa'n tu una amb la taula del 4: cadires, cotxes, gats…",
         "en": "Make one up with the 4 times table: chairs, cars, cats…",
         "fr": "Invente un problème avec la table de 4 : des chaises, des voitures, des chats…",
-        "ar": "لنخترع مسألة بجدول 4: كراسٍ، سيارات، قطط…"
+        "ar": "لنخترع مسألة بجدول ضرب 4: كراسٍ، سيارات، قطط…"
       }
     },
     {
@@ -304,7 +304,7 @@
         "va": "Si no sap per on començar: «M'ho ensenyes amb aquestes culleres, com si foren galetes?»",
         "en": "If they don't know where to start: “Can you show me with these spoons, as if they were biscuits?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres avec ces cuillères, comme si c'étaient des biscuits ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل نُري ذلك بهذه الملاعق كأنها بسكويت؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نمثّل ذلك بهذه الملاعق كأنها بسكويت؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -313,7 +313,7 @@
           "va": "En toquen 3 a cada persona i en sobra 1. Qualsevol idea per a la que sobra val: partir-la en trossos, guardar-la o donar-la a algú. L'important és l'explicació.",
           "en": "Each person gets 3 and 1 is left over. Any idea for the leftover one is fine: breaking it into pieces, keeping it or giving it to someone. What matters is the explanation.",
           "fr": "Chaque personne en a 3 et il en reste 1. Toute idée pour celui qui reste est bonne : le couper en morceaux, le garder ou le donner à quelqu'un. L'important, c'est l'explication.",
-          "ar": "يأخذ كل شخص 3 وتتبقّى واحدة. أي فكرة للباقية صحيحة: تقسيمها قطعًا، أو الاحتفاظ بها، أو إعطاؤها لأحد. المهم هو الشرح."
+          "ar": "يأخذ كل شخص 3 وتتبقّى واحدة. أي فكرة للباقية تصلح: تقسيمها قطعًا، أو الاحتفاظ بها، أو إعطاؤها لأحد. المهم هو الشرح."
         }
       }
     }
@@ -325,19 +325,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "bce097a45d5b"
+        "huella": "a1bbeae029cc"
       },
       "en": {
         "estado": "automatica",
-        "huella": "bce097a45d5b"
+        "huella": "a1bbeae029cc"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "bce097a45d5b"
+        "huella": "a1bbeae029cc"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "bce097a45d5b"
+        "huella": "a1bbeae029cc"
       }
     }
   }

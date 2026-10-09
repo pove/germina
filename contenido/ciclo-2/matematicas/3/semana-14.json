@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana aprenden la tabla del 5 contando de 5 en 5 con los dedos de las manos, y descubren que son los mismos números que los minutos del reloj: con la aguja larga en el 1 son 5 minutos; en el 3, 15.",
-    "va": "Aquesta setmana aprenen la taula del 5 (tabla del 5) comptant de 5 en 5 amb els dits de les mans, i descobreixen que són els mateixos números que els minuts del rellotge: amb l'agulla llarga en l'1 són 5 minuts; en el 3, 15.",
+    "va": "Aquesta setmana aprenen la taula del 5 (tabla del 5) comptant de 5 en 5 amb els dits de les mans, i descobrixen que són els mateixos números que els minuts del rellotge: amb l'agulla llarga en l'1 són 5 minuts; en el 3, 15.",
     "en": "This week they learn the 5 times table (tabla del 5) by counting in fives on their fingers, and discover that these are the same numbers as the minutes on a clock: with the long hand on 1 it's 5 minutes; on 3, 15.",
     "fr": "Cette semaine, on apprend la table de 5 (tabla del 5) en comptant de 5 en 5 avec les doigts des mains, et on découvre que ce sont les mêmes nombres que les minutes de l'horloge : avec la grande aiguille sur le 1, ce sont 5 minutes ; sur le 3, 15.",
     "ar": "هذا الأسبوع يتعلّم الأطفال جدول ضرب 5 (tabla del 5) بالعدّ خمسًا خمسًا بأصابع اليدين، ويكتشفون أنها الأعداد نفسها التي تدلّ على الدقائق في الساعة: العقرب الطويل عند 1 يعني 5 دقائق، وعند 3 يعني 15."
@@ -93,7 +93,7 @@
         "pictograma": "reloj",
         "texto": {
           "es": "Ahora mirad el reloj: con la aguja larga en el 1 son 5 minutos; en el 2, 10 minutos; en el 3, 15. ¡Son los números de vuestra lista!",
-          "va": "Ara mireu el rellotge: amb l'agulla llarga en l'1 són 5 minuts; en el 2, 10 minuts; en el 3, 15. Són els números de la vostra llista!",
+          "va": "Ara mireu el rellotge: amb l'agulla llarga en l'1 són 5 minuts; en el 2, 10 minuts; en el 3, 15. Són els nombres de la vostra llista!",
           "en": "Now look at the clock: with the long hand on 1 it's 5 minutes; on 2, 10 minutes; on 3, 15. They're the numbers on your list!",
           "fr": "Maintenant, regardez l'horloge : avec la grande aiguille sur le 1, ce sont 5 minutes ; sur le 2, 10 minutes ; sur le 3, 15. Ce sont les nombres de votre liste !",
           "ar": "الآن انظروا إلى الساعة: العقرب الطويل عند 1 يعني 5 دقائق، وعند 2 يعني 10 دقائق، وعند 3 يعني 15. إنها أعداد قائمتكم!"
@@ -122,7 +122,7 @@
       "va": "Compteu de 5 en 5 cap arrere des de 60 i digueu quants minuts falten per a l'hora en punt: amb l'agulla llarga en el 9, en falten 15.",
       "en": "Count back in fives from 60 and say how many minutes are left until the hour: with the long hand on 9, there are 15 to go.",
       "fr": "Comptez de 5 en 5 à l'envers depuis 60 et dites combien de minutes il manque pour l'heure pile : avec la grande aiguille sur le 9, il en manque 15.",
-      "ar": "عدّوا خمسًا خمسًا إلى الوراء من 60، وقولوا كم دقيقة بقيت حتى تصبح الساعة تمامًا: إذا كان العقرب الطويل عند 9، فقد بقيت 15."
+      "ar": "عدّوا خمسًا خمسًا إلى الوراء من 60، وقولوا كم دقيقة بقيت حتى بداية الساعة التالية: إذا كان العقرب الطويل عند 9، فقد بقيت 15."
     },
     "paraQueSirve": {
       "es": "Ver la tabla del 5 en las manos y en el reloj le da sentido: no es una lista para recitar, sino una forma de contar más rápido cosas que van de 5 en 5.",
@@ -139,9 +139,9 @@
       "tipoProblema": "suma-repetida",
       "texto": {
         "es": "En casa de Alba viven 4 personas. ¿Cuántos dedos hay contando solo sus manos derechas?",
-        "va": "A casa d'Alba viuen 4 persones. Quants dits hi ha comptant només les seues mans dretes?",
+        "va": "A casa de l'Alba viuen 4 persones. Quants dits hi ha comptant només les seues mans dretes?",
         "en": "4 people live in Alba's home. How many fingers are there if you count only their right hands?",
-        "fr": "Chez Alba, il y a 4 personnes. Combien y a-t-il de doigts si on compte seulement leurs mains droites ?",
+        "fr": "4 personnes vivent chez Alba. Combien y a-t-il de doigts si on compte seulement leurs mains droites ?",
         "ar": "في بيت ألبا يعيش 4 أشخاص. كم إصبعًا هناك إذا عددنا أيديهم اليمنى فقط؟"
       },
       "pista": {
@@ -181,7 +181,7 @@
         "va": "L'agulla llarga del rellotge està en el 4. Quants minuts han passat des de l'hora en punt?",
         "en": "The long hand of the clock is on 4. How many minutes have passed since the hour?",
         "fr": "La grande aiguille de l'horloge est sur le 4. Combien de minutes sont passées depuis l'heure pile ?",
-        "ar": "العقرب الطويل في الساعة عند 4. كم دقيقة مرّت منذ أن كانت الساعة تمامًا؟"
+        "ar": "العقرب الطويل في الساعة عند 4. كم دقيقة مرّت منذ بداية الساعة؟"
       },
       "pista": {
         "es": "Cada número del reloj son 5 minutos. Cuenta: 5, 10, 15…",
@@ -217,7 +217,7 @@
       "tipoProblema": "suma-repetida",
       "texto": {
         "es": "Youssef tiene 6 monedas de 5 céntimos. ¿Cuántos céntimos tiene?",
-        "va": "Youssef té 6 monedes de 5 cèntims (céntimos). Quants cèntims té?",
+        "va": "El Youssef té 6 monedes de 5 cèntims (céntimos). Quants cèntims té?",
         "en": "Youssef has 6 five-cent coins (céntimos). How many cents does he have?",
         "fr": "Youssef a 6 pièces de 5 centimes (céntimos). Combien de centimes a-t-il ?",
         "ar": "عند يوسف 6 قطع نقدية من فئة 5 سنتات (céntimos). كم سنتًا عنده؟"
@@ -260,11 +260,11 @@
         "va": "Per a recordar: quant és el doble de 8?",
         "en": "Let's remember: what is double 8?",
         "fr": "Pour se souvenir : combien fait le double de 8 ?",
-        "ar": "لنتذكّر: كم ضعف 8؟"
+        "ar": "لنتذكّر: كم يساوي ضعف 8؟"
       },
       "pista": {
         "es": "El doble es dos veces el mismo número: 8 y 8.",
-        "va": "El doble és dues vegades el mateix número: 8 i 8.",
+        "va": "El doble és dues vegades el mateix nombre: 8 i 8.",
         "en": "Double means the same number twice: 8 and 8.",
         "fr": "Le double, c'est deux fois le même nombre : 8 et 8.",
         "ar": "الضعف هو العدد نفسه مرتين: 8 و8."
@@ -306,7 +306,7 @@
         "va": "Si no sap per on començar: «Si l'agulla llarga està en el 2, quants minuts són? I quant és {{2 × 5}}?»",
         "en": "If they don't know where to start: “If the long hand is on 2, how many minutes is that? And what is {{2 × 5}}?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si la grande aiguille est sur le 2, ça fait combien de minutes ? Et combien fait {{2 × 5}} ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كان العقرب الطويل عند 2، فكم دقيقة هذه؟ وكم يساوي {{2 × 5}}؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كان العقرب الطويل عند 2، فكم دقيقة هذه؟ وكم يساوي {{2 × 5}}؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -315,7 +315,7 @@
           "va": "Pot dir que cada número del rellotge són 5 minuts. Si no veu la relació, no passa res: mireu junts el rellotge i compteu de 5 en 5 fent la volta.",
           "en": "They might say each number on the clock is 5 minutes. If they don't see the link, that's fine: look at the clock together and count in fives all the way round.",
           "fr": "Il ou elle peut dire que chaque nombre de l'horloge, c'est 5 minutes. S'il ou elle ne voit pas le lien, ce n'est pas grave : regardez l'horloge ensemble et comptez de 5 en 5 en faisant le tour.",
-          "ar": "قد يقول إن كل عدد في الساعة يساوي 5 دقائق. وإن لم يرَ العلاقة، فلا بأس: انظروا معًا إلى الساعة وعدّوا خمسًا خمسًا على طول الدائرة."
+          "ar": "قد يقولون إن كل عدد في الساعة يساوي 5 دقائق. وإن لم يروا العلاقة، فلا بأس: انظروا معًا إلى الساعة وعدّوا خمسًا خمسًا على طول الدائرة."
         }
       }
     }

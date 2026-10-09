@@ -25,7 +25,7 @@
     "va": "Deixeu que repartisca a la seua manera: d'una en una, de dues en dues… L'important és que al final tots els plats tinguen el mateix. Si en sobra alguna cosa, pregunteu: «Què podem fer amb el que sobra?».",
     "en": "Let them share in their own way: one at a time, two at a time… What matters is that in the end every plate has the same. If something is left over, ask: “What can we do with what's left?”",
     "fr": "Laissez partager à sa façon : un par un, deux par deux… L'important, c'est qu'à la fin toutes les assiettes aient pareil. S'il en reste, demandez : « Que peut-on faire avec ce qui reste ? »",
-    "ar": "اتركوا الطفل يوزّع على طريقته: واحدة واحدة، أو اثنتين اثنتين… المهم أن يكون في كل الصحون العدد نفسه في النهاية. وإذا بقي شيء، اسألوا: «ماذا نفعل بما بقي؟»."
+    "ar": "اتركوا الأطفال يوزّعون على طريقتهم: واحدة واحدة، أو اثنتين اثنتين… المهم أن يكون في كل الصحون العدد نفسه في النهاية. وإذا بقي شيء، اسألوا: «ماذا نفعل بما بقي؟»."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente"
@@ -100,17 +100,17 @@
       {
         "pictograma": "manos",
         "texto": {
-          "es": "Ahora probad con 17. Cada plato tiene 5 y sobran 2: ese es el resto. ¿Se puede partir lo que sobra? Con legumbres no; con galletas, ¡a lo mejor sí!",
-          "va": "Ara proveu amb 17. Cada plat en té 5 i en sobren 2: eixe és el residu. Es pot partir el que sobra? Amb llegums no; amb galetes, potser sí!",
-          "en": "Now try with 17. Each plate has 5 and 2 are left over: that's the remainder. Can you split what's left? Not with beans; with biscuits, maybe!",
-          "fr": "Maintenant, essayez avec 17. Chaque assiette en a 5 et il en reste 2 : c'est le reste. Peut-on couper ce qui reste ? Avec des grains, non ; avec des biscuits, peut-être !",
-          "ar": "الآن جرّبوا بـ17. في كل صحن 5 وتبقى 2: هذا هو الباقي. هل يمكن تقسيم ما بقي؟ مع البقول لا؛ ومع البسكويت، ربما نعم!"
+          "es": "Ahora probad con 17. Cada plato tiene 5 y sobran 2: ese es el resto. ¿Se puede partir lo que sobra? Con legumbres no; con galletas, ¡a lo mejor sí! Después, probad con tantos platos como personas haya en casa.",
+          "va": "Ara proveu amb 17. Cada plat en té 5 i en sobren 2: eixe és el residu. Es pot partir el que sobra? Amb llegums no; amb galetes, potser sí! Després, proveu amb tants plats com persones hi haja a casa.",
+          "en": "Now try with 17. Each plate has 5 and 2 are left over: that's the remainder. Can you split what's left? Not with beans; with biscuits, maybe! Then try with as many plates as there are people at home.",
+          "fr": "Maintenant, essayez avec 17. Chaque assiette en a 5 et il en reste 2 : c'est le reste. Peut-on couper ce qui reste ? Avec des grains, non ; avec des biscuits, peut-être ! Ensuite, essayez avec autant d'assiettes que de personnes à la maison.",
+          "ar": "الآن جرّبوا بـ17. في كل صحن 5 وتبقى 2: هذا هو الباقي. هل يمكن تقسيم ما بقي؟ مع البقول لا؛ ومع البسكويت، ربما نعم! بعد ذلك، جرّبوا بعدد من الصحون يساوي عدد الأشخاص في البيت."
         }
       }
     ],
     "masFacil": {
       "es": "Empezad con 2 platos y números pares, como 8 o 10, para que no sobre nada.",
-      "va": "Comenceu amb 2 plats i números parells, com 8 o 10, perquè no en sobre res.",
+      "va": "Comenceu amb 2 plats i nombres parells, com 8 o 10, perquè no en sobre res.",
       "en": "Start with 2 plates and even numbers, like 8 or 10, so nothing is left over.",
       "fr": "Commencez avec 2 assiettes et des nombres pairs, comme 8 ou 10, pour qu'il ne reste rien.",
       "ar": "ابدؤوا بصحنين وأعداد زوجية، مثل 8 أو 10، حتى لا يبقى شيء."
@@ -147,7 +147,7 @@
         "va": "L'àvia de Nadia porta 12 mandarines per als seus 4 néts i nétes. Si les repartix a parts iguals, quantes en toquen a cada persona?",
         "en": "Nadia's grandma brings 12 mandarins for her 4 grandchildren. If she shares them equally, how many does each person get?",
         "fr": "La mamie de Nadia apporte 12 mandarines pour ses 4 petits-enfants. Si elle les partage en parts égales, combien chacun en reçoit-il ?",
-        "ar": "أحضرت جدّة نادية 12 يوسفية لأحفادها الأربعة. إذا وزّعتها بالتساوي، كم يوسفية لكل واحد؟"
+        "ar": "أحضرت جدّة نادية 12 حبّة يوسفي لأحفادها الأربعة. إذا وزّعتها بالتساوي، كم حبّة لكل شخص؟"
       },
       "pista": {
         "es": "Dibuja 4 círculos y ve poniendo un punto en cada uno, por turnos, hasta llegar a 12.",
@@ -166,7 +166,7 @@
           "va": "En toquen 3 a cada persona: {{12 : 4 = 3}}.",
           "en": "Each person gets 3 mandarins: {{12 : 4 = 3}}.",
           "fr": "Chacun en reçoit 3 : {{12 : 4 = 3}}.",
-          "ar": "لكل واحد 3 يوسفيات: {{12 : 4 = 3}}."
+          "ar": "لكل شخص 3 حبّات: {{12 : 4 = 3}}."
         }
       },
       "inventala": {
@@ -193,7 +193,7 @@
         "va": "Pensa en la taula del 4: 4, 8, 12… Quant falta de 12 a 14?",
         "en": "Think of the 4 times table: 4, 8, 12… How far is it from 12 to 14?",
         "fr": "Pense à la table de 4 : 4, 8, 12… Combien manque-t-il de 12 à 14 ?",
-        "ar": "لنفكّر في جدول 4: 4، 8، 12… كم يبقى من 12 إلى 14؟"
+        "ar": "لنفكّر في جدول ضرب 4: 4، 8، 12… كم يبقى من 12 إلى 14؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -224,8 +224,8 @@
         "es": "Pablo tiene 20 cromos y quiere repartirlos a partes iguales con su amiga Yara. ¿Cuántos tendrá cada persona?",
         "va": "Pablo té 20 cromos i vol repartir-los a parts iguals amb la seua amiga Yara. Quants en tindrà cada persona?",
         "en": "Pablo has 20 stickers and wants to share them equally with his friend Yara. How many will each person have?",
-        "fr": "Pablo a 20 images et veut les partager en parts égales avec son amie Yara. Combien chacun en aura-t-il ?",
-        "ar": "عند بابلو 20 صورة ويريد أن يقتسمها بالتساوي مع صديقته يارا. كم صورة سيكون مع كل واحد؟"
+        "fr": "Pablo a 20 vignettes et veut les partager en parts égales avec son amie Yara. Combien chacun en aura-t-il ?",
+        "ar": "عند بابلو 20 ملصقًا ويريد أن يقتسمها بالتساوي مع صديقته يارا. كم ملصقًا سيكون مع كل واحد؟"
       },
       "pista": {
         "es": "Repartir entre 2 es hacer la mitad.",
@@ -244,7 +244,7 @@
           "va": "Cada persona en tindrà 10.",
           "en": "Each person will have 10 stickers.",
           "fr": "Chacun en aura 10.",
-          "ar": "سيكون مع كل واحد 10 صور."
+          "ar": "سيكون مع كل واحد 10 ملصقات."
         }
       },
       "inventala": {
@@ -290,9 +290,9 @@
       "inventala": {
         "es": "Inventa tú una de la tabla del 6 y resuélvela con la del 3.",
         "va": "Inventa'n tu una de la taula del 6 i resol-la amb la del 3.",
-        "en": "Make up a 6 times table one and work it out with the 3 times table.",
+        "en": "Make up one from the 6 times table and work it out with the 3 times table.",
         "fr": "Invente un problème de la table de 6 et trouve la réponse avec celle de 3.",
-        "ar": "لنخترع مسألة من جدول 6 ونحلّها بجدول 3."
+        "ar": "لنخترع مسألة من جدول ضرب 6 ونحلّها بجدول ضرب 3."
       }
     },
     {
@@ -311,7 +311,7 @@
         "va": "Si no sap per on començar: «Si tinguérem 6 galetes per als dos, com ho faríem?»",
         "en": "If they don't know where to start: “If we had 6 biscuits for the two of us, how would we do it?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si on avait 6 biscuits pour nous deux, comment ferait-on ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «لو كانت عندنا 6 بسكويتات لنا نحن الاثنين، كيف نوزّعها؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «لو كانت عندنا 6 بسكويتات لنا نحن الاثنين، كيف نوزّعها؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -320,7 +320,7 @@
           "va": "Si repartix d'una en una i comprova que tots en tenen el mateix, ja ho ha entés. Pregunteu també què faria si en sobrara una.",
           "en": "If they share one at a time and check everyone has the same, they've understood. Also ask what they'd do if one were left over.",
           "fr": "Si le partage se fait un par un et qu'on vérifie que tout le monde a pareil, c'est compris. Demandez aussi ce qu'on ferait s'il en restait un.",
-          "ar": "إذا وُزّعت الأشياء واحدًا واحدًا وتُحقّق من أن للجميع العدد نفسه، فقد فُهمت الفكرة. واسألوا أيضًا ماذا نفعل لو بقي واحد."
+          "ar": "إذا وزّع الأطفال الأشياء واحدًا واحدًا وتحقّقوا من أن للجميع العدد نفسه، فقد فهموا الفكرة. واسألوهم أيضًا ماذا يفعلون لو بقي واحد."
         }
       }
     }
@@ -332,19 +332,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "da34fe721b3e"
+        "huella": "7c1dafd7fdaa"
       },
       "en": {
         "estado": "automatica",
-        "huella": "da34fe721b3e"
+        "huella": "7c1dafd7fdaa"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "da34fe721b3e"
+        "huella": "7c1dafd7fdaa"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "da34fe721b3e"
+        "huella": "7c1dafd7fdaa"
       }
     }
   }

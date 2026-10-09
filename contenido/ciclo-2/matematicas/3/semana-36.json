@@ -15,14 +15,14 @@
   },
   "objetivo": {
     "es": "Esta semana miden longitudes con palmos y pasos, y después con el metro y la regla. Descubren que 1 metro son 100 centímetros y aprenden a decir «más o menos» cuánto mide algo antes de medirlo.",
-    "va": "Aquesta setmana mesuren longituds amb pams i passos, i després amb el metre i el regle. Descobreixen que 1 metre són 100 centímetres i aprenen a dir «més o menys» quant mesura alguna cosa abans de mesurar-la.",
+    "va": "Aquesta setmana mesuren longituds amb pams i passos, i després amb el metre i el regle. Descobrixen que 1 metre són 100 centímetres i aprenen a dir «més o menys» quant mesura alguna cosa abans de mesurar-la.",
     "en": "This week they measure lengths with hand spans and steps, and then with a tape measure and a ruler. They discover that 1 metre is 100 centimetres and learn to say roughly how long something is before measuring it.",
     "fr": "Cette semaine, on mesure des longueurs avec des empans et des pas, puis avec le mètre et la règle. On découvre qu'1 mètre fait 100 centimètres et on apprend à dire « à peu près » combien mesure quelque chose avant de le mesurer.",
     "ar": "هذا الأسبوع يقيس الأطفال الأطوال بالأشبار والخطوات، ثم بالمتر والمسطرة. ويكتشفون أن المتر 100 سنتيمتر، ويتعلّمون أن يقدّروا طول شيء قبل قياسه."
   },
   "comoAyudar": {
     "es": "Medid vosotros también con vuestros palmos: saldrán números distintos. Es la mejor forma de descubrir por qué hace falta el metro, que mide igual para todo el mundo.",
-    "va": "Mesureu vosaltres també amb els vostres pams: eixiran números diferents. És la millor manera de descobrir per què fem servir el metre, que mesura igual per a tothom.",
+    "va": "Mesureu vosaltres també amb els vostres pams: eixiran nombres diferents. És la millor manera de descobrir per què fem servir el metre, que mesura igual per a tothom.",
     "en": "Measure with your own hand spans too: you'll get different numbers. It's the best way to discover why we use the metre, which is the same for everyone.",
     "fr": "Mesurez vous aussi avec vos empans : vous trouverez des nombres différents. C'est la meilleure façon de découvrir pourquoi on utilise le mètre, qui est le même pour tout le monde.",
     "ar": "قيسوا أنتم أيضًا بأشباركم: ستخرج أعداد مختلفة. إنها أفضل طريقة لاكتشاف سبب استعمال المتر، فهو واحد للجميع."
@@ -46,11 +46,11 @@
     },
     "material": [
       {
-        "es": "Una cinta métrica o un metro",
-        "va": "Una cinta mètrica o un metre",
-        "en": "A tape measure or a metre rule",
-        "fr": "Un mètre ruban ou un mètre",
-        "ar": "شريط قياس أو مقياس متري"
+        "es": "Una cinta métrica o un metro, y una regla",
+        "va": "Una cinta mètrica o un metre, i un regle",
+        "en": "A tape measure or a metre rule, and a ruler",
+        "fr": "Un mètre ruban ou un mètre, et une règle",
+        "ar": "شريط قياس أو مقياس متري، ومسطرة"
       },
       {
         "es": "Papel y lápiz",
@@ -76,7 +76,7 @@
         "pictograma": "huellas",
         "texto": {
           "es": "Haced lo mismo con el pasillo, con pasos. ¿Por qué no sale el mismo número a todo el mundo?",
-          "va": "Feu el mateix amb el corredor, amb passos. Per què no ix el mateix número a tothom?",
+          "va": "Feu el mateix amb el corredor, amb passos. Per què no ix el mateix nombre a tothom?",
           "en": "Do the same with the hallway, in steps. Why doesn't everyone get the same number?",
           "fr": "Faites pareil avec le couloir, en pas. Pourquoi tout le monde ne trouve-t-il pas le même nombre ?",
           "ar": "افعلوا الشيء نفسه بالممر، بالخطوات. لماذا لا يخرج العدد نفسه للجميع؟"
@@ -131,11 +131,11 @@
       "rol": "tema",
       "tipoProblema": "medida",
       "texto": {
-        "es": "El pasillo de casa de Dylan mide 4 m. ¿Cuántos centímetros son?",
-        "va": "El corredor de casa de Dylan mesura 4 m. Quants centímetres són?",
-        "en": "The hallway at Dylan's home is 4 m long. How many centimetres is that?",
-        "fr": "Le couloir de chez Dylan mesure 4 m. Combien de centimètres cela fait-il ?",
-        "ar": "طول الممر في بيت ديلان 4 م. كم سنتيمترًا هذا؟"
+        "es": "El pasillo de casa de Noa mide 4 m. ¿Cuántos centímetros son?",
+        "va": "El corredor de casa de Noa mesura 4 m. Quants centímetres són?",
+        "en": "The hallway at Noa's home is 4 m long. How many centimetres is that?",
+        "fr": "Le couloir de chez Noa mesure 4 m. Combien de centimètres cela fait-il ?",
+        "ar": "طول الممر في بيت نوا 4 م. كم سنتيمترًا هذا؟"
       },
       "pista": {
         "es": "Cada metro son 100 cm.",
@@ -299,7 +299,7 @@
         "va": "Si no sap per on començar: «A tothom li van eixir els mateixos pams? Per què?»",
         "en": "If they don't know where to start: “Did everyone get the same number of spans? Why?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Tout le monde a trouvé le même nombre d'empans ? Pourquoi ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل خرج للجميع العدد نفسه من الأشبار؟ لماذا؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل خرج للجميع العدد نفسه من الأشبار؟ لماذا؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -320,19 +320,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "a5ee1eec5c1e"
+        "huella": "bf082cfe5d23"
       },
       "en": {
         "estado": "automatica",
-        "huella": "a5ee1eec5c1e"
+        "huella": "bf082cfe5d23"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "a5ee1eec5c1e"
+        "huella": "bf082cfe5d23"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "a5ee1eec5c1e"
+        "huella": "bf082cfe5d23"
       }
     }
   }

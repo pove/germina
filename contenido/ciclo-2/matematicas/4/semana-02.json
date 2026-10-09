@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana descubren que una cifra vale distinto según su sitio, hasta la centena de millar: en 975 420, el 7 vale 70 000. En clase lo llaman «valor posicional».",
-    "va": "Aquesta setmana descobreixen que una xifra (cifra) val diferent segons el seu lloc, fins a la centena de miler: en 975 420, el 7 val 70 000. A classe ho diuen en castellà: «valor posicional».",
-    "en": "This week they discover that a digit (cifra) is worth something different depending on its place, up to the hundred-thousands: in 975 420, the 7 is worth 70 000. In class, in Spanish, they call it «valor posicional» (place value).",
-    "fr": "Cette semaine, on découvre qu'un chiffre (cifra) vaut différemment selon sa place, jusqu'aux centaines de mille : dans 975 420, le 7 vaut 70 000. En classe, en espagnol, on l'appelle « valor posicional » (valeur de position).",
-    "ar": "هذا الأسبوع يكتشف الأطفال أن قيمة الرقم (cifra) تختلف حسب مكانه، حتى مئات الآلاف: في 975 420، الرقم 7 يساوي 70 000. في القسم يسمّونها بالإسبانية «valor posicional» (القيمة المكانية)."
+    "va": "Aquesta setmana descobrixen que una xifra (cifra) val diferent segons el seu lloc, fins a la centena de miler (centena de millar): en 975 420, el 7 val 70 000. A classe ho diuen en castellà: «valor posicional».",
+    "en": "This week they discover that a digit (cifra) is worth something different depending on its place, up to the hundred-thousands (centenas de millar): in 975 420, the 7 is worth 70 000. In class, in Spanish, they call it «valor posicional» (place value).",
+    "fr": "Cette semaine, on découvre qu'un chiffre (cifra) vaut différemment selon sa place, jusqu'aux centaines de mille (centenas de millar) : dans 975 420, le 7 vaut 70 000. En classe, en espagnol, on l'appelle « valor posicional » (valeur de position).",
+    "ar": "هذا الأسبوع يكتشف الأطفال أن قيمة الرقم (cifra) تختلف حسب مكانه، حتى مئات الآلاف (centenas de millar): في 975 420، الرقم 7 يساوي 70 000. في القسم يسمّونها بالإسبانية «valor posicional» (القيمة المكانية)."
   },
   "comoAyudar": {
     "es": "Jugad a «¿cuánto vale el 5?» con matrículas, precios o números de portal. Una pregunta rápida en el coche o en la cola del súper basta.",
     "va": "Jugueu a «quant val el 5?» amb matrícules, preus o números de portal. Amb una pregunta ràpida en el cotxe o en la cua del súper n'hi ha prou.",
     "en": "Play “What is the 5 worth?” with number plates, prices or door numbers. A quick question in the car or in the supermarket queue is enough.",
     "fr": "Jouez à « Combien vaut le 5 ? » avec des plaques d'immatriculation, des prix ou des numéros de porte. Une question rapide en voiture ou dans la file du supermarché suffit.",
-    "ar": "العبوا لعبة «كم يساوي الرقم 5؟» بلوحات السيارات أو الأسعار أو أرقام البيوت. سؤال سريع في السيارة أو في طابور السوق يكفي."
+    "ar": "العبوا لعبة «كم يساوي الرقم 5؟» بلوحات السيارات أو الأسعار أو أرقام البيوت. سؤال سريع في السيارة أو في طابور السوبرماركت يكفي."
   },
   "saberes": [
     "matematicas.numeros.millar",
@@ -40,16 +40,16 @@
       "es": "Seis cartas de cifras",
       "va": "Sis cartes de xifres",
       "en": "Six digit cards",
-      "fr": "Six cartes chiffres",
+      "fr": "Six cartes à chiffres",
       "ar": "ست بطاقات أرقام"
     },
     "material": [
       {
-        "es": "10 papelitos con las cifras del 0 al 9 (o una baraja en la que la sota valga 0)",
-        "va": "10 paperets amb les xifres del 0 al 9 (o una baralla en què la sota valga 0)",
-        "en": "10 slips of paper with the digits 0 to 9 (or a pack of cards where the jack is worth 0)",
-        "fr": "10 petits papiers avec les chiffres de 0 à 9 (ou un jeu de cartes où le valet vaut 0)",
-        "ar": "10 أوراق صغيرة عليها الأرقام من 0 إلى 9 (أو أوراق لعب يساوي فيها الولد 0)"
+        "es": "10 papelitos con las cifras del 0 al 9",
+        "va": "10 paperets amb les xifres del 0 al 9",
+        "en": "10 slips of paper with the digits 0 to 9",
+        "fr": "10 petits papiers avec les chiffres de 0 à 9",
+        "ar": "10 أوراق صغيرة عليها الأرقام من 0 إلى 9"
       },
       {
         "es": "Papel y lápiz",
@@ -65,7 +65,7 @@
         "pictograma": "cartas",
         "texto": {
           "es": "Mezclad las cartas boca abajo y sacad 6. Por ejemplo: 4, 0, 7, 2, 9 y 5.",
-          "va": "Mescleu les cartes cap per avall i n'agafeu 6. Per exemple: 4, 0, 7, 2, 9 i 5.",
+          "va": "Mescleu les cartes cap per avall i agafeu-ne 6. Per exemple: 4, 0, 7, 2, 9 i 5.",
           "en": "Shuffle the cards face down and draw 6. For example: 4, 0, 7, 2, 9 and 5.",
           "fr": "Mélangez les cartes face cachée et tirez-en 6. Par exemple : 4, 0, 7, 2, 9 et 5.",
           "ar": "اخلطوا البطاقات ووجهها إلى الأسفل واسحبوا 6. مثلًا: 4 و0 و7 و2 و9 و5."
@@ -97,7 +97,7 @@
           "es": "Por turnos, una persona señala una carta del número grande y la otra dice cuánto vale allí: el 7 de 975 420 vale 70 000.",
           "va": "Per torns, una persona assenyala una carta del nombre gran i l'altra diu quant val allí: el 7 de 975 420 val 70 000.",
           "en": "Taking turns, one person points to a card in the big number and the other says what it is worth there: the 7 in 975 420 is worth 70 000.",
-          "fr": "Chacun son tour, une personne montre une carte du grand nombre et l'autre dit combien elle vaut à cet endroit : le 7 de 975 420 vaut 70 000.",
+          "fr": "À tour de rôle, une personne montre une carte du grand nombre et l'autre dit combien elle vaut à cet endroit : le 7 de 975 420 vaut 70 000.",
           "ar": "بالدور، يشير شخص إلى بطاقة في العدد الكبير ويقول الآخر كم تساوي هناك: الرقم 7 في 975 420 يساوي 70 000."
         }
       }
@@ -130,11 +130,11 @@
       "rol": "tema",
       "tipoProblema": "combinar",
       "texto": {
-        "es": "En el número 47 382, ¿cuánto vale el 7?",
-        "va": "En el nombre 47 382, quant val el 7?",
-        "en": "In the number 47 382, what is the 7 worth?",
-        "fr": "Dans le nombre 47 382, combien vaut le 7 ?",
-        "ar": "في العدد 47 382، كم يساوي الرقم 7؟"
+        "es": "En el número 475 382, ¿cuánto vale el 4?",
+        "va": "En el nombre 475 382, quant val el 4?",
+        "en": "In the number 475 382, what is the 4 worth?",
+        "fr": "Dans le nombre 475 382, combien vaut le 4 ?",
+        "ar": "في العدد 475 382، كم يساوي الرقم 4؟"
       },
       "pista": {
         "es": "Cuenta los sitios desde la derecha: unidades, decenas, centenas, millares…",
@@ -145,15 +145,15 @@
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "7 × 1000",
-        "resultado": 7000,
+        "operacion": "4 × 100000",
+        "resultado": 400000,
         "unidad": "unidades",
         "texto": {
-          "es": "Vale 7000, porque está en los millares.",
-          "va": "Val 7000, perquè està en els milers.",
-          "en": "It's worth 7000, because it's in the thousands.",
-          "fr": "Il vaut 7000, car il est aux milliers.",
-          "ar": "يساوي 7000، لأنه في خانة الآلاف."
+          "es": "Vale 400 000, porque está en las centenas de millar.",
+          "va": "Val 400 000, perquè està en les centenes de miler.",
+          "en": "It's worth 400 000, because it's in the hundred-thousands.",
+          "fr": "Il vaut 400 000, car il est aux centaines de mille.",
+          "ar": "يساوي 400 000، لأنه في خانة مئات الآلاف."
         }
       },
       "inventala": {
@@ -192,7 +192,7 @@
           "va": "Augmenta 20 000: el nombre passa a ser 55 619.",
           "en": "It gets 20 000 bigger: the number becomes 55 619.",
           "fr": "Il augmente de 20 000 : le nombre devient 55 619.",
-          "ar": "يزيد 20 000: يصبح العدد 55 619."
+          "ar": "يزيد بمقدار 20 000: يصبح العدد 55 619."
         }
       },
       "inventala": {
@@ -295,7 +295,7 @@
       },
       "pista": {
         "es": "Si se atasca: «¿Prefieres 5 billetes de 100 € o 5 billetes de 10 €?»",
-        "va": "Si s'encalla: «Prefereixes 5 bitllets de 100 € o 5 bitllets de 10 €?»",
+        "va": "Si s'encalla: «Preferixes 5 bitllets de 100 € o 5 bitllets de 10 €?»",
         "en": "If they get stuck: “Would you rather have 5 notes of 100 € or 5 notes of 10 €?”",
         "fr": "S'il ou elle bloque : « Tu préfères 5 billets de 100 € ou 5 billets de 10 € ? »",
         "ar": "إذا حدث توقّف: «أيّهما نفضّل: 5 أوراق من 100 يورو أم 5 أوراق من 10 يورو؟»"
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "18358e3be6e8"
+        "huella": "a8fe08e7337c"
       },
       "en": {
         "estado": "automatica",
-        "huella": "18358e3be6e8"
+        "huella": "a8fe08e7337c"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "18358e3be6e8"
+        "huella": "a8fe08e7337c"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "18358e3be6e8"
+        "huella": "a8fe08e7337c"
       }
     }
   }

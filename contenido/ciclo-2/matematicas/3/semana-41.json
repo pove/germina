@@ -25,7 +25,7 @@
     "va": "Deixeu que perda i que guanye, i pregunteu després de cada partida «què ha passat al final?». I, per a tancar el curs, mireu junts el jardí: cada flor és una setmana que heu jugat.",
     "en": "Let them lose and win, and after each game ask “What happened at the end?” And, to close the year, look at the garden together: each flower is a week you played.",
     "fr": "Laissez perdre et gagner, et après chaque partie demandez « Que s'est-il passé à la fin ? ». Et, pour clore l'année, regardez ensemble le jardin : chaque fleur est une semaine que vous avez jouée.",
-    "ar": "اتركوا الطفل يخسر ويربح، واسألوا بعد كل جولة «ماذا حدث في النهاية؟». ولختام السنة، انظروا معًا إلى الحديقة: كل زهرة أسبوع لعبتموه."
+    "ar": "اتركوا الأطفال يخسرون ويربحون، واسألوا بعد كل جولة «ماذا حدث في النهاية؟». ولختام السنة، انظروا معًا إلى البستان: كل زهرة أسبوع لعبتموه."
   },
   "saberes": [
     "matematicas.computacional.juegos-estrategia",
@@ -67,7 +67,7 @@
           "es": "Jugad unas partidas de tres en raya en papel. ¿Dónde os gusta poner la primera cruz? ¿Gana siempre quien empieza?",
           "va": "Jugueu unes partides de tres en ratlla en paper. On us agrada posar la primera creu? Guanya sempre qui comença?",
           "en": "Play a few games of noughts and crosses on paper. Where do you like to put the first cross? Does whoever starts always win?",
-          "fr": "Faites quelques parties de morpion sur papier. Où aimez-vous mettre la première croix ? Celui ou celle qui commence gagne-t-il toujours ?",
+          "fr": "Faites quelques parties de morpion sur papier. Où aimez-vous mettre la première croix ? Est-ce que celui ou celle qui commence gagne toujours ?",
           "ar": "العبوا بضع جولات من إكس-أو على الورق. أين تحبّون وضع أول علامة؟ هل يفوز من يبدأ دائمًا؟"
         }
       },
@@ -148,7 +148,7 @@
         "va": "Quina casella està en més ratlles alhora?",
         "en": "Which square is part of the most lines at once?",
         "fr": "Quelle case fait partie du plus de lignes à la fois ?",
-        "ar": "أي خانة تدخل في أكبر عدد من الصفوف في آن واحد؟"
+        "ar": "أي خانة تدخل في أكبر عدد من الخطوط في آن واحد؟"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -157,7 +157,7 @@
           "va": "Molta gent tria el centre, perquè està en quatre ratlles. Però qualsevol raó pensada val: l'important és que l'explique.",
           "en": "Many people choose the centre, because it's in four lines. But any thought-through reason is fine: what matters is explaining it.",
           "fr": "Beaucoup de gens choisissent le centre, parce qu'il fait partie de quatre lignes. Mais toute raison réfléchie convient : l'important, c'est de l'expliquer.",
-          "ar": "كثيرون يختارون الوسط لأنه يدخل في أربعة صفوف. لكن أي سبب مدروس يصلح: المهم أن يُشرح."
+          "ar": "كثيرون يختارون الوسط لأنه يدخل في أربعة خطوط. لكن أي سبب مدروس يصلح: المهم أن يُشرح."
         }
       },
       "inventala": {
@@ -213,7 +213,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "Quedan 5 palillos y le toca a tu tía. Quite 1, 2 o 3, ¿puedes ganar siempre? ¿Cómo?",
-        "va": "Queden 5 escuradents i li toca a ta tia. En lleve 1, 2 o 3, pots guanyar sempre? Com?",
+        "va": "Queden 5 escuradents i li toca a ta tia. Tant si en lleva 1 com 2 o 3, pots guanyar sempre? Com?",
         "en": "There are 5 sticks left and it's your aunt's turn. Whether she takes 1, 2 or 3, can you always win? How?",
         "fr": "Il reste 5 bâtonnets et c'est le tour de ta tante. Qu'elle en enlève 1, 2 ou 3, peux-tu toujours gagner ? Comment ?",
         "ar": "بقيت 5 أعواد وجاء دور عمّتنا. سواء أخذت 1 أو 2 أو 3، هل يمكننا الفوز دائمًا؟ كيف؟"
@@ -222,7 +222,7 @@
         "es": "Mira las tres opciones: si quita 1, quedan 4; si quita 2, quedan 3… ¿Cuántos quitas tú para dejarle solo 1?",
         "va": "Mira les tres opcions: si en lleva 1, en queden 4; si en lleva 2, en queden 3… Quants en lleves tu per a deixar-li'n només 1?",
         "en": "Try all three options: if she takes 1, 4 are left; if she takes 2, 3 are left… How many do you take to leave her just 1?",
-        "fr": "Essaie les trois possibilités : si elle en enlève 1, il en reste 4 ; si elle en enlève 2, il en reste 3… Combien en enlèves-tu pour ne lui en laisser qu'1 ?",
+        "fr": "Essaie les trois possibilités : si elle en enlève 1, il en reste 4 ; si elle en enlève 2, il en reste 3… Combien en enlèves-tu pour ne lui en laisser qu'un seul ?",
         "ar": "لنجرّب الخيارات الثلاثة: إذا أخذت 1 بقيت 4؛ وإذا أخذت 2 بقيت 3… كم نأخذ لنترك لها عودًا واحدًا فقط؟"
       },
       "respuesta": {
@@ -231,8 +231,8 @@
           "es": "Sí: si quita 1, quitas 3; si quita 2, quitas 2; si quita 3, quitas 1. Siempre le queda el último a ella. No hace falta que llegue a esto solo: descubridlo jugando.",
           "va": "Sí: si en lleva 1, en lleves 3; si en lleva 2, en lleves 2; si en lleva 3, en lleves 1. Sempre li queda l'últim a ella. No cal que hi arribe a soles: descobriu-ho jugant.",
           "en": "Yes: if she takes 1, you take 3; if she takes 2, you take 2; if she takes 3, you take 1. She always ends up with the last one. It's fine if they don't get there alone: find it out by playing.",
-          "fr": "Oui : si elle en enlève 1, tu en enlèves 3 ; si elle en enlève 2, tu en enlèves 2 ; si elle en enlève 3, tu en enlèves 1. C'est toujours elle qui prend le dernier. Pas besoin d'y arriver tout seul : découvrez-le en jouant.",
-          "ar": "نعم: إذا أخذت 1 نأخذ 3، وإذا أخذت 2 نأخذ 2، وإذا أخذت 3 نأخذ 1. فيبقى لها الأخير دائمًا. لا يلزم أن يصل الطفل إلى هذا وحده: اكتشفوه باللعب."
+          "fr": "Oui : si elle en enlève 1, tu en enlèves 3 ; si elle en enlève 2, tu en enlèves 2 ; si elle en enlève 3, tu en enlèves 1. C'est toujours elle qui prend le dernier. Pas besoin d'y arriver sans aide : découvrez-le en jouant.",
+          "ar": "نعم: إذا أخذت 1 نأخذ 3، وإذا أخذت 2 نأخذ 2، وإذا أخذت 3 نأخذ 1. فيبقى لها الأخير دائمًا. لا يلزم أن يصل الأطفال إلى هذا وحدهم: اكتشفوه باللعب."
         }
       },
       "inventala": {
@@ -252,7 +252,7 @@
         "es": "Para recordar: 4 amigas se reparten 20 cromos a partes iguales. ¿Qué operación toca? ¿Cuántos tiene cada una?",
         "va": "Per a recordar: 4 amigues es repartixen 20 cromos a parts iguals. Quina operació toca? Quants en té cadascuna?",
         "en": "Let's remember: 4 friends share 20 stickers equally. Which operation is it? How many does each one have?",
-        "fr": "Pour se souvenir : 4 amies se partagent 20 images en parts égales. Quelle opération faut-il ? Combien chacune en a-t-elle ?",
+        "fr": "Pour se souvenir : 4 amies se partagent 20 vignettes en parts égales. Quelle opération utiliser ? Combien chacune en a-t-elle ?",
         "ar": "لنتذكّر: تقتسم 4 صديقات 20 صورة بالتساوي. أي عملية نستعمل؟ وكم صورة مع كل واحدة؟"
       },
       "pista": {
@@ -271,7 +271,7 @@
           "es": "Es repartir: cada una tiene 5 cromos, {{20 : 4 = 5}}.",
           "va": "És repartir: cadascuna en té 5, {{20 : 4 = 5}}.",
           "en": "It's sharing: each one has 5 stickers, {{20 : 4 = 5}}.",
-          "fr": "C'est un partage : chacune a 5 images, {{20 : 4 = 5}}.",
+          "fr": "C'est un partage : chacune a 5 vignettes, {{20 : 4 = 5}}.",
           "ar": "إنها قسمة: مع كل واحدة 5 صور، {{20 : 4 = 5}}."
         }
       },
@@ -292,14 +292,14 @@
         "va": "Mireu junts el jardí d'aquest curs. Quina llavor recordes millor? Explica'm què vas aprendre amb ella.",
         "en": "Look at this year's garden together. Which seed do you remember best? Explain what you learned with it.",
         "fr": "Regardez ensemble le jardin de cette année. De quelle graine te souviens-tu le mieux ? Explique-moi ce que tu as appris avec elle.",
-        "ar": "انظروا معًا إلى حديقة هذه السنة. أي بذرة نتذكّرها أكثر؟ اشرح لي أو اشرحي لي ماذا تعلّمنا بها."
+        "ar": "انظروا معًا إلى بستان هذه السنة. أي بذرة نتذكّرها أكثر؟ اشرح لي أو اشرحي لي ماذا تعلّمنا بها."
       },
       "pista": {
         "es": "Si no sabe cuál elegir: «Toca una flor y vamos a ver qué semana era».",
         "va": "Si no sap quina triar: «Toca una flor i anem a veure quina setmana era».",
         "en": "If they can't choose: “Tap a flower and let's see which week it was.”",
         "fr": "S'il ou elle n'arrive pas à choisir : « Touche une fleur et regardons quelle semaine c'était ».",
-        "ar": "إن لم يستطع الطفل الاختيار: «المس زهرة ولنرَ أي أسبوع كان»."
+        "ar": "إذا صعُب الاختيار: «لنلمس زهرة ونرَ أي أسبوع كان»."
       },
       "respuesta": {
         "tipo": "abierta",

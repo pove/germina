@@ -125,7 +125,7 @@
     },
     "paraQueSirve": {
       "es": "Contar hacia arriba es como se da la vuelta en las tiendas, y manejar monedas ayuda a entender que 100 céntimos son 1 €, lo que prepara los números con coma.",
-      "va": "Comptar cap amunt és com es dona el canvi a les botigues, i manejar monedes ajuda a entendre que 100 cèntims són 1 €, cosa que prepara els números amb coma.",
+      "va": "Comptar cap amunt és com es dona el canvi a les botigues, i manejar monedes ajuda a entendre que 100 cèntims són 1 €, cosa que prepara els nombres amb coma.",
       "en": "Counting up is how shops give change, and handling coins helps them understand that 100 cents is 1 €, which prepares them for decimal numbers.",
       "fr": "Compter en avançant, c'est comme ça qu'on rend la monnaie dans les magasins, et manipuler des pièces aide à comprendre que 100 centimes font 1 €, ce qui prépare les nombres à virgule.",
       "ar": "العدّ صعودًا هو طريقة إعطاء الباقي في المحلّات، والتعامل مع القطع النقدية يساعد على فهم أن 100 سنت تساوي 1 يورو، وهذا يمهّد للأعداد العشرية."
@@ -223,7 +223,7 @@
       "tipoProblema": "dinero",
       "texto": {
         "es": "El padre de Rubén compra un cuaderno de 3,50 € y paga con 5 €. ¿Cuál es la vuelta?",
-        "va": "El pare de Rubén compra un quadern de 3,50 € i paga amb 5 €. Quin és el canvi?",
+        "va": "El pare del Rubén compra un quadern de 3,50 € i paga amb 5 €. Quin és el canvi?",
         "en": "Rubén's dad buys a notebook for 3,50 € and pays with 5 €. What is the change?",
         "fr": "Le papa de Rubén achète un cahier à 3,50 € et paie avec 5 €. Combien on lui rend ?",
         "ar": "اشترى والد روبن دفترًا بـ3,50 يورو ودفع 5 يورو. كم الباقي؟"
@@ -310,9 +310,9 @@
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿Cuánto falta de 4,20 € a 4,50 €? ¿Y de 4,50 € a 5 €?»",
         "va": "Si no sap per on començar: «Quant falta de 4,20 € a 4,50 €? I de 4,50 € a 5 €?»",
-        "en": "If they don't know where to start: “How much is it from 4,20 € to 4,50 €? And from 4,50 € to 5 €?”",
+        "en": "If they don't know where to start: “How much more takes you from 4,20 € to 4,50 €? And from 4,50 € to 5 €?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Combien il manque de 4,20 € à 4,50 € ? Et de 4,50 € à 5 € ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم ينقص من 4,20 يورو إلى 4,50 يورو؟ ومن 4,50 يورو إلى 5 يورو؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كم ينقص من 4,20 يورو إلى 4,50 يورو؟ ومن 4,50 يورو إلى 5 يورو؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -321,7 +321,7 @@
           "va": "Pot comptar cap amunt (4,30, 4,40, 4,50 i 5 €) o pensar en cèntims. El canvi són 80 cèntims; si ix una altra cosa, pregunteu com ho ha pensat i proveu junts amb monedes.",
           "en": "They might count up (4,30, 4,40, 4,50 and 5 €) or think in cents. The change is 80 cents; if they get something else, ask how they worked it out and try together with coins.",
           "fr": "Il ou elle peut compter en avançant (4,30, 4,40, 4,50 et 5 €) ou penser en centimes. La monnaie est de 80 centimes ; si ça donne autre chose, demandez comment il ou elle a réfléchi et essayez ensemble avec des pièces.",
-          "ar": "قد يعدّ صعودًا (4,30، 4,40، 4,50، ثم 5 يورو) أو يفكّر بالسنتات. الباقي 80 سنتًا؛ وإذا خرجت نتيجة أخرى، اسألوا كيف كان التفكير وجرّبوا معًا بالقطع النقدية."
+          "ar": "قد يعدّون صعودًا (4,30، 4,40، 4,50، ثم 5 يورو) أو يفكّرون بالسنتات. الباقي 80 سنتًا؛ وإذا خرجت نتيجة أخرى، اسألوا كيف كان التفكير وجرّبوا معًا بالقطع النقدية."
         }
       }
     }

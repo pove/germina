@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana conocen las décimas: si se parte un metro en 10 trozos iguales, cada trozo es una décima, {{1/10}}, que también se escribe 0,1. Así, 3 décimas de metro son 0,3 m, es decir, 30 cm.",
-    "va": "Aquesta setmana coneixen les dècimes: si es partix un metre en 10 trossos iguals, cada tros és una dècima, {{1/10}}, que també s'escriu 0,1. Així, 3 dècimes de metre són 0,3 m, és a dir, 30 cm.",
+    "va": "Aquesta setmana coneixen les dècimes (décimas): si es partix un metre en 10 trossos iguals, cada tros és una dècima, {{1/10}}, que també s'escriu 0,1. Així, 3 dècimes de metre són 0,3 m, és a dir, 30 cm.",
     "en": "This week they meet tenths (décimas): if a metre is split into 10 equal pieces, each piece is a tenth, {{1/10}}, which is also written 0,1. So 3 tenths of a metre is 0,3 m, that is, 30 cm.",
     "fr": "Cette semaine, on découvre les dixièmes (décimas) : si on partage un mètre en 10 morceaux égaux, chaque morceau est un dixième, {{1/10}}, qu'on écrit aussi 0,1. Ainsi, 3 dixièmes de mètre font 0,3 m, c'est-à-dire 30 cm.",
     "ar": "هذا الأسبوع يتعرّف الأطفال إلى الأعشار (décimas): إذا قُسم متر إلى 10 قطع متساوية، فكل قطعة عُشر، {{1/10}}، ويُكتب أيضًا 0,1. هكذا تكون 3 أعشار المتر 0,3 م، أي 30 سم."
@@ -25,7 +25,7 @@
     "va": "Llegiu els decimals en veu alta com a classe: «zero coma tres» i també «tres dècimes». Si s'embolica amb la coma, torneu a la cinta i compteu els trossos de 10 cm.",
     "en": "Read decimals out loud the way they do in class: “zero comma three” and also “three tenths”. If they get muddled with the comma, go back to the tape and count the 10 cm pieces.",
     "fr": "Lisez les décimaux à voix haute comme en classe : « zéro virgule trois » et aussi « trois dixièmes ». En cas de confusion avec la virgule, revenez au mètre et comptez les morceaux de 10 cm.",
-    "ar": "اقرؤوا الأعداد العشرية بصوت عالٍ كما في القسم: «صفر فاصلة ثلاثة» و«ثلاثة أعشار». وإذا اختلطت الفاصلة على الطفل، عودوا إلى الشريط وعدّوا قطع الـ10 سم."
+    "ar": "اقرؤوا الأعداد العشرية بصوت عالٍ كما في القسم: «صفر فاصلة ثلاثة» و«ثلاثة أعشار». وإذا اختلطت الفاصلة على الأطفال، عودوا إلى الشريط وعدّوا قطع الـ10 سم."
   },
   "saberes": [
     "matematicas.fracciones.decimales",
@@ -119,7 +119,7 @@
     },
     "paraQueSirve": {
       "es": "Las décimas unen las fracciones con los números con coma. Verlas en una tira de un metro ayuda a entender qué significa la coma antes de hacer cuentas con ella.",
-      "va": "Les dècimes unixen les fraccions amb els números amb coma. Veure-les en una tira d'un metre ajuda a entendre què significa la coma abans de fer comptes amb ella.",
+      "va": "Les dècimes unixen les fraccions amb els nombres amb coma. Veure-les en una tira d'un metre ajuda a entendre què significa la coma abans de fer comptes amb ella.",
       "en": "Tenths link fractions with numbers with a decimal comma. Seeing them on a metre-long strip helps them understand what the comma means before doing sums with it.",
       "fr": "Les dixièmes relient les fractions aux nombres à virgule. Les voir sur une bande d'un mètre aide à comprendre ce que veut dire la virgule avant de calculer avec.",
       "ar": "الأعشار تربط الكسور بالأعداد ذات الفاصلة. ورؤيتها على شريط طوله متر تساعد على فهم معنى الفاصلة قبل الحساب بها."
@@ -299,7 +299,7 @@
         "va": "Si no sap per on començar: «En quants trossos vam partir el metre? Quant mesurava cada tros?»",
         "en": "If they don't know where to start: “How many pieces did we split the metre into? How long was each piece?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « En combien de morceaux a-t-on partagé le mètre ? Combien mesurait chaque morceau ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إلى كم قطعة قسمنا المتر؟ وكم كان طول كل قطعة؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إلى كم قطعة قسمنا المتر؟ وكم كان طول كل قطعة؟»"
       },
       "respuesta": {
         "tipo": "abierta",

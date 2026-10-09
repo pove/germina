@@ -14,15 +14,15 @@
     "ar": "في الذهن: بالعشرات وبالمئات"
   },
   "objetivo": {
-    "es": "Esta semana suman y restan decenas y centenas de cabeza, como {{340 + 20}} o {{580 − 100}}. Descubren que solo cambia una cifra y que las demás se quedan quietas. En clase lo llaman «cálculo mental».",
-    "va": "Aquesta setmana sumen i resten desenes i centenes de cap, com {{340 + 20}} o {{580 − 100}}. Descobreixen que només canvia una xifra i que les altres es queden quietes. A classe ho diuen en castellà: «cálculo mental» (càlcul mental).",
-    "en": "This week they add and subtract tens and hundreds in their heads, like {{340 + 20}} or {{580 − 100}}. They discover that only one digit changes and the others stay still. In class, in Spanish, they call it «cálculo mental» (mental calculation).",
-    "fr": "Cette semaine, on ajoute et on enlève des dizaines et des centaines de tête, comme {{340 + 20}} ou {{580 − 100}}. On découvre qu'un seul chiffre change et que les autres ne bougent pas. En classe, en espagnol, on l'appelle « cálculo mental » (calcul mental).",
-    "ar": "هذا الأسبوع يجمع الأطفال ويطرحون العشرات والمئات في الذهن، مثل {{340 + 20}} أو {{580 − 100}}. يكتشفون أن رقمًا واحدًا فقط يتغيّر وأن الأرقام الأخرى تبقى كما هي. في القسم يسمّونه بالإسبانية «cálculo mental» (الحساب الذهني)."
+    "es": "Esta semana suman y restan decenas y centenas de cabeza, como {{340 + 20}} o {{580 − 100}}. Descubren qué cifra cambia y cuáles se quedan quietas. En clase lo llaman «cálculo mental».",
+    "va": "Aquesta setmana sumen i resten desenes (decenas) i centenes de cap, com {{340 + 20}} o {{580 − 100}}. Descobrixen quina xifra canvia i quines es queden quietes. A classe ho diuen en castellà: «cálculo mental» (càlcul mental).",
+    "en": "This week they add and subtract tens (decenas) and hundreds (centenas) in their heads, like {{340 + 20}} or {{580 − 100}}. They discover which digit changes and which ones stay still. In class, in Spanish, they call it «cálculo mental» (mental calculation).",
+    "fr": "Cette semaine, on ajoute et on enlève des dizaines (decenas) et des centaines (centenas) de tête, comme {{340 + 20}} ou {{580 − 100}}. On découvre quel chiffre change et lesquels ne bougent pas. En classe, en espagnol, on l'appelle « cálculo mental » (calcul mental).",
+    "ar": "هذا الأسبوع يجمع الأطفال ويطرحون العشرات (decenas) والمئات (centenas) في الذهن، مثل {{340 + 20}} أو {{580 − 100}}. يكتشفون أيّ رقم يتغيّر وأيّ الأرقام تبقى كما هي. في القسم يسمّونه بالإسبانية «cálculo mental» (الحساب الذهني)."
   },
   "comoAyudar": {
     "es": "Decid los números en voz alta y despacio. Si se atasca, preguntad «¿qué cifra cambia?» y dejad que mire el número escrito en un papel.",
-    "va": "Digueu els números en veu alta i a poc a poc. Si s'encalla, pregunteu «quina xifra canvia?» i deixeu que mire el número escrit en un paper.",
+    "va": "Digueu els nombres en veu alta i a poc a poc. Si s'encalla, pregunteu «quina xifra canvia?» i deixeu que mire el nombre escrit en un paper.",
     "en": "Say the numbers out loud and slowly. If your child gets stuck, ask “Which digit changes?” and let them look at the number written on paper.",
     "fr": "Dites les nombres à voix haute et lentement. Si votre enfant bloque, demandez « Quel chiffre change ? » et laissez-le regarder le nombre écrit sur un papier.",
     "ar": "قولوا الأعداد بصوت عالٍ وببطء. إذا توقّف ابنكم أو ابنتكم، اسألوا «أيّ رقم يتغيّر؟» واتركوا العدد مكتوبًا على ورقة لينظر إليه."
@@ -65,7 +65,7 @@
         "pictograma": "ascensor",
         "texto": {
           "es": "Escribid un número de tres cifras en un papel, por ejemplo 250. Es la planta donde está el ascensor.",
-          "va": "Escriviu un número de tres xifres en un paper, per exemple 250. És el pis on està l'ascensor.",
+          "va": "Escriviu un nombre de tres xifres en un paper, per exemple 250. És el pis on està l'ascensor.",
           "en": "Write a three-digit number on a piece of paper, for example 250. That is the floor where the lift is.",
           "fr": "Écrivez un nombre à trois chiffres sur un papier, par exemple 250. C'est l'étage où se trouve l'ascenseur.",
           "ar": "اكتبوا عددًا من ثلاثة أرقام على ورقة، مثلًا 250. هذا هو الطابق الذي يوجد فيه المصعد."
@@ -104,7 +104,7 @@
     ],
     "masFacil": {
       "es": "Jugad solo con «sube 10» y «baja 10», empezando en un número redondo como 40.",
-      "va": "Jugueu només amb «puja 10» i «baixa 10», començant en un número redó com 40.",
+      "va": "Jugueu només amb «puja 10» i «baixa 10», començant en un nombre redó com 40.",
       "en": "Play only with “up 10” and “down 10”, starting at a round number like 40.",
       "fr": "Jouez seulement avec « monte de 10 » et « descends de 10 », en partant d'un nombre rond comme 40.",
       "ar": "العبوا فقط بـ«اصعد 10» و«انزل 10»، وابدؤوا من عدد مدوّر مثل 40."
@@ -131,10 +131,10 @@
       "tipoProblema": "anadir",
       "texto": {
         "es": "Nora tiene 230 cromos y su tío le da 40 más. ¿Cuántos tiene ahora?",
-        "va": "Nora té 230 cromos i el seu tio li'n dona 40 més. Quants en té ara?",
+        "va": "La Nora té 230 cromos i el seu tio li'n dona 40 més. Quants en té ara?",
         "en": "Nora has 230 stickers and her uncle gives her 40 more. How many does she have now?",
-        "fr": "Nora a 230 images à coller et son oncle lui en donne 40 de plus. Combien en a-t-elle maintenant ?",
-        "ar": "عند نورة 230 صورة لاصقة وأعطاها خالها 40 أخرى. كم صار عندها الآن؟"
+        "fr": "Nora a 230 vignettes et son oncle lui en donne 40 de plus. Combien en a-t-elle maintenant ?",
+        "ar": "عند نورة 230 ملصقًا وأعطاها خالها 40 أخرى. كم صار عندها الآن؟"
       },
       "pista": {
         "es": "Las 2 centenas no cambian. Piensa solo en las decenas: 3 decenas y 4 decenas.",
@@ -153,12 +153,12 @@
           "va": "Ara en té 270.",
           "en": "Now she has 270 stickers.",
           "fr": "Maintenant, elle en a 270.",
-          "ar": "صار عندها 270 صورة."
+          "ar": "صار عندها 270 ملصقًا."
         }
       },
       "inventala": {
         "es": "Inventa tú una en la que se sumen decenas a un número de tres cifras.",
-        "va": "Inventa'n tu una en què se sumen desenes a un número de tres xifres.",
+        "va": "Inventa'n tu una en què se sumen desenes a un nombre de tres xifres.",
         "en": "Make one up where you add tens to a three-digit number.",
         "fr": "Invente un problème où l'on ajoute des dizaines à un nombre à trois chiffres.",
         "ar": "لنخترع مسألة نجمع فيها عشرات إلى عدد من ثلاثة أرقام."
@@ -259,7 +259,7 @@
         "va": "Els 8 no ixen dels 3 solts: obri una desena. Ara hi ha 4 desenes i 13 solts.",
         "en": "You can't take 8 from the 3 loose ones: open a ten. Now there are 4 tens and 13 loose ones.",
         "fr": "On ne peut pas enlever 8 des 3 unités : ouvre une dizaine. Maintenant, il y a 4 dizaines et 13 unités.",
-        "ar": "لا يمكن أخذ 8 من 3 آحاد: لنفتح عشرة. الآن هناك 4 عشرات و13 آحادًا."
+        "ar": "لا يمكن أخذ 8 من 3 آحاد: لنفتح عشرة. الآن هناك 4 عشرات و13 من الآحاد."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -288,7 +288,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "¿Cómo se suma 100 de cabeza? Explícamelo con un número que elijas tú.",
-        "va": "Com se suma 100 de cap? Explica-m'ho amb un número que tries tu.",
+        "va": "Com se suma 100 de cap? Explica-m'ho amb un nombre que tries tu.",
         "en": "How do you add 100 in your head? Explain it to me with a number you choose.",
         "fr": "Comment on ajoute 100 de tête ? Explique-le-moi avec un nombre que tu choisis.",
         "ar": "كيف نجمع 100 في الذهن؟ اشرح لي أو اشرحي لي بعدد تختاره أو تختارينه."
@@ -298,16 +298,16 @@
         "va": "Si no sap per on començar: «Si estic en el 340 i puge 100, on arribe? Com ho saps?»",
         "en": "If they don't know where to start: “If I'm at 340 and go up 100, where do I get to? How do you know?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si je suis à 340 et que je monte de 100, où j'arrive ? Comment tu le sais ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كنّا عند 340 وصعدنا 100، فإلى أين نصل؟ وكيف نعرف ذلك؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كنّا عند 340 وصعدنا 100، فإلى أين نصل؟ وكيف نعرف ذلك؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
           "es": "Puede decir que solo cambia la cifra de las centenas. Si se lía, escribid el número en un papel y mirad juntos qué cifra se mueve.",
-          "va": "Pot dir que només canvia la xifra de les centenes. Si s'embolica, escriviu el número en un paper i mireu junts quina xifra es mou.",
+          "va": "Pot dir que només canvia la xifra de les centenes. Si s'embolica, escriviu el nombre en un paper i mireu junts quina xifra es mou.",
           "en": "They might say that only the hundreds digit changes. If they get muddled, write the number on paper and look together at which digit moves.",
           "fr": "Il ou elle peut dire que seul le chiffre des centaines change. S'il ou elle s'embrouille, écrivez le nombre sur un papier et regardez ensemble quel chiffre bouge.",
-          "ar": "قد يقول إن رقم المئات وحده يتغيّر. إذا اختلط عليه الأمر، اكتبوا العدد على ورقة وانظروا معًا أيّ رقم يتحرّك."
+          "ar": "قد يقولون إن رقم المئات وحده يتغيّر. إذا اختلط عليهم الأمر، اكتبوا العدد على ورقة وانظروا معًا أيّ رقم يتحرّك."
         }
       }
     }
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "88ece45cfcd1"
+        "huella": "633fb1e1ec96"
       },
       "en": {
         "estado": "automatica",
-        "huella": "88ece45cfcd1"
+        "huella": "633fb1e1ec96"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "88ece45cfcd1"
+        "huella": "633fb1e1ec96"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "88ece45cfcd1"
+        "huella": "633fb1e1ec96"
       }
     }
   }

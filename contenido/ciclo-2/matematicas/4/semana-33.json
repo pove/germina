@@ -9,23 +9,23 @@
   "titulo": {
     "es": "Fracciones en la cinta",
     "va": "Fraccions en la cinta",
-    "en": "Fractions on the tape",
+    "en": "Fractions on the tape measure",
     "fr": "Les fractions sur le mètre ruban",
     "ar": "الكسور على الشريط"
   },
   "objetivo": {
     "es": "Esta semana colocan fracciones en la recta, usando la cinta métrica: el 0 al principio, el metro entero al final y la mitad en 50 cm. Así comparan cada fracción con 0, con {{1/2}} y con 1.",
-    "va": "Aquesta setmana col·loquen fraccions en la recta (recta numérica), fent servir la cinta mètrica: el 0 al principi, el metre sencer al final i la meitat en 50 cm. Així comparen cada fracció amb 0, amb {{1/2}} i amb 1.",
-    "en": "This week they place fractions on the number line (recta numérica) using a tape measure: 0 at the start, the whole metre at the end and the half at 50 cm. That way they compare each fraction with 0, {{1/2}} and 1.",
-    "fr": "Cette semaine, on place des fractions sur la droite numérique (recta numérica) avec un mètre ruban : le 0 au début, le mètre entier à la fin et la moitié à 50 cm. Ainsi, on compare chaque fraction avec 0, {{1/2}} et 1.",
-    "ar": "هذا الأسبوع يضع الأطفال الكسور على خط الأعداد (recta numérica) باستعمال شريط القياس: 0 في البداية، والمتر الكامل في النهاية، والنصف عند 50 سم. هكذا يقارنون كل كسر بـ0 و{{1/2}} و1."
+    "va": "Aquesta setmana col·loquen fraccions (fracciones) en la recta numèrica, fent servir la cinta mètrica: el 0 al principi, el metre sencer al final i la meitat en 50 cm. Així comparen cada fracció amb 0, amb {{1/2}} i amb 1.",
+    "en": "This week they place fractions (fracciones) on the number line (recta numérica) using a tape measure: 0 at the start, the whole metre at the end and the half at 50 cm. That way they compare each fraction with 0, {{1/2}} and 1.",
+    "fr": "Cette semaine, on place des fractions (fracciones) sur la droite numérique (recta numérica) avec un mètre ruban : le 0 au début, le mètre entier à la fin et la moitié à 50 cm. Ainsi, on compare chaque fraction avec 0, {{1/2}} et 1.",
+    "ar": "هذا الأسبوع يضع الأطفال الكسور (fracciones) على خط الأعداد (recta numérica) باستعمال شريط القياس: 0 في البداية، والمتر الكامل في النهاية، والنصف عند 50 سم. هكذا يقارنون كل كسر بـ0 و{{1/2}} و1."
   },
   "comoAyudar": {
     "es": "Cuando dude dónde va una fracción, preguntad primero «¿es más o menos que la mitad?». Con eso ya tiene media respuesta.",
     "va": "Quan dubte on va una fracció, pregunteu primer «és més o menys que la meitat?». Amb això ja té mitja resposta.",
     "en": "When they're unsure where a fraction goes, first ask “Is it more or less than half?” That's already half the answer.",
     "fr": "En cas de doute sur la place d'une fraction, demandez d'abord « C'est plus ou moins que la moitié ? ». C'est déjà la moitié de la réponse.",
-    "ar": "عندما يتردّد الطفل في موضع كسر، اسألوا أولًا «هل هو أكثر من النصف أم أقل؟». بهذا يكون نصف الجواب جاهزًا."
+    "ar": "عندما يتردّد الأطفال في موضع كسر، اسألوا أولًا «هل هو أكثر من النصف أم أقل؟». بهذا يكون نصف الجواب جاهزًا."
   },
   "saberes": [
     "matematicas.fracciones.fraccion",
@@ -119,7 +119,7 @@
     },
     "paraQueSirve": {
       "es": "Ver las fracciones en la cinta las convierte en números con su sitio, como el 3 o el 7. Y compararlas con la mitad es un truco que sirve toda la vida.",
-      "va": "Veure les fraccions en la cinta les convertix en números amb el seu lloc, com el 3 o el 7. I comparar-les amb la meitat és un truc que servix tota la vida.",
+      "va": "Veure les fraccions en la cinta les convertix en nombres amb el seu lloc, com el 3 o el 7. I comparar-les amb la meitat és un truc que servix tota la vida.",
       "en": "Seeing fractions on the tape turns them into numbers with their own place, like 3 or 7. And comparing them with a half is a trick that's useful for life.",
       "fr": "Voir les fractions sur le mètre en fait des nombres avec leur place, comme 3 ou 7. Et les comparer à la moitié est une astuce qui sert toute la vie.",
       "ar": "رؤية الكسور على الشريط تجعلها أعدادًا لها مكانها، مثل 3 أو 7. ومقارنتها بالنصف حيلة تفيد طوال الحياة."
@@ -306,7 +306,7 @@
         "va": "Si no sap per on començar: «On està la meitat en la cinta? I {{3/5}}? Queda abans o després?»",
         "en": "If they don't know where to start: “Where is the half on the tape? And {{3/5}}? Is it before or after?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Où est la moitié sur le mètre ? Et {{3/5}} ? C'est avant ou après ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أين النصف على الشريط؟ وأين {{3/5}}؟ قبله أم بعده؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «أين النصف على الشريط؟ وأين {{3/5}}؟ قبله أم بعده؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -315,7 +315,7 @@
           "va": "Pot ser que ho explique amb la cinta o amb un truc («si dalt hi ha més de la meitat del de baix…»). Les dues maneres valen; demaneu que us ho ensenye amb un exemple.",
           "en": "They might explain it with the tape or with a trick (“if the top is more than half of the bottom…”). Both work; ask them to show you with an example.",
           "fr": "L'explication peut venir avec le mètre ou avec une astuce (« si le nombre du haut est plus que la moitié de celui du bas… »). Les deux conviennent ; demandez qu'on vous le montre avec un exemple.",
-          "ar": "قد يأتي الشرح بالشريط أو بحيلة («إذا كان البسط أكثر من نصف المقام…»). الطريقتان تصلحان؛ اطلبوا أن يُعرض عليكم ذلك بمثال."
+          "ar": "قد يأتي الشرح بالشريط أو بحيلة («إذا كان العدد في الأعلى أكثر من نصف العدد في الأسفل…»). الطريقتان تصلحان؛ اطلبوا من الأطفال أن يُروكم ذلك بمثال."
         }
       }
     }

@@ -25,7 +25,7 @@
     "va": "Feu servir hores reals de la vostra setmana: «Si eixim a les 17:15 i arribem a les 17:50, quant hem tardat?». Deixeu que faça servir un rellotge si l'ajuda.",
     "en": "Use real times from your week: “If we leave at 17:15 and arrive at 17:50, how long did it take us?” Let your child use a clock if it helps.",
     "fr": "Utilisez de vraies heures de votre semaine : « Si on part à 17:15 et qu'on arrive à 17:50, combien de temps on a mis ? ». Laissez votre enfant utiliser une horloge si ça l'aide.",
-    "ar": "استعملوا أوقاتًا حقيقية من أسبوعكم: «إذا خرجنا في 17:15 ووصلنا في 17:50، فكم استغرقنا؟». اسمحوا لابنكم أو ابنتكم باستعمال ساعة إن كان ذلك يساعد."
+    "ar": "استعملوا أوقاتًا حقيقية من أسبوعكم: «إذا خرجنا في الساعة 17:15 ووصلنا في الساعة 17:50، فكم استغرقنا؟». اسمحوا لابنكم أو ابنتكم باستعمال ساعة إن كان ذلك يساعد."
   },
   "saberes": [
     "matematicas.medida.magnitudes",
@@ -88,7 +88,7 @@
           "va": "Calculeu quant dura cada cosa comptant cap amunt. De 16:40 a 18:15: 20 minuts fins a les 17:00, 1 hora fins a les 18:00 i 15 minuts més. En total, 1 hora i 35 minuts.",
           "en": "Work out how long each thing lasts by counting up. From 16:40 to 18:15: 20 minutes to 17:00, 1 hour to 18:00 and 15 more minutes. In total, 1 hour and 35 minutes.",
           "fr": "Calculez combien dure chaque chose en comptant en avançant. De 16:40 à 18:15 : 20 minutes jusqu'à 17:00, 1 heure jusqu'à 18:00 et 15 minutes de plus. En tout, 1 heure et 35 minutes.",
-          "ar": "احسبوا كم يدوم كل شيء بالعدّ صعودًا. من 16:40 إلى 18:15: 20 دقيقة حتى 17:00، وساعة حتى 18:00، و15 دقيقة أخرى. المجموع ساعة و35 دقيقة."
+          "ar": "احسبوا كم يدوم كل شيء بالعدّ صعودًا. من الساعة 16:40 إلى 18:15: 20 دقيقة حتى الساعة 17:00، وساعة حتى الساعة 18:00، و15 دقيقة أخرى. المجموع ساعة و35 دقيقة."
         }
       },
       {
@@ -103,11 +103,11 @@
       }
     ],
     "masFacil": {
-      "es": "Usad horas en punto y y media, y cosas que duren menos de una hora.",
-      "va": "Feu servir hores en punt i i mitja, i coses que duren menys d'una hora.",
+      "es": "Usad horas en punto y horas y media, y cosas que duren menos de una hora.",
+      "va": "Feu servir hores en punt i hores i mitja, i coses que duren menys d'una hora.",
       "en": "Use o'clock and half-past times, and things that last less than an hour.",
-      "fr": "Utilisez des heures pile et et demie, et des choses qui durent moins d'une heure.",
-      "ar": "استعملوا أوقاتًا تمامًا والنصف، وأشياء تدوم أقل من ساعة."
+      "fr": "Utilisez des heures pile et des heures et demie, et des choses qui durent moins d'une heure.",
+      "ar": "استعملوا أوقاتًا مثل الرابعة تمامًا والرابعة والنصف، وأشياء تدوم أقل من ساعة."
     },
     "masDificil": {
       "es": "Sumad las duraciones: ¿cuánto tiempo habéis pasado en casa y cuánto fuera?",
@@ -134,14 +134,14 @@
         "va": "El partit d'Adrián comença a les 17:30 i acaba a les 18:45. Quant dura?",
         "en": "Adrián's match starts at 17:30 and ends at 18:45. How long does it last?",
         "fr": "Le match d'Adrián commence à 17:30 et finit à 18:45. Combien de temps dure-t-il ?",
-        "ar": "تبدأ مباراة أدريان في 17:30 وتنتهي في 18:45. كم تدوم؟"
+        "ar": "تبدأ مباراة أدريان في الساعة 17:30 وتنتهي في الساعة 18:45. كم تدوم؟"
       },
       "pista": {
         "es": "De 17:30 a 18:30 va 1 hora. Y de 18:30 a 18:45, ¿cuánto?",
         "va": "De 17:30 a 18:30 va 1 hora. I de 18:30 a 18:45, quant?",
         "en": "From 17:30 to 18:30 is 1 hour. And from 18:30 to 18:45, how long?",
         "fr": "De 17:30 à 18:30, il y a 1 heure. Et de 18:30 à 18:45, combien ?",
-        "ar": "من 17:30 إلى 18:30 ساعة واحدة. ومن 18:30 إلى 18:45، كم؟"
+        "ar": "من الساعة 17:30 إلى 18:30 ساعة واحدة. ومن الساعة 18:30 إلى 18:45، كم؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -212,14 +212,14 @@
         "va": "Són les 19:40 i el sopar és a les 21:00. Quant falta per a sopar?",
         "en": "It's 19:40 and dinner is at 21:00. How long is it until dinner?",
         "fr": "Il est 19:40 et le dîner est à 21:00. Combien de temps reste-t-il avant de dîner ?",
-        "ar": "الساعة 19:40 والعشاء في 21:00. كم بقي على العشاء؟"
+        "ar": "الساعة 19:40 والعشاء في الساعة 21:00. كم بقي على العشاء؟"
       },
       "pista": {
         "es": "De 19:40 a 20:00 faltan 20 minutos. Y de 20:00 a 21:00, 1 hora.",
         "va": "De 19:40 a 20:00 falten 20 minuts. I de 20:00 a 21:00, 1 hora.",
         "en": "From 19:40 to 20:00 is 20 minutes. And from 20:00 to 21:00, 1 hour.",
         "fr": "De 19:40 à 20:00, il manque 20 minutes. Et de 20:00 à 21:00, 1 heure.",
-        "ar": "من 19:40 إلى 20:00 بقيت 20 دقيقة. ومن 20:00 إلى 21:00 ساعة واحدة."
+        "ar": "من الساعة 19:40 إلى 20:00 بقيت 20 دقيقة. ومن الساعة 20:00 إلى 21:00 ساعة واحدة."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -252,7 +252,7 @@
         "va": "Per a recordar: a una excursió van 59 xiquets i xiquetes i 36 persones adultes. Quantes persones hi van en total?",
         "en": "Let's remember: 59 children and 36 adults go on a school trip. How many people go in total?",
         "fr": "Pour se souvenir : 59 enfants et 36 adultes partent en sortie. Combien de personnes y vont en tout ?",
-        "ar": "لنتذكّر: يذهب إلى رحلة 59 طفلًا وطفلة و36 شخصًا بالغًا. كم شخصًا يذهب في المجموع؟"
+        "ar": "لنتذكّر: يذهب إلى رحلة 59 من الأطفال و36 شخصًا بالغًا. كم شخصًا يذهب في المجموع؟"
       },
       "pista": {
         "es": "59 está a 1 de 60: calcula {{60 + 36 = 96}} y quita 1.",
@@ -298,7 +298,7 @@
         "va": "Si no sap per on començar: «A quina hora has entrat hui a l'escola? I a quina hora has eixit?»",
         "en": "If they don't know where to start: “What time did you go into school today? And what time did you come out?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « À quelle heure tu es entré ou entrée à l'école aujourd'hui ? Et à quelle heure tu es sorti ou sortie ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «في أيّ ساعة دخلنا المدرسة اليوم؟ وفي أيّ ساعة خرجنا؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «في أيّ ساعة دخلنا المدرسة اليوم؟ وفي أيّ ساعة خرجنا؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -307,7 +307,7 @@
           "va": "Pot comptar cap amunt fins a l'hora en punt i després sumar. Una distracció molt habitual és pensar que una hora té 100 minuts; si passa, mireu junts un rellotge i compteu els minuts d'una volta.",
           "en": "They might count up to the hour and then add. A very common slip is thinking an hour has 100 minutes; if that happens, look at a clock together and count the minutes in one turn.",
           "fr": "Il ou elle peut compter en avançant jusqu'à l'heure pile, puis additionner. Une étourderie très courante est de penser qu'une heure a 100 minutes ; si ça arrive, regardez ensemble une horloge et comptez les minutes d'un tour.",
-          "ar": "قد يعدّ صعودًا حتى تصبح الساعة تمامًا ثم يجمع. من الأخطاء الشائعة جدًا الظنّ أن الساعة فيها 100 دقيقة؛ إن حدث ذلك، انظروا معًا إلى ساعة وعدّوا دقائق دورة واحدة."
+          "ar": "قد يعدّون صعودًا حتى تصبح الساعة تمامًا ثم يجمعون. من السهو الشائع جدًا الظنّ أن الساعة فيها 100 دقيقة؛ إن حدث ذلك، انظروا معًا إلى ساعة وعدّوا دقائق دورة واحدة."
         }
       }
     }
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d1e700c9bbcc"
+        "huella": "3db074530354"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d1e700c9bbcc"
+        "huella": "3db074530354"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d1e700c9bbcc"
+        "huella": "3db074530354"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d1e700c9bbcc"
+        "huella": "3db074530354"
       }
     }
   }

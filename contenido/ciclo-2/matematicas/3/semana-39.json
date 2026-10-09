@@ -10,7 +10,7 @@
     "es": "¿Qué operación toca?",
     "va": "Quina operació toca?",
     "en": "Which operation is it?",
-    "fr": "Quelle opération faut-il ?",
+    "fr": "Quelle opération choisir ?",
     "ar": "أي عملية نستعمل؟"
   },
   "objetivo": {
@@ -25,7 +25,7 @@
     "va": "L'important aquesta setmana no és el compte, sinó triar. Si dubta, pregunteu «què passa en el problema: s'ajunta, es lleva, es repetix o es repartix?». Dibuixar-ho també ajuda.",
     "en": "What matters this week isn't the sum, but choosing. If they're unsure, ask “What happens in the problem: are things put together, taken away, repeated or shared?” Drawing it helps too.",
     "fr": "L'important cette semaine, ce n'est pas le calcul, c'est de choisir. En cas de doute, demandez « Que se passe-t-il dans le problème : on réunit, on enlève, on répète ou on partage ? ». Le dessiner aide aussi.",
-    "ar": "المهم هذا الأسبوع ليس الحساب بل الاختيار. وإذا تردّد الطفل، اسألوا «ماذا يحدث في المسألة: نضمّ أم نأخذ أم نكرّر أم نوزّع؟». والرسم يساعد أيضًا."
+    "ar": "المهم هذا الأسبوع ليس الحساب بل الاختيار. وإذا تردّد الأطفال، اسألوا «ماذا يحدث في المسألة: نضمّ أم نأخذ أم نكرّر أم نوزّع؟». والرسم يساعد أيضًا."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -69,7 +69,7 @@
           "es": "La persona adulta escribe 8 problemas cortos en papelitos: «Tengo 12 cromos y me dan 5», «Hay 4 platos con 3 fresas», «Reparto 10 galletas entre 2»…",
           "va": "La persona adulta escriu 8 problemes curts en paperets: «Tinc 12 cromos i me'n donen 5», «Hi ha 4 plats amb 3 maduixes», «Repartisc 10 galetes entre 2»…",
           "en": "The adult writes 8 short problems on slips: “I have 12 stickers and I'm given 5”, “There are 4 plates with 3 strawberries”, “I share 10 biscuits between 2”…",
-          "fr": "L'adulte écrit 8 problèmes courts sur des petits papiers : « J'ai 12 images et on m'en donne 5 », « Il y a 4 assiettes avec 3 fraises », « Je partage 10 biscuits entre 2 »…",
+          "fr": "L'adulte écrit 8 problèmes courts sur des petits papiers : « J'ai 12 vignettes et on m'en donne 5 », « Il y a 4 assiettes avec 3 fraises », « Je partage 10 biscuits entre 2 »…",
           "ar": "يكتب الشخص البالغ 8 مسائل قصيرة على قصاصات: «عندي 12 صورة وأُعطيت 5»، «هناك 4 صحون في كل منها 3 حبات فراولة»، «أوزّع 10 بسكويتات على 2»…"
         }
       },
@@ -90,7 +90,7 @@
           "va": "El xiquet o la xiqueta llig cada problema i el posa en el seu munt, sense calcular encara. Si dubta, que ho explique en veu alta.",
           "en": "The child reads each problem and puts it on its pile, without calculating yet. If they're unsure, they explain out loud.",
           "fr": "L'enfant lit chaque problème et le pose sur son tas, sans calculer encore. En cas de doute, il ou elle explique à voix haute.",
-          "ar": "يقرأ الطفل كل مسألة ويضعها في كومتها دون أن يحسب بعد. وإن تردّد، يشرح بصوت عالٍ."
+          "ar": "يقرأ الطفل أو الطفلة كل مسألة ويضعها في كومتها دون أن يحسب بعد. وإن تردّد، يشرح بصوت عالٍ."
         }
       },
       {
@@ -213,7 +213,7 @@
         "es": "Hay 24 lápices para guardar en 6 estuches, los mismos en cada uno. ¿Cuántos van en cada estuche?",
         "va": "Hi ha 24 llapis per a guardar en 6 estoigs, els mateixos en cadascun. Quants en van en cada estoig?",
         "en": "There are 24 pencils to put into 6 pencil cases, the same number in each. How many go in each case?",
-        "fr": "Il y a 24 crayons à ranger dans 6 trousses, autant dans chacune. Combien en va-t-il dans chaque trousse ?",
+        "fr": "Il y a 24 crayons à ranger dans 6 trousses, autant dans chacune. Combien en met-on dans chaque trousse ?",
         "ar": "هناك 24 قلمًا نضعها في 6 مقالم بالعدد نفسه في كل منها. كم قلمًا في كل مقلمة؟"
       },
       "pista": {
@@ -232,13 +232,13 @@
           "es": "Se reparte: van 4 en cada estuche, {{24 : 6 = 4}}.",
           "va": "Es repartix: en van 4 en cada estoig, {{24 : 6 = 4}}.",
           "en": "It's sharing: 4 go in each case, {{24 : 6 = 4}}.",
-          "fr": "On partage : il en va 4 dans chaque trousse, {{24 : 6 = 4}}.",
+          "fr": "On partage : on en met 4 dans chaque trousse, {{24 : 6 = 4}}.",
           "ar": "نوزّع: 4 أقلام في كل مقلمة، {{24 : 6 = 4}}."
         }
       },
       "inventala": {
         "es": "Inventa tú un problema de repartir y otro de grupos iguales con los mismos números.",
-        "va": "Inventa't un problema de repartir i un altre de grups iguals amb els mateixos números.",
+        "va": "Inventa't un problema de repartir i un altre de grups iguals amb els mateixos nombres.",
         "en": "Make up a sharing problem and an equal-groups problem with the same numbers.",
         "fr": "Invente un problème de partage et un autre de groupes égaux avec les mêmes nombres.",
         "ar": "لنخترع مسألة توزيع وأخرى مجموعات متساوية بالأعداد نفسها."
@@ -297,7 +297,7 @@
         "va": "Si no sap per on començar: «Quines paraules et donen una pista: “en total”, “queden”, “cadascun”, “entre”?»",
         "en": "If they don't know where to start: “Which words give you a clue: ‘in total’, ‘left’, ‘each’, ‘between’?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Quels mots te donnent un indice : “en tout”, “il reste”, “chacun”, “entre” ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أي الكلمات تعطينا تلميحًا: “في المجموع”، “بقي”، “لكل”، “على”؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «أي الكلمات تعطينا تلميحًا: “في المجموع”، “بقي”، “لكل”، “على”؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -306,7 +306,7 @@
           "va": "Les paraules ajuden, però el millor és imaginar què passa en la història. Si ho explica així, perfecte; si només busca paraules, pregunteu «i què passa amb les coses?».",
           "en": "Words help, but the best thing is to imagine what happens in the story. If they explain it that way, perfect; if they only look for words, ask “And what happens to the things?”",
           "fr": "Les mots aident, mais le mieux, c'est d'imaginer ce qui se passe dans l'histoire. Si l'explication va dans ce sens, parfait ; si on cherche seulement des mots, demandez « Et qu'arrive-t-il aux choses ? ».",
-          "ar": "الكلمات تساعد، لكن الأفضل تخيّل ما يحدث في القصة. إن شُرح الأمر هكذا فممتاز؛ وإن اقتصر على البحث عن الكلمات، اسألوا «وماذا يحدث للأشياء؟»."
+          "ar": "الكلمات تساعد، لكن الأفضل تخيّل ما يحدث في القصة. إن شُرح الأمر هكذا فممتاز؛ وإن اقتصروا على البحث عن الكلمات، اسألوا «وماذا يحدث للأشياء؟»."
         }
       }
     }

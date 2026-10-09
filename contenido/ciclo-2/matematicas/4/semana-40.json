@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana vuelven a todo lo del curso: números grandes, las cuatro operaciones, decimales, medidas, el dinero y la hora. No hay nada nuevo: es para despedir el curso jugando.",
-    "va": "Aquesta setmana tornen a tot el del curs: números grans, les quatre operacions, decimals, mesures, els diners i l'hora. No hi ha res nou: és per a acomiadar el curs jugant.",
+    "va": "Aquesta setmana tornen a tot el que han vist durant el curs: nombres grans, les quatre operacions, decimals, mesures, els diners i l'hora. No hi ha res nou: és per a acomiadar el curs jugant.",
     "en": "This week they go back to everything from the year: big numbers, the four operations, decimals, measurements, money and the time. There is nothing new: it's to say goodbye to the year by playing.",
     "fr": "Cette semaine, on revient à tout ce qu'on a vu dans l'année : grands nombres, les quatre opérations, décimaux, mesures, argent et heure. Rien de nouveau : c'est pour dire au revoir à l'année en jouant.",
     "ar": "هذا الأسبوع يعود الأطفال إلى كل ما تعلّموه في السنة: الأعداد الكبيرة، والعمليات الأربع، والأعداد العشرية، والقياسات، والنقود، والساعة. لا جديد: الهدف وداع السنة باللعب."
@@ -25,7 +25,7 @@
     "va": "Feu la gimcana en equip: cada pregunta es resol entre tots i cada persona aporta alguna cosa. El bonic és acabar-la junts, no fer-la de pressa.",
     "en": "Do the treasure trail as a team: each question is solved together and everyone contributes something. The lovely part is finishing it together, not doing it fast.",
     "fr": "Faites le jeu de piste en équipe : chaque question se résout ensemble et chaque personne apporte quelque chose. Le plus beau, c'est de le finir ensemble, pas de le faire vite.",
-    "ar": "قوموا بالمسابقة كفريق: يُحلّ كل سؤال معًا ويساهم كل شخص بشيء. الجميل أن تنهوها معًا، لا أن تسرعوا."
+    "ar": "العبوا لعبة المحطات كفريق: يُحلّ كل سؤال معًا ويساهم كل شخص بشيء. الجميل أن تنهوها معًا، لا أن تسرعوا."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -44,7 +44,7 @@
       "va": "La gimcana de casa",
       "en": "The home treasure trail",
       "fr": "Le jeu de piste de la maison",
-      "ar": "مسابقة البيت"
+      "ar": "لعبة المحطات في البيت"
     },
     "material": [
       {
@@ -78,7 +78,7 @@
         "pictograma": "papel",
         "texto": {
           "es": "En cada puesto, dejad una pregunta con decimales o números grandes: «¿Cuánto mide la mesa en metros?», «¿Cuántos gramos son 0,5 kg?», «Si son las 17:45, ¿qué hora será dentro de 50 minutos?»…",
-          "va": "En cada lloc, deixeu una pregunta amb decimals o números grans: «Quant mesura la taula en metres?», «Quants grams són 0,5 kg?», «Si són les 17:45, quina hora serà d'ací a 50 minuts?»…",
+          "va": "En cada lloc, deixeu una pregunta amb decimals o nombres grans: «Quant mesura la taula en metres?», «Quants grams són 0,5 kg?», «Si són les 17:45, quina hora serà d'ací a 50 minuts?»…",
           "en": "At each station, leave a question with decimals or big numbers: “How long is the table in metres?”, “How many grams is 0,5 kg?”, “If it's 17:45, what time will it be in 50 minutes?”…",
           "fr": "À chaque poste, laissez une question avec des décimaux ou de grands nombres : « Combien mesure la table en mètres ? », « Combien de grammes font 0,5 kg ? », « S'il est 17:45, quelle heure sera-t-il dans 50 minutes ? »…",
           "ar": "اتركوا في كل محطة سؤالًا بأعداد عشرية أو كبيرة: «كم طول الطاولة بالأمتار؟»، «كم غرامًا في 0,5 كغ؟»، «إذا كانت الساعة 17:45، فكم ستكون بعد 50 دقيقة؟»…"
@@ -108,7 +108,7 @@
     "masFacil": {
       "es": "Haced solo tres puestos y preguntas sin decimales.",
       "va": "Feu només tres llocs i preguntes sense decimals.",
-      "en": "Do just three stations with questions without decimals.",
+      "en": "Do just three stations, with questions that have no decimals.",
       "fr": "Faites seulement trois postes, avec des questions sans décimaux.",
       "ar": "اكتفوا بثلاث محطات وبأسئلة دون أعداد عشرية."
     },
@@ -117,21 +117,21 @@
       "va": "Que el xiquet o la xiqueta prepare les preguntes de dos llocs per a la resta de la família, amb una dada que sobre en una d'elles.",
       "en": "Have the child prepare the questions for two stations for the rest of the family, with an extra piece of information in one of them.",
       "fr": "Que l'enfant prépare les questions de deux postes pour le reste de la famille, avec une donnée inutile dans l'une d'elles.",
-      "ar": "ليحضّر الطفل أسئلة محطتين لبقية العائلة، وفي أحدها معطى زائد."
+      "ar": "ليحضّر الطفل أو الطفلة أسئلة محطتين لبقية العائلة، وفي أحدها معطى زائد."
     },
     "paraQueSirve": {
       "es": "Volver a todo lo del curso de una vez ayuda a ver cuánto se ha aprendido en el ciclo. Y hacerlo en equipo enseña que en mates también se coopera.",
-      "va": "Tornar a tot el del curs d'una vegada ajuda a veure quant s'ha après en el cicle. I fer-ho en equip ensenya que en mates també es coopera.",
+      "va": "Tornar a tot el que s'ha vist durant el curs d'una vegada ajuda a veure quant s'ha après en el cicle. I fer-ho en equip ensenya que en mates també es coopera.",
       "en": "Coming back to everything from the year in one go helps them see how much they've learned over these two years. And doing it as a team shows that maths is also about working together.",
       "fr": "Revenir à tout ce qu'on a vu d'un coup aide à voir tout ce qu'on a appris pendant ces deux ans. Et le faire en équipe montre qu'en maths aussi, on coopère.",
       "ar": "العودة إلى كل ما تعلّموه دفعة واحدة تُظهر كم تعلّموا في هاتين السنتين. والقيام بذلك كفريق يعلّم أن الرياضيات أيضًا تعاون."
     },
     "aviso": {
-      "es": "Las galletas o legumbres, lejos de hermanos o hermanas pequeños.",
-      "va": "Les galetes o els llegums, lluny de germans o germanes menuts.",
-      "en": "Keep the biscuits or beans away from younger brothers and sisters.",
-      "fr": "Gardez les biscuits ou les légumes secs loin des petits frères et sœurs.",
-      "ar": "أبعدوا البسكويت أو البقول عن الإخوة والأخوات الصغار."
+      "es": "Las galletas o legumbres y las monedas, lejos de hermanos o hermanas pequeños.",
+      "va": "Les galetes o els llegums i les monedes, lluny de germans o germanes menuts.",
+      "en": "Keep the biscuits or beans and the coins away from younger brothers and sisters.",
+      "fr": "Gardez les biscuits ou les légumes secs et les pièces loin des petits frères et sœurs.",
+      "ar": "أبعدوا البسكويت أو البقول والقطع النقدية عن الإخوة والأخوات الصغار."
     }
   },
   "preguntas": [
@@ -168,7 +168,7 @@
       },
       "inventala": {
         "es": "Inventa tú una de «¿cuánto falta?» con un número grande.",
-        "va": "Inventa'n tu una de «quant falta?» amb un número gran.",
+        "va": "Inventa'n tu una de «quant falta?» amb un nombre gran.",
         "en": "Make up a “how many are left?” one with a big number.",
         "fr": "Invente un problème « combien il manque ? » avec un grand nombre.",
         "ar": "لنخترع مسألة «كم بقي؟» بعدد كبير."
@@ -183,14 +183,14 @@
         "va": "Es repartixen 156 € entre 4 persones a parts iguals. Quant li toca a cadascuna?",
         "en": "156 € is shared equally between 4 people. How much does each one get?",
         "fr": "On partage 156 € en parts égales entre 4 personnes. Combien chacune reçoit-elle ?",
-        "ar": "يُوزَّع 156 يورو على 4 أشخاص بالتساوي. كم نصيب كل واحد؟"
+        "ar": "يُوزَّع 156 يورو على 4 أشخاص بالتساوي. كم نصيب كل شخص؟"
       },
       "pista": {
         "es": "Reparte primero 120 € (30 para cada una) y después los 36 € que quedan.",
         "va": "Repartix primer 120 € (30 per a cadascuna) i després els 36 € que queden.",
         "en": "First share 120 € (30 each) and then the remaining 36 €.",
         "fr": "Partage d'abord 120 € (30 chacune), puis les 36 € qui restent.",
-        "ar": "لنوزّع أولًا 120 يورو (30 لكل واحد)، ثم الـ36 يورو الباقية."
+        "ar": "لنوزّع أولًا 120 يورو (30 لكل شخص)، ثم الـ36 يورو الباقية."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -202,7 +202,7 @@
           "va": "Li toquen 39 € a cadascuna. Per a comprovar-ho: {{4 × 39 = 156}}.",
           "en": "Each gets 39 €. To check: {{4 × 39 = 156}}.",
           "fr": "Chacune reçoit 39 €. Pour vérifier : {{4 × 39 = 156}}.",
-          "ar": "نصيب كل واحد 39 يورو. وللتحقّق: {{4 × 39 = 156}}."
+          "ar": "نصيب كل شخص 39 يورو. وللتحقّق: {{4 × 39 = 156}}."
         }
       },
       "inventala": {
@@ -218,10 +218,10 @@
       "rol": "tema",
       "tipoProblema": "medida",
       "texto": {
-        "es": "Una mesa mide 1,45 m y otra, 0,90 m. Si las ponéis una al lado de la otra, ¿cuánto miden juntas?",
-        "va": "Una taula mesura 1,45 m i una altra, 0,90 m. Si les poseu una al costat de l'altra, quant mesuren juntes?",
+        "es": "Una mesa mide 1,45 m y otra, 0,90 m. Si las pones una al lado de la otra, ¿cuánto miden juntas?",
+        "va": "Una taula mesura 1,45 m i una altra, 0,90 m. Si les poses una al costat de l'altra, quant mesuren juntes?",
         "en": "One table is 1,45 m long and another 0,90 m. If you put them side by side, how long are they together?",
-        "fr": "Une table mesure 1,45 m et une autre, 0,90 m. Si vous les mettez côte à côte, combien mesurent-elles ensemble ?",
+        "fr": "Une table mesure 1,45 m et une autre, 0,90 m. Si tu les mets côte à côte, combien mesurent-elles ensemble ?",
         "ar": "طول طاولة 1,45 م وطول أخرى 0,90 م. إذا وضعناهما جنبًا إلى جنب، فكم طولهما معًا؟"
       },
       "pista": {
@@ -305,7 +305,7 @@
       },
       "pista": {
         "es": "Podéis ayudar a recordar: «¿Te acuerdas de los números grandes de septiembre? ¿Y de repartir 74 €? ¿Y del metro en diez trozos?»",
-        "va": "Podeu ajudar a recordar: «Te'n recordes dels números grans de setembre? I de repartir 74 €? I del metre en deu trossos?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes dels nombres grans de setembre? I de repartir 74 €? I del metre en deu trossos?»",
         "en": "You can help them remember: “Do you remember the big numbers in September? And sharing 74 €? And the metre in ten pieces?”",
         "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles les grands nombres de septembre ? Et le partage des 74 € ? Et le mètre en dix morceaux ? »",
         "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر الأعداد الكبيرة في سبتمبر؟ وتوزيع 74 يورو؟ والمتر في عشر قطع؟»"
@@ -313,11 +313,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Contad vosotros también qué os ha gustado acompañar estos dos cursos y daos las gracias.",
-          "va": "No hi ha resposta bona ni dolenta. Conteu vosaltres també què us ha agradat acompanyar aquests dos cursos i doneu-vos les gràcies.",
-          "en": "There's no right or wrong answer. Share what you enjoyed being part of over these two years too, and thank each other.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Racontez vous aussi ce que vous avez aimé accompagner pendant ces deux années, et remerciez-vous.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. احكوا أنتم أيضًا ما أحببتم مرافقته في هاتين السنتين، واشكروا بعضكم."
+          "es": "Cualquier respuesta vale. Contad vosotros también qué os ha gustado acompañar estos dos cursos y daos las gracias.",
+          "va": "Qualsevol resposta val. Conteu vosaltres també què us ha agradat acompanyar aquests dos cursos i doneu-vos les gràcies.",
+          "en": "Any answer works. Share what you enjoyed being part of over these two years too, and thank each other.",
+          "fr": "Toutes les réponses conviennent. Racontez vous aussi ce que vous avez aimé accompagner pendant ces deux années, et remerciez-vous.",
+          "ar": "كل إجابة تصلح. احكوا أنتم أيضًا ما أحببتم مرافقته في هاتين السنتين، واشكروا بعضكم."
         }
       }
     }
@@ -329,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d1aa03dc290b"
+        "huella": "0a77d9ba7d42"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d1aa03dc290b"
+        "huella": "0a77d9ba7d42"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d1aa03dc290b"
+        "huella": "0a77d9ba7d42"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d1aa03dc290b"
+        "huella": "0a77d9ba7d42"
       }
     }
   }

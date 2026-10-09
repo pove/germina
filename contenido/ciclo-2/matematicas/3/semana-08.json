@@ -25,7 +25,7 @@
     "va": "Si aneu a una botiga, deixeu que calcule el canvi abans que us el donen. Després, compteu junts les monedes per a veure si quadra.",
     "en": "If you go to a shop, let them work out the change before it's handed over. Afterwards, count the coins together to see if it matches.",
     "fr": "Si vous allez dans un magasin, laissez votre enfant calculer la monnaie avant qu'on vous la rende. Ensuite, comptez les pièces ensemble pour voir si ça correspond.",
-    "ar": "إذا ذهبتم إلى متجر، دعوا الطفل أو الطفلة يحسب الباقي قبل أن تستلموه. ثم عدّوا القطع النقدية معًا لتروا هل يطابق."
+    "ar": "إذا ذهبتم إلى متجر، دعوا الأطفال يحسبون الباقي قبل أن تستلموه. ثم عدّوا القطع النقدية معًا لتروا هل الحساب مضبوط."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -117,11 +117,11 @@
       "ar": "ادفعوا بورقة من 10 يورو وضعوا أسعارًا أقل من 10 يورو."
     },
     "masDificil": {
-      "es": "Comprad dos cosas a la vez y pagad con un billete de 50 €.",
-      "va": "Compreu dues coses alhora i pagueu amb un bitllet de 50 €.",
-      "en": "Buy two things at once and pay with a 50 € note.",
-      "fr": "Achetez deux choses à la fois et payez avec un billet de 50 €.",
-      "ar": "اشتروا شيئين معًا وادفعوا بورقة من 50 يورو."
+      "es": "Comprad dos cosas a la vez y pagad con un billete de 50 € (hacedlo también de papel).",
+      "va": "Compreu dues coses alhora i pagueu amb un bitllet de 50 € (feu-lo també de paper).",
+      "en": "Buy two things at once and pay with a 50 € note (make it out of paper too).",
+      "fr": "Achetez deux choses à la fois et payez avec un billet de 50 € (fabriquez-le aussi en papier).",
+      "ar": "اشتروا شيئين معًا وادفعوا بورقة من 50 يورو (اصنعوها من ورق أيضًا)."
     },
     "paraQueSirve": {
       "es": "Contar hacia arriba es como se da la vuelta en muchas tiendas, y comprobar con una suma ayuda a saber si una resta cuadra sin que nadie lo diga.",
@@ -226,7 +226,7 @@
         "va": "L'Hugo ha calculat que {{35 − 12 = 23}}. Quina suma pot fer per a comprovar-ho?",
         "en": "Hugo has worked out that {{35 − 12 = 23}}. What addition can he do to check it?",
         "fr": "Hugo a calculé que {{35 − 12 = 23}}. Quelle addition peut-il faire pour le vérifier ?",
-        "ar": "حسب أوغو أن {{35 − 12 = 23}}. أيّ عملية جمع يمكنه أن يقوم بها ليتحقّق؟"
+        "ar": "وجد أوغو بالحساب أن {{35 − 12 = 23}}. أيّ عملية جمع يمكنه أن يقوم بها ليتحقّق؟"
       },
       "pista": {
         "es": "Lo que queda más lo que se quitó da lo que había al principio.",
@@ -273,7 +273,7 @@
         "va": "8 no ix de 2: obri una desena. Ara hi ha 4 desenes i 12 unitats.",
         "en": "You can't take 8 from 2: open a ten. Now there are 4 tens and 12 ones.",
         "fr": "On ne peut pas enlever 8 de 2 : ouvre une dizaine. Maintenant, il y a 4 dizaines et 12 unités.",
-        "ar": "لا يمكن أخذ 8 من 2: لنفتح عشرة. الآن هناك 4 عشرات و12 آحادًا."
+        "ar": "لا يمكن أخذ 8 من 2: لنفتح عشرة. الآن هناك 4 عشرات و12 من الآحاد."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -312,16 +312,16 @@
         "va": "Feu vosaltres de client: «Ací tens 20 €, em tornes el canvi?»",
         "en": "You play the customer: “Here's 20 €, can I have my change?”",
         "fr": "Jouez le rôle du client : « Voilà 20 €, tu me rends la monnaie ? »",
-        "ar": "قوموا أنتم بدور الزبون: «هذه 20 يورو، هل تعيد لي الباقي؟»"
+        "ar": "قوموا أنتم بدور الزبون: «هذه 20 يورو، هل يمكنني أن آخذ الباقي؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Puede contar hacia arriba (13, 15, 20) o restar. Las dos formas valen; si salen 7 €, preguntad cómo lo ha pensado y escuchad.",
-          "va": "Pot comptar cap amunt (13, 15, 20) o restar. Les dues maneres valen; si ixen 7 €, pregunteu com ho ha pensat i escolteu.",
-          "en": "They might count up (13, 15, 20) or subtract. Both ways work; if they get 7 €, ask how they worked it out and listen.",
-          "fr": "Il ou elle peut compter en avançant (13, 15, 20) ou soustraire. Les deux façons marchent ; si ça donne 7 €, demandez comment il ou elle a réfléchi et écoutez.",
-          "ar": "يمكن العدّ صعودًا (13، 15، 20) أو الطرح. الطريقتان صحيحتان؛ إذا كان الناتج 7 يورو، اسألوا كيف كان التفكير واستمعوا."
+          "es": "Puede contar hacia arriba (13, 15, 20) o restar. Las dos formas valen; salga lo que salga, preguntad cómo lo ha pensado y escuchad.",
+          "va": "Pot comptar cap amunt (13, 15, 20) o restar. Les dues maneres valen; isca el que isca, pregunteu com ho ha pensat i escolteu.",
+          "en": "They might count up (13, 15, 20) or subtract. Both ways work; whatever they get, ask how they worked it out and listen.",
+          "fr": "Il ou elle peut compter en avançant (13, 15, 20) ou soustraire. Les deux façons marchent ; quel que soit le résultat, demandez comment il ou elle a réfléchi et écoutez.",
+          "ar": "يمكن العدّ صعودًا (13، 15، 20) أو الطرح. الطريقتان تصلحان؛ مهما كان الناتج، اسألوا كيف كان التفكير واستمعوا."
         }
       }
     }
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "27fb9ea833ec"
+        "huella": "4f47af9df0b9"
       },
       "en": {
         "estado": "automatica",
-        "huella": "27fb9ea833ec"
+        "huella": "4f47af9df0b9"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "27fb9ea833ec"
+        "huella": "4f47af9df0b9"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "27fb9ea833ec"
+        "huella": "4f47af9df0b9"
       }
     }
   }

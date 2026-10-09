@@ -16,9 +16,9 @@
   "objetivo": {
     "es": "Esta semana vuelven a multiplicar por una y por dos cifras, a cambiar el orden para calcular mejor, a estimar y a contar combinaciones. No hay nada nuevo: es para que se asiente.",
     "va": "Aquesta setmana tornen a multiplicar per una i per dues xifres, a canviar l'ordre per a calcular millor, a estimar i a comptar combinacions. No hi ha res nou: és perquè s'assente.",
-    "en": "This week they go back to multiplying by one and two-digit numbers, changing the order to calculate more easily, estimating and counting combinations. There is nothing new: it's so it all settles in.",
-    "fr": "Cette semaine, on revient à la multiplication par un et par deux chiffres, à l'ordre qu'on change pour mieux calculer, à l'estimation et aux combinaisons. Rien de nouveau : c'est pour que tout se pose.",
-    "ar": "هذا الأسبوع يعود الأطفال إلى الضرب في عدد من رقم ومن رقمين، وإلى تغيير الترتيب لنحسب بسهولة، وإلى التقدير، وعدّ التركيبات. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+    "en": "This week they go back to multiplying by one and two-digit numbers, changing the order to calculate more easily, estimating (estimar) and counting combinations. There is nothing new: it's so it all settles in.",
+    "fr": "Cette semaine, on revient à la multiplication par un et par deux chiffres, à l'ordre qu'on change pour mieux calculer, à l'estimation (estimar) et aux combinaisons. Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى الضرب في عدد من رقم واحد وفي عدد من رقمين، وإلى تغيير الترتيب لنحسب بسهولة، وإلى التقدير (estimar)، وعدّ التركيبات. لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
     "es": "Jugad a llenar todos los cartones entre todos, no a ver quién gana. Si alguien duda con una multiplicación, que diga en voz alta cómo la piensa: así aprende todo el mundo.",
@@ -71,11 +71,11 @@
       {
         "pictograma": "tarjetas",
         "texto": {
-          "es": "Escribid en papelitos multiplicaciones de un número de dos cifras por una cifra, como {{24 × 3}}, {{15 × 6}} o {{32 × 4}}, y metedlos en un bote.",
-          "va": "Escriviu en paperets multiplicacions d'un número de dues xifres per una xifra, com ara {{24 × 3}}, {{15 × 6}} o {{32 × 4}}, i poseu-los en un pot.",
-          "en": "Write multiplications of a two-digit number by a one-digit number on slips of paper, like {{24 × 3}}, {{15 × 6}} or {{32 × 4}}, and put them in a jar.",
-          "fr": "Écrivez sur des petits papiers des multiplications d'un nombre à deux chiffres par un chiffre, comme {{24 × 3}}, {{15 × 6}} ou {{32 × 4}}, et mettez-les dans un pot.",
-          "ar": "اكتبوا على قصاصات ورق عمليات ضرب عدد من رقمين في رقم واحد، مثل {{24 × 3}} أو {{15 × 6}} أو {{32 × 4}}، وضعوها في وعاء."
+          "es": "Escribid en unos 12 papelitos multiplicaciones de un número de dos cifras por una cifra, como {{24 × 3}}, {{15 × 6}} o {{32 × 4}}, y metedlos en un bote.",
+          "va": "Escriviu en uns 12 paperets multiplicacions d'un nombre de dues xifres per una xifra, com ara {{24 × 3}}, {{15 × 6}} o {{32 × 4}}, i poseu-los en un pot.",
+          "en": "Write multiplications of a two-digit number by a one-digit number on about 12 slips of paper, like {{24 × 3}}, {{15 × 6}} or {{32 × 4}}, and put them in a jar.",
+          "fr": "Écrivez sur une douzaine de petits papiers des multiplications d'un nombre à deux chiffres par un chiffre, comme {{24 × 3}}, {{15 × 6}} ou {{32 × 4}}, et mettez-les dans un pot.",
+          "ar": "اكتبوا على نحو 12 قصاصة ورق عمليات ضرب عدد من رقمين في رقم واحد، مثل {{24 × 3}} أو {{15 × 6}} أو {{32 × 4}}، وضعوها في وعاء."
         }
       },
       {
@@ -111,14 +111,14 @@
     ],
     "masFacil": {
       "es": "Usad multiplicaciones de las tablas, sin números de dos cifras.",
-      "va": "Feu servir multiplicacions de les taules, sense números de dues xifres.",
+      "va": "Feu servir multiplicacions de les taules, sense nombres de dues xifres.",
       "en": "Use multiplications from the times tables, without two-digit numbers.",
       "fr": "Utilisez des multiplications des tables, sans nombres à deux chiffres.",
       "ar": "استعملوا عمليات ضرب من الجداول، دون أعداد من رقمين."
     },
     "masDificil": {
       "es": "Añadid papelitos de dos cifras por dos cifras, como {{12 × 11}}, o de tres números, como {{5 × 7 × 2}}.",
-      "va": "Afegiu paperets de dues xifres per dues xifres, com ara {{12 × 11}}, o de tres números, com ara {{5 × 7 × 2}}.",
+      "va": "Afegiu paperets de dues xifres per dues xifres, com ara {{12 × 11}}, o de tres nombres, com ara {{5 × 7 × 2}}.",
       "en": "Add slips with two-digit by two-digit numbers, like {{12 × 11}}, or with three numbers, like {{5 × 7 × 2}}.",
       "fr": "Ajoutez des papiers avec deux chiffres par deux chiffres, comme {{12 × 11}}, ou avec trois nombres, comme {{5 × 7 × 2}}.",
       "ar": "أضيفوا قصاصات فيها ضرب عدد من رقمين في عدد من رقمين، مثل {{12 × 11}}، أو ضرب ثلاثة أعداد، مثل {{5 × 7 × 2}}."
@@ -172,7 +172,7 @@
       },
       "inventala": {
         "es": "Inventa tú una multiplicación por un número entre 11 y 19 y pártela en trozos.",
-        "va": "Inventa't una multiplicació per un número entre 11 i 19 i partix-la en trossos.",
+        "va": "Inventa't una multiplicació per un nombre entre 11 i 19 i partix-la en trossos.",
         "en": "Make up a multiplication by a number between 11 and 19 and split it into pieces.",
         "fr": "Invente une multiplication par un nombre entre 11 et 19 et coupe-la en morceaux.",
         "ar": "لنخترع عملية ضرب في عدد بين 11 و19 ونقسمها إلى أجزاء."
@@ -184,7 +184,7 @@
       "tipoProblema": "producto-cartesiano",
       "texto": {
         "es": "En una tienda de bicicletas hay cuadros de 4 colores y sillines de 3 colores. ¿Cuántas bicicletas distintas se pueden montar?",
-        "va": "En una botiga de bicicletes hi ha quadres de 4 colors i selletes de 3 colors. Quantes bicicletes diferents es poden muntar?",
+        "va": "En una botiga de bicicletes hi ha quadres de 4 colors i sellons de 3 colors. Quantes bicicletes diferents es poden muntar?",
         "en": "A bike shop has frames in 4 colours and saddles in 3 colours. How many different bikes can be put together?",
         "fr": "Dans un magasin de vélos, il y a des cadres de 4 couleurs et des selles de 3 couleurs. Combien de vélos différents peut-on monter ?",
         "ar": "في محل دراجات هياكل بـ4 ألوان ومقاعد بـ3 ألوان. كم دراجة مختلفة يمكن تركيبها؟"
@@ -250,7 +250,7 @@
       },
       "inventala": {
         "es": "Inventa tú una multiplicación de tres números con un 5 y un 20, o con un 25 y un 4.",
-        "va": "Inventa't una multiplicació de tres números amb un 5 i un 20, o amb un 25 i un 4.",
+        "va": "Inventa't una multiplicació de tres nombres amb un 5 i un 20, o amb un 25 i un 4.",
         "en": "Make up a multiplication of three numbers with a 5 and a 20, or a 25 and a 4.",
         "fr": "Invente une multiplication de trois nombres avec un 5 et un 20, ou un 25 et un 4.",
         "ar": "لنخترع عملية ضرب لثلاثة أعداد فيها 5 و20، أو 25 و4."
@@ -302,7 +302,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "De todo lo de estas semanas en mates, ¿qué forma de multiplicar te gusta más? Explícamela con un ejemplo.",
-        "va": "De tot el que heu fet aquestes setmanes en mates, quina manera de multiplicar t'agrada més? Explica-me-la amb un exemple.",
+        "va": "De tot el que has fet aquestes setmanes en mates, quina manera de multiplicar t'agrada més? Explica-me-la amb un exemple.",
         "en": "Of everything in maths these weeks, which way of multiplying do you like best? Explain it to me with an example.",
         "fr": "De tout ce que tu as fait ces semaines en maths, quelle façon de multiplier préfères-tu ? Explique-la-moi avec un exemple.",
         "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، أي طريقة ضرب نحبّها أكثر؟ اشرح لي أو اشرحي لي بمثال."
@@ -317,11 +317,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Si os apetece, probad su forma con una multiplicación vuestra y contadle qué tal os ha ido.",
-          "va": "No hi ha resposta bona ni dolenta. Si us ve de gust, proveu la seua manera amb una multiplicació vostra i conteu-li com us ha anat.",
-          "en": "There's no right or wrong answer. If you feel like it, try their way with a multiplication of your own and tell them how it went.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si vous en avez envie, essayez sa façon avec une multiplication à vous et racontez comment ça s'est passé.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإن رغبتم، جرّبوا طريقته بعملية ضرب من عندكم واحكوا له كيف سار الأمر."
+          "es": "Cualquier respuesta vale. Si os apetece, probad su forma con una multiplicación vuestra y contadle qué tal os ha ido.",
+          "va": "Qualsevol resposta val. Si us ve de gust, proveu la seua manera amb una multiplicació vostra i conteu-li com us ha anat.",
+          "en": "Any answer works. If you feel like it, try their way with a multiplication of your own and tell them how it went.",
+          "fr": "Toutes les réponses conviennent. Si vous en avez envie, essayez sa façon avec une multiplication à vous et racontez comment ça s'est passé.",
+          "ar": "كل إجابة تصلح. وإن رغبتم، جرّبوا طريقتهم بعملية ضرب من عندكم واحكوا لهم كيف سار الأمر."
         }
       }
     }
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "97ae31a291a6"
+        "huella": "75de8916155d"
       },
       "en": {
         "estado": "automatica",
-        "huella": "97ae31a291a6"
+        "huella": "75de8916155d"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "97ae31a291a6"
+        "huella": "75de8916155d"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "97ae31a291a6"
+        "huella": "75de8916155d"
       }
     }
   }

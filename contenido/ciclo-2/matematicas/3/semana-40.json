@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Esta semana vuelven a todo lo del curso: sumas y restas, tablas, repartir, medir, pesar, el dinero, la hora y las fracciones. No hay nada nuevo: es para despedir el curso jugando.",
-    "va": "Aquesta setmana tornen a tot el del curs: sumes i restes, taules, repartir, mesurar, pesar, els diners, l'hora i les fraccions. No hi ha res nou: és per a acomiadar el curs jugant.",
-    "en": "This week they go back to everything from the year: addition and subtraction, times tables, sharing, measuring, weighing, money, telling the time and fractions. There is nothing new: it's to say goodbye to the year by playing.",
-    "fr": "Cette semaine, on revient à tout ce qu'on a vu dans l'année : additions et soustractions, tables, partage, mesures, poids, argent, heure et fractions. Rien de nouveau : c'est pour dire au revoir à l'année en jouant.",
-    "ar": "هذا الأسبوع يعود الأطفال إلى كل ما تعلّموه في السنة: الجمع والطرح، والجداول، والتوزيع، والقياس، والوزن، والنقود، والساعة، والكسور. لا جديد: الهدف وداع السنة باللعب."
+    "va": "Aquesta setmana tornen a tot allò que han vist durant el curs: sumes i restes, taules (tablas), repartir, mesurar, pesar, els diners, l'hora i les fraccions (fracciones). No hi ha res nou: és per a acomiadar el curs jugant.",
+    "en": "This week they go back to everything from the year: addition and subtraction, times tables (tablas), sharing, measuring, weighing, money, telling the time and fractions (fracciones). There is nothing new: it's to say goodbye to the year by playing.",
+    "fr": "Cette semaine, on revient à tout ce qu'on a vu dans l'année : additions et soustractions, tables (tablas), partage, mesures, poids, argent, heure et fractions (fracciones). Rien de nouveau : c'est pour dire au revoir à l'année en jouant.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى كل ما تعلّموه في السنة: الجمع والطرح، والجداول (tablas)، والتوزيع، والقياس، والوزن، والنقود، والساعة، والكسور (fracciones). لا جديد: الهدف وداع السنة باللعب."
   },
   "comoAyudar": {
     "es": "Haced la gymkana en equipo: las preguntas se resuelven entre todos y cada persona ayuda en algo. Lo bonito es acabarla juntos, no hacerla deprisa.",
@@ -117,21 +117,21 @@
       "va": "Que el xiquet o la xiqueta prepare les preguntes de dos llocs per a la resta de la família.",
       "en": "Have the child prepare the questions for two stations for the rest of the family.",
       "fr": "Que l'enfant prépare les questions de deux postes pour le reste de la famille.",
-      "ar": "ليحضّر الطفل أسئلة محطتين لبقية العائلة."
+      "ar": "ليحضّر الطفل أو الطفلة أسئلة محطتين لبقية العائلة."
     },
     "paraQueSirve": {
       "es": "Volver a todo lo del curso de una vez ayuda a ver cuánto se ha aprendido. Y hacerlo en equipo enseña que en mates también se coopera.",
-      "va": "Tornar a tot el del curs d'una vegada ajuda a veure quant s'ha après. I fer-ho en equip ensenya que en mates també es coopera.",
+      "va": "Tornar d'una vegada a tot allò que s'ha vist durant el curs ajuda a veure quant s'ha après. I fer-ho en equip ensenya que en mates també es coopera.",
       "en": "Coming back to everything from the year in one go helps them see how much they've learned. And doing it as a team shows that maths is also about working together.",
       "fr": "Revenir à tout ce qu'on a vu dans l'année d'un coup aide à voir tout ce qu'on a appris. Et le faire en équipe montre qu'en maths aussi, on coopère.",
       "ar": "العودة إلى كل ما تعلّموه في السنة دفعة واحدة تُظهر كم تعلّموا. والقيام بذلك كفريق يعلّم أن الرياضيات أيضًا تعاون."
     },
     "aviso": {
-      "es": "Las galletas o legumbres, lejos de hermanos o hermanas pequeños.",
-      "va": "Les galetes o els llegums, lluny de germans o germanes menuts.",
-      "en": "Keep the biscuits or beans away from younger brothers and sisters.",
-      "fr": "Gardez les biscuits ou les légumes secs loin des petits frères et sœurs.",
-      "ar": "أبعدوا البسكويت أو البقول عن الإخوة والأخوات الصغار."
+      "es": "Las galletas o legumbres y las monedas, lejos de hermanos o hermanas pequeños.",
+      "va": "Les galetes o els llegums i les monedes, lluny de germans o germanes menuts.",
+      "en": "Keep the biscuits or beans and the coins away from younger brothers and sisters.",
+      "fr": "Gardez les biscuits ou les légumes secs et les pièces loin des petits frères et sœurs.",
+      "ar": "أبعدوا البسكويت أو البقول والقطع النقدية عن الإخوة والأخوات الصغار."
     }
   },
   "preguntas": [
@@ -183,7 +183,7 @@
         "va": "En un plat hi ha 18 maduixes. Quantes són la meitat?",
         "en": "There are 18 strawberries on a plate. How many is half?",
         "fr": "Dans une assiette, il y a 18 fraises. Combien font la moitié ?",
-        "ar": "في صحن 18 حبة فراولة. كم حبة هي النصف؟"
+        "ar": "في صحن 18 حبة فراولة. كم حبة في نصفها؟"
       },
       "pista": {
         "es": "La mitad es repartir en 2.",
@@ -222,7 +222,7 @@
         "va": "Una corda mesura 2 m i se'n tallen 50 cm. Quants centímetres en queden?",
         "en": "A rope is 2 m long and 50 cm is cut off. How many centimetres are left?",
         "fr": "Une corde mesure 2 m et on en coupe 50 cm. Combien de centimètres reste-t-il ?",
-        "ar": "طول حبل مترين، وقُطع منه 50 سم. كم سنتيمترًا بقي؟"
+        "ar": "حبل طوله متران، وقُطع منه 50 سم. كم سنتيمترًا بقي؟"
       },
       "pista": {
         "es": "2 metros son 200 cm.",
@@ -262,7 +262,7 @@
         "va": "Per a recordar: un gelat costa 1,20 € i pagues amb 2 €. Quant et tornen?",
         "en": "Let's remember: an ice cream costs 1,20 € and you pay with 2 €. How much change do you get?",
         "fr": "Pour se souvenir : une glace coûte 1,20 € et tu paies avec 2 €. Combien te rend-on ?",
-        "ar": "لنتذكّر: ثمن بوظة 1,20 يورو، ودفعنا 2 يورو. كم يُرجَع لنا؟"
+        "ar": "لنتذكّر: ثمن مثلّجة 1,20 يورو، ودفعنا 2 يورو. كم يكون الباقي؟"
       },
       "pista": {
         "es": "Cuenta hacia arriba: de 1,20 € a 2 €.",
@@ -281,7 +281,7 @@
           "va": "Et tornen 80 cèntims.",
           "en": "You get 80 cents back.",
           "fr": "On te rend 80 centimes.",
-          "ar": "يُرجَع لنا 80 سنتًا."
+          "ar": "الباقي 80 سنتًا."
         }
       },
       "inventala": {
@@ -313,11 +313,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Contad vosotros también qué os ha gustado acompañar este curso y daos las gracias.",
-          "va": "No hi ha resposta bona ni dolenta. Conteu vosaltres també què us ha agradat acompanyar aquest curs i doneu-vos les gràcies.",
-          "en": "There's no right or wrong answer. Share what you enjoyed being part of this year too, and thank each other.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Racontez vous aussi ce que vous avez aimé accompagner cette année, et remerciez-vous.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. احكوا أنتم أيضًا ما أحببتم مرافقته هذه السنة، واشكروا بعضكم."
+          "es": "Cualquier respuesta vale. Contad vosotros también qué os ha gustado acompañar este curso y daos las gracias.",
+          "va": "Qualsevol resposta val. Conteu vosaltres també què us ha agradat acompanyar aquest curs i doneu-vos les gràcies.",
+          "en": "Any answer works. Share what you enjoyed being part of this year too, and thank each other.",
+          "fr": "Toutes les réponses conviennent. Racontez vous aussi ce que vous avez aimé accompagner cette année, et remerciez-vous.",
+          "ar": "كل إجابة تصلح. احكوا أنتم أيضًا ما أحببتم مرافقته هذه السنة، واشكروا بعضكم."
         }
       }
     }
@@ -329,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "a09b1b2b4365"
+        "huella": "3b28f94c1256"
       },
       "en": {
         "estado": "automatica",
-        "huella": "a09b1b2b4365"
+        "huella": "3b28f94c1256"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "a09b1b2b4365"
+        "huella": "3b28f94c1256"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "a09b1b2b4365"
+        "huella": "3b28f94c1256"
       }
     }
   }

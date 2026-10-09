@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana multiplican números de dos cifras por una cifra partiéndolos en decenas y unidades: {{23 × 4}} es {{20 × 4 = 80}} más {{3 × 4 = 12}}, es decir, 92.",
-    "va": "Aquesta setmana multipliquen números de dues xifres per una xifra partint-los en desenes i unitats: {{23 × 4}} és {{20 × 4 = 80}} més {{3 × 4 = 12}}, és a dir, 92.",
-    "en": "This week they multiply two-digit numbers by one-digit numbers by splitting them into tens and ones: {{23 × 4}} is {{20 × 4 = 80}} plus {{3 × 4 = 12}}, that is, 92.",
-    "fr": "Cette semaine, on multiplie des nombres à deux chiffres par un chiffre en les coupant en dizaines et unités : {{23 × 4}}, c'est {{20 × 4 = 80}} plus {{3 × 4 = 12}}, c'est-à-dire 92.",
-    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين في رقم واحد بتقسيمها إلى عشرات وآحاد: {{23 × 4}} هي {{20 × 4 = 80}} زائد {{3 × 4 = 12}}، أي 92."
+    "va": "Aquesta setmana multipliquen nombres de dues xifres per una xifra partint-los en desenes (decenas) i unitats: {{23 × 4}} és {{20 × 4 = 80}} més {{3 × 4 = 12}}, és a dir, 92.",
+    "en": "This week they multiply two-digit numbers by one-digit numbers by splitting them into tens (decenas) and ones: {{23 × 4}} is {{20 × 4 = 80}} plus {{3 × 4 = 12}}, that is, 92.",
+    "fr": "Cette semaine, on multiplie des nombres à deux chiffres par un chiffre en les coupant en dizaines (decenas) et unités : {{23 × 4}}, c'est {{20 × 4 = 80}} plus {{3 × 4 = 12}}, c'est-à-dire 92.",
+    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين في رقم واحد بتقسيمها إلى عشرات (decenas) وآحاد: {{23 × 4}} هي {{20 × 4 = 80}} زائد {{3 × 4 = 12}}، أي 92."
   },
   "comoAyudar": {
     "es": "Usad dinero de papel o de juguete: los billetes de 10 son las decenas y las monedas de 1, las unidades. Si se pierde, que cuente primero los billetes y después las monedas.",
     "va": "Feu servir diners de paper o de joguet: els bitllets de 10 són les desenes i les monedes d'1, les unitats. Si es perd, que compte primer els bitllets i després les monedes.",
     "en": "Use paper or toy money: the 10 notes are the tens and the 1 coins are the ones. If they get lost, have them count the notes first and then the coins.",
     "fr": "Utilisez de l'argent en papier ou en jouet : les billets de 10 sont les dizaines et les pièces de 1, les unités. En cas de confusion, comptez d'abord les billets, puis les pièces.",
-    "ar": "استعملوا نقودًا من الورق أو من الألعاب: أوراق الـ10 هي العشرات وقطع الـ1 هي الآحاد. وإذا ضاع الطفل، فليعدّ الأوراق أولًا ثم القطع."
+    "ar": "استعملوا نقودًا من الورق أو من الألعاب: أوراق الـ10 هي العشرات وقطع الـ1 هي الآحاد. وإذا اختلط الأمر على الأطفال، فليعدّوا الأوراق أولًا ثم القطع."
   },
   "saberes": [
     "matematicas.operaciones.propiedades",
@@ -45,11 +45,11 @@
     },
     "material": [
       {
-        "es": "Papel para hacer 8 billetes de 10 € y 12 monedas de 1 €",
-        "va": "Paper per a fer 8 bitllets de 10 € i 12 monedes d'1 €",
-        "en": "Paper to make 8 notes of 10 € and 12 coins of 1 €",
-        "fr": "Du papier pour faire 8 billets de 10 € et 12 pièces de 1 €",
-        "ar": "ورق لصنع 8 أوراق نقدية من فئة 10 يورو و12 قطعة من فئة 1 يورو"
+        "es": "Dinero de juguete, o papel para hacer 8 billetes de 10 € y 12 monedas de 1 €",
+        "va": "Diners de joguet, o paper per a fer 8 bitllets de 10 € i 12 monedes d'1 €",
+        "en": "Toy money, or paper to make 8 notes of 10 € and 12 coins of 1 €",
+        "fr": "De l'argent pour jouer, ou du papier pour faire 8 billets de 10 € et 12 pièces de 1 €",
+        "ar": "نقود ألعاب، أو ورق لصنع 8 أوراق نقدية من فئة 10 يورو و12 قطعة من فئة 1 يورو"
       },
       {
         "es": "4 sobres",
@@ -121,7 +121,7 @@
       "va": "Proveu amb 5 sobres de 37 €. Quants bitllets i quantes monedes ixen? Toca canviar monedes per bitllets?",
       "en": "Try 5 envelopes of 37 €. How many notes and coins do you get? Do you swap coins for notes?",
       "fr": "Essayez avec 5 enveloppes de 37 €. Combien de billets et de pièces obtenez-vous ? Faut-il échanger des pièces contre des billets ?",
-      "ar": "جرّبوا 5 مغلّفات في كل منها 37 يورو. كم ورقة وكم قطعة تخرج؟ هل نستبدل قطعًا بأوراق؟"
+      "ar": "جرّبوا 5 مغلّفات في كل منها 37 يورو. كم ورقة وكم قطعة نحصل عليها؟ هل نستبدل قطعًا بأوراق؟"
     },
     "paraQueSirve": {
       "es": "Partir en decenas y unidades convierte una multiplicación difícil en dos fáciles. Es la misma idea que usarán en la multiplicación en papel, pero aquí se ve con las manos.",
@@ -129,6 +129,13 @@
       "en": "Splitting into tens and ones turns one hard multiplication into two easy ones. It's the same idea they'll use in written multiplication, but here they see it with their hands.",
       "fr": "Couper en dizaines et unités transforme une multiplication difficile en deux faciles. C'est la même idée que dans la multiplication posée, mais ici on la voit avec les mains.",
       "ar": "التقسيم إلى عشرات وآحاد يحوّل عملية ضرب صعبة إلى عمليتين سهلتين. إنها الفكرة نفسها التي سيستعملونها في الضرب على الورق، لكنها هنا تُرى باليدين."
+    },
+    "aviso": {
+      "es": "Si usáis monedas de juguete, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir monedes de joguet, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use toy coins, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des pièces pour jouer, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم قطعًا نقدية من الألعاب، أبعدوها عن الإخوة والأخوات الصغار."
     }
   },
   "preguntas": [
@@ -140,8 +147,8 @@
         "es": "Un paquete trae 32 cromos. ¿Cuántos cromos hay en 3 paquetes?",
         "va": "Un paquet porta 32 cromos. Quants cromos hi ha en 3 paquets?",
         "en": "A packet has 32 stickers. How many stickers are there in 3 packets?",
-        "fr": "Un paquet contient 32 images. Combien d'images y a-t-il dans 3 paquets ?",
-        "ar": "في العلبة 32 صورة. كم صورة في 3 علب؟"
+        "fr": "Un paquet contient 32 vignettes. Combien de vignettes y a-t-il dans 3 paquets ?",
+        "ar": "في المغلّف 32 ملصقًا. كم ملصقًا في 3 مغلّفات؟"
       },
       "pista": {
         "es": "Parte el 32: {{30 × 3 = 90}} y {{2 × 3 = 6}}.",
@@ -159,13 +166,13 @@
           "es": "Hay 96 cromos: {{90 + 6 = 96}}.",
           "va": "Hi ha 96 cromos: {{90 + 6 = 96}}.",
           "en": "There are 96 stickers: {{90 + 6 = 96}}.",
-          "fr": "Il y a 96 images : {{90 + 6 = 96}}.",
-          "ar": "هناك 96 صورة: {{90 + 6 = 96}}."
+          "fr": "Il y a 96 vignettes : {{90 + 6 = 96}}.",
+          "ar": "هناك 96 ملصقًا: {{90 + 6 = 96}}."
         }
       },
       "inventala": {
         "es": "Inventa tú una de paquetes iguales con un número de dos cifras.",
-        "va": "Inventa'n tu una de paquets iguals amb un número de dues xifres.",
+        "va": "Inventa'n tu una de paquets iguals amb un nombre de dues xifres.",
         "en": "Make one up about equal packs with a two-digit number.",
         "fr": "Invente un problème de paquets égaux avec un nombre à deux chiffres.",
         "ar": "لنخترع مسألة عن علب متساوية بعدد من رقمين."
@@ -219,7 +226,7 @@
         "va": "Leire calcula {{21 × 6}} així: {{20 × 6 = 120}} i {{1 × 6 = 6}}. Quant li ix?",
         "en": "Leire works out {{21 × 6}} like this: {{20 × 6 = 120}} and {{1 × 6 = 6}}. What does she get?",
         "fr": "Leire calcule {{21 × 6}} comme ça : {{20 × 6 = 120}} et {{1 × 6 = 6}}. Combien trouve-t-elle ?",
-        "ar": "تحسب ليري {{21 × 6}} هكذا: {{20 × 6 = 120}} و{{1 × 6 = 6}}. كم تحصل؟"
+        "ar": "تحسب ليري {{21 × 6}} هكذا: {{20 × 6 = 120}} و{{1 × 6 = 6}}. على أيّ عدد تحصل؟"
       },
       "pista": {
         "es": "Suma los dos trozos.",
@@ -305,7 +312,7 @@
         "va": "Si no sap per on començar: «Què hi havia en cada sobre? Què vas comptar primer?»",
         "en": "If they don't know where to start: “What was in each envelope? What did you count first?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Qu'y avait-il dans chaque enveloppe ? Qu'as-tu compté d'abord ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا كان في كل مغلّف؟ ماذا عددنا أولًا؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا كان في كل مغلّف؟ ماذا عددنا أولًا؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -326,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "b6f01da0b4f7"
+        "huella": "84451c4ff389"
       },
       "en": {
         "estado": "automatica",
-        "huella": "b6f01da0b4f7"
+        "huella": "84451c4ff389"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "b6f01da0b4f7"
+        "huella": "84451c4ff389"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "b6f01da0b4f7"
+        "huella": "84451c4ff389"
       }
     }
   }

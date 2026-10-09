@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "En el mercado o la heladería se calcula la vuelta de verdad: contar hacia arriba desde el precio hasta lo que se paga, como en clase.",
-    "va": "Al mercat o a la gelateria es calcula el canvi de veritat: comptar cap amunt des del preu fins al que es paga, com a classe.",
-    "en": "At the market or the ice-cream shop, you work out real change: count up from the price to what you pay, just like in class.",
-    "fr": "Au marché ou chez le glacier, on calcule la monnaie pour de vrai : on compte en avançant du prix jusqu'à ce qu'on paie, comme en classe.",
-    "ar": "في السوق أو محل المثلّجات نحسب الباقي حقيقةً: نعدّ صعودًا من السعر حتى المبلغ الذي ندفعه، كما في القسم."
+    "va": "Al mercat o a la gelateria es calcula el canvi (la vuelta) de veritat: comptar cap amunt des del preu fins al que es paga, com a classe.",
+    "en": "At the market or the ice-cream shop, you work out real change (la vuelta): count up from the price to what you pay, just like in class.",
+    "fr": "Au marché ou chez le glacier, on calcule la monnaie (la vuelta) pour de vrai : on compte en avançant du prix jusqu'à ce qu'on paie, comme en classe.",
+    "ar": "في السوق أو محل المثلّجات نحسب الباقي (la vuelta) فعلًا: نعدّ صعودًا من السعر حتى المبلغ الذي ندفعه، كما في القسم."
   },
   "comoAyudar": {
     "es": "Dejad que calcule la vuelta antes de que se la den. Si no coincide, mirad juntos el tique con calma: a veces se equivoca la cuenta y a veces la caja.",
-    "va": "Deixeu que calcule el canvi abans que li'l donen. Si no coincideix, mireu junts el tiquet amb calma: de vegades s'equivoca el compte i de vegades la caixa.",
+    "va": "Deixeu que calcule el canvi abans que li'l donen. Si no coincidix, mireu junts el tiquet amb calma: de vegades s'equivoca el compte i de vegades la caixa.",
     "en": "Let them work out the change before it is given. If it doesn't match, look at the receipt together calmly: sometimes the sum is wrong and sometimes the till is.",
     "fr": "Laissez-le ou laissez-la calculer la monnaie avant qu'on la rende. Si ça ne correspond pas, regardez le ticket ensemble, calmement : parfois c'est le calcul qui se trompe, parfois la caisse.",
-    "ar": "دعوا الطفل يحسب الباقي قبل أن يُعطى له. وإن لم يتطابق، انظروا معًا إلى الإيصال بهدوء: أحيانًا يخطئ الحساب وأحيانًا الصندوق."
+    "ar": "دعوا الأطفال يحسبون الباقي قبل أن يُعطى لهم. وإن لم يتطابق، انظروا معًا إلى الإيصال بهدوء: أحيانًا يخطئ الحساب وأحيانًا أمين الصندوق."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -66,7 +66,7 @@
         "texto": {
           "es": "Antes de comprar, mirad el precio: un helado de 2,30 € o una bolsa de fruta de 3,80 €.",
           "va": "Abans de comprar, mireu el preu: un gelat de 2,30 € o una bossa de fruita de 3,80 €.",
-          "en": "Before buying, look at the price: an ice cream for €2,30 or a bag of fruit for €3,80.",
+          "en": "Before buying, look at the price: an ice cream for 2,30 € or a bag of fruit for 3,80 €.",
           "fr": "Avant d'acheter, regardez le prix : une glace à 2,30 € ou un sac de fruits à 3,80 €.",
           "ar": "قبل الشراء، انظروا إلى السعر: مثلّجات بـ2,30 € أو كيس فاكهة بـ3,80 €."
         }
@@ -76,7 +76,7 @@
         "texto": {
           "es": "Pensad con qué billete o qué monedas vais a pagar y calculad la vuelta contando hacia arriba: de 3,80 € a 4 € van 20 céntimos, y de 4 € a 5 €, 1 €.",
           "va": "Penseu amb quin bitllet o quines monedes pagareu i calculeu el canvi comptant cap amunt: de 3,80 € a 4 € en van 20 cèntims, i de 4 € a 5 €, 1 €.",
-          "en": "Think about which note or coins you will pay with and work out the change by counting up: from €3,80 to €4 is 20 cents, and from €4 to €5 is €1.",
+          "en": "Think about which note or coins you will pay with and work out the change by counting up: from 3,80 € to 4 € is 20 cents, and from 4 € to 5 € is 1 €.",
           "fr": "Pensez au billet ou aux pièces avec lesquels vous allez payer et calculez la monnaie en comptant en avançant : de 3,80 € à 4 €, il y a 20 centimes, et de 4 € à 5 €, 1 €.",
           "ar": "فكّروا بأي ورقة نقدية أو قطع نقدية ستدفعون، واحسبوا الباقي بالعدّ صعودًا: من 3,80 € إلى 4 € هي 20 سنتًا، ومن 4 € إلى 5 € هي 1 €."
         }
@@ -85,7 +85,7 @@
         "pictograma": "ticket",
         "texto": {
           "es": "Pagad y comprobad la vuelta que os dan. ¿Coincide con la que habíais calculado?",
-          "va": "Pagueu i comproveu el canvi que us donen. Coincideix amb el que havíeu calculat?",
+          "va": "Pagueu i comproveu el canvi que us donen. Coincidix amb el que havíeu calculat?",
           "en": "Pay and check the change you are given. Does it match what you worked out?",
           "fr": "Payez et vérifiez la monnaie qu'on vous rend. Est-ce la même que celle que vous aviez calculée ?",
           "ar": "ادفعوا وتحقّقوا من الباقي الذي يُعطى لكم. هل يطابق ما حسبتموه؟"
@@ -105,14 +105,14 @@
     "masFacil": {
       "es": "Usad precios redondos, como 3 € o 70 céntimos, y pagad con 5 € o con 1 €.",
       "va": "Feu servir preus redons, com 3 € o 70 cèntims, i pagueu amb 5 € o amb 1 €.",
-      "en": "Use round prices, like €3 or 70 cents, and pay with €5 or €1.",
+      "en": "Use round prices, like 3 € or 70 cents, and pay with 5 € or 1 €.",
       "fr": "Utilisez des prix ronds, comme 3 € ou 70 centimes, et payez avec 5 € ou 1 €.",
       "ar": "استعملوا أسعارًا مدوّرة مثل 3 € أو 70 سنتًا، وادفعوا بـ5 € أو 1 €."
     },
     "masDificil": {
       "es": "Comprad dos cosas: sumad los precios a ojo antes de pagar y calculad la vuelta de un billete de 10 €.",
       "va": "Compreu dues coses: sumeu els preus a ull abans de pagar i calculeu el canvi d'un bitllet de 10 €.",
-      "en": "Buy two things: add the prices roughly before paying and work out the change from a €10 note.",
+      "en": "Buy two things: add the prices roughly before paying and work out the change from a 10 € note.",
       "fr": "Achetez deux choses : additionnez les prix à vue d'œil avant de payer et calculez la monnaie d'un billet de 10 €.",
       "ar": "اشتروا شيئين: اجمعوا السعرين تقريبيًا قبل الدفع، واحسبوا الباقي من ورقة 10 €."
     },
@@ -132,14 +132,14 @@
       "texto": {
         "es": "Un helado cuesta 2,30 € y pagamos con 5 €. ¿Cuánto nos devuelven?",
         "va": "Un gelat costa 2,30 € i paguem amb 5 €. Quant ens tornen?",
-        "en": "An ice cream costs €2,30 and we pay with €5. How much change do we get?",
+        "en": "An ice cream costs 2,30 € and we pay with 5 €. How much change do we get?",
         "fr": "Une glace coûte 2,30 € et nous payons avec 5 €. Combien nous rend-on ?",
         "ar": "ثمن المثلّجات 2,30 € ودفعنا 5 €. كم يُعاد إلينا؟"
       },
       "pista": {
         "es": "Cuenta hacia arriba: de 2,30 € a 3 € van 70 céntimos, y de 3 € a 5 €…",
         "va": "Compta cap amunt: de 2,30 € a 3 € en van 70 cèntims, i de 3 € a 5 €…",
-        "en": "Count up: from €2,30 to €3 is 70 cents, and from €3 to €5…",
+        "en": "Count up: from 2,30 € to 3 € is 70 cents, and from 3 € to 5 €…",
         "fr": "Compte en avançant : de 2,30 € à 3 €, il y a 70 centimes, et de 3 € à 5 €…",
         "ar": "لنعدّ صعودًا: من 2,30 € إلى 3 € هي 70 سنتًا، ومن 3 € إلى 5 €…"
       },
@@ -151,7 +151,7 @@
         "texto": {
           "es": "Nos devuelven 2,70 €.",
           "va": "Ens tornen 2,70 €.",
-          "en": "We get €2,70 back.",
+          "en": "We get 2,70 € back.",
           "fr": "On nous rend 2,70 €.",
           "ar": "يُعاد إلينا 2,70 €."
         }
@@ -171,14 +171,14 @@
       "texto": {
         "es": "Las fresas cuestan 3,60 € y llevamos 2 €. ¿Cuánto nos falta?",
         "va": "Les maduixes costen 3,60 € i portem 2 €. Quant ens falta?",
-        "en": "The strawberries cost €3,60 and we have €2. How much more do we need?",
+        "en": "The strawberries cost 3,60 € and we have 2 €. How much more do we need?",
         "fr": "Les fraises coûtent 3,60 € et nous avons 2 €. Combien nous manque-t-il ?",
         "ar": "ثمن الفراولة 3,60 € ومعنا 2 €. كم ينقصنا؟"
       },
       "pista": {
         "es": "De 2 € a 3 € va 1 €, y de 3 € a 3,60 €, 60 céntimos.",
         "va": "De 2 € a 3 € hi ha 1 €, i de 3 € a 3,60 €, 60 cèntims.",
-        "en": "From €2 to €3 is €1, and from €3 to €3,60 is 60 cents.",
+        "en": "From 2 € to 3 € is 1 €, and from 3 € to 3,60 € is 60 cents.",
         "fr": "De 2 € à 3 €, il y a 1 €, et de 3 € à 3,60 €, 60 centimes.",
         "ar": "من 2 € إلى 3 € هي 1 €، ومن 3 € إلى 3,60 € هي 60 سنتًا."
       },
@@ -190,7 +190,7 @@
         "texto": {
           "es": "Nos falta 1,60 €.",
           "va": "Ens falta 1,60 €.",
-          "en": "We need €1,60 more.",
+          "en": "We need 1,60 € more.",
           "fr": "Il nous manque 1,60 €.",
           "ar": "ينقصنا 1,60 €."
         }
@@ -210,9 +210,9 @@
       "texto": {
         "es": "Compramos pan por 1,20 € y tomates por 2,50 €. ¿Cuánto pagamos en total?",
         "va": "Comprem pa per 1,20 € i tomaques per 2,50 €. Quant paguem en total?",
-        "en": "We buy bread for €1,20 and tomatoes for €2,50. How much do we pay in all?",
+        "en": "We buy bread for 1,20 € and tomatoes for 2,50 €. How much do we pay in all?",
         "fr": "Nous achetons du pain à 1,20 € et des tomates à 2,50 €. Combien payons-nous en tout ?",
-        "ar": "اشترينا خبزًا بـ1,20 € وطماطم بـ2,50 €. كم دفعنا كلّه؟"
+        "ar": "اشترينا خبزًا بـ1,20 € وطماطم بـ2,50 €. كم دفعنا في المجموع؟"
       },
       "pista": {
         "es": "Suma primero los euros (1 y 2) y después los céntimos (20 y 50).",
@@ -229,7 +229,7 @@
         "texto": {
           "es": "Pagamos 3,70 €.",
           "va": "Paguem 3,70 €.",
-          "en": "We pay €3,70.",
+          "en": "We pay 3,70 €.",
           "fr": "Nous payons 3,70 €.",
           "ar": "دفعنا 3,70 €."
         }
@@ -296,9 +296,9 @@
       "pista": {
         "es": "Si no sabe por dónde empezar: «Si algo cuesta 4,50 € y pago con 10 €, ¿por dónde empiezas a contar?»",
         "va": "Si no sap per on començar: «Si una cosa costa 4,50 € i pague amb 10 €, per on comences a comptar?»",
-        "en": "If they don't know where to start: “If something costs €4,50 and I pay with €10, where do you start counting?”",
+        "en": "If they don't know where to start: “If something costs 4,50 € and I pay with 10 €, where do you start counting?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si quelque chose coûte 4,50 € et que je paie avec 10 €, par où tu commences à compter ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كان ثمن شيء 4,50 € ودفعنا 10 €، فمن أين نبدأ العدّ؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كان ثمن شيء 4,50 € ودفعنا 10 €، فمن أين نبدأ العدّ؟»"
       },
       "respuesta": {
         "tipo": "abierta",

@@ -181,7 +181,7 @@
         "es": "Inventa tú una en la que lleguen cosas nuevas y… ¡te lleves una!",
         "va": "Inventa'n tu una en què arriben coses noves i… te'n portes una!",
         "en": "Make one up where new things arrive and… you carry one!",
-        "fr": "Invente un problème où de nouvelles choses arrivent et… avec une retenue !",
+        "fr": "Invente un problème où de nouvelles choses arrivent et… où tu retiens un !",
         "ar": "لنخترع مسألة تصل فيها أشياء جديدة و… نحتفظ بواحد!"
       }
     },
@@ -270,7 +270,7 @@
       "tipoProblema": "comparar",
       "texto": {
         "es": "Para recordar: ¿a qué decena está más cerca el 74, al 70 o al 80?",
-        "va": "Per a recordar: a quina desena està més a prop el 74, al 70 o al 80?",
+        "va": "Per a recordar: de quina desena està més a prop el 74, del 70 o del 80?",
         "en": "Let's remember: which ten is 74 closest to, 70 or 80?",
         "fr": "Pour se souvenir : de quelle dizaine 74 est-il le plus proche, 70 ou 80 ?",
         "ar": "لنتذكّر: أيّ عشرة أقرب إلى 74، 70 أم 80؟"
@@ -297,7 +297,7 @@
       },
       "inventala": {
         "es": "Di tú un número y pregunta a otra persona a qué decena está más cerca.",
-        "va": "Digues tu un nombre i pregunta a una altra persona a quina desena està més a prop.",
+        "va": "Digues tu un nombre i pregunta a una altra persona de quina desena està més a prop.",
         "en": "Say a number and ask someone else which ten it is closest to.",
         "fr": "Dis un nombre et demande à une autre personne de quelle dizaine il est le plus proche.",
         "ar": "لنقل عددًا ونسأل شخصًا آخر أيّ عشرة أقرب إليه."
@@ -319,7 +319,7 @@
         "va": "Si no sap per on començar: «Què passava amb les monedes quan n'hi havia més de 10?»",
         "en": "If they don't know where to start: “What happened to the coins when there were more than 10?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce qui se passait avec les pièces quand il y en avait plus de 10 ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا كان يحدث للقطع النقدية عندما تزيد على 10؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا كان يحدث للقطع النقدية عندما تزيد على 10؟»"
       },
       "respuesta": {
         "tipo": "abierta",

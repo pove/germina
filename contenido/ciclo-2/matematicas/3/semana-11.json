@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana descubren que multiplicar es sumar grupos iguales: 4 pares de calcetines son {{2 + 2 + 2 + 2 = 8}}, y eso se escribe más corto {{4 × 2 = 8}}. Se lee «4 veces 2».",
-    "va": "Aquesta setmana descobreixen que multiplicar és sumar grups iguals: 4 parells de calcetins són {{2 + 2 + 2 + 2 = 8}}, i això s'escriu més curt {{4 × 2 = 8}}. Es llig «4 vegades 2». A classe es diu multiplicació (multiplicación).",
+    "va": "Aquesta setmana descobrixen que multiplicar és sumar grups iguals: 4 parells de calcetins són {{2 + 2 + 2 + 2 = 8}}, i això s'escriu més curt {{4 × 2 = 8}}. Es llig «4 vegades 2». A classe es diu multiplicació (multiplicación).",
     "en": "This week they discover that multiplying is adding equal groups: 4 pairs of socks are {{2 + 2 + 2 + 2 = 8}}, and that is written more briefly as {{4 × 2 = 8}}. It is read “4 times 2”. In class it is called multiplicación (multiplication).",
     "fr": "Cette semaine, on découvre que multiplier, c'est ajouter des groupes égaux : 4 paires de chaussettes, c'est {{2 + 2 + 2 + 2 = 8}}, et ça s'écrit plus court {{4 × 2 = 8}}. On lit « 4 fois 2 ». En classe, on dit multiplication (multiplicación).",
     "ar": "هذا الأسبوع يكتشف الأطفال أن الضرب (multiplicación) هو جمع مجموعات متساوية: 4 أزواج من الجوارب هي {{2 + 2 + 2 + 2 = 8}}، وتُكتب باختصار {{4 × 2 = 8}}. وتُقرأ «4 مرات 2»."
@@ -84,7 +84,7 @@
         "pictograma": "lapiz",
         "texto": {
           "es": "Escribid la suma y la multiplicación: {{2 + 2 + 2 + 2 = 8}} y {{4 × 2 = 8}}. El primer número dice cuántos grupos hay; el segundo, cuántos hay en cada grupo.",
-          "va": "Escriviu la suma i la multiplicació: {{2 + 2 + 2 + 2 = 8}} i {{4 × 2 = 8}}. El primer número diu quants grups hi ha; el segon, quants n'hi ha en cada grup.",
+          "va": "Escriviu la suma i la multiplicació: {{2 + 2 + 2 + 2 = 8}} i {{4 × 2 = 8}}. El primer nombre diu quants grups hi ha; el segon, quants n'hi ha en cada grup.",
           "en": "Write the addition and the multiplication: {{2 + 2 + 2 + 2 = 8}} and {{4 × 2 = 8}}. The first number says how many groups there are; the second, how many are in each group.",
           "fr": "Écrivez l'addition et la multiplication : {{2 + 2 + 2 + 2 = 8}} et {{4 × 2 = 8}}. Le premier nombre dit combien il y a de groupes ; le second, combien il y en a dans chaque groupe.",
           "ar": "اكتبوا الجمع والضرب: {{2 + 2 + 2 + 2 = 8}} و{{4 × 2 = 8}}. العدد الأول يقول كم مجموعة هناك، والثاني كم في كل مجموعة."
@@ -133,14 +133,14 @@
         "va": "Al frigorífic hi ha 3 paquets de 4 iogurts. Quants iogurts hi ha?",
         "en": "There are 3 packs of 4 yoghurts in the fridge. How many yoghurts are there?",
         "fr": "Dans le frigo, il y a 3 packs de 4 yaourts. Combien y a-t-il de yaourts ?",
-        "ar": "في الثلاجة 3 علب في كل منها 4 علب زبادي. كم علبة زبادي هناك؟"
+        "ar": "في الثلاجة 3 رزم من الزبادي، في كل رزمة 4 علب. كم علبة زبادي هناك؟"
       },
       "pista": {
         "es": "Suma un pack detrás de otro: 4, 8 y…",
         "va": "Suma un paquet darrere de l'altre: 4, 8 i…",
         "en": "Add one pack after another: 4, 8 and…",
         "fr": "Ajoute un pack après l'autre : 4, 8 et…",
-        "ar": "لنجمع علبة بعد أخرى: 4، 8، ثم…"
+        "ar": "لنجمع رزمة بعد أخرى: 4، 8، ثم…"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -160,7 +160,7 @@
         "va": "Inventa'n tu una amb paquets d'alguna cosa que hi haja a la teua cuina.",
         "en": "Make one up with packs of something from your kitchen.",
         "fr": "Invente un problème avec des packs de quelque chose de ta cuisine.",
-        "ar": "لنخترع مسألة عن علب شيء موجود في مطبخنا."
+        "ar": "لنخترع مسألة عن رزم من شيء موجود في مطبخنا."
       }
     },
     {
@@ -169,7 +169,7 @@
       "tipoProblema": "suma-repetida",
       "texto": {
         "es": "Inés pone 5 platos en la mesa y 2 galletas en cada plato. ¿Cuántas galletas pone?",
-        "va": "Inés posa 5 plats a la taula i 2 galetes en cada plat. Quantes galetes posa?",
+        "va": "La Inés posa 5 plats a la taula i 2 galetes en cada plat. Quantes galetes posa?",
         "en": "Inés puts 5 plates on the table and 2 biscuits on each plate. How many biscuits does she put out?",
         "fr": "Inés met 5 assiettes sur la table et 2 biscuits dans chaque assiette. Combien de biscuits met-elle ?",
         "ar": "تضع إينيس 5 صحون على الطاولة وبسكويتتين في كل صحن. كم بسكويتة تضع؟"
@@ -208,7 +208,7 @@
       "tipoProblema": "suma-repetida",
       "texto": {
         "es": "Las madres de Kofi compran 4 paquetes de 6 zumos. ¿Cuántos zumos son?",
-        "va": "Les mares de Kofi compren 4 paquets de 6 sucs. Quants sucs són?",
+        "va": "Les mares del Kofi compren 4 paquets de 6 sucs. Quants sucs són?",
         "en": "Kofi's mums buy 4 packs of 6 juice cartons. How many juices is that?",
         "fr": "Les mamans de Kofi achètent 4 packs de 6 jus. Combien de jus cela fait-il ?",
         "ar": "اشترت أمّا كوفي 4 علب في كل منها 6 عصائر. كم عصيرًا اشترتا؟"
@@ -230,7 +230,7 @@
           "va": "Són 24 sucs.",
           "en": "That's 24 juices.",
           "fr": "Ça fait 24 jus.",
-          "ar": "إنها 24 عصيرًا."
+          "ar": "اشترتا 24 عصيرًا."
         }
       },
       "inventala": {
@@ -297,7 +297,7 @@
         "va": "Si no sap per on començar: «Quants calcetins hi ha en 4 parells?»",
         "en": "If they don't know where to start: “How many socks are there in 4 pairs?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Combien de chaussettes dans 4 paires ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم جوربًا في 4 أزواج؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كم جوربًا في 4 أزواج؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -306,7 +306,7 @@
           "va": "Pot dir «4 vegades 2» o ensenyar 4 grups de 2. Si ho explica amb 2 grups de 4, també n'ixen 8: pregunteu si ix el mateix i per què.",
           "en": "They might say “4 times 2” or show 4 groups of 2. If they explain it with 2 groups of 4, that makes 8 too: ask whether it comes out the same and why.",
           "fr": "Il ou elle peut dire « 4 fois 2 » ou montrer 4 groupes de 2. S'il ou elle l'explique avec 2 groupes de 4, ça fait 8 aussi : demandez si ça donne pareil et pourquoi.",
-          "ar": "قد يقول «4 مرات 2» أو يُظهر 4 مجموعات من 2. وإذا شرحها بمجموعتين من 4، فالناتج 8 أيضًا: اسألوا هل النتيجة نفسها ولماذا."
+          "ar": "قد يقولون «4 مرات 2» أو يُظهرون 4 مجموعات من 2. وإذا شرحوها بمجموعتين من 4، فالناتج 8 أيضًا: اسألوا هل النتيجة نفسها ولماذا."
         }
       }
     }

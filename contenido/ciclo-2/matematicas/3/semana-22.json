@@ -17,7 +17,7 @@
     "es": "Esta semana vuelven a las tablas del 2, 3, 4, 5, 6 y 10, a dar la vuelta a la multiplicación y a contar combinaciones. No hay nada nuevo: es para que se asiente.",
     "va": "Aquesta setmana tornen a les taules (tablas) del 2, 3, 4, 5, 6 i 10, a donar la volta a la multiplicació i a comptar combinacions. No hi ha res nou: és perquè s'assente.",
     "en": "This week they go back to the 2, 3, 4, 5, 6 and 10 times tables (tablas), to turning multiplication around and to counting combinations. There is nothing new: it's so it all settles in.",
-    "fr": "Cette semaine, on revient aux tables (tablas) de 2, 3, 4, 5, 6 et 10, à la multiplication qu'on retourne et aux combinaisons. Rien de nouveau : c'est pour que tout se pose.",
+    "fr": "Cette semaine, on revient aux tables (tablas) de 2, 3, 4, 5, 6 et 10, à la multiplication qu'on retourne et aux combinaisons. Rien de nouveau : c'est pour que tout se mette bien en place.",
     "ar": "هذا الأسبوع يعود الأطفال إلى جداول ضرب (tablas) 2 و3 و4 و5 و6 و10، وإلى قلب عملية الضرب، وإلى عدّ التركيبات. لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
@@ -75,7 +75,7 @@
           "va": "Escriviu en paperets multiplicacions de les taules del 2 al 6 i del 10, com ara {{3 × 4}} o {{6 × 5}}, i poseu-los en un pot.",
           "en": "Write multiplications from the 2 to 6 and 10 times tables on slips of paper, like {{3 × 4}} or {{6 × 5}}, and put them in a jar.",
           "fr": "Écrivez sur des petits papiers des multiplications des tables de 2 à 6 et de 10, comme {{3 × 4}} ou {{6 × 5}}, et mettez-les dans un pot.",
-          "ar": "اكتبوا على قصاصات ورق عمليات ضرب من جداول 2 إلى 6 وجدول 10، مثل {{3 × 4}} أو {{6 × 5}}، وضعوها في وعاء."
+          "ar": "اكتبوا على قصاصات ورق عمليات ضرب من جداول ضرب 2 إلى 6 وجدول ضرب 10، مثل {{3 × 4}} أو {{6 × 5}}، وضعوها في وعاء."
         }
       },
       {
@@ -114,7 +114,7 @@
       "va": "Feu servir només les taules del 2, del 5 i del 10, i cartons de 6 caselles.",
       "en": "Use only the 2, 5 and 10 times tables, and cards with 6 boxes.",
       "fr": "Utilisez seulement les tables de 2, de 5 et de 10, et des cartons de 6 cases.",
-      "ar": "استعملوا جداول 2 و5 و10 فقط، وبطاقات من 6 خانات."
+      "ar": "استعملوا جداول ضرب 2 و5 و10 فقط، وبطاقات من 6 خانات."
     },
     "masDificil": {
       "es": "Cantad las multiplicaciones al revés («cinco por seis») para recordar que dan lo mismo, o añadid papelitos de combinaciones: «3 camisetas y 2 pantalones».",
@@ -173,9 +173,9 @@
       "inventala": {
         "es": "Inventa tú una de la tabla del 4 con cosas del cole.",
         "va": "Inventa'n tu una de la taula del 4 amb coses de l'escola.",
-        "en": "Make up a 4 times table one with things from school.",
+        "en": "Make up one from the 4 times table with things from school.",
         "fr": "Invente un problème de la table de 4 avec des choses de l'école.",
-        "ar": "لنخترع مسألة من جدول 4 بأشياء من المدرسة."
+        "ar": "لنخترع مسألة من جدول ضرب 4 بأشياء من المدرسة."
       }
     },
     {
@@ -302,9 +302,9 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "De todo lo de estas semanas en mates, ¿qué tabla se te ha quedado mejor? ¿Y cuál te cuesta todavía? Explícame un truco para esa.",
-        "va": "De tot el que heu fet aquestes setmanes en mates, quina taula se t'ha quedat millor? I quina et costa encara? Explica'm un truc per a eixa.",
+        "va": "De tot el que has fet aquestes setmanes en mates, quina taula se t'ha quedat millor? I quina et costa encara? Explica'm un truc per a eixa.",
         "en": "Of everything in maths these weeks, which times table has stuck best? And which one is still hard? Explain a trick for that one.",
-        "fr": "De tout ce que tu as fait ces semaines en maths, quelle table as-tu le mieux retenue ? Et laquelle te coûte encore ? Explique-moi une astuce pour celle-là.",
+        "fr": "De tout ce que tu as fait ces semaines en maths, quelle table as-tu le mieux retenue ? Et laquelle est encore difficile pour toi ? Explique-moi une astuce pour celle-là.",
         "ar": "من كل ما فعلناه في الرياضيات في هذه الأسابيع، أي جدول ضرب ترسّخ أكثر؟ وأيّها ما زال صعبًا؟ اشرح لي أو اشرحي لي حيلة له."
       },
       "pista": {
@@ -317,11 +317,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "No hay respuesta buena ni mala. Si una tabla le cuesta, buscad juntos un truco y probadlo en el bingo.",
-          "va": "No hi ha resposta bona ni dolenta. Si una taula li costa, busqueu junts un truc i proveu-lo en el bingo.",
-          "en": "There's no right or wrong answer. If a times table is hard, look for a trick together and try it out in bingo.",
-          "fr": "Il n'y a pas de bonne ou de mauvaise réponse. Si une table coûte, cherchez ensemble une astuce et essayez-la au loto.",
-          "ar": "لا توجد إجابة صحيحة أو خاطئة. وإذا كان جدول صعبًا، ابحثوا معًا عن حيلة وجرّبوها في البينغو."
+          "es": "Cualquier respuesta vale. Si una tabla le cuesta, buscad juntos un truco y probadlo en el bingo.",
+          "va": "Qualsevol resposta val. Si una taula li costa, busqueu junts un truc i proveu-lo en el bingo.",
+          "en": "Any answer works. If a times table is hard, look for a trick together and try it out in bingo.",
+          "fr": "Toutes les réponses conviennent. Si une table est difficile, cherchez ensemble une astuce et essayez-la au loto.",
+          "ar": "كل إجابة تصلح. وإذا كان جدول صعبًا، ابحثوا معًا عن حيلة وجرّبوها في البينغو."
         }
       }
     }
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "941add2f7206"
+        "huella": "7080061787b9"
       },
       "en": {
         "estado": "automatica",
-        "huella": "941add2f7206"
+        "huella": "7080061787b9"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "941add2f7206"
+        "huella": "7080061787b9"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "941add2f7206"
+        "huella": "7080061787b9"
       }
     }
   }

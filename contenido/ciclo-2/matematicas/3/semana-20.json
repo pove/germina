@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana aprenden la tabla del 3 y la del 6, y descubren que cada resultado de la tabla del 6 es el doble del de la tabla del 3: {{3 × 4 = 12}} y {{6 × 4 = 24}}.",
-    "va": "Aquesta setmana aprenen la taula del 3 i la del 6 (tablas del 3 y del 6), i descobreixen que cada resultat de la taula del 6 és el doble del de la taula del 3: {{3 × 4 = 12}} i {{6 × 4 = 24}}.",
+    "va": "Aquesta setmana aprenen la taula del 3 i la del 6 (tablas del 3 y del 6), i descobrixen que cada resultat de la taula del 6 és el doble del de la taula del 3: {{3 × 4 = 12}} i {{6 × 4 = 24}}.",
     "en": "This week they learn the 3 and 6 times tables (tablas del 3 y del 6), and discover that each answer in the 6 times table is double the one in the 3 times table: {{3 × 4 = 12}} and {{6 × 4 = 24}}.",
     "fr": "Cette semaine, on apprend la table de 3 et celle de 6 (tablas del 3 y del 6), et on découvre que chaque résultat de la table de 6 est le double de celui de la table de 3 : {{3 × 4 = 12}} et {{6 × 4 = 24}}.",
-    "ar": "هذا الأسبوع يتعلّم الأطفال جدولي ضرب 3 و6 (tablas del 3 y del 6)، ويكتشفون أن كل نتيجة في جدول 6 هي ضعف النتيجة في جدول 3: {{3 × 4 = 12}} و{{6 × 4 = 24}}."
+    "ar": "هذا الأسبوع يتعلّم الأطفال جدولي ضرب 3 و6 (tablas del 3 y del 6)، ويكتشفون أن كل نتيجة في جدول ضرب 6 هي ضعف النتيجة في جدول ضرب 3: {{3 × 4 = 12}} و{{6 × 4 = 24}}."
   },
   "comoAyudar": {
     "es": "Si una del 6 se resiste, buscad juntos la del 3 y haced el doble. Y si se resiste la del 3, contad de 3 en 3 con los dedos: eso también es pensar.",
     "va": "Si una del 6 es resistix, busqueu junts la del 3 i feu-ne el doble. I si es resistix la del 3, compteu de 3 en 3 amb els dits: això també és pensar.",
     "en": "If a 6 times table fact is tricky, find the 3 times table one together and double it. And if the 3 times table one is tricky, count in 3s on your fingers: that's thinking too.",
     "fr": "Si un résultat de la table de 6 résiste, cherchez ensemble celui de la table de 3 et faites le double. Et si c'est celui de 3 qui résiste, comptez de 3 en 3 sur les doigts : ça aussi, c'est réfléchir.",
-    "ar": "إذا استعصت عملية من جدول 6، ابحثوا معًا عن نظيرتها في جدول 3 وخذوا ضعفها. وإذا استعصت عملية من جدول 3، عدّوا ثلاثة ثلاثة على الأصابع: هذا أيضًا تفكير."
+    "ar": "إذا استعصت عملية من جدول ضرب 6، ابحثوا معًا عن نظيرتها في جدول ضرب 3 وخذوا ضعفها. وإذا استعصت عملية من جدول ضرب 3، عدّوا ثلاثة ثلاثة على الأصابع: هذا أيضًا تفكير."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente",
@@ -96,7 +96,7 @@
         "pictograma": "ojo",
         "texto": {
           "es": "Mirad las dos columnas juntas: 12 y 24, 15 y 30… ¿Qué relación hay entre el número de una columna y el de la otra?",
-          "va": "Mireu les dues columnes juntes: 12 i 24, 15 i 30… Quina relació hi ha entre el número d'una columna i el de l'altra?",
+          "va": "Mireu les dues columnes juntes: 12 i 24, 15 i 30… Quina relació hi ha entre el nombre d'una columna i el de l'altra?",
           "en": "Look at both columns together: 12 and 24, 15 and 30… How is the number in one column related to the one in the other?",
           "fr": "Regardez les deux colonnes ensemble : 12 et 24, 15 et 30… Quel lien y a-t-il entre le nombre d'une colonne et celui de l'autre ?",
           "ar": "انظروا إلى العمودين معًا: 12 و24، 15 و30… ما العلاقة بين العدد في عمود والعدد في العمود الآخر؟"
@@ -112,17 +112,24 @@
     },
     "masDificil": {
       "es": "Tirad dos dados y sumadlos para tener números hasta el 12: ¿cuánto es {{6 × 11}}? ¿Y {{3 × 12}}?",
-      "va": "Tireu dos daus i sumeu-los per a tindre números fins al 12: quant és {{6 × 11}}? I {{3 × 12}}?",
+      "va": "Tireu dos daus i sumeu-los per a tindre nombres fins al 12: quant és {{6 × 11}}? I {{3 × 12}}?",
       "en": "Roll two dice and add them to get numbers up to 12: what is {{6 × 11}}? And {{3 × 12}}?",
       "fr": "Lancez deux dés et additionnez-les pour avoir des nombres jusqu'à 12 : combien fait {{6 × 11}} ? Et {{3 × 12}} ?",
       "ar": "ارموا نردين واجمعوهما لتحصلوا على أعداد حتى 12: كم تساوي {{6 × 11}}؟ و{{3 × 12}}؟"
     },
     "paraQueSirve": {
       "es": "Ver que el 6 es el doble del 3 une dos tablas en una. Y buscar relaciones entre números es lo que hacen las matemáticas: ver un patrón donde parecía que no lo había.",
-      "va": "Veure que el 6 és el doble del 3 unix dues taules en una. I buscar relacions entre números és el que fan les matemàtiques: veure un patró on semblava que no n'hi havia.",
+      "va": "Veure que el 6 és el doble del 3 unix dues taules en una. I buscar relacions entre nombres és el que fan les matemàtiques: veure un patró on semblava que no n'hi havia.",
       "en": "Seeing that 6 is double 3 joins two times tables into one. And looking for links between numbers is what maths is about: seeing a pattern where there seemed to be none.",
       "fr": "Voir que 6 est le double de 3 réunit deux tables en une. Et chercher des liens entre les nombres, c'est ce que font les maths : voir une régularité là où il semblait ne pas y en avoir.",
       "ar": "رؤية أن 6 هي ضعف 3 تجمع جدولين في جدول واحد. والبحث عن علاقات بين الأعداد هو ما تفعله الرياضيات: رؤية نمط حيث بدا أنه لا يوجد."
+    },
+    "aviso": {
+      "es": "Guardad el dado lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu el dau lluny de germans o germanes menuts.",
+      "en": "Keep the die away from younger brothers and sisters.",
+      "fr": "Gardez le dé loin des petits frères et sœurs.",
+      "ar": "أبعدوا النرد عن الإخوة والأخوات الصغار."
     }
   },
   "preguntas": [
@@ -210,7 +217,7 @@
       "tipoProblema": "suma-repetida",
       "texto": {
         "es": "Mira la serie: 6, 12, 18, 24… ¿Qué número va después? ¿Y el siguiente?",
-        "va": "Mira la sèrie: 6, 12, 18, 24… Quin número va després? I el següent?",
+        "va": "Mira la sèrie: 6, 12, 18, 24… Quin nombre va després? I el següent?",
         "en": "Look at the sequence: 6, 12, 18, 24… Which number comes next? And the one after?",
         "fr": "Regarde la suite : 6, 12, 18, 24… Quel nombre vient après ? Et le suivant ?",
         "ar": "لننظر إلى المتتالية: 6، 12، 18، 24… ما العدد التالي؟ والذي بعده؟"
@@ -232,12 +239,12 @@
           "va": "Van el 30 i el 36: és la taula del 6, de 6 en 6.",
           "en": "Next come 30 and 36: it's the 6 times table, going up in 6s.",
           "fr": "Viennent 30 et 36 : c'est la table de 6, de 6 en 6.",
-          "ar": "يأتي 30 ثم 36: إنه جدول 6، ستة ستة."
+          "ar": "يأتي 30 ثم 36: إنه جدول ضرب 6، ستة ستة."
         }
       },
       "inventala": {
         "es": "Inventa tú una serie de 3 en 3 y que alguien de casa adivine el número siguiente.",
-        "va": "Inventa't una sèrie de 3 en 3 i que algú de casa endevine el número següent.",
+        "va": "Inventa't una sèrie de 3 en 3 i que algú de casa endevine el nombre següent.",
         "en": "Make up a sequence going up in 3s and have someone at home guess the next number.",
         "fr": "Invente une suite de 3 en 3 et fais deviner le nombre suivant à quelqu'un de la maison.",
         "ar": "لنخترع متتالية ثلاثة ثلاثة ونطلب من أحد في البيت أن يخمّن العدد التالي."
@@ -320,19 +327,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "a7791b9daaa4"
+        "huella": "32dcc3f04cb8"
       },
       "en": {
         "estado": "automatica",
-        "huella": "a7791b9daaa4"
+        "huella": "32dcc3f04cb8"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "a7791b9daaa4"
+        "huella": "32dcc3f04cb8"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "a7791b9daaa4"
+        "huella": "32dcc3f04cb8"
       }
     }
   }

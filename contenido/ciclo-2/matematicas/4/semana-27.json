@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Esta semana distinguen el perímetro (lo que mide el borde) del área (lo que ocupa la superficie), contando cuadrados. También buscan ángulos rectos y rectas paralelas y perpendiculares.",
-    "va": "Aquesta setmana distingixen el perímetre (el que mesura la vora) de l'àrea (el que ocupa la superfície), comptant quadrats. També busquen angles rectes i rectes paral·leles i perpendiculars.",
-    "en": "This week they tell perimeter (the length of the edge) apart from area (the space a surface covers), by counting squares. They also look for right angles and for parallel and perpendicular lines.",
-    "fr": "Cette semaine, on distingue le périmètre (la longueur du bord) de l'aire (ce qu'occupe la surface), en comptant des carrés. On cherche aussi des angles droits et des droites parallèles et perpendiculaires.",
-    "ar": "هذا الأسبوع يميّز الأطفال بين المحيط (طول الحافة) والمساحة (ما يشغله السطح) بعدّ المربّعات. ويبحثون أيضًا عن زوايا قائمة وعن مستقيمات متوازية ومتعامدة."
+    "va": "Aquesta setmana distingixen el perímetre (el que mesura la vora, perímetro) de l'àrea (el que ocupa la superfície), comptant quadrats. També busquen angles rectes (ángulos rectos) i rectes paral·leles i perpendiculars.",
+    "en": "This week they tell perimeter (the length of the edge, perímetro) apart from area (the space a surface covers, área), by counting squares. They also look for right angles (ángulos rectos) and for parallel and perpendicular lines.",
+    "fr": "Cette semaine, on distingue le périmètre (la longueur du bord, perímetro) de l'aire (ce qu'occupe la surface, área), en comptant des carrés. On cherche aussi des angles droits (ángulos rectos) et des droites parallèles et perpendiculaires.",
+    "ar": "هذا الأسبوع يميّز الأطفال بين المحيط (طول الحافة، perímetro) والمساحة (ما يشغله السطح، área) بعدّ المربّعات. ويبحثون أيضًا عن زوايا قائمة (ángulos rectos) وعن مستقيمات متوازية ومتعامدة."
   },
   "comoAyudar": {
     "es": "Perímetro y área se confunden mucho. Una pista que ayuda: el perímetro se recorre con el dedo por el borde; el área se pinta por dentro.",
@@ -60,6 +60,13 @@
         "en": "Paper and a pencil",
         "fr": "Du papier et un crayon",
         "ar": "ورقة وقلم رصاص"
+      },
+      {
+        "es": "Papel cuadriculado, si lo tenéis",
+        "va": "Paper quadriculat, si en teniu",
+        "en": "Squared paper, if you have some",
+        "fr": "Du papier quadrillé, si vous en avez",
+        "ar": "ورق مربّعات، إن وُجد"
       }
     ],
     "minutos": 15,
@@ -91,7 +98,7 @@
           "va": "Ara la vora: recorreu el rectangle amb el dit i compteu els costats de rajola. En 8 per 6: {{8 + 6 + 8 + 6 = 28}}. Eixe és el perímetre.",
           "en": "Now the edge: trace the rectangle with your finger and count the tile sides. For 8 by 6: {{8 + 6 + 8 + 6 = 28}}. That's the perimeter.",
           "fr": "Maintenant le bord : suivez le rectangle du doigt et comptez les côtés de carreau. Pour 8 sur 6 : {{8 + 6 + 8 + 6 = 28}}. C'est le périmètre.",
-          "ar": "الآن الحافة: تتبّعوا المستطيل بالإصبع وعدّوا أضلاع البلاط. في 8 في 6: {{8 + 6 + 8 + 6 = 28}}. هذا هو المحيط."
+          "ar": "الآن الحافة: تتبّعوا المستطيل بالإصبع وعدّوا أضلاع البلاط. في مستطيل 8 في 6: {{8 + 6 + 8 + 6 = 28}}. هذا هو المحيط."
         }
       },
       {
@@ -124,7 +131,7 @@
       "va": "Comptar rajoles fa que l'àrea siga una cosa que es veu i es toca, no una fórmula. I distingir vora i superfície servix per a pintar una paret, posar un sòcol o triar una catifa.",
       "en": "Counting tiles makes area something you can see and touch, not a formula. And telling edge and surface apart helps when painting a wall, fitting a skirting board or choosing a rug.",
       "fr": "Compter des carreaux fait de l'aire quelque chose qu'on voit et qu'on touche, pas une formule. Et distinguer bord et surface sert pour peindre un mur, poser une plinthe ou choisir un tapis.",
-      "ar": "عدّ البلاط يجعل المساحة شيئًا يُرى ويُلمس، لا صيغة. والتمييز بين الحافة والسطح يفيد عند طلاء جدار أو تركيب إطار سفلي أو اختيار سجّادة."
+      "ar": "عدّ البلاط يجعل المساحة شيئًا يُرى ويُلمس، لا صيغة. والتمييز بين الحافة والسطح يفيد عند طلاء جدار أو تركيب شريط في أسفل الجدار أو اختيار سجّادة."
     }
   },
   "preguntas": [
@@ -232,9 +239,9 @@
         "texto": {
           "es": "Su área es de 25 cuadraditos ({{5 × 5 = 25}}) y su perímetro, de 20 lados de cuadradito ({{4 × 5 = 20}}).",
           "va": "La seua àrea és de 25 quadradets ({{5 × 5 = 25}}) i el seu perímetre, de 20 costats de quadradet ({{4 × 5 = 20}}).",
-          "en": "Its area is 25 little squares ({{5 × 5 = 25}}) and its perimeter is 20 square sides ({{4 × 5 = 20}}).",
+          "en": "Its area is 25 little squares ({{5 × 5 = 25}}) and its perimeter is 20 little-square sides ({{4 × 5 = 20}}).",
           "fr": "Son aire est de 25 petits carreaux ({{5 × 5 = 25}}) et son périmètre, de 20 côtés de carreau ({{4 × 5 = 20}}).",
-          "ar": "مساحته 25 مربّعًا صغيرًا ({{5 × 5 = 25}})، ومحيطه 20 ضلع مربّع ({{4 × 5 = 20}})."
+          "ar": "مساحته 25 مربّعًا صغيرًا ({{5 × 5 = 25}})، ومحيطه 20 ضلعًا من أضلاع المربّعات الصغيرة ({{4 × 5 = 20}})."
         }
       },
       "inventala": {
@@ -280,7 +287,7 @@
       "inventala": {
         "es": "Inventa tú uno de dos pasos con algo que quieras comprar.",
         "va": "Inventa'n tu un de dos passos amb alguna cosa que vulgues comprar.",
-        "en": "Make up a two-step one with something you'd like to buy.",
+        "en": "Make up a two-step problem with something you'd like to buy.",
         "fr": "Invente un problème en deux étapes avec quelque chose que tu voudrais acheter.",
         "ar": "لنخترع مسألة من خطوتين بشيء نرغب في شرائه."
       }
@@ -301,7 +308,7 @@
         "va": "Si no sap per on començar: «Què recorries amb el dit? I què pintaves per dins?»",
         "en": "If they don't know where to start: “What did you trace with your finger? And what did you colour in?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu suivais du doigt ? Et qu'est-ce que tu coloriais à l'intérieur ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا كنّا نتتبّع بالإصبع؟ وماذا كنّا نلوّن من الداخل؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا كنّا نتتبّع بالإصبع؟ وماذا كنّا نلوّن من الداخل؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -310,7 +317,7 @@
           "va": "Si fa servir les seues paraules («la vora» i «el de dins»), ja ho ha entés. Demaneu que us ho ensenye amb el dit damunt de la taula.",
           "en": "If they use their own words (“the edge” and “the inside”), they've understood. Ask them to show you with a finger on the table.",
           "fr": "Avec ses propres mots (« le bord » et « l'intérieur »), c'est déjà compris. Demandez qu'on vous le montre du doigt sur la table.",
-          "ar": "إذا استُعملت كلمات خاصة («الحافة» و«الداخل»)، فقد فُهمت الفكرة. اطلبوا أن يُعرض عليكم ذلك بالإصبع على الطاولة."
+          "ar": "إذا استعمل الأطفال كلماتهم («الحافة» و«الداخل»)، فقد فهموا الفكرة. اطلبوا منهم أن يُروكم ذلك بالإصبع على الطاولة."
         }
       }
     }
@@ -322,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "f828786b53a3"
+        "huella": "d820b378b9f6"
       },
       "en": {
         "estado": "automatica",
-        "huella": "f828786b53a3"
+        "huella": "d820b378b9f6"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "f828786b53a3"
+        "huella": "d820b378b9f6"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "f828786b53a3"
+        "huella": "d820b378b9f6"
       }
     }
   }

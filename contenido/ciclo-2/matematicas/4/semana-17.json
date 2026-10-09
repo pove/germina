@@ -45,18 +45,18 @@
     },
     "material": [
       {
-        "es": "Una baraja (o cartas del 1 al 10 hechas en papel)",
-        "va": "Una baralla (o cartes de l'1 al 10 fetes en paper)",
+        "es": "Una baraja francesa o de póquer (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla francesa o de pòquer (o cartes de l'1 al 10 fetes en paper)",
         "en": "A pack of cards (or cards from 1 to 10 made of paper)",
-        "fr": "Un jeu de cartes (ou des cartes de 1 à 10 faites en papier)",
-        "ar": "مجموعة أوراق لعب (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+        "fr": "Un jeu de 52 cartes (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب من 52 ورقة (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
       },
       {
         "es": "El cronómetro de Germina",
         "va": "El cronòmetre de Germina",
         "en": "The Germina stopwatch",
         "fr": "Le chronomètre de Germina",
-        "ar": "مؤقّت جيرمينا"
+        "ar": "مؤقّت Germina"
       }
     ],
     "minutos": 10,
@@ -98,16 +98,16 @@
           "va": "Compteu les parelles encertades i mireu-ho al costat del rècord de la setmana 11, si el vau apuntar. Les que es van deixar a banda, mireu-les junts amb calma.",
           "en": "Count the pairs you got right and look at it next to the record from week 11, if you wrote it down. Look calmly together at the ones you put to one side.",
           "fr": "Comptez les paires trouvées et regardez-les à côté du record de la semaine 11, si vous l'avez noté. Celles qui ont été mises de côté, regardez-les ensemble tranquillement.",
-          "ar": "عدّوا الأزواج الصحيحة وانظروا إليها بجانب الرقم القياسي للأسبوع 11، إن كنتم دوّنتموه. أمّا التي وُضعت جانبًا، فانظروا إليها معًا بهدوء."
+          "ar": "عدّوا الأزواج الصحيحة وقارنوا عددها بالرقم القياسي للأسبوع 11، إن كنتم دوّنتموه. أمّا التي وُضعت جانبًا، فانظروا إليها معًا بهدوء."
         }
       }
     ],
     "masFacil": {
-      "es": "Quitad las cartas del 7, del 8 y del 9 y jugad con las demás.",
-      "va": "Lleveu les cartes del 7, del 8 i del 9 i jugueu amb les altres.",
-      "en": "Take out the 7, 8 and 9 cards and play with the rest.",
-      "fr": "Retirez les cartes 7, 8 et 9 et jouez avec les autres.",
-      "ar": "أخرجوا أوراق 7 و8 و9 والعبوا بالباقي."
+      "es": "Quitad las cartas del 7, del 8 y del 9 y jugad con las demás. O tirad dos dados en vez de dar la vuelta a dos cartas.",
+      "va": "Lleveu les cartes del 7, del 8 i del 9 i jugueu amb les altres. O tireu dos daus en compte de girar dues cartes.",
+      "en": "Take out the 7, 8 and 9 cards and play with the rest. Or roll two dice instead of turning over two cards.",
+      "fr": "Retirez les cartes 7, 8 et 9 et jouez avec les autres. Ou lancez deux dés au lieu de retourner deux cartes.",
+      "ar": "أخرجوا أوراق 7 و8 و9 والعبوا بالباقي. أو ارموا نردين بدل قلب ورقتين."
     },
     "masDificil": {
       "es": "Dad la vuelta a una sola carta y multiplicadla por 11 o por 12. O multiplicad dos cartas y restad una tercera.",
@@ -122,6 +122,13 @@
       "en": "Coming back to the times tables a few weeks later helps them stick for good. And having them to hand frees the mind for what's coming next: multiplying by two-digit numbers.",
       "fr": "Revenir aux tables quelques semaines plus tard aide à les garder pour toujours. Et les avoir sous la main laisse la tête libre pour la suite : multiplier par deux chiffres.",
       "ar": "العودة إلى جداول الضرب بعد بضعة أسابيع تساعد على ترسيخها إلى الأبد. ومعرفتها جيدًا تترك الذهن حرًّا لما سيأتي: الضرب في عدد من رقمين."
+    },
+    "aviso": {
+      "es": "Si usáis dados, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir daus, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use dice, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des dés, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم النرد، فأبعدوه عن الإخوة والأخوات الصغار."
     },
     "rapidez": {
       "segundos": 120,
@@ -169,9 +176,9 @@
       "inventala": {
         "es": "Inventa tú una de la tabla del 9 y resuélvela con el truco de «por 10 y quitar una vez».",
         "va": "Inventa'n tu una de la taula del 9 i resol-la amb el truc de «per 10 i llevar una vegada».",
-        "en": "Make up a 9 times table one and work it out with the “times 10 and take one away” trick.",
+        "en": "Make up one from the 9 times table and work it out with the “times 10 and take one away” trick.",
         "fr": "Invente un problème de la table de 9 et trouve la réponse avec l'astuce « fois 10 et on enlève une fois ».",
-        "ar": "لنخترع مسألة من جدول 9 ونحلّها بحيلة «في 10 ثم نطرح مرة»."
+        "ar": "لنخترع مسألة من جدول ضرب 9 ونحلّها بحيلة «في 10 ثم نطرح مرة»."
       }
     },
     {
@@ -180,7 +187,7 @@
       "tipoProblema": "suma-repetida",
       "texto": {
         "es": "Cada semana, en casa de Leo se compran 7 barras de pan. ¿Cuántas barras se compran en 6 semanas?",
-        "va": "Cada setmana, a casa de Leo es compren 7 barres de pa. Quantes barres es compren en 6 setmanes?",
+        "va": "Cada setmana, a casa del Leo es compren 7 barres de pa. Quantes barres es compren en 6 setmanes?",
         "en": "Every week, Leo's family buys 7 loaves of bread. How many loaves do they buy in 6 weeks?",
         "fr": "Chaque semaine, chez Leo, on achète 7 baguettes. Combien de baguettes achète-t-on en 6 semaines ?",
         "ar": "في كل أسبوع، تشتري عائلة ليو 7 أرغفة خبز. كم رغيفًا تشتري في 6 أسابيع؟"
@@ -286,7 +293,7 @@
       },
       "inventala": {
         "es": "Inventa tú una para calcular a ojo con un número cercano a 50 o a 100.",
-        "va": "Inventa'n tu una per a calcular a ull amb un número pròxim a 50 o a 100.",
+        "va": "Inventa'n tu una per a calcular a ull amb un nombre pròxim a 50 o a 100.",
         "en": "Make one up to estimate with a number close to 50 or 100.",
         "fr": "Invente un problème à calculer à vue d'œil avec un nombre proche de 50 ou de 100.",
         "ar": "لنخترع مسألة نحسبها بالتقريب بعدد قريب من 50 أو 100."
@@ -297,18 +304,18 @@
       "rol": "explicamelo",
       "tipoProblema": "abierta",
       "texto": {
-        "es": "¿Qué tabla te ha costado más este trimestre? Explícame el truco que usas para ella.",
-        "va": "Quina taula t'ha costat més aquest trimestre? Explica'm el truc que fas servir per a ella.",
-        "en": "Which times table has been hardest for you this term? Explain the trick you use for it.",
-        "fr": "Quelle table t'a coûté le plus ce trimestre ? Explique-moi l'astuce que tu utilises pour elle.",
-        "ar": "أي جدول ضرب كان الأصعب علينا هذا الفصل؟ اشرح لي أو اشرحي لي الحيلة التي نستعملها له."
+        "es": "¿Qué tabla te ha costado más estos meses? Explícame el truco que usas para ella.",
+        "va": "Quina taula t'ha costat més aquests mesos? Explica'm el truc que fas servir per a ella.",
+        "en": "Which times table has been hardest for you these last few months? Explain the trick you use for it.",
+        "fr": "Quelle table t'a coûté le plus ces derniers mois ? Explique-moi l'astuce que tu utilises pour elle.",
+        "ar": "أي جدول ضرب كان الأصعب علينا في هذه الأشهر؟ اشرح لي أو اشرحي لي الحيلة التي نستعملها له."
       },
       "pista": {
         "es": "Si no sabe qué decir: «¿Cómo calculas {{7 × 8}}? ¿Y {{9 × 6}}?»",
         "va": "Si no sap què dir: «Com calcules {{7 × 8}}? I {{9 × 6}}?»",
         "en": "If they don't know what to say: “How do you work out {{7 × 8}}? And {{9 × 6}}?”",
         "fr": "S'il ou elle ne sait pas quoi dire : « Comment calcules-tu {{7 × 8}} ? Et {{9 × 6}} ? »",
-        "ar": "إن لم تكن هناك فكرة، اسألوا: «كيف نحسب {{7 × 8}}؟ و{{9 × 6}}؟»"
+        "ar": "إذا لم تحضر الكلمات، اسألوا: «كيف نحسب {{7 × 8}}؟ و{{9 × 6}}؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -329,19 +336,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "dc08805a98a5"
+        "huella": "d3bc6335ae25"
       },
       "en": {
         "estado": "automatica",
-        "huella": "dc08805a98a5"
+        "huella": "d3bc6335ae25"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "dc08805a98a5"
+        "huella": "d3bc6335ae25"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "dc08805a98a5"
+        "huella": "d3bc6335ae25"
       }
     }
   }

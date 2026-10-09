@@ -23,7 +23,7 @@
   "comoAyudar": {
     "es": "Para calcular cuánto dura algo, contad a saltos: primero hasta la hora en punto y luego de hora en hora. Dibujad los saltos si ayuda.",
     "va": "Per a calcular quant dura una cosa, compteu a salts: primer fins a l'hora en punt i després d'hora en hora. Dibuixeu els salts si ajuda.",
-    "en": "To work out how long something lasts, count in jumps: first to the o'clock and then hour by hour. Draw the jumps if it helps.",
+    "en": "To work out how long something lasts, count in jumps: first up to the full hour and then hour by hour. Draw the jumps if it helps.",
     "fr": "Pour calculer combien de temps dure quelque chose, comptez par sauts : d'abord jusqu'à l'heure pile, puis d'heure en heure. Dessinez les sauts si ça aide.",
     "ar": "لحساب مدة شيء ما، عدّوا بالقفزات: أولًا حتى الساعة تمامًا ثم ساعة بساعة. ارسموا القفزات إن كان ذلك يساعد."
   },
@@ -81,11 +81,11 @@
       {
         "pictograma": "lapiz",
         "texto": {
-          "es": "Escribidlo como en un reloj digital: sale a las 7:05 y se pone a las 21:35.",
-          "va": "Escriviu-ho com en un rellotge digital: ix a les 7:05 i es pon a les 21:35.",
-          "en": "Write it as on a digital clock: it rises at 7:05 and sets at 21:35.",
-          "fr": "Écrivez-le comme sur une horloge numérique : il se lève à 7:05 et se couche à 21:35.",
-          "ar": "اكتبوها كما في الساعة الرقمية: تشرق في 7:05 وتغرب في 21:35."
+          "es": "Escribidlo como en un reloj digital; por ejemplo, sale a las 7:05 y se pone a las 21:35.",
+          "va": "Escriviu-ho com en un rellotge digital; per exemple, ix a les 7:05 i es pon a les 21:35.",
+          "en": "Write it as on a digital clock; for example, it rises at 7:05 and sets at 21:35.",
+          "fr": "Écrivez-le comme sur une horloge numérique ; par exemple, il se lève à 7:05 et se couche à 21:35.",
+          "ar": "اكتبوها كما في الساعة الرقمية؛ مثلًا: تشرق في الساعة 7:05 وتغرب في الساعة 21:35."
         }
       },
       {
@@ -95,7 +95,7 @@
           "va": "Calculeu quant dura el dia a salts: de 7:05 a 8:00 en van 55 minuts, de 8:00 a 21:00 en van 13 hores i de 21:00 a 21:35 en van 35 minuts.",
           "en": "Work out how long the day lasts in jumps: from 7:05 to 8:00 is 55 minutes, from 8:00 to 21:00 is 13 hours and from 21:00 to 21:35 is 35 minutes.",
           "fr": "Calculez combien de temps dure la journée par sauts : de 7:05 à 8:00, il y a 55 minutes, de 8:00 à 21:00, 13 heures, et de 21:00 à 21:35, 35 minutes.",
-          "ar": "احسبوا طول النهار بالقفزات: من 7:05 إلى 8:00 هي 55 دقيقة، ومن 8:00 إلى 21:00 هي 13 ساعة، ومن 21:00 إلى 21:35 هي 35 دقيقة."
+          "ar": "احسبوا طول النهار بالقفزات: من الساعة 7:05 إلى 8:00 هي 55 دقيقة، ومن الساعة 8:00 إلى 21:00 هي 13 ساعة، ومن الساعة 21:00 إلى 21:35 هي 35 دقيقة."
         }
       },
       {
@@ -113,7 +113,7 @@
       "es": "Calculad solo con horas en punto: si el sol sale sobre las 7 y se pone sobre las 21, ¿cuántas horas de luz hay?",
       "va": "Calculeu només amb hores en punt: si el sol ix cap a les 7 i es pon cap a les 21, quantes hores de llum hi ha?",
       "en": "Just work with o'clock times: if the sun rises around 7 and sets around 21, how many hours of daylight are there?",
-      "fr": "Calculez seulement avec des heures pile : si le soleil se lève vers 7 h et se couche vers 21 h, combien d'heures de lumière y a-t-il ?",
+      "fr": "Calculez seulement avec des heures pile : si le soleil se lève vers 7 heures et se couche vers 21 heures, combien d'heures de lumière y a-t-il ?",
       "ar": "احسبوا بالساعات التامة فقط: إذا أشرقت الشمس نحو 7 وغربت نحو 21، فكم ساعة من الضوء هناك؟"
     },
     "masDificil": {
@@ -125,7 +125,7 @@
     },
     "paraQueSirve": {
       "es": "Calcular cuánto dura algo sirve para organizar el día: cuánto falta para la cena, cuánto dura una película o un viaje.",
-      "va": "Calcular quant dura una cosa serveix per a organitzar el dia: quant falta per al sopar, quant dura una pel·lícula o un viatge.",
+      "va": "Calcular quant dura una cosa servix per a organitzar el dia: quant falta per al sopar, quant dura una pel·lícula o un viatge.",
       "en": "Working out how long something lasts helps organise the day: how long until dinner, how long a film or a journey lasts.",
       "fr": "Calculer combien de temps dure quelque chose sert à organiser la journée : combien de temps avant le dîner, combien dure un film ou un voyage.",
       "ar": "حساب مدة شيء ما يساعد على تنظيم اليوم: كم بقي على العشاء، كم يدوم فيلم أو رحلة."
@@ -148,14 +148,14 @@
         "va": "La piscina obri a les 11:00 i tanca a les 20:00. Quantes hores està oberta?",
         "en": "The pool opens at 11:00 and closes at 20:00. How many hours is it open?",
         "fr": "La piscine ouvre à 11:00 et ferme à 20:00. Combien d'heures est-elle ouverte ?",
-        "ar": "يفتح المسبح في 11:00 ويغلق في 20:00. كم ساعة يبقى مفتوحًا؟"
+        "ar": "يفتح المسبح في الساعة 11:00 ويغلق في الساعة 20:00. كم ساعة يبقى مفتوحًا؟"
       },
       "pista": {
         "es": "De 11:00 a 12:00 va una hora. Sigue saltando de hora en hora hasta las 20:00.",
         "va": "De 11:00 a 12:00 hi ha una hora. Continua saltant d'hora en hora fins a les 20:00.",
         "en": "From 11:00 to 12:00 is one hour. Keep jumping hour by hour until 20:00.",
         "fr": "De 11:00 à 12:00, il y a une heure. Continue à sauter d'heure en heure jusqu'à 20:00.",
-        "ar": "من 11:00 إلى 12:00 ساعة واحدة. لنتابع القفز ساعة بساعة حتى 20:00."
+        "ar": "من الساعة 11:00 إلى 12:00 ساعة واحدة. لنتابع القفز ساعة بساعة حتى الساعة 20:00."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -187,14 +187,14 @@
         "va": "Eixim d'excursió a les 9:30 i arribem a les 10:15. Quant dura el viatge?",
         "en": "We set off on a trip at 9:30 and arrive at 10:15. How long is the journey?",
         "fr": "Nous partons en excursion à 9:30 et nous arrivons à 10:15. Combien de temps dure le trajet ?",
-        "ar": "خرجنا في رحلة في 9:30 ووصلنا في 10:15. كم دامت الطريق؟"
+        "ar": "خرجنا في رحلة في الساعة 9:30 ووصلنا في الساعة 10:15. كم استغرقت الرحلة؟"
       },
       "pista": {
         "es": "De 9:30 a 10:00 van 30 minutos, y de 10:00 a 10:15…",
         "va": "De 9:30 a 10:00 en van 30 minuts, i de 10:00 a 10:15…",
         "en": "From 9:30 to 10:00 is 30 minutes, and from 10:00 to 10:15…",
         "fr": "De 9:30 à 10:00, il y a 30 minutes, et de 10:00 à 10:15…",
-        "ar": "من 9:30 إلى 10:00 هي 30 دقيقة، ومن 10:00 إلى 10:15…"
+        "ar": "من الساعة 9:30 إلى 10:00 هي 30 دقيقة، ومن الساعة 10:00 إلى 10:15…"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -206,7 +206,7 @@
           "va": "El viatge dura 45 minuts: tres quarts d'hora.",
           "en": "The journey lasts 45 minutes: three quarters of an hour.",
           "fr": "Le trajet dure 45 minutes : trois quarts d'heure.",
-          "ar": "دامت الطريق 45 دقيقة: ثلاثة أرباع ساعة."
+          "ar": "استغرقت الرحلة 45 دقيقة: ثلاثة أرباع ساعة."
         }
       },
       "inventala": {
@@ -226,12 +226,12 @@
         "va": "La migdiada comença a les 15:20 i acaba a les 16:00. Quants minuts dura?",
         "en": "The afternoon nap starts at 15:20 and ends at 16:00. How many minutes does it last?",
         "fr": "La sieste commence à 15:20 et finit à 16:00. Combien de minutes dure-t-elle ?",
-        "ar": "تبدأ القيلولة في 15:20 وتنتهي في 16:00. كم دقيقة تدوم؟"
+        "ar": "تبدأ القيلولة في الساعة 15:20 وتنتهي في الساعة 16:00. كم دقيقة تدوم؟"
       },
       "pista": {
         "es": "Una hora tiene 60 minutos. ¿Cuántos faltan desde el minuto 20 hasta la hora en punto?",
         "va": "Una hora té 60 minuts. Quants en falten des del minut 20 fins a l'hora en punt?",
-        "en": "An hour has 60 minutes. How many are there from minute 20 to the o'clock?",
+        "en": "An hour has 60 minutes. How many are there from minute 20 up to the full hour?",
         "fr": "Une heure a 60 minutes. Combien en manque-t-il de la minute 20 jusqu'à l'heure pile ?",
         "ar": "في الساعة 60 دقيقة. كم بقي من الدقيقة 20 حتى الساعة تمامًا؟"
       },
@@ -253,7 +253,7 @@
         "va": "Inventa'n tu una amb alguna cosa que feu cada vesprada.",
         "en": "Make one up with something you do every afternoon.",
         "fr": "Invente un problème avec quelque chose que vous faites chaque après-midi.",
-        "ar": "لنخترع مسألة عن شيء نفعله كل مساء."
+        "ar": "لنخترع مسألة عن شيء نفعله كل يوم بعد الظهر."
       }
     },
     {
@@ -266,7 +266,7 @@
         "va": "Per a recordar: en el rellotge d'agulles, la llarga és al 7. Quants minuts marca?",
         "en": "Let's remember: on a clock with hands, the long hand is on the 7. How many minutes does it show?",
         "fr": "Pour se souvenir : sur une horloge à aiguilles, la grande aiguille est sur le 7. Combien de minutes indique-t-elle ?",
-        "ar": "لنتذكّر: في الساعة ذات العقارب، العقرب الطويل على الرقم 7. كم دقيقة يشير؟"
+        "ar": "لنتذكّر: في الساعة ذات العقارب، العقرب الطويل على الرقم 7. إلى كم دقيقة يشير؟"
       },
       "pista": {
         "es": "Cada número del reloj son 5 minutos: cuenta de 5 en 5.",
@@ -312,7 +312,7 @@
         "va": "Si no sap per on començar: «A quina hora dinem? I quant falta des d'ara?»",
         "en": "If they don't know where to start: “What time do we have lunch? And how long is it from now?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « À quelle heure on déjeune ? Et combien de temps il reste à partir de maintenant ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «متى نتغدّى؟ وكم بقي من الآن؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «متى نتغدّى؟ وكم بقي من الآن؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "c21e14cd9bc0"
+        "huella": "10e82dbbf0cf"
       },
       "en": {
         "estado": "automatica",
-        "huella": "c21e14cd9bc0"
+        "huella": "10e82dbbf0cf"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "c21e14cd9bc0"
+        "huella": "10e82dbbf0cf"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "c21e14cd9bc0"
+        "huella": "10e82dbbf0cf"
       }
     }
   }

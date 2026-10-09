@@ -49,7 +49,7 @@
       {
         "es": "Un juego de mesa de casa con dados: parchís, oca o el que tengáis",
         "va": "Un joc de taula de casa amb daus: parxís, oca o el que tingueu",
-        "en": "A board game with dice from home: ludo, snakes and ladders or whatever you have",
+        "en": "A board game with dice from home: ludo, the Game of the Goose or whatever you have",
         "fr": "Un jeu de société de la maison avec des dés : petits chevaux, jeu de l'oie ou celui que vous avez",
         "ar": "لعبة لوحية من البيت فيها نرد: البارتشيس أو لعبة الإوزة أو أي لعبة عندكم"
       },
@@ -147,8 +147,8 @@
       "tipoProblema": "combinar",
       "texto": {
         "es": "En la oca, Leo avanza 28 casillas en la primera ronda y 15 en la segunda. ¿Cuántas casillas ha avanzado en total?",
-        "va": "En l'oca, Leo avança 28 caselles en la primera ronda i 15 en la segona. Quantes caselles ha avançat en total?",
-        "en": "In snakes and ladders, Leo moves 28 squares in the first round and 15 in the second. How many squares has he moved in total?",
+        "va": "En l'oca, el Leo avança 28 caselles en la primera ronda i 15 en la segona. Quantes caselles ha avançat en total?",
+        "en": "In the Game of the Goose, Leo moves 28 squares in the first round and 15 in the second. How many squares has he moved in total?",
         "fr": "Au jeu de l'oie, Leo avance de 28 cases au premier tour et de 15 au deuxième. De combien de cases a-t-il avancé en tout ?",
         "ar": "في لعبة الإوزة، تقدّم ليو 28 خانة في الجولة الأولى و15 في الثانية. كم خانة تقدّم في المجموع؟"
       },
@@ -186,7 +186,7 @@
       "tipoProblema": "suma-repetida",
       "texto": {
         "es": "En el dominó, Aya pone 4 piezas y cada una tiene 5 puntos. ¿Cuántos puntos son?",
-        "va": "En el dòmino, Aya posa 4 peces i cadascuna té 5 punts. Quants punts són?",
+        "va": "En el dòmino, l'Aya posa 4 peces i cadascuna té 5 punts. Quants punts són?",
         "en": "In dominoes, Aya puts down 4 pieces and each one has 5 dots. How many dots is that?",
         "fr": "Aux dominos, Aya pose 4 pièces et chacune a 5 points. Combien de points cela fait-il ?",
         "ar": "في الدومينو، وضعت آية 4 قطع وفي كل واحدة 5 نقاط. كم نقطة في المجموع؟"
@@ -226,7 +226,7 @@
       "texto": {
         "es": "La oca tiene 63 casillas y tu pieza está en la 47. ¿Cuántas casillas le faltan para llegar al final?",
         "va": "L'oca té 63 caselles i la teua peça està en la 47. Quantes caselles li falten per a arribar al final?",
-        "en": "The board has 63 squares and your piece is on 47. How many squares are left to reach the end?",
+        "en": "The Game of the Goose board has 63 squares and your piece is on 47. How many squares are left to reach the end?",
         "fr": "Le jeu de l'oie a 63 cases et ton pion est sur la 47. Combien de cases lui manque-t-il pour arriver au bout ?",
         "ar": "في لعبة الإوزة 63 خانة، وقطعتنا في الخانة 47. كم خانة بقيت لتصل إلى النهاية؟"
       },
@@ -268,7 +268,7 @@
         "va": "Per a recordar: un joc de cartes costa 2,80 € i pagues amb 5 €. Quant et tornen?",
         "en": "Let's remember: a card game costs 2,80 € and you pay with 5 €. How much change do you get?",
         "fr": "Pour se souvenir : un jeu de cartes coûte 2,80 € et tu paies avec 5 €. Combien te rend-on ?",
-        "ar": "لنتذكّر: لعبة أوراق ثمنها 2,80 يورو، ودفعنا 5 يورو. كم يُرجَع لنا؟"
+        "ar": "لنتذكّر: لعبة أوراق ثمنها 2,80 يورو، ودفعنا 5 يورو. كم يعيدون لنا؟"
       },
       "pista": {
         "es": "Cuenta hacia arriba: de 2,80 € a 3 € van 20 céntimos, y de 3 € a 5 €, 2 €.",
@@ -287,7 +287,7 @@
           "va": "Et tornen 2,20 €.",
           "en": "You get 2,20 € back.",
           "fr": "On te rend 2,20 €.",
-          "ar": "يُرجَع لنا 2,20 يورو."
+          "ar": "يعيدون لنا 2,20 يورو."
         }
       },
       "inventala": {
@@ -310,11 +310,11 @@
         "ar": "في أي لعبة من ألعاب البيت نستعمل الرياضيات أكثر؟ اشرح لي أو اشرحي لي أين يظهر الحساب عندما نلعب."
       },
       "pista": {
-        "es": "Si no sabe por dónde empezar: «¿Qué haces cuando sacas dos dados? ¿Y para saber cuántas casillas faltan?»",
-        "va": "Si no sap per on començar: «Què fas quan trus dos daus? I per a saber quantes caselles falten?»",
+        "es": "Si no sabe por dónde empezar: «¿Qué haces cuando tiras dos dados? ¿Y para saber cuántas casillas faltan?»",
+        "va": "Si no sap per on començar: «Què fas quan tires dos daus? I per a saber quantes caselles falten?»",
         "en": "If they don't know where to start: “What do you do when you roll two dice? And to know how many squares are left?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Que fais-tu quand tu lances deux dés ? Et pour savoir combien de cases il reste ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا نفعل عندما نرمي نردين؟ وكيف نعرف كم خانة بقيت؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا نفعل عندما نرمي نردين؟ وكيف نعرف كم خانة بقيت؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -335,19 +335,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "1ee759474272"
+        "huella": "3a0f4a447360"
       },
       "en": {
         "estado": "automatica",
-        "huella": "1ee759474272"
+        "huella": "3a0f4a447360"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "1ee759474272"
+        "huella": "3a0f4a447360"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "1ee759474272"
+        "huella": "3a0f4a447360"
       }
     }
   }

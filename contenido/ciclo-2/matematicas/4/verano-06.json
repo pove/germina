@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Un ángulo es lo que se abre entre dos lados, como un abanico o unas tijeras. La esquina de un folio es un ángulo recto y sirve de medida: hay ángulos más pequeños (agudos), iguales (rectos) y más grandes (obtusos).",
-    "va": "Un angle és el que s'obri entre dos costats, com un ventall o unes tisores. La cantonada d'un foli és un angle recte i serveix de mesura: hi ha angles més menuts (aguts), iguals (rectes) i més grans (obtusos).",
-    "en": "An angle is the opening between two sides, like a fan or a pair of scissors. The corner of a sheet of paper is a right angle and works as a measure: there are smaller angles (acute), equal ones (right) and bigger ones (obtuse).",
-    "fr": "Un angle, c'est l'ouverture entre deux côtés, comme un éventail ou une paire de ciseaux. Le coin d'une feuille est un angle droit et sert de mesure : il y a des angles plus petits (aigus), égaux (droits) et plus grands (obtus).",
-    "ar": "الزاوية هي الانفتاح بين ضلعين، مثل المروحة اليدوية أو المقصّ. وزاوية الورقة قائمة وتصلح مقياسًا: هناك زوايا أصغر (حادّة)، ومساوية (قائمة)، وأكبر (منفرجة)."
+    "va": "Un angle és el que s'obri entre dos costats, com un ventall o unes tisores. La cantonada d'un foli és un angle recte (ángulo recto) i servix de mesura: hi ha angles més menuts (aguts, agudos), iguals (rectes, rectos) i més grans (obtusos).",
+    "en": "An angle is the opening between two sides, like a fan or a pair of scissors. The corner of a sheet of paper is a right angle (ángulo recto) and works as a measure: there are smaller angles (acute, agudos), equal ones (right, rectos) and bigger ones (obtuse, obtusos).",
+    "fr": "Un angle, c'est l'ouverture entre deux côtés, comme un éventail ou une paire de ciseaux. Le coin d'une feuille est un angle droit (ángulo recto) et sert de mesure : il y a des angles plus petits (aigus, agudos), égaux (droits, rectos) et plus grands (obtus, obtusos).",
+    "ar": "الزاوية هي الانفتاح بين ضلعين، مثل المروحة اليدوية أو المقصّ. وزاوية الورقة قائمة (ángulo recto) وتصلح مقياسًا: هناك زوايا أصغر (حادّة، agudos)، ومساوية (قائمة، rectos)، وأكبر (منفرجة، obtusos)."
   },
   "comoAyudar": {
     "es": "Si duda, que ponga la esquina del folio encima del ángulo. Comparar con algo que se toca es mejor que adivinar.",
     "va": "Si dubta, que pose la cantonada del foli damunt de l'angle. Comparar amb una cosa que es toca és millor que endevinar.",
     "en": "If they hesitate, let them put the corner of the paper over the angle. Comparing with something you can touch is better than guessing.",
     "fr": "S'il ou elle hésite, qu'il ou elle pose le coin de la feuille sur l'angle. Comparer avec quelque chose qu'on touche vaut mieux que deviner.",
-    "ar": "إذا تردّد الطفل، فليضع زاوية الورقة فوق الزاوية. المقارنة بشيء نلمسه أفضل من التخمين."
+    "ar": "إذا تردّد الأطفال، فليضعوا زاوية الورقة فوق الزاوية. المقارنة بشيء نلمسه أفضل من التخمين."
   },
   "saberes": [
     "matematicas.geometria.angulos"
@@ -73,7 +73,7 @@
           "es": "Doblad un folio en abanico, como un acordeón. Abridlo poco, a medias y mucho: el hueco entre los dos bordes es un ángulo.",
           "va": "Doblegueu un foli en ventall, com un acordió. Obriu-lo poc, a mitges i molt: el buit entre les dues vores és un angle.",
           "en": "Fold a sheet of paper into a fan, like an accordion. Open it a little, halfway and a lot: the gap between the two edges is an angle.",
-          "fr": "Pliez une feuille en éventail, comme un accordéon. Ouvrez-le un peu, à moitié et beaucoup : l'espace entre les deux bords est un angle.",
+          "fr": "Pliez une feuille en éventail, comme un accordéon. Ouvrez-le un peu, à moitié, puis en grand : l'espace entre les deux bords est un angle.",
           "ar": "اطووا ورقة على شكل مروحة مثل الأكورديون. افتحوها قليلًا ثم إلى النصف ثم كثيرًا: الفراغ بين الحافّتين زاوية."
         }
       },
@@ -126,7 +126,7 @@
       "es": "Los ángulos están en la construcción, el deporte y el dibujo. Compararlos con una esquina es la primera forma de medirlos, antes de usar el transportador.",
       "va": "Els angles són en la construcció, l'esport i el dibuix. Comparar-los amb una cantonada és la primera manera de mesurar-los, abans de fer servir el transportador.",
       "en": "Angles are in building, sport and drawing. Comparing them with a corner is the first way to measure them, before using a protractor.",
-      "fr": "Les angles sont dans la construction, le sport et le dessin. Les comparer avec un coin est la première façon de les mesurer, avant d'utiliser le rapporteur.",
+      "fr": "On trouve des angles dans la construction, le sport et le dessin. Les comparer avec un coin est la première façon de les mesurer, avant d'utiliser le rapporteur.",
       "ar": "الزوايا موجودة في البناء والرياضة والرسم. ومقارنتها بزاوية الورقة أول طريقة لقياسها، قبل استعمال المنقلة."
     }
   },
@@ -156,7 +156,7 @@
           "va": "A les 3:00 és recte, com la cantonada d'un foli. A les 5:00 és obtús: està més obert. Amb un rellotge davant es veu millor.",
           "en": "At 3:00 it is a right angle, like the corner of a sheet of paper. At 5:00 it is obtuse: it is more open. It is easier to see with a clock in front of you.",
           "fr": "À 3:00, il est droit, comme le coin d'une feuille. À 5:00, il est obtus : il est plus ouvert. Avec une horloge devant soi, on le voit mieux.",
-          "ar": "في 3:00 هي قائمة مثل زاوية الورقة. وفي 5:00 هي منفرجة: أكثر انفتاحًا. ويتّضح ذلك أكثر بوجود ساعة أمامنا."
+          "ar": "في الساعة 3:00 هي قائمة مثل زاوية الورقة. وفي الساعة 5:00 هي منفرجة: أكثر انفتاحًا. ويتّضح ذلك أكثر بوجود ساعة أمامنا."
         }
       },
       "inventala": {
@@ -181,7 +181,7 @@
       "pista": {
         "es": "Dos pasos: primero los de los cuadrados, {{6 × 4}}; después, suma los de las escuadras.",
         "va": "Dos passos: primer els dels quadrats, {{6 × 4}}; després, suma els dels escaires.",
-        "en": "Two steps: first the squares' ones, {{6 × 4}}; then add the set squares' ones.",
+        "en": "Two steps: first the right angles in the squares, {{6 × 4}}; then add the ones in the set squares.",
         "fr": "Deux étapes : d'abord ceux des carrés, {{6 × 4}} ; ensuite, ajoute ceux des équerres.",
         "ar": "خطوتان: أولًا زوايا المربّعات {{6 × 4}}، ثم نضيف زوايا المثلّثات."
       },
@@ -201,7 +201,7 @@
       "inventala": {
         "es": "Inventa tú una de dos pasos con figuras y sus ángulos.",
         "va": "Inventa'n tu una de dos passos amb figures i els seus angles.",
-        "en": "Make up a two-step one with shapes and their angles.",
+        "en": "Make up a two-step problem with shapes and their angles.",
         "fr": "Invente un problème en deux étapes avec des figures et leurs angles.",
         "ar": "لنخترع مسألة من خطوتين عن أشكال وزواياها."
       }
@@ -211,18 +211,18 @@
       "rol": "tema",
       "tipoProblema": "suma-repetida",
       "texto": {
-        "es": "Una vuelta completa sobre ti mismo son 4 ángulos rectos. Si das 3 vueltas, ¿cuántos ángulos rectos has girado?",
-        "va": "Una volta completa sobre tu mateix són 4 angles rectes. Si fas 3 voltes, quants angles rectes has girat?",
+        "es": "Una vuelta completa sin moverte del sitio son 4 ángulos rectos. Si das 3 vueltas, ¿cuántos ángulos rectos has girado?",
+        "va": "Una volta completa sense moure't del lloc són 4 angles rectes. Si fas 3 voltes, quants angles rectes has girat?",
         "en": "A full turn on the spot is 4 right angles. If you do 3 turns, how many right angles have you turned?",
-        "fr": "Un tour complet sur soi-même, c'est 4 angles droits. Si tu fais 3 tours, combien d'angles droits as-tu tourné ?",
+        "fr": "Un tour complet sur soi-même, c'est 4 angles droits. Si tu fais 3 tours, de combien d'angles droits as-tu tourné ?",
         "ar": "الدورة الكاملة حول أنفسنا تساوي 4 زوايا قائمة. إذا دُرنا 3 دورات، فكم زاوية قائمة دُرنا؟"
       },
       "pista": {
-        "es": "Ponte de pie y gira de esquina en esquina de la habitación: cada esquina es un ángulo recto.",
-        "va": "Posa't dret o dreta i gira de cantonada en cantonada de l'habitació: cada cantonada és un angle recte.",
-        "en": "Stand up and turn from corner to corner of the room: each corner is a right angle.",
-        "fr": "Lève-toi et tourne d'un coin à l'autre de la pièce : chaque coin est un angle droit.",
-        "ar": "لنقف وندور من زاوية إلى زاوية في الغرفة: كل زاوية قائمة."
+        "es": "Ponte de pie mirando a una pared y gira hasta mirar la pared de al lado: es un cuarto de vuelta, un ángulo recto.",
+        "va": "Posa't dret o dreta mirant una paret i gira fins a mirar la paret del costat: és un quart de volta, un angle recte.",
+        "en": "Stand facing a wall and turn until you face the next wall: that is a quarter turn, a right angle.",
+        "fr": "Mets-toi face à un mur et tourne jusqu'à faire face au mur voisin : c'est un quart de tour, un angle droit.",
+        "ar": "لنقف مواجهين حائطًا وندور حتى نواجه الحائط المجاور: هذا ربع دورة، أي زاوية قائمة."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -233,7 +233,7 @@
           "es": "Has girado 12 ángulos rectos.",
           "va": "Has girat 12 angles rectes.",
           "en": "You have turned 12 right angles.",
-          "fr": "Tu as tourné 12 angles droits.",
+          "fr": "Tu as tourné de 12 angles droits.",
           "ar": "دُرنا 12 زاوية قائمة."
         }
       },
@@ -254,8 +254,8 @@
         "es": "Para recordar: un álbum tiene sitio para 1000 cromos y ya hemos pegado 365. ¿Cuántos faltan?",
         "va": "Per a recordar: un àlbum té lloc per a 1000 cromos i ja n'hem apegat 365. Quants en falten?",
         "en": "Let's remember: an album has room for 1000 stickers and we have already stuck in 365. How many are missing?",
-        "fr": "Pour se souvenir : un album a de la place pour 1000 images et nous en avons déjà collé 365. Combien en manque-t-il ?",
-        "ar": "لنتذكّر: في ألبوم مكان لـ1000 صورة وألصقنا منها 365. كم صورة بقيت؟"
+        "fr": "Pour se souvenir : un album a de la place pour 1000 vignettes et nous en avons déjà collé 365. Combien en manque-t-il ?",
+        "ar": "لنتذكّر: في ألبوم مكان لـ1000 ملصق وألصقنا منها 365. كم ملصقًا بقي؟"
       },
       "pista": {
         "es": "Abre los ceros: 1000 son 9 centenas, 9 decenas y 10 unidades. O cuenta hacia arriba desde 365.",
@@ -273,8 +273,8 @@
           "es": "Faltan 635 cromos.",
           "va": "En falten 635.",
           "en": "635 stickers are missing.",
-          "fr": "Il manque 635 images.",
-          "ar": "بقيت 635 صورة."
+          "fr": "Il manque 635 vignettes.",
+          "ar": "بقي 635 ملصقًا."
         }
       },
       "inventala": {
@@ -294,14 +294,14 @@
         "va": "Explica'm com saps si un angle és agut, recte o obtús. Ensenya'm un de cada a l'habitació.",
         "en": "Explain to me how you know if an angle is acute, right or obtuse. Show me one of each in the room.",
         "fr": "Explique-moi comment tu sais si un angle est aigu, droit ou obtus. Montre-m'en un de chaque dans la pièce.",
-        "ar": "اشرح لي أو اشرحي لي كيف نعرف إن كانت الزاوية حادّة أم قائمة أم منفرجة. لنُرِ واحدة من كل نوع في الغرفة."
+        "ar": "اشرح لي أو اشرحي لي كيف نعرف إن كانت الزاوية حادّة أم قائمة أم منفرجة. وأرني أو أريني واحدة من كل نوع في الغرفة."
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿Qué esquina de esta habitación es seguro que es recta?»",
         "va": "Si no sap per on començar: «Quina cantonada d'aquesta habitació segur que és recta?»",
         "en": "If they don't know where to start: “Which corner of this room is definitely a right angle?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Quel coin de cette pièce est sûrement droit ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أي زاوية في هذه الغرفة قائمة بالتأكيد؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «أي زاوية في هذه الغرفة قائمة بالتأكيد؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -322,19 +322,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "5aa4c84b745f"
+        "huella": "b13f079a1611"
       },
       "en": {
         "estado": "automatica",
-        "huella": "5aa4c84b745f"
+        "huella": "b13f079a1611"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "5aa4c84b745f"
+        "huella": "b13f079a1611"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "5aa4c84b745f"
+        "huella": "b13f079a1611"
       }
     }
   }

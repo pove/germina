@@ -16,16 +16,16 @@
   "objetivo": {
     "es": "Esta semana se enfrentan a restas como {{1000 − 365}}, en las que arriba hay ceros y se abre un millar, luego una centena y luego una decena. Cuesta, y es normal que cueste.",
     "va": "Aquesta setmana s'enfronten a restes com {{1000 − 365}}, en què dalt hi ha zeros i s'obri un miler (millar), després una centena i després una desena (decena). Costa, i és normal que coste.",
-    "en": "This week they take on subtractions like {{1000 − 365}}, where there are zeros on top and you open a thousand (millar), then a hundred and then a ten (decena). It's hard, and it's normal for it to be hard.",
-    "fr": "Cette semaine, on s'attaque à des soustractions comme {{1000 − 365}}, où il y a des zéros en haut et où l'on ouvre un millier (millar), puis une centaine, puis une dizaine (decena). C'est difficile, et c'est normal que ce soit difficile.",
-    "ar": "هذا الأسبوع يواجه الأطفال عمليات طرح مثل {{1000 − 365}}، فيها أصفار في الأعلى، فنفتح ألفًا (millar) ثم مئة ثم عشرة (decena). هذا صعب، ومن الطبيعي أن يكون صعبًا."
+    "en": "This week they take on subtractions like {{1000 − 365}}, where there are zeros on top and you open a thousand (millar), then a hundred (centena) and then a ten (decena). It's hard, and it's normal for it to be hard.",
+    "fr": "Cette semaine, on s'attaque à des soustractions comme {{1000 − 365}}, où il y a des zéros en haut et où l'on ouvre un millier (millar), puis une centaine (centena), puis une dizaine (decena). C'est difficile, et c'est normal que ce soit difficile.",
+    "ar": "هذا الأسبوع يواجه الأطفال عمليات طرح مثل {{1000 − 365}}، فيها أصفار في الأعلى، فنفتح ألفًا (millar) ثم مئة (centena) ثم عشرة (decena). هذا صعب، ومن الطبيعي أن يكون صعبًا."
   },
   "comoAyudar": {
     "es": "Si se atasca con los ceros, parad y volved a los billetes de papel. Decir «esto cuesta, y está bien que cueste» ayuda más que dar la respuesta.",
     "va": "Si s'encalla amb els zeros, pareu i torneu als bitllets de paper. Dir «açò costa, i està bé que coste» ajuda més que donar la resposta.",
     "en": "If they get stuck on the zeros, stop and go back to the paper notes. Saying “This is hard, and it's fine for it to be hard” helps more than giving the answer.",
     "fr": "S'il ou elle bloque sur les zéros, arrêtez-vous et revenez aux billets en papier. Dire « c'est difficile, et c'est bien que ce soit difficile » aide plus que donner la réponse.",
-    "ar": "إذا حدث توقّف عند الأصفار، توقّفوا وعودوا إلى الأوراق النقدية الورقية. قول «هذا صعب، ولا بأس أن يكون صعبًا» يساعد أكثر من إعطاء الجواب."
+    "ar": "إذا حدث تعثّر عند الأصفار، توقّفوا وعودوا إلى الأوراق النقدية الورقية. قول «هذا صعب، ولا بأس أن يكون صعبًا» يساعد أكثر من إعطاء الجواب."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -55,7 +55,7 @@
       {
         "es": "10 botones o garbanzos que hagan de monedas de 1",
         "va": "10 botons o cigrons que facen de monedes d'1",
-        "en": "10 buttons or chickpeas to be coins of 1",
+        "en": "10 buttons or chickpeas to stand in for coins of 1",
         "fr": "10 boutons ou pois chiches qui font office de pièces de 1",
         "ar": "10 أزرار أو حبات حمّص تكون قطعًا نقدية من 1"
       },
@@ -118,11 +118,11 @@
       "ar": "ابدؤوا بورقة من 100 وادفعوا 37: {{100 − 37}}."
     },
     "masDificil": {
-      "es": "Con dos billetes de 1000 y 5 monedas, pagad 1368: {{2005 − 1368}}.",
-      "va": "Amb dos bitllets de 1000 i 5 monedes, pagueu 1368: {{2005 − 1368}}.",
-      "en": "With two 1000 notes and 5 coins, pay 1368: {{2005 − 1368}}.",
-      "fr": "Avec deux billets de 1000 et 5 pièces, payez 1368 : {{2005 − 1368}}.",
-      "ar": "بورقتين من 1000 و5 قطع، ادفعوا 1368: {{2005 − 1368}}."
+      "es": "Haced otro billete de 1000 y, con los dos y 5 monedas, pagad 1368: {{2005 − 1368}}.",
+      "va": "Feu un altre bitllet de 1000 i, amb els dos i 5 monedes, pagueu 1368: {{2005 − 1368}}.",
+      "en": "Make a second 1000 note and, with both of them and 5 coins, pay 1368: {{2005 − 1368}}.",
+      "fr": "Fabriquez un deuxième billet de 1000 et, avec les deux et 5 pièces, payez 1368 : {{2005 − 1368}}.",
+      "ar": "اصنعوا ورقة أخرى من 1000، وبالورقتين و5 قطع، ادفعوا 1368: {{2005 − 1368}}."
     },
     "paraQueSirve": {
       "es": "Las restas con ceros son de las que más atascan. Verlas con billetes enseña que no hay truco: solo cambios, uno detrás de otro.",
@@ -174,7 +174,7 @@
       "inventala": {
         "es": "Inventa tú una de quitar que empiece con un número redondo, como 500 o 1000.",
         "va": "Inventa'n tu una de llevar que comence amb un nombre rodó, com 500 o 1000.",
-        "en": "Make up a taking-away one that starts with a round number, like 500 or 1000.",
+        "en": "Make up a taking-away problem that starts with a round number, like 500 or 1000.",
         "fr": "Invente un problème où l'on enlève, qui commence par un nombre rond, comme 500 ou 1000.",
         "ar": "لنخترع مسألة أخذ تبدأ بعدد مدوّر، مثل 500 أو 1000."
       }
@@ -334,19 +334,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "637b6f3d4ecd"
+        "huella": "826ac0187b01"
       },
       "en": {
         "estado": "automatica",
-        "huella": "637b6f3d4ecd"
+        "huella": "826ac0187b01"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "637b6f3d4ecd"
+        "huella": "826ac0187b01"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "637b6f3d4ecd"
+        "huella": "826ac0187b01"
       }
     }
   }

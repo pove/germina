@@ -18,7 +18,7 @@
     "va": "Aquesta setmana mesclen problemes de tot el curs, amb nombres naturals i amb decimals, i abans de calcular decidixen quina operació toca i expliquen per què.",
     "en": "This week they mix problems from the whole year, with whole numbers and decimals, and before calculating they decide which operation it is and explain why.",
     "fr": "Cette semaine, on mélange des problèmes de toute l'année, avec des nombres entiers et des décimaux, et avant de calculer on décide quelle opération utiliser et on explique pourquoi.",
-    "ar": "هذا الأسبوع يمزج الأطفال مسائل من السنة كلها، بأعداد طبيعية وعشرية، وقبل الحساب يقرّرون أي عملية نستعمل ويشرحون السبب."
+    "ar": "هذا الأسبوع يمزج الأطفال مسائل من السنة كلها، بأعداد طبيعية وعشرية، وقبل الحساب يقرّرون أي عملية يستعملون ويشرحون السبب."
   },
   "comoAyudar": {
     "es": "Pedid siempre el «por qué» antes de la cuenta: «¿Por qué es de multiplicar?». Si la explicación tiene sentido, la cuenta ya es lo de menos.",
@@ -47,11 +47,11 @@
     },
     "material": [
       {
-        "es": "Papelitos para escribir problemas cortos",
-        "va": "Paperets per a escriure problemes curts",
-        "en": "Slips of paper to write short problems on",
-        "fr": "Des petits papiers pour écrire des problèmes courts",
-        "ar": "قصاصات ورق لكتابة مسائل قصيرة"
+        "es": "Papelitos para escribir los problemas y los cuatro carteles",
+        "va": "Paperets per a escriure els problemes i els quatre cartells",
+        "en": "Slips of paper to write the problems and the four signs on",
+        "fr": "Des petits papiers pour écrire les problèmes et les quatre affichettes",
+        "ar": "قصاصات ورق لكتابة المسائل واللافتات الأربع"
       },
       {
         "es": "Un lápiz",
@@ -136,7 +136,7 @@
         "va": "Compres una samarreta de 12,50 € i uns calcetins de 3,75 €. Quant pagues?",
         "en": "You buy a T-shirt for 12,50 € and socks for 3,75 €. How much do you pay?",
         "fr": "Tu achètes un tee-shirt à 12,50 € et des chaussettes à 3,75 €. Combien paies-tu ?",
-        "ar": "اشترينا قميصًا بـ12,50 يورو وجوارب بـ3,75 يورو. كم ندفع؟"
+        "ar": "نشتري قميصًا بـ12,50 يورو وجوارب بـ3,75 يورو. كم ندفع؟"
       },
       "pista": {
         "es": "¿Se junta, se quita, se repite o se reparte? Piensa en céntimos.",
@@ -297,7 +297,7 @@
         "va": "Si no sap per on començar: «Què passa amb les coses del problema: s'ajunten, es lleven, es repetixen o es repartixen?»",
         "en": "If they don't know where to start: “What happens to the things in the problem: are they put together, taken away, repeated or shared?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Qu'arrive-t-il aux choses du problème : on les réunit, on les enlève, on les répète ou on les partage ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا يحدث لأشياء المسألة: هل تُضمّ أم تُؤخذ أم تتكرّر أم تُوزَّع؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا يحدث لأشياء المسألة: هل تُضمّ أم تُؤخذ أم تتكرّر أم تُوزَّع؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -318,19 +318,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "fdca91b56ac4"
+        "huella": "7b3fba17ad15"
       },
       "en": {
         "estado": "automatica",
-        "huella": "fdca91b56ac4"
+        "huella": "7b3fba17ad15"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "fdca91b56ac4"
+        "huella": "7b3fba17ad15"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "fdca91b56ac4"
+        "huella": "7b3fba17ad15"
       }
     }
   }

@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Planear una excursión con 30 € es sumar precios con céntimos, estimar antes y decidir qué entra y qué no. Los decimales sirven para algo muy real.",
-    "va": "Planificar una excursió amb 30 € és sumar preus amb cèntims, estimar abans i decidir què hi entra i què no. Els decimals serveixen per a una cosa molt real.",
-    "en": "Planning an outing with €30 means adding prices with cents, estimating first and deciding what fits and what doesn't. Decimals are useful for something very real.",
-    "fr": "Préparer une sortie avec 30 €, c'est additionner des prix avec des centimes, estimer d'abord et décider ce qui rentre et ce qui ne rentre pas. Les décimaux servent à quelque chose de très réel.",
-    "ar": "التخطيط لنزهة بـ30 € يعني جمع أسعار فيها سنتات، والتقدير أولًا، وتقرير ما يدخل في الميزانية وما لا يدخل. الأعداد العشرية تنفع في شيء حقيقي جدًا."
+    "va": "Planificar una excursió amb 30 € és sumar preus amb cèntims, estimar abans i decidir què hi entra i què no. Els decimals servixen per a una cosa molt real.",
+    "en": "Planning an outing with 30 € means adding prices with cents, estimating (estimar) first and deciding what fits and what doesn't. Decimals are useful for something very real.",
+    "fr": "Préparer une sortie avec 30 €, c'est additionner des prix avec des centimes, estimer (estimar) d'abord et décider ce qui rentre et ce qui ne rentre pas. Les décimaux servent à quelque chose de très réel.",
+    "ar": "التخطيط لنزهة بـ30 € يعني جمع أسعار فيها سنتات، والتقدير (estimar) أولًا، وتقرير ما يدخل في الميزانية وما لا يدخل. الأعداد العشرية تنفع في شيء حقيقي جدًا."
   },
   "comoAyudar": {
     "es": "Dejad que decida qué entra en el presupuesto aunque no sea lo que vosotros elegiríais. Lo importante es que las cuentas cuadren y que explique sus razones.",
     "va": "Deixeu que decidisca què entra en el pressupost encara que no siga el que vosaltres triaríeu. L'important és que els comptes quadren i que explique les seues raons.",
     "en": "Let them decide what goes in the budget even if it isn't what you would choose. What matters is that the sums add up and that they explain their reasons.",
     "fr": "Laissez-le ou laissez-la décider ce qui entre dans le budget, même si ce n'est pas ce que vous choisiriez. L'important, c'est que les comptes tombent juste et qu'il ou elle explique ses raisons.",
-    "ar": "دعوا الطفل يقرّر ما يدخل في الميزانية حتى لو لم يكن ما تختارونه. المهم أن تصحّ الحسابات وأن يشرح أسبابه."
+    "ar": "دعوا الأطفال يقرّرون ما يدخل في الميزانية حتى لو لم يكن ما تختارونه. المهم أن تصحّ الحسابات وأن يشرحوا أسبابهم."
   },
   "saberes": [
     "matematicas.fracciones.decimales",
@@ -40,7 +40,7 @@
     "titulo": {
       "es": "Excursión con 30 €",
       "va": "Excursió amb 30 €",
-      "en": "An outing with €30",
+      "en": "An outing with 30 €",
       "fr": "Une sortie avec 30 €",
       "ar": "نزهة بـ30 €"
     },
@@ -77,9 +77,9 @@
         "texto": {
           "es": "Escribid cada precio con su coma: 4,50 € el autobús, 7,25 € la entrada… Primero, sumad a ojo redondeando a euros.",
           "va": "Escriviu cada preu amb la seua coma: 4,50 € l'autobús, 7,25 € l'entrada… Primer, sumeu a ull arrodonint a euros.",
-          "en": "Write each price with its comma: €4,50 for the bus, €7,25 for the ticket… First, add roughly, rounding to euros.",
+          "en": "Write each price with its comma: 4,50 € for the bus, 7,25 € for the ticket… First, add roughly, rounding to euros.",
           "fr": "Écrivez chaque prix avec sa virgule : 4,50 € le bus, 7,25 € l'entrée… D'abord, additionnez à vue d'œil en arrondissant à l'euro.",
-          "ar": "اكتبوا كل سعر بفاصلته: 4,50 € للحافلة، 7,25 € للتذكرة… أولًا، اجمعوا تقريبيًا بالتقريب إلى اليورو."
+          "ar": "اكتبوا كل سعر بفاصلته: 4,50 € للحافلة، 7,25 € للتذكرة… أولًا، اجمعوا تقريبيًا بتقريب كل سعر إلى أقرب يورو."
         }
       },
       {
@@ -87,7 +87,7 @@
         "texto": {
           "es": "Ahora sumad con exactitud, euros con euros y céntimos con céntimos. ¿Cabe todo en 30 €? ¿Cuánto sobra?",
           "va": "Ara sumeu amb exactitud, euros amb euros i cèntims amb cèntims. Hi cap tot en 30 €? Quant en sobra?",
-          "en": "Now add exactly, euros with euros and cents with cents. Does it all fit in €30? How much is left?",
+          "en": "Now add exactly, euros with euros and cents with cents. Does it all fit in 30 €? How much is left?",
           "fr": "Maintenant, additionnez exactement, les euros avec les euros et les centimes avec les centimes. Tout rentre-t-il dans 30 € ? Combien reste-t-il ?",
           "ar": "الآن اجمعوا بدقّة، اليوروهات مع اليوروهات والسنتات مع السنتات. هل يدخل كل شيء في 30 €؟ كم يتبقّى؟"
         }
@@ -106,14 +106,14 @@
     "masFacil": {
       "es": "Usad precios redondos o de 50 en 50 céntimos y un presupuesto de 10 €.",
       "va": "Feu servir preus redons o de 50 en 50 cèntims i un pressupost de 10 €.",
-      "en": "Use round prices or prices in steps of 50 cents and a budget of €10.",
+      "en": "Use round prices or prices in steps of 50 cents and a budget of 10 €.",
       "fr": "Utilisez des prix ronds ou de 50 en 50 centimes et un budget de 10 €.",
-      "ar": "استعملوا أسعارًا مدوّرة أو تزيد 50 سنتًا كل مرة، وميزانية 10 €."
+      "ar": "استعملوا أسعارًا بلا سنتات أو تزيد 50 سنتًا كل مرة، وميزانية 10 €."
     },
     "masDificil": {
       "es": "Planead la excursión para 3 personas con 50 €: ¿da para todo?",
       "va": "Planifiqueu l'excursió per a 3 persones amb 50 €: dona per a tot?",
-      "en": "Plan the outing for 3 people with €50: is there enough for everything?",
+      "en": "Plan the outing for 3 people with 50 €: is there enough for everything?",
       "fr": "Préparez la sortie pour 3 personnes avec 50 € : est-ce que ça suffit pour tout ?",
       "ar": "خطّطوا للنزهة لـ3 أشخاص بـ50 €: هل تكفي لكل شيء؟"
     },
@@ -133,7 +133,7 @@
       "texto": {
         "es": "El autobús cuesta 4,50 € y la entrada, 7,25 €. ¿Cuánto cuestan las dos cosas?",
         "va": "L'autobús costa 4,50 € i l'entrada, 7,25 €. Quant costen les dues coses?",
-        "en": "The bus costs €4,50 and the ticket €7,25. How much do both cost?",
+        "en": "The bus costs 4,50 € and the ticket 7,25 €. How much do both cost?",
         "fr": "Le bus coûte 4,50 € et l'entrée, 7,25 €. Combien coûtent les deux ?",
         "ar": "ثمن الحافلة 4,50 € وثمن التذكرة 7,25 €. كم ثمنهما معًا؟"
       },
@@ -152,7 +152,7 @@
         "texto": {
           "es": "Cuestan 11,75 €.",
           "va": "Costen 11,75 €.",
-          "en": "They cost €11,75.",
+          "en": "They cost 11,75 €.",
           "fr": "Ils coûtent 11,75 €.",
           "ar": "ثمنهما 11,75 €."
         }
@@ -172,14 +172,14 @@
       "texto": {
         "es": "Tenemos 30 € y nos gastamos 18,40 €. ¿Cuánto nos sobra?",
         "va": "Tenim 30 € i ens gastem 18,40 €. Quant ens en sobra?",
-        "en": "We have €30 and spend €18,40. How much is left?",
+        "en": "We have 30 € and spend 18,40 €. How much is left?",
         "fr": "Nous avons 30 € et nous dépensons 18,40 €. Combien nous reste-t-il ?",
         "ar": "معنا 30 € وصرفنا 18,40 €. كم يتبقّى لنا؟"
       },
       "pista": {
         "es": "Cuenta hacia arriba: de 18,40 € a 19 € van 60 céntimos, y de 19 € a 30 €…",
         "va": "Compta cap amunt: de 18,40 € a 19 € en van 60 cèntims, i de 19 € a 30 €…",
-        "en": "Count up: from €18,40 to €19 is 60 cents, and from €19 to €30…",
+        "en": "Count up: from 18,40 € to 19 € is 60 cents, and from 19 € to 30 €…",
         "fr": "Compte en avançant : de 18,40 € à 19 €, il y a 60 centimes, et de 19 € à 30 €…",
         "ar": "لنعدّ صعودًا: من 18,40 € إلى 19 € هي 60 سنتًا، ومن 19 € إلى 30 €…"
       },
@@ -191,7 +191,7 @@
         "texto": {
           "es": "Nos sobran 11,60 €.",
           "va": "Ens en sobren 11,60 €.",
-          "en": "We have €11,60 left.",
+          "en": "We have 11,60 € left.",
           "fr": "Il nous reste 11,60 €.",
           "ar": "يتبقّى لنا 11,60 €."
         }
@@ -211,14 +211,14 @@
       "texto": {
         "es": "Compramos 3 bocadillos de 2,20 € cada uno. ¿Cuánto pagamos?",
         "va": "Comprem 3 entrepans de 2,20 € cadascun. Quant paguem?",
-        "en": "We buy 3 sandwiches at €2,20 each. How much do we pay?",
+        "en": "We buy 3 sandwiches at 2,20 € each. How much do we pay?",
         "fr": "Nous achetons 3 sandwichs à 2,20 € chacun. Combien payons-nous ?",
-        "ar": "اشترينا 3 شطائر ثمن كل منها 2,20 €. كم ندفع؟"
+        "ar": "نشتري 3 شطائر ثمن كل منها 2,20 €. كم ندفع؟"
       },
       "pista": {
         "es": "3 veces 2 € son 6 €, y 3 veces 20 céntimos son 60 céntimos.",
         "va": "3 vegades 2 € són 6 €, i 3 vegades 20 cèntims són 60 cèntims.",
-        "en": "3 times €2 is €6, and 3 times 20 cents is 60 cents.",
+        "en": "3 times 2 € is 6 €, and 3 times 20 cents is 60 cents.",
         "fr": "3 fois 2 €, ça fait 6 €, et 3 fois 20 centimes, ça fait 60 centimes.",
         "ar": "3 مرات 2 € تساوي 6 €، و3 مرات 20 سنتًا تساوي 60 سنتًا."
       },
@@ -230,7 +230,7 @@
         "texto": {
           "es": "Pagamos 6,60 €.",
           "va": "Paguem 6,60 €.",
-          "en": "We pay €6,60.",
+          "en": "We pay 6,60 €.",
           "fr": "Nous payons 6,60 €.",
           "ar": "ندفع 6,60 €."
         }
@@ -251,14 +251,14 @@
       "texto": {
         "es": "Para recordar: con un billete de 20 € compramos fruta por 6,35 €. ¿Cuánto nos devuelven?",
         "va": "Per a recordar: amb un bitllet de 20 € comprem fruita per 6,35 €. Quant ens tornen?",
-        "en": "Let's remember: with a €20 note we buy fruit for €6,35. How much change do we get?",
+        "en": "Let's remember: with a 20 € note we buy fruit for 6,35 €. How much change do we get?",
         "fr": "Pour se souvenir : avec un billet de 20 €, nous achetons des fruits pour 6,35 €. Combien nous rend-on ?",
         "ar": "لنتذكّر: بورقة 20 € اشترينا فاكهة بـ6,35 €. كم يُعاد إلينا؟"
       },
       "pista": {
         "es": "De 6,35 € a 7 € van 65 céntimos, y de 7 € a 20 €, 13 €.",
         "va": "De 6,35 € a 7 € en van 65 cèntims, i de 7 € a 20 €, 13 €.",
-        "en": "From €6,35 to €7 is 65 cents, and from €7 to €20 is €13.",
+        "en": "From 6,35 € to 7 € is 65 cents, and from 7 € to 20 € is 13 €.",
         "fr": "De 6,35 € à 7 €, il y a 65 centimes, et de 7 € à 20 €, 13 €.",
         "ar": "من 6,35 € إلى 7 € هي 65 سنتًا، ومن 7 € إلى 20 € هي 13 €."
       },
@@ -270,7 +270,7 @@
         "texto": {
           "es": "Nos devuelven 13,65 €.",
           "va": "Ens tornen 13,65 €.",
-          "en": "We get €13,65 back.",
+          "en": "We get 13,65 € back.",
           "fr": "On nous rend 13,65 €.",
           "ar": "يُعاد إلينا 13,65 €."
         }
@@ -278,7 +278,7 @@
       "inventala": {
         "es": "Inventa tú una con la vuelta de un billete de 50 €.",
         "va": "Inventa'n tu una amb el canvi d'un bitllet de 50 €.",
-        "en": "Make one up with the change from a €50 note.",
+        "en": "Make one up with the change from a 50 € note.",
         "fr": "Invente un problème avec la monnaie d'un billet de 50 €.",
         "ar": "لنخترع مسألة بباقي ورقة 50 €."
       }
@@ -290,16 +290,16 @@
       "texto": {
         "es": "Explícame cómo sabes, antes de sumar, si una lista de precios cabe en 30 €.",
         "va": "Explica'm com saps, abans de sumar, si una llista de preus cap en 30 €.",
-        "en": "Explain to me how you know, before adding, whether a list of prices fits in €30.",
+        "en": "Explain to me how you know, before adding, whether a list of prices fits in 30 €.",
         "fr": "Explique-moi comment tu sais, avant d'additionner, si une liste de prix rentre dans 30 €.",
         "ar": "اشرح لي أو اشرحي لي كيف نعرف، قبل الجمع، إن كانت قائمة أسعار تدخل في 30 €."
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «Si redondeas 7,25 € a 7 € y 4,50 € a 5 €, ¿cuánto llevas?»",
-        "va": "Si no sap per on començar: «Si arrodoneixes 7,25 € a 7 € i 4,50 € a 5 €, quant portes?»",
-        "en": "If they don't know where to start: “If you round €7,25 to €7 and €4,50 to €5, how much is that so far?”",
+        "va": "Si no sap per on començar: «Si arrodonixes 7,25 € a 7 € i 4,50 € a 5 €, quant portes?»",
+        "en": "If they don't know where to start: “If you round 7,25 € to 7 € and 4,50 € to 5 €, how much is that so far?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Si tu arrondis 7,25 € à 7 € et 4,50 € à 5 €, ça fait combien pour l'instant ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا قرّبنا 7,25 € إلى 7 € و4,50 € إلى 5 €، فكم صار المجموع حتى الآن؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا قرّبنا 7,25 € إلى 7 € و4,50 € إلى 5 €، فكم صار المجموع حتى الآن؟»"
       },
       "respuesta": {
         "tipo": "abierta",

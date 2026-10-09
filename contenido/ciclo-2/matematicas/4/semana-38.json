@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana experimentan con dados: antes de tirar, piensan qué resultados pueden salir (el espacio muestral) y cuál saldrá más. Después, tiran muchas veces y comprueban si acertaron.",
-    "va": "Aquesta setmana experimenten amb daus: abans de tirar, pensen quins resultats poden eixir (l'espai mostral) i quin n'eixirà més. Després, tiren moltes vegades i comproven si ho han encertat.",
+    "va": "Aquesta setmana experimenten amb daus: abans de tirar, pensen quins resultats poden eixir (l'espai mostral, espacio muestral) i quin n'eixirà més. Després, tiren moltes vegades i comproven si ho han encertat.",
     "en": "This week they experiment with dice: before rolling, they think about which results could come up (the sample space, espacio muestral) and which will come up most. Then they roll many times and check if they were right.",
     "fr": "Cette semaine, on fait des expériences avec des dés : avant de lancer, on réfléchit aux résultats possibles (l'univers, espacio muestral) et à celui qui sortira le plus. Ensuite, on lance beaucoup de fois et on vérifie.",
     "ar": "هذا الأسبوع يجرّب الأطفال بالنرد: قبل الرمي يفكّرون في النتائج الممكنة (فضاء العيّنة، espacio muestral) وأيّها سيخرج أكثر. ثم يرمون مرات كثيرة ويتحقّقون من توقّعهم."
@@ -24,7 +24,7 @@
     "es": "Predecid vosotros también, y no os preocupéis si falláis: con 30 tiradas pueden salir sorpresas. Lo interesante es hablar de por qué unas sumas salen más que otras.",
     "va": "Predigueu vosaltres també, i no us preocupeu si falleu: amb 30 tirades poden eixir sorpreses. L'interessant és parlar de per què unes sumes ixen més que altres.",
     "en": "Make your own predictions too, and don't worry if you're wrong: with 30 rolls there can be surprises. The interesting part is talking about why some sums come up more than others.",
-    "fr": "Faites vous aussi des prédictions, et ne vous inquiétez pas si vous vous trompez : avec 30 lancers, il peut y avoir des surprises. Ce qui est intéressant, c'est de parler de pourquoi certaines sommes sortent plus que d'autres.",
+    "fr": "Faites vous aussi des prédictions, et ne vous inquiétez pas si vous vous trompez : avec 30 lancers, il peut y avoir des surprises. Ce qui est intéressant, c'est de discuter des raisons pour lesquelles certaines sommes sortent plus souvent que d'autres.",
     "ar": "توقّعوا أنتم أيضًا، ولا تقلقوا إن أخطأتم: مع 30 رمية قد تظهر مفاجآت. والمثير هو الحديث عن سبب خروج بعض المجاميع أكثر من غيرها."
   },
   "saberes": [
@@ -105,7 +105,7 @@
     ],
     "masFacil": {
       "es": "Usad un solo dado y 20 tiradas: ¿sale algún número mucho más que los demás?",
-      "va": "Feu servir un sol dau i 20 tirades: ix algun número molt més que els altres?",
+      "va": "Feu servir un sol dau i 20 tirades: ix algun nombre molt més que els altres?",
       "en": "Use just one die and 20 rolls: does any number come up much more than the others?",
       "fr": "Utilisez un seul dé et 20 lancers : un nombre sort-il beaucoup plus que les autres ?",
       "ar": "استعملوا نردًا واحدًا و20 رمية: هل يخرج عدد أكثر بكثير من غيره؟"
@@ -146,7 +146,7 @@
       },
       "pista": {
         "es": "Para cada número del dado rojo, ¿cuántos puede haber en el azul?",
-        "va": "Per a cada número del dau roig, quants en pot haver en el blau?",
+        "va": "Per a cada nombre del dau roig, quants en pot haver en el blau?",
         "en": "For each number on the red die, how many can there be on the blue one?",
         "fr": "Pour chaque nombre du dé rouge, combien peut-il y en avoir sur le bleu ?",
         "ar": "لكل عدد على النرد الأحمر، كم عددًا يمكن أن يكون على الأزرق؟"
@@ -177,11 +177,11 @@
       "rol": "tema",
       "tipoProblema": "abierta",
       "texto": {
-        "es": "Con dos dados, ¿de cuántas formas puede salir suma 7? Escríbelas todas.",
-        "va": "Amb dos daus, de quantes maneres pot eixir suma 7? Escriu-les totes.",
-        "en": "With two dice, how many ways can you get a sum of 7? Write them all down.",
-        "fr": "Avec deux dés, de combien de façons peut-on obtenir une somme de 7 ? Écris-les toutes.",
-        "ar": "بنردين، بكم طريقة يمكن أن يخرج المجموع 7؟ لنكتبها كلها."
+        "es": "Con un dado rojo y uno azul, ¿de cuántas formas puede salir suma 7? Escríbelas todas.",
+        "va": "Amb un dau roig i un de blau, de quantes maneres pot eixir suma 7? Escriu-les totes.",
+        "en": "With a red die and a blue die, how many ways can you get a sum of 7? Write them all down.",
+        "fr": "Avec un dé rouge et un dé bleu, de combien de façons peut-on obtenir une somme de 7 ? Écris-les toutes.",
+        "ar": "بنرد أحمر وآخر أزرق، بكم طريقة يمكن أن يخرج المجموع 7؟ لنكتبها كلها."
       },
       "pista": {
         "es": "Empieza por el 1 en el primer dado: ¿qué hace falta en el segundo?",
@@ -292,15 +292,15 @@
         "es": "Si tiras una moneda y sale cara 3 veces seguidas, ¿es más fácil que la próxima salga cruz? Explícame qué piensas.",
         "va": "Si tires una moneda i ix cara 3 vegades seguides, és més fàcil que la pròxima isca creu? Explica'm què penses.",
         "en": "If you toss a coin and get heads 3 times in a row, is tails more likely next time? Explain what you think.",
-        "fr": "Si tu lances une pièce et qu'elle tombe sur pile 3 fois de suite, est-il plus facile qu'elle tombe sur face la prochaine fois ? Explique-moi ce que tu penses.",
-        "ar": "إذا رمينا قطعة نقدية وظهر الوجه نفسه 3 مرات متتالية، هل يصبح ظهور الوجه الآخر في المرة التالية أسهل؟ اشرح لي أو اشرحي لي رأيك."
+        "fr": "Si tu lances une pièce et qu'elle tombe sur face 3 fois de suite, est-il plus facile qu'elle tombe sur pile la prochaine fois ? Explique-moi ce que tu penses.",
+        "ar": "إذا رمينا قطعة نقدية وظهرت «الصورة» 3 مرات متتالية، هل يصبح ظهور «الكتابة» في المرة التالية أسهل؟ اشرح لي أو اشرحي لي رأيك."
       },
       "pista": {
         "es": "Si no sabe qué decir: «¿La moneda se acuerda de lo que salió antes?»",
         "va": "Si no sap què dir: «La moneda se'n recorda del que va eixir abans?»",
         "en": "If they don't know what to say: “Does the coin remember what came up before?”",
         "fr": "S'il ou elle ne sait pas quoi dire : « Est-ce que la pièce se souvient de ce qui est sorti avant ? »",
-        "ar": "إن لم تكن هناك فكرة، اسألوا: «هل تتذكّر القطعة النقدية ما خرج من قبل؟»"
+        "ar": "إذا لم تحضر الكلمات، اسألوا: «هل تتذكّر القطعة النقدية ما خرج من قبل؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -321,19 +321,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "fbbba37da8f5"
+        "huella": "71815bec9a68"
       },
       "en": {
         "estado": "automatica",
-        "huella": "fbbba37da8f5"
+        "huella": "71815bec9a68"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "fbbba37da8f5"
+        "huella": "71815bec9a68"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "fbbba37da8f5"
+        "huella": "71815bec9a68"
       }
     }
   }

@@ -15,10 +15,10 @@
   },
   "objetivo": {
     "es": "Esta semana suman con llevada números de cuatro y cinco cifras, pero antes estiman: redondean y calculan a ojo para saber más o menos qué va a salir.",
-    "va": "Aquesta setmana sumen amb llevada (llevada) nombres de quatre i cinc xifres, però abans estimen (estimar): arrodonixen i calculen a ull per a saber més o menys què eixirà.",
-    "en": "This week they add four- and five-digit numbers with carrying (llevada), but first they estimate (estimar): they round and work it out roughly to know more or less what the answer will be.",
-    "fr": "Cette semaine, on additionne avec retenue (llevada) des nombres à quatre et cinq chiffres, mais d'abord on estime (estimar) : on arrondit et on calcule à vue d'œil pour savoir à peu près ce qui va sortir.",
-    "ar": "هذا الأسبوع يجمع الأطفال مع الاحتفاظ (llevada) أعدادًا من أربعة وخمسة أرقام، لكنهم يقدّرون (estimar) أولًا: يقرّبون ويحسبون تقريبيًا ليعرفوا النتيجة على وجه التقريب."
+    "va": "Aquesta setmana sumen amb llevada nombres de quatre i cinc xifres, però abans estimen (estimar): arrodonixen (redondear) i calculen a ull per a saber més o menys què eixirà.",
+    "en": "This week they add four- and five-digit numbers with carrying (llevada), but first they estimate (estimar): they round (redondear) and work it out roughly to know more or less what the answer will be.",
+    "fr": "Cette semaine, on additionne avec retenue (llevada) des nombres à quatre et cinq chiffres, mais d'abord on estime (estimar) : on arrondit (redondear) et on calcule à vue d'œil pour savoir à peu près ce qui va sortir.",
+    "ar": "هذا الأسبوع يجمع الأطفال مع الاحتفاظ (llevada) أعدادًا من أربعة وخمسة أرقام، لكنهم يقدّرون (estimar) أولًا: يقرّبون (redondear) ويحسبون حسابًا سريعًا ليعرفوا النتيجة تقريبًا."
   },
   "comoAyudar": {
     "es": "Antes de cada suma, preguntad «¿más o menos cuánto saldrá?». Si después el resultado queda lejos, no digáis nada sobre él: preguntad «¿de cuál de los dos te fías más?».",
@@ -153,7 +153,7 @@
           "va": "Hi van 1623 persones, molt a prop de 1600.",
           "en": "There are 1623 people, very close to 1600.",
           "fr": "Il y a 1623 personnes, très près de 1600.",
-          "ar": "فيه 1623 شخصًا، قريب جدًا من 1600."
+          "ar": "فيه 1623 شخصًا، وهذا قريب جدًا من 1600."
         }
       },
       "inventala": {
@@ -208,30 +208,30 @@
       "rol": "tema",
       "tipoProblema": "combinar",
       "texto": {
-        "es": "Un colegio recoge 3608 tapones en otoño y 2715 en invierno. Quería llegar a 6000. ¿Lo consigue? ¿Cuántos recoge?",
-        "va": "Un col·legi arreplega 3608 taps a la tardor i 2715 a l'hivern. Volia arribar a 6000. Ho aconseguix? Quants n'arreplega?",
-        "en": "A school collects 3608 bottle tops in autumn and 2715 in winter. It wanted to reach 6000. Does it make it? How many does it collect?",
-        "fr": "Une école récupère 3608 bouchons en automne et 2715 en hiver. Elle voulait arriver à 6000. Y arrive-t-elle ? Combien en récupère-t-elle ?",
-        "ar": "جمعت مدرسة 3608 أغطية قوارير في الخريف و2715 في الشتاء. كانت تريد الوصول إلى 6000. هل وصلت؟ كم غطاء جمعت؟"
+        "es": "Un colegio recoge 13 608 tapones en otoño y 12 715 en invierno. Quería llegar a 25 000. ¿Lo consigue? ¿Cuántos recoge?",
+        "va": "Un col·legi arreplega 13 608 taps a la tardor i 12 715 a l'hivern. Volia arribar a 25 000. Ho aconseguix? Quants n'arreplega?",
+        "en": "A school collects 13 608 bottle tops in autumn and 12 715 in winter. It wanted to reach 25 000. Does it make it? How many does it collect?",
+        "fr": "Une école récupère 13 608 bouchons en automne et 12 715 en hiver. Elle voulait arriver à 25 000. Y arrive-t-elle ? Combien en récupère-t-elle ?",
+        "ar": "جمعت مدرسة 13 608 أغطية قوارير في الخريف و12 715 في الشتاء. كانت تريد الوصول إلى 25 000. هل وصلت؟ كم غطاء جمعت؟"
       },
       "pista": {
-        "es": "A ojo: 3600 y 2700 son 6300. Ya sabes que pasa de 6000; ahora calcula exacto.",
-        "va": "A ull: 3600 i 2700 són 6300. Ja saps que passa de 6000; ara calcula-ho exacte.",
-        "en": "Roughly: 3600 and 2700 make 6300. You already know it's over 6000; now work it out exactly.",
-        "fr": "À vue d'œil : 3600 et 2700 font 6300. Tu sais déjà que ça dépasse 6000 ; maintenant, calcule exactement.",
-        "ar": "تقديريًا: 3600 و2700 تساوي 6300. نعرف الآن أنها تتجاوز 6000؛ لنحسبها بالضبط."
+        "es": "A ojo: 13 600 y 12 700 son 26 300. Ya sabes que pasa de 25 000; ahora calcula exacto.",
+        "va": "A ull: 13 600 i 12 700 són 26 300. Ja saps que passa de 25 000; ara calcula-ho exacte.",
+        "en": "Roughly: 13 600 and 12 700 make 26 300. You already know it's over 25 000; now work it out exactly.",
+        "fr": "À vue d'œil : 13 600 et 12 700 font 26 300. Tu sais déjà que ça dépasse 25 000 ; maintenant, calcule exactement.",
+        "ar": "تقديريًا: 13 600 و12 700 تساوي 26 300. نعرف الآن أنها تتجاوز 25 000؛ لنحسبها بالضبط."
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "3608 + 2715",
-        "resultado": 6323,
+        "operacion": "13608 + 12715",
+        "resultado": 26323,
         "unidad": "unidades",
         "texto": {
-          "es": "Sí, lo consigue y se pasa: recoge 6323 tapones.",
-          "va": "Sí, ho aconseguix i se'n passa: n'arreplega 6323.",
-          "en": "Yes, it makes it and goes over: it collects 6323 bottle tops.",
-          "fr": "Oui, elle y arrive et dépasse : elle récupère 6323 bouchons.",
-          "ar": "نعم، وصلت وتجاوزت: جمعت 6323 غطاءً."
+          "es": "Sí, lo consigue y se pasa: recoge 26 323 tapones.",
+          "va": "Sí, ho aconseguix i se'n passa: n'arreplega 26 323.",
+          "en": "Yes, it makes it and goes over: it collects 26 323 bottle tops.",
+          "fr": "Oui, elle y arrive et dépasse : elle récupère 26 323 bouchons.",
+          "ar": "نعم، وصلت وتجاوزت: جمعت 26 323 غطاءً."
         }
       },
       "inventala": {
@@ -288,7 +288,7 @@
       "tipoProblema": "abierta",
       "texto": {
         "es": "¿Para qué sirve calcular a ojo antes de hacer una suma? Explícamelo con un ejemplo.",
-        "va": "Per a què serveix calcular a ull abans de fer una suma? Explica-m'ho amb un exemple.",
+        "va": "Per a què servix calcular a ull abans de fer una suma? Explica-m'ho amb un exemple.",
         "en": "What's the point of estimating before doing an addition? Explain it to me with an example.",
         "fr": "À quoi sert de calculer à vue d'œil avant de faire une addition ? Explique-le-moi avec un exemple.",
         "ar": "ما فائدة التقدير قبل عملية الجمع؟ اشرح لي أو اشرحي لي بمثال."
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "6b5276fa0057"
+        "huella": "23b388b9c786"
       },
       "en": {
         "estado": "automatica",
-        "huella": "6b5276fa0057"
+        "huella": "23b388b9c786"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "6b5276fa0057"
+        "huella": "23b388b9c786"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "6b5276fa0057"
+        "huella": "23b388b9c786"
       }
     }
   }

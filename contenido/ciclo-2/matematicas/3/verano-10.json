@@ -8,7 +8,7 @@
   "tipo": "verano",
   "titulo": {
     "es": "Historias con números",
-    "va": "Històries amb números",
+    "va": "Històries amb nombres",
     "en": "Stories with numbers",
     "fr": "Des histoires avec des nombres",
     "ar": "قصص بالأعداد"
@@ -66,7 +66,7 @@
         "pictograma": "ticket",
         "texto": {
           "es": "Elegid una excursión, un viaje o un día especial del verano. Buscad números en él: kilómetros, precios, horas, personas, helados…",
-          "va": "Trieu una excursió, un viatge o un dia especial de l'estiu. Busqueu-hi números: quilòmetres, preus, hores, persones, gelats…",
+          "va": "Trieu una excursió, un viatge o un dia especial de l'estiu. Busqueu-hi nombres: quilòmetres, preus, hores, persones, gelats…",
           "en": "Choose an outing, a trip or a special summer day. Look for numbers in it: kilometres, prices, times, people, ice creams…",
           "fr": "Choisissez une sortie, un voyage ou un jour spécial de l'été. Cherchez-y des nombres : kilomètres, prix, heures, personnes, glaces…",
           "ar": "اختاروا نزهة أو رحلة أو يومًا مميّزًا من الصيف. ابحثوا فيه عن أعداد: كيلومترات، أسعار، ساعات، أشخاص، مثلّجات…"
@@ -77,7 +77,7 @@
         "texto": {
           "es": "Escribid una historia corta con dos datos y una pregunta: «Fuimos 5 al río y cada persona llevó 2 bocadillos. ¿Cuántos bocadillos llevamos?».",
           "va": "Escriviu una història curta amb dues dades i una pregunta: «Vam anar 5 al riu i cada persona va portar 2 entrepans. Quants entrepans vam portar?».",
-          "en": "Write a short story with two facts and a question: “5 of us went to the river and each person brought 2 sandwiches. How many sandwiches did we bring?”.",
+          "en": "Write a short story with two facts and a question: “5 of us went to the river and each person brought 2 sandwiches. How many sandwiches did we bring?”",
           "fr": "Écrivez une courte histoire avec deux données et une question : « Nous sommes allés à 5 à la rivière et chaque personne a apporté 2 sandwichs. Combien de sandwichs avons-nous apportés ? ».",
           "ar": "اكتبوا قصة قصيرة فيها معطيان وسؤال: «ذهبنا 5 أشخاص إلى النهر وأحضر كل شخص شطيرتين. كم شطيرة أحضرنا؟»."
         }
@@ -105,7 +105,7 @@
     ],
     "masFacil": {
       "es": "Inventad la historia de palabra, sin escribir, con números pequeños.",
-      "va": "Inventeu la història de paraula, sense escriure, amb números menuts.",
+      "va": "Inventeu la història de paraula, sense escriure, amb nombres menuts.",
       "en": "Make up the story out loud, without writing, with small numbers.",
       "fr": "Inventez l'histoire à l'oral, sans écrire, avec de petits nombres.",
       "ar": "اخترعوا القصة شفهيًا، دون كتابة، بأعداد صغيرة."
@@ -121,7 +121,7 @@
       "es": "Quien inventa problemas entiende mejor los que lee: sabe qué es un dato, qué es la pregunta y qué operación encaja.",
       "va": "Qui inventa problemes entén millor els que llig: sap què és una dada, què és la pregunta i quina operació hi encaixa.",
       "en": "Someone who makes up word problems understands the ones they read better: they know what a fact is, what the question is and which operation fits.",
-      "fr": "Qui invente des problèmes comprend mieux ceux qu'il lit : on sait ce qu'est une donnée, ce qu'est la question et quelle opération convient.",
+      "fr": "Inventer des problèmes aide à mieux comprendre ceux qu'on lit : on sait ce qu'est une donnée, ce qu'est la question et quelle opération convient.",
       "ar": "من يخترع المسائل يفهم أفضل ما يقرؤه منها: يعرف ما المعطى، وما السؤال، وأي عملية تناسب."
     }
   },
@@ -142,7 +142,7 @@
         "va": "Són 5 grups de 2: compta de 2 en 2 o pensa en la taula del 2.",
         "en": "It is 5 groups of 2: count in twos or think of the 2 times table.",
         "fr": "Ce sont 5 groupes de 2 : compte de 2 en 2 ou pense à la table de 2.",
-        "ar": "إنها 5 مجموعات من 2: لنعدّ 2 بـ2 أو نفكّر في جدول 2."
+        "ar": "إنها 5 مجموعات من 2: لنعدّ 2 بـ2 أو نفكّر في جدول ضرب 2."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -174,7 +174,7 @@
         "va": "En el viatge vam parar als 45 quilòmetres i després en vam fer 38 més. Quants quilòmetres vam recórrer?",
         "en": "On the trip we stopped after 45 kilometres and then drove 38 more. How many kilometres did we travel?",
         "fr": "Pendant le voyage, nous nous sommes arrêtés après 45 kilomètres, puis nous en avons fait 38 de plus. Combien de kilomètres avons-nous parcourus ?",
-        "ar": "في الرحلة توقّفنا بعد 45 كيلومترًا ثم قطعنا 38 أخرى. كم كيلومترًا قطعنا؟"
+        "ar": "في الرحلة توقّفنا بعد 45 كيلومترًا ثم قطعنا 38 كيلومترًا أخرى. كم كيلومترًا قطعنا؟"
       },
       "pista": {
         "es": "Suma las decenas (40 y 30) y luego las unidades (5 y 8).",
@@ -211,14 +211,14 @@
       "texto": {
         "es": "Este problema tiene un dato que sobra: «Mi tía tiene 34 años y compra 3 entradas de 6 €. ¿Cuánto paga?». ¿Cuál sobra? ¿Cuánto paga?",
         "va": "Aquest problema té una dada que sobra: «La meua tia té 34 anys i compra 3 entrades de 6 €. Quant paga?». Quina sobra? Quant paga?",
-        "en": "This word problem has an extra fact: “My aunt is 34 and buys 3 tickets at €6 each. How much does she pay?”. Which fact is extra? How much does she pay?",
+        "en": "This word problem has an extra fact: “My aunt is 34 and buys 3 tickets at 6 € each. How much does she pay?” Which fact is extra? How much does she pay?",
         "fr": "Ce problème a une donnée en trop : « Ma tante a 34 ans et achète 3 billets à 6 €. Combien paie-t-elle ? ». Laquelle est en trop ? Combien paie-t-elle ?",
-        "ar": "في هذه المسألة معطى زائد: «عمر خالتي 34 سنة، واشترت 3 تذاكر ثمن كل منها 6 €. كم دفعت؟». ما المعطى الزائد؟ وكم دفعت؟"
+        "ar": "في هذه المسألة معطى زائد: «عمر خالتي 34 سنة، واشترت 3 تذاكر ثمن كل منها 6 يورو. كم دفعت؟». ما المعطى الزائد؟ وكم دفعت؟"
       },
       "pista": {
         "es": "Lee la pregunta primero: ¿qué números necesitas para contestarla?",
-        "va": "Llig la pregunta primer: quins números necessites per a contestar-la?",
-        "en": "Read the question first: which numbers do you use to answer it?",
+        "va": "Llig la pregunta primer: quins nombres necessites per a contestar-la?",
+        "en": "Read the question first: which numbers do you need for the answer?",
         "fr": "Lis d'abord la question : de quels nombres as-tu besoin pour y répondre ?",
         "ar": "لنقرأ السؤال أولًا: أي أعداد نحتاج إليها للإجابة؟"
       },
@@ -226,10 +226,10 @@
         "tipo": "abierta",
         "orientacion": {
           "es": "Sobra la edad de la tía. Paga 18 €: {{3 × 6 = 18}}. Si lo descubre leyendo la pregunta primero, es una gran pista para otros problemas.",
-          "va": "Sobra l'edat de la tia. Paga 18 €: {{3 × 6 = 18}}. Si ho descobreix llegint la pregunta primer, és una gran pista per a altres problemes.",
-          "en": "The aunt's age is extra. She pays €18: {{3 × 6 = 18}}. If they find it by reading the question first, that's a great clue for other problems.",
+          "va": "Sobra l'edat de la tia. Paga 18 €: {{3 × 6 = 18}}. Si ho descobrix llegint la pregunta primer, és una gran pista per a altres problemes.",
+          "en": "The aunt's age is extra. She pays 18 €: {{3 × 6 = 18}}. If they find it by reading the question first, that's a great clue for other problems.",
           "fr": "L'âge de la tante est en trop. Elle paie 18 € : {{3 × 6 = 18}}. Le découvrir en lisant d'abord la question est un excellent indice pour d'autres problèmes.",
-          "ar": "عمر الخالة زائد. دفعت 18 €: {{3 × 6 = 18}}. واكتشاف ذلك بقراءة السؤال أولًا مفتاح جيد لمسائل أخرى."
+          "ar": "عمر الخالة زائد. دفعت 18 يورو: {{3 × 6 = 18}}. واكتشاف ذلك بقراءة السؤال أولًا مفتاح جيد لمسائل أخرى."
         }
       },
       "inventala": {
@@ -249,7 +249,7 @@
         "es": "Para recordar: llevamos 3 paquetes de 6 zumos a la excursión y nos bebemos 10. ¿Cuántos quedan?",
         "va": "Per a recordar: portem 3 paquets de 6 sucs a l'excursió i ens en bevem 10. Quants en queden?",
         "en": "Let's remember: we take 3 packs of 6 juice cartons on the outing and drink 10. How many are left?",
-        "fr": "Pour se souvenir : nous emportons 3 paquets de 6 jus en sortie et nous en buvons 10. Combien en reste-t-il ?",
+        "fr": "Pour se souvenir : nous emportons 3 paquets de 6 jus pour la sortie et nous en buvons 10. Combien en reste-t-il ?",
         "ar": "لنتذكّر: أخذنا إلى النزهة 3 علب في كل منها 6 عصائر وشربنا 10. كم بقي؟"
       },
       "pista": {
@@ -275,7 +275,7 @@
       "inventala": {
         "es": "Inventa tú uno de dos pasos con algo que se compra en paquetes.",
         "va": "Inventa'n tu un de dos passos amb alguna cosa que es compra en paquets.",
-        "en": "Make up a two-step one with something that comes in packs.",
+        "en": "Make up a two-step problem with something that comes in packs.",
         "fr": "Invente un problème en deux étapes avec quelque chose qui s'achète en paquets.",
         "ar": "لنخترع مسألة من خطوتين عن شيء يُشترى في علب."
       }
@@ -296,7 +296,7 @@
         "va": "Si no sap per on començar: «Què vam fer aquell dia? Què podríem comptar?»",
         "en": "If they don't know where to start: “What did we do that day? What could we count?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce qu'on a fait ce jour-là ? Qu'est-ce qu'on pourrait compter ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا فعلنا في ذلك اليوم؟ ماذا يمكن أن نعدّ؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا فعلنا في ذلك اليوم؟ ماذا يمكن أن نعدّ؟»"
       },
       "respuesta": {
         "tipo": "abierta",

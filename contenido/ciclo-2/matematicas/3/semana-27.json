@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana conocen los polígonos: formas planas y cerradas con lados rectos. Cuentan sus lados y sus vértices (las esquinas) y miden su perímetro, que es lo que mide el borde.",
-    "va": "Aquesta setmana coneixen els polígons (polígonos): formes planes i tancades amb costats rectes. Compten els seus costats i els seus vèrtexs (les cantonades) i mesuren el seu perímetre (perímetro), que és el que mesura la vora.",
-    "en": "This week they get to know polygons (polígonos): flat, closed shapes with straight sides. They count their sides and vertices (the corners) and measure their perimeter (perímetro), which is the length of the edge.",
-    "fr": "Cette semaine, on découvre les polygones (polígonos) : des formes planes et fermées aux côtés droits. On compte leurs côtés et leurs sommets (les coins) et on mesure leur périmètre (perímetro), c'est-à-dire la longueur du bord.",
-    "ar": "هذا الأسبوع يتعرّف الأطفال إلى المضلّعات (polígonos): أشكال مستوية ومغلقة أضلاعها مستقيمة. يعدّون أضلاعها ورؤوسها (الزوايا) ويقيسون محيطها (perímetro)، أي طول حافتها."
+    "va": "Aquesta setmana coneixen els polígons (polígonos): formes planes i tancades amb costats rectes. Compten els seus costats i els seus vèrtexs (les cantonades, vértices) i mesuren el seu perímetre (perímetro), que és el que mesura la vora.",
+    "en": "This week they get to know polygons (polígonos): flat, closed shapes with straight sides. They count their sides and vertices (the corners, vértices) and measure their perimeter (perímetro), which is the length of the edge.",
+    "fr": "Cette semaine, on découvre les polygones (polígonos) : des formes planes et fermées aux côtés droits. On compte leurs côtés et leurs sommets (les coins, vértices) et on mesure leur périmètre (perímetro), c'est-à-dire la longueur du bord.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى المضلّعات (polígonos): أشكال مستوية ومغلقة أضلاعها مستقيمة. يعدّون أضلاعها ورؤوسها (الزوايا، vértices) ويقيسون محيطها (perímetro)، أي طول حافتها."
   },
   "comoAyudar": {
     "es": "Salid de caza por casa sin prisa. Si señala un círculo como polígono, no digáis que no: preguntad «¿tiene lados rectos?» y dejad que lo descubra.",
     "va": "Eixiu de caça per casa sense pressa. Si assenyala un cercle com a polígon, no digueu que no: pregunteu «té costats rectes?» i deixeu que ho descobrisca.",
     "en": "Go hunting around the house without rushing. If they point to a circle as a polygon, don't say no: ask “Does it have straight sides?” and let them find out.",
     "fr": "Partez à la chasse dans la maison sans vous presser. Si un cercle est montré comme polygone, ne dites pas non : demandez « Il a des côtés droits ? » et laissez découvrir.",
-    "ar": "انطلقوا في صيد الأشكال في البيت دون عجلة. وإذا أشار الطفل إلى دائرة على أنها مضلّع، لا تقولوا لا: اسألوا «هل لها أضلاع مستقيمة؟» واتركوه يكتشف."
+    "ar": "انطلقوا في صيد الأشكال في البيت دون عجلة. وإذا أشار الأطفال إلى دائرة على أنها مضلّع، لا تقولوا لا: اسألوا «هل لها أضلاع مستقيمة؟» واتركوهم يكتشفون."
   },
   "saberes": [
     "matematicas.geometria.vertices-lados",
@@ -93,11 +93,11 @@
       {
         "pictograma": "cuerda",
         "texto": {
-          "es": "Rodead el borde de una mesa con una cuerda, marcad con los dedos dónde se junta y estiradla en el suelo. Ese largo es el perímetro de la mesa.",
-          "va": "Envolteu la vora d'una taula amb una corda, marqueu amb els dits on s'ajunta i estireu-la en el terra. Eixa llargària és el perímetre de la taula.",
-          "en": "Wrap a piece of string around the edge of a table, mark with your fingers where it meets and stretch it out on the floor. That length is the table's perimeter.",
-          "fr": "Faites le tour du bord d'une table avec une ficelle, marquez avec les doigts l'endroit où elle se rejoint et étirez-la par terre. Cette longueur, c'est le périmètre de la table.",
-          "ar": "لفّوا حبلًا حول حافة طاولة، وحدّدوا بأصابعكم مكان التقائه، ثم مدّوه على الأرض. ذلك الطول هو محيط الطاولة."
+          "es": "Rodead el borde de una mesa de lados rectos con una cuerda, marcad con los dedos dónde se junta y estiradla en el suelo. Ese largo es el perímetro de la mesa.",
+          "va": "Envolteu la vora d'una taula de costats rectes amb una corda, marqueu amb els dits on s'ajunta i estireu-la en el terra. Eixa llargària és el perímetre de la taula.",
+          "en": "Wrap a piece of string around the edge of a table with straight sides, mark with your fingers where it meets and stretch it out on the floor. That length is the table's perimeter.",
+          "fr": "Faites le tour du bord d'une table aux côtés droits avec une ficelle, marquez avec les doigts l'endroit où elle se rejoint et étirez-la par terre. Cette longueur, c'est le périmètre de la table.",
+          "ar": "لفّوا حبلًا حول حافة طاولة أضلاعها مستقيمة، وحدّدوا بأصابعكم مكان التقائه، ثم مدّوه على الأرض. ذلك الطول هو محيط الطاولة."
         }
       },
       {
@@ -286,7 +286,7 @@
       "inventala": {
         "es": "Inventa tú uno de dos pasos con fruta de la cocina.",
         "va": "Inventa'n tu un de dos passos amb fruita de la cuina.",
-        "en": "Make up a two-step one with fruit from the kitchen.",
+        "en": "Make up a two-step problem with fruit from the kitchen.",
         "fr": "Invente un problème en deux étapes avec des fruits de la cuisine.",
         "ar": "لنخترع مسألة من خطوتين بفاكهة من المطبخ."
       }
@@ -307,7 +307,7 @@
         "va": "Si no sap per on començar: «Aquesta finestra és un polígon? I el plat? En què es diferencien?»",
         "en": "If they don't know where to start: “Is this window a polygon? And the plate? How are they different?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Cette fenêtre est-elle un polygone ? Et l'assiette ? En quoi sont-elles différentes ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «هل هذه النافذة مضلّع؟ والصحن؟ بماذا يختلفان؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل هذه النافذة مضلّع؟ والصحن؟ بماذا يختلفان؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -328,19 +328,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "4ec56037758c"
+        "huella": "a94bd8f1ef06"
       },
       "en": {
         "estado": "automatica",
-        "huella": "4ec56037758c"
+        "huella": "a94bd8f1ef06"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "4ec56037758c"
+        "huella": "a94bd8f1ef06"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "4ec56037758c"
+        "huella": "a94bd8f1ef06"
       }
     }
   }

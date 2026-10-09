@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana descubren que la resta sirve para tres cosas: quitar, comparar (¿cuánto más tiene uno que otro?) y saber cuánto falta. Usan números sin llevada para centrarse en la idea.",
-    "va": "Aquesta setmana descobreixen que la resta serveix per a tres coses: llevar, comparar (quant més en té un que un altre?) i saber quant en falta. Usen nombres sense llevada (llevada) per a centrar-se en la idea.",
+    "va": "Aquesta setmana descobrixen que la resta servix per a tres coses: llevar, comparar (quant més en té un que un altre?) i saber quant en falta. Usen nombres sense llevada per a centrar-se en la idea.",
     "en": "This week they discover that subtraction (resta) is used for three things: taking away, comparing (how many more does one have than another?) and finding how many are missing. They use numbers without regrouping (llevada) to focus on the idea.",
     "fr": "Cette semaine, on découvre que la soustraction (resta) sert à trois choses : enlever, comparer (combien de plus a l'un que l'autre ?) et savoir combien il manque. On utilise des nombres sans retenue (llevada) pour se concentrer sur l'idée.",
     "ar": "هذا الأسبوع يكتشف الأطفال أن الطرح (resta) يُستعمل لثلاثة أشياء: الأخذ، والمقارنة (كم يزيد هذا على ذاك؟)، ومعرفة كم ينقص. يستعملون أعدادًا من غير استلاف (llevada) للتركيز على الفكرة."
@@ -44,11 +44,11 @@
     },
     "material": [
       {
-        "es": "Unas 40 pinzas de la ropa o piezas de construcción",
-        "va": "Unes 40 pinces de la roba o peces de construcció",
-        "en": "About 40 clothes pegs or building bricks",
-        "fr": "Environ 40 pinces à linge ou pièces de construction",
-        "ar": "نحو 40 ملقط غسيل أو قطعة بناء"
+        "es": "Unas 50 pinzas de la ropa o piezas de construcción",
+        "va": "Unes 50 pinces de la roba o peces de construcció",
+        "en": "About 50 clothes pegs or building bricks",
+        "fr": "Environ 50 pinces à linge ou pièces de construction",
+        "ar": "نحو 50 ملقط غسيل أو قطعة بناء"
       },
       {
         "es": "Una caja de cartón (si usáis pinzas)",
@@ -93,7 +93,7 @@
           "es": "Ahora id poniendo piezas en la torre pequeña hasta que sea igual que la grande. ¿Cuántas habéis puesto? Esto es «¿cuánto falta?»: {{12 + 11 = 23}}.",
           "va": "Ara aneu posant peces en la torre menuda fins que siga igual que la gran. Quantes n'heu posat? Això és «quant en falta?»: {{12 + 11 = 23}}.",
           "en": "Now add bricks to the small tower until it is as tall as the big one. How many did you add? This is “how many are missing?”: {{12 + 11 = 23}}.",
-          "fr": "Maintenant, ajoutez des pièces à la petite tour jusqu'à ce qu'elle soit comme la grande. Combien en avez-vous mis ? Ça, c'est « combien il manque ? » : {{12 + 11 = 23}}.",
+          "fr": "Maintenant, ajoutez des pièces à la petite tour jusqu'à ce qu'elle soit aussi haute que la grande. Combien en avez-vous mis ? Ça, c'est « combien il manque ? » : {{12 + 11 = 23}}.",
           "ar": "الآن أضيفوا قطعًا إلى البرج الصغير حتى يصير مثل الكبير. كم قطعة أضفتم؟ هذا هو «كم ينقص؟»: {{12 + 11 = 23}}."
         }
       },
@@ -113,7 +113,7 @@
       "va": "Feu servir torres de menys de 10 peces i no escrigueu res: només digueu-ho en veu alta.",
       "en": "Use towers of fewer than 10 bricks and don't write anything: just say it out loud.",
       "fr": "Utilisez des tours de moins de 10 pièces et n'écrivez rien : dites-le seulement à voix haute.",
-      "ar": "استعملوا أبراجًا من أقل من 10 قطع ولا تكتبوا شيئًا: قولوه بصوت عالٍ فقط."
+      "ar": "استعملوا أبراجًا فيها أقل من 10 قطع ولا تكتبوا شيئًا: قولوه بصوت عالٍ فقط."
     },
     "masDificil": {
       "es": "Una persona hace dos torres en secreto y dice solo cuántas tiene cada una. La otra adivina la diferencia y después la comprueba juntando las torres.",
@@ -125,7 +125,7 @@
     "paraQueSirve": {
       "es": "Muchos atascos con los problemas vienen de no saber qué operación usar. Ver con las manos las tres caras de la resta ayuda a reconocerla.",
       "va": "Molts embussos amb els problemes vénen de no saber quina operació usar. Veure amb les mans les tres cares de la resta ajuda a reconéixer-la.",
-      "en": "Many problems get stuck because it isn't clear which operation to use. Seeing the three faces of subtraction with your hands helps recognise it.",
+      "en": "Getting stuck on problems often comes from not knowing which operation to use. Seeing the three faces of subtraction with your hands helps recognise it.",
       "fr": "Beaucoup de blocages dans les problèmes viennent de ne pas savoir quelle opération utiliser. Voir avec les mains les trois visages de la soustraction aide à la reconnaître.",
       "ar": "كثير من التوقّف في المسائل سببه عدم معرفة العملية المناسبة. رؤية الوجوه الثلاثة للطرح باليدين تساعد على التعرّف عليه."
     },
@@ -172,7 +172,7 @@
       "inventala": {
         "es": "Inventa tú una de quitar con algo de la cocina.",
         "va": "Inventa'n tu una de llevar amb alguna cosa de la cuina.",
-        "en": "Make up a taking-away one with something from the kitchen.",
+        "en": "Make up a taking-away problem with something from the kitchen.",
         "fr": "Invente un problème où l'on enlève quelque chose de la cuisine.",
         "ar": "لنخترع مسألة أخذ بشيء من المطبخ."
       }
@@ -224,8 +224,8 @@
         "es": "Para completar el álbum hacen falta 48 cromos y Marc tiene 35. ¿Cuántos le faltan?",
         "va": "Per a completar l'àlbum fan falta 48 cromos i el Marc en té 35. Quants li'n falten?",
         "en": "The album needs 48 cards to be full and Marc has 35. How many is he missing?",
-        "fr": "Pour remplir l'album, on a besoin de 48 images et Marc en a 35. Combien lui en manque-t-il ?",
-        "ar": "يحتاج الألبوم إلى 48 بطاقة ليكتمل، وعند مارك 35. كم بطاقة تنقصه؟"
+        "fr": "Pour remplir l'album, on a besoin de 48 vignettes et Marc en a 35. Combien lui en manque-t-il ?",
+        "ar": "يحتاج الألبوم إلى 48 ملصقًا ليكتمل، وعند مارك 35. كم ملصقًا ينقصه؟"
       },
       "pista": {
         "es": "Cuenta desde 35: hasta 45 van 10, y hasta 48, 3 más.",
@@ -244,7 +244,7 @@
           "va": "Li'n falten 13.",
           "en": "He is missing 13 cards.",
           "fr": "Il lui en manque 13.",
-          "ar": "تنقصه 13 بطاقة."
+          "ar": "ينقصه 13 ملصقًا."
         }
       },
       "inventala": {
@@ -320,7 +320,7 @@
           "va": "Una bona idea és que en llevar hi ha una sola torre que es fa menuda, i en comparar hi ha dues torres que no es toquen. Si ho diu amb les seues paraules, perfecte.",
           "en": "A good idea is that when you take away there is one tower that gets smaller, and when you compare there are two towers that stay the same. If they say it in their own words, perfect.",
           "fr": "Une bonne idée : quand on enlève, il y a une seule tour qui rapetisse, et quand on compare, il y a deux tours qu'on ne touche pas. S'il ou elle le dit avec ses mots, parfait.",
-          "ar": "فكرة جيدة: عند الأخذ هناك برج واحد يصغر، وعند المقارنة هناك برجان لا نلمسهما. إذا قيلت بكلمات الطفل أو الطفلة، فهذا رائع."
+          "ar": "فكرة جيدة: عند الأخذ هناك برج واحد يصغر، وعند المقارنة هناك برجان لا نلمسهما. إذا قيلت بكلمات الأطفال، فهذا رائع."
         }
       }
     }
@@ -332,19 +332,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "348fa2daeddb"
+        "huella": "159ba18731d6"
       },
       "en": {
         "estado": "automatica",
-        "huella": "348fa2daeddb"
+        "huella": "159ba18731d6"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "348fa2daeddb"
+        "huella": "159ba18731d6"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "348fa2daeddb"
+        "huella": "159ba18731d6"
       }
     }
   }

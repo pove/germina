@@ -15,17 +15,17 @@
   },
   "objetivo": {
     "es": "Esta semana buscan todas las formas de combinar cosas, como camisetas y pantalones, dibujándolas con orden para no dejarse ninguna. Así descubren que también se pueden contar con una multiplicación.",
-    "va": "Aquesta setmana busquen totes les maneres de combinar coses, com ara samarretes i pantalons, dibuixant-les amb ordre per no deixar-se'n cap. Així descobreixen que també es poden comptar amb una multiplicació.",
+    "va": "Aquesta setmana busquen totes les maneres de combinar coses, com ara samarretes i pantalons, dibuixant-les amb ordre per no deixar-se'n cap. Així descobrixen que també es poden comptar amb una multiplicació.",
     "en": "This week they look for all the ways to combine things, like T-shirts and trousers, drawing them in order so as not to miss any. That's how they discover they can also be counted with a multiplication.",
     "fr": "Cette semaine, on cherche toutes les façons de combiner des choses, comme des tee-shirts et des pantalons, en les dessinant avec ordre pour n'en oublier aucune. On découvre ainsi qu'on peut aussi les compter avec une multiplication.",
     "ar": "هذا الأسبوع يبحث الأطفال عن كل طرق الجمع بين الأشياء، مثل القمصان والسراويل، ويرسمونها بترتيب حتى لا ينسوا أيًّا منها. وهكذا يكتشفون أنه يمكن عدّها أيضًا بعملية ضرب."
   },
   "comoAyudar": {
     "es": "Dejad que pruebe a su manera aunque se deje alguna combinación. Después, preguntad: «¿Cómo sabes que están todas?». Ordenarlas es lo más importante.",
-    "va": "Deixeu que ho provi a la seua manera encara que es deixe alguna combinació. Després, pregunteu: «Com saps que hi són totes?». Ordenar-les és el més important.",
+    "va": "Deixeu que ho prove a la seua manera encara que es deixe alguna combinació. Després, pregunteu: «Com saps que hi són totes?». Ordenar-les és el més important.",
     "en": "Let them try their own way, even if they miss a combination. Then ask: “How do you know you've got them all?” Putting them in order is what matters most.",
     "fr": "Laissez essayer à sa façon, même si une combinaison est oubliée. Ensuite, demandez : « Comment sais-tu qu'elles y sont toutes ? » Les mettre en ordre, c'est le plus important.",
-    "ar": "اتركوا الطفل يجرّب على طريقته حتى لو نسي تركيبة. ثم اسألوا: «كيف نعرف أنها كلها هنا؟». ترتيبها هو الأهم."
+    "ar": "اتركوا الأطفال يجرّبون على طريقتهم حتى لو نسوا تركيبة. ثم اسألوا: «كيف نعرف أنها كلها هنا؟». ترتيبها هو الأهم."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente"
@@ -87,7 +87,7 @@
           "va": "Compteu els entrepans diferents seguint les fletxes: de barra amb formatge, de barra amb tomaca… Quants n'ixen?",
           "en": "Count the different sandwiches by following the arrows: baguette with cheese, baguette with tomato… How many are there?",
           "fr": "Comptez les sandwichs différents en suivant les flèches : baguette au fromage, baguette à la tomate… Combien y en a-t-il ?",
-          "ar": "عدّوا الشطائر المختلفة باتّباع الأسهم: خبز طويل بالجبن، خبز طويل بالطماطم… كم شطيرة تخرج؟"
+          "ar": "عدّوا الشطائر المختلفة باتّباع الأسهم: خبز طويل بالجبن، خبز طويل بالطماطم… كم شطيرة نحصل عليها؟"
         }
       },
       {
@@ -97,7 +97,7 @@
           "va": "N'ixen 6: cada pa va amb 2 farcits, i hi ha 3 pans. És {{3 × 2 = 6}}. Quants n'eixirien amb un tercer farcit?",
           "en": "There are 6: each bread goes with 2 fillings, and there are 3 breads. That's {{3 × 2 = 6}}. How many would there be with a third filling?",
           "fr": "Il y en a 6 : chaque pain va avec 2 garnitures, et il y a 3 pains. C'est {{3 × 2 = 6}}. Combien y en aurait-il avec une troisième garniture ?",
-          "ar": "تخرج 6: كل نوع خبز مع حشوتين، وهناك 3 أنواع. أي {{3 × 2 = 6}}. كم شطيرة تخرج لو أضفنا حشوة ثالثة؟"
+          "ar": "نحصل على 6: كل نوع خبز مع حشوتين، وهناك 3 أنواع. أي {{3 × 2 = 6}}. كم شطيرة نحصل عليها لو أضفنا حشوة ثالثة؟"
         }
       }
     ],
@@ -113,7 +113,7 @@
       "va": "Afegiu una beguda, aigua o suc: quants berenars diferents ixen ara amb pa, farcit i beguda?",
       "en": "Add a drink, water or juice: how many different snacks are there now with bread, filling and drink?",
       "fr": "Ajoutez une boisson, eau ou jus : combien de goûters différents y a-t-il maintenant avec pain, garniture et boisson ?",
-      "ar": "أضيفوا مشروبًا، ماءً أو عصيرًا: كم وجبة خفيفة مختلفة تخرج الآن بالخبز والحشوة والمشروب؟"
+      "ar": "أضيفوا مشروبًا، ماءً أو عصيرًا: كم وجبة خفيفة مختلفة نحصل عليها الآن بالخبز والحشوة والمشروب؟"
     },
     "paraQueSirve": {
       "es": "Contar con orden, sin dejarse nada ni repetir, es una forma de pensar que sirve para muchos problemas. Y descubrir que una multiplicación lo cuenta todo de golpe es una sorpresa muy bonita.",
@@ -137,7 +137,7 @@
       },
       "pista": {
         "es": "Dibuja las 2 camisetas y une cada una con los 3 pantalones.",
-        "va": "Dibuixa les 2 samarretes i uneix cadascuna amb els 3 pantalons.",
+        "va": "Dibuixa les 2 samarretes i unix cadascuna amb els 3 pantalons.",
         "en": "Draw the 2 T-shirts and join each one to the 3 pairs of trousers.",
         "fr": "Dessine les 2 tee-shirts et relie chacun aux 3 pantalons.",
         "ar": "لنرسم القميصين ونصل كل واحد منهما بالسراويل الثلاثة."
@@ -276,9 +276,9 @@
       "inventala": {
         "es": "Inventa tú una de la tabla del 6 y resuélvela con la del 3.",
         "va": "Inventa'n tu una de la taula del 6 i resol-la amb la del 3.",
-        "en": "Make up a 6 times table one and work it out with the 3 times table.",
+        "en": "Make up one from the 6 times table and work it out with the 3 times table.",
         "fr": "Invente un problème de la table de 6 et trouve la réponse avec celle de 3.",
-        "ar": "لنخترع مسألة من جدول 6 ونحلّها بجدول 3."
+        "ar": "لنخترع مسألة من جدول ضرب 6 ونحلّها بجدول ضرب 3."
       }
     },
     {
@@ -297,7 +297,7 @@
         "va": "Si no sap per on començar: «Per on vas començar amb els entrepans? Què vas fer per no repetir?»",
         "en": "If they don't know where to start: “Where did you start with the sandwiches? What did you do so as not to repeat any?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Par où as-tu commencé avec les sandwichs ? Qu'as-tu fait pour ne pas répéter ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «من أين بدأنا مع الشطائر؟ وماذا فعلنا حتى لا نكرّر؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «من أين بدأنا مع الشطائر؟ وماذا فعلنا حتى لا نكرّر؟»"
       },
       "respuesta": {
         "tipo": "abierta",

@@ -11,21 +11,21 @@
     "va": "Per 10, 100 i 1000 amb decimals",
     "en": "Times 10, 100 and 1000 with decimals",
     "fr": "Fois 10, 100 et 1000 avec des décimaux",
-    "ar": "في 10 و100 و1000 مع الأعداد العشرية"
+    "ar": "الضرب في 10 و100 و1000 مع الأعداد العشرية"
   },
   "objetivo": {
     "es": "Esta semana conocen las milésimas y cambian de unidad multiplicando o dividiendo por 10, 100 y 1000: 0,250 kg son 250 g, porque {{0,250 × 1000 = 250}}. Las cifras se mueven de casilla y la coma se queda quieta.",
-    "va": "Aquesta setmana coneixen les mil·lèsimes i canvien d'unitat multiplicant o dividint per 10, 100 i 1000: 0,250 kg són 250 g, perquè {{0,250 × 1000 = 250}}. Les xifres es mouen de casella i la coma es queda quieta.",
-    "en": "This week they meet thousandths and change units by multiplying or dividing by 10, 100 and 1000: 0,250 kg is 250 g, because {{0,250 × 1000 = 250}}. The digits move columns and the comma stays still.",
-    "fr": "Cette semaine, on découvre les millièmes et on change d'unité en multipliant ou en divisant par 10, 100 et 1000 : 0,250 kg font 250 g, parce que {{0,250 × 1000 = 250}}. Les chiffres changent de case et la virgule reste en place.",
-    "ar": "هذا الأسبوع يتعرّف الأطفال إلى الأجزاء من ألف، ويغيّرون الوحدات بالضرب أو القسمة على 10 و100 و1000: 0,250 كغ تساوي 250 غ، لأن {{0,250 × 1000 = 250}}. الأرقام تنتقل من خانة إلى أخرى والفاصلة تبقى مكانها."
+    "va": "Aquesta setmana coneixen les mil·lèsimes (milésimas) i canvien d'unitat multiplicant o dividint per 10, 100 i 1000: 0,250 kg són 250 g, perquè {{0,250 × 1000 = 250}}. Les xifres es mouen de casella i la coma es queda quieta.",
+    "en": "This week they meet thousandths (milésimas) and change units by multiplying or dividing by 10, 100 and 1000: 0,250 kg is 250 g, because {{0,250 × 1000 = 250}}. The digits move to other boxes and the comma stays still.",
+    "fr": "Cette semaine, on découvre les millièmes (milésimas) et on change d'unité en multipliant ou en divisant par 10, 100 et 1000 : 0,250 kg font 250 g, parce que {{0,250 × 1000 = 250}}. Les chiffres changent de case et la virgule reste en place.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى الأجزاء من ألف (milésimas)، ويغيّرون الوحدات بالضرب أو القسمة على 10 و100 و1000: 0,250 كغ تساوي 250 غ، لأن {{0,250 × 1000 = 250}}. الأرقام تنتقل من خانة إلى أخرى والفاصلة تبقى مكانها."
   },
   "comoAyudar": {
     "es": "Usad la máquina de las cifras de la semana 30, ahora con una casilla para la coma. Si duda, preguntad: «¿La unidad nueva es más grande o más pequeña? Entonces, ¿saldrá un número mayor o menor?».",
-    "va": "Feu servir la màquina de les xifres de la setmana 30, ara amb una casella per a la coma. Si dubta, pregunteu: «La unitat nova és més gran o més menuda? Aleshores, eixirà un número major o menor?».",
+    "va": "Feu servir la màquina de les xifres de la setmana 30, ara amb una casella per a la coma. Si dubta, pregunteu: «La unitat nova és més gran o més menuda? Aleshores, eixirà un nombre major o menor?».",
     "en": "Use the digit machine from week 30, now with a box for the comma. If they're unsure, ask: “Is the new unit bigger or smaller? So will the number be bigger or smaller?”",
     "fr": "Utilisez la machine à chiffres de la semaine 30, maintenant avec une case pour la virgule. En cas de doute, demandez : « La nouvelle unité est-elle plus grande ou plus petite ? Alors, le nombre sera-t-il plus grand ou plus petit ? ».",
-    "ar": "استعملوا آلة الأرقام من الأسبوع 30، والآن مع خانة للفاصلة. وإذا تردّد الطفل، اسألوا: «هل الوحدة الجديدة أكبر أم أصغر؟ إذن هل سيكون العدد أكبر أم أصغر؟»."
+    "ar": "استعملوا آلة الأرقام من الأسبوع 30، والآن مع خانة للفاصلة. وإذا تردّد الأطفال، اسألوا: «هل الوحدة الجديدة أكبر أم أصغر؟ إذن هل سيكون العدد أكبر أم أصغر؟»."
   },
   "saberes": [
     "matematicas.fracciones.por-10-100-1000",
@@ -69,27 +69,27 @@
           "va": "Busqueu etiquetes amb pesos o capacitats escrits amb coma, com ara 0,250 kg o 1,5 l. Apunteu-ne tres o quatre.",
           "en": "Find labels with weights or capacities written with a comma, like 0,250 kg or 1,5 l. Write down three or four.",
           "fr": "Cherchez des étiquettes avec des poids ou des contenances écrits avec une virgule, comme 0,250 kg ou 1,5 l. Notez-en trois ou quatre.",
-          "ar": "ابحثوا عن ملصقات عليها أوزان أو سعات مكتوبة بفاصلة، مثل 0,250 كغ أو 1,5 ل. دوّنوا ثلاثة أو أربعة منها."
+          "ar": "ابحثوا عن ملصقات عليها أوزان أو سعات مكتوبة بفاصلة، مثل 0,250 كغ أو 1,5 لتر. دوّنوا ثلاثة أو أربعة منها."
         }
       },
       {
         "pictograma": "papel",
         "texto": {
-          "es": "Dibujad una tabla con casillas: unidades, coma, décimas, centésimas y milésimas. Colocad 0,250 kg: el 0 en las unidades, el 2 en las décimas, el 5 en las centésimas y el 0 en las milésimas.",
-          "va": "Dibuixeu una taula amb caselles: unitats, coma, dècimes, centèsimes i mil·lèsimes. Col·loqueu 0,250 kg: el 0 en les unitats, el 2 en les dècimes, el 5 en les centèsimes i el 0 en les mil·lèsimes.",
-          "en": "Draw a table with boxes: ones, comma, tenths, hundredths and thousandths. Place 0,250 kg: the 0 in the ones, the 2 in the tenths, the 5 in the hundredths and the 0 in the thousandths.",
-          "fr": "Dessinez un tableau avec des cases : unités, virgule, dixièmes, centièmes et millièmes. Placez 0,250 kg : le 0 dans les unités, le 2 dans les dixièmes, le 5 dans les centièmes et le 0 dans les millièmes.",
-          "ar": "ارسموا جدولًا بخانات: الآحاد، والفاصلة، والأعشار، والأجزاء من مئة، والأجزاء من ألف. ضعوا 0,250 كغ: 0 في الآحاد، و2 في الأعشار، و5 في الأجزاء من مئة، و0 في الأجزاء من ألف."
+          "es": "Dibujad una tabla con casillas: millares, centenas, decenas, unidades, coma, décimas, centésimas y milésimas. Colocad 0,250 kg: el 0 en las unidades, el 2 en las décimas, el 5 en las centésimas y el 0 en las milésimas.",
+          "va": "Dibuixeu una taula amb caselles: milers, centenes, desenes, unitats, coma, dècimes, centèsimes i mil·lèsimes. Col·loqueu 0,250 kg: el 0 en les unitats, el 2 en les dècimes, el 5 en les centèsimes i el 0 en les mil·lèsimes.",
+          "en": "Draw a table with boxes: thousands, hundreds, tens, ones, comma, tenths, hundredths and thousandths. Place 0,250 kg: the 0 in the ones, the 2 in the tenths, the 5 in the hundredths and the 0 in the thousandths.",
+          "fr": "Dessinez un tableau avec des cases : milliers, centaines, dizaines, unités, virgule, dixièmes, centièmes et millièmes. Placez 0,250 kg : le 0 dans les unités, le 2 dans les dixièmes, le 5 dans les centièmes et le 0 dans les millièmes.",
+          "ar": "ارسموا جدولًا بخانات: الآلاف، والمئات، والعشرات، والآحاد، والفاصلة، والأعشار، والأجزاء من مئة، والأجزاء من ألف. ضعوا 0,250 كغ: 0 في الآحاد، و2 في الأعشار، و5 في الأجزاء من مئة، و0 في الأجزاء من ألف."
         }
       },
       {
         "pictograma": "manos",
         "texto": {
-          "es": "Para pasar a gramos, multiplicad por 1000: cada cifra se mueve tres casillas hacia la izquierda de la coma. Sale 250 g.",
-          "va": "Per a passar a grams, multipliqueu per 1000: cada xifra es mou tres caselles cap a l'esquerra de la coma. Ix 250 g.",
-          "en": "To change to grams, multiply by 1000: each digit moves three boxes to the left of the comma. You get 250 g.",
-          "fr": "Pour passer en grammes, multipliez par 1000 : chaque chiffre se déplace de trois cases vers la gauche de la virgule. On obtient 250 g.",
-          "ar": "للتحويل إلى غرامات، اضربوا في 1000: ينتقل كل رقم ثلاث خانات إلى يسار الفاصلة. فنحصل على 250 غ."
+          "es": "Para pasar a gramos, multiplicad por 1000: cada cifra se mueve tres casillas hacia la izquierda y la coma se queda quieta. Sale 250 g.",
+          "va": "Per a passar a grams, multipliqueu per 1000: cada xifra es mou tres caselles cap a l'esquerra i la coma es queda quieta. Ix 250 g.",
+          "en": "To change to grams, multiply by 1000: each digit moves three boxes to the left and the comma stays still. You get 250 g.",
+          "fr": "Pour passer en grammes, multipliez par 1000 : chaque chiffre se déplace de trois cases vers la gauche et la virgule reste en place. On obtient 250 g.",
+          "ar": "للتحويل إلى غرامات، اضربوا في 1000: ينتقل كل رقم ثلاث خانات إلى اليسار والفاصلة تبقى مكانها. فنحصل على 250 غ."
         }
       },
       {
@@ -99,7 +99,7 @@
           "va": "Feu el mateix amb les altres etiquetes. I al revés: 1500 ml, quants litres són? Dividiu entre 1000: 1,5 l.",
           "en": "Do the same with the other labels. And the other way round: 1500 ml, how many litres is that? Divide by 1000: 1,5 l.",
           "fr": "Faites pareil avec les autres étiquettes. Et à l'envers : 1500 ml, combien de litres ça fait ? Divisez par 1000 : 1,5 l.",
-          "ar": "افعلوا الشيء نفسه مع الملصقات الأخرى. وبالعكس: 1500 مل، كم لترًا هذا؟ اقسموا على 1000: 1,5 ل."
+          "ar": "افعلوا الشيء نفسه مع الملصقات الأخرى. وبالعكس: 1500 مل، كم لترًا هذا؟ اقسموا على 1000: 1,5 لتر."
         }
       }
     ],
@@ -170,38 +170,38 @@
       "rol": "tema",
       "tipoProblema": "medida",
       "texto": {
-        "es": "Una botella tiene 1,5 l de agua. ¿Cuántos mililitros son?",
-        "va": "Una botella té 1,5 l d'aigua. Quants mil·lilitres són?",
-        "en": "A bottle holds 1,5 l of water. How many millilitres is that?",
-        "fr": "Une bouteille contient 1,5 l d'eau. Combien de millilitres cela fait-il ?",
-        "ar": "في زجاجة 1,5 ل من الماء. كم مليلترًا هذا؟"
+        "es": "Un lápiz mide 14,5 cm. ¿Cuántos milímetros son?",
+        "va": "Un llapis mesura 14,5 cm. Quants mil·límetres són?",
+        "en": "A pencil is 14,5 cm long. How many millimetres is that?",
+        "fr": "Un crayon mesure 14,5 cm. Combien de millimètres cela fait-il ?",
+        "ar": "طول قلم رصاص 14,5 سم. كم مليمترًا هذا؟"
       },
       "pista": {
-        "es": "Un litro son 1000 ml, y medio litro, 500 ml.",
-        "va": "Un litre són 1000 ml, i mig litre, 500 ml.",
-        "en": "A litre is 1000 ml, and half a litre, 500 ml.",
-        "fr": "Un litre, c'est 1000 ml, et un demi-litre, 500 ml.",
-        "ar": "اللتر 1000 مل، ونصف اللتر 500 مل."
+        "es": "Un centímetro son 10 mm: multiplica por 10.",
+        "va": "Un centímetre són 10 mm: multiplica per 10.",
+        "en": "A centimetre is 10 mm: multiply by 10.",
+        "fr": "Un centimètre, c'est 10 mm : multiplie par 10.",
+        "ar": "السنتيمتر 10 مم: لنضرب في 10."
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "1000 + 500",
-        "resultado": 1500,
-        "unidad": "ml",
+        "operacion": "140 + 5",
+        "resultado": 145,
+        "unidad": "mm",
         "texto": {
-          "es": "Son 1500 ml: {{1,5 × 1000 = 1500}}.",
-          "va": "Són 1500 ml: {{1,5 × 1000 = 1500}}.",
-          "en": "It's 1500 ml: {{1,5 × 1000 = 1500}}.",
-          "fr": "Ça fait 1500 ml : {{1,5 × 1000 = 1500}}.",
-          "ar": "إنها 1500 مل: {{1,5 × 1000 = 1500}}."
+          "es": "Son 145 mm: {{14,5 × 10 = 145}}. Las cifras se mueven una casilla.",
+          "va": "Són 145 mm: {{14,5 × 10 = 145}}. Les xifres es mouen una casella.",
+          "en": "It's 145 mm: {{14,5 × 10 = 145}}. The digits move one box.",
+          "fr": "Ça fait 145 mm : {{14,5 × 10 = 145}}. Les chiffres se déplacent d'une case.",
+          "ar": "إنها 145 مم: {{14,5 × 10 = 145}}. تنتقل الأرقام خانة واحدة."
         }
       },
       "inventala": {
-        "es": "Inventa tú una de pasar litros a mililitros con una botella de casa.",
-        "va": "Inventa'n tu una de passar litres a mil·lilitres amb una botella de casa.",
-        "en": "Make one up about changing litres to millilitres with a bottle from home.",
-        "fr": "Invente un problème où l'on passe des litres aux millilitres avec une bouteille de la maison.",
-        "ar": "لنخترع مسألة نحوّل فيها اللترات إلى مليلترات بزجاجة من البيت."
+        "es": "Inventa tú una de pasar centímetros a milímetros con algo de tu estuche.",
+        "va": "Inventa'n tu una de passar centímetres a mil·límetres amb alguna cosa del teu estoig.",
+        "en": "Make one up about changing centimetres to millimetres with something from your pencil case.",
+        "fr": "Invente un problème où l'on passe des centimètres aux millimètres avec un objet de ta trousse.",
+        "ar": "لنخترع مسألة نحوّل فيها السنتيمترات إلى مليمترات بشيء من مقلمتنا."
       }
     },
     {
@@ -295,18 +295,18 @@
         "ar": "ماذا يحدث للأرقام عندما نحوّل الكيلوغرامات إلى غرامات؟ اشرح لي أو اشرحي لي بملصق."
       },
       "pista": {
-        "es": "Si no sabe por dónde empezar: «Si un paquete pesa 0,5 kg, ¿pesa más o menos de 1000 g? ¿Cuántos gramos crees?»",
-        "va": "Si no sap per on començar: «Si un paquet pesa 0,5 kg, pesa més o menys de 1000 g? Quants grams creus?»",
-        "en": "If they don't know where to start: “If a packet weighs 0,5 kg, is it more or less than 1000 g? How many grams do you think?”",
-        "fr": "S'il ou elle ne sait pas par où commencer : « Si un paquet pèse 0,5 kg, pèse-t-il plus ou moins de 1000 g ? Combien de grammes à ton avis ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «إذا كان وزن علبة 0,5 كغ، فهل هو أكثر من 1000 غ أم أقل؟ وكم غرامًا نظنّ؟»"
+        "es": "Si no sabe por dónde empezar: «Si un paquete pesa 0,5 kg, ¿pesa más o menos de 1 kg? Y 1 kg son 1000 g: ¿cuántos gramos crees?»",
+        "va": "Si no sap per on començar: «Si un paquet pesa 0,5 kg, pesa més o menys d'1 kg? I 1 kg són 1000 g: quants grams creus?»",
+        "en": "If they don't know where to start: “If a packet weighs 0,5 kg, is it more or less than 1 kg? And 1 kg is 1000 g: how many grams do you think?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si un paquet pèse 0,5 kg, pèse-t-il plus ou moins de 1 kg ? Et 1 kg, c'est 1000 g : combien de grammes à ton avis ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كان وزن علبة 0,5 كغ، فهل هو أكثر من 1 كغ أم أقل؟ و1 كغ تساوي 1000 غ: فكم غرامًا نظنّ؟»"
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
           "es": "Lo que buscáis es «las cifras se mueven tres casillas porque un kilo son 1000 gramos». Si lo explica con el ejemplo y sin la regla, también vale.",
           "va": "El que busqueu és «les xifres es mouen tres caselles perquè un quilo són 1000 grams». Si ho explica amb l'exemple i sense la regla, també val.",
-          "en": "What you're looking for is “the digits move three columns because a kilo is 1000 grams”. If they explain it with the example and without the rule, that's fine too.",
+          "en": "What you're looking for is “the digits move three boxes because a kilo is 1000 grams”. If they explain it with the example and without the rule, that's fine too.",
           "fr": "Ce que vous cherchez, c'est « les chiffres se déplacent de trois cases parce qu'un kilo fait 1000 grammes ». Si l'explication passe par l'exemple sans la règle, ça va aussi.",
           "ar": "ما تبحثون عنه هو «تنتقل الأرقام ثلاث خانات لأن الكيلو 1000 غرام». وإن شُرح بالمثال دون القاعدة، فهذا يصلح أيضًا."
         }
@@ -320,19 +320,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "da3e81f8fde4"
+        "huella": "651eb5960333"
       },
       "en": {
         "estado": "automatica",
-        "huella": "da3e81f8fde4"
+        "huella": "651eb5960333"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "da3e81f8fde4"
+        "huella": "651eb5960333"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "da3e81f8fde4"
+        "huella": "651eb5960333"
       }
     }
   }

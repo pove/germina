@@ -22,7 +22,7 @@
   },
   "comoAyudar": {
     "es": "Cuando una división se resista, preguntad «¿qué número por 4 da 12?». Así las tablas que ya saben les ayudan a dividir.",
-    "va": "Quan una divisió es resistisca, pregunteu «quin número per 4 dona 12?». Així les taules que ja saben els ajuden a dividir.",
+    "va": "Quan una divisió es resistisca, pregunteu «quin nombre per 4 dona 12?». Així les taules que ja saben els ajuden a dividir.",
     "en": "When a division is tricky, ask “What number times 4 makes 12?” That way the times tables they already know help them divide.",
     "fr": "Quand une division résiste, demandez « Quel nombre fois 4 donne 12 ? ». Comme ça, les tables déjà connues aident à diviser.",
     "ar": "عندما تستعصي قسمة، اسألوا «أي عدد في 4 يعطي 12؟». هكذا تساعد جداول الضرب المعروفة على القسمة."
@@ -79,7 +79,7 @@
           "va": "Quants paquets ixen? N'ixen 3. Escriviu la divisió: {{12 : 4 = 3}}.",
           "en": "How many packs do you get? You get 3. Write the division: {{12 : 4 = 3}}.",
           "fr": "Combien de paquets obtenez-vous ? 3. Écrivez la division : {{12 : 4 = 3}}.",
-          "ar": "كم رزمة تخرج؟ تخرج 3. اكتبوا القسمة: {{12 : 4 = 3}}."
+          "ar": "كم رزمة نصنع؟ نصنع 3. اكتبوا القسمة: {{12 : 4 = 3}}."
         }
       },
       {
@@ -96,7 +96,7 @@
         "pictograma": "conversacion",
         "texto": {
           "es": "El número escondido: una persona dice «algo por 4 son 20» y la otra adivina qué número se esconde. Después, cambiad los papeles.",
-          "va": "El número amagat: una persona diu «alguna cosa per 4 són 20» i l'altra endevina quin número s'amaga. Després, canvieu els papers.",
+          "va": "El nombre amagat: una persona diu «alguna cosa per 4 són 20» i l'altra endevina quin nombre s'amaga. Després, canvieu els papers.",
           "en": "The hidden number: one person says “something times 4 is 20” and the other guesses the hidden number. Then swap roles.",
           "fr": "Le nombre caché : une personne dit « quelque chose fois 4 font 20 » et l'autre devine le nombre caché. Ensuite, échangez les rôles.",
           "ar": "العدد المخفيّ: يقول شخص «عدد ما في 4 يساوي 20» ويخمّن الآخر العدد المخفيّ. ثم تبادلوا الأدوار."
@@ -108,18 +108,18 @@
       "va": "Feu parells de calcetins: quants parells ixen amb 10 calcetins?",
       "en": "Make pairs of socks: how many pairs can you make with 10 socks?",
       "fr": "Faites des paires de chaussettes : combien de paires obtient-on avec 10 chaussettes ?",
-      "ar": "اصنعوا أزواجًا من الجوارب: كم زوجًا يخرج من 10 جوارب؟"
+      "ar": "اصنعوا أزواجًا من الجوارب: كم زوجًا نصنع من 10 جوارب؟"
     },
     "masDificil": {
       "es": "Con 15 pinzas, haced paquetes de 4. ¿Cuántos salen y cuántas sobran? Escribidlo así: {{3 × 4 + 3 = 15}}.",
       "va": "Amb 15 pinces, feu paquets de 4. Quants n'ixen i quantes en sobren? Escriviu-ho així: {{3 × 4 + 3 = 15}}.",
       "en": "With 15 pegs, make packs of 4. How many do you get and how many are left over? Write it like this: {{3 × 4 + 3 = 15}}.",
       "fr": "Avec 15 pinces, faites des paquets de 4. Combien en obtenez-vous et combien en reste-t-il ? Écrivez-le comme ça : {{3 × 4 + 3 = 15}}.",
-      "ar": "بـ15 ملقطًا، اصنعوا رزمًا من 4. كم رزمة تخرج وكم ملقطًا يبقى؟ اكتبوها هكذا: {{3 × 4 + 3 = 15}}."
+      "ar": "بـ15 ملقطًا، اصنعوا رزمًا من 4. كم رزمة نصنع وكم ملقطًا يبقى؟ اكتبوها هكذا: {{3 × 4 + 3 = 15}}."
     },
     "paraQueSirve": {
       "es": "Ver que dividir es preguntar «¿cuántas veces cabe?» une la división con las tablas que ya saben. Y el número escondido es el comienzo de las ecuaciones, jugando.",
-      "va": "Veure que dividir és preguntar «quantes vegades hi cap?» unix la divisió amb les taules que ja saben. I el número amagat és el començament de les equacions, jugant.",
+      "va": "Veure que dividir és preguntar «quantes vegades hi cap?» unix la divisió amb les taules que ja saben. I el nombre amagat és el començament de les equacions, jugant.",
       "en": "Seeing that dividing means asking “how many times does it fit?” links division to the times tables they already know. And the hidden number is the beginning of equations, through play.",
       "fr": "Voir que diviser, c'est se demander « combien de fois ça rentre ? », relie la division aux tables déjà connues. Et le nombre caché, c'est le début des équations, en jouant.",
       "ar": "رؤية أن القسمة سؤال «كم مرة يدخل؟» تربطها بجداول الضرب المعروفة. والعدد المخفيّ بداية المعادلات، باللعب."
@@ -139,7 +139,7 @@
       },
       "pista": {
         "es": "¿Qué número por 6 da 18?",
-        "va": "Quin número per 6 dona 18?",
+        "va": "Quin nombre per 6 dona 18?",
         "en": "What number times 6 makes 18?",
         "fr": "Quel nombre fois 6 donne 18 ?",
         "ar": "أي عدد في 6 يعطي 18؟"
@@ -174,7 +174,7 @@
         "va": "Per a una carrera de relleus, 20 xiquetes i xiquets fan equips de 5. Quants equips n'ixen?",
         "en": "For a relay race, 20 girls and boys make teams of 5. How many teams are there?",
         "fr": "Pour une course de relais, 20 filles et garçons font des équipes de 5. Combien d'équipes y a-t-il ?",
-        "ar": "لسباق التتابع، يكوّن 20 طفلًا وطفلة فرقًا من 5. كم فريقًا يخرج؟"
+        "ar": "لسباق التتابع، يكوّن 20 طفلًا وطفلة فرقًا من 5. كم فريقًا يكوّنون؟"
       },
       "pista": {
         "es": "Cuenta de 5 en 5 hasta 20: ¿cuántas veces has contado?",
@@ -193,7 +193,7 @@
           "va": "N'ixen 4: {{20 : 5 = 4}}.",
           "en": "There are 4 teams: {{20 : 5 = 4}}.",
           "fr": "Il y a 4 équipes : {{20 : 5 = 4}}.",
-          "ar": "تخرج 4 فرق: {{20 : 5 = 4}}."
+          "ar": "يكوّنون 4 فرق: {{20 : 5 = 4}}."
         }
       },
       "inventala": {
@@ -210,7 +210,7 @@
       "tipoProblema": "particion",
       "texto": {
         "es": "El número escondido: ¿qué número multiplicado por 3 da 21?",
-        "va": "El número amagat: quin número multiplicat per 3 dona 21?",
+        "va": "El nombre amagat: quin nombre multiplicat per 3 dona 21?",
         "en": "The hidden number: what number multiplied by 3 makes 21?",
         "fr": "Le nombre caché : quel nombre multiplié par 3 donne 21 ?",
         "ar": "العدد المخفيّ: أي عدد مضروبًا في 3 يعطي 21؟"
@@ -220,7 +220,7 @@
         "va": "Recorre la taula del 3: 3, 6, 9… fins a arribar a 21.",
         "en": "Go through the 3 times table: 3, 6, 9… until you reach 21.",
         "fr": "Parcours la table de 3 : 3, 6, 9… jusqu'à arriver à 21.",
-        "ar": "لنمرّ على جدول 3: 3، 6، 9… حتى نصل إلى 21."
+        "ar": "لنمرّ على جدول ضرب 3: 3، 6، 9… حتى نصل إلى 21."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -237,7 +237,7 @@
       },
       "inventala": {
         "es": "Inventa tú un número escondido para que lo adivine alguien de casa.",
-        "va": "Inventa't un número amagat perquè l'endevine algú de casa.",
+        "va": "Inventa't un nombre amagat perquè l'endevine algú de casa.",
         "en": "Make up a hidden number for someone at home to guess.",
         "fr": "Invente un nombre caché à faire deviner à quelqu'un de la maison.",
         "ar": "لنخترع عددًا مخفيًّا يخمّنه أحد في البيت."
@@ -299,7 +299,7 @@
         "va": "Si no sap per on començar: «Quants paquets de 4 vas fer? I quantes pinces hi havia en total?»",
         "en": "If they don't know where to start: “How many packs of 4 did you make? And how many pegs were there altogether?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Combien de paquets de 4 as-tu faits ? Et combien de pinces y avait-il en tout ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «كم رزمة من 4 صنعنا؟ وكم ملقطًا كان هناك في المجموع؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «كم رزمة من 4 صنعنا؟ وكم ملقطًا كان هناك في المجموع؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -308,7 +308,7 @@
           "va": "Si diu que són «el mateix compte al revés», perfecte. Si no, feu junts els paquets una altra vegada i escriviu els dos comptes.",
           "en": "If they say they're “the same sum the other way round”, perfect. If not, make the packs together again and write both sums.",
           "fr": "Si la réponse est « le même calcul à l'envers », parfait. Sinon, refaites ensemble les paquets et écrivez les deux calculs.",
-          "ar": "إذا قيل إنهما «العملية نفسها بالعكس»، فممتاز. وإن لم يُقل، اصنعوا الرزم معًا مرة أخرى واكتبوا العمليتين."
+          "ar": "إذا قال الأطفال إنهما «العملية نفسها بالعكس»، فممتاز. وإن لم يقولوا ذلك، اصنعوا الرزم معًا مرة أخرى واكتبوا العمليتين."
         }
       }
     }

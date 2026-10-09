@@ -15,7 +15,7 @@
   },
   "objetivo": {
     "es": "Esta semana descubren que el orden no cambia el resultado de una multiplicación: 3 filas de 4 son lo mismo que 4 filas de 3. En clase lo llaman «propiedad conmutativa».",
-    "va": "Aquesta setmana descobreixen que l'ordre no canvia el resultat d'una multiplicació: 3 files de 4 són el mateix que 4 files de 3. A classe ho diuen en castellà: «propiedad conmutativa».",
+    "va": "Aquesta setmana descobrixen que l'ordre no canvia el resultat d'una multiplicació: 3 files de 4 són el mateix que 4 files de 3. A classe ho diuen en castellà: «propiedad conmutativa».",
     "en": "This week they discover that the order doesn't change the answer to a multiplication: 3 rows of 4 are the same as 4 rows of 3. In class, in Spanish, they call it «propiedad conmutativa» (the commutative property).",
     "fr": "Cette semaine, on découvre que l'ordre ne change pas le résultat d'une multiplication : 3 rangées de 4, c'est pareil que 4 rangées de 3. En classe, en espagnol, on l'appelle « propiedad conmutativa » (la commutativité).",
     "ar": "هذا الأسبوع يكتشف الأطفال أن الترتيب لا يغيّر نتيجة الضرب: 3 صفوف في كل منها 4 هي نفسها 4 صفوف في كل منها 3. في القسم يسمّونها بالإسبانية «propiedad conmutativa» (خاصية التبديل)."
@@ -121,7 +121,7 @@
       "va": "Amb 18 botons, feu files iguals de totes les maneres que pugueu: 2 files de 9, 3 files de 6… Quines són la mateixa en girar el plat?",
       "en": "With 18 buttons, make equal rows in every way you can: 2 rows of 9, 3 rows of 6… Which ones are the same when you turn the plate?",
       "fr": "Avec 18 boutons, faites des rangées égales de toutes les façons possibles : 2 rangées de 9, 3 rangées de 6… Lesquelles sont pareilles quand on tourne l'assiette ?",
-      "ar": "بـ18 زرًّا، اصنعوا صفوفًا متساوية بكل الطرق الممكنة: صفّان في كل منهما 9، و3 صفوف في كل منها 6… أيّها هو نفسه عندما نُدير الصحن؟"
+      "ar": "بـ18 زرًّا، اصنعوا صفوفًا متساوية بكل الطرق الممكنة: صفّان في كل منهما 9، و3 صفوف في كل منها 6… أيّ الترتيبات تصبح هي نفسها عندما نُدير الصحن؟"
     },
     "paraQueSirve": {
       "es": "Saber que el orden no cambia el resultado es un gran atajo: si sabes {{3 × 7}}, ya sabes {{7 × 3}}. Y siempre se puede elegir el orden más cómodo.",
@@ -291,9 +291,9 @@
       "inventala": {
         "es": "Inventa tú una de la tabla del 4 y resuélvela con dobles.",
         "va": "Inventa'n tu una de la taula del 4 i resol-la amb dobles.",
-        "en": "Make up a 4 times table one and work it out with doubles.",
+        "en": "Make up one from the 4 times table and work it out with doubles.",
         "fr": "Invente un problème de la table de 4 et trouve la réponse avec des doubles.",
-        "ar": "لنخترع مسألة من جدول 4 ونحلّها بالأضعاف."
+        "ar": "لنخترع مسألة من جدول ضرب 4 ونحلّها بالأضعاف."
       }
     },
     {
@@ -305,14 +305,14 @@
         "va": "Per què 3 files de 4 i 4 files de 3 donen el mateix? Explica-m'ho amb botons, amb dibuixos o amb el que vulgues.",
         "en": "Why do 3 rows of 4 and 4 rows of 3 give the same answer? Explain it to me with buttons, drawings or whatever you like.",
         "fr": "Pourquoi 3 rangées de 4 et 4 rangées de 3 donnent-elles la même chose ? Explique-le-moi avec des boutons, des dessins ou ce que tu veux.",
-        "ar": "لماذا تعطي 3 صفوف من 4 و4 صفوف من 3 النتيجة نفسها؟ اشرح لي أو اشرحي لي بالأزرار أو بالرسوم أو بما تريدون."
+        "ar": "لماذا تعطي 3 صفوف من 4 و4 صفوف من 3 النتيجة نفسها؟ اشرح لي أو اشرحي لي بالأزرار أو بالرسوم أو بما تريده أو تريدينه."
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿Qué pasaba al girar el plato? ¿Cambiaban los botones?»",
         "va": "Si no sap per on començar: «Què passava en girar el plat? Canviaven els botons?»",
         "en": "If they don't know where to start: “What happened when you turned the plate? Did the buttons change?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Que se passait-il quand on tournait l'assiette ? Les boutons changeaient-ils ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «ماذا حدث عندما أدرنا الصحن؟ هل تغيّرت الأزرار؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا حدث عندما أدرنا الصحن؟ هل تغيّرت الأزرار؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -321,7 +321,7 @@
           "va": "L'important és que veja que els botons són els mateixos encara que canvie la manera de mirar-los. Escolteu i demaneu que us ho ensenye.",
           "en": "What matters is seeing that the buttons are the same even if the way you look at them changes. Listen and ask them to show you.",
           "fr": "L'important, c'est de voir que les boutons sont les mêmes, même si on les regarde autrement. Écoutez et demandez qu'on vous le montre.",
-          "ar": "المهم أن يُرى أن الأزرار هي نفسها حتى لو تغيّرت طريقة النظر إليها. استمعوا واطلبوا أن يُعرض عليكم ذلك."
+          "ar": "المهم أن يرى الأطفال أن الأزرار هي نفسها حتى لو تغيّرت طريقة النظر إليها. استمعوا إليهم واطلبوا منهم أن يُروكم ذلك."
         }
       }
     }

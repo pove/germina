@@ -92,7 +92,7 @@
           "es": "Recortad dos agujas de cartulina: una larga para los minutos y una corta para las horas. Una persona adulta las sujeta en el centro con el encuadernador.",
           "va": "Retalleu dues agulles de cartolina: una llarga per als minuts i una curta per a les hores. Una persona adulta les subjecta al centre amb l'enquadernador.",
           "en": "Cut out two hands from the card: a long one for the minutes and a short one for the hours. An adult fixes them in the centre with the paper fastener.",
-          "fr": "Découpez deux aiguilles dans le bristol : une longue pour les minutes et une courte pour les heures. Un adulte les fixe au centre avec l'attache parisienne.",
+          "fr": "Découpez deux aiguilles dans le bristol : une longue pour les minutes et une courte pour les heures. Une personne adulte les fixe au centre avec l'attache parisienne.",
           "ar": "قصّوا عقربين من الورق المقوّى: عقربًا طويلًا للدقائق وعقربًا قصيرًا للساعات. يثبّتهما شخص بالغ في الوسط بالمشبك."
         }
       },
@@ -118,8 +118,8 @@
       }
     ],
     "masFacil": {
-      "es": "Jugad solo con horas en punto y y media. Fijaos en que, a la media, la aguja corta está entre dos números.",
-      "va": "Jugueu només amb hores en punt i i mitja. Fixeu-vos que, a la mitja, l'agulla curta està entre dos números.",
+      "es": "Jugad solo con las horas «en punto» y las «y media». Fijaos en que, a la media, la aguja corta está entre dos números.",
+      "va": "Jugueu només amb les hores «en punt» i les «i mitja». Fixeu-vos que, a la mitja, l'agulla curta està entre dos números.",
       "en": "Play only with o'clock and half past. Notice that at half past, the short hand is between two numbers.",
       "fr": "Jouez seulement avec les heures pile et les demies. Remarquez qu'à la demie, la petite aiguille est entre deux nombres.",
       "ar": "العبوا فقط بالساعات تمامًا والنصف. لاحظوا أن العقرب القصير عند النصف يكون بين عددين."
@@ -142,7 +142,7 @@
       "es": "Las tijeras y el encuadernador, siempre con una persona adulta: el encuadernador pincha.",
       "va": "Les tisores i l'enquadernador, sempre amb una persona adulta: l'enquadernador punxa.",
       "en": "Scissors and the paper fastener always with an adult: the fastener is sharp.",
-      "fr": "Les ciseaux et l'attache parisienne, toujours avec un adulte : l'attache pique.",
+      "fr": "Les ciseaux et l'attache parisienne, toujours avec une personne adulte : l'attache pique.",
       "ar": "المقص والمشبك دائمًا بحضور شخص بالغ: فالمشبك حادّ."
     }
   },
@@ -162,7 +162,7 @@
         "es": "Cuando la aguja larga está en el 12, la hora es en punto. Mira solo la corta.",
         "va": "Quan l'agulla llarga està en el 12, l'hora és en punt. Mira només la curta.",
         "en": "When the long hand is on 12, it's something o'clock. Look only at the short hand.",
-        "fr": "Quand la grande aiguille est sur le 12, il est une heure pile. Regarde seulement la petite.",
+        "fr": "Quand la grande aiguille est sur le 12, c'est l'heure pile. Regarde seulement la petite.",
         "ar": "عندما يكون العقرب الطويل عند 12، تكون الساعة تمامًا. لننظر إلى القصير فقط."
       },
       "respuesta": {
@@ -192,7 +192,7 @@
       "tipoProblema": "tiempo",
       "texto": {
         "es": "Mateo va a la piscina a las 5 y cuarto. ¿Dónde está la aguja larga a esa hora?",
-        "va": "Mateo va a la piscina a les 5 i quart. On està l'agulla llarga a eixa hora?",
+        "va": "El Mateo va a la piscina a les 5 i quart. On està l'agulla llarga a eixa hora?",
         "en": "Mateo goes to the swimming pool at quarter past 5. Where is the long hand at that time?",
         "fr": "Mateo va à la piscine à 5 heures et quart. Où est la grande aiguille à cette heure-là ?",
         "ar": "يذهب ماتيو إلى المسبح في الخامسة والربع. أين يكون العقرب الطويل في هذا الوقت؟"
@@ -271,7 +271,7 @@
       "tipoProblema": "dinero",
       "texto": {
         "es": "Para recordar: compras un tebeo de 6 € y pagas con un billete de 10 €. ¿Cuánto te devuelven?",
-        "va": "Per a recordar: compres un tebeo de 6 € i pagues amb un bitllet de 10 €. Quant et tornen?",
+        "va": "Per a recordar: compres un còmic de 6 € i pagues amb un bitllet de 10 €. Quant et tornen?",
         "en": "Let's remember: you buy a comic for 6 € and pay with a 10 € note. How much change do you get?",
         "fr": "Pour se souvenir : tu achètes une bande dessinée à 6 € et tu paies avec un billet de 10 €. Combien on te rend ?",
         "ar": "لنتذكّر: نشتري مجلة مصوّرة بـ6 يورو وندفع بورقة من فئة 10 يورو. كم يعيدون لنا؟"
@@ -320,7 +320,7 @@
         "va": "Si no sap per on començar: «Quina es mou més de pressa? Quina diu l'hora?»",
         "en": "If they don't know where to start: “Which one moves faster? Which one tells the hour?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Laquelle bouge le plus vite ? Laquelle dit l'heure ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «أيّهما يتحرّك أسرع؟ وأيّهما يدلّ على الساعة؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «أيّهما يتحرّك أسرع؟ وأيّهما يدلّ على الساعة؟»"
       },
       "respuesta": {
         "tipo": "abierta",
@@ -329,7 +329,7 @@
           "va": "Pot dir que la curta marca l'hora i la llarga els minuts. Si les confon, és el més normal: mireu junts un rellotge una estona i deixeu que ho descobrisca.",
           "en": "They might say the short hand shows the hour and the long one the minutes. Mixing them up is completely normal: watch a clock together for a while and let them work it out.",
           "fr": "Il ou elle peut dire que la petite indique l'heure et la grande les minutes. Les confondre, c'est très courant : regardez ensemble une horloge un moment et laissez-le ou laissez-la découvrir.",
-          "ar": "قد يقول إن القصير يدلّ على الساعة والطويل على الدقائق. الخلط بينهما أمر طبيعي جدًا: انظروا معًا إلى ساعة قليلًا واتركوه يكتشف ذلك."
+          "ar": "قد يقولون إن القصير يدلّ على الساعة والطويل على الدقائق. الخلط بينهما أمر طبيعي جدًا: انظروا معًا إلى ساعة قليلًا واتركوهم يكتشفون ذلك."
         }
       }
     }
@@ -341,19 +341,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "1cc745714002"
+        "huella": "ac6859857c68"
       },
       "en": {
         "estado": "automatica",
-        "huella": "1cc745714002"
+        "huella": "ac6859857c68"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "1cc745714002"
+        "huella": "ac6859857c68"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "1cc745714002"
+        "huella": "ac6859857c68"
       }
     }
   }

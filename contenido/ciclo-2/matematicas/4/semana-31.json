@@ -16,16 +16,16 @@
   "objetivo": {
     "es": "Esta semana aprenden a leer un problema con calma y separar los datos que sirven de los que sobran. Antes de calcular, se preguntan: «¿Qué me piden? ¿Qué necesito para responder?».",
     "va": "Aquesta setmana aprenen a llegir un problema amb calma i separar les dades que servixen de les que sobren. Abans de calcular, es pregunten: «Què em demanen? Què necessite per a respondre?».",
-    "en": "This week they learn to read a problem calmly and separate the useful information from the extra. Before calculating, they ask themselves: “What's the question? What do I want to know to answer it?”",
+    "en": "This week they learn to read a problem calmly and separate the useful information from the extra. Before calculating, they ask themselves: “What's the question? What information do I need?”",
     "fr": "Cette semaine, on apprend à lire un problème calmement et à séparer les données utiles des données inutiles. Avant de calculer, on se demande : « Qu'est-ce qu'on me demande ? De quoi ai-je besoin pour répondre ? ».",
     "ar": "هذا الأسبوع يتعلّم الأطفال قراءة المسألة بهدوء والفصل بين المعطيات المفيدة والزائدة. وقبل الحساب يسألون أنفسهم: «ما المطلوب؟ وماذا أحتاج لأجيب؟»."
   },
   "comoAyudar": {
     "es": "Leed el problema en voz alta y, antes de calcular, pedid que diga con sus palabras qué se pregunta. Si usa un dato que sobra, preguntad «¿para qué te sirve ese número?».",
-    "va": "Llegiu el problema en veu alta i, abans de calcular, demaneu que diga amb les seues paraules què es pregunta. Si fa servir una dada que sobra, pregunteu «per a què et servix eixe número?».",
+    "va": "Llegiu el problema en veu alta i, abans de calcular, demaneu que diga amb les seues paraules què es pregunta. Si fa servir una dada que sobra, pregunteu «per a què et servix eixe nombre?».",
     "en": "Read the problem out loud and, before calculating, ask them to say in their own words what the question is. If they use a number that isn't needed, ask “What does that number help you with?”",
-    "fr": "Lisez le problème à voix haute et, avant de calculer, demandez de dire avec ses propres mots ce qu'on demande. Si une donnée inutile est utilisée, demandez « À quoi te sert ce nombre ? ».",
-    "ar": "اقرؤوا المسألة بصوت عالٍ، وقبل الحساب اطلبوا أن يقول الطفل بكلماته ما المطلوب. وإذا استُعمل معطى زائد، اسألوا «بماذا يفيدك هذا العدد؟»."
+    "fr": "Lisez le problème à voix haute et, avant de calculer, demandez-lui de dire avec ses propres mots ce qu'on demande. Si une donnée inutile est utilisée, demandez « À quoi te sert ce nombre ? ».",
+    "ar": "اقرؤوا المسألة بصوت عالٍ، وقبل الحساب اطلبوا أن يقول الأطفال بكلماتهم ما المطلوب. وإذا استُعمل معطى زائد، اسألوا «بماذا يفيدك هذا العدد؟»."
   },
   "saberes": [
     "matematicas.operaciones.suma-resta",
@@ -99,7 +99,7 @@
           "va": "Ara el xiquet o la xiqueta afegix a la recepta una dada que no servisca per a res («la cullera és blava») i prepara una pregunta amb trampa per a la família.",
           "en": "Now the child adds a useless detail to the recipe (“the spoon is blue”) and prepares a trick question for the family.",
           "fr": "Maintenant, l'enfant ajoute à la recette une donnée qui ne sert à rien (« la cuillère est bleue ») et prépare une question piégée pour la famille.",
-          "ar": "الآن يضيف الطفل إلى الوصفة معطًى لا يفيد في شيء («الملعقة زرقاء») ويحضّر سؤالًا فيه فخّ للعائلة."
+          "ar": "الآن يضيف الطفل أو الطفلة إلى الوصفة معطًى لا يفيد في شيء («الملعقة زرقاء») ويحضّر سؤالًا فيه فخّ للعائلة."
         }
       }
     ],
@@ -142,7 +142,7 @@
         "va": "Una recepta de creps per a 6 persones porta 300 g de farina i es fa en 20 minuts. Quanta farina toca per persona?",
         "en": "A pancake recipe for 6 people uses 300 g of flour and takes 20 minutes. How much flour is that per person?",
         "fr": "Une recette de crêpes pour 6 personnes demande 300 g de farine et se prépare en 20 minutes. Combien de farine par personne ?",
-        "ar": "وصفة فطائر لـ6 أشخاص فيها 300 غ من الدقيق وتُحضَّر في 20 دقيقة. كم دقيقًا لكل شخص؟"
+        "ar": "وصفة فطائر لـ6 أشخاص فيها 300 غ من الدقيق وتُحضَّر في 20 دقيقة. كم غرامًا من الدقيق لكل شخص؟"
       },
       "pista": {
         "es": "¿Los minutos cambian la harina? Reparte los 300 g entre 6.",
@@ -167,7 +167,7 @@
       "inventala": {
         "es": "Inventa tú una de recetas con un dato de tiempo que sobre.",
         "va": "Inventa'n tu una de receptes amb una dada de temps que sobre.",
-        "en": "Make up a recipe one with a time that isn't needed.",
+        "en": "Make up a recipe problem with a time that isn't needed.",
         "fr": "Invente un problème de recette avec une durée qui ne sert à rien.",
         "ar": "لنخترع مسألة وصفة فيها مدة زمنية زائدة."
       }
@@ -185,7 +185,7 @@
       },
       "pista": {
         "es": "¿Qué números hablan de dinero?",
-        "va": "Quins números parlen de diners?",
+        "va": "Quins nombres parlen de diners?",
         "en": "Which numbers are about money?",
         "fr": "Quels nombres parlent d'argent ?",
         "ar": "أي الأعداد تتحدّث عن النقود؟"
@@ -206,7 +206,7 @@
       "inventala": {
         "es": "Inventa tú una de entradas con dos datos que sobren.",
         "va": "Inventa'n tu una d'entrades amb dues dades que sobren.",
-        "en": "Make up a tickets one with two pieces of extra information.",
+        "en": "Make up a tickets problem with two pieces of extra information.",
         "fr": "Invente un problème de billets avec deux données inutiles.",
         "ar": "لنخترع مسألة تذاكر فيها معطيان زائدان."
       }
@@ -244,8 +244,8 @@
       },
       "inventala": {
         "es": "Inventa tú uno de dos pasos con un número que parezca útil pero no lo sea.",
-        "va": "Inventa'n tu un de dos passos amb un número que semble útil però no ho siga.",
-        "en": "Make up a two-step one with a number that looks useful but isn't.",
+        "va": "Inventa'n tu un de dos passos amb un nombre que semble útil però no ho siga.",
+        "en": "Make up a two-step problem with a number that looks useful but isn't.",
         "fr": "Invente un problème en deux étapes avec un nombre qui semble utile mais ne l'est pas.",
         "ar": "لنخترع مسألة من خطوتين فيها عدد يبدو مفيدًا وليس كذلك."
       }
@@ -303,10 +303,10 @@
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «Cuando vas a comprar, ¿te fijas en todos los números del tique o solo en algunos?»",
-        "va": "Si no sap per on començar: «Quan vas a comprar, et fixes en tots els números del tiquet o només en alguns?»",
+        "va": "Si no sap per on començar: «Quan vas a comprar, et fixes en tots els nombres del tiquet o només en alguns?»",
         "en": "If they don't know where to start: “When you go shopping, do you look at every number on the receipt or just some?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Quand tu fais les courses, tu regardes tous les nombres du ticket ou seulement certains ? »",
-        "ar": "إن لم تكن هناك فكرة للبداية، اسألوا: «عندما نتسوّق، هل ننتبه إلى كل أعداد الإيصال أم إلى بعضها فقط؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «عندما نتسوّق، هل ننتبه إلى كل أعداد الإيصال أم إلى بعضها فقط؟»"
       },
       "respuesta": {
         "tipo": "abierta",
