@@ -119,9 +119,9 @@
     "paraQueSirve": {
       "es": "Saber qué vale cada cifra según dónde está es la base de las cuentas con números grandes de 4.º. Y la calle está llena de números de verdad.",
       "va": "Saber què val cada xifra segons on és és la base dels comptes amb nombres grans de 4t. I el carrer és ple de nombres de veritat.",
-      "en": "Knowing what each digit is worth depending on where it is underpins the sums with big numbers in Year 4 (4.º). And the street is full of real numbers.",
-      "fr": "Savoir ce que vaut chaque chiffre selon sa place est la base des calculs avec de grands nombres en 4.º (CM1). Et la rue est pleine de vrais nombres.",
-      "ar": "معرفة قيمة كل رقم حسب مكانه هي أساس الحساب بالأعداد الكبيرة في الصف الرابع (4.º). والشارع مليء بأعداد حقيقية."
+      "en": "Knowing what each digit is worth depending on where it is underpins the sums with big numbers in 4th year. And the street is full of real numbers.",
+      "fr": "Savoir ce que vaut chaque chiffre selon sa place est la base des calculs avec de grands nombres en 4e année. Et la rue est pleine de vrais nombres.",
+      "ar": "معرفة قيمة كل رقم حسب مكانه هي أساس الحساب بالأعداد الكبيرة في الصف الرابع. والشارع مليء بأعداد حقيقية."
     },
     "aviso": {
       "es": "Mirad las matrículas desde la acera, lejos de los coches en marcha.",
@@ -222,11 +222,11 @@
         "ar": "على لوحة العدد 5094 وعلى أخرى 5940. أيهما أكبر وبكم؟"
       },
       "pista": {
-        "es": "Los dos tienen 5 millares. Mira las centenas: 0 y 9. Luego resta el pequeño del grande.",
-        "va": "Els dos tenen 5 milers. Mira les centenes: 0 i 9. Després resta el menut del gran.",
-        "en": "Both have 5 thousands. Look at the hundreds: 0 and 9. Then take the smaller one from the greater one.",
-        "fr": "Les deux ont 5 milliers. Regarde les centaines : 0 et 9. Ensuite, enlève le petit du grand.",
-        "ar": "كلاهما فيه 5 آلاف. لننظر إلى المئات: 0 و9. ثم نطرح الأصغر من الأكبر."
+        "es": "Los dos tienen 5 millares. Mira las centenas: 0 y 9. Para saber por cuánto, cuenta hacia arriba: de 5094 a 5100, luego a 5900 y luego a 5940.",
+        "va": "Els dos tenen 5 milers. Mira les centenes: 0 i 9. Per a saber per quant, compta cap amunt: de 5094 a 5100, després a 5900 i després a 5940.",
+        "en": "Both have 5 thousands. Look at the hundreds: 0 and 9. To find out by how much, count up: from 5094 to 5100, then to 5900 and then to 5940.",
+        "fr": "Les deux ont 5 milliers. Regarde les centaines : 0 et 9. Pour savoir de combien, compte en avançant : de 5094 à 5100, puis jusqu'à 5900, puis jusqu'à 5940.",
+        "ar": "كلاهما فيه 5 آلاف. لننظر إلى المئات: 0 و9. ولنعرف بكم، لنعدّ صعودًا: من 5094 إلى 5100، ثم إلى 5900، ثم إلى 5940."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "9f7591461d0e"
+        "huella": "bbbc262ecede"
       },
       "en": {
         "estado": "automatica",
-        "huella": "9f7591461d0e"
+        "huella": "bbbc262ecede"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "9f7591461d0e"
+        "huella": "bbbc262ecede"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "9f7591461d0e"
+        "huella": "bbbc262ecede"
       }
     }
   }

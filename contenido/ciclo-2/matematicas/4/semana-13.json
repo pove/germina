@@ -14,11 +14,11 @@
     "ar": "ضرب الأعداد الكبيرة"
   },
   "objetivo": {
-    "es": "Esta semana multiplican números de dos y tres cifras por una cifra, llevándose cuando hace falta ({{24 × 3 = 72}}), y descubren que multiplicar por 10 o por 100 es añadir uno o dos ceros.",
-    "va": "Aquesta setmana multipliquen nombres de dues i tres xifres per una xifra, portant-se'n quan fa falta ({{24 × 3 = 72}}), i descobrixen que multiplicar per 10 o per 100 és afegir un o dos zeros. A classe ho diuen en castellà: «multiplicación con llevada».",
-    "en": "This week they multiply two- and three-digit numbers by a one-digit number, carrying when needed ({{24 × 3 = 72}}), and discover that multiplying by 10 or by 100 means adding one or two zeros. In class, in Spanish, they call it «multiplicación con llevada» (multiplication with carrying).",
-    "fr": "Cette semaine, on multiplie des nombres à deux et trois chiffres par un nombre à un chiffre, avec une retenue quand il en faut une ({{24 × 3 = 72}}), et on découvre que multiplier par 10 ou par 100, c'est ajouter un ou deux zéros. En classe, en espagnol, on l'appelle « multiplicación con llevada » (multiplication avec retenue).",
-    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين وثلاثة أرقام في عدد من رقم واحد، مع الاحتفاظ عند الحاجة ({{24 × 3 = 72}})، ويكتشفون أن الضرب في 10 أو في 100 هو إضافة صفر أو صفرين. في القسم يسمّونه بالإسبانية «multiplicación con llevada» (الضرب مع الاحتفاظ)."
+    "es": "Esta semana multiplican números de dos y tres cifras por una cifra, llevándose cuando hace falta: {{24 × 3 = 72}}. En clase lo llaman «multiplicación con llevada». También descubren que multiplicar por 10 o por 100 es añadir uno o dos ceros.",
+    "va": "Aquesta setmana multipliquen nombres de dues i tres xifres per una xifra, portant-se'n quan fa falta: {{24 × 3 = 72}}. A classe ho diuen en castellà: «multiplicación con llevada». També descobrixen que multiplicar per 10 o per 100 és afegir un o dos zeros.",
+    "en": "This week they multiply two- and three-digit numbers by a one-digit number, carrying when needed: {{24 × 3 = 72}}. In class, in Spanish, they call it «multiplicación con llevada» (multiplication with carrying). They also discover that multiplying by 10 or by 100 means adding one or two zeros.",
+    "fr": "Cette semaine, on multiplie des nombres à deux et trois chiffres par un nombre à un chiffre, avec une retenue quand il en faut une : {{24 × 3 = 72}}. En classe, en espagnol, on l'appelle « multiplicación con llevada » (multiplication avec retenue). On découvre aussi que multiplier par 10 ou par 100, c'est ajouter un ou deux zéros.",
+    "ar": "هذا الأسبوع يضرب الأطفال أعدادًا من رقمين وثلاثة أرقام في عدد من رقم واحد، مع الاحتفاظ عند الحاجة: {{24 × 3 = 72}}. في القسم يسمّونه بالإسبانية «multiplicación con llevada» (الضرب مع الاحتفاظ). ويكتشفون أيضًا أن الضرب في 10 أو في 100 هو إضافة صفر أو صفرين."
   },
   "comoAyudar": {
     "es": "Antes de multiplicar en papel, proponed calcularlo partiendo el número: {{24 × 3}} es {{20 × 3}} y {{4 × 3}}. Así la llevada tiene sentido y no es un truco que se olvida.",
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "28a8bd5e74dc"
+        "huella": "56f629cd1d7e"
       },
       "en": {
         "estado": "automatica",
-        "huella": "28a8bd5e74dc"
+        "huella": "56f629cd1d7e"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "28a8bd5e74dc"
+        "huella": "56f629cd1d7e"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "28a8bd5e74dc"
+        "huella": "56f629cd1d7e"
       }
     }
   }
