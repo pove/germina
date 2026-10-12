@@ -85,10 +85,9 @@
 
   "curso.3": { "es": "3.º", "va": "3r", "en": "3rd year", "fr": "3e année", "ar": "الصف الثالث" },
   "curso.4": { "es": "4.º", "va": "4t", "en": "4th year", "fr": "4e année", "ar": "الصف الرابع" },
-  "curso_corto.3": { "es": "3.º", "va": "3r", "en": "3rd", "fr": "3e", "ar": "الثالث" },
-  "curso_corto.4": { "es": "4.º", "va": "4t", "en": "4th", "fr": "4e", "ar": "الرابع" },
+  "banda.vuestros": { "es": "Vuestros cursos", "va": "Els vostres cursos", "en": "Your years", "fr": "Vos années", "ar": "صفوفكم" },
+  "banda.otros": { "es": "Otros cursos", "va": "Altres cursos", "en": "Other years", "fr": "Autres années", "ar": "صفوف أخرى" },
   "curso.etiqueta": { "es": "Curso", "va": "Curs", "en": "Year", "fr": "Année", "ar": "الصف" },
-  "banda.cambiar": { "es": "Cambiar", "va": "Canviar", "en": "Change", "fr": "Changer", "ar": "تغيير" },
   "ciclo.2": { "es": "2.º ciclo", "va": "2n cicle", "en": "2nd cycle", "fr": "2e cycle", "ar": "الحلقة الثانية" },
 
   "cambio_curso.pregunta": {

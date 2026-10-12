@@ -104,50 +104,48 @@ body {
   white-space: nowrap;
 }
 
-.boton.boton-banda {
+
+
+/* El curso, un desplegable del sistema con forma de botón y su triángulo */
+.selector-curso {
+  position: relative;
   flex: none;
-  min-block-size: 2.75rem;
-  margin-block: 0.25rem; /* igual de alta que el interruptor: la banda no salta al pulsar */
-  padding-inline: 1rem;
-  background: var(--tarjeta);
-  box-shadow: var(--sombra);
 }
 
-
-.interruptor-curso {
-  display: flex;
-  flex: none;
-  gap: 0.25rem;
-  margin: 0;
-  padding: 0.25rem;
+.selector-curso select {
+  min-block-size: 2.75rem;
+  padding-block: 0.25rem;
+  padding-inline: 1rem 2.5rem;
+  border: 2px solid var(--borde-control);
   border-radius: 999px;
   background: var(--tarjeta);
-  box-shadow: var(--sombra);
-  list-style: none;
-}
-
-.interruptor-curso a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  min-block-size: 2.75rem;
-  min-inline-size: 3.5rem;
-  padding-inline: 1rem;
-  border: 2px solid transparent;
-  white-space: nowrap;
-  border-radius: 999px;
   color: var(--acento-oscuro);
+  font: inherit;
   font-weight: 700;
-  text-decoration: none;
+  appearance: none;
+  field-sizing: content; /* tan ancho como el curso elegido, no como el texto más largo de la lista */
+  cursor: pointer;
 }
 
-.interruptor-curso a:hover {
+.selector-curso::after {
+  content: '';
+  position: absolute;
+  inset-block-start: 50%;
+  inset-inline-end: 1.125rem;
+  inline-size: 0.5rem;
+  block-size: 0.5rem;
+  border-block-end: 2px solid var(--acento-oscuro);
+  border-inline-end: 2px solid var(--acento-oscuro);
+  transform: translateY(-70%) rotate(45deg);
+  pointer-events: none;
+}
+
+html[dir='rtl'] .selector-curso::after {
+  transform: translateY(-70%) rotate(-45deg);
+}
+
+.selector-curso select:hover {
   background: var(--acento-suave);
-}
-
-.interruptor-curso a[aria-current='true'] {
-  background: var(--acento);
-  color: var(--sobre-acento);
 }
 
 main {
@@ -1401,8 +1399,7 @@ a.planta {
   }
 
   .menu-principal a[aria-current='page'],
-  .selector-idioma button[aria-pressed='true'],
-  .interruptor-curso a[aria-current='true'] {
+  .selector-idioma button[aria-pressed='true'] {
     border-color: Highlight;
   }
 }

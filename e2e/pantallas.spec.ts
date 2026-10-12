@@ -242,34 +242,33 @@ test('sin ningún reto de verano publicado, «en camino» no ofrece ir a otro', 
 });
 
 test.describe('cursos y cambio de curso', () => {
-  test('con dos cursos, la banda cambia de uno a otro con un toque y se queda en la misma pantalla', async ({ page }) => {
+  test('con dos cursos, el desplegable de la banda cambia de curso en la misma pantalla', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es', cursos: [CURSO_3, CURSO_4] } });
     await page.goto(SEMANA_7);
-    const banda = page.getByRole('navigation', { name: T('curso.etiqueta', 'es') });
-    await expect(banda.getByRole('link', { name: '3.º' })).toHaveAttribute('aria-current', 'true');
-    await banda.getByRole('link', { name: '4.º' }).click();
+    const curso = page.getByRole('combobox', { name: /Matemáticas/ });
+    await expect(curso).toHaveValue(CURSO_3);
+    await expect(curso.locator('optgroup')).toHaveCount(0); // los dos son suyos: sin grupos
+    await curso.selectOption(CURSO_4);
     await expect(page).toHaveURL(/\/2\/matematicas\/4\/semana\/7$/);
     await expect(page.getByRole('heading', { level: 1 })).toContainText('Restas con ceros');
-    expect(await guardado(page)).toMatchObject({ cursoActivo: CURSO_4 });
+    expect(await guardado(page)).toMatchObject({ cursos: [CURSO_3, CURSO_4], cursoActivo: CURSO_4 });
     await page.goto('./#/2/matematicas/4/jardin');
-    await banda.getByRole('link', { name: '3.º' }).click();
+    await curso.selectOption(CURSO_3);
     await expect(page).toHaveURL(/\/2\/matematicas\/3\/jardin$/);
     await sinProblemasDeAccesibilidad(page);
+    await objetivosTactiles(page);
   });
 
-  test('con un solo curso, «Cambiar» muestra los cursos en la misma banda y elegir otro lo sustituye', async ({ page }) => {
+  test('con un solo curso, el desplegable separa los vuestros de los otros y elegir otro lo sustituye', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es' } });
     await page.goto(SEMANA_7);
-    const banda = page.getByRole('navigation', { name: T('curso.etiqueta', 'es') });
-    await expect(banda).toContainText('Matemáticas · 3.º');
-    await banda.getByRole('button', { name: T('banda.cambiar', 'es') }).click();
-    await expect(banda.getByRole('link', { name: '3.º' })).toBeFocused();
-    await sinProblemasDeAccesibilidad(page);
-    await objetivosTactiles(page);
-    await banda.getByRole('link', { name: '4.º' }).click();
+    const curso = page.getByRole('combobox', { name: /Matemáticas/ });
+    await expect(curso.locator(`optgroup[label="${T('banda.vuestros', 'es')}"] option`)).toHaveText(['3.º']);
+    await expect(curso.locator(`optgroup[label="${T('banda.otros', 'es')}"] option`)).toHaveText(['4.º']);
+    await curso.selectOption(CURSO_4);
     await expect(page).toHaveURL(/\/2\/matematicas\/4\/semana\/7$/);
     expect(await guardado(page)).toMatchObject({ cursos: [CURSO_4], cursoActivo: CURSO_4 });
-    await expect(banda).toContainText('Matemáticas · 4.º');
+    await expect(curso).toHaveValue(CURSO_4);
   });
 
   test('septiembre: ¿ha pasado a 4.º? Sí → el curso pasa a 4.º y se conserva lo del año anterior', async ({ page }) => {
