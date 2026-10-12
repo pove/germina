@@ -1,5 +1,5 @@
 // Idioma de la interfaz: señal, `lang` y `dir` en <html>, textos con vuelta al español y persistencia.
-import { computed, signal } from '@preact/signals';
+import { computed, effect, signal } from '@preact/signals';
 import idiomasConfig from '../config/idiomas.json';
 import textos from '../contenido/comun/textos-interfaz.json';
 import { datos, guardar } from './estado';
@@ -52,6 +52,14 @@ export function iniciarIdioma(): Idioma {
   const id = datos.value.idioma ?? detectarIdioma(lenguas) ?? POR_DEFECTO;
   idioma.value = id;
   aplicarIdioma(id);
+  // Si otra ventana cambia el idioma (ver `estado.ts`), esta también.
+  effect(() => {
+    const guardado = datos.value.idioma;
+    if (guardado && guardado !== idioma.peek()) {
+      idioma.value = guardado;
+      aplicarIdioma(guardado);
+    }
+  });
   return id;
 }
 

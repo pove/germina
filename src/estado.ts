@@ -1,6 +1,6 @@
 // Lo que la familia ha marcado, en memoria y en el dispositivo, y la fecha de hoy.
 import { computed, signal } from '@preact/signals';
-import { almacenDelNavegador, claveProgreso, conElemento, conRecord, escribir, leer } from './nucleo/almacen';
+import { CLAVE, almacenDelNavegador, claveProgreso, conElemento, conRecord, escribir, leer } from './nucleo/almacen';
 import { anoDeCurso, fechaDeDate, situacion, type Fecha } from './nucleo/calendario';
 import { claveCurso, type Curso, type Datos, type Elemento, type Semilla } from './nucleo/tipos';
 
@@ -14,6 +14,14 @@ export const datos = signal<Datos>(leer(almacen).datos);
 export function guardar(nuevos: Datos): void {
   datos.value = nuevos;
   escribir(almacen, nuevos);
+}
+
+// Con la web abierta en dos ventanas (la app instalada y el navegador, dos pestañas), lo que guarda una
+// llega a la otra: si no, la otra seguiría con lo de antes y, al marcar algo, lo pisaría.
+if (typeof window !== 'undefined' && almacen) {
+  window.addEventListener('storage', (e) => {
+    if (e.key === CLAVE || e.key === null) datos.value = leer(almacen).datos;
+  });
 }
 
 /** Fecha local de hoy. Se refresca al volver a la página o al navegar, por si pasó la medianoche. */

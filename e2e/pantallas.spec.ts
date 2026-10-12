@@ -423,6 +423,34 @@ test.describe('sin dónde guardar', () => {
   });
 });
 
+test.describe('dos ventanas a la vez', () => {
+  test('lo que cambia una ventana se ve en la otra y no se pisa', async ({ page, context }) => {
+    await preparar(page, { almacen: { idioma: 'es' } });
+    await page.goto('./#/ajustes');
+    await expect(page.getByRole('button', { name: '3.º' })).toHaveAttribute('aria-pressed', 'true');
+
+    // Otra ventana (la app instalada, otra pestaña): cambia a 4.º desde la banda.
+    const otra = await context.newPage();
+    await preparar(otra);
+    await otra.goto(SEMANA_7);
+    await otra.getByRole('navigation', { name: T('curso.etiqueta', 'es') }).getByRole('button', { name: /3\.º/ }).click();
+    await otra.getByRole('link', { name: '4.º' }).click();
+    await expect(otra).toHaveURL(/\/2\/matematicas\/4\/semana\/7$/);
+
+    // La primera ventana se entera sin recargar…
+    await expect(page.getByRole('button', { name: '4.º' })).toHaveAttribute('aria-pressed', 'true');
+    await expect(page.getByRole('button', { name: '3.º' })).toHaveAttribute('aria-pressed', 'false');
+    // …y lo que haga después parte de lo último, sin volver a dejar solo 3.º.
+    await page.getByRole('button', { name: '3.º' }).click();
+    expect(await guardado(page)).toMatchObject({ cursos: [CURSO_3, CURSO_4], cursoActivo: CURSO_4 });
+
+    // El idioma, igual.
+    await page.getByRole('button', { name: 'Français' }).click();
+    await expect(otra.locator('html')).toHaveAttribute('lang', 'fr');
+    await expect(otra.getByRole('link', { name: T('nav.inicio', 'fr') })).toBeVisible();
+  });
+});
+
 test.describe('ajustes', () => {
   test('cambiar de idioma lo aplica y lo recuerda; siempre queda un curso', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es' } });
