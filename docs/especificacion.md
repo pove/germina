@@ -39,7 +39,7 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | `#/imprimir/records` | Hoja de récords para imprimir |
 | `#/privacidad`, `#/accesibilidad` | Páginas legales (9) |
 
-En las pantallas de un curso, bajo el menú, una **banda del curso** a todo el ancho («Matemáticas · 3.º»). Con dos cursos guardados es un interruptor y un toque cambia al otro curso en la misma pantalla; con uno solo, «Cambiar» convierte la banda en ese mismo interruptor con los cursos del ciclo (elegir otro lo sustituye; para seguir dos, Ajustes). Siempre en una sola fila, con rótulos cortos (3.º, 3e, 3rd…).
+En las pantallas de un curso, bajo el menú, una **banda del curso** a todo el ancho: el área y un botón con el curso («Matemáticas · [3.º ▾]») que abre una lista propia, igual en el móvil y en el escritorio y válida con dos cursos o con seis. Arriba van los cursos que sigue la familia y debajo los demás (sin grupos si solo hay de una clase), con ✓ en el que se está viendo. Elegir uno de los suyos cambia de curso en la misma pantalla; elegir otro lo pone en lugar del que se está viendo. Se cierra al elegir, al tocar fuera y con Escape. Para seguir más cursos, Ajustes.
 
 Ejemplo: `#/2/matematicas/3/semana/7`. Una ruta desconocida o una semana inexistente lleva a `#/` sin error.
 

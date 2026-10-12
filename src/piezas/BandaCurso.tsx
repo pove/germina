@@ -1,13 +1,13 @@
-// Banda del curso, bajo el menú: qué curso se está viendo y cómo cambiar de curso.
-// Siempre en una fila. Con dos cursos guardados, un toque cambia de uno a otro; con uno solo, «Cambiar»
-// convierte la banda en el mismo interruptor con los cursos del ciclo, y elegir otro sustituye al que había.
+// Banda del curso, bajo el menú: «Matemáticas · [3.º ▾]». El botón abre una lista propia de cursos
+// (igual en el móvil y en el escritorio, con dos cursos o con seis): arriba los que sigue la familia,
+// debajo los demás. Elegir uno de los suyos solo cambia de curso; elegir otro lo pone en lugar del que se ve.
 import { useEffect, useRef, useState } from 'preact/hooks';
 import catalogoJson from '../../config/catalogo.json';
 import { datos, guardar } from '../estado';
 import { idioma, t, tDinamico } from '../idioma';
-import { cursosActivos, esCursoActivo, nombreDeArea, type Catalogo } from '../nucleo/catalogo';
+import { cursosActivos, nombreDeArea, type Catalogo } from '../nucleo/catalogo';
 import { construir, type Ruta } from '../nucleo/rutas';
-import { claveCurso, leerClaveCurso, type Curso } from '../nucleo/tipos';
+import { claveCurso, type Curso } from '../nucleo/tipos';
 
 const catalogo = catalogoJson as Catalogo;
 
@@ -18,54 +18,81 @@ const enOtroCurso = (ruta: RutaDeCurso, c: Curso): Ruta => ({ ...ruta, ciclo: c.
 
 export function BandaCurso({ ruta }: { ruta: RutaDeCurso }) {
   const [abierto, setAbierto] = useState(false);
+  const caja = useRef<HTMLDivElement>(null);
+  const boton = useRef<HTMLButtonElement>(null);
   const actual = claveCurso(ruta);
-  const guardados = datos.value.cursos.map(leerClaveCurso).filter((c): c is Curso => c !== null && esCursoActivo(c, catalogo));
-  const area = nombreDeArea(ruta.area, idioma.value, catalogo);
-  const dos = guardados.length >= 2;
-  const interruptor = useRef<HTMLUListElement>(null);
+  const todos = cursosActivos(catalogo);
+  const suyos = todos.filter((c) => datos.value.cursos.includes(claveCurso(c)));
+  const otros = todos.filter((c) => !datos.value.cursos.includes(claveCurso(c)));
+  const grupos = suyos.length > 0 && otros.length > 0 ? [{ titulo: t('banda.vuestros'), cursos: suyos }, { titulo: t('banda.otros'), cursos: otros }] : [{ titulo: null, cursos: todos }];
 
-  // Al pulsar «Cambiar», el botón da paso a los cursos: el foco va al curso que se está viendo.
+  // Se cierra al tocar fuera o al llevar el foco fuera (tabulador), y con Escape (el foco vuelve al botón).
   useEffect(() => {
-    if (abierto) interruptor.current?.querySelector<HTMLAnchorElement>('[aria-current]')?.focus();
+    if (!abierto) return;
+    const fuera = (e: Event): void => {
+      if (!caja.current?.contains(e.target as Node)) setAbierto(false);
+    };
+    document.addEventListener('pointerdown', fuera);
+    document.addEventListener('focusin', fuera);
+    return () => {
+      document.removeEventListener('pointerdown', fuera);
+      document.removeEventListener('focusin', fuera);
+    };
   }, [abierto]);
 
-  /** Pasa a mirar otro curso; con uno solo guardado, el elegido sustituye al que había. */
+  const tecla = (e: KeyboardEvent): void => {
+    if (e.key !== 'Escape' || !abierto) return;
+    setAbierto(false);
+    boton.current?.focus();
+  };
+
   const elegir = (c: Curso): void => {
     const clave = claveCurso(c);
     const d = datos.value;
-    guardar({ ...d, cursos: dos ? d.cursos : [clave], cursoActivo: clave });
+    const cursos = d.cursos.includes(clave) ? d.cursos : [...d.cursos.filter((k) => k !== actual), clave].sort();
+    guardar({ ...d, cursos, cursoActivo: clave });
     setAbierto(false);
   };
 
   return (
     <nav class="banda-curso" aria-label={t('curso.etiqueta')}>
       <div class="banda-curso-dentro">
-        {dos || abierto ? (
-          <>
-            <span class="banda-area">{area}</span>
-            <ul class="interruptor-curso" ref={interruptor}>
-              {(dos ? guardados : cursosActivos(catalogo)).map((c) => {
-                const clave = claveCurso(c);
-                return (
-                  <li key={clave}>
-                    <a href={construir(enOtroCurso(ruta, c))} aria-current={clave === actual ? 'true' : undefined} onClick={() => elegir(c)}>
-                      {tDinamico(`curso_corto.${c.curso}`)}
-                    </a>
-                  </li>
-                );
-              })}
-            </ul>
-          </>
-        ) : (
-          <>
-            <span class="banda-area">
-              {area} · <strong>{tDinamico(`curso_corto.${ruta.curso}`)}</strong>
-            </span>
-            <button type="button" class="boton boton-plegable boton-banda" onClick={() => setAbierto(true)}>
-              {t('banda.cambiar')}
-            </button>
-          </>
-        )}
+        <span class="banda-area">{nombreDeArea(ruta.area, idioma.value, catalogo)}</span>
+        <div class="selector-curso" ref={caja} onKeyDown={tecla}>
+          <button
+            type="button"
+            ref={boton}
+            class="boton boton-plegable boton-curso"
+            aria-expanded={abierto}
+            aria-controls="lista-cursos"
+            onClick={() => setAbierto(!abierto)}
+          >
+            <span class="solo-lectores">{t('curso.etiqueta')}: </span>
+            {tDinamico(`curso.${ruta.curso}`)}
+          </button>
+          {abierto && (
+            <div id="lista-cursos" class="lista-cursos">
+              {grupos.map((g) => (
+                <div key={g.titulo ?? 'todos'}>
+                  {g.titulo && <p class="lista-cursos-titulo">{g.titulo}</p>}
+                  <ul>
+                    {g.cursos.map((c) => {
+                      const clave = claveCurso(c);
+                      return (
+                        <li key={clave}>
+                          <a href={construir(enOtroCurso(ruta, c))} aria-current={clave === actual ? 'true' : undefined} onClick={() => elegir(c)}>
+                            {tDinamico(`curso.${c.curso}`)}
+                            {clave === actual && <span aria-hidden="true">✓</span>}
+                          </a>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
       </div>
     </nav>
   );

@@ -104,50 +104,65 @@ body {
   white-space: nowrap;
 }
 
-.boton.boton-banda {
+
+
+/* El curso: un botón que abre una lista propia, flotando bajo la banda */
+.selector-curso {
+  position: relative;
   flex: none;
-  min-block-size: 2.75rem;
-  margin-block: 0.25rem; /* igual de alta que el interruptor: la banda no salta al pulsar */
-  padding-inline: 1rem;
+}
+
+.boton.boton-curso {
   background: var(--tarjeta);
   box-shadow: var(--sombra);
 }
 
-
-.interruptor-curso {
-  display: flex;
-  flex: none;
-  gap: 0.25rem;
-  margin: 0;
-  padding: 0.25rem;
-  border-radius: 999px;
+.lista-cursos {
+  position: absolute;
+  z-index: 10;
+  inset-block-start: calc(100% + 0.5rem);
+  inset-inline-end: 0;
+  min-inline-size: 13rem;
+  padding: 0.5rem;
+  border: 1px solid var(--borde);
+  border-radius: 1.25rem;
   background: var(--tarjeta);
-  box-shadow: var(--sombra);
+  box-shadow: var(--sombra-alta);
+}
+
+.lista-cursos ul {
+  margin: 0;
+  padding: 0;
   list-style: none;
 }
 
-.interruptor-curso a {
-  display: inline-flex;
+.lista-cursos-titulo {
+  margin: 0.5rem 0.75rem 0.25rem;
+  color: var(--texto-suave);
+  font-size: 0.875rem;
+}
+
+.lista-cursos a {
+  display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  gap: 1rem;
   min-block-size: 2.75rem;
-  min-inline-size: 3.5rem;
-  padding-inline: 1rem;
+  padding-inline: 0.75rem;
   border: 2px solid transparent;
-  white-space: nowrap;
-  border-radius: 999px;
-  color: var(--acento-oscuro);
+  border-radius: 0.75rem;
+  color: var(--texto);
   font-weight: 700;
   text-decoration: none;
 }
 
-.interruptor-curso a:hover {
+.lista-cursos a:hover {
   background: var(--acento-suave);
 }
 
-.interruptor-curso a[aria-current='true'] {
-  background: var(--acento);
-  color: var(--sobre-acento);
+.lista-cursos a[aria-current='true'] {
+  background: var(--acento-suave);
+  color: var(--acento-oscuro);
 }
 
 main {
@@ -1402,7 +1417,7 @@ a.planta {
 
   .menu-principal a[aria-current='page'],
   .selector-idioma button[aria-pressed='true'],
-  .interruptor-curso a[aria-current='true'] {
+  .lista-cursos a[aria-current='true'] {
     border-color: Highlight;
   }
 }
