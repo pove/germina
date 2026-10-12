@@ -1,6 +1,7 @@
 // Banda del curso, bajo el menú: qué curso se está viendo y cómo cambiar de curso.
-// Con dos cursos guardados, un toque cambia de uno a otro; con uno solo, «Cambiar» abre la lista de cursos.
-import { useState } from 'preact/hooks';
+// Siempre en una fila. Con dos cursos guardados, un toque cambia de uno a otro; con uno solo, «Cambiar»
+// convierte la banda en el mismo interruptor con los cursos del ciclo, y elegir otro sustituye al que había.
+import { useEffect, useRef, useState } from 'preact/hooks';
 import catalogoJson from '../../config/catalogo.json';
 import { datos, guardar } from '../estado';
 import { idioma, t, tDinamico } from '../idioma';
@@ -20,67 +21,52 @@ export function BandaCurso({ ruta }: { ruta: RutaDeCurso }) {
   const actual = claveCurso(ruta);
   const guardados = datos.value.cursos.map(leerClaveCurso).filter((c): c is Curso => c !== null && esCursoActivo(c, catalogo));
   const area = nombreDeArea(ruta.area, idioma.value, catalogo);
-  const rotulo = (c: Curso): string => tDinamico(`curso.${c.curso}`);
+  const dos = guardados.length >= 2;
+  const interruptor = useRef<HTMLUListElement>(null);
 
-  /** Pasa a mirar otro curso; con `solo`, ese curso sustituye al que había. */
-  const elegir = (c: Curso, solo: boolean): void => {
+  // Al pulsar «Cambiar», el botón da paso a los cursos: el foco va al curso que se está viendo.
+  useEffect(() => {
+    if (abierto) interruptor.current?.querySelector<HTMLAnchorElement>('[aria-current]')?.focus();
+  }, [abierto]);
+
+  /** Pasa a mirar otro curso; con uno solo guardado, el elegido sustituye al que había. */
+  const elegir = (c: Curso): void => {
     const clave = claveCurso(c);
     const d = datos.value;
-    guardar({ ...d, cursos: solo ? [clave] : d.cursos, cursoActivo: clave });
+    guardar({ ...d, cursos: dos ? d.cursos : [clave], cursoActivo: clave });
     setAbierto(false);
   };
-
-  if (guardados.length >= 2) {
-    return (
-      <nav class="banda-curso" aria-label={t('curso.etiqueta')}>
-        <div class="banda-curso-dentro">
-          <span class="banda-area">{area}</span>
-          <ul class="interruptor-curso">
-            {guardados.map((c) => {
-              const clave = claveCurso(c);
-              return (
-                <li key={clave}>
-                  <a href={construir(enOtroCurso(ruta, c))} aria-current={clave === actual ? 'true' : undefined} onClick={() => elegir(c, false)}>
-                    {rotulo(c)}
-                  </a>
-                </li>
-              );
-            })}
-          </ul>
-        </div>
-      </nav>
-    );
-  }
 
   return (
     <nav class="banda-curso" aria-label={t('curso.etiqueta')}>
       <div class="banda-curso-dentro">
-        <span class="banda-area">
-          {area} · <strong>{rotulo(ruta)}</strong>
-        </span>
-        <button type="button" class="boton boton-plegable boton-banda" aria-expanded={abierto} onClick={() => setAbierto(!abierto)}>
-          {t('banda.cambiar')}
-        </button>
+        {dos || abierto ? (
+          <>
+            <span class="banda-area">{area}</span>
+            <ul class="interruptor-curso" ref={interruptor}>
+              {(dos ? guardados : cursosActivos(catalogo)).map((c) => {
+                const clave = claveCurso(c);
+                return (
+                  <li key={clave}>
+                    <a href={construir(enOtroCurso(ruta, c))} aria-current={clave === actual ? 'true' : undefined} onClick={() => elegir(c)}>
+                      {tDinamico(`curso_corto.${c.curso}`)}
+                    </a>
+                  </li>
+                );
+              })}
+            </ul>
+          </>
+        ) : (
+          <>
+            <span class="banda-area">
+              {area} · <strong>{tDinamico(`curso_corto.${ruta.curso}`)}</strong>
+            </span>
+            <button type="button" class="boton boton-plegable boton-banda" onClick={() => setAbierto(true)}>
+              {t('banda.cambiar')}
+            </button>
+          </>
+        )}
       </div>
-      {abierto && (
-        <div class="banda-curso-panel">
-          <ul class="interruptor-curso">
-            {cursosActivos(catalogo).map((c) => {
-              const clave = claveCurso(c);
-              return (
-                <li key={clave}>
-                  <a href={construir(enOtroCurso(ruta, c))} aria-current={clave === actual ? 'true' : undefined} onClick={() => elegir(c, true)}>
-                    {rotulo(c)}
-                  </a>
-                </li>
-              );
-            })}
-          </ul>
-          <p>
-            {t('banda.dos_cursos')} <a href={construir({ tipo: 'ajustes' })}>{t('nav.ajustes')}</a>
-          </p>
-        </div>
-      )}
     </nav>
   );
 }

@@ -85,9 +85,10 @@
 
   "curso.3": { "es": "3.º", "va": "3r", "en": "3rd year", "fr": "3e année", "ar": "الصف الثالث" },
   "curso.4": { "es": "4.º", "va": "4t", "en": "4th year", "fr": "4e année", "ar": "الصف الرابع" },
+  "curso_corto.3": { "es": "3.º", "va": "3r", "en": "3rd", "fr": "3e", "ar": "الثالث" },
+  "curso_corto.4": { "es": "4.º", "va": "4t", "en": "4th", "fr": "4e", "ar": "الرابع" },
   "curso.etiqueta": { "es": "Curso", "va": "Curs", "en": "Year", "fr": "Année", "ar": "الصف" },
   "banda.cambiar": { "es": "Cambiar", "va": "Canviar", "en": "Change", "fr": "Changer", "ar": "تغيير" },
-  "banda.dos_cursos": { "es": "¿Hermanos o hermanas en 3.º y en 4.º? Podéis seguir los dos cursos desde", "va": "Germans o germanes en 3r i en 4t? Podeu seguir els dos cursos des de", "en": "Brothers or sisters in 3rd and 4th year? You can follow both years from", "fr": "Des frères ou sœurs en 3e et en 4e année ? Vous pouvez suivre les deux années depuis", "ar": "إخوة أو أخوات في الصفين الثالث والرابع؟ يمكنكم متابعة الصفين من" },
   "ciclo.2": { "es": "2.º ciclo", "va": "2n cicle", "en": "2nd cycle", "fr": "2e cycle", "ar": "الحلقة الثانية" },
 
   "cambio_curso.pregunta": {

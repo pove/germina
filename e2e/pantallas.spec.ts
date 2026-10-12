@@ -257,14 +257,13 @@ test.describe('cursos y cambio de curso', () => {
     await sinProblemasDeAccesibilidad(page);
   });
 
-  test('con un solo curso, «Cambiar» abre la lista y elegir otro curso lo sustituye', async ({ page }) => {
+  test('con un solo curso, «Cambiar» muestra los cursos en la misma banda y elegir otro lo sustituye', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es' } });
     await page.goto(SEMANA_7);
     const banda = page.getByRole('navigation', { name: T('curso.etiqueta', 'es') });
     await expect(banda).toContainText('Matemáticas · 3.º');
-    const cambiar = banda.getByRole('button', { name: T('banda.cambiar', 'es') });
-    await cambiar.click();
-    await expect(cambiar).toHaveAttribute('aria-expanded', 'true');
+    await banda.getByRole('button', { name: T('banda.cambiar', 'es') }).click();
+    await expect(banda.getByRole('link', { name: '3.º' })).toBeFocused();
     await sinProblemasDeAccesibilidad(page);
     await objetivosTactiles(page);
     await banda.getByRole('link', { name: '4.º' }).click();
