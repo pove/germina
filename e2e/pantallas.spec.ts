@@ -437,20 +437,19 @@ test.describe('dos ventanas a la vez', () => {
     await page.goto('./#/ajustes');
     await expect(page.getByRole('button', { name: '3.º' })).toHaveAttribute('aria-pressed', 'true');
 
-    // Otra ventana (la app instalada, otra pestaña): cambia a 4.º desde la banda.
+    // Otra ventana (la app instalada, otra pestaña) añade 4.º en sus Ajustes.
     const otra = await context.newPage();
     await preparar(otra);
-    await otra.goto(SEMANA_7);
-    await otra.getByRole('navigation', { name: T('curso.etiqueta', 'es') }).getByRole('button', { name: /3\.º/ }).click();
-    await otra.getByRole('link', { name: '4.º' }).click();
-    await expect(otra).toHaveURL(/\/2\/matematicas\/4\/semana\/7$/);
+    await otra.goto('./#/ajustes');
+    await otra.getByRole('button', { name: '4.º' }).click();
+    await expect(otra.getByRole('button', { name: '4.º' })).toHaveAttribute('aria-pressed', 'true');
 
     // La primera ventana se entera sin recargar…
     await expect(page.getByRole('button', { name: '4.º' })).toHaveAttribute('aria-pressed', 'true');
-    await expect(page.getByRole('button', { name: '3.º' })).toHaveAttribute('aria-pressed', 'false');
-    // …y lo que haga después parte de lo último, sin volver a dejar solo 3.º.
-    await page.getByRole('button', { name: '3.º' }).click();
-    expect(await guardado(page)).toMatchObject({ cursos: [CURSO_3, CURSO_4], cursoActivo: CURSO_4 });
+    // …y lo que haga después parte de lo último: quitar 4.º deja solo 3.º (con los datos viejos, el toque habría añadido 4.º en vez de quitarlo).
+    await page.getByRole('button', { name: '4.º' }).click();
+    expect(await guardado(page)).toMatchObject({ cursos: [CURSO_3], cursoActivo: CURSO_3 });
+    await expect(otra.getByRole('button', { name: '4.º' })).toHaveAttribute('aria-pressed', 'false');
 
     // El idioma, igual.
     await page.getByRole('button', { name: 'Français' }).click();
