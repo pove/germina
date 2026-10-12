@@ -26,7 +26,7 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | --- | --- |
 | `#/` | Redirige a la semana actual del curso activo, o a `#/bienvenida` si no hay curso elegido |
 | `#/bienvenida` | Idioma (preseleccionado el del navegador si es uno de los cinco), curso o cursos (3.º, 4.º o los dos) y las tres frases de semilla y jardín (5.5) |
-| `#/{ciclo}/{area}/{curso}/semana/{n}` | **Esta semana** (inicio): título, objetivo, pregunta de hoy, acceso al reto, selector ◀ semana n ▶, «Volver a esta semana» si no es la actual, cambio de curso con un toque si hay dos |
+| `#/{ciclo}/{area}/{curso}/semana/{n}` | **Esta semana** (inicio): título, objetivo, pregunta de hoy, acceso al reto, selector ◀ semana n ▶ con los días de lunes a viernes y «Esta semana» si es la actual, «Volver a esta semana» si no lo es |
 | `#/{ciclo}/{area}/{curso}/semana/{n}/pregunta/{1-5}` | **Pregunta del día**: texto, botón «Pista», botón «Ver la respuesta», «Invéntala tú», «¡Lo hemos hablado!», arriba la vuelta a la semana y abajo las cinco preguntas en fila (la actual resaltada y las habladas con ✓) |
 | `#/{ciclo}/{area}/{curso}/semana/{n}/reto` | **Reto**: material, minutos, pasos con pictograma, más fácil, más difícil, para qué sirve, aviso, cronómetro y récord si es de rapidez, «¡Lo hemos jugado!» |
 | `#/{ciclo}/{area}/{curso}/verano/{n}` y `…/verano/{n}/reto` | Igual que una semana, para los retos de verano |
@@ -38,6 +38,8 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | `#/recibir/{codigo}` | Pregunta «¿Añadir este jardín al vuestro?» y lo combina (6.4) |
 | `#/imprimir/records` | Hoja de récords para imprimir |
 | `#/privacidad`, `#/accesibilidad` | Páginas legales (9) |
+
+En las pantallas de un curso, bajo el menú, una **banda del curso** a todo el ancho («Matemáticas · 3.º»). Con dos cursos guardados es un interruptor y un toque cambia al otro curso en la misma pantalla; con uno solo, «Cambiar» abre la lista de cursos (elegir otro lo sustituye) y remite a Ajustes para seguir dos.
 
 Ejemplo: `#/2/matematicas/3/semana/7`. Una ruta desconocida o una semana inexistente lleva a `#/` sin error.
 

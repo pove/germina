@@ -8,7 +8,6 @@ import { construir } from '../nucleo/rutas';
 import { SEMANAS, VERANOS, claveSemana, claveVerano, type Curso } from '../nucleo/tipos';
 import { Cargando } from '../piezas/Carga';
 import { Icono } from '../piezas/Icono';
-import { contexto } from '../piezas/Layout';
 import { Plegable } from '../piezas/Plegable';
 
 export function Explicacion() {
@@ -66,7 +65,6 @@ export function Jardin({ curso }: { curso: Curso }) {
 
   return (
     <>
-      <p class="contexto">{contexto(curso)}</p>
       <h1 tabIndex={-1}>{t('jardin.titulo')}</h1>
       <Plegable etiqueta={ayuda} clase="boton-ayuda boton-plegable">
         <Explicacion />

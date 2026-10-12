@@ -79,6 +79,87 @@ body {
   overflow-wrap: break-word; /* palabras largas con el zoom al 200 % */
 }
 
+/* Banda del curso: a todo el ancho, bajo el menú */
+.banda-curso {
+  border-block: 1px solid var(--borde);
+  background: var(--hierba-suave);
+}
+
+.banda-curso-dentro,
+.banda-curso-panel {
+  max-inline-size: 40rem;
+  margin-inline: auto;
+  padding: 0.375rem 1rem;
+}
+
+.banda-curso-dentro {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.25rem 0.75rem;
+}
+
+.banda-area {
+  font-size: 1.0625rem;
+}
+
+.boton.boton-banda {
+  min-block-size: 2.75rem;
+  padding-inline: 1rem;
+  background: var(--tarjeta);
+  box-shadow: var(--sombra);
+}
+
+.banda-curso-panel {
+  padding-block: 0 0.75rem;
+}
+
+.banda-curso-panel p {
+  margin-block: 0.75rem 0;
+  font-size: 0.9375rem;
+}
+
+.banda-curso-panel p a {
+  color: var(--acento-oscuro);
+  font-weight: 700;
+}
+
+.interruptor-curso {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin: 0;
+  padding: 0.25rem;
+  border-radius: 999px;
+  background: var(--tarjeta);
+  box-shadow: var(--sombra);
+  list-style: none;
+}
+
+.interruptor-curso a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-block-size: 2.75rem;
+  min-inline-size: 3.5rem;
+  padding-inline: 1rem;
+  border: 2px solid transparent;
+  border-radius: 999px;
+  color: var(--acento-oscuro);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.interruptor-curso a:hover {
+  background: var(--acento-suave);
+}
+
+.interruptor-curso a[aria-current='true'] {
+  background: var(--acento);
+  color: var(--sobre-acento);
+}
+
 main {
   max-inline-size: 40rem;
   margin-inline: auto;
@@ -825,11 +906,26 @@ html[dir='rtl'] .boton-plegable[aria-expanded='true']::after {
 }
 
 .semana-actual {
+  display: flex;
   flex: 1 1 auto;
+  flex-direction: column;
+  align-items: center;
   margin: 0;
   text-align: center;
+}
+
+.semana-numero {
   font-size: 1.125rem;
   font-weight: 700;
+}
+
+.semana-dias {
+  color: var(--texto-suave);
+  font-size: 0.875rem;
+}
+
+.semana-dias.esta {
+  color: var(--acento-oscuro);
 }
 
 .flecha {
@@ -1315,13 +1411,15 @@ a.planta {
   }
 
   .menu-principal a[aria-current='page'],
-  .selector-idioma button[aria-pressed='true'] {
+  .selector-idioma button[aria-pressed='true'],
+  .interruptor-curso a[aria-current='true'] {
     border-color: Highlight;
   }
 }
 
 @media print {
   .cabecera,
+  .banda-curso,
   .saltar,
   .aviso-global,
   .no-imprimir,

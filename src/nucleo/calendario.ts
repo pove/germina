@@ -83,6 +83,11 @@ export function lunesDeSemana(anoCurso: number, n: number): Fecha {
   return deDias(aDias(inicioDelCurso(anoCurso)) + (n - 1) * 7);
 }
 
+/** Viernes de la semana `n`: las preguntas van de lunes a viernes. */
+export function viernesDeSemana(anoCurso: number, n: number): Fecha {
+  return deDias(aDias(lunesDeSemana(anoCurso, n)) + 4);
+}
+
 /** Pregunta de hoy: lunes = 1 … viernes = 5; sábado y domingo no hay. */
 export function hoy(f: Fecha): Hoy {
   const dia = diaDeLaSemana(f);

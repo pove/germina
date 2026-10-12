@@ -6,7 +6,6 @@ import { construir } from '../nucleo/rutas';
 import { claveCurso, claveSemana, type Curso } from '../nucleo/tipos';
 import { Cargando } from '../piezas/Carga';
 import { Contenido } from '../piezas/Contenido';
-import { contexto } from '../piezas/Layout';
 import { TarjetaPregunta } from '../piezas/TarjetaPregunta';
 
 interface Props {
@@ -21,7 +20,6 @@ export function Pregunta({ curso, n, p }: Props) {
 
   return (
     <>
-      <p class="contexto">{contexto(curso)}</p>
       <a class="enlace-volver" href={construir(semana)}>
         <span class="flecha-texto" aria-hidden="true">
           ←

@@ -5,7 +5,6 @@ import { t } from '../idioma';
 import { claveCurso, type Curso } from '../nucleo/tipos';
 import { Cargando } from '../piezas/Carga';
 import { Contenido } from '../piezas/Contenido';
-import { contexto } from '../piezas/Layout';
 
 export function Aprenden({ curso }: { curso: Curso }) {
   const carga = useCarga(() => cargarObjetivos(curso), [claveCurso(curso)]);
@@ -13,7 +12,6 @@ export function Aprenden({ curso }: { curso: Curso }) {
   const trimestreActual = sit.tipo === 'curso' ? sit.trimestre : null;
   return (
     <>
-      <p class="contexto">{contexto(curso)}</p>
       <h1 tabIndex={-1}>{t('aprenden.titulo')}</h1>
       <Cargando
         carga={carga}

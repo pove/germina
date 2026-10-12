@@ -7,7 +7,8 @@ import { datos, hayAlmacen } from '../estado';
 import { idioma, t, tDinamico } from '../idioma';
 import { esCursoActivo, nombreDeArea, type Catalogo } from '../nucleo/catalogo';
 import { construir, type Ruta } from '../nucleo/rutas';
-import { leerClaveCurso, type Curso } from '../nucleo/tipos';
+import { claveCurso, leerClaveCurso, type Curso } from '../nucleo/tipos';
+import { BandaCurso } from './BandaCurso';
 import { Icono, type NombreIcono } from './Icono';
 
 const catalogo = catalogoJson as Catalogo;
@@ -104,6 +105,7 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
           </nav>
         )}
       </header>
+      {!sinMenu && 'ciclo' in ruta && esCursoActivo(ruta, catalogo) && <BandaCurso key={claveCurso(ruta)} ruta={ruta} />}
       {hayNovedades.value && (
         <div role="status" class="aviso-global aviso-novedades">
           <p>{t('aviso.novedades')}</p>
