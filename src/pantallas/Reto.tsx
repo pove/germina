@@ -8,7 +8,6 @@ import { claveCurso, claveSemana, claveVerano, type Curso } from '../nucleo/tipo
 import { Cargando } from '../piezas/Carga';
 import { Contenido } from '../piezas/Contenido';
 import { Cronometro } from '../piezas/Cronometro';
-import { contexto } from '../piezas/Layout';
 import { Pictograma } from '../piezas/Pictograma';
 import { formatearNumero } from '../nucleo/numeros';
 import type { Reto as RetoContenido } from '../nucleo/contenido';
@@ -70,7 +69,6 @@ export function Reto({ curso, n, verano }: Props) {
 
   return (
     <>
-      <p class="contexto">{contexto(curso)}</p>
       <Cargando
         carga={carga}
         hijo={(c) => {

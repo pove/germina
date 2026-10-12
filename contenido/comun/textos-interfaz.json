@@ -85,7 +85,10 @@
 
   "curso.3": { "es": "3.º", "va": "3r", "en": "3rd year", "fr": "3e année", "ar": "الصف الثالث" },
   "curso.4": { "es": "4.º", "va": "4t", "en": "4th year", "fr": "4e année", "ar": "الصف الرابع" },
+  "curso_corto.3": { "es": "3.º", "va": "3r", "en": "3rd", "fr": "3e", "ar": "الثالث" },
+  "curso_corto.4": { "es": "4.º", "va": "4t", "en": "4th", "fr": "4e", "ar": "الرابع" },
   "curso.etiqueta": { "es": "Curso", "va": "Curs", "en": "Year", "fr": "Année", "ar": "الصف" },
+  "banda.cambiar": { "es": "Cambiar", "va": "Canviar", "en": "Change", "fr": "Changer", "ar": "تغيير" },
   "ciclo.2": { "es": "2.º ciclo", "va": "2n cicle", "en": "2nd cycle", "fr": "2e cycle", "ar": "الحلقة الثانية" },
 
   "cambio_curso.pregunta": {
@@ -132,7 +135,6 @@
     "fr": "C'est le week-end : un bon moment pour le défi.",
     "ar": "إنها عطلة نهاية الأسبوع: وقت مناسب للتحدّي."
   },
-  "semana.cambiar_curso": { "es": "Cambiar a {curso}", "va": "Canviar a {curso}", "en": "Switch to {curso}", "fr": "Passer en {curso}", "ar": "انتقلوا إلى {curso}" },
   "semana.en_camino": {
     "es": "Esta semilla está en camino.",
     "va": "Aquesta llavor està en camí.",
@@ -168,6 +170,11 @@
   "dia.5": { "es": "Viernes", "va": "Divendres", "en": "Friday", "fr": "Vendredi", "ar": "الجمعة" },
   "dia.6": { "es": "Sábado", "va": "Dissabte", "en": "Saturday", "fr": "Samedi", "ar": "السبت" },
   "dia.7": { "es": "Domingo", "va": "Diumenge", "en": "Sunday", "fr": "Dimanche", "ar": "الأحد" },
+  "dia_corto.1": { "es": "Lun", "va": "Dl", "en": "Mon", "fr": "Lun", "ar": "الاثنين" },
+  "dia_corto.2": { "es": "Mar", "va": "Dt", "en": "Tue", "fr": "Mar", "ar": "الثلاثاء" },
+  "dia_corto.3": { "es": "Mié", "va": "Dc", "en": "Wed", "fr": "Mer", "ar": "الأربعاء" },
+  "dia_corto.4": { "es": "Jue", "va": "Dj", "en": "Thu", "fr": "Jeu", "ar": "الخميس" },
+  "dia_corto.5": { "es": "Vie", "va": "Dv", "en": "Fri", "fr": "Ven", "ar": "الجمعة" },
 
   "pregunta.titulo": { "es": "Pregunta {n}", "va": "Pregunta {n}", "en": "Question {n}", "fr": "Question {n}", "ar": "السؤال {n}" },
   "pregunta.pista": { "es": "Pista", "va": "Pista", "en": "Hint", "fr": "Indice", "ar": "تلميح" },
@@ -179,8 +186,6 @@
   "pregunta.inventala": { "es": "Invéntala tú", "va": "Inventa-la tu", "en": "Make one up", "fr": "Invente-la", "ar": "لنخترع واحدة" },
   "pregunta.hablado": { "es": "¡Lo hemos hablado!", "va": "Ho hem parlat!", "en": "We've talked about it!", "fr": "On en a parlé !", "ar": "تحدّثنا عنه!" },
   "pregunta.hablado_marcado": { "es": "Hablada", "va": "Parlada", "en": "Talked about", "fr": "Dont on a parlé", "ar": "تم الحديث عنه" },
-  "pregunta.anterior": { "es": "Pregunta anterior", "va": "Pregunta anterior", "en": "Previous question", "fr": "Question précédente", "ar": "السؤال السابق" },
-  "pregunta.siguiente": { "es": "Pregunta siguiente", "va": "Pregunta següent", "en": "Next question", "fr": "Question suivante", "ar": "السؤال التالي" },
 
   "reto.titulo": { "es": "El reto", "va": "El repte", "en": "The challenge", "fr": "Le défi", "ar": "التحدّي" },
   "reto.material": { "es": "Material", "va": "Material", "en": "Materials", "fr": "Matériel", "ar": "المواد" },

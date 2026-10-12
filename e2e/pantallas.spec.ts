@@ -77,9 +77,15 @@ for (const idioma of IDIOMAS) {
       await ocultarSemillas(page, [`${CURSO_3}/s36`]);
       await page.goto(SEMANA_7);
       await expect(page.getByRole('link', { name: T('semana.volver_actual', idioma) })).toHaveCount(0);
+      // Debajo del número, «Esta semana» y los días de lunes a viernes.
+      const dias = page.locator('.selector-semana .semana-dias');
+      await expect(dias).toContainText(T('nav.inicio', idioma));
+      if (idioma === 'es') await expect(dias).toContainText(/19–23\D*oct/);
 
       await page.getByRole('link', { name: T('semana.siguiente', idioma) }).click();
       await expect(page).toHaveURL(/semana\/8$/);
+      await expect(dias).not.toContainText(T('nav.inicio', idioma));
+      if (idioma === 'es') await expect(dias).toContainText(/26–30\D*oct/);
       await expect(page.getByRole('heading', { level: 1 })).toContainText(idioma === 'ar' ? 'الباقي' : 'La vuelta');
       await expect(page.getByText(T('semana.en_camino', idioma))).toHaveCount(0);
 
@@ -127,10 +133,16 @@ for (const idioma of IDIOMAS) {
       await sinProblemasDeAccesibilidad(page);
       await objetivosTactiles(page);
 
-      // Anterior y siguiente.
-      await expect(page.getByRole('link', { name: T('pregunta.anterior', idioma) })).toHaveCount(0);
-      await page.getByRole('link', { name: T('pregunta.siguiente', idioma) }).click();
+      // Las cinco preguntas, con la actual marcada, y vuelta a la semana.
+      const pasos = page.getByRole('navigation', { name: T('semana.preguntas', idioma) });
+      await expect(pasos.getByRole('link')).toHaveCount(5);
+      await expect(pasos.locator('[aria-current="page"]')).toHaveAttribute('href', /pregunta\/1$/);
+      await expect(page.getByRole('link', { name: T('semana.titulo', idioma, { n: 7 }), exact: true })).toHaveAttribute('href', /semana\/7$/);
+      await page.getByRole('button', { name: T('pregunta.hablado', idioma), exact: true }).click();
+      await expect(pasos.locator('.hablada')).toHaveCount(1); // la ✓ sale al momento
+      await pasos.locator('[rel="next"]').click();
       await expect(page).toHaveURL(/pregunta\/2$/);
+      await expect(pasos.locator('[rel="prev"]')).toHaveAttribute('href', /pregunta\/1$/);
       // Al cambiar de pregunta, la pista vuelve a estar oculta.
       await expect(page.getByRole('button', { name: T('pregunta.pista', idioma), exact: true })).toHaveAttribute('aria-expanded', 'false');
     });
@@ -141,7 +153,7 @@ for (const idioma of IDIOMAS) {
       await page.getByRole('button', { name: T('pregunta.ver_respuesta', idioma) }).click();
       await expect(page.getByText(T('pregunta.orientacion', idioma))).toBeVisible();
       await expect(page.getByRole('button', { name: T('pregunta.inventala', idioma) })).toHaveCount(0);
-      await expect(page.getByRole('link', { name: T('pregunta.siguiente', idioma) })).toHaveCount(0);
+      await expect(page.locator('.pasos-preguntas [rel="next"]')).toHaveCount(0);
     });
 
     test('el reto: material, pasos con pictograma y operaciones', async ({ page }) => {
@@ -230,20 +242,34 @@ test('sin ningún reto de verano publicado, «en camino» no ofrece ir a otro', 
 });
 
 test.describe('cursos y cambio de curso', () => {
-  test('con dos cursos, un toque cambia de uno a otro', async ({ page }) => {
+  test('con dos cursos, la banda cambia de uno a otro con un toque y se queda en la misma pantalla', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es', cursos: [CURSO_3, CURSO_4] } });
     await page.goto(SEMANA_7);
-    await page.getByRole('link', { name: T('semana.cambiar_curso', 'es', { curso: '4.º' }) }).click();
+    const banda = page.getByRole('navigation', { name: T('curso.etiqueta', 'es') });
+    await expect(banda.getByRole('link', { name: '3.º' })).toHaveAttribute('aria-current', 'true');
+    await banda.getByRole('link', { name: '4.º' }).click();
     await expect(page).toHaveURL(/\/2\/matematicas\/4\/semana\/7$/);
     await expect(page.getByRole('heading', { level: 1 })).toContainText('Restas con ceros');
-    await page.getByRole('link', { name: T('semana.cambiar_curso', 'es', { curso: '3.º' }) }).click();
-    await expect(page).toHaveURL(/\/2\/matematicas\/3\/semana\/7$/);
+    expect(await guardado(page)).toMatchObject({ cursoActivo: CURSO_4 });
+    await page.goto('./#/2/matematicas/4/jardin');
+    await banda.getByRole('link', { name: '3.º' }).click();
+    await expect(page).toHaveURL(/\/2\/matematicas\/3\/jardin$/);
+    await sinProblemasDeAccesibilidad(page);
   });
 
-  test('con un solo curso no sale el cambio', async ({ page }) => {
+  test('con un solo curso, «Cambiar» muestra los cursos en la misma banda y elegir otro lo sustituye', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es' } });
     await page.goto(SEMANA_7);
-    await expect(page.getByRole('link', { name: /Cambiar a/ })).toHaveCount(0);
+    const banda = page.getByRole('navigation', { name: T('curso.etiqueta', 'es') });
+    await expect(banda).toContainText('Matemáticas · 3.º');
+    await banda.getByRole('button', { name: T('banda.cambiar', 'es') }).click();
+    await expect(banda.getByRole('link', { name: '3.º' })).toBeFocused();
+    await sinProblemasDeAccesibilidad(page);
+    await objetivosTactiles(page);
+    await banda.getByRole('link', { name: '4.º' }).click();
+    await expect(page).toHaveURL(/\/2\/matematicas\/4\/semana\/7$/);
+    expect(await guardado(page)).toMatchObject({ cursos: [CURSO_4], cursoActivo: CURSO_4 });
+    await expect(banda).toContainText('Matemáticas · 4.º');
   });
 
   test('septiembre: ¿ha pasado a 4.º? Sí → el curso pasa a 4.º y se conserva lo del año anterior', async ({ page }) => {

@@ -5,6 +5,7 @@ import textos from '../contenido/comun/textos-interfaz.json';
 import { datos, guardar } from './estado';
 import { detectarIdioma } from './nucleo/idiomas';
 import { elegir, faltaAlguno, interpolar } from './nucleo/textos';
+import type { Fecha } from './nucleo/calendario';
 import { IDIOMAS, type Idioma } from './nucleo/tipos';
 
 export type ClaveTexto = keyof typeof textos;
@@ -60,4 +61,15 @@ export function elegirIdioma(id: Idioma): void {
   idioma.value = id;
   aplicarIdioma(id);
   guardar({ ...datos.value, idioma: id });
+}
+
+/** «12–16 oct.»: de lunes a viernes, en el idioma elegido y con cifras 0–9 (también en árabe). */
+export function formatearDias(desde: Fecha, hasta: Fecha): string {
+  const lang = (IDIOMAS_CONFIG.find((c) => c.id === idioma.value) ?? IDIOMAS_CONFIG[0]!).lang;
+  const formato = new Intl.DateTimeFormat(`${lang}-u-nu-latn`, { day: 'numeric', month: 'short', timeZone: 'UTC' });
+  const fecha = (f: Fecha): Date => new Date(Date.UTC(f.a, f.m - 1, f.d));
+  // Al cambiar de año (Navidad), sin años: «28 dic – 1 ene».
+  const texto = desde.a === hasta.a ? formato.formatRange(fecha(desde), fecha(hasta)) : `${formato.format(fecha(desde))} – ${formato.format(fecha(hasta))}`;
+  // «12–16» se aísla de izquierda a derecha para que en árabe no salga «16–12».
+  return texto.replace(/\d+\s*[–-]\s*\d+/g, (m) => `\u2066${m}\u2069`);
 }

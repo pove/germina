@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
 import {
-  CURSO_POR_DEFECTO, anoDeCurso, diaDeLaSemana, fechaDeDate, hoy, inicioDelCurso, lunesDe, lunesDeSemana, mismaFecha,
+  CURSO_POR_DEFECTO, anoDeCurso, diaDeLaSemana, fechaDeDate, hoy, inicioDelCurso, lunesDe, lunesDeSemana, mismaFecha, viernesDeSemana,
   situacion, trimestreDe, type Fecha,
 } from './calendario';
 
@@ -108,6 +108,12 @@ describe('semanas 41 y 42 y el verano', () => {
     expect(lunesDeSemana(2026, 1)).toEqual(f(2026, 9, 7));
     expect(lunesDeSemana(2026, 41)).toEqual(f(2027, 6, 14));
     expect(lunesDeSemana(2026, 42)).toEqual(f(2027, 6, 21));
+  });
+
+  it('el viernes de cada semana, también cuando cambia de mes o de año', () => {
+    expect(viernesDeSemana(2026, 6)).toEqual(f(2026, 10, 16));
+    expect(viernesDeSemana(2026, 4)).toEqual(f(2026, 10, 2)); // del 28 de septiembre al 2 de octubre
+    expect(viernesDeSemana(2026, 17)).toEqual(f(2027, 1, 1)); // del 28 de diciembre al 1 de enero
   });
 });
 

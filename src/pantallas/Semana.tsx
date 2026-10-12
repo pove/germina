@@ -1,8 +1,8 @@
 // «Esta semana» (inicio) y los retos de verano: objetivo, pregunta de hoy, reto y selector de semana.
 import { cargarIndice, cargarMapa, cargarSemilla, claveEnIndice, useCarga } from '../contenido';
-import { datos, hoyFecha, marcadoDe, situacionHoy } from '../estado';
-import { idioma, t, tDinamico } from '../idioma';
-import { hoy as hoyDe } from '../nucleo/calendario';
+import { anoCursoHoy, hoyFecha, marcadoDe, situacionHoy } from '../estado';
+import { formatearDias, idioma, t, tDinamico } from '../idioma';
+import { hoy as hoyDe, lunesDeSemana, viernesDeSemana } from '../nucleo/calendario';
 import { semillaCercana } from '../nucleo/jardin';
 import { rutaDeSituacion } from '../nucleo/inicio';
 import { construir, type Ruta } from '../nucleo/rutas';
@@ -12,7 +12,6 @@ import { Cargando } from '../piezas/Carga';
 import { Contenido } from '../piezas/Contenido';
 import { Icono } from '../piezas/Icono';
 import { Pictograma } from '../piezas/Pictograma';
-import { contexto } from '../piezas/Layout';
 import { TarjetaPregunta } from '../piezas/TarjetaPregunta';
 
 interface Props {
@@ -37,10 +36,23 @@ function Selector({ curso, verano, n }: Props) {
         {simbolo}
       </span>
     );
+  // Debajo del número, los días (de lunes a viernes) y, si toca, «Esta semana».
+  const sit = situacionHoy.value;
+  const esta = !verano && sit.tipo === 'curso' && sit.semana === n;
+  const dias = verano ? null : formatearDias(lunesDeSemana(anoCursoHoy.value, n), viernesDeSemana(anoCursoHoy.value, n));
   return (
     <div class="selector-semana" role="group" aria-label={etiqueta}>
       {flecha(n - 1, verano ? t('verano.anterior') : t('semana.anterior'), '◀')}
-      <p class="semana-actual">{etiqueta}</p>
+      <p class="semana-actual">
+        <span class="semana-numero">{etiqueta}</span>
+        {dias && (
+          <span class={esta ? 'semana-dias esta' : 'semana-dias'}>
+            {esta && <strong>{t('nav.inicio')}</strong>}
+            {esta && ' · '}
+            {dias}
+          </span>
+        )}
+      </p>
       {flecha(n + 1, verano ? t('verano.siguiente') : t('semana.siguiente'), '▶')}
     </div>
   );
@@ -195,13 +207,9 @@ export function Semana({ curso, n, verano }: Props) {
   const sit = situacionHoy.value;
   const actual = rutaDeSituacion(curso, sit);
   const esActual = actual.tipo === (verano ? 'verano' : 'semana') && 'n' in actual && (verano || actual.n === n);
-  const otro = datos.value.cursos.filter((c) => c !== clave);
-  const otroCurso = otro.length > 0 ? otro[0] : null;
-  const cambiar = otroCurso ? otroCurso.split('/') : null;
 
   return (
     <>
-      <p class="contexto">{contexto(curso)}</p>
       <Selector curso={curso} verano={verano} n={n} />
       <Cargando
         carga={carga}
@@ -217,14 +225,6 @@ export function Semana({ curso, n, verano }: Props) {
         {!esActual && (
           <a class="boton" href={construir(actual)}>
             {t('semana.volver_actual')}
-          </a>
-        )}
-        {cambiar && (
-          <a
-            class="boton"
-            href={construir(rutaDe({ ciclo: Number(cambiar[0]), area: cambiar[1]!, curso: Number(cambiar[2]) }, verano, n))}
-          >
-            {t('semana.cambiar_curso', { curso: tDinamico(`curso.${cambiar[2]}`) })}
           </a>
         )}
       </div>
