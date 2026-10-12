@@ -266,7 +266,7 @@ test.describe('cursos y cambio de curso', () => {
     await expect(page).toHaveURL(/\/2\/matematicas\/3\/jardin$/);
   });
 
-  test('con un solo curso, la lista separa los vuestros de los otros y elegir otro lo sustituye', async ({ page }) => {
+  test('con un solo curso, la lista separa los vuestros de los otros y mirar otro no cambia los vuestros', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es' } });
     await page.goto(SEMANA_7);
     const banda = page.getByRole('navigation', { name: T('curso.etiqueta', 'es') });
@@ -286,8 +286,16 @@ test.describe('cursos y cambio de curso', () => {
     await expect(banda.getByText(T('banda.otros', 'es'))).toBeVisible();
     await banda.getByRole('link', { name: '4.º' }).click();
     await expect(page).toHaveURL(/\/2\/matematicas\/4\/semana\/7$/);
-    expect(await guardado(page)).toMatchObject({ cursos: [CURSO_4], cursoActivo: CURSO_4 });
-    await expect(banda.getByRole('button', { name: /4\.º/ })).toBeVisible();
+    // Mirar otro curso no cambia los vuestros: 3.º sigue arriba y 4.º sigue entre los otros.
+    expect(await guardado(page)).toMatchObject({ cursos: [CURSO_3], cursoActivo: CURSO_3 });
+    const boton4 = banda.getByRole('button', { name: /4\.º/ });
+    await boton4.click();
+    await expect(banda.locator('.lista-cursos > div').first()).toContainText(T('banda.vuestros', 'es'));
+    await expect(banda.locator('.lista-cursos > div').first().getByRole('link')).toHaveText(['3.º']);
+    await expect(banda.locator('.lista-cursos > div').last().getByRole('link', { name: '4.º' })).toHaveAttribute('aria-current', 'true');
+    // Y «Esta semana» vuelve a vuestro curso.
+    await page.getByRole('link', { name: T('nav.inicio', 'es') }).click();
+    await expect(page).toHaveURL(/\/2\/matematicas\/3\/semana\/7$/);
   });
 
   test('septiembre: ¿ha pasado a 4.º? Sí → el curso pasa a 4.º y se conserva lo del año anterior', async ({ page }) => {

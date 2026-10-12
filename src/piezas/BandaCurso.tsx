@@ -1,6 +1,6 @@
 // Banda del curso, bajo el menú: «Matemáticas · [3.º ▾]». El botón abre una lista propia de cursos
 // (igual en el móvil y en el escritorio, con dos cursos o con seis): arriba los que sigue la familia,
-// debajo los demás. Elegir uno de los suyos solo cambia de curso; elegir otro lo pone en lugar del que se ve.
+// debajo los demás. La banda solo sirve para mirar: los cursos de la familia se eligen en Ajustes.
 import { useEffect, useRef, useState } from 'preact/hooks';
 import catalogoJson from '../../config/catalogo.json';
 import { datos, guardar } from '../estado';
@@ -46,11 +46,11 @@ export function BandaCurso({ ruta }: { ruta: RutaDeCurso }) {
     boton.current?.focus();
   };
 
+  /** Uno de los vuestros pasa a ser el curso activo; otro curso solo se mira: lo elegido en Ajustes no cambia. */
   const elegir = (c: Curso): void => {
     const clave = claveCurso(c);
     const d = datos.value;
-    const cursos = d.cursos.includes(clave) ? d.cursos : [...d.cursos.filter((k) => k !== actual), clave].sort();
-    guardar({ ...d, cursos, cursoActivo: clave });
+    if (d.cursos.includes(clave) && d.cursoActivo !== clave) guardar({ ...d, cursoActivo: clave });
     setAbierto(false);
   };
 
