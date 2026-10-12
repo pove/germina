@@ -106,46 +106,63 @@ body {
 
 
 
-/* El curso, un desplegable del sistema con forma de botón y su triángulo */
+/* El curso: un botón que abre una lista propia, flotando bajo la banda */
 .selector-curso {
   position: relative;
   flex: none;
 }
 
-.selector-curso select {
-  min-block-size: 2.75rem;
-  padding-block: 0.25rem;
-  padding-inline: 1rem 2.5rem;
-  border: 2px solid var(--borde-control);
-  border-radius: 999px;
+.boton.boton-curso {
   background: var(--tarjeta);
-  color: var(--acento-oscuro);
-  font: inherit;
-  font-weight: 700;
-  appearance: none;
-  field-sizing: content; /* tan ancho como el curso elegido, no como el texto más largo de la lista */
-  cursor: pointer;
+  box-shadow: var(--sombra);
 }
 
-.selector-curso::after {
-  content: '';
+.lista-cursos {
   position: absolute;
-  inset-block-start: 50%;
-  inset-inline-end: 1.125rem;
-  inline-size: 0.5rem;
-  block-size: 0.5rem;
-  border-block-end: 2px solid var(--acento-oscuro);
-  border-inline-end: 2px solid var(--acento-oscuro);
-  transform: translateY(-70%) rotate(45deg);
-  pointer-events: none;
+  z-index: 10;
+  inset-block-start: calc(100% + 0.5rem);
+  inset-inline-end: 0;
+  min-inline-size: 13rem;
+  padding: 0.5rem;
+  border: 1px solid var(--borde);
+  border-radius: 1.25rem;
+  background: var(--tarjeta);
+  box-shadow: var(--sombra-alta);
 }
 
-html[dir='rtl'] .selector-curso::after {
-  transform: translateY(-70%) rotate(-45deg);
+.lista-cursos ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
-.selector-curso select:hover {
+.lista-cursos-titulo {
+  margin: 0.5rem 0.75rem 0.25rem;
+  color: var(--texto-suave);
+  font-size: 0.875rem;
+}
+
+.lista-cursos a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  min-block-size: 2.75rem;
+  padding-inline: 0.75rem;
+  border: 2px solid transparent;
+  border-radius: 0.75rem;
+  color: var(--texto);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.lista-cursos a:hover {
   background: var(--acento-suave);
+}
+
+.lista-cursos a[aria-current='true'] {
+  background: var(--acento-suave);
+  color: var(--acento-oscuro);
 }
 
 main {
@@ -1399,7 +1416,8 @@ a.planta {
   }
 
   .menu-principal a[aria-current='page'],
-  .selector-idioma button[aria-pressed='true'] {
+  .selector-idioma button[aria-pressed='true'],
+  .lista-cursos a[aria-current='true'] {
     border-color: Highlight;
   }
 }
