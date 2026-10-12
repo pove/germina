@@ -127,10 +127,16 @@ for (const idioma of IDIOMAS) {
       await sinProblemasDeAccesibilidad(page);
       await objetivosTactiles(page);
 
-      // Anterior y siguiente.
-      await expect(page.getByRole('link', { name: T('pregunta.anterior', idioma) })).toHaveCount(0);
-      await page.getByRole('link', { name: T('pregunta.siguiente', idioma) }).click();
+      // Las cinco preguntas, con la actual marcada, y vuelta a la semana.
+      const pasos = page.getByRole('navigation', { name: T('semana.preguntas', idioma) });
+      await expect(pasos.getByRole('link')).toHaveCount(5);
+      await expect(pasos.locator('[aria-current="page"]')).toHaveAttribute('href', /pregunta\/1$/);
+      await expect(page.getByRole('link', { name: T('semana.titulo', idioma, { n: 7 }), exact: true })).toHaveAttribute('href', /semana\/7$/);
+      await page.getByRole('button', { name: T('pregunta.hablado', idioma), exact: true }).click();
+      await expect(pasos.locator('.hablada')).toHaveCount(1); // la ✓ sale al momento
+      await pasos.locator('[rel="next"]').click();
       await expect(page).toHaveURL(/pregunta\/2$/);
+      await expect(pasos.locator('[rel="prev"]')).toHaveAttribute('href', /pregunta\/1$/);
       // Al cambiar de pregunta, la pista vuelve a estar oculta.
       await expect(page.getByRole('button', { name: T('pregunta.pista', idioma), exact: true })).toHaveAttribute('aria-expanded', 'false');
     });
@@ -141,7 +147,7 @@ for (const idioma of IDIOMAS) {
       await page.getByRole('button', { name: T('pregunta.ver_respuesta', idioma) }).click();
       await expect(page.getByText(T('pregunta.orientacion', idioma))).toBeVisible();
       await expect(page.getByRole('button', { name: T('pregunta.inventala', idioma) })).toHaveCount(0);
-      await expect(page.getByRole('link', { name: T('pregunta.siguiente', idioma) })).toHaveCount(0);
+      await expect(page.locator('.pasos-preguntas [rel="next"]')).toHaveCount(0);
     });
 
     test('el reto: material, pasos con pictograma y operaciones', async ({ page }) => {
