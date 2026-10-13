@@ -131,11 +131,11 @@
       "ar": "إشارة = تعني أن الطرفين متساويان، مثل الشمّاعة المستوية. والبحث عن العدد الناقص يساعد على التفكير في الحساب بالعكس."
     },
     "aviso": {
-      "es": "Si usáis pinzas pequeñas o botones, guardadlos lejos de hermanos o hermanas pequeños.",
-      "va": "Si feu servir pinces menudes o botons, guardeu-los lluny de germans o germanes menuts.",
-      "en": "If you use small pegs or buttons, keep them away from younger brothers and sisters.",
-      "fr": "Si vous utilisez de petites pinces ou des boutons, gardez-les loin des petits frères et sœurs.",
-      "ar": "إذا استعملتم ملاقط صغيرة أو أزرارًا، فأبعدوها عن الإخوة والأخوات الصغار."
+      "es": "Que la percha quede recta depende también de que las bolsas sean iguales y estén en las puntas. Si no queda del todo recta, contad las pinzas de cada bolsa: lo que importa es que haya las mismas. Si usáis pinzas pequeñas o botones, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Que la perxa quede recta depén també que les bosses siguen iguals i estiguen a les puntes. Si no queda del tot recta, compteu les pinces de cada bossa: el que importa és que n'hi haja les mateixes. Si feu servir pinces menudes o botons, guardeu-los lluny de germans o germanes menuts.",
+      "en": "Whether the hanger stays level also depends on the bags being the same and hanging at the ends. If it is not quite level, count the pegs in each bag: what matters is that there are the same number. If you use small pegs or buttons, keep them away from younger brothers and sisters.",
+      "fr": "Que le cintre reste droit dépend aussi du fait que les sacs soient pareils et accrochés aux bouts. S'il ne reste pas tout à fait droit, comptez les pinces de chaque sac : ce qui compte, c'est qu'il y en ait autant. Si vous utilisez de petites pinces ou des boutons, gardez-les loin des petits frères et sœurs.",
+      "ar": "استواء الشمّاعة يعتمد أيضًا على أن تكون الكيستان متماثلتين ومعلّقتين في الطرفين. وإذا لم تبقَ مستوية تمامًا، فعدّوا الملاقط في كل كيس: المهم أن يكون عددها متساويًا. إذا استعملتم ملاقط صغيرة أو أزرارًا، فأبعدوها عن الإخوة والأخوات الصغار."
     }
   },
   "preguntas": [
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "122353bff223"
+        "huella": "5793602c0947"
       },
       "en": {
         "estado": "automatica",
-        "huella": "122353bff223"
+        "huella": "5793602c0947"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "122353bff223"
+        "huella": "5793602c0947"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "122353bff223"
+        "huella": "5793602c0947"
       }
     }
   }

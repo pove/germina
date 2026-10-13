@@ -160,15 +160,15 @@
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "13 - 6 - 6",
-        "resultado": 1,
+        "operacion": "13 - 6 - 1",
+        "resultado": 6,
         "unidad": "unidades",
         "texto": {
-          "es": "Tocan 6 a cada uno y sobra 1: {{13 − 6 − 6 = 1}}.",
-          "va": "En toquen 6 a cadascú i en sobra 1: {{13 − 6 − 6 = 1}}.",
-          "en": "Each gets 6 and 1 is left over: {{13 − 6 − 6 = 1}}.",
-          "fr": "Chacun en a 6 et il en reste 1 : {{13 − 6 − 6 = 1}}.",
-          "ar": "لكل واحد 6 حبات وتبقى حبة واحدة: {{13 − 6 − 6 = 1}}."
+          "es": "Tocan 6 a cada uno y sobra 1: {{6 + 6 + 1 = 13}}.",
+          "va": "En toquen 6 a cadascú i en sobra 1: {{6 + 6 + 1 = 13}}.",
+          "en": "Each gets 6 and 1 is left over: {{6 + 6 + 1 = 13}}.",
+          "fr": "Chacun en a 6 et il en reste 1 : {{6 + 6 + 1 = 13}}.",
+          "ar": "لكل واحد 6 حبات وتبقى حبة واحدة: {{6 + 6 + 1 = 13}}."
         }
       },
       "inventala": {
@@ -334,19 +334,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "c8d73a670555"
+        "huella": "becc6bf20abc"
       },
       "en": {
         "estado": "automatica",
-        "huella": "c8d73a670555"
+        "huella": "becc6bf20abc"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "c8d73a670555"
+        "huella": "becc6bf20abc"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "c8d73a670555"
+        "huella": "becc6bf20abc"
       }
     }
   }

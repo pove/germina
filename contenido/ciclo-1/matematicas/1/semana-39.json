@@ -122,6 +122,13 @@
       "en": "Understanding that equals means “the same on both sides”, and not just “here comes what it makes”, helps a lot when longer sums come along.",
       "fr": "Comprendre que égal veut dire « la même chose des deux côtés », et pas seulement « voici ce que ça fait », aide beaucoup quand arrivent des calculs plus longs.",
       "ar": "فهم أن يساوي تعني «الشيء نفسه في الجهتين»، وليس فقط «الآن يأتي الناتج»، يساعد كثيرًا حين تأتي عمليات أطول."
+    },
+    "aviso": {
+      "es": "Que la percha quede recta depende también de dónde colguéis cada pinza: ponedlas siempre cerca de las puntas. Si no queda del todo recta, contad las pinzas de cada lado: lo que importa es que haya las mismas.",
+      "va": "Que la perxa quede recta depén també d'on pengeu cada pinça: poseu-les sempre prop de les puntes. Si no queda del tot recta, compteu les pinces de cada costat: el que importa és que n'hi haja les mateixes.",
+      "en": "Whether the hanger stays level also depends on where you hang each peg: always put them near the ends. If it is not quite level, count the pegs on each side: what matters is that there are the same number.",
+      "fr": "Que le cintre reste droit dépend aussi de l'endroit où vous accrochez chaque pince : mettez-les toujours près des bouts. S'il ne reste pas tout à fait droit, comptez les pinces de chaque côté : ce qui compte, c'est qu'il y en ait autant.",
+      "ar": "استواء الشمّاعة يعتمد أيضًا على مكان تعليق كل ملقط: علّقوها دائمًا قرب الطرفين. وإذا لم تبقَ مستوية تمامًا، فعدّوا الملاقط في كل جهة: المهم أن يكون عددها متساويًا."
     }
   },
   "preguntas": [
@@ -319,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "29ecf3b73b6b"
+        "huella": "314f53cf607d"
       },
       "en": {
         "estado": "automatica",
-        "huella": "29ecf3b73b6b"
+        "huella": "314f53cf607d"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "29ecf3b73b6b"
+        "huella": "314f53cf607d"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "29ecf3b73b6b"
+        "huella": "314f53cf607d"
       }
     }
   }

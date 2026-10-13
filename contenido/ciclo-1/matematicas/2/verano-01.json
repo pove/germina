@@ -110,11 +110,11 @@
       "ar": "العبوا بجدول 10 أو جدول 2 فقط، وعدّوا على الأصابع إذا ساعدكم ذلك."
     },
     "masDificil": {
-      "es": "Añadid la tabla del 4, que es el doble de la del 2: {{4 × 3}} es el doble de {{2 × 3}}.",
-      "va": "Afegiu la taula del 4, que és el doble (doble) de la del 2: {{4 × 3}} és el doble de {{2 × 3}}.",
-      "en": "Add the 4 times table, which is double (doble) the 2 times table: {{4 × 3}} is double {{2 × 3}}.",
-      "fr": "Ajoutez la table de 4, qui est le double (doble) de celle de 2 : {{4 × 3}}, c'est le double de {{2 × 3}}.",
-      "ar": "أضيفوا جدول 4، وهو ضعف (doble) جدول 2: {{4 × 3}} ضعف {{2 × 3}}."
+      "es": "Añadid la tabla del 4, que es el doble de la del 2: {{3 × 4}} es el doble de {{3 × 2}}.",
+      "va": "Afegiu la taula del 4, que és el doble (doble) de la del 2: {{3 × 4}} és el doble de {{3 × 2}}.",
+      "en": "Add the 4 times table, which is double (doble) the 2 times table: {{3 × 4}} is double {{3 × 2}}.",
+      "fr": "Ajoutez la table de 4, qui est le double (doble) de celle de 2 : {{3 × 4}}, c'est le double de {{3 × 2}}.",
+      "ar": "أضيفوا جدول 4، وهو ضعف (doble) جدول 2: {{3 × 4}} ضعف {{3 × 2}}."
     },
     "paraQueSirve": {
       "es": "Lo que no se usa se olvida un poco. Unos minutos de juego de vez en cuando mantienen estas tablas a mano para 3.º, donde llegan las demás.",
@@ -336,19 +336,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "efc64b9487a9"
+        "huella": "be38b804e465"
       },
       "en": {
         "estado": "automatica",
-        "huella": "efc64b9487a9"
+        "huella": "be38b804e465"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "efc64b9487a9"
+        "huella": "be38b804e465"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "efc64b9487a9"
+        "huella": "be38b804e465"
       }
     }
   }

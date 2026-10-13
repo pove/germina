@@ -204,7 +204,7 @@
         "tipo": "calculo",
         "operacion": "10 - 3",
         "resultado": 7,
-        "unidad": "unidades",
+        "unidad": "kg",
         "texto": {
           "es": "Quedan 7 kilos: {{10 − 3 = 7}}.",
           "va": "En queden 7 quilos: {{10 − 3 = 7}}.",

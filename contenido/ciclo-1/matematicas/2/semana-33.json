@@ -266,7 +266,7 @@
         "tipo": "calculo",
         "operacion": "2 + 3",
         "resultado": 5,
-        "unidad": "unidades",
+        "unidad": "l",
         "texto": {
           "es": "Hay 5 litros.",
           "va": "Hi ha 5 litres.",

@@ -161,7 +161,7 @@
         "tipo": "calculo",
         "operacion": "2 + 3",
         "resultado": 5,
-        "unidad": "unidades",
+        "unidad": "kg",
         "texto": {
           "es": "Lleva 5 kilos.",
           "va": "Porta 5 quilos.",
@@ -200,7 +200,7 @@
         "tipo": "calculo",
         "operacion": "4 - 3",
         "resultado": 1,
-        "unidad": "unidades",
+        "unidad": "l",
         "texto": {
           "es": "Queda 1 litro.",
           "va": "En queda 1 litre.",
