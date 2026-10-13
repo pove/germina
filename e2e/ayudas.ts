@@ -84,3 +84,9 @@ export async function objetivosTactiles(page: Page): Promise<void> {
   );
   expect(pequenos, 'objetivos táctiles de menos de 44 px').toEqual([]);
 }
+
+/** Abre «☰ Menú» de la esquina y pulsa uno de sus enlaces (qué aprenden, cómo ayudar, ajustes). */
+export async function irDesdeElMenu(page: Page, texto: string, idioma: Idioma): Promise<void> {
+  await page.getByRole('button', { name: T('nav.menu', idioma) }).click();
+  await page.getByRole('navigation', { name: T('nav.menu', idioma) }).getByRole('link', { name: texto }).click();
+}

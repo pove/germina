@@ -32,7 +32,8 @@ for (const idioma of ['es', 'ar'] as const) {
     test('el menú sigue marcando «Ajustes» en las páginas legales', async ({ page }) => {
       await preparar(page, { almacen: { idioma } });
       await page.goto('./#/privacidad');
-      await expect(page.getByRole('navigation').getByRole('link', { name: T('nav.ajustes', idioma) })).toHaveAttribute('aria-current', 'page');
+      await page.getByRole('button', { name: T('nav.menu', idioma) }).click();
+      await expect(page.getByRole('navigation', { name: T('nav.menu', idioma) }).getByRole('link', { name: T('nav.ajustes', idioma) })).toHaveAttribute('aria-current', 'page');
     });
   });
 }
