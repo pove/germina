@@ -16,7 +16,7 @@ Cada semana del curso trae una **semilla**: un reto de unos 10 minutos para juga
 
 ## Pantallas
 
-Bienvenida, esta semana, pregunta del día, reto (con cronómetro y récord), jardín, qué aprenden, cómo ayudar, ajustes, llevar el jardín a otro móvil, hoja de récords para imprimir, privacidad y accesibilidad. Las rutas usan almohadilla (`#/2/matematicas/3/semana/7`), porque GitHub Pages solo sirve archivos estáticos.
+Bienvenida, esta semana, pregunta del día, reto (con cronómetro), jardín, qué aprenden, cómo ayudar, ajustes, llevar el jardín a otro móvil, privacidad y accesibilidad. Las rutas usan almohadilla (`#/2/matematicas/3/semana/7`), porque GitHub Pages solo sirve archivos estáticos.
 
 ## Estado
 

@@ -1,6 +1,6 @@
 import { describe, expect, it, vi } from 'vitest';
 import {
-  CLAVE, almacenDelNavegador, borrar, conElemento, conRecord, datosVacios, escribir, leer, sanear, type Almacenamiento,
+  CLAVE, almacenDelNavegador, borrar, conElemento, datosVacios, escribir, leer, sanear, type Almacenamiento,
 } from './almacen';
 import type { Datos } from './tipos';
 
@@ -23,7 +23,7 @@ const ejemplo: Datos = {
   cursoActivo: '2/matematicas/3',
   ultimoAnoCurso: 2026,
   progreso: {
-    '2026/2/matematicas/3': { s07: { hecho: ['p1', 'p2', 'reto'], record: 14 }, v03: { hecho: ['reto'] } },
+    '2026/2/matematicas/3': { s07: { hecho: ['p1', 'p2', 'reto'] }, v03: { hecho: ['reto'] } },
   },
 };
 
@@ -33,7 +33,7 @@ describe('leer y escribir', () => {
     expect(escribir(a, ejemplo)).toBe(true);
     const { datos, estado } = leer(a);
     expect(estado).toBe('ok');
-    expect(datos.progreso['2026/2/matematicas/3']!.s07).toEqual({ hecho: ['reto', 'p1', 'p2'], record: 14 });
+    expect(datos.progreso['2026/2/matematicas/3']!.s07).toEqual({ hecho: ['reto', 'p1', 'p2'] });
     expect(datos.idioma).toBe('ar');
     expect(datos.cursoActivo).toBe('2/matematicas/3');
     expect(datos.ultimoAnoCurso).toBe(2026);
@@ -43,7 +43,7 @@ describe('leer y escribir', () => {
     const a = falso({
       [CLAVE]: JSON.stringify({
         v: 1, idioma: 'es', cursos: ['2/matematicas/3', '2/matematicas/4'], cursoActivo: '2/matematicas/3', ultimoAnoCurso: 2026,
-        progreso: { '2026/2/matematicas/3': { s07: { hecho: ['reto', 'p1', 'p2'], record: 14 }, v03: { hecho: ['reto'] } } },
+        progreso: { '2026/2/matematicas/3': { s07: { hecho: ['reto', 'p1', 'p2'] }, v03: { hecho: ['reto'] } } },
       }),
     });
     expect(leer(a).estado).toBe('ok');
@@ -106,22 +106,19 @@ describe('sanear: ignora lo que no encaja sin romper el resto', () => {
     expect(sanear({ ...base, ultimoAnoCurso: ano })!.ultimoAnoCurso).toBeNull();
   });
 
-  it('progreso: claves, semillas, elementos y récords no válidos', () => {
+  it('progreso: claves, semillas, elementos no válidos y récords de versiones anteriores', () => {
     const d = sanear({
       ...base,
       progreso: {
         '2026/2/matematicas/3': {
-          s07: { hecho: ['p2', 'p1', 'p1', 'baile', 7, 'reto'], record: 200 },
+          s07: { hecho: ['p2', 'p1', 'p1', 'baile', 7, 'reto'] },
           s42: { hecho: ['reto'] },
           s00: { hecho: ['reto'] },
           x01: { hecho: ['reto'] },
-          s08: { hecho: ['reto'], record: 256 },
-          s09: { hecho: ['reto'], record: -1 },
-          s10: { hecho: ['reto'], record: 1.5 },
+          s08: { hecho: ['reto'], record: 14 },
           s11: { hecho: 'reto' },
           s12: { hecho: [] },
           s13: 'nada',
-          s14: { hecho: [], record: 0 },
           v11: { hecho: ['reto'] },
         },
         '1999/2/matematicas/3': { s01: { hecho: ['reto'] } },
@@ -133,11 +130,8 @@ describe('sanear: ignora lo que no encaja sin romper el resto', () => {
     })!;
     expect(d.progreso).toEqual({
       '2026/2/matematicas/3': {
-        s07: { hecho: ['reto', 'p1', 'p2'], record: 200 },
+        s07: { hecho: ['reto', 'p1', 'p2'] },
         s08: { hecho: ['reto'] },
-        s09: { hecho: ['reto'] },
-        s10: { hecho: ['reto'] },
-        s14: { hecho: [], record: 0 },
       },
     });
   });
@@ -148,17 +142,15 @@ describe('sanear: ignora lo que no encaja sin romper el resto', () => {
 });
 
 describe('marcar', () => {
-  it('marca, desmarca y apunta récords sin tocar el original', () => {
+  it('marca y desmarca sin tocar el original', () => {
     const d0 = datosVacios();
     const d1 = conElemento(d0, 2026, curso3, 's07', 'p2');
     const d2 = conElemento(d1, 2026, curso3, 's07', 'reto');
     const d3 = conElemento(d2, 2026, curso3, 's07', 'p1');
     expect(d0).toEqual(datosVacios());
     expect(d3.progreso['2026/2/matematicas/3']!.s07!.hecho).toEqual(['reto', 'p1', 'p2']);
-    const d4 = conRecord(d3, 2026, curso3, 's07', 14);
-    expect(d4.progreso['2026/2/matematicas/3']!.s07).toEqual({ hecho: ['reto', 'p1', 'p2'], record: 14 });
-    const d5 = conElemento(d4, 2026, curso3, 's07', 'p1', false);
-    expect(d5.progreso['2026/2/matematicas/3']!.s07).toEqual({ hecho: ['reto', 'p2'], record: 14 });
+    const d4 = conElemento(d3, 2026, curso3, 's07', 'p1', false);
+    expect(d4.progreso['2026/2/matematicas/3']!.s07).toEqual({ hecho: ['reto', 'p2'] });
   });
 
   it('marcar dos veces es lo mismo que una', () => {
@@ -170,17 +162,6 @@ describe('marcar', () => {
     let d = conElemento(datosVacios(), 2026, curso3, 's01', 'p1');
     d = conElemento(d, 2026, curso3, 's01', 'p1', false);
     expect(d.progreso).toEqual({});
-  });
-
-  it('un récord sin nada marcado se guarda', () => {
-    const d = conRecord(datosVacios(), 2026, curso3, 'v01', 0);
-    expect(d.progreso['2026/2/matematicas/3']!.v01).toEqual({ hecho: [], record: 0 });
-  });
-
-  it('un récord fuera de 0 a 255 no se admite', () => {
-    expect(() => conRecord(datosVacios(), 2026, curso3, 's01', 256)).toThrow(RangeError);
-    expect(() => conRecord(datosVacios(), 2026, curso3, 's01', -1)).toThrow(RangeError);
-    expect(() => conRecord(datosVacios(), 2026, curso3, 's01', 1.5)).toThrow(RangeError);
   });
 });
 

@@ -132,14 +132,7 @@
       "ar": "النزهة دائمًا مع شخص بالغ، وفي أماكن آمنة من السيارات."
     },
     "rapidez": {
-      "segundos": 60,
-      "seCuenta": {
-        "es": "nombres dichos en orden",
-        "va": "noms dits en orde",
-        "en": "names said in order",
-        "fr": "noms dits dans l'ordre",
-        "ar": "الأسماء التي قيلت بالترتيب"
-      }
+      "segundos": 60
     }
   },
   "preguntas": [
@@ -337,19 +330,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "b2e91f7c4ed5"
+        "huella": "7f9550556320"
       },
       "en": {
         "estado": "automatica",
-        "huella": "b2e91f7c4ed5"
+        "huella": "7f9550556320"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "b2e91f7c4ed5"
+        "huella": "7f9550556320"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "b2e91f7c4ed5"
+        "huella": "7f9550556320"
       }
     }
   }

@@ -1,7 +1,6 @@
-// «Reto»: material, pasos con pictograma, más fácil, más difícil, para qué sirve, aviso, cronómetro y récord.
-import { useState } from 'preact/hooks';
+// «Reto»: material, pasos con pictograma, más fácil, más difícil, para qué sirve, aviso y cronómetro.
 import { cargarSemilla, useCarga } from '../contenido';
-import { alternarElemento, apuntarRecord, datos, marcadoDe } from '../estado';
+import { alternarElemento, datos, marcadoDe } from '../estado';
 import { t } from '../idioma';
 import { construir } from '../nucleo/rutas';
 import { claveCurso, claveSemana, claveVerano, type Curso } from '../nucleo/tipos';
@@ -9,55 +8,11 @@ import { Cargando } from '../piezas/Carga';
 import { Contenido } from '../piezas/Contenido';
 import { Cronometro } from '../piezas/Cronometro';
 import { Pictograma } from '../piezas/Pictograma';
-import { formatearNumero } from '../nucleo/numeros';
-import type { Reto as RetoContenido } from '../nucleo/contenido';
 
 interface Props {
   curso: Curso;
   n: number;
   verano: boolean;
-}
-
-function Record({ curso, clave, reto }: { curso: Curso; clave: string; reto: NonNullable<RetoContenido['rapidez']> }) {
-  const [texto, setTexto] = useState('');
-  const [ultimo, setUltimo] = useState<{ valor: number; nuevo: boolean } | null>(null);
-  const mejor = marcadoDe(curso, clave)?.record;
-  const valor = /^\d{1,3}$/.test(texto) ? Number(texto) : null;
-  const valido = valor !== null && valor <= 255;
-
-  return (
-    <section class="tarjeta" aria-labelledby="titulo-record">
-      <h3 id="titulo-record">{t('record.titulo')}</h3>
-      <p>
-        {t('record.cuenta', { que: '' })}
-        <Contenido texto={reto.seCuenta} />
-      </p>
-      <p>{mejor === undefined ? t('record.sin') : t('record.mejor', { n: formatearNumero(mejor) })}</p>
-      <form
-        class="formulario-record"
-        onSubmit={(e) => {
-          e.preventDefault();
-          if (!valido) return;
-          setUltimo({ valor, nuevo: apuntarRecord(curso, clave, valor) });
-          setTexto('');
-        }}
-      >
-        <label for="resultado">{t('record.apuntar')}</label>
-        <input id="resultado" type="text" inputMode="numeric" autoComplete="off" value={texto} onInput={(e) => setTexto((e.target as HTMLInputElement).value.trim())} />
-        <button type="submit" class="boton" disabled={!valido}>
-          {t('record.guardar')}
-        </button>
-      </form>
-      <div role="status">
-        {ultimo && (
-          <p>
-            {t('record.hoy', { n: formatearNumero(ultimo.valor) })}
-            {ultimo.nuevo && <strong> · {t('record.nuevo')}</strong>}
-          </p>
-        )}
-      </div>
-    </section>
-  );
 }
 
 export function Reto({ curso, n, verano }: Props) {
@@ -138,12 +93,7 @@ export function Reto({ curso, n, verano }: Props) {
                 </ol>
               </section>
 
-              {r.rapidez && (
-                <>
-                  <Cronometro segundos={r.rapidez.segundos} />
-                  <Record curso={curso} clave={clave} reto={r.rapidez} />
-                </>
-              )}
+              {r.rapidez && <Cronometro segundos={r.rapidez.segundos} />}
 
               <section class="dos-columnas" aria-label={`${t('reto.mas_facil')} / ${t('reto.mas_dificil')}`}>
                 <div class="tarjeta tarjeta-facil">

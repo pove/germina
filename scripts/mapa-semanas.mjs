@@ -53,7 +53,7 @@ function comprobarComun(donde, e) {
 
 const md = ['# Mapa de semanas · Matemáticas', ''];
 md.push('> Generado por `scripts/mapa-semanas.mjs` a partir del `mapa-semanas.json` de cada ciclo. No editar a mano.', '');
-md.push(`Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récord. Saberes sin el prefijo \`${AREA}.\` y criterios sin el prefijo \`${AREA}.cN.\` de su ciclo, tal como están en \`config/curriculo/${AREA}.json\`.`, '');
+md.push(`Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro. Saberes sin el prefijo \`${AREA}.\` y criterios sin el prefijo \`${AREA}.cN.\` de su ciclo, tal como están en \`config/curriculo/${AREA}.json\`.`, '');
 const resumen = [];
 
 for (const ruta of rutasMapas) {

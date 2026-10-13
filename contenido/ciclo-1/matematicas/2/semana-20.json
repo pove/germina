@@ -138,14 +138,7 @@
       "ar": "إذا استعملتم أعواد الأسنان، فاختاروها بلا رأس حادّ، وأبعدوها عن الإخوة والأخوات الصغار."
     },
     "rapidez": {
-      "segundos": 60,
-      "seCuenta": {
-        "es": "resultados acertados",
-        "va": "resultats encertats",
-        "en": "right answers",
-        "fr": "bons résultats",
-        "ar": "النتائج الصحيحة"
-      }
+      "segundos": 60
     }
   },
   "preguntas": [
@@ -343,19 +336,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "95366a664f0d"
+        "huella": "392972c7b3fe"
       },
       "en": {
         "estado": "automatica",
-        "huella": "95366a664f0d"
+        "huella": "392972c7b3fe"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "95366a664f0d"
+        "huella": "392972c7b3fe"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "95366a664f0d"
+        "huella": "392972c7b3fe"
       }
     }
   }

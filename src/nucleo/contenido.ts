@@ -16,7 +16,7 @@ export interface Reto {
   masDificil: Texto;
   paraQueSirve: Texto;
   aviso?: Texto;
-  rapidez?: { segundos: 60 | 120 | 180; seCuenta: Texto };
+  rapidez?: { segundos: 60 | 120 | 180 };
 }
 
 export type Respuesta =
@@ -65,7 +65,7 @@ export interface EntradaMapa {
   tipo?: 'tema' | 'recordar';
   titulo: string;
   tema: string;
-  /** Juego de rapidez con cronómetro y récord. */
+  /** Juego de rapidez con cronómetro. */
   rapidez?: boolean;
 }
 

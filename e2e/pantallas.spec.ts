@@ -403,18 +403,18 @@ test.describe('rutas', () => {
   });
 });
 
-test.describe('cronómetro y récord', () => {
+test.describe('cronómetro', () => {
   async function conRapidez(page: Page): Promise<void> {
     // La semilla se pide con su huella (`?v=…`).
     await page.route(/\/contenido\/ciclo-2\/matematicas\/3\/semana-07\.json(\?|$)/, async (ruta) => {
       const respuesta = await ruta.fetch();
       const semilla = await respuesta.json();
-      semilla.reto.rapidez = { segundos: 60, seCuenta: { es: 'aciertos', va: 'encerts', en: 'hits', fr: 'réussites', ar: 'إجابات' } };
+      semilla.reto.rapidez = { segundos: 60 };
       await ruta.fulfill({ response: respuesta, json: semilla });
     });
   }
 
-  test('cuenta atrás, aviso con texto al terminar y récord personal', async ({ page }) => {
+  test('cuenta atrás y aviso con texto al terminar', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es' } });
     await conRapidez(page);
     await page.goto('./#/2/matematicas/3/semana/7/reto');
@@ -429,36 +429,9 @@ test.describe('cronómetro y récord', () => {
     await expect(page.getByRole('status').filter({ hasText: T('cronometro.fin', 'es') })).toBeVisible();
     await expect(page.getByRole('timer')).toHaveAccessibleName(T('cronometro.tiempo', 'es', { tiempo: '0:00' }));
 
-    // Récord: se guarda el mejor.
-    await expect(page.getByText(T('record.sin', 'es'))).toBeVisible();
-    await page.getByLabel(T('record.apuntar', 'es')).fill('12');
-    await page.getByRole('button', { name: T('record.guardar', 'es') }).click();
-    await expect(page.getByText(T('record.nuevo', 'es'))).toBeVisible();
-    await expect(page.getByText(T('record.mejor', 'es', { n: 12 }))).toBeVisible();
-    await page.getByLabel(T('record.apuntar', 'es')).fill('8');
-    await page.getByRole('button', { name: T('record.guardar', 'es') }).click();
-    await expect(page.getByText(T('record.hoy', 'es', { n: 8 }))).toBeVisible();
-    await expect(page.getByText(T('record.nuevo', 'es'))).toHaveCount(0);
-    await expect(page.getByText(T('record.mejor', 'es', { n: 12 }))).toBeVisible();
-    expect(await guardado(page)).toMatchObject({ progreso: { [`2026/${CURSO_3}`]: { s07: { record: 12 } } } });
-
     // Volver a empezar.
     await page.getByRole('button', { name: T('cronometro.reiniciar', 'es') }).click();
     await expect(page.getByRole('timer')).toHaveAccessibleName(T('cronometro.tiempo', 'es', { tiempo: '1:00' }));
-  });
-
-  test('un resultado que no es un número no se puede guardar', async ({ page }) => {
-    await preparar(page, { almacen: { idioma: 'es' } });
-    await conRapidez(page);
-    await page.goto('./#/2/matematicas/3/semana/7/reto');
-    const guardar = page.getByRole('button', { name: T('record.guardar', 'es') });
-    await expect(guardar).toBeDisabled();
-    await page.getByLabel(T('record.apuntar', 'es')).fill('abc');
-    await expect(guardar).toBeDisabled();
-    await page.getByLabel(T('record.apuntar', 'es')).fill('300');
-    await expect(guardar).toBeDisabled();
-    await page.getByLabel(T('record.apuntar', 'es')).fill('0');
-    await expect(guardar).toBeEnabled();
   });
 });
 

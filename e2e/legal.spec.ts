@@ -48,7 +48,6 @@ const PANTALLAS = [
   './#/ayuda',
   './#/ajustes',
   './#/ajustes/pasar',
-  './#/imprimir/records',
   './#/privacidad',
   './#/accesibilidad',
 ];

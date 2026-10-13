@@ -101,11 +101,11 @@
       {
         "pictograma": "lapiz",
         "texto": {
-          "es": "Contad las parejas acertadas: es vuestro récord del verano. ¿Mejora el del curso? Apuntad las multiplicaciones que se han resistido para mirarlas juntos otro día.",
-          "va": "Compteu les parelles encertades: és el vostre rècord de l'estiu. Millora el del curs? Apunteu les multiplicacions que s'han resistit per a mirar-les junts un altre dia.",
-          "en": "Count the pairs you got right: that is your summer record. Does it beat the one from the school year? Write down the multiplications that wouldn't come, to look at them together another day.",
-          "fr": "Comptez les paires trouvées : c'est votre record de l'été. Est-il meilleur que celui de l'année ? Notez les multiplications qui ont résisté pour les regarder ensemble un autre jour.",
-          "ar": "عدّوا الأزواج الصحيحة: هذا رقمكم القياسي في الصيف. هل هو أفضل من رقم السنة الدراسية؟ دوّنوا عمليات الضرب التي استعصت لننظر إليها معًا في يوم آخر."
+          "es": "Contad las parejas acertadas. Apuntad las multiplicaciones que se han resistido para mirarlas juntos otro día.",
+          "va": "Compteu les parelles encertades. Apunteu les multiplicacions que s'han resistit per a mirar-les junts un altre dia.",
+          "en": "Count the pairs you got right. Write down the multiplications that wouldn't come, to look at them together another day.",
+          "fr": "Comptez les paires trouvées. Notez les multiplications qui ont résisté pour les regarder ensemble un autre jour.",
+          "ar": "عدّوا الأزواج الصحيحة. دوّنوا عمليات الضرب التي استعصت لننظر إليها معًا في يوم آخر."
         }
       }
     ],
@@ -138,14 +138,7 @@
       "ar": "العبوا في الظل ومعكم ماء قريب."
     },
     "rapidez": {
-      "segundos": 120,
-      "seCuenta": {
-        "es": "parejas de cartas acertadas",
-        "va": "parelles de cartes encertades",
-        "en": "pairs of cards you got right",
-        "fr": "paires de cartes trouvées",
-        "ar": "أزواج الأوراق الصحيحة"
-      }
+      "segundos": 120
     }
   },
   "preguntas": [
@@ -343,19 +336,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "9825a6cff306"
+        "huella": "82549fa4398b"
       },
       "en": {
         "estado": "automatica",
-        "huella": "9825a6cff306"
+        "huella": "82549fa4398b"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "9825a6cff306"
+        "huella": "82549fa4398b"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "9825a6cff306"
+        "huella": "82549fa4398b"
       }
     }
   }

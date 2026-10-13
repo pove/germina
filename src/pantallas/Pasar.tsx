@@ -118,7 +118,7 @@ export function Pasar() {
       <section aria-labelledby="recibir">
         <h2 id="recibir">{t('pasar.tengo_codigo')}</h2>
         <form
-          class="formulario-record"
+          class="formulario-campo"
           onSubmit={(e) => {
             e.preventDefault();
             abrirCodigo();

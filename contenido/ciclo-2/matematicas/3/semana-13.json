@@ -95,11 +95,11 @@
       {
         "pictograma": "lapiz",
         "texto": {
-          "es": "Contad las cartas acertadas: es vuestro récord. Cambiad los papeles y jugad otra vez, ahora con el número por diez.",
-          "va": "Compteu les cartes encertades: és el vostre rècord. Canvieu els papers i jugueu una altra vegada, ara amb el nombre per deu.",
-          "en": "Count the cards you got right: that's your record. Swap roles and play again, this time with the number times ten.",
-          "fr": "Comptez les cartes trouvées : c'est votre record. Échangez les rôles et rejouez, cette fois avec le nombre fois dix.",
-          "ar": "عدّوا الأوراق الصحيحة: هذا رقمكم القياسي. تبادلوا الأدوار والعبوا مرة أخرى، هذه المرة بالعدد مضروبًا في عشرة."
+          "es": "Contad las cartas acertadas. Cambiad los papeles y jugad otra vez, ahora con el número por diez.",
+          "va": "Compteu les cartes encertades. Canvieu els papers i jugueu una altra vegada, ara amb el nombre per deu.",
+          "en": "Count the cards you got right. Swap roles and play again, this time with the number times ten.",
+          "fr": "Comptez les cartes trouvées. Échangez les rôles et rejouez, cette fois avec le nombre fois dix.",
+          "ar": "عدّوا الأوراق الصحيحة. تبادلوا الأدوار والعبوا مرة أخرى، هذه المرة بالعدد مضروبًا في عشرة."
         }
       }
     ],
@@ -125,14 +125,7 @@
       "ar": "حفظ الأضعاف والضرب في عشرة يترك الذهن حرًّا للتفكير في المسألة، وهذان الجدولان أساس جداول كثيرة أخرى."
     },
     "rapidez": {
-      "segundos": 120,
-      "seCuenta": {
-        "es": "cartas acertadas",
-        "va": "cartes encertades",
-        "en": "cards you got right",
-        "fr": "cartes trouvées",
-        "ar": "الأوراق الصحيحة"
-      }
+      "segundos": 120
     }
   },
   "preguntas": [
@@ -330,19 +323,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "34b43b65077b"
+        "huella": "f6ec8384fdd2"
       },
       "en": {
         "estado": "automatica",
-        "huella": "34b43b65077b"
+        "huella": "f6ec8384fdd2"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "34b43b65077b"
+        "huella": "f6ec8384fdd2"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "34b43b65077b"
+        "huella": "f6ec8384fdd2"
       }
     }
   }

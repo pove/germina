@@ -1285,7 +1285,7 @@ a.planta {
   }
 }
 
-/* Cronómetro y récord */
+/* Cronómetro */
 .reloj {
   margin-block: 0.5rem;
   font-size: 3.5rem;
@@ -1305,20 +1305,20 @@ a.planta {
   margin-inline: auto;
 }
 
-.formulario-record {
+.formulario-campo {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 0.5rem;
 }
 
-.formulario-record label {
+.formulario-campo label {
   flex: 1 1 100%;
   font-weight: 700;
 }
 
 /* Campos de texto: borde de 3:1 o más, para que se vea dónde escribir */
-.formulario-record input,
+.formulario-campo input,
 .campo-codigo {
   min-block-size: 2.75rem;
   padding-inline: 0.875rem;
@@ -1329,7 +1329,7 @@ a.planta {
   font: inherit;
 }
 
-.formulario-record input {
+.formulario-campo input {
   inline-size: 6rem;
 }
 
@@ -1338,7 +1338,7 @@ a.planta {
   inline-size: 100%;
 }
 
-.formulario-record .campo-codigo {
+.formulario-campo .campo-codigo {
   flex: 1 1 12rem;
   inline-size: auto;
   min-inline-size: 0;
@@ -1374,26 +1374,6 @@ a.planta {
 
 .figura-qr figcaption {
   text-align: center;
-}
-
-/* Hoja de récords */
-.tabla-records {
-  inline-size: 100%;
-  border-collapse: collapse;
-  background: var(--tarjeta);
-}
-
-.tabla-records th,
-.tabla-records td {
-  padding: 0.5rem;
-  border: 1px solid var(--borde-control);
-  text-align: start;
-  vertical-align: top;
-}
-
-.tabla-records .anotar {
-  min-inline-size: 5rem;
-  block-size: 3rem;
 }
 
 /* Alto contraste: los colores los pone el sistema; se marca lo que solo se veía por el fondo */
@@ -1443,14 +1423,6 @@ a.planta {
     box-shadow: none;
   }
 
-  .tabla-records th,
-  .tabla-records td {
-    border: 1px solid #000;
-  }
-
-  .hoja-records {
-    break-inside: avoid;
-  }
 }
 
 @media (prefers-reduced-motion: reduce) {

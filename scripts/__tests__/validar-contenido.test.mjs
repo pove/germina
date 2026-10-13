@@ -168,7 +168,7 @@ describe('regla 3: coincide con el mapa', () => {
 
   it('la semilla tiene cronómetro y el mapa no', () => {
     const s = clonar();
-    s.reto.rapidez = { segundos: 60, seCuenta: { es: 'aciertos', va: 'encerts', en: 'hits', fr: 'réussites', ar: 'إجابات' } };
+    s.reto.rapidez = { segundos: 60 };
     unError(validar(s), 'cronómetro');
   });
 });

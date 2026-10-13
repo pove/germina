@@ -28,15 +28,14 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | `#/bienvenida` | Idioma (preseleccionado el del navegador si es uno de los cinco), curso o cursos (uno o varios de 1.º a 4.º) y las tres frases de semilla y jardín (5.5) |
 | `#/{ciclo}/{area}/{curso}/semana/{n}` | **Esta semana** (inicio): título, objetivo, pregunta de hoy, acceso al reto, selector ◀ semana n ▶ con los días de lunes a viernes y «Esta semana» si es la actual, «Volver a esta semana» si no lo es |
 | `#/{ciclo}/{area}/{curso}/semana/{n}/pregunta/{1-5}` | **Pregunta del día**: texto, botón «Pista», botón «Ver la respuesta», «Invéntala tú», «¡Lo hemos hablado!», arriba la vuelta a la semana y abajo las cinco preguntas en fila (la actual resaltada y las habladas con ✓) |
-| `#/{ciclo}/{area}/{curso}/semana/{n}/reto` | **Reto**: material, minutos, pasos con pictograma, más fácil, más difícil, para qué sirve, aviso, cronómetro y récord si es de rapidez, «¡Lo hemos jugado!» |
+| `#/{ciclo}/{area}/{curso}/semana/{n}/reto` | **Reto**: material, minutos, pasos con pictograma, más fácil, más difícil, para qué sirve, aviso, cronómetro si es de rapidez, «¡Lo hemos jugado!» |
 | `#/{ciclo}/{area}/{curso}/verano/{n}` y `…/verano/{n}/reto` | Igual que una semana, para los retos de verano |
 | `#/{ciclo}/{area}/{curso}/jardin` | **El jardín**: las 41 semanas y los 10 retos de verano; tocar una planta lleva a su semana. Botón «?» con la explicación de semilla y jardín |
 | `#/{ciclo}/{area}/{curso}/aprenden` | **Qué aprenden este curso**: una entrada corta, las frases del curso por trimestre, los bloques de saberes del ciclo y las fuentes (`objetivos.json`) |
 | `#/ayuda` | **Cómo ayudar**: las ideas, «Por qué Germina» y las fuentes (`contenido/comun/como-ayudar.json`) |
-| `#/ajustes` | Idioma, cursos, «Llevar el jardín a otro móvil», empezar de cero, privacidad, accesibilidad, hoja de récords imprimible, cómo instalar |
+| `#/ajustes` | Idioma, cursos, «Llevar el jardín a otro móvil», empezar de cero, privacidad, accesibilidad, cómo instalar |
 | `#/ajustes/pasar` | «Llevar el jardín a otro móvil»: enlace, QR y texto (6.3) |
 | `#/recibir/{codigo}` | Pregunta «¿Añadir este jardín al vuestro?» y lo combina (6.4) |
-| `#/imprimir/records` | Hoja de récords para imprimir |
 | `#/privacidad`, `#/accesibilidad` | Páginas legales (9) |
 
 **Cabecera:** en una fila, el nombre (lleva a «Esta semana») y, en la esquina, el botón «☰ Menú» con Qué aprenden, Cómo ayudar y Ajustes, que abre una lista flotante y se cierra al elegir, al tocar fuera y con Escape. Debajo, siempre a la vista, las dos pestañas grandes: «Esta semana» y «El jardín».
@@ -218,7 +217,7 @@ Solo en el dispositivo, en `localStorage`, clave `germina`, con este formato (ve
   "ultimoAnoCurso": 2026,
   "progreso": {
     "2026/2/matematicas/3": {
-      "s07": { "hecho": ["reto", "p1", "p2"], "record": 14 },
+      "s07": { "hecho": ["reto", "p1", "p2"] },
       "v03": { "hecho": ["reto"] }
     }
   }
@@ -226,7 +225,6 @@ Solo en el dispositivo, en `localStorage`, clave `germina`, con este formato (ve
 ```
 
 - Claves de semana `sNN` y de verano `vNN`. Elementos posibles: `reto`, `p1` … `p5`. Son posiciones fijas: corregir el texto de una semilla no borra lo marcado.
-- `record`: el mejor número apuntado en el juego de rapidez de esa semilla (entero de 0 a 255).
 - Al leer, cualquier cosa que no encaje con el formato se ignora sin romper la web. Una versión futura del formato convierte la anterior (`v`).
 - Si `localStorage` no está disponible (navegación privada), la web funciona igual y avisa una vez de que no se guardará lo marcado.
 - Al marcar algo por primera vez, se llama a `navigator.storage.persist()` si existe.
@@ -251,8 +249,6 @@ por bloque:
   6 bytes  semanas 1–41 marcadas (bit a 1 si hay algo; 41 bits y 7 de relleno a 0)
   por cada semana marcada, en orden: 1 byte con 6 bits (reto, p1…p5, de mayor a menor peso)
   10 bits en 2 bytes  veranos 1–10 marcados, y 1 byte por verano marcado como arriba
-  byte  número de récords
-  por récord: byte posición (1–41 semanas, 101–110 veranos), byte valor
 2 bytes  CRC-16/CCITT-FALSE de todo lo anterior
 ```
 
@@ -264,7 +260,7 @@ por bloque:
 
 ### 6.4 Combinar al recibir
 
-- Las casillas marcadas se **suman** (unión). De cada récord se queda el mayor.
+- Las casillas marcadas se **suman** (unión).
 - Los cursos que no existían en este móvil se añaden a `cursos`.
 - Lo que se desmarcó en un móvil no se desmarca en el otro.
 - El idioma y el curso activo del móvil que recibe no cambian.
@@ -285,7 +281,6 @@ por bloque:
 - `lang` y `dir` correctos en cada cambio de idioma.
 - Botones con texto, no solo iconos. Respuestas y pistas en `<details>` o botones con `aria-expanded`.
 - El cronómetro anuncia el final con texto (región `aria-live`) y no solo con sonido.
-- Hoja de récords imprimible con una hoja de estilos `@media print` sencilla.
 
 ## 9. Privacidad y páginas legales
 

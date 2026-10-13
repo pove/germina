@@ -32,7 +32,7 @@ export interface Almacen {
   cursos?: string[];
   cursoActivo?: string | null;
   ultimoAnoCurso?: number | null;
-  progreso?: Record<string, Record<string, { hecho: string[]; record?: number }>>;
+  progreso?: Record<string, Record<string, { hecho: string[] }>>;
 }
 
 /**

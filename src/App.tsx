@@ -16,7 +16,6 @@ import { Accesibilidad, Privacidad } from './pantallas/Legal';
 import { Pasar } from './pantallas/Pasar';
 import { Pregunta } from './pantallas/Pregunta';
 import { Recibir } from './pantallas/Recibir';
-import { Records } from './pantallas/Records';
 import { Reto } from './pantallas/Reto';
 import { Semana } from './pantallas/Semana';
 import { Layout } from './piezas/Layout';
@@ -55,8 +54,6 @@ function Pantalla({ r }: { r: Ruta }) {
       return <Pasar />;
     case 'recibir':
       return <Recibir codigo={r.codigo} />;
-    case 'imprimirRecords':
-      return <Records />;
     case 'privacidad':
       return <Privacidad />;
     case 'accesibilidad':

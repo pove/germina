@@ -106,7 +106,6 @@ interface Bloque {
   curso: Curso;
   semanas: Map<number, number>;
   veranos: Map<number, number>;
-  records: Map<number, number>;
 }
 
 const mascara = (hecho: readonly Elemento[]): number => hecho.reduce((m, e) => m | PESO[e], 0);
@@ -117,7 +116,7 @@ function bloquesDe(datos: Datos, anoRespaldo: number | null): Bloque[] {
   const dar = (ano: number, curso: Curso): Bloque => {
     const clave = `${ano}/${claveCurso(curso)}`;
     let b = bloques.get(clave);
-    if (!b) bloques.set(clave, (b = { ano, curso, semanas: new Map(), veranos: new Map(), records: new Map() }));
+    if (!b) bloques.set(clave, (b = { ano, curso, semanas: new Map(), veranos: new Map() }));
     return b;
   };
   for (const [clave, semillas] of Object.entries(datos.progreso)) {
@@ -130,7 +129,6 @@ function bloquesDe(datos: Datos, anoRespaldo: number | null): Bloque[] {
       if (!id) continue;
       const mk = mascara(semilla.hecho);
       if (mk) (id.verano ? b.veranos : b.semanas).set(id.n, mk);
-      if (semilla.record !== undefined) b.records.set(id.verano ? 100 + id.n : id.n, semilla.record);
     }
   }
   // «Todos los cursos»: los guardados sin nada marcado también viajan, como bloque vacío del último año
@@ -166,9 +164,6 @@ export function codificar(datos: Datos, anoRespaldo: number | null = null): Uint
     bytes.push(...bitmap(semanas, 6), ...semanas.map((n) => b.semanas.get(n)!));
     const veranos = [...b.veranos.keys()].sort((x, y) => x - y);
     bytes.push(...bitmap(veranos, 2), ...veranos.map((n) => b.veranos.get(n)!));
-    const records = [...b.records.keys()].sort((x, y) => x - y);
-    bytes.push(records.length);
-    for (const pos of records) bytes.push(pos, b.records.get(pos)!);
   }
   const crc = crc16(Uint8Array.from(bytes));
   bytes.push(crc >> 8, crc & 255);
@@ -243,14 +238,6 @@ export function decodificarBytes(bytes: Uint8Array): Decodificado {
       const veranos = leerMascaras(l, leerBitmap(l, 2, VERANOS));
       for (const [n, m] of semanas) semillas[claveSemana(n)] = { hecho: elementosDe(m) };
       for (const [n, m] of veranos) semillas[claveVerano(n)] = { hecho: elementosDe(m) };
-      for (let r = l.byte(); r > 0; r--) {
-        const pos = l.byte();
-        const valor = l.byte();
-        const verano = pos >= 101 && pos <= 100 + VERANOS;
-        if (!verano && (pos < 1 || pos > SEMANAS)) throw new FormatoError();
-        const id = verano ? claveVerano(pos - 100) : claveSemana(pos);
-        semillas[id] = { hecho: semillas[id]?.hecho ?? [], record: valor };
-      }
       const id = `${ano}/${clave}`;
       if (vistos.has(id)) throw new FormatoError();
       vistos.add(id);

@@ -94,11 +94,11 @@
       {
         "pictograma": "barras",
         "texto": {
-          "es": "Contad las parejas apartadas: es vuestro récord de equipo. ¿Mejoráis el del curso?",
-          "va": "Compteu les parelles apartades: és el vostre rècord d'equip. Milloreu el del curs?",
-          "en": "Count the pairs you set aside: that’s your team record. Can you beat the one from the school year?",
-          "fr": "Comptez les paires mises de côté : c'est votre record d'équipe. Faites-vous mieux que pendant l'année ?",
-          "ar": "عدّوا الأزواج التي وضعتموها جانبًا: هذا رقمكم القياسي كفريق. هل تتفوّقون على رقم السنة الدراسية؟"
+          "es": "Contad las parejas apartadas. ¿Jugáis otra vez?",
+          "va": "Compteu les parelles apartades. Torneu a jugar?",
+          "en": "Count the pairs set aside. Play again?",
+          "fr": "Comptez les paires mises de côté. Vous rejouez ?",
+          "ar": "عدّوا الأزواج التي وضعناها جانبًا. هل نلعب مرة أخرى؟"
         }
       }
     ],
@@ -124,14 +124,7 @@
       "ar": "أزواج العشرة أداة لكل شيء: {{8 + 5}} هو {{8 + 2}} و3 أخرى. وعندما نحفظها، يصبح جمع الصف الثاني أسهل."
     },
     "rapidez": {
-      "segundos": 60,
-      "seCuenta": {
-        "es": "parejas que suman 10",
-        "va": "parelles que sumen 10",
-        "en": "pairs that add up to 10",
-        "fr": "paires qui font 10",
-        "ar": "أزواج مجموعها 10"
-      }
+      "segundos": 60
     }
   },
   "preguntas": [
@@ -329,19 +322,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "75a8540524e2"
+        "huella": "1d422db490ae"
       },
       "en": {
         "estado": "automatica",
-        "huella": "75a8540524e2"
+        "huella": "1d422db490ae"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "75a8540524e2"
+        "huella": "1d422db490ae"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "75a8540524e2"
+        "huella": "1d422db490ae"
       }
     }
   }
