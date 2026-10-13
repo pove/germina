@@ -83,6 +83,26 @@ Una tanda por sesión, siempre imitando la semilla de ejemplo y respetando el ma
 
 **En cada tanda:** `npm run validar` pasa; todas las traducciones quedan como `automatica` con su huella; `revision.docente.revisada` en `false`. Al final, un resumen para la persona revisora: tres semillas al azar para leer enteras y cualquier decisión dudosa tomada.
 
+## Etapa 10. 1.er ciclo de Matemáticas (1.º y 2.º)
+
+Abre Germina a 1.º y 2.º con el mismo formato: una semilla por semana y lo jugado en el jardín. La norma está resumida en `inspiration/extractos/matematicas-1-ciclo.md`, y la evidencia para 3 a 7 años en `evidencia-wwc-eef.md` (EEF 2020).
+
+- [x] Criterios de evaluación del 1.er ciclo en `config/curriculo/matematicas.json` (Decreto 96/2026, punto 28). Los saberes ya estaban.
+- [ ] **Especificación.** Llevar el 1.er ciclo a los apartados que hoy dicen «3.º y 4.º»: alcance (1), bienvenida con los cursos de 1.º a 4.º (3), cambio de curso (4.2), `objetivos.json` (5) y reglas de la semilla para 6 a 8 años. Estas reglas son: el adulto lee en voz alta, los textos son más cortos que en el 2.º ciclo, hay pictograma en cada paso y la respuesta se dice o se señala, no se escribe. Hay que fijar también los rangos de números de cada curso y si en 1.º aparecen `×` y `:` o solo doble, mitad y repartos. **Lo aprueba una persona antes de seguir.**
+- [ ] **Mapa** `contenido/ciclo-1/matematicas/mapa-semanas.json`: 41 semanas y 10 retos de verano para 1.º y 2.º, con saberes y criterios del 1.er ciclo. Es una decisión del centro (art. 22.4): Claude lo propone y una persona lo revisa antes de escribir semillas. `scripts/mapa-semanas.mjs` valida y genera el documento de cada ciclo (hoy solo lee el del 2.º ciclo y escribe `docs/mapa-semanas.md`).
+- [ ] **Textos del ciclo:**
+  - `contenido/ciclo-1/matematicas/objetivos.json`.
+  - Términos de clase de 1.º y 2.º en `glosario.json` (decena, unidad, «uno más / uno menos», doble, mitad…).
+  - En `como-ayudar.json`, lo propio de estas edades según la EEF (2020): contar con los dedos, cuentos y juegos de tablero, dejar que representen a su manera. Añadir esa guía a las fuentes.
+- [ ] **Aplicación:**
+  - `matematicas` activa en el ciclo 1 de `config/catalogo.json`.
+  - Bienvenida y Ajustes con los cuatro cursos.
+  - Cambio de curso de un ciclo al siguiente: al acabar 2.º, «¿ha pasado a 3.º?» en vez de «el ciclo ha terminado», con `cursoSiguiente` y sus tests.
+  - Comprobar que el enlace del jardín (6.3) lleva bien los cursos del ciclo 1.
+- [ ] **Contenido, por tandas**, como en la etapa 9 y con las mismas condiciones en cada tanda: semanas 1-8, 9-15, 16-22, 23-28, 29-35 y 36-41 de 1.º y 2.º, y retos de verano 1-10. La primera semilla de 1.º la revisa una persona antes de seguir, porque fija el tono para estas edades.
+
+**Comprobación:** `npm run check` pasa. Los tests de extremo a extremo cubren, en `es` y `ar`: bienvenida con 1.º → semana actual; marcar algo y verlo en el jardín; el cambio de 2.º a 3.º. axe sin infracciones serias ni críticas.
+
 ## Fuera de la primera versión
 
-Audio, otras áreas y ciclos (la estructura sí está preparada), notificaciones, cuentas o sincronización automática, y cualquier juego en pantalla aparte del cronómetro.
+Audio, otras áreas y el 3.er ciclo (la estructura sí está preparada), notificaciones, cuentas o sincronización automática, y cualquier juego en pantalla aparte del cronómetro.
