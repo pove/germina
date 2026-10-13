@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s01",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 1,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuántos hay?",
+    "va": "Quants n'hi ha?",
+    "en": "How many are there?",
+    "fr": "Combien y en a-t-il ?",
+    "ar": "كم يوجد؟"
+  },
+  "objetivo": {
+    "es": "Esta semana cuentan cosas de casa hasta 20, tocando cada una una sola vez, y descubren que el último número que dicen es cuántas hay. También miran dónde hay más.",
+    "va": "Aquesta setmana compten coses de casa fins a 20, tocant cada una una sola vegada, i descobrixen que l'últim nombre que diuen és quantes n'hi ha. També miren on n'hi ha més.",
+    "en": "This week they count things at home up to 20, touching each one only once, and discover that the last number they say is how many there are. They also look at where there are more.",
+    "fr": "Cette semaine, on compte des choses de la maison jusqu'à 20, en touchant chacune une seule fois, et on découvre que le dernier nombre dit indique combien il y en a. On regarde aussi où il y en a le plus.",
+    "ar": "هذا الأسبوع يعدّ الأطفال أشياء من البيت حتى 20، ويلمسون كل شيء مرة واحدة فقط، ويكتشفون أن آخر عدد يقولونه هو عدد الأشياء كلها. وينظرون أيضًا أين يوجد أكثر."
+  },
+  "comoAyudar": {
+    "es": "Dejad que cuente con el dedo, tocando o moviendo cada cosa: contar con los dedos está bien. Si se salta una o cuenta dos veces la misma, contad juntos otra vez, despacio.",
+    "va": "Deixeu que compte amb el dit, tocant o movent cada cosa: comptar amb els dits està bé. Si se'n bota una o en compta dues vegades la mateixa, compteu junts una altra vegada, a poc a poc.",
+    "en": "Let them count with a finger, touching or moving each thing: counting on fingers is fine. If they skip one or count the same one twice, count together again, slowly.",
+    "fr": "Laissez-le ou laissez-la compter avec le doigt, en touchant ou en déplaçant chaque chose : compter sur ses doigts, c'est bien. S'il ou elle en saute une ou compte deux fois la même, recomptez ensemble, doucement.",
+    "ar": "دعوا العدّ يكون بالإصبع، بلمس كل شيء أو تحريكه: العدّ بالأصابع أمر جيّد. إذا تجاوزنا شيئًا أو عددنا الشيء نفسه مرتين، لنعدّ معًا من جديد، ببطء."
+  },
+  "saberes": [
+    "matematicas.numeros.recuento",
+    "matematicas.numeros.usos-sociales"
+  ],
+  "criterios": [
+    "matematicas.c1.7.1",
+    "matematicas.c1.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La caza de números",
+      "va": "La caça de nombres",
+      "en": "The number hunt",
+      "fr": "La chasse aux nombres",
+      "ar": "صيد الأعداد"
+    },
+    "material": [
+      {
+        "es": "Cosas de casa que se puedan coger con la mano: cucharas, pinzas, calcetines, juguetes…",
+        "va": "Coses de casa que es puguen agafar amb la mà: culleres, pinces, calcetins, joguets…",
+        "en": "Things from home you can pick up with one hand: spoons, clothes pegs, socks, toys…",
+        "fr": "Des choses de la maison qu'on peut prendre dans la main : cuillères, pinces à linge, chaussettes, jouets…",
+        "ar": "أشياء من البيت يمكن حملها باليد: ملاعق، ملاقط غسيل، جوارب، ألعاب…"
+      },
+      {
+        "es": "Una mesa o un trozo de suelo despejado",
+        "va": "Una taula o un tros de terra lliure",
+        "en": "A table or a clear patch of floor",
+        "fr": "Une table ou un coin de sol dégagé",
+        "ar": "طاولة أو جزء فارغ من الأرض"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Elegid un número del 1 al 10. Buscad por casa ese número de cosas iguales: 3 cucharas, 5 pinzas…",
+          "va": "Trieu un nombre de l'1 al 10. Busqueu per casa aquest nombre de coses iguals: 3 culleres, 5 pinces…",
+          "en": "Choose a number from 1 to 10. Look around the house for that many things that are the same: 3 spoons, 5 pegs…",
+          "fr": "Choisissez un nombre de 1 à 10. Cherchez dans la maison ce nombre de choses pareilles : 3 cuillères, 5 pinces…",
+          "ar": "اختاروا عددًا من 1 إلى 10. ابحثوا في البيت عن هذا العدد من الأشياء المتشابهة: 3 ملاعق، 5 ملاقط…"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contadlas tocando cada una: «uno, dos, tres». El último número que decís es cuántas hay.",
+          "va": "Compteu-les tocant cada una: «u, dos, tres». L'últim nombre que dieu és quantes n'hi ha.",
+          "en": "Count them, touching each one: “one, two, three”. The last number you say is how many there are.",
+          "fr": "Comptez-les en touchant chacune : « un, deux, trois ». Le dernier nombre que vous dites, c'est combien il y en a.",
+          "ar": "عدّوها وأنتم تلمسون كل واحدة: «واحد، اثنان، ثلاثة». آخر عدد تقولونه هو عددها كلها."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Haced lo mismo con otros números y poned cada grupo en fila, del que tiene menos cosas al que tiene más.",
+          "va": "Feu el mateix amb altres nombres i poseu cada grup en fila, del que té menys coses al que en té més.",
+          "en": "Do the same with other numbers and put each group in a row, from the one with fewest things to the one with most.",
+          "fr": "Faites pareil avec d'autres nombres et mettez chaque groupe en rang, de celui qui a le moins de choses à celui qui en a le plus.",
+          "ar": "افعلوا الشيء نفسه بأعداد أخرى، وضعوا كل مجموعة في صف، من التي فيها أشياء أقل إلى التي فيها أكثر."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad las filas. ¿Dónde hay más? ¿Y dónde hay menos?",
+          "va": "Mireu les files. On n'hi ha més? I on n'hi ha menys?",
+          "en": "Look at the rows. Where are there more? And where are there fewer?",
+          "fr": "Regardez les rangs. Où y en a-t-il le plus ? Et où y en a-t-il le moins ?",
+          "ar": "انظروا إلى الصفوف. أين يوجد أكثر؟ وأين يوجد أقل؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Buscad solo grupos de 1 a 5 y contad a la vez, señalando con el dedo.",
+      "va": "Busqueu només grups de l'1 al 5 i compteu alhora, assenyalant amb el dit.",
+      "en": "Only look for groups of 1 to 5 and count together, pointing with a finger.",
+      "fr": "Cherchez seulement des groupes de 1 à 5 et comptez ensemble, en montrant du doigt.",
+      "ar": "ابحثوا فقط عن مجموعات من 1 إلى 5، وعدّوا معًا وأنتم تشيرون بالإصبع."
+    },
+    "masDificil": {
+      "es": "Buscad grupos de hasta 20 cosas, o contadlas solo mirando, sin tocarlas.",
+      "va": "Busqueu grups de fins a 20 coses, o compteu-les només mirant-les, sense tocar-les.",
+      "en": "Look for groups of up to 20 things, or count them just by looking, without touching.",
+      "fr": "Cherchez des groupes jusqu'à 20 choses, ou comptez-les juste en regardant, sans les toucher.",
+      "ar": "ابحثوا عن مجموعات فيها حتى 20 شيئًا، أو عدّوها بالنظر فقط، من دون لمسها."
+    },
+    "paraQueSirve": {
+      "es": "Contar cada cosa una sola vez y saber que el último número dice cuántas hay es la base de todos los números que vendrán después.",
+      "va": "Comptar cada cosa una sola vegada i saber que l'últim nombre diu quantes n'hi ha és la base de tots els nombres que vindran després.",
+      "en": "Counting each thing only once, and knowing that the last number tells you how many there are, is the basis for all the numbers that come later.",
+      "fr": "Compter chaque chose une seule fois et savoir que le dernier nombre dit combien il y en a, c'est la base de tous les nombres qui viendront ensuite.",
+      "ar": "عدّ كل شيء مرة واحدة فقط، ومعرفة أن آخر عدد يخبرنا بعدد الأشياء كلها، هما أساس كل الأعداد التي ستأتي بعد ذلك."
+    },
+    "aviso": {
+      "es": "Si buscáis cosas pequeñas, como botones, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si busqueu coses menudes, com ara botons, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you look for small things, like buttons, keep them away from younger brothers and sisters.",
+      "fr": "Si vous cherchez de petites choses, comme des boutons, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا بحثتم عن أشياء صغيرة، مثل الأزرار، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el frutero hay 3 manzanas y 2 plátanos. ¿Cuántas frutas hay?",
+        "va": "En el fruiter hi ha 3 pomes i 2 plàtans. Quantes fruites hi ha?",
+        "en": "In the fruit bowl there are 3 apples and 2 bananas. How many pieces of fruit are there?",
+        "fr": "Dans la corbeille, il y a 3 pommes et 2 bananes. Combien de fruits y a-t-il ?",
+        "ar": "في سلة الفواكه 3 تفاحات وموزتان. كم فاكهة يوجد؟"
+      },
+      "pista": {
+        "es": "Señala cada fruta una sola vez y di los números en voz alta.",
+        "va": "Assenyala cada fruita una sola vegada i digues els nombres en veu alta.",
+        "en": "Point to each piece of fruit only once and say the numbers out loud.",
+        "fr": "Montre chaque fruit une seule fois et dis les nombres à voix haute.",
+        "ar": "لنُشِر إلى كل فاكهة مرة واحدة فقط ونقول الأعداد بصوت عالٍ."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 2",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 5 frutas.",
+          "va": "Hi ha 5 fruites.",
+          "en": "There are 5 pieces of fruit.",
+          "fr": "Il y a 5 fruits.",
+          "ar": "يوجد 5 فواكه."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con dos clases de juguetes de tu habitación.",
+        "va": "Ara inventa'n tu una amb dues classes de joguets de la teua habitació.",
+        "en": "Now you make one up with two kinds of toys from your room.",
+        "fr": "Maintenant, invente une question avec deux sortes de jouets de ta chambre.",
+        "ar": "والآن لنخترع سؤالًا بنوعين من الألعاب في الغرفة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Cuenta los dedos de tus dos manos. Si empiezas por la otra mano, ¿salen los mismos?",
+        "va": "Compta els dits de les teues dues mans. Si comences per l'altra mà, n'ixen els mateixos?",
+        "en": "Count the fingers on both your hands. If you start with the other hand, do you get the same number?",
+        "fr": "Compte les doigts de tes deux mains. Si tu commences par l'autre main, est-ce que tu en trouves autant ?",
+        "ar": "لنعدّ أصابع اليدين. إذا بدأنا باليد الأخرى، هل يخرج العدد نفسه؟"
+      },
+      "pista": {
+        "es": "Dobla un dedo cada vez que dices un número, para no contar ninguno dos veces.",
+        "va": "Doblega un dit cada vegada que dius un nombre, per a no comptar-ne cap dues vegades.",
+        "en": "Bend a finger each time you say a number, so you don't count any of them twice.",
+        "fr": "Plie un doigt chaque fois que tu dis un nombre, pour n'en compter aucun deux fois.",
+        "ar": "لنثنِ إصبعًا كلما قلنا عددًا، حتى لا نعدّ أي إصبع مرتين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 5",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 10 dedos, empieces por donde empieces.",
+          "va": "Són 10 dits, comences per on comences.",
+          "en": "There are 10 fingers, wherever you start.",
+          "fr": "Il y a 10 doigts, peu importe où tu commences.",
+          "ar": "عددها 10 أصابع، من أي يد بدأنا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: cuenta algo de casa empezando por un lado y luego por el otro.",
+        "va": "Inventa'n tu una altra: compta alguna cosa de casa començant per un costat i després per l'altre.",
+        "en": "Make up another one: count something at home starting from one end and then from the other.",
+        "fr": "Invente-en une autre : compte quelque chose à la maison en commençant d'un côté, puis de l'autre.",
+        "ar": "لنخترع سؤالًا آخر: نعدّ شيئًا في البيت بادئين من جهة، ثم من الجهة الأخرى."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Nora tiene 9 pegatinas y Pablo tiene 7. ¿Quién tiene más, y cuántas más?",
+        "va": "Nora té 9 adhesius i Pablo en té 7. Qui en té més, i quants més?",
+        "en": "Nora has 9 stickers and Pablo has 7. Who has more, and how many more?",
+        "fr": "Nora a 9 autocollants et Pablo en a 7. Qui en a le plus, et combien de plus ?",
+        "ar": "عند نورا 9 ملصقات وعند بابلو 7. من عنده أكثر، وكم أكثر؟"
+      },
+      "pista": {
+        "es": "Pon las de los dos en dos filas, una frente a otra, y mira cuántas se quedan sin pareja.",
+        "va": "Posa els dels dos en dues files, una davant de l'altra, i mira quants es queden sense parella.",
+        "en": "Put both children's stickers in two rows, facing each other, and see how many are left without a partner.",
+        "fr": "Mets ceux des deux enfants en deux rangs, l'un en face de l'autre, et regarde combien restent sans partenaire.",
+        "ar": "لنضع ملصقات الطفلين في صفّين متقابلين، ونرى كم ملصقًا بقي بلا شريك."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 7",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Nora tiene 2 pegatinas más que Pablo.",
+          "va": "Nora té 2 adhesius més que Pablo.",
+          "en": "Nora has 2 more stickers than Pablo.",
+          "fr": "Nora a 2 autocollants de plus que Pablo.",
+          "ar": "عند نورا ملصقان أكثر من بابلو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para ver quién tiene más, con cosas de tu mochila.",
+        "va": "Inventa'n tu una per a veure qui en té més, amb coses de la teua motxilla.",
+        "en": "Make one up to see who has more, using things from your school bag.",
+        "fr": "Invente une question pour voir qui en a le plus, avec des choses de ton cartable.",
+        "ar": "لنخترع سؤالًا لنعرف من عنده أكثر، بأشياء من الحقيبة المدرسية."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 0,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar lo de Infantil: en una mano tienes 5 dedos. Si escondes 1, ¿cuántos se ven?",
+        "va": "Per a recordar allò d'Infantil: en una mà tens 5 dits. Si n'amagues 1, quants se'n veuen?",
+        "en": "Let's remember something from nursery: you have 5 fingers on one hand. If you hide 1, how many can you see?",
+        "fr": "Pour se souvenir de la maternelle : tu as 5 doigts à une main. Si tu en caches 1, combien en vois-tu ?",
+        "ar": "لنتذكّر ما تعلّمناه في الروضة: في اليد الواحدة 5 أصابع. إذا خبّأنا إصبعًا واحدًا، كم إصبعًا نرى؟"
+      },
+      "pista": {
+        "es": "Hazlo con tu mano y cuenta los dedos que quedan levantados.",
+        "va": "Fes-ho amb la teua mà i compta els dits que queden alçats.",
+        "en": "Do it with your hand and count the fingers that are still up.",
+        "fr": "Fais-le avec ta main et compte les doigts qui restent levés.",
+        "ar": "لنفعل ذلك باليد ونعدّ الأصابع التي بقيت مرفوعة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 - 1",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se ven 4 dedos.",
+          "va": "Se'n veuen 4.",
+          "en": "You can see 4 fingers.",
+          "fr": "On en voit 4.",
+          "ar": "نرى 4 أصابع."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra escondiendo más dedos.",
+        "va": "Inventa'n tu una altra amagant més dits.",
+        "en": "Make up another one by hiding more fingers.",
+        "fr": "Invente-en une autre en cachant plus de doigts.",
+        "ar": "لنخترع سؤالًا آخر نخبّئ فيه أصابع أكثر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué has contado hoy en el cole? Enséñame cómo lo has hecho, con los dedos o con cosas.",
+        "va": "Què has comptat hui a l'escola? Ensenya'm com ho has fet, amb els dits o amb coses.",
+        "en": "What did you count at school today? Show me how you did it, with your fingers or with things.",
+        "fr": "Qu'as-tu compté aujourd'hui à l'école ? Montre-moi comment tu as fait, avec tes doigts ou avec des objets.",
+        "ar": "ماذا عددنا اليوم في المدرسة؟ لنُرِ كيف فعلنا ذلك، بالأصابع أو بالأشياء."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me cuentas las sillas de la cocina y me dices cómo sabes que no te saltas ninguna?»",
+        "va": "Si no sap per on començar: «Em comptes les cadires de la cuina i em dius com saps que no te'n botes cap?»",
+        "en": "If they don't know where to start: “Can you count the kitchen chairs and tell me how you know you didn't skip any?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me comptes les chaises de la cuisine et tu me dis comment tu sais que tu n'en sautes aucune ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نعدّ كراسي المطبخ ونقول كيف نعرف أننا لم نتجاوز أيّ كرسي؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "3051cc5e52c4"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "3051cc5e52c4"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "3051cc5e52c4"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "3051cc5e52c4"
+      }
+    }
+  }
+}

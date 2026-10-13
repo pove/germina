@@ -97,6 +97,34 @@ export function revisarTextos(documento, { error, aviso, huecos = false }) {
   }
 }
 
+/** Máximo de los números de las operaciones en el 1.er ciclo, por curso (especificación, 4.5). */
+const MAXIMO_PRIMER_CICLO = { 1: 99, 2: 999 };
+
+/**
+ * Regla 10: reto de 10 minutos como mucho y 4 pasos; en `operacion` y en «{{…}}», números hasta 99 en 1.º
+ * y 999 en 2.º, sin «×» en 1.º, sin «:» y sin coma decimal. El marcado es idéntico en los cinco idiomas
+ * (regla 8), así que basta con mirar el español.
+ */
+function revisarPrimerCiclo(semilla, error) {
+  if (semilla.reto.minutos > 10) error(['reto', 'minutos'], `${semilla.reto.minutos} minutos: en el 1.er ciclo el reto dura 10 como mucho`);
+  if (semilla.reto.pasos.length > 4) error(['reto', 'pasos'], `${semilla.reto.pasos.length} pasos: en el 1.er ciclo son 4 como mucho`);
+  const maximo = MAXIMO_PRIMER_CICLO[semilla.curso];
+  const revisar = (expresion, ruta) => {
+    if (/\d,\d/.test(expresion)) error(ruta, `«${expresion}» lleva un número con coma decimal, que no se usa en el 1.er ciclo`);
+    if (expresion.includes(':')) error(ruta, `«${expresion}» lleva «:»: en el 1.er ciclo se reparte contando, sin dividir`);
+    if (semilla.curso === 1 && expresion.includes('×')) error(ruta, `«${expresion}» lleva «×»: en 1.º se dice doble o grupos, sin multiplicar`);
+    const grandes = (expresion.match(/\d+/g) ?? []).map(Number).filter((n) => maximo !== undefined && n > maximo);
+    if (grandes.length) error(ruta, `«${expresion}» lleva ${grandes.join(', ')}: en ${semilla.curso}.º los números llegan hasta el ${maximo}`);
+  };
+  semilla.preguntas.forEach((p, i) => {
+    if (p.respuesta.tipo === 'calculo') revisar(p.respuesta.operacion, ['preguntas', i, 'respuesta', 'operacion']);
+  });
+  for (const [nodo, ruta] of recorrer(semilla)) {
+    if (!esTexto(nodo)) continue;
+    for (const parte of extraerMarcado(nodo.es).partes) revisar(parte, [...ruta, 'es']);
+  }
+}
+
 /**
  * Valida una semilla ya leída.
  * @param {object} semilla
@@ -203,6 +231,9 @@ export function validarSemilla(semilla, archivo, ctx) {
       error(['reto', 'pasos', i, 'pictograma'], `falta el SVG del pictograma «${paso.pictograma}» (src/assets/pictos/${paso.pictograma}.svg)`);
     }
   });
+
+  // 10. Lo que se puede comprobar de las reglas del 1.er ciclo (especificación, 4.5).
+  if (semilla.ciclo === 1) revisarPrimerCiclo(semilla, error);
 
   // 7. Huellas de las traducciones (avisos, no errores).
   const actual = huella(semilla);
