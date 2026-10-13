@@ -99,7 +99,7 @@ Abre Germina a 1.º y 2.º con el mismo formato: una semilla por semana y lo jug
   - Bienvenida y Ajustes con los cuatro cursos.
   - Cambio de curso de un ciclo al siguiente: al acabar 2.º, «¿ha pasado a 3.º?» en vez de «el ciclo ha terminado», con `cursoSiguiente` y sus tests.
   - Comprobar que el enlace del jardín (6.3) lleva bien los cursos del ciclo 1.
-- [ ] **Contenido, por tandas**, como en la etapa 9 y con las mismas condiciones en cada tanda: semanas 1-8, 9-15, 16-22, 23-28, 29-35 y 36-41 de 1.º y 2.º, y retos de verano 1-10. La primera semilla de 1.º la revisa una persona antes de seguir, porque fija el tono para estas edades.
+- [x] **Contenido, por tandas**, como en la etapa 9 y con las mismas condiciones en cada tanda: semanas 1-8, 9-15, 16-22, 23-28, 29-35 y 36-41 de 1.º y 2.º, y retos de verano 1-10. La primera semilla de 1.º la revisa una persona antes de seguir, porque fija el tono para estas edades.
 
 **Comprobación:** `npm run check` pasa. Los tests de extremo a extremo cubren, en `es` y `ar`: bienvenida con 1.º → semana actual; marcar algo y verlo en el jardín; el cambio de 2.º a 3.º. axe sin infracciones serias ni críticas.
 
