@@ -440,9 +440,9 @@ describe('contenido/comun/glosario.json', () => {
 describe('contenido/comun/como-ayudar.json', () => {
   const archivo = 'contenido/comun/como-ayudar.json';
 
-  it('entre 5 y 7 ideas', () => {
+  it('entre 5 y 8 ideas', () => {
     comunError(validarComun(archivo, sobreJson((j) => (j.ideas = j.ideas.slice(0, 4)))), archivo, 'al menos 5');
-    comunError(validarComun(archivo, sobreJson((j) => (j.ideas = [...j.ideas, ...j.ideas]))), archivo, 'como mucho 7');
+    comunError(validarComun(archivo, sobreJson((j) => (j.ideas = [...j.ideas, ...j.ideas]))), archivo, 'como mucho 8');
   });
 
   it('una idea con obligación', () => {
