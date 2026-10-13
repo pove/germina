@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s08",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 8,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Decenas y unidades",
+    "va": "Desenes i unitats",
+    "en": "Tens and ones",
+    "fr": "Dizaines et unités",
+    "ar": "العشرات والآحاد"
+  },
+  "objetivo": {
+    "es": "Esta semana ven que los números hasta 99 se forman con decenas y unidades: 3 vasos de 10 y 4 sueltas son 34. También comparan qué número es mayor mirando las decenas.",
+    "va": "Aquesta setmana veuen que els nombres fins a 99 es formen amb desenes (decenas) i unitats (unidades): 3 gots de 10 i 4 soltes són 34. També comparen quin nombre és major (mayor) mirant les desenes.",
+    "en": "This week they see that numbers up to 99 are made of tens (decenas) and ones (unidades): 3 cups of 10 and 4 loose ones make 34. They also compare which number is greater (mayor) by looking at the tens.",
+    "fr": "Cette semaine, on voit que les nombres jusqu'à 99 se forment avec des dizaines (decenas) et des unités (unidades) : 3 verres de 10 et 4 seuls, ça fait 34. On compare aussi quel nombre est le plus grand (mayor) en regardant les dizaines.",
+    "ar": "هذا الأسبوع يرى الأطفال أن الأعداد حتى 99 تتكوّن من عشرات (decenas) وآحاد (unidades): 3 أكواب فيها 10 و4 مفردة تساوي 34. ويقارنون أيضًا أي عدد أكبر (mayor) بالنظر إلى العشرات."
+  },
+  "comoAyudar": {
+    "es": "Cuando veáis un número de dos cifras (un portal, una página, el autobús), preguntad «¿cuántos paquetes de 10 tiene?». Con objetos delante es más fácil.",
+    "va": "Quan vegeu un nombre de dues xifres (un portal, una pàgina, l'autobús), pregunteu «quants paquets de 10 té?». Amb objectes davant és més fàcil.",
+    "en": "When you see a two-digit number (a door, a page, a bus), ask “How many bundles of 10 does it have?”. It's easier with objects in front of you.",
+    "fr": "Quand vous voyez un nombre à deux chiffres (un immeuble, une page, un bus), demandez « Combien de paquets de 10 il y a ? ». C'est plus facile avec des objets devant soi.",
+    "ar": "عندما تصادفون عددًا من خانتين (رقم باب، صفحة، حافلة)، اسألوا «كم رزمة من 10 فيه؟». الأمر أسهل عندما تكون الأشياء أمامنا."
+  },
+  "saberes": [
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c1.5.2",
+    "matematicas.c1.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Vasos de 10",
+      "va": "Gots de 10",
+      "en": "Cups of 10",
+      "fr": "Verres de 10",
+      "ar": "أكواب العشرة"
+    },
+    "material": [
+      {
+        "es": "Un buen puñado de garbanzos, alubias u otra legumbre seca",
+        "va": "Un bon grapat de cigrons, fesols o un altre llegum sec",
+        "en": "A big handful of chickpeas, dried beans or another dried pulse",
+        "fr": "Une bonne poignée de pois chiches, de haricots secs ou d'un autre légume sec",
+        "ar": "حفنة كبيرة من الحمّص أو الفاصولياء أو بقول جافة أخرى"
+      },
+      {
+        "es": "Varios vasos de plástico o tazas",
+        "va": "Uns quants gots de plàstic o tasses",
+        "en": "Several plastic cups or mugs",
+        "fr": "Plusieurs gobelets en plastique ou tasses",
+        "ar": "عدّة أكواب بلاستيكية أو فناجين"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Echad un buen puñado de legumbres en la mesa.",
+          "va": "Tireu un bon grapat de llegums damunt de la taula.",
+          "en": "Tip a big handful of beans onto the table.",
+          "fr": "Versez une bonne poignée de légumes secs sur la table.",
+          "ar": "ضعوا حفنة كبيرة من البقول على الطاولة."
+        }
+      },
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "Meted las legumbres en los vasos, de 10 en 10. Las que no llegan a 10 se quedan sueltas al lado.",
+          "va": "Fiqueu els llegums en els gots, de 10 en 10. Els que no arriben a 10 es queden solts al costat.",
+          "en": "Put the beans into the cups, 10 in each. The ones that don't make 10 stay loose to one side.",
+          "fr": "Mettez les légumes secs dans les verres, 10 par 10. Ceux qui n'arrivent pas à 10 restent à côté.",
+          "ar": "ضعوا البقول في الأكواب، عشرة عشرة. وما لا يكتمل عشرة يبقى مفردًا بجانبها."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Decid el número que sale: 3 vasos y 4 sueltas son 34.",
+          "va": "Digueu el nombre que ix: 3 gots i 4 solts són 34.",
+          "en": "Say the number you get: 3 cups and 4 loose ones make 34.",
+          "fr": "Dites le nombre obtenu : 3 verres et 4 seuls, ça fait 34.",
+          "ar": "قولوا العدد الذي يظهر: 3 أكواب و4 مفردة تساوي 34."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Haced otro montón y comparad: ¿cuál tiene más vasos? ¿Qué número es mayor?",
+          "va": "Feu un altre munt i compareu: quin té més gots? Quin nombre és major?",
+          "en": "Make another pile and compare: which has more cups? Which number is greater?",
+          "fr": "Faites un autre tas et comparez : lequel a le plus de verres ? Quel nombre est le plus grand ?",
+          "ar": "اصنعوا كومة أخرى وقارنوا: أيّهما فيها أكواب أكثر؟ أي عدد أكبر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad como mucho 3 vasos y contad juntos cada vaso antes de llenarlo.",
+      "va": "Feu servir com a molt 3 gots i compteu junts cada got abans d'omplir-lo.",
+      "en": "Use 3 cups at most and count each cup together before filling it.",
+      "fr": "Utilisez 3 verres au plus et comptez ensemble chaque verre avant de le remplir.",
+      "ar": "استعملوا 3 أكواب على الأكثر، وعدّوا معًا ما في كل كوب قبل ملئه."
+    },
+    "masDificil": {
+      "es": "Una persona dice un número, como 56, y la otra lo prepara con vasos y sueltas.",
+      "va": "Una persona diu un nombre, com ara 56, i l'altra el prepara amb gots i solts.",
+      "en": "One person says a number, like 56, and the other makes it with cups and loose beans.",
+      "fr": "Une personne dit un nombre, comme 56, et l'autre le prépare avec des verres et des légumes secs seuls.",
+      "ar": "يقول أحدنا عددًا، مثل 56، ويكوّنه الآخر بأكواب وحبّات مفردة."
+    },
+    "paraQueSirve": {
+      "es": "Saber que 34 son 3 decenas y 4 unidades ayuda a leer, comparar y, más adelante, sumar números grandes.",
+      "va": "Saber que 34 són 3 desenes i 4 unitats ajuda a llegir, comparar i, més avant, sumar nombres grans.",
+      "en": "Knowing that 34 is 3 tens and 4 ones helps with reading, comparing and, later on, adding big numbers.",
+      "fr": "Savoir que 34, c'est 3 dizaines et 4 unités, aide à lire, à comparer et, plus tard, à additionner de grands nombres.",
+      "ar": "معرفة أن 34 هي 3 عشرات و4 آحاد تساعد على قراءة الأعداد الكبيرة ومقارنتها، ثم جمعها لاحقًا."
+    },
+    "aviso": {
+      "es": "Las legumbres son pequeñas: guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Els llegums són menuts: guardeu-los lluny de germans o germanes menuts.",
+      "en": "Dried beans are small: keep them away from younger brothers and sisters.",
+      "fr": "Les légumes secs sont petits : gardez-les loin des petits frères et sœurs.",
+      "ar": "البقول صغيرة: أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Hay 4 vasos con 10 garbanzos cada uno y 5 garbanzos sueltos. ¿Cuántos garbanzos hay?",
+        "va": "Hi ha 4 gots amb 10 cigrons cada un i 5 cigrons solts. Quants cigrons hi ha?",
+        "en": "There are 4 cups with 10 chickpeas in each and 5 loose chickpeas. How many chickpeas are there?",
+        "fr": "Il y a 4 verres avec 10 pois chiches chacun et 5 pois chiches seuls. Combien de pois chiches y a-t-il ?",
+        "ar": "هناك 4 أكواب في كل منها 10 حبّات حمّص، و5 حبّات مفردة. كم حبّة حمّص يوجد؟"
+      },
+      "pista": {
+        "es": "Cuenta los vasos de 10 en 10 y luego sigue con los sueltos.",
+        "va": "Compta els gots de 10 en 10 i després continua amb els solts.",
+        "en": "Count the cups in tens and then carry on with the loose ones.",
+        "fr": "Compte les verres de 10 en 10, puis continue avec ceux qui sont seuls.",
+        "ar": "لنعدّ الأكواب عشرة عشرة، ثم نكمل بالحبّات المفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 + 5",
+        "resultado": 45,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 45 garbanzos: 4 decenas y 5 unidades, {{40 + 5 = 45}}.",
+          "va": "Hi ha 45 cigrons: 4 desenes i 5 unitats, {{40 + 5 = 45}}.",
+          "en": "There are 45 chickpeas: 4 tens and 5 ones, {{40 + 5 = 45}}.",
+          "fr": "Il y a 45 pois chiches : 4 dizaines et 5 unités, {{40 + 5 = 45}}.",
+          "ar": "يوجد 45 حبّة حمّص: 4 عشرات و5 آحاد، {{40 + 5 = 45}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con vasos de 10 y algunas sueltas.",
+        "va": "Ara inventa'n tu una amb gots de 10 i alguns solts.",
+        "en": "Now you make one up with cups of 10 and a few loose ones.",
+        "fr": "Maintenant, invente une question avec des verres de 10 et quelques objets seuls.",
+        "ar": "والآن لنخترع سؤالًا بأكواب من 10 وبعض الحبّات المفردة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "El autobús de Amaia es el 62. ¿Cuántas decenas y cuántas unidades tiene el 62?",
+        "va": "L'autobús d'Amaia és el 62. Quantes desenes i quantes unitats té el 62?",
+        "en": "Amaia's bus is the number 62. How many tens and how many ones does 62 have?",
+        "fr": "Le bus d'Amaia, c'est le 62. Combien de dizaines et combien d'unités a 62 ?",
+        "ar": "حافلة أمايا رقمها 62. كم عشرة وكم آحادًا في العدد 62؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10 con los dedos hasta llegar a 60 y mira cuántos dedos has usado.",
+        "va": "Compta de 10 en 10 amb els dits fins a arribar a 60 i mira quants dits has fet servir.",
+        "en": "Count in tens on your fingers up to 60 and see how many fingers you used.",
+        "fr": "Compte de 10 en 10 sur tes doigts jusqu'à 60 et regarde combien de doigts tu as utilisés.",
+        "ar": "لنعدّ عشرة عشرة بالأصابع حتى نصل إلى 60، ونرى كم إصبعًا استعملنا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "60 + 2",
+        "resultado": 62,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 62 tiene 6 decenas y 2 unidades: {{60 + 2 = 62}}.",
+          "va": "El 62 té 6 desenes i 2 unitats: {{60 + 2 = 62}}.",
+          "en": "62 has 6 tens and 2 ones: {{60 + 2 = 62}}.",
+          "fr": "62 a 6 dizaines et 2 unités : {{60 + 2 = 62}}.",
+          "ar": "في 62 ست عشرات وآحادان: {{60 + 2 = 62}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el número de tu portal o de una página de un cuento.",
+        "va": "Inventa'n tu una altra amb el número del teu portal o d'una pàgina d'un conte.",
+        "en": "Make up another one with your door number or a page number in a storybook.",
+        "fr": "Invente-en une autre avec le numéro de ton immeuble ou d'une page d'un livre d'histoires.",
+        "ar": "لنخترع سؤالًا آخر برقم باب بيتنا أو برقم صفحة في قصة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Lucía tiene 3 paquetes de 10 cromos. Wei tiene 2 paquetes de 10 y 9 sueltos. ¿Quién tiene más?",
+        "va": "Lucía té 3 paquets de 10 cromos. Wei té 2 paquets de 10 i 9 solts. Qui en té més?",
+        "en": "Lucía has 3 bundles of 10 stickers. Wei has 2 bundles of 10 and 9 loose ones. Who has more?",
+        "fr": "Lucía a 3 paquets de 10 images. Wei a 2 paquets de 10 et 9 images seules. Qui en a le plus ?",
+        "ar": "عند لوسيا 3 رزم من 10 بطاقات صور. وعند وي رزمتان من 10 و9 بطاقات مفردة. من عنده أكثر؟"
+      },
+      "pista": {
+        "es": "Mira primero quién tiene más paquetes de 10.",
+        "va": "Mira primer qui té més paquets de 10.",
+        "en": "First look at who has more bundles of 10.",
+        "fr": "Regarde d'abord qui a le plus de paquets de 10.",
+        "ar": "لننظر أولًا: من عنده رزم من 10 أكثر؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "30 - 29",
+        "resultado": 1,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Lucía tiene 30 y Wei, 29: Lucía tiene 1 más.",
+          "va": "Lucía en té 30 i Wei, 29: Lucía en té 1 més.",
+          "en": "Lucía has 30 and Wei has 29: Lucía has 1 more.",
+          "fr": "Lucía en a 30 et Wei, 29 : Lucía en a 1 de plus.",
+          "ar": "عند لوسيا 30 وعند وي 29: عند لوسيا واحدة أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para ver quién tiene más, con paquetes y sueltos.",
+        "va": "Inventa'n tu una per a veure qui en té més, amb paquets i solts.",
+        "en": "Make one up to see who has more, with bundles and loose ones.",
+        "fr": "Invente une question pour voir qui en a le plus, avec des paquets et des objets seuls.",
+        "ar": "لنخترع سؤالًا لنعرف من عنده أكثر، برزم وأشياء مفردة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 3,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar: en un vaso caben 10 garbanzos y has metido 6. ¿Cuántos faltan para llenarlo?",
+        "va": "Per a recordar: en un got hi caben 10 cigrons i n'has ficat 6. Quants en falten per a omplir-lo?",
+        "en": "Let's remember: a cup holds 10 chickpeas and you've put in 6. How many more to fill it?",
+        "fr": "Pour se souvenir : un verre contient 10 pois chiches et tu en as mis 6. Combien en manque-t-il pour le remplir ?",
+        "ar": "لنتذكّر: يتّسع الكوب لـ10 حبّات حمّص ووضعنا فيه 6. كم حبّة تنقص لملئه؟"
+      },
+      "pista": {
+        "es": "Piensa en los amigos del 10: ¿qué número va con el 6?",
+        "va": "Pensa en els amics del 10: quin nombre va amb el 6?",
+        "en": "Think of the friends of 10: which number goes with 6?",
+        "fr": "Pense aux amis du 10 : quel nombre va avec 6 ?",
+        "ar": "لنفكّر في أصدقاء العدد 10: أي عدد يرافق 6؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 4 garbanzos: 6 y 4 son 10.",
+          "va": "En falten 4: 6 i 4 són 10.",
+          "en": "4 more chickpeas: 6 and 4 make 10.",
+          "fr": "Il en manque 4 : 6 et 4 font 10.",
+          "ar": "تنقص 4 حبّات: 6 و4 يساويان 10."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un vaso a medio llenar.",
+        "va": "Inventa'n tu una altra amb un got a mig omplir.",
+        "en": "Make up another one with a cup that's partly full.",
+        "fr": "Invente-en une autre avec un verre à moitié rempli.",
+        "ar": "لنخترع سؤالًا آخر بكوب غير ممتلئ."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Elige un número, como 47. Enséñame con cosas cuántas decenas y cuántas unidades tiene.",
+        "va": "Tria un nombre, com ara 47. Ensenya'm amb coses quantes desenes i quantes unitats té.",
+        "en": "Choose a number, like 47. Show me with things how many tens and how many ones it has.",
+        "fr": "Choisis un nombre, comme 47. Montre-moi avec des objets combien il a de dizaines et d'unités.",
+        "ar": "لنختر عددًا، مثل 47. ولنُرِ بالأشياء كم عشرة وكم آحادًا فيه."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántos vasos de 10 llenamos para el 47?»",
+        "va": "Si no sap per on començar: «Quants gots de 10 omplim per al 47?»",
+        "en": "If they don't know where to start: “How many cups of 10 do we fill for 47?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de verres de 10 on remplit pour 47 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كم كوبًا من 10 نملأ لنكوّن 47؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede usar vasos, paquetes, dedos o dibujos. Lo importante es que diga «4 de 10 y 7 sueltos» a su manera. Preguntad «¿cómo lo sabes?».",
+          "va": "Pot fer servir gots, paquets, dits o dibuixos. L'important és que diga «4 de 10 i 7 solts» a la seua manera. Pregunteu «com ho saps?».",
+          "en": "They can use cups, bundles, fingers or drawings. What matters is that they say “4 tens and 7 loose ones” in their own way. Ask “How do you know?”",
+          "fr": "Il ou elle peut utiliser des verres, des paquets, ses doigts ou des dessins. L'important, c'est de dire « 4 de 10 et 7 seuls » à sa façon. Demandez « Comment tu le sais ? »",
+          "ar": "يمكن استعمال الأكواب أو الرزم أو الأصابع أو الرسوم. المهم أن يُقال «4 من 10 و7 مفردة» بطريقة خاصة. اسألوا «كيف عرفنا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "e7ec721b6e9f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "e7ec721b6e9f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "e7ec721b6e9f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "e7ec721b6e9f"
+      }
+    }
+  }
+}

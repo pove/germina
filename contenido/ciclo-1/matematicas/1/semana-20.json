@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s20",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 20,
+  "tipo": "tema",
+  "titulo": {
+    "es": "La mitad",
+    "va": "La meitat",
+    "en": "Half",
+    "fr": "La moitié",
+    "ar": "النصف"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren la mitad: repartir en dos partes iguales. Reparten de una en una y miran si sale igual o si sobra una.",
+    "va": "Aquesta setmana descobrixen la meitat (mitad): repartir en dues parts iguals. Repartixen d'una en una i miren si ix igual o si en sobra una.",
+    "en": "This week they discover half (mitad): sharing out into two equal parts. They share out one at a time and see if it comes out equal or if one is left over.",
+    "fr": "Cette semaine, on découvre la moitié (mitad) : partager en deux parts égales. On partage un par un et on regarde si c'est pareil ou s'il en reste un.",
+    "ar": "هذا الأسبوع يكتشف الأطفال النصف (mitad): التوزيع على جزأين متساويين. يوزّعون واحدًا واحدًا ويرون هل يتساوى الجزآن أم يبقى واحد."
+  },
+  "comoAyudar": {
+    "es": "Repartid de una en una diciendo «para ti, para mí», sin prisa. Si sobra una, no pasa nada: hablad de que ese número es impar.",
+    "va": "Repartiu d'una en una dient «per a tu, per a mi», sense pressa. Si en sobra una, no passa res: parleu de que eixe nombre és imparell.",
+    "en": "Share out one at a time, saying “one for you, one for me”, with no rush. If one is left over, that's fine: talk about that number being odd.",
+    "fr": "Partagez un par un en disant « pour toi, pour moi », sans vous presser. S'il en reste un, ce n'est pas grave : parlez du fait que ce nombre est impair.",
+    "ar": "وزّعوا واحدًا واحدًا وأنتم تقولون «لك، لي»، بلا عجلة. وإذا بقي واحد، فلا بأس: تحدّثوا عن أن هذا العدد فردي."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.1.2",
+    "matematicas.c1.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Para ti y para mí",
+      "va": "Per a tu i per a mi",
+      "en": "One for you, one for me",
+      "fr": "Pour toi et pour moi",
+      "ar": "لك ولي"
+    },
+    "material": [
+      {
+        "es": "Galletas pequeñas, uvas o legumbres",
+        "va": "Galetes menudes, raïm o llegums",
+        "en": "Small biscuits, grapes or dried beans",
+        "fr": "De petits biscuits, des grains de raisin ou des légumes secs",
+        "ar": "بسكويت صغير أو عنب أو بقوليات"
+      },
+      {
+        "es": "Dos platos",
+        "va": "Dos plats",
+        "en": "Two plates",
+        "fr": "Deux assiettes",
+        "ar": "صحنان"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "galleta",
+        "texto": {
+          "es": "Coged un puñado de galletas, uvas o legumbres y contadlas.",
+          "va": "Agafeu un grapat de galetes, raïm o llegums i compteu-los.",
+          "en": "Take a handful of biscuits, grapes or beans and count them.",
+          "fr": "Prenez une poignée de biscuits, de raisins ou de haricots et comptez-les.",
+          "ar": "خذوا حفنة من البسكويت أو العنب أو البقوليات وعدّوها."
+        }
+      },
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Repartidlas entre dos platos, de una en una: «para ti, para mí».",
+          "va": "Repartiu-les entre dos plats, d'una en una: «per a tu, per a mi».",
+          "en": "Share them out between two plates, one at a time: “one for you, one for me”.",
+          "fr": "Partagez-les entre deux assiettes, un par un : « pour toi, pour moi ».",
+          "ar": "وزّعوها على صحنين، واحدة واحدة: «لك، لي»."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Hay las mismas en cada plato? Eso es la mitad. ¿Ha sobrado alguna?",
+          "va": "Hi ha les mateixes en cada plat? Això és la meitat. N'ha sobrat alguna?",
+          "en": "Are there the same on each plate? That is half. Was one left over?",
+          "fr": "Y en a-t-il autant dans chaque assiette ? C'est la moitié. Est-ce qu'il en est resté un ?",
+          "ar": "هل في كل صحن العدد نفسه؟ هذا هو النصف. هل بقيت واحدة؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Probad con otro puñado. ¿Con qué números no sobra ninguna?",
+          "va": "Proveu amb un altre grapat. Amb quins nombres no en sobra cap?",
+          "en": "Try another handful. Which numbers leave none over?",
+          "fr": "Essayez avec une autre poignée. Avec quels nombres il n'en reste aucun ?",
+          "ar": "جرّبوا حفنة أخرى. مع أيّ أعداد لا يبقى شيء؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 6 u 8 cosas y contad juntos cada plato al acabar.",
+      "va": "Comenceu amb 6 o 8 coses i compteu junts cada plat en acabar.",
+      "en": "Start with 6 or 8 things and count each plate together at the end.",
+      "fr": "Commencez avec 6 ou 8 choses et comptez ensemble chaque assiette à la fin.",
+      "ar": "ابدؤوا بستة أشياء أو ثمانية، وعدّوا معًا كل صحن في النهاية."
+    },
+    "masDificil": {
+      "es": "Repartid 20 o 30 cosas, o decid la mitad antes de repartir y luego comprobadlo.",
+      "va": "Repartiu 20 o 30 coses, o digueu la meitat abans de repartir i després comproveu-ho.",
+      "en": "Share out 20 or 30 things, or say what half is before sharing and then check.",
+      "fr": "Partagez 20 ou 30 choses, ou dites la moitié avant de partager, puis vérifiez.",
+      "ar": "وزّعوا 20 أو 30 شيئًا، أو قولوا النصف قبل التوزيع ثم تأكّدوا."
+    },
+    "paraQueSirve": {
+      "es": "Repartir en partes iguales es lo que hacemos cada día con la comida o los juguetes, y la mitad es la otra cara del doble.",
+      "va": "Repartir en parts iguals és el que fem cada dia amb el menjar o els joguets, i la meitat és l'altra cara del doble.",
+      "en": "Sharing out equally is what we do every day with food or toys, and half is the other side of double.",
+      "fr": "Partager en parts égales, c'est ce qu'on fait tous les jours avec la nourriture ou les jouets, et la moitié est l'autre face du double.",
+      "ar": "التوزيع بالتساوي هو ما نفعله كل يوم مع الطعام أو الألعاب، والنصف هو الوجه الآخر للضعف."
+    },
+    "aviso": {
+      "es": "Si usáis legumbres o uvas, que no queden al alcance de hermanos o hermanas pequeños.",
+      "va": "Si utilitzeu llegums o raïm, que no queden a l'abast de germans o germanes menuts.",
+      "en": "If you use dried beans or grapes, keep them out of reach of younger brothers and sisters.",
+      "fr": "Si vous utilisez des légumes secs ou du raisin, gardez-les hors de portée des petits frères et sœurs.",
+      "ar": "إذا استعملتم البقوليات أو العنب، فأبعدوها عن متناول الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Sara y Darío se reparten 8 galletas a partes iguales. ¿Cuántas le tocan a cada uno?",
+        "va": "Sara i Darío es repartixen 8 galetes a parts iguals. Quantes li'n toquen a cada u?",
+        "en": "Sara and Darío share 8 biscuits equally. How many does each of them get?",
+        "fr": "Sara et Darío se partagent 8 biscuits en parts égales. Combien chacun en reçoit-il ?",
+        "ar": "تتقاسم سارة وداريو 8 بسكويتات بالتساوي. كم بسكويتة لكلّ منهما؟"
+      },
+      "pista": {
+        "es": "Reparte 8 cosas de una en una entre dos sitios.",
+        "va": "Repartix 8 coses d'una en una entre dos llocs.",
+        "en": "Share out 8 things one at a time between two places.",
+        "fr": "Partage 8 choses une par une entre deux endroits.",
+        "ar": "لنوزّع 8 أشياء واحدًا واحدًا على مكانين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 - 4",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A cada uno le tocan 4: {{4 + 4 = 8}}. La mitad de 8 es 4.",
+          "va": "A cada u li'n toquen 4: {{4 + 4 = 8}}. La meitat de 8 és 4.",
+          "en": "Each of them gets 4: {{4 + 4 = 8}}. Half of 8 is 4.",
+          "fr": "Chacun en reçoit 4 : {{4 + 4 = 8}}. La moitié de 8, c'est 4.",
+          "ar": "لكلّ منهما 4: {{4 + 4 = 8}}. نصف 8 هو 4."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra repartiendo algo entre dos personas de tu casa.",
+        "va": "Inventa'n tu una altra repartint alguna cosa entre dues persones de ta casa.",
+        "en": "Make up another one by sharing something between two people at home.",
+        "fr": "Invente-en une autre en partageant quelque chose entre deux personnes de ta maison.",
+        "ar": "لنخترع سؤالًا آخر نوزّع فيه شيئًا بين شخصين في البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Tienes 10 pinzas. Pones la mitad en una cuerda y la otra mitad en otra. ¿Cuántas van en cada cuerda?",
+        "va": "Tens 10 pinces. Poses la meitat en una corda i l'altra meitat en una altra. Quantes van en cada corda?",
+        "en": "You have 10 pegs. You put half on one line and the other half on another. How many go on each line?",
+        "fr": "Tu as 10 pinces. Tu mets la moitié sur une corde et l'autre moitié sur une autre. Combien en va-t-il sur chaque corde ?",
+        "ar": "عندنا 10 ملاقط. نضع نصفها على حبل والنصف الآخر على حبل آخر. كم ملقطًا على كل حبل؟"
+      },
+      "pista": {
+        "es": "Mira tus dos manos abiertas: son 10 dedos.",
+        "va": "Mira les teues dues mans obertes: són 10 dits.",
+        "en": "Look at your two open hands: that's 10 fingers.",
+        "fr": "Regarde tes deux mains ouvertes : ça fait 10 doigts.",
+        "ar": "لننظر إلى يدينا المفتوحتين: إنها 10 أصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 5",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 5 en cada cuerda: {{5 + 5 = 10}}.",
+          "va": "En van 5 en cada corda: {{5 + 5 = 10}}.",
+          "en": "5 go on each line: {{5 + 5 = 10}}.",
+          "fr": "Il en va 5 sur chaque corde : {{5 + 5 = 10}}.",
+          "ar": "على كل حبل 5: {{5 + 5 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con pinzas o cucharas de casa.",
+        "va": "Inventa'n tu una altra amb pinces o culleres de casa.",
+        "en": "Make up another one with pegs or spoons from home.",
+        "fr": "Invente-en une autre avec des pinces ou des cuillères de la maison.",
+        "ar": "لنخترع سؤالًا آخر بملاقط أو ملاعق من البيت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Hay 7 mandarinas y dos personas se las reparten igual. ¿Cuántas le tocan a cada una? ¿Sobra alguna?",
+        "va": "Hi ha 7 mandarines i dues persones se les repartixen igual. Quantes li'n toquen a cada una? En sobra alguna?",
+        "en": "There are 7 mandarins and two people share them equally. How many does each person get? Is one left over?",
+        "fr": "Il y a 7 mandarines et deux personnes se les partagent également. Combien chacune en reçoit-elle ? Est-ce qu'il en reste une ?",
+        "ar": "هناك 7 حبّات يوسفي يتقاسمها شخصان بالتساوي. كم حبّة لكلّ منهما؟ هل تبقى حبّة؟"
+      },
+      "pista": {
+        "es": "Reparte 7 cosas de verdad, de una en una.",
+        "va": "Repartix 7 coses de veritat, d'una en una.",
+        "en": "Share out 7 real things, one at a time.",
+        "fr": "Partage 7 vraies choses, une par une.",
+        "ar": "لنوزّع 7 أشياء حقيقية، واحدًا واحدًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 - 4",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A cada persona le tocan 3 y sobra 1: {{3 + 3 + 1 = 7}}.",
+          "va": "A cada persona li'n toquen 3 i en sobra 1: {{3 + 3 + 1 = 7}}.",
+          "en": "Each person gets 3 and 1 is left over: {{3 + 3 + 1 = 7}}.",
+          "fr": "Chaque personne en reçoit 3 et il en reste 1 : {{3 + 3 + 1 = 7}}.",
+          "ar": "لكلّ شخص 3 وتبقى حبّة واحدة: {{3 + 3 + 1 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un número que no se pueda repartir justo.",
+        "va": "Inventa'n tu una altra amb un nombre que no es puga repartir just.",
+        "en": "Make up another one with a number that can't be shared out exactly.",
+        "fr": "Invente-en une autre avec un nombre qu'on ne peut pas partager tout juste.",
+        "ar": "لنخترع سؤالًا آخر بعدد لا يمكن توزيعه بالتساوي تمامًا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 19,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar el doble: ¿cuál es el doble de 6?",
+        "va": "Per a recordar el doble: quin és el doble de 6?",
+        "en": "Let's remember double (doble): what is double 6?",
+        "fr": "Pour se souvenir du double (doble) : quel est le double de 6 ?",
+        "ar": "لنتذكّر الضعف (doble): ما ضعف 6؟"
+      },
+      "pista": {
+        "es": "Levanta 6 dedos, y otros 6 con la ayuda de una persona mayor.",
+        "va": "Alça 6 dits, i uns altres 6 amb l'ajuda d'una persona gran.",
+        "en": "Hold up 6 fingers, and another 6 with a grown-up's help.",
+        "fr": "Lève 6 doigts, et 6 autres avec l'aide d'une grande personne.",
+        "ar": "لنرفع 6 أصابع، و6 أخرى بمساعدة شخص كبير."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 6",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El doble de 6 es 12: {{6 + 6 = 12}}. Y la mitad de 12 es 6.",
+          "va": "El doble de 6 és 12: {{6 + 6 = 12}}. I la meitat de 12 és 6.",
+          "en": "Double 6 is 12: {{6 + 6 = 12}}. And half of 12 is 6.",
+          "fr": "Le double de 6, c'est 12 : {{6 + 6 = 12}}. Et la moitié de 12, c'est 6.",
+          "ar": "ضعف 6 هو 12: {{6 + 6 = 12}}. ونصف 12 هو 6."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el doble de un número que te guste.",
+        "va": "Inventa'n tu una altra amb el doble d'un nombre que t'agrade.",
+        "en": "Make up another one with double a number you like.",
+        "fr": "Invente-en une autre avec le double d'un nombre que tu aimes.",
+        "ar": "لنخترع سؤالًا آخر بضعف عدد نحبّه."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si un montón se puede repartir entre dos sin que sobre nada? Enséñamelo con cosas de casa.",
+        "va": "Com saps si un munt es pot repartir entre dos sense que en sobre res? Ensenya-m'ho amb coses de casa.",
+        "en": "How do you know if a pile can be shared between two with nothing left over? Show me with things from home.",
+        "fr": "Comment sais-tu si un tas peut se partager entre deux sans qu'il reste rien ? Montre-le-moi avec des choses de la maison.",
+        "ar": "كيف نعرف هل يمكن توزيع كومة على اثنين من دون أن يبقى شيء؟ لنُرِ ذلك بأشياء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Probamos con 9 cucharas y luego con 10?».",
+        "va": "Si no sap per on començar: «Provem amb 9 culleres i després amb 10?».",
+        "en": "If they don't know where to start: “Shall we try with 9 spoons and then with 10?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « On essaie avec 9 cuillères, puis avec 10 ? »",
+        "ar": "إذا صعُبت البداية، اقترحوا: «هل نجرّب بتسع ملاعق ثم بعشر؟»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede que reparta y mire, o que hable de parejas, como en la semana de pares y nones. Escuchad y preguntad «¿y con otro número?».",
+          "va": "Pot ser que repartisca i mire, o que parle de parelles, com en la setmana de parells i imparells. Escolteu i pregunteu «i amb un altre nombre?».",
+          "en": "Your child may share out and look, or talk about pairs, as in the odd and even week. Listen and ask “And with another number?”.",
+          "fr": "Votre enfant peut partager et regarder, ou parler de paires, comme pendant la semaine pair et impair. Écoutez et demandez « Et avec un autre nombre ? ».",
+          "ar": "قد يوزّع الطفل وينظر، أو يتحدّث عن الأزواج كما في أسبوع الزوجي والفردي. استمعوا واسألوا «وبعدد آخر؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "3bdf6968190d"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "3bdf6968190d"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "3bdf6968190d"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "3bdf6968190d"
+      }
+    }
+  }
+}

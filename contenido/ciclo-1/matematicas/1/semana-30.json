@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s30",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 30,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Llenar la decena",
+    "va": "Omplir la desena",
+    "en": "Filling up the ten",
+    "fr": "Remplir la dizaine",
+    "ar": "لنملأ العشرة"
+  },
+  "objetivo": {
+    "es": "Esta semana suman pasando de la decena: primero completan el 10 y luego siguen con lo que sobra. Para sumar 8 y 5, ponen 2 para llegar a 10 y 3 más: 13.",
+    "va": "Aquesta setmana sumen passant de la desena (decena): primer completen el 10 i després continuen amb el que sobra. Per a sumar 8 i 5, posen 2 per a arribar a 10 i 3 més: 13.",
+    "en": "This week they add past the ten (decena): first they make 10, then they carry on with what is left. To add 8 and 5, they put 2 to reach 10 and 3 more: 13.",
+    "fr": "Cette semaine, on additionne en passant la dizaine (decena) : d'abord on complète le 10, puis on continue avec ce qui reste. Pour additionner 8 et 5, on met 2 pour arriver à 10, puis encore 3 : 13.",
+    "ar": "هذا الأسبوع يجمع الأطفال متجاوزين العشرة (decena): يكملون العشرة أولًا، ثم يتابعون بما تبقّى. لجمع 8 و5، يضعون 2 للوصول إلى 10، ثم 3 أخرى: 13."
+  },
+  "comoAyudar": {
+    "es": "Antes de sumar, preguntad «¿cuántas faltan para 10?». Contar con los dedos está bien: los dedos de las dos manos son una decena.",
+    "va": "Abans de sumar, pregunteu «quantes en falten per a 10?». Comptar amb els dits està bé: els dits de les dues mans són una desena.",
+    "en": "Before adding, ask “How many more to make 10?”. Counting on fingers is fine: the fingers on both hands make a ten.",
+    "fr": "Avant d'additionner, demandez « Combien il manque pour faire 10 ? ». Compter sur ses doigts, c'est bien : les doigts des deux mains font une dizaine.",
+    "ar": "قبل الجمع، اسألوا «كم ينقص لنصل إلى 10؟». العدّ بالأصابع أمر جيّد: أصابع اليدين معًا عشرة."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c1.5.1",
+    "matematicas.c1.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Vasos de 10",
+      "va": "Gots de 10",
+      "en": "Cups of 10",
+      "fr": "Des verres de 10",
+      "ar": "أكواب العشرة"
+    },
+    "material": [
+      {
+        "es": "Un puñado de legumbres secas: garbanzos, alubias o lentejas grandes",
+        "va": "Un grapat de llegums secs: cigrons, fesols o llentilles grosses",
+        "en": "A handful of dried pulses: chickpeas, beans or large lentils",
+        "fr": "Une poignée de légumes secs : pois chiches, haricots ou grosses lentilles",
+        "ar": "حفنة من البقول الجافة: حمّص أو فاصولياء أو عدس كبير"
+      },
+      {
+        "es": "Dos vasos",
+        "va": "Dos gots",
+        "en": "Two cups",
+        "fr": "Deux verres",
+        "ar": "كوبان"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "Este vaso es el de la decena: se llena con 10 legumbres. Meted 8 legumbres en él.",
+          "va": "Aquest got és el de la desena: s'ompli amb 10 llegums. Fiqueu-hi 8 llegums.",
+          "en": "This cup is the ten cup: it is full with 10 pulses. Put 8 pulses in it.",
+          "fr": "Ce verre est celui de la dizaine : il est plein avec 10 légumes secs. Mettez-en 8 dedans.",
+          "ar": "هذا الكوب هو كوب العشرة: يمتلئ بعشر حبات. ضعوا فيه 8 حبات."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Poned 5 legumbres más en la mesa. Para sumar 8 y 5, pasad legumbres al vaso hasta llenarlo.",
+          "va": "Poseu 5 llegums més a la taula. Per a sumar 8 i 5, passeu llegums al got fins a omplir-lo.",
+          "en": "Put 5 more pulses on the table. To add 8 and 5, move pulses into the cup until it is full.",
+          "fr": "Posez 5 légumes secs de plus sur la table. Pour additionner 8 et 5, passez-en dans le verre jusqu'à ce qu'il soit plein.",
+          "ar": "ضعوا 5 حبات أخرى على الطاولة. لجمع 8 و5، انقلوا حبات إلى الكوب حتى يمتلئ."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Cuántas han quedado sueltas? Un vaso de 10 y 3 sueltas son 13: {{8 + 5 = 13}}.",
+          "va": "Quants n'han quedat solts? Un got de 10 i 3 solts són 13: {{8 + 5 = 13}}.",
+          "en": "How many are left loose? A cup of 10 and 3 loose ones make 13: {{8 + 5 = 13}}.",
+          "fr": "Combien en reste-t-il à côté ? Un verre de 10 et 3 à côté, ça fait 13 : {{8 + 5 = 13}}.",
+          "ar": "كم حبة بقيت خارج الكوب؟ كوب فيه 10 و3 حبات خارجه تساوي 13: {{8 + 5 = 13}}."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Vaciad el vaso y jugad con otras sumas: 9 y 4, 7 y 6, 6 y 5. Primero llenad el vaso y luego contad las sueltas.",
+          "va": "Buideu el got i jugueu amb altres sumes: 9 i 4, 7 i 6, 6 i 5. Primer ompliu el got i després compteu els solts.",
+          "en": "Empty the cup and play with other additions: 9 and 4, 7 and 6, 6 and 5. First fill the cup, then count the loose ones.",
+          "fr": "Videz le verre et jouez avec d'autres additions : 9 et 4, 7 et 6, 6 et 5. D'abord remplissez le verre, puis comptez ceux qui restent à côté.",
+          "ar": "أفرغوا الكوب والعبوا بعمليات جمع أخرى: 9 و4، 7 و6، 6 و5. املؤوا الكوب أولًا، ثم عدّوا الحبات الباقية خارجه."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad siempre con 9 en el vaso: solo falta 1 para la decena.",
+      "va": "Comenceu sempre amb 9 en el got: només en falta 1 per a la desena.",
+      "en": "Always start with 9 in the cup: only 1 more is needed to make the ten.",
+      "fr": "Commencez toujours avec 9 dans le verre : il n'en manque qu'un pour la dizaine.",
+      "ar": "ابدؤوا دائمًا بتسع حبات في الكوب: ينقص واحدة فقط للعشرة."
+    },
+    "masDificil": {
+      "es": "Usad los dos vasos: uno lleno y otro con 8. Sumadle 5 y contad: dos decenas y las sueltas.",
+      "va": "Feu servir els dos gots: un ple i l'altre amb 8. Sumeu-hi 5 i compteu: dues desenes i els solts.",
+      "en": "Use both cups: one full and the other with 8. Add 5 and count: two tens and the loose ones.",
+      "fr": "Utilisez les deux verres : un plein et l'autre avec 8. Ajoutez-en 5 et comptez : deux dizaines et ceux qui restent à côté.",
+      "ar": "استعملوا الكوبين: واحد ممتلئ والآخر فيه 8. أضيفوا 5 وعدّوا: عشرتان والحبات الباقية."
+    },
+    "paraQueSirve": {
+      "es": "Completar primero el 10 y luego seguir hace fáciles las sumas que pasan de la decena, y es la base de «llevarse una» en clase.",
+      "va": "Completar primer el 10 i després continuar fa fàcils les sumes que passen de la desena, i és la base de «portar-se'n una» (llevarse una) a classe.",
+      "en": "Making 10 first and then carrying on makes additions past the ten easy, and it is the basis of carrying (llevarse una) in class.",
+      "fr": "Compléter d'abord le 10 puis continuer rend faciles les additions qui passent la dizaine, et c'est la base de la retenue (llevarse una) en classe.",
+      "ar": "إكمال العشرة أولًا ثم المتابعة يجعل الجمع الذي يتجاوز العشرة سهلًا، وهو أساس الاحتفاظ (llevarse una) في القسم."
+    },
+    "aviso": {
+      "es": "Las legumbres son pequeñas: guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Els llegums són menuts: guardeu-los lluny de germans o germanes menuts.",
+      "en": "Pulses are small: keep them away from younger brothers and sisters.",
+      "fr": "Les légumes secs sont petits : gardez-les loin des petits frères et sœurs.",
+      "ar": "البقول صغيرة: أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En el vaso hay 9 garbanzos y echas 4 más. ¿Cuántos garbanzos hay ahora?",
+        "va": "En el got hi ha 9 cigrons i en tires 4 més. Quants cigrons hi ha ara?",
+        "en": "There are 9 chickpeas in the cup and you add 4 more. How many chickpeas are there now?",
+        "fr": "Dans le verre, il y a 9 pois chiches et tu en ajoutes 4. Combien de pois chiches y a-t-il maintenant ?",
+        "ar": "في الكوب 9 حبات حمّص ونضيف 4 أخرى. كم حبة حمّص يوجد الآن؟"
+      },
+      "pista": {
+        "es": "Con 1 llenas el 10; luego suma los que quedan.",
+        "va": "Amb 1 omplis el 10; després suma els que queden.",
+        "en": "1 of them fills up the 10; then add the ones that are left.",
+        "fr": "Avec 1, tu remplis le 10 ; ensuite, ajoute ceux qui restent.",
+        "ar": "بحبة واحدة نملأ العشرة، ثم نضيف الباقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 + 4",
+        "resultado": 13,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 13 garbanzos: {{9 + 1 = 10}} y {{10 + 3 = 13}}.",
+          "va": "Hi ha 13 cigrons: {{9 + 1 = 10}} i {{10 + 3 = 13}}.",
+          "en": "There are 13 chickpeas: {{9 + 1 = 10}} and {{10 + 3 = 13}}.",
+          "fr": "Il y a 13 pois chiches : {{9 + 1 = 10}} et {{10 + 3 = 13}}.",
+          "ar": "يوجد 13 حبة حمّص: {{9 + 1 = 10}} و{{10 + 3 = 13}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con un vaso que tenga 8 cosas dentro.",
+        "va": "Ara inventa'n tu una amb un got que tinga 8 coses dins.",
+        "en": "Now you make one up with a cup that has 8 things inside.",
+        "fr": "Maintenant, invente une question avec un verre qui a 8 choses dedans.",
+        "ar": "والآن لنخترع سؤالًا عن كوب فيه 8 أشياء."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Sara tiene 7 canicas y su tía le da 5 más. ¿Cuántas canicas tiene ahora?",
+        "va": "Sara té 7 bales i la seua tia li'n dona 5 més. Quantes bales té ara?",
+        "en": "Sara has 7 marbles and her aunt gives her 5 more. How many marbles does she have now?",
+        "fr": "Sara a 7 billes et sa tante lui en donne 5 de plus. Combien de billes a-t-elle maintenant ?",
+        "ar": "عند سارة 7 كرات زجاجية وتعطيها عمّتها 5 أخرى. كم كرة عندها الآن؟"
+      },
+      "pista": {
+        "es": "Mira primero cuántas faltan del 7 al 10.",
+        "va": "Mira primer quantes en falten del 7 al 10.",
+        "en": "First see how many more it takes to go from 7 to 10.",
+        "fr": "Regarde d'abord combien il en manque de 7 à 10.",
+        "ar": "لننظر أولًا كم ينقص من 7 إلى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 5",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 12 canicas: 3 para llegar a 10 y 2 más.",
+          "va": "Té 12 bales: 3 per a arribar a 10 i 2 més.",
+          "en": "She has 12 marbles: 3 to reach 10 and 2 more.",
+          "fr": "Elle a 12 billes : 3 pour arriver à 10 et encore 2.",
+          "ar": "عندها 12 كرة: 3 للوصول إلى 10 و2 أخريان."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo que te regalen.",
+        "va": "Inventa'n tu una altra amb alguna cosa que et regalen.",
+        "en": "Make up another one about something you are given as a present.",
+        "fr": "Invente-en une autre avec quelque chose qu'on t'offre.",
+        "ar": "لنخترع سؤالًا آخر عن شيء نحصل عليه هدية."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En el autobús van 8 personas y suben 6 más. ¿Cuántas personas van ahora?",
+        "va": "En l'autobús van 8 persones i en pugen 6 més. Quantes persones hi van ara?",
+        "en": "There are 8 people on the bus and 6 more get on. How many people are on it now?",
+        "fr": "Dans le bus, il y a 8 personnes et 6 de plus montent. Combien de personnes y a-t-il maintenant ?",
+        "ar": "في الحافلة 8 أشخاص ويصعد 6 آخرون. كم شخصًا في الحافلة الآن؟"
+      },
+      "pista": {
+        "es": "Dos de las que suben llenan el 10; mira cuántas quedan.",
+        "va": "Dues de les que pugen omplin el 10; mira quantes en queden.",
+        "en": "Two of the people getting on fill up the 10; see how many are left.",
+        "fr": "Deux des personnes qui montent remplissent le 10 ; regarde combien il en reste.",
+        "ar": "اثنان ممّن يصعدون يكملان العشرة؛ لننظر كم يبقى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 6",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 14 personas: {{8 + 2 = 10}} y {{10 + 4 = 14}}.",
+          "va": "Hi van 14 persones: {{8 + 2 = 10}} i {{10 + 4 = 14}}.",
+          "en": "There are 14 people: {{8 + 2 = 10}} and {{10 + 4 = 14}}.",
+          "fr": "Il y a 14 personnes : {{8 + 2 = 10}} et {{10 + 4 = 14}}.",
+          "ar": "في الحافلة 14 شخصًا: {{8 + 2 = 10}} و{{10 + 4 = 14}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con gente que sube al columpio o al tobogán del parque.",
+        "va": "Inventa'n tu una amb gent que puja al gronxador o al tobogan del parc.",
+        "en": "Make one up about people getting on the swings or the slide at the park.",
+        "fr": "Invente une question avec des gens qui montent sur la balançoire ou le toboggan du parc.",
+        "ar": "لنخترع سؤالًا عن أطفال يصعدون إلى الأرجوحة أو الزحليقة في الحديقة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 13,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: ¿qué número hace pareja con el 6 para llegar a 10?",
+        "va": "Per a recordar: quin nombre fa parella amb el 6 per a arribar a 10?",
+        "en": "Let's remember: which number goes with 6 to make 10?",
+        "fr": "Pour se souvenir : quel nombre va avec le 6 pour faire 10 ?",
+        "ar": "لنتذكّر: ما العدد الذي يكمّل 6 لنصل إلى 10؟"
+      },
+      "pista": {
+        "es": "Levanta 6 dedos y cuenta los que quedan bajados.",
+        "va": "Alça 6 dits i compta els que queden abaixats.",
+        "en": "Hold up 6 fingers and count the ones that are still down.",
+        "fr": "Lève 6 doigts et compte ceux qui restent baissés.",
+        "ar": "لنرفع 6 أصابع ونعدّ الأصابع التي بقيت منخفضة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 4, porque {{6 + 4 = 10}}.",
+          "va": "El 4, perquè {{6 + 4 = 10}}.",
+          "en": "4, because {{6 + 4 = 10}}.",
+          "fr": "Le 4, parce que {{6 + 4 = 10}}.",
+          "ar": "العدد 4، لأن {{6 + 4 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pareja que llegue a 10, con los dedos.",
+        "va": "Inventa'n tu una altra parella que arribe a 10, amb els dits.",
+        "en": "Make up another pair that makes 10, using your fingers.",
+        "fr": "Invente une autre paire qui fait 10, avec tes doigts.",
+        "ar": "لنخترع زوجًا آخر يساوي 10، بالأصابع."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sumas 9 y 3? Enséñamelo con los dedos o con cosas, y cuéntame qué haces primero.",
+        "va": "Com sumes 9 i 3? Ensenya-m'ho amb els dits o amb coses, i conta'm què fas primer.",
+        "en": "How do you add 9 and 3? Show me with your fingers or with things, and tell me what you do first.",
+        "fr": "Comment additionnes-tu 9 et 3 ? Montre-le-moi avec tes doigts ou avec des objets, et dis-moi ce que tu fais d'abord.",
+        "ar": "كيف نجمع 9 و3؟ لنُرِ ذلك بالأصابع أو بالأشياء، ونقول ماذا نفعل أولًا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuánto le falta al 9 para ser 10?»",
+        "va": "Si no sap per on començar: «Quant li falta al 9 per a ser 10?»",
+        "en": "If they don't know where to start: “What do you add to 9 to make 10?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien il manque à 9 pour faire 10 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كم ينقص 9 ليصبح 10؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede contar desde el 9 con los dedos o completar el 10 y añadir 2. Las dos formas valen: preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "Pot comptar des del 9 amb els dits o completar el 10 i afegir-ne 2. Les dues maneres valen: pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "They may count on from 9 on their fingers, or make 10 and add 2. Both ways work: ask “And then?” and say thank you for the explanation.",
+          "fr": "Votre enfant peut compter à partir de 9 sur ses doigts, ou compléter le 10 et ajouter 2. Les deux façons sont bonnes : demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "يمكن العدّ من 9 بالأصابع، أو إكمال العشرة ثم إضافة 2. الطريقتان صحيحتان: اسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "4681db550b5b"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "4681db550b5b"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "4681db550b5b"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "4681db550b5b"
+      }
+    }
+  }
+}

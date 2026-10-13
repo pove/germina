@@ -1,0 +1,336 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s18",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 18,
+  "tipo": "tema",
+  "titulo": {
+    "es": "De 2 en 2, de 5 en 5",
+    "va": "De 2 en 2, de 5 en 5",
+    "en": "In 2s, in 5s",
+    "fr": "De 2 en 2, de 5 en 5",
+    "ar": "اثنين اثنين، خمسة خمسة"
+  },
+  "objetivo": {
+    "es": "Esta semana cuentan sin ir de uno en uno: de 2 en 2, de 5 en 5 y de 10 en 10. Descubren que los saltos siguen una serie y que así se cuenta más rápido.",
+    "va": "Aquesta setmana compten sense anar d'un en un: de 2 en 2, de 5 en 5 i de 10 en 10. Descobrixen que els salts seguixen una sèrie (serie) i que així es compta més ràpid.",
+    "en": "This week they count without going one by one: in 2s, in 5s and in 10s. They discover that the jumps follow a sequence (serie) and that counting this way is quicker.",
+    "fr": "Cette semaine, on compte sans aller un par un : de 2 en 2, de 5 en 5 et de 10 en 10. On découvre que les sauts forment une suite (serie) et qu'on compte ainsi plus vite.",
+    "ar": "هذا الأسبوع يعدّ الأطفال من دون المرور واحدًا واحدًا: اثنين اثنين، وخمسة خمسة، وعشرة عشرة. ويكتشفون أن القفزات تتبع متتالية (serie) وأن العدّ هكذا أسرع."
+  },
+  "comoAyudar": {
+    "es": "Decid la serie en voz alta juntos («2, 4, 6…») mientras movéis cada pareja o cada mano. Si se pierde, volved a contar de uno en uno para comprobar que sale lo mismo.",
+    "va": "Digueu la sèrie en veu alta junts («2, 4, 6…») mentre moveu cada parella o cada mà. Si es perd, torneu a comptar d'un en un per a comprovar que ix el mateix.",
+    "en": "Say the sequence out loud together (“2, 4, 6…”) while you move each pair or each hand. If your child gets lost, count one by one again to check you get the same.",
+    "fr": "Dites la suite à voix haute ensemble (« 2, 4, 6… ») en déplaçant chaque paire ou chaque main. Si votre enfant se perd, recomptez un par un pour vérifier qu'on trouve pareil.",
+    "ar": "قولوا المتتالية بصوت عالٍ معًا («2، 4، 6…») وأنتم تحرّكون كل زوج أو كل يد. وإذا حصل تَوَهان، عدّوا من جديد واحدًا واحدًا للتأكّد من أن النتيجة هي نفسها."
+  },
+  "saberes": [
+    "matematicas.computacional.secuencias-figuras",
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.decena"
+  ],
+  "criterios": [
+    "matematicas.c1.2.3",
+    "matematicas.c1.4.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Contar a saltos",
+      "va": "Comptar a salts",
+      "en": "Counting in jumps",
+      "fr": "Compter par sauts",
+      "ar": "العدّ بالقفزات"
+    },
+    "material": [
+      {
+        "es": "Zapatos de la familia",
+        "va": "Sabates de la família",
+        "en": "The family's shoes",
+        "fr": "Les chaussures de la famille",
+        "ar": "أحذية العائلة"
+      },
+      {
+        "es": "Palillos o pajitas y unas gomas, para hacer paquetes de 10",
+        "va": "Palets o canyetes i unes gomes, per a fer paquets de 10",
+        "en": "Sticks or straws and some rubber bands, to make bundles of 10",
+        "fr": "Des bâtonnets ou des pailles et quelques élastiques, pour faire des paquets de 10",
+        "ar": "أعواد أو مصّاصات وبعض الأربطة المطاطية، لصنع حزم من 10"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Poned en fila los zapatos de casa, por parejas. Contadlos de 2 en 2: «2, 4, 6…».",
+          "va": "Poseu en fila les sabates de casa, per parelles. Compteu-les de 2 en 2: «2, 4, 6…».",
+          "en": "Line up the shoes at home in pairs. Count them in 2s: “2, 4, 6…”.",
+          "fr": "Alignez les chaussures de la maison par paires. Comptez-les de 2 en 2 : « 2, 4, 6… ».",
+          "ar": "صفّوا أحذية البيت أزواجًا. عدّوها اثنين اثنين: «2، 4، 6…»."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Juntad las manos de todas las personas de casa. Contad los dedos de 5 en 5: «5, 10, 15…».",
+          "va": "Ajunteu les mans de totes les persones de casa. Compteu els dits de 5 en 5: «5, 10, 15…».",
+          "en": "Put together the hands of everyone at home. Count the fingers in 5s: “5, 10, 15…”.",
+          "fr": "Réunissez les mains de toutes les personnes de la maison. Comptez les doigts de 5 en 5 : « 5, 10, 15… ».",
+          "ar": "اجمعوا أيدي كل من في البيت. عدّوا الأصابع خمسة خمسة: «5، 10، 15…»."
+        }
+      },
+      {
+        "pictograma": "palillos",
+        "texto": {
+          "es": "Haced paquetes de 10 palillos con una goma. Contadlos de 10 en 10: «10, 20, 30…».",
+          "va": "Feu paquets de 10 palets amb una goma. Compteu-los de 10 en 10: «10, 20, 30…».",
+          "en": "Make bundles of 10 sticks with a rubber band. Count them in 10s: “10, 20, 30…”.",
+          "fr": "Faites des paquets de 10 bâtonnets avec un élastique. Comptez-les de 10 en 10 : « 10, 20, 30… ».",
+          "ar": "اصنعوا حزمًا من 10 أعواد برباط مطاطي. عدّوها عشرة عشرة: «10، 20، 30…»."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "¿Qué es más rápido, contar a saltos o de uno en uno? Comprobad que sale el mismo número.",
+          "va": "Què és més ràpid, comptar a salts o d'un en un? Comproveu que ix el mateix nombre.",
+          "en": "Which is quicker, counting in jumps or one by one? Check that you get the same number.",
+          "fr": "Qu'est-ce qui est plus rapide, compter par sauts ou un par un ? Vérifiez qu'on trouve le même nombre.",
+          "ar": "أيّهما أسرع: العدّ بالقفزات أم واحدًا واحدًا؟ تأكّدوا من أن العدد هو نفسه."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Contad solo de 2 en 2, con pocos zapatos, y moved cada pareja al decir su número.",
+      "va": "Compteu només de 2 en 2, amb poques sabates, i moveu cada parella en dir el seu nombre.",
+      "en": "Count only in 2s, with just a few shoes, and move each pair as you say its number.",
+      "fr": "Comptez seulement de 2 en 2, avec peu de chaussures, et déplacez chaque paire en disant son nombre.",
+      "ar": "عدّوا اثنين اثنين فقط، بأحذية قليلة، وحرّكوا كل زوج عند قول عدده."
+    },
+    "masDificil": {
+      "es": "Contad hacia atrás de 10 en 10 desde el 90, o de 2 en 2 empezando por el 1: «1, 3, 5…».",
+      "va": "Compteu cap arrere de 10 en 10 des del 90, o de 2 en 2 començant per l'1: «1, 3, 5…».",
+      "en": "Count back in 10s from 90, or in 2s starting from 1: “1, 3, 5…”.",
+      "fr": "Comptez à rebours de 10 en 10 depuis 90, ou de 2 en 2 en commençant par 1 : « 1, 3, 5… ».",
+      "ar": "عدّوا إلى الوراء عشرة عشرة بدءًا من 90، أو اثنين اثنين بدءًا من 1: «1، 3، 5…»."
+    },
+    "paraQueSirve": {
+      "es": "Contar a saltos ayuda a contar montones grandes y prepara lo que vendrá después: el doble y, más adelante, las tablas.",
+      "va": "Comptar a salts ajuda a comptar munts grans i prepara el que vindrà després: el doble i, més avant, les taules.",
+      "en": "Counting in jumps helps with counting big piles and gets ready for what comes later: doubles and, further on, times tables.",
+      "fr": "Compter par sauts aide à compter de grands tas et prépare ce qui viendra ensuite : le double et, plus tard, les tables.",
+      "ar": "العدّ بالقفزات يساعد على عدّ الأكوام الكبيرة، ويهيّئ لما سيأتي بعده: الضعف، ثم جداول الضرب لاحقًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En la entrada hay 4 parejas de zapatos. Cuéntalos de 2 en 2. ¿Cuántos zapatos hay?",
+        "va": "En l'entrada hi ha 4 parelles de sabates. Compta-les de 2 en 2. Quantes sabates hi ha?",
+        "en": "There are 4 pairs of shoes by the door. Count them in 2s. How many shoes are there?",
+        "fr": "Dans l'entrée, il y a 4 paires de chaussures. Compte-les de 2 en 2. Combien de chaussures y a-t-il ?",
+        "ar": "عند الباب 4 أزواج من الأحذية. لنعدّها اثنين اثنين. كم حذاءً يوجد؟"
+      },
+      "pista": {
+        "es": "Toca cada pareja y di un número por pareja: «2, 4…».",
+        "va": "Toca cada parella i digues un nombre per parella: «2, 4…».",
+        "en": "Touch each pair and say one number per pair: “2, 4…”.",
+        "fr": "Touche chaque paire et dis un nombre par paire : « 2, 4… ».",
+        "ar": "لنلمس كل زوج ونقول عددًا لكل زوج: «2، 4…»."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 2 + 2",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 8 zapatos: 2, 4, 6, 8. {{2 + 2 + 2 + 2 = 8}}.",
+          "va": "Hi ha 8 sabates: 2, 4, 6, 8. {{2 + 2 + 2 + 2 = 8}}.",
+          "en": "There are 8 shoes: 2, 4, 6, 8. {{2 + 2 + 2 + 2 = 8}}.",
+          "fr": "Il y a 8 chaussures : 2, 4, 6, 8. {{2 + 2 + 2 + 2 = 8}}.",
+          "ar": "يوجد 8 أحذية: 2، 4، 6، 8. {{2 + 2 + 2 + 2 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con calcetines o guantes de casa.",
+        "va": "Inventa'n tu una altra amb calcetins o guants de casa.",
+        "en": "Make up another one with socks or gloves from home.",
+        "fr": "Invente-en une autre avec des chaussettes ou des gants de la maison.",
+        "ar": "لنخترع سؤالًا آخر بجوارب أو قفّازات من البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Aisha, su madre y su abuela levantan las dos manos. Cuenta los dedos de 5 en 5. ¿Cuántos son?",
+        "va": "Aisha, sa mare i sa iaia alcen les dues mans. Compta els dits de 5 en 5. Quants són?",
+        "en": "Aisha, her mum and her grandma raise both hands. Count the fingers in 5s. How many are there?",
+        "fr": "Aisha, sa maman et sa grand-mère lèvent les deux mains. Compte les doigts de 5 en 5. Combien y en a-t-il ?",
+        "ar": "رفعت عائشة وأمّها وجدّتها أيديهنّ الاثنتين. لنعدّ الأصابع خمسة خمسة. كم إصبعًا؟"
+      },
+      "pista": {
+        "es": "Son 6 manos: di un número por cada mano, «5, 10…».",
+        "va": "Són 6 mans: digues un nombre per cada mà, «5, 10…».",
+        "en": "There are 6 hands: say one number for each hand, “5, 10…”.",
+        "fr": "Il y a 6 mains : dis un nombre pour chaque main, « 5, 10… ».",
+        "ar": "هناك 6 أيدٍ: لنقل عددًا لكل يد، «5، 10…»."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 5 + 5 + 5 + 5 + 5",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 30 dedos: 5, 10, 15, 20, 25, 30.",
+          "va": "Són 30 dits: 5, 10, 15, 20, 25, 30.",
+          "en": "There are 30 fingers: 5, 10, 15, 20, 25, 30.",
+          "fr": "Il y a 30 doigts : 5, 10, 15, 20, 25, 30.",
+          "ar": "عددها 30 إصبعًا: 5، 10، 15، 20، 25، 30."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las manos de las personas de tu casa.",
+        "va": "Inventa'n tu una altra amb les mans de les persones de ta casa.",
+        "en": "Make up another one with the hands of the people at home.",
+        "fr": "Invente-en une autre avec les mains des personnes de ta maison.",
+        "ar": "لنخترع سؤالًا آخر بأيدي من في البيت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Wei tiene 6 paquetes de 10 palillos. ¿Cuántos palillos tiene?",
+        "va": "Wei té 6 paquets de 10 palets. Quants palets té?",
+        "en": "Wei has 6 bundles of 10 sticks. How many sticks does he have?",
+        "fr": "Wei a 6 paquets de 10 bâtonnets. Combien de bâtonnets a-t-il ?",
+        "ar": "عند وِي 6 حزم في كل منها 10 أعواد. كم عودًا عنده؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10, un número por cada paquete.",
+        "va": "Compta de 10 en 10, un nombre per cada paquet.",
+        "en": "Count in 10s, one number for each bundle.",
+        "fr": "Compte de 10 en 10, un nombre pour chaque paquet.",
+        "ar": "لنعدّ عشرة عشرة، عددًا لكل حزمة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 10 + 10 + 10 + 10",
+        "resultado": 60,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 60 palillos: 6 decenas. 10, 20, 30, 40, 50, 60.",
+          "va": "Té 60 palets: 6 desenes (decenas). 10, 20, 30, 40, 50, 60.",
+          "en": "He has 60 sticks: 6 tens (decenas). 10, 20, 30, 40, 50, 60.",
+          "fr": "Il a 60 bâtonnets : 6 dizaines (decenas). 10, 20, 30, 40, 50, 60.",
+          "ar": "عنده 60 عودًا: 6 عشرات (decenas). 10، 20، 30، 40، 50، 60."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con paquetes de palillos de verdad.",
+        "va": "Inventa'n tu una altra amb paquets de palets de veritat.",
+        "en": "Make up another one with real bundles of sticks.",
+        "fr": "Invente-en une autre avec de vrais paquets de bâtonnets.",
+        "ar": "لنخترع سؤالًا آخر بحزم أعواد حقيقية."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 15,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar los palmos: la cama mide 9 palmos de la abuela y 12 palmos tuyos. ¿Por qué salen números distintos?",
+        "va": "Per a recordar els pams: el llit fa 9 pams (palmo) de la iaia i 12 pams teus. Per què ixen nombres diferents?",
+        "en": "Let's remember hand spans: the bed is 9 of Grandma's hand spans (palmo) and 12 of yours. Why do you get different numbers?",
+        "fr": "Pour se souvenir des empans : le lit mesure 9 empans (palmo) de mamie et 12 des tiens. Pourquoi les nombres sont-ils différents ?",
+        "ar": "لنتذكّر الأشبار: طول السرير 9 أشبار (palmo) بشبر الجدّة و12 شبرًا بشبرنا. لماذا اختلف العددان؟"
+      },
+      "pista": {
+        "es": "Pon tu mano al lado de la mano de una persona mayor.",
+        "va": "Posa la teua mà al costat de la mà d'una persona gran.",
+        "en": "Put your hand next to a grown-up's hand.",
+        "fr": "Mets ta main à côté de la main d'une grande personne.",
+        "ar": "لنضع يدنا بجانب يد شخص كبير."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Su palmo es más pequeño, así que necesita más palmos para medir lo mismo. Si lo dice con sus palabras («mi mano es pequeña»), es perfecto.",
+          "va": "El seu pam és més menut, així que necessita més pams per a mesurar el mateix. Si ho diu amb les seues paraules («la meua mà és menuda»), és perfecte.",
+          "en": "Their hand span is smaller, so it takes more spans to measure the same thing. If they say it in their own words (“my hand is small”), that is perfect.",
+          "fr": "Son empan est plus petit, alors il en faut plus pour mesurer la même chose. S'il ou elle le dit avec ses mots (« ma main est petite »), c'est parfait.",
+          "ar": "شبر الطفل أصغر، لذلك نحتاج إلى أشبار أكثر لقياس الشيء نفسه. وإن قيل ذلك بكلمات بسيطة («يدي صغيرة»)، فهذا ممتاز."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra midiendo algo de casa con tus palmos y con los de otra persona.",
+        "va": "Inventa'n tu una altra mesurant alguna cosa de casa amb els teus pams i amb els d'una altra persona.",
+        "en": "Make up another one by measuring something at home with your hand spans and someone else's.",
+        "fr": "Invente-en une autre en mesurant quelque chose à la maison avec tes empans et ceux d'une autre personne.",
+        "ar": "لنخترع سؤالًا آخر نقيس فيه شيئًا في البيت بأشبارنا وبأشبار شخص آخر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué es más rápido, contar de uno en uno o de 2 en 2? Enséñamelo con algo de casa.",
+        "va": "Què és més ràpid, comptar d'un en un o de 2 en 2? Ensenya-m'ho amb alguna cosa de casa.",
+        "en": "Which is quicker, counting one by one or in 2s? Show me with something at home.",
+        "fr": "Qu'est-ce qui est plus rapide, compter un par un ou de 2 en 2 ? Montre-le-moi avec quelque chose de la maison.",
+        "ar": "أيّهما أسرع: العدّ واحدًا واحدًا أم اثنين اثنين؟ لنُرِ ذلك بشيء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Contamos estos calcetines de las dos maneras?».",
+        "va": "Si no sap per on començar: «Comptem estos calcetins de les dues maneres?».",
+        "en": "If they don't know where to start: “Shall we count these socks both ways?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « On compte ces chaussettes des deux façons ? »",
+        "ar": "إذا صعُبت البداية، اقترحوا: «هل نعدّ هذه الجوارب بالطريقتين؟»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo importante es que vea que sale el mismo número. Escuchad, preguntad «¿y por qué?» y dad las gracias por la explicación.",
+          "va": "L'important és que veja que ix el mateix nombre. Escolteu, pregunteu «i per què?» i doneu les gràcies per l'explicació.",
+          "en": "What matters is that your child sees they get the same number. Listen, ask “And why?” and say thank you for the explanation.",
+          "fr": "L'important, c'est de voir qu'on trouve le même nombre. Écoutez, demandez « Et pourquoi ? » et dites merci pour l'explication.",
+          "ar": "المهمّ أن يُلاحَظ أن العدد هو نفسه. استمعوا، واسألوا «ولماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "3fe730ed66ec"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "3fe730ed66ec"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "3fe730ed66ec"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "3fe730ed66ec"
+      }
+    }
+  }
+}

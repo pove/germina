@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s38",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 38,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Más o menos cuántos",
+    "va": "Més o menys quants",
+    "en": "Roughly how many",
+    "fr": "À peu près combien",
+    "ar": "كم تقريبًا"
+  },
+  "objetivo": {
+    "es": "Esta semana estiman cuántas cosas hay sin contarlas una a una. Después lo comprueban haciendo grupos de 10 y contando de 10 en 10.",
+    "va": "Aquesta setmana estimen (estimar) quantes coses hi ha sense comptar-les una a una. Després ho comproven fent grups de 10 i comptant de 10 en 10.",
+    "en": "This week they estimate (estimar) how many things there are without counting them one by one. Then they check by making groups of 10 and counting in tens.",
+    "fr": "Cette semaine, on estime (estimar) combien il y a de choses sans les compter une par une. Ensuite, on vérifie en faisant des groupes de 10 et en comptant de 10 en 10.",
+    "ar": "هذا الأسبوع يقدّر (estimar) الأطفال كم شيئًا يوجد من دون عدّه واحدًا واحدًا. ثم يتحقّقون بصنع مجموعات من 10 والعدّ عشرةً عشرة."
+  },
+  "comoAyudar": {
+    "es": "Estimad también vosotros y alegraos de acercaros, no de acertar justo. Preguntad «¿cómo lo has pensado?» antes de contar.",
+    "va": "Estimeu també vosaltres i alegreu-vos d'acostar-vos, no d'encertar-ho just. Pregunteu «com ho has pensat?» abans de comptar.",
+    "en": "Estimate too, and be pleased about getting close, not about getting it exactly right. Ask “How did you think about it?” before counting.",
+    "fr": "Estimez aussi de votre côté, et réjouissez-vous de vous approcher, pas de tomber pile. Demandez « Comment tu as réfléchi ? » avant de compter.",
+    "ar": "قدّروا أنتم أيضًا، وافرحوا بالاقتراب لا بالإصابة التامّة. اسألوا «كيف فكّرنا في ذلك؟» قبل العدّ."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c1.3.4",
+    "matematicas.c1.1.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El tarro de legumbres",
+      "va": "El pot de llegums",
+      "en": "The jar of beans",
+      "fr": "Le bocal de légumes secs",
+      "ar": "مرطبان البقول"
+    },
+    "material": [
+      {
+        "es": "Un tarro o un vaso de plástico pequeño",
+        "va": "Un pot o un got de plàstic menut",
+        "en": "A small jar or plastic cup",
+        "fr": "Un petit bocal ou un gobelet en plastique",
+        "ar": "مرطبان صغير أو كوب بلاستيكي صغير"
+      },
+      {
+        "es": "Legumbres secas: garbanzos, alubias o lentejas",
+        "va": "Llegums secs: cigrons, fesols o llentilles",
+        "en": "Dried pulses: chickpeas, beans or lentils",
+        "fr": "Des légumes secs : pois chiches, haricots ou lentilles",
+        "ar": "بقول جافة: حمّص أو فاصوليا أو عدس"
+      },
+      {
+        "es": "Un papel y un lápiz",
+        "va": "Un paper i un llapis",
+        "en": "A piece of paper and a pencil",
+        "fr": "Une feuille et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Llenad el tarro de garbanzos o alubias y ponedlo en el centro de la mesa.",
+          "va": "Ompliu el pot de cigrons o fesols i poseu-lo al mig de la taula.",
+          "en": "Fill the jar with chickpeas or beans and put it in the middle of the table.",
+          "fr": "Remplissez le bocal de pois chiches ou de haricots et posez-le au milieu de la table.",
+          "ar": "املؤوا المرطبان بالحمّص أو الفاصوليا وضعوه في وسط الطاولة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Sin contar, cada persona dice cuántas cree que hay. La persona adulta lo anota en el papel.",
+          "va": "Sense comptar, cada persona diu quants creu que n'hi ha. La persona adulta ho anota en el paper.",
+          "en": "Without counting, each person says how many they think there are. The adult notes it down on the paper.",
+          "fr": "Sans compter, chaque personne dit combien elle pense qu'il y en a. L'adulte le note sur la feuille.",
+          "ar": "من دون عدّ، يقول كل شخص كم يظنّ أنه يوجد. ويكتب الشخص البالغ ذلك على الورقة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Vaciad el tarro y haced montones de 10. Contad los montones de 10 en 10 y añadid los que sobran.",
+          "va": "Buideu el pot i feu muntons de 10. Compteu els muntons de 10 en 10 i afegiu els que sobren.",
+          "en": "Empty the jar and make piles of 10. Count the piles in tens and add on the ones left over.",
+          "fr": "Videz le bocal et faites des tas de 10. Comptez les tas de 10 en 10 et ajoutez ceux qui restent.",
+          "ar": "أفرغوا المرطبان واصنعوا أكوامًا من 10. عدّوا الأكوام عشرةً عشرة، وأضيفوا ما بقي."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Quién se ha acercado más? Llenad otra vez el tarro hasta la mitad y volved a estimar.",
+          "va": "Qui s'hi ha acostat més? Ompliu una altra vegada el pot fins a la meitat i torneu a estimar.",
+          "en": "Who got closest? Fill the jar halfway this time and estimate again.",
+          "fr": "Qui s'est le plus approché ? Remplissez le bocal à moitié cette fois et estimez de nouveau.",
+          "ar": "من اقترب أكثر؟ املؤوا المرطبان حتى نصفه هذه المرّة وقدّروا من جديد."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad un vaso pequeño con unas 30 legumbres grandes, como garbanzos o alubias.",
+      "va": "Feu servir un got menut amb uns 30 llegums grans, com ara cigrons o fesols.",
+      "en": "Use a small cup with about 30 big pulses, like chickpeas or beans.",
+      "fr": "Utilisez un petit gobelet avec environ 30 gros légumes secs, comme des pois chiches ou des haricots.",
+      "ar": "استعملوا كوبًا صغيرًا فيه نحو 30 حبة كبيرة، مثل الحمّص أو الفاصوليا."
+    },
+    "masDificil": {
+      "es": "Usad lentejas y un tarro más grande. Si pasáis de 100, juntad 10 montones de 10 en una centena.",
+      "va": "Feu servir llentilles i un pot més gran. Si passeu de 100, ajunteu 10 muntons de 10 en una centena.",
+      "en": "Use lentils and a bigger jar. If you go over 100, put 10 piles of 10 together into a hundred (centena).",
+      "fr": "Utilisez des lentilles et un bocal plus grand. Si vous dépassez 100, réunissez 10 tas de 10 en une centaine (centena).",
+      "ar": "استعملوا العدس ومرطبانًا أكبر. وإذا تجاوزتم 100، اجمعوا 10 أكوام من 10 في مئة (centena)."
+    },
+    "paraQueSirve": {
+      "es": "Estimar ayuda a saber si un resultado tiene sentido, y contar de 10 en 10 hace que los números grandes sean fáciles de manejar.",
+      "va": "Estimar ajuda a saber si un resultat té sentit, i comptar de 10 en 10 fa que els nombres grans siguen fàcils de manejar.",
+      "en": "Estimating helps you know whether an answer makes sense, and counting in tens makes big numbers easy to handle.",
+      "fr": "Estimer aide à savoir si un résultat a du sens, et compter de 10 en 10 rend les grands nombres faciles à manier.",
+      "ar": "التقدير يساعد على معرفة هل للنتيجة معنى، والعدّ عشرةً عشرة يجعل الأعداد الكبيرة سهلة التعامل."
+    },
+    "aviso": {
+      "es": "Las legumbres son pequeñas: guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Els llegums són menuts: guardeu-los lluny de germans o germanes menuts.",
+      "en": "Pulses are small: keep them away from younger brothers and sisters.",
+      "fr": "Les légumes secs sont petits : gardez-les loin des petits frères et sœurs.",
+      "ar": "البقول صغيرة: أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Nora dice que en el tarro hay 50 botones. Al contarlos salen 70. ¿Cuántos más hay de los que dijo?",
+        "va": "Nora diu que en el pot hi ha 50 botons. En comptar-los n'ixen 70. Quants més n'hi ha dels que va dir?",
+        "en": "Nora says there are 50 buttons in the jar. When they count them, there are 70. How many more are there than she said?",
+        "fr": "Nora dit qu'il y a 50 boutons dans le bocal. En les comptant, on en trouve 70. Combien y en a-t-il de plus que ce qu'elle a dit ?",
+        "ar": "تقول نورا إن في المرطبان 50 زرًّا. وعند العدّ نجد 70. كم زرًّا يوجد أكثر ممّا قالت؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10 desde el 50 hasta llegar al 70.",
+        "va": "Compta de 10 en 10 des del 50 fins a arribar al 70.",
+        "en": "Count on in tens from 50 until you get to 70.",
+        "fr": "Compte de 10 en 10 à partir de 50 jusqu'à arriver à 70.",
+        "ar": "لنعدّ عشرةً عشرة من 50 حتى نصل إلى 70."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "70 - 50",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 20 más: {{70 − 50 = 20}}.",
+          "va": "N'hi ha 20 més: {{70 − 50 = 20}}.",
+          "en": "There are 20 more: {{70 − 50 = 20}}.",
+          "fr": "Il y en a 20 de plus : {{70 − 50 = 20}}.",
+          "ar": "يوجد 20 زرًّا أكثر: {{70 − 50 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una: estima cuántas cucharas hay en el cajón y luego contadlas.",
+        "va": "Inventa tu una: estima quantes culleres hi ha en el calaix i després compteu-les.",
+        "en": "Make one up: estimate how many spoons there are in the drawer and then count them.",
+        "fr": "Invente une question : estime combien il y a de cuillères dans le tiroir, puis comptez-les.",
+        "ar": "لنخترع سؤالًا: نقدّر كم ملعقة في الدرج ثم نعدّها."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Wei cuenta las pinzas haciendo grupos de 10. Le salen 6 grupos y 3 pinzas sueltas. ¿Cuántas pinzas hay?",
+        "va": "Wei compta les pinces fent grups de 10. Li ixen 6 grups i 3 pinces soltes. Quantes pinces hi ha?",
+        "en": "Wei counts the pegs by making groups of 10. He gets 6 groups and 3 pegs left over. How many pegs are there?",
+        "fr": "Wei compte les pinces en faisant des groupes de 10. Il obtient 6 groupes et 3 pinces en plus. Combien y a-t-il de pinces ?",
+        "ar": "يعدّ وي الملاقط بصنع مجموعات من 10. فتخرج له 6 مجموعات و3 ملاقط منفردة. كم ملقطًا يوجد؟"
+      },
+      "pista": {
+        "es": "Cada grupo es una decena: cuenta 10, 20, 30… y luego las sueltas.",
+        "va": "Cada grup és una desena (decena): compta 10, 20, 30… i després les soltes.",
+        "en": "Each group is a ten (decena): count 10, 20, 30… and then the loose ones.",
+        "fr": "Chaque groupe est une dizaine (decena) : compte 10, 20, 30… puis celles qui restent.",
+        "ar": "كل مجموعة عشرة (decena): لنعدّ 10، 20، 30… ثم الملاقط المنفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "60 + 3",
+        "resultado": 63,
+        "unidad": "unidades",
+        "texto": {
+          "es": "6 decenas y 3 unidades: hay 63 pinzas.",
+          "va": "6 desenes i 3 unitats (unidades): hi ha 63 pinces.",
+          "en": "6 tens and 3 ones (unidades): there are 63 pegs.",
+          "fr": "6 dizaines et 3 unités (unidades) : il y a 63 pinces.",
+          "ar": "6 عشرات و3 آحاد (unidades): يوجد 63 ملقطًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con grupos de 10 cosas de tu casa.",
+        "va": "Inventa tu una altra amb grups de 10 coses de casa teua.",
+        "en": "Make up another one with groups of 10 things from your home.",
+        "fr": "Invente-en une autre avec des groupes de 10 choses de ta maison.",
+        "ar": "لنخترع سؤالًا آخر بمجموعات من 10 أشياء من بيتنا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "¿Qué crees que hay más en tu casa: cucharas o libros? Primero dilo a ojo y luego contadlos.",
+        "va": "Què creus que hi ha més a casa teua: culleres o llibres? Primer digues-ho a ull i després compteu-los.",
+        "en": "What do you think there are more of in your home: spoons or books? First guess by eye, then count them.",
+        "fr": "Qu'est-ce qu'il y a le plus chez toi, à ton avis : des cuillères ou des livres ? Dis-le d'abord à l'œil, puis comptez-les.",
+        "ar": "ماذا نظنّ أنه أكثر في بيتنا: الملاعق أم الكتب؟ لنقل ذلك أولًا بالنظر، ثم نعدّها."
+      },
+      "pista": {
+        "es": "Para contar muchos, haced montones de 10.",
+        "va": "Per a comptar-ne molts, feu muntons de 10.",
+        "en": "To count lots of them, make piles of 10.",
+        "fr": "Pour en compter beaucoup, faites des tas de 10.",
+        "ar": "لعدّ الكثير منها، لنصنع أكوامًا من 10."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Depende de cada casa. Lo bonito es ver si la estimación se ha acercado y por qué.",
+          "va": "Depén de cada casa. El que és bonic és veure si l'estimació s'hi ha acostat i per què.",
+          "en": "It depends on each home. The fun part is seeing whether the estimate was close, and why.",
+          "fr": "Ça dépend de chaque maison. Le plus intéressant, c'est de voir si l'estimation était proche, et pourquoi.",
+          "ar": "يختلف ذلك من بيت إلى آخر. الجميل هو أن نرى هل اقترب التقدير، ولماذا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra comparación con dos cosas de tu casa.",
+        "va": "Inventa tu una altra comparació amb dues coses de casa teua.",
+        "en": "Make up another comparison with two things from your home.",
+        "fr": "Invente une autre comparaison avec deux choses de ta maison.",
+        "ar": "لنخترع مقارنة أخرى بين شيئين من بيتنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 13,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar: ¿cuánto le falta al 70 para llegar a 100?",
+        "va": "Per a recordar: quant li falta al 70 per a arribar a 100?",
+        "en": "Let's remember: how many more go with 70 to make 100?",
+        "fr": "Pour se souvenir : combien manque-t-il à 70 pour arriver à 100 ?",
+        "ar": "لنتذكّر: كم ينقص 70 ليصل إلى 100؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10 desde el 70, levantando un dedo cada vez.",
+        "va": "Compta de 10 en 10 des del 70, alçant un dit cada vegada.",
+        "en": "Count on in tens from 70, putting up a finger each time.",
+        "fr": "Compte de 10 en 10 à partir de 70, en levant un doigt à chaque fois.",
+        "ar": "لنعدّ عشرةً عشرة من 70، ونرفع إصبعًا في كل مرّة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 70",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 30: {{70 + 30 = 100}}.",
+          "va": "Li'n falten 30: {{70 + 30 = 100}}.",
+          "en": "It needs 30: {{70 + 30 = 100}}.",
+          "fr": "Il manque 30 : {{70 + 30 = 100}}.",
+          "ar": "ينقصه 30: {{70 + 30 = 100}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pareja del 100.",
+        "va": "Inventa tu una altra parella del 100.",
+        "en": "Make up another pair that makes 100.",
+        "fr": "Invente une autre paire qui fait 100.",
+        "ar": "لنخترع زوجًا آخر مجموعه 100."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuando dices cuántas cosas hay sin contarlas, ¿cómo lo piensas? Explícamelo con algo de casa.",
+        "va": "Quan dius quantes coses hi ha sense comptar-les, com ho penses? Explica-m'ho amb alguna cosa de casa.",
+        "en": "When you say how many things there are without counting them, how do you think about it? Explain it to me with something at home.",
+        "fr": "Quand tu dis combien il y a de choses sans les compter, comment tu réfléchis ? Explique-le-moi avec quelque chose de la maison.",
+        "ar": "عندما نقول كم شيئًا يوجد من دون أن نعدّه، كيف نفكّر؟ لنشرح ذلك بشيء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Miras un trocito, cuentas cuántos hay ahí y piensas cuántos trocitos caben?»",
+        "va": "Si no sap per on començar: «Mires un trosset, comptes quants n'hi ha allí i penses quants trossets hi caben?»",
+        "en": "If they don't know where to start: “Do you look at a little part, count how many are there and think how many parts fit?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu regardes un petit coin, tu comptes combien il y en a et tu penses combien de coins pareils il y a ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل ننظر إلى جزء صغير، ونعدّ ما فيه، ثم نفكّر كم جزءًا مثله يوجد؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier forma de pensar vale: comparar con algo conocido, mirar un trozo, imaginar montones. Escuchad y preguntad «¿y luego?».",
+          "va": "Qualsevol manera de pensar val: comparar amb una cosa coneguda, mirar un tros, imaginar muntons. Escolteu i pregunteu «i després?».",
+          "en": "Any way of thinking works: comparing with something familiar, looking at one part, imagining piles. Listen and ask “And then?”",
+          "fr": "Toutes les façons de penser conviennent : comparer avec quelque chose de connu, regarder un morceau, imaginer des tas. Écoutez et demandez « Et après ? ».",
+          "ar": "كل طريقة تفكير تصلح: المقارنة بشيء معروف، أو النظر إلى جزء، أو تخيّل أكوام. استمعوا واسألوا «ثم ماذا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "42999335810e"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "42999335810e"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "42999335810e"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "42999335810e"
+      }
+    }
+  }
+}

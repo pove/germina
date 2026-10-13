@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s38",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 38,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Números por la calle",
+    "va": "Nombres pel carrer",
+    "en": "Numbers in the street",
+    "fr": "Des nombres dans la rue",
+    "ar": "أعداد في الشارع"
+  },
+  "objetivo": {
+    "es": "Esta semana buscan números por la calle, en las tiendas y en el calendario. Dicen cuál va antes, cuál va después y cuál es mayor.",
+    "va": "Aquesta setmana busquen nombres pel carrer, a les botigues i en el calendari. Diuen quin va abans, quin va després i quin és més gran.",
+    "en": "This week they look for numbers in the street, in shops and on the calendar. They say which comes before, which comes after and which is bigger.",
+    "fr": "Cette semaine, on cherche des nombres dans la rue, dans les magasins et sur le calendrier. On dit lequel vient avant, lequel vient après et lequel est le plus grand.",
+    "ar": "هذا الأسبوع يبحث الأطفال عن الأعداد في الشارع وفي المتاجر وفي التقويم. ويقولون أيّ عدد يأتي قبل، وأيّها يأتي بعد، وأيّها أكبر."
+  },
+  "comoAyudar": {
+    "es": "Cuando salgáis juntos, parad un momento delante de un número y preguntad: «¿Qué número va después? ¿Y antes?». Con un minuto por paseo basta.",
+    "va": "Quan isqueu junts, pareu un moment davant d'un número i pregunteu: «Quin nombre va després? I abans?». Amb un minut per passeig n'hi ha prou.",
+    "en": "When you go out together, stop for a moment in front of a number and ask: “What number comes after? And before?” One minute per walk is enough.",
+    "fr": "Quand vous sortez ensemble, arrêtez-vous un moment devant un numéro et demandez : « Quel nombre vient après ? Et avant ? ». Une minute par promenade suffit.",
+    "ar": "حين تخرجون معًا، توقّفوا لحظة أمام رقم واسألوا: «ما العدد الذي يأتي بعده؟ وقبله؟». تكفي دقيقة واحدة في كل نزهة."
+  },
+  "saberes": [
+    "matematicas.numeros.usos-sociales",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c1.7.2",
+    "matematicas.c1.7.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Paseo de números",
+      "va": "Passeig de nombres",
+      "en": "Number walk",
+      "fr": "La promenade des nombres",
+      "ar": "نزهة الأعداد"
+    },
+    "material": [
+      {
+        "es": "Un paseo por vuestra calle, siempre con una persona adulta",
+        "va": "Un passeig pel vostre carrer, sempre amb una persona adulta",
+        "en": "A walk along your street, always with an adult",
+        "fr": "Une promenade dans votre rue, toujours avec un adulte",
+        "ar": "نزهة في شارعكم، دائمًا مع شخص بالغ"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Salid a pasear juntos por vuestra calle y buscad los números de los portales.",
+          "va": "Eixiu a passejar junts pel vostre carrer i busqueu els números dels portals.",
+          "en": "Go for a walk together along your street and look for the door numbers.",
+          "fr": "Allez vous promener ensemble dans votre rue et cherchez les numéros des portes.",
+          "ar": "اخرجوا معًا في نزهة في شارعكم، وابحثوا عن أرقام المداخل."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Delante de un portal, leed el número en voz alta. Decid cuál es el siguiente y cuál el anterior.",
+          "va": "Davant d'un portal, llegiu el número en veu alta. Digueu quin és el següent (siguiente) i quin l'anterior.",
+          "en": "In front of a doorway, read the number out loud. Say the number after (siguiente) and the number before (anterior).",
+          "fr": "Devant une porte, lisez le numéro à voix haute. Dites le nombre d'après (siguiente) et le nombre d'avant (anterior).",
+          "ar": "أمام مدخل، اقرؤوا الرقم بصوت عالٍ. قولوا العدد التالي (siguiente) والعدد السابق (anterior)."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Caminad hasta el portal de al lado y mirad su número. ¿Es el que habíais dicho?",
+          "va": "Camineu fins al portal del costat i mireu el seu número. És el que havíeu dit?",
+          "en": "Walk to the next doorway and look at its number. Is it the one you said?",
+          "fr": "Marchez jusqu'à la porte d'à côté et regardez son numéro. Est-ce celui que vous aviez dit ?",
+          "ar": "امشوا إلى المدخل المجاور وانظروا إلى رقمه. هل هو العدد الذي قلتموه؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Al volver a casa, decid el número más grande que habéis visto y el más pequeño.",
+          "va": "En tornar a casa, digueu el número més gran que heu vist i el més xicotet.",
+          "en": "When you get home, say the biggest number you saw and the smallest.",
+          "fr": "En rentrant à la maison, dites le plus grand numéro que vous avez vu et le plus petit.",
+          "ar": "عند العودة إلى البيت، قولوا أكبر رقم رأيتموه وأصغر رقم."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Buscad números hasta 20 y decid solo cuál va después.",
+      "va": "Busqueu números fins a 20 i digueu només quin va després.",
+      "en": "Look for numbers up to 20 and just say which comes after.",
+      "fr": "Cherchez des numéros jusqu'à 20 et dites seulement lequel vient après.",
+      "ar": "ابحثوا عن أرقام حتى 20، وقولوا فقط أيّ عدد يأتي بعدها."
+    },
+    "masDificil": {
+      "es": "Fijaos en que, en una acera, los portales suelen ir de 2 en 2: 1, 3, 5… y en la otra, 2, 4, 6… ¿Qué número tendrá el portal de al lado?",
+      "va": "Fixeu-vos que, en una vorera, els portals solen anar de 2 en 2: 1, 3, 5… i en l'altra, 2, 4, 6… Quin número tindrà el portal del costat?",
+      "en": "Notice that on one side of the street the doors usually go up in 2s: 1, 3, 5… and on the other side, 2, 4, 6… What number will the next door have?",
+      "fr": "Remarquez que, d'un côté de la rue, les numéros vont souvent de 2 en 2 : 1, 3, 5… et de l'autre, 2, 4, 6… Quel numéro aura la porte d'à côté ?",
+      "ar": "لاحظوا أن الأرقام على أحد الرصيفين تسير عادةً 2 بعد 2: 1، 3، 5… وعلى الرصيف الآخر 2، 4، 6… ما رقم المدخل المجاور؟"
+    },
+    "paraQueSirve": {
+      "es": "Los números están en todas partes: portales, precios, autobuses y fechas. Saber cuál va antes y cuál va después ayuda a orientarse por la calle y a leer el calendario.",
+      "va": "Els nombres són a tot arreu: portals, preus, autobusos i dates. Saber quin va abans i quin va després ajuda a orientar-se pel carrer i a llegir el calendari.",
+      "en": "Numbers are everywhere: doors, prices, buses and dates. Knowing which comes before and which comes after helps you find your way in the street and read the calendar.",
+      "fr": "Les nombres sont partout : portes, prix, bus et dates. Savoir lequel vient avant et lequel vient après aide à s'orienter dans la rue et à lire le calendrier.",
+      "ar": "الأعداد في كل مكان: المداخل والأسعار والحافلات والتواريخ. ومعرفة ما يأتي قبل وما يأتي بعد تساعد على الاهتداء في الشارع وقراءة التقويم."
+    },
+    "aviso": {
+      "es": "Haced el paseo siempre con una persona adulta y parad en la acera, lejos de los coches.",
+      "va": "Feu el passeig sempre amb una persona adulta i pareu a la vorera, lluny dels cotxes.",
+      "en": "Always go for the walk with an adult, and stop on the pavement, away from the cars.",
+      "fr": "Faites toujours la promenade avec un adulte et arrêtez-vous sur le trottoir, loin des voitures.",
+      "ar": "قوموا بالنزهة دائمًا مع شخص بالغ، وتوقّفوا على الرصيف بعيدًا عن السيارات."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Estás delante del portal 39. ¿Qué número va justo después? ¿Y justo antes?",
+        "va": "Estàs davant del portal 39. Quin nombre va just després? I just abans?",
+        "en": "You're in front of door number 39. Which number comes just after? And just before?",
+        "fr": "Tu es devant la porte numéro 39. Quel nombre vient juste après ? Et juste avant ?",
+        "ar": "نحن أمام المدخل رقم 39. ما العدد الذي يأتي بعده مباشرة؟ وقبله مباشرة؟"
+      },
+      "pista": {
+        "es": "Cuenta en voz alta desde el 36 y fíjate en qué número viene después del 39.",
+        "va": "Compta en veu alta des del 36 i fixa't quin nombre ve després del 39.",
+        "en": "Count out loud from 36 and notice which number comes after 39.",
+        "fr": "Compte à voix haute à partir de 36 et regarde quel nombre vient après 39.",
+        "ar": "لنعدّ بصوت عالٍ من 36، ونلاحظ أيّ عدد يأتي بعد 39."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Después va el 40 y antes, el 38. Si duda con el 40, pensad en paquetes de 10: 3 paquetes y 9 sueltos, y con 1 más se hace otro paquete.",
+          "va": "Després va el 40 i abans, el 38. Si dubta amb el 40, penseu en paquets de 10: 3 paquets i 9 solts, i amb 1 més es fa un altre paquet.",
+          "en": "After comes 40 and before, 38. If they hesitate at 40, think of bundles of 10: 3 bundles and 9 loose ones, and 1 more makes another bundle.",
+          "fr": "Après vient 40, et avant, 38. En cas d'hésitation sur le 40, pensez à des paquets de 10 : 3 paquets et 9 à part, et avec 1 de plus on fait un autre paquet.",
+          "ar": "بعده 40 وقبله 38. وإذا حصل تردّد عند 40، فكّروا في حزم من 10: 3 حزم و9 منفردة، وبواحد إضافي تتكوّن حزمة أخرى."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el número de tu portal.",
+        "va": "Inventa tu una altra amb el número del teu portal.",
+        "en": "Make up another one with the number of your own front door.",
+        "fr": "Invente-en une autre avec le numéro de ta porte.",
+        "ar": "لنخترع سؤالًا آخر برقم مدخل بيتنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Hoy es día 14 y el cumpleaños de Ion es el día 20. ¿Cuántos días faltan?",
+        "va": "Hui és dia 14 i l'aniversari d'Ion és el dia 20. Quants dies falten?",
+        "en": "Today is the 14th and Ion's birthday is on the 20th. How many days are left?",
+        "fr": "Aujourd'hui, on est le 14, et l'anniversaire d'Ion est le 20. Combien de jours reste-t-il ?",
+        "ar": "اليوم هو 14، وعيد ميلاد إيون في يوم 20. كم يومًا بقي؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 15 hasta el 20.",
+        "va": "Compta amb els dits des del 15 fins al 20.",
+        "en": "Count on your fingers from 15 to 20.",
+        "fr": "Compte sur tes doigts de 15 à 20.",
+        "ar": "لنعدّ بالأصابع من 15 إلى 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 14",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 6 días.",
+          "va": "Falten 6 dies.",
+          "en": "There are 6 days left.",
+          "fr": "Il reste 6 jours.",
+          "ar": "بقيت 6 أيام."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra mirando un calendario: ¿cuántos días faltan para algo que te hace ilusión?",
+        "va": "Inventa tu una altra mirant un calendari: quants dies falten per a alguna cosa que et fa il·lusió?",
+        "en": "Make up another one looking at a calendar: how many days until something you're looking forward to?",
+        "fr": "Invente-en une autre en regardant un calendrier : combien de jours avant quelque chose que tu attends avec impatience ?",
+        "ar": "لنخترع سؤالًا آخر وننظر إلى تقويم: كم يومًا بقي لشيء ننتظره بشوق؟"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la frutería, las peras cuestan 3 euros y las uvas, 5 euros. ¿Qué cuesta más, y cuántos euros más?",
+        "va": "A la fruiteria, les peres costen 3 euros i el raïm, 5 euros. Què costa més, i quants euros més?",
+        "en": "At the greengrocer's, the pears cost 3 euros and the grapes 5 euros. Which costs more, and how many euros more?",
+        "fr": "Chez le marchand de fruits, les poires coûtent 3 euros et le raisin 5 euros. Qu'est-ce qui coûte le plus, et combien d'euros de plus ?",
+        "ar": "في متجر الفواكه، سعر الإجاص 3 يورو وسعر العنب 5 يورو. أيّهما أغلى، وبكم يورو؟"
+      },
+      "pista": {
+        "es": "Saca 3 dedos y luego 5, y mira cuántos más hay en el 5.",
+        "va": "Alça 3 dits i després 5, i mira quants més n'hi ha en el 5.",
+        "en": "Hold up 3 fingers and then 5, and see how many more there are in the 5.",
+        "fr": "Lève 3 doigts, puis 5, et regarde combien il y en a de plus dans le 5.",
+        "ar": "لنرفع 3 أصابع ثم 5، ونرى كم إصبعًا زاد في الخمسة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 - 3",
+        "resultado": 2,
+        "unidad": "euros",
+        "texto": {
+          "es": "Las uvas cuestan 2 euros más.",
+          "va": "El raïm costa 2 euros més.",
+          "en": "The grapes cost 2 euros more.",
+          "fr": "Le raisin coûte 2 euros de plus.",
+          "ar": "العنب أغلى بـ2 يورو."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos precios de un folleto o de una tienda.",
+        "va": "Inventa tu una altra amb dos preus d'un fullet o d'una botiga.",
+        "en": "Make up another one with two prices from a leaflet or a shop.",
+        "fr": "Invente-en une autre avec deux prix d'un prospectus ou d'un magasin.",
+        "ar": "لنخترع سؤالًا آخر بسعرين من منشور إعلاني أو من متجر."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 30,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: en un vaso hay 8 legumbres y añades 5. ¿Cuántas hay ahora?",
+        "va": "Per a recordar: en un got hi ha 8 llegums i n'hi afiges 5. Quants n'hi ha ara?",
+        "en": "Let's remember: there are 8 beans in a glass and you add 5. How many are there now?",
+        "fr": "Pour se souvenir : dans un verre, il y a 8 haricots et tu en ajoutes 5. Combien y en a-t-il maintenant ?",
+        "ar": "لنتذكّر: في كوب 8 حبّات من البقول ونضيف 5. كم حبّة يوجد الآن؟"
+      },
+      "pista": {
+        "es": "Primero completa el 10 con 2 de las 5, y luego suma las que quedan.",
+        "va": "Primer completa el 10 amb 2 dels 5, i després suma els que queden.",
+        "en": "First make 10 using 2 of the 5, then add the ones left over.",
+        "fr": "D'abord, complète jusqu'à 10 avec 2 des 5, puis ajoute ceux qui restent.",
+        "ar": "لنكمل أولًا العشرة بـ2 من الخمسة، ثم نضيف ما بقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 5",
+        "resultado": 13,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 13 legumbres: {{8 + 2 + 3 = 13}}.",
+          "va": "N'hi ha 13: {{8 + 2 + 3 = 13}}.",
+          "en": "There are 13 beans: {{8 + 2 + 3 = 13}}.",
+          "fr": "Il y en a 13 : {{8 + 2 + 3 = 13}}.",
+          "ar": "يوجد 13 حبّة: {{8 + 2 + 3 = 13}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra que pase del 10, con cucharas o con pinzas.",
+        "va": "Inventa tu una altra que passe del 10, amb culleres o amb pinces.",
+        "en": "Make up another one that goes past 10, with spoons or pegs.",
+        "fr": "Invente-en une autre qui dépasse 10, avec des cuillères ou des pinces.",
+        "ar": "لنخترع سؤالًا آخر يتجاوز 10، بالملاعق أو بالملاقط."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Hoy, por la calle o en casa, ¿dónde has visto números? Explícame para qué sirve cada uno.",
+        "va": "Hui, pel carrer o a casa, on has vist nombres? Explica'm per a què servix cada un.",
+        "en": "Today, in the street or at home, where did you see numbers? Explain what each one is for.",
+        "fr": "Aujourd'hui, dans la rue ou à la maison, où as-tu vu des nombres ? Explique-moi à quoi sert chacun.",
+        "ar": "اليوم، في الشارع أو في البيت، أين رأينا أعدادًا؟ لنشرح فائدة كل واحد منها."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Para qué sirve el número que lleva el autobús?»",
+        "va": "Si no sap per on començar: «Per a què servix el número que porta l'autobús?»",
+        "en": "If they don't know where to start: “What is the number on the bus for?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « À quoi sert le numéro du bus ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ما فائدة الرقم المكتوب على الحافلة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Valen todas: portales, precios, matrículas, el reloj, el calendario… Preguntad «¿y si no estuviera ese número, qué pasaría?».",
+          "va": "Valen totes: portals, preus, matrícules, el rellotge, el calendari… Pregunteu «i si no hi haguera aquest número, què passaria?».",
+          "en": "Any answer is fine: doors, prices, number plates, the clock, the calendar… Ask “And if that number weren't there, what would happen?”",
+          "fr": "Toutes les réponses sont bonnes : portes, prix, plaques d'immatriculation, l'horloge, le calendrier… Demandez « Et si ce numéro n'était pas là, que se passerait-il ? ».",
+          "ar": "كل الأجوبة مقبولة: المداخل والأسعار ولوحات السيارات والساعة والتقويم… اسألوا «وإذا لم يكن هذا الرقم موجودًا، ماذا سيحدث؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "aab5d8cec549"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "aab5d8cec549"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "aab5d8cec549"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "aab5d8cec549"
+      }
+    }
+  }
+}

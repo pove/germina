@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s11",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 11,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Pares, nones y dobles",
+    "va": "Parells, imparells i dobles",
+    "en": "Evens, odds and doubles",
+    "fr": "Pairs, impairs et doubles",
+    "ar": "الزوجي والفردي والأضعاف"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren qué números son pares, porque se pueden hacer parejas sin que sobre ninguno, y cuáles son impares. También calculan el doble de los números hasta 10.",
+    "va": "Aquesta setmana descobrixen quins nombres són parells (pares), perquè es poden fer parelles sense que en sobre cap, i quins són imparells (impares). També calculen el doble (doble) dels nombres fins a 10.",
+    "en": "This week they discover which numbers are even (pares), because you can make pairs with none left over, and which are odd (impares). They also work out the double (doble) of numbers up to 10.",
+    "fr": "Cette semaine, on découvre quels nombres sont pairs (pares), parce qu'on peut faire des paires sans qu'il en reste, et lesquels sont impairs (impares). On calcule aussi le double (doble) des nombres jusqu'à 10.",
+    "ar": "هذا الأسبوع يكتشف الأطفال أيّ الأعداد زوجية (pares)، لأننا نستطيع أن نكوّن منها أزواجًا دون أن يبقى شيء، وأيّها فردية (impares). ويحسبون أيضًا ضعف (doble) الأعداد حتى 10."
+  },
+  "comoAyudar": {
+    "es": "Cuando pongáis la mesa o guardéis calcetines, preguntad si salen parejas justas o sobra uno. Para el doble, dejad que use los dedos de las dos manos: 4 y 4 son 8.",
+    "va": "Quan pareu la taula o guardeu calcetins, pregunteu si ixen parelles justes o en sobra un. Per al doble, deixeu que use els dits de les dues mans: 4 i 4 són 8.",
+    "en": "When you lay the table or put socks away, ask whether they make exact pairs or one is left over. For doubles, let them use the fingers of both hands: 4 and 4 make 8.",
+    "fr": "Quand vous mettez la table ou rangez les chaussettes, demandez si on fait des paires justes ou s'il en reste une. Pour le double, laissez-le ou laissez-la utiliser les doigts des deux mains : 4 et 4 font 8.",
+    "ar": "عندما تُعدّون المائدة أو ترتّبون الجوارب، اسألوا: هل تتكوّن أزواج كاملة أم يبقى واحد؟ وللضعف، دعوا استعمال أصابع اليدين: 4 و4 تساوي 8."
+  },
+  "saberes": [
+    "matematicas.numeros.estructura",
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.2.3",
+    "matematicas.c1.2.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Dobles con dados",
+      "va": "Dobles amb daus",
+      "en": "Doubles with dice",
+      "fr": "Des doubles avec un dé",
+      "ar": "الأضعاف بالنرد"
+    },
+    "material": [
+      {
+        "es": "Un dado",
+        "va": "Un dau",
+        "en": "A dice",
+        "fr": "Un dé",
+        "ar": "نرد"
+      },
+      {
+        "es": "Un puñado de legumbres: garbanzos, alubias o lentejas",
+        "va": "Un grapat de llegums: cigrons, fesols o llentilles",
+        "en": "A handful of dried beans, chickpeas or lentils",
+        "fr": "Une poignée de légumes secs : pois chiches, haricots ou lentilles",
+        "ar": "حفنة من البقول: حمّص أو فاصوليا أو عدس"
+      },
+      {
+        "es": "Dos platos",
+        "va": "Dos plats",
+        "en": "Two plates",
+        "fr": "Deux assiettes",
+        "ar": "صحنان"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Tirad el dado y poned en un plato tantas legumbres como puntos salen.",
+          "va": "Tireu el dau i poseu en un plat tants llegums com punts isquen.",
+          "en": "Roll the dice and put as many beans on one plate as the dots you get.",
+          "fr": "Lancez le dé et mettez dans une assiette autant de grains que de points.",
+          "ar": "ارموا النرد وضعوا في صحن عددًا من الحبوب يساوي النقاط التي تظهر."
+        }
+      },
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Poned las mismas legumbres en el otro plato. Juntad los dos platos y contad: es el doble.",
+          "va": "Poseu els mateixos llegums en l'altre plat. Ajunteu els dos plats i compteu: és el doble.",
+          "en": "Put the same number of beans on the other plate. Put both plates together and count: that's the double.",
+          "fr": "Mettez autant de grains dans l'autre assiette. Réunissez les deux assiettes et comptez : c'est le double.",
+          "ar": "ضعوا العدد نفسه من الحبوب في الصحن الآخر. اجمعوا الصحنين وعدّوا: هذا هو الضعف."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Haced parejas con todas las legumbres. Si no sobra ninguna, el número es par; si sobra una, es impar.",
+          "va": "Feu parelles amb tots els llegums. Si no en sobra cap, el nombre és parell; si en sobra un, és imparell.",
+          "en": "Make pairs with all the beans. If none is left over, the number is even; if one is left over, it's odd.",
+          "fr": "Faites des paires avec tous les grains. S'il n'en reste aucun, le nombre est pair ; s'il en reste un, il est impair.",
+          "ar": "كوّنوا أزواجًا من كل الحبوب. إذا لم يبقَ شيء فالعدد زوجي، وإذا بقيت حبة واحدة فهو فردي."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Tirad otra vez y decid el doble antes de poner las legumbres. ¿El doble sale siempre par?",
+          "va": "Tireu una altra vegada i digueu el doble abans de posar els llegums. El doble ix sempre parell?",
+          "en": "Roll again and say the double before putting out the beans. Is the double always even?",
+          "fr": "Relancez et dites le double avant de mettre les grains. Le double est-il toujours pair ?",
+          "ar": "ارموا مرة أخرى وقولوا الضعف قبل وضع الحبوب. هل يكون الضعف زوجيًا دائمًا؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad solo con el 1, el 2 y el 3 del dado, y contad las legumbres de una en una, tocándolas.",
+      "va": "Jugueu només amb l'1, el 2 i el 3 del dau, i compteu els llegums d'un en un, tocant-los.",
+      "en": "Play only with 1, 2 and 3 on the dice, and count the beans one by one, touching them.",
+      "fr": "Jouez seulement avec le 1, le 2 et le 3 du dé, et comptez les grains un par un, en les touchant.",
+      "ar": "العبوا فقط بالأعداد 1 و2 و3 من النرد، وعدّوا الحبوب واحدة واحدة مع لمسها."
+    },
+    "masDificil": {
+      "es": "Tirad dos dados, juntad los puntos y decid el doble de cabeza: con un 5 y un 4, el doble de 9 es 18.",
+      "va": "Tireu dos daus, ajunteu els punts i digueu el doble de cap: amb un 5 i un 4, el doble de 9 és 18.",
+      "en": "Roll two dice, put the dots together and say the double in your head: with a 5 and a 4, double 9 is 18.",
+      "fr": "Lancez deux dés, réunissez les points et dites le double de tête : avec un 5 et un 4, le double de 9 est 18.",
+      "ar": "ارموا نردين، واجمعوا النقاط، وقولوا الضعف ذهنيًا: مع 5 و4، ضعف 9 هو 18."
+    },
+    "paraQueSirve": {
+      "es": "Los dobles se acaban sabiendo de memoria y ayudan a sumar rápido: si 6 y 6 son 12, 6 y 7 son uno más, 13.",
+      "va": "Els dobles s'acaben sabent de memòria i ajuden a sumar ràpid: si 6 i 6 són 12, 6 i 7 són un més, 13.",
+      "en": "Doubles end up being known by heart and help you add quickly: if 6 and 6 make 12, 6 and 7 is one more, 13.",
+      "fr": "Les doubles finissent par se savoir par cœur et aident à additionner vite : si 6 et 6 font 12, 6 et 7 font un de plus, 13.",
+      "ar": "الأضعاف تُحفظ مع الوقت وتساعد على الجمع بسرعة: إذا كان 6 و6 يساويان 12، فإن 6 و7 أكثر بواحد، أي 13."
+    },
+    "aviso": {
+      "es": "Guardad las legumbres lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els llegums lluny de germans o germanes menuts.",
+      "en": "Keep the beans away from younger brothers and sisters.",
+      "fr": "Gardez les grains loin des petits frères et sœurs.",
+      "ar": "أبعدوا الحبوب عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Pablo tiene 7 pares de calcetines en el cajón. ¿Cuántos calcetines son?",
+        "va": "Pablo té 7 parells de calcetins al calaix. Quants calcetins són?",
+        "en": "Pablo has 7 pairs of socks in the drawer. How many socks is that?",
+        "fr": "Pablo a 7 paires de chaussettes dans le tiroir. Combien de chaussettes ça fait ?",
+        "ar": "عند بابلو 7 أزواج من الجوارب في الدرج. كم جوربًا عنده؟"
+      },
+      "pista": {
+        "es": "Cada par son 2 calcetines: cuenta de 2 en 2 con los dedos.",
+        "va": "Cada parell són 2 calcetins: compta de 2 en 2 amb els dits.",
+        "en": "Each pair is 2 socks: count in twos on your fingers.",
+        "fr": "Chaque paire, c'est 2 chaussettes : compte de 2 en 2 sur tes doigts.",
+        "ar": "كل زوج فيه جوربان: لنعدّ اثنين اثنين بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 7",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 14 calcetines, el doble de 7: {{7 + 7 = 14}}.",
+          "va": "Són 14 calcetins, el doble de 7: {{7 + 7 = 14}}.",
+          "en": "That's 14 socks, double 7: {{7 + 7 = 14}}.",
+          "fr": "Ça fait 14 chaussettes, le double de 7 : {{7 + 7 = 14}}.",
+          "ar": "عنده 14 جوربًا، وهو ضعف 7: {{7 + 7 = 14}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con los pares de zapatos de tu casa.",
+        "va": "Ara inventa'n tu una amb els parells de sabates de ta casa.",
+        "en": "Now you make one up with the pairs of shoes in your home.",
+        "fr": "Maintenant, invente une question avec les paires de chaussures de ta maison.",
+        "ar": "والآن لنخترع سؤالًا بأزواج الأحذية في البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En el cumpleaños de Fátima hay 9 niños y niñas. Si se ponen por parejas, ¿sobra alguien?",
+        "va": "En l'aniversari de Fátima hi ha 9 xiquets i xiquetes. Si es posen per parelles, en sobra algun?",
+        "en": "At Fátima's birthday party there are 9 children. If they get into pairs, is anyone left over?",
+        "fr": "À l'anniversaire de Fátima, il y a 9 enfants. S'ils se mettent par deux, est-ce qu'il en reste un ?",
+        "ar": "في عيد ميلاد فاطمة 9 أطفال. إذا وقفوا أزواجًا، هل يبقى أحد بلا شريك؟"
+      },
+      "pista": {
+        "es": "Coge 9 cosas y júntalas de dos en dos.",
+        "va": "Agafa 9 coses i ajunta-les de dos en dos.",
+        "en": "Take 9 things and put them together in twos.",
+        "fr": "Prends 9 objets et réunis-les deux par deux.",
+        "ar": "لنأخذ 9 أشياء ونجمعها اثنين اثنين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 2 - 2 - 2 - 2",
+        "resultado": 1,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, sobra 1: salen 4 parejas y 9 es impar.",
+          "va": "Sí, en sobra 1: ixen 4 parelles i 9 és imparell.",
+          "en": "Yes, 1 is left over: there are 4 pairs, and 9 is odd.",
+          "fr": "Oui, il en reste 1 : on fait 4 paires, et 9 est impair.",
+          "ar": "نعم، يبقى طفل واحد: تتكوّن 4 أزواج، و9 عدد فردي."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las personas de tu familia: ¿salen parejas justas?",
+        "va": "Inventa'n tu una altra amb les persones de la teua família: ixen parelles justes?",
+        "en": "Make up another one with the people in your family: do they make exact pairs?",
+        "fr": "Invente-en une autre avec les personnes de ta famille : est-ce que ça fait des paires justes ?",
+        "ar": "لنخترع سؤالًا آخر بأفراد العائلة: هل تتكوّن أزواج كاملة؟"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Aisha y su abuelo compran 2 cajas de 6 huevos. ¿Cuántos huevos llevan?",
+        "va": "Aisha i son avi compren 2 caixes de 6 ous. Quants ous porten?",
+        "en": "Aisha and her grandad buy 2 boxes of 6 eggs. How many eggs are they carrying?",
+        "fr": "Aisha et son grand-père achètent 2 boîtes de 6 œufs. Combien d'œufs rapportent-ils ?",
+        "ar": "تشتري عائشة وجدّها علبتين في كل واحدة 6 بيضات. كم بيضة معهما؟"
+      },
+      "pista": {
+        "es": "Son dos veces 6: piensa en el doble de 6.",
+        "va": "Són dues vegades 6: pensa en el doble de 6.",
+        "en": "It's 6 two times: think of double 6.",
+        "fr": "C'est deux fois 6 : pense au double de 6.",
+        "ar": "إنها 6 مرتين: لنفكّر في ضعف 6."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 6",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llevan 12 huevos: {{6 + 6 = 12}}.",
+          "va": "Porten 12 ous: {{6 + 6 = 12}}.",
+          "en": "They're carrying 12 eggs: {{6 + 6 = 12}}.",
+          "fr": "Ils rapportent 12 œufs : {{6 + 6 = 12}}.",
+          "ar": "معهما 12 بيضة: {{6 + 6 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el doble de algo que haya en la nevera.",
+        "va": "Inventa'n tu una altra amb el doble d'alguna cosa que hi haja a la nevera.",
+        "en": "Make up another one with double something in the fridge.",
+        "fr": "Invente-en une autre avec le double de quelque chose qu'il y a dans le frigo.",
+        "ar": "لنخترع سؤالًا آخر بضعف شيء موجود في الثلاجة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "escala-descendente",
+      "texto": {
+        "es": "Para recordar: contamos hacia atrás de 100 en 100: 900, 800, 700… ¿Qué número viene después del 300?",
+        "va": "Per a recordar: comptem cap arrere de 100 en 100: 900, 800, 700… Quin nombre ve després del 300?",
+        "en": "Let's remember: we count backwards in hundreds: 900, 800, 700… What number comes after 300?",
+        "fr": "Pour se souvenir : on compte à rebours de 100 en 100 : 900, 800, 700… Quel nombre vient après 300 ?",
+        "ar": "لنتذكّر: نعدّ تنازليًا مئة مئة: 900، 800، 700… ما العدد الذي يأتي بعد 300؟"
+      },
+      "pista": {
+        "es": "Mira solo la primera cifra: baja de uno en uno.",
+        "va": "Mira només la primera xifra: baixa d'un en un.",
+        "en": "Look only at the first digit: it goes down one at a time.",
+        "fr": "Regarde seulement le premier chiffre : il baisse de un en un.",
+        "ar": "لننظر إلى الرقم الأول فقط: ينقص واحدًا واحدًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "300 - 100",
+        "resultado": 200,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 200: {{300 − 100 = 200}}.",
+          "va": "El 200: {{300 − 100 = 200}}.",
+          "en": "200: {{300 − 100 = 200}}.",
+          "fr": "200 : {{300 − 100 = 200}}.",
+          "ar": "العدد 200: {{300 − 100 = 200}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra cuenta atrás de 100 en 100 que empiece en 950.",
+        "va": "Inventa tu un altre compte arrere de 100 en 100 que comence en 950.",
+        "en": "Make up another countdown in hundreds that starts at 950.",
+        "fr": "Invente un autre compte à rebours de 100 en 100 qui commence à 950.",
+        "ar": "لنخترع عدًّا تنازليًا آخر مئة مئة يبدأ من 950."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si un número es par o impar? Explícamelo con cosas de casa.",
+        "va": "Com saps si un nombre és parell o imparell? Explica-m'ho amb coses de casa.",
+        "en": "How do you know if a number is even or odd? Explain it to me with things from home.",
+        "fr": "Comment sais-tu si un nombre est pair ou impair ? Explique-le-moi avec des choses de la maison.",
+        "ar": "كيف نعرف إن كان العدد زوجيًا أو فرديًا؟ لنشرح ذلك بأشياء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me enseñas con 7 cucharas si salen parejas justas?»",
+        "va": "Si no sap per on començar: «M'ensenyes amb 7 culleres si ixen parelles justes?»",
+        "en": "If they don't know where to start: “Can you show me with 7 spoons whether they make exact pairs?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres avec 7 cuillères si ça fait des paires justes ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نرى بـ7 ملاعق إن كانت تتكوّن أزواج كاملة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede hacer parejas con objetos y mirar si sobra uno, o decir que los pares acaban en 0, 2, 4, 6 u 8. Las dos maneras valen: dad las gracias por la explicación.",
+          "va": "Pot fer parelles amb objectes i mirar si en sobra un, o dir que els parells acaben en 0, 2, 4, 6 o 8. Les dues maneres valen: doneu les gràcies per l'explicació.",
+          "en": "They might make pairs with objects and see if one is left over, or say that even numbers end in 0, 2, 4, 6 or 8. Both ways are fine: say thank you for the explanation.",
+          "fr": "Il ou elle peut faire des paires avec des objets et regarder s'il en reste un, ou dire que les nombres pairs finissent par 0, 2, 4, 6 ou 8. Les deux façons sont bonnes : dites merci pour l'explication.",
+          "ar": "قد تُكوَّن أزواج بالأشياء ويُنظر هل يبقى واحد، أو يُقال إن الأعداد الزوجية تنتهي بـ0 أو 2 أو 4 أو 6 أو 8. الطريقتان مقبولتان: قولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "784114fc47bb"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "784114fc47bb"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "784114fc47bb"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "784114fc47bb"
+      }
+    }
+  }
+}

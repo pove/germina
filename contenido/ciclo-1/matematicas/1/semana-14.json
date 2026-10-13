@@ -1,0 +1,330 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s14",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 14,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Formas de casa",
+    "va": "Formes de casa",
+    "en": "Shapes at home",
+    "fr": "Les formes de la maison",
+    "ar": "أشكال البيت"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren el círculo, el cuadrado, el triángulo y el rectángulo en las cosas de casa, y cuentan sus lados y sus esquinas.",
+    "va": "Aquesta setmana descobrixen el cercle (círculo), el quadrat (cuadrado), el triangle (triángulo) i el rectangle (rectángulo) en les coses de casa, i compten els seus costats (lados) i els seus cantons.",
+    "en": "This week they discover the circle (círculo), the square (cuadrado), the triangle (triángulo) and the rectangle (rectángulo) in things at home, and count their sides (lados) and corners.",
+    "fr": "Cette semaine, on découvre le disque (círculo), le carré (cuadrado), le triangle (triángulo) et le rectangle (rectángulo) dans les choses de la maison, et on compte leurs côtés (lados) et leurs coins.",
+    "ar": "هذا الأسبوع يكتشف الأطفال الدائرة (círculo) والمربّع (cuadrado) والمثلّث (triángulo) والمستطيل (rectángulo) في أشياء البيت، ويعدّون أضلاعها (lados) وزواياها."
+  },
+  "comoAyudar": {
+    "es": "Dejad que pase el dedo por el borde mientras cuenta los lados. Si llama cuadrado a un rectángulo, preguntad: «¿Sus lados son todos igual de largos?»",
+    "va": "Deixeu que passe el dit per la vora mentre compta els costats. Si diu quadrat a un rectangle, pregunteu: «Els seus costats són tots igual de llargs?»",
+    "en": "Let your child run a finger along the edge while counting the sides. If they call a rectangle a square, ask: “Are all its sides the same length?”",
+    "fr": "Laissez votre enfant passer le doigt sur le bord en comptant les côtés. S'il ou elle appelle carré un rectangle, demandez : « Est-ce que tous ses côtés sont aussi longs ? »",
+    "ar": "اتركوا لابنكم أو ابنتكم تمرير الإصبع على الحافة أثناء عدّ الأضلاع. إذا سُمّي المستطيل مربّعًا، اسألوا: «هل كل أضلاعه بالطول نفسه؟»"
+  },
+  "saberes": [
+    "matematicas.geometria.poligonos",
+    "matematicas.geometria.vertices-lados",
+    "matematicas.geometria.circunferencia"
+  ],
+  "criterios": [
+    "matematicas.c1.7.1",
+    "matematicas.c1.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Caza de formas",
+      "va": "Caça de formes",
+      "en": "Shape hunt",
+      "fr": "La chasse aux formes",
+      "ar": "صيد الأشكال"
+    },
+    "material": [
+      {
+        "es": "Cosas planas de casa: un plato, una servilleta, un libro, una caja de galletas…",
+        "va": "Coses planes de casa: un plat, un tovalló, un llibre, una caixa de galetes…",
+        "en": "Flat things from home: a plate, a napkin, a book, a biscuit box…",
+        "fr": "Des choses plates de la maison : une assiette, une serviette, un livre, une boîte de biscuits…",
+        "ar": "أشياء مسطّحة من البيت: طبق، منديل، كتاب، علبة بسكويت…"
+      },
+      {
+        "es": "Papel y un lápiz",
+        "va": "Paper i un llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورق وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "formas",
+        "texto": {
+          "es": "Buscad por casa cosas con forma de círculo, de cuadrado, de triángulo y de rectángulo.",
+          "va": "Busqueu per casa coses amb forma de cercle, de quadrat, de triangle i de rectangle.",
+          "en": "Look around the house for things shaped like a circle, a square, a triangle and a rectangle.",
+          "fr": "Cherchez dans la maison des choses en forme de disque, de carré, de triangle et de rectangle.",
+          "ar": "ابحثوا في البيت عن أشياء على شكل دائرة ومربّع ومثلّث ومستطيل."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Poned cada cosa encima del papel y dibujad su silueta siguiendo el borde con el lápiz.",
+          "va": "Poseu cada cosa damunt del paper i dibuixeu-ne la silueta seguint la vora amb el llapis.",
+          "en": "Put each thing on the paper and draw its outline, following the edge with the pencil.",
+          "fr": "Posez chaque chose sur le papier et dessinez sa silhouette en suivant le bord avec le crayon.",
+          "ar": "ضعوا كل شيء فوق الورقة وارسموا حدوده بالقلم وأنتم تتبعون الحافة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Pasad el dedo por cada silueta y contad sus lados y sus esquinas.",
+          "va": "Passeu el dit per cada silueta i compteu-ne els costats i els cantons.",
+          "en": "Run your finger round each outline and count its sides and corners.",
+          "fr": "Passez le doigt sur chaque silhouette et comptez ses côtés et ses coins.",
+          "ar": "مرّروا الإصبع على كل شكل مرسوم وعدّوا أضلاعه وزواياه."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Cuál no tiene esquinas? ¿Cuáles tienen 4 lados? Juntad las siluetas que se parecen.",
+          "va": "Quina no té cantons? Quines tenen 4 costats? Ajunteu les siluetes que s'assemblen.",
+          "en": "Which one has no corners? Which ones have 4 sides? Put together the outlines that look alike.",
+          "fr": "Laquelle n'a pas de coins ? Lesquelles ont 4 côtés ? Regroupez les silhouettes qui se ressemblent.",
+          "ar": "أيّ شكل ليست له زوايا؟ وأيّها له 4 أضلاع؟ اجمعوا الأشكال المتشابهة معًا."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Buscad solo círculos y cuadrados.",
+      "va": "Busqueu només cercles i quadrats.",
+      "en": "Only look for circles and squares.",
+      "fr": "Cherchez seulement des disques et des carrés.",
+      "ar": "ابحثوا فقط عن دوائر ومربّعات."
+    },
+    "masDificil": {
+      "es": "Con palillos, formad un triángulo, un cuadrado y un rectángulo. ¿Cuántos palillos usáis para cada uno?",
+      "va": "Amb escuradents, formeu un triangle, un quadrat i un rectangle. Quants escuradents feu servir per a cada un?",
+      "en": "With sticks, make a triangle, a square and a rectangle. How many sticks do you use for each one?",
+      "fr": "Avec des bâtonnets, formez un triangle, un carré et un rectangle. Combien de bâtonnets utilisez-vous pour chacun ?",
+      "ar": "كوّنوا بالأعواد مثلّثًا ومربّعًا ومستطيلًا. كم عودًا تستعملون لكل شكل؟"
+    },
+    "paraQueSirve": {
+      "es": "Reconocer las formas y contar sus lados ayuda a describir lo que vemos, a construir y a dibujar.",
+      "va": "Reconéixer les formes i comptar-ne els costats ajuda a descriure el que veiem, a construir i a dibuixar.",
+      "en": "Recognising shapes and counting their sides helps us describe what we see, build and draw.",
+      "fr": "Reconnaître les formes et compter leurs côtés aide à décrire ce qu'on voit, à construire et à dessiner.",
+      "ar": "التعرّف على الأشكال وعدّ أضلاعها يساعدنا على وصف ما نراه، وعلى البناء والرسم."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Mira un plato. ¿Qué forma tiene? ¿Tiene esquinas?",
+        "va": "Mira un plat. Quina forma té? Té cantons?",
+        "en": "Look at a plate. What shape is it? Does it have corners?",
+        "fr": "Regarde une assiette. Quelle forme a-t-elle ? A-t-elle des coins ?",
+        "ar": "لننظر إلى طبق. ما شكله؟ هل له زوايا؟"
+      },
+      "pista": {
+        "es": "Pasa el dedo por el borde y busca algún pico.",
+        "va": "Passa el dit per la vora i busca alguna punta.",
+        "en": "Run your finger round the edge and look for a point.",
+        "fr": "Passe le doigt sur le bord et cherche une pointe.",
+        "ar": "لنمرّر الإصبع على الحافة ونبحث عن رأس مدبّب."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Es un círculo y no tiene esquinas: su borde es una línea curva. Algunos platos son cuadrados: si el vuestro lo es, ¡mejor todavía!",
+          "va": "És un cercle i no té cantons: la seua vora és una línia corba. Alguns plats són quadrats: si el vostre ho és, encara millor!",
+          "en": "It's a circle and it has no corners: its edge is a curved line. Some plates are square: if yours is, even better!",
+          "fr": "C'est un disque et il n'a pas de coins : son bord est une ligne courbe. Certaines assiettes sont carrées : si la vôtre l'est, c'est encore mieux !",
+          "ar": "إنه دائرة وليست له زوايا: حافته خط منحنٍ. بعض الأطباق مربّعة: إذا كان طبقكم كذلك، فهذا أجمل!"
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con otra cosa de la cocina.",
+        "va": "Ara inventa'n tu una amb una altra cosa de la cuina.",
+        "en": "Now you make one up with something else from the kitchen.",
+        "fr": "Maintenant, invente une question avec autre chose de la cuisine.",
+        "ar": "والآن لنخترع سؤالًا بشيء آخر من المطبخ."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Un triángulo y un cuadrado, ¿cuál tiene más lados?",
+        "va": "Un triangle i un quadrat, quin té més costats?",
+        "en": "A triangle and a square: which has more sides?",
+        "fr": "Un triangle et un carré : lequel a le plus de côtés ?",
+        "ar": "مثلّث ومربّع: أيّهما له أضلاع أكثر؟"
+      },
+      "pista": {
+        "es": "Dibuja los dos en el aire con el dedo y cuenta los lados.",
+        "va": "Dibuixa'ls tots dos en l'aire amb el dit i compta els costats.",
+        "en": "Draw both in the air with your finger and count the sides.",
+        "fr": "Dessine les deux dans l'air avec le doigt et compte les côtés.",
+        "ar": "لنرسم الشكلين في الهواء بالإصبع ونعدّ الأضلاع."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El cuadrado tiene 4 lados y el triángulo, 3: el cuadrado tiene uno más. Si cuesta, formad los dos con palillos.",
+          "va": "El quadrat té 4 costats i el triangle, 3: el quadrat en té un més. Si costa, formeu-los amb escuradents.",
+          "en": "The square has 4 sides and the triangle has 3: the square has one more. If it's tricky, make both with sticks.",
+          "fr": "Le carré a 4 côtés et le triangle, 3 : le carré en a un de plus. Si c'est difficile, formez les deux avec des bâtonnets.",
+          "ar": "للمربّع 4 أضلاع وللمثلّث 3: للمربّع ضلع واحد زيادة. إذا صعُب الأمر، كوّنوا الشكلين بالأعواد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra comparando un rectángulo y un círculo.",
+        "va": "Inventa'n tu una altra comparant un rectangle i un cercle.",
+        "en": "Make up another one comparing a rectangle and a circle.",
+        "fr": "Invente-en une autre en comparant un rectangle et un disque.",
+        "ar": "لنخترع سؤالًا آخر نقارن فيه مستطيلًا ودائرة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Una puerta y una servilleta abierta, ¿tienen la misma forma?",
+        "va": "Una porta i un tovalló obert, tenen la mateixa forma?",
+        "en": "A door and an unfolded napkin: do they have the same shape?",
+        "fr": "Une porte et une serviette dépliée : ont-elles la même forme ?",
+        "ar": "باب ومنديل مفتوح: هل لهما الشكل نفسه؟"
+      },
+      "pista": {
+        "es": "Mira si los lados son todos igual de largos o si hay largos y cortos.",
+        "va": "Mira si els costats són tots igual de llargs o si n'hi ha uns de llargs i uns altres de curts.",
+        "en": "See whether the sides are all the same length or whether some are long and some short.",
+        "fr": "Regarde si les côtés sont tous aussi longs ou s'il y en a des longs et des courts.",
+        "ar": "لننظر إن كانت الأضلاع كلها بالطول نفسه، أو فيها طويلة وقصيرة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No: la puerta es un rectángulo, con dos lados largos y dos cortos. La servilleta suele ser un cuadrado, con los 4 lados iguales.",
+          "va": "No: la porta és un rectangle, amb dos costats llargs i dos de curts. El tovalló sol ser un quadrat, amb els 4 costats iguals.",
+          "en": "No: the door is a rectangle, with two long sides and two short ones. The napkin is usually a square, with all 4 sides the same.",
+          "fr": "Non : la porte est un rectangle, avec deux côtés longs et deux courts. La serviette est souvent un carré, avec ses 4 côtés pareils.",
+          "ar": "لا: الباب مستطيل، له ضلعان طويلان وضلعان قصيران. والمنديل غالبًا مربّع، أضلاعه الأربعة متساوية."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos cosas de tu habitación.",
+        "va": "Inventa'n tu una altra amb dues coses de la teua habitació.",
+        "en": "Make up another one with two things from your room.",
+        "fr": "Invente-en une autre avec deux choses de ta chambre.",
+        "ar": "لنخترع سؤالًا آخر بشيئين من الغرفة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 13,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar: si tienes 4, ¿cuánto te falta para llegar a 10?",
+        "va": "Per a recordar: si en tens 4, quant et falta per a arribar a 10?",
+        "en": "Let's remember: if you have 4, how many more to get to 10?",
+        "fr": "Pour se souvenir : si tu en as 4, combien t'en manque-t-il pour arriver à 10 ?",
+        "ar": "لنتذكّر: إذا كان عندنا 4، كم ينقصنا لنصل إلى 10؟"
+      },
+      "pista": {
+        "es": "Levanta 4 dedos y cuenta los que siguen escondidos.",
+        "va": "Alça 4 dits i compta els que continuen amagats.",
+        "en": "Hold up 4 fingers and count the ones still hidden.",
+        "fr": "Lève 4 doigts et compte ceux qui sont encore cachés.",
+        "ar": "لنرفع 4 أصابع ونعدّ الأصابع التي ما زالت مخبّأة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 4",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 6, porque {{4 + 6 = 10}}.",
+          "va": "En falten 6, perquè {{4 + 6 = 10}}.",
+          "en": "6 more, because {{4 + 6 = 10}}.",
+          "fr": "Il en manque 6, parce que {{4 + 6 = 10}}.",
+          "ar": "تنقص 6، لأن {{4 + 6 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra empezando por otro número.",
+        "va": "Inventa'n tu una altra començant per un altre nombre.",
+        "en": "Make up another one starting from a different number.",
+        "fr": "Invente-en une autre en commençant par un autre nombre.",
+        "ar": "لنخترع سؤالًا آخر نبدأ فيه بعدد آخر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo sabes que una cosa tiene forma de triángulo.",
+        "va": "Explica'm com saps que una cosa té forma de triangle.",
+        "en": "Explain to me how you know that something is shaped like a triangle.",
+        "fr": "Explique-moi comment tu sais qu'une chose a la forme d'un triangle.",
+        "ar": "لنشرح كيف نعرف أن شيئًا ما على شكل مثلّث."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Pasa el dedo por el borde y cuenta los lados en voz alta».",
+        "va": "Si no sap per on començar: «Passa el dit per la vora i compta els costats en veu alta».",
+        "en": "If they don't know where to start: “Run your finger round the edge and count the sides out loud”.",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Passe le doigt sur le bord et compte les côtés à voix haute ».",
+        "ar": "إذا صعُبت البداية، قولوا: «لنمرّر الإصبع على الحافة ونعدّ الأضلاع بصوت عالٍ»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que tiene 3 lados, 3 esquinas o que «tiene pico». Todo vale. Escuchad y preguntad «¿y luego?».",
+          "va": "Pot dir que té 3 costats, 3 cantons o que «té punta». Tot val. Escolteu i pregunteu «i després?».",
+          "en": "They might say it has 3 sides, 3 corners or that “it's pointy”. It's all fine. Listen and ask “And then?”.",
+          "fr": "Votre enfant peut dire qu'il a 3 côtés, 3 coins ou qu'« il est pointu ». Tout convient. Écoutez et demandez « Et après ? ».",
+          "ar": "قد يكون الجواب أن له 3 أضلاع، أو 3 زوايا، أو «له رأس مدبّب». كل ذلك مقبول. استمعوا واسألوا «ثم ماذا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "ebd9806d2312"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "ebd9806d2312"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "ebd9806d2312"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "ebd9806d2312"
+      }
+    }
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s13",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 13,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Parejas del 10 y del 100",
+    "va": "Parelles del 10 i del 100",
+    "en": "Pairs that make 10 and 100",
+    "fr": "Les paires de 10 et de 100",
+    "ar": "أزواج العشرة والمئة"
+  },
+  "objetivo": {
+    "es": "Esta semana buscan parejas de números que suman 10, como 3 y 7, y descubren que con las decenas pasa lo mismo: 30 y 70 suman 100. El juego de la semana es en equipo y contra el reloj.",
+    "va": "Aquesta setmana busquen parelles de nombres que sumen 10, com 3 i 7, i descobrixen que amb les desenes (decenas) passa el mateix: 30 i 70 sumen 100. El joc de la setmana és en equip i contra rellotge.",
+    "en": "This week they look for pairs of numbers that add up to 10, like 3 and 7, and discover that the same thing happens with tens (decenas): 30 and 70 make 100. This week's game is played as a team, against the clock.",
+    "fr": "Cette semaine, on cherche des paires de nombres qui font 10, comme 3 et 7, et on découvre qu'avec les dizaines (decenas) c'est pareil : 30 et 70 font 100. Le jeu de la semaine se joue en équipe, contre la montre.",
+    "ar": "هذا الأسبوع يبحث الأطفال عن أزواج من الأعداد مجموعها 10، مثل 3 و7، ويكتشفون أن الأمر نفسه يحدث مع العشرات (decenas): 30 و70 مجموعهما 100. لعبة الأسبوع جماعية وضد الوقت."
+  },
+  "comoAyudar": {
+    "es": "Jugad en el mismo equipo: el récord es de los dos. Si una pareja no sale, contad con los dedos lo que falta hasta 10 antes de poner el cronómetro.",
+    "va": "Jugueu en el mateix equip: el rècord és de tots dos. Si una parella no ix, compteu amb els dits el que falta fins a 10 abans de posar el cronòmetre.",
+    "en": "Play on the same team: the record belongs to both of you. If a pair doesn't come, count on your fingers what's missing up to 10 before starting the timer.",
+    "fr": "Jouez dans la même équipe : le record est à vous deux. Si une paire ne vient pas, comptez sur les doigts ce qui manque jusqu'à 10 avant de lancer le chronomètre.",
+    "ar": "العبوا في الفريق نفسه: الرقم القياسي لكم معًا. وإذا لم يظهر زوج ما، فعدّوا بالأصابع ما ينقص حتى 10 قبل تشغيل المؤقّت."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.estructura"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Un minuto en equipo",
+      "va": "Un minut en equip",
+      "en": "One minute as a team",
+      "fr": "Une minute en équipe",
+      "ar": "دقيقة واحدة كفريق"
+    },
+    "material": [
+      {
+        "es": "Cartas del 1 al 9 de una baraja, dos de cada número (o papelitos con los números)",
+        "va": "Cartes de l'1 al 9 d'una baralla, dues de cada nombre (o paperets amb els nombres)",
+        "en": "Cards from 1 to 9 from a pack, two of each number (or slips of paper with the numbers)",
+        "fr": "Des cartes de 1 à 9 d'un jeu, deux de chaque nombre (ou des petits papiers avec les nombres)",
+        "ar": "أوراق لعب من 1 إلى 9، ورقتان من كل عدد (أو قصاصات ورق عليها الأعداد)"
+      },
+      {
+        "es": "Papelitos con las decenas: 10, 20, 30… hasta 90, dos de cada",
+        "va": "Paperets amb les desenes: 10, 20, 30… fins a 90, dos de cada",
+        "en": "Slips of paper with the tens: 10, 20, 30… up to 90, two of each",
+        "fr": "Des petits papiers avec les dizaines : 10, 20, 30… jusqu'à 90, deux de chaque",
+        "ar": "قصاصات ورق عليها العشرات: 10، 20، 30… حتى 90، اثنتان من كل واحدة"
+      },
+      {
+        "es": "Un cronómetro o un reloj de cocina",
+        "va": "Un cronòmetre o un rellotge de cuina",
+        "en": "A timer or a kitchen clock",
+        "fr": "Un chronomètre ou un minuteur de cuisine",
+        "ar": "مؤقّت أو ساعة مطبخ"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Poned las cartas boca arriba. Sin reloj, buscad juntos parejas que sumen 10: 3 y 7, 6 y 4…",
+          "va": "Poseu les cartes de cara amunt. Sense rellotge, busqueu junts parelles que sumen 10: 3 i 7, 6 i 4…",
+          "en": "Lay the cards face up. Without the timer, look together for pairs that make 10: 3 and 7, 6 and 4…",
+          "fr": "Posez les cartes face visible. Sans chronomètre, cherchez ensemble des paires qui font 10 : 3 et 7, 6 et 4…",
+          "ar": "ضعوا الأوراق ووجهها إلى الأعلى. ومن دون مؤقّت، ابحثوا معًا عن أزواج مجموعها 10: 3 و7، 6 و4…"
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Mezclad las cartas y poned el cronómetro en 1 minuto. Cada pareja que encontréis, apartadla: al final, contadlas.",
+          "va": "Barregeu les cartes i poseu el cronòmetre en 1 minut. Cada parella que trobeu, aparteu-la: al final, compteu-les.",
+          "en": "Shuffle the cards and set the timer for 1 minute. Put each pair you find to one side: at the end, count them.",
+          "fr": "Mélangez les cartes et mettez le chronomètre sur 1 minute. Chaque paire trouvée, mettez-la de côté : à la fin, comptez-les.",
+          "ar": "اخلطوا الأوراق واضبطوا المؤقّت على دقيقة واحدة. ضعوا كل زوج تجدونه جانبًا، وفي النهاية عدّوا الأزواج."
+        }
+      },
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Ahora, con los papelitos de decenas: parejas que sumen 100, como 30 y 70. También con 1 minuto.",
+          "va": "Ara, amb els paperets de desenes: parelles que sumen 100, com 30 i 70. També amb 1 minut.",
+          "en": "Now with the tens slips: pairs that make 100, like 30 and 70. Also with 1 minute.",
+          "fr": "Maintenant, avec les papiers des dizaines : des paires qui font 100, comme 30 et 70. Aussi en 1 minute.",
+          "ar": "والآن بقصاصات العشرات: أزواج مجموعها 100، مثل 30 و70. وأيضًا في دقيقة واحدة."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad las parejas del 10 y las del 100. ¿En qué se parecen 3 y 7 y 30 y 70?",
+          "va": "Mireu les parelles del 10 i les del 100. En què s'assemblen 3 i 7 i 30 i 70?",
+          "en": "Look at the pairs for 10 and the pairs for 100. How are 3 and 7 like 30 and 70?",
+          "fr": "Regardez les paires de 10 et celles de 100. En quoi 3 et 7 ressemblent-ils à 30 et 70 ?",
+          "ar": "انظروا إلى أزواج العشرة وأزواج المئة. بماذا يتشابه 3 و7 مع 30 و70؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad sin cronómetro y comprobad cada pareja con los dedos de las dos manos.",
+      "va": "Jugueu sense cronòmetre i comproveu cada parella amb els dits de les dues mans.",
+      "en": "Play without the timer and check each pair with the fingers on both hands.",
+      "fr": "Jouez sans chronomètre et vérifiez chaque paire avec les doigts des deux mains.",
+      "ar": "العبوا من دون مؤقّت، وتحقّقوا من كل زوج بأصابع اليدين."
+    },
+    "masDificil": {
+      "es": "Sin cartas: una persona dice un número del 1 al 9 y la otra contesta su pareja del 10; o una decena y su pareja del 100.",
+      "va": "Sense cartes: una persona diu un nombre de l'1 al 9 i l'altra contesta la seua parella del 10; o una desena i la seua parella del 100.",
+      "en": "Without cards: one person says a number from 1 to 9 and the other answers with its partner for 10; or a ten and its partner for 100.",
+      "fr": "Sans cartes : une personne dit un nombre de 1 à 9 et l'autre répond avec sa paire de 10 ; ou une dizaine et sa paire de 100.",
+      "ar": "من دون أوراق: يقول شخص عددًا من 1 إلى 9 ويجيب الآخر بزوجه الذي يكمل 10، أو يقول عشرة ويجيب الآخر بزوجها الذي يكمل 100."
+    },
+    "paraQueSirve": {
+      "es": "Saber de memoria las parejas del 10 ayuda a sumar y restar rápido. Y quien sabe las del 10, sabe también las del 100.",
+      "va": "Saber de memòria les parelles del 10 ajuda a sumar i restar ràpid. I qui sap les del 10, sap també les del 100.",
+      "en": "Knowing the pairs for 10 by heart helps you add and subtract quickly. And if you know the pairs for 10, you know the ones for 100 too.",
+      "fr": "Savoir par cœur les paires de 10 aide à additionner et à soustraire vite. Et qui connaît celles de 10 connaît aussi celles de 100.",
+      "ar": "حفظ أزواج العشرة يساعد على الجمع والطرح بسرعة. ومن يعرف أزواج العشرة يعرف أيضًا أزواج المئة."
+    },
+    "rapidez": {
+      "segundos": 60,
+      "seCuenta": {
+        "es": "parejas encontradas",
+        "va": "parelles trobades",
+        "en": "pairs found",
+        "fr": "paires trouvées",
+        "ar": "الأزواج التي وجدناها"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Wei hace un collar con 10 cuentas: 6 son rojas y las demás, azules. ¿Cuántas son azules?",
+        "va": "Wei fa un collar amb 10 boletes: 6 són roges i les altres, blaves. Quantes són blaves?",
+        "en": "Wei makes a necklace with 10 beads: 6 are red and the rest are blue. How many are blue?",
+        "fr": "Wei fait un collier avec 10 perles : 6 sont rouges et les autres, bleues. Combien sont bleues ?",
+        "ar": "يصنع وي عقدًا من 10 خرزات: 6 حمراء والباقي زرقاء. كم خرزة زرقاء؟"
+      },
+      "pista": {
+        "es": "Levanta 10 dedos, dobla 6 y mira cuántos quedan.",
+        "va": "Alça 10 dits, doblega'n 6 i mira quants en queden.",
+        "en": "Hold up 10 fingers, bend 6 down and see how many are left.",
+        "fr": "Lève 10 doigts, plies-en 6 et regarde combien il en reste.",
+        "ar": "لنرفع 10 أصابع، ونثني 6، ونرى كم يبقى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son azules 4: {{6 + 4 = 10}}.",
+          "va": "En són blaves 4: {{6 + 4 = 10}}.",
+          "en": "4 are blue: {{6 + 4 = 10}}.",
+          "fr": "4 sont bleues : {{6 + 4 = 10}}.",
+          "ar": "4 خرزات زرقاء: {{6 + 4 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con 10 cosas de dos colores.",
+        "va": "Ara inventa'n tu una amb 10 coses de dos colors.",
+        "en": "Now you make one up with 10 things in two colours.",
+        "fr": "Maintenant, invente une question avec 10 choses de deux couleurs.",
+        "ar": "والآن لنخترع سؤالًا بـ10 أشياء من لونين."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "¿Qué número hace pareja con el 3 para llegar a 10? ¿Y con el 30 para llegar a 100?",
+        "va": "Quin nombre fa parella amb el 3 per a arribar a 10? I amb el 30 per a arribar a 100?",
+        "en": "Which number pairs with 3 to make 10? And with 30 to make 100?",
+        "fr": "Quel nombre fait la paire avec 3 pour arriver à 10 ? Et avec 30 pour arriver à 100 ?",
+        "ar": "أيّ عدد يكوّن زوجًا مع 3 ليصل إلى 10؟ ومع 30 ليصل إلى 100؟"
+      },
+      "pista": {
+        "es": "Si sabes la pareja del 3, la del 30 es igual pero con decenas.",
+        "va": "Si saps la parella del 3, la del 30 és igual però amb desenes.",
+        "en": "If you know the partner of 3, the partner of 30 is the same but with tens.",
+        "fr": "Si tu connais la paire de 3, celle de 30 est pareille, mais avec des dizaines.",
+        "ar": "إذا عرفنا زوج 3، فإن زوج 30 هو نفسه لكن بالعشرات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 30",
+        "resultado": 70,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 7 y el 70: {{3 + 7 = 10}} y {{30 + 70 = 100}}.",
+          "va": "El 7 i el 70: {{3 + 7 = 10}} i {{30 + 70 = 100}}.",
+          "en": "7 and 70: {{3 + 7 = 10}} and {{30 + 70 = 100}}.",
+          "fr": "7 et 70 : {{3 + 7 = 10}} et {{30 + 70 = 100}}.",
+          "ar": "العدد 7 والعدد 70: {{3 + 7 = 10}} و{{30 + 70 = 100}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pareja del 10 y su pareja del 100.",
+        "va": "Inventa tu una altra parella del 10 i la seua parella del 100.",
+        "en": "Make up another pair for 10 and its matching pair for 100.",
+        "fr": "Invente une autre paire de 10 et sa paire de 100.",
+        "ar": "لنخترع زوجًا آخر للعشرة وزوجه المقابل للمئة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Valentina y su tía quieren juntar 100 piezas de puzle. Ya tienen 60. ¿Cuántas les faltan?",
+        "va": "Valentina i sa tia volen ajuntar 100 peces de trencaclosques. Ja en tenen 60. Quantes els en falten?",
+        "en": "Valentina and her aunt want to collect 100 jigsaw pieces. They already have 60. How many are they missing?",
+        "fr": "Valentina et sa tante veulent réunir 100 pièces de puzzle. Elles en ont déjà 60. Combien leur en manque-t-il ?",
+        "ar": "تريد فالنتينا وعمّتها جمع 100 قطعة من الأحجية. عندهما 60. كم قطعة تنقصهما؟"
+      },
+      "pista": {
+        "es": "Piensa en la pareja del 6 para llegar a 10.",
+        "va": "Pensa en la parella del 6 per a arribar a 10.",
+        "en": "Think of the partner of 6 to make 10.",
+        "fr": "Pense à la paire de 6 pour arriver à 10.",
+        "ar": "لنفكّر في زوج 6 الذي يكمل 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 60",
+        "resultado": 40,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Les faltan 40 piezas: {{60 + 40 = 100}}.",
+          "va": "Els en falten 40: {{60 + 40 = 100}}.",
+          "en": "They're 40 pieces short: {{60 + 40 = 100}}.",
+          "fr": "Il leur en manque 40 : {{60 + 40 = 100}}.",
+          "ar": "تنقصهما 40 قطعة: {{60 + 40 = 100}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo que queráis juntar hasta 100.",
+        "va": "Inventa'n tu una altra amb alguna cosa que vulgueu ajuntar fins a 100.",
+        "en": "Make up another one with something you'd like to collect up to 100.",
+        "fr": "Invente-en une autre avec quelque chose que vous voulez réunir jusqu'à 100.",
+        "ar": "لنخترع سؤالًا آخر بشيء نريد جمعه حتى 100."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 11,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: ¿cuál es el doble de 9?",
+        "va": "Per a recordar: quin és el doble de 9?",
+        "en": "Let's remember: what is double 9?",
+        "fr": "Pour se souvenir : quel est le double de 9 ?",
+        "ar": "لنتذكّر: ما ضعف 9؟"
+      },
+      "pista": {
+        "es": "Puedes pensar en el doble de 10 y quitar 2.",
+        "va": "Pots pensar en el doble de 10 i llevar-ne 2.",
+        "en": "You can think of double 10 and take away 2.",
+        "fr": "Tu peux penser au double de 10 et enlever 2.",
+        "ar": "يمكننا أن نفكّر في ضعف 10 ثم ننزع 2."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 + 9",
+        "resultado": 18,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es 18: {{9 + 9 = 18}}.",
+          "va": "És 18: {{9 + 9 = 18}}.",
+          "en": "It's 18: {{9 + 9 = 18}}.",
+          "fr": "C'est 18 : {{9 + 9 = 18}}.",
+          "ar": "إنه 18: {{9 + 9 = 18}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el doble de un número del 1 al 10.",
+        "va": "Inventa'n tu una altra amb el doble d'un nombre de l'1 al 10.",
+        "en": "Make up another one with double a number from 1 to 10.",
+        "fr": "Invente-en une autre avec le double d'un nombre de 1 à 10.",
+        "ar": "لنخترع سؤالًا آخر بضعف عدد من 1 إلى 10."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo encuentras rápido la pareja del 10 de un número? Explícamelo con tus dedos.",
+        "va": "Com trobes ràpid la parella del 10 d'un nombre? Explica-m'ho amb els dits.",
+        "en": "How do you quickly find a number's partner for 10? Explain it to me with your fingers.",
+        "fr": "Comment trouves-tu vite la paire de 10 d'un nombre ? Explique-le-moi avec tes doigts.",
+        "ar": "كيف نجد بسرعة زوج العدد الذي يكمل 10؟ لنشرح ذلك بالأصابع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Levanta 4 dedos. ¿Cuántos están bajados?»",
+        "va": "Si no sap per on començar: «Alça 4 dits. Quants n'hi ha d'abaixats?»",
+        "en": "If they don't know where to start: “Hold up 4 fingers. How many are down?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Lève 4 doigts. Combien sont baissés ? »",
+        "ar": "إذا صعُبت البداية، قولوا: «لنرفع 4 أصابع. كم إصبعًا بقي مطويًّا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que mira los dedos que quedan bajados, o que ya se lo sabe de memoria. Las dos cosas valen: preguntad «¿y con el 40 y el 100?».",
+          "va": "Pot dir que mira els dits que queden abaixats, o que ja se'l sap de memòria. Les dues coses valen: pregunteu «i amb el 40 i el 100?».",
+          "en": "They might say they look at the fingers that are down, or that they already know it by heart. Both are fine: ask “And with 40 and 100?”.",
+          "fr": "Il ou elle peut dire qu'il ou elle regarde les doigts baissés, ou qu'il ou elle le sait déjà par cœur. Les deux sont bien : demandez « Et avec 40 et 100 ? ».",
+          "ar": "قد يُقال إن النظر يكون إلى الأصابع المطويّة، أو إن الجواب محفوظ. الأمران مقبولان: اسألوا «وماذا عن 40 و100؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "cf415f3c042d"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "cf415f3c042d"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "cf415f3c042d"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "cf415f3c042d"
+      }
+    }
+  }
+}

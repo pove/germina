@@ -139,7 +139,7 @@
         "tipo": { "const": "calculo" },
         "operacion": { "description": "Operación con enteros que da la respuesta: + - × : y paréntesis. Dinero en céntimos, longitudes en cm o mm, masas en g, capacidades en ml y horas en minutos cuando haga falta.", "type": "string", "pattern": "^[0-9+\\-×:() ]+$" },
         "resultado": { "type": "integer" },
-        "unidad": { "enum": ["unidades", "cent", "euros", "min", "cm", "mm", "m", "g", "ml"] },
+        "unidad": { "enum": ["unidades", "cent", "euros", "min", "cm", "mm", "m", "g", "ml", "kg", "l"] },
         "texto": { "$ref": "#/$defs/texto", "description": "La respuesta tal como se enseña a la familia." }
       }
     },

@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s37",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 37,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Siempre, a veces, nunca",
+    "va": "Sempre, a vegades, mai",
+    "en": "Always, sometimes, never",
+    "fr": "Toujours, parfois, jamais",
+    "ar": "دائمًا، أحيانًا، أبدًا"
+  },
+  "objetivo": {
+    "es": "Esta semana piensan en lo que pasa siempre, a veces o nunca, y juegan a adivinar qué saldrá de una bolsa. También hablan de cómo se sienten cuando no saben qué va a pasar.",
+    "va": "Aquesta setmana pensen en allò que passa sempre, a vegades o mai, i juguen a endevinar què eixirà d'una bossa. També parlen de com se senten quan no saben què passarà.",
+    "en": "This week they think about what happens always, sometimes or never, and play at guessing what will come out of a bag. They also talk about how they feel when they don't know what is going to happen.",
+    "fr": "Cette semaine, on réfléchit à ce qui arrive toujours, parfois ou jamais, et on joue à deviner ce qui sortira d'un sac. On parle aussi de ce qu'on ressent quand on ne sait pas ce qui va se passer.",
+    "ar": "هذا الأسبوع يفكّر الأطفال فيما يحدث دائمًا أو أحيانًا أو لا يحدث أبدًا، ويلعبون بتخمين ما سيخرج من كيس. ويتحدّثون أيضًا عن شعورهم حين لا يعرفون ما سيحدث."
+  },
+  "comoAyudar": {
+    "es": "Si no sale lo que esperaba, decidlo con calma: «¡Qué sorpresa! Con la bolsa nunca se sabe». Así, no saber qué saldrá forma parte del juego.",
+    "va": "Si no ix el que esperava, digueu-ho amb calma: «Quina sorpresa! Amb la bossa mai no se sap». Així, no saber què eixirà forma part del joc.",
+    "en": "If what your child expected doesn't come out, say it calmly: “What a surprise! With the bag you never know.” That way, not knowing what will come out is part of the game.",
+    "fr": "Si ce qui était attendu ne sort pas, dites-le calmement : « Quelle surprise ! Avec le sac, on ne sait jamais. » Ainsi, ne pas savoir ce qui va sortir fait partie du jeu.",
+    "ar": "إذا لم يخرج ما كنّا ننتظره، قولوا بهدوء: «يا لها من مفاجأة! مع الكيس لا نعرف أبدًا». هكذا يصبح عدم معرفة ما سيخرج جزءًا من اللعبة."
+  },
+  "saberes": [
+    "matematicas.probabilidad.intuitiva",
+    "matematicas.probabilidad.aleatorio",
+    "matematicas.probabilidad.emociones"
+  ],
+  "criterios": [
+    "matematicas.c1.3.4",
+    "matematicas.c1.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La bolsa de pinzas",
+      "va": "La bossa de pinces",
+      "en": "The peg bag",
+      "fr": "Le sac de pinces",
+      "ar": "كيس الملاقط"
+    },
+    "material": [
+      {
+        "es": "8 pinzas de la ropa: 6 de un color y 2 de otro",
+        "va": "8 pinces de la roba: 6 d'un color i 2 d'un altre",
+        "en": "8 clothes pegs: 6 of one colour and 2 of another",
+        "fr": "8 pinces à linge : 6 d'une couleur et 2 d'une autre",
+        "ar": "8 ملاقط غسيل: 6 بلون و2 بلون آخر"
+      },
+      {
+        "es": "Una bolsa que no deje ver lo de dentro",
+        "va": "Una bossa que no deixe veure el que hi ha dins",
+        "en": "A bag you can't see through",
+        "fr": "Un sac où l'on ne voit pas l'intérieur",
+        "ar": "كيس لا يُرى ما بداخله"
+      },
+      {
+        "es": "Papel y lápiz para hacer rayitas",
+        "va": "Paper i llapis per a fer ratlletes",
+        "en": "Paper and a pencil for making little marks",
+        "fr": "Du papier et un crayon pour faire des petits traits",
+        "ar": "ورقة وقلم لرسم خطوط صغيرة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Meted en la bolsa 6 pinzas de un color y 2 de otro. Contadlas bien antes de cerrarla.",
+          "va": "Fiqueu en la bossa 6 pinces d'un color i 2 d'un altre. Compteu-les bé abans de tancar-la.",
+          "en": "Put 6 pegs of one colour and 2 of another in the bag. Count them carefully before closing it.",
+          "fr": "Mettez dans le sac 6 pinces d'une couleur et 2 d'une autre. Comptez-les bien avant de le fermer.",
+          "ar": "ضعوا في الكيس 6 ملاقط بلون و2 بلون آخر. عدّوها جيدًا قبل إغلاقه."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Antes de sacar, decid qué colores pueden salir. ¿Puede salir uno que no está en la bolsa?",
+          "va": "Abans de traure'n cap, digueu quins colors poden eixir. Pot eixir-ne un que no està en la bossa?",
+          "en": "Before taking any out, say which colours could come out. Could a colour that isn't in the bag come out?",
+          "fr": "Avant de tirer, dites quelles couleurs peuvent sortir. Est-ce qu'une couleur qui n'est pas dans le sac peut sortir ?",
+          "ar": "قبل السحب، قولوا ما الألوان التي يمكن أن تخرج. هل يمكن أن يخرج لون ليس في الكيس؟"
+        }
+      },
+      {
+        "pictograma": "bolsa",
+        "texto": {
+          "es": "Por turnos, sacad una pinza sin mirar, decid el color y volved a meterla. Haced una rayita en el papel debajo de su color.",
+          "va": "Per torns, traieu una pinça sense mirar, digueu el color i torneu-la a ficar. Feu una ratlleta en el paper davall del seu color.",
+          "en": "Take turns pulling out a peg without looking, say its colour and put it back. Make a little mark on the paper under its colour.",
+          "fr": "Chacun son tour, tirez une pince sans regarder, dites sa couleur et remettez-la. Faites un petit trait sur le papier sous sa couleur.",
+          "ar": "بالتناوب، اسحبوا ملقطًا من دون نظر، وقولوا لونه وأعيدوه إلى الكيس. ارسموا خطًا صغيرًا على الورقة تحت لونه."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Después de sacar 10 veces, contad las rayitas. ¿Qué color ha salido más? ¿Os lo esperabais?",
+          "va": "Després de traure'n 10 vegades, compteu les ratlletes. Quin color ha eixit més? Ho esperàveu?",
+          "en": "After 10 turns, count the marks. Which colour came out more? Did you expect that?",
+          "fr": "Après 10 tirages, comptez les petits traits. Quelle couleur est sortie le plus ? Vous vous y attendiez ?",
+          "ar": "بعد 10 سحبات، عدّوا الخطوط. أيّ لون خرج أكثر؟ هل توقّعتم ذلك؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad pinzas de un solo color y preguntad: ¿saldrá siempre de ese color?",
+      "va": "Feu servir pinces d'un sol color i pregunteu: eixirà sempre d'aquest color?",
+      "en": "Use pegs of just one colour and ask: will it always come out that colour?",
+      "fr": "Utilisez des pinces d'une seule couleur et demandez : est-ce qu'elle sortira toujours de cette couleur ?",
+      "ar": "استعملوا ملاقط بلون واحد فقط، واسألوا: هل سيخرج هذا اللون دائمًا؟"
+    },
+    "masDificil": {
+      "es": "Usad tres colores, o cambiad cuántas hay de cada uno, y decid antes qué color creéis que saldrá más.",
+      "va": "Feu servir tres colors, o canvieu quantes en poseu de cada color, i digueu abans quin color creieu que eixirà més.",
+      "en": "Use three colours, or change how many there are of each, and say beforehand which colour you think will come out most.",
+      "fr": "Utilisez trois couleurs, ou changez combien il y en a de chaque, et dites avant quelle couleur, selon vous, sortira le plus.",
+      "ar": "استعملوا ثلاثة ألوان، أو غيّروا عدد الملاقط من كل لون، وقولوا قبل السحب أيّ لون تظنّون أنه سيخرج أكثر."
+    },
+    "paraQueSirve": {
+      "es": "Distinguir lo que pasa siempre, a veces o nunca es la primera idea del azar. Y aprender a esperar sin saber qué saldrá ayuda a jugar con calma.",
+      "va": "Distingir allò que passa sempre, a vegades o mai és la primera idea de l'atzar. I aprendre a esperar sense saber què eixirà ajuda a jugar amb calma.",
+      "en": "Telling apart what happens always, sometimes or never is the first idea of chance. And learning to wait without knowing what will come out helps you play calmly.",
+      "fr": "Distinguer ce qui arrive toujours, parfois ou jamais, c'est la première idée du hasard. Et apprendre à attendre sans savoir ce qui sortira aide à jouer avec calme.",
+      "ar": "التمييز بين ما يحدث دائمًا أو أحيانًا أو لا يحدث أبدًا هو أول فكرة عن الصدفة. وتعلّم الانتظار من دون معرفة ما سيخرج يساعد على اللعب بهدوء."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Después del lunes viene el martes: ¿pasa siempre, a veces o nunca? ¿Y que llueva el lunes?",
+        "va": "Després del dilluns ve el dimarts: passa sempre, a vegades o mai? I que ploga en dilluns?",
+        "en": "Tuesday comes after Monday: does that happen always, sometimes or never? And rain on a Monday?",
+        "fr": "Après le lundi vient le mardi : ça arrive toujours, parfois ou jamais ? Et qu'il pleuve un lundi ?",
+        "ar": "بعد الاثنين يأتي الثلاثاء: هل يحدث هذا دائمًا أم أحيانًا أم لا يحدث أبدًا؟ وأن تمطر يوم الاثنين؟"
+      },
+      "pista": {
+        "es": "Piensa en muchas semanas: ¿ha pasado alguna vez otra cosa?",
+        "va": "Pensa en moltes setmanes: ha passat alguna vegada una altra cosa?",
+        "en": "Think about lots of weeks: has anything different ever happened?",
+        "fr": "Pense à beaucoup de semaines : est-ce qu'il s'est déjà passé autre chose ?",
+        "ar": "لنفكّر في أسابيع كثيرة: هل حدث شيء آخر في أي مرة؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Después del lunes viene el martes siempre. Que llueva el lunes pasa a veces. Si dice otra cosa, preguntad «¿cómo lo sabes?».",
+          "va": "Després del dilluns ve el dimarts sempre. Que ploga en dilluns passa a vegades. Si diu una altra cosa, pregunteu «com ho saps?».",
+          "en": "Tuesday always comes after Monday. Rain on a Monday happens sometimes. If they say something else, ask “How do you know?”",
+          "fr": "Après le lundi vient toujours le mardi. Qu'il pleuve un lundi, ça arrive parfois. Si la réponse est différente, demandez « Comment tu le sais ? ».",
+          "ar": "بعد الاثنين يأتي الثلاثاء دائمًا. وأن تمطر يوم الاثنين يحدث أحيانًا. وإذا كان الجواب مختلفًا، اسألوا «كيف نعرف ذلك؟»."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una cosa que pase siempre y otra que no pase nunca.",
+        "va": "Inventa tu una cosa que passe sempre i una altra que no passe mai.",
+        "en": "Make up one thing that always happens and another that never happens.",
+        "fr": "Invente une chose qui arrive toujours et une autre qui n'arrive jamais.",
+        "ar": "لنخترع شيئًا يحدث دائمًا وشيئًا آخر لا يحدث أبدًا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "En una bolsa solo hay pinzas rojas. Si sacas una sin mirar, ¿será roja siempre, a veces o nunca? ¿Y verde?",
+        "va": "En una bossa només hi ha pinces roges. Si en traus una sense mirar, serà roja sempre, a vegades o mai? I verda?",
+        "en": "A bag has only red pegs in it. If you take one out without looking, will it be red always, sometimes or never? And green?",
+        "fr": "Dans un sac, il n'y a que des pinces rouges. Si tu en tires une sans regarder, elle sera rouge toujours, parfois ou jamais ? Et verte ?",
+        "ar": "في كيس ملاقط حمراء فقط. إذا سحبنا ملقطًا من دون نظر، هل يكون أحمر دائمًا أم أحيانًا أم أبدًا؟ وأخضر؟"
+      },
+      "pista": {
+        "es": "Piensa qué colores hay dentro de la bolsa.",
+        "va": "Pensa quins colors hi ha dins de la bossa.",
+        "en": "Think about which colours are inside the bag.",
+        "fr": "Pense aux couleurs qu'il y a dans le sac.",
+        "ar": "لنفكّر في الألوان الموجودة داخل الكيس."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Siempre saldrá roja, y verde nunca, porque no hay ninguna verde.",
+          "va": "Sempre eixirà roja, i verda mai, perquè no n'hi ha cap de verda.",
+          "en": "It will always be red, and never green, because there are no green ones.",
+          "fr": "Elle sera toujours rouge, et jamais verte, parce qu'il n'y en a aucune verte.",
+          "ar": "سيخرج أحمر دائمًا، ولن يخرج أخضر أبدًا، لأنه لا يوجد أي ملقط أخضر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra bolsa y pregunta qué puede salir.",
+        "va": "Inventa tu una altra bossa i pregunta què pot eixir.",
+        "en": "Make up another bag and ask what could come out.",
+        "fr": "Invente un autre sac et demande ce qui peut sortir.",
+        "ar": "لنخترع كيسًا آخر ونسأل: ماذا يمكن أن يخرج؟"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si tiras un dado, ¿sale un 6 siempre, a veces o nunca? ¿Y un 9?",
+        "va": "Si tires un dau, ix un 6 sempre, a vegades o mai? I un 9?",
+        "en": "If you roll a dice, does a 6 come up always, sometimes or never? And a 9?",
+        "fr": "Si tu lances un dé, est-ce que le 6 sort toujours, parfois ou jamais ? Et le 9 ?",
+        "ar": "إذا رمينا حجر النرد، هل يظهر 6 دائمًا أم أحيانًا أم أبدًا؟ و9؟"
+      },
+      "pista": {
+        "es": "Mira las caras de un dado y cuenta los puntos de cada una.",
+        "va": "Mira les cares d'un dau i compta els punts de cada una.",
+        "en": "Look at the faces of a dice and count the dots on each one.",
+        "fr": "Regarde les faces d'un dé et compte les points de chacune.",
+        "ar": "لننظر إلى أوجه حجر النرد ونعدّ النقاط في كل وجه."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El 6 sale a veces. El 9, nunca: el dado solo tiene del 1 al 6.",
+          "va": "El 6 ix a vegades. El 9, mai: el dau només té de l'1 al 6.",
+          "en": "A 6 comes up sometimes. A 9, never: the dice only has 1 to 6.",
+          "fr": "Le 6 sort parfois. Le 9, jamais : le dé n'a que de 1 à 6.",
+          "ar": "يظهر 6 أحيانًا. أما 9 فلا يظهر أبدًا: في حجر النرد من 1 إلى 6 فقط."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pregunta con el dado, de algo que salga a veces o que no salga nunca.",
+        "va": "Inventa tu una altra pregunta amb el dau, d'alguna cosa que isca a vegades o que no isca mai.",
+        "en": "Make up another question with the dice, about something that comes up sometimes or never.",
+        "fr": "Invente une autre question avec le dé, sur quelque chose qui sort parfois ou jamais.",
+        "ar": "لنخترع سؤالًا آخر بحجر النرد، عن شيء يظهر أحيانًا أو لا يظهر أبدًا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 35,
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Para recordar: mira a tu alrededor y busca algo con una línea recta. ¿Y algo con una línea curva?",
+        "va": "Per a recordar: mira al teu voltant i busca alguna cosa amb una línia recta (línea recta). I alguna cosa amb una línia corba (línea curva)?",
+        "en": "Let's remember: look around you and find something with a straight line (línea recta). And something with a curved line (línea curva)?",
+        "fr": "Pour se souvenir : regarde autour de toi et cherche quelque chose avec une ligne droite (línea recta). Et quelque chose avec une ligne courbe (línea curva) ?",
+        "ar": "لنتذكّر: لننظر حولنا ونبحث عن شيء فيه خط مستقيم (línea recta). وعن شيء فيه خط منحنٍ (línea curva)؟"
+      },
+      "pista": {
+        "es": "Pasa el dedo por el borde de las cosas: ¿va derecho o da la vuelta?",
+        "va": "Passa el dit per la vora de les coses: va dret o fa la volta?",
+        "en": "Run your finger along the edge of things: does it go straight or does it bend round?",
+        "fr": "Passe ton doigt sur le bord des choses : est-ce qu'il va tout droit ou est-ce qu'il tourne ?",
+        "ar": "لنمرّر الإصبع على حافة الأشياء: هل يسير مستقيمًا أم يلتفّ؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Por ejemplo, el borde de la mesa o de una puerta es recto; un plato, una pelota o un vaso tienen líneas curvas.",
+          "va": "Per exemple, la vora de la taula o d'una porta és recta; un plat, una pilota o un got tenen línies corbes.",
+          "en": "For example, the edge of a table or a door is straight; a plate, a ball or a glass have curved lines.",
+          "fr": "Par exemple, le bord de la table ou d'une porte est droit ; une assiette, un ballon ou un verre ont des lignes courbes.",
+          "ar": "مثلًا: حافة الطاولة أو الباب مستقيمة، أما الصحن أو الكرة أو الكوب ففيها خطوط منحنية."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: busca algo que tenga líneas rectas y curvas a la vez.",
+        "va": "Inventa tu una altra: busca alguna cosa que tinga línies rectes i corbes alhora.",
+        "en": "Make up another one: find something that has straight and curved lines at the same time.",
+        "fr": "Invente-en une autre : cherche quelque chose qui a des lignes droites et courbes à la fois.",
+        "ar": "لنخترع سؤالًا آخر: نبحث عن شيء فيه خطوط مستقيمة ومنحنية معًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuando sacabas pinzas sin mirar, ¿cómo te sentías antes de ver el color? Explícame qué color creías que saldría y por qué.",
+        "va": "Quan treies pinces sense mirar, com et senties abans de veure el color? Explica'm quin color creies que eixiria i per què.",
+        "en": "When you took out pegs without looking, how did you feel before seeing the colour? Explain which colour you thought would come out and why.",
+        "fr": "Quand tu tirais des pinces sans regarder, comment te sentais-tu avant de voir la couleur ? Explique-moi quelle couleur tu pensais voir sortir et pourquoi.",
+        "ar": "حين كنّا نسحب الملاقط من دون نظر، بماذا شعرنا قبل رؤية اللون؟ لنشرح أيّ لون ظننّا أنه سيخرج، ولماذا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Por qué crees que salía más un color que el otro?»",
+        "va": "Si no sap per on començar: «Per què creus que eixia més un color que l'altre?»",
+        "en": "If they don't know where to start: “Why do you think one colour came out more than the other?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Pourquoi, à ton avis, une couleur sortait plus que l'autre ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «لماذا نظن أن لونًا خرج أكثر من الآخر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede que diga que salía más el color del que había más pinzas, o que era suerte. Las dos ideas sirven para hablar: escuchad y preguntad «¿cómo lo sabes?».",
+          "va": "Pot ser que diga que eixia més el color del qual hi havia més pinces, o que era sort. Les dues idees servixen per a parlar: escolteu i pregunteu «com ho saps?».",
+          "en": "They may say the colour with more pegs came out more, or that it was luck. Both ideas are good for talking about: listen and ask “How do you know?”",
+          "fr": "La réponse sera peut-être que la couleur avec le plus de pinces sortait plus, ou que c'était la chance. Les deux idées sont bonnes pour en parler : écoutez et demandez « Comment tu le sais ? ».",
+          "ar": "قد يكون الجواب أن اللون الذي له ملاقط أكثر خرج أكثر، أو أن الأمر حظّ. الفكرتان صالحتان للحديث: استمعوا واسألوا «كيف نعرف ذلك؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "31705e1feafe"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "31705e1feafe"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "31705e1feafe"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "31705e1feafe"
+      }
+    }
+  }
+}

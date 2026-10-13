@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.v03",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "verano": 3,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Sumar y restar de cabeza",
+    "va": "Sumar i restar de cap",
+    "en": "Adding and subtracting in your head",
+    "fr": "Additionner et soustraire de tête",
+    "ar": "الجمع والطرح ذهنيًا"
+  },
+  "objetivo": {
+    "es": "En verano suman y restan decenas y unidades de cabeza jugando con un dado, y ven que {{40 + 30}} se piensa como 4 decenas y 3 decenas.",
+    "va": "A l'estiu sumen i resten desenes (decenas) i unitats (unidades) de cap jugant amb un dau, i veuen que {{40 + 30}} es pensa com 4 desenes i 3 desenes.",
+    "en": "In summer they add and subtract tens (decenas) and ones (unidades) in their heads playing with a dice, and see that {{40 + 30}} can be thought of as 4 tens and 3 tens.",
+    "fr": "En été, on additionne et on soustrait de tête des dizaines (decenas) et des unités (unidades) en jouant avec un dé, et on voit que {{40 + 30}} se pense comme 4 dizaines et 3 dizaines.",
+    "ar": "في الصيف يجمع الأطفال ويطرحون العشرات (decenas) والوحدات (unidades) ذهنيًا وهم يلعبون بالنرد، ويرون أن {{40 + 30}} نفكّر فيها كـ4 عشرات و3 عشرات."
+  },
+  "comoAyudar": {
+    "es": "Dejad que diga la cuenta en voz alta y que cuente de 10 en 10 con los dedos si le ayuda. Si no sale, preguntad «¿cómo lo has pensado?» y probad juntos otra vez.",
+    "va": "Deixeu que diga el compte en veu alta i que compte de 10 en 10 amb els dits si l'ajuda. Si no ix, pregunteu «com ho has pensat?» i proveu-ho junts una altra vegada.",
+    "en": "Let them say the sum out loud and count in tens on their fingers if it helps. If it doesn't work out, ask “How did you think about it?” and try again together.",
+    "fr": "Laissez-le ou laissez-la dire le calcul à voix haute et compter de 10 en 10 sur les doigts si ça aide. Si ça ne vient pas, demandez « Comment tu as pensé ? » et réessayez ensemble.",
+    "ar": "دعوا الحساب يُقال بصوت عالٍ، والعدّ 10 بـ10 على الأصابع إذا ساعد ذلك. وإذا لم تخرج النتيجة، اسألوا «كيف فكّرنا؟» وحاولوا معًا مرة أخرى."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.1.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Justo al 100",
+      "va": "Just al 100",
+      "en": "Exactly 100",
+      "fr": "Pile 100",
+      "ar": "إلى 100 تمامًا"
+    },
+    "material": [
+      {
+        "es": "Un dado",
+        "va": "Un dau",
+        "en": "A dice",
+        "fr": "Un dé",
+        "ar": "نرد واحد"
+      },
+      {
+        "es": "Una toalla o una mesa para tirarlo",
+        "va": "Una tovallola o una taula per a tirar-lo",
+        "en": "A towel or a table to roll it on",
+        "fr": "Une serviette ou une table pour le lancer",
+        "ar": "منشفة أو طاولة لرميه عليها"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Cada jugador o jugadora empieza en 50. Por turnos, tirad el dado.",
+          "va": "Cada jugador o jugadora comença en 50. Per torns, tireu el dau.",
+          "en": "Each player starts on 50. Take turns to roll the dice.",
+          "fr": "Chaque joueur ou joueuse commence à 50. Chacun son tour, lancez le dé.",
+          "ar": "يبدأ كل لاعب ولاعبة من 50. بالتناوب، ارموا النرد."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Lo que sale vale decenas o unidades, como elijáis: un 3 son 30 o son 3. Sumadlo a vuestro número o quitadlo, de cabeza.",
+          "va": "El que ix val desenes o unitats, com trieu: un 3 són 30 o són 3. Sumeu-ho al vostre nombre o lleveu-ho, de cap.",
+          "en": "What you roll counts as tens or ones, whichever you choose: a 3 is 30 or 3. Add it to your number or take it away, in your head.",
+          "fr": "Ce qui sort vaut des dizaines ou des unités, comme vous voulez : un 3, c'est 30 ou c'est 3. Ajoutez-le à votre nombre ou enlevez-le, de tête.",
+          "ar": "ما يخرج يساوي عشرات أو وحدات، كما تختارون: الـ3 تساوي 30 أو 3. اجمعوه إلى عددكم أو اطرحوه منه، ذهنيًا."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decid la cuenta en voz alta: {{50 + 30 = 80}}. Gana quien llega justo a 100.",
+          "va": "Digueu el compte en veu alta: {{50 + 30 = 80}}. Guanya qui arriba just a 100.",
+          "en": "Say the sum out loud: {{50 + 30 = 80}}. Whoever lands exactly on 100 wins.",
+          "fr": "Dites le calcul à voix haute : {{50 + 30 = 80}}. Celui ou celle qui arrive pile à 100 gagne.",
+          "ar": "قولوا الحساب بصوت عالٍ: {{50 + 30 = 80}}. يفوز من يصل إلى 100 تمامًا."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Si os pasáis de 100, en la siguiente tirada quitad lo que sale para volver.",
+          "va": "Si vos passeu de 100, en la tirada següent lleveu el que isca per a tornar.",
+          "en": "If you go past 100, on your next roll take away what you get to come back.",
+          "fr": "Si vous dépassez 100, au lancer suivant, enlevez ce qui sort pour revenir.",
+          "ar": "إذا تجاوزتم 100، اطرحوا في الرمية التالية ما يخرج لتعودوا."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Contad solo unidades y jugad a llegar justo a 20, empezando en 0.",
+      "va": "Compteu només unitats i jugueu a arribar just a 20, començant en 0.",
+      "en": "Count only ones and play to land exactly on 20, starting from 0.",
+      "fr": "Comptez seulement des unités et jouez à arriver pile à 20, en commençant à 0.",
+      "ar": "عدّوا الوحدات فقط والعبوا للوصول إلى 20 تمامًا، بدءًا من 0."
+    },
+    "masDificil": {
+      "es": "Jugad con dos dados: uno vale decenas y el otro unidades. Empezad en 100 y llegad justo a 200.",
+      "va": "Jugueu amb dos daus: un val desenes i l'altre unitats. Comenceu en 100 i arribeu just a 200.",
+      "en": "Play with two dice: one counts as tens and the other as ones. Start on 100 and land exactly on 200.",
+      "fr": "Jouez avec deux dés : l'un vaut des dizaines et l'autre des unités. Commencez à 100 et arrivez pile à 200.",
+      "ar": "العبوا بنردين: واحد للعشرات والآخر للوحدات. ابدؤوا من 100 وصِلوا إلى 200 تمامًا."
+    },
+    "paraQueSirve": {
+      "es": "Sumar y restar decenas de cabeza ayuda a hacer cuentas rápidas en la compra y prepara las cuentas más largas de 3.º.",
+      "va": "Sumar i restar desenes de cap ajuda a fer comptes ràpids en la compra i prepara els comptes més llargs de 3r.",
+      "en": "Adding and subtracting tens in your head helps with quick sums when shopping and gets you ready for the longer sums of 3rd year.",
+      "fr": "Additionner et soustraire des dizaines de tête aide à faire des calculs rapides pendant les courses et prépare les calculs plus longs de la 3e année.",
+      "ar": "جمع العشرات وطرحها ذهنيًا يساعد على الحساب السريع عند التسوّق ويهيّئ للعمليات الأطول في الصف الثالث."
+    },
+    "aviso": {
+      "es": "Jugad a la sombra y con agua cerca.",
+      "va": "Jugueu a l'ombra i amb aigua a prop.",
+      "en": "Play in the shade with water nearby.",
+      "fr": "Jouez à l'ombre avec de l'eau à portée de main.",
+      "ar": "العبوا في الظل ومعكم ماء قريب."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En la playa hay 60 sombrillas y llegan 30 más. ¿Cuántas sombrillas hay ahora?",
+        "va": "A la platja hi ha 60 para-sols i n'arriben 30 més. Quants para-sols hi ha ara?",
+        "en": "On the beach there are 60 umbrellas and 30 more arrive. How many umbrellas are there now?",
+        "fr": "Sur la plage, il y a 60 parasols et il en arrive 30 de plus. Combien de parasols y a-t-il maintenant ?",
+        "ar": "على الشاطئ 60 مظلّة ووصلت 30 أخرى. كم مظلّة يوجد الآن؟"
+      },
+      "pista": {
+        "es": "Piensa en decenas: 6 decenas y 3 decenas más.",
+        "va": "Pensa en desenes: 6 desenes i 3 desenes més.",
+        "en": "Think in tens: 6 tens and 3 more tens.",
+        "fr": "Pense en dizaines : 6 dizaines et 3 dizaines de plus.",
+        "ar": "لنفكّر بالعشرات: 6 عشرات و3 عشرات أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "60 + 30",
+        "resultado": 90,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 90 sombrillas: {{60 + 30 = 90}}.",
+          "va": "Hi ha 90 para-sols: {{60 + 30 = 90}}.",
+          "en": "There are 90 umbrellas: {{60 + 30 = 90}}.",
+          "fr": "Il y a 90 parasols : {{60 + 30 = 90}}.",
+          "ar": "يوجد 90 مظلّة: {{60 + 30 = 90}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una en la que llegan decenas de cosas.",
+        "va": "Ara inventa'n tu una en què arriben desenes de coses.",
+        "en": "Now you make one up where tens of things arrive.",
+        "fr": "Maintenant, invente une question où il arrive des dizaines de choses.",
+        "ar": "والآن لنخترع سؤالًا تصل فيه عشرات من الأشياء."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En el camping hay 250 tiendas y se van 40. ¿Cuántas tiendas quedan?",
+        "va": "Al càmping hi ha 250 tendes i se'n van 40. Quantes tendes queden?",
+        "en": "At the campsite there are 250 tents and 40 leave. How many tents are left?",
+        "fr": "Au camping, il y a 250 tentes et 40 s'en vont. Combien de tentes reste-t-il ?",
+        "ar": "في المخيّم 250 خيمة ورحلت 40. كم خيمة بقيت؟"
+      },
+      "pista": {
+        "es": "Las centenas no cambian: de 5 decenas, quita 4.",
+        "va": "Les centenes (centenas) no canvien: de 5 desenes, lleva'n 4.",
+        "en": "The hundreds (centenas) stay the same: from 5 tens, take away 4.",
+        "fr": "Les centaines (centenas) ne changent pas : de 5 dizaines, enlèves-en 4.",
+        "ar": "المئات (centenas) لا تتغيّر: من 5 عشرات، لننزع 4."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "250 - 40",
+        "resultado": 210,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 210 tiendas: {{250 − 40 = 210}}.",
+          "va": "Queden 210 tendes: {{250 − 40 = 210}}.",
+          "en": "210 tents are left: {{250 − 40 = 210}}.",
+          "fr": "Il reste 210 tentes : {{250 − 40 = 210}}.",
+          "ar": "بقيت 210 خيمة: {{250 − 40 = 210}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se van varias decenas.",
+        "va": "Inventa'n tu una en què se'n van unes quantes desenes.",
+        "en": "Make one up where several tens go away.",
+        "fr": "Invente une question où plusieurs dizaines s'en vont.",
+        "ar": "لنخترع سؤالًا تذهب فيه بضع عشرات."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En la piscina hay 83 personas y se van 9. ¿Cuántas quedan?",
+        "va": "A la piscina hi ha 83 persones i se'n van 9. Quantes en queden?",
+        "en": "At the pool there are 83 people and 9 leave. How many are left?",
+        "fr": "À la piscine, il y a 83 personnes et 9 s'en vont. Combien en reste-t-il ?",
+        "ar": "في المسبح 83 شخصًا وذهب 9. كم شخصًا بقي؟"
+      },
+      "pista": {
+        "es": "Un truco: quita 10 y luego vuelve a poner 1.",
+        "va": "Un truc: lleva'n 10 i després torna a posar-ne 1.",
+        "en": "A trick: take away 10 and then put 1 back.",
+        "fr": "Une astuce : enlève 10, puis remets 1.",
+        "ar": "حيلة: لننزع 10 ثم نعيد 1."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "83 - 9",
+        "resultado": 74,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 74 personas: {{83 − 10 + 1 = 74}}.",
+          "va": "Queden 74 persones: {{83 − 10 + 1 = 74}}.",
+          "en": "74 people are left: {{83 − 10 + 1 = 74}}.",
+          "fr": "Il reste 74 personnes : {{83 − 10 + 1 = 74}}.",
+          "ar": "بقي 74 شخصًا: {{83 − 10 + 1 = 74}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se van 9 cosas, y usa el truco.",
+        "va": "Inventa'n tu una en què se'n van 9 coses, i fes servir el truc.",
+        "en": "Make one up where 9 things go away, and use the trick.",
+        "fr": "Invente une question où 9 choses s'en vont, et utilise l'astuce.",
+        "ar": "لنخترع سؤالًا تذهب فيه 9 أشياء، ونستعمل الحيلة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 10,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar la hora: el reloj marca las 11:15. ¿Cuántos minutos faltan para las 11:30?",
+        "va": "Per a recordar l'hora: el rellotge marca les 11:15. Quants minuts falten per a les 11:30?",
+        "en": "Let's remember telling the time: the clock says 11:15. How many minutes until 11:30?",
+        "fr": "Pour se souvenir de l'heure : l'horloge marque 11:15. Combien de minutes manque-t-il pour 11:30 ?",
+        "ar": "لنتذكّر الساعة: الساعة تشير إلى 11:15. كم دقيقة بقيت حتى 11:30؟"
+      },
+      "pista": {
+        "es": "Un cuarto de hora son 15 minutos y media hora, 30.",
+        "va": "Un quart (cuarto) d'hora són 15 minuts i mitja hora, 30.",
+        "en": "A quarter (cuarto) of an hour is 15 minutes and half an hour is 30.",
+        "fr": "Un quart (cuarto) d'heure, c'est 15 minutes, et une demi-heure, 30.",
+        "ar": "ربع (cuarto) ساعة يساوي 15 دقيقة، ونصف الساعة 30."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "30 - 15",
+        "resultado": 15,
+        "unidad": "min",
+        "texto": {
+          "es": "Faltan 15 minutos, un cuarto de hora.",
+          "va": "Falten 15 minuts, un quart d'hora.",
+          "en": "There are 15 minutes to go, a quarter of an hour.",
+          "fr": "Il manque 15 minutes, un quart d'heure.",
+          "ar": "بقيت 15 دقيقة، أي ربع ساعة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la hora de la merienda.",
+        "va": "Inventa'n tu una altra amb l'hora del berenar.",
+        "en": "Make up another one with snack time.",
+        "fr": "Invente-en une autre avec l'heure du goûter.",
+        "ar": "لنخترع سؤالًا آخر عن موعد وجبة العصر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo has sumado de cabeza en el juego del dado? Explícame tu truco.",
+        "va": "Com has sumat de cap en el joc del dau? Explica'm el teu truc.",
+        "en": "How did you add in your head in the dice game? Explain your trick to me.",
+        "fr": "Comment as-tu additionné de tête dans le jeu du dé ? Explique-moi ton astuce.",
+        "ar": "كيف جمعنا ذهنيًا في لعبة النرد؟ لنشرح الحيلة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cómo piensas {{70 + 20}}?»",
+        "va": "Si no sap per on començar: «Com penses {{70 + 20}}?»",
+        "en": "If they don't know where to start: “How do you think about {{70 + 20}}?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Comment tu penses {{70 + 20}} ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كيف نفكّر في {{70 + 20}}؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "3a3aa5604b57"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "3a3aa5604b57"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "3a3aa5604b57"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "3a3aa5604b57"
+      }
+    }
+  }
+}

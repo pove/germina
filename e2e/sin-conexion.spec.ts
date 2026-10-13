@@ -13,7 +13,20 @@ test.describe.configure({ mode: 'serial' });
 
 const SEMANA_7 = './#/2/matematicas/3/semana/7';
 
-/** Espera a que el service worker esté activo y haya precargado la aplicación y el contenido (también el árabe). */
+/** Cuántas semillas de ese curso (`ciclo-2/matematicas/3`) hay en la caché de semillas. */
+async function semillasGuardadas(page: Page, carpeta: string): Promise<number> {
+  return page.evaluate(async (c) => {
+    if (!(await caches.has('germina-semillas'))) return 0;
+    return (await (await caches.open('germina-semillas')).keys()).filter((r) => r.url.includes(`/contenido/${c}/`)).length;
+  }, carpeta);
+}
+
+/** Espera a que estén guardadas todas las semillas de ese curso (51: 41 semanas y 10 veranos). */
+async function esperarSemillas(page: Page, carpeta: string): Promise<void> {
+  await expect.poll(() => semillasGuardadas(page, carpeta), { timeout: 30_000 }).toBe(51);
+}
+
+/** Espera a que el service worker esté activo y haya precargado la aplicación y el contenido común (también el árabe). */
 async function esperarPrecarga(page: Page): Promise<void> {
   await page.evaluate(() => navigator.serviceWorker.ready.then(() => undefined));
   await page.waitForFunction(
@@ -21,7 +34,7 @@ async function esperarPrecarga(page: Page): Promise<void> {
       const nombre = (await caches.keys()).find((n) => n.includes('precache'));
       if (!nombre) return false;
       const urls = (await (await caches.open(nombre)).keys()).map((r) => r.url);
-      return ['contenido/indice.json', 'semana-07.json', 'mapa-semanas.json', 'textos-interfaz.json', 'noto-sans-arabic', 'estilos-arabe', 'manifest-ar.webmanifest'].every((parte) =>
+      return ['contenido/indice.json', 'mapa-semanas.json', 'textos-interfaz.json', 'noto-sans-arabic', 'estilos-arabe', 'manifest-ar.webmanifest'].every((parte) =>
         urls.some((u) => u.includes(parte)),
       );
     },
@@ -38,6 +51,7 @@ test.describe('sin conexión', () => {
     await page.goto(SEMANA_7);
     await expect(page.getByRole('heading', { level: 1 })).toHaveText('Cuando no llega: abrir una decena');
     await esperarPrecarga(page);
+    await esperarSemillas(page, 'ciclo-2/matematicas/3');
 
     await context.setOffline(true);
     await page.reload();
@@ -79,11 +93,40 @@ test.describe('sin conexión', () => {
     expect(falladas.filter((u) => !u.includes('/contenido/') || u.includes('indice'))).toEqual([]);
   });
 
+  test('las semillas de otros cursos se guardan al elegirlos, y entonces funcionan sin red', async ({ page, context }) => {
+    await preparar(page, { sinReloj: true, almacen: { idioma: 'es' } });
+    await page.goto(SEMANA_7);
+    await esperarPrecarga(page);
+    await esperarSemillas(page, 'ciclo-2/matematicas/3');
+    // Solo las de vuestro curso: ni 4.º ni 1.º.
+    expect(await semillasGuardadas(page, 'ciclo-2/matematicas/4')).toBe(0);
+    expect(await semillasGuardadas(page, 'ciclo-1/matematicas/1')).toBe(0);
+
+    // Una versión vieja de una semilla (ya no está en el índice) desaparece de la caché.
+    const vieja = '/germina/contenido/ciclo-2/matematicas/3/semana-07.json?v=0000000000';
+    await page.evaluate(async (url) => (await caches.open('germina-semillas')).put(url, new Response('{}')), vieja);
+
+    await page.goto('./#/ajustes');
+    await page.getByRole('button', { name: T('curso.1', 'es'), exact: true }).click();
+    await esperarSemillas(page, 'ciclo-1/matematicas/1');
+    expect(await page.evaluate(async (url) => !!(await (await caches.open('germina-semillas')).match(url)), vieja)).toBe(false);
+    expect(await semillasGuardadas(page, 'ciclo-2/matematicas/3')).toBe(51);
+
+    // Sin red, al volver a abrir la web (ya la controla el service worker).
+    await context.setOffline(true);
+    await page.goto('./#/1/matematicas/1/semana/1/reto');
+    await page.reload();
+    await expect(page.getByRole('heading', { level: 1 })).toHaveText('La caza de números');
+    await page.goto('./#/1/matematicas/1/verano/1');
+    await expect(page.getByText(T('semana.en_camino', 'es'))).toHaveCount(0);
+  });
+
   test('también en árabe: la tipografía árabe se sirve de la caché', async ({ page, context }) => {
     await preparar(page, { sinReloj: true, almacen: { idioma: 'ar' } });
     await page.goto(SEMANA_7);
     await expect(page.locator('html')).toHaveAttribute('dir', 'rtl');
     await esperarPrecarga(page);
+    await esperarSemillas(page, 'ciclo-2/matematicas/3');
 
     await context.setOffline(true);
     const falladas: string[] = [];

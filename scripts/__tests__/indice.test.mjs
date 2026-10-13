@@ -11,10 +11,11 @@ afterAll(() => temporales.forEach((t) => rmSync(t, { recursive: true, force: tru
 
 describe('indiceDeSemillas', () => {
   it('lista la semilla de ejemplo', () => {
-    expect(indiceDeSemillas(RAIZ).semillas).toContain('2/matematicas/3/s07');
+    expect(Object.keys(indiceDeSemillas(RAIZ).semillas)).toContain('2/matematicas/3/s07');
+    expect(Object.keys(indiceDeSemillas(RAIZ).semillas)).toContain('1/matematicas/1/s01');
   });
 
-  it('semanas y veranos, ordenados, y nada más', () => {
+  it('semanas y veranos, ordenados, con su huella, y nada más', () => {
     const raiz = mkdtempSync(join(tmpdir(), 'germina-'));
     temporales.push(raiz);
     const curso = (c, ...archivos) => {
@@ -25,12 +26,26 @@ describe('indiceDeSemillas', () => {
     curso('3', 'semana-01.json');
     mkdirSync(join(raiz, 'contenido/comun'), { recursive: true });
     writeFileSync(join(raiz, 'contenido/ciclo-2/matematicas/mapa-semanas.json'), '{}');
-    expect(indiceDeSemillas(raiz)).toEqual({ version: 1, semillas: ['2/matematicas/3/s01', '2/matematicas/4/s10', '2/matematicas/4/v02'] });
+    const { version, semillas } = indiceDeSemillas(raiz);
+    expect(version).toBe(2);
+    expect(Object.keys(semillas)).toEqual(['2/matematicas/3/s01', '2/matematicas/4/s10', '2/matematicas/4/v02']);
+    for (const h of Object.values(semillas)) expect(h).toMatch(/^[0-9a-f]{10}$/);
+  });
+
+  it('la huella cambia cuando cambia la semilla', () => {
+    const raiz = mkdtempSync(join(tmpdir(), 'germina-'));
+    temporales.push(raiz);
+    const dir = join(raiz, 'contenido/ciclo-1/matematicas/1');
+    mkdirSync(dir, { recursive: true });
+    writeFileSync(join(dir, 'semana-01.json'), '{"a":1}');
+    const antes = indiceDeSemillas(raiz).semillas['1/matematicas/1/s01'];
+    writeFileSync(join(dir, 'semana-01.json'), '{"a":2}');
+    expect(indiceDeSemillas(raiz).semillas['1/matematicas/1/s01']).not.toBe(antes);
   });
 
   it('sin carpeta de contenido, vacío', () => {
     const raiz = mkdtempSync(join(tmpdir(), 'germina-'));
     temporales.push(raiz);
-    expect(indiceDeSemillas(raiz)).toEqual({ version: 1, semillas: [] });
+    expect(indiceDeSemillas(raiz)).toEqual({ version: 2, semillas: {} });
   });
 });

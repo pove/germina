@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s08",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 8,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Tres formas de restar",
+    "va": "Tres maneres de restar",
+    "en": "Three ways to take away",
+    "fr": "Trois façons de soustraire",
+    "ar": "ثلاث طرق للطرح"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren que la resta sirve para tres cosas: quitar, comparar y saber cuánto falta. Las tres se resuelven con una resta.",
+    "va": "Aquesta setmana descobrixen que la resta (resta) servix per a tres coses: llevar (quitar), comparar i saber quant falta (cuánto falta). Les tres es resolen amb una resta.",
+    "en": "This week they discover that subtraction (resta) is useful for three things: taking away (quitar), comparing and finding how many more (cuánto falta). All three are worked out with a subtraction.",
+    "fr": "Cette semaine, on découvre que la soustraction (resta) sert à trois choses : enlever (quitar), comparer et savoir combien il manque (cuánto falta). Les trois se font avec une soustraction.",
+    "ar": "هذا الأسبوع يكتشف الأطفال أن الطرح (resta) يفيد في ثلاثة أشياء: النزع (quitar)، والمقارنة، ومعرفة كم ينقص (cuánto falta). والثلاثة تُحلّ بعملية طرح."
+  },
+  "comoAyudar": {
+    "es": "Antes de calcular, preguntad «¿qué pasa en esta historia?»: ¿se quita algo, se comparan dos cosas o falta algo para llegar? Contar hacia arriba con los dedos también vale.",
+    "va": "Abans de calcular, pregunteu «què passa en aquesta història?»: es lleva alguna cosa, es comparen dues coses o falta alguna cosa per a arribar? Comptar cap amunt amb els dits també val.",
+    "en": "Before calculating, ask “What happens in this story?”: is something taken away, are two things compared, or is something missing to get there? Counting up on fingers works too.",
+    "fr": "Avant de calculer, demandez « Qu'est-ce qui se passe dans cette histoire ? » : on enlève quelque chose, on compare deux choses, ou il manque quelque chose pour arriver ? Compter vers le haut sur ses doigts, ça marche aussi.",
+    "ar": "قبل الحساب، اسألوا «ماذا يحدث في هذه القصة؟»: هل يُنزع شيء، أم نقارن شيئين، أم ينقص شيء للوصول؟ العدّ صعودًا بالأصابع طريقة صحيحة أيضًا."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c1.1.1",
+    "matematicas.c1.1.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Torres de pinzas",
+      "va": "Torres de pinces",
+      "en": "Peg towers",
+      "fr": "Les tours de pinces",
+      "ar": "أبراج الملاقط"
+    },
+    "material": [
+      {
+        "es": "Unas 30 pinzas de la ropa o piezas de construcción que encajen",
+        "va": "Unes 30 pinces de la roba o peces de construcció que encaixen",
+        "en": "About 30 clothes pegs or building bricks that fit together",
+        "fr": "Environ 30 pinces à linge ou pièces de construction qui s'emboîtent",
+        "ar": "نحو 30 ملقط غسيل أو قطع بناء تتركّب بعضها في بعض"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Haced una torre de 15 pinzas y otra de 9, enganchándolas una a una. Contadlas tocando cada una.",
+          "va": "Feu una torre de 15 pinces i una altra de 9, enganxant-les una a una. Compteu-les tocant cada una.",
+          "en": "Make a tower of 15 pegs and another of 9, clipping them on one at a time. Count them, touching each one.",
+          "fr": "Faites une tour de 15 pinces et une autre de 9, en les accrochant une à une. Comptez-les en touchant chacune.",
+          "ar": "ابنوا برجًا من 15 ملقطًا وآخر من 9، بتركيبها واحدًا واحدًا. عدّوها وأنتم تلمسون كل واحد."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Quitar: quitad 4 pinzas a la torre grande. ¿Cuántas quedan?",
+          "va": "Llevar: lleveu 4 pinces a la torre gran. Quantes en queden?",
+          "en": "Taking away: take 4 pegs off the big tower. How many are left?",
+          "fr": "Enlever : enlevez 4 pinces à la grande tour. Combien en reste-t-il ?",
+          "ar": "النزع: انزعوا 4 ملاقط من البرج الكبير. كم بقي؟"
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Comparar: poned las dos torres una al lado de la otra. ¿Cuántas pinzas más tiene la grande?",
+          "va": "Comparar: poseu les dues torres una al costat de l'altra. Quantes pinces més té la gran?",
+          "en": "Comparing: put the two towers side by side. How many more pegs does the big one have?",
+          "fr": "Comparer : mettez les deux tours côte à côte. Combien de pinces de plus a la grande ?",
+          "ar": "المقارنة: ضعوا البرجين جنبًا إلى جنب. كم ملقطًا زائدًا في البرج الكبير؟"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Cuánto falta? Añadid pinzas a la pequeña, contando, hasta que sea igual de alta que la grande.",
+          "va": "Quant falta? Afegiu pinces a la menuda, comptant, fins que siga igual d'alta que la gran.",
+          "en": "How many more? Add pegs to the small tower, counting, until it's as tall as the big one.",
+          "fr": "Combien il manque ? Ajoutez des pinces à la petite tour, en comptant, jusqu'à ce qu'elle soit aussi haute que la grande.",
+          "ar": "كم ينقص؟ أضيفوا ملاقط إلى البرج الصغير وأنتم تعدّون، حتى يصير بطول البرج الكبير."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced torres de menos de 10 pinzas.",
+      "va": "Feu torres de menys de 10 pinces.",
+      "en": "Make towers of fewer than 10 pegs.",
+      "fr": "Faites des tours de moins de 10 pinces.",
+      "ar": "ابنوا أبراجًا من أقل من 10 ملاقط."
+    },
+    "masDificil": {
+      "es": "Haced torres más altas, de 20 a 30 pinzas, y decid la respuesta antes de comprobarla con las pinzas.",
+      "va": "Feu torres més altes, de 20 a 30 pinces, i digueu la resposta abans de comprovar-la amb les pinces.",
+      "en": "Make taller towers, of 20 to 30 pegs, and say the answer before checking it with the pegs.",
+      "fr": "Faites des tours plus hautes, de 20 à 30 pinces, et dites la réponse avant de la vérifier avec les pinces.",
+      "ar": "ابنوا أبراجًا أعلى، من 20 إلى 30 ملقطًا، وقولوا الجواب قبل التحقّق منه بالملاقط."
+    },
+    "paraQueSirve": {
+      "es": "Reconocer las tres formas de restar ayuda a entender qué cuenta una historia antes de hacer la cuenta.",
+      "va": "Reconéixer les tres maneres de restar ajuda a entendre què conta una història abans de fer el compte.",
+      "en": "Recognising the three ways to take away helps them understand what a story is about before doing the sum.",
+      "fr": "Reconnaître les trois façons de soustraire aide à comprendre ce que raconte une histoire avant de faire le calcul.",
+      "ar": "التعرّف على طرق الطرح الثلاث يساعد على فهم ما تحكيه القصة قبل الحساب."
+    },
+    "aviso": {
+      "es": "Si usáis piezas pequeñas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir peces menudes, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use small pieces, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En el tendedero hay 45 pinzas y la madre de Iker quita 18. ¿Cuántas pinzas quedan?",
+        "va": "En l'estenedor hi ha 45 pinces i la mare d'Iker en lleva 18. Quantes pinces queden?",
+        "en": "There are 45 pegs on the washing line and Iker's mum takes off 18. How many pegs are left?",
+        "fr": "Sur l'étendoir, il y a 45 pinces et la maman d'Iker en enlève 18. Combien de pinces reste-t-il ?",
+        "ar": "على حبل الغسيل 45 ملقطًا، ونزعت أمّ إيكر 18 منها. كم ملقطًا بقي؟"
+      },
+      "pista": {
+        "es": "Con 5 sueltas no puedes quitar 8, así que abre una decena.",
+        "va": "Amb 5 soltes no en pots llevar 8, així que obri una desena.",
+        "en": "You can't take 8 from 5 loose ones, so open a ten.",
+        "fr": "Avec 5 unités, tu ne peux pas en enlever 8, alors ouvre une dizaine.",
+        "ar": "لا يمكن نزع 8 من 5 آحاد، فلنفتح عشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "45 - 18",
+        "resultado": 27,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 27 pinzas: {{45 − 18 = 27}}.",
+          "va": "En queden 27: {{45 − 18 = 27}}.",
+          "en": "There are 27 pegs left: {{45 − 18 = 27}}.",
+          "fr": "Il en reste 27 : {{45 − 18 = 27}}.",
+          "ar": "بقي 27 ملقطًا: {{45 − 18 = 27}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una de quitar con cosas de casa.",
+        "va": "Ara inventa'n tu una de llevar amb coses de casa.",
+        "en": "Now you make up a taking-away one with things from home.",
+        "fr": "Maintenant, invente une question où l'on enlève des choses de la maison.",
+        "ar": "والآن لنخترع سؤال نزع بأشياء من البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Amaia ha leído 62 páginas de su libro y Mateo, 35. ¿Cuántas páginas más ha leído Amaia?",
+        "va": "Amaia ha llegit 62 pàgines del seu llibre i Mateo, 35. Quantes pàgines més ha llegit Amaia?",
+        "en": "Amaia has read 62 pages of her book and Mateo has read 35. How many more pages has Amaia read?",
+        "fr": "Amaia a lu 62 pages de son livre et Mateo, 35. Combien de pages de plus Amaia a-t-elle lues ?",
+        "ar": "قرأت أمايا 62 صفحة من كتابها، وقرأ ماتيو 35. كم صفحة زائدة قرأت أمايا؟"
+      },
+      "pista": {
+        "es": "Puedes contar desde 35 hasta 62, o quitar 35 a 62.",
+        "va": "Pots comptar des de 35 fins a 62, o llevar 35 a 62.",
+        "en": "You can count up from 35 to 62, or take 35 away from 62.",
+        "fr": "Tu peux compter de 35 jusqu'à 62, ou enlever 35 à 62.",
+        "ar": "يمكننا العدّ من 35 حتى 62، أو نزع 35 من 62."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "62 - 35",
+        "resultado": 27,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Amaia ha leído 27 páginas más.",
+          "va": "Amaia n'ha llegit 27 més.",
+          "en": "Amaia has read 27 more pages.",
+          "fr": "Amaia a lu 27 pages de plus.",
+          "ar": "قرأت أمايا 27 صفحة أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra para comparar dos cosas de tu casa.",
+        "va": "Inventa'n tu una altra per a comparar dues coses de ta casa.",
+        "en": "Make up another one to compare two things at home.",
+        "fr": "Invente-en une autre pour comparer deux choses de ta maison.",
+        "ar": "لنخترع سؤالًا آخر نقارن فيه شيئين في البيت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "En el álbum de Valentina caben 90 pegatinas y ya tiene 74. ¿Cuántas le faltan para llenarlo?",
+        "va": "En l'àlbum de Valentina caben 90 adhesius i ja en té 74. Quants li'n falten per a omplir-lo?",
+        "en": "Valentina's album holds 90 stickers and she already has 74. How many are missing to fill it?",
+        "fr": "L'album de Valentina peut contenir 90 autocollants et elle en a déjà 74. Combien lui en manque-t-il pour le remplir ?",
+        "ar": "يتّسع ألبوم فالنتينا لـ90 ملصقًا، وعندها 74. كم ملصقًا ينقصها لتملأه؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba desde 74: primero hasta 80 y luego hasta 90.",
+        "va": "Compta cap amunt des de 74: primer fins a 80 i després fins a 90.",
+        "en": "Count up from 74: first to 80 and then to 90.",
+        "fr": "Compte vers le haut à partir de 74 : d'abord jusqu'à 80, puis jusqu'à 90.",
+        "ar": "لنعدّ صعودًا من 74: أولًا حتى 80، ثم حتى 90."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "90 - 74",
+        "resultado": 16,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 16 pegatinas: 6 hasta 80 y 10 hasta 90.",
+          "va": "Li'n falten 16: 6 fins a 80 i 10 fins a 90.",
+          "en": "16 stickers are missing: 6 to get to 80 and 10 to get to 90.",
+          "fr": "Il lui en manque 16 : 6 jusqu'à 80 et 10 jusqu'à 90.",
+          "ar": "ينقصها 16 ملصقًا: 6 حتى 80، و10 حتى 90."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de algo que se llena: una caja, un álbum, una hucha…",
+        "va": "Inventa'n tu una d'alguna cosa que s'omple: una caixa, un àlbum, una guardiola…",
+        "en": "Make one up about something that gets filled: a box, an album, a money box…",
+        "fr": "Invente une question sur quelque chose qu'on remplit : une boîte, un album, une tirelire…",
+        "ar": "لنخترع سؤالًا عن شيء يمتلئ: صندوق، ألبوم، حصّالة…"
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 5,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: Fátima tiene 48 cuentas para un collar y su tía le da 25. ¿Cuántas cuentas tiene ahora?",
+        "va": "Per a recordar: Fátima té 48 boletes per a un collar i la seua tia li'n dona 25. Quantes boletes té ara?",
+        "en": "Let's remember: Fátima has 48 beads for a necklace and her aunt gives her 25. How many beads does she have now?",
+        "fr": "Pour se souvenir : Fátima a 48 perles pour un collier et sa tante lui en donne 25. Combien de perles a-t-elle maintenant ?",
+        "ar": "لنتذكّر: عند فاطمة 48 خرزة لعقد، وأعطتها خالتها 25 خرزة. كم خرزة عندها الآن؟"
+      },
+      "pista": {
+        "es": "8 y 5 son 13: con 10 de ellas haces una decena más.",
+        "va": "8 i 5 són 13: amb 10 d'elles fas una desena més.",
+        "en": "8 and 5 make 13: with 10 of them you make one more ten.",
+        "fr": "8 et 5, ça fait 13 : avec 10 d'entre elles, tu fais une dizaine de plus.",
+        "ar": "8 و5 تساوي 13: بعشرة منها نكوّن عشرة إضافية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "48 + 25",
+        "resultado": 73,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 73 cuentas.",
+          "va": "Té 73 boletes.",
+          "en": "She has 73 beads.",
+          "fr": "Elle a 73 perles.",
+          "ar": "عندها 73 خرزة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra suma en la que te lleves una.",
+        "va": "Inventa't tu una altra suma en què te'n portes una.",
+        "en": "Make up another addition where you carry one.",
+        "fr": "Invente une autre addition avec une retenue.",
+        "ar": "لنخترع عملية جمع أخرى نحتفظ فيها بواحد."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Inventa una historia de quitar y otra de comparar. Explícame en qué se parecen y en qué son distintas.",
+        "va": "Inventa't una història de llevar i una altra de comparar. Explica'm en què s'assemblen i en què són diferents.",
+        "en": "Make up a taking-away story and a comparing story. Explain to me how they are alike and how they are different.",
+        "fr": "Invente une histoire où l'on enlève et une autre où l'on compare. Explique-moi en quoi elles se ressemblent et en quoi elles sont différentes.",
+        "ar": "لنخترع قصة فيها نزع، وأخرى فيها مقارنة. لنشرح بماذا تتشابهان وبماذا تختلفان."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Te acuerdas de las torres de pinzas? ¿Qué hicimos con cada una?»",
+        "va": "Si no sap per on començar: «Te'n recordes de les torres de pinces? Què vam fer amb cada una?»",
+        "en": "If they don't know where to start: “Do you remember the peg towers? What did we do with each one?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu te souviens des tours de pinces ? Qu'est-ce qu'on a fait avec chacune ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نتذكّر أبراج الملاقط؟ ماذا فعلنا بكل برج؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Basta con que note que en una se quita y en la otra se miran dos cosas. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "N'hi ha prou que note que en una es lleva i en l'altra es miren dues coses. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It's enough if they notice that in one something is taken away and in the other two things are looked at. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Il suffit qu'il ou elle remarque que dans l'une on enlève et dans l'autre on regarde deux choses. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "يكفي أن يُلاحَظ أن في الأولى نزعًا وفي الثانية مقارنة بين شيئين. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "8856386f6747"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "8856386f6747"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "8856386f6747"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "8856386f6747"
+      }
+    }
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s40",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 40,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: todo el curso",
+    "va": "Setmana de recordar: tot el curs",
+    "en": "Remembering week: the whole year",
+    "fr": "Semaine de rappel : toute l'année",
+    "ar": "أسبوع التذكّر: السنة كلها"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de todo el curso: sumar y restar pasando de la decena, historias con números, los números de la calle y el signo igual. No hay nada nuevo: es para jugar con lo que ya saben.",
+    "va": "Aquesta setmana tornen a allò de tot el curs: sumar i restar passant de la desena (decena), històries amb nombres, els nombres del carrer i el signe igual. No hi ha res de nou: és per a jugar amb el que ja saben.",
+    "en": "This week they go back to things from the whole year: adding and subtracting past a ten (decena), stories with numbers, numbers in the street and the equals sign. There's nothing new: it's for playing with what they already know.",
+    "fr": "Cette semaine, on revient sur toute l'année : additionner et soustraire en passant la dizaine (decena), les histoires avec des nombres, les nombres de la rue et le signe égal. Rien de nouveau : c'est pour jouer avec ce qu'on sait déjà.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه طوال السنة: الجمع والطرح مع تجاوز العشرة (decena)، والحكايات بالأعداد، وأعداد الشارع، وإشارة يساوي. لا جديد: إنه للّعب بما يعرفونه."
+  },
+  "comoAyudar": {
+    "es": "En la oca, dejad que el niño o la niña invente también retos para vosotros. Si alguno no sale, decid «casi» y probad otra vez juntos.",
+    "va": "En l'oca, deixeu que el xiquet o la xiqueta invente també reptes per a vosaltres. Si algun no ix, digueu «quasi» i torneu-ho a intentar junts.",
+    "en": "In the goose game, let your child make up challenges for you too. If one doesn't work out, say “nearly” and try again together.",
+    "fr": "Au jeu de l'oie, laissez votre enfant inventer aussi des défis pour vous. Si l'un d'eux ne marche pas, dites « presque » et réessayez ensemble.",
+    "ar": "في لعبة الإوزّة، دعوا الطفل أو الطفلة يخترع تحدّيات لكم أيضًا. وإذا لم ينجح أحدها، قولوا «تقريبًا» وجرّبوا مرة أخرى معًا."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.medida.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La gran oca de la familia",
+      "va": "La gran oca de la família",
+      "en": "The big family goose game",
+      "fr": "Le grand jeu de l'oie de la famille",
+      "ar": "لعبة الإوزّة الكبيرة للعائلة"
+    },
+    "material": [
+      {
+        "es": "Un papel grande y un lápiz o un rotulador",
+        "va": "Un paper gran i un llapis o un retolador",
+        "en": "A big sheet of paper and a pencil or a felt-tip pen",
+        "fr": "Une grande feuille et un crayon ou un feutre",
+        "ar": "ورقة كبيرة وقلم رصاص أو قلم تلوين"
+      },
+      {
+        "es": "Un dado",
+        "va": "Un dau",
+        "en": "A dice",
+        "fr": "Un dé",
+        "ar": "حجر نرد"
+      },
+      {
+        "es": "Algo para mover por el camino, uno por persona: un tapón, un botón…",
+        "va": "Alguna cosa per a moure pel camí, una per persona: un tap, un botó…",
+        "en": "Something to move along the path, one per person: a bottle top, a button…",
+        "fr": "Un pion pour chaque personne : un bouchon, un bouton…",
+        "ar": "قطعة يحرّكها كل شخص على الطريق: غطاء قارورة، زرّ…"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tablero",
+        "texto": {
+          "es": "Dibujad un camino de 50 casillas numeradas, o usad un tablero de la oca si tenéis uno.",
+          "va": "Dibuixeu un camí de 50 caselles numerades, o feu servir un tauler de l'oca si en teniu un.",
+          "en": "Draw a path of 50 numbered squares, or use a goose game board if you have one.",
+          "fr": "Dessinez un chemin de 50 cases numérotées, ou utilisez un plateau de jeu de l'oie si vous en avez un.",
+          "ar": "ارسموا طريقًا من 50 خانة مرقّمة، أو استعملوا لوحة لعبة الإوزّة إن كانت عندكم."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad una estrella en algunas casillas. Quien caiga en una estrella responde a un reto.",
+          "va": "Dibuixeu una estrela en algunes caselles. Qui caiga en una estrela respon un repte.",
+          "en": "Draw a star in some of the squares. Whoever lands on a star answers a challenge.",
+          "fr": "Dessinez une étoile dans quelques cases. Celui ou celle qui tombe sur une étoile relève un défi.",
+          "ar": "ارسموا نجمة في بعض الخانات. من يقف على نجمة يجيب عن تحدٍّ."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Por turnos, tirad el dado y avanzad contando las casillas en voz alta.",
+          "va": "Per torns, tireu el dau i avanceu comptant les caselles en veu alta.",
+          "en": "Take turns rolling the dice and moving forward, counting the squares out loud.",
+          "fr": "Chacun son tour, lancez le dé et avancez en comptant les cases à voix haute.",
+          "ar": "بالتناوب، ارموا النرد وتقدّموا وأنتم تعدّون الخانات بصوت عالٍ."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "En cada estrella, la otra persona propone el reto: «¿Cuánto es 8 y 5?», «¿Cuál es el doble de 4?», «¿Cuántos palmos mide la mesa?».",
+          "va": "En cada estrela, l'altra persona proposa el repte: «Quant fan 8 i 5?», «Quin és el doble de 4?», «Quants pams (palmo) fa la taula?».",
+          "en": "On each star, the other person sets the challenge: “What's 8 and 5?”, “What's double (doble) 4?”, “How many hand spans (palmo) long is the table?”",
+          "fr": "Sur chaque étoile, l'autre personne propose le défi : « Combien font 8 et 5 ? », « Quel est le double (doble) de 4 ? », « Combien d'empans (palmo) mesure la table ? »",
+          "ar": "عند كل نجمة، يقترح الشخص الآخر التحدّي: «كم يساوي 8 و5؟»، «ما ضعف (doble) 4؟»، «كم شبرًا (palmo) طول الطاولة؟»."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced un camino de 20 casillas, con retos de sumar y quitar hasta 10.",
+      "va": "Feu un camí de 20 caselles, amb reptes de sumar i llevar fins a 10.",
+      "en": "Make a path of 20 squares, with challenges adding and taking away up to 10.",
+      "fr": "Faites un chemin de 20 cases, avec des défis pour ajouter et enlever jusqu'à 10.",
+      "ar": "اصنعوا طريقًا من 20 خانة، بتحدّيات جمع وطرح حتى 10."
+    },
+    "masDificil": {
+      "es": "Si os pasáis de la casilla 50, volved atrás las que sobran. En las estrellas, retos de mitades o de sumas que pasen de la decena.",
+      "va": "Si us passeu de la casella 50, torneu arrere les que sobren. En les estreles, reptes de meitats (mitad) o de sumes que passen de la desena.",
+      "en": "If you go past square 50, go back the extra squares. On the stars, challenges with halves (mitad) or with additions that go past a ten.",
+      "fr": "Si vous dépassez la case 50, reculez des cases en trop. Sur les étoiles, des défis de moitiés (mitad) ou d'additions qui passent la dizaine.",
+      "ar": "إذا تجاوزتم الخانة 50، فارجعوا بعدد الخانات الزائدة. وعند النجوم، تحدّيات عن الأنصاف (mitad) أو عن جمع يتجاوز العشرة."
+    },
+    "paraQueSirve": {
+      "es": "Volver a lo de todo el curso jugando ayuda a que se asiente. En la oca se cuenta, se suma y se piensa casi sin darse cuenta.",
+      "va": "Tornar a allò de tot el curs jugant ajuda que s'assente. En l'oca es compta, se suma i es pensa quasi sense adonar-se'n.",
+      "en": "Going back over the whole year while playing helps it settle. In the goose game you count, add and think almost without noticing.",
+      "fr": "Revenir sur toute l'année en jouant aide à bien fixer les choses. Au jeu de l'oie, on compte, on additionne et on réfléchit presque sans s'en rendre compte.",
+      "ar": "العودة إلى ما تعلّمناه طوال السنة باللعب تساعد على ترسيخه. في لعبة الإوزّة نعدّ ونجمع ونفكّر من دون أن ننتبه تقريبًا."
+    },
+    "aviso": {
+      "es": "Si usáis botones, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir botons, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use buttons, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des boutons, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم أزرارًا، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Amaia tiene 9 lápices en la mochila y 4 en el estuche. ¿Cuántos lápices tiene en total?",
+        "va": "Amaia té 9 llapis en la motxilla i 4 en l'estoig. Quants llapis té en total?",
+        "en": "Amaia has 9 pencils in her school bag and 4 in her pencil case. How many pencils does she have altogether?",
+        "fr": "Amaia a 9 crayons dans son cartable et 4 dans sa trousse. Combien de crayons a-t-elle en tout ?",
+        "ar": "مع أمايا 9 أقلام في الحقيبة و4 في المقلمة. كم قلمًا معها في المجموع؟"
+      },
+      "pista": {
+        "es": "Completa primero el 10: al 9 le falta 1.",
+        "va": "Completa primer el 10: al 9 li falta 1.",
+        "en": "First make 10: 9 is just 1 away from 10.",
+        "fr": "Complète d'abord le 10 : il manque 1 au 9.",
+        "ar": "لنكمل العشرة أولًا: ينقص 9 واحدٌ ليصبح 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 + 4",
+        "resultado": 13,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 13 lápices: {{9 + 1 + 3 = 13}}.",
+          "va": "Té 13 llapis: {{9 + 1 + 3 = 13}}.",
+          "en": "She has 13 pencils: {{9 + 1 + 3 = 13}}.",
+          "fr": "Elle a 13 crayons : {{9 + 1 + 3 = 13}}.",
+          "ar": "معها 13 قلمًا: {{9 + 1 + 3 = 13}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra que pase del 10, con cosas de tu mochila.",
+        "va": "Inventa tu una altra que passe del 10, amb coses de la teua motxilla.",
+        "en": "Make up another one that goes past 10, with things from your school bag.",
+        "fr": "Invente-en une autre qui dépasse 10, avec des choses de ton cartable.",
+        "ar": "لنخترع سؤالًا آخر يتجاوز 10، بأشياء من الحقيبة المدرسية."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En la frutería hay 15 naranjas y Pablo compra 7. ¿Cuántas naranjas quedan?",
+        "va": "A la fruiteria hi ha 15 taronges i Pablo en compra 7. Quantes taronges queden?",
+        "en": "At the greengrocer's there are 15 oranges and Pablo buys 7. How many oranges are left?",
+        "fr": "Chez le marchand de fruits, il y a 15 oranges et Pablo en achète 7. Combien d'oranges reste-t-il ?",
+        "ar": "في متجر الفواكه 15 برتقالة، ويشتري بابلو 7. كم برتقالة بقيت؟"
+      },
+      "pista": {
+        "es": "Quita primero 5 para llegar al 10, y luego 2 más.",
+        "va": "Lleva primer 5 per a arribar al 10, i després 2 més.",
+        "en": "First take away 5 to get to 10, then 2 more.",
+        "fr": "Enlève d'abord 5 pour arriver à 10, puis encore 2.",
+        "ar": "لننزع أولًا 5 لنصل إلى 10، ثم 2 أخريين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 - 7",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 8 naranjas: {{15 − 5 − 2 = 8}}.",
+          "va": "Queden 8 taronges: {{15 − 5 − 2 = 8}}.",
+          "en": "There are 8 oranges left: {{15 − 5 − 2 = 8}}.",
+          "fr": "Il reste 8 oranges : {{15 − 5 − 2 = 8}}.",
+          "ar": "بقيت 8 برتقالات: {{15 − 5 − 2 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra historia de una tienda en la que alguien compra.",
+        "va": "Inventa tu una altra història d'una botiga en què algú compra.",
+        "en": "Make up another story about a shop where someone buys something.",
+        "fr": "Invente une autre histoire de magasin où quelqu'un achète quelque chose.",
+        "ar": "لنخترع حكاية أخرى عن متجر يشتري فيه أحدهم شيئًا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "El abuelo de Iker pone 6 fresas en su plato y el doble en el de Iker. ¿Cuántas fresas tiene Iker?",
+        "va": "L'avi d'Iker posa 6 maduixes en el seu plat i el doble en el d'Iker. Quantes maduixes té Iker?",
+        "en": "Iker's grandad puts 6 strawberries on his own plate and double that on Iker's. How many strawberries does Iker have?",
+        "fr": "Le grand-père d'Iker met 6 fraises dans son assiette et le double dans celle d'Iker. Combien de fraises a Iker ?",
+        "ar": "يضع جدّ إيكر 6 حبّات فراولة في صحنه، وضعفها في صحن إيكر. كم حبّة فراولة عند إيكر؟"
+      },
+      "pista": {
+        "es": "El doble es lo mismo otra vez: 6 y 6.",
+        "va": "El doble és el mateix una altra vegada: 6 i 6.",
+        "en": "Double is the same again: 6 and 6.",
+        "fr": "Le double, c'est la même chose encore une fois : 6 et 6.",
+        "ar": "الضعف هو الشيء نفسه مرة أخرى: 6 و6."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 6",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Iker tiene 12 fresas: {{6 + 6 = 12}}.",
+          "va": "Iker té 12 maduixes: {{6 + 6 = 12}}.",
+          "en": "Iker has 12 strawberries: {{6 + 6 = 12}}.",
+          "fr": "Iker a 12 fraises : {{6 + 6 = 12}}.",
+          "ar": "عند إيكر 12 حبّة فراولة: {{6 + 6 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra de dobles con los dedos de tus manos.",
+        "va": "Inventa tu una altra de dobles amb els dits de les mans.",
+        "en": "Make up another one about doubles using the fingers on your hands.",
+        "fr": "Invente-en une autre sur les doubles avec les doigts de tes mains.",
+        "ar": "لنخترع سؤالًا آخر عن الضعف بأصابع اليدين."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 39,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: una percha tiene 6 pinzas en un lado y 2 en el otro. ¿Cuántas más pones junto a las 2 para que quede recta?",
+        "va": "Per a recordar: una perxa té 6 pinces en un costat i 2 en l'altre. Quantes més en poses al costat de les 2 perquè quede recta?",
+        "en": "Let's remember: a hanger has 6 pegs on one side and 2 on the other. How many more do you put next to the 2 so it's level?",
+        "fr": "Pour se souvenir : un cintre a 6 pinces d'un côté et 2 de l'autre. Combien en ajoutes-tu à côté des 2 pour qu'il soit droit ?",
+        "ar": "لنتذكّر: على شمّاعة 6 ملاقط في جهة وملقطان في الجهة الأخرى. كم ملقطًا نضيف بجانب الاثنين لتصبح مستوية؟"
+      },
+      "pista": {
+        "es": "Cuenta desde el 2 hasta el 6 levantando un dedo cada vez.",
+        "va": "Compta des del 2 fins al 6 alçant un dit cada vegada.",
+        "en": "Count from 2 up to 6, raising a finger each time.",
+        "fr": "Compte de 2 jusqu'à 6 en levant un doigt à chaque fois.",
+        "ar": "لنعدّ من 2 إلى 6، ونرفع إصبعًا في كل مرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 - 2",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "4 más: {{2 + 4 = 6}}.",
+          "va": "4 més: {{2 + 4 = 6}}.",
+          "en": "4 more: {{2 + 4 = 6}}.",
+          "fr": "4 de plus : {{2 + 4 = 6}}.",
+          "ar": "4 ملاقط إضافية: {{2 + 4 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra percha para la persona adulta.",
+        "va": "Inventa tu una altra perxa per a la persona adulta.",
+        "en": "Make up another hanger for the adult.",
+        "fr": "Invente un autre cintre pour l'adulte.",
+        "ar": "لنخترع شمّاعة أخرى للشخص البالغ."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo que has jugado este curso, ¿qué es lo que más te ha gustado? Explícame cómo se juega.",
+        "va": "De tot el que has jugat aquest curs, què és el que més t'ha agradat? Explica'm com es juga.",
+        "en": "Of everything you've played this year, what did you like most? Explain to me how it's played.",
+        "fr": "De tout ce que tu as joué cette année, qu'est-ce qui t'a le plus plu ? Explique-moi comment on y joue.",
+        "ar": "من بين كل ما لعبناه هذه السنة، ما الذي أعجبنا أكثر؟ لنشرح كيف يُلعب."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Te acuerdas de la percha o de los paquetes de palillos?»",
+        "va": "Si no sap per on començar: «Te'n recordes de la perxa o dels paquets d'escuradents?»",
+        "en": "If they don't know where to start: “Do you remember the hanger or the bundles of sticks?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu te souviens du cintre ou des paquets de bâtonnets ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نتذكّر الشمّاعة أو حزم الأعواد؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Escuchad sin prisa. Si os enseña un juego, jugadlo con sus reglas: explicarlo es otra forma de entenderlo.",
+          "va": "Escolteu sense pressa. Si us ensenya un joc, jugueu-lo amb les seues regles: explicar-lo és una altra manera d'entendre'l.",
+          "en": "Listen without rushing. If they show you a game, play it by their rules: explaining it is another way of understanding it.",
+          "fr": "Écoutez sans vous presser. Si votre enfant vous montre un jeu, jouez-y avec ses règles : l'expliquer, c'est une autre façon de le comprendre.",
+          "ar": "استمعوا من دون استعجال. وإذا عُرضت عليكم لعبة، فالعبوها بقواعدها: شرحها طريقة أخرى لفهمها."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "dd03ab3878de"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "dd03ab3878de"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "dd03ab3878de"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "dd03ab3878de"
+      }
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s02",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 2,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Uno más, uno menos",
+    "va": "Un més, un menys",
+    "en": "One more, one less",
+    "fr": "Un de plus, un de moins",
+    "ar": "واحد أكثر، واحد أقل"
+  },
+  "objetivo": {
+    "es": "Esta semana ponen en orden los números hasta 20 y descubren que el siguiente es uno más y el anterior, uno menos.",
+    "va": "Aquesta setmana posen en ordre els nombres fins a 20 i descobrixen que el següent (siguiente) és un més (uno más) i l'anterior, un menys (uno menos).",
+    "en": "This week they put the numbers up to 20 in order and discover that the number after (siguiente) is one more (uno más) and the number before (anterior) is one less (uno menos).",
+    "fr": "Cette semaine, on range les nombres jusqu'à 20 dans l'ordre et on découvre que le nombre d'après (siguiente) est un de plus (uno más) et le nombre d'avant (anterior), un de moins (uno menos).",
+    "ar": "هذا الأسبوع يرتّب الأطفال الأعداد حتى 20، ويكتشفون أن العدد التالي (siguiente) هو واحد أكثر (uno más)، وأن العدد السابق (anterior) هو واحد أقل (uno menos)."
+  },
+  "comoAyudar": {
+    "es": "Jugad a «¿y si pongo uno más?» con cosas de casa: cucharas, pinzas, escalones. Si duda, contad juntos desde el principio, sin prisa.",
+    "va": "Jugueu a «I si en pose un més?» amb coses de casa: culleres, pinces, escalons. Si dubta, compteu junts des del principi, sense pressa.",
+    "en": "Play “What if I add one more?” with things at home: spoons, pegs, stairs. If they're unsure, count together from the beginning, without hurrying.",
+    "fr": "Jouez à « Et si j'en mets un de plus ? » avec des choses de la maison : cuillères, pinces, marches. S'il ou elle hésite, comptez ensemble depuis le début, sans se presser.",
+    "ar": "العبوا لعبة «وإذا أضفنا واحدًا آخر؟» بأشياء من البيت: ملاعق، ملاقط، درجات السلّم. إذا ظهر تردّد، عدّوا معًا من البداية، بلا عجلة."
+  },
+  "saberes": [
+    "matematicas.numeros.recta-comparar",
+    "matematicas.numeros.estructura"
+  ],
+  "criterios": [
+    "matematicas.c1.2.3",
+    "matematicas.c1.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La escalera de pinzas",
+      "va": "L'escala de pinces",
+      "en": "The peg ladder",
+      "fr": "L'échelle de pinces",
+      "ar": "سلّم الملاقط"
+    },
+    "material": [
+      {
+        "es": "Una cuerda o un cordón",
+        "va": "Una corda o un cordó",
+        "en": "A piece of string or a cord",
+        "fr": "Une ficelle ou un cordon",
+        "ar": "حبل أو خيط سميك"
+      },
+      {
+        "es": "20 pinzas de la ropa",
+        "va": "20 pinces de la roba",
+        "en": "20 clothes pegs",
+        "fr": "20 pinces à linge",
+        "ar": "20 ملقط غسيل"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Atad la cuerda entre dos sillas, a la altura de la mesa.",
+          "va": "Lligueu la corda entre dues cadires, a l'altura de la taula.",
+          "en": "Tie the string between two chairs, at table height.",
+          "fr": "Attachez la ficelle entre deux chaises, à hauteur de table.",
+          "ar": "اربطوا الحبل بين كرسيّين، على ارتفاع الطاولة."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Colgad las pinzas de una en una. Cada vez, decid cuántas hay.",
+          "va": "Pengeu les pinces d'una en una. Cada vegada, digueu quantes n'hi ha.",
+          "en": "Hang the pegs one at a time. Each time, say how many there are.",
+          "fr": "Accrochez les pinces une par une. À chaque fois, dites combien il y en a.",
+          "ar": "علّقوا الملاقط واحدًا واحدًا. وفي كل مرة، قولوا كم ملقطًا صار."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Una persona dice «¡una más!» o «¡una menos!». La otra pone o quita una pinza y dice cuántas hay ahora.",
+          "va": "Una persona diu «una més!» o «una menys!». L'altra posa o lleva una pinça i diu quantes n'hi ha ara.",
+          "en": "One person says “One more!” or “One less!”. The other adds or takes away a peg and says how many there are now.",
+          "fr": "Une personne dit « Une de plus ! » ou « Une de moins ! ». L'autre ajoute ou enlève une pince et dit combien il y en a maintenant.",
+          "ar": "يقول أحدنا «واحد أكثر!» أو «واحد أقل!». ويضيف الآخر ملقطًا أو ينزعه، ويقول كم ملقطًا صار الآن."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Antes de mover la pinza, adivinad: si hay 8 y ponéis una más, ¿cuántas habrá?",
+          "va": "Abans de moure la pinça, endevineu: si n'hi ha 8 i en poseu una més, quantes n'hi haurà?",
+          "en": "Before moving the peg, guess: if there are 8 and you add one more, how many will there be?",
+          "fr": "Avant de bouger la pince, devinez : s'il y en a 8 et que vous en ajoutez une, combien y en aura-t-il ?",
+          "ar": "قبل تحريك الملقط، خمّنوا: إذا كان هناك 8 وأضفتم واحدًا، كم سيصير العدد؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo 10 pinzas y contadlas juntos cada vez, tocando cada una.",
+      "va": "Feu servir només 10 pinces i compteu-les junts cada vegada, tocant cada una.",
+      "en": "Use only 10 pegs and count them together each time, touching each one.",
+      "fr": "Utilisez seulement 10 pinces et comptez-les ensemble à chaque fois, en touchant chacune.",
+      "ar": "استعملوا 10 ملاقط فقط، وعدّوها معًا في كل مرة وأنتم تلمسون كل واحد."
+    },
+    "masDificil": {
+      "es": "Llegad hasta 20 y adivinad con los ojos cerrados: «Había 15 y he quitado una, ¿cuántas quedan?».",
+      "va": "Arribeu fins a 20 i endevineu amb els ulls tancats: «N'hi havia 15 i n'he llevat una, quantes en queden?».",
+      "en": "Go up to 20 and guess with your eyes closed: “There were 15 and I took one away. How many are left?”",
+      "fr": "Allez jusqu'à 20 et devinez les yeux fermés : « Il y en avait 15 et j'en ai enlevé une, combien en reste-t-il ? »",
+      "ar": "اصعدوا حتى 20 وخمّنوا بعيون مغمضة: «كان هناك 15 ونزعنا واحدًا، كم بقي؟»."
+    },
+    "paraQueSirve": {
+      "es": "Saber que el siguiente es uno más y el anterior, uno menos, ayuda a sumar y restar de cabeza más adelante.",
+      "va": "Saber que el següent és un més i l'anterior, un menys, ajuda a sumar i restar de memòria més avant.",
+      "en": "Knowing that the next number is one more and the one before is one less helps with adding and subtracting in your head later on.",
+      "fr": "Savoir que le nombre d'après est un de plus et celui d'avant, un de moins, aide ensuite à additionner et soustraire de tête.",
+      "ar": "معرفة أن العدد التالي واحد أكثر والسابق واحد أقل تساعد لاحقًا على الجمع والطرح في الذهن."
+    },
+    "aviso": {
+      "es": "Al terminar, recoged la cuerda si hay hermanos o hermanas pequeños en casa.",
+      "va": "En acabar, arreplegueu la corda si hi ha germans o germanes menuts a casa.",
+      "en": "When you finish, put the string away if there are younger brothers or sisters at home.",
+      "fr": "À la fin, rangez la ficelle s'il y a de petits frères ou sœurs à la maison.",
+      "ar": "عند الانتهاء، ارفعوا الحبل إذا كان في البيت إخوة أو أخوات صغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Wei tiene 7 coches de juguete y su abuela le da 1 más. ¿Cuántos tiene ahora?",
+        "va": "Wei té 7 cotxes de joguet i la seua iaia li'n dona 1 més. Quants en té ara?",
+        "en": "Wei has 7 toy cars and his grandma gives him 1 more. How many does he have now?",
+        "fr": "Wei a 7 petites voitures et sa grand-mère lui en donne 1 de plus. Combien en a-t-il maintenant ?",
+        "ar": "عند وي 7 سيارات لعب، وأعطته جدّته سيارة واحدة أخرى. كم سيارة عنده الآن؟"
+      },
+      "pista": {
+        "es": "Di «7» y levanta un dedo más mientras dices el número siguiente.",
+        "va": "Digues «7» i alça un dit més mentre dius el nombre següent.",
+        "en": "Say “7” and put up one more finger as you say the next number.",
+        "fr": "Dis « 7 » et lève un doigt de plus en disant le nombre d'après.",
+        "ar": "لنقُل «7» ونرفع إصبعًا واحدًا ونحن نقول العدد التالي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 1",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 8 coches: uno más que 7 es 8.",
+          "va": "En té 8: un més que 7 és 8.",
+          "en": "He has 8 cars: one more than 7 is 8.",
+          "fr": "Il en a 8 : un de plus que 7, c'est 8.",
+          "ar": "عنده 8 سيارات: واحد أكثر من 7 هو 8."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con tus juguetes y «uno más».",
+        "va": "Ara inventa'n tu una amb els teus joguets i «un més».",
+        "en": "Now you make one up with your toys and “one more”.",
+        "fr": "Maintenant, invente une question avec tes jouets et « un de plus ».",
+        "ar": "والآن لنخترع سؤالًا بألعابنا و«واحد أكثر»."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En la cuerda hay 12 pinzas. Lucía quita 1. ¿Cuántas quedan?",
+        "va": "En la corda hi ha 12 pinces. Lucía en lleva 1. Quantes en queden?",
+        "en": "There are 12 pegs on the string. Lucía takes 1 away. How many are left?",
+        "fr": "Sur la ficelle, il y a 12 pinces. Lucía en enlève 1. Combien en reste-t-il ?",
+        "ar": "على الحبل 12 ملقطًا. نزعت لوسيا ملقطًا واحدًا. كم ملقطًا بقي؟"
+      },
+      "pista": {
+        "es": "Quitar uno es ir al número de antes: ¿qué número dices justo antes del 12?",
+        "va": "Llevar-ne un és anar al nombre d'abans: quin nombre dius just abans del 12?",
+        "en": "Taking one away means going to the number before: which number do you say just before 12?",
+        "fr": "En enlever un, c'est aller au nombre d'avant : quel nombre dis-tu juste avant 12 ?",
+        "ar": "نزع واحد يعني الرجوع إلى العدد السابق: ما العدد الذي نقوله قبل 12 مباشرة؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 1",
+        "resultado": 11,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 11 pinzas: uno menos que 12 es 11.",
+          "va": "En queden 11: un menys que 12 és 11.",
+          "en": "There are 11 pegs left: one less than 12 is 11.",
+          "fr": "Il en reste 11 : un de moins que 12, c'est 11.",
+          "ar": "بقي 11 ملقطًا: واحد أقل من 12 هو 11."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra quitando una cosa de un montón.",
+        "va": "Inventa'n tu una altra llevant una cosa d'un munt.",
+        "en": "Make up another one by taking one thing away from a pile.",
+        "fr": "Invente-en une autre en enlevant une chose d'un tas.",
+        "ar": "لنخترع سؤالًا آخر ننزع فيه شيئًا واحدًا من كومة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En la panadería, Aisha tiene el número 19. ¿Qué número le toca a quien llega justo después?",
+        "va": "En el forn, Aisha té el número 19. Quin número li toca a qui arriba just després?",
+        "en": "At the bakery, Aisha has ticket number 19. What number does the next person who arrives get?",
+        "fr": "À la boulangerie, Aisha a le numéro 19. Quel numéro aura la personne qui arrive juste après ?",
+        "ar": "في المخبز، أخذت عائشة الرقم 19. ما الرقم الذي يأخذه من يصل بعدها مباشرة؟"
+      },
+      "pista": {
+        "es": "El siguiente es uno más: di 19 y cuenta uno más.",
+        "va": "El següent és un més: digues 19 i compta'n un més.",
+        "en": "The next number is one more: say 19 and count one more.",
+        "fr": "Le nombre d'après, c'est un de plus : dis 19 et compte un de plus.",
+        "ar": "العدد التالي واحد أكثر: لنقُل 19 ونعدّ واحدًا آخر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "19 + 1",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le toca el 20: después del 19 viene el 20.",
+          "va": "Li toca el 20: després del 19 ve el 20.",
+          "en": "They get 20: after 19 comes 20.",
+          "fr": "C'est le 20 : après 19 vient 20.",
+          "ar": "يأخذ الرقم 20: بعد 19 يأتي 20."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con los números de los portales de tu calle.",
+        "va": "Inventa'n tu una amb els números dels portals del teu carrer.",
+        "en": "Make one up with the door numbers on your street.",
+        "fr": "Invente une question avec les numéros des immeubles de ta rue.",
+        "ar": "لنخترع سؤالًا بأرقام أبواب البيوت في شارعنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 1,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: Mateo tiene 6 galletas y Sara tiene 4. ¿Quién tiene más, y cuántas más?",
+        "va": "Per a recordar: Mateo té 6 galetes i Sara en té 4. Qui en té més, i quantes més?",
+        "en": "Let's remember: Mateo has 6 biscuits and Sara has 4. Who has more, and how many more?",
+        "fr": "Pour se souvenir : Mateo a 6 biscuits et Sara en a 4. Qui en a le plus, et combien de plus ?",
+        "ar": "لنتذكّر: عند ماتيو 6 بسكويتات وعند سارة 4. من عنده أكثر، وكم أكثر؟"
+      },
+      "pista": {
+        "es": "Pon las galletas de los dos en dos filas y mira cuántas se quedan sin pareja.",
+        "va": "Posa les galetes dels dos en dues files i mira quantes es queden sense parella.",
+        "en": "Put both children's biscuits in two rows and see how many are left without a partner.",
+        "fr": "Mets les biscuits des deux enfants en deux rangs et regarde combien restent sans partenaire.",
+        "ar": "لنضع بسكويتات الطفلين في صفّين، ونرى كم بسكويتة بقيت بلا شريك."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 - 4",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Mateo tiene 2 galletas más que Sara.",
+          "va": "Mateo té 2 galetes més que Sara.",
+          "en": "Mateo has 2 more biscuits than Sara.",
+          "fr": "Mateo a 2 biscuits de plus que Sara.",
+          "ar": "عند ماتيو بسكويتتان أكثر من سارة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la fruta de casa.",
+        "va": "Inventa'n tu una altra amb la fruita de casa.",
+        "en": "Make up another one with the fruit at home.",
+        "fr": "Invente-en une autre avec les fruits de la maison.",
+        "ar": "لنخترع سؤالًا آخر بالفواكه التي في البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes qué número va después del 13 sin empezar a contar desde el 1? Enséñamelo.",
+        "va": "Com saps quin nombre va després del 13 sense començar a comptar des de l'1? Ensenya-m'ho.",
+        "en": "How do you know which number comes after 13 without starting to count from 1? Show me.",
+        "fr": "Comment sais-tu quel nombre vient après 13 sans commencer à compter à partir de 1 ? Montre-moi.",
+        "ar": "كيف نعرف العدد الذي يأتي بعد 13 من دون أن نبدأ العدّ من 1؟ لنُرِ ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Subimos la escalera contando y paramos en el 13?»",
+        "va": "Si no sap per on començar: «Pugem l'escala comptant i parem en el 13?»",
+        "en": "If they don't know where to start: “Shall we go up the stairs counting and stop at 13?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « On monte l'escalier en comptant et on s'arrête à 13 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نصعد السلّم ونحن نعدّ ونتوقّف عند 13؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que «es uno más», contar con los dedos o señalar escalones: todo vale. Escuchad y preguntad «¿y el de antes?».",
+          "va": "Pot dir que «és un més», comptar amb els dits o assenyalar escalons: tot val. Escolteu i pregunteu «i el d'abans?».",
+          "en": "They may say “it's one more”, count on their fingers or point at stairs: it all works. Listen and ask “And the one before?”",
+          "fr": "Il ou elle peut dire « c'est un de plus », compter sur ses doigts ou montrer des marches : tout va bien. Écoutez et demandez « Et celui d'avant ? »",
+          "ar": "قد يكون الجواب «إنه واحد أكثر»، أو العدّ بالأصابع، أو الإشارة إلى درجات السلّم: كل ذلك جيّد. استمعوا واسألوا «والعدد الذي قبله؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "a2489880d232"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "a2489880d232"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "a2489880d232"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "a2489880d232"
+      }
+    }
+  }
+}

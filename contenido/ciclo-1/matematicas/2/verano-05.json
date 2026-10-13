@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.v05",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "verano": 5,
+  "tipo": "verano",
+  "titulo": {
+    "es": "En el mercado",
+    "va": "Al mercat",
+    "en": "At the market",
+    "fr": "Au marché",
+    "ar": "في السوق"
+  },
+  "objetivo": {
+    "es": "En verano, en el mercado, adivinan la vuelta antes de que se la den: cuentan hacia arriba desde el precio hasta el billete.",
+    "va": "A l'estiu, al mercat, endevinen el canvi (la vuelta) abans que els el donen: compten cap amunt des del preu fins al bitllet (billete).",
+    "en": "In summer, at the market, they guess the change (la vuelta) before they are given it: they count up from the price to the banknote (billete).",
+    "fr": "En été, au marché, on devine la monnaie (la vuelta) avant qu'on nous la rende : on compte en montant du prix jusqu'au billet (billete).",
+    "ar": "في الصيف، في السوق، يخمّن الأطفال الباقي من المال (la vuelta) قبل أن يُعطى لهم: يعدّون صعودًا من السعر حتى الورقة النقدية (billete)."
+  },
+  "comoAyudar": {
+    "es": "Elegid compras con precios en euros justos y pagad con un billete de 10 o de 20 euros. Antes de pagar, preguntad «¿cuánto nos van a devolver?» y comprobadlo juntos con la vuelta en la mano.",
+    "va": "Trieu compres amb preus en euros justos i pagueu amb un bitllet de 10 o de 20 euros. Abans de pagar, pregunteu «quant ens tornaran?» i comproveu-ho junts amb el canvi a la mà.",
+    "en": "Choose things with prices in whole euros and pay with a 10 or 20 euro note. Before paying, ask “How much will we get back?” and check it together with the change in your hand.",
+    "fr": "Choisissez des achats avec des prix en euros ronds et payez avec un billet de 10 ou de 20 euros. Avant de payer, demandez « Combien va-t-on nous rendre ? » et vérifiez ensemble avec la monnaie dans la main.",
+    "ar": "اختاروا مشتريات أسعارها باليورو بلا كسور وادفعوا بورقة من 10 أو 20 يورو. وقبل الدفع، اسألوا «كم سيعيدون لنا؟» وتحقّقوا معًا والباقي في اليد."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c1.1.3",
+    "matematicas.c1.7.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Adivina la vuelta",
+      "va": "Endevina el canvi",
+      "en": "Guess the change",
+      "fr": "Devine la monnaie",
+      "ar": "خمّن الباقي"
+    },
+    "material": [
+      {
+        "es": "Un billete de 10 o de 20 euros",
+        "va": "Un bitllet de 10 o de 20 euros",
+        "en": "A 10 or 20 euro note",
+        "fr": "Un billet de 10 ou de 20 euros",
+        "ar": "ورقة نقدية من 10 أو 20 يورو"
+      },
+      {
+        "es": "Una compra pequeña: fruta, pan, un helado…",
+        "va": "Una compra menuda: fruita, pa, un gelat…",
+        "en": "A small purchase: fruit, bread, an ice cream…",
+        "fr": "Un petit achat : des fruits, du pain, une glace…",
+        "ar": "شراء صغير: فاكهة، خبز، بوظة…"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "fruta",
+        "texto": {
+          "es": "En el mercado, buscad algo con un precio en euros justos: 3 euros, 7 euros…",
+          "va": "Al mercat, busqueu alguna cosa amb un preu en euros justos: 3 euros, 7 euros…",
+          "en": "At the market, look for something with a price in whole euros: 3 euros, 7 euros…",
+          "fr": "Au marché, cherchez quelque chose avec un prix en euros ronds : 3 euros, 7 euros…",
+          "ar": "في السوق، ابحثوا عن شيء سعره باليورو بلا كسور: 3 يورو، 7 يورو…"
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Antes de pagar con un billete de 10 euros, adivinad la vuelta: contad con los dedos desde el precio hasta 10.",
+          "va": "Abans de pagar amb un bitllet de 10 euros, endevineu el canvi: compteu amb els dits des del preu fins a 10.",
+          "en": "Before paying with a 10 euro note, guess the change: count on your fingers from the price up to 10.",
+          "fr": "Avant de payer avec un billet de 10 euros, devinez la monnaie : comptez sur les doigts du prix jusqu'à 10.",
+          "ar": "قبل الدفع بورقة من 10 يورو، خمّنوا الباقي: عدّوا على الأصابع من السعر حتى 10."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Pagad y mirad la vuelta que os dan. ¿Habéis acertado?",
+          "va": "Pagueu i mireu el canvi que vos donen. Heu encertat?",
+          "en": "Pay and look at the change you get. Did you guess right?",
+          "fr": "Payez et regardez la monnaie qu'on vous rend. Avez-vous deviné juste ?",
+          "ar": "ادفعوا وانظروا إلى الباقي الذي يعطونه لكم. هل كان التخمين صحيحًا؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Otro día, comprad dos cosas y pagad con un billete de 20 euros.",
+          "va": "Un altre dia, compreu dues coses i pagueu amb un bitllet de 20 euros.",
+          "en": "Another day, buy two things and pay with a 20 euro note.",
+          "fr": "Un autre jour, achetez deux choses et payez avec un billet de 20 euros.",
+          "ar": "في يوم آخر، اشتروا شيئين وادفعوا بورقة من 20 يورو."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugadlo antes en casa, a las tiendas, con monedas de 1 euro y precios hasta 10 euros.",
+      "va": "Jugueu-ho abans a casa, a botigues, amb monedes d'1 euro i preus fins a 10 euros.",
+      "en": "Play it first at home, as a pretend shop, with 1 euro coins and prices up to 10 euros.",
+      "fr": "Jouez d'abord à la marchande à la maison, avec des pièces de 1 euro et des prix jusqu'à 10 euros.",
+      "ar": "العبوا أولًا لعبة الدكّان في البيت، بقطع نقدية من 1 يورو وأسعار حتى 10 يورو."
+    },
+    "masDificil": {
+      "es": "Comprad dos cosas, sumad los precios de cabeza y pagad con un billete de 50 euros.",
+      "va": "Compreu dues coses, sumeu els preus de cap i pagueu amb un bitllet de 50 euros.",
+      "en": "Buy two things, add the prices in your head and pay with a 50 euro note.",
+      "fr": "Achetez deux choses, additionnez les prix de tête et payez avec un billet de 50 euros.",
+      "ar": "اشتروا شيئين، واجمعوا السعرين ذهنيًا، وادفعوا بورقة من 50 يورو."
+    },
+    "paraQueSirve": {
+      "es": "Contar hacia arriba desde el precio es como se calcula la vuelta en la vida real, y ayuda a entender la resta como «¿cuánto falta?».",
+      "va": "Comptar cap amunt des del preu és com es calcula el canvi en la vida real, i ajuda a entendre la resta (resta) com «quant falta?».",
+      "en": "Counting up from the price is how change is worked out in real life, and it helps to understand subtraction (resta) as “how many more?”.",
+      "fr": "Compter en montant à partir du prix, c'est comme ça qu'on calcule la monnaie dans la vraie vie, et ça aide à comprendre la soustraction (resta) comme « combien il manque ? ».",
+      "ar": "العدّ صعودًا من السعر هو طريقة حساب الباقي في الحياة الحقيقية، ويساعد على فهم الطرح (resta) كسؤال «كم ينقص؟»."
+    },
+    "aviso": {
+      "es": "En el mercado, siempre cerca de una persona adulta. Si jugáis en casa con monedas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Al mercat, sempre a prop d'una persona adulta. Si jugueu a casa amb monedes, guardeu-les lluny de germans o germanes menuts.",
+      "en": "At the market, always stay close to an adult. If you play at home with coins, keep them away from younger brothers and sisters.",
+      "fr": "Au marché, toujours près d'une personne adulte. Si vous jouez à la maison avec des pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "في السوق، دائمًا قرب شخص بالغ. وإذا لعبتم في البيت بالقطع النقدية، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Un melón cuesta 4 euros y pagas con un billete de 10. ¿Cuánto te devuelven?",
+        "va": "Un meló costa 4 euros i pagues amb un bitllet de 10. Quant et tornen?",
+        "en": "A melon costs 4 euros and you pay with a 10 euro note. How much do you get back?",
+        "fr": "Un melon coûte 4 euros et tu paies avec un billet de 10. Combien te rend-on ?",
+        "ar": "ثمن البطيخة الصفراء 4 يورو وندفع بورقة من 10. كم يعيدون لنا؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde 4 hasta 10.",
+        "va": "Compta amb els dits des de 4 fins a 10.",
+        "en": "Count on your fingers from 4 up to 10.",
+        "fr": "Compte sur tes doigts de 4 jusqu'à 10.",
+        "ar": "لنعدّ على الأصابع من 4 حتى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 4",
+        "resultado": 6,
+        "unidad": "euros",
+        "texto": {
+          "es": "Te devuelven 6 euros: {{4 + 6 = 10}}.",
+          "va": "Et tornen 6 euros: {{4 + 6 = 10}}.",
+          "en": "You get 6 euros back: {{4 + 6 = 10}}.",
+          "fr": "On te rend 6 euros : {{4 + 6 = 10}}.",
+          "ar": "يعيدون لنا 6 يورو: {{4 + 6 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con algo del mercado y un billete de 10 euros.",
+        "va": "Ara inventa'n tu una amb alguna cosa del mercat i un bitllet de 10 euros.",
+        "en": "Now you make one up with something from the market and a 10 euro note.",
+        "fr": "Maintenant, invente une question avec quelque chose du marché et un billet de 10 euros.",
+        "ar": "والآن لنخترع سؤالًا عن شيء من السوق وورقة من 10 يورو."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Fátima compra unas chanclas de 12 euros y una gorra de 9 euros. ¿Cuánto paga?",
+        "va": "Fátima compra unes xancles de 12 euros i una gorra de 9 euros. Quant paga?",
+        "en": "Fátima buys some flip-flops for 12 euros and a cap for 9 euros. How much does she pay?",
+        "fr": "Fátima achète des tongs à 12 euros et une casquette à 9 euros. Combien paie-t-elle ?",
+        "ar": "تشتري فاطمة شبشبًا بـ12 يورو وقبّعة بـ9 يورو. كم تدفع؟"
+      },
+      "pista": {
+        "es": "Junta las unidades: 2 y 9 son 11, una decena más.",
+        "va": "Ajunta les unitats (unidades): 2 i 9 són 11, una desena (decena) més.",
+        "en": "Put the ones (unidades) together: 2 and 9 make 11, one more ten (decena).",
+        "fr": "Réunis les unités (unidades) : 2 et 9 font 11, une dizaine (decena) de plus.",
+        "ar": "لنجمع الوحدات (unidades): 2 و9 تساوي 11، أي عشرة (decena) إضافية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 + 9",
+        "resultado": 21,
+        "unidad": "euros",
+        "texto": {
+          "es": "Paga 21 euros: {{12 + 9 = 21}}.",
+          "va": "Paga 21 euros: {{12 + 9 = 21}}.",
+          "en": "She pays 21 euros: {{12 + 9 = 21}}.",
+          "fr": "Elle paie 21 euros : {{12 + 9 = 21}}.",
+          "ar": "تدفع 21 يورو: {{12 + 9 = 21}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos cosas que os gustaría comprar.",
+        "va": "Inventa'n tu una amb dues coses que vos agradaria comprar.",
+        "en": "Make one up with two things you would like to buy.",
+        "fr": "Invente une question avec deux choses que vous aimeriez acheter.",
+        "ar": "لنخترع سؤالًا عن شيئين نحبّ أن نشتريهما."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Una toalla cuesta 13 euros y pagamos con un billete de 20. ¿Cuánto nos devuelven?",
+        "va": "Una tovallola costa 13 euros i paguem amb un bitllet de 20. Quant ens tornen?",
+        "en": "A towel costs 13 euros and we pay with a 20 euro note. How much do we get back?",
+        "fr": "Une serviette coûte 13 euros et nous payons avec un billet de 20. Combien nous rend-on ?",
+        "ar": "ثمن المنشفة 13 يورو وندفع بورقة من 20. كم يعيدون لنا؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba con los dedos desde 13 hasta 20.",
+        "va": "Compta cap amunt amb els dits des de 13 fins a 20.",
+        "en": "Count up on your fingers from 13 to 20.",
+        "fr": "Compte en montant sur tes doigts de 13 jusqu'à 20.",
+        "ar": "لنعدّ صعودًا على الأصابع من 13 حتى 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 13",
+        "resultado": 7,
+        "unidad": "euros",
+        "texto": {
+          "es": "Nos devuelven 7 euros: {{13 + 7 = 20}}.",
+          "va": "Ens tornen 7 euros: {{13 + 7 = 20}}.",
+          "en": "We get 7 euros back: {{13 + 7 = 20}}.",
+          "fr": "On nous rend 7 euros : {{13 + 7 = 20}}.",
+          "ar": "يعيدون لنا 7 يورو: {{13 + 7 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con un billete de 20 euros.",
+        "va": "Inventa'n tu una amb un bitllet de 20 euros.",
+        "en": "Make one up with a 20 euro note.",
+        "fr": "Invente une question avec un billet de 20 euros.",
+        "ar": "لنخترع سؤالًا بورقة من 20 يورو."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 21,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar la tabla del 4: cada sandía cuesta 4 euros. ¿Cuánto cuestan 3 sandías?",
+        "va": "Per a recordar la taula del 4 (tabla del 4): cada meló d'alger costa 4 euros. Quant costen 3 melons d'alger?",
+        "en": "Let's remember the 4 times table (tabla del 4): each watermelon costs 4 euros. How much do 3 watermelons cost?",
+        "fr": "Pour se souvenir de la table de 4 (tabla del 4) : chaque pastèque coûte 4 euros. Combien coûtent 3 pastèques ?",
+        "ar": "لنتذكّر جدول ضرب 4 (tabla del 4): ثمن كل بطيخة 4 يورو. كم ثمن 3 بطيخات؟"
+      },
+      "pista": {
+        "es": "La del 4 es el doble del doble: el doble de 3 es 6, y el doble de 6…",
+        "va": "La del 4 és el doble (doble) del doble: el doble de 3 és 6, i el doble de 6…",
+        "en": "The 4 times table is double (doble) the double: double 3 is 6, and double 6 is…",
+        "fr": "La table de 4, c'est le double (doble) du double : le double de 3 est 6, et le double de 6…",
+        "ar": "جدول 4 هو ضعف (doble) الضعف: ضعف 3 هو 6، وضعف 6 هو…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 4",
+        "resultado": 12,
+        "unidad": "euros",
+        "texto": {
+          "es": "Cuestan 12 euros: {{3 × 4 = 12}}.",
+          "va": "Costen 12 euros: {{3 × 4 = 12}}.",
+          "en": "They cost 12 euros: {{3 × 4 = 12}}.",
+          "fr": "Elles coûtent 12 euros : {{3 × 4 = 12}}.",
+          "ar": "ثمنها 12 يورو: {{3 × 4 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con cosas que cuestan 4 euros cada una.",
+        "va": "Inventa'n tu una altra amb coses que costen 4 euros cada una.",
+        "en": "Make up another one with things that cost 4 euros each.",
+        "fr": "Invente-en une autre avec des choses qui coûtent 4 euros chacune.",
+        "ar": "لنخترع سؤالًا آخر عن أشياء ثمن كل منها 4 يورو."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes cuánto te van a devolver? Explícamelo con un billete de 10 euros.",
+        "va": "Com saps quant et tornaran? Explica-m'ho amb un bitllet de 10 euros.",
+        "en": "How do you know how much you will get back? Explain it to me with a 10 euro note.",
+        "fr": "Comment sais-tu combien on va te rendre ? Explique-le-moi avec un billet de 10 euros.",
+        "ar": "كيف نعرف كم سيعيدون لنا؟ لنشرح ذلك بورقة من 10 يورو."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si algo cuesta 7 euros y pagas con 10, ¿cómo lo cuentas?»",
+        "va": "Si no sap per on començar: «Si una cosa costa 7 euros i pagues amb 10, com ho comptes?»",
+        "en": "If they don't know where to start: “If something costs 7 euros and you pay with 10, how do you count it?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si quelque chose coûte 7 euros et que tu paies avec 10, comment tu comptes ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كان ثمن شيء 7 يورو ودفعنا 10، كيف نعدّ؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "fb40cd2120fb"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "fb40cd2120fb"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "fb40cd2120fb"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "fb40cd2120fb"
+      }
+    }
+  }
+}

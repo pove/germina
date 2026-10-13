@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s16",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 16,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: juegos en familia",
+    "va": "Setmana de recordar: jocs en família",
+    "en": "Remembering week: family games",
+    "fr": "Semaine de rappel : jeux en famille",
+    "ar": "أسبوع التذكّر: ألعاب في العائلة"
+  },
+  "objetivo": {
+    "es": "Esta semana juegan en familia a juegos de mesa de casa y, jugando, vuelven a sumar, a restar y a contar dinero, como en el primer trimestre. No hay nada nuevo: es una semana tranquila.",
+    "va": "Aquesta setmana juguen en família a jocs de taula de casa i, jugant, tornen a sumar, a restar i a comptar diners, com en el primer trimestre. No hi ha res de nou: és una setmana tranquil·la.",
+    "en": "This week the family plays board games from home and, while playing, they add, take away and count money again, like in the first term. There is nothing new: it's a relaxed week.",
+    "fr": "Cette semaine, on joue en famille à des jeux de société de la maison et, en jouant, on additionne, on soustrait et on compte de l'argent, comme au premier trimestre. Rien de nouveau : c'est une semaine tranquille.",
+    "ar": "هذا الأسبوع تلعب العائلة ألعاب الطاولة الموجودة في البيت، ومن خلال اللعب يعود الأطفال إلى الجمع والطرح وعدّ المال، كما في الفصل الأول. لا شيء جديد: إنه أسبوع هادئ."
+  },
+  "comoAyudar": {
+    "es": "Dejad que sea quien sume los puntos de cada jugada, con los dedos si le ayuda. Si se pierde con la cuenta, volved juntos al número de antes y seguid desde ahí.",
+    "va": "Deixeu que siga qui sume els punts de cada jugada, amb els dits si l'ajuda. Si es perd amb el compte, torneu junts al nombre d'abans i seguiu des d'ací.",
+    "en": "Let your child be the one who adds up the points of each turn, using fingers if it helps. If they lose track, go back together to the number before and carry on from there.",
+    "fr": "Laissez votre enfant additionner les points de chaque tour, avec les doigts si ça l'aide. S'il ou elle se perd dans le compte, revenez ensemble au nombre d'avant et continuez à partir de là.",
+    "ar": "اتركوا للطفل أو الطفلة جمع نقاط كل دور، بالأصابع إن كان ذلك يساعد. وإذا ضاع العدّ، ارجعوا معًا إلى العدد السابق وتابعوا من هناك."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c1.7.1",
+    "matematicas.c1.8.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La partida con cuenta",
+      "va": "La partida amb compte",
+      "en": "The game with a running total",
+      "fr": "La partie où l'on compte",
+      "ar": "الجولة التي نعدّ فيها"
+    },
+    "material": [
+      {
+        "es": "Un juego de mesa de casa: la oca, el parchís o un dominó",
+        "va": "Un joc de taula de casa: l'oca, el parxís o un dòmino",
+        "en": "A board game from home: snakes and ladders, ludo or dominoes",
+        "fr": "Un jeu de société de la maison : le jeu de l'oie, les petits chevaux ou un domino",
+        "ar": "لعبة طاولة من البيت: لعبة الإوزّة، أو لعبة الحصان (البارتشيس)، أو الدومينو"
+      },
+      {
+        "es": "Un papel y un lápiz para la persona adulta",
+        "va": "Un paper i un llapis per a la persona adulta",
+        "en": "A piece of paper and a pencil for the adult",
+        "fr": "Une feuille et un crayon pour l'adulte",
+        "ar": "ورقة وقلم رصاص للشخص البالغ"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tablero",
+        "texto": {
+          "es": "Elegid un juego de mesa y jugad una partida corta, como siempre.",
+          "va": "Trieu un joc de taula i jugueu una partida curta, com sempre.",
+          "en": "Choose a board game and play a short game, the usual way.",
+          "fr": "Choisissez un jeu de société et faites une partie courte, comme d'habitude.",
+          "ar": "اختاروا لعبة طاولة والعبوا جولة قصيرة كالعادة."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "En cada turno, sumad los puntos que salen: los de los dos dados, o los de las dos mitades de la pieza de dominó.",
+          "va": "En cada torn, sumeu els punts que ixen: els dels dos daus, o els de les dues meitats de la peça de dòmino.",
+          "en": "On each turn, add up the dots that come up: on both dice, or on both halves of the domino.",
+          "fr": "À chaque tour, additionnez les points qui sortent : ceux des deux dés, ou ceux des deux moitiés du domino.",
+          "ar": "في كل دور، اجمعوا النقاط التي تظهر: نقاط حجرَي النرد، أو نقاط نصفَي قطعة الدومينو."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Llevad la cuenta de la partida en voz alta: el total de antes más los puntos nuevos. La persona adulta dibuja cada total en el papel.",
+          "va": "Porteu el compte de la partida en veu alta: el total d'abans més els punts nous. La persona adulta dibuixa cada total en el paper.",
+          "en": "Keep the game's running total out loud: the total from before plus the new points. The adult draws each total on the paper.",
+          "fr": "Tenez le compte de la partie à voix haute : le total d'avant plus les nouveaux points. L'adulte dessine chaque total sur la feuille.",
+          "ar": "تابعوا مجموع الجولة بصوت عالٍ: المجموع السابق زائد النقاط الجديدة. ويرسم الشخص البالغ كل مجموع على الورقة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Al final, mirad los totales. ¿Quién tiene más puntos? ¿Cuántos más?",
+          "va": "Al final, mireu els totals. Qui té més punts? Quants més?",
+          "en": "At the end, look at the totals. Who has more points? How many more?",
+          "fr": "À la fin, regardez les totaux. Qui a le plus de points ? Combien de plus ?",
+          "ar": "في النهاية، انظروا إلى المجاميع. من عنده نقاط أكثر؟ وكم أكثر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad con un solo dado y sumad con los dedos o tocando los puntos.",
+      "va": "Jugueu amb un sol dau i sumeu amb els dits o tocant els punts.",
+      "en": "Play with just one die and add on your fingers or by touching the dots.",
+      "fr": "Jouez avec un seul dé et additionnez sur les doigts ou en touchant les points.",
+      "ar": "العبوا بحجر نرد واحد فقط، واجمعوا بالأصابع أو بلمس النقاط."
+    },
+    "masDificil": {
+      "es": "Jugad hasta que alguien llegue a 100 puntos y decid, en cada turno, cuánto le falta.",
+      "va": "Jugueu fins que algú arribe a 100 punts i digueu, en cada torn, quant li falta.",
+      "en": "Play until someone reaches 100 points and say, on each turn, how many more they need.",
+      "fr": "Jouez jusqu'à ce que quelqu'un arrive à 100 points et dites, à chaque tour, combien il lui manque.",
+      "ar": "العبوا حتى يصل أحدكم إلى 100 نقطة، وقولوا في كل دور كم ينقصه."
+    },
+    "paraQueSirve": {
+      "es": "Llevar la cuenta de una partida es sumar de verdad, muchas veces seguidas y sin darse cuenta. Y jugar en familia ayuda a ganar y a perder con calma.",
+      "va": "Portar el compte d'una partida és sumar de veritat, moltes vegades seguides i sense adonar-se'n. I jugar en família ajuda a guanyar i a perdre amb calma.",
+      "en": "Keeping score in a game is real adding, many times in a row, without even noticing. And playing as a family helps everyone win and lose calmly.",
+      "fr": "Tenir le compte d'une partie, c'est additionner pour de vrai, plusieurs fois de suite et sans s'en rendre compte. Et jouer en famille aide à gagner et à perdre avec calme.",
+      "ar": "متابعة مجموع الجولة جمعٌ حقيقي، مرات كثيرة متتالية ومن دون أن ننتبه. واللعب في العائلة يساعد على الفوز والخسارة بهدوء."
+    },
+    "aviso": {
+      "es": "Las piezas de los juegos de mesa son pequeñas: guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Les peces dels jocs de taula són menudes: guardeu-les lluny de germans o germanes menuts.",
+      "en": "Board game pieces are small: keep them away from younger brothers and sisters.",
+      "fr": "Les pièces des jeux de société sont petites : gardez-les loin des petits frères et sœurs.",
+      "ar": "قطع ألعاب الطاولة صغيرة: أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En una partida, la abuela de Wei hace 27 puntos y Wei hace 35. ¿Cuántos puntos hacen entre los dos?",
+        "va": "En una partida, l'àvia de Wei fa 27 punts i Wei en fa 35. Quants punts fan entre els dos?",
+        "en": "In one game, Wei's grandma scores 27 points and Wei scores 35. How many points do they score altogether?",
+        "fr": "Dans une partie, la grand-mère de Wei fait 27 points et Wei en fait 35. Combien de points font-ils à eux deux ?",
+        "ar": "في جولة، جمعت جدّة وي 27 نقطة وجمع وي 35. كم نقطة جمعا معًا؟"
+      },
+      "pista": {
+        "es": "Junta primero las decenas y luego las unidades.",
+        "va": "Ajunta primer les desenes (decenas) i després les unitats (unidades).",
+        "en": "Put the tens (decenas) together first, then the ones (unidades).",
+        "fr": "Réunis d'abord les dizaines (decenas), puis les unités (unidades).",
+        "ar": "لنجمع العشرات (decenas) أولًا، ثم الآحاد (unidades)."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "27 + 35",
+        "resultado": 62,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hacen 62 puntos: {{27 + 35 = 62}}.",
+          "va": "Fan 62 punts: {{27 + 35 = 62}}.",
+          "en": "They score 62 points: {{27 + 35 = 62}}.",
+          "fr": "Ils font 62 points : {{27 + 35 = 62}}.",
+          "ar": "جمعا 62 نقطة: {{27 + 35 = 62}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con los puntos de vuestra última partida.",
+        "va": "Inventa'n tu una amb els punts de la vostra última partida.",
+        "en": "Make one up with the points from your last game.",
+        "fr": "Invente une question avec les points de votre dernière partie.",
+        "ar": "لنخترع سؤالًا بنقاط آخر جولة لعبناها."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Una baraja de cartas cuesta 8 €. Pagas con un billete de 10 €. ¿Cuánto te devuelven?",
+        "va": "Una baralla de cartes costa 8 €. Pagues amb un bitllet de 10 €. Quant et tornen?",
+        "en": "A pack of cards costs 8 €. You pay with a 10 € note (billete). How much change (la vuelta) do you get?",
+        "fr": "Un jeu de cartes coûte 8 €. Tu paies avec un billet (billete) de 10 €. Combien on te rend de monnaie (la vuelta) ?",
+        "ar": "سعر مجموعة أوراق اللعب 8 €. ندفع بورقة نقدية (billete) من فئة 10 €. كم نسترجع من الباقي من المال (la vuelta)؟"
+      },
+      "pista": {
+        "es": "Cuenta desde 8 hasta 10 con los dedos.",
+        "va": "Compta des de 8 fins a 10 amb els dits.",
+        "en": "Count from 8 up to 10 on your fingers.",
+        "fr": "Compte de 8 jusqu'à 10 sur tes doigts.",
+        "ar": "لنعدّ من 8 إلى 10 بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 8",
+        "resultado": 2,
+        "unidad": "euros",
+        "texto": {
+          "es": "Te devuelven 2 €.",
+          "va": "Et tornen 2 €.",
+          "en": "You get 2 € back.",
+          "fr": "On te rend 2 €.",
+          "ar": "نسترجع 2 €."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el precio de un juguete y un billete de 10 €.",
+        "va": "Inventa'n tu una altra amb el preu d'un joguet i un bitllet de 10 €.",
+        "en": "Make up another one with the price of a toy and a 10 € note.",
+        "fr": "Invente-en une autre avec le prix d'un jouet et un billet de 10 €.",
+        "ar": "لنخترع سؤالًا آخر بسعر لعبة وورقة نقدية من فئة 10 €."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Ion tira dos dados y quiere que sumen 10. En uno sale un 4. ¿Qué número le falta en el otro?",
+        "va": "Ion tira dos daus i vol que sumen 10. En un ix un 4. Quin nombre li falta en l'altre?",
+        "en": "Ion rolls two dice and wants them to add up to 10. One shows a 4. What number does he need on the other?",
+        "fr": "Ion lance deux dés et veut que ça fasse 10. Sur l'un, il y a un 4. Quel nombre lui manque sur l'autre ?",
+        "ar": "يرمي إيون حجرَي نرد ويريد أن يكون مجموعهما 10. ظهر 4 على أحدهما. ما العدد الذي ينقصه على الآخر؟"
+      },
+      "pista": {
+        "es": "Levanta 4 dedos y mira cuántos quedan bajados.",
+        "va": "Alça 4 dits i mira quants en queden abaixats.",
+        "en": "Hold up 4 fingers and see how many are still down.",
+        "fr": "Lève 4 doigts et regarde combien restent baissés.",
+        "ar": "لنرفع 4 أصابع ونرى كم إصبعًا بقي مطويًّا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 4",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le falta un 6: {{4 + 6 = 10}}.",
+          "va": "Li falta un 6: {{4 + 6 = 10}}.",
+          "en": "He needs a 6: {{4 + 6 = 10}}.",
+          "fr": "Il lui manque un 6 : {{4 + 6 = 10}}.",
+          "ar": "ينقصه 6: {{4 + 6 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Tira tú un dado e inventa otra: ¿qué falta para llegar a 10?",
+        "va": "Tira tu un dau i inventa'n una altra: què falta per a arribar a 10?",
+        "en": "Roll a die yourself and make up another: what's missing to make 10?",
+        "fr": "Lance un dé et invente-en une autre : qu'est-ce qui manque pour arriver à 10 ?",
+        "ar": "لنرمِ حجر نرد ونخترع سؤالًا آخر: ماذا ينقص لنصل إلى 10؟"
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 8,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: en la oca, Sara está en la casilla 45 y Mateo en la 31. ¿Cuántas casillas va Sara por delante?",
+        "va": "Per a recordar: a l'oca, Sara està en la casella 45 i Mateo en la 31. Quantes caselles va Sara per davant?",
+        "en": "Let's remember: in snakes and ladders, Sara is on square 45 and Mateo on 31. How many squares ahead is Sara?",
+        "fr": "Pour se souvenir : au jeu de l'oie, Sara est sur la case 45 et Mateo sur la 31. Combien de cases d'avance a Sara ?",
+        "ar": "لنتذكّر: في لعبة الإوزّة، سارة في الخانة 45 وماتيو في الخانة 31. بكم خانة تسبق سارة؟"
+      },
+      "pista": {
+        "es": "Cuenta desde la casilla de Mateo hasta la de Sara.",
+        "va": "Compta des de la casella de Mateo fins a la de Sara.",
+        "en": "Count from Mateo's square up to Sara's.",
+        "fr": "Compte depuis la case de Mateo jusqu'à celle de Sara.",
+        "ar": "لنعدّ من خانة ماتيو حتى خانة سارة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "45 - 31",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sara va 14 casillas por delante: {{45 − 31 = 14}}.",
+          "va": "Sara va 14 caselles per davant: {{45 − 31 = 14}}.",
+          "en": "Sara is 14 squares ahead: {{45 − 31 = 14}}.",
+          "fr": "Sara a 14 cases d'avance : {{45 − 31 = 14}}.",
+          "ar": "تسبق سارة بـ 14 خانة: {{45 − 31 = 14}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos casillas de vuestro tablero.",
+        "va": "Inventa'n tu una altra amb dues caselles del vostre tauler.",
+        "en": "Make up another one with two squares on your board.",
+        "fr": "Invente-en une autre avec deux cases de votre plateau.",
+        "ar": "لنخترع سؤالًا آخر بخانتين من لوح لعبتنا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿A qué juego de mesa te gusta más jugar? Enséñame cómo cuentas las casillas o los puntos.",
+        "va": "A quin joc de taula t'agrada més jugar? Ensenya'm com comptes les caselles o els punts.",
+        "en": "Which board game do you like playing most? Show me how you count the squares or the points.",
+        "fr": "À quel jeu de société préfères-tu jouer ? Montre-moi comment tu comptes les cases ou les points.",
+        "ar": "ما لعبة الطاولة التي نحبّها أكثر؟ لنُرِ كيف نعدّ الخانات أو النقاط."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si sacas un 5 y estás en la casilla 12, ¿cómo sabes adónde llegas?»",
+        "va": "Si no sap per on començar: «Si traus un 5 i estàs en la casella 12, com saps on arribes?»",
+        "en": "If they don't know where to start: “If you roll a 5 and you're on square 12, how do you know where you land?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si tu fais 5 et que tu es sur la case 12, comment sais-tu où tu arrives ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا ظهر 5 ونحن في الخانة 12، كيف نعرف إلى أين نصل؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale contar casilla a casilla o saltar desde el 12. Escuchad cómo lo hace y preguntad «¿y cómo lo sabes?».",
+          "va": "Val comptar casella a casella o botar des del 12. Escolteu com ho fa i pregunteu «i com ho saps?».",
+          "en": "Counting square by square or jumping on from 12 both work. Listen to how they do it and ask “And how do you know?”.",
+          "fr": "Compter case par case ou partir directement de 12, les deux marchent. Écoutez comment il ou elle fait et demandez « Et comment tu le sais ? ».",
+          "ar": "يصلح العدّ خانة خانة أو القفز من الخانة 12. استمعوا إلى طريقة الطفل أو الطفلة، واسألوا «وكيف نعرف ذلك؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "47610ed2fdc0"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "47610ed2fdc0"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "47610ed2fdc0"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "47610ed2fdc0"
+      }
+    }
+  }
+}

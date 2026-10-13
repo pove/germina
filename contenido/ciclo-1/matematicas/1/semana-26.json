@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s26",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 26,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Monedas y billetes",
+    "va": "Monedes i bitllets",
+    "en": "Coins and notes",
+    "fr": "Pièces et billets",
+    "ar": "قطع نقدية وأوراق نقدية"
+  },
+  "objetivo": {
+    "es": "Esta semana conocen las monedas de 1 y 2 € y los billetes de 5 y 10 €, y pagan precios sencillos en euros. Descubren que se puede pagar lo mismo de muchas maneras.",
+    "va": "Aquesta setmana coneixen les monedes (monedas) d'1 i 2 € i els bitllets (billetes) de 5 i 10 €, i paguen preus senzills en euros. Descobrixen que es pot pagar el mateix de moltes maneres.",
+    "en": "This week they get to know 1 and 2 € coins (monedas) and 5 and 10 € notes (billetes), and pay simple prices in euros. They discover that you can pay the same amount in lots of ways.",
+    "fr": "Cette semaine, on découvre les pièces (monedas) de 1 et 2 € et les billets (billetes) de 5 et 10 €, et on paie des prix simples en euros. On découvre qu'on peut payer la même somme de plusieurs façons.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال على القطع النقدية (monedas) من فئة 1 و2 € والأوراق النقدية (billetes) من فئة 5 و10 €، ويدفعون أسعارًا بسيطة باليورو. ويكتشفون أنه يمكن دفع المبلغ نفسه بطرق كثيرة."
+  },
+  "comoAyudar": {
+    "es": "Si podéis, sacad monedas de verdad y dejad que las toque y las ordene. Contad juntos que un billete de 5 € vale lo mismo que 5 monedas de 1 €.",
+    "va": "Si podeu, traeu monedes de veritat i deixeu que les toque i les ordene. Compteu junts que un bitllet de 5 € val el mateix que 5 monedes d'1 €.",
+    "en": "If you can, bring out real coins and let your child handle them and sort them. Count together to see that a 5 € note is worth the same as five 1 € coins.",
+    "fr": "Si vous pouvez, sortez de vraies pièces et laissez votre enfant les toucher et les ranger. Comptez ensemble : un billet de 5 € vaut autant que 5 pièces de 1 €.",
+    "ar": "إن أمكن، أخرجوا قطعًا نقدية حقيقية واتركوا للطفل أو الطفلة لمسها وترتيبها. وعدّوا معًا لتروا أن ورقة 5 € تساوي 5 قطع من فئة 1 €."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.numeros.usos-sociales"
+  ],
+  "criterios": [
+    "matematicas.c1.7.2",
+    "matematicas.c1.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La tienda de juguetes",
+      "va": "La botiga de joguets",
+      "en": "The toy shop",
+      "fr": "Le magasin de jouets",
+      "ar": "متجر الألعاب"
+    },
+    "material": [
+      {
+        "es": "Unos cuantos juguetes y papelitos para ponerles precio",
+        "va": "Uns quants joguets i paperets per a posar-los preu",
+        "en": "A few toys and little bits of paper for price tags",
+        "fr": "Quelques jouets et des petits papiers pour les prix",
+        "ar": "بعض الألعاب وقصاصات ورق لكتابة الأسعار"
+      },
+      {
+        "es": "Monedas de 1 y 2 € y billetes de 5 y 10 €, de verdad o dibujados en papel",
+        "va": "Monedes d'1 i 2 € i bitllets de 5 i 10 €, de veritat o dibuixats en paper",
+        "en": "1 and 2 € coins and 5 and 10 € notes, real or drawn on paper",
+        "fr": "Des pièces de 1 et 2 € et des billets de 5 et 10 €, vrais ou dessinés sur du papier",
+        "ar": "قطع نقدية من فئة 1 و2 € وأوراق نقدية من فئة 5 و10 €، حقيقية أو مرسومة على ورق"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Poned a cada juguete un precio entre 1 y 10 €: el coche, 3 €; la pelota, 5 €…",
+          "va": "Poseu a cada joguet un preu entre 1 i 10 €: el cotxe, 3 €; la pilota, 5 €…",
+          "en": "Give each toy a price between 1 and 10 €: the car, 3 €; the ball, 5 €…",
+          "fr": "Donnez à chaque jouet un prix entre 1 et 10 € : la voiture, 3 € ; le ballon, 5 €…",
+          "ar": "ضعوا لكل لعبة سعرًا بين 1 و10 €: السيارة 3 €، الكرة 5 €…"
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Una persona compra y otra vende. Quien compra paga el precio justo con monedas y billetes.",
+          "va": "Una persona compra i una altra ven. Qui compra paga el preu just amb monedes i bitllets.",
+          "en": "One person buys and the other sells. The buyer pays the exact price with coins and notes.",
+          "fr": "Une personne achète et l'autre vend. Celle qui achète paie le prix exact avec des pièces et des billets.",
+          "ar": "شخص يشتري وآخر يبيع. يدفع المشتري السعر بالضبط بالقطع والأوراق النقدية."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Quien vende cuenta el dinero en voz alta: «uno, dos, tres euros». ¿Está justo?",
+          "va": "Qui ven compta els diners en veu alta: «un, dos, tres euros». Està just?",
+          "en": "The seller counts the money out loud: “one, two, three euros”. Is it exact?",
+          "fr": "Celle qui vend compte l'argent à voix haute : « un, deux, trois euros ». Le compte est-il bon ?",
+          "ar": "يعدّ البائع المال بصوت عالٍ: «واحد، اثنان، ثلاثة يوروهات». هل المبلغ مضبوط؟"
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Pagad el mismo precio de otra manera: 5 € con un billete, o con monedas.",
+          "va": "Pagueu el mateix preu d'una altra manera: 5 € amb un bitllet, o amb monedes.",
+          "en": "Pay the same price another way: 5 € with a note, or with coins.",
+          "fr": "Payez le même prix d'une autre façon : 5 € avec un billet, ou avec des pièces.",
+          "ar": "ادفعوا السعر نفسه بطريقة أخرى: 5 € بورقة نقدية، أو بقطع نقدية."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo monedas de 1 € y precios hasta 5 €.",
+      "va": "Feu servir només monedes d'1 € i preus fins a 5 €.",
+      "en": "Use only 1 € coins and prices up to 5 €.",
+      "fr": "Utilisez seulement des pièces de 1 € et des prix jusqu'à 5 €.",
+      "ar": "استعملوا قطع 1 € فقط، وأسعارًا حتى 5 €."
+    },
+    "masDificil": {
+      "es": "Comprad dos juguetes a la vez y pagad los dos juntos.",
+      "va": "Compreu dos joguets alhora i pagueu-los tots dos junts.",
+      "en": "Buy two toys at once and pay for both together.",
+      "fr": "Achetez deux jouets à la fois et payez-les ensemble.",
+      "ar": "اشتروا لعبتين معًا وادفعوا ثمنهما معًا."
+    },
+    "paraQueSirve": {
+      "es": "Contar dinero junta muchas cosas: contar, sumar y contar de 2 en 2 y de 5 en 5. Y lo verán cada día en la tienda.",
+      "va": "Comptar diners ajunta moltes coses: comptar, sumar i comptar de 2 en 2 i de 5 en 5. I ho veuran cada dia a la botiga.",
+      "en": "Counting money brings many things together: counting, adding, and counting in 2s and 5s. And they'll see it every day at the shop.",
+      "fr": "Compter de l'argent réunit beaucoup de choses : compter, additionner, compter de 2 en 2 et de 5 en 5. Et on le voit tous les jours au magasin.",
+      "ar": "عدّ المال يجمع أشياء كثيرة: العدّ والجمع والعدّ اثنين اثنين وخمسة خمسة. وسيرونه كل يوم في المتجر."
+    },
+    "aviso": {
+      "es": "Las monedas son pequeñas: guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Les monedes són menudes: guardeu-les lluny de germans o germanes menuts.",
+      "en": "Coins are small: keep them away from younger brothers and sisters.",
+      "fr": "Les pièces sont petites : gardez-les loin des petits frères et sœurs.",
+      "ar": "القطع النقدية صغيرة: أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Valentina tiene 2 monedas de 2 € y 1 moneda de 1 €. ¿Cuántos euros tiene?",
+        "va": "Valentina té 2 monedes de 2 € i 1 moneda d'1 €. Quants euros té?",
+        "en": "Valentina has two 2 € coins and one 1 € coin. How many euros does she have?",
+        "fr": "Valentina a 2 pièces de 2 € et 1 pièce de 1 €. Combien d'euros a-t-elle ?",
+        "ar": "عند فالنتينا قطعتان من فئة 2 € وقطعة من فئة 1 €. كم يورو عندها؟"
+      },
+      "pista": {
+        "es": "Cuenta primero las de 2 € y sigue contando con la de 1 €.",
+        "va": "Compta primer les de 2 € i continua comptant amb la d'1 €.",
+        "en": "Count the 2 € coins first and then keep counting with the 1 € coin.",
+        "fr": "Compte d'abord les pièces de 2 €, puis continue avec celle de 1 €.",
+        "ar": "لنعدّ أولًا قطع 2 €، ثم نكمل العدّ بقطعة 1 €."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 1",
+        "resultado": 5,
+        "unidad": "euros",
+        "texto": {
+          "es": "Tiene 5 €: {{2 + 2 + 1 = 5}}.",
+          "va": "Té 5 €: {{2 + 2 + 1 = 5}}.",
+          "en": "She has 5 €: {{2 + 2 + 1 = 5}}.",
+          "fr": "Elle a 5 € : {{2 + 2 + 1 = 5}}.",
+          "ar": "عندها 5 €: {{2 + 2 + 1 = 5}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con las monedas que haya en casa.",
+        "va": "Ara inventa'n tu una amb les monedes que hi haja a casa.",
+        "en": "Now you make one up with the coins you have at home.",
+        "fr": "Maintenant, invente une question avec les pièces qu'il y a à la maison.",
+        "ar": "والآن لنخترع سؤالًا بالقطع النقدية الموجودة في البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Darío compra un yoyó de 2 € y una pelota de 5 €. ¿Cuánto paga en total?",
+        "va": "Darío compra un ioió de 2 € i una pilota de 5 €. Quant paga en total?",
+        "en": "Darío buys a yo-yo for 2 € and a ball for 5 €. How much does he pay altogether?",
+        "fr": "Darío achète un yoyo à 2 € et un ballon à 5 €. Combien paie-t-il en tout ?",
+        "ar": "يشتري داريو يويو بـ2 € وكرة بـ5 €. كم يدفع في المجموع؟"
+      },
+      "pista": {
+        "es": "Guarda el 5 en la cabeza y sigue contando 2 más con los dedos.",
+        "va": "Guarda el 5 al cap i continua comptant 2 més amb els dits.",
+        "en": "Keep 5 in your head and count on 2 more on your fingers.",
+        "fr": "Garde 5 dans ta tête et compte encore 2 sur tes doigts.",
+        "ar": "لنحفظ 5 في الرأس ونكمل العدّ 2 بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 5",
+        "resultado": 7,
+        "unidad": "euros",
+        "texto": {
+          "es": "Paga 7 €: {{5 + 2 = 7}}.",
+          "va": "Paga 7 €: {{5 + 2 = 7}}.",
+          "en": "He pays 7 €: {{5 + 2 = 7}}.",
+          "fr": "Il paie 7 € : {{5 + 2 = 7}}.",
+          "ar": "يدفع 7 €: {{5 + 2 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra comprando dos juguetes de tu habitación.",
+        "va": "Inventa'n tu una altra comprant dos joguets de la teua habitació.",
+        "en": "Make up another one, buying two toys from your room.",
+        "fr": "Invente-en une autre en achetant deux jouets de ta chambre.",
+        "ar": "لنخترع سؤالًا آخر نشتري فيه لعبتين من الغرفة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Fátima compra un cuento de 8 € y paga con un billete de 10 €. ¿Cuántos euros le dan de vuelta?",
+        "va": "Fátima compra un conte de 8 € i paga amb un bitllet de 10 €. Quants euros li tornen de canvi (la vuelta)?",
+        "en": "Fátima buys a storybook for 8 € and pays with a 10 € note. How many euros does she get back in change (la vuelta)?",
+        "fr": "Fátima achète un livre d'histoires à 8 € et paie avec un billet de 10 €. Combien d'euros lui rend-on de monnaie (la vuelta) ?",
+        "ar": "تشتري فاطمة قصة بـ8 € وتدفع بورقة 10 €. كم يورو تأخذ من الباقي (la vuelta)؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 8 hasta el 10.",
+        "va": "Compta amb els dits des del 8 fins al 10.",
+        "en": "Count on your fingers from 8 up to 10.",
+        "fr": "Compte sur tes doigts de 8 jusqu'à 10.",
+        "ar": "لنعدّ بالأصابع من 8 حتى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 8",
+        "resultado": 2,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le dan 2 € de vuelta: {{8 + 2 = 10}}.",
+          "va": "Li tornen 2 € de canvi: {{8 + 2 = 10}}.",
+          "en": "She gets 2 € back: {{8 + 2 = 10}}.",
+          "fr": "On lui rend 2 € : {{8 + 2 = 10}}.",
+          "ar": "تأخذ 2 € من الباقي: {{8 + 2 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pagando con un billete de 10 € algo más barato.",
+        "va": "Inventa'n tu una altra pagant amb un bitllet de 10 € una cosa més barata.",
+        "en": "Make up another one, paying for something cheaper with a 10 € note.",
+        "fr": "Invente-en une autre en payant quelque chose de moins cher avec un billet de 10 €.",
+        "ar": "لنخترع سؤالًا آخر ندفع فيه بورقة 10 € ثمن شيء أرخص."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 18,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En la entrada hay 4 pares de zapatos. Cuenta de 2 en 2: ¿cuántos zapatos hay?",
+        "va": "A l'entrada hi ha 4 parells de sabates. Compta de 2 en 2: quantes sabates hi ha?",
+        "en": "There are 4 pairs of shoes by the front door. Count in 2s: how many shoes are there?",
+        "fr": "Dans l'entrée, il y a 4 paires de chaussures. Compte de 2 en 2 : combien y a-t-il de chaussures ?",
+        "ar": "عند المدخل 4 أزواج من الأحذية. لنعدّ اثنين اثنين: كم فردة حذاء يوجد؟"
+      },
+      "pista": {
+        "es": "Di en voz alta «2, 4…» y levanta un dedo por cada par.",
+        "va": "Digues en veu alta «2, 4…» i alça un dit per cada parell.",
+        "en": "Say “2, 4…” out loud and hold up a finger for each pair.",
+        "fr": "Dis à voix haute « 2, 4… » et lève un doigt pour chaque paire.",
+        "ar": "لنقل بصوت عالٍ «2، 4…» ونرفع إصبعًا لكل زوج."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 2 + 2",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 8 zapatos: {{2 + 2 + 2 + 2 = 8}}.",
+          "va": "Hi ha 8 sabates: {{2 + 2 + 2 + 2 = 8}}.",
+          "en": "There are 8 shoes: {{2 + 2 + 2 + 2 = 8}}.",
+          "fr": "Il y a 8 chaussures : {{2 + 2 + 2 + 2 = 8}}.",
+          "ar": "يوجد 8 فردات: {{2 + 2 + 2 + 2 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra contando de 2 en 2 los calcetines del tendedero.",
+        "va": "Inventa'n tu una altra comptant de 2 en 2 els calcetins de l'estenedor.",
+        "en": "Make up another one, counting the socks on the washing line in 2s.",
+        "fr": "Invente-en une autre en comptant de 2 en 2 les chaussettes de l'étendoir.",
+        "ar": "لنخترع سؤالًا آخر نعدّ فيه الجوارب على حبل الغسيل اثنين اثنين."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Enséñame con monedas, de verdad o dibujadas, cómo pagarías 6 €. ¿Hay otra manera?",
+        "va": "Ensenya'm amb monedes, de veritat o dibuixades, com pagaries 6 €. Hi ha una altra manera?",
+        "en": "Show me with coins, real or drawn, how you would pay 6 €. Is there another way?",
+        "fr": "Montre-moi avec des pièces, vraies ou dessinées, comment tu paierais 6 €. Y a-t-il une autre façon ?",
+        "ar": "لنُرِ بقطع نقدية، حقيقية أو مرسومة، كيف ندفع 6 €. هل توجد طريقة أخرى؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar, preguntad: «¿Y si usas una moneda de 2 €?»",
+        "va": "Si no sap per on començar, pregunteu: «I si fas servir una moneda de 2 €?»",
+        "en": "If they don't know where to start, ask: “What if you use a 2 € coin?”",
+        "fr": "S'il ou elle ne sait pas par où commencer, demandez : « Et si tu prends une pièce de 2 € ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «وإذا استعملنا قطعة 2 €؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Hay muchas maneras: un billete de 5 € y una moneda de 1 €, tres monedas de 2 €… Pedid que cuente en voz alta mientras paga.",
+          "va": "Hi ha moltes maneres: un bitllet de 5 € i una moneda d'1 €, tres monedes de 2 €… Demaneu que compte en veu alta mentre paga.",
+          "en": "There are many ways: a 5 € note and a 1 € coin, three 2 € coins… Ask your child to count out loud while paying.",
+          "fr": "Il y a beaucoup de façons : un billet de 5 € et une pièce de 1 €, trois pièces de 2 €… Demandez de compter à voix haute en payant.",
+          "ar": "توجد طرق كثيرة: ورقة 5 € وقطعة 1 €، ثلاث قطع من فئة 2 €… اطلبوا العدّ بصوت عالٍ أثناء الدفع."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "0d9a8576b313"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "0d9a8576b313"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "0d9a8576b313"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "0d9a8576b313"
+      }
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s28",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 28,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Preguntar y contar",
+    "va": "Preguntar i comptar",
+    "en": "Ask and count",
+    "fr": "Demander et compter",
+    "ar": "نسأل ونعدّ"
+  },
+  "objetivo": {
+    "es": "Esta semana hacen una pregunta a la familia, una encuesta, cuentan las respuestas con dibujos o rayitas y miran qué respuesta sale más veces.",
+    "va": "Aquesta setmana fan una pregunta a la família, una enquesta (encuesta), compten les respostes amb dibuixos o ratlletes i miren quina resposta ix més vegades.",
+    "en": "This week they ask the family a question, a survey (encuesta), count the answers with drawings or little lines and see which answer comes up most often.",
+    "fr": "Cette semaine, on pose une question à la famille, une enquête (encuesta), on compte les réponses avec des dessins ou des petits traits et on regarde quelle réponse revient le plus souvent.",
+    "ar": "هذا الأسبوع يطرح الأطفال سؤالًا على العائلة، أي استطلاعًا (encuesta)، ويعدّون الأجوبة برسوم أو خطوط صغيرة، وينظرون أيّ جواب يتكرّر أكثر."
+  },
+  "comoAyudar": {
+    "es": "Dejad que haga la pregunta a cada persona y dibuje una cara por cada respuesta. Al final, preguntad «¿qué fruta gana? ¿Cómo lo sabes?».",
+    "va": "Deixeu que faça la pregunta a cada persona i dibuixe una cara per cada resposta. Al final, pregunteu «quina fruita guanya? Com ho saps?».",
+    "en": "Let your child ask each person the question and draw a face for each answer. At the end, ask “Which fruit wins? How do you know?”.",
+    "fr": "Laissez votre enfant poser la question à chaque personne et dessiner un visage pour chaque réponse. À la fin, demandez « Quel fruit gagne ? Comment tu le sais ? ».",
+    "ar": "اتركوا للطفل أو الطفلة طرح السؤال على كل شخص ورسم وجه لكل جواب. وفي النهاية اسألوا: «أيّ فاكهة فازت؟ كيف عرفنا؟»."
+  },
+  "saberes": [
+    "matematicas.datos.encuestas",
+    "matematicas.datos.frecuencias",
+    "matematicas.datos.representaciones",
+    "matematicas.datos.interpretacion"
+  ],
+  "criterios": [
+    "matematicas.c1.3.1",
+    "matematicas.c1.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La encuesta de la fruta",
+      "va": "L'enquesta de la fruita",
+      "en": "The fruit survey",
+      "fr": "L'enquête sur les fruits",
+      "ar": "استطلاع الفاكهة"
+    },
+    "material": [
+      {
+        "es": "Un papel grande y un lápiz",
+        "va": "Un paper gran i un llapis",
+        "en": "A big sheet of paper and a pencil",
+        "fr": "Une grande feuille et un crayon",
+        "ar": "ورقة كبيرة وقلم رصاص"
+      },
+      {
+        "es": "Tres frutas de casa, o sus dibujos",
+        "va": "Tres fruites de casa, o els seus dibuixos",
+        "en": "Three pieces of fruit from home, or drawings of them",
+        "fr": "Trois fruits de la maison, ou leurs dessins",
+        "ar": "ثلاث فواكه من البيت، أو رسومها"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "fruta",
+        "texto": {
+          "es": "Elegid tres frutas, por ejemplo plátano, manzana y naranja, y dibujadlas una debajo de otra en el papel.",
+          "va": "Trieu tres fruites, per exemple plàtan, poma i taronja, i dibuixeu-les una davall de l'altra en el paper.",
+          "en": "Choose three fruits, for example banana, apple and orange, and draw them one under the other on the paper.",
+          "fr": "Choisissez trois fruits, par exemple banane, pomme et orange, et dessinez-les l'un sous l'autre sur la feuille.",
+          "ar": "اختاروا ثلاث فواكه، مثلًا موزة وتفاحة وبرتقالة، وارسموها واحدة تحت الأخرى على الورقة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Preguntad a cada persona de la familia, en casa o por teléfono: «¿Qué fruta te gusta más?».",
+          "va": "Pregunteu a cada persona de la família, a casa o per telèfon: «Quina fruita t'agrada més?».",
+          "en": "Ask each person in the family, at home or on the phone: “Which fruit do you like best?”.",
+          "fr": "Demandez à chaque personne de la famille, à la maison ou au téléphone : « Quel fruit préfères-tu ? ».",
+          "ar": "اسألوا كل شخص في العائلة، في البيت أو بالهاتف: «أيّ فاكهة تحبّ أكثر؟»."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Por cada respuesta, dibujad una cara al lado de su fruta, todas en fila.",
+          "va": "Per cada resposta, dibuixeu una cara al costat de la seua fruita, totes en fila.",
+          "en": "For each answer, draw a face next to its fruit, all in a row.",
+          "fr": "Pour chaque réponse, dessinez un visage à côté de son fruit, tous en rang.",
+          "ar": "لكل جواب، ارسموا وجهًا بجانب فاكهته، كلها في صف."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Contad las caras de cada fruta. ¿Cuál gana? ¿Por cuántas caras?",
+          "va": "Compteu les cares de cada fruita. Quina guanya? Per quantes cares?",
+          "en": "Count the faces for each fruit. Which one wins? By how many faces?",
+          "fr": "Comptez les visages de chaque fruit. Lequel gagne ? De combien de visages ?",
+          "ar": "عدّوا الوجوه عند كل فاكهة. أيّها فازت؟ وبكم وجهًا؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos frutas y preguntad a 4 o 5 personas.",
+      "va": "Feu servir només dues fruites i pregunteu a 4 o 5 persones.",
+      "en": "Use only two fruits and ask 4 or 5 people.",
+      "fr": "Prenez seulement deux fruits et demandez à 4 ou 5 personnes.",
+      "ar": "استعملوا فاكهتين فقط، واسألوا 4 أو 5 أشخاص."
+    },
+    "masDificil": {
+      "es": "Haced otra encuesta con cuatro respuestas posibles, como el color o el juego favorito.",
+      "va": "Feu una altra enquesta amb quatre respostes possibles, com el color o el joc preferit.",
+      "en": "Do another survey with four possible answers, such as favourite colour or favourite game.",
+      "fr": "Faites une autre enquête avec quatre réponses possibles, comme la couleur ou le jeu préféré.",
+      "ar": "اصنعوا استطلاعًا آخر بأربعة أجوبة ممكنة، مثل اللون أو اللعبة المفضّلة."
+    },
+    "paraQueSirve": {
+      "es": "Preguntar, contar y dibujar las respuestas es el primer paso de los gráficos, que ayudan a ver de un vistazo lo que piensa mucha gente.",
+      "va": "Preguntar, comptar i dibuixar les respostes és el primer pas dels gràfics, que ajuden a veure d'un colp d'ull el que pensa molta gent.",
+      "en": "Asking, counting and drawing the answers is the first step towards charts, which help you see at a glance what lots of people think.",
+      "fr": "Demander, compter et dessiner les réponses, c'est le premier pas vers les graphiques, qui aident à voir d'un coup d'œil ce que pensent beaucoup de gens.",
+      "ar": "السؤال والعدّ ورسم الأجوبة هي الخطوة الأولى نحو المخطّطات، التي تساعد على رؤية رأي كثير من الناس بنظرة واحدة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la encuesta de Nora, 5 personas prefieren plátano y 3 prefieren manzana. ¿Qué fruta gana, y por cuántas?",
+        "va": "En l'enquesta de Nora, 5 persones preferixen plàtan i 3 preferixen poma. Quina fruita guanya, i per quantes?",
+        "en": "In Nora's survey, 5 people prefer bananas and 3 prefer apples. Which fruit wins, and by how many?",
+        "fr": "Dans l'enquête de Nora, 5 personnes préfèrent la banane et 3 préfèrent la pomme. Quel fruit gagne, et de combien ?",
+        "ar": "في استطلاع نورا، 5 أشخاص يفضّلون الموز و3 يفضّلون التفاح. أيّ فاكهة فازت، وبكم؟"
+      },
+      "pista": {
+        "es": "Pon 5 cosas en una fila y 3 en otra, una frente a otra, y mira cuántas quedan sin pareja.",
+        "va": "Posa 5 coses en una fila i 3 en una altra, una davant de l'altra, i mira quantes queden sense parella.",
+        "en": "Put 5 things in one row and 3 in another, facing each other, and see how many are left without a partner.",
+        "fr": "Mets 5 choses dans un rang et 3 dans un autre, face à face, et regarde combien restent sans partenaire.",
+        "ar": "لنضع 5 أشياء في صف و3 في صف آخر، متقابلين، ونرى كم شيئًا بقي بلا شريك."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 - 3",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Gana el plátano, por 2: {{5 − 3 = 2}}.",
+          "va": "Guanya el plàtan, per 2: {{5 − 3 = 2}}.",
+          "en": "Bananas win, by 2: {{5 − 3 = 2}}.",
+          "fr": "La banane gagne, de 2 : {{5 − 3 = 2}}.",
+          "ar": "فاز الموز، بفارق 2: {{5 − 3 = 2}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con lo que más le gusta a tu familia.",
+        "va": "Ara inventa'n tu una amb el que més li agrada a la teua família.",
+        "en": "Now you make one up about what your family likes best.",
+        "fr": "Maintenant, invente une question sur ce que ta famille préfère.",
+        "ar": "والآن لنخترع سؤالًا عمّا تحبّه عائلتنا أكثر."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Youssef pregunta a su familia por su color favorito: 4 dicen azul y 2 dicen verde. ¿A cuántas personas ha preguntado?",
+        "va": "Youssef pregunta a la seua família pel color preferit: 4 diuen blau i 2 diuen verd. A quantes persones ha preguntat?",
+        "en": "Youssef asks his family about their favourite colour: 4 say blue and 2 say green. How many people did he ask?",
+        "fr": "Youssef demande à sa famille sa couleur préférée : 4 disent bleu et 2 disent vert. À combien de personnes a-t-il demandé ?",
+        "ar": "يسأل يوسف عائلته عن لونهم المفضّل: 4 يقولون الأزرق و2 يقولون الأخضر. كم شخصًا سأل؟"
+      },
+      "pista": {
+        "es": "Cuenta primero las respuestas de azul y sigue contando con las de verde.",
+        "va": "Compta primer les respostes de blau i continua comptant amb les de verd.",
+        "en": "Count the blue answers first and then keep counting with the green ones.",
+        "fr": "Compte d'abord les réponses « bleu », puis continue avec les réponses « vert ».",
+        "ar": "لنعدّ أولًا أجوبة الأزرق، ثم نكمل العدّ بأجوبة الأخضر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 2",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ha preguntado a 6 personas: {{4 + 2 = 6}}.",
+          "va": "Ha preguntat a 6 persones: {{4 + 2 = 6}}.",
+          "en": "He asked 6 people: {{4 + 2 = 6}}.",
+          "fr": "Il a demandé à 6 personnes : {{4 + 2 = 6}}.",
+          "ar": "سأل 6 أشخاص: {{4 + 2 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra preguntando a tu familia por su animal favorito.",
+        "va": "Inventa'n tu una altra preguntant a la teua família pel seu animal preferit.",
+        "en": "Make up another one, asking your family about their favourite animal.",
+        "fr": "Invente-en une autre en demandant à ta famille son animal préféré.",
+        "ar": "لنخترع سؤالًا آخر نسأل فيه العائلة عن حيوانها المفضّل."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En un dibujo hay 3 caras junto al perro, 6 junto al gato y 1 junto al pez. ¿Qué animal gusta más? ¿Y menos?",
+        "va": "En un dibuix hi ha 3 cares al costat del gos, 6 al costat del gat i 1 al costat del peix. Quin animal agrada més? I menys?",
+        "en": "In a drawing there are 3 faces next to the dog, 6 next to the cat and 1 next to the fish. Which animal is liked most? And least?",
+        "fr": "Sur un dessin, il y a 3 visages à côté du chien, 6 à côté du chat et 1 à côté du poisson. Quel animal plaît le plus ? Et le moins ?",
+        "ar": "في رسم 3 وجوه بجانب الكلب، و6 بجانب القطّ، و1 بجانب السمكة. أيّ حيوان أحبّوه أكثر؟ وأيّه أقل؟"
+      },
+      "pista": {
+        "es": "Dibuja las caras en tres filas y mira cuál es la más larga y cuál la más corta.",
+        "va": "Dibuixa les cares en tres files i mira quina és la més llarga i quina la més curta.",
+        "en": "Draw the faces in three rows and see which row is longest and which is shortest.",
+        "fr": "Dessine les visages en trois rangs et regarde lequel est le plus long et lequel est le plus court.",
+        "ar": "لنرسم الوجوه في ثلاثة صفوف، ونرى أيّها الأطول وأيّها الأقصر."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El gato gusta más (6 caras) y el pez, menos (1 cara). Si duda, que cuente las caras de cada animal con el dedo.",
+          "va": "El gat agrada més (6 cares) i el peix, menys (1 cara). Si dubta, que compte les cares de cada animal amb el dit.",
+          "en": "The cat is liked most (6 faces) and the fish least (1 face). If they're unsure, let them count each animal's faces with a finger.",
+          "fr": "Le chat plaît le plus (6 visages) et le poisson, le moins (1 visage). En cas de doute, comptez avec le doigt les visages de chaque animal.",
+          "ar": "القطّ هو الأكثر (6 وجوه)، والسمكة الأقل (وجه واحد). إذا كان هناك تردّد، عدّوا وجوه كل حيوان بالإصبع."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con caras junto a tres juguetes.",
+        "va": "Inventa'n tu una altra amb cares al costat de tres joguets.",
+        "en": "Make up another one with faces next to three toys.",
+        "fr": "Invente-en une autre avec des visages à côté de trois jouets.",
+        "ar": "لنخترع سؤالًا آخر بوجوه بجانب ثلاث ألعاب."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 11,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "¿Qué número es mayor, 46 o 64? ¿Cómo lo sabes?",
+        "va": "Quin nombre és major (mayor), 46 o 64? Com ho saps?",
+        "en": "Which number is greater (mayor), 46 or 64? How do you know?",
+        "fr": "Quel nombre est le plus grand (mayor), 46 ou 64 ? Comment le sais-tu ?",
+        "ar": "أيّ العددين أكبر (mayor)، 46 أم 64؟ كيف نعرف؟"
+      },
+      "pista": {
+        "es": "Piensa en paquetes de 10: ¿cuántos paquetes tiene cada número?",
+        "va": "Pensa en paquets de 10: quants paquets té cada nombre?",
+        "en": "Think of packs of 10: how many packs does each number have?",
+        "fr": "Pense à des paquets de 10 : combien de paquets a chaque nombre ?",
+        "ar": "لنفكّر في رزم من 10: كم رزمة في كل عدد؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El 64 es mayor: tiene 6 decenas y el 46 solo tiene 4. Si duda, haced los paquetes de 10 con pinzas o palillos.",
+          "va": "El 64 és major: té 6 desenes (decenas) i el 46 només en té 4. Si dubta, feu els paquets de 10 amb pinces o escuradents.",
+          "en": "64 is greater: it has 6 tens (decenas) and 46 only has 4. If they're unsure, make the packs of 10 with pegs or toothpicks.",
+          "fr": "64 est le plus grand : il a 6 dizaines (decenas) et 46 n'en a que 4. En cas de doute, faites les paquets de 10 avec des pinces ou des cure-dents.",
+          "ar": "64 أكبر: فيه 6 عشرات (decenas)، و46 فيه 4 فقط. إذا كان هناك تردّد، اصنعوا رزم العشرة بالملاقط أو بأعواد الأسنان."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos números que tengan las mismas cifras cambiadas de sitio.",
+        "va": "Inventa'n tu una altra amb dos nombres que tinguen les mateixes xifres (cifras) canviades de lloc.",
+        "en": "Make up another one with two numbers that have the same digits (cifras) swapped round.",
+        "fr": "Invente-en une autre avec deux nombres qui ont les mêmes chiffres (cifras), mais échangés.",
+        "ar": "لنخترع سؤالًا آخر بعددين لهما الأرقام (cifras) نفسها في مكانين مختلفين."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si hicieras una encuesta en clase, ¿qué preguntarías? ¿Cómo contarías las respuestas?",
+        "va": "Si feres una enquesta a classe, què preguntaries? Com comptaries les respostes?",
+        "en": "If you did a survey in class, what would you ask? How would you count the answers?",
+        "fr": "Si tu faisais une enquête en classe, que demanderais-tu ? Comment compterais-tu les réponses ?",
+        "ar": "لو صنعنا استطلاعًا في الصف، ماذا نسأل؟ وكيف نعدّ الأجوبة؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar, preguntad: «¿Dibujarías caras, rayitas o cosas?»",
+        "va": "Si no sap per on començar, pregunteu: «Dibuixaries cares, ratlletes o coses?»",
+        "en": "If they don't know where to start, ask: “Would you draw faces, little lines or things?”",
+        "fr": "S'il ou elle ne sait pas par où commencer, demandez : « Tu dessinerais des visages, des petits traits ou des objets ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نرسم وجوهًا أم خطوطًا صغيرة أم أشياء؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Valen todas las ideas. Escuchad cómo piensa contar y dibujar las respuestas, y preguntad «¿y cómo sabrías cuál gana?».",
+          "va": "Valen totes les idees. Escolteu com pensa comptar i dibuixar les respostes, i pregunteu «i com sabries quina guanya?».",
+          "en": "All ideas are welcome. Listen to how they plan to count and draw the answers, and ask “And how would you know which one wins?”.",
+          "fr": "Toutes les idées sont bonnes. Écoutez comment votre enfant compte et dessine les réponses, et demandez « Et comment saurais-tu laquelle gagne ? ».",
+          "ar": "كل الأفكار مقبولة. استمعوا إلى طريقة العدّ ورسم الأجوبة، واسألوا: «وكيف نعرف أيّ جواب فاز؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "c80e0232c4bf"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "c80e0232c4bf"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "c80e0232c4bf"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "c80e0232c4bf"
+      }
+    }
+  }
+}

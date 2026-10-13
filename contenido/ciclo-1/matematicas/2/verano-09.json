@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.v09",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "verano": 9,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Encuesta de vacaciones",
+    "va": "Enquesta de vacances",
+    "en": "Holiday survey",
+    "fr": "Enquête de vacances",
+    "ar": "استطلاع العطلة"
+  },
+  "objetivo": {
+    "es": "En verano preguntan a la familia y a las amistades qué les gusta más del verano y hacen barras con piedras o piezas para ver qué gana.",
+    "va": "A l'estiu pregunten a la família i a les amistats què els agrada més de l'estiu i fan barres amb pedres o peces per a veure què guanya: és una enquesta (encuesta).",
+    "en": "In summer they ask family and friends what they like best about summer and make bars with stones or blocks to see what wins: it's a survey (encuesta).",
+    "fr": "En été, on demande à la famille et aux amis ce qu'ils préfèrent de l'été et on fait des barres avec des cailloux ou des pièces de jeu pour voir ce qui gagne : c'est une enquête (encuesta).",
+    "ar": "في الصيف يسأل الأطفال العائلة والأصدقاء عمّا يحبّونه أكثر في الصيف، ويصنعون أعمدة بالحصى أو القطع ليروا ما الذي يفوز: إنه استطلاع (encuesta)."
+  },
+  "comoAyudar": {
+    "es": "Dejad que haga la pregunta y que ponga una piedra por cada respuesta. Luego preguntad «¿qué barra es más alta? ¿Por cuánto?».",
+    "va": "Deixeu que faça la pregunta i que pose una pedra per cada resposta. Després pregunteu «quina barra és més alta? Per quant?».",
+    "en": "Let them ask the question and put down one stone for each answer. Then ask “Which bar is taller? By how much?”.",
+    "fr": "Laissez-le ou laissez-la poser la question et mettre un caillou pour chaque réponse. Ensuite, demandez « Quelle barre est la plus haute ? De combien ? ».",
+    "ar": "دعوا السؤال يُطرح وتوضع حصاة لكل إجابة. ثم اسألوا «أي عمود أعلى؟ وبكم؟»."
+  },
+  "saberes": [
+    "matematicas.datos.encuestas",
+    "matematicas.datos.barras"
+  ],
+  "criterios": [
+    "matematicas.c1.3.1",
+    "matematicas.c1.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Barras de piedras",
+      "va": "Barres de pedres",
+      "en": "Stone bars",
+      "fr": "Des barres de cailloux",
+      "ar": "أعمدة من الحصى"
+    },
+    "material": [
+      {
+        "es": "Piedras, conchas o piezas de construcción",
+        "va": "Pedres, petxines o peces de construcció",
+        "en": "Stones, shells or building blocks",
+        "fr": "Des cailloux, des coquillages ou des pièces de construction",
+        "ar": "حصى أو أصداف أو قطع بناء"
+      },
+      {
+        "es": "Un papel y un lápiz para dibujar las respuestas",
+        "va": "Un paper i un llapis per a dibuixar les respostes",
+        "en": "Paper and a pencil to draw the answers",
+        "fr": "Une feuille et un crayon pour dessiner les réponses",
+        "ar": "ورقة وقلم رصاص لرسم الإجابات"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Elegid una pregunta con tres respuestas: ¿qué te gusta más, la playa, la piscina o la montaña?",
+          "va": "Trieu una pregunta amb tres respostes: què t'agrada més, la platja, la piscina o la muntanya?",
+          "en": "Choose a question with three answers: what do you like best, the beach, the pool or the mountains?",
+          "fr": "Choisissez une question avec trois réponses : qu'est-ce que tu préfères, la plage, la piscine ou la montagne ?",
+          "ar": "اختاروا سؤالًا له ثلاث إجابات: ماذا تحبّ أكثر، الشاطئ أم المسبح أم الجبل؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad las tres respuestas en un papel, una al lado de otra.",
+          "va": "Dibuixeu les tres respostes en un paper, una al costat de l'altra.",
+          "en": "Draw the three answers on a piece of paper, side by side.",
+          "fr": "Dessinez les trois réponses sur une feuille, côte à côte.",
+          "ar": "ارسموا الإجابات الثلاث على ورقة، واحدة بجانب الأخرى."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Preguntad a la familia y a las amistades. Por cada respuesta, una piedra encima de su dibujo, en fila: es una barra.",
+          "va": "Pregunteu a la família i a les amistats. Per cada resposta, una pedra damunt del seu dibuix, en fila: és una barra.",
+          "en": "Ask your family and friends. For each answer, one stone above its drawing, in a line: that's a bar.",
+          "fr": "Demandez à la famille et aux amis. Pour chaque réponse, un caillou au-dessus de son dessin, en file : c'est une barre.",
+          "ar": "اسألوا العائلة والأصدقاء. لكل إجابة، حصاة فوق رسمها، في صف: هذا عمود."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad las barras: ¿cuál es la más alta? ¿Cuántas piedras de diferencia hay con la más baja?",
+          "va": "Mireu les barres: quina és la més alta? Quantes pedres de diferència hi ha amb la més baixa?",
+          "en": "Look at the bars: which is the tallest? How many stones' difference is there with the shortest?",
+          "fr": "Regardez les barres : laquelle est la plus haute ? Combien de cailloux de différence y a-t-il avec la plus basse ?",
+          "ar": "انظروا إلى الأعمدة: أيّها الأعلى؟ وكم حصاة الفرق بينه وبين الأدنى؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos respuestas y preguntad a pocas personas.",
+      "va": "Feu servir només dues respostes i pregunteu a poques persones.",
+      "en": "Use only two answers and ask just a few people.",
+      "fr": "Utilisez seulement deux réponses et interrogez peu de personnes.",
+      "ar": "استعملوا إجابتين فقط واسألوا أشخاصًا قليلين."
+    },
+    "masDificil": {
+      "es": "Haced la misma encuesta otro día con otras personas y comparad las barras de los dos días.",
+      "va": "Feu la mateixa enquesta un altre dia amb altres persones i compareu les barres dels dos dies.",
+      "en": "Do the same survey another day with other people and compare the bars from the two days.",
+      "fr": "Faites la même enquête un autre jour avec d'autres personnes et comparez les barres des deux jours.",
+      "ar": "أجروا الاستطلاع نفسه في يوم آخر مع أشخاص آخرين وقارنوا أعمدة اليومين."
+    },
+    "paraQueSirve": {
+      "es": "Preguntar, contar y hacer barras ayuda a ver de un vistazo lo que piensa la gente, como en los gráficos de barras de 3.º.",
+      "va": "Preguntar, comptar i fer barres ajuda a veure d'una ullada el que pensa la gent, com en els gràfics de barres (gráficos de barras) de 3r.",
+      "en": "Asking, counting and making bars helps to see at a glance what people think, like the bar charts (gráficos de barras) of 3rd year.",
+      "fr": "Demander, compter et faire des barres aide à voir d'un coup d'œil ce que pensent les gens, comme les diagrammes en barres (gráficos de barras) de la 3e année.",
+      "ar": "السؤال والعدّ وصنع الأعمدة تساعد على رؤية ما يفكّر فيه الناس بنظرة واحدة، مثل مخططات الأعمدة (gráficos de barras) في الصف الثالث."
+    },
+    "aviso": {
+      "es": "Si usáis piedras o piezas pequeñas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir pedres o peces menudes, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use small stones or pieces, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de petits cailloux ou de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم حصى أو قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la encuesta, 9 personas prefieren la playa y 5, la piscina. ¿Cuántas personas más eligen la playa?",
+        "va": "En l'enquesta, 9 persones preferixen la platja i 5, la piscina. Quantes persones més trien la platja?",
+        "en": "In the survey, 9 people prefer the beach and 5 the pool. How many more people choose the beach?",
+        "fr": "Dans l'enquête, 9 personnes préfèrent la plage et 5, la piscine. Combien de personnes de plus choisissent la plage ?",
+        "ar": "في الاستطلاع، يفضّل 9 أشخاص الشاطئ و5 المسبح. كم شخصًا أكثر يختارون الشاطئ؟"
+      },
+      "pista": {
+        "es": "Pon las dos barras una al lado de otra y mira lo que sobresale.",
+        "va": "Posa les dues barres una al costat de l'altra i mira el que sobreïx.",
+        "en": "Put the two bars side by side and look at what sticks out.",
+        "fr": "Mets les deux barres côte à côte et regarde ce qui dépasse.",
+        "ar": "لنضع العمودين جنبًا إلى جنب ونرى ما الذي يزيد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 5",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "4 personas más eligen la playa: {{9 − 5 = 4}}.",
+          "va": "4 persones més trien la platja: {{9 − 5 = 4}}.",
+          "en": "4 more people choose the beach: {{9 − 5 = 4}}.",
+          "fr": "4 personnes de plus choisissent la plage : {{9 − 5 = 4}}.",
+          "ar": "4 أشخاص أكثر يختارون الشاطئ: {{9 − 5 = 4}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con dos barras de tu encuesta.",
+        "va": "Ara inventa'n tu una amb dues barres de la teua enquesta.",
+        "en": "Now you make one up with two bars from your survey.",
+        "fr": "Maintenant, invente une question avec deux barres de ton enquête.",
+        "ar": "والآن لنخترع سؤالًا عن عمودين من استطلاعنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "La barra de los helados tiene 15 piedras y la de los polos, 8. ¿Cuál es más alta, y por cuántas piedras?",
+        "va": "La barra dels gelats té 15 pedres i la dels gelats de pal, 8. Quina és més alta, i per quantes pedres?",
+        "en": "The ice cream bar has 15 stones and the ice lolly bar has 8. Which is taller, and by how many stones?",
+        "fr": "La barre des glaces a 15 cailloux et celle des glaces à l'eau, 8. Laquelle est la plus haute, et de combien de cailloux ?",
+        "ar": "في عمود البوظة 15 حصاة وفي عمود المثلّجات 8. أيّهما أعلى، وبكم حصاة؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde 8 hasta 15.",
+        "va": "Compta amb els dits des de 8 fins a 15.",
+        "en": "Count on your fingers from 8 up to 15.",
+        "fr": "Compte sur tes doigts de 8 jusqu'à 15.",
+        "ar": "لنعدّ على الأصابع من 8 حتى 15."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 - 8",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "La de los helados, por 7 piedras: {{8 + 7 = 15}}.",
+          "va": "La dels gelats, per 7 pedres: {{8 + 7 = 15}}.",
+          "en": "The ice cream bar, by 7 stones: {{8 + 7 = 15}}.",
+          "fr": "Celle des glaces, de 7 cailloux : {{8 + 7 = 15}}.",
+          "ar": "عمود البوظة، بـ7 حصيات: {{8 + 7 = 15}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos sabores de helado.",
+        "va": "Inventa'n tu una altra amb dos sabors de gelat.",
+        "en": "Make up another one with two ice cream flavours.",
+        "fr": "Invente-en une autre avec deux parfums de glace.",
+        "ar": "لنخترع سؤالًا آخر عن نكهتين من البوظة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En la encuesta, 6 personas eligen la playa, 4 la piscina y 3 la montaña. ¿Cuántas personas han contestado?",
+        "va": "En l'enquesta, 6 persones trien la platja, 4 la piscina i 3 la muntanya. Quantes persones han contestat?",
+        "en": "In the survey, 6 people choose the beach, 4 the pool and 3 the mountains. How many people answered?",
+        "fr": "Dans l'enquête, 6 personnes choisissent la plage, 4 la piscine et 3 la montagne. Combien de personnes ont répondu ?",
+        "ar": "في الاستطلاع، اختار 6 أشخاص الشاطئ و4 المسبح و3 الجبل. كم شخصًا أجاب؟"
+      },
+      "pista": {
+        "es": "Junta primero 6 y 4, que hacen 10.",
+        "va": "Ajunta primer 6 i 4, que fan 10.",
+        "en": "First put 6 and 4 together, which make 10.",
+        "fr": "Réunis d'abord 6 et 4, qui font 10.",
+        "ar": "لنجمع أولًا 6 و4، فهما 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 4 + 3",
+        "resultado": 13,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Han contestado 13 personas: {{6 + 4 + 3 = 13}}.",
+          "va": "Han contestat 13 persones: {{6 + 4 + 3 = 13}}.",
+          "en": "13 people answered: {{6 + 4 + 3 = 13}}.",
+          "fr": "13 personnes ont répondu : {{6 + 4 + 3 = 13}}.",
+          "ar": "أجاب 13 شخصًا: {{6 + 4 + 3 = 13}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una juntando todas las piedras de tus barras.",
+        "va": "Inventa'n tu una ajuntant totes les pedres de les teues barres.",
+        "en": "Make one up putting together all the stones in your bars.",
+        "fr": "Invente une question en réunissant tous les cailloux de tes barres.",
+        "ar": "لنخترع سؤالًا نجمع فيه كل حصى أعمدتنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 35,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar el número que falta: una barra tiene 13 piedras. ¿Cuántas faltan para llegar a 20?",
+        "va": "Per a recordar el nombre que falta: una barra té 13 pedres. Quantes en falten per a arribar a 20?",
+        "en": "Let's remember the missing number: a bar has 13 stones. How many more to get to 20?",
+        "fr": "Pour se souvenir du nombre qui manque : une barre a 13 cailloux. Combien en manque-t-il pour arriver à 20 ?",
+        "ar": "لنتذكّر العدد الناقص: في عمود 13 حصاة. كم حصاة تنقص للوصول إلى 20؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde 13 hasta 20.",
+        "va": "Compta amb els dits des de 13 fins a 20.",
+        "en": "Count on your fingers from 13 up to 20.",
+        "fr": "Compte sur tes doigts de 13 jusqu'à 20.",
+        "ar": "لنعدّ على الأصابع من 13 حتى 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 13",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 7 piedras: {{13 + 7 = 20}}.",
+          "va": "En falten 7: {{13 + 7 = 20}}.",
+          "en": "7 more stones: {{13 + 7 = 20}}.",
+          "fr": "Il en manque 7 : {{13 + 7 = 20}}.",
+          "ar": "تنقص 7 حصيات: {{13 + 7 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un número que falta para llegar a 30.",
+        "va": "Inventa'n tu una altra amb un nombre que falta per a arribar a 30.",
+        "en": "Make up another one with a number missing to get to 30.",
+        "fr": "Invente-en une autre avec un nombre qui manque pour arriver à 30.",
+        "ar": "لنخترع سؤالًا آخر عن عدد ناقص للوصول إلى 30."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo has hecho las barras de tu encuesta? Explícame qué has descubierto.",
+        "va": "Com has fet les barres de la teua enquesta? Explica'm què has descobert.",
+        "en": "How did you make the bars for your survey? Explain to me what you found out.",
+        "fr": "Comment as-tu fait les barres de ton enquête ? Explique-moi ce que tu as découvert.",
+        "ar": "كيف صنعنا أعمدة استطلاعنا؟ لنشرح ماذا اكتشفنا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué le gusta más a nuestra familia? ¿Cómo lo sabes?»",
+        "va": "Si no sap per on començar: «Què li agrada més a la nostra família? Com ho saps?»",
+        "en": "If they don't know where to start: “What does our family like best? How do you know?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que notre famille préfère ? Comment tu le sais ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا تحبّ عائلتنا أكثر؟ وكيف نعرف ذلك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b70c3aea3bfc"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b70c3aea3bfc"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b70c3aea3bfc"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b70c3aea3bfc"
+      }
+    }
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s19",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 19,
+  "tipo": "tema",
+  "titulo": {
+    "es": "El doble",
+    "va": "El doble",
+    "en": "Double",
+    "fr": "Le double",
+    "ar": "الضعف"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren el doble: lo mismo otra vez. Ponen las mismas cosas en dos platos y cuentan cuántas hay entre los dos.",
+    "va": "Aquesta setmana descobrixen el doble: el mateix una altra vegada. Posen les mateixes coses en dos plats i compten quantes n'hi ha entre els dos.",
+    "en": "This week they discover double (doble): the same again. They put the same things on two plates and count how many there are on both.",
+    "fr": "Cette semaine, on découvre le double (doble) : la même chose encore une fois. On met les mêmes choses dans deux assiettes et on compte combien il y en a en tout.",
+    "ar": "هذا الأسبوع يكتشف الأطفال الضعف (doble): الشيء نفسه مرة أخرى. يضعون الأشياء نفسها في صحنين ويعدّون كم يوجد في الصحنين معًا."
+  },
+  "comoAyudar": {
+    "es": "Usad la palabra «doble» en casa: «el doble de 3 son 3 y 3». Si se lía, volved a las legumbres y contad juntos los dos platos.",
+    "va": "Utilitzeu la paraula «doble» a casa: «el doble de 3 són 3 i 3». Si s'embolica, torneu als llegums i compteu junts els dos plats.",
+    "en": "Use the word “double” at home: “double 3 is 3 and 3”. If your child gets muddled, go back to the beans and count both plates together.",
+    "fr": "Utilisez le mot « double » à la maison : « le double de 3, c'est 3 et 3 ». Si votre enfant s'embrouille, revenez aux haricots et comptez ensemble les deux assiettes.",
+    "ar": "استعملوا كلمة «الضعف» في البيت: «ضعف 3 هو 3 و3». وإذا حصل ارتباك، عودوا إلى البقوليات وعدّوا الصحنين معًا."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.2.2",
+    "matematicas.c1.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El espejo",
+      "va": "L'espill",
+      "en": "The mirror",
+      "fr": "Le miroir",
+      "ar": "المرآة"
+    },
+    "material": [
+      {
+        "es": "Legumbres secas o botones",
+        "va": "Llegums secs o botons",
+        "en": "Dried beans or buttons",
+        "fr": "Des légumes secs ou des boutons",
+        "ar": "بقوليات جافّة أو أزرار"
+      },
+      {
+        "es": "Dos platos",
+        "va": "Dos plats",
+        "en": "Two plates",
+        "fr": "Deux assiettes",
+        "ar": "صحنان"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Una persona pone en su plato entre 1 y 10 legumbres.",
+          "va": "Una persona posa en el seu plat entre 1 i 10 llegums.",
+          "en": "One person puts between 1 and 10 beans on their plate.",
+          "fr": "Une personne met entre 1 et 10 haricots dans son assiette.",
+          "ar": "يضع شخص في صحنه من 1 إلى 10 حبّات بقول."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "La otra hace de espejo: pone en su plato las mismas, una frente a otra.",
+          "va": "L'altra fa d'espill: posa en el seu plat les mateixes, una davant de l'altra.",
+          "en": "The other person is the mirror: they put the same number on their plate, one opposite each.",
+          "fr": "L'autre fait le miroir : elle met les mêmes dans son assiette, une en face de chaque.",
+          "ar": "ويكون الشخص الآخر المرآة: يضع في صحنه العدد نفسه، حبّة مقابل حبّة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad las de los dos platos. Ese número es el doble del primero.",
+          "va": "Compteu els dels dos plats. Eixe nombre és el doble del primer.",
+          "en": "Count the beans on both plates. That number is double the first one.",
+          "fr": "Comptez ceux des deux assiettes. Ce nombre est le double du premier.",
+          "ar": "عدّوا حبّات الصحنين. هذا العدد هو ضعف العدد الأول."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad los dos platos con puntos. Luego cambiad: ahora empieza la otra persona.",
+          "va": "Dibuixeu els dos plats amb punts. Després canvieu: ara comença l'altra persona.",
+          "en": "Draw the two plates with dots. Then swap: now the other person starts.",
+          "fr": "Dessinez les deux assiettes avec des points. Puis changez : c'est l'autre personne qui commence.",
+          "ar": "ارسموا الصحنين بالنقاط. ثم تبادلوا الأدوار: الآن يبدأ الشخص الآخر."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad hasta 5 y haced el espejo con los dedos: 3 dedos en una mano y 3 en la otra.",
+      "va": "Jugueu fins a 5 i feu l'espill amb els dits: 3 dits en una mà i 3 en l'altra.",
+      "en": "Play up to 5 and make the mirror with your fingers: 3 fingers on one hand and 3 on the other.",
+      "fr": "Jouez jusqu'à 5 et faites le miroir avec les doigts : 3 doigts sur une main et 3 sur l'autre.",
+      "ar": "العبوا حتى 5، واصنعوا المرآة بالأصابع: 3 أصابع في يد و3 في الأخرى."
+    },
+    "masDificil": {
+      "es": "Decid el doble antes de poner las legumbres del espejo, y luego contad para ver si era así.",
+      "va": "Digueu el doble abans de posar els llegums de l'espill, i després compteu per a veure si era així.",
+      "en": "Say the double before putting the mirror beans down, then count to see if you were right.",
+      "fr": "Dites le double avant de poser les haricots du miroir, puis comptez pour voir si c'était bien ça.",
+      "ar": "قولوا الضعف قبل وضع حبّات المرآة، ثم عدّوا لتروا هل كان كذلك."
+    },
+    "paraQueSirve": {
+      "es": "Los dobles son sumas que se aprenden pronto de memoria y ayudan a calcular otras: si 5 y 5 son 10, 5 y 6 son uno más.",
+      "va": "Els dobles són sumes que s'aprenen prompte de memòria i ajuden a calcular-ne altres: si 5 i 5 són 10, 5 i 6 són un més.",
+      "en": "Doubles are additions that children soon know by heart, and they help with others: if 5 and 5 make 10, 5 and 6 make one more.",
+      "fr": "Les doubles sont des additions qu'on retient vite par cœur et qui aident à en calculer d'autres : si 5 et 5 font 10, 5 et 6 font un de plus.",
+      "ar": "الأضعاف عمليات جمع تُحفظ بسرعة، وتساعد على حساب غيرها: إذا كان 5 و5 يساويان 10، فإن 5 و6 أكثر بواحد."
+    },
+    "aviso": {
+      "es": "Si usáis legumbres o piezas pequeñas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si utilitzeu llegums o peces menudes, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use dried beans or small pieces, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des légumes secs ou de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم البقوليات أو قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En un plato hay 4 fresas y en otro ponemos las mismas. ¿Cuántas fresas hay en los dos platos?",
+        "va": "En un plat hi ha 4 maduixes i en un altre posem les mateixes. Quantes maduixes hi ha en els dos plats?",
+        "en": "There are 4 strawberries on one plate and we put the same on another. How many strawberries are on both plates?",
+        "fr": "Dans une assiette, il y a 4 fraises et dans une autre on met les mêmes. Combien de fraises y a-t-il dans les deux assiettes ?",
+        "ar": "في صحن 4 فراولات، ونضع في صحن آخر العدد نفسه. كم فراولة في الصحنين؟"
+      },
+      "pista": {
+        "es": "Levanta 4 dedos en cada mano y cuéntalos todos.",
+        "va": "Alça 4 dits en cada mà i compta'ls tots.",
+        "en": "Hold up 4 fingers on each hand and count them all.",
+        "fr": "Lève 4 doigts sur chaque main et compte-les tous.",
+        "ar": "لنرفع 4 أصابع في كل يد ونعدّها كلها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 4",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 8 fresas: el doble de 4 es 8, {{4 + 4 = 8}}.",
+          "va": "Hi ha 8 maduixes: el doble de 4 és 8, {{4 + 4 = 8}}.",
+          "en": "There are 8 strawberries: double 4 is 8, {{4 + 4 = 8}}.",
+          "fr": "Il y a 8 fraises : le double de 4, c'est 8, {{4 + 4 = 8}}.",
+          "ar": "يوجد 8 فراولات: ضعف 4 هو 8، {{4 + 4 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos platos y fruta de casa.",
+        "va": "Inventa'n tu una altra amb dos plats i fruita de casa.",
+        "en": "Make up another one with two plates and fruit from home.",
+        "fr": "Invente-en une autre avec deux assiettes et des fruits de la maison.",
+        "ar": "لنخترع سؤالًا آخر بصحنين وفاكهة من البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Una mariquita tiene 5 puntos en un ala y los mismos en la otra. ¿Cuántos puntos tiene?",
+        "va": "Una marieta té 5 punts en una ala i els mateixos en l'altra. Quants punts té?",
+        "en": "A ladybird has 5 spots on one wing and the same on the other. How many spots does it have?",
+        "fr": "Une coccinelle a 5 points sur une aile et autant sur l'autre. Combien de points a-t-elle ?",
+        "ar": "خنفساء الدعسوقة فيها 5 نقاط على جناح والعدد نفسه على الآخر. كم نقطة فيها؟"
+      },
+      "pista": {
+        "es": "Abre las dos manos: cada una es un ala.",
+        "va": "Obri les dues mans: cada una és una ala.",
+        "en": "Open both hands: each one is a wing.",
+        "fr": "Ouvre les deux mains : chacune est une aile.",
+        "ar": "لنفتح اليدين: كل يد جناح."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 5",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 10 puntos: el doble de 5 es 10.",
+          "va": "Té 10 punts: el doble de 5 és 10.",
+          "en": "It has 10 spots: double 5 is 10.",
+          "fr": "Elle a 10 points : le double de 5, c'est 10.",
+          "ar": "فيها 10 نقاط: ضعف 5 هو 10."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra dibujando una mariquita con los puntos que quieras.",
+        "va": "Inventa'n tu una altra dibuixant una marieta amb els punts que vulgues.",
+        "en": "Make up another one by drawing a ladybird with as many spots as you like.",
+        "fr": "Invente-en une autre en dessinant une coccinelle avec les points que tu veux.",
+        "ar": "لنخترع سؤالًا آخر برسم دعسوقة بالنقاط التي نريدها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Iker tiene 20 cromos y su tía le da los mismos. ¿Cuántos tiene ahora?",
+        "va": "Iker té 20 cromos i sa tia li'n dona els mateixos. Quants en té ara?",
+        "en": "Iker has 20 stickers and his aunt gives him the same number. How many does he have now?",
+        "fr": "Iker a 20 images et sa tante lui en donne autant. Combien en a-t-il maintenant ?",
+        "ar": "عند إيكر 20 صورة، وأعطته عمّته العدد نفسه. كم صورة عنده الآن؟"
+      },
+      "pista": {
+        "es": "Piensa en 2 decenas y 2 decenas más.",
+        "va": "Pensa en 2 desenes i 2 desenes més.",
+        "en": "Think of 2 tens and 2 more tens.",
+        "fr": "Pense à 2 dizaines et encore 2 dizaines.",
+        "ar": "لنفكّر في عشرتين وعشرتين أخريين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 + 20",
+        "resultado": 40,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ahora tiene 40: el doble de 20 es 40, {{20 + 20 = 40}}.",
+          "va": "Ara en té 40: el doble de 20 és 40, {{20 + 20 = 40}}.",
+          "en": "Now he has 40: double 20 is 40, {{20 + 20 = 40}}.",
+          "fr": "Il en a maintenant 40 : le double de 20, c'est 40, {{20 + 20 = 40}}.",
+          "ar": "عنده الآن 40: ضعف 20 هو 40، {{20 + 20 = 40}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el doble de 10 o de 30.",
+        "va": "Inventa'n tu una altra amb el doble de 10 o de 30.",
+        "en": "Make up another one with double 10 or double 30.",
+        "fr": "Invente-en une autre avec le double de 10 ou de 30.",
+        "ar": "لنخترع سؤالًا آخر بضعف 10 أو ضعف 30."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 8,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: tienes 3 vasos con 10 legumbres cada uno y 4 legumbres sueltas. ¿Qué número es?",
+        "va": "Per a recordar: tens 3 gots amb 10 llegums cada un i 4 llegums soltes. Quin nombre és?",
+        "en": "Let's remember: you have 3 cups with 10 beans each and 4 loose beans. What number is that?",
+        "fr": "Pour se souvenir : tu as 3 verres avec 10 haricots chacun et 4 haricots tout seuls. Quel nombre est-ce ?",
+        "ar": "لنتذكّر: عندنا 3 أكواب في كل منها 10 حبّات، و4 حبّات وحدها. ما العدد؟"
+      },
+      "pista": {
+        "es": "Cada vaso es una decena: cuenta los vasos de 10 en 10 y luego las sueltas.",
+        "va": "Cada got és una desena: compta els gots de 10 en 10 i després les soltes.",
+        "en": "Each cup is a ten: count the cups in 10s and then the loose ones.",
+        "fr": "Chaque verre est une dizaine : compte les verres de 10 en 10, puis ceux qui sont seuls.",
+        "ar": "كل كوب عشرة: لنعدّ الأكواب عشرة عشرة، ثم الحبّات الوحيدة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "30 + 4",
+        "resultado": 34,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es el 34: 3 decenas y 4 unidades.",
+          "va": "És el 34: 3 desenes i 4 unitats (unidades).",
+          "en": "It is 34: 3 tens and 4 ones (unidades).",
+          "fr": "C'est 34 : 3 dizaines et 4 unités (unidades).",
+          "ar": "إنه 34: ثلاث عشرات و4 آحاد (unidades)."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con vasos y legumbres de casa.",
+        "va": "Inventa'n tu una altra amb gots i llegums de casa.",
+        "en": "Make up another one with cups and beans from home.",
+        "fr": "Invente-en une autre avec des verres et des haricots de la maison.",
+        "ar": "لنخترع سؤالًا آخر بأكواب وبقوليات من البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Enséñame con los dedos cuál es el doble de 4. ¿Cómo lo has sabido?",
+        "va": "Ensenya'm amb els dits quin és el doble de 4. Com ho has sabut?",
+        "en": "Show me with your fingers what double 4 is. How did you know?",
+        "fr": "Montre-moi avec tes doigts le double de 4. Comment l'as-tu su ?",
+        "ar": "لنُرِ بالأصابع ما ضعف 4. كيف عرفنا ذلك؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Y si pones 4 en esta mano y 4 en la otra?».",
+        "va": "Si no sap per on començar: «I si poses 4 en esta mà i 4 en l'altra?».",
+        "en": "If they don't know where to start: “What if you put 4 on this hand and 4 on the other?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Et si tu mets 4 sur cette main et 4 sur l'autre ? »",
+        "ar": "إذا صعُبت البداية، اقترحوا: «ماذا لو رفعنا 4 في هذه اليد و4 في الأخرى؟»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede contar todos los dedos o saber que 4 y 4 son 8: las dos maneras valen. Escuchad y dad las gracias por la explicación.",
+          "va": "Pot comptar tots els dits o saber que 4 i 4 són 8: les dues maneres valen. Escolteu i doneu les gràcies per l'explicació.",
+          "en": "Your child may count all the fingers or know that 4 and 4 make 8: both ways are fine. Listen and say thank you for the explanation.",
+          "fr": "Votre enfant peut compter tous les doigts ou savoir que 4 et 4 font 8 : les deux façons sont bonnes. Écoutez et dites merci pour l'explication.",
+          "ar": "يمكن عدّ كل الأصابع أو معرفة أن 4 و4 يساويان 8: الطريقتان جيّدتان. استمعوا وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "6309e5506f76"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "6309e5506f76"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "6309e5506f76"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "6309e5506f76"
+      }
+    }
+  }
+}

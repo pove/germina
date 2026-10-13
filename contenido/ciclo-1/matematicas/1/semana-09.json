@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s09",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 9,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Pares y nones",
+    "va": "Parells i senars",
+    "en": "Odds and evens",
+    "fr": "Pair ou impair",
+    "ar": "زوجي أو فردي"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren los números pares e impares: si al hacer parejas no sobra ninguno, el número es par; si sobra uno, es impar.",
+    "va": "Aquesta setmana descobrixen els nombres parells (par) i imparells (impar): si en fer parelles no en sobra cap, el nombre és parell; si en sobra un, és imparell.",
+    "en": "This week they discover even (par) and odd (impar) numbers: if you make pairs and none is left over, the number is even; if one is left over, it is odd.",
+    "fr": "Cette semaine, on découvre les nombres pairs (par) et impairs (impar) : si, en faisant des paires, il n'en reste aucun, le nombre est pair ; s'il en reste un, il est impair.",
+    "ar": "هذا الأسبوع يكتشف الأطفال الأعداد الزوجية (par) والفردية (impar): إذا كوّنّا أزواجًا ولم يبقَ شيء، فالعدد زوجي؛ وإذا بقي واحد، فالعدد فردي."
+  },
+  "comoAyudar": {
+    "es": "Usad cosas que se puedan mover con la mano y dejad que haga las parejas juntándolas de dos en dos. Si duda, preguntad: «¿Se ha quedado alguno sin pareja?»",
+    "va": "Feu servir coses que es puguen moure amb la mà i deixeu que faça les parelles ajuntant-les de dos en dos. Si dubta, pregunteu: «S'ha quedat algun sense parella?»",
+    "en": "Use things that can be moved by hand and let them make the pairs by putting things together two by two. If they're unsure, ask: “Is any of them left without a partner?”",
+    "fr": "Utilisez des choses qu'on peut déplacer avec la main et laissez votre enfant faire les paires en les réunissant deux par deux. En cas de doute, demandez : « Est-ce qu'il y en a un qui reste sans partenaire ? »",
+    "ar": "استعملوا أشياء يمكن تحريكها باليد، واتركوا تكوين الأزواج يتمّ بجمع الأشياء اثنين اثنين. عند التردّد، اسألوا: «هل بقي شيء بلا شريك؟»"
+  },
+  "saberes": [
+    "matematicas.numeros.estructura",
+    "matematicas.computacional.secuencias-figuras"
+  ],
+  "criterios": [
+    "matematicas.c1.2.3",
+    "matematicas.c1.2.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Calcetines por parejas",
+      "va": "Calcetins per parelles",
+      "en": "Socks in pairs",
+      "fr": "Chaussettes par paires",
+      "ar": "جوارب أزواجًا"
+    },
+    "material": [
+      {
+        "es": "Calcetines limpios sueltos o pinzas de la ropa",
+        "va": "Calcetins nets solts o pinces de la roba",
+        "en": "Loose clean socks or clothes pegs",
+        "fr": "Des chaussettes propres dépareillées ou des pinces à linge",
+        "ar": "جوارب نظيفة متفرّقة أو ملاقط غسيل"
+      },
+      {
+        "es": "Una mesa, una cama o un trozo de suelo despejado",
+        "va": "Una taula, un llit o un tros de terra lliure",
+        "en": "A table, a bed or a clear patch of floor",
+        "fr": "Une table, un lit ou un coin de sol dégagé",
+        "ar": "طاولة أو سرير أو جزء فارغ من الأرض"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "calcetin",
+        "texto": {
+          "es": "Coged un puñado de calcetines o de pinzas y contad cuántos hay.",
+          "va": "Agafeu un grapat de calcetins o de pinces i compteu quants n'hi ha.",
+          "en": "Grab a handful of socks or pegs and count how many there are.",
+          "fr": "Prenez une poignée de chaussettes ou de pinces et comptez combien il y en a.",
+          "ar": "خذوا حفنة من الجوارب أو الملاقط، وعدّوا كم عددها."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Haced parejas: juntadlos de dos en dos.",
+          "va": "Feu parelles: ajunteu-los de dos en dos.",
+          "en": "Make pairs: put them together two by two.",
+          "fr": "Faites des paires : réunissez-les deux par deux.",
+          "ar": "كوّنوا أزواجًا: اجمعوها اثنين اثنين."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Sobra alguno sin pareja? Si no sobra ninguno, el número es par. Si sobra uno, es impar.",
+          "va": "En sobra algun sense parella? Si no en sobra cap, el nombre és parell. Si en sobra un, és imparell.",
+          "en": "Is one left without a partner? If none is left over, the number is even. If one is left over, it is odd.",
+          "fr": "Est-ce qu'il en reste un sans partenaire ? S'il n'en reste aucun, le nombre est pair. S'il en reste un, il est impair.",
+          "ar": "هل بقي واحد بلا شريك؟ إذا لم يبقَ شيء، فالعدد زوجي. وإذا بقي واحد، فهو فردي."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Coged otro puñado y adivinad antes de hacer las parejas: ¿será par o impar?",
+          "va": "Agafeu un altre grapat i endevineu abans de fer les parelles: serà parell o imparell?",
+          "en": "Grab another handful and guess before making the pairs: will it be even or odd?",
+          "fr": "Prenez une autre poignée et devinez avant de faire les paires : est-ce que ce sera pair ou impair ?",
+          "ar": "خذوا حفنة أخرى وخمّنوا قبل تكوين الأزواج: هل سيكون العدد زوجيًا أم فرديًا؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Coged puñados pequeños, de 2 a 10 cosas.",
+      "va": "Agafeu grapats xicotets, de 2 a 10 coses.",
+      "en": "Take small handfuls, from 2 to 10 things.",
+      "fr": "Prenez de petites poignées, de 2 à 10 choses.",
+      "ar": "خذوا حفنات صغيرة، من 2 إلى 10 أشياء."
+    },
+    "masDificil": {
+      "es": "Con puñados de hasta 20, contad de dos en dos (2, 4, 6…) para saber si es par sin hacer las parejas.",
+      "va": "Amb grapats de fins a 20, compteu de dos en dos (2, 4, 6…) per a saber si és parell sense fer les parelles.",
+      "en": "With handfuls of up to 20, count in twos (2, 4, 6…) to find out if it's even without making the pairs.",
+      "fr": "Avec des poignées jusqu'à 20, comptez de deux en deux (2, 4, 6…) pour savoir si c'est pair sans faire les paires.",
+      "ar": "مع حفنات فيها حتى 20 شيئًا، عدّوا اثنين اثنين (2، 4، 6…) لتعرفوا إن كان العدد زوجيًا من دون تكوين الأزواج."
+    },
+    "paraQueSirve": {
+      "es": "Saber si un número es par o impar ayuda a repartir entre dos y es el primer paso para contar de dos en dos.",
+      "va": "Saber si un nombre és parell o imparell ajuda a repartir entre dos i és el primer pas per a comptar de dos en dos.",
+      "en": "Knowing whether a number is even or odd helps when sharing between two, and it's the first step to counting in twos.",
+      "fr": "Savoir si un nombre est pair ou impair aide à partager entre deux, et c'est le premier pas pour compter de deux en deux.",
+      "ar": "معرفة إن كان العدد زوجيًا أو فرديًا تساعد على التوزيع بين اثنين، وهي الخطوة الأولى للعدّ اثنين اثنين."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Lucía tiene 8 calcetines sueltos. ¿Puede hacer parejas sin que sobre ninguno?",
+        "va": "Lucía té 8 calcetins solts. Pot fer parelles sense que en sobre cap?",
+        "en": "Lucía has 8 loose socks. Can she make pairs without any left over?",
+        "fr": "Lucía a 8 chaussettes dépareillées. Peut-elle faire des paires sans qu'il en reste ?",
+        "ar": "عند لوسيا 8 جوارب متفرّقة. هل تستطيع تكوين أزواج من دون أن يبقى أيّ جورب؟"
+      },
+      "pista": {
+        "es": "Haz las parejas con 8 cosas de casa, de dos en dos.",
+        "va": "Fes les parelles amb 8 coses de casa, de dos en dos.",
+        "en": "Make the pairs with 8 things from home, two by two.",
+        "fr": "Fais les paires avec 8 choses de la maison, deux par deux.",
+        "ar": "لنكوّن الأزواج بثمانية أشياء من البيت، اثنين اثنين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 2 + 2",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí: salen 4 parejas y no sobra ninguno. El 8 es par.",
+          "va": "Sí: ixen 4 parelles i no en sobra cap. El 8 és parell.",
+          "en": "Yes: she gets 4 pairs and none is left over. 8 is even.",
+          "fr": "Oui : on obtient 4 paires et il n'en reste aucune. 8 est pair.",
+          "ar": "نعم: تخرج 4 أزواج ولا يبقى شيء. العدد 8 زوجي."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con los zapatos de casa.",
+        "va": "Ara inventa'n tu una amb les sabates de casa.",
+        "en": "Now you make one up with the shoes at home.",
+        "fr": "Maintenant, invente une question avec les chaussures de la maison.",
+        "ar": "والآن لنخترع سؤالًا بأحذية البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "En la mesa hay 7 cucharas. Si las pones de dos en dos, ¿sobra alguna?",
+        "va": "A la taula hi ha 7 culleres. Si les poses de dos en dos, en sobra alguna?",
+        "en": "There are 7 spoons on the table. If you put them in twos, is any left over?",
+        "fr": "Sur la table, il y a 7 cuillères. Si tu les mets deux par deux, est-ce qu'il en reste une ?",
+        "ar": "على الطاولة 7 ملاعق. إذا وضعناها اثنتين اثنتين، هل تبقى ملعقة؟"
+      },
+      "pista": {
+        "es": "Quita las cucharas de dos en dos y mira cuántas quedan al final.",
+        "va": "Lleva les culleres de dos en dos i mira quantes en queden al final.",
+        "en": "Take the spoons away two at a time and see how many are left at the end.",
+        "fr": "Enlève les cuillères deux par deux et regarde combien il en reste à la fin.",
+        "ar": "لننزع الملاعق اثنتين اثنتين، ونرى كم يبقى في النهاية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 - 2 - 2 - 2",
+        "resultado": 1,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, sobra 1: salen 3 parejas. El 7 es impar.",
+          "va": "Sí, en sobra 1: ixen 3 parelles. El 7 és imparell.",
+          "en": "Yes, 1 is left over: you get 3 pairs. 7 is odd.",
+          "fr": "Oui, il en reste 1 : on obtient 3 paires. 7 est impair.",
+          "ar": "نعم، تبقى ملعقة واحدة: تخرج 3 أزواج. العدد 7 فردي."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con los platos o los vasos de la cocina.",
+        "va": "Inventa'n tu una altra amb els plats o els gots de la cuina.",
+        "en": "Make up another one with the plates or glasses in the kitchen.",
+        "fr": "Invente-en une autre avec les assiettes ou les verres de la cuisine.",
+        "ar": "لنخترع سؤالًا آخر بأطباق المطبخ أو أكوابه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Cuenta saltando de dos en dos, como una rana: 2, 4, 6, 8… ¿Qué número viene después?",
+        "va": "Compta botant de dos en dos, com una granota: 2, 4, 6, 8… Quin nombre ve després?",
+        "en": "Count jumping in twos, like a frog: 2, 4, 6, 8… What number comes next?",
+        "fr": "Compte en sautant de deux en deux, comme une grenouille : 2, 4, 6, 8… Quel nombre vient après ?",
+        "ar": "لنعدّ ونحن نقفز اثنين اثنين، مثل الضفدع: 2، 4، 6، 8… ما العدد التالي؟"
+      },
+      "pista": {
+        "es": "Di los números bajito y en voz alta, uno sí y uno no: uno, DOS, tres, CUATRO…",
+        "va": "Digues els nombres fluixet i en veu alta, un sí i un no: u, DOS, tres, QUATRE…",
+        "en": "Say the numbers quietly and loudly, taking turns: one, TWO, three, FOUR…",
+        "fr": "Dis les nombres tout bas et à voix haute, un sur deux : un, DEUX, trois, QUATRE…",
+        "ar": "لنقل الأعداد بصوت منخفض ثم مرتفع بالتناوب: واحد، اثنان، ثلاثة، أربعة… ونرفع الصوت عند الزوجي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 2",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Viene el 10. Todos los números de esta fila son pares.",
+          "va": "Ve el 10. Tots els nombres d'esta fila són parells.",
+          "en": "Next comes 10. All the numbers in this row are even.",
+          "fr": "Ensuite vient 10. Tous les nombres de cette suite sont pairs.",
+          "ar": "يأتي العدد 10. كل الأعداد في هذا الصف زوجية."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra fila saltando de dos en dos, pero empezando por el 1.",
+        "va": "Inventa tu una altra fila botant de dos en dos, però començant per l'1.",
+        "en": "Make up another row jumping in twos, but starting from 1.",
+        "fr": "Invente une autre suite en sautant de deux en deux, mais en commençant par 1.",
+        "ar": "لنخترع صفًا آخر نقفز فيه اثنين اثنين، لكن نبدأ من 1."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: tienes 2 paquetes de 10 palillos y 3 palillos sueltos. ¿Cuántos palillos tienes?",
+        "va": "Per a recordar: tens 2 paquets de 10 escuradents i 3 escuradents solts. Quants escuradents tens?",
+        "en": "Let's remember: you have 2 bundles of 10 sticks and 3 loose sticks. How many sticks do you have?",
+        "fr": "Pour se souvenir : tu as 2 paquets de 10 bâtonnets et 3 bâtonnets seuls. Combien de bâtonnets as-tu ?",
+        "ar": "لنتذكّر: عندنا حزمتان في كل منهما 10 أعواد، و3 أعواد منفردة. كم عودًا عندنا؟"
+      },
+      "pista": {
+        "es": "Cuenta los paquetes de diez en diez y luego sigue con los sueltos.",
+        "va": "Compta els paquets de deu en deu i després continua amb els solts.",
+        "en": "Count the bundles in tens and then carry on with the loose ones.",
+        "fr": "Compte les paquets de dix en dix, puis continue avec ceux qui sont seuls.",
+        "ar": "لنعدّ الحزم عشرة عشرة، ثم نكمل بالأعواد المنفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 3",
+        "resultado": 23,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienes 23 palillos: 2 decenas y 3 unidades.",
+          "va": "Tens 23 escuradents: 2 desenes (decenas) i 3 unitats (unidades).",
+          "en": "You have 23 sticks: 2 tens (decenas) and 3 ones (unidades).",
+          "fr": "Tu as 23 bâtonnets : 2 dizaines (decenas) et 3 unités (unidades).",
+          "ar": "عندنا 23 عودًا: عشرتان (decenas) و3 آحاد (unidades)."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con más paquetes de 10.",
+        "va": "Inventa'n tu una altra amb més paquets de 10.",
+        "en": "Make up another one with more bundles of 10.",
+        "fr": "Invente-en une autre avec plus de paquets de 10.",
+        "ar": "لنخترع سؤالًا آخر بحزم أكثر من 10."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si un número es par o impar? Enséñamelo con cosas de casa.",
+        "va": "Com saps si un nombre és parell o imparell? Ensenya-m'ho amb coses de casa.",
+        "en": "How do you know if a number is even or odd? Show me with things from home.",
+        "fr": "Comment sais-tu si un nombre est pair ou impair ? Montre-le-moi avec des choses de la maison.",
+        "ar": "كيف نعرف إن كان العدد زوجيًا أو فرديًا؟ لنُرِ ذلك بأشياء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me enseñas con estas 5 cucharas si el 5 es par?»",
+        "va": "Si no sap per on començar: «M'ensenyes amb estes 5 culleres si el 5 és parell?»",
+        "en": "If they don't know where to start: “Can you show me with these 5 spoons whether 5 is even?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres avec ces 5 cuillères si 5 est pair ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نرى بهذه الملاعق الخمس إن كان العدد 5 زوجيًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale cualquier forma de explicarlo: hacer parejas, contar de dos en dos o mirar si sobra uno. Escuchad y preguntad «¿y luego?».",
+          "va": "Val qualsevol manera d'explicar-ho: fer parelles, comptar de dos en dos o mirar si en sobra un. Escolteu i pregunteu «i després?».",
+          "en": "Any way of explaining it is fine: making pairs, counting in twos or seeing if one is left over. Listen and ask “And then?”.",
+          "fr": "Toutes les façons de l'expliquer sont bonnes : faire des paires, compter de deux en deux ou regarder s'il en reste un. Écoutez et demandez « Et après ? ».",
+          "ar": "كل طريقة للشرح مقبولة: تكوين الأزواج، أو العدّ اثنين اثنين، أو النظر إن بقي واحد. استمعوا واسألوا «ثم ماذا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "cac2a257aa58"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "cac2a257aa58"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "cac2a257aa58"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "cac2a257aa58"
+      }
+    }
+  }
+}

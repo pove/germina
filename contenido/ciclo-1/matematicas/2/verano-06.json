@@ -1,0 +1,329 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.v06",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "verano": 6,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Formas y caminos",
+    "va": "Formes i camins",
+    "en": "Shapes and paths",
+    "fr": "Formes et chemins",
+    "ar": "أشكال ومسارات"
+  },
+  "objetivo": {
+    "es": "En verano dibujan en la arena o con tiza formas de 3, 4, 5 y 6 lados, cuentan sus lados y vértices, y hacen caminos rectos y curvos.",
+    "va": "A l'estiu dibuixen en l'arena o amb guix formes de 3, 4, 5 i 6 costats (lados), compten els costats i els vèrtexs (vértices), i fan camins rectes i corbs.",
+    "en": "In summer they draw shapes with 3, 4, 5 and 6 sides (lados) in the sand or with chalk, count their sides and corners (vértices), and make straight and curved paths.",
+    "fr": "En été, on dessine dans le sable ou à la craie des formes à 3, 4, 5 et 6 côtés (lados), on compte leurs côtés et leurs sommets (vértices), et on fait des chemins droits et courbes.",
+    "ar": "في الصيف يرسم الأطفال في الرمل أو بالطباشير أشكالًا لها 3 و4 و5 و6 أضلاع (lados)، ويعدّون أضلاعها ورؤوسها (vértices)، ويصنعون مسارات مستقيمة ومنحنية."
+  },
+  "comoAyudar": {
+    "es": "Preguntad «¿cuántos lados tiene? ¿Y cuántas esquinas?» y dejad que los cuente tocándolos con el dedo. Si una forma tiene un lado curvo, hablad de por qué ya no es un polígono.",
+    "va": "Pregunteu «quants costats té? I quants cantons?» i deixeu que els compte tocant-los amb el dit. Si una forma té un costat corb, parleu de per què ja no és un polígon (polígono).",
+    "en": "Ask “How many sides does it have? And how many corners?” and let them count by touching each one with a finger. If a shape has a curved side, talk about why it is no longer a polygon (polígono).",
+    "fr": "Demandez « Combien de côtés a-t-elle ? Et combien de coins ? » et laissez-le ou laissez-la compter en les touchant du doigt. Si une forme a un côté courbe, parlez de pourquoi ce n'est plus un polygone (polígono).",
+    "ar": "اسألوا «كم ضلعًا للشكل؟ وكم زاوية؟» ودعوا العدّ يكون بلمسها بالإصبع. وإذا كان للشكل ضلع منحنٍ، تحدّثوا عن سبب أنه لم يعد مضلّعًا (polígono)."
+  },
+  "saberes": [
+    "matematicas.geometria.poligonos",
+    "matematicas.geometria.lineas"
+  ],
+  "criterios": [
+    "matematicas.c1.5.2",
+    "matematicas.c1.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Dibujos en la arena",
+      "va": "Dibuixos en l'arena",
+      "en": "Drawings in the sand",
+      "fr": "Dessins dans le sable",
+      "ar": "رسوم في الرمل"
+    },
+    "material": [
+      {
+        "es": "Un palo para la arena o una tiza para el suelo",
+        "va": "Un pal per a l'arena o un guix per a terra",
+        "en": "A stick for the sand or a piece of chalk for the ground",
+        "fr": "Un bâton pour le sable ou une craie pour le sol",
+        "ar": "عود للرسم في الرمل أو طباشير للأرض"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "formas",
+        "texto": {
+          "es": "Dibujad una forma de 3 lados rectos, otra de 4, otra de 5 y otra de 6.",
+          "va": "Dibuixeu una forma de 3 costats rectes, una altra de 4, una altra de 5 i una altra de 6.",
+          "en": "Draw a shape with 3 straight sides, another with 4, another with 5 and another with 6.",
+          "fr": "Dessinez une forme à 3 côtés droits, une autre à 4, une autre à 5 et une autre à 6.",
+          "ar": "ارسموا شكلًا له 3 أضلاع مستقيمة، وآخر له 4، وآخر له 5، وآخر له 6."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad los lados y los vértices de cada una, tocándolos con el dedo. ¿Qué descubrís?",
+          "va": "Compteu els costats i els vèrtexs de cada una, tocant-los amb el dit. Què descobriu?",
+          "en": "Count the sides and corners of each one, touching them with a finger. What do you notice?",
+          "fr": "Comptez les côtés et les sommets de chacune, en les touchant du doigt. Que découvrez-vous ?",
+          "ar": "عدّوا أضلاع كل شكل ورؤوسه، وأنتم تلمسونها بالإصبع. ماذا تكتشفون؟"
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Dibujad un camino recto y otro curvo entre dos formas, y recorredlos a pasos.",
+          "va": "Dibuixeu un camí recte i un altre de corb entre dues formes, i recorreu-los a passos.",
+          "en": "Draw a straight path and a curved one between two shapes, and walk along them.",
+          "fr": "Dessinez un chemin droit et un autre courbe entre deux formes, et parcourez-les à pas.",
+          "ar": "ارسموا مسارًا مستقيمًا وآخر منحنيًا بين شكلين، وامشوا عليهما بالخطوات."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Qué camino tiene menos pasos? ¿Y cuál es más divertido?",
+          "va": "Quin camí té menys passos? I quin és més divertit?",
+          "en": "Which path takes fewer steps? And which is more fun?",
+          "fr": "Quel chemin a le moins de pas ? Et lequel est le plus amusant ?",
+          "ar": "أي مسار خطواته أقل؟ وأيّهما أمتع؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Dibujad solo triángulos y cuadrados, y contad sus lados juntos.",
+      "va": "Dibuixeu només triangles (triángulos) i quadrats (cuadrados), i compteu-ne els costats junts.",
+      "en": "Draw only triangles (triángulos) and squares (cuadrados), and count their sides together.",
+      "fr": "Dessinez seulement des triangles (triángulos) et des carrés (cuadrados), et comptez leurs côtés ensemble.",
+      "ar": "ارسموا مثلّثات (triángulos) ومربّعات (cuadrados) فقط، وعدّوا أضلاعها معًا."
+    },
+    "masDificil": {
+      "es": "Dibujad una casa con un triángulo encima de un cuadrado. ¿Cuántos lados tiene todo el dibujo por fuera?",
+      "va": "Dibuixeu una casa amb un triangle damunt d'un quadrat. Quants costats té tot el dibuix per fora?",
+      "en": "Draw a house with a triangle on top of a square. How many sides does the whole drawing have on the outside?",
+      "fr": "Dessinez une maison avec un triangle sur un carré. Combien de côtés a tout le dessin à l'extérieur ?",
+      "ar": "ارسموا بيتًا بمثلّث فوق مربّع. كم ضلعًا للرسم كلّه من الخارج؟"
+    },
+    "paraQueSirve": {
+      "es": "Contar lados y vértices y distinguir líneas rectas y curvas ayuda a reconocer las formas que nos rodean y las que vendrán en 3.º.",
+      "va": "Comptar costats i vèrtexs i distingir línies rectes (líneas rectas) i corbes (curvas) ajuda a reconéixer les formes que ens envolten i les que vindran a 3r.",
+      "en": "Counting sides and corners and telling straight lines (líneas rectas) from curved ones (curvas) helps to recognise the shapes around us and those coming in 3rd year.",
+      "fr": "Compter les côtés et les sommets et distinguer les lignes droites (líneas rectas) et courbes (curvas) aide à reconnaître les formes qui nous entourent et celles qui viendront en 3e année.",
+      "ar": "عدّ الأضلاع والرؤوس والتمييز بين الخطوط المستقيمة (líneas rectas) والمنحنية (curvas) يساعد على التعرّف إلى الأشكال من حولنا وإلى ما سيأتي في الصف الثالث."
+    },
+    "aviso": {
+      "es": "Jugad a la sombra y con agua cerca. Con tiza, solo donde se pueda pintar.",
+      "va": "Jugueu a l'ombra i amb aigua a prop. Amb guix, només on es puga pintar.",
+      "en": "Play in the shade with water nearby. Use chalk only where drawing is allowed.",
+      "fr": "Jouez à l'ombre avec de l'eau à portée de main. À la craie, seulement là où c'est permis.",
+      "ar": "العبوا في الظل ومعكم ماء قريب. وبالطباشير، فقط حيث يُسمح بالرسم."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Una forma tiene 5 lados rectos. ¿Cuántos vértices tiene?",
+        "va": "Una forma té 5 costats rectes. Quants vèrtexs té?",
+        "en": "A shape has 5 straight sides. How many corners does it have?",
+        "fr": "Une forme a 5 côtés droits. Combien de sommets a-t-elle ?",
+        "ar": "لشكل 5 أضلاع مستقيمة. كم رأسًا له؟"
+      },
+      "pista": {
+        "es": "Haz la forma con 5 lápices y cuenta las esquinas.",
+        "va": "Fes la forma amb 5 llapis i compta els cantons.",
+        "en": "Make the shape with 5 pencils and count the corners.",
+        "fr": "Fais la forme avec 5 crayons et compte les coins.",
+        "ar": "لنصنع الشكل بـ5 أقلام ونعدّ الزوايا."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "5 vértices: en un polígono hay tantos vértices como lados. Contadlos juntos tocándolos.",
+          "va": "5 vèrtexs: en un polígon hi ha tants vèrtexs com costats. Compteu-los junts tocant-los.",
+          "en": "5 corners: a polygon has as many corners as sides. Count them together, touching each one.",
+          "fr": "5 sommets : un polygone a autant de sommets que de côtés. Comptez-les ensemble en les touchant.",
+          "ar": "5 رؤوس: في المضلّع عدد الرؤوس يساوي عدد الأضلاع. عدّوها معًا وأنتم تلمسونها."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con una forma de 6 lados.",
+        "va": "Ara inventa'n tu una amb una forma de 6 costats.",
+        "en": "Now you make one up with a 6-sided shape.",
+        "fr": "Maintenant, invente une question avec une forme à 6 côtés.",
+        "ar": "والآن لنخترع سؤالًا عن شكل له 6 أضلاع."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Mira a tu alrededor. ¿Me señalas algo con forma de triángulo y algo con una línea curva?",
+        "va": "Mira al teu voltant. M'assenyales alguna cosa amb forma de triangle i alguna cosa amb una línia corba?",
+        "en": "Look around you. Can you point to something shaped like a triangle and something with a curved line?",
+        "fr": "Regarde autour de toi. Tu me montres quelque chose en forme de triangle et quelque chose avec une ligne courbe ?",
+        "ar": "لننظر حولنا. هل نشير إلى شيء على شكل مثلّث وشيء فيه خط منحنٍ؟"
+      },
+      "pista": {
+        "es": "Busca en las señales, las sombrillas y los platos.",
+        "va": "Busca en els senyals, els para-sols i els plats.",
+        "en": "Look at signs, beach umbrellas and plates.",
+        "fr": "Cherche sur les panneaux, les parasols et les assiettes.",
+        "ar": "لنبحث في إشارات المرور والمظلّات والصحون."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Valen muchas respuestas: una señal de tráfico, una porción de sandía, el borde de un plato… Preguntad cómo lo sabe.",
+          "va": "Valen moltes respostes: un senyal de trànsit, una tallada de meló d'alger, la vora d'un plat… Pregunteu com ho sap.",
+          "en": "Many answers work: a road sign, a slice of watermelon, the edge of a plate… Ask how they know.",
+          "fr": "Beaucoup de réponses sont possibles : un panneau, une tranche de pastèque, le bord d'une assiette… Demandez comment il ou elle le sait.",
+          "ar": "إجابات كثيرة تصلح: إشارة مرور، شريحة بطيخ، حافة صحن… اسألوا كيف عرفنا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una para buscar algo con forma de cuadrado.",
+        "va": "Inventa'n tu una per a buscar alguna cosa amb forma de quadrat.",
+        "en": "Make one up to look for something shaped like a square.",
+        "fr": "Invente une question pour chercher quelque chose en forme de carré.",
+        "ar": "لنخترع سؤالًا للبحث عن شيء على شكل مربّع."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Un círculo, ¿es un polígono? ¿Por qué?",
+        "va": "Un cercle (círculo), és un polígon? Per què?",
+        "en": "Is a circle (círculo) a polygon? Why?",
+        "fr": "Un disque (círculo), est-ce un polygone ? Pourquoi ?",
+        "ar": "هل الدائرة (círculo) مضلّع؟ لماذا؟"
+      },
+      "pista": {
+        "es": "Pasa el dedo por el borde: ¿encuentras algún lado recto?",
+        "va": "Passa el dit per la vora: hi trobes algun costat recte?",
+        "en": "Run your finger round the edge: can you find a straight side?",
+        "fr": "Passe le doigt sur le bord : trouves-tu un côté droit ?",
+        "ar": "لنمرّر الإصبع على الحافة: هل نجد ضلعًا مستقيمًا؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No: un polígono tiene lados rectos, y el círculo es todo curvo. Vale cualquier explicación con sus palabras.",
+          "va": "No: un polígon té costats rectes, i el cercle és tot corb. Val qualsevol explicació amb les seues paraules.",
+          "en": "No: a polygon has straight sides, and a circle is curved all the way round. Any explanation in their own words is fine.",
+          "fr": "Non : un polygone a des côtés droits, et le disque est tout courbe. Toute explication avec ses propres mots convient.",
+          "ar": "لا: للمضلّع أضلاع مستقيمة، والدائرة كلّها منحنية. أي شرح بالكلمات الخاصة مقبول."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pregunta con una forma que tenga un lado curvo.",
+        "va": "Inventa tu una altra pregunta amb una forma que tinga un costat corb.",
+        "en": "Make up another question with a shape that has a curved side.",
+        "fr": "Invente une autre question avec une forme qui a un côté courbe.",
+        "ar": "لنخترع سؤالًا آخر عن شكل له ضلع منحنٍ."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 5,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar las sumas con llevada: tenemos 38 conchas y encontramos 15 más. ¿Cuántas tenemos ahora?",
+        "va": "Per a recordar les sumes amb llevada: tenim 38 petxines i en trobem 15 més. Quantes en tenim ara?",
+        "en": "Let's remember adding with regrouping (llevada): we have 38 shells and find 15 more. How many do we have now?",
+        "fr": "Pour se souvenir des additions avec retenue (llevada) : nous avons 38 coquillages et nous en trouvons 15 de plus. Combien en avons-nous maintenant ?",
+        "ar": "لنتذكّر الجمع مع الاحتفاظ (llevada): عندنا 38 صدفة ووجدنا 15 أخرى. كم صدفة عندنا الآن؟"
+      },
+      "pista": {
+        "es": "8 y 5 son 13: te llevas una decena.",
+        "va": "8 i 5 són 13: te'n portes una desena (decena).",
+        "en": "8 and 5 make 13: you carry one ten (decena).",
+        "fr": "8 et 5 font 13 : tu retiens une dizaine (decena).",
+        "ar": "8 و5 تساوي 13: نحتفظ بعشرة (decena)."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "38 + 15",
+        "resultado": 53,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tenemos 53 conchas: {{38 + 15 = 53}}.",
+          "va": "En tenim 53: {{38 + 15 = 53}}.",
+          "en": "We have 53 shells: {{38 + 15 = 53}}.",
+          "fr": "Nous avons 53 coquillages : {{38 + 15 = 53}}.",
+          "ar": "عندنا 53 صدفة: {{38 + 15 = 53}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra suma con conchas o piedras.",
+        "va": "Inventa'n tu una altra suma amb petxines o pedres.",
+        "en": "Make up another addition with shells or stones.",
+        "fr": "Invente une autre addition avec des coquillages ou des cailloux.",
+        "ar": "لنخترع عملية جمع أخرى بالأصداف أو الحصى."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si una forma es un polígono? Explícamelo señalando cosas de casa.",
+        "va": "Com saps si una forma és un polígon? Explica-m'ho assenyalant coses de casa.",
+        "en": "How do you know if a shape is a polygon? Explain it to me by pointing to things at home.",
+        "fr": "Comment sais-tu si une forme est un polygone ? Explique-le-moi en montrant des choses de la maison.",
+        "ar": "كيف نعرف إن كان الشكل مضلّعًا؟ لنشرح ذلك ونحن نشير إلى أشياء في البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué tiene una ventana que no tiene un plato?»",
+        "va": "Si no sap per on començar: «Què té una finestra que no té un plat?»",
+        "en": "If they don't know where to start: “What does a window have that a plate doesn't?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce qu'une fenêtre a qu'une assiette n'a pas ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ما الذي في النافذة وليس في الصحن؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "764dd8b29d64"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "764dd8b29d64"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "764dd8b29d64"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "764dd8b29d64"
+      }
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s37",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 37,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Seguro, posible o imposible?",
+    "va": "Segur, possible o impossible?",
+    "en": "Certain, possible or impossible?",
+    "fr": "Certain, possible ou impossible ?",
+    "ar": "مؤكّد، ممكن أم مستحيل؟"
+  },
+  "objetivo": {
+    "es": "Esta semana juegan a adivinar qué puede pasar: si algo es seguro, posible o imposible. Lo comprueban sacando pinzas de una bolsa sin mirar.",
+    "va": "Aquesta setmana juguen a endevinar què pot passar: si una cosa és segura (seguro), possible (posible) o impossible (imposible). Ho comproven traent pinces d'una bossa sense mirar.",
+    "en": "This week they play at guessing what can happen: whether something is certain (seguro), possible (posible) or impossible (imposible). They check by taking pegs out of a bag without looking.",
+    "fr": "Cette semaine, on joue à deviner ce qui peut arriver : si quelque chose est certain (seguro), possible (posible) ou impossible (imposible). On vérifie en sortant des pinces d'un sac sans regarder.",
+    "ar": "هذا الأسبوع يلعب الأطفال لتخمين ما يمكن أن يحدث: هل الشيء مؤكّد (seguro)، أم ممكن (posible)، أم مستحيل (imposible). ويتحقّقون من ذلك بإخراج ملاقط من كيس من دون نظر."
+  },
+  "comoAyudar": {
+    "es": "Preguntad «¿por qué lo crees?» antes de sacar cada pinza. Hablad también de cómo os sentís cuando no sabéis qué va a salir: nervios, ganas, sorpresa.",
+    "va": "Pregunteu «per què ho creus?» abans de traure cada pinça. Parleu també de com vos sentiu quan no sabeu què eixirà: nervis, ganes, sorpresa.",
+    "en": "Ask “Why do you think so?” before taking out each peg. Also talk about how you feel when you don't know what will come out: nerves, excitement, surprise.",
+    "fr": "Demandez « Pourquoi tu le penses ? » avant de sortir chaque pince. Parlez aussi de ce que vous ressentez quand vous ne savez pas ce qui va sortir : le trac, l'envie, la surprise.",
+    "ar": "اسألوا «لماذا نظنّ ذلك؟» قبل إخراج كل ملقط. وتحدّثوا أيضًا عن شعوركم حين لا تعرفون ما الذي سيخرج: توتّر، حماس، مفاجأة."
+  },
+  "saberes": [
+    "matematicas.probabilidad.intuitiva",
+    "matematicas.probabilidad.aleatorio",
+    "matematicas.probabilidad.emociones"
+  ],
+  "criterios": [
+    "matematicas.c1.3.4",
+    "matematicas.c1.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La bolsa misteriosa",
+      "va": "La bossa misteriosa",
+      "en": "The mystery bag",
+      "fr": "Le sac mystère",
+      "ar": "الكيس الغامض"
+    },
+    "material": [
+      {
+        "es": "Una bolsa de tela o un calcetín grande que no se transparente",
+        "va": "Una bossa de tela o un calcetí gran que no deixe veure el que hi ha dins",
+        "en": "A cloth bag or a big sock you can't see through",
+        "fr": "Un sac en tissu ou une grosse chaussette qui ne laisse pas voir à travers",
+        "ar": "كيس من القماش أو جورب كبير لا يُرى ما بداخله"
+      },
+      {
+        "es": "Pinzas de la ropa de dos colores: 5 de un color y 1 de otro",
+        "va": "Pinces de la roba de dos colors: 5 d'un color i 1 d'un altre",
+        "en": "Clothes pegs in two colours: 5 of one colour and 1 of another",
+        "fr": "Des pinces à linge de deux couleurs : 5 d'une couleur et 1 d'une autre",
+        "ar": "ملاقط غسيل بلونين: 5 من لون وواحد من لون آخر"
+      },
+      {
+        "es": "Un papel y un lápiz",
+        "va": "Un paper i un llapis",
+        "en": "A piece of paper and a pencil",
+        "fr": "Une feuille et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Meted en la bolsa 5 pinzas rojas y 1 azul. Nada más.",
+          "va": "Fiqueu en la bossa 5 pinces roges i 1 de blava. Res més.",
+          "en": "Put 5 red pegs and 1 blue one in the bag. Nothing else.",
+          "fr": "Mettez dans le sac 5 pinces rouges et 1 bleue. Rien d'autre.",
+          "ar": "ضعوا في الكيس 5 ملاقط حمراء وملقطًا أزرق واحدًا. لا شيء غيرها."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Antes de sacar nada, decid: ¿es seguro, posible o imposible sacar una roja? ¿Y una azul? ¿Y una verde?",
+          "va": "Abans de traure res, digueu: és segur, possible o impossible traure'n una roja? I una blava? I una verda?",
+          "en": "Before taking anything out, say: is it certain, possible or impossible to get a red one? And a blue one? And a green one?",
+          "fr": "Avant de sortir quoi que ce soit, dites : est-ce certain, possible ou impossible de sortir une rouge ? Et une bleue ? Et une verte ?",
+          "ar": "قبل إخراج أيّ شيء، قولوا: هل إخراج ملقط أحمر مؤكّد أم ممكن أم مستحيل؟ وملقط أزرق؟ وملقط أخضر؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Por turnos, sacad una pinza sin mirar, haced una rayita en el papel bajo su color y volved a meterla. Hacedlo 10 veces.",
+          "va": "Per torns, traeu una pinça sense mirar, feu una ratlleta en el paper davall del seu color i torneu a ficar-la. Feu-ho 10 vegades.",
+          "en": "Taking turns, take out a peg without looking, make a little mark on the paper under its colour and put it back. Do it 10 times.",
+          "fr": "À tour de rôle, sortez une pince sans regarder, faites un petit trait sur la feuille sous sa couleur et remettez-la. Faites-le 10 fois.",
+          "ar": "بالدور، أخرجوا ملقطًا من دون نظر، وارسموا خطًا صغيرًا على الورقة تحت لونه، ثم أعيدوه إلى الكيس. افعلوا ذلك 10 مرّات."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad las rayitas. ¿Qué color ha salido más? ¿Ha salido alguna verde? ¿Por qué?",
+          "va": "Mireu les ratlletes. Quin color ha eixit més? N'ha eixit cap de verda? Per què?",
+          "en": "Look at the marks. Which colour came out most? Did a green one ever come out? Why?",
+          "fr": "Regardez les petits traits. Quelle couleur est sortie le plus ? Est-ce qu'une verte est sortie ? Pourquoi ?",
+          "ar": "انظروا إلى الخطوط. أيّ لون خرج أكثر؟ هل خرج ملقط أخضر؟ لماذا؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Meted solo pinzas rojas y preguntad: ¿qué color saldrá? Luego cambiad una por una azul.",
+      "va": "Fiqueu només pinces roges i pregunteu: quin color eixirà? Després canvieu-ne una per una de blava.",
+      "en": "Put in only red pegs and ask: what colour will come out? Then swap one for a blue one.",
+      "fr": "Mettez seulement des pinces rouges et demandez : quelle couleur va sortir ? Puis échangez-en une contre une bleue.",
+      "ar": "ضعوا ملاقط حمراء فقط واسألوا: ما اللون الذي سيخرج؟ ثم استبدلوا واحدًا بملقط أزرق."
+    },
+    "masDificil": {
+      "es": "Meted 3 rojas y 3 azules. ¿Qué color saldrá más ahora? Sacad 20 veces y mirad si acertáis.",
+      "va": "Fiqueu 3 roges i 3 blaves. Quin color eixirà més ara? Traeu 20 vegades i mireu si l'encerteu.",
+      "en": "Put in 3 red and 3 blue. Which colour will come out more now? Take out 20 times and see if you guessed right.",
+      "fr": "Mettez 3 rouges et 3 bleues. Quelle couleur sortira le plus maintenant ? Sortez-en 20 fois et regardez si vous aviez deviné.",
+      "ar": "ضعوا 3 ملاقط حمراء و3 زرقاء. أيّ لون سيخرج أكثر الآن؟ أخرجوا 20 مرّة وانظروا هل كان تخمينكم صحيحًا."
+    },
+    "paraQueSirve": {
+      "es": "Pensar si algo es seguro, posible o imposible ayuda a tomar decisiones, como llevar paraguas o no, y a vivir con calma lo que no se sabe.",
+      "va": "Pensar si una cosa és segura, possible o impossible ajuda a prendre decisions, com dur paraigua o no, i a viure amb calma allò que no se sap.",
+      "en": "Thinking about whether something is certain, possible or impossible helps you make decisions, like whether to take an umbrella, and stay calm about what you can't know.",
+      "fr": "Se demander si quelque chose est certain, possible ou impossible aide à prendre des décisions, comme prendre un parapluie ou non, et à vivre calmement ce qu'on ne sait pas.",
+      "ar": "التفكير في ما إذا كان الشيء مؤكّدًا أو ممكنًا أو مستحيلًا يساعد على اتّخاذ القرارات، مثل أخذ المظلّة أو لا، وعلى تقبّل ما لا نعرفه بهدوء."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "En el frutero solo hay plátanos. Si coges una fruta sin mirar, ¿es seguro, posible o imposible que sea un plátano?",
+        "va": "En el fruiter només hi ha plàtans. Si agafes una fruita sense mirar, és segur, possible o impossible que siga un plàtan?",
+        "en": "There are only bananas in the fruit bowl. If you take a piece of fruit without looking, is it certain, possible or impossible that it's a banana?",
+        "fr": "Dans la corbeille, il n'y a que des bananes. Si tu prends un fruit sans regarder, est-ce certain, possible ou impossible que ce soit une banane ?",
+        "ar": "في سلة الفواكه موز فقط. إذا أخذنا فاكهة من دون نظر، هل من المؤكّد أم الممكن أم المستحيل أن تكون موزة؟"
+      },
+      "pista": {
+        "es": "Piensa qué otras frutas podrían salir.",
+        "va": "Pensa quines altres fruites podrien eixir.",
+        "en": "Think about what other fruit could come out.",
+        "fr": "Réfléchis aux autres fruits qui pourraient sortir.",
+        "ar": "لنفكّر: ما الفواكه الأخرى التي يمكن أن تخرج؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Es seguro: como solo hay plátanos, no puede salir otra fruta.",
+          "va": "És segur: com que només hi ha plàtans, no pot eixir una altra fruita.",
+          "en": "It's certain: as there are only bananas, no other fruit can come out.",
+          "fr": "C'est certain : comme il n'y a que des bananes, aucun autre fruit ne peut sortir.",
+          "ar": "هذا مؤكّد: بما أنه لا يوجد إلا الموز، لا يمكن أن تخرج فاكهة أخرى."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una cosa segura con algo de tu habitación.",
+        "va": "Inventa tu una cosa segura amb alguna cosa de la teua habitació.",
+        "en": "Make up something certain with something from your room.",
+        "fr": "Invente quelque chose de certain avec un objet de ta chambre.",
+        "ar": "لنخترع شيئًا مؤكّدًا بشيء من غرفتنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Es seguro, posible o imposible que mañana llueva? ¿Y que salga el sol por la noche?",
+        "va": "És segur, possible o impossible que demà ploga? I que isca el sol de nit?",
+        "en": "Is it certain, possible or impossible that it will rain tomorrow? And that the sun will come out at night?",
+        "fr": "Est-ce certain, possible ou impossible qu'il pleuve demain ? Et que le soleil se lève pendant la nuit ?",
+        "ar": "هل من المؤكّد أم الممكن أم المستحيل أن تمطر غدًا؟ وأن تشرق الشمس في الليل؟"
+      },
+      "pista": {
+        "es": "Mira por la ventana y piensa en lo que pasa cada noche.",
+        "va": "Mira per la finestra i pensa en el que passa cada nit.",
+        "en": "Look out of the window and think about what happens every night.",
+        "fr": "Regarde par la fenêtre et pense à ce qui se passe chaque nuit.",
+        "ar": "لننظر من النافذة ونفكّر في ما يحدث كل ليلة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Que llueva mañana es posible: puede pasar o no. Que salga el sol por la noche es imposible.",
+          "va": "Que ploga demà és possible: pot passar o no. Que isca el sol de nit és impossible.",
+          "en": "Rain tomorrow is possible: it may or may not happen. The sun coming out at night is impossible.",
+          "fr": "Qu'il pleuve demain, c'est possible : ça peut arriver ou non. Que le soleil se lève la nuit, c'est impossible.",
+          "ar": "أن تمطر غدًا أمر ممكن: قد يحدث وقد لا يحدث. وأن تشرق الشمس في الليل أمر مستحيل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una cosa imposible que te haga reír.",
+        "va": "Inventa tu una cosa impossible que et faça riure.",
+        "en": "Make up something impossible that makes you laugh.",
+        "fr": "Invente quelque chose d'impossible qui te fait rire.",
+        "ar": "لنخترع شيئًا مستحيلًا يُضحكنا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Tiras un dado normal. ¿Es posible sacar un 4? ¿Y un 9?",
+        "va": "Tires un dau normal. És possible traure un 4? I un 9?",
+        "en": "You roll an ordinary dice. Is it possible to get a 4? And a 9?",
+        "fr": "Tu lances un dé normal. Est-ce possible de faire 4 ? Et 9 ?",
+        "ar": "نرمي نردًا عاديًا. هل من الممكن أن نحصل على 4؟ وعلى 9؟"
+      },
+      "pista": {
+        "es": "Mira qué números tiene el dado en sus caras.",
+        "va": "Mira quins nombres té el dau en les seues cares.",
+        "en": "Look at which numbers the dice has on its faces.",
+        "fr": "Regarde quels nombres il y a sur les faces du dé.",
+        "ar": "لننظر إلى الأعداد على وجوه النرد."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Sacar un 4 es posible. Sacar un 9 es imposible, porque el dado va del 1 al 6.",
+          "va": "Traure un 4 és possible. Traure un 9 és impossible, perquè el dau va de l'1 al 6.",
+          "en": "Getting a 4 is possible. Getting a 9 is impossible, because the dice goes from 1 to 6.",
+          "fr": "Faire 4, c'est possible. Faire 9, c'est impossible, parce que le dé va de 1 à 6.",
+          "ar": "الحصول على 4 ممكن. والحصول على 9 مستحيل، لأن النرد من 1 إلى 6."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pregunta con el dado: algo seguro, algo posible o algo imposible.",
+        "va": "Inventa tu una altra pregunta amb el dau: una cosa segura, una cosa possible o una cosa impossible.",
+        "en": "Make up another question with the dice: something certain, possible or impossible.",
+        "fr": "Invente une autre question avec le dé : quelque chose de certain, de possible ou d'impossible.",
+        "ar": "لنخترع سؤالًا آخر بالنرد: شيء مؤكّد، أو ممكن، أو مستحيل."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 21,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: un gato tiene 4 patas. ¿Cuántas patas tienen 3 gatos?",
+        "va": "Per a recordar: un gat té 4 potes. Quantes potes tenen 3 gats?",
+        "en": "Let's remember: a cat has 4 legs. How many legs do 3 cats have?",
+        "fr": "Pour se souvenir : un chat a 4 pattes. Combien de pattes ont 3 chats ?",
+        "ar": "لنتذكّر: للقطّة 4 أرجل. كم رجلًا لـ3 قطط؟"
+      },
+      "pista": {
+        "es": "Cuenta de 4 en 4, un gato cada vez.",
+        "va": "Compta de 4 en 4, un gat cada vegada.",
+        "en": "Count in fours, one cat at a time.",
+        "fr": "Compte de 4 en 4, un chat à la fois.",
+        "ar": "لنعدّ أربعةً أربعة، قطّة في كل مرّة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 4",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "{{3 × 4 = 12}}: tienen 12 patas.",
+          "va": "{{3 × 4 = 12}}: tenen 12 potes.",
+          "en": "{{3 × 4 = 12}}: they have 12 legs.",
+          "fr": "{{3 × 4 = 12}} : ils ont 12 pattes.",
+          "ar": "{{3 × 4 = 12}}: لها 12 رجلًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con sillas o mesas, que también tienen 4 patas.",
+        "va": "Inventa tu una altra amb cadires o taules, que també tenen 4 potes.",
+        "en": "Make up another one with chairs or tables, which also have 4 legs.",
+        "fr": "Invente-en une autre avec des chaises ou des tables, qui ont aussi 4 pieds.",
+        "ar": "لنخترع سؤالًا آخر بالكراسي أو الطاولات، فلها أيضًا 4 أرجل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Dime algo que sea imposible en casa y algo que sea seguro. ¿Cómo lo sabes?",
+        "va": "Digues-me una cosa que siga impossible a casa i una que siga segura. Com ho saps?",
+        "en": "Tell me something that's impossible at home and something that's certain. How do you know?",
+        "fr": "Dis-moi quelque chose d'impossible à la maison et quelque chose de certain. Comment le sais-tu ?",
+        "ar": "لنذكر شيئًا مستحيلًا في البيت وشيئًا مؤكّدًا. كيف نعرف ذلك؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Puede la nevera ponerse a volar?»",
+        "va": "Si no sap per on començar: «Pot la nevera posar-se a volar?»",
+        "en": "If they don't know where to start: “Could the fridge start flying?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Le frigo peut-il se mettre à voler ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل يمكن للثلاجة أن تطير؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier ejemplo con sentido vale. Lo importante es que dé una razón: «porque nunca pasa», «porque siempre pasa».",
+          "va": "Qualsevol exemple amb sentit val. El que importa és que done una raó: «perquè no passa mai», «perquè passa sempre».",
+          "en": "Any sensible example works. What matters is giving a reason: “because it never happens”, “because it always happens”.",
+          "fr": "Tout exemple qui a du sens convient. L'important, c'est de donner une raison : « parce que ça n'arrive jamais », « parce que ça arrive toujours ».",
+          "ar": "كل مثال معقول يصلح. المهمّ هو ذكر سبب: «لأنه لا يحدث أبدًا»، «لأنه يحدث دائمًا»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "fd6ec60cbc5e"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "fd6ec60cbc5e"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "fd6ec60cbc5e"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "fd6ec60cbc5e"
+      }
+    }
+  }
+}

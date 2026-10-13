@@ -1,0 +1,321 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s10",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 10,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Arriba, abajo, delante, detrás",
+    "va": "Dalt, baix, davant, darrere",
+    "en": "Up, down, in front, behind",
+    "fr": "En haut, en bas, devant, derrière",
+    "ar": "فوق، تحت، أمام، خلف"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden a decir dónde está cada cosa respecto a otra: encima, debajo, delante, detrás y al lado.",
+    "va": "Aquesta setmana aprenen a dir on està cada cosa respecte a una altra: damunt (encima), davall (debajo), davant (delante), darrere (detrás) i al costat.",
+    "en": "This week they learn to say where each thing is compared with another: on top of (encima), under (debajo), in front of (delante), behind (detrás) and next to.",
+    "fr": "Cette semaine, on apprend à dire où se trouve chaque chose par rapport à une autre : sur (encima), sous (debajo), devant (delante), derrière (detrás) et à côté.",
+    "ar": "هذا الأسبوع يتعلّم الأطفال أن يقولوا أين يوجد كل شيء بالنسبة إلى شيء آخر: فوق (encima)، تحت (debajo)، أمام (delante)، خلف (detrás)، وبجانب."
+  },
+  "comoAyudar": {
+    "es": "Usad estas palabras en lo de cada día («tus zapatillas están debajo de la cama») y pedidle que sea quien os dé las indicaciones a vosotros.",
+    "va": "Feu servir estes paraules en les coses de cada dia («les teues sabatilles estan davall del llit») i demaneu-li que siga qui vos done les indicacions a vosaltres.",
+    "en": "Use these words in everyday life (“your slippers are under the bed”) and ask your child to be the one giving you directions.",
+    "fr": "Utilisez ces mots au quotidien (« tes chaussons sont sous le lit ») et demandez à votre enfant de vous donner lui-même ou elle-même les indications.",
+    "ar": "استعملوا هذه الكلمات في الحياة اليومية («الخفّ تحت السرير»)، واطلبوا من ابنكم أو ابنتكم إعطاءكم الإرشادات."
+  },
+  "saberes": [
+    "matematicas.geometria.orientacion"
+  ],
+  "criterios": [
+    "matematicas.c1.6.2",
+    "matematicas.c1.3.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El juguete escondido",
+      "va": "El joguet amagat",
+      "en": "The hidden toy",
+      "fr": "Le jouet caché",
+      "ar": "اللعبة المخبّأة"
+    },
+    "material": [
+      {
+        "es": "Un juguete o un peluche",
+        "va": "Un joguet o un peluix",
+        "en": "A toy or a soft toy",
+        "fr": "Un jouet ou une peluche",
+        "ar": "لعبة أو دمية من القماش"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Una persona esconde el juguete en una habitación mientras la otra cierra los ojos.",
+          "va": "Una persona amaga el joguet en una habitació mentre l'altra tanca els ulls.",
+          "en": "One person hides the toy in a room while the other closes their eyes.",
+          "fr": "Une personne cache le jouet dans une pièce pendant que l'autre ferme les yeux.",
+          "ar": "يخبّئ شخص اللعبة في غرفة، بينما يغمض الآخر عينيه."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Quien lo ha escondido da pistas con palabras de sitio: «está debajo de algo», «está al lado de la ventana».",
+          "va": "Qui l'ha amagat dona pistes amb paraules de lloc: «està davall d'alguna cosa», «està al costat de la finestra».",
+          "en": "The person who hid it gives clues with place words: “it's under something”, “it's next to the window”.",
+          "fr": "La personne qui l'a caché donne des indices avec des mots de place : « il est sous quelque chose », « il est à côté de la fenêtre ».",
+          "ar": "من خبّأها يعطي تلميحات بكلمات المكان: «إنها تحت شيء ما»، «إنها بجانب النافذة»."
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "Quien busca puede preguntar: «¿Está encima de la cama?». Solo se responde sí o no.",
+          "va": "Qui busca pot preguntar: «Està damunt del llit?». Només es respon sí o no.",
+          "en": "The seeker can ask: “Is it on top of the bed?”. The answer is only yes or no.",
+          "fr": "La personne qui cherche peut demander : « Il est sur le lit ? ». On répond seulement oui ou non.",
+          "ar": "من يبحث يمكنه أن يسأل: «هل هي فوق السرير؟». ويكون الجواب نعم أو لا فقط."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Al encontrarlo, decid juntos dónde estaba: «detrás del cojín». Luego cambiad los papeles.",
+          "va": "Quan el trobeu, digueu junts on estava: «darrere del coixí». Després canvieu els papers.",
+          "en": "When you find it, say together where it was: “behind the cushion”. Then swap roles.",
+          "fr": "Quand vous le trouvez, dites ensemble où il était : « derrière le coussin ». Ensuite, échangez les rôles.",
+          "ar": "عندما تجدونها، قولوا معًا أين كانت: «خلف الوسادة». ثم تبادلوا الأدوار."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Esconded el juguete a la vista y usad solo encima, debajo, delante y detrás.",
+      "va": "Amagueu el joguet a la vista i feu servir només damunt, davall, davant i darrere.",
+      "en": "Hide the toy where it can be seen and only use on top of, under, in front of and behind.",
+      "fr": "Cachez le jouet à la vue de tous et utilisez seulement sur, sous, devant et derrière.",
+      "ar": "خبّئوا اللعبة في مكان ظاهر، واستعملوا فقط: فوق، تحت، أمام، خلف."
+    },
+    "masDificil": {
+      "es": "Añadid derecha e izquierda a las pistas: «está a la derecha de la lámpara».",
+      "va": "Afegiu dreta (derecha) i esquerra (izquierda) a les pistes: «està a la dreta del llum».",
+      "en": "Add right (derecha) and left (izquierda) to the clues: “it's to the right of the lamp”.",
+      "fr": "Ajoutez droite (derecha) et gauche (izquierda) aux indices : « il est à droite de la lampe ».",
+      "ar": "أضيفوا اليمين (derecha) واليسار (izquierda) إلى التلميحات: «إنها على يمين المصباح»."
+    },
+    "paraQueSirve": {
+      "es": "Decir dónde está cada cosa ayuda a orientarse por casa y por la calle, y prepara para leer planos y mapas.",
+      "va": "Dir on està cada cosa ajuda a orientar-se per casa i pel carrer, i prepara per a llegir plànols i mapes.",
+      "en": "Saying where things are helps you find your way around the house and the street, and gets you ready to read plans and maps.",
+      "fr": "Dire où se trouve chaque chose aide à s'orienter à la maison et dans la rue, et prépare à lire des plans et des cartes.",
+      "ar": "قول مكان كل شيء يساعد على معرفة الاتجاهات في البيت وفي الشارع، ويهيّئ لقراءة المخطّطات والخرائط."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Mira la mesa de la cocina. ¿Qué hay encima? ¿Y qué hay debajo?",
+        "va": "Mira la taula de la cuina. Què hi ha damunt? I què hi ha davall?",
+        "en": "Look at the kitchen table. What is on top of it? And what is under it?",
+        "fr": "Regarde la table de la cuisine. Qu'est-ce qu'il y a dessus ? Et qu'est-ce qu'il y a dessous ?",
+        "ar": "لننظر إلى طاولة المطبخ. ماذا يوجد فوقها؟ وماذا يوجد تحتها؟"
+      },
+      "pista": {
+        "es": "Agáchate para mirar debajo.",
+        "va": "Ajup-te per a mirar davall.",
+        "en": "Crouch down to look underneath.",
+        "fr": "Baisse-toi pour regarder dessous.",
+        "ar": "لننحنِ لننظر تحتها."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale cualquier respuesta que use bien las dos palabras: «encima hay un frutero, debajo están las sillas».",
+          "va": "Val qualsevol resposta que use bé les dues paraules: «damunt hi ha un fruiter, davall estan les cadires».",
+          "en": "Any answer that uses both words well is fine: “on top there's a fruit bowl, under it are the chairs”.",
+          "fr": "Toute réponse qui utilise bien les deux mots convient : « dessus, il y a une corbeille de fruits, dessous, il y a les chaises ».",
+          "ar": "كل جواب يستعمل الكلمتين جيدًا مقبول: «فوقها سلة فواكه، وتحتها الكراسي»."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con la cama de tu habitación.",
+        "va": "Ara inventa'n tu una amb el llit de la teua habitació.",
+        "en": "Now you make one up with the bed in your room.",
+        "fr": "Maintenant, invente une question avec le lit de ta chambre.",
+        "ar": "والآن لنخترع سؤالًا بسرير الغرفة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "En la fila, Wei va delante de Sara y detrás de Ion. ¿Quién va el primero?",
+        "va": "En la fila, Wei va davant de Sara i darrere d'Ion. Qui va el primer?",
+        "en": "In the line, Wei is in front of Sara and behind Ion. Who is first?",
+        "fr": "Dans le rang, Wei est devant Sara et derrière Ion. Qui est le premier ?",
+        "ar": "في الصف، وي أمام سارة وخلف يون. من الأول؟"
+      },
+      "pista": {
+        "es": "Haz la fila con tres juguetes y ponles nombre.",
+        "va": "Fes la fila amb tres joguets i posa'ls nom.",
+        "en": "Make the line with three toys and give them names.",
+        "fr": "Fais le rang avec trois jouets et donne-leur un nom.",
+        "ar": "لنصنع الصف بثلاث ألعاب ونعطيها أسماء."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Ion va el primero, luego Wei y al final Sara. Si cuesta, moved los juguetes hasta que la fila cuadre con las dos pistas.",
+          "va": "Ion va el primer, després Wei i al final Sara. Si costa, moveu els joguets fins que la fila quadre amb les dues pistes.",
+          "en": "Ion is first, then Wei and last Sara. If it's tricky, move the toys until the line matches both clues.",
+          "fr": "Ion est le premier, puis Wei et enfin Sara. Si c'est difficile, déplacez les jouets jusqu'à ce que le rang corresponde aux deux indices.",
+          "ar": "يون هو الأول، ثم وي، وفي الآخر سارة. إذا صعُب الأمر، حرّكوا الألعاب حتى يوافق الصف التلميحين."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra fila con las personas de tu casa.",
+        "va": "Inventa tu una altra fila amb les persones de ta casa.",
+        "en": "Make up another line with the people in your home.",
+        "fr": "Invente un autre rang avec les personnes de ta maison.",
+        "ar": "لنخترع صفًا آخر بأفراد البيت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Pon una cuchara detrás de un vaso. ¿Se ve bien? ¿Y si la pones delante?",
+        "va": "Posa una cullera darrere d'un got. Es veu bé? I si la poses davant?",
+        "en": "Put a spoon behind a glass. Can you see it well? And if you put it in front?",
+        "fr": "Mets une cuillère derrière un verre. Est-ce qu'on la voit bien ? Et si tu la mets devant ?",
+        "ar": "لنضع ملعقة خلف كوب. هل نراها جيدًا؟ وإذا وضعناها أمامه؟"
+      },
+      "pista": {
+        "es": "Mira desde tu sitio, sin moverte.",
+        "va": "Mira des del teu lloc, sense moure't.",
+        "en": "Look from where you are, without moving.",
+        "fr": "Regarde depuis ta place, sans bouger.",
+        "ar": "لننظر من مكاننا من دون أن نتحرّك."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Detrás, el vaso la tapa un poco; delante, se ve entera. Si os apetece, mirad también desde el otro lado de la mesa: lo que estaba delante ahora está detrás.",
+          "va": "Darrere, el got la tapa un poc; davant, es veu sencera. Si vos ve de gust, mireu també des de l'altre costat de la taula: el que estava davant ara està darrere.",
+          "en": "Behind it, the glass covers it a little; in front, you can see all of it. If you like, also look from the other side of the table: what was in front is now behind.",
+          "fr": "Derrière, le verre la cache un peu ; devant, on la voit en entier. Si vous voulez, regardez aussi depuis l'autre côté de la table : ce qui était devant est maintenant derrière.",
+          "ar": "خلف الكوب يغطّيها قليلًا، وأمامه نراها كاملة. إن أحببتم، انظروا أيضًا من الجهة الأخرى للطاولة: ما كان أمامًا صار خلفًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos juguetes: uno encima y otro debajo.",
+        "va": "Inventa'n tu una altra amb dos joguets: un damunt i un altre davall.",
+        "en": "Make up another one with two toys: one on top and one under.",
+        "fr": "Invente-en une autre avec deux jouets : un dessus et un dessous.",
+        "ar": "لنخترع سؤالًا آخر بلعبتين: واحدة فوق وأخرى تحت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: en la entrada hay 6 zapatos. ¿Puedes hacer parejas sin que sobre ninguno?",
+        "va": "Per a recordar: a l'entrada hi ha 6 sabates. Pots fer parelles sense que en sobre cap?",
+        "en": "Let's remember: there are 6 shoes by the door. Can you make pairs without any left over?",
+        "fr": "Pour se souvenir : dans l'entrée, il y a 6 chaussures. Peux-tu faire des paires sans qu'il en reste ?",
+        "ar": "لنتذكّر: عند المدخل 6 أحذية. هل نستطيع تكوين أزواج من دون أن يبقى شيء؟"
+      },
+      "pista": {
+        "es": "Junta los zapatos de dos en dos.",
+        "va": "Ajunta les sabates de dues en dues.",
+        "en": "Put the shoes together two by two.",
+        "fr": "Réunis les chaussures deux par deux.",
+        "ar": "لنجمع الأحذية اثنين اثنين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 2",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí: salen 3 parejas y no sobra ninguno. El 6 es par.",
+          "va": "Sí: ixen 3 parelles i no en sobra cap. El 6 és parell (par).",
+          "en": "Yes: you get 3 pairs and none is left over. 6 is even (par).",
+          "fr": "Oui : on obtient 3 paires et il n'en reste aucune. 6 est pair (par).",
+          "ar": "نعم: تخرج 3 أزواج ولا يبقى شيء. العدد 6 زوجي (par)."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un número impar de cosas.",
+        "va": "Inventa'n tu una altra amb un nombre imparell (impar) de coses.",
+        "en": "Make up another one with an odd (impar) number of things.",
+        "fr": "Invente-en une autre avec un nombre impair (impar) de choses.",
+        "ar": "لنخترع سؤالًا آخر بعدد فردي (impar) من الأشياء."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo se va de tu cama a la puerta de tu habitación, con palabras como delante, al lado o detrás.",
+        "va": "Explica'm com es va del teu llit a la porta de la teua habitació, amb paraules com davant, al costat o darrere.",
+        "en": "Tell me how to get from your bed to the door of your room, using words like in front of, next to or behind.",
+        "fr": "Explique-moi comment aller de ton lit à la porte de ta chambre, avec des mots comme devant, à côté ou derrière.",
+        "ar": "لنشرح كيف نذهب من السرير إلى باب الغرفة، بكلمات مثل أمام وبجانب وخلف."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Haz tú el camino y ve diciendo lo que pasas».",
+        "va": "Si no sap per on començar: «Fes tu el camí i ves dient per on passes».",
+        "en": "If they don't know where to start: “Walk the way yourself and say what you go past”.",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Fais toi-même le chemin et dis ce que tu dépasses ».",
+        "ar": "إذا صعُبت البداية، قولوا: «لنمشِ الطريق ونقول ما نمرّ به»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Seguid sus indicaciones al pie de la letra: si os lleva a otro sitio, os reís juntos y probáis otra vez.",
+          "va": "No fa falta que ho diga perfecte. Seguiu les seues indicacions al peu de la lletra: si vos porta a un altre lloc, vos en riureu junts i ho torneu a intentar.",
+          "en": "It doesn't need to be perfect. Follow the directions exactly: if they take you somewhere else, laugh together and try again.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Suivez les indications à la lettre : si elles vous mènent ailleurs, riez ensemble et essayez encore.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. اتّبعوا الإرشادات حرفيًا: إذا أوصلتكم إلى مكان آخر، اضحكوا معًا وحاولوا مرة أخرى."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "9964abe1a909"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "9964abe1a909"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "9964abe1a909"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "9964abe1a909"
+      }
+    }
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s10",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 10,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué hora es?",
+    "va": "Quina hora és?",
+    "en": "What time is it?",
+    "fr": "Quelle heure est-il ?",
+    "ar": "كم الساعة؟"
+  },
+  "objetivo": {
+    "es": "Esta semana leen la hora en el reloj de agujas: en punto, y media, y cuarto y menos cuarto. La ponen en las cosas que hace la familia a lo largo del día.",
+    "va": "Aquesta setmana llegixen l'hora en el rellotge (reloj) d'agulles (agujas): en punt (en punto), i mitja (y media), i quart (y cuarto) i menys quart (menos cuarto). La posen en les coses que fa la família al llarg del dia.",
+    "en": "This week they read the time on a clock (reloj) with hands (agujas): o'clock (en punto), half past (y media), quarter past (y cuarto) and quarter to (menos cuarto). They match it to the things the family does during the day.",
+    "fr": "Cette semaine, on lit l'heure sur l'horloge (reloj) à aiguilles (agujas) : pile (en punto), et demie (y media), et quart (y cuarto) et moins le quart (menos cuarto). On la relie à ce que fait la famille au long de la journée.",
+    "ar": "هذا الأسبوع يقرأ الأطفال الوقت في الساعة (reloj) ذات العقارب (agujas): تمامًا (en punto)، والنصف (y media)، والربع (y cuarto)، وإلا ربعًا (menos cuarto). ويربطونه بما تفعله العائلة خلال اليوم."
+  },
+  "comoAyudar": {
+    "es": "Cuando paséis cerca de un reloj de agujas, preguntad dónde está la aguja corta y dónde la larga. Si las confunde, recordad juntos: la corta dice la hora y la larga, los minutos.",
+    "va": "Quan passeu prop d'un rellotge d'agulles, pregunteu on està l'agulla curta i on la llarga. Si les confon, recordeu junts: la curta diu l'hora i la llarga, els minuts.",
+    "en": "When you walk past a clock with hands, ask where the short hand is and where the long one is. If they mix them up, remember together: the short one tells the hour and the long one, the minutes.",
+    "fr": "Quand vous passez près d'une horloge à aiguilles, demandez où est la petite aiguille et où est la grande. S'il ou elle les confond, rappelez-vous ensemble : la petite dit l'heure et la grande, les minutes.",
+    "ar": "عندما تمرّون قرب ساعة بعقارب، اسألوا أين العقرب القصير وأين الطويل. وإذا حصل خلط بينهما، تذكّروا معًا: القصير يدلّ على الساعة والطويل على الدقائق."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.medida.unidades"
+  ],
+  "criterios": [
+    "matematicas.c1.5.2",
+    "matematicas.c1.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El reloj de plato",
+      "va": "El rellotge de plat",
+      "en": "The paper-plate clock",
+      "fr": "L'horloge en assiette",
+      "ar": "ساعة الصحن"
+    },
+    "material": [
+      {
+        "es": "Un plato de cartón o un círculo de cartón",
+        "va": "Un plat de cartó o un cercle de cartó",
+        "en": "A paper plate or a cardboard circle",
+        "fr": "Une assiette en carton ou un cercle de carton",
+        "ar": "صحن من الكرتون أو دائرة من الكرتون"
+      },
+      {
+        "es": "Dos tiras de cartulina, una corta y otra larga, y un encuadernador o una chincheta con tapón",
+        "va": "Dues tires de cartolina, una curta i una altra llarga, i un enquadernador o una xinxeta amb tap",
+        "en": "Two strips of card, one short and one long, and a paper fastener",
+        "fr": "Deux bandes de carton, une courte et une longue, et une attache parisienne",
+        "ar": "شريطان من الورق المقوّى، واحد قصير وآخر طويل، ومشبك ورق بجناحين"
+      },
+      {
+        "es": "Un rotulador",
+        "va": "Un retolador",
+        "en": "A felt-tip pen",
+        "fr": "Un feutre",
+        "ar": "قلم تلوين"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Con ayuda de una persona adulta, poned los números del 1 al 12 alrededor del plato y sujetad las dos agujas en el centro.",
+          "va": "Amb l'ajuda d'una persona adulta, poseu els nombres de l'1 al 12 al voltant del plat i subjecteu les dues agulles al centre.",
+          "en": "With help from an adult, put the numbers 1 to 12 around the plate and fix the two hands in the middle.",
+          "fr": "Avec l'aide d'un adulte, placez les nombres de 1 à 12 autour de l'assiette et fixez les deux aiguilles au centre.",
+          "ar": "بمساعدة شخص بالغ، ضعوا الأعداد من 1 إلى 12 حول الصحن، وثبّتوا العقربين في الوسط."
+        }
+      },
+      {
+        "pictograma": "reloj",
+        "texto": {
+          "es": "Pensad en un día de la familia: levantarse, comer, ir al parque, cenar. Poned cada hora en el reloj, en punto o y media.",
+          "va": "Penseu en un dia de la família: alçar-se, dinar, anar al parc, sopar. Poseu cada hora en el rellotge, en punt o i mitja.",
+          "en": "Think of a day in your family: getting up, lunch, going to the park, dinner. Show each time on the clock, o'clock or half past.",
+          "fr": "Pensez à une journée de la famille : se lever, déjeuner, aller au parc, dîner. Mettez chaque heure sur l'horloge, pile ou et demie.",
+          "ar": "فكّروا في يوم من أيام العائلة: الاستيقاظ، والغداء، والذهاب إلى الحديقة، والعشاء. ضعوا كل وقت على الساعة، تمامًا أو والنصف."
+        }
+      },
+      {
+        "pictograma": "reloj",
+        "texto": {
+          "es": "Ahora los cuartos: con la aguja larga en el 3 es y cuarto, y con la larga en el 9, menos cuarto.",
+          "va": "Ara els quarts: amb l'agulla llarga en el 3 és i quart, i amb la llarga en el 9, menys quart.",
+          "en": "Now the quarters: with the long hand on 3 it's quarter past, and with the long hand on 9, quarter to.",
+          "fr": "Maintenant, les quarts : avec la grande aiguille sur le 3, c'est et quart, et avec la grande sur le 9, moins le quart.",
+          "ar": "والآن الأرباع: إذا كان العقرب الطويل على 3 فهي والربع، وإذا كان على 9 فهي إلا ربعًا."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Por turnos, una persona pone una hora en el reloj y la otra la dice en voz alta.",
+          "va": "Per torns, una persona posa una hora en el rellotge i l'altra la diu en veu alta.",
+          "en": "Take turns: one person sets a time on the clock and the other says it out loud.",
+          "fr": "Chacun son tour : une personne met une heure sur l'horloge et l'autre la dit à voix haute.",
+          "ar": "بالتناوب، يضع شخص وقتًا على الساعة ويقوله الآخر بصوت عالٍ."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad solo con horas en punto y y media: la aguja larga, en el 12 o en el 6.",
+      "va": "Jugueu només amb hores en punt i i mitja: l'agulla llarga, en el 12 o en el 6.",
+      "en": "Play only with o'clock and half past: the long hand on 12 or on 6.",
+      "fr": "Jouez seulement avec les heures pile et et demie : la grande aiguille sur le 12 ou sur le 6.",
+      "ar": "العبوا فقط بالأوقات تمامًا والنصف: العقرب الطويل على 12 أو على 6."
+    },
+    "masDificil": {
+      "es": "Poned una hora y preguntad: ¿qué hora será dentro de media hora? ¿Y dentro de un cuarto de hora?",
+      "va": "Poseu una hora i pregunteu: quina hora serà d'ací a mitja hora? I d'ací a un quart d'hora?",
+      "en": "Set a time and ask: what time will it be in half an hour? And in a quarter of an hour?",
+      "fr": "Mettez une heure et demandez : quelle heure sera-t-il dans une demi-heure ? Et dans un quart d'heure ?",
+      "ar": "ضعوا وقتًا واسألوا: كم ستكون الساعة بعد نصف ساعة؟ وبعد ربع ساعة؟"
+    },
+    "paraQueSirve": {
+      "es": "Leer el reloj de agujas ayuda a saber cuánto queda para salir, para comer o para ir al cole, y a ver que el tiempo también se cuenta.",
+      "va": "Llegir el rellotge d'agulles ajuda a saber quant queda per a eixir, per a dinar o per a anar a l'escola, i a veure que el temps també es compta.",
+      "en": "Reading a clock with hands helps them know how long is left before going out, eating or going to school, and see that time can be counted too.",
+      "fr": "Lire l'horloge à aiguilles aide à savoir combien de temps il reste avant de sortir, de manger ou d'aller à l'école, et à voir que le temps aussi se compte.",
+      "ar": "قراءة الساعة ذات العقارب تساعد على معرفة كم بقي من الوقت للخروج أو للأكل أو للذهاب إلى المدرسة، وعلى رؤية أن الوقت أيضًا يُعَدّ."
+    },
+    "aviso": {
+      "es": "Guardad el encuadernador o la chincheta lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu l'enquadernador o la xinxeta lluny de germans o germanes menuts.",
+      "en": "Keep the paper fastener away from younger brothers and sisters.",
+      "fr": "Gardez l'attache parisienne loin des petits frères et sœurs.",
+      "ar": "أبعدوا مشبك الورق عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "En el reloj de la cocina, la aguja corta está en el 5 y la larga en el 3. ¿Qué hora es?",
+        "va": "En el rellotge de la cuina, l'agulla curta està en el 5 i la llarga en el 3. Quina hora és?",
+        "en": "On the kitchen clock, the short hand is on 5 and the long hand is on 3. What time is it?",
+        "fr": "Sur l'horloge de la cuisine, la petite aiguille est sur le 5 et la grande sur le 3. Quelle heure est-il ?",
+        "ar": "في ساعة المطبخ، العقرب القصير على 5 والطويل على 3. كم الساعة؟"
+      },
+      "pista": {
+        "es": "La aguja corta dice la hora y la larga en el 3 dice «y cuarto».",
+        "va": "L'agulla curta diu l'hora i la llarga en el 3 diu «i quart».",
+        "en": "The short hand tells the hour, and the long hand on 3 says “quarter past”.",
+        "fr": "La petite aiguille dit l'heure, et la grande sur le 3 dit « et quart ».",
+        "ar": "العقرب القصير يدلّ على الساعة، والطويل على 3 يعني «والربع»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Son las 5 y cuarto, que en clase se escribe 5:15. Si dice «las 3», mirad juntos cuál es la aguja corta.",
+          "va": "Són les 5 i quart, que a classe s'escriu 5:15. Si diu «les 3», mireu junts quina és l'agulla curta.",
+          "en": "It's quarter past 5, written 5:15 in class. If they say “3 o'clock”, look together at which one is the short hand.",
+          "fr": "Il est 5 heures et quart, qu'on écrit 5:15 en classe. S'il ou elle dit « 3 heures », regardez ensemble quelle est la petite aiguille.",
+          "ar": "الساعة الخامسة والربع، وتُكتب في القسم 5:15. وإذا قيل «الثالثة»، فانظروا معًا أيّ العقربين هو القصير."
+        }
+      },
+      "inventala": {
+        "es": "Ahora pon tú una hora en el reloj de plato y pregunta qué hora es.",
+        "va": "Ara posa tu una hora en el rellotge de plat i pregunta quina hora és.",
+        "en": "Now you set a time on the paper-plate clock and ask what time it is.",
+        "fr": "Maintenant, mets une heure sur l'horloge en assiette et demande quelle heure il est.",
+        "ar": "والآن لنضع وقتًا على ساعة الصحن ونسأل: كم الساعة؟"
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Ion y su padre salen al parque a las 5 en punto y vuelven a las 6 menos cuarto. ¿Cuántos minutos están fuera?",
+        "va": "Ion i son pare ixen al parc a les 5 en punt i tornen a les 6 menys quart. Quants minuts estan fora?",
+        "en": "Ion and his dad go to the park at 5 o'clock and come back at quarter to 6. How many minutes are they out?",
+        "fr": "Ion et son père partent au parc à 5 heures pile et rentrent à 6 heures moins le quart. Combien de minutes sont-ils dehors ?",
+        "ar": "يخرج إيون ووالده إلى الحديقة في الخامسة تمامًا ويعودان في السادسة إلا ربعًا. كم دقيقة يبقيان في الخارج؟"
+      },
+      "pista": {
+        "es": "Mueve la aguja larga del 12 al 9 y cuenta de 15 en 15: 15, 30, 45.",
+        "va": "Mou l'agulla llarga del 12 al 9 i compta de 15 en 15: 15, 30, 45.",
+        "en": "Move the long hand from 12 to 9 and count in fifteens: 15, 30, 45.",
+        "fr": "Bouge la grande aiguille du 12 au 9 et compte de 15 en 15 : 15, 30, 45.",
+        "ar": "لنحرّك العقرب الطويل من 12 إلى 9 ونعدّ خمس عشرة خمس عشرة: 15، 30، 45."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 + 15 + 15",
+        "resultado": 45,
+        "unidad": "min",
+        "texto": {
+          "es": "Están 45 minutos: {{15 + 15 + 15 = 45}}.",
+          "va": "Hi estan 45 minuts: {{15 + 15 + 15 = 45}}.",
+          "en": "They're out for 45 minutes: {{15 + 15 + 15 = 45}}.",
+          "fr": "Ils sont dehors 45 minutes : {{15 + 15 + 15 = 45}}.",
+          "ar": "يبقيان 45 دقيقة: {{15 + 15 + 15 = 45}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la hora a la que salís y volvéis de algún sitio.",
+        "va": "Inventa'n tu una altra amb l'hora a què eixiu i torneu d'algun lloc.",
+        "en": "Make up another one with the time you leave and come back from somewhere.",
+        "fr": "Invente-en une autre avec l'heure où vous partez et revenez de quelque part.",
+        "ar": "لنخترع سؤالًا آخر بالوقت الذي نخرج فيه إلى مكان ما ونعود منه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "En casa de Darío, la lavadora tarda 45 minutos y tender la ropa, 15 más. ¿Cuánto tiempo es todo junto?",
+        "va": "A casa de Darío, la llavadora tarda 45 minuts i estendre la roba, 15 més. Quant de temps és tot junt?",
+        "en": "At Darío's house, the washing machine takes 45 minutes and hanging out the washing takes 15 more. How long is that altogether?",
+        "fr": "Chez Darío, la machine à laver met 45 minutes et étendre le linge, 15 de plus. Combien de temps ça fait en tout ?",
+        "ar": "في بيت داريو، تستغرق الغسالة 45 دقيقة، ونشر الملابس 15 دقيقة أخرى. كم يكون الوقت كله؟"
+      },
+      "pista": {
+        "es": "Da con la aguja larga una vuelta: 45 minutos y luego 15 más.",
+        "va": "Fes una volta amb l'agulla llarga: 45 minuts i després 15 més.",
+        "en": "Move the long hand all the way round: 45 minutes and then 15 more.",
+        "fr": "Fais faire un tour à la grande aiguille : 45 minutes puis 15 de plus.",
+        "ar": "لندوّر العقرب الطويل دورة كاملة: 45 دقيقة ثم 15 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "45 + 15",
+        "resultado": 60,
+        "unidad": "min",
+        "texto": {
+          "es": "Es 1 hora justa: {{45 + 15 = 60}} minutos.",
+          "va": "És 1 hora justa: {{45 + 15 = 60}} minuts.",
+          "en": "It's exactly 1 hour: {{45 + 15 = 60}} minutes.",
+          "fr": "Ça fait 1 heure pile : {{45 + 15 = 60}} minutes.",
+          "ar": "إنها ساعة واحدة تمامًا: {{45 + 15 = 60}} دقيقة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos cosas que hacéis en casa y lo que tarda cada una.",
+        "va": "Inventa'n tu una altra amb dues coses que feu a casa i el que tarda cadascuna.",
+        "en": "Make up another one with two things you do at home and how long each one takes.",
+        "fr": "Invente-en une autre avec deux choses que vous faites à la maison et le temps que prend chacune.",
+        "ar": "لنخترع سؤالًا آخر بشيئين نفعلهما في البيت وكم يستغرق كل واحد منهما."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: tienes 4 paquetes de 10 palillos y 3 sueltos. Si quitas 8, ¿cuántos quedan?",
+        "va": "Per a recordar: tens 4 paquets de 10 escuradents i 3 solts. Si en lleves 8, quants en queden?",
+        "en": "Let's remember: you have 4 bundles of 10 sticks and 3 loose ones. If you take away 8, how many are left?",
+        "fr": "Pour se souvenir : tu as 4 paquets de 10 bâtonnets et 3 bâtonnets seuls. Si tu en enlèves 8, combien en reste-t-il ?",
+        "ar": "لنتذكّر: عندنا 4 حزم في كل واحدة 10 أعواد، و3 أعواد منفردة. إذا نزعنا 8، كم يبقى؟"
+      },
+      "pista": {
+        "es": "Con 3 sueltos no llega: suelta la goma de un paquete.",
+        "va": "Amb 3 solts no n'hi ha prou: solta la goma d'un paquet.",
+        "en": "3 loose ones aren't enough: take the band off one bundle.",
+        "fr": "Avec 3 bâtonnets seuls, ça ne suffit pas : enlève l'élastique d'un paquet.",
+        "ar": "3 أعواد منفردة لا تكفي: لنفكّ المطاط عن حزمة واحدة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "43 - 8",
+        "resultado": 35,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 35 palillos: {{43 − 8 = 35}}.",
+          "va": "En queden 35: {{43 − 8 = 35}}.",
+          "en": "There are 35 sticks left: {{43 − 8 = 35}}.",
+          "fr": "Il en reste 35 : {{43 − 8 = 35}}.",
+          "ar": "يبقى 35 عودًا: {{43 − 8 = 35}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra en la que haga falta abrir un paquete.",
+        "va": "Inventa'n tu una altra en què faça falta obrir un paquet.",
+        "en": "Make up another one where you open a bundle.",
+        "fr": "Invente-en une autre où on ouvre un paquet.",
+        "ar": "لنخترع سؤالًا آخر نحتاج فيه إلى فتح حزمة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes si el reloj marca y cuarto o menos cuarto? Explícamelo con tu reloj de plato.",
+        "va": "Com saps si el rellotge marca i quart o menys quart? Explica-m'ho amb el teu rellotge de plat.",
+        "en": "How do you know if the clock shows quarter past or quarter to? Explain it to me with your paper-plate clock.",
+        "fr": "Comment sais-tu si l'horloge indique et quart ou moins le quart ? Explique-le-moi avec ton horloge en assiette.",
+        "ar": "كيف نعرف إن كانت الساعة تشير إلى والربع أو إلا ربعًا؟ لنشرح ذلك بساعة الصحن."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Dónde está la aguja larga en cada una?»",
+        "va": "Si no sap per on començar: «On està l'agulla llarga en cada una?»",
+        "en": "If they don't know where to start: “Where is the long hand in each one?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Où est la grande aiguille dans chaque cas ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «أين العقرب الطويل في كل حالة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que con la larga en el 3 es y cuarto y en el 9, menos cuarto, o enseñarlo moviendo las agujas. Escuchad y dad las gracias por la explicación.",
+          "va": "Pot dir que amb la llarga en el 3 és i quart i en el 9, menys quart, o ensenyar-ho movent les agulles. Escolteu i doneu les gràcies per l'explicació.",
+          "en": "They might say that with the long hand on 3 it's quarter past and on 9, quarter to, or show it by moving the hands. Listen and say thank you for the explanation.",
+          "fr": "Il ou elle peut dire qu'avec la grande sur le 3 c'est et quart et sur le 9, moins le quart, ou le montrer en bougeant les aiguilles. Écoutez et dites merci pour l'explication.",
+          "ar": "قد يُقال إن العقرب الطويل على 3 يعني والربع وعلى 9 يعني إلا ربعًا، أو يُعرض ذلك بتحريك العقربين. استمعوا وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "6452f9c1ea05"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "6452f9c1ea05"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "6452f9c1ea05"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "6452f9c1ea05"
+      }
+    }
+  }
+}

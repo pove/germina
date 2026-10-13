@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s24",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 24,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿De cuántas maneras?",
+    "va": "De quantes maneres?",
+    "en": "How many ways?",
+    "fr": "De combien de façons ?",
+    "ar": "بكم طريقة؟"
+  },
+  "objetivo": {
+    "es": "Esta semana buscan todas las maneras de combinar cosas, como camisetas y pantalones, sin dejarse ninguna ni repetir. Descubren que cada camiseta va con todos los pantalones.",
+    "va": "Aquesta setmana busquen totes les maneres de combinar coses, com ara samarretes i pantalons, sense deixar-se'n cap ni repetir. Descobrixen que cada samarreta va amb tots els pantalons.",
+    "en": "This week they look for all the ways to combine things, like T-shirts and trousers, without missing any or repeating. They discover that each T-shirt goes with every pair of trousers.",
+    "fr": "Cette semaine, on cherche toutes les façons de combiner des choses, comme des tee-shirts et des pantalons, sans en oublier ni en répéter. On découvre que chaque tee-shirt va avec tous les pantalons.",
+    "ar": "هذا الأسبوع يبحث الأطفال عن كل طرق الجمع بين الأشياء، مثل القمصان والسراويل، من دون نسيان أي طريقة أو تكرارها. ويكتشفون أن كل قميص يناسب كل السراويل."
+  },
+  "comoAyudar": {
+    "es": "Proponed un orden: primero la camiseta roja con todos los pantalones, luego la otra. Si se repite una manera, reíd juntos y buscad la que falta.",
+    "va": "Proposeu un ordre: primer la samarreta roja amb tots els pantalons, després l'altra. Si es repetix una manera, rieu junts i busqueu la que falta.",
+    "en": "Suggest an order: first the red T-shirt with all the trousers, then the other one. If a way gets repeated, laugh about it together and look for the missing one.",
+    "fr": "Proposez un ordre : d'abord le tee-shirt rouge avec tous les pantalons, puis l'autre. Si une façon se répète, riez-en ensemble et cherchez celle qui manque.",
+    "ar": "اقترحوا ترتيبًا: أولًا القميص الأحمر مع كل السراويل، ثم القميص الآخر. وإذا تكرّرت طريقة، اضحكوا معًا وابحثوا عن الطريقة الناقصة."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.3.2",
+    "matematicas.c1.1.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El vestidor del peluche",
+      "va": "El vestidor del peluix",
+      "en": "The cuddly toy's wardrobe",
+      "fr": "Le dressing de la peluche",
+      "ar": "خزانة ملابس الدمية"
+    },
+    "material": [
+      {
+        "es": "Un peluche o un muñeco",
+        "va": "Un peluix o un ninot",
+        "en": "A cuddly toy or a doll",
+        "fr": "Une peluche ou une poupée",
+        "ar": "دمية أو لعبة محشوّة"
+      },
+      {
+        "es": "Papel, lápices de colores y tijeras de punta redonda",
+        "va": "Paper, llapis de colors i tisores de punta redona",
+        "en": "Paper, coloured pencils and round-tipped scissors",
+        "fr": "Du papier, des crayons de couleur et des ciseaux à bouts ronds",
+        "ar": "ورق وأقلام ملوّنة ومقصّ برأس مدوّر"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tijeras",
+        "texto": {
+          "es": "Dibujad 2 camisetas y 3 pantalones, cada uno de un color, y recortadlos.",
+          "va": "Dibuixeu 2 samarretes i 3 pantalons, cada un d'un color, i retalleu-los.",
+          "en": "Draw 2 T-shirts and 3 pairs of trousers, each one a different colour, and cut them out.",
+          "fr": "Dessinez 2 tee-shirts et 3 pantalons, chacun d'une couleur, et découpez-les.",
+          "ar": "ارسموا قميصين و3 سراويل، كل واحد بلون، وقصّوها."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Poned al peluche una camiseta y un pantalón. ¡Ya tenéis una manera de vestirlo!",
+          "va": "Poseu al peluix una samarreta i uns pantalons. Ja teniu una manera de vestir-lo!",
+          "en": "Put one T-shirt and one pair of trousers on the cuddly toy. That's one way to dress it!",
+          "fr": "Mettez à la peluche un tee-shirt et un pantalon. Voilà une façon de l'habiller !",
+          "ar": "ألبسوا الدمية قميصًا وسروالًا. هذه طريقة أولى لإلباسها!"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Cambiad solo el pantalón y haced una marca por cada manera nueva. Luego cambiad de camiseta.",
+          "va": "Canvieu només els pantalons i feu una marca per cada manera nova. Després canvieu de samarreta.",
+          "en": "Change only the trousers and make a mark for each new way. Then change the T-shirt.",
+          "fr": "Changez seulement le pantalon et faites une marque pour chaque nouvelle façon. Ensuite, changez de tee-shirt.",
+          "ar": "غيّروا السروال فقط، وارسموا علامة لكل طريقة جديدة. ثم غيّروا القميص."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Contad las marcas. ¿Cuántas maneras salen? ¿Y si dibujáis una camiseta más?",
+          "va": "Compteu les marques. Quantes maneres n'ixen? I si dibuixeu una samarreta més?",
+          "en": "Count the marks. How many ways are there? And if you draw one more T-shirt?",
+          "fr": "Comptez les marques. Combien de façons trouvez-vous ? Et si vous dessinez un tee-shirt de plus ?",
+          "ar": "عدّوا العلامات. كم طريقة وجدتم؟ وماذا لو رسمتم قميصًا آخر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 2 camisetas y 2 pantalones, y vestid al peluche de verdad con cada manera.",
+      "va": "Comenceu amb 2 samarretes i 2 pantalons, i vestiu el peluix de veritat amb cada manera.",
+      "en": "Start with 2 T-shirts and 2 pairs of trousers, and really dress the toy in each way.",
+      "fr": "Commencez avec 2 tee-shirts et 2 pantalons, et habillez vraiment la peluche de chaque façon.",
+      "ar": "ابدؤوا بقميصين وسروالين، وألبسوا الدمية فعلًا بكل طريقة."
+    },
+    "masDificil": {
+      "es": "Añadid 2 gorros. Antes de probar, adivinad cuántas maneras saldrán ahora.",
+      "va": "Afegiu 2 gorres. Abans de provar-ho, endevineu quantes maneres n'eixiran ara.",
+      "en": "Add 2 hats. Before trying, guess how many ways there will be now.",
+      "fr": "Ajoutez 2 bonnets. Avant d'essayer, devinez combien de façons il y aura maintenant.",
+      "ar": "أضيفوا قبّعتين. قبل التجربة، خمّنوا كم طريقة ستكون الآن."
+    },
+    "paraQueSirve": {
+      "es": "Buscar todas las maneras con orden ayuda a no dejarse nada y es otra forma de ver la multiplicación: 2 camisetas con 3 pantalones son {{2 × 3}}.",
+      "va": "Buscar totes les maneres amb ordre ajuda a no deixar-se res i és una altra manera de veure la multiplicació: 2 samarretes amb 3 pantalons són {{2 × 3}}.",
+      "en": "Looking for all the ways in order helps you not miss anything, and it is another way to see multiplication (multiplicación): 2 T-shirts with 3 pairs of trousers are {{2 × 3}}.",
+      "fr": "Chercher toutes les façons avec ordre aide à ne rien oublier, et c'est une autre manière de voir la multiplication (multiplicación) : 2 tee-shirts avec 3 pantalons, c'est {{2 × 3}}.",
+      "ar": "البحث عن كل الطرق بترتيب يساعد على عدم نسيان أي شيء، وهو طريقة أخرى لرؤية الضرب (multiplicación): قميصان مع 3 سراويل هي {{2 × 3}}."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Tienes una camiseta roja y una azul, y 3 pantalones. ¿De cuántas maneras te puedes vestir?",
+        "va": "Tens una samarreta roja i una blava, i 3 pantalons. De quantes maneres et pots vestir?",
+        "en": "You have a red T-shirt and a blue one, and 3 pairs of trousers. How many ways can you get dressed?",
+        "fr": "Tu as un tee-shirt rouge et un bleu, et 3 pantalons. De combien de façons peux-tu t'habiller ?",
+        "ar": "عندنا قميص أحمر وقميص أزرق، و3 سراويل. بكم طريقة يمكن أن نلبس؟"
+      },
+      "pista": {
+        "es": "Empieza con la camiseta roja y pruébala con cada pantalón.",
+        "va": "Comença amb la samarreta roja i combina-la amb cada pantaló.",
+        "en": "Start with the red T-shirt and try it with each pair of trousers.",
+        "fr": "Commence avec le tee-shirt rouge et essaie-le avec chaque pantalon.",
+        "ar": "لنبدأ بالقميص الأحمر ونجرّبه مع كل سروال."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 3",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "De 6 maneras: cada camiseta va con los 3 pantalones, {{3 + 3 = 6}}.",
+          "va": "De 6 maneres: cada samarreta va amb els 3 pantalons, {{3 + 3 = 6}}.",
+          "en": "6 ways: each T-shirt goes with the 3 pairs of trousers, {{3 + 3 = 6}}.",
+          "fr": "De 6 façons : chaque tee-shirt va avec les 3 pantalons, {{3 + 3 = 6}}.",
+          "ar": "بـ6 طرق: كل قميص يناسب السراويل الثلاثة، {{3 + 3 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la ropa de tu armario.",
+        "va": "Inventa'n tu una altra amb la roba del teu armari.",
+        "en": "Now you make one up with the clothes in your wardrobe.",
+        "fr": "Invente-en une autre avec les vêtements de ton armoire.",
+        "ar": "لنخترع سؤالًا آخر بملابس الخزانة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Para el bocadillo hay 2 panes y 4 rellenos. Si eliges un pan y un relleno, ¿cuántos bocadillos distintos puedes hacer?",
+        "va": "Per a l'entrepà hi ha 2 pans i 4 farcits. Si tries un pa i un farcit, quants entrepans diferents pots fer?",
+        "en": "For the sandwich there are 2 kinds of bread and 4 fillings. If you choose one bread and one filling, how many different sandwiches can you make?",
+        "fr": "Pour le sandwich, il y a 2 pains et 4 garnitures. Si tu choisis un pain et une garniture, combien de sandwichs différents peux-tu faire ?",
+        "ar": "للشطيرة نوعان من الخبز و4 أنواع من الحشوة. إذا اخترنا خبزًا وحشوة، فكم شطيرة مختلفة نصنع؟"
+      },
+      "pista": {
+        "es": "Cada pan va con los 4 rellenos: cuéntalos con los dedos, pan por pan.",
+        "va": "Cada pa va amb els 4 farcits: compta'ls amb els dits, pa per pa.",
+        "en": "Each bread goes with the 4 fillings: count them on your fingers, one bread at a time.",
+        "fr": "Chaque pain va avec les 4 garnitures : compte-les sur tes doigts, pain par pain.",
+        "ar": "كل خبز يناسب الحشوات الأربع: لنعدّها بالأصابع، خبزًا بعد خبز."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 4",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Puedes hacer 8 bocadillos distintos: {{4 + 4 = 8}}, o {{2 × 4 = 8}}.",
+          "va": "Pots fer 8 entrepans diferents: {{4 + 4 = 8}}, o {{2 × 4 = 8}}.",
+          "en": "You can make 8 different sandwiches: {{4 + 4 = 8}}, or {{2 × 4 = 8}}.",
+          "fr": "Tu peux faire 8 sandwichs différents : {{4 + 4 = 8}}, ou {{2 × 4 = 8}}.",
+          "ar": "نستطيع أن نصنع 8 شطائر مختلفة: {{4 + 4 = 8}}، أو {{2 × 4 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con helados: sabores y cucuruchos.",
+        "va": "Inventa'n tu una altra amb gelats: sabors i cucurutxos.",
+        "en": "Make up another one with ice creams: flavours and cones.",
+        "fr": "Invente-en une autre avec des glaces : parfums et cornets.",
+        "ar": "لنخترع سؤالًا آخر عن المثلّجات: نكهات وأقماع."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Iker tiene 3 gorros y 3 bufandas. Si se pone un gorro y una bufanda, ¿de cuántas maneras puede ir abrigado?",
+        "va": "Iker té 3 gorres i 3 bufandes. Si es posa una gorra i una bufanda, de quantes maneres pot anar abrigat?",
+        "en": "Iker has 3 hats and 3 scarves. If he wears one hat and one scarf, how many ways can he wrap up warm?",
+        "fr": "Iker a 3 bonnets et 3 écharpes. S'il met un bonnet et une écharpe, de combien de façons peut-il se couvrir ?",
+        "ar": "عند إيكر 3 قبّعات و3 أوشحة. إذا لبس قبّعة ووشاحًا، فبكم طريقة يمكن أن يتدفّأ؟"
+      },
+      "pista": {
+        "es": "Dibuja los 3 gorros y une cada uno con flechas a las 3 bufandas.",
+        "va": "Dibuixa les 3 gorres i uneix cada una amb fletxes a les 3 bufandes.",
+        "en": "Draw the 3 hats and join each one with arrows to the 3 scarves.",
+        "fr": "Dessine les 3 bonnets et relie chacun par des flèches aux 3 écharpes.",
+        "ar": "لنرسم القبّعات الثلاث ونصل كل واحدة بأسهم إلى الأوشحة الثلاثة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 3 + 3",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "De 9 maneras: {{3 + 3 + 3 = 9}}, o {{3 × 3 = 9}}.",
+          "va": "De 9 maneres: {{3 + 3 + 3 = 9}}, o {{3 × 3 = 9}}.",
+          "en": "9 ways: {{3 + 3 + 3 = 9}}, or {{3 × 3 = 9}}.",
+          "fr": "De 9 façons : {{3 + 3 + 3 = 9}}, ou {{3 × 3 = 9}}.",
+          "ar": "بـ9 طرق: {{3 + 3 + 3 = 9}}، أو {{3 × 3 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con zapatillas y calcetines de colores.",
+        "va": "Inventa'n tu una amb sabatilles i calcetins de colors.",
+        "en": "Make one up with trainers and coloured socks.",
+        "fr": "Invente une question avec des baskets et des chaussettes de couleur.",
+        "ar": "لنخترع سؤالًا بأحذية رياضية وجوارب ملوّنة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 19,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar el signo ×: tienes 4 parejas de calcetines. ¿Cuántos calcetines son?",
+        "va": "Per a recordar el signe ×: tens 4 parells de calcetins. Quants calcetins són?",
+        "en": "Let's remember the × sign: you have 4 pairs of socks. How many socks is that?",
+        "fr": "Pour se souvenir du signe × : tu as 4 paires de chaussettes. Combien de chaussettes cela fait-il ?",
+        "ar": "لنتذكّر علامة ×: عندنا 4 أزواج من الجوارب. كم جوربًا هذا؟"
+      },
+      "pista": {
+        "es": "Cuenta de 2 en 2: dos, cuatro…",
+        "va": "Compta de 2 en 2: dos, quatre…",
+        "en": "Count in 2s: two, four…",
+        "fr": "Compte de 2 en 2 : deux, quatre…",
+        "ar": "لنعدّ اثنين اثنين: اثنان، أربعة…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 2",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 8 calcetines: {{2 + 2 + 2 + 2 = 8}}, es decir, {{4 × 2 = 8}}.",
+          "va": "Són 8 calcetins: {{2 + 2 + 2 + 2 = 8}}, és a dir, {{4 × 2 = 8}}.",
+          "en": "That's 8 socks: {{2 + 2 + 2 + 2 = 8}}, in other words {{4 × 2 = 8}}.",
+          "fr": "Ça fait 8 chaussettes : {{2 + 2 + 2 + 2 = 8}}, c'est-à-dire {{4 × 2 = 8}}.",
+          "ar": "إنها 8 جوارب: {{2 + 2 + 2 + 2 = 8}}، أي {{4 × 2 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con parejas de zapatos de la entrada.",
+        "va": "Inventa'n tu una altra amb parells de sabates de l'entrada.",
+        "en": "Make up another one with pairs of shoes by the front door.",
+        "fr": "Invente-en une autre avec les paires de chaussures de l'entrée.",
+        "ar": "لنخترع سؤالًا آخر بأزواج الأحذية عند المدخل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes que no te has dejado ninguna manera de vestir al peluche? Enséñamelo con la ropa de papel.",
+        "va": "Com saps que no t'has deixat cap manera de vestir el peluix? Ensenya-m'ho amb la roba de paper.",
+        "en": "How do you know you haven't missed any way of dressing the cuddly toy? Show me with the paper clothes.",
+        "fr": "Comment sais-tu que tu n'as oublié aucune façon d'habiller la peluche ? Montre-le-moi avec les vêtements en papier.",
+        "ar": "كيف نعرف أننا لم ننسَ أي طريقة لإلباس الدمية؟ لنُرِ ذلك بالملابس الورقية."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Con qué camiseta empezaste? ¿Y después qué cambiaste?».",
+        "va": "Si no sap per on començar: «Amb quina samarreta vas començar? I després què vas canviar?».",
+        "en": "If they don't know where to start: “Which T-shirt did you start with? And what did you change next?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Avec quel tee-shirt as-tu commencé ? Et ensuite, qu'as-tu changé ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «بأيّ قميص بدأنا؟ وماذا غيّرنا بعد ذلك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo valioso es que cuente su orden: una camiseta con todos los pantalones y luego la otra. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "El valuós és que conte el seu ordre: una samarreta amb tots els pantalons i després l'altra. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "What matters is that they describe their order: one T-shirt with all the trousers, then the other. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "L'important, c'est que votre enfant raconte son ordre : un tee-shirt avec tous les pantalons, puis l'autre. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "المهمّ أن نسمع الترتيب المتّبع: قميص مع كل السراويل، ثم القميص الآخر. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "4db54d13abcf"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "4db54d13abcf"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "4db54d13abcf"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "4db54d13abcf"
+      }
+    }
+  }
+}

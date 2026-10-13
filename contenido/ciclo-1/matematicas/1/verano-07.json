@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.v07",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "verano": 7,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Collares con patrón",
+    "va": "Collarets amb patró",
+    "en": "Pattern necklaces",
+    "fr": "Des colliers à motif",
+    "ar": "قلائد بنمط"
+  },
+  "objetivo": {
+    "es": "En verano, hacer collares y pulseras con un patrón (blanco, rojo, blanco, rojo…) es descubrir una regla que se repite y adivinar qué viene después.",
+    "va": "A l'estiu, fer collarets i polseres amb un patró (patrón) (blanc, roig, blanc, roig…) és descobrir una regla que es repetix i endevinar què ve després.",
+    "en": "In summer, making necklaces and bracelets with a pattern (patrón) (white, red, white, red…) means discovering a rule that repeats and guessing what comes next.",
+    "fr": "En été, faire des colliers et des bracelets avec un motif (patrón) (blanc, rouge, blanc, rouge…), c'est découvrir une règle qui se répète et deviner ce qui vient ensuite.",
+    "ar": "في الصيف، صنع قلائد وأساور بنمط (patrón) (أبيض، أحمر، أبيض، أحمر…) هو اكتشاف قاعدة تتكرّر وتخمين ما يأتي بعدها."
+  },
+  "comoAyudar": {
+    "es": "Pedid que diga la regla en voz alta: «va uno blanco y uno rojo, y otra vez». Si se equivoca, leed juntos el collar desde el principio, señalando cada cuenta.",
+    "va": "Demaneu que diga la regla en veu alta: «va un blanc i un roig, i una altra vegada». Si s’equivoca, llegiu junts el collaret des del principi, assenyalant cada bola.",
+    "en": "Ask your child to say the rule out loud: “one white and one red, and again”. If they slip up, read the necklace together from the start, pointing to each bead.",
+    "fr": "Demandez à votre enfant de dire la règle à voix haute : « un blanc et un rouge, et on recommence ». S'il ou elle se trompe, lisez ensemble le collier depuis le début, en montrant chaque perle.",
+    "ar": "اطلبوا قول القاعدة بصوت عالٍ: «واحدة بيضاء وواحدة حمراء، ثم من جديد». وإذا حدث خطأ، اقرؤوا القلادة معًا من البداية مع الإشارة إلى كل خرزة."
+  },
+  "saberes": [
+    "matematicas.computacional.secuencias-figuras"
+  ],
+  "criterios": [
+    "matematicas.c1.2.3",
+    "matematicas.c1.4.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El collar que se repite",
+      "va": "El collaret que es repetix",
+      "en": "The repeating necklace",
+      "fr": "Le collier qui se répète",
+      "ar": "القلادة التي تتكرّر"
+    },
+    "material": [
+      {
+        "es": "Macarrones, cuentas o conchas con agujero, de dos o tres colores",
+        "va": "Macarrons, boles o petxines amb forat, de dos o tres colors",
+        "en": "Pasta tubes, beads or shells with a hole, in two or three colours",
+        "fr": "Des macaronis, des perles ou des coquillages percés, de deux ou trois couleurs",
+        "ar": "معكرونة أو خرز أو أصداف مثقوبة، بلونين أو ثلاثة"
+      },
+      {
+        "es": "Un cordón o un trozo de cuerda",
+        "va": "Un cordó o un tros de corda",
+        "en": "A lace or a piece of string",
+        "fr": "Un lacet ou un bout de ficelle",
+        "ar": "خيط أو قطعة حبل"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Separad las cosas por colores o por clases, por ejemplo conchas y macarrones.",
+          "va": "Separeu les coses per colors o per classes, per exemple petxines i macarrons.",
+          "en": "Sort the things by colour or by kind, for example shells and pasta.",
+          "fr": "Triez les objets par couleur ou par sorte, par exemple coquillages et macaronis.",
+          "ar": "افرزوا الأشياء حسب اللون أو النوع، مثل الأصداف والمعكرونة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Una persona empieza el collar con un patrón: uno blanco, uno rojo, uno blanco, uno rojo…",
+          "va": "Una persona comença el collaret amb un patró: un blanc, un roig, un blanc, un roig…",
+          "en": "One person starts the necklace with a pattern: one white, one red, one white, one red…",
+          "fr": "Une personne commence le collier avec un motif : un blanc, un rouge, un blanc, un rouge…",
+          "ar": "يبدأ شخص القلادة بنمط: واحدة بيضاء، واحدة حمراء، واحدة بيضاء، واحدة حمراء…"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "La otra persona mira, dice qué viene después y lo pone. Si no sale, probad otra vez juntos.",
+          "va": "L'altra persona mira, diu què ve després i ho posa. Si no ix, proveu una altra vegada junts.",
+          "en": "The other person looks, says what comes next and threads it on. If it doesn’t work out, try again together.",
+          "fr": "L'autre personne regarde, dit ce qui vient ensuite et l'enfile. Si ça ne marche pas, essayez encore ensemble.",
+          "ar": "ينظر الشخص الآخر ويقول ما يأتي بعدها ويضعه. وإذا لم ينجح، جرّبوا مرة أخرى معًا."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Al terminar, decid la regla del collar en voz alta y cambiad los papeles con un patrón nuevo.",
+          "va": "En acabar, digueu la regla del collaret en veu alta i canvieu els papers amb un patró nou.",
+          "en": "When you finish, say the rule of the necklace out loud and swap roles with a new pattern.",
+          "fr": "À la fin, dites la règle du collier à voix haute et échangez les rôles avec un nouveau motif.",
+          "ar": "عند الانتهاء، قولوا قاعدة القلادة بصوت عالٍ وتبادلوا الأدوار بنمط جديد."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos clases de cosas y el patrón más sencillo: uno y uno.",
+      "va": "Feu servir només dues classes de coses i el patró més senzill: un i un.",
+      "en": "Use only two kinds of things and the simplest pattern: one and one.",
+      "fr": "Utilisez seulement deux sortes d’objets et le motif le plus simple : un et un.",
+      "ar": "استعملوا نوعين فقط من الأشياء وأبسط نمط: واحدة وواحدة."
+    },
+    "masDificil": {
+      "es": "Haced patrones de tres: rojo, blanco, blanco, rojo, blanco, blanco… o con tres colores.",
+      "va": "Feu patrons de tres: roig, blanc, blanc, roig, blanc, blanc… o amb tres colors.",
+      "en": "Make patterns of three: red, white, white, red, white, white… or with three colours.",
+      "fr": "Faites des motifs de trois : rouge, blanc, blanc, rouge, blanc, blanc… ou avec trois couleurs.",
+      "ar": "اصنعوا أنماطًا من ثلاثة: أحمر، أبيض، أبيض، أحمر، أبيض، أبيض… أو بثلاثة ألوان."
+    },
+    "paraQueSirve": {
+      "es": "Descubrir una regla que se repite y adivinar lo que viene es la base de las series de números, como 2, 4, 6, 8…",
+      "va": "Descobrir una regla que es repetix i endevinar el que ve és la base de les sèries (series) de nombres, com 2, 4, 6, 8…",
+      "en": "Discovering a rule that repeats and guessing what comes next is the basis of number sequences (series), like 2, 4, 6, 8…",
+      "fr": "Découvrir une règle qui se répète et deviner ce qui vient, c’est la base des suites (series) de nombres, comme 2, 4, 6, 8…",
+      "ar": "اكتشاف قاعدة تتكرّر وتخمين ما يأتي هو أساس متتاليات (series) الأعداد، مثل 2، 4، 6، 8…"
+    },
+    "aviso": {
+      "es": "Macarrones, cuentas y conchas, lejos de hermanos o hermanas pequeños.",
+      "va": "Macarrons, boles i petxines, lluny de germans o germanes menuts.",
+      "en": "Keep pasta, beads and shells away from younger brothers and sisters.",
+      "fr": "Macaronis, perles et coquillages, loin des petits frères et sœurs.",
+      "ar": "المعكرونة والخرز والأصداف بعيدًا عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Concha, piedra, concha, piedra, concha… ¿Qué viene ahora?",
+        "va": "Petxina, pedra, petxina, pedra, petxina… Què ve ara?",
+        "en": "Shell, stone, shell, stone, shell… What comes now?",
+        "fr": "Coquillage, caillou, coquillage, caillou, coquillage… Qu’est-ce qui vient maintenant ?",
+        "ar": "صدفة، حصاة، صدفة، حصاة، صدفة… ماذا يأتي الآن؟"
+      },
+      "pista": {
+        "es": "Dilo en voz alta desde el principio, dando una palmada en cada una.",
+        "va": "Digues-ho en veu alta des del principi, donant una palmada a cada una.",
+        "en": "Say it out loud from the start, clapping once for each one.",
+        "fr": "Dis-le à voix haute depuis le début, en tapant dans tes mains à chaque fois.",
+        "ar": "لنقلها بصوت عالٍ من البداية ونصفّق مع كل واحدة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Piedra. Pedid que diga la regla: «va una y una».",
+          "va": "Pedra. Demaneu que diga la regla: «va una i una».",
+          "en": "Stone. Ask your child to say the rule: “one and one”.",
+          "fr": "Caillou. Demandez à votre enfant de dire la règle : « un et un ».",
+          "ar": "حصاة. اطلبوا قول القاعدة: «واحدة وواحدة»."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú un patrón con dos cosas de la mesa.",
+        "va": "Ara inventa'n tu un patró amb dues coses de la taula.",
+        "en": "Now you make up a pattern with two things on the table.",
+        "fr": "Maintenant, invente un motif avec deux choses de la table.",
+        "ar": "والآن لنخترع نمطًا بشيئين من على الطاولة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Rojo, rojo, azul, rojo, rojo, azul… ¿Qué viene después del azul?",
+        "va": "Roig, roig, blau, roig, roig, blau… Què ve després del blau?",
+        "en": "Red, red, blue, red, red, blue… What comes after the blue?",
+        "fr": "Rouge, rouge, bleu, rouge, rouge, bleu… Qu’est-ce qui vient après le bleu ?",
+        "ar": "أحمر، أحمر، أزرق، أحمر، أحمر، أزرق… ماذا يأتي بعد الأزرق؟"
+      },
+      "pista": {
+        "es": "Busca el trozo que se repite y señálalo.",
+        "va": "Busca el tros que es repetix i assenyala’l.",
+        "en": "Find the bit that repeats and point to it.",
+        "fr": "Cherche le morceau qui se répète et montre-le.",
+        "ar": "لنبحث عن الجزء الذي يتكرّر ونشير إليه."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Rojo, y después otro rojo: van dos rojos y un azul. Si duda, hacedlo con objetos de esos colores.",
+          "va": "Roig, i després un altre roig: van dos rojos i un blau. Si dubta, feu-ho amb objectes d’eixos colors.",
+          "en": "Red, and then another red: it goes two reds and one blue. If your child is unsure, make it with objects in those colours.",
+          "fr": "Rouge, puis encore rouge : ça fait deux rouges et un bleu. En cas de doute, faites-le avec des objets de ces couleurs.",
+          "ar": "أحمر، ثم أحمر آخر: اثنان أحمران وواحد أزرق. وإذا وُجد تردّد، اصنعوه بأشياء بهذه الألوان."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un patrón con tres colores para que lo adivine tu familia.",
+        "va": "Inventa'n tu un patró amb tres colors perquè l'endevine la teua família.",
+        "en": "Make up a pattern with three colours for your family to guess.",
+        "fr": "Invente un motif avec trois couleurs pour que ta famille le devine.",
+        "ar": "لنخترع نمطًا بثلاثة ألوان لتخمّنه العائلة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En la pulsera de Sara cada trozo tiene 2 cuentas rojas y 1 blanca. Si hace 3 trozos, ¿cuántas rojas usa?",
+        "va": "En la polsera de Sara cada tros té 2 boles roges i 1 de blanca. Si en fa 3 trossos, quantes roges usa?",
+        "en": "In Sara’s bracelet each bit has 2 red beads and 1 white. If she makes 3 bits, how many red ones does she use?",
+        "fr": "Dans le bracelet de Sara, chaque morceau a 2 perles rouges et 1 blanche. Si elle fait 3 morceaux, combien de rouges utilise-t-elle ?",
+        "ar": "في سوار سارة، كل جزء فيه خرزتان حمراوان وواحدة بيضاء. إذا صنعت 3 أجزاء، كم خرزة حمراء تستعمل؟"
+      },
+      "pista": {
+        "es": "Cuenta de 2 en 2, uno por cada trozo: 2, 4…",
+        "va": "Compta de 2 en 2, un per cada tros: 2, 4…",
+        "en": "Count in twos, one for each bit: 2, 4…",
+        "fr": "Compte de 2 en 2, un par morceau : 2, 4…",
+        "ar": "لنعدّ 2 بـ2، مرة لكل جزء: 2، 4…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 2",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Usa 6 cuentas rojas.",
+          "va": "Usa 6 boles roges.",
+          "en": "She uses 6 red beads.",
+          "fr": "Elle utilise 6 perles rouges.",
+          "ar": "تستعمل 6 خرزات حمراء."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con tu pulsera o tu collar.",
+        "va": "Inventa'n tu una amb la teua polsera o el teu collaret.",
+        "en": "Make one up with your bracelet or necklace.",
+        "fr": "Invente une question avec ton bracelet ou ton collier.",
+        "ar": "لنخترع سؤالًا بسوارنا أو قلادتنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 28,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: en casa, a 4 personas les gusta el helado de fresa y a 2, el de limón. ¿Cuántas más eligen fresa?",
+        "va": "Per a recordar: a casa, a 4 persones els agrada el gelat de maduixa i a 2, el de llima. Quantes més trien maduixa?",
+        "en": "Let’s remember: at home, 4 people like strawberry ice cream and 2 like lemon. How many more choose strawberry?",
+        "fr": "Pour se souvenir : à la maison, 4 personnes aiment la glace à la fraise et 2, celle au citron. Combien de plus choisissent la fraise ?",
+        "ar": "لنتذكّر: في البيت يحبّ 4 أشخاص مثلّجات الفراولة ويحبّ اثنان مثلّجات الليمون. كم شخصًا أكثر يختارون الفراولة؟"
+      },
+      "pista": {
+        "es": "Pon dos filas de dedos o de cosas y mira cuántas se quedan sin pareja.",
+        "va": "Posa dues files de dits o de coses i mira quantes es queden sense parella.",
+        "en": "Make two rows of fingers or things and see how many are left without a partner.",
+        "fr": "Fais deux rangs de doigts ou d’objets et regarde combien restent sans partenaire.",
+        "ar": "لنصنع صفّين من الأصابع أو الأشياء ونرى كم بقي بلا شريك."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 - 2",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Eligen fresa 2 personas más.",
+          "va": "Trien maduixa 2 persones més.",
+          "en": "2 more people choose strawberry.",
+          "fr": "2 personnes de plus choisissent la fraise.",
+          "ar": "يختار الفراولة شخصان أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra preguntando en casa el color favorito.",
+        "va": "Inventa'n tu una altra preguntant a casa el color preferit.",
+        "en": "Make up another one by asking at home about favourite colours.",
+        "fr": "Invente-en une autre en demandant à la maison la couleur préférée.",
+        "ar": "لنخترع سؤالًا آخر نسأل فيه أهل البيت عن لونهم المفضّل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame la regla de tu collar. ¿Cómo sabes lo que viene después?",
+        "va": "Explica'm la regla del teu collaret. Com saps el que ve després?",
+        "en": "Explain the rule of your necklace to me. How do you know what comes next?",
+        "fr": "Explique-moi la règle de ton collier. Comment sais-tu ce qui vient ensuite ?",
+        "ar": "لنشرح قاعدة القلادة. كيف نعرف ما يأتي بعد ذلك؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué trozo se repite? Enséñamelo con el dedo.»",
+        "va": "Si no sap per on començar: «Quin tros es repetix? Ensenya-me’l amb el dit.»",
+        "en": "If they don’t know where to start: “Which bit repeats? Show me with your finger.”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Quel morceau se répète ? Montre-le-moi avec ton doigt. »",
+        "ar": "إذا صعُبت البداية، اسألوا: «أيّ جزء يتكرّر؟ لنُشِر إليه بالإصبع.»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "a36b73164c50"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "a36b73164c50"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "a36b73164c50"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "a36b73164c50"
+      }
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s40",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 40,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: todo el curso",
+    "va": "Setmana de recordar: tot el curs",
+    "en": "Remembering week: the whole year",
+    "fr": "Semaine pour se souvenir : toute l'année",
+    "ar": "أسبوع التذكّر: السنة كلها"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a jugar con lo de todo el curso: sumar y restar con llevada, grupos y repartos, euros, kilos, litros y centímetros. Todo cabe en una tienda de juguete.",
+    "va": "Aquesta setmana tornen a jugar amb el de tot el curs: sumar i restar amb llevada, grups i repartiments, euros, quilos, litres i centímetres. Tot cap en una botiga de joguet.",
+    "en": "This week they play again with everything from the year: adding and subtracting with regrouping (llevada), groups and sharing out, euros, kilos, litres and centimetres. It all fits in a pretend shop.",
+    "fr": "Cette semaine, on rejoue avec tout ce qu'on a vu dans l'année : additionner et soustraire avec retenue (llevada), des groupes et des partages, des euros, des kilos, des litres et des centimètres. Tout tient dans un magasin pour jouer.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى اللعب بكل ما تعلّموه في السنة: الجمع والطرح مع الاحتفاظ أو الاستلاف (llevada)، والمجموعات والتوزيع، واليورو، والكيلوغرام، واللتر، والسنتيمتر. كل ذلك يتّسع له متجر للّعب."
+  },
+  "comoAyudar": {
+    "es": "Turnaos para vender y comprar, y haced las cuentas en equipo. Si una cuenta se atasca, usad monedas, legumbres o los dedos.",
+    "va": "Torneu-vos per a vendre i comprar, i feu els comptes en equip. Si un compte s'encalla, feu servir monedes, llegums o els dits.",
+    "en": "Take turns selling and buying, and work out the sums as a team. If a sum gets stuck, use coins, dried beans or fingers.",
+    "fr": "Vendez et achetez chacun votre tour, et faites les calculs en équipe. Si un calcul bloque, utilisez des pièces, des légumes secs ou les doigts.",
+    "ar": "تبادلوا الأدوار في البيع والشراء، واحسبوا معًا كفريق. وإذا تعثّر حساب، استعملوا القطع النقدية أو الحبوب أو الأصابع."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.medida.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La gran tienda de la familia",
+      "va": "La gran botiga de la família",
+      "en": "The big family shop",
+      "fr": "Le grand magasin de la famille",
+      "ar": "متجر العائلة الكبير"
+    },
+    "material": [
+      {
+        "es": "Cosas de casa para vender: un paquete de un kilo de arroz o harina, una botella de un litro, fruta, juguetes…",
+        "va": "Coses de casa per a vendre: un paquet d'un quilo d'arròs o farina, una botella d'un litre, fruita, joguets…",
+        "en": "Things from home to sell: a one-kilo bag of rice or flour, a one-litre bottle, fruit, toys…",
+        "fr": "Des choses de la maison à vendre : un paquet d'un kilo de riz ou de farine, une bouteille d'un litre, des fruits, des jouets…",
+        "ar": "أشياء من البيت للبيع: كيس أرز أو طحين وزنه كيلوغرام واحد، قارورة سعتها لتر واحد، فواكه، ألعاب…"
+      },
+      {
+        "es": "Papel y lápiz para los precios y para dibujar billetes de 5, 10 y 20 euros",
+        "va": "Paper i llapis per als preus i per a dibuixar bitllets de 5, 10 i 20 euros",
+        "en": "Paper and a pencil for the prices and to draw 5, 10 and 20 euro notes",
+        "fr": "Du papier et un crayon pour les prix et pour dessiner des billets de 5, 10 et 20 euros",
+        "ar": "ورق وقلم رصاص للأسعار ولرسم أوراق نقدية من 5 و10 و20 يورو"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Montad la tienda en la mesa y poned a cada cosa un precio entre 1 y 20 euros en un papelito.",
+          "va": "Munteu la botiga damunt de la taula i poseu a cada cosa un preu entre 1 i 20 euros en un paperet.",
+          "en": "Set up the shop on the table and give each thing a price between 1 and 20 euros on a little piece of paper.",
+          "fr": "Installez le magasin sur la table et donnez à chaque chose un prix entre 1 et 20 euros sur un petit papier.",
+          "ar": "جهّزوا المتجر على الطاولة، وضعوا لكل شيء سعرًا بين 1 و20 يورو على ورقة صغيرة."
+        }
+      },
+      {
+        "pictograma": "botella",
+        "texto": {
+          "es": "Antes de abrir, coged el paquete de un kilo en una mano y la botella de un litro en la otra. ¿Cuál pesa más?",
+          "va": "Abans d'obrir, agafeu el paquet d'un quilo en una mà i la botella d'un litre en l'altra. Quin pesa més?",
+          "en": "Before opening, hold the one-kilo bag in one hand and the one-litre bottle in the other. Which is heavier?",
+          "fr": "Avant d'ouvrir, prenez le paquet d'un kilo dans une main et la bouteille d'un litre dans l'autre. Lequel est le plus lourd ?",
+          "ar": "قبل فتح المتجر، أمسكوا كيس الكيلوغرام بيد وقارورة اللتر باليد الأخرى. أيّهما أثقل؟"
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Una persona vende y otra compra. Elegid dos cosas y sumad juntos cuánto cuestan.",
+          "va": "Una persona ven i una altra compra. Trieu dues coses i sumeu junts quant costen.",
+          "en": "One person sells and another buys. Choose two things and add up together how much they cost.",
+          "fr": "Une personne vend et une autre achète. Choisissez deux choses et additionnez ensemble ce qu'elles coûtent.",
+          "ar": "شخص يبيع وآخر يشتري. اختاروا شيئين واجمعوا معًا كم ثمنهما."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Pagad con un billete de 20 euros y contad juntos la vuelta, desde el precio hasta 20.",
+          "va": "Pagueu amb un bitllet de 20 euros i compteu junts el canvi (la vuelta), des del preu fins a 20.",
+          "en": "Pay with a 20 euro note and count the change (la vuelta) together, from the price up to 20.",
+          "fr": "Payez avec un billet de 20 euros et comptez ensemble la monnaie (la vuelta), du prix jusqu'à 20.",
+          "ar": "ادفعوا بورقة من 20 يورو، وعدّوا معًا الباقي من المال (la vuelta)، من السعر حتى 20."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad precios de 1 a 10 euros y comprad una sola cosa cada vez.",
+      "va": "Feu servir preus de l'1 al 10 euros i compreu una sola cosa cada vegada.",
+      "en": "Use prices from 1 to 10 euros and buy just one thing at a time.",
+      "fr": "Utilisez des prix de 1 à 10 euros et achetez une seule chose à la fois.",
+      "ar": "استعملوا أسعارًا من 1 إلى 10 يورو، واشتروا شيئًا واحدًا فقط في كل مرّة."
+    },
+    "masDificil": {
+      "es": "Comprad tres cosas y pagad con dos billetes de 20. ¿Cuánto os devuelven?",
+      "va": "Compreu tres coses i pagueu amb dos bitllets de 20. Quant vos tornen?",
+      "en": "Buy three things and pay with two 20 euro notes. How much change do you get?",
+      "fr": "Achetez trois choses et payez avec deux billets de 20. Combien vous rend-on ?",
+      "ar": "اشتروا ثلاثة أشياء وادفعوا بورقتين من 20. كم يُعاد إليكم؟"
+    },
+    "paraQueSirve": {
+      "es": "En una compra de verdad se juntan los números, las cuentas y las medidas, igual que en clase: es todo el curso en un juego.",
+      "va": "En una compra de veritat s'ajunten els nombres, els comptes i les mesures, igual que a classe: és tot el curs en un joc.",
+      "en": "In real shopping, numbers, sums and measures all come together, just like in class: it's the whole year in one game.",
+      "fr": "Dans de vraies courses, les nombres, les calculs et les mesures se rejoignent, comme en classe : c'est toute l'année dans un jeu.",
+      "ar": "في التسوّق الحقيقي تجتمع الأعداد والحسابات والقياسات، كما في الصف: إنها السنة كلها في لعبة واحدة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Un balón cuesta 18 euros y una comba, 7 euros. ¿Cuánto cuestan las dos cosas?",
+        "va": "Una pilota costa 18 euros i una corda de botar, 7 euros. Quant costen les dues coses?",
+        "en": "A ball costs 18 euros and a skipping rope costs 7 euros. How much do the two things cost?",
+        "fr": "Un ballon coûte 18 euros et une corde à sauter, 7 euros. Combien coûtent les deux ?",
+        "ar": "ثمن الكرة 18 يورو، وثمن حبل القفز 7 يورو. كم ثمن الشيئين معًا؟"
+      },
+      "pista": {
+        "es": "Del 18 al 20 van 2; luego suma los que quedan.",
+        "va": "Del 18 al 20 en van 2; després suma els que queden.",
+        "en": "From 18 to 20 is 2; then add on the rest.",
+        "fr": "De 18 à 20, il y en a 2 ; ensuite, ajoute le reste.",
+        "ar": "من 18 إلى 20 اثنان؛ ثم لنضف الباقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "18 + 7",
+        "resultado": 25,
+        "unidad": "euros",
+        "texto": {
+          "es": "Cuestan 25 €: {{18 + 7 = 25}}.",
+          "va": "Costen 25 €: {{18 + 7 = 25}}.",
+          "en": "They cost 25 €: {{18 + 7 = 25}}.",
+          "fr": "Ils coûtent 25 € : {{18 + 7 = 25}}.",
+          "ar": "ثمنهما 25 €: {{18 + 7 = 25}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra compra con dos cosas de vuestra tienda.",
+        "va": "Inventa tu una altra compra amb dues coses de la vostra botiga.",
+        "en": "Make up another purchase with two things from your shop.",
+        "fr": "Invente un autre achat avec deux choses de votre magasin.",
+        "ar": "لنخترع عملية شراء أخرى بشيئين من متجرنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Valentina reparte 18 naranjas en 3 bolsas, las mismas en cada una. ¿Cuántas van en cada bolsa?",
+        "va": "Valentina repartix 18 taronges en 3 bosses, les mateixes en cada una. Quantes en van en cada bossa?",
+        "en": "Valentina shares out (repartir) 18 oranges into 3 bags, the same in each one. How many go in each bag?",
+        "fr": "Valentina partage (repartir) 18 oranges dans 3 sacs, autant dans chacun. Combien en met-elle dans chaque sac ?",
+        "ar": "توزّع (repartir) فالنتينا 18 برتقالة على 3 أكياس، بالعدد نفسه في كل كيس. كم برتقالة في كل كيس؟"
+      },
+      "pista": {
+        "es": "Reparte 18 legumbres en 3 montones, de una en una.",
+        "va": "Repartix 18 llegums en 3 muntons, d'un en un.",
+        "en": "Share out 18 dried beans into 3 piles, one at a time.",
+        "fr": "Partage 18 légumes secs en 3 tas, un par un.",
+        "ar": "لنوزّع 18 حبة على 3 أكوام، حبةً حبة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Van 6 en cada bolsa, porque {{3 × 6 = 18}}. También vale comprobarlo con {{6 + 6 + 6 = 18}}.",
+          "va": "En van 6 en cada bossa, perquè {{3 × 6 = 18}}. També val comprovar-ho amb {{6 + 6 + 6 = 18}}.",
+          "en": "6 go in each bag, because {{3 × 6 = 18}}. Checking it with {{6 + 6 + 6 = 18}} works too.",
+          "fr": "Il y en a 6 dans chaque sac, parce que {{3 × 6 = 18}}. On peut aussi vérifier avec {{6 + 6 + 6 = 18}}.",
+          "ar": "في كل كيس 6، لأن {{3 × 6 = 18}}. ويمكن التحقّق أيضًا بـ{{6 + 6 + 6 = 18}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otro reparto con fruta de la cocina.",
+        "va": "Inventa tu un altre repartiment amb fruita de la cuina.",
+        "en": "Make up another sharing-out story with fruit from the kitchen.",
+        "fr": "Invente un autre partage avec des fruits de la cuisine.",
+        "ar": "لنخترع توزيعًا آخر بفواكه من المطبخ."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Ion mide una cuerda: 45 centímetros. Amaia mide otra: 38 centímetros. ¿Cuánto miden las dos juntas?",
+        "va": "Ion mesura una corda: 45 centímetres (centímetro). Amaia en mesura una altra: 38 centímetres. Quant mesuren les dues juntes?",
+        "en": "Ion measures a piece of string: 45 centimetres (centímetro). Amaia measures another: 38 centimetres. How long are they together?",
+        "fr": "Ion mesure une ficelle : 45 centimètres (centímetro). Amaia en mesure une autre : 38 centimètres. Combien mesurent-elles ensemble ?",
+        "ar": "يقيس إيون خيطًا: 45 سنتيمترًا (centímetro). وتقيس أمايا خيطًا آخر: 38 سنتيمترًا. كم طولهما معًا؟"
+      },
+      "pista": {
+        "es": "Suma primero las decenas y después las unidades.",
+        "va": "Suma primer les desenes (decena) i després les unitats (unidad).",
+        "en": "Add the tens (decena) first and then the ones (unidad).",
+        "fr": "Additionne d'abord les dizaines (decena), puis les unités (unidad).",
+        "ar": "لنجمع العشرات (decena) أولًا ثم الآحاد (unidad)."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "45 + 38",
+        "resultado": 83,
+        "unidad": "cm",
+        "texto": {
+          "es": "Miden 83 cm: {{45 + 38 = 83}}.",
+          "va": "Mesuren 83 cm: {{45 + 38 = 83}}.",
+          "en": "They measure 83 cm: {{45 + 38 = 83}}.",
+          "fr": "Elles mesurent 83 cm : {{45 + 38 = 83}}.",
+          "ar": "طولهما 83 cm: {{45 + 38 = 83}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra midiendo dos cosas de casa con una regla.",
+        "va": "Inventa tu una altra mesurant dues coses de casa amb un regle.",
+        "en": "Make up another one by measuring two things at home with a ruler.",
+        "fr": "Invente-en une autre en mesurant deux choses de la maison avec une règle.",
+        "ar": "لنخترع سؤالًا آخر بقياس شيئين من البيت بمسطرة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 35,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar: ¿qué número sumas a 40 para llegar a 100?",
+        "va": "Per a recordar: quin nombre sumes a 40 per a arribar a 100?",
+        "en": "Let's remember: what number do you add to 40 to make 100?",
+        "fr": "Pour se souvenir : quel nombre ajoutes-tu à 40 pour arriver à 100 ?",
+        "ar": "لنتذكّر: أيّ عدد نضيفه إلى 40 لنصل إلى 100؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10 desde el 40 y levanta un dedo cada vez.",
+        "va": "Compta de 10 en 10 des del 40 i alça un dit cada vegada.",
+        "en": "Count on in tens from 40 and put up a finger each time.",
+        "fr": "Compte de 10 en 10 à partir de 40 et lève un doigt à chaque fois.",
+        "ar": "لنعدّ عشرةً عشرة من 40 ونرفع إصبعًا في كل مرّة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 40",
+        "resultado": 60,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 60: {{40 + 60 = 100}}.",
+          "va": "El 60: {{40 + 60 = 100}}.",
+          "en": "60: {{40 + 60 = 100}}.",
+          "fr": "60 : {{40 + 60 = 100}}.",
+          "ar": "العدد 60: {{40 + 60 = 100}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otro número escondido para llegar a 100.",
+        "va": "Inventa tu un altre nombre amagat per a arribar a 100.",
+        "en": "Make up another hidden number that makes 100.",
+        "fr": "Invente un autre nombre caché pour arriver à 100.",
+        "ar": "لنخترع عددًا مخبّأً آخر يوصلنا إلى 100."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo que has jugado este curso en mates, ¿qué te ha gustado más? Explícame por qué.",
+        "va": "De tot el que has jugat aquest curs en mates, què t'ha agradat més? Explica'm per què.",
+        "en": "Of everything you've played with in maths this year, what did you like best? Explain to me why.",
+        "fr": "De tout ce que tu as fait cette année en maths, qu'est-ce qui t'a le plus plu ? Explique-moi pourquoi.",
+        "ar": "من كل ما لعبنا به هذه السنة في الرياضيات، ما الذي أعجبنا أكثر؟ لنشرح لماذا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Te acuerdas de la tienda, del reloj o del mapa del tesoro?»",
+        "va": "Si no sap per on començar: «Te'n recordes de la botiga, del rellotge o del mapa del tresor?»",
+        "en": "If they don't know where to start: “Do you remember the shop, the clock or the treasure map?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu te souviens du magasin, de l'horloge ou de la carte au trésor ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نتذكّر المتجر، أو الساعة، أو خريطة الكنز؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier respuesta vale. Lo que cuente es una buena pista de qué jugar este verano, sin prisa.",
+          "va": "Qualsevol resposta val. El que conte és una bona pista de què jugar aquest estiu, sense pressa.",
+          "en": "Any answer works. Whatever they tell you is a good clue about what to play this summer, without hurry.",
+          "fr": "Toutes les réponses conviennent. Ce qu'il ou elle raconte est un bon indice de ce à quoi jouer cet été, sans se presser.",
+          "ar": "كل إجابة تصلح. وما يُحكى هو تلميح جيّد لما نلعب به هذا الصيف، من غير عجلة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f20b76c0d539"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f20b76c0d539"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f20b76c0d539"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f20b76c0d539"
+      }
+    }
+  }
+}

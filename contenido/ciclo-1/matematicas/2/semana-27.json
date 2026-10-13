@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s27",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 27,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Lados y esquinas",
+    "va": "Costats i cantons",
+    "en": "Sides and corners",
+    "fr": "Côtés et coins",
+    "ar": "أضلاع وزوايا"
+  },
+  "objetivo": {
+    "es": "Esta semana construyen polígonos, como triángulos y cuadrados, y cuentan sus lados y sus vértices. También ven que el círculo no tiene ni lados ni vértices: su borde es la circunferencia.",
+    "va": "Aquesta setmana construïxen polígons (polígonos), com ara triangles i quadrats, i compten els seus costats (lados) i els seus vèrtexs (vértices). També veuen que el cercle (círculo) no té ni costats ni vèrtexs: la seua vora és la circumferència (circunferencia).",
+    "en": "This week they build polygons (polígonos), like triangles and squares, and count their sides (lados) and vertices (vértices). They also see that a circle (círculo) has no sides or vertices: its edge is the circumference (circunferencia).",
+    "fr": "Cette semaine, on construit des polygones (polígonos), comme des triangles et des carrés, et on compte leurs côtés (lados) et leurs sommets (vértices). On voit aussi que le disque (círculo) n'a ni côtés ni sommets : son bord est la circonférence (circunferencia).",
+    "ar": "هذا الأسبوع يصنع الأطفال مضلّعات (polígonos)، مثل المثلثات والمربّعات، ويعدّون أضلاعها (lados) ورؤوسها (vértices). ويرون أيضًا أن الدائرة (círculo) ليس لها أضلاع ولا رؤوس: حافتها هي محيط الدائرة (circunferencia)."
+  },
+  "comoAyudar": {
+    "es": "Al contar, que toque cada palillo y cada bolita una sola vez. Usad las palabras de clase, lado y vértice, aunque en casa digáis «esquina».",
+    "va": "En comptar, que toque cada escuradent i cada boleta una sola vegada. Feu servir les paraules de classe, costat i vèrtex, encara que a casa digueu «cantó».",
+    "en": "When counting, have them touch each stick and each little ball only once. Use the class words, side and vertex, even if at home you say “corner”.",
+    "fr": "En comptant, que votre enfant touche chaque bâtonnet et chaque boulette une seule fois. Utilisez les mots de la classe, côté et sommet, même si à la maison vous dites « coin ».",
+    "ar": "عند العدّ، ليكن لمس كل عود وكل كرية مرة واحدة فقط. استعملوا كلمات الصف، الضلع والرأس، حتى لو قلتم في البيت «زاوية»."
+  },
+  "saberes": [
+    "matematicas.geometria.poligonos",
+    "matematicas.geometria.vertices-lados",
+    "matematicas.geometria.circunferencia"
+  ],
+  "criterios": [
+    "matematicas.c1.5.2",
+    "matematicas.c1.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Formas de palillos",
+      "va": "Formes d'escuradents",
+      "en": "Stick shapes",
+      "fr": "Formes en bâtonnets",
+      "ar": "أشكال من الأعواد"
+    },
+    "material": [
+      {
+        "es": "Palillos, pajitas o palitos de helado",
+        "va": "Escuradents, palletes o pals de gelat",
+        "en": "Cocktail sticks, straws or lolly sticks",
+        "fr": "Des cure-dents, des pailles ou des bâtonnets de glace",
+        "ar": "أعواد أسنان أو مصّاصات شرب أو أعواد مثلّجات"
+      },
+      {
+        "es": "Plastilina",
+        "va": "Plastilina",
+        "en": "Modelling clay",
+        "fr": "De la pâte à modeler",
+        "ar": "صلصال"
+      },
+      {
+        "es": "Una cuerda o un cordón",
+        "va": "Una corda o un cordó",
+        "en": "A piece of string or a shoelace",
+        "fr": "Une ficelle ou un lacet",
+        "ar": "خيط أو رباط حذاء"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "palillos",
+        "texto": {
+          "es": "Haced bolitas de plastilina y unid con ellas 3 palillos para hacer un triángulo.",
+          "va": "Feu boletes de plastilina i uniu amb elles 3 escuradents per a fer un triangle.",
+          "en": "Make little balls of clay and use them to join 3 sticks into a triangle.",
+          "fr": "Faites des boulettes de pâte à modeler et reliez avec elles 3 bâtonnets pour faire un triangle.",
+          "ar": "اصنعوا كريات من الصلصال وصِلوا بها 3 أعواد لتصنعوا مثلثًا."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad los lados, que son los palillos, y los vértices, que son las bolitas. Haced lo mismo con un cuadrado.",
+          "va": "Compteu els costats, que són els escuradents, i els vèrtexs, que són les boletes. Feu el mateix amb un quadrat.",
+          "en": "Count the sides, which are the sticks, and the vertices, which are the little balls. Do the same with a square.",
+          "fr": "Comptez les côtés, qui sont les bâtonnets, et les sommets, qui sont les boulettes. Faites pareil avec un carré.",
+          "ar": "عدّوا الأضلاع، وهي الأعواد، والرؤوس، وهي الكريات. افعلوا الشيء نفسه بمربّع."
+        }
+      },
+      {
+        "pictograma": "formas",
+        "texto": {
+          "es": "Inventad formas de 5 y de 6 lados. ¿Cuántos vértices tienen? ¿Veis algo curioso?",
+          "va": "Inventeu formes de 5 i de 6 costats. Quants vèrtexs tenen? Veieu alguna cosa curiosa?",
+          "en": "Invent shapes with 5 and 6 sides. How many vertices do they have? Do you notice anything interesting?",
+          "fr": "Inventez des formes à 5 et à 6 côtés. Combien de sommets ont-elles ? Remarquez-vous quelque chose de curieux ?",
+          "ar": "اخترعوا أشكالًا من 5 و6 أضلاع. كم رأسًا لها؟ هل تلاحظون شيئًا طريفًا؟"
+        }
+      },
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Con la cuerda, haced una forma redonda: es una circunferencia. ¿Tiene lados? ¿Tiene vértices?",
+          "va": "Amb la corda, feu una forma redona: és una circumferència. Té costats? Té vèrtexs?",
+          "en": "With the string, make a round shape: it is a circumference. Does it have sides? Does it have vertices?",
+          "fr": "Avec la ficelle, faites une forme ronde : c'est une circonférence. A-t-elle des côtés ? A-t-elle des sommets ?",
+          "ar": "بالخيط، اصنعوا شكلًا مدوّرًا: إنه محيط دائرة. هل له أضلاع؟ هل له رؤوس؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced solo el triángulo y el cuadrado, y contad juntos tocando cada palillo.",
+      "va": "Feu només el triangle i el quadrat, i compteu junts tocant cada escuradent.",
+      "en": "Make only the triangle and the square, and count together, touching each stick.",
+      "fr": "Faites seulement le triangle et le carré, et comptez ensemble en touchant chaque bâtonnet.",
+      "ar": "اصنعوا المثلث والمربّع فقط، وعدّوا معًا وأنتم تلمسون كل عود."
+    },
+    "masDificil": {
+      "es": "Haced un rectángulo con 6 palillos. ¿Cuántos lados tiene, contando bien?",
+      "va": "Feu un rectangle amb 6 escuradents. Quants costats té, comptant-los bé?",
+      "en": "Make a rectangle with 6 sticks. How many sides does it have, if you count carefully?",
+      "fr": "Faites un rectangle avec 6 bâtonnets. Combien de côtés a-t-il, en comptant bien ?",
+      "ar": "اصنعوا مستطيلًا بـ6 أعواد. كم ضلعًا له إذا عددنا جيدًا؟"
+    },
+    "paraQueSirve": {
+      "es": "Contar lados y vértices ayuda a mirar las formas con atención y a nombrarlas: lo veréis en señales, ventanas y baldosas.",
+      "va": "Comptar costats i vèrtexs ajuda a mirar les formes amb atenció i a anomenar-les: ho veureu en senyals, finestres i rajoles.",
+      "en": "Counting sides and vertices helps you look at shapes carefully and name them: you will see them in signs, windows and tiles.",
+      "fr": "Compter les côtés et les sommets aide à regarder les formes avec attention et à les nommer : vous les verrez sur les panneaux, les fenêtres et les carreaux.",
+      "ar": "عدّ الأضلاع والرؤوس يساعد على النظر إلى الأشكال بانتباه وتسميتها: سترونها في الإشارات والنوافذ والبلاط."
+    },
+    "aviso": {
+      "es": "Si los palillos tienen punta, usadlos con cuidado. Guardad palillos y plastilina lejos de hermanos o hermanas pequeños.",
+      "va": "Si els escuradents tenen punta, feu-los servir amb compte. Guardeu escuradents i plastilina lluny de germans o germanes menuts.",
+      "en": "If the sticks are pointed, use them carefully. Keep the sticks and the clay away from younger brothers and sisters.",
+      "fr": "Si les bâtonnets sont pointus, utilisez-les avec précaution. Gardez bâtonnets et pâte à modeler loin des petits frères et sœurs.",
+      "ar": "إذا كانت الأعواد مدبّبة، فاستعملوها بحذر. وأبعدوا الأعواد والصلصال عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Un triángulo tiene 3 lados y un cuadrado tiene 4. ¿Cuántos palillos usas para hacer los dos?",
+        "va": "Un triangle té 3 costats i un quadrat en té 4. Quants escuradents uses per a fer-los tots dos?",
+        "en": "A triangle has 3 sides and a square has 4. How many sticks do you use to make both?",
+        "fr": "Un triangle a 3 côtés et un carré en a 4. Combien de bâtonnets utilises-tu pour faire les deux ?",
+        "ar": "للمثلث 3 أضلاع وللمربّع 4. كم عودًا نستعمل لصنعهما معًا؟"
+      },
+      "pista": {
+        "es": "Cada lado es un palillo: cuenta con los dedos los de las dos formas.",
+        "va": "Cada costat és un escuradent: compta amb els dits els de les dues formes.",
+        "en": "Each side is one stick: count the sticks of both shapes on your fingers.",
+        "fr": "Chaque côté est un bâtonnet : compte sur tes doigts ceux des deux formes.",
+        "ar": "كل ضلع عود واحد: لنعدّ بالأصابع أعواد الشكلين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 4",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Usas 7 palillos: {{3 + 4 = 7}}.",
+          "va": "Uses 7 escuradents: {{3 + 4 = 7}}.",
+          "en": "You use 7 sticks: {{3 + 4 = 7}}.",
+          "fr": "Tu utilises 7 bâtonnets : {{3 + 4 = 7}}.",
+          "ar": "نستعمل 7 أعواد: {{3 + 4 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos formas de casa, como una ventana y una servilleta.",
+        "va": "Inventa'n tu una altra amb dues formes de casa, com ara una finestra i un tovalló.",
+        "en": "Now you make one up with two shapes from home, like a window and a napkin.",
+        "fr": "Invente-en une autre avec deux formes de la maison, comme une fenêtre et une serviette.",
+        "ar": "لنخترع سؤالًا آخر بشكلين من البيت، مثل نافذة ومنديل."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Busca en casa algo con forma de rectángulo. ¿Cuántos lados y cuántos vértices tiene?",
+        "va": "Busca a casa alguna cosa amb forma de rectangle. Quants costats i quants vèrtexs té?",
+        "en": "Find something at home shaped like a rectangle. How many sides and how many vertices does it have?",
+        "fr": "Cherche à la maison quelque chose en forme de rectangle. Combien a-t-il de côtés et de sommets ?",
+        "ar": "لنبحث في البيت عن شيء على شكل مستطيل. كم ضلعًا وكم رأسًا له؟"
+      },
+      "pista": {
+        "es": "Pasa el dedo por el borde y para en cada vértice.",
+        "va": "Passa el dit per la vora i para a cada vèrtex.",
+        "en": "Run your finger along the edge and stop at each vertex.",
+        "fr": "Passe ton doigt sur le bord et arrête-toi à chaque sommet.",
+        "ar": "لنمرّر الإصبع على الحافة ونتوقّف عند كل رأس."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Un rectángulo (una puerta, un libro, una caja de cereales) tiene 4 lados y 4 vértices. Si cuenta un lado dos veces, contad juntos marcando dónde empezáis.",
+          "va": "Un rectangle (una porta, un llibre, una caixa de cereals) té 4 costats i 4 vèrtexs. Si compta un costat dues vegades, compteu junts marcant on comenceu.",
+          "en": "A rectangle (a door, a book, a cereal box) has 4 sides and 4 vertices. If they count a side twice, count together, marking where you start.",
+          "fr": "Un rectangle (une porte, un livre, une boîte de céréales) a 4 côtés et 4 sommets. Si votre enfant compte un côté deux fois, comptez ensemble en marquant où vous commencez.",
+          "ar": "للمستطيل (باب، كتاب، علبة حبوب الإفطار) 4 أضلاع و4 رؤوس. وإذا عُدّ ضلع مرتين، عدّوا معًا مع وضع علامة حيث تبدؤون."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra buscando un triángulo en casa o en la calle.",
+        "va": "Inventa'n tu una altra buscant un triangle a casa o al carrer.",
+        "en": "Make up another one looking for a triangle at home or in the street.",
+        "fr": "Invente-en une autre en cherchant un triangle à la maison ou dans la rue.",
+        "ar": "لنخترع سؤالًا آخر نبحث فيه عن مثلث في البيت أو في الشارع."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Pasa el dedo por el borde de un plato redondo. ¿Encuentras algún vértice? ¿Por qué?",
+        "va": "Passa el dit per la vora d'un plat redó. Trobes algun vèrtex? Per què?",
+        "en": "Run your finger round the edge of a round plate. Do you find any vertices? Why?",
+        "fr": "Passe ton doigt sur le bord d'une assiette ronde. Trouves-tu un sommet ? Pourquoi ?",
+        "ar": "لنمرّر الإصبع على حافة صحن مدوّر. هل نجد رأسًا؟ لماذا؟"
+      },
+      "pista": {
+        "es": "Fíjate si el dedo gira de golpe en algún sitio o va siempre suave.",
+        "va": "Fixa't si el dit gira de colp en algun lloc o va sempre suau.",
+        "en": "Notice whether your finger turns suddenly anywhere or always moves smoothly.",
+        "fr": "Regarde si ton doigt tourne d'un coup quelque part ou s'il glisse toujours doucement.",
+        "ar": "لنلاحظ هل ينعطف الإصبع فجأة في مكان ما، أم يمشي دائمًا بنعومة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No tiene vértices ni lados rectos: el borde es una línea curva, la circunferencia, y el plato es un círculo. Vale cualquier explicación con sus palabras, como «no tiene esquinas».",
+          "va": "No té vèrtexs ni costats rectes: la vora és una línia corba, la circumferència, i el plat és un cercle. Val qualsevol explicació amb les seues paraules, com ara «no té cantons».",
+          "en": "It has no vertices or straight sides: the edge is a curved line, the circumference, and the plate is a circle. Any explanation in their own words is fine, like “it has no corners”.",
+          "fr": "Elle n'a ni sommets ni côtés droits : le bord est une ligne courbe, la circonférence, et l'assiette est un disque. Toute explication avec ses mots convient, comme « elle n'a pas de coins ».",
+          "ar": "ليس له رؤوس ولا أضلاع مستقيمة: الحافة خط منحنٍ، هي محيط الدائرة، والصحن دائرة. يصلح أي شرح بالكلمات الخاصة، مثل «ليس له زوايا»."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo redondo de la cocina, como un vaso o una tapa.",
+        "va": "Inventa'n tu una altra amb alguna cosa redona de la cuina, com ara un got o una tapadora.",
+        "en": "Make up another one with something round from the kitchen, like a glass or a lid.",
+        "fr": "Invente-en une autre avec quelque chose de rond dans la cuisine, comme un verre ou un couvercle.",
+        "ar": "لنخترع سؤالًا آخر بشيء مدوّر من المطبخ، مثل كوب أو غطاء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 10,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar el reloj: la aguja larga señala el 3 y la corta, el 5. ¿Qué hora es?",
+        "va": "Per a recordar el rellotge: l'agulla llarga assenyala el 3 i la curta, el 5. Quina hora és?",
+        "en": "Let's remember the clock: the long hand (aguja) points to 3 and the short one to 5. What time is it?",
+        "fr": "Pour se souvenir de l'horloge : la grande aiguille (aguja) montre le 3 et la petite, le 5. Quelle heure est-il ?",
+        "ar": "لنتذكّر الساعة: العقرب (aguja) الطويل يشير إلى 3 والقصير إلى 5. كم الساعة؟"
+      },
+      "pista": {
+        "es": "Cuando la aguja larga está en el 3, ha pasado un cuarto de hora.",
+        "va": "Quan l'agulla llarga està en el 3, ha passat un quart d'hora.",
+        "en": "When the long hand is on 3, a quarter of an hour has gone by.",
+        "fr": "Quand la grande aiguille est sur le 3, un quart d'heure est passé.",
+        "ar": "عندما يكون العقرب الطويل على 3، يكون ربع ساعة قد مضى."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Son las 5 y cuarto, 5:15. Si duda, mirad juntos un reloj de agujas y moved la aguja larga del 12 al 3.",
+          "va": "Són les 5 i quart, 5:15. Si dubta, mireu junts un rellotge d'agulles i moveu l'agulla llarga del 12 al 3.",
+          "en": "It's quarter past (y cuarto) 5, 5:15. If they are unsure, look at a clock with hands together and move the long hand from 12 to 3.",
+          "fr": "Il est 5 heures et quart (y cuarto), 5:15. En cas de doute, regardez ensemble une horloge à aiguilles et déplacez la grande aiguille du 12 au 3.",
+          "ar": "الساعة الخامسة والربع (y cuarto)، 5:15. وإذا كان هناك تردّد، انظروا معًا إلى ساعة بعقارب وحرّكوا العقرب الطويل من 12 إلى 3."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la hora a la que merendáis.",
+        "va": "Inventa'n tu una altra amb l'hora a què bereneu.",
+        "en": "Make up another one with the time you have your afternoon snack.",
+        "fr": "Invente-en une autre avec l'heure du goûter.",
+        "ar": "لنخترع سؤالًا آخر عن ساعة وجبة العصر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Elige una forma de casa. Enséñame cómo cuentas sus lados sin contar ninguno dos veces.",
+        "va": "Tria una forma de casa. Ensenya'm com en comptes els costats sense comptar-ne cap dues vegades.",
+        "en": "Choose a shape at home. Show me how you count its sides without counting any of them twice.",
+        "fr": "Choisis une forme de la maison. Montre-moi comment tu comptes ses côtés sans en compter aucun deux fois.",
+        "ar": "لنختر شكلًا من البيت. لنُرِ كيف نعدّ أضلاعه من دون أن نعدّ أيّ ضلع مرتين."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Y si empiezas en una esquina y le pones el dedo encima?».",
+        "va": "Si no sap per on començar: «I si comences en un cantó i hi poses el dit damunt?».",
+        "en": "If they don't know where to start: “What if you start at a corner and put your finger on it?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Et si tu commençais à un coin en mettant ton doigt dessus ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا لو بدأنا من زاوية ووضعنا الإصبع عليها؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede marcar el sitio donde empieza, o tocar cada lado y doblar un dedo. Escuchad, preguntad «¿cómo sabes que has acabado?» y dad las gracias por la explicación.",
+          "va": "Pot marcar el lloc on comença, o tocar cada costat i doblegar un dit. Escolteu, pregunteu «com saps que has acabat?» i doneu les gràcies per l'explicació.",
+          "en": "They might mark where they start, or touch each side and bend a finger. Listen, ask “How do you know you've finished?” and say thank you for the explanation.",
+          "fr": "Votre enfant peut marquer l'endroit où il ou elle commence, ou toucher chaque côté en pliant un doigt. Écoutez, demandez « Comment sais-tu que tu as fini ? » et dites merci pour l'explication.",
+          "ar": "يمكن وضع علامة في مكان البداية، أو لمس كل ضلع مع ثني إصبع. استمعوا، واسألوا «كيف نعرف أننا انتهينا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "c48dc1cd6b1a"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "c48dc1cd6b1a"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "c48dc1cd6b1a"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "c48dc1cd6b1a"
+      }
+    }
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s14",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 14,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Monedas y billetes",
+    "va": "Monedes i bitllets",
+    "en": "Coins and notes",
+    "fr": "Pièces et billets",
+    "ar": "القطع والأوراق النقدية"
+  },
+  "objetivo": {
+    "es": "Esta semana conocen las monedas de 1 y 2 euros y los billetes de 5, 10 y 20, y pagan un precio justo combinándolos de varias formas. Todo en euros enteros.",
+    "va": "Aquesta setmana coneixen les monedes (monedas) d'1 i 2 euros i els bitllets (billetes) de 5, 10 i 20, i paguen un preu just combinant-los de diverses maneres. Tot en euros sencers.",
+    "en": "This week they get to know 1 and 2 euro coins (monedas) and 5, 10 and 20 euro notes (billetes), and pay an exact price by combining them in different ways. All in whole euros.",
+    "fr": "Cette semaine, on découvre les pièces (monedas) de 1 et 2 euros et les billets (billetes) de 5, 10 et 20, et on paie un prix juste en les combinant de plusieurs façons. Tout en euros entiers.",
+    "ar": "هذا الأسبوع يتعرّف الأطفال إلى القطع النقدية (monedas) من فئة 1 و2 يورو، والأوراق النقدية (billetes) من فئة 5 و10 و20، ويدفعون ثمنًا مضبوطًا بجمعها بطرق مختلفة. وكل ذلك بيوروهات كاملة."
+  },
+  "comoAyudar": {
+    "es": "Si tenéis monedas y billetes de verdad, usadlos un rato y guardadlos después; si no, valen dibujados en papel. Preguntad: «¿hay otra forma de pagar lo mismo?».",
+    "va": "Si teniu monedes i bitllets de veritat, useu-los una estona i guardeu-los després; si no, valen dibuixats en paper. Pregunteu: «hi ha una altra manera de pagar el mateix?».",
+    "en": "If you have real coins and notes, use them for a while and put them away afterwards; if not, drawn on paper is fine. Ask: “Is there another way to pay the same amount?”.",
+    "fr": "Si vous avez de vraies pièces et de vrais billets, utilisez-les un moment puis rangez-les ; sinon, dessinés sur papier, ça va aussi. Demandez : « Y a-t-il une autre façon de payer la même chose ? ».",
+    "ar": "إذا كانت عندكم قطع وأوراق نقدية حقيقية، فاستعملوها قليلًا ثم احفظوها؛ وإلا فالمرسومة على الورق تفي بالغرض. واسألوا: «هل توجد طريقة أخرى لدفع المبلغ نفسه؟»."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.numeros.usos-sociales"
+  ],
+  "criterios": [
+    "matematicas.c1.7.2",
+    "matematicas.c1.1.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La tienda de juguetes",
+      "va": "La botiga de joguets",
+      "en": "The toy shop",
+      "fr": "Le magasin de jouets",
+      "ar": "متجر الألعاب"
+    },
+    "material": [
+      {
+        "es": "Unos cuantos juguetes",
+        "va": "Uns quants joguets",
+        "en": "A few toys",
+        "fr": "Quelques jouets",
+        "ar": "بعض الألعاب"
+      },
+      {
+        "es": "Papelitos para los precios",
+        "va": "Paperets per als preus",
+        "en": "Slips of paper for the prices",
+        "fr": "Des petits papiers pour les prix",
+        "ar": "قصاصات ورق للأسعار"
+      },
+      {
+        "es": "Monedas de 1 y 2 € y billetes de 5, 10 y 20 €, de verdad, de juguete o dibujados",
+        "va": "Monedes d'1 i 2 € i bitllets de 5, 10 i 20 €, de veritat, de joguet o dibuixats",
+        "en": "1 and 2 € coins and 5, 10 and 20 € notes, real, toy or drawn",
+        "fr": "Des pièces de 1 et 2 € et des billets de 5, 10 et 20 €, vrais, en jouet ou dessinés",
+        "ar": "قطع نقدية من فئة 1 و2 € وأوراق من فئة 5 و10 و20 €، حقيقية أو لعبة أو مرسومة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Poned un precio a cada juguete, entre 1 y 30 euros. La persona adulta puede escribirlo en un papelito.",
+          "va": "Poseu un preu a cada joguet, entre 1 i 30 euros. La persona adulta el pot escriure en un paperet.",
+          "en": "Give each toy a price between 1 and 30 euros. The adult can write it on a slip of paper.",
+          "fr": "Donnez un prix à chaque jouet, entre 1 et 30 euros. L'adulte peut l'écrire sur un petit papier.",
+          "ar": "ضعوا سعرًا لكل لعبة، بين 1 و30 يورو. يمكن للشخص البالغ أن يكتبه على قصاصة ورق."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Una persona compra y la otra vende. Quien compra paga justo: un juguete de 8 € se paga con 5, 2 y 1.",
+          "va": "Una persona compra i l'altra ven. Qui compra paga just: un joguet de 8 € es paga amb 5, 2 i 1.",
+          "en": "One person buys and the other sells. The buyer pays the exact amount: an 8 € toy is paid with 5, 2 and 1.",
+          "fr": "Une personne achète et l'autre vend. Qui achète paie juste : un jouet à 8 € se paie avec 5, 2 et 1.",
+          "ar": "يشتري شخص ويبيع الآخر. ومن يشتري يدفع المبلغ مضبوطًا: لعبة بـ8 € تُدفع بـ5 و2 و1."
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Buscad otra forma de pagar el mismo precio: 8 € también son 2, 2, 2 y 2.",
+          "va": "Busqueu una altra manera de pagar el mateix preu: 8 € també són 2, 2, 2 i 2.",
+          "en": "Find another way to pay the same price: 8 € is also 2, 2, 2 and 2.",
+          "fr": "Cherchez une autre façon de payer le même prix : 8 €, c'est aussi 2, 2, 2 et 2.",
+          "ar": "ابحثوا عن طريقة أخرى لدفع السعر نفسه: 8 € هي أيضًا 2 و2 و2 و2."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Cambiad los papeles. ¿Qué juguete se puede pagar con menos monedas y billetes?",
+          "va": "Canvieu els papers. Quin joguet es pot pagar amb menys monedes i bitllets?",
+          "en": "Swap roles. Which toy can be paid for with the fewest coins and notes?",
+          "fr": "Échangez les rôles. Quel jouet peut-on payer avec le moins de pièces et de billets ?",
+          "ar": "تبادلوا الأدوار. أيّ لعبة يمكن دفع ثمنها بأقل عدد من القطع والأوراق؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Poned precios de hasta 10 € y pagad solo con monedas de 1 y 2 €.",
+      "va": "Poseu preus de fins a 10 € i pagueu només amb monedes d'1 i 2 €.",
+      "en": "Use prices up to 10 € and pay only with 1 and 2 € coins.",
+      "fr": "Mettez des prix jusqu'à 10 € et payez seulement avec des pièces de 1 et 2 €.",
+      "ar": "ضعوا أسعارًا حتى 10 € وادفعوا بالقطع من فئة 1 و2 € فقط."
+    },
+    "masDificil": {
+      "es": "Comprad dos juguetes a la vez y pagad justo los dos juntos.",
+      "va": "Compreu dos joguets alhora i pagueu just els dos junts.",
+      "en": "Buy two toys at once and pay the exact amount for both together.",
+      "fr": "Achetez deux jouets à la fois et payez juste les deux ensemble.",
+      "ar": "اشتروا لعبتين معًا وادفعوا ثمنهما معًا مضبوطًا."
+    },
+    "paraQueSirve": {
+      "es": "Pagar justo es sumar con cosas de verdad y ver que un mismo número se puede formar de muchas maneras.",
+      "va": "Pagar just és sumar amb coses de veritat i veure que un mateix nombre es pot formar de moltes maneres.",
+      "en": "Paying the exact amount is adding with real things, and seeing that the same number can be made in many ways.",
+      "fr": "Payer juste, c'est additionner avec de vraies choses et voir qu'un même nombre peut se former de plein de façons.",
+      "ar": "الدفع المضبوط هو جمع بأشياء حقيقية، ورؤية أن العدد نفسه يمكن تكوينه بطرق كثيرة."
+    },
+    "aviso": {
+      "es": "Guardad las monedas lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu les monedes lluny de germans o germanes menuts.",
+      "en": "Keep the coins away from younger brothers and sisters.",
+      "fr": "Gardez les pièces loin des petits frères et sœurs.",
+      "ar": "أبعدوا القطع النقدية عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Un balón cuesta 7 €. Mateo paga con un billete de 5 € y una moneda de 2 €. ¿Paga justo?",
+        "va": "Una pilota costa 7 €. Mateo paga amb un bitllet de 5 € i una moneda de 2 €. Paga just?",
+        "en": "A ball costs 7 €. Mateo pays with a 5 € note and a 2 € coin. Does he pay the exact amount?",
+        "fr": "Un ballon coûte 7 €. Mateo paie avec un billet de 5 € et une pièce de 2 €. Est-ce qu'il paie juste ?",
+        "ar": "ثمن الكرة 7 €. يدفع ماتيو ورقة من فئة 5 € وقطعة من فئة 2 €. هل دفع المبلغ مضبوطًا؟"
+      },
+      "pista": {
+        "es": "Empieza en 5 y cuenta 2 más con los dedos.",
+        "va": "Comença en 5 i compta'n 2 més amb els dits.",
+        "en": "Start at 5 and count 2 more on your fingers.",
+        "fr": "Commence à 5 et compte 2 de plus sur tes doigts.",
+        "ar": "لنبدأ من 5 ونعدّ 2 أخريين بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 2",
+        "resultado": 7,
+        "unidad": "euros",
+        "texto": {
+          "es": "Sí: {{5 + 2 = 7}}, justo lo que cuesta.",
+          "va": "Sí: {{5 + 2 = 7}}, just el que costa.",
+          "en": "Yes: {{5 + 2 = 7}}, exactly what it costs.",
+          "fr": "Oui : {{5 + 2 = 7}}, juste ce qu'il coûte.",
+          "ar": "نعم: {{5 + 2 = 7}}، وهو الثمن بالضبط."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con un juguete tuyo y su precio.",
+        "va": "Ara inventa'n tu una amb un joguet teu i el seu preu.",
+        "en": "Now you make one up with one of your toys and its price.",
+        "fr": "Maintenant, invente une question avec un de tes jouets et son prix.",
+        "ar": "والآن لنخترع سؤالًا بإحدى ألعابنا وسعرها."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Amaia tiene un billete de 10 € y tres monedas de 2 €. ¿Cuánto dinero tiene?",
+        "va": "Amaia té un bitllet de 10 € i tres monedes de 2 €. Quants diners té?",
+        "en": "Amaia has a 10 € note and three 2 € coins. How much money does she have?",
+        "fr": "Amaia a un billet de 10 € et trois pièces de 2 €. Combien d'argent a-t-elle ?",
+        "ar": "عند أمايا ورقة من فئة 10 € وثلاث قطع من فئة 2 €. كم معها من المال؟"
+      },
+      "pista": {
+        "es": "Empieza por el billete y sigue contando de 2 en 2: 12, 14…",
+        "va": "Comença pel bitllet i continua comptant de 2 en 2: 12, 14…",
+        "en": "Start with the note and keep counting in twos: 12, 14…",
+        "fr": "Commence par le billet et continue de compter de 2 en 2 : 12, 14…",
+        "ar": "لنبدأ بالورقة ونتابع العدّ اثنين اثنين: 12، 14…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 2 + 2 + 2",
+        "resultado": 16,
+        "unidad": "euros",
+        "texto": {
+          "es": "Tiene 16 €: {{10 + 2 + 2 + 2 = 16}}.",
+          "va": "Té 16 €: {{10 + 2 + 2 + 2 = 16}}.",
+          "en": "She has 16 €: {{10 + 2 + 2 + 2 = 16}}.",
+          "fr": "Elle a 16 € : {{10 + 2 + 2 + 2 = 16}}.",
+          "ar": "معها 16 €: {{10 + 2 + 2 + 2 = 16}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un billete y unas cuantas monedas.",
+        "va": "Inventa'n tu una altra amb un bitllet i unes quantes monedes.",
+        "en": "Make up another one with a note and a few coins.",
+        "fr": "Invente-en une autre avec un billet et quelques pièces.",
+        "ar": "لنخترع سؤالًا آخر بورقة نقدية وبعض القطع."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Un cuento cuesta 15 €. ¿Con qué billetes lo puedes pagar justo?",
+        "va": "Un conte costa 15 €. Amb quins bitllets el pots pagar just?",
+        "en": "A storybook costs 15 €. Which notes can you use to pay the exact amount?",
+        "fr": "Un livre d'histoires coûte 15 €. Avec quels billets peux-tu le payer juste ?",
+        "ar": "ثمن كتاب القصص 15 €. بأيّ أوراق نقدية يمكننا دفع ثمنه مضبوطًا؟"
+      },
+      "pista": {
+        "es": "Empieza por el billete más grande que no se pase.",
+        "va": "Comença pel bitllet més gran que no es passe.",
+        "en": "Start with the biggest note that doesn't go over.",
+        "fr": "Commence par le plus gros billet qui ne dépasse pas.",
+        "ar": "لنبدأ بأكبر ورقة لا تتجاوز السعر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 5",
+        "resultado": 15,
+        "unidad": "euros",
+        "texto": {
+          "es": "Con uno de 10 € y uno de 5 €: {{10 + 5 = 15}}. También con tres de 5 €.",
+          "va": "Amb un de 10 € i un de 5 €: {{10 + 5 = 15}}. També amb tres de 5 €.",
+          "en": "With a 10 € note and a 5 € note: {{10 + 5 = 15}}. Or with three 5 € notes.",
+          "fr": "Avec un de 10 € et un de 5 € : {{10 + 5 = 15}}. Ou avec trois de 5 €.",
+          "ar": "بورقة من فئة 10 € وأخرى من فئة 5 €: {{10 + 5 = 15}}. أو بثلاث أوراق من فئة 5 €."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un precio que se pueda pagar solo con billetes.",
+        "va": "Inventa'n tu una altra amb un preu que es puga pagar només amb bitllets.",
+        "en": "Make up another one with a price you can pay with notes only.",
+        "fr": "Invente-en une autre avec un prix qu'on peut payer seulement avec des billets.",
+        "ar": "لنخترع سؤالًا آخر بسعر يمكن دفعه بالأوراق النقدية فقط."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 13,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: ¿qué número hace pareja con el 40 para llegar a 100?",
+        "va": "Per a recordar: quin nombre fa parella amb el 40 per a arribar a 100?",
+        "en": "Let's remember: which number pairs with 40 to make 100?",
+        "fr": "Pour se souvenir : quel nombre fait la paire avec 40 pour arriver à 100 ?",
+        "ar": "لنتذكّر: أيّ عدد يكوّن زوجًا مع 40 ليصل إلى 100؟"
+      },
+      "pista": {
+        "es": "Piensa en la pareja del 4 para llegar a 10.",
+        "va": "Pensa en la parella del 4 per a arribar a 10.",
+        "en": "Think of the partner of 4 to make 10.",
+        "fr": "Pense à la paire de 4 pour arriver à 10.",
+        "ar": "لنفكّر في زوج 4 الذي يكمل 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 40",
+        "resultado": 60,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 60: {{40 + 60 = 100}}.",
+          "va": "El 60: {{40 + 60 = 100}}.",
+          "en": "60: {{40 + 60 = 100}}.",
+          "fr": "60 : {{40 + 60 = 100}}.",
+          "ar": "العدد 60: {{40 + 60 = 100}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pareja del 100 con decenas.",
+        "va": "Inventa tu una altra parella del 100 amb desenes.",
+        "en": "Make up another pair of tens that makes 100.",
+        "fr": "Invente une autre paire de 100 avec des dizaines.",
+        "ar": "لنخترع زوجًا آخر من العشرات مجموعه 100."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Un juguete cuesta 9 €. ¿De cuántas formas lo puedes pagar justo? Explícamelo con monedas o dibujos.",
+        "va": "Un joguet costa 9 €. De quantes maneres el pots pagar just? Explica-m'ho amb monedes o dibuixos.",
+        "en": "A toy costs 9 €. How many ways can you pay the exact amount? Explain it to me with coins or drawings.",
+        "fr": "Un jouet coûte 9 €. De combien de façons peux-tu le payer juste ? Explique-le-moi avec des pièces ou des dessins.",
+        "ar": "ثمن لعبة 9 €. بكم طريقة يمكننا دفع ثمنها مضبوطًا؟ لنشرح ذلك بالقطع النقدية أو بالرسوم."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Y si empiezas con un billete de 5 €?»",
+        "va": "Si no sap per on començar: «I si comences amb un bitllet de 5 €?»",
+        "en": "If they don't know where to start: “What if you start with a 5 € note?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Et si tu commences avec un billet de 5 € ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا لو بدأنا بورقة من فئة 5 €؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Hay muchas formas: 5, 2 y 2; 5, 2, 1 y 1; cuatro de 2 y una de 1… No hace falta encontrarlas todas: lo bonito es ver cómo las busca.",
+          "va": "Hi ha moltes maneres: 5, 2 i 2; 5, 2, 1 i 1; quatre de 2 i una d'1… No cal trobar-les totes: el bonic és veure com les busca.",
+          "en": "There are lots of ways: 5, 2 and 2; 5, 2, 1 and 1; four 2s and a 1… Finding them all isn't the point: the nice part is seeing how they look for them.",
+          "fr": "Il y a beaucoup de façons : 5, 2 et 2 ; 5, 2, 1 et 1 ; quatre de 2 et une de 1… Pas besoin de toutes les trouver : le plus beau, c'est de voir comment il ou elle les cherche.",
+          "ar": "هناك طرق كثيرة: 5 و2 و2؛ 5 و2 و1 و1؛ أربع قطع من 2 وقطعة من 1… لا داعي لإيجادها كلها: الجميل هو رؤية طريقة البحث عنها."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "5b6483e3cdff"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "5b6483e3cdff"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "5b6483e3cdff"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "5b6483e3cdff"
+      }
+    }
+  }
+}

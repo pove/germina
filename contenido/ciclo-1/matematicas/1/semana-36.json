@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s36",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 36,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Historias con números",
+    "va": "Històries amb nombres",
+    "en": "Stories with numbers",
+    "fr": "Des histoires avec des nombres",
+    "ar": "حكايات بالأعداد"
+  },
+  "objetivo": {
+    "es": "Esta semana escuchan e inventan historias cortas con números y descubren qué se sabe en cada una y qué se pregunta.",
+    "va": "Aquesta setmana escolten i inventen històries curtes amb nombres i descobrixen què se sap en cada una i què es pregunta.",
+    "en": "This week they listen to and make up short stories with numbers, and discover what we know in each one and what is being asked.",
+    "fr": "Cette semaine, on écoute et on invente de petites histoires avec des nombres, et on découvre ce qu'on sait dans chacune et ce qu'on demande.",
+    "ar": "هذا الأسبوع يستمع الأطفال إلى حكايات قصيرة بالأعداد ويخترعونها، ويكتشفون ما نعرفه في كل حكاية وما يُسأل عنه."
+  },
+  "comoAyudar": {
+    "es": "Después de cada historia, preguntad: «¿Qué sabemos? ¿Qué nos preguntan?». Si se atasca, contadla otra vez despacio, moviendo los juguetes.",
+    "va": "Després de cada història, pregunteu: «Què sabem? Què ens pregunten?». Si s'encalla, conteu-la una altra vegada a poc a poc, movent els joguets.",
+    "en": "After each story, ask: “What do we know? What are we being asked?” If your child gets stuck, tell the story again slowly, moving the toys.",
+    "fr": "Après chaque histoire, demandez : « Qu'est-ce qu'on sait ? Qu'est-ce qu'on nous demande ? ». Si votre enfant bloque, racontez-la encore une fois doucement, en déplaçant les jouets.",
+    "ar": "بعد كل حكاية، اسألوا: «ماذا نعرف؟ وعمّ نُسأل؟». وإذا صعُب الأمر، احكوها مرة أخرى ببطء مع تحريك الألعاب."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c1.1.1",
+    "matematicas.c1.1.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cuentos con juguetes",
+      "va": "Contes amb joguets",
+      "en": "Stories with toys",
+      "fr": "Des histoires avec des jouets",
+      "ar": "حكايات بالألعاب"
+    },
+    "material": [
+      {
+        "es": "Juguetes pequeños: coches, muñecos, animales, piezas de construcción…",
+        "va": "Joguets menuts: cotxes, ninots, animals, peces de construcció…",
+        "en": "Small toys: cars, dolls, animals, building blocks…",
+        "fr": "De petits jouets : voitures, poupées, animaux, pièces de construction…",
+        "ar": "ألعاب صغيرة: سيارات، دمى، حيوانات، قطع بناء…"
+      },
+      {
+        "es": "Una mesa o una manta en el suelo",
+        "va": "Una taula o una manta a terra",
+        "en": "A table or a blanket on the floor",
+        "fr": "Une table ou une couverture par terre",
+        "ar": "طاولة أو بطانية على الأرض"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "caja",
+        "texto": {
+          "es": "Elegid unos juguetes y poned algunos en la mesa: por ejemplo, 6 coches en un garaje.",
+          "va": "Trieu uns quants joguets i poseu-ne alguns damunt de la taula: per exemple, 6 cotxes en un garatge.",
+          "en": "Choose some toys and put a few on the table: for example, 6 cars in a garage.",
+          "fr": "Choisissez des jouets et mettez-en quelques-uns sur la table : par exemple, 6 voitures dans un garage.",
+          "ar": "اختاروا بعض الألعاب وضعوا بعضها على الطاولة: مثلًا، 6 سيارات في مرآب."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Una persona cuenta una historia corta con ellos: «En el garaje hay 6 coches y llegan 3 más».",
+          "va": "Una persona conta una història curta amb ells: «En el garatge hi ha 6 cotxes i n'arriben 3 més».",
+          "en": "One person tells a short story with them: “There are 6 cars in the garage and 3 more arrive.”",
+          "fr": "Une personne raconte une petite histoire avec eux : « Dans le garage, il y a 6 voitures et 3 autres arrivent. »",
+          "ar": "يحكي شخص حكاية قصيرة بها: «في المرآب 6 سيارات، وتصل 3 سيارات أخرى»."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Quien escucha hace la pregunta, por ejemplo «¿Cuántos coches hay ahora?», y la responde moviendo los juguetes.",
+          "va": "Qui escolta fa la pregunta, per exemple «Quants cotxes hi ha ara?», i la respon movent els joguets.",
+          "en": "Whoever is listening asks the question, for example “How many cars are there now?”, and answers it by moving the toys.",
+          "fr": "Celui ou celle qui écoute pose la question, par exemple « Combien de voitures y a-t-il maintenant ? », et y répond en déplaçant les jouets.",
+          "ar": "من يستمع يطرح السؤال، مثلًا «كم سيارة يوجد الآن؟»، ويجيب عنه بتحريك الألعاب."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Cambiad los papeles: ahora inventa la historia el niño o la niña, y pregunta la persona adulta.",
+          "va": "Canvieu els papers: ara inventa la història el xiquet o la xiqueta, i pregunta la persona adulta.",
+          "en": "Swap roles: now the child makes up the story and the adult asks the question.",
+          "fr": "Échangez les rôles : maintenant, c'est l'enfant qui invente l'histoire et l'adulte qui pose la question.",
+          "ar": "تبادلوا الأدوار: الآن يخترع الطفل أو الطفلة الحكاية، ويسأل الشخص البالغ."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad números hasta 10 y moved los juguetes a la vez que contáis la historia.",
+      "va": "Feu servir nombres fins a 10 i moveu els joguets alhora que conteu la història.",
+      "en": "Use numbers up to 10 and move the toys while you tell the story.",
+      "fr": "Utilisez des nombres jusqu'à 10 et déplacez les jouets pendant que vous racontez l'histoire.",
+      "ar": "استعملوا أعدادًا حتى 10، وحرّكوا الألعاب في أثناء الحكاية."
+    },
+    "masDificil": {
+      "es": "Contad historias en las que se van juguetes («se van 4 coches») o con números hasta 20.",
+      "va": "Conteu històries en què se'n van joguets («se'n van 4 cotxes») o amb nombres fins a 20.",
+      "en": "Tell stories where toys leave (“4 cars drive away”) or with numbers up to 20.",
+      "fr": "Racontez des histoires où des jouets s'en vont (« 4 voitures s'en vont ») ou avec des nombres jusqu'à 20.",
+      "ar": "احكوا حكايات تذهب فيها ألعاب («تذهب 4 سيارات») أو بأعداد حتى 20."
+    },
+    "paraQueSirve": {
+      "es": "Saber qué se sabe y qué se pregunta es el primer paso para entender cualquier historia con números, y hacerlo con juguetes ayuda a no perderse.",
+      "va": "Saber què se sap i què es pregunta és el primer pas per a entendre qualsevol història amb nombres, i fer-ho amb joguets ajuda a no perdre's.",
+      "en": "Knowing what we know and what is being asked is the first step to understanding any story with numbers, and doing it with toys helps you not get lost.",
+      "fr": "Savoir ce qu'on sait et ce qu'on demande, c'est le premier pas pour comprendre n'importe quelle histoire avec des nombres, et le faire avec des jouets aide à ne pas se perdre.",
+      "ar": "معرفة ما نعرفه وما يُسأل عنه هي الخطوة الأولى لفهم أي حكاية بالأعداد، والقيام بذلك بالألعاب يساعد على عدم الضياع."
+    },
+    "aviso": {
+      "es": "Si usáis piezas pequeñas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir peces menudes, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use small pieces, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Aisha tiene 5 cromos en una mano y 4 en la otra. ¿Cuántos cromos tiene?",
+        "va": "Aisha té 5 cromos en una mà i 4 en l'altra. Quants cromos té?",
+        "en": "Aisha has 5 picture cards in one hand and 4 in the other. How many cards does she have?",
+        "fr": "Aisha a 5 images dans une main et 4 dans l'autre. Combien d'images a-t-elle ?",
+        "ar": "مع عائشة 5 بطاقات في يد و4 في اليد الأخرى. كم بطاقة معها؟"
+      },
+      "pista": {
+        "es": "Saca 5 dedos en una mano y 4 en la otra, y cuéntalos todos.",
+        "va": "Alça 5 dits en una mà i 4 en l'altra, i compta'ls tots.",
+        "en": "Hold up 5 fingers on one hand and 4 on the other, and count them all.",
+        "fr": "Lève 5 doigts d'une main et 4 de l'autre, et compte-les tous.",
+        "ar": "لنرفع 5 أصابع في يد و4 في الأخرى، ونعدّها كلها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 4",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 9 cromos.",
+          "va": "Té 9 cromos.",
+          "en": "She has 9 cards.",
+          "fr": "Elle a 9 images.",
+          "ar": "معها 9 بطاقات."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una historia con dos grupos de cosas de la cocina.",
+        "va": "Ara inventa tu una història amb dos grups de coses de la cuina.",
+        "en": "Now you make up a story with two groups of things from the kitchen.",
+        "fr": "Maintenant, invente une histoire avec deux groupes de choses de la cuisine.",
+        "ar": "والآن لنخترع حكاية بمجموعتين من أشياء المطبخ."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En el parque hay 12 palomas y se van volando 5. ¿Cuántas palomas quedan?",
+        "va": "Al parc hi ha 12 coloms i se'n van volant 5. Quants coloms queden?",
+        "en": "There are 12 pigeons in the park and 5 fly away. How many pigeons are left?",
+        "fr": "Au parc, il y a 12 pigeons et 5 s'envolent. Combien de pigeons reste-t-il ?",
+        "ar": "في الحديقة 12 حمامة، وتطير منها 5. كم حمامة بقيت؟"
+      },
+      "pista": {
+        "es": "Primero di qué sabes: cuántas palomas había y cuántas se van.",
+        "va": "Primer digues què saps: quants coloms hi havia i quants se'n van.",
+        "en": "First say what you know: how many pigeons there were and how many fly away.",
+        "fr": "Dis d'abord ce que tu sais : combien de pigeons il y avait et combien s'envolent.",
+        "ar": "لنقل أولًا ما نعرفه: كم حمامة كانت، وكم حمامة طارت."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 5",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 7 palomas.",
+          "va": "Queden 7 coloms.",
+          "en": "There are 7 pigeons left.",
+          "fr": "Il reste 7 pigeons.",
+          "ar": "بقيت 7 حمامات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra historia en la que algo se va: pájaros, globos o galletas.",
+        "va": "Inventa tu una altra història en què alguna cosa se'n va: ocells, globus o galetes.",
+        "en": "Make up another story where something goes away: birds, balloons or biscuits.",
+        "fr": "Invente une autre histoire où quelque chose s'en va : des oiseaux, des ballons ou des biscuits.",
+        "ar": "لنخترع حكاية أخرى يذهب فيها شيء ما: طيور أو بالونات أو بسكويت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En una caja hay 7 lápices rojos y 6 azules. ¿Qué pregunta harías tú, y cuál es la respuesta?",
+        "va": "En una caixa hi ha 7 llapis rojos i 6 blaus. Quina pregunta faries tu, i quina és la resposta?",
+        "en": "In a box there are 7 red pencils and 6 blue ones. What question would you ask, and what is the answer?",
+        "fr": "Dans une boîte, il y a 7 crayons rouges et 6 bleus. Quelle question poserais-tu, et quelle est la réponse ?",
+        "ar": "في علبة 7 أقلام حمراء و6 زرقاء. ما السؤال الذي يمكن أن نطرحه، وما جوابه؟"
+      },
+      "pista": {
+        "es": "Piensa qué quieres saber de los lápices, por ejemplo cuántos hay en total.",
+        "va": "Pensa què vols saber dels llapis, per exemple quants n'hi ha en total.",
+        "en": "Think about what you want to know about the pencils, like how many there are altogether.",
+        "fr": "Pense à ce que tu veux savoir sur les crayons, par exemple combien il y en a en tout.",
+        "ar": "لنفكّر فيما نريد معرفته عن الأقلام، مثلًا كم قلمًا يوجد في المجموع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 6",
+        "resultado": 13,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Por ejemplo: «¿Cuántos lápices hay en total?». Hay 13.",
+          "va": "Per exemple: «Quants llapis hi ha en total?». N'hi ha 13.",
+          "en": "For example: “How many pencils are there altogether?” There are 13.",
+          "fr": "Par exemple : « Combien de crayons y a-t-il en tout ? ». Il y en a 13.",
+          "ar": "مثلًا: «كم قلمًا يوجد في المجموع؟». يوجد 13 قلمًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una historia sin pregunta y deja que la persona adulta la haga.",
+        "va": "Inventa tu una història sense pregunta i deixa que la persona adulta la faça.",
+        "en": "Make up a story without a question and let the adult ask it.",
+        "fr": "Invente une histoire sans question et laisse l'adulte la poser.",
+        "ar": "لنخترع حكاية بلا سؤال، ونترك الشخص البالغ يطرحه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 32,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: Mateo tiene 11 coches y Sara tiene 8. ¿Cuántos coches más tiene Mateo?",
+        "va": "Per a recordar: Mateo té 11 cotxes i Sara en té 8. Quants cotxes més té Mateo?",
+        "en": "Let's remember: Mateo has 11 cars and Sara has 8. How many more cars does Mateo have?",
+        "fr": "Pour se souvenir : Mateo a 11 voitures et Sara en a 8. Combien de voitures de plus a Mateo ?",
+        "ar": "لنتذكّر: عند ماتيو 11 سيارة وعند سارة 8. كم سيارة عند ماتيو أكثر من سارة؟"
+      },
+      "pista": {
+        "es": "Pon los coches en dos filas, uno frente a otro, y cuenta los que se quedan sin pareja.",
+        "va": "Posa els cotxes en dues files, un davant de l'altre, i compta els que es queden sense parella.",
+        "en": "Put the cars in two rows, facing each other, and count the ones left without a partner.",
+        "fr": "Mets les voitures en deux rangs, l'une en face de l'autre, et compte celles qui restent sans partenaire.",
+        "ar": "لنضع السيارات في صفّين متقابلين، ونعدّ السيارات التي بقيت بلا شريك."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "11 - 8",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Mateo tiene 3 coches más.",
+          "va": "Mateo té 3 cotxes més.",
+          "en": "Mateo has 3 more cars.",
+          "fr": "Mateo a 3 voitures de plus.",
+          "ar": "عند ماتيو 3 سيارات أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra para comparar los libros de dos personas de casa.",
+        "va": "Inventa tu una altra per a comparar els llibres de dues persones de casa.",
+        "en": "Make up another one comparing the books of two people at home.",
+        "fr": "Invente-en une autre pour comparer les livres de deux personnes de la maison.",
+        "ar": "لنخترع سؤالًا آخر نقارن فيه كتب شخصين من البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Inventa una historia con números para mí. Luego explícame qué se sabe en tu historia y qué me preguntas.",
+        "va": "Inventa una història amb nombres per a mi. Després explica'm què se sap en la teua història i què em preguntes.",
+        "en": "Make up a story with numbers for me. Then explain what we know in your story and what you're asking me.",
+        "fr": "Invente une histoire avec des nombres pour moi. Ensuite, explique-moi ce qu'on sait dans ton histoire et ce que tu me demandes.",
+        "ar": "لنخترع حكاية بالأعداد. ثم لنشرح: ماذا نعرف في الحكاية، وعمّ نسأل؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Hacemos una historia con las galletas del desayuno?»",
+        "va": "Si no sap per on començar: «Fem una història amb les galetes de l'esmorzar?»",
+        "en": "If they don't know where to start: “Shall we make a story with the biscuits from breakfast?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « On fait une histoire avec les biscuits du petit-déjeuner ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نخترع حكاية ببسكويت الفطور؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Fijaos en si la historia tiene números y una pregunta. Si falta la pregunta, decid «¿y qué quieres saber?», sin prisa.",
+          "va": "Fixeu-vos si la història té nombres i una pregunta. Si falta la pregunta, digueu «i què vols saber?», sense pressa.",
+          "en": "Notice whether the story has numbers and a question. If the question is missing, ask “And what do you want to know?”, with no rush.",
+          "fr": "Regardez si l'histoire a des nombres et une question. S'il manque la question, demandez « Et qu'est-ce que tu veux savoir ? », sans vous presser.",
+          "ar": "لاحظوا إن كانت في الحكاية أعداد وسؤال. وإذا غاب السؤال، اسألوا «وماذا نريد أن نعرف؟»، من دون استعجال."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "dba6dda2a795"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "dba6dda2a795"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "dba6dda2a795"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "dba6dda2a795"
+      }
+    }
+  }
+}

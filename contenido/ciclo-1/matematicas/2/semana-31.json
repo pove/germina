@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s31",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 31,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Kilos y litros",
+    "va": "Quilos i litres",
+    "en": "Kilos and litres",
+    "fr": "Kilos et litres",
+    "ar": "الكيلوغرامات واللترات"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren cuánto pesa un kilo y cuánto cabe en un litro, con paquetes y botellas de la despensa. Comparan a mano qué pesa más y cuentan vasos.",
+    "va": "Aquesta setmana descobrixen quant pesa un quilo (kilo) i quant cap en un litre (litro), amb paquets i botelles del rebost. Comparen a mà què pesa més i compten gots.",
+    "en": "This week they find out how heavy a kilo is and how much fits in a litre (litro), using packets and bottles from the cupboard. They compare by hand which is heavier and count glasses.",
+    "fr": "Cette semaine, on découvre combien pèse un kilo et ce que contient un litre (litro), avec des paquets et des bouteilles du placard. On compare à la main ce qui pèse le plus et on compte des verres.",
+    "ar": "هذا الأسبوع يكتشف الأطفال كم يزن الكيلوغرام (kilo) وكم يتّسع اللتر (litro)، بعلب وزجاجات من خزانة المطبخ. ويقارنون باليد أيّها أثقل، ويعدّون الأكواب."
+  },
+  "comoAyudar": {
+    "es": "Dejad que coja los paquetes con las dos manos antes de decir cuál pesa más. Con el agua, en la cocina y con vosotros: contad los vasos en voz alta.",
+    "va": "Deixeu que agafe els paquets amb les dues mans abans de dir quin pesa més. Amb l'aigua, a la cuina i amb vosaltres: compteu els gots en veu alta.",
+    "en": "Let them hold the packets in both hands before saying which is heavier. With the water, stay in the kitchen with them and count the glasses out loud.",
+    "fr": "Laissez votre enfant prendre les paquets dans ses deux mains avant de dire lequel pèse le plus. Pour l'eau, dans la cuisine et avec vous : comptez les verres à voix haute.",
+    "ar": "دعوا الأطفال يحملون العلب باليدين قبل أن يقولوا أيّها أثقل. ومع الماء، في المطبخ ومعكم: عدّوا الأكواب بصوت عالٍ."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.medida.unidades"
+  ],
+  "criterios": [
+    "matematicas.c1.3.2",
+    "matematicas.c1.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La despensa",
+      "va": "El rebost",
+      "en": "The food cupboard",
+      "fr": "Le placard à provisions",
+      "ar": "خزانة المؤونة"
+    },
+    "material": [
+      {
+        "es": "Paquetes de la despensa: arroz, harina, azúcar…",
+        "va": "Paquets del rebost: arròs, farina, sucre…",
+        "en": "Packets from the cupboard: rice, flour, sugar…",
+        "fr": "Des paquets du placard : riz, farine, sucre…",
+        "ar": "علب من خزانة المؤونة: أرزّ، طحين، سكّر…"
+      },
+      {
+        "es": "Una botella vacía de un litro y un vaso",
+        "va": "Una botella buida d'un litre i un got",
+        "en": "An empty one-litre bottle and a glass",
+        "fr": "Une bouteille vide d'un litre et un verre",
+        "ar": "زجاجة فارغة سعتها لتر واحد وكوب"
+      },
+      {
+        "es": "Agua del grifo",
+        "va": "Aigua de l'aixeta",
+        "en": "Tap water",
+        "fr": "De l'eau du robinet",
+        "ar": "ماء من الصنبور"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "bolsa",
+        "texto": {
+          "es": "Buscad en la despensa paquetes que digan «1 kg». Coged uno en cada mano con algo más ligero. ¿Cuál pesa más?",
+          "va": "Busqueu en el rebost paquets que diguen «1 kg». Agafeu-ne un en una mà i una cosa més lleugera en l'altra. Quin pesa més?",
+          "en": "Look in the cupboard for packets that say “1 kg”. Hold one in one hand and something lighter in the other. Which is heavier?",
+          "fr": "Cherchez dans le placard des paquets marqués « 1 kg ». Prenez-en un dans une main et quelque chose de plus léger dans l'autre. Lequel pèse le plus ?",
+          "ar": "ابحثوا في الخزانة عن علب مكتوب عليها «1 kg». احملوا واحدة في يد وشيئًا أخفّ في اليد الأخرى. أيّهما أثقل؟"
+        }
+      },
+      {
+        "pictograma": "botella",
+        "texto": {
+          "es": "Buscad botellas o bricks que digan «1 L». Ese es un litro.",
+          "va": "Busqueu botelles o brics que diguen «1 L». Això és un litre.",
+          "en": "Look for bottles or cartons that say “1 L”. That's one litre.",
+          "fr": "Cherchez des bouteilles ou des briques marquées « 1 L ». Ça, c'est un litre.",
+          "ar": "ابحثوا عن زجاجات أو علب كرتونية مكتوب عليها «1 L». هذا لتر واحد."
+        }
+      },
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "En el fregadero, llenad un vaso de agua y echadlo en la botella vacía. Haced una rayita por cada vaso.",
+          "va": "En la pica, ompliu un got d'aigua i aboqueu-lo en la botella buida. Feu una ratlleta per cada got.",
+          "en": "At the sink, fill a glass with water and pour it into the empty bottle. Make a little line for each glass.",
+          "fr": "À l'évier, remplissez un verre d'eau et versez-le dans la bouteille vide. Faites un petit trait pour chaque verre.",
+          "ar": "عند المغسلة، املؤوا كوبًا بالماء واسكبوه في الزجاجة الفارغة. ارسموا خطًا صغيرًا لكل كوب."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Cuántos vasos caben en un litro? Probad con un vaso más grande: ¿caben más o menos?",
+          "va": "Quants gots caben en un litre? Proveu amb un got més gran: n'hi caben més o menys?",
+          "en": "How many glasses fit in one litre? Try with a bigger glass: do more or fewer fit?",
+          "fr": "Combien de verres tiennent dans un litre ? Essayez avec un verre plus grand : il en tient plus ou moins ?",
+          "ar": "كم كوبًا يتّسع في لتر واحد؟ جرّبوا بكوب أكبر: هل يتّسع أكثر أم أقل؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced solo lo del agua y contad los vasos con los dedos.",
+      "va": "Feu només allò de l'aigua i compteu els gots amb els dits.",
+      "en": "Just do the water part and count the glasses on your fingers.",
+      "fr": "Faites seulement la partie avec l'eau et comptez les verres sur vos doigts.",
+      "ar": "اكتفوا بتجربة الماء، وعدّوا الأكواب بالأصابع."
+    },
+    "masDificil": {
+      "es": "Con dos botellas de un litro: ¿cuántos vasos caben en 2 litros? Decidlo antes y luego comprobadlo.",
+      "va": "Amb dues botelles d'un litre: quants gots caben en 2 litres? Digueu-ho abans i després comproveu-ho.",
+      "en": "With two one-litre bottles: how many glasses fit in 2 litres? Say it first and then check.",
+      "fr": "Avec deux bouteilles d'un litre : combien de verres tiennent dans 2 litres ? Dites-le avant, puis vérifiez.",
+      "ar": "بزجاجتين سعة كل منهما لتر: كم كوبًا يتّسع في لترين؟ قولوا العدد أولًا ثم تحقّقوا منه."
+    },
+    "paraQueSirve": {
+      "es": "El kilo y el litro están en todo lo que compramos. Saber cuánto es ayuda a entender la compra y la cocina.",
+      "va": "El quilo i el litre són en tot el que comprem. Saber quant és ajuda a entendre la compra i la cuina.",
+      "en": "Kilos and litres are on everything we buy. Knowing how much they are helps you understand shopping and cooking.",
+      "fr": "Le kilo et le litre sont sur tout ce qu'on achète. Savoir combien c'est aide à comprendre les courses et la cuisine.",
+      "ar": "الكيلوغرام واللتر موجودان في كل ما نشتريه. ومعرفة مقدارهما تساعد على فهم التسوّق والطبخ."
+    },
+    "aviso": {
+      "es": "Lo del agua, en la cocina con una persona adulta. Si se abre un paquete de arroz o legumbres, recoged los granos lejos de hermanos o hermanas pequeños.",
+      "va": "Allò de l'aigua, a la cuina amb una persona adulta. Si s'obri un paquet d'arròs o de llegums, arreplegueu els grans lluny de germans o germanes menuts.",
+      "en": "Do the water part in the kitchen with a grown-up. If a packet of rice or pulses opens, pick up the grains away from younger brothers and sisters.",
+      "fr": "La partie avec l'eau, dans la cuisine avec un adulte. Si un paquet de riz ou de légumes secs s'ouvre, ramassez les grains loin des petits frères et sœurs.",
+      "ar": "تجربة الماء في المطبخ مع شخص بالغ. وإذا انفتحت علبة أرزّ أو بقول، فاجمعوا الحبوب بعيدًا عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Mateo compra 2 kilos de naranjas y 3 kilos de patatas. ¿Cuántos kilos lleva en la bolsa?",
+        "va": "Mateo compra 2 quilos de taronges i 3 quilos de creïlles. Quants quilos porta en la bossa?",
+        "en": "Mateo buys 2 kilos of oranges and 3 kilos of potatoes. How many kilos is he carrying in the bag?",
+        "fr": "Mateo achète 2 kilos d'oranges et 3 kilos de pommes de terre. Combien de kilos porte-t-il dans le sac ?",
+        "ar": "يشتري ماتيو 2 كيلوغرام من البرتقال و3 كيلوغرامات من البطاطا. كم كيلوغرامًا يحمل في الكيس؟"
+      },
+      "pista": {
+        "es": "Junta los kilos de las naranjas y los de las patatas, con los dedos.",
+        "va": "Ajunta els quilos de les taronges i els de les creïlles, amb els dits.",
+        "en": "Put together the kilos of oranges and the kilos of potatoes, on your fingers.",
+        "fr": "Réunis les kilos d'oranges et ceux de pommes de terre, sur tes doigts.",
+        "ar": "لنجمع كيلوغرامات البرتقال وكيلوغرامات البطاطا بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 3",
+        "resultado": 5,
+        "unidad": "kg",
+        "texto": {
+          "es": "Lleva 5 kilos.",
+          "va": "Porta 5 quilos.",
+          "en": "He is carrying 5 kilos.",
+          "fr": "Il porte 5 kilos.",
+          "ar": "يحمل 5 كيلوغرامات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos cosas que se compran por kilos.",
+        "va": "Inventa'n tu una altra amb dues coses que es compren per quilos.",
+        "en": "Make up another one with two things you buy by the kilo.",
+        "fr": "Invente-en une autre avec deux choses qu'on achète au kilo.",
+        "ar": "لنخترع سؤالًا آخر بشيئين نشتريهما بالكيلوغرام."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "En la nevera hay 4 litros de leche. Esta semana se beben 3 litros. ¿Cuántos litros quedan?",
+        "va": "En la nevera hi ha 4 litres de llet. Esta setmana se'n beuen 3 litres. Quants litres en queden?",
+        "en": "There are 4 litres of milk in the fridge. This week 3 litres are drunk. How many litres are left?",
+        "fr": "Dans le frigo, il y a 4 litres de lait. Cette semaine, on en boit 3 litres. Combien de litres reste-t-il ?",
+        "ar": "في الثلاجة 4 لترات من الحليب. نشرب هذا الأسبوع 3 لترات. كم لترًا يبقى؟"
+      },
+      "pista": {
+        "es": "Levanta 4 dedos, uno por botella, y baja los que se beben.",
+        "va": "Alça 4 dits, un per botella, i abaixa els que es beuen.",
+        "en": "Hold up 4 fingers, one for each bottle, and put down the ones that are drunk.",
+        "fr": "Lève 4 doigts, un par bouteille, et baisse ceux qu'on boit.",
+        "ar": "لنرفع 4 أصابع، إصبعًا لكل زجاجة، ونُنزل ما نشربه."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 - 3",
+        "resultado": 1,
+        "unidad": "l",
+        "texto": {
+          "es": "Queda 1 litro.",
+          "va": "En queda 1 litre.",
+          "en": "There is 1 litre left.",
+          "fr": "Il reste 1 litre.",
+          "ar": "يبقى لتر واحد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con botellas de agua o de zumo.",
+        "va": "Inventa'n tu una altra amb botelles d'aigua o de suc.",
+        "en": "Make up another one with bottles of water or juice.",
+        "fr": "Invente-en une autre avec des bouteilles d'eau ou de jus.",
+        "ar": "لنخترع سؤالًا آخر بزجاجات ماء أو عصير."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Con una botella de un litro se llenan 4 vasos. ¿Cuántos vasos se llenan con 3 botellas?",
+        "va": "Amb una botella d'un litre s'omplin 4 gots. Quants gots s'omplin amb 3 botelles?",
+        "en": "One one-litre bottle fills 4 glasses. How many glasses do 3 bottles fill?",
+        "fr": "Avec une bouteille d'un litre, on remplit 4 verres. Combien de verres remplit-on avec 3 bouteilles ?",
+        "ar": "زجاجة سعتها لتر واحد تملأ 4 أكواب. كم كوبًا تملأ 3 زجاجات؟"
+      },
+      "pista": {
+        "es": "Cuenta de 4 en 4, una vez por cada botella.",
+        "va": "Compta de 4 en 4, una vegada per cada botella.",
+        "en": "Count in fours, once for each bottle.",
+        "fr": "Compte de 4 en 4, une fois pour chaque bouteille.",
+        "ar": "لنعدّ أربعة أربعة، مرة لكل زجاجة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 4",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se llenan 12 vasos: {{3 × 4 = 12}}.",
+          "va": "S'omplin 12 gots: {{3 × 4 = 12}}.",
+          "en": "They fill 12 glasses: {{3 × 4 = 12}}.",
+          "fr": "On remplit 12 verres : {{3 × 4 = 12}}.",
+          "ar": "تملأ 12 كوبًا: {{3 × 4 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con los vasos que caben en vuestra botella.",
+        "va": "Inventa'n tu una altra amb els gots que caben en la vostra botella.",
+        "en": "Make up another one with the glasses that fit in your bottle.",
+        "fr": "Invente-en une autre avec les verres qui tiennent dans votre bouteille.",
+        "ar": "لنخترع سؤالًا آخر بعدد الأكواب التي تتّسع في زجاجتنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 27,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar las formas: ¿cuántos lados tienen entre los dos un triángulo y un cuadrado?",
+        "va": "Per a recordar les formes: quants costats tenen entre els dos un triangle i un quadrat?",
+        "en": "Let's remember shapes: how many sides do a triangle and a square have altogether?",
+        "fr": "Pour se souvenir des formes : combien de côtés ont en tout un triangle et un carré ?",
+        "ar": "لنتذكّر الأشكال: كم ضلعًا للمثلّث والمربّع معًا؟"
+      },
+      "pista": {
+        "es": "Dibuja las dos formas en el aire con el dedo y cuenta los lados.",
+        "va": "Dibuixa les dues formes en l'aire amb el dit i compta els costats.",
+        "en": "Draw the two shapes in the air with your finger and count the sides.",
+        "fr": "Dessine les deux formes dans l'air avec ton doigt et compte les côtés.",
+        "ar": "لنرسم الشكلين في الهواء بالإصبع ونعدّ الأضلاع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 4",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 7 lados: {{3 + 4 = 7}}.",
+          "va": "Tenen 7 costats: {{3 + 4 = 7}}.",
+          "en": "They have 7 sides: {{3 + 4 = 7}}.",
+          "fr": "Ils ont 7 côtés : {{3 + 4 = 7}}.",
+          "ar": "لهما 7 أضلاع: {{3 + 4 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos formas que veas en la cocina.",
+        "va": "Inventa'n tu una altra amb dues formes que veges a la cuina.",
+        "en": "Make up another one with two shapes you can see in the kitchen.",
+        "fr": "Invente-en une autre avec deux formes que tu vois dans la cuisine.",
+        "ar": "لنخترع سؤالًا آخر بشكلين نراهما في المطبخ."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Coge dos cosas de la cocina. ¿Cuál pesa más? Explícame cómo lo sabes.",
+        "va": "Agafa dues coses de la cuina. Quina pesa més? Explica'm com ho saps.",
+        "en": "Pick up two things from the kitchen. Which is heavier? Explain to me how you know.",
+        "fr": "Prends deux choses de la cuisine. Laquelle pèse le plus ? Explique-moi comment tu le sais.",
+        "ar": "لنحمل شيئين من المطبخ. أيّهما أثقل؟ لنشرح كيف عرفنا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué sientes en la mano cuando algo pesa mucho?»",
+        "va": "Si no sap per on començar: «Què sents en la mà quan una cosa pesa molt?»",
+        "en": "If they don't know where to start: “What do you feel in your hand when something is heavy?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu sens dans ta main quand quelque chose est lourd ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «بماذا نشعر في اليد عندما يكون الشيء ثقيلًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale cualquier explicación con sentido: «tira más de la mano», «se me baja el brazo». A veces lo grande pesa poco: si sale, comentadlo juntos.",
+          "va": "Val qualsevol explicació amb sentit: «estira més de la mà», «se m'abaixa el braç». De vegades el que és gran pesa poc: si ix, comenteu-ho junts.",
+          "en": "Any explanation that makes sense is fine: “it pulls my hand more”, “my arm goes down”. Sometimes big things weigh little: if that comes up, talk about it together.",
+          "fr": "Toute explication qui a du sens convient : « ça tire plus sur ma main », « mon bras descend ». Parfois, ce qui est gros pèse peu : si ça arrive, parlez-en ensemble.",
+          "ar": "أيّ شرح منطقي مقبول: «يشدّ اليد أكثر»، «ينزل ذراعي». أحيانًا يكون الشيء الكبير خفيفًا: إذا ظهر ذلك، تحدّثوا عنه معًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "e07a8401cdbb"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "e07a8401cdbb"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "e07a8401cdbb"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "e07a8401cdbb"
+      }
+    }
+  }
+}

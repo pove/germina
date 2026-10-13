@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.v01",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "verano": 1,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Contar en la playa",
+    "va": "Comptar a la platja",
+    "en": "Counting on the beach",
+    "fr": "Compter à la plage",
+    "ar": "العدّ على الشاطئ"
+  },
+  "objetivo": {
+    "es": "En verano, contar un montón de conchas o piedras haciendo grupos de 10 mantiene fresco lo que vale cada decena: 3 grupos y 4 sueltas son 34.",
+    "va": "A l'estiu, comptar un munt de petxines o pedres fent grups de 10 manté fresc el que val cada desena (decena): 3 grups i 4 soltes són 34.",
+    "en": "In summer, counting a big pile of shells or stones by making groups of 10 keeps fresh what each ten (decena) is worth: 3 groups and 4 loose ones make 34.",
+    "fr": "En été, compter un tas de coquillages ou de cailloux en faisant des groupes de 10 garde bien en tête ce que vaut chaque dizaine (decena) : 3 groupes et 4 en vrac, ça fait 34.",
+    "ar": "في الصيف، عدّ كومة من الأصداف أو الحصى بتكوين مجموعات من 10 يُبقي قيمة كل عشرة (decena) حاضرة: 3 مجموعات و4 منفردة تساوي 34."
+  },
+  "comoAyudar": {
+    "es": "Dejad que haga los grupos con sus manos y que cuente con los dedos si le ayuda. Al final, preguntad «¿cuántos grupos de 10 hay, y cuántas sueltas?».",
+    "va": "Deixeu que faça els grups amb les seues mans i que compte amb els dits si li ajuda. Al final, pregunteu «quants grups de 10 hi ha, i quantes de soltes?».",
+    "en": "Let them make the groups with their own hands and count on their fingers if it helps. At the end, ask “How many groups of 10 are there, and how many loose ones?”.",
+    "fr": "Laissez-le ou laissez-la faire les groupes avec ses mains et compter sur ses doigts si ça l'aide. À la fin, demandez « Combien de groupes de 10 y a-t-il, et combien en vrac ? ».",
+    "ar": "دعوا تكوين المجموعات يكون بالأيدي، والعدّ بالأصابع إن كان يساعد. وفي النهاية اسألوا: «كم مجموعة من 10 عندنا، وكم واحدة منفردة؟»."
+  },
+  "saberes": [
+    "matematicas.numeros.recuento",
+    "matematicas.numeros.decena"
+  ],
+  "criterios": [
+    "matematicas.c1.5.1",
+    "matematicas.c1.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Montones de 10",
+      "va": "Munts de 10",
+      "en": "Piles of 10",
+      "fr": "Des tas de 10",
+      "ar": "أكوام من 10"
+    },
+    "material": [
+      {
+        "es": "Conchas, piedras o palitos de la playa, del parque o del campo",
+        "va": "Petxines, pedres o branquetes de la platja, del parc o del camp",
+        "en": "Shells, stones or little sticks from the beach, the park or the countryside",
+        "fr": "Des coquillages, des cailloux ou des bâtonnets de la plage, du parc ou de la campagne",
+        "ar": "أصداف أو حصى أو عيدان صغيرة من الشاطئ أو الحديقة أو الريف"
+      },
+      {
+        "es": "Un cubo o una bolsa",
+        "va": "Un poal o una bossa",
+        "en": "A bucket or a bag",
+        "fr": "Un seau ou un sac",
+        "ar": "دلو أو كيس"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "sol",
+        "texto": {
+          "es": "Recoged juntos un buen montón de conchas, piedras o palitos. Antes de contar, decid cuántos creéis que hay.",
+          "va": "Arreplegueu junts un bon munt de petxines, pedres o branquetes. Abans de comptar, digueu quants creieu que n'hi ha.",
+          "en": "Gather a good pile of shells, stones or sticks together. Before counting, say how many you think there are.",
+          "fr": "Ramassez ensemble un bon tas de coquillages, de cailloux ou de bâtonnets. Avant de compter, dites combien vous pensez qu'il y en a.",
+          "ar": "اجمعوا معًا كومة كبيرة من الأصداف أو الحصى أو العيدان. وقبل العدّ، قولوا كم تظنّون أن عددها."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Haced grupos de 10, contando con los dedos si os ayuda. Lo que no llega a 10 se queda suelto.",
+          "va": "Feu grups de 10, comptant amb els dits si us ajuda. El que no arriba a 10 es queda solt.",
+          "en": "Make groups of 10, counting on your fingers if it helps. Whatever doesn’t reach 10 stays loose.",
+          "fr": "Faites des groupes de 10, en comptant sur vos doigts si ça aide. Ce qui n'arrive pas à 10 reste en vrac.",
+          "ar": "كوّنوا مجموعات من 10، وعدّوا بالأصابع إن كان ذلك يساعد. وما لا يصل إلى 10 يبقى منفردًا."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad en la arena o en un papel una raya por cada grupo de 10 y un punto por cada suelta.",
+          "va": "Dibuixeu en l’arena o en un paper una ratlla per cada grup de 10 i un punt per cada solta.",
+          "en": "In the sand or on paper, draw a line for each group of 10 and a dot for each loose one.",
+          "fr": "Dessinez dans le sable ou sur un papier un trait pour chaque groupe de 10 et un point pour chaque objet en vrac.",
+          "ar": "ارسموا على الرمل أو على ورقة خطًّا لكل مجموعة من 10 ونقطة لكل واحدة منفردة."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Contad las rayas de 10 en 10 y seguid con los puntos: 10, 20, 30, 31… ¿Os habíais acercado?",
+          "va": "Compteu les ratlles de 10 en 10 i seguiu amb els punts: 10, 20, 30, 31… Us hi havíeu acostat?",
+          "en": "Count the lines in tens and carry on with the dots: 10, 20, 30, 31… Were you close?",
+          "fr": "Comptez les traits de 10 en 10 et continuez avec les points : 10, 20, 30, 31… Vous étiez-vous approchés ?",
+          "ar": "عدّوا الخطوط 10 بـ10 ثم تابعوا بالنقاط: 10، 20، 30، 31… هل كان تقديركم قريبًا؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced un solo grupo de 10 y contad cuántas sobran.",
+      "va": "Feu un sol grup de 10 i compteu quantes en sobren.",
+      "en": "Make just one group of 10 and count how many are left over.",
+      "fr": "Faites un seul groupe de 10 et comptez combien il en reste.",
+      "ar": "كوّنوا مجموعة واحدة من 10 وعدّوا كم يتبقّى."
+    },
+    "masDificil": {
+      "es": "Recoged más de 50 y, antes de contar, decid cada uno un número. ¿Cuánto os habéis acercado?",
+      "va": "Arreplegueu-ne més de 50 i, abans de comptar, digueu cadascú un nombre. Quant us hi heu acostat?",
+      "en": "Gather more than 50 and, before counting, each say a number. How close did you get?",
+      "fr": "Ramassez-en plus de 50 et, avant de compter, dites chacun un nombre. De combien vous êtes-vous approchés ?",
+      "ar": "اجمعوا أكثر من 50، وقبل العدّ ليقل كل واحد عددًا. كم اقتربتم؟"
+    },
+    "paraQueSirve": {
+      "es": "Contar de 10 en 10 es más rápido y cuesta menos perderse. Así están hechos todos los números hasta el 99, y también los que llegarán en 2.º.",
+      "va": "Comptar de 10 en 10 és més ràpid i costa menys perdre's. Així estan fets tots els nombres fins al 99, i també els que arribaran a 2n.",
+      "en": "Counting in tens is faster and it’s harder to get lost. That’s how all the numbers up to 99 are built, and the ones coming in 2nd year too.",
+      "fr": "Compter de 10 en 10 est plus rapide et on se perd moins. C'est ainsi que sont faits tous les nombres jusqu'à 99, et aussi ceux qui arriveront en 2e année.",
+      "ar": "العدّ 10 بـ10 أسرع ويقلّ فيه الضياع. هكذا تُبنى كل الأعداد حتى 99، وكذلك الأعداد التي ستأتي في الصف الثاني."
+    },
+    "aviso": {
+      "es": "Cerca del agua, siempre con una persona adulta al lado. Las conchas y piedras pequeñas, lejos de hermanos o hermanas pequeños.",
+      "va": "Prop de l'aigua, sempre amb una persona adulta al costat. Les petxines i pedres menudes, lluny de germans o germanes menuts.",
+      "en": "Near the water, always with an adult beside you. Keep small shells and stones away from younger brothers and sisters.",
+      "fr": "Près de l'eau, toujours avec une personne adulte à côté. Les petits coquillages et cailloux, loin des petits frères et sœurs.",
+      "ar": "قرب الماء، دائمًا مع شخص بالغ بجانبنا. والأصداف والحصى الصغيرة بعيدًا عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Iker tiene 2 grupos de 10 conchas y 5 conchas sueltas. ¿Cuántas conchas tiene?",
+        "va": "Iker té 2 grups de 10 petxines i 5 petxines soltes. Quantes petxines té?",
+        "en": "Iker has 2 groups of 10 shells and 5 loose shells. How many shells does he have?",
+        "fr": "Iker a 2 groupes de 10 coquillages et 5 coquillages en vrac. Combien de coquillages a-t-il ?",
+        "ar": "عند إيكر مجموعتان من 10 أصداف و5 أصداف منفردة. كم صدفة عنده؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10 y luego sigue de uno en uno: 10, 20, 21…",
+        "va": "Compta de 10 en 10 i després segueix d’un en un: 10, 20, 21…",
+        "en": "Count in tens and then carry on in ones: 10, 20, 21…",
+        "fr": "Compte de 10 en 10, puis continue de 1 en 1 : 10, 20, 21…",
+        "ar": "لنعدّ 10 بـ10 ثم نتابع واحدًا واحدًا: 10، 20، 21…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 5",
+        "resultado": 25,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 25 conchas.",
+          "va": "Té 25 petxines.",
+          "en": "He has 25 shells.",
+          "fr": "Il a 25 coquillages.",
+          "ar": "عنده 25 صدفة."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con grupos de 10 de algo que encuentres hoy.",
+        "va": "Ara inventa'n tu una amb grups de 10 d'alguna cosa que trobes hui.",
+        "en": "Now you make one up with groups of 10 of something you find today.",
+        "fr": "Maintenant, invente une question avec des groupes de 10 de quelque chose que tu trouves aujourd'hui.",
+        "ar": "والآن لنخترع سؤالًا بمجموعات من 10 من شيء نجده اليوم."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Aisha y su abuela recogen 6 piedras blancas y 4 grises. ¿Tienen ya un grupo de 10?",
+        "va": "Aisha i la seua àvia arrepleguen 6 pedres blanques i 4 de grises. Ja tenen un grup de 10?",
+        "en": "Aisha and her grandma pick up 6 white stones and 4 grey ones. Do they have a group of 10 yet?",
+        "fr": "Aisha et sa grand-mère ramassent 6 cailloux blancs et 4 gris. Ont-elles déjà un groupe de 10 ?",
+        "ar": "تجمع عائشة وجدّتها 6 حصوات بيضاء و4 رمادية. هل صار عندهما مجموعة من 10؟"
+      },
+      "pista": {
+        "es": "Levanta 6 dedos y sigue contando 4 más.",
+        "va": "Alça 6 dits i continua comptant-ne 4 més.",
+        "en": "Hold up 6 fingers and keep counting 4 more.",
+        "fr": "Lève 6 doigts et continue à compter 4 de plus.",
+        "ar": "لنرفع 6 أصابع ونتابع العدّ 4 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 4",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí: {{6 + 4 = 10}}, justo un grupo de 10.",
+          "va": "Sí: {{6 + 4 = 10}}, just un grup de 10.",
+          "en": "Yes: {{6 + 4 = 10}}, exactly one group of 10.",
+          "fr": "Oui : {{6 + 4 = 10}}, juste un groupe de 10.",
+          "ar": "نعم: {{6 + 4 = 10}}، مجموعة من 10 تمامًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos colores que juntos hagan 10.",
+        "va": "Inventa'n tu una altra amb dos colors que junts facen 10.",
+        "en": "Make up another one with two colours that make 10 together.",
+        "fr": "Invente-en une autre avec deux couleurs qui font 10 ensemble.",
+        "ar": "لنخترع سؤالًا آخر بلونين يكوّنان معًا 10."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Wei tiene 4 grupos de 10 palitos y su tía le da otro grupo de 10. ¿Cuántos palitos tiene ahora?",
+        "va": "Wei té 4 grups de 10 branquetes i la seua tia li dona un altre grup de 10. Quantes branquetes té ara?",
+        "en": "Wei has 4 groups of 10 sticks and her aunt gives her another group of 10. How many sticks does she have now?",
+        "fr": "Wei a 4 groupes de 10 bâtonnets et sa tante lui donne un autre groupe de 10. Combien de bâtonnets a-t-elle maintenant ?",
+        "ar": "عند وي 4 مجموعات من 10 عيدان، وتعطيها خالتها مجموعة أخرى من 10. كم عودًا عندها الآن؟"
+      },
+      "pista": {
+        "es": "Cuenta los grupos de 10 en 10: 10, 20, 30…",
+        "va": "Compta els grups de 10 en 10: 10, 20, 30…",
+        "en": "Count the groups in tens: 10, 20, 30…",
+        "fr": "Compte les groupes de 10 en 10 : 10, 20, 30…",
+        "ar": "لنعدّ المجموعات 10 بـ10: 10، 20، 30…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 + 10",
+        "resultado": 50,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 50 palitos: 5 grupos de 10.",
+          "va": "Té 50 branquetes: 5 grups de 10.",
+          "en": "She has 50 sticks: 5 groups of 10.",
+          "fr": "Elle a 50 bâtonnets : 5 groupes de 10.",
+          "ar": "عندها 50 عودًا: 5 مجموعات من 10."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que alguien te regala un grupo de 10.",
+        "va": "Inventa'n tu una en què algú et regala un grup de 10.",
+        "en": "Make one up where someone gives you a group of 10.",
+        "fr": "Invente une question où quelqu'un te donne un groupe de 10.",
+        "ar": "لنخترع سؤالًا يهدينا فيه أحدٌ مجموعة من 10."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 2,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: en el cubo hay 19 piedras. Si echas una más, ¿cuántas hay?",
+        "va": "Per a recordar: en el poal hi ha 19 pedres. Si en tires una més, quantes n’hi ha?",
+        "en": "Let’s remember: there are 19 stones in the bucket. If you drop in one more, how many are there?",
+        "fr": "Pour se souvenir : il y a 19 cailloux dans le seau. Si tu en mets un de plus, combien y en a-t-il ?",
+        "ar": "لنتذكّر: في الدلو 19 حصاة. إذا وضعنا واحدة أخرى، كم حصاة يصبح فيه؟"
+      },
+      "pista": {
+        "es": "Uno más es el número que viene justo después.",
+        "va": "Un més és el nombre que ve just després.",
+        "en": "One more is the number that comes right after.",
+        "fr": "Un de plus, c'est le nombre qui vient juste après.",
+        "ar": "واحد أكثر هو العدد الذي يأتي بعده مباشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "19 + 1",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 20 piedras: 2 grupos de 10.",
+          "va": "Hi ha 20 pedres: 2 grups de 10.",
+          "en": "There are 20 stones: 2 groups of 10.",
+          "fr": "Il y a 20 cailloux : 2 groupes de 10.",
+          "ar": "فيه 20 حصاة: مجموعتان من 10."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con uno menos.",
+        "va": "Inventa'n tu una altra amb un menys.",
+        "en": "Make up another one with one less.",
+        "fr": "Invente-en une autre avec un de moins.",
+        "ar": "لنخترع سؤالًا آخر فيه واحد أقل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo has contado tantas cosas sin perderte? Enséñamelo con tus grupos.",
+        "va": "Com has comptat tantes coses sense perdre't? Ensenya-m'ho amb els teus grups.",
+        "en": "How did you count so many things without getting lost? Show me with your groups.",
+        "fr": "Comment as-tu compté autant de choses sans te perdre ? Montre-le-moi avec tes groupes.",
+        "ar": "كيف عددنا كل هذه الأشياء من دون أن نضيع؟ لنُرِ ذلك بالمجموعات."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Por qué es más fácil contar de 10 en 10 que de uno en uno?»",
+        "va": "Si no sap per on començar: «Per què és més fàcil comptar de 10 en 10 que d’un en un?»",
+        "en": "If they don’t know where to start: “Why is it easier to count in tens than one by one?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Pourquoi c'est plus facile de compter de 10 en 10 que de 1 en 1 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «لماذا العدّ 10 بـ10 أسهل من العدّ واحدًا واحدًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b4f5d0a682bc"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b4f5d0a682bc"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b4f5d0a682bc"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b4f5d0a682bc"
+      }
+    }
+  }
+}

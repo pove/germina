@@ -1,0 +1,343 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s27",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 27,
+  "tipo": "tema",
+  "titulo": {
+    "es": "La hora en punto",
+    "va": "L'hora en punt",
+    "en": "O'clock",
+    "fr": "L'heure pile",
+    "ar": "الساعة تمامًا"
+  },
+  "objetivo": {
+    "es": "Esta semana miran el reloj de agujas: la aguja corta marca la hora; si la larga está arriba, es en punto, y si está abajo, es y media. También dicen los días de la semana en orden.",
+    "va": "Aquesta setmana miren el rellotge (reloj) d'agulles (agujas): l'agulla curta marca l'hora; si la llarga està dalt, és en punt (en punto), i si està baix, és i mitja (y media). També diuen els dies de la setmana en orde.",
+    "en": "This week they look at a clock (reloj) with hands (agujas): the short hand shows the hour; if the long hand is at the top, it's o'clock (en punto), and if it's at the bottom, it's half past (y media). They also say the days of the week in order.",
+    "fr": "Cette semaine, on regarde l'horloge (reloj) à aiguilles (agujas) : la petite aiguille montre l'heure ; si la grande est en haut, c'est l'heure pile (en punto), et si elle est en bas, c'est et demie (y media). On dit aussi les jours de la semaine dans l'ordre.",
+    "ar": "هذا الأسبوع ينظر الأطفال إلى الساعة (reloj) ذات العقارب (agujas): العقرب القصير يدلّ على الساعة؛ إذا كان الطويل في الأعلى فهي الساعة تمامًا (en punto)، وإذا كان في الأسفل فهي والنصف (y media). ويقولون أيضًا أيام الأسبوع بالترتيب."
+  },
+  "comoAyudar": {
+    "es": "Decid la hora en voz alta en momentos fijos del día: «son las 8 en punto, a desayunar». Si tenéis un reloj de agujas, miradlo juntos; si no, usad el del reto.",
+    "va": "Digueu l'hora en veu alta en moments fixos del dia: «són les 8 en punt, a esmorzar». Si teniu un rellotge d'agulles, mireu-lo junts; si no, feu servir el del repte.",
+    "en": "Say the time out loud at set moments of the day: “It's 8 o'clock, time for breakfast.” If you have a clock with hands, look at it together; if not, use the one from the challenge.",
+    "fr": "Dites l'heure à voix haute à des moments fixes de la journée : « Il est 8 heures pile, on prend le petit-déjeuner. » Si vous avez une horloge à aiguilles, regardez-la ensemble ; sinon, utilisez celle du défi.",
+    "ar": "قولوا الوقت بصوت عالٍ في أوقات ثابتة من اليوم: «الساعة 8 تمامًا، وقت الفطور». إن كانت عندكم ساعة بعقارب فانظروا إليها معًا، وإلا فاستعملوا ساعة التحدّي."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.medida.unidades"
+  ],
+  "criterios": [
+    "matematicas.c1.7.1",
+    "matematicas.c1.6.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El reloj de plato",
+      "va": "El rellotge de plat",
+      "en": "The paper-plate clock",
+      "fr": "L'horloge en assiette",
+      "ar": "ساعة الصحن"
+    },
+    "material": [
+      {
+        "es": "Un plato de cartón o un círculo de cartulina",
+        "va": "Un plat de cartó o un cercle de cartolina",
+        "en": "A paper plate or a circle of card",
+        "fr": "Une assiette en carton ou un disque de carton",
+        "ar": "صحن من الورق المقوّى أو دائرة من الكرتون"
+      },
+      {
+        "es": "Dos tiras de cartulina, una corta y otra larga, y un encuadernador de patas o un poco de plastilina para sujetarlas",
+        "va": "Dues tires de cartolina, una curta i una altra llarga, i un enquadernador de potes o una mica de plastilina per a subjectar-les",
+        "en": "Two strips of card, one short and one long, and a split pin or a bit of modelling clay to hold them",
+        "fr": "Deux bandes de carton, une courte et une longue, et une attache parisienne ou un peu de pâte à modeler pour les tenir",
+        "ar": "شريطان من الكرتون، واحد قصير وآخر طويل، ومشبك ورق بساقين أو قليل من المعجون لتثبيتهما"
+      },
+      {
+        "es": "Un rotulador",
+        "va": "Un retolador",
+        "en": "A felt-tip pen",
+        "fr": "Un feutre",
+        "ar": "قلم تلوين"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "La persona adulta marca en el plato los números del 1 al 12: el 12 arriba, el 6 abajo, el 3 y el 9 a los lados.",
+          "va": "La persona adulta marca en el plat els nombres de l'1 al 12: el 12 dalt, el 6 baix, el 3 i el 9 als costats.",
+          "en": "The adult marks the numbers 1 to 12 on the plate: 12 at the top, 6 at the bottom, 3 and 9 at the sides.",
+          "fr": "L'adulte marque sur l'assiette les nombres de 1 à 12 : le 12 en haut, le 6 en bas, le 3 et le 9 sur les côtés.",
+          "ar": "يكتب الشخص البالغ على الصحن الأعداد من 1 إلى 12: الـ12 في الأعلى، والـ6 في الأسفل، والـ3 والـ9 على الجانبين."
+        }
+      },
+      {
+        "pictograma": "reloj",
+        "texto": {
+          "es": "Sujetad las dos agujas en el centro. La corta marca la hora y la larga, los minutos.",
+          "va": "Subjecteu les dues agulles al centre. La curta marca l'hora i la llarga, els minuts.",
+          "en": "Fix the two hands in the middle. The short one shows the hour and the long one, the minutes.",
+          "fr": "Fixez les deux aiguilles au centre. La petite montre l'heure et la grande, les minutes.",
+          "ar": "ثبّتوا العقربين في الوسط. القصير يدلّ على الساعة، والطويل على الدقائق."
+        }
+      },
+      {
+        "pictograma": "reloj",
+        "texto": {
+          "es": "Poned en el reloj la hora de comer, la de bañarse y la de dormir, en punto o y media.",
+          "va": "Poseu en el rellotge l'hora de dinar, la de banyar-se i la de dormir, en punt o i mitja.",
+          "en": "Set the clock to lunchtime, bath time and bedtime, o'clock or half past.",
+          "fr": "Mettez sur l'horloge l'heure du repas, celle du bain et celle du coucher, pile ou et demie.",
+          "ar": "اضبطوا الساعة على وقت الغداء ووقت الاستحمام ووقت النوم، تمامًا أو والنصف."
+        }
+      },
+      {
+        "pictograma": "calendario",
+        "texto": {
+          "es": "Decid juntos los días de la semana en orden y elegid uno: ¿qué hacéis ese día a esas horas?",
+          "va": "Digueu junts els dies de la setmana en orde i trieu-ne un: què feu eixe dia a eixes hores?",
+          "en": "Say the days of the week together in order and pick one: what do you do on that day at those times?",
+          "fr": "Dites ensemble les jours de la semaine dans l'ordre et choisissez-en un : que faites-vous ce jour-là à ces heures-là ?",
+          "ar": "قولوا معًا أيام الأسبوع بالترتيب واختاروا يومًا: ماذا تفعلون في ذلك اليوم في هذه الأوقات؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo horas en punto, con la aguja larga siempre arriba, en el 12.",
+      "va": "Feu servir només hores en punt, amb l'agulla llarga sempre dalt, en el 12.",
+      "en": "Use only o'clock times, with the long hand always at the top, on the 12.",
+      "fr": "Utilisez seulement des heures pile, avec la grande aiguille toujours en haut, sur le 12.",
+      "ar": "استعملوا الساعات تمامًا فقط، والعقرب الطويل دائمًا في الأعلى، عند الـ12."
+    },
+    "masDificil": {
+      "es": "Una persona pone una hora y la otra dice qué hora será media hora después.",
+      "va": "Una persona posa una hora i l'altra diu quina hora serà mitja hora després.",
+      "en": "One person sets a time and the other says what time it will be half an hour later.",
+      "fr": "Une personne met une heure et l'autre dit quelle heure il sera une demi-heure plus tard.",
+      "ar": "يضبط شخص وقتًا، ويقول الآخر كم ستكون الساعة بعد نصف ساعة."
+    },
+    "paraQueSirve": {
+      "es": "Leer la hora en el reloj de agujas ayuda a organizar el día y a entender que el tiempo pasa en orden, como los días de la semana.",
+      "va": "Llegir l'hora en el rellotge d'agulles ajuda a organitzar el dia i a entendre que el temps passa en orde, com els dies de la setmana.",
+      "en": "Telling the time on a clock with hands helps to organise the day and to understand that time passes in order, like the days of the week.",
+      "fr": "Lire l'heure sur une horloge à aiguilles aide à organiser la journée et à comprendre que le temps passe dans l'ordre, comme les jours de la semaine.",
+      "ar": "قراءة الوقت في الساعة ذات العقارب تساعد على تنظيم اليوم وعلى فهم أن الوقت يمضي بالترتيب، مثل أيام الأسبوع."
+    },
+    "aviso": {
+      "es": "Si usáis un encuadernador, que lo ponga la persona adulta, y guardadlo lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir un enquadernador, que el pose la persona adulta, i guardeu-lo lluny de germans o germanes menuts.",
+      "en": "If you use a split pin, let the adult put it in, and keep it away from younger brothers and sisters.",
+      "fr": "Si vous utilisez une attache parisienne, c'est l'adulte qui la met, et gardez-la loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم مشبك الورق، فليضعه الشخص البالغ، وأبعدوه عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "La aguja corta señala el 3 y la larga está arriba, en el 12. ¿Qué hora es?",
+        "va": "L'agulla curta assenyala el 3 i la llarga està dalt, en el 12. Quina hora és?",
+        "en": "The short hand points to 3 and the long hand is at the top, on 12. What time is it?",
+        "fr": "La petite aiguille montre le 3 et la grande est en haut, sur le 12. Quelle heure est-il ?",
+        "ar": "العقرب القصير يشير إلى 3 والطويل في الأعلى عند 12. كم الساعة؟"
+      },
+      "pista": {
+        "es": "Pon las agujas así en el reloj de plato y mira primero la corta.",
+        "va": "Posa les agulles així en el rellotge de plat i mira primer la curta.",
+        "en": "Put the hands like that on the paper-plate clock and look at the short one first.",
+        "fr": "Mets les aiguilles comme ça sur l'horloge en assiette et regarde d'abord la petite.",
+        "ar": "لنضع العقربين هكذا على ساعة الصحن، وننظر أولًا إلى القصير."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Son las 3 en punto (3:00). Si duda, preguntad qué número señala la aguja corta.",
+          "va": "Són les 3 en punt (3:00). Si dubta, pregunteu quin nombre assenyala l'agulla curta.",
+          "en": "It's 3 o'clock (3:00). If they're unsure, ask which number the short hand points to.",
+          "fr": "Il est 3 heures pile (3:00). En cas de doute, demandez quel nombre montre la petite aiguille.",
+          "ar": "الساعة 3 تمامًا (3:00). إذا كان هناك تردّد، اسألوا: إلى أيّ عدد يشير العقرب القصير؟"
+        }
+      },
+      "inventala": {
+        "es": "Ahora pon tú otra hora en punto y que alguien de casa la diga.",
+        "va": "Ara posa tu una altra hora en punt i que algú de casa la diga.",
+        "en": "Now you set another o'clock time and let someone at home say it.",
+        "fr": "Maintenant, mets une autre heure pile et quelqu'un de la maison la dit.",
+        "ar": "والآن لنضبط ساعة أخرى تمامًا، ونترك أحدًا في البيت يقولها."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Hoy es viernes. ¿Qué día será mañana? ¿Y qué día fue ayer?",
+        "va": "Hui és divendres. Quin dia serà demà? I quin dia va ser ahir?",
+        "en": "Today is Friday. What day will it be tomorrow? And what day was it yesterday?",
+        "fr": "Aujourd'hui, c'est vendredi. Quel jour serons-nous demain ? Et quel jour étions-nous hier ?",
+        "ar": "اليوم الجمعة. ما اليوم غدًا؟ وما اليوم الذي كان أمس؟"
+      },
+      "pista": {
+        "es": "Di los días de la semana desde el lunes y para en el viernes.",
+        "va": "Digues els dies de la setmana des de dilluns i para en divendres.",
+        "en": "Say the days of the week from Monday and stop at Friday.",
+        "fr": "Dis les jours de la semaine à partir de lundi et arrête-toi à vendredi.",
+        "ar": "لنقل أيام الأسبوع بدءًا من الاثنين ونتوقّف عند الجمعة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Mañana será sábado y ayer fue jueves. Si duda, decid juntos los días en orden, como una canción.",
+          "va": "Demà serà dissabte i ahir va ser dijous. Si dubta, digueu junts els dies en orde, com una cançó.",
+          "en": "Tomorrow will be Saturday and yesterday was Thursday. If they're unsure, say the days together in order, like a song.",
+          "fr": "Demain, ce sera samedi et hier, c'était jeudi. En cas de doute, dites ensemble les jours dans l'ordre, comme une chanson.",
+          "ar": "غدًا السبت، وأمس كان الخميس. إذا كان هناك تردّد، قولوا الأيام معًا بالترتيب، كأنها أغنية."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el día que vas a la piscina o al parque.",
+        "va": "Inventa'n tu una altra amb el dia que vas a la piscina o al parc.",
+        "en": "Make up another one with the day you go to the pool or the park.",
+        "fr": "Invente-en une autre avec le jour où tu vas à la piscine ou au parc.",
+        "ar": "لنخترع سؤالًا آخر عن اليوم الذي نذهب فيه إلى المسبح أو الحديقة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "El parque abre a las 10 en punto y ahora son las 9 y media. ¿Cuánto falta para que abra?",
+        "va": "El parc obri a les 10 en punt i ara són les 9 i mitja. Quant falta perquè obriga?",
+        "en": "The park opens at 10 o'clock and now it's half past 9. How long until it opens?",
+        "fr": "Le parc ouvre à 10 heures pile et il est 9 heures et demie. Combien de temps faut-il attendre ?",
+        "ar": "تُفتح الحديقة في الساعة 10 تمامًا، والآن الساعة 9 والنصف. كم بقي حتى تُفتح؟"
+      },
+      "pista": {
+        "es": "Pon las 9 y media en el reloj de plato y sube la aguja larga hasta el 12.",
+        "va": "Posa les 9 i mitja en el rellotge de plat i puja l'agulla llarga fins al 12.",
+        "en": "Set half past 9 on the paper-plate clock and move the long hand up to 12.",
+        "fr": "Mets 9 heures et demie sur l'horloge en assiette et fais monter la grande aiguille jusqu'au 12.",
+        "ar": "لنضبط الساعة 9 والنصف على ساعة الصحن، ونحرّك العقرب الطويل حتى الـ12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "60 - 30",
+        "resultado": 30,
+        "unidad": "min",
+        "texto": {
+          "es": "Falta media hora, 30 minutos: de 9:30 a 10:00.",
+          "va": "Falta mitja hora, 30 minuts: de 9:30 a 10:00.",
+          "en": "Half an hour, 30 minutes: from 9:30 to 10:00.",
+          "fr": "Une demi-heure, 30 minutes : de 9:30 à 10:00.",
+          "ar": "بقي نصف ساعة، أي 30 دقيقة: من 9:30 إلى 10:00."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la hora a la que sales del cole.",
+        "va": "Inventa'n tu una altra amb l'hora a què ixes de l'escola.",
+        "en": "Make up another one with the time you come out of school.",
+        "fr": "Invente-en une autre avec l'heure à laquelle tu sors de l'école.",
+        "ar": "لنخترع سؤالًا آخر عن وقت خروجنا من المدرسة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 15,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Amaia mide la alfombra y le salen 5 pasos. Si la mide su abuelo, con pasos más largos, ¿le saldrán más o menos?",
+        "va": "Amaia mesura la catifa i li n'ixen 5 passos. Si la mesura son avi, amb passos més llargs, n'eixiran més o menys?",
+        "en": "Amaia measures the rug and gets 5 steps. If her grandad measures it, with longer steps, will he get more or fewer?",
+        "fr": "Amaia mesure le tapis et trouve 5 pas. Si son grand-père le mesure, avec des pas plus longs, en trouvera-t-il plus ou moins ?",
+        "ar": "تقيس أمايا السجّادة فتجدها 5 خطوات. إذا قاسها جدّها بخطوات أطول، هل سيجد خطوات أكثر أم أقل؟"
+      },
+      "pista": {
+        "es": "Mide una alfombra con pasos cortitos y luego con pasos largos.",
+        "va": "Mesura una catifa amb passos curtets i després amb passos llargs.",
+        "en": "Measure a rug with tiny steps and then with big steps.",
+        "fr": "Mesure un tapis avec des tout petits pas, puis avec des grands pas.",
+        "ar": "لنقِس سجّادة بخطوات قصيرة جدًا، ثم بخطوات طويلة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Menos: si cada paso es más largo, caben menos. Si duda, probadlo en casa con pasos de distintos tamaños.",
+          "va": "Menys: si cada pas és més llarg, n'hi caben menys. Si dubta, proveu-ho a casa amb passos de mides diferents.",
+          "en": "Fewer: if each step is longer, fewer fit. If they're unsure, try it at home with steps of different sizes.",
+          "fr": "Moins : si chaque pas est plus long, il en faut moins. En cas de doute, essayez à la maison avec des pas de tailles différentes.",
+          "ar": "أقل: إذا كانت كل خطوة أطول، تتّسع السجّادة لعدد أقل. إذا كان هناك تردّد، جرّبوا في البيت بخطوات بأطوال مختلفة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra midiendo la mesa con tu palmo y con el de otra persona.",
+        "va": "Inventa'n tu una altra mesurant la taula amb el teu pam (palmo) i amb el d'una altra persona.",
+        "en": "Make up another one, measuring the table with your hand span (palmo) and with someone else's.",
+        "fr": "Invente-en une autre en mesurant la table avec ton empan (palmo) et avec celui d'une autre personne.",
+        "ar": "لنخترع سؤالًا آخر نقيس فيه الطاولة بشبرنا (palmo) وبشبر شخص آخر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Enséñame en el reloj de plato a qué hora te levantas. ¿Cómo sabes dónde va cada aguja?",
+        "va": "Ensenya'm en el rellotge de plat a quina hora t'alces. Com saps on va cada agulla?",
+        "en": "Show me on the paper-plate clock what time you get up. How do you know where each hand goes?",
+        "fr": "Montre-moi sur l'horloge en assiette à quelle heure tu te lèves. Comment sais-tu où va chaque aiguille ?",
+        "ar": "لنُرِ على ساعة الصحن متى نستيقظ. كيف نعرف أين يوضع كل عقرب؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar, preguntad: «¿Qué aguja pones primero?»",
+        "va": "Si no sap per on començar, pregunteu: «Quina agulla poses primer?»",
+        "en": "If they don't know where to start, ask: “Which hand do you put first?”",
+        "fr": "S'il ou elle ne sait pas par où commencer, demandez : « Quelle aiguille tu mets en premier ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «أيّ عقرب نضع أولًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que sea la hora exacta: lo que importa es que explique dónde pone cada aguja. Si las cambia, preguntad cuál es la corta y qué marca.",
+          "va": "No cal que siga l'hora exacta: el que importa és que explique on posa cada agulla. Si les canvia, pregunteu quina és la curta i què marca.",
+          "en": "It doesn't need to be the exact time: what matters is explaining where each hand goes. If the hands get swapped, ask which one is the short one and what it shows.",
+          "fr": "Pas besoin que ce soit l'heure exacte : ce qui compte, c'est d'expliquer où va chaque aiguille. Si les aiguilles sont inversées, demandez laquelle est la petite et ce qu'elle montre.",
+          "ar": "لا يلزم أن يكون الوقت دقيقًا: المهمّ شرح مكان كل عقرب. وإذا تبادل العقربان مكانيهما، اسألوا: أيّهما القصير وعلامَ يدلّ؟"
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "05b9816b8363"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "05b9816b8363"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "05b9816b8363"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "05b9816b8363"
+      }
+    }
+  }
+}

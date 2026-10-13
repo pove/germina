@@ -1,0 +1,326 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s39",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 39,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Dibujar con líneas",
+    "va": "Dibuixar amb línies",
+    "en": "Drawing with lines",
+    "fr": "Dessiner avec des lignes",
+    "ar": "نرسم بالخطوط"
+  },
+  "objetivo": {
+    "es": "Esta semana buscan líneas rectas y curvas en casa y en la calle, y hacen dibujos con ellas. Descubren para qué sirve cada una.",
+    "va": "Aquesta setmana busquen línies rectes (línea recta) i corbes (línea curva) a casa i al carrer, i fan dibuixos amb elles. Descobrixen per a què servix cada una.",
+    "en": "This week they look for straight lines (línea recta) and curved lines (línea curva) at home and in the street, and make drawings with them. They find out what each one is useful for.",
+    "fr": "Cette semaine, on cherche des lignes droites (línea recta) et des lignes courbes (línea curva) à la maison et dans la rue, et on fait des dessins avec. On découvre à quoi sert chacune.",
+    "ar": "هذا الأسبوع يبحث الأطفال عن خطوط مستقيمة (línea recta) وخطوط منحنية (línea curva) في البيت وفي الشارع، ويرسمون بها. ويكتشفون فائدة كلّ منها."
+  },
+  "comoAyudar": {
+    "es": "Al pasear o cocinar, señalad juntos bordes rectos y curvos: la mesa, un plato, una farola. Si la regla se mueve, sujetadla vosotros mientras dibuja.",
+    "va": "En passejar o cuinar, assenyaleu junts vores rectes i corbes: la taula, un plat, un fanal. Si el regle es mou, subjecteu-lo vosaltres mentre dibuixa.",
+    "en": "When you're out for a walk or cooking, point out straight and curved edges together: the table, a plate, a lamp post. If the ruler slips, hold it while they draw.",
+    "fr": "En vous promenant ou en cuisinant, montrez ensemble des bords droits et courbes : la table, une assiette, un lampadaire. Si la règle glisse, tenez-la pendant qu'il ou elle dessine.",
+    "ar": "أثناء التنزّه أو الطبخ، أشيروا معًا إلى حوافّ مستقيمة ومنحنية: الطاولة، صحن، عمود إنارة. وإذا تحرّكت المسطرة، أمسكوها أنتم أثناء الرسم."
+  },
+  "saberes": [
+    "matematicas.geometria.lineas",
+    "matematicas.geometria.usos"
+  ],
+  "criterios": [
+    "matematicas.c1.7.3",
+    "matematicas.c1.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Arte de líneas",
+      "va": "Art de línies",
+      "en": "Line art",
+      "fr": "L'art des lignes",
+      "ar": "فنّ الخطوط"
+    },
+    "material": [
+      {
+        "es": "Dos hojas de papel y lápices o ceras de colores",
+        "va": "Dos fulls de paper i llapis o ceres de colors",
+        "en": "Two sheets of paper and pencils or crayons",
+        "fr": "Deux feuilles de papier et des crayons ou des craies grasses",
+        "ar": "ورقتان وأقلام رصاص أو أقلام شمع ملوّنة"
+      },
+      {
+        "es": "Una regla",
+        "va": "Un regle",
+        "en": "A ruler",
+        "fr": "Une règle",
+        "ar": "مسطرة"
+      },
+      {
+        "es": "Un trozo de cuerda o de lana, y tapas o vasos para rodear",
+        "va": "Un tros de corda o de llana, i tapes o gots per a resseguir",
+        "en": "A piece of string or wool, and lids or cups to draw round",
+        "fr": "Un bout de ficelle ou de laine, et des couvercles ou des verres pour faire le tour",
+        "ar": "قطعة خيط أو صوف، وأغطية أو أكواب نرسم حولها"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "regla",
+        "texto": {
+          "es": "En una hoja, haced un dibujo solo con líneas rectas, con ayuda de la regla: una casa, un cohete, un robot…",
+          "va": "En un full, feu un dibuix només amb línies rectes, amb ajuda del regle: una casa, un coet, un robot…",
+          "en": "On one sheet, make a drawing using only straight lines, with the help of the ruler: a house, a rocket, a robot…",
+          "fr": "Sur une feuille, faites un dessin seulement avec des lignes droites, à l'aide de la règle : une maison, une fusée, un robot…",
+          "ar": "على ورقة، ارسموا رسمًا بخطوط مستقيمة فقط، بمساعدة المسطرة: بيتًا، صاروخًا، روبوتًا…"
+        }
+      },
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "En la otra hoja, haced un dibujo solo con líneas curvas: rodead tapas o vasos, o dejad caer la cuerda y copiad su forma.",
+          "va": "En l'altre full, feu un dibuix només amb línies corbes: resseguiu tapes o gots, o deixeu caure la corda i copieu-ne la forma.",
+          "en": "On the other sheet, make a drawing using only curved lines: draw round lids or cups, or drop the string and copy its shape.",
+          "fr": "Sur l'autre feuille, faites un dessin seulement avec des lignes courbes : faites le tour de couvercles ou de verres, ou laissez tomber la ficelle et recopiez sa forme.",
+          "ar": "على الورقة الأخرى، ارسموا رسمًا بخطوط منحنية فقط: ارسموا حول الأغطية أو الأكواب، أو أسقطوا الخيط وانقلوا شكله."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Poned los dos dibujos juntos. ¿Cuál ha costado más? ¿Qué cosas de casa tienen líneas rectas? ¿Y curvas?",
+          "va": "Poseu els dos dibuixos junts. Quin ha costat més? Quines coses de casa tenen línies rectes? I corbes?",
+          "en": "Put the two drawings side by side. Which one was harder? What things at home have straight lines? And curved ones?",
+          "fr": "Mettez les deux dessins côte à côte. Lequel a été le plus difficile ? Quelles choses de la maison ont des lignes droites ? Et des courbes ?",
+          "ar": "ضعوا الرسمين جنبًا إلى جنب. أيّهما كان أصعب؟ ما الأشياء في البيت التي فيها خطوط مستقيمة؟ ومنحنية؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Dibujad a mano, sin regla, y solo una cosa en cada hoja: una escalera y una ola.",
+      "va": "Dibuixeu a mà, sense regle, i només una cosa en cada full: una escala i una ona.",
+      "en": "Draw by hand, without a ruler, and just one thing on each sheet: a ladder and a wave.",
+      "fr": "Dessinez à main levée, sans règle, et une seule chose par feuille : une échelle et une vague.",
+      "ar": "ارسموا باليد، من دون مسطرة، وشيئًا واحدًا فقط على كل ورقة: سلّمًا وموجة."
+    },
+    "masDificil": {
+      "es": "Haced un tercer dibujo que mezcle rectas y curvas, y contad cuántas líneas rectas habéis usado.",
+      "va": "Feu un tercer dibuix que barreje rectes i corbes, i compteu quantes línies rectes heu fet servir.",
+      "en": "Make a third drawing that mixes straight and curved lines, and count how many straight lines you used.",
+      "fr": "Faites un troisième dessin qui mélange droites et courbes, et comptez combien de lignes droites vous avez utilisées.",
+      "ar": "ارسموا رسمًا ثالثًا يمزج بين الخطوط المستقيمة والمنحنية، وعدّوا كم خطًا مستقيمًا استعملتم."
+    },
+    "paraQueSirve": {
+      "es": "Las rectas sirven para construir cosas firmes, como estanterías y puertas; las curvas, para cosas que ruedan o se cogen bien, como ruedas y tazas.",
+      "va": "Les rectes servixen per a construir coses fermes, com prestatgeries i portes; les corbes, per a coses que roden o s'agafen bé, com rodes i tasses.",
+      "en": "Straight lines are useful for building sturdy things, like shelves and doors; curves are for things that roll or are easy to hold, like wheels and mugs.",
+      "fr": "Les droites servent à construire des choses solides, comme des étagères et des portes ; les courbes, pour des choses qui roulent ou qu'on tient bien, comme des roues et des tasses.",
+      "ar": "الخطوط المستقيمة تفيد في بناء أشياء ثابتة، مثل الرفوف والأبواب؛ والمنحنية في أشياء تتدحرج أو يسهل إمساكها، مثل العجلات والأكواب."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Mira la puerta de tu casa. ¿Sus bordes son líneas rectas o curvas?",
+        "va": "Mira la porta de casa teua. Les seues vores són línies rectes o corbes?",
+        "en": "Look at the door of your home. Are its edges straight lines or curved lines?",
+        "fr": "Regarde la porte de ta maison. Ses bords sont-ils des lignes droites ou courbes ?",
+        "ar": "لننظر إلى باب بيتنا. هل حوافّه خطوط مستقيمة أم منحنية؟"
+      },
+      "pista": {
+        "es": "Pasa el dedo por el borde y fíjate si se tuerce.",
+        "va": "Passa el dit per la vora i fixa't si es torç.",
+        "en": "Run your finger along the edge and notice whether it bends.",
+        "fr": "Passe le doigt le long du bord et regarde s'il tourne.",
+        "ar": "لنمرّر الإصبع على الحافّة ونلاحظ هل تنحني."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Casi todas las puertas tienen bordes rectos. Si la vuestra tiene un arco arriba, ¡también hay una curva!",
+          "va": "Quasi totes les portes tenen vores rectes. Si la vostra té un arc dalt, també hi ha una corba!",
+          "en": "Almost all doors have straight edges. If yours has an arch at the top, there's a curve too!",
+          "fr": "Presque toutes les portes ont des bords droits. Si la vôtre a un arc en haut, il y a aussi une courbe !",
+          "ar": "لمعظم الأبواب حوافّ مستقيمة. وإذا كان في أعلى بابكم قوس، ففيه منحنٍ أيضًا!"
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pregunta con un mueble de tu casa.",
+        "va": "Inventa tu una altra pregunta amb un moble de casa teua.",
+        "en": "Make up another question about a piece of furniture in your home.",
+        "fr": "Invente une autre question avec un meuble de ta maison.",
+        "ar": "لنخترع سؤالًا آخر عن قطعة أثاث في بيتنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Busca en la cocina una cosa con una línea curva. ¿Qué has encontrado?",
+        "va": "Busca en la cuina una cosa amb una línia corba. Què has trobat?",
+        "en": "Look in the kitchen for something with a curved line. What did you find?",
+        "fr": "Cherche dans la cuisine quelque chose avec une ligne courbe. Qu'as-tu trouvé ?",
+        "ar": "لنبحث في المطبخ عن شيء فيه خط منحنٍ. ماذا وجدنا؟"
+      },
+      "pista": {
+        "es": "Mira las cosas que son redondas.",
+        "va": "Mira les coses que són redones.",
+        "en": "Look at the things that are round.",
+        "fr": "Regarde les choses qui sont rondes.",
+        "ar": "لننظر إلى الأشياء المستديرة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale cualquier cosa con un borde curvo: un plato, un vaso, una naranja, el asa de una taza.",
+          "va": "Val qualsevol cosa amb una vora corba: un plat, un got, una taronja, l'ansa d'una tassa.",
+          "en": "Anything with a curved edge works: a plate, a glass, an orange, the handle of a mug.",
+          "fr": "Tout objet avec un bord courbe convient : une assiette, un verre, une orange, l'anse d'une tasse.",
+          "ar": "يصلح أيّ شيء له حافّة منحنية: صحن، كوب، برتقالة، مقبض فنجان."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una búsqueda de líneas rectas en otra habitación.",
+        "va": "Inventa tu una busca de línies rectes en una altra habitació.",
+        "en": "Make up a hunt for straight lines in another room.",
+        "fr": "Invente une chasse aux lignes droites dans une autre pièce.",
+        "ar": "لنخترع بحثًا عن خطوط مستقيمة في غرفة أخرى."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Dibuja en el aire con el dedo una línea recta y luego una curva. ¿En qué se diferencian?",
+        "va": "Dibuixa en l'aire amb el dit una línia recta i després una corba. En què es diferencien?",
+        "en": "Draw a straight line in the air with your finger, and then a curved one. How are they different?",
+        "fr": "Dessine dans l'air avec ton doigt une ligne droite, puis une courbe. En quoi sont-elles différentes ?",
+        "ar": "لنرسم في الهواء بالإصبع خطًا مستقيمًا ثم خطًا منحنيًا. ما الفرق بينهما؟"
+      },
+      "pista": {
+        "es": "Fíjate en si tu dedo cambia de dirección o va siempre hacia el mismo sitio.",
+        "va": "Fixa't si el teu dit canvia de direcció o va sempre cap al mateix lloc.",
+        "en": "Notice whether your finger changes direction or always goes the same way.",
+        "fr": "Regarde si ton doigt change de direction ou va toujours du même côté.",
+        "ar": "لنلاحظ هل يغيّر الإصبع اتجاهه أم يذهب دائمًا في الاتجاه نفسه."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La recta va siempre en la misma dirección, sin torcerse; la curva se va doblando. Cualquier forma de decirlo vale.",
+          "va": "La recta va sempre en la mateixa direcció, sense torçar-se; la corba es va doblegant. Qualsevol manera de dir-ho val.",
+          "en": "The straight line always goes the same way, without bending; the curved one keeps bending. Any way of saying it works.",
+          "fr": "La droite va toujours dans la même direction, sans tourner ; la courbe tourne petit à petit. Toutes les façons de le dire conviennent.",
+          "ar": "الخط المستقيم يسير دائمًا في الاتجاه نفسه من دون أن ينحني؛ والمنحني ينحني شيئًا فشيئًا. كل طريقة لقول ذلك تصلح."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una línea que sea un poco recta y un poco curva, y dibújala en el aire.",
+        "va": "Inventa tu una línia que siga un poc recta i un poc corba, i dibuixa-la en l'aire.",
+        "en": "Make up a line that's a bit straight and a bit curved, and draw it in the air.",
+        "fr": "Invente une ligne un peu droite et un peu courbe, et dessine-la dans l'air.",
+        "ar": "لنخترع خطًا فيه جزء مستقيم وجزء منحنٍ، ونرسمه في الهواء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 27,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: dibujas un triángulo y un cuadrado. ¿Cuántos lados has dibujado en total?",
+        "va": "Per a recordar: dibuixes un triangle i un quadrat. Quants costats (lados) has dibuixat en total?",
+        "en": "Let's remember: you draw a triangle and a square. How many sides (lados) have you drawn altogether?",
+        "fr": "Pour se souvenir : tu dessines un triangle et un carré. Combien de côtés (lados) as-tu dessinés en tout ?",
+        "ar": "لنتذكّر: نرسم مثلّثًا ومربّعًا. كم ضلعًا (lados) رسمنا في المجموع؟"
+      },
+      "pista": {
+        "es": "Dibújalos en el aire y cuenta cada lado con un dedo.",
+        "va": "Dibuixa'ls en l'aire i compta cada costat amb un dit.",
+        "en": "Draw them in the air and count each side on a finger.",
+        "fr": "Dessine-les dans l'air et compte chaque côté avec un doigt.",
+        "ar": "لنرسمهما في الهواء ونعدّ كل ضلع بإصبع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 4",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "{{3 + 4 = 7}}: has dibujado 7 lados, todos rectos.",
+          "va": "{{3 + 4 = 7}}: has dibuixat 7 costats, tots rectes.",
+          "en": "{{3 + 4 = 7}}: you've drawn 7 sides, all straight.",
+          "fr": "{{3 + 4 = 7}} : tu as dessiné 7 côtés, tous droits.",
+          "ar": "{{3 + 4 = 7}}: رسمنا 7 أضلاع، كلها مستقيمة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un rectángulo y un triángulo.",
+        "va": "Inventa tu una altra amb un rectangle i un triangle.",
+        "en": "Make up another one with a rectangle and a triangle.",
+        "fr": "Invente-en une autre avec un rectangle et un triangle.",
+        "ar": "لنخترع سؤالًا آخر بمستطيل ومثلّث."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo has hecho tu dibujo de curvas. ¿Qué has usado para que salgan redondas?",
+        "va": "Explica'm com has fet el teu dibuix de corbes. Què has fet servir perquè isquen redones?",
+        "en": "Explain to me how you made your curvy drawing. What did you use to make them come out round?",
+        "fr": "Explique-moi comment tu as fait ton dessin de courbes. Qu'as-tu utilisé pour qu'elles soient bien rondes ?",
+        "ar": "لنشرح كيف رسمنا رسم المنحنيات. ماذا استعملنا لتخرج مستديرة؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué fue más fácil, la regla o la tapa, y por qué?»",
+        "va": "Si no sap per on començar: «Què va ser més fàcil, el regle o la tapa, i per què?»",
+        "en": "If they don't know where to start: “What was easier, the ruler or the lid, and why?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce qui était le plus facile, la règle ou le couvercle, et pourquoi ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ما الأسهل، المسطرة أم الغطاء، ولماذا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "54bed9449162"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "54bed9449162"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "54bed9449162"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "54bed9449162"
+      }
+    }
+  }
+}

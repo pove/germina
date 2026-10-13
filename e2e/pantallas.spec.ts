@@ -30,7 +30,7 @@ for (const idioma of IDIOMAS) {
       expect(guardados).toMatchObject({ v: 1, cursos: [CURSO_3], cursoActivo: CURSO_3, ultimoAnoCurso: 2026 });
     });
 
-    test('bienvenida con 1.º → su semana actual, con la semilla en camino', async ({ page }) => {
+    test('bienvenida con 1.º → su semana actual', async ({ page }) => {
       await preparar(page);
       await page.goto('./');
       for (const curso of ['curso.1', 'curso.2', 'curso.3', 'curso.4']) {
@@ -40,8 +40,8 @@ for (const idioma of IDIOMAS) {
       await page.getByRole('button', { name: T('bienvenida.empezar', idioma), exact: true }).click();
 
       await expect(page).toHaveURL(/#\/1\/matematicas\/1\/semana\/7$/);
-      await expect(page.getByRole('heading', { level: 1 })).toContainText('Paquetes de 10'); // título del mapa
-      await expect(page.getByText(T('semana.en_camino', idioma))).toBeVisible();
+      await expect(page.getByRole('heading', { level: 1 })).toContainText(idioma === 'ar' ? 'رزم من 10' : 'Paquetes de 10');
+      await expect(page.getByText(T('semana.en_camino', idioma))).toHaveCount(0);
       expect(await guardado(page)).toMatchObject({ cursos: [CURSO_1], cursoActivo: CURSO_1 });
       await sinProblemasDeAccesibilidad(page);
 
@@ -405,7 +405,8 @@ test.describe('rutas', () => {
 
 test.describe('cronómetro y récord', () => {
   async function conRapidez(page: Page): Promise<void> {
-    await page.route('**/contenido/ciclo-2/matematicas/3/semana-07.json', async (ruta) => {
+    // La semilla se pide con su huella (`?v=…`).
+    await page.route(/\/contenido\/ciclo-2\/matematicas\/3\/semana-07\.json(\?|$)/, async (ruta) => {
       const respuesta = await ruta.fetch();
       const semilla = await respuesta.json();
       semilla.reto.rapidez = { segundos: 60, seCuenta: { es: 'aciertos', va: 'encerts', en: 'hits', fr: 'réussites', ar: 'إجابات' } };

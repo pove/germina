@@ -1,0 +1,334 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s23",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 23,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Repartir a partes iguales",
+    "va": "Repartir a parts iguals",
+    "en": "Sharing out equally",
+    "fr": "Partager en parts égales",
+    "ar": "التوزيع بالتساوي"
+  },
+  "objetivo": {
+    "es": "Esta semana reparten cosas para que a cada persona le toque lo mismo, de una en una. A veces el reparto sale justo y a veces sobra algo.",
+    "va": "Aquesta setmana repartixen coses perquè a cada persona li toque el mateix, d'una en una. A vegades el repartiment ix just i a vegades en sobra alguna.",
+    "en": "This week they share things out (repartir) so that everyone gets the same, one at a time. Sometimes it comes out exactly and sometimes there is something left over.",
+    "fr": "Cette semaine, on partage (repartir) des choses pour que chaque personne en ait autant, une par une. Parfois le partage tombe juste et parfois il en reste.",
+    "ar": "هذا الأسبوع يوزّع الأطفال (repartir) أشياء حتى يحصل كل شخص على العدد نفسه، واحدًا واحدًا. أحيانًا يكون التوزيع تامًّا، وأحيانًا يبقى شيء."
+  },
+  "comoAyudar": {
+    "es": "Dejad que reparta con las manos, de una en una, aunque tarde. Si sobra alguna, preguntad: «¿Le podemos dar una más a cada persona?».",
+    "va": "Deixeu que repartisca amb les mans, d'una en una, encara que tarde. Si en sobra alguna, pregunteu: «Li podem donar una més a cada persona?».",
+    "en": "Let them share things out by hand, one at a time, even if it takes a while. If some are left over, ask: “Can we give everyone one more?”",
+    "fr": "Laissez votre enfant partager avec les mains, une par une, même si cela prend du temps. S'il en reste, demandez : « Est-ce qu'on peut en donner une de plus à chaque personne ? »",
+    "ar": "دعوا التوزيع يكون باليدين، واحدًا واحدًا، حتى لو أخذ وقتًا. وإذا بقي شيء، اسألوا: «هل نستطيع أن نعطي كل شخص واحدًا آخر؟»"
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.1.2",
+    "matematicas.c1.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Repartir la merienda",
+      "va": "Repartir el berenar",
+      "en": "Sharing out the snack",
+      "fr": "Partager le goûter",
+      "ar": "توزيع وجبة العصر"
+    },
+    "material": [
+      {
+        "es": "Galletas pequeñas, gajos de mandarina o palomitas: entre 10 y 20",
+        "va": "Galetes menudes, grills de mandarina o palomites: entre 10 i 20",
+        "en": "Small biscuits, mandarin segments or popcorn: between 10 and 20",
+        "fr": "Des petits biscuits, des quartiers de mandarine ou du pop-corn : entre 10 et 20",
+        "ar": "بسكويت صغير أو فصوص يوسفي أو فشار: بين 10 و20 قطعة"
+      },
+      {
+        "es": "Un plato para cada persona",
+        "va": "Un plat per a cada persona",
+        "en": "A plate for each person",
+        "fr": "Une assiette par personne",
+        "ar": "صحن لكل شخص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "galleta",
+        "texto": {
+          "es": "Contad la merienda que tenéis: por ejemplo, 12 galletas. Poned un plato para cada persona que va a merendar.",
+          "va": "Compteu el berenar que teniu: per exemple, 12 galetes. Poseu un plat per a cada persona que berenarà.",
+          "en": "Count the snack you have: for example, 12 biscuits. Put out a plate for each person who is having the snack.",
+          "fr": "Comptez le goûter que vous avez : par exemple, 12 biscuits. Mettez une assiette pour chaque personne qui va goûter.",
+          "ar": "عدّوا ما عندكم من الطعام: مثلًا 12 بسكويتة. ضعوا صحنًا لكل شخص سيأكل."
+        }
+      },
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Repartid de una en una, plato por plato: una para ti, una para mí, una para la abuela… y otra vuelta.",
+          "va": "Repartiu d'una en una, plat per plat: una per a tu, una per a mi, una per a l'àvia… i una altra volta.",
+          "en": "Share them out one at a time, plate by plate: one for you, one for me, one for Grandma… and round again.",
+          "fr": "Distribuez une par une, assiette par assiette : une pour toi, une pour moi, une pour mamie… et on refait un tour.",
+          "ar": "وزّعوا واحدة واحدة، صحنًا بعد صحن: واحدة لك، وواحدة لي، وواحدة للجدّة… ثم دورة أخرى."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Parad cuando no llegue para todos. ¿Cuántas hay en cada plato? ¿Sobra alguna?",
+          "va": "Pareu quan no n'hi haja per a tots. Quantes n'hi ha en cada plat? En sobra alguna?",
+          "en": "Stop when there aren't enough for everyone. How many are on each plate? Are any left over?",
+          "fr": "Arrêtez-vous quand il n'y en a plus assez pour tout le monde. Combien y en a-t-il dans chaque assiette ? Est-ce qu'il en reste ?",
+          "ar": "توقّفوا عندما لا يكفي ما بقي للجميع. كم قطعة في كل صحن؟ هل بقي شيء؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad los platos con una rayita por galleta. Probad otra vez con una persona más o con 15 galletas.",
+          "va": "Dibuixeu els plats amb una ratlleta per galeta. Torneu-ho a intentar amb una persona més o amb 15 galetes.",
+          "en": "Draw the plates with a little line for each biscuit. Try again with one more person or with 15 biscuits.",
+          "fr": "Dessinez les assiettes avec un petit trait par biscuit. Recommencez avec une personne de plus ou avec 15 biscuits.",
+          "ar": "ارسموا الصحون مع خط صغير لكل بسكويتة. جرّبوا مرة أخرى مع شخص إضافي أو مع 15 بسكويتة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Repartid solo entre 2 personas y empezad con 6 u 8 galletas.",
+      "va": "Repartiu només entre 2 persones i comenceu amb 6 o 8 galetes.",
+      "en": "Share between just 2 people and start with 6 or 8 biscuits.",
+      "fr": "Partagez seulement entre 2 personnes et commencez avec 6 ou 8 biscuits.",
+      "ar": "وزّعوا بين شخصين فقط، وابدؤوا بـ6 أو 8 بسكويتات."
+    },
+    "masDificil": {
+      "es": "Antes de repartir, adivinad cuántas tocarán a cada persona y si sobrará alguna. Después, comprobadlo.",
+      "va": "Abans de repartir, endevineu quantes en tocaran a cada persona i si en sobrarà alguna. Després, comproveu-ho.",
+      "en": "Before sharing out, guess how many each person will get and whether any will be left over. Then check.",
+      "fr": "Avant de partager, devinez combien chaque personne en aura et s'il en restera. Ensuite, vérifiez.",
+      "ar": "قبل التوزيع، خمّنوا كم قطعة سيحصل عليها كل شخص، وهل سيبقى شيء. ثم تحقّقوا."
+    },
+    "paraQueSirve": {
+      "es": "Repartir a partes iguales, contando, es el primer paso para entender la división que llegará en cursos siguientes.",
+      "va": "Repartir a parts iguals, comptant, és el primer pas per a entendre la divisió que arribarà en cursos següents.",
+      "en": "Sharing out equally by counting is the first step towards understanding division (división), which comes in later years.",
+      "fr": "Partager en parts égales en comptant, c'est le premier pas pour comprendre la division (división), qui viendra dans les classes suivantes.",
+      "ar": "التوزيع بالتساوي بالعدّ هو الخطوة الأولى لفهم القسمة (división) التي ستأتي في السنوات التالية."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Tienes 12 pinzas y 3 cajas. Si pones las mismas en cada caja, ¿cuántas van en cada una?",
+        "va": "Tens 12 pinces i 3 caixes. Si poses les mateixes en cada caixa, quantes en van en cada una?",
+        "en": "You have 12 pegs and 3 boxes. If you put the same number in each box, how many go in each one?",
+        "fr": "Tu as 12 pinces et 3 boîtes. Si tu en mets autant dans chaque boîte, combien vont dans chacune ?",
+        "ar": "عندنا 12 ملقطًا و3 علب. إذا وضعنا العدد نفسه في كل علبة، فكم ملقطًا في كل واحدة؟"
+      },
+      "pista": {
+        "es": "Pon una pinza en cada caja, por turnos, hasta que no quede ninguna.",
+        "va": "Posa una pinça en cada caixa, per torns, fins que no en quede cap.",
+        "en": "Put one peg in each box, taking turns, until there are none left.",
+        "fr": "Mets une pince dans chaque boîte, à tour de rôle, jusqu'à ce qu'il n'en reste plus.",
+        "ar": "لنضع ملقطًا في كل علبة بالدور، حتى لا يبقى أي ملقط."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 4 - 4",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 4 en cada caja: {{4 + 4 + 4 = 12}}.",
+          "va": "En van 4 en cada caixa: {{4 + 4 + 4 = 12}}.",
+          "en": "There are 4 in each box: {{4 + 4 + 4 = 12}}.",
+          "fr": "Il y en a 4 dans chaque boîte : {{4 + 4 + 4 = 12}}.",
+          "ar": "في كل علبة 4 ملاقط: {{4 + 4 + 4 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra repartiendo calcetines entre los cajones de casa.",
+        "va": "Inventa'n tu una altra repartint calcetins entre els calaixos de casa.",
+        "en": "Now you make one up, sharing out socks between the drawers at home.",
+        "fr": "Invente-en une autre en partageant des chaussettes entre les tiroirs de la maison.",
+        "ar": "لنخترع سؤالًا آخر نوزّع فيه جوارب على أدراج البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Aisha y su hermano tienen 13 fresas. Si las reparten a partes iguales, ¿cuántas tocan a cada uno? ¿Sobra alguna?",
+        "va": "Aisha i el seu germà tenen 13 maduixes. Si les repartixen a parts iguals, quantes en toquen a cada u? En sobra alguna?",
+        "en": "Aisha and her brother have 13 strawberries. If they share them out equally, how many does each get? Are any left over?",
+        "fr": "Aisha et son frère ont 13 fraises. S'ils les partagent en parts égales, combien chacun en a-t-il ? Est-ce qu'il en reste ?",
+        "ar": "عند عائشة وأخيها 13 حبة فراولة. إذا وزّعاها بالتساوي، فكم حبة لكل واحد؟ هل يبقى شيء؟"
+      },
+      "pista": {
+        "es": "Haz 13 rayitas y ve tachando de dos en dos: una para cada uno.",
+        "va": "Fes 13 ratlletes i ves ratllant-les de dos en dos: una per a cada u.",
+        "en": "Draw 13 little lines and cross them off two at a time: one for each of them.",
+        "fr": "Fais 13 petits traits et barre-les deux par deux : un pour chacun.",
+        "ar": "لنرسم 13 خطًّا صغيرًا ونشطبها اثنين اثنين: واحد لكل منهما."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "13 - 6 - 1",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tocan 6 fresas a cada uno y sobra 1: {{6 + 6 + 1 = 13}}.",
+          "va": "En toquen 6 a cada u i en sobra 1: {{6 + 6 + 1 = 13}}.",
+          "en": "They get 6 strawberries each and 1 is left over: {{6 + 6 + 1 = 13}}.",
+          "fr": "Chacun a 6 fraises et il en reste 1 : {{6 + 6 + 1 = 13}}.",
+          "ar": "لكل واحد 6 حبات وتبقى حبة واحدة: {{6 + 6 + 1 = 13}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una donde sobre algo, y piensa qué haríais con lo que sobra.",
+        "va": "Inventa'n tu una on sobre alguna cosa, i pensa què faríeu amb el que sobra.",
+        "en": "Make one up where something is left over, and think about what you would do with it.",
+        "fr": "Invente une question où il reste quelque chose, et réfléchis à ce que vous feriez avec ce qui reste.",
+        "ar": "لنخترع سؤالًا يبقى فيه شيء، ونفكّر ماذا نفعل بما بقي."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Wei tiene 15 cromos y los guarda en sobres de 5. ¿Cuántos sobres llena?",
+        "va": "Wei té 15 cromos i els guarda en sobres de 5. Quants sobres ompli?",
+        "en": "Wei has 15 stickers and keeps them in envelopes of 5. How many envelopes does he fill?",
+        "fr": "Wei a 15 images et les range dans des enveloppes de 5. Combien d'enveloppes remplit-il ?",
+        "ar": "عند وي 15 بطاقة ويضعها في أظرف، في كل ظرف 5. كم ظرفًا يملأ؟"
+      },
+      "pista": {
+        "es": "Cuenta de 5 en 5 con los dedos hasta llegar a 15.",
+        "va": "Compta de 5 en 5 amb els dits fins a arribar a 15.",
+        "en": "Count in 5s on your fingers until you get to 15.",
+        "fr": "Compte de 5 en 5 sur tes doigts jusqu'à 15.",
+        "ar": "لنعدّ خمسة خمسة بالأصابع حتى نصل إلى 15."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Llena 3 sobres: {{5 + 5 + 5 = 15}}.",
+          "va": "Ompli 3 sobres: {{5 + 5 + 5 = 15}}.",
+          "en": "He fills 3 envelopes: {{5 + 5 + 5 = 15}}.",
+          "fr": "Il remplit 3 enveloppes : {{5 + 5 + 5 = 15}}.",
+          "ar": "يملأ 3 أظرف: {{5 + 5 + 5 = 15}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra haciendo montones iguales con tus juguetes.",
+        "va": "Inventa'n tu una altra fent muntons iguals amb els teus joguets.",
+        "en": "Make up another one by making equal piles with your toys.",
+        "fr": "Invente-en une autre en faisant des tas égaux avec tes jouets.",
+        "ar": "لنخترع سؤالًا آخر نصنع فيه أكوامًا متساوية من الألعاب."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar las monedas y los billetes: quieres pagar 35 € justos con billetes de 10 y de 5. ¿Qué billetes das?",
+        "va": "Per a recordar les monedes i els bitllets: vols pagar 35 € justos amb bitllets de 10 i de 5. Quins bitllets dones?",
+        "en": "Let's remember coins and notes: you want to pay exactly 35 € with 10 € and 5 € notes (billetes). Which notes do you give?",
+        "fr": "Pour se souvenir des pièces et des billets : tu veux payer 35 € tout juste avec des billets de 10 et de 5. Quels billets donnes-tu ?",
+        "ar": "لنتذكّر القطع النقدية والأوراق النقدية (billetes): نريد أن ندفع 35 € تمامًا بأوراق من فئة 10 و5. أيّ أوراق ندفع؟"
+      },
+      "pista": {
+        "es": "Ve juntando billetes de 10 mientras no te pases, y luego mira cuánto falta.",
+        "va": "Ves ajuntant bitllets de 10 mentre no et passes, i després mira quant falta.",
+        "en": "Keep adding 10 € notes as long as you don't go over, then see how much is still missing.",
+        "fr": "Ajoute des billets de 10 tant que tu ne dépasses pas, puis regarde combien il manque.",
+        "ar": "لنجمع أوراق 10 ما دمنا لم نتجاوز المبلغ، ثم نرى كم ينقص."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 10 + 5",
+        "resultado": 35,
+        "unidad": "euros",
+        "texto": {
+          "es": "Tres billetes de 10 € y uno de 5 €: {{10 + 10 + 10 + 5 = 35}}. También vale con más billetes de 5 €.",
+          "va": "Tres bitllets de 10 € i un de 5 €: {{10 + 10 + 10 + 5 = 35}}. També val amb més bitllets de 5 €.",
+          "en": "Three 10 € notes and one 5 € note: {{10 + 10 + 10 + 5 = 35}}. Using more 5 € notes works too.",
+          "fr": "Trois billets de 10 € et un de 5 € : {{10 + 10 + 10 + 5 = 35}}. Avec plus de billets de 5 €, ça marche aussi.",
+          "ar": "ثلاث أوراق من فئة 10 € وورقة من فئة 5 €: {{10 + 10 + 10 + 5 = 35}}. ويصحّ أيضًا بأوراق أكثر من فئة 5 €."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un precio que se pueda pagar justo.",
+        "va": "Inventa'n tu una altra amb un preu que es puga pagar just.",
+        "en": "Make up another one with a price that can be paid exactly.",
+        "fr": "Invente-en une autre avec un prix qu'on peut payer tout juste.",
+        "ar": "لنخترع سؤالًا آخر بسعر يمكن دفعه تمامًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes que un reparto es justo? Enséñamelo repartiendo cosas de casa.",
+        "va": "Com saps que un repartiment és just? Ensenya-m'ho repartint coses de casa.",
+        "en": "How do you know a share-out is fair? Show me by sharing out things from home.",
+        "fr": "Comment sais-tu qu'un partage est juste ? Montre-le-moi en partageant des choses de la maison.",
+        "ar": "كيف نعرف أن التوزيع عادل؟ لنُرِ ذلك بتوزيع أشياء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si yo tengo 3 y tú tienes 4, ¿es justo? ¿Qué haríamos?».",
+        "va": "Si no sap per on començar: «Si jo en tinc 3 i tu en tens 4, és just? Què faríem?».",
+        "en": "If they don't know where to start: “If I have 3 and you have 4, is that fair? What would we do?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si j'en ai 3 et toi 4, est-ce juste ? Qu'est-ce qu'on ferait ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كان عندي 3 وعندك 4، هل هذا عادل؟ ماذا نفعل؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que cuenta lo de cada plato o que pone los montones uno al lado del otro. Escuchad, preguntad «¿y si sobra una?» y dad las gracias por la explicación.",
+          "va": "Pot dir que compta el que hi ha en cada plat o que posa els muntons l'un al costat de l'altre. Escolteu, pregunteu «i si en sobra una?» i doneu les gràcies per l'explicació.",
+          "en": "They might say they count what is on each plate or put the piles side by side. Listen, ask “And if one is left over?” and say thank you for the explanation.",
+          "fr": "Votre enfant peut dire qu'il ou elle compte ce qu'il y a dans chaque assiette ou qu'il ou elle met les tas côte à côte. Écoutez, demandez « Et s'il en reste une ? » et dites merci pour l'explication.",
+          "ar": "قد يكون الجواب أننا نعدّ ما في كل صحن، أو نضع الأكوام جنبًا إلى جنب. استمعوا، واسألوا «وإذا بقيت واحدة؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "59cdfa9d1a4a"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "59cdfa9d1a4a"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "59cdfa9d1a4a"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "59cdfa9d1a4a"
+      }
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s23",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 23,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Grupos iguales",
+    "va": "Grups iguals",
+    "en": "Equal groups",
+    "fr": "Des groupes égaux",
+    "ar": "مجموعات متساوية"
+  },
+  "objetivo": {
+    "es": "Esta semana reparten cosas entre varias personas, de una en una, y miran si a todas les toca lo mismo. También hacen grupos iguales y los cuentan.",
+    "va": "Aquesta setmana repartixen coses entre diverses persones, d'una en una, i miren si a totes els toca el mateix. També fan grups iguals i els compten.",
+    "en": "This week they share out (repartir) things between several people, one at a time, and see whether everyone gets the same. They also make equal groups and count them.",
+    "fr": "Cette semaine, on partage (repartir) des choses entre plusieurs personnes, une par une, et on regarde si chacune en reçoit autant. On fait aussi des groupes égaux et on les compte.",
+    "ar": "هذا الأسبوع يوزّع (repartir) الأطفال أشياء على عدة أشخاص، واحدًا واحدًا، وينظرون هل حصل الجميع على العدد نفسه. ويصنعون أيضًا مجموعات متساوية ويعدّونها."
+  },
+  "comoAyudar": {
+    "es": "Repartid de verdad, con cartas o con galletas, y contad juntos lo que tiene cada persona. Si sobra alguna, decid «sobra una» y seguid jugando.",
+    "va": "Repartiu de veritat, amb cartes o amb galetes, i compteu junts el que té cada persona. Si en sobra alguna, digueu «en sobra una» i seguiu jugant.",
+    "en": "Share things out for real, with cards or biscuits, and count together what each person has. If one is left over, say “one left over” and keep playing.",
+    "fr": "Partagez pour de vrai, avec des cartes ou des biscuits, et comptez ensemble ce que chaque personne a. S'il en reste une, dites « il en reste une » et continuez à jouer.",
+    "ar": "وزّعوا أشياء حقيقية، مثل الأوراق أو البسكويت، وعدّوا معًا ما عند كل شخص. إذا بقي شيء زائد، قولوا «بقي واحد» واستمرّوا في اللعب."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.operaciones.igualdad"
+  ],
+  "criterios": [
+    "matematicas.c1.3.2",
+    "matematicas.c1.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Repartir las cartas",
+      "va": "Repartir les cartes",
+      "en": "Dealing the cards",
+      "fr": "Distribuer les cartes",
+      "ar": "توزيع الأوراق"
+    },
+    "material": [
+      {
+        "es": "12 cartas de una baraja, o 12 cosas iguales (pinzas, cucharas…)",
+        "va": "12 cartes d'una baralla, o 12 coses iguals (pinces, culleres…)",
+        "en": "12 cards from a deck, or 12 things that are the same (pegs, spoons…)",
+        "fr": "12 cartes d'un jeu, ou 12 choses pareilles (pinces, cuillères…)",
+        "ar": "12 ورقة من أوراق اللعب، أو 12 شيئًا متشابهًا (ملاقط، ملاعق…)"
+      },
+      {
+        "es": "Peluches o muñecos, si sois menos de 4 personas",
+        "va": "Peluixos o ninots, si sou menys de 4 persones",
+        "en": "Soft toys or dolls, if there are fewer than 4 of you",
+        "fr": "Des peluches ou des poupées, si vous êtes moins de 4",
+        "ar": "دمى أو ألعاب محشوّة، إذا كان عددكم أقل من 4 أشخاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Repartid las 12 cartas entre 2 personas, de una en una: una para ti, una para mí…",
+          "va": "Repartiu les 12 cartes entre 2 persones, d'una en una: una per a tu, una per a mi…",
+          "en": "Deal the 12 cards between 2 people, one at a time: one for you, one for me…",
+          "fr": "Distribuez les 12 cartes entre 2 personnes, une par une : une pour toi, une pour moi…",
+          "ar": "وزّعوا الأوراق الـ12 على شخصين، ورقة ورقة: واحدة لك، وواحدة لي…"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad las cartas de cada montón. ¿A las dos os ha tocado lo mismo?",
+          "va": "Compteu les cartes de cada pila. Us n'ha tocat el mateix a les dues?",
+          "en": "Count the cards in each pile. Did you both get the same number?",
+          "fr": "Comptez les cartes de chaque tas. En avez-vous reçu autant toutes les deux ?",
+          "ar": "عدّوا الأوراق في كل كومة. هل حصل كلٌّ منكما على العدد نفسه؟"
+        }
+      },
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Juntad las 12 cartas otra vez y repartidlas entre 3 personas. Después, entre 4.",
+          "va": "Ajunteu les 12 cartes una altra vegada i repartiu-les entre 3 persones. Després, entre 4.",
+          "en": "Put the 12 cards together again and deal them between 3 people. Then between 4.",
+          "fr": "Rassemblez les 12 cartes et distribuez-les entre 3 personnes. Ensuite, entre 4.",
+          "ar": "اجمعوا الأوراق الـ12 من جديد ووزّعوها على 3 أشخاص. ثم على 4."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad los montones con rayitas, uno al lado de otro. ¿Cuántas cartas tiene cada uno cada vez?",
+          "va": "Dibuixeu les piles amb ratlletes, una al costat de l'altra. Quantes cartes té cada una cada vegada?",
+          "en": "Draw the piles with little lines, side by side. How many cards are in each pile each time?",
+          "fr": "Dessinez les tas avec des petits traits, l'un à côté de l'autre. Combien de cartes chaque tas a-t-il à chaque fois ?",
+          "ar": "ارسموا الكومات بخطوط صغيرة، واحدة بجانب الأخرى. كم ورقة في كل كومة في كل مرة؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Repartid solo 6 cartas, primero entre 2 personas y después entre 3.",
+      "va": "Repartiu només 6 cartes, primer entre 2 persones i després entre 3.",
+      "en": "Deal only 6 cards, first between 2 people and then between 3.",
+      "fr": "Distribuez seulement 6 cartes, d'abord entre 2 personnes, puis entre 3.",
+      "ar": "وزّعوا 6 أوراق فقط، أولًا على شخصين ثم على 3."
+    },
+    "masDificil": {
+      "es": "Probad con 13 cartas entre 2 o entre 4 personas. ¿Sobra alguna? ¿Cuántas?",
+      "va": "Proveu amb 13 cartes entre 2 o entre 4 persones. En sobra alguna? Quantes?",
+      "en": "Try with 13 cards between 2 or between 4 people. Is any left over? How many?",
+      "fr": "Essayez avec 13 cartes entre 2 ou entre 4 personnes. Est-ce qu'il en reste ? Combien ?",
+      "ar": "جرّبوا 13 ورقة على شخصين أو على 4 أشخاص. هل تبقى ورقة زائدة؟ كم؟"
+    },
+    "paraQueSirve": {
+      "es": "Repartir a partes iguales y hacer grupos iguales es la base de lo que, más adelante, serán la multiplicación y la división.",
+      "va": "Repartir a parts iguals i fer grups iguals és la base del que, més avant, seran la multiplicació i la divisió.",
+      "en": "Sharing out equally and making equal groups is the basis of what will later be multiplication and division.",
+      "fr": "Partager en parts égales et faire des groupes égaux, c'est la base de ce qui sera plus tard la multiplication et la division.",
+      "ar": "التوزيع بالتساوي وصنع مجموعات متساوية هما أساس ما سيصبح لاحقًا الضرب والقسمة."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Aisha reparte 8 galletas entre ella y su hermano Youssef, de una en una. ¿Cuántas le tocan a cada uno?",
+        "va": "Aisha repartix 8 galetes entre ella i el seu germà Youssef, d'una en una. Quantes li'n toquen a cadascú?",
+        "en": "Aisha shares out 8 biscuits between herself and her brother Youssef, one at a time. How many does each of them get?",
+        "fr": "Aisha partage 8 biscuits entre elle et son frère Youssef, un par un. Combien chacun en reçoit-il ?",
+        "ar": "توزّع عائشة 8 بسكويتات بينها وبين أخيها يوسف، واحدة واحدة. كم بسكويتة لكلّ منهما؟"
+      },
+      "pista": {
+        "es": "Coge 8 cosas pequeñas y haz dos montones, poniendo una en cada uno por turnos.",
+        "va": "Agafa 8 coses menudes i fes dues piles, posant-ne una en cada una per torns.",
+        "en": "Take 8 small things and make two piles, putting one on each pile in turn.",
+        "fr": "Prends 8 petites choses et fais deux tas, en mettant une chose sur chaque tas à tour de rôle.",
+        "ar": "لنأخذ 8 أشياء صغيرة ونصنع كومتين، ونضع شيئًا في كل كومة بالدور."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 - 4",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A cada uno le tocan 4 galletas: {{4 + 4 = 8}}.",
+          "va": "A cadascú li'n toquen 4: {{4 + 4 = 8}}.",
+          "en": "Each of them gets 4 biscuits: {{4 + 4 = 8}}.",
+          "fr": "Chacun en reçoit 4 : {{4 + 4 = 8}}.",
+          "ar": "لكلّ منهما 4 بسكويتات: {{4 + 4 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una repartiendo tus juguetes entre dos peluches.",
+        "va": "Ara inventa'n tu una repartint els teus joguets entre dos peluixos.",
+        "en": "Now you make one up, sharing out your toys between two soft toys.",
+        "fr": "Maintenant, invente une question en partageant tes jouets entre deux peluches.",
+        "ar": "والآن لنخترع سؤالًا نوزّع فيه ألعابنا على دميتين."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En la mesa hay 3 platos y en cada plato hay 2 fresas. ¿Cuántas fresas hay en total?",
+        "va": "En la taula hi ha 3 plats i en cada plat hi ha 2 maduixes. Quantes maduixes hi ha en total?",
+        "en": "There are 3 plates on the table and 2 strawberries on each plate. How many strawberries are there altogether?",
+        "fr": "Sur la table, il y a 3 assiettes et 2 fraises dans chaque assiette. Combien y a-t-il de fraises en tout ?",
+        "ar": "على الطاولة 3 صحون، وفي كل صحن حبّتا فراولة. كم حبّة فراولة يوجد في المجموع؟"
+      },
+      "pista": {
+        "es": "Haz 3 montones de 2 cosas y cuéntalas todas.",
+        "va": "Fes 3 piles de 2 coses i compta-les totes.",
+        "en": "Make 3 piles of 2 things and count them all.",
+        "fr": "Fais 3 tas de 2 choses et compte-les toutes.",
+        "ar": "لنصنع 3 كومات في كلّ منها شيئان، ثم نعدّها كلها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 2",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 6 fresas: {{2 + 2 + 2 = 6}}.",
+          "va": "Hi ha 6 maduixes: {{2 + 2 + 2 = 6}}.",
+          "en": "There are 6 strawberries: {{2 + 2 + 2 = 6}}.",
+          "fr": "Il y a 6 fraises : {{2 + 2 + 2 = 6}}.",
+          "ar": "يوجد 6 حبّات فراولة: {{2 + 2 + 2 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con grupos iguales: pares de calcetines, ruedas de coches de juguete…",
+        "va": "Inventa'n tu una altra amb grups iguals: parells de calcetins, rodes de cotxes de joguet…",
+        "en": "Make up another one with equal groups: pairs of socks, wheels on toy cars…",
+        "fr": "Invente-en une autre avec des groupes égaux : des paires de chaussettes, les roues des petites voitures…",
+        "ar": "لنخترع سؤالًا آخر بمجموعات متساوية: أزواج جوارب، عجلات سيارات الألعاب…"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "La abuela de Wei reparte 9 cerezas a partes iguales entre Wei y sus dos primas. ¿Cuántas le tocan a cada persona?",
+        "va": "L'àvia de Wei repartix 9 cireres a parts iguals entre Wei i les seues dues cosines. Quantes li'n toquen a cada persona?",
+        "en": "Wei's grandma shares out 9 cherries equally between Wei and her two cousins. How many does each person get?",
+        "fr": "La grand-mère de Wei partage 9 cerises en parts égales entre Wei et ses deux cousines. Combien chaque personne en reçoit-elle ?",
+        "ar": "توزّع جدّة وي 9 حبّات كرز بالتساوي على وي وابنتَي عمّها. كم حبّة لكل واحدة؟"
+      },
+      "pista": {
+        "es": "Haz tres montones y pon una cosa en cada uno, por turnos, hasta que no quede ninguna.",
+        "va": "Fes tres piles i posa una cosa en cada una, per torns, fins que no en quede cap.",
+        "en": "Make three piles and put one thing on each, in turn, until there are none left.",
+        "fr": "Fais trois tas et mets une chose sur chacun, à tour de rôle, jusqu'à ce qu'il n'en reste plus.",
+        "ar": "لنصنع ثلاث كومات ونضع شيئًا في كل كومة بالدور، حتى لا يبقى شيء."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 3 - 3",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A cada persona le tocan 3 cerezas: {{3 + 3 + 3 = 9}}.",
+          "va": "A cada persona li'n toquen 3: {{3 + 3 + 3 = 9}}.",
+          "en": "Each person gets 3 cherries: {{3 + 3 + 3 = 9}}.",
+          "fr": "Chaque personne en reçoit 3 : {{3 + 3 + 3 = 9}}.",
+          "ar": "لكل واحدة 3 حبّات: {{3 + 3 + 3 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra repartiendo algo entre las personas de tu casa.",
+        "va": "Inventa'n tu una altra repartint alguna cosa entre les persones de ta casa.",
+        "en": "Make up another one, sharing something out between the people in your home.",
+        "fr": "Invente-en une autre en partageant quelque chose entre les personnes de ta maison.",
+        "ar": "لنخترع سؤالًا آخر نوزّع فيه شيئًا على من يعيشون معنا في البيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 19,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Pablo tiene 5 coches de juguete y Sara tiene el doble. ¿Cuántos coches tiene Sara?",
+        "va": "Pablo té 5 cotxes de joguet i Sara en té el doble. Quants cotxes té Sara?",
+        "en": "Pablo has 5 toy cars and Sara has double (doble). How many cars does Sara have?",
+        "fr": "Pablo a 5 petites voitures et Sara en a le double (doble). Combien de voitures Sara a-t-elle ?",
+        "ar": "عند بابلو 5 سيارات ألعاب، وعند سارة الضعف (doble). كم سيارة عند سارة؟"
+      },
+      "pista": {
+        "es": "Levanta 5 dedos de una mano y 5 de la otra, y cuéntalos todos.",
+        "va": "Alça 5 dits d'una mà i 5 de l'altra, i compta'ls tots.",
+        "en": "Hold up 5 fingers on one hand and 5 on the other, and count them all.",
+        "fr": "Lève 5 doigts d'une main et 5 de l'autre, et compte-les tous.",
+        "ar": "لنرفع 5 أصابع من يد و5 من اليد الأخرى، ونعدّها كلها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 5",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sara tiene 10 coches: {{5 + 5 = 10}}.",
+          "va": "Sara té 10 cotxes: {{5 + 5 = 10}}.",
+          "en": "Sara has 10 cars: {{5 + 5 = 10}}.",
+          "fr": "Sara a 10 voitures : {{5 + 5 = 10}}.",
+          "ar": "عند سارة 10 سيارات: {{5 + 5 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el doble de algo que tengas cerca.",
+        "va": "Inventa'n tu una altra amb el doble d'alguna cosa que tingues a prop.",
+        "en": "Make up another one with double something you have nearby.",
+        "fr": "Invente-en une autre avec le double de quelque chose que tu as près de toi.",
+        "ar": "لنخترع سؤالًا آخر عن ضعف شيء قريب منّا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Reparte unas cosas entre dos o tres peluches. ¿Cómo sabes que a todos les ha tocado lo mismo?",
+        "va": "Repartix unes coses entre dos o tres peluixos. Com saps que a tots els n'ha tocat el mateix?",
+        "en": "Share out some things between two or three soft toys. How do you know they all got the same?",
+        "fr": "Partage des choses entre deux ou trois peluches. Comment sais-tu qu'elles en ont toutes reçu autant ?",
+        "ar": "لنوزّع بعض الأشياء على دميتين أو ثلاث. كيف نعرف أن كل دمية حصلت على العدد نفسه؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Contamos juntos lo que tiene cada peluche?»",
+        "va": "Si no sap per on començar: «Comptem junts el que té cada peluix?»",
+        "en": "If they don't know where to start: “Shall we count together what each soft toy has?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « On compte ensemble ce que chaque peluche a ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نعدّ معًا ما عند كل دمية؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que ha contado cada montón o que los ha puesto en fila, uno al lado de otro. Escuchad y preguntad «¿y si sobra una?».",
+          "va": "Pot dir que ha comptat cada pila o que les ha posades en fila, una al costat de l'altra. Escolteu i pregunteu «i si en sobra una?».",
+          "en": "They may say they counted each pile or lined them up side by side. Listen and ask “And what if one is left over?”.",
+          "fr": "Il ou elle dira peut-être avoir compté chaque tas ou les avoir mis en rang, côte à côte. Écoutez et demandez « Et s'il en reste une ? ».",
+          "ar": "قد يكون الجواب: عددنا كل كومة، أو وضعناها في صفوف متجاورة. استمعوا واسألوا: «وإذا بقي شيء زائد؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "d543deca8f8d"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "d543deca8f8d"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "d543deca8f8d"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "d543deca8f8d"
+      }
+    }
+  }
+}

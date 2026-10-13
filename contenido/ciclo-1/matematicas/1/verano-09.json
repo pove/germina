@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.v09",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "verano": 9,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Medir con el cuerpo",
+    "va": "Mesurar amb el cos",
+    "en": "Measuring with your body",
+    "fr": "Mesurer avec le corps",
+    "ar": "القياس بالجسم"
+  },
+  "objetivo": {
+    "es": "En verano, medir con pasos y palmos es contar cuántas veces cabe algo. Al comparar los de cada persona se descubre por qué no salen los mismos números.",
+    "va": "A l'estiu, mesurar amb passos i pams (palmos) és comptar quantes vegades hi cap una cosa. En comparar els de cada persona es descobrix per què no ixen els mateixos nombres.",
+    "en": "In summer, measuring with steps and hand spans (palmos) means counting how many times something fits. Comparing everyone’s shows why the numbers don’t come out the same.",
+    "fr": "En été, mesurer avec des pas et des empans (palmos), c'est compter combien de fois quelque chose rentre. En comparant ceux de chaque personne, on découvre pourquoi les nombres ne sont pas les mêmes.",
+    "ar": "في الصيف، القياس بالخطوات والأشبار (palmos) هو أن نعدّ كم مرة يتّسع الشيء. وعند مقارنة قياسات كل شخص نكتشف لماذا لا تخرج الأعداد نفسها."
+  },
+  "comoAyudar": {
+    "es": "Medid los dos lo mismo y comparad sin dar la razón a nadie: «a ti te salen 8 y a mí 6, ¿por qué será?».",
+    "va": "Mesureu tots dos el mateix i compareu sense donar la raó a ningú: «a tu t’ixen 8 i a mi 6, per què serà?».",
+    "en": "Both of you measure the same thing and compare without saying who is right: “You got 8 and I got 6, why might that be?”.",
+    "fr": "Mesurez tous les deux la même chose et comparez sans donner raison à personne : « Toi, tu trouves 8 et moi 6, pourquoi à ton avis ? ».",
+    "ar": "قيسوا أنتم والطفل أو الطفلة الشيء نفسه وقارنوا من دون أن تقولوا من المحق: «عندك 8 وعندي 6، لماذا برأيك؟»."
+  },
+  "saberes": [
+    "matematicas.medida.cuerpo",
+    "matematicas.medida.no-convencionales"
+  ],
+  "criterios": [
+    "matematicas.c1.3.2",
+    "matematicas.c1.6.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Pasos y palmos",
+      "va": "Passos i pams",
+      "en": "Steps and spans",
+      "fr": "Des pas et des empans",
+      "ar": "خطوات وأشبار"
+    },
+    "material": [
+      {
+        "es": "Vuestro cuerpo: pies, pasos y manos",
+        "va": "El vostre cos: peus, passos i mans",
+        "en": "Your bodies: feet, steps and hands",
+        "fr": "Votre corps : pieds, pas et mains",
+        "ar": "أجسامكم: الأقدام والخطوات والأيدي"
+      },
+      {
+        "es": "Una toalla, una mesa o una alfombra",
+        "va": "Una tovallola, una taula o una catifa",
+        "en": "A towel, a table or a rug",
+        "fr": "Une serviette, une table ou un tapis",
+        "ar": "منشفة أو طاولة أو سجادة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Elegid un camino corto: del sofá a la puerta, o de la toalla a la sombrilla. Antes de medir, decid cuántos pasos creéis que son.",
+          "va": "Trieu un camí curt: del sofà a la porta, o de la tovallola al para-sol. Abans de mesurar, digueu quants passos creieu que són.",
+          "en": "Choose a short route: from the sofa to the door, or from the towel to the umbrella. Before measuring, say how many steps you think it is.",
+          "fr": "Choisissez un petit trajet : du canapé à la porte, ou de la serviette au parasol. Avant de mesurer, dites combien de pas vous pensez que ça fait.",
+          "ar": "اختاروا طريقًا قصيرًا: من الأريكة إلى الباب، أو من المنشفة إلى المظلّة. وقبل القياس، قولوا كم خطوة تظنّون."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Medidlo con pasos normales, contando en voz alta. Después lo mide otra persona de la familia.",
+          "va": "Mesureu-lo amb passos normals, comptant en veu alta. Després el mesura una altra persona de la família.",
+          "en": "Measure it with normal steps, counting out loud. Then another person in the family measures it.",
+          "fr": "Mesurez-le avec des pas normaux, en comptant à voix haute. Ensuite, une autre personne de la famille le mesure.",
+          "ar": "قيسوه بخطوات عادية مع العدّ بصوت عالٍ. ثم يقيسه شخص آخر من العائلة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Ahora medid la toalla o la mesa con palmos: la mano bien abierta, un palmo pegado al otro.",
+          "va": "Ara mesureu la tovallola o la taula amb pams: la mà ben oberta, un pam tocant l’altre.",
+          "en": "Now measure the towel or the table in hand spans: hand wide open, one span right after the other.",
+          "fr": "Maintenant, mesurez la serviette ou la table en empans : la main bien ouverte, un empan collé à l'autre.",
+          "ar": "والآن قيسوا المنشفة أو الطاولة بالأشبار: اليد مفتوحة جيّدًا، وكل شبر ملاصق للآخر."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Comparad los números de cada persona. ¿Por qué a cada una le sale un número distinto?",
+          "va": "Compareu els nombres de cada persona. Per què a cadascú li ix un nombre diferent?",
+          "en": "Compare each person’s numbers. Why does each person get a different number?",
+          "fr": "Comparez les nombres de chaque personne. Pourquoi chacun trouve-t-il un nombre différent ?",
+          "ar": "قارنوا أعداد كل شخص. لماذا يخرج لكل واحد عدد مختلف؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Medid solo con pasos y caminos cortos, de menos de 10 pasos.",
+      "va": "Mesureu només amb passos i camins curts, de menys de 10 passos.",
+      "en": "Only measure with steps and short routes, less than 10 steps.",
+      "fr": "Mesurez seulement avec des pas et des trajets courts, de moins de 10 pas.",
+      "ar": "قيسوا بالخطوات فقط وطرقًا قصيرة، أقل من 10 خطوات."
+    },
+    "masDificil": {
+      "es": "Medid el mismo camino con pies, el talón pegado a la punta, y comparad con los pasos.",
+      "va": "Mesureu el mateix camí amb peus, el taló tocant la punta, i compareu amb els passos.",
+      "en": "Measure the same route in feet, heel touching toe, and compare with the steps.",
+      "fr": "Mesurez le même trajet en pieds, le talon collé à la pointe, et comparez avec les pas.",
+      "ar": "قيسوا الطريق نفسه بالأقدام، الكعب ملاصق لرأس القدم، وقارنوا بالخطوات."
+    },
+    "paraQueSirve": {
+      "es": "Medir con el cuerpo enseña que medir es contar cuántas veces cabe algo, y por qué un día viene bien una medida igual para todo el mundo: el metro.",
+      "va": "Mesurar amb el cos ensenya que mesurar és comptar quantes vegades hi cap una cosa, i per què un dia va bé una mesura igual per a tothom: el metre.",
+      "en": "Measuring with your body shows that measuring is counting how many times something fits, and why one day it helps to have a measure that is the same for everyone: the metre.",
+      "fr": "Mesurer avec le corps apprend que mesurer, c'est compter combien de fois quelque chose rentre, et pourquoi un jour il est utile d'avoir une mesure pareille pour tout le monde : le mètre.",
+      "ar": "القياس بالجسم يعلّمنا أن القياس هو عدّ كم مرة يتّسع الشيء، ولماذا يفيدنا يومًا ما مقياس واحد للجميع: المتر."
+    },
+    "aviso": {
+      "es": "Fuera de casa, medid en sitios sin coches y con una persona adulta al lado.",
+      "va": "Fora de casa, mesureu en llocs sense cotxes i amb una persona adulta al costat.",
+      "en": "Outside, measure in places without cars and with an adult beside you.",
+      "fr": "Dehors, mesurez dans des endroits sans voitures et avec une personne adulte à côté.",
+      "ar": "خارج البيت، قيسوا في أماكن بلا سيارات ومع شخص بالغ بجانبكم."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "La mesa mide 7 palmos de Wei y 5 palmos de su padre. ¿Quién tiene el palmo más grande?",
+        "va": "La taula mesura 7 pams de Wei i 5 pams del seu pare. Qui té el pam més gran?",
+        "en": "The table measures 7 of Wei’s spans and 5 of his dad’s spans. Who has the bigger span?",
+        "fr": "La table mesure 7 empans de Wei et 5 empans de son père. Qui a le plus grand empan ?",
+        "ar": "طول الطاولة 7 أشبار بشبر وي و5 أشبار بشبر أبيه. من شبره أكبر؟"
+      },
+      "pista": {
+        "es": "Piensa: si la mano es más grande, ¿caben más o menos?",
+        "va": "Pensa: si la mà és més gran, n’hi caben més o menys?",
+        "en": "Think: if the hand is bigger, do more or fewer fit?",
+        "fr": "Réfléchis : si la main est plus grande, est-ce qu’il en rentre plus ou moins ?",
+        "ar": "لنفكّر: إذا كانت اليد أكبر، هل يتّسع عدد أكبر أم أقل؟"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Su padre: con un palmo más grande caben menos. Si duda, medid la misma mesa los dos y comparad.",
+          "va": "El seu pare: amb un pam més gran n’hi caben menys. Si dubta, mesureu la mateixa taula tots dos i compareu.",
+          "en": "His dad: with a bigger span, fewer fit. If your child is unsure, both of you measure the same table and compare.",
+          "fr": "Son père : avec un plus grand empan, il en rentre moins. En cas de doute, mesurez tous les deux la même table et comparez.",
+          "ar": "أبوه: بشبر أكبر يتّسع عدد أقل. وإذا وُجد تردّد، قيسوا الطاولة نفسها معًا وقارنوا."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una midiendo algo de casa con tus palmos y los de otra persona.",
+        "va": "Ara inventa'n tu una mesurant alguna cosa de casa amb els teus pams i els d'una altra persona.",
+        "en": "Now you make one up by measuring something at home with your spans and someone else’s.",
+        "fr": "Maintenant, invente une question en mesurant quelque chose de la maison avec tes empans et ceux d'une autre personne.",
+        "ar": "والآن لنخترع سؤالًا نقيس فيه شيئًا في البيت بأشبارنا وأشبار شخص آخر."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "De la puerta al árbol hay 8 pasos, y del árbol al banco, 6 pasos. ¿Cuántos pasos hay de la puerta al banco?",
+        "va": "De la porta a l’arbre hi ha 8 passos, i de l’arbre al banc, 6 passos. Quants passos hi ha des de la porta fins al banc?",
+        "en": "From the door to the tree is 8 steps, and from the tree to the bench is 6 steps. How many steps from the door to the bench?",
+        "fr": "De la porte à l'arbre, il y a 8 pas, et de l'arbre au banc, 6 pas. Combien de pas y a-t-il de la porte au banc ?",
+        "ar": "من الباب إلى الشجرة 8 خطوات، ومن الشجرة إلى المقعد 6 خطوات. كم خطوة من الباب إلى المقعد؟"
+      },
+      "pista": {
+        "es": "Empieza en 8 y llega primero al 10: te quedan 4 más.",
+        "va": "Comença en 8 i arriba primer al 10: et queden 4 més.",
+        "en": "Start at 8 and get to 10 first: then there are 4 more.",
+        "fr": "Commence à 8 et arrive d'abord à 10 : il en reste encore 4.",
+        "ar": "لنبدأ من 8 ونصل أولًا إلى 10: يبقى 4 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 6",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 14 pasos.",
+          "va": "Hi ha 14 passos.",
+          "en": "It’s 14 steps.",
+          "fr": "Il y a 14 pas.",
+          "ar": "هناك 14 خطوة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un camino con dos tramos por tu casa y cuéntalos.",
+        "va": "Inventa'n tu un camí amb dos trams per ta casa i compta'ls.",
+        "en": "Make up a route with two stretches around your home and count them.",
+        "fr": "Invente un trajet en deux morceaux dans ta maison et compte-les.",
+        "ar": "لنخترع طريقًا من جزأين في البيت ونعدّ خطواته."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Amaia da 20 pasos hasta la esquina y su abuela, 15. ¿Cuántos pasos más da Amaia?",
+        "va": "Amaia fa 20 passos fins a la cantonada i la seua àvia, 15. Quants passos més fa Amaia?",
+        "en": "Amaia takes 20 steps to the corner and her grandma takes 15. How many more steps does Amaia take?",
+        "fr": "Amaia fait 20 pas jusqu'au coin de la rue et sa grand-mère, 15. Combien de pas de plus fait Amaia ?",
+        "ar": "تمشي أمايا 20 خطوة حتى الزاوية وتمشي جدّتها 15. كم خطوة أكثر تمشي أمايا؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde 15 hasta llegar a 20.",
+        "va": "Compta amb els dits des de 15 fins a arribar a 20.",
+        "en": "Count on your fingers from 15 up to 20.",
+        "fr": "Compte sur tes doigts à partir de 15 jusqu'à 20.",
+        "ar": "لنعدّ بالأصابع من 15 حتى نصل إلى 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 15",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Amaia da 5 pasos más: sus pasos son más cortos.",
+          "va": "Amaia en fa 5 més: els seus passos són més curts.",
+          "en": "Amaia takes 5 more steps: her steps are shorter.",
+          "fr": "Amaia fait 5 pas de plus : ses pas sont plus courts.",
+          "ar": "تمشي أمايا 5 خطوات أكثر: خطواتها أقصر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una comparando tus pasos con los de alguien de tu familia.",
+        "va": "Inventa'n tu una comparant els teus passos amb els d'algú de la teua família.",
+        "en": "Make one up comparing your steps with someone in your family’s.",
+        "fr": "Invente une question en comparant tes pas avec ceux de quelqu'un de ta famille.",
+        "ar": "لنخترع سؤالًا نقارن فيه خطواتنا بخطوات أحد من العائلة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 33,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: una botella se llena con 4 vasos de agua y otra, con 6. ¿En cuál cabe más, y cuántos vasos más?",
+        "va": "Per a recordar: una botella s’ompli amb 4 gots d’aigua i una altra, amb 6. En quina hi cap més, i quants gots més?",
+        "en": "Let’s remember: one bottle is filled with 4 glasses of water and another with 6. Which holds more, and how many glasses more?",
+        "fr": "Pour se souvenir : une bouteille se remplit avec 4 verres d'eau et une autre, avec 6. Laquelle contient le plus, et combien de verres de plus ?",
+        "ar": "لنتذكّر: زجاجة تمتلئ بـ4 أكواب ماء وأخرى بـ6. أيّهما تتّسع أكثر، وكم كوبًا أكثر؟"
+      },
+      "pista": {
+        "es": "Pon 4 dedos frente a 6 y mira cuántos sobran.",
+        "va": "Posa 4 dits davant de 6 i mira quants en sobren.",
+        "en": "Put 4 fingers against 6 and see how many are left over.",
+        "fr": "Mets 4 doigts en face de 6 et regarde combien il en reste.",
+        "ar": "لنضع 4 أصابع مقابل 6 ونرى كم يتبقّى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 - 4",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En la de 6 vasos: caben 2 vasos más.",
+          "va": "En la de 6 gots: hi caben 2 gots més.",
+          "en": "The 6-glass one: it holds 2 glasses more.",
+          "fr": "Celle de 6 verres : elle contient 2 verres de plus.",
+          "ar": "زجاجة الأكواب الستة: تتّسع لكوبين أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos recipientes de la cocina.",
+        "va": "Inventa'n tu una altra amb dos recipients de la cuina.",
+        "en": "Make up another one with two containers from the kitchen.",
+        "fr": "Invente-en une autre avec deux récipients de la cuisine.",
+        "ar": "لنخترع سؤالًا آخر بوعاءين من المطبخ."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cuántos palmos crees que mide tu cama? Explícame cómo lo medirías.",
+        "va": "Quants pams creus que mesura el teu llit? Explica'm com ho mesuraries.",
+        "en": "How many spans do you think your bed measures? Explain to me how you would measure it.",
+        "fr": "Combien d’empans mesure ton lit, à ton avis ? Explique-moi comment tu le mesurerais.",
+        "ar": "كم شبرًا نظنّ طول السرير؟ لنشرح كيف نقيسه."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Dónde pondrías el primer palmo? ¿Y el siguiente?»",
+        "va": "Si no sap per on començar: «On posaries el primer pam? I el següent?»",
+        "en": "If they don’t know where to start: “Where would you put the first span? And the next one?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Où mettrais-tu le premier empan ? Et le suivant ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «أين نضع الشبر الأول؟ والذي بعده؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "d83206409265"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "d83206409265"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "d83206409265"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "d83206409265"
+      }
+    }
+  }
+}

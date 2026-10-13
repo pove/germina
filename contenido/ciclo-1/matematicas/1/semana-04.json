@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s04",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 4,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Seguir contando",
+    "va": "Continuar comptant",
+    "en": "Counting on",
+    "fr": "Continuer à compter",
+    "ar": "نكمل العدّ"
+  },
+  "objetivo": {
+    "es": "Esta semana suman añadiendo: en vez de empezar desde el 1, siguen contando desde el número en el que están. También ven que 6 y 3 es lo mismo que 9.",
+    "va": "Aquesta setmana sumen afegint: en compte de començar des de l'1, continuen comptant des del nombre on estan. També veuen que 6 i 3 és el mateix que 9.",
+    "en": "This week they add by counting on: instead of starting from 1, they carry on counting from the number they're at. They also see that 6 and 3 is the same as 9.",
+    "fr": "Cette semaine, on additionne en ajoutant : au lieu de repartir de 1, on continue à compter à partir du nombre où l'on est. On voit aussi que 6 et 3, c'est pareil que 9.",
+    "ar": "هذا الأسبوع يجمع الأطفال بالإضافة: بدل البدء من 1، يكملون العدّ من العدد الذي وصلوا إليه. ويرون أيضًا أن 6 و3 هما نفس 9."
+  },
+  "comoAyudar": {
+    "es": "Si vuelve a contar desde el 1, decid el primer número en voz alta y que siga contando con los dedos desde ahí. Empezar por el número más grande ahorra pasos.",
+    "va": "Si torna a comptar des de l'1, digueu el primer nombre en veu alta i que continue comptant amb els dits des d'ahí. Començar pel nombre més gran estalvia passos.",
+    "en": "If they go back to counting from 1, say the first number out loud and let them count on from there with their fingers. Starting with the bigger number saves steps.",
+    "fr": "S'il ou elle recommence à compter depuis 1, dites le premier nombre à voix haute et laissez-le ou laissez-la continuer sur ses doigts à partir de là. Commencer par le plus grand nombre fait gagner des étapes.",
+    "ar": "إذا عاد العدّ من 1، قولوا العدد الأول بصوت عالٍ، ودعوا العدّ يستمر بالأصابع من هناك. البدء بالعدد الأكبر يوفّر خطوات."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.igualdad"
+  ],
+  "criterios": [
+    "matematicas.c1.1.2",
+    "matematicas.c1.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La oca de casa",
+      "va": "L'oca de casa",
+      "en": "The Game of the Goose at home",
+      "fr": "Le jeu de l'oie de la maison",
+      "ar": "لعبة الإوزّة في البيت"
+    },
+    "material": [
+      {
+        "es": "20 hojas de papel o trozos de cartón del mismo tamaño",
+        "va": "20 fulls de paper o trossos de cartó de la mateixa grandària",
+        "en": "20 sheets of paper or pieces of card, all the same size",
+        "fr": "20 feuilles de papier ou morceaux de carton de la même taille",
+        "ar": "20 ورقة أو قطعة كرتون بالحجم نفسه"
+      },
+      {
+        "es": "Un rotulador",
+        "va": "Un retolador",
+        "en": "A marker pen",
+        "fr": "Un feutre",
+        "ar": "قلم تلوين عريض"
+      },
+      {
+        "es": "Un dado",
+        "va": "Un dau",
+        "en": "A dice",
+        "fr": "Un dé",
+        "ar": "نرد"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Una persona adulta escribe del 1 al 20 en los papeles. Ponedlos en el suelo, en fila, como un camino.",
+          "va": "Una persona adulta escriu de l'1 al 20 en els papers. Poseu-los en terra, en fila, com un camí.",
+          "en": "An adult writes 1 to 20 on the sheets. Lay them on the floor in a row, like a path.",
+          "fr": "Une personne adulte écrit de 1 à 20 sur les feuilles. Posez-les par terre, en file, comme un chemin.",
+          "ar": "يكتب شخص بالغ الأعداد من 1 إلى 20 على الأوراق. ضعوها على الأرض في صف، مثل طريق."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Por turnos, tirad el dado y avanzad saltando de casilla en casilla.",
+          "va": "Per torns, tireu el dau i avanceu botant de casella en casella.",
+          "en": "Take turns to roll the dice and move forward, hopping from square to square.",
+          "fr": "Chacun son tour, lancez le dé et avancez en sautant de case en case.",
+          "ar": "بالتناوب، ارموا النرد وتقدّموا قفزًا من خانة إلى خانة."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Seguid contando desde vuestra casilla: si estáis en el 6 y sale un 3, decid «7, 8, 9».",
+          "va": "Continueu comptant des de la vostra casella: si esteu en el 6 i ix un 3, digueu «7, 8, 9».",
+          "en": "Count on from your square: if you're on 6 and roll a 3, say “7, 8, 9”.",
+          "fr": "Continuez à compter depuis votre case : si vous êtes sur le 6 et que vous faites 3, dites « 7, 8, 9 ».",
+          "ar": "أكملوا العدّ من خانتكم: إذا كنتم على 6 وظهر 3، قولوا «7، 8، 9»."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Antes de saltar, decid en qué casilla vais a caer. ¿Habéis acertado?",
+          "va": "Abans de botar, digueu en quina casella caureu. L'heu encertada?",
+          "en": "Before you hop, say which square you'll land on. Did you get it right?",
+          "fr": "Avant de sauter, dites sur quelle case vous allez tomber. Vous aviez deviné ?",
+          "ar": "قبل القفز، قولوا على أي خانة ستقعون. هل أصبتم؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced un camino de 10 casillas y contad los puntos del dado con el dedo.",
+      "va": "Feu un camí de 10 caselles i compteu els punts del dau amb el dit.",
+      "en": "Make a path of 10 squares and count the dots on the dice with a finger.",
+      "fr": "Faites un chemin de 10 cases et comptez les points du dé avec le doigt.",
+      "ar": "اصنعوا طريقًا من 10 خانات، وعدّوا نقاط النرد بالإصبع."
+    },
+    "masDificil": {
+      "es": "Tirad dos dados y juntad los puntos empezando por el dado más grande.",
+      "va": "Tireu dos daus i ajunteu els punts començant pel dau més gran.",
+      "en": "Roll two dice and put the dots together, starting with the bigger dice.",
+      "fr": "Lancez deux dés et réunissez les points en commençant par le plus grand.",
+      "ar": "ارموا نردين واجمعوا النقاط بادئين بالنرد الأكبر."
+    },
+    "paraQueSirve": {
+      "es": "Seguir contando desde un número, sin volver al 1, es la primera manera de sumar de cabeza.",
+      "va": "Continuar comptant des d'un nombre, sense tornar a l'1, és la primera manera de sumar de memòria.",
+      "en": "Counting on from a number, without going back to 1, is the first way of adding in your head.",
+      "fr": "Continuer à compter à partir d'un nombre, sans revenir à 1, c'est la première façon d'additionner de tête.",
+      "ar": "إكمال العدّ من عدد ما، من دون الرجوع إلى 1، هو أول طريقة للجمع في الذهن."
+    },
+    "aviso": {
+      "es": "Poned los papeles sobre una alfombra o pegadlos al suelo para no resbalar al saltar.",
+      "va": "Poseu els papers damunt d'una catifa o apegueu-los a terra per a no relliscar en botar.",
+      "en": "Put the sheets on a rug or stick them to the floor so nobody slips when hopping.",
+      "fr": "Posez les feuilles sur un tapis ou collez-les au sol pour ne pas glisser en sautant.",
+      "ar": "ضعوا الأوراق على سجادة أو ألصقوها بالأرض حتى لا ينزلق أحد عند القفز."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En la oca estás en la casilla 8 y sacas un 3. ¿A qué casilla llegas?",
+        "va": "En l'oca estàs en la casella 8 i trus un 3. A quina casella arribes?",
+        "en": "In the Game of the Goose you're on square 8 and you roll a 3. Which square do you land on?",
+        "fr": "Au jeu de l'oie, tu es sur la case 8 et tu fais 3. Sur quelle case arrives-tu ?",
+        "ar": "في لعبة الإوزّة نحن على الخانة 8 وظهر لنا 3. إلى أي خانة نصل؟"
+      },
+      "pista": {
+        "es": "Guarda el 8 en la cabeza y cuenta 3 más con los dedos: 9, 10, 11.",
+        "va": "Guarda el 8 en el cap i compta'n 3 més amb els dits: 9, 10, 11.",
+        "en": "Keep 8 in your head and count 3 more on your fingers: 9, 10, 11.",
+        "fr": "Garde 8 dans ta tête et compte 3 de plus sur tes doigts : 9, 10, 11.",
+        "ar": "لنحفظ 8 في الذهن ونعدّ 3 أخرى بالأصابع: 9، 10، 11."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 3",
+        "resultado": 11,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llegas a la casilla 11: {{8 + 3 = 11}}.",
+          "va": "Arribes a la casella 11: {{8 + 3 = 11}}.",
+          "en": "You land on square 11: {{8 + 3 = 11}}.",
+          "fr": "Tu arrives sur la case 11 : {{8 + 3 = 11}}.",
+          "ar": "نصل إلى الخانة 11: {{8 + 3 = 11}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con otra casilla y otro número del dado.",
+        "va": "Ara inventa'n tu una amb una altra casella i un altre número del dau.",
+        "en": "Now you make one up with a different square and a different dice number.",
+        "fr": "Maintenant, invente une question avec une autre case et un autre nombre sur le dé.",
+        "ar": "والآن لنخترع سؤالًا بخانة أخرى ورقم آخر على النرد."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Valentina tiene 12 cromos y su tía le regala 4. ¿Cuántos tiene ahora?",
+        "va": "Valentina té 12 cromos i la seua tia li'n regala 4. Quants en té ara?",
+        "en": "Valentina has 12 stickers and her aunt gives her 4. How many does she have now?",
+        "fr": "Valentina a 12 images et sa tante lui en offre 4. Combien en a-t-elle maintenant ?",
+        "ar": "عند فالنتينا 12 بطاقة صور، وأهدتها خالتها 4. كم بطاقة عندها الآن؟"
+      },
+      "pista": {
+        "es": "Empieza en el 12 y sigue contando 4 más.",
+        "va": "Comença en el 12 i continua comptant-ne 4 més.",
+        "en": "Start at 12 and count on 4 more.",
+        "fr": "Commence à 12 et continue en comptant 4 de plus.",
+        "ar": "لنبدأ من 12 ونكمل العدّ 4 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 + 4",
+        "resultado": 16,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 16 cromos.",
+          "va": "En té 16.",
+          "en": "She has 16 stickers.",
+          "fr": "Elle en a 16.",
+          "ar": "عندها 16 بطاقة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra en la que alguien te regala algo.",
+        "va": "Inventa'n tu una altra en què algú et regala alguna cosa.",
+        "en": "Make up another one where someone gives you something.",
+        "fr": "Invente-en une autre où quelqu'un t'offre quelque chose.",
+        "ar": "لنخترع سؤالًا آخر يهدينا فيه أحدهم شيئًا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En un plato hay 2 galletas y en otro, 7. ¿Cuántas hay en total? ¿Por qué número es mejor empezar a contar?",
+        "va": "En un plat hi ha 2 galetes i en un altre, 7. Quantes n'hi ha en total? Per quin nombre és millor començar a comptar?",
+        "en": "There are 2 biscuits on one plate and 7 on another. How many are there altogether? Which number is it better to start counting from?",
+        "fr": "Dans une assiette il y a 2 biscuits et dans une autre, 7. Combien y en a-t-il en tout ? Par quel nombre vaut-il mieux commencer à compter ?",
+        "ar": "في صحن بسكويتتان وفي صحن آخر 7. كم بسكويتة يوجد في المجموع؟ ومن أي عدد من الأفضل أن نبدأ العدّ؟"
+      },
+      "pista": {
+        "es": "Empieza por el 7 y cuenta 2 más.",
+        "va": "Mira de començar pel 7 i comptar-ne 2 més.",
+        "en": "Try starting at 7 and counting 2 more.",
+        "fr": "Essaie de commencer par 7 et de compter 2 de plus.",
+        "ar": "لنجرّب البدء من 7 وعدّ 2 أخريين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 2",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 9 galletas. Empezando por el 7 solo se cuentan 2: «8, 9».",
+          "va": "Hi ha 9 galetes. Començant pel 7 només comptes 2: «8, 9».",
+          "en": "There are 9 biscuits. Starting at 7, you only count 2: “8, 9”.",
+          "fr": "Il y a 9 biscuits. En commençant par 7, on compte seulement 2 : « 8, 9 ».",
+          "ar": "يوجد 9 بسكويتات. إذا بدأنا من 7 نعدّ 2 فقط: «8، 9»."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos montones, uno pequeño y otro grande.",
+        "va": "Inventa'n tu una amb dos munts, un de menut i un altre de gran.",
+        "en": "Make one up with two piles, one small and one big.",
+        "fr": "Invente une question avec deux tas, un petit et un grand.",
+        "ar": "لنخترع سؤالًا بكومتين، واحدة صغيرة وأخرى كبيرة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 3,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: tienes 10 garbanzos escondidos en las dos manos. En una hay 4. ¿Cuántos hay en la otra?",
+        "va": "Per a recordar: tens 10 cigrons amagats en les dues mans. En una n'hi ha 4. Quants n'hi ha en l'altra?",
+        "en": "Let's remember: you have 10 chickpeas hidden in your two hands. There are 4 in one. How many are in the other?",
+        "fr": "Pour se souvenir : tu as 10 pois chiches cachés dans tes deux mains. Dans l'une, il y en a 4. Combien y en a-t-il dans l'autre ?",
+        "ar": "لنتذكّر: عندنا 10 حبّات حمّص مخبّأة في اليدين. في يد 4. كم حبّة في الأخرى؟"
+      },
+      "pista": {
+        "es": "Piensa en los amigos del 10: ¿qué número va con el 4?",
+        "va": "Pensa en els amics del 10: quin nombre va amb el 4?",
+        "en": "Think of the friends of 10: which number goes with 4?",
+        "fr": "Pense aux amis du 10 : quel nombre va avec 4 ?",
+        "ar": "لنفكّر في أصدقاء العدد 10: أي عدد يرافق 4؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 4",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En la otra mano hay 6: 4 y 6 son 10.",
+          "va": "En l'altra mà n'hi ha 6: 4 i 6 són 10.",
+          "en": "There are 6 in the other hand: 4 and 6 make 10.",
+          "fr": "Dans l'autre main, il y en a 6 : 4 et 6 font 10.",
+          "ar": "في اليد الأخرى 6: 4 و6 يساويان 10."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con 10 cosas escondidas.",
+        "va": "Inventa'n tu una altra amb 10 coses amagades.",
+        "en": "Make up another one with 10 hidden things.",
+        "fr": "Invente-en une autre avec 10 choses cachées.",
+        "ar": "لنخترع سؤالًا آخر بعشرة أشياء مخبّأة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si estás en la casilla 9 y sale un 2, ¿cómo sabes dónde llegas sin empezar desde el 1? Cuéntamelo.",
+        "va": "Si estàs en la casella 9 i ix un 2, com saps on arribes sense començar des de l'1? Conta-m'ho.",
+        "en": "If you're on square 9 and roll a 2, how do you know where you'll land without starting from 1? Tell me.",
+        "fr": "Si tu es sur la case 9 et que tu fais 2, comment sais-tu où tu arrives sans repartir de 1 ? Raconte-moi.",
+        "ar": "إذا كنّا على الخانة 9 وظهر 2، كيف نعرف أين نصل من دون البدء من 1؟ لنشرح ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué número dices primero, el 1 o el 9?»",
+        "va": "Si no sap per on començar: «Quin nombre dius primer, l'1 o el 9?»",
+        "en": "If they don't know where to start: “Which number do you say first, 1 or 9?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Quel nombre dis-tu en premier, 1 ou 9 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ما العدد الذي نقوله أولًا، 1 أم 9؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Buscamos algo como «digo 9 y luego 10, 11». Si cuenta desde el 1 también llega: preguntad «¿hay un camino más corto?».",
+          "va": "Busquem una cosa com «dic 9 i després 10, 11». Si compta des de l'1 també hi arriba: pregunteu «hi ha un camí més curt?».",
+          "en": "We're looking for something like “I say 9 and then 10, 11”. If they count from 1 they get there too: ask “Is there a shorter way?”",
+          "fr": "On cherche quelque chose comme « je dis 9 et puis 10, 11 ». S'il ou elle compte depuis 1, on y arrive aussi : demandez « Il y a un chemin plus court ? »",
+          "ar": "نبحث عن شيء مثل «أقول 9 ثم 10، 11». وإذا كان العدّ من 1 فسنصل أيضًا: اسألوا «هل يوجد طريق أقصر؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "c31617920aa8"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "c31617920aa8"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "c31617920aa8"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "c31617920aa8"
+      }
+    }
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s13",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 13,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Parejas que suman 10",
+    "va": "Parelles que sumen 10",
+    "en": "Pairs that make 10",
+    "fr": "Les paires qui font 10",
+    "ar": "أزواج مجموعها 10"
+  },
+  "objetivo": {
+    "es": "Esta semana aprenden de memoria las parejas de números que suman 10: 1 y 9, 2 y 8, 3 y 7, 4 y 6, 5 y 5.",
+    "va": "Aquesta setmana aprenen de memòria les parelles de nombres que sumen 10: 1 i 9, 2 i 8, 3 i 7, 4 i 6, 5 i 5.",
+    "en": "This week they learn by heart the pairs of numbers that add up to 10: 1 and 9, 2 and 8, 3 and 7, 4 and 6, 5 and 5.",
+    "fr": "Cette semaine, on apprend par cœur les paires de nombres qui font 10 : 1 et 9, 2 et 8, 3 et 7, 4 et 6, 5 et 5.",
+    "ar": "هذا الأسبوع يحفظ الأطفال أزواج الأعداد التي مجموعها 10: 1 و9، 2 و8، 3 و7، 4 و6، 5 و5."
+  },
+  "comoAyudar": {
+    "es": "Lo que cuenta es acertar, no correr: si dudáis, parad y contad con los dedos. Jugad siempre en el mismo equipo.",
+    "va": "El que compta és encertar, no córrer: si dubteu, pareu i compteu amb els dits. Jugueu sempre en el mateix equip.",
+    "en": "What matters is getting it right, not rushing: if you're unsure, stop and count on your fingers. Always play on the same team.",
+    "fr": "Ce qui compte, c'est de trouver, pas d'aller vite : en cas de doute, arrêtez-vous et comptez sur vos doigts. Jouez toujours dans la même équipe.",
+    "ar": "المهمّ هو الإصابة لا السرعة: عند التردّد، توقّفوا وعدّوا بالأصابع. العبوا دائمًا في الفريق نفسه."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.estructura"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Un minuto juntos",
+      "va": "Un minut junts",
+      "en": "One minute together",
+      "fr": "Une minute ensemble",
+      "ar": "دقيقة معًا"
+    },
+    "material": [
+      {
+        "es": "Cartas del 1 al 9 de una baraja, dos de cada número (o hechas en papel)",
+        "va": "Cartes de l'1 al 9 d'una baralla, dues de cada nombre (o fetes en paper)",
+        "en": "Cards from 1 to 9 from a pack, two of each number (or made of paper)",
+        "fr": "Des cartes de 1 à 9 d'un jeu, deux de chaque nombre (ou faites en papier)",
+        "ar": "أوراق لعب من 1 إلى 9، ورقتان من كل عدد (أو أوراق مصنوعة من الورق)"
+      },
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina stopwatch",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت Germina"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Poned todas las cartas boca arriba en la mesa, separadas.",
+          "va": "Poseu totes les cartes cap per amunt a la taula, separades.",
+          "en": "Put all the cards face up on the table, spread out.",
+          "fr": "Posez toutes les cartes face visible sur la table, bien séparées.",
+          "ar": "ضعوا كل الأوراق مكشوفة على الطاولة، متباعدة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Primero, sin reloj: buscad dos cartas que sumen 10, como el 3 y el 7. Si os ayuda, contad con los dedos.",
+          "va": "Primer, sense rellotge: busqueu dues cartes que sumen 10, com el 3 i el 7. Si vos ajuda, compteu amb els dits.",
+          "en": "First, without the clock: look for two cards that add up to 10, like 3 and 7. If it helps, count on your fingers.",
+          "fr": "D'abord, sans chrono : cherchez deux cartes qui font 10, comme le 3 et le 7. Si ça vous aide, comptez sur vos doigts.",
+          "ar": "أولًا، بلا مؤقّت: ابحثوا عن ورقتين مجموعهما 10، مثل 3 و7. إن ساعدكم ذلك، عدّوا بالأصابع."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Ahora, con el cronómetro en 1 minuto: buscad juntos todas las parejas que podáis y apartadlas.",
+          "va": "Ara, amb el cronòmetre en 1 minut: busqueu junts totes les parelles que pugueu i aparteu-les.",
+          "en": "Now, with the stopwatch at 1 minute: look together for as many pairs as you can and put them aside.",
+          "fr": "Maintenant, avec le chrono sur 1 minute : cherchez ensemble toutes les paires possibles et mettez-les de côté.",
+          "ar": "الآن، مع ضبط المؤقّت على دقيقة واحدة: ابحثوا معًا عن أكبر عدد من الأزواج وضعوها جانبًا."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad que cada pareja sume 10 y contadlas: es vuestro récord de equipo. Jugad otra vez, si os apetece.",
+          "va": "Mireu que cada parella sume 10 i compteu-les: és el vostre rècord d'equip. Jugueu una altra vegada, si vos ve de gust.",
+          "en": "Check that each pair adds up to 10 and count them: that's your team record. Play again, if you like.",
+          "fr": "Vérifiez que chaque paire fait 10 et comptez-les : c'est votre record d'équipe. Rejouez, si vous voulez.",
+          "ar": "تأكّدوا أن مجموع كل زوج 10 وعدّوا الأزواج: هذا رقمكم القياسي كفريق. العبوا مرة أخرى إن أحببتم."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad sin cronómetro, con los diez dedos: unos levantados y otros escondidos.",
+      "va": "Jugueu sense cronòmetre, amb els deu dits: uns alçats i altres amagats.",
+      "en": "Play without the stopwatch, using your ten fingers: some up and some hidden.",
+      "fr": "Jouez sans chrono, avec les dix doigts : certains levés et d'autres cachés.",
+      "ar": "العبوا بلا مؤقّت، بالأصابع العشرة: بعضها مرفوع وبعضها مخبّأ."
+    },
+    "masDificil": {
+      "es": "Sin cartas: una persona dice un número y la otra dice enseguida su pareja hasta 10.",
+      "va": "Sense cartes: una persona diu un nombre i l'altra diu de seguida la seua parella fins a 10.",
+      "en": "Without cards: one person says a number and the other quickly says its partner to make 10.",
+      "fr": "Sans cartes : une personne dit un nombre et l'autre dit tout de suite son partenaire pour faire 10.",
+      "ar": "بلا أوراق: يقول شخص عددًا، ويقول الآخر فورًا العدد الذي يكمله إلى 10."
+    },
+    "paraQueSirve": {
+      "es": "Saber las parejas que suman 10 sin contar hace mucho más fácil sumar y restar con números más grandes.",
+      "va": "Saber les parelles que sumen 10 sense comptar fa molt més fàcil sumar i restar amb nombres més grans.",
+      "en": "Knowing the pairs that make 10 without counting makes adding and subtracting with bigger numbers much easier.",
+      "fr": "Connaître les paires qui font 10 sans compter rend beaucoup plus facile l'addition et la soustraction avec de plus grands nombres.",
+      "ar": "معرفة الأزواج التي مجموعها 10 من دون عدّ تجعل الجمع والطرح بأعداد أكبر أسهل بكثير."
+    },
+    "rapidez": {
+      "segundos": 60,
+      "seCuenta": {
+        "es": "parejas que suman 10",
+        "va": "parelles que sumen 10",
+        "en": "pairs that make 10",
+        "fr": "paires qui font 10",
+        "ar": "الأزواج التي مجموعها 10"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Mateo tiene 10 coches de juguete: 3 son rojos y los demás, azules. ¿Cuántos son azules?",
+        "va": "Mateo té 10 cotxes de joguet: 3 són rojos i la resta, blaus. Quants són blaus?",
+        "en": "Mateo has 10 toy cars: 3 are red and the rest are blue. How many are blue?",
+        "fr": "Mateo a 10 petites voitures : 3 sont rouges et les autres, bleues. Combien sont bleues ?",
+        "ar": "عند ماتيو 10 سيارات لعب: 3 حمراء والباقي زرقاء. كم سيارة زرقاء؟"
+      },
+      "pista": {
+        "es": "Levanta 10 dedos, esconde 3 y cuenta los que quedan.",
+        "va": "Alça 10 dits, amaga'n 3 i compta els que queden.",
+        "en": "Hold up 10 fingers, hide 3 and count the ones left.",
+        "fr": "Lève 10 doigts, caches-en 3 et compte ceux qui restent.",
+        "ar": "لنرفع 10 أصابع، ونخبّئ 3، ونعدّ ما بقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 3",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son azules 7 coches, porque {{3 + 7 = 10}}.",
+          "va": "Són blaus 7 cotxes, perquè {{3 + 7 = 10}}.",
+          "en": "7 cars are blue, because {{3 + 7 = 10}}.",
+          "fr": "7 voitures sont bleues, parce que {{3 + 7 = 10}}.",
+          "ar": "السيارات الزرقاء 7، لأن {{3 + 7 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con 10 cosas de dos colores.",
+        "va": "Ara inventa'n tu una amb 10 coses de dos colors.",
+        "en": "Now you make one up with 10 things in two colours.",
+        "fr": "Maintenant, invente une question avec 10 choses de deux couleurs.",
+        "ar": "والآن لنخترع سؤالًا بعشرة أشياء من لونين."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "En la huevera caben 10 huevos y hay 8. ¿Cuántos faltan para llenarla?",
+        "va": "En l'ouera caben 10 ous i n'hi ha 8. Quants en falten per a omplir-la?",
+        "en": "The egg box holds 10 eggs and there are 8. How many more to fill it?",
+        "fr": "La boîte à œufs peut contenir 10 œufs et il y en a 8. Combien en manque-t-il pour la remplir ?",
+        "ar": "علبة البيض تتّسع لـ10 بيضات وفيها 8. كم بيضة تنقص لتمتلئ؟"
+      },
+      "pista": {
+        "es": "Cuenta los huecos vacíos de la huevera.",
+        "va": "Compta els buits de l'ouera.",
+        "en": "Count the empty spaces in the egg box.",
+        "fr": "Compte les places vides dans la boîte.",
+        "ar": "لنعدّ الأماكن الفارغة في العلبة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 8",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 2 huevos, porque {{8 + 2 = 10}}.",
+          "va": "En falten 2, perquè {{8 + 2 = 10}}.",
+          "en": "2 eggs are missing, because {{8 + 2 = 10}}.",
+          "fr": "Il manque 2 œufs, parce que {{8 + 2 = 10}}.",
+          "ar": "تنقص بيضتان، لأن {{8 + 2 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo de casa en lo que caben 10.",
+        "va": "Inventa'n tu una altra amb alguna cosa de casa on caben 10.",
+        "en": "Make up another one with something at home that holds 10.",
+        "fr": "Invente-en une autre avec quelque chose de la maison qui peut contenir 10 choses.",
+        "ar": "لنخترع سؤالًا آخر بشيء في البيت يتّسع لعشرة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Piensa en dos números iguales que sumen 10. ¿Cuáles son?",
+        "va": "Pensa en dos nombres iguals que sumen 10. Quins són?",
+        "en": "Think of two numbers that are the same and add up to 10. What are they?",
+        "fr": "Pense à deux nombres pareils qui font 10. Lesquels sont-ils ?",
+        "ar": "لنفكّر في عددين متساويين مجموعهما 10. ما هما؟"
+      },
+      "pista": {
+        "es": "Mira tus dos manos abiertas.",
+        "va": "Mira les teues dues mans obertes.",
+        "en": "Look at your two open hands.",
+        "fr": "Regarde tes deux mains ouvertes.",
+        "ar": "لننظر إلى اليدين مفتوحتين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 5",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 5 y el 5: {{5 + 5 = 10}}, como los dedos de tus dos manos.",
+          "va": "El 5 i el 5: {{5 + 5 = 10}}, com els dits de les teues dues mans.",
+          "en": "5 and 5: {{5 + 5 = 10}}, like the fingers on your two hands.",
+          "fr": "5 et 5 : {{5 + 5 = 10}}, comme les doigts de tes deux mains.",
+          "ar": "5 و5: {{5 + 5 = 10}}، مثل أصابع اليدين."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: busca dos números iguales que sumen 6.",
+        "va": "Inventa'n tu una altra: busca dos nombres iguals que sumen 6.",
+        "en": "Make up another one: find two numbers that are the same and add up to 6.",
+        "fr": "Invente-en une autre : cherche deux nombres pareils qui font 6.",
+        "ar": "لنخترع سؤالًا آخر: نبحث عن عددين متساويين مجموعهما 6."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: en el cajón hay 10 calcetines sueltos. ¿Puedes hacer parejas sin que sobre ninguno?",
+        "va": "Per a recordar: al calaix hi ha 10 calcetins solts. Pots fer parelles sense que en sobre cap?",
+        "en": "Let's remember: there are 10 loose socks in the drawer. Can you make pairs without any left over?",
+        "fr": "Pour se souvenir : dans le tiroir, il y a 10 chaussettes dépareillées. Peux-tu faire des paires sans qu'il en reste ?",
+        "ar": "لنتذكّر: في الدرج 10 جوارب متفرّقة. هل نستطيع تكوين أزواج من دون أن يبقى شيء؟"
+      },
+      "pista": {
+        "es": "Cuenta de dos en dos: 2, 4, 6…",
+        "va": "Compta de dos en dos: 2, 4, 6…",
+        "en": "Count in twos: 2, 4, 6…",
+        "fr": "Compte de deux en deux : 2, 4, 6…",
+        "ar": "لنعدّ اثنين اثنين: 2، 4، 6…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 2 + 2 + 2",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí: salen 5 parejas y no sobra ninguno. El 10 es par.",
+          "va": "Sí: ixen 5 parelles i no en sobra cap. El 10 és parell (par).",
+          "en": "Yes: you get 5 pairs and none is left over. 10 is even (par).",
+          "fr": "Oui : on obtient 5 paires et il n'en reste aucune. 10 est pair (par).",
+          "ar": "نعم: تخرج 5 أزواج ولا يبقى شيء. العدد 10 زوجي (par)."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con calcetines de la ropa tendida.",
+        "va": "Inventa'n tu una altra amb calcetins de la roba estesa.",
+        "en": "Make up another one with socks from the washing line.",
+        "fr": "Invente-en une autre avec des chaussettes qui sèchent sur le fil.",
+        "ar": "لنخترع سؤالًا آخر بجوارب من حبل الغسيل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo encuentras la pareja del 6 para llegar a 10.",
+        "va": "Explica'm com trobes la parella del 6 per a arribar a 10.",
+        "en": "Explain to me how you find the partner of 6 to get to 10.",
+        "fr": "Explique-moi comment tu trouves le partenaire de 6 pour arriver à 10.",
+        "ar": "لنشرح كيف نجد العدد الذي يكمل 6 إلى 10."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me lo enseñas con los dedos?»",
+        "va": "Si no sap per on començar: «M'ho ensenyes amb els dits?»",
+        "en": "If they don't know where to start: “Can you show me with your fingers?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me le montres avec tes doigts ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نُريه بالأصابع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale contar con los dedos, seguir contando desde el 6 o decirlo de memoria. Preguntad «¿cómo lo has pensado?» y escuchad.",
+          "va": "Val comptar amb els dits, continuar comptant des del 6 o dir-ho de memòria. Pregunteu «com ho has pensat?» i escolteu.",
+          "en": "Counting on fingers, counting on from 6 or knowing it by heart are all fine. Ask “How did you think about it?” and listen.",
+          "fr": "Compter sur ses doigts, continuer à compter à partir de 6 ou le dire de mémoire, tout convient. Demandez « Comment tu as réfléchi ? » et écoutez.",
+          "ar": "كل الطرق مقبولة: العدّ بالأصابع، أو متابعة العدّ من 6، أو قول الجواب من الذاكرة. اسألوا «كيف فكّرنا؟» واستمعوا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "51825eddb34f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "51825eddb34f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "51825eddb34f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "51825eddb34f"
+      }
+    }
+  }
+}

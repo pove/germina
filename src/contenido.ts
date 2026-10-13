@@ -1,6 +1,7 @@
 // Carga del contenido con `fetch` relativo a la base. Todo se pide al propio sitio.
 import { useEffect, useState } from 'preact/hooks';
 import { huella } from './nucleo/huella';
+import { rutaSemilla, type Indice } from './nucleo/semillas';
 import { claveSemana, claveVerano, type Curso } from './nucleo/tipos';
 import type { ComoAyudar, Mapa, Objetivos, SemillaContenido } from './nucleo/contenido';
 
@@ -19,12 +20,13 @@ function pedir<T>(ruta: string): Promise<T> {
   return promesa;
 }
 
-const dos = (n: number): string => String(n).padStart(2, '0');
 const carpeta = (c: Curso): string => `contenido/ciclo-${c.ciclo}/${c.area}`;
 
-/** Las semillas que ya existen (`contenido/indice.json`). */
-export const cargarIndice = (): Promise<ReadonlySet<string>> =>
-  pedir<{ semillas: string[] }>('contenido/indice.json').then((i) => new Set(i.semillas));
+/** Las semillas que ya existen (`contenido/indice.json`), con su huella. */
+export const cargarIndiceCompleto = (): Promise<Indice> => pedir<{ semillas: Indice }>('contenido/indice.json').then((i) => i.semillas);
+
+/** Las claves de las semillas que ya existen. */
+export const cargarIndice = (): Promise<ReadonlySet<string>> => cargarIndiceCompleto().then((s) => new Set(Object.keys(s)));
 
 export const claveEnIndice = (curso: Curso, verano: boolean, n: number): string =>
   `${curso.ciclo}/${curso.area}/${curso.curso}/${verano ? claveVerano(n) : claveSemana(n)}`;
@@ -37,8 +39,12 @@ export interface SemillaCargada {
 
 /** La semilla, o `null` si todavía no existe («en camino»). */
 export async function cargarSemilla(curso: Curso, verano: boolean, n: number): Promise<SemillaCargada | null> {
-  if (!(await cargarIndice()).has(claveEnIndice(curso, verano, n))) return null;
-  const semilla = await pedir<SemillaContenido>(`${carpeta(curso)}/${curso.curso}/${verano ? 'verano' : 'semana'}-${dos(n)}.json`);
+  const clave = claveEnIndice(curso, verano, n);
+  const huellaArchivo = (await cargarIndiceCompleto())[clave];
+  const ruta = huellaArchivo === undefined ? null : rutaSemilla(clave, huellaArchivo);
+  if (!ruta) return null;
+  // Con la huella en la ruta, la caché de semillas del service worker nunca da una versión vieja.
+  const semilla = await pedir<SemillaContenido>(ruta);
   let h: string | null = null;
   try {
     h = await huella(semilla);

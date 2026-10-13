@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s25",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 25,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Escaleras de números",
+    "va": "Escales de nombres",
+    "en": "Number staircases",
+    "fr": "Escaliers de nombres",
+    "ar": "سلالم الأعداد"
+  },
+  "objetivo": {
+    "es": "Esta semana miran series de números y de figuras que crecen siempre igual, de 2 en 2, de 5 en 5 o de 10 en 10. Descubren cómo crecen y adivinan lo que viene después.",
+    "va": "Aquesta setmana miren sèries de nombres i de figures que creixen sempre igual, de 2 en 2, de 5 en 5 o de 10 en 10. Descobrixen com creixen i endevinen el que ve després.",
+    "en": "This week they look at sequences (series) of numbers and shapes that always grow the same way, in 2s, 5s or 10s. They work out how they grow and guess what comes next.",
+    "fr": "Cette semaine, on regarde des suites (series) de nombres et de figures qui grandissent toujours de la même façon, de 2 en 2, de 5 en 5 ou de 10 en 10. On découvre comment elles grandissent et on devine ce qui vient après.",
+    "ar": "هذا الأسبوع ينظر الأطفال إلى متتاليات (series) من الأعداد والأشكال تكبر دائمًا بالطريقة نفسها، اثنين اثنين أو خمسة خمسة أو عشرة عشرة. ويكتشفون كيف تكبر ويخمّنون ما يأتي بعدها."
+  },
+  "comoAyudar": {
+    "es": "Antes de decir el número siguiente, preguntad: «¿Cuánto crece cada vez?». Si no lo ve, contad juntos las piezas de dos escalones seguidos.",
+    "va": "Abans de dir el nombre següent, pregunteu: «Quant creix cada vegada?». Si no ho veu, compteu junts les peces de dos escalons seguits.",
+    "en": "Before saying the next number, ask: “How much does it grow each time?” If they can't see it, count the pieces of two steps in a row together.",
+    "fr": "Avant de dire le nombre suivant, demandez : « De combien ça grandit à chaque fois ? » Si votre enfant ne le voit pas, comptez ensemble les pièces de deux marches qui se suivent.",
+    "ar": "قبل قول العدد التالي، اسألوا: «بكم يكبر في كل مرة؟». وإذا لم يتّضح ذلك، عدّوا معًا قطع درجتين متتاليتين."
+  },
+  "saberes": [
+    "matematicas.computacional.secuencias-figuras",
+    "matematicas.computacional.igualdades"
+  ],
+  "criterios": [
+    "matematicas.c1.2.3",
+    "matematicas.c1.4.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Escaleras de piezas",
+      "va": "Escales de peces",
+      "en": "Staircases of pieces",
+      "fr": "Escaliers de pièces",
+      "ar": "سلالم من القطع"
+    },
+    "material": [
+      {
+        "es": "Piezas de construcción, pinzas o legumbres: unas 30",
+        "va": "Peces de construcció, pinces o llegums: unes 30",
+        "en": "Building blocks, clothes pegs or dried beans: about 30",
+        "fr": "Des pièces de construction, des pinces à linge ou des légumes secs : une trentaine",
+        "ar": "قطع بناء أو ملاقط غسيل أو بقول جافة: نحو 30 قطعة"
+      },
+      {
+        "es": "Papel y un lápiz",
+        "va": "Paper i un llapis",
+        "en": "Paper and a pencil",
+        "fr": "Du papier et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Haced un escalón con 2 piezas, al lado otro con 4 y al lado otro con 6.",
+          "va": "Feu un escaló amb 2 peces, al costat un altre amb 4 i al costat un altre amb 6.",
+          "en": "Make a step with 2 pieces, next to it one with 4, and next to that one with 6.",
+          "fr": "Faites une marche avec 2 pièces, à côté une autre avec 4, et à côté une autre avec 6.",
+          "ar": "اصنعوا درجة من قطعتين، وبجانبها درجة من 4، وبجانبها درجة من 6."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Antes de hacer el cuarto escalón, adivinad cuántas piezas tendrá. Hacedlo y contad.",
+          "va": "Abans de fer el quart escaló, endevineu quantes peces tindrà. Feu-lo i compteu.",
+          "en": "Before making the fourth step, guess how many pieces it will have. Build it and count.",
+          "fr": "Avant de faire la quatrième marche, devinez combien de pièces elle aura. Faites-la et comptez.",
+          "ar": "قبل صنع الدرجة الرابعة، خمّنوا كم قطعة ستكون فيها. اصنعوها وعدّوا."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Haced otra escalera que crezca de 5 en 5: 5, 10, 15… ¿Cuántas piezas tendrá el escalón siguiente?",
+          "va": "Feu una altra escala que cresca de 5 en 5: 5, 10, 15… Quantes peces tindrà l'escaló següent?",
+          "en": "Make another staircase that grows in 5s: 5, 10, 15… How many pieces will the next step have?",
+          "fr": "Faites un autre escalier qui grandit de 5 en 5 : 5, 10, 15… Combien de pièces aura la marche suivante ?",
+          "ar": "اصنعوا سلّمًا آخر يكبر خمسة خمسة: 5، 10، 15… كم قطعة ستكون في الدرجة التالية؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Inventad vuestra escalera y dibujadla con rayitas. La otra persona adivina el escalón siguiente.",
+          "va": "Inventeu la vostra escala i dibuixeu-la amb ratlletes. L'altra persona endevina l'escaló següent.",
+          "en": "Invent your own staircase and draw it with little lines. The other person guesses the next step.",
+          "fr": "Inventez votre escalier et dessinez-le avec des petits traits. L'autre personne devine la marche suivante.",
+          "ar": "اخترعوا سلّمكم وارسموه بخطوط صغيرة. والشخص الآخر يخمّن الدرجة التالية."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced escalones que crezcan de 1 en 1 y decid el número de cada escalón en voz alta.",
+      "va": "Feu escalons que creixen d'1 en 1 i digueu el nombre de cada escaló en veu alta.",
+      "en": "Make steps that grow 1 at a time and say the number of each step out loud.",
+      "fr": "Faites des marches qui grandissent de 1 en 1 et dites le nombre de chaque marche à voix haute.",
+      "ar": "اصنعوا درجات تكبر واحدًا واحدًا، وقولوا عدد كل درجة بصوت عالٍ."
+    },
+    "masDificil": {
+      "es": "Haced una escalera que baje: 20, 18, 16… ¿Cuándo se acaba?",
+      "va": "Feu una escala que baixe: 20, 18, 16… Quan s'acaba?",
+      "en": "Make a staircase that goes down: 20, 18, 16… When does it end?",
+      "fr": "Faites un escalier qui descend : 20, 18, 16… Quand s'arrête-t-il ?",
+      "ar": "اصنعوا سلّمًا ينزل: 20، 18، 16… متى ينتهي؟"
+    },
+    "paraQueSirve": {
+      "es": "Ver cómo crece una serie es la base de las tablas de multiplicar y ayuda a adivinar con razones, no al azar.",
+      "va": "Veure com creix una sèrie és la base de les taules de multiplicar i ajuda a endevinar amb raons, no a l'atzar.",
+      "en": "Seeing how a sequence grows is the basis of the times tables and helps you guess with reasons, not at random.",
+      "fr": "Voir comment grandit une suite, c'est la base des tables de multiplication, et cela aide à deviner avec des raisons, pas au hasard.",
+      "ar": "رؤية كيف تكبر المتتالية هي أساس جداول الضرب، وتساعد على التخمين بأسباب، لا عشوائيًّا."
+    },
+    "aviso": {
+      "es": "Si usáis legumbres o piezas pequeñas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir llegums o peces menudes, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use dried beans or small pieces, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des légumes secs ou de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم بقولًا أو قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Los escalones tienen 2, 4 y 6 piezas. ¿Cuántas tendrá el siguiente? ¿Cómo lo sabes?",
+        "va": "Els escalons tenen 2, 4 i 6 peces. Quantes en tindrà el següent? Com ho saps?",
+        "en": "The steps have 2, 4 and 6 pieces. How many will the next one have? How do you know?",
+        "fr": "Les marches ont 2, 4 et 6 pièces. Combien en aura la suivante ? Comment le sais-tu ?",
+        "ar": "في الدرجات 2 و4 و6 قطع. كم قطعة في الدرجة التالية؟ كيف نعرف؟"
+      },
+      "pista": {
+        "es": "Mira cuántas piezas más tiene cada escalón que el de antes.",
+        "va": "Mira quantes peces més té cada escaló que el d'abans.",
+        "en": "Look at how many more pieces each step has than the one before.",
+        "fr": "Regarde combien de pièces de plus a chaque marche par rapport à celle d'avant.",
+        "ar": "لننظر كم قطعة تزيد كل درجة عن الدرجة السابقة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Tendrá 8, porque cada escalón tiene 2 más que el anterior. Lo importante es que diga cómo lo ha visto: «va de 2 en 2», «siempre suma 2»…",
+          "va": "En tindrà 8, perquè cada escaló en té 2 més que l'anterior. L'important és que diga com ho ha vist: «va de 2 en 2», «sempre suma 2»…",
+          "en": "It will have 8, because each step has 2 more than the one before. What matters is that they say how they saw it: “it goes up in 2s”, “it always adds 2”…",
+          "fr": "Elle en aura 8, car chaque marche en a 2 de plus que la précédente. L'important, c'est que votre enfant dise comment il ou elle l'a vu : « ça va de 2 en 2 », « on ajoute toujours 2 »…",
+          "ar": "ستكون فيها 8، لأن كل درجة تزيد 2 على السابقة. المهمّ أن نسمع كيف لوحظ ذلك: «تكبر اثنين اثنين»، «نضيف 2 دائمًا»…"
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una escalera de cucharas o de calcetines y pregunta por el escalón siguiente.",
+        "va": "Inventa'n tu una escala de culleres o de calcetins i pregunta per l'escaló següent.",
+        "en": "Now you make up a staircase of spoons or socks and ask about the next step.",
+        "fr": "Invente un escalier de cuillères ou de chaussettes et pose une question sur la marche suivante.",
+        "ar": "لنخترع سلّمًا من الملاعق أو الجوارب ونسأل عن الدرجة التالية."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Cuenta de 10 en 10: 120, 130, 140… ¿Qué número viene después?",
+        "va": "Compta de 10 en 10: 120, 130, 140… Quin nombre ve després?",
+        "en": "Count in 10s: 120, 130, 140… What number comes next?",
+        "fr": "Compte de 10 en 10 : 120, 130, 140… Quel nombre vient après ?",
+        "ar": "لنعدّ عشرة عشرة: 120، 130، 140… ما العدد التالي؟"
+      },
+      "pista": {
+        "es": "Fíjate en la cifra de las decenas: sube de uno en uno.",
+        "va": "Fixa't en la xifra de les desenes (decenas): puja d'u en u.",
+        "en": "Look at the tens (decenas) digit: it goes up one at a time.",
+        "fr": "Regarde le chiffre des dizaines (decenas) : il monte de un en un.",
+        "ar": "لننظر إلى رقم العشرات (decenas): يزيد واحدًا واحدًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "140 + 10",
+        "resultado": 150,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Viene el 150: {{140 + 10 = 150}}.",
+          "va": "Ve el 150: {{140 + 10 = 150}}.",
+          "en": "Next comes 150: {{140 + 10 = 150}}.",
+          "fr": "Ensuite vient 150 : {{140 + 10 = 150}}.",
+          "ar": "يأتي العدد 150: {{140 + 10 = 150}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra serie de 10 en 10 empezando por el número de tu portal.",
+        "va": "Inventa'n tu una altra sèrie de 10 en 10 començant pel nombre del teu portal.",
+        "en": "Make up another 10s sequence starting from the number of your building.",
+        "fr": "Invente une autre suite de 10 en 10 en commençant par le numéro de ton immeuble.",
+        "ar": "لنخترع متتالية أخرى عشرة عشرة تبدأ برقم عمارتنا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Con 3 palillos haces un triángulo. ¿Cuántos palillos usas para hacer 3 triángulos separados?",
+        "va": "Amb 3 escuradents fas un triangle. Quants escuradents uses per a fer 3 triangles separats?",
+        "en": "You make a triangle with 3 sticks. How many sticks do you use to make 3 separate triangles?",
+        "fr": "Avec 3 bâtonnets, tu fais un triangle. Combien de bâtonnets utilises-tu pour faire 3 triangles séparés ?",
+        "ar": "بـ3 أعواد نصنع مثلثًا. كم عودًا نستعمل لصنع 3 مثلثات منفصلة؟"
+      },
+      "pista": {
+        "es": "Dibuja los 3 triángulos y cuenta sus palitos de 3 en 3.",
+        "va": "Dibuixa els 3 triangles i compta els seus pals de 3 en 3.",
+        "en": "Draw the 3 triangles and count their sticks in 3s.",
+        "fr": "Dessine les 3 triangles et compte leurs bâtonnets de 3 en 3.",
+        "ar": "لنرسم المثلثات الثلاثة ونعدّ أعوادها ثلاثة ثلاثة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 3 + 3",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Usas 9 palillos: {{3 + 3 + 3 = 9}}.",
+          "va": "Uses 9 escuradents: {{3 + 3 + 3 = 9}}.",
+          "en": "You use 9 sticks: {{3 + 3 + 3 = 9}}.",
+          "fr": "Tu utilises 9 bâtonnets : {{3 + 3 + 3 = 9}}.",
+          "ar": "نستعمل 9 أعواد: {{3 + 3 + 3 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con cuadrados: ¿cuántos palillos para 4?",
+        "va": "Inventa'n tu una altra amb quadrats: quants escuradents per a 4?",
+        "en": "Make up another one with squares: how many sticks for 4?",
+        "fr": "Invente-en une autre avec des carrés : combien de bâtonnets pour 4 ?",
+        "ar": "لنخترع سؤالًا آخر بالمربّعات: كم عودًا لأربعة مربّعات؟"
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "escala-descendente",
+      "texto": {
+        "es": "Para recordar la cuenta atrás: cuentas de 100 en 100 desde 900. ¿Qué número dices después del 600?",
+        "va": "Per a recordar el compte arrere: comptes de 100 en 100 des de 900. Quin nombre dius després del 600?",
+        "en": "Let's remember the countdown: you count back in 100s from 900. What number do you say after 600?",
+        "fr": "Pour se souvenir du compte à rebours : tu comptes de 100 en 100 à partir de 900. Quel nombre dis-tu après 600 ?",
+        "ar": "لنتذكّر العدّ التنازلي: نعدّ مئة مئة من 900 إلى الوراء. ما العدد الذي نقوله بعد 600؟"
+      },
+      "pista": {
+        "es": "Di la cuenta atrás en voz alta: novecientos, ochocientos…",
+        "va": "Digues el compte arrere en veu alta: nou-cents, huit-cents…",
+        "en": "Say the countdown out loud: nine hundred, eight hundred…",
+        "fr": "Dis le compte à rebours à voix haute : neuf cents, huit cents…",
+        "ar": "لنقل العدّ التنازلي بصوت عالٍ: تسعمئة، ثمانمئة…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "600 - 100",
+        "resultado": 500,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Dices 500: {{600 − 100 = 500}}.",
+          "va": "Dius 500: {{600 − 100 = 500}}.",
+          "en": "You say 500: {{600 − 100 = 500}}.",
+          "fr": "Tu dis 500 : {{600 − 100 = 500}}.",
+          "ar": "نقول 500: {{600 − 100 = 500}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra cuenta atrás de 10 en 10.",
+        "va": "Inventa'n tu un altre compte arrere de 10 en 10.",
+        "en": "Make up another countdown in 10s.",
+        "fr": "Invente un autre compte à rebours de 10 en 10.",
+        "ar": "لنخترع عدًّا تنازليًّا آخر عشرة عشرة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Inventa una serie de números o de dibujos. Enséñame cómo crece y por qué sabes lo que viene después.",
+        "va": "Inventa una sèrie de nombres o de dibuixos. Ensenya'm com creix i per què saps el que ve després.",
+        "en": "Make up a sequence of numbers or drawings. Show me how it grows and why you know what comes next.",
+        "fr": "Invente une suite de nombres ou de dessins. Montre-moi comment elle grandit et pourquoi tu sais ce qui vient après.",
+        "ar": "لنخترع متتالية من الأعداد أو الرسوم. لنُرِ كيف تكبر، ولماذا نعرف ما يأتي بعدها."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Hacemos una con los dedos de las manos, de 5 en 5?».",
+        "va": "Si no sap per on començar: «En fem una amb els dits de les mans, de 5 en 5?».",
+        "en": "If they don't know where to start: “Shall we make one with the fingers on our hands, in 5s?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « On en fait une avec les doigts des mains, de 5 en 5 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نصنع متتالية بأصابع اليدين، خمسة خمسة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale cualquier serie que crezca siempre igual. Escuchad, preguntad «¿y el siguiente?» y dad las gracias por la explicación.",
+          "va": "Val qualsevol sèrie que cresca sempre igual. Escolteu, pregunteu «i el següent?» i doneu les gràcies per l'explicació.",
+          "en": "Any sequence that always grows the same way is fine. Listen, ask “And the next one?” and say thank you for the explanation.",
+          "fr": "Toute suite qui grandit toujours de la même façon convient. Écoutez, demandez « Et le suivant ? » et dites merci pour l'explication.",
+          "ar": "تصلح أي متتالية تكبر دائمًا بالطريقة نفسها. استمعوا، واسألوا «وماذا بعد؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "bd7d00e192fa"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "bd7d00e192fa"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "bd7d00e192fa"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "bd7d00e192fa"
+      }
+    }
+  }
+}

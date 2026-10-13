@@ -59,8 +59,9 @@ export async function preparar(page: Page, opciones: { fecha?: string; almacen?:
 export async function ocultarSemillas(page: Page, claves: string[]): Promise<void> {
   await page.route('**/contenido/indice.json', async (ruta) => {
     const respuesta = await ruta.fetch();
-    const indice = (await respuesta.json()) as { semillas: string[] };
-    await ruta.fulfill({ response: respuesta, json: { ...indice, semillas: indice.semillas.filter((s) => !claves.includes(s)) } });
+    const indice = (await respuesta.json()) as { semillas: Record<string, string> };
+    const semillas = Object.fromEntries(Object.entries(indice.semillas).filter(([clave]) => !claves.includes(clave)));
+    await ruta.fulfill({ response: respuesta, json: { ...indice, semillas } });
   });
 }
 

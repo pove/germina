@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s09",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 9,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Cuenta atrás",
+    "va": "Compte arrere",
+    "en": "Countdown",
+    "fr": "Compte à rebours",
+    "ar": "العدّ التنازلي"
+  },
+  "objetivo": {
+    "es": "Esta semana cuentan hacia atrás de 1 en 1, de 10 en 10 y de 100 en 100. Descubren qué cifra cambia en cada salto y cuál se queda igual.",
+    "va": "Aquesta setmana compten cap arrere d'1 en 1, de 10 en 10 i de 100 en 100. Descobrixen quina xifra (cifra) canvia en cada salt i quina es queda igual.",
+    "en": "This week they count backwards in ones, in tens and in hundreds. They discover which digit (cifra) changes with each jump and which one stays the same.",
+    "fr": "Cette semaine, on compte à rebours de 1 en 1, de 10 en 10 et de 100 en 100. On découvre quel chiffre (cifra) change à chaque saut et lequel reste pareil.",
+    "ar": "هذا الأسبوع يعدّ الأطفال تنازليًا واحدًا واحدًا، وعشرة عشرة، ومئة مئة. ويكتشفون أيّ رقم (cifra) يتغيّر في كل قفزة وأيّها يبقى كما هو."
+  },
+  "comoAyudar": {
+    "es": "Contad hacia atrás juntos, a veces en voz alta y a veces susurrando. Si se atasca, volved al número de antes y seguid desde ahí, con los dedos si hace falta.",
+    "va": "Compteu cap arrere junts, a vegades en veu alta i a vegades xiuxiuejant. Si s'encalla, torneu al nombre d'abans i continueu des d'allí, amb els dits si fa falta.",
+    "en": "Count backwards together, sometimes out loud and sometimes in a whisper. If they get stuck, go back to the number before and carry on from there, using fingers if it helps.",
+    "fr": "Comptez à rebours ensemble, parfois à voix haute et parfois en chuchotant. S'il ou elle bloque, revenez au nombre d'avant et repartez de là, avec les doigts si ça aide.",
+    "ar": "عدّوا تنازليًا معًا، أحيانًا بصوت عالٍ وأحيانًا همسًا. وإذا حصل توقّف، فارجعوا إلى العدد السابق وتابعوا من هناك، بالأصابع إن ساعد ذلك."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.computacional.secuencias-figuras"
+  ],
+  "criterios": [
+    "matematicas.c1.2.3",
+    "matematicas.c1.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El cohete",
+      "va": "El coet",
+      "en": "The rocket",
+      "fr": "La fusée",
+      "ar": "الصاروخ"
+    },
+    "material": [
+      {
+        "es": "Las manos",
+        "va": "Les mans",
+        "en": "Your hands",
+        "fr": "Vos mains",
+        "ar": "اليدان"
+      },
+      {
+        "es": "Un trozo de pasillo o de suelo para dar pasos",
+        "va": "Un tros de corredor o de terra per a fer passos",
+        "en": "A bit of hallway or floor to take steps on",
+        "fr": "Un bout de couloir ou de sol pour faire des pas",
+        "ar": "جزء من الممرّ أو من الأرض لنخطو عليه"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Levantad los 10 dedos: cada dedo vale 10, así que tenéis 100. El cohete está listo.",
+          "va": "Alceu els 10 dits: cada dit val 10, així que en teniu 100. El coet està a punt.",
+          "en": "Hold up all 10 fingers: each finger is worth 10, so you have 100. The rocket is ready.",
+          "fr": "Levez les 10 doigts : chaque doigt vaut 10, donc vous en avez 100. La fusée est prête.",
+          "ar": "ارفعوا الأصابع العشرة: كل إصبع يساوي 10، إذن عندنا 100. الصاروخ جاهز."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Doblad un dedo cada vez y decid juntos: «100, 90, 80…». Al llegar a 0, ¡el cohete despega!",
+          "va": "Doblegueu un dit cada vegada i digueu junts: «100, 90, 80…». En arribar a 0, el coet s'enlaira!",
+          "en": "Bend one finger each time and say together: “100, 90, 80…”. When you reach 0, the rocket takes off!",
+          "fr": "Pliez un doigt à chaque fois et dites ensemble : « 100, 90, 80… ». Arrivés à 0, la fusée décolle !",
+          "ar": "اثنوا إصبعًا في كل مرة وقولوا معًا: «100، 90، 80…». وعند الوصول إلى 0، ينطلق الصاروخ!"
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Ahora, de 100 en 100 desde 900: «900, 800, 700…». Con cada número, dad un paso hacia atrás.",
+          "va": "Ara, de 100 en 100 des de 900: «900, 800, 700…». Amb cada nombre, feu un pas cap arrere.",
+          "en": "Now in hundreds from 900: “900, 800, 700…”. With each number, take one step backwards.",
+          "fr": "Maintenant, de 100 en 100 à partir de 900 : « 900, 800, 700… ». À chaque nombre, faites un pas en arrière.",
+          "ar": "والآن مئة مئة بدءًا من 900: «900، 800، 700…». ومع كل عدد، خذوا خطوة إلى الخلف."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Probad a empezar en 95 y bajad de 10 en 10. ¿Qué cifra cambia y cuál se queda igual?",
+          "va": "Proveu de començar en 95 i baixeu de 10 en 10. Quina xifra canvia i quina es queda igual?",
+          "en": "Try starting at 95 and going down in tens. Which digit changes and which one stays the same?",
+          "fr": "Essayez de commencer à 95 et descendez de 10 en 10. Quel chiffre change et lequel reste pareil ?",
+          "ar": "جرّبوا البدء من 95 والنزول عشرة عشرة. أيّ رقم يتغيّر وأيّها يبقى كما هو؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con una cuenta atrás de 1 en 1 desde 10, doblando un dedo cada vez, y después de 10 en 10 desde 50.",
+      "va": "Comenceu amb un compte arrere d'1 en 1 des de 10, doblegant un dit cada vegada, i després de 10 en 10 des de 50.",
+      "en": "Start with a countdown in ones from 10, bending a finger each time, and then in tens from 50.",
+      "fr": "Commencez par un compte à rebours de 1 en 1 à partir de 10, en pliant un doigt à chaque fois, puis de 10 en 10 à partir de 50.",
+      "ar": "ابدؤوا بعدّ تنازلي واحدًا واحدًا من 10، مع ثني إصبع في كل مرة، ثم عشرة عشرة من 50."
+    },
+    "masDificil": {
+      "es": "Empezad en un número que no acabe en 0, como 87 o 640, y bajad de 10 en 10 o de 100 en 100.",
+      "va": "Comenceu en un nombre que no acabe en 0, com ara 87 o 640, i baixeu de 10 en 10 o de 100 en 100.",
+      "en": "Start at a number that doesn't end in 0, like 87 or 640, and go down in tens or in hundreds.",
+      "fr": "Commencez à un nombre qui ne finit pas par 0, comme 87 ou 640, et descendez de 10 en 10 ou de 100 en 100.",
+      "ar": "ابدؤوا من عدد لا ينتهي بـ0، مثل 87 أو 640، وانزلوا عشرة عشرة أو مئة مئة."
+    },
+    "paraQueSirve": {
+      "es": "Contar hacia atrás de 10 en 10 y de 100 en 100 es quitar decenas y centenas de cabeza, sin contar de una en una.",
+      "va": "Comptar cap arrere de 10 en 10 i de 100 en 100 és llevar desenes i centenes de cap, sense comptar d'una en una.",
+      "en": "Counting backwards in tens and hundreds is taking away tens and hundreds in your head, without counting one by one.",
+      "fr": "Compter à rebours de 10 en 10 et de 100 en 100, c'est enlever des dizaines et des centaines de tête, sans compter un par un.",
+      "ar": "العدّ التنازلي عشرة عشرة ومئة مئة هو نزع العشرات والمئات ذهنيًا، من دون العدّ واحدًا واحدًا."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "escala-descendente",
+      "texto": {
+        "es": "Contamos hacia atrás de uno en uno: 52, 51, 50… ¿Qué número viene ahora?",
+        "va": "Comptem cap arrere d'un en un: 52, 51, 50… Quin nombre ve ara?",
+        "en": "We count backwards in ones: 52, 51, 50… What number comes next?",
+        "fr": "On compte à rebours de un en un : 52, 51, 50… Quel nombre vient maintenant ?",
+        "ar": "نعدّ تنازليًا واحدًا واحدًا: 52، 51، 50… ما العدد الذي يأتي الآن؟"
+      },
+      "pista": {
+        "es": "Piensa qué número va justo antes del 50, como si bajaras una escalera.",
+        "va": "Pensa quin nombre va just abans del 50, com si baixares una escala.",
+        "en": "Think about which number comes just before 50, as if you were going down a staircase.",
+        "fr": "Pense au nombre qui vient juste avant 50, comme si tu descendais un escalier.",
+        "ar": "لنفكّر في العدد الذي يأتي قبل 50 مباشرة، كأننا ننزل درجًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "50 - 1",
+        "resultado": 49,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 49: {{50 − 1 = 49}}.",
+          "va": "El 49: {{50 − 1 = 49}}.",
+          "en": "49: {{50 − 1 = 49}}.",
+          "fr": "49 : {{50 − 1 = 49}}.",
+          "ar": "العدد 49: {{50 − 1 = 49}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una cuenta atrás que pase por el 30 o por el 70.",
+        "va": "Ara inventa tu un compte arrere que passe pel 30 o pel 70.",
+        "en": "Now you make up a countdown that goes past 30 or 70.",
+        "fr": "Maintenant, invente un compte à rebours qui passe par 30 ou par 70.",
+        "ar": "والآن لنخترع عدًّا تنازليًا يمرّ بالعدد 30 أو 70."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-descendente",
+      "texto": {
+        "es": "Aisha cuenta hacia atrás de 10 en 10: 73, 63, 53… ¿Qué número dice después del 53?",
+        "va": "Aisha compta cap arrere de 10 en 10: 73, 63, 53… Quin nombre diu després del 53?",
+        "en": "Aisha counts backwards in tens: 73, 63, 53… What number does she say after 53?",
+        "fr": "Aisha compte à rebours de 10 en 10 : 73, 63, 53… Quel nombre dit-elle après 53 ?",
+        "ar": "تعدّ عائشة تنازليًا عشرة عشرة: 73، 63، 53… ما العدد الذي تقوله بعد 53؟"
+      },
+      "pista": {
+        "es": "Mira qué cifra se queda igual en todos los números que ha dicho.",
+        "va": "Mira quina xifra es queda igual en tots els nombres que ha dit.",
+        "en": "Look at which digit stays the same in all the numbers she has said.",
+        "fr": "Regarde quel chiffre reste pareil dans tous les nombres qu'elle a dits.",
+        "ar": "لننظر أيّ رقم يبقى كما هو في كل الأعداد التي قالتها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "53 - 10",
+        "resultado": 43,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Dice 43: el 3 se queda igual y las decenas bajan una.",
+          "va": "Diu 43: el 3 es queda igual i les desenes baixen una.",
+          "en": "She says 43: the 3 stays the same and the tens go down by one.",
+          "fr": "Elle dit 43 : le 3 reste pareil et les dizaines baissent d'une.",
+          "ar": "تقول 43: يبقى الرقم 3 كما هو وتنقص العشرات واحدة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra cuenta atrás de 10 en 10, empezando en el número que quieras.",
+        "va": "Inventa tu un altre compte arrere de 10 en 10, començant en el nombre que vulgues.",
+        "en": "Make up another countdown in tens, starting at any number you like.",
+        "fr": "Invente un autre compte à rebours de 10 en 10, en commençant au nombre que tu veux.",
+        "ar": "لنخترع عدًّا تنازليًا آخر عشرة عشرة، نبدأ فيه من أيّ عدد نختاره."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Mateo está en el 400 y da 3 saltos de 100 hacia delante. ¿En qué número cae?",
+        "va": "Mateo està en el 400 i fa 3 salts de 100 cap avant. En quin nombre cau?",
+        "en": "Mateo is on 400 and makes 3 jumps of 100 forwards. Which number does he land on?",
+        "fr": "Mateo est sur 400 et fait 3 sauts de 100 en avant. Sur quel nombre tombe-t-il ?",
+        "ar": "ماتيو عند 400، ويقفز 3 قفزات من 100 إلى الأمام. على أيّ عدد يقع؟"
+      },
+      "pista": {
+        "es": "Di en voz alta el número de cada salto: «500…».",
+        "va": "Digues en veu alta el nombre de cada salt: «500…».",
+        "en": "Say the number of each jump out loud: “500…”.",
+        "fr": "Dis à voix haute le nombre de chaque saut : « 500… ».",
+        "ar": "لنقل بصوت عالٍ عدد كل قفزة: «500…»."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "400 + 100 + 100 + 100",
+        "resultado": 700,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Cae en el 700: 500, 600, 700.",
+          "va": "Cau en el 700: 500, 600, 700.",
+          "en": "He lands on 700: 500, 600, 700.",
+          "fr": "Il tombe sur 700 : 500, 600, 700.",
+          "ar": "يقع على 700: 500، 600، 700."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con saltos de 100, hacia delante o hacia atrás.",
+        "va": "Inventa'n tu una altra amb salts de 100, cap avant o cap arrere.",
+        "en": "Make up another one with jumps of 100, forwards or backwards.",
+        "fr": "Invente-en une autre avec des sauts de 100, en avant ou en arrière.",
+        "ar": "لنخترع سؤالًا آخر بقفزات من 100، إلى الأمام أو إلى الخلف."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 8,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar: la torre de Fátima tiene 15 piezas y la de Pablo, 9. ¿Cuántas le faltan a la de Pablo para ser igual de alta?",
+        "va": "Per a recordar: la torre de Fátima té 15 peces i la de Pablo, 9. Quantes li'n falten a la de Pablo per a ser igual d'alta?",
+        "en": "Let's remember: Fátima's tower has 15 blocks and Pablo's has 9. How many blocks is Pablo's tower missing to be just as tall?",
+        "fr": "Pour se souvenir : la tour de Fátima a 15 pièces et celle de Pablo, 9. Combien en manque-t-il à celle de Pablo pour être aussi haute ?",
+        "ar": "لنتذكّر: برج فاطمة فيه 15 قطعة وبرج بابلو فيه 9. كم قطعة تنقص برج بابلو ليصبح بالطول نفسه؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 9 hasta el 15.",
+        "va": "Compta amb els dits des del 9 fins al 15.",
+        "en": "Count on your fingers from 9 up to 15.",
+        "fr": "Compte sur tes doigts de 9 jusqu'à 15.",
+        "ar": "لنعدّ بالأصابع من 9 حتى 15."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 - 9",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 6 piezas: {{9 + 6 = 15}}.",
+          "va": "Li'n falten 6: {{9 + 6 = 15}}.",
+          "en": "It needs 6 more blocks: {{9 + 6 = 15}}.",
+          "fr": "Il en manque 6 : {{9 + 6 = 15}}.",
+          "ar": "تنقصه 6 قطع: {{9 + 6 = 15}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos torres de piezas de casa.",
+        "va": "Inventa'n tu una altra amb dues torres de peces de casa.",
+        "en": "Make up another one with two towers of blocks from home.",
+        "fr": "Invente-en une autre avec deux tours de pièces de la maison.",
+        "ar": "لنخترع سؤالًا آخر ببرجين من قطع البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuenta hacia atrás de 10 en 10 desde 95. ¿Cómo sabes qué número viene después? Explícamelo.",
+        "va": "Compta cap arrere de 10 en 10 des de 95. Com saps quin nombre ve després? Explica-m'ho.",
+        "en": "Count backwards in tens from 95. How do you know which number comes next? Explain it to me.",
+        "fr": "Compte à rebours de 10 en 10 à partir de 95. Comment sais-tu quel nombre vient après ? Explique-le-moi.",
+        "ar": "لنعدّ تنازليًا عشرة عشرة من 95. كيف نعرف العدد الذي يأتي بعده؟ لنشرح ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué cifra cambia cada vez? ¿Y cuál se queda quieta?»",
+        "va": "Si no sap per on començar: «Quina xifra canvia cada vegada? I quina es queda quieta?»",
+        "en": "If they don't know where to start: “Which digit changes each time? And which one stays still?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Quel chiffre change à chaque fois ? Et lequel ne bouge pas ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «أيّ رقم يتغيّر في كل مرة؟ وأيّها يبقى ثابتًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que el 5 se queda igual y la otra cifra baja de uno en uno, o enseñarlo con los dedos. Cualquier explicación vale: escuchad y preguntad «¿y luego?».",
+          "va": "Pot dir que el 5 es queda igual i l'altra xifra baixa d'un en un, o ensenyar-ho amb els dits. Qualsevol explicació val: escolteu i pregunteu «i després?».",
+          "en": "They might say the 5 stays the same and the other digit goes down one at a time, or show it with their fingers. Any explanation is fine: listen and ask “And then?”.",
+          "fr": "Il ou elle peut dire que le 5 reste pareil et que l'autre chiffre baisse de un en un, ou le montrer avec les doigts. Toute explication est bonne : écoutez et demandez « Et après ? ».",
+          "ar": "قد يُقال إن الرقم 5 يبقى كما هو والرقم الآخر ينقص واحدًا في كل مرة، أو يُعرض ذلك بالأصابع. كل شرح مقبول: استمعوا واسألوا «ثم ماذا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "5481f4890cc7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "5481f4890cc7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "5481f4890cc7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "5481f4890cc7"
+      }
+    }
+  }
+}

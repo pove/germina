@@ -1,0 +1,331 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s04",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 4,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Cada número en su sitio",
+    "va": "Cada nombre al seu lloc",
+    "en": "Every number in its place",
+    "fr": "Chaque nombre à sa place",
+    "ar": "كل عدد في مكانه"
+  },
+  "objetivo": {
+    "es": "Esta semana comparan y ordenan números hasta 999: miran primero las centenas, luego las decenas y al final las unidades. También dicen cuál es mayor que otro y cuál es menor.",
+    "va": "Aquesta setmana comparen i ordenen nombres fins a 999: miren primer les centenes (centenas), després les desenes (decenas) i al final les unitats (unidades). També diuen quin és major que (mayor que) un altre i quin és menor.",
+    "en": "This week they compare and order numbers up to 999: they look at the hundreds (centenas) first, then the tens (decenas) and finally the ones (unidades). They also say which number is greater than (mayor que) another and which is less (menor).",
+    "fr": "Cette semaine, on compare et on range des nombres jusqu'à 999 : on regarde d'abord les centaines (centenas), puis les dizaines (decenas) et enfin les unités (unidades). On dit aussi quel nombre est plus grand qu'un autre (mayor que) et lequel est plus petit (menor).",
+    "ar": "هذا الأسبوع يقارن الأطفال الأعداد حتى 999 ويرتّبونها: ينظرون أولًا إلى المئات (centenas)، ثم العشرات (decenas)، وفي النهاية الآحاد (unidades). ويقولون أيضًا أيّ عدد أكبر من (mayor que) الآخر وأيّه أصغر (menor)."
+  },
+  "comoAyudar": {
+    "es": "Cuando dude entre dos números, preguntad «¿cuántas centenas tiene cada uno?» y, si son iguales, pasad a las decenas. Leer los números en voz alta también ayuda.",
+    "va": "Quan dubte entre dos nombres, pregunteu «quantes centenes té cada un?» i, si són iguals, passeu a les desenes. Llegir els nombres en veu alta també ajuda.",
+    "en": "When they're unsure between two numbers, ask “How many hundreds does each one have?” and, if they're the same, move on to the tens. Reading the numbers out loud helps too.",
+    "fr": "Quand il ou elle hésite entre deux nombres, demandez « Combien de centaines a chacun ? » et, s'il y en a autant, passez aux dizaines. Lire les nombres à voix haute aide aussi.",
+    "ar": "عند التردّد بين عددين، اسألوا «كم مئة في كل منهما؟»، وإذا تساويا فانتقلوا إلى العشرات. قراءة الأعداد بصوت عالٍ تساعد أيضًا."
+  },
+  "saberes": [
+    "matematicas.numeros.recta-comparar",
+    "matematicas.operaciones.igualdad"
+  ],
+  "criterios": [
+    "matematicas.c1.5.2",
+    "matematicas.c1.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cartas de cifras",
+      "va": "Cartes de xifres",
+      "en": "Digit cards",
+      "fr": "Les cartes chiffres",
+      "ar": "بطاقات الأرقام"
+    },
+    "material": [
+      {
+        "es": "10 trozos de papel con las cifras del 0 al 9, o una baraja sin figuras",
+        "va": "10 trossos de paper amb les xifres del 0 al 9, o una baralla sense figures",
+        "en": "10 scraps of paper with the digits 0 to 9, or a pack of cards without the picture cards",
+        "fr": "10 morceaux de papier avec les chiffres de 0 à 9, ou un jeu de cartes sans les figures",
+        "ar": "10 قصاصات ورق عليها الأرقام من 0 إلى 9، أو ورق لعب من دون الصور"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Poned las cartas boca abajo y sacad 3.",
+          "va": "Poseu les cartes de cara avall i agafeu-ne 3.",
+          "en": "Put the cards face down and pick 3.",
+          "fr": "Posez les cartes face cachée et tirez-en 3.",
+          "ar": "ضعوا البطاقات مقلوبة واسحبوا 3 منها."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Moved las 3 cartas hasta formar el número más grande que podáis. Leedlo en voz alta.",
+          "va": "Moveu les 3 cartes fins a formar el nombre més gran que pugueu. Llegiu-lo en veu alta.",
+          "en": "Move the 3 cards around to make the biggest number you can. Read it out loud.",
+          "fr": "Déplacez les 3 cartes pour former le plus grand nombre possible. Lisez-le à voix haute.",
+          "ar": "حرّكوا البطاقات الثلاث لتكوين أكبر عدد ممكن. اقرؤوه بصوت عالٍ."
+        }
+      },
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Con las mismas cartas, formad ahora el número más pequeño. ¿Por qué cambia tanto?",
+          "va": "Amb les mateixes cartes, formeu ara el nombre més menut. Per què canvia tant?",
+          "en": "With the same cards, now make the smallest number. Why does it change so much?",
+          "fr": "Avec les mêmes cartes, formez maintenant le plus petit nombre. Pourquoi ça change autant ?",
+          "ar": "بالبطاقات نفسها، كوّنوا الآن أصغر عدد. لماذا يتغيّر كثيرًا؟"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Jugad otra ronda, cada persona con sus cartas, y comparad: ¿quién tiene el número mayor? Mirad primero las centenas.",
+          "va": "Jugueu una altra ronda, cada persona amb les seues cartes, i compareu: qui té el nombre major? Mireu primer les centenes.",
+          "en": "Play another round, each person with their own cards, and compare: who has the greater number? Look at the hundreds first.",
+          "fr": "Jouez une autre manche, chaque personne avec ses cartes, et comparez : qui a le plus grand nombre ? Regardez d'abord les centaines.",
+          "ar": "العبوا جولة أخرى، لكل شخص بطاقاته، وقارنوا: من عنده العدد الأكبر؟ انظروا أولًا إلى المئات."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad con 2 cartas: números hasta 99.",
+      "va": "Jugueu amb 2 cartes: nombres fins a 99.",
+      "en": "Play with 2 cards: numbers up to 99.",
+      "fr": "Jouez avec 2 cartes : des nombres jusqu'à 99.",
+      "ar": "العبوا ببطاقتين: أعداد حتى 99."
+    },
+    "masDificil": {
+      "es": "Formad todos los números posibles con las 3 cartas y ordenadlos en fila, de menor a mayor.",
+      "va": "Formeu tots els nombres possibles amb les 3 cartes i ordeneu-los en fila, de menor a major.",
+      "en": "Make all the numbers you can with the 3 cards and put them in a row, from smallest to greatest.",
+      "fr": "Formez tous les nombres possibles avec les 3 cartes et rangez-les en ligne, du plus petit au plus grand.",
+      "ar": "كوّنوا كل الأعداد الممكنة بالبطاقات الثلاث، ورتّبوها في صف من الأصغر إلى الأكبر."
+    },
+    "paraQueSirve": {
+      "es": "Ver que las mismas cifras forman números distintos según su sitio es la clave del valor posicional.",
+      "va": "Veure que les mateixes xifres formen nombres diferents segons el seu lloc és la clau del valor posicional.",
+      "en": "Seeing that the same digits make different numbers depending on where they go is the key to place value.",
+      "fr": "Voir que les mêmes chiffres forment des nombres différents selon leur place, c'est la clé de la valeur de position.",
+      "ar": "رؤية أن الأرقام نفسها تكوّن أعدادًا مختلفة بحسب مكانها هي مفتاح القيمة المكانية."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "El puzle de Sara tiene 250 piezas y el de Youssef, 220. ¿Cuál tiene más piezas, y cuántas más?",
+        "va": "El trencaclosques de Sara té 250 peces i el de Youssef, 220. Quin té més peces, i quantes més?",
+        "en": "Sara's jigsaw has 250 pieces and Youssef's has 220. Which one has more pieces, and how many more?",
+        "fr": "Le puzzle de Sara a 250 pièces et celui de Youssef, 220. Lequel a le plus de pièces, et combien de plus ?",
+        "ar": "في أحجية سارة 250 قطعة، وفي أحجية يوسف 220. أيّهما فيها قطع أكثر، وكم أكثر؟"
+      },
+      "pista": {
+        "es": "Las centenas son iguales, así que mira las decenas.",
+        "va": "Les centenes són iguals, així que mira les desenes.",
+        "en": "The hundreds are the same, so look at the tens.",
+        "fr": "Les centaines sont les mêmes, alors regarde les dizaines.",
+        "ar": "المئات متساوية، فلننظر إلى العشرات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "250 - 220",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El de Sara tiene 30 piezas más.",
+          "va": "El de Sara té 30 peces més.",
+          "en": "Sara's has 30 more pieces.",
+          "fr": "Celui de Sara a 30 pièces de plus.",
+          "ar": "في أحجية سارة 30 قطعة أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con dos números grandes para ver cuál es mayor.",
+        "va": "Ara inventa'n tu una amb dos nombres grans per a veure quin és major.",
+        "en": "Now you make one up with two big numbers to see which one is greater.",
+        "fr": "Maintenant, invente une question avec deux grands nombres pour voir lequel est le plus grand.",
+        "ar": "والآن لنخترع سؤالًا بعددين كبيرين لنعرف أيّهما أكبر."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la calle de Wei, los portales van del 409 al 411. ¿Qué número tiene el portal de en medio?",
+        "va": "En el carrer de Wei, els portals van del 409 al 411. Quin nombre té el portal del mig?",
+        "en": "On Wei's street, the doors go from 409 to 411. What number is the door in the middle?",
+        "fr": "Dans la rue de Wei, les portes vont du 409 au 411. Quel numéro a la porte du milieu ?",
+        "ar": "في شارع وي، أرقام المداخل من 409 إلى 411. ما رقم المدخل الذي في الوسط؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba desde el 409, de uno en uno.",
+        "va": "Compta cap amunt des del 409, d'un en un.",
+        "en": "Count up from 409, one at a time.",
+        "fr": "Compte vers le haut à partir de 409, un par un.",
+        "ar": "لنعدّ صعودًا من 409، واحدًا واحدًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "409 + 1",
+        "resultado": 410,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es el portal 410.",
+          "va": "És el portal 410.",
+          "en": "It's door number 410.",
+          "fr": "C'est la porte 410.",
+          "ar": "إنه المدخل رقم 410."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos números y pregunta cuál va en medio.",
+        "va": "Inventa'n tu una altra amb dos nombres i pregunta quin va al mig.",
+        "en": "Make up another one with two numbers and ask which one goes in the middle.",
+        "fr": "Invente-en une autre avec deux nombres et demande lequel va au milieu.",
+        "ar": "لنخترع سؤالًا آخر بعددين ونسأل أيّ عدد يأتي بينهما."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Valentina dice que 3 centenas, 4 decenas y 5 unidades son lo mismo que 345. ¿Tiene razón?",
+        "va": "Valentina diu que 3 centenes, 4 desenes i 5 unitats són el mateix que 345. Té raó?",
+        "en": "Valentina says that 3 hundreds, 4 tens and 5 ones are the same as 345. Is she right?",
+        "fr": "Valentina dit que 3 centaines, 4 dizaines et 5 unités, c'est pareil que 345. A-t-elle raison ?",
+        "ar": "تقول فالنتينا إن 3 مئات و4 عشرات و5 آحاد تساوي 345. هل هي محقّة؟"
+      },
+      "pista": {
+        "es": "Junta 300, 40 y 5 y mira qué número sale.",
+        "va": "Ajunta 300, 40 i 5 i mira quin nombre ix.",
+        "en": "Put 300, 40 and 5 together and see what number you get.",
+        "fr": "Réunis 300, 40 et 5 et regarde quel nombre tu obtiens.",
+        "ar": "لنجمع 300 و40 و5 ونرى ما العدد الناتج."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "300 + 40 + 5",
+        "resultado": 345,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, tiene razón: {{300 + 40 + 5 = 345}}.",
+          "va": "Sí, té raó: {{300 + 40 + 5 = 345}}.",
+          "en": "Yes, she's right: {{300 + 40 + 5 = 345}}.",
+          "fr": "Oui, elle a raison : {{300 + 40 + 5 = 345}}.",
+          "ar": "نعم، هي محقّة: {{300 + 40 + 5 = 345}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un número de tres cifras y dilo en centenas, decenas y unidades.",
+        "va": "Inventa't tu un nombre de tres xifres i digues-lo en centenes, desenes i unitats.",
+        "en": "Make up a three-digit number and say it in hundreds, tens and ones.",
+        "fr": "Invente un nombre à trois chiffres et dis-le en centaines, dizaines et unités.",
+        "ar": "لنخترع عددًا من ثلاثة أرقام ونقوله بالمئات والعشرات والآحاد."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 3,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: tienes 1 plato con 100 legumbres y 6 vasos con 10. ¿Cuántas legumbres tienes?",
+        "va": "Per a recordar: tens 1 plat amb 100 llegums i 6 gots amb 10. Quants llegums tens?",
+        "en": "Let's remember: you have 1 plate with 100 beans and 6 cups with 10. How many beans do you have?",
+        "fr": "Pour se souvenir : tu as 1 assiette avec 100 haricots et 6 verres avec 10. Combien de haricots as-tu ?",
+        "ar": "لنتذكّر: عندنا صحن فيه 100 حبة، و6 أكواب في كل منها 10. كم حبة عندنا؟"
+      },
+      "pista": {
+        "es": "Empieza en 100 y sigue contando los vasos de 10 en 10.",
+        "va": "Comença en 100 i continua comptant els gots de 10 en 10.",
+        "en": "Start at 100 and count on the cups in tens.",
+        "fr": "Commence à 100 et continue en comptant les verres de 10 en 10.",
+        "ar": "لنبدأ من 100 ونتابع عدّ الأكواب عشرةً عشرةً."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 + 60",
+        "resultado": 160,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienes 160 legumbres.",
+          "va": "Tens 160 llegums.",
+          "en": "You have 160 beans.",
+          "fr": "Tu as 160 haricots.",
+          "ar": "عندنا 160 حبة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con platos de 100 y vasos de 10.",
+        "va": "Inventa'n tu una altra amb plats de 100 i gots de 10.",
+        "en": "Make up another one with plates of 100 and cups of 10.",
+        "fr": "Invente-en une autre avec des assiettes de 100 et des verres de 10.",
+        "ar": "لنخترع سؤالًا آخر بصحون فيها 100 وأكواب فيها 10."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué número es mayor, 312 o 321? Explícame cómo lo sabes.",
+        "va": "Quin nombre és major, 312 o 321? Explica'm com ho saps.",
+        "en": "Which number is greater, 312 or 321? Explain to me how you know.",
+        "fr": "Quel nombre est le plus grand, 312 ou 321 ? Explique-moi comment tu le sais.",
+        "ar": "أيّ العددين أكبر، 312 أم 321؟ لنشرح كيف عرفنا ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué miras primero, la cifra de la izquierda o la de la derecha?»",
+        "va": "Si no sap per on començar: «Què mires primer, la xifra de l'esquerra o la de la dreta?»",
+        "en": "If they don't know where to start: “What do you look at first, the digit on the left or the one on the right?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu regardes d'abord, le chiffre de gauche ou celui de droite ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إلى أيّ رقم ننظر أولًا، الذي على اليسار أم الذي على اليمين؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo importante es que cuente qué mira y en qué orden. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "El que importa és que conte què mira i en quin orde. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "What matters is that they say what they look at and in what order. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "L'important, c'est qu'il ou elle raconte ce qu'il ou elle regarde et dans quel ordre. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "المهم أن يُروى ما الذي نظرنا إليه وبأيّ ترتيب. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "8cd6fea070b3"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "8cd6fea070b3"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "8cd6fea070b3"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "8cd6fea070b3"
+      }
+    }
+  }
+}

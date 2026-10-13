@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s22",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 22,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: dobles, mitades y cuánto falta",
+    "va": "Setmana de recordar: dobles, meitats i quant falta",
+    "en": "Remembering week: doubles, halves and how many more",
+    "fr": "Semaine de rappel : doubles, moitiés et combien il manque",
+    "ar": "أسبوع التذكّر: الأضعاف والأنصاف وكم ينقص"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a contar a saltos, al doble, a la mitad y a cuánto falta, ahora con números hasta 20. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a comptar a salts, al doble, a la meitat (mitad) i a quant falta (cuánto falta), ara amb nombres fins a 20. No hi ha res de nou: és perquè s'assente.",
+    "en": "This week they go back to counting in jumps, doubles (doble), halves (mitad) and how many more (cuánto falta), now with numbers up to 20. There is nothing new: it is to let it settle.",
+    "fr": "Cette semaine, on revient à compter par sauts, au double (doble), à la moitié (mitad) et à combien il manque (cuánto falta), maintenant avec des nombres jusqu'à 20. Rien de nouveau : c'est pour que ça s'installe.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى العدّ بالقفزات، وإلى الضعف (doble)، والنصف (mitad)، وكم ينقص (cuánto falta)، بأعداد حتى 20 الآن. لا جديد: إنه لترسيخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Dejad que use legumbres o dedos aunque ya lo sepa de memoria. Si no sale, volved a números más pequeños y probad otra vez.",
+    "va": "Deixeu que use llegums o dits encara que ja ho sàpia de memòria. Si no ix, torneu a nombres més menuts i proveu una altra vegada.",
+    "en": "Let your child use beans or fingers even if they already know it by heart. If it doesn't work out, go back to smaller numbers and try again.",
+    "fr": "Laissez votre enfant utiliser des haricots ou ses doigts même s'il ou elle le sait déjà par cœur. Si ça ne vient pas, revenez à des nombres plus petits et réessayez.",
+    "ar": "اتركوا استعمال البقوليات أو الأصابع متاحًا حتى لو كان الجواب محفوظًا. وإذا لم ينجح الأمر، عودوا إلى أعداد أصغر وجرّبوا من جديد."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El espejo y las torres",
+      "va": "L'espill i les torres",
+      "en": "The mirror and the towers",
+      "fr": "Le miroir et les tours",
+      "ar": "المرآة والأبراج"
+    },
+    "material": [
+      {
+        "es": "Legumbres secas o botones",
+        "va": "Llegums secs o botons",
+        "en": "Dried beans or buttons",
+        "fr": "Des légumes secs ou des boutons",
+        "ar": "بقوليات جافّة أو أزرار"
+      },
+      {
+        "es": "Dos platos",
+        "va": "Dos plats",
+        "en": "Two plates",
+        "fr": "Deux assiettes",
+        "ar": "صحنان"
+      },
+      {
+        "es": "Piezas de construcción o tapones",
+        "va": "Peces de construcció o taps",
+        "en": "Building blocks or bottle tops",
+        "fr": "Des pièces de construction ou des bouchons",
+        "ar": "قطع بناء أو أغطية"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "El espejo: una persona pone hasta 10 legumbres en un plato y la otra pone las mismas. ¿Cuál es el doble?",
+          "va": "L'espill: una persona posa fins a 10 llegums en un plat i l'altra posa les mateixes. Quin és el doble?",
+          "en": "The mirror: one person puts up to 10 beans on a plate and the other puts the same. What is the double?",
+          "fr": "Le miroir : une personne met jusqu'à 10 haricots dans une assiette et l'autre met les mêmes. Quel est le double ?",
+          "ar": "المرآة: يضع شخص حتى 10 حبّات في صحن، ويضع الآخر العدد نفسه. ما الضعف؟"
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Al revés: juntad hasta 20 legumbres y repartidlas en los dos platos. ¿Cuál es la mitad? ¿Sobra alguna?",
+          "va": "Al revés: ajunteu fins a 20 llegums i repartiu-los en els dos plats. Quina és la meitat? En sobra algun?",
+          "en": "The other way round: put together up to 20 beans and share them between the two plates. What is half? Is one left over?",
+          "fr": "À l'envers : réunissez jusqu'à 20 haricots et partagez-les dans les deux assiettes. Quelle est la moitié ? Est-ce qu'il en reste un ?",
+          "ar": "بالعكس: اجمعوا حتى 20 حبّة ووزّعوها على الصحنين. ما النصف؟ هل بقيت حبّة؟"
+        }
+      },
+      {
+        "pictograma": "caja",
+        "texto": {
+          "es": "Las torres: haced una torre de 20 piezas y otra más baja.",
+          "va": "Les torres: feu una torre de 20 peces i una altra més baixa.",
+          "en": "The towers: build a tower of 20 pieces and a shorter one.",
+          "fr": "Les tours : construisez une tour de 20 pièces et une autre plus basse.",
+          "ar": "الأبراج: ابنوا برجًا من 20 قطعة وآخر أقصر."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad hacia arriba desde la baja: ¿cuántas piezas faltan para llegar a 20?",
+          "va": "Compteu cap amunt des de la baixa: quantes peces falten per a arribar a 20?",
+          "en": "Count up from the shorter one: how many pieces are missing to reach 20?",
+          "fr": "Comptez vers le haut à partir de la plus basse : combien de pièces manquent pour arriver à 20 ?",
+          "ar": "عدّوا صعودًا من البرج الأقصر: كم قطعة تنقص للوصول إلى 20؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad con números hasta 10 y usad los dedos para el doble y para lo que falta.",
+      "va": "Jugueu amb nombres fins a 10 i utilitzeu els dits per al doble i per al que falta.",
+      "en": "Play with numbers up to 10 and use your fingers for doubles and for how many more.",
+      "fr": "Jouez avec des nombres jusqu'à 10 et utilisez vos doigts pour le double et pour ce qui manque.",
+      "ar": "العبوا بأعداد حتى 10، واستعملوا الأصابع للضعف ولما ينقص."
+    },
+    "masDificil": {
+      "es": "Decid el doble, la mitad o lo que falta antes de contar, y luego comprobadlo con las legumbres o las piezas.",
+      "va": "Digueu el doble, la meitat o el que falta abans de comptar, i després comproveu-ho amb els llegums o les peces.",
+      "en": "Say the double, the half or how many more before counting, and then check with the beans or the pieces.",
+      "fr": "Dites le double, la moitié ou ce qui manque avant de compter, puis vérifiez avec les haricots ou les pièces.",
+      "ar": "قولوا الضعف أو النصف أو ما ينقص قبل العدّ، ثم تأكّدوا بالبقوليات أو القطع."
+    },
+    "paraQueSirve": {
+      "es": "Volver a jugar con lo que ya conocen hace que lo recuerden mejor y que lo usen sin pensar en las sumas y restas de cada día.",
+      "va": "Tornar a jugar amb el que ja coneixen fa que ho recorden millor i que ho usen sense pensar en les sumes i restes de cada dia.",
+      "en": "Playing again with what they already know helps them remember it better and use it without thinking in everyday additions and subtractions.",
+      "fr": "Rejouer avec ce qu'on connaît déjà aide à mieux s'en souvenir et à l'utiliser sans y penser dans les additions et soustractions de tous les jours.",
+      "ar": "العودة إلى اللعب بما نعرفه تساعد على تذكّره أفضل واستعماله بسهولة في الجمع والطرح كل يوم."
+    },
+    "aviso": {
+      "es": "Si usáis legumbres o piezas pequeñas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si utilitzeu llegums o peces menudes, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use dried beans or small pieces, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des légumes secs ou de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم البقوليات أو قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Cuenta de 5 en 5 los dedos de 3 manos. ¿Cuántos dedos son?",
+        "va": "Compta de 5 en 5 els dits de 3 mans. Quants dits són?",
+        "en": "Count the fingers on 3 hands in 5s. How many fingers is that?",
+        "fr": "Compte de 5 en 5 les doigts de 3 mains. Combien de doigts cela fait-il ?",
+        "ar": "لنعدّ أصابع 3 أيدٍ خمسة خمسة. كم إصبعًا؟"
+      },
+      "pista": {
+        "es": "Di un número por cada mano: «5, 10…».",
+        "va": "Digues un nombre per cada mà: «5, 10…».",
+        "en": "Say one number for each hand: “5, 10…”.",
+        "fr": "Dis un nombre pour chaque main : « 5, 10… ».",
+        "ar": "لنقل عددًا لكل يد: «5، 10…»."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 5 + 5",
+        "resultado": 15,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 15 dedos: 5, 10, 15. {{5 + 5 + 5 = 15}}.",
+          "va": "Són 15 dits: 5, 10, 15. {{5 + 5 + 5 = 15}}.",
+          "en": "That's 15 fingers: 5, 10, 15. {{5 + 5 + 5 = 15}}.",
+          "fr": "Ça fait 15 doigts : 5, 10, 15. {{5 + 5 + 5 = 15}}.",
+          "ar": "عددها 15 إصبعًا: 5، 10، 15. {{5 + 5 + 5 = 15}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las manos de las personas que estén contigo.",
+        "va": "Inventa'n tu una altra amb les mans de les persones que estiguen amb tu.",
+        "en": "Make up another one with the hands of the people who are with you.",
+        "fr": "Invente-en une autre avec les mains des personnes qui sont avec toi.",
+        "ar": "لنخترع سؤالًا آخر بأيدي من معنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Pablo tiene 7 coches de juguete. Su prima tiene el doble. ¿Cuántos tiene su prima?",
+        "va": "Pablo té 7 cotxes de joguet. Sa cosina en té el doble. Quants en té sa cosina?",
+        "en": "Pablo has 7 toy cars. His cousin has double that. How many does his cousin have?",
+        "fr": "Pablo a 7 petites voitures. Sa cousine en a le double. Combien en a sa cousine ?",
+        "ar": "عند بابلو 7 سيارات لعبة. وعند ابنة عمّه الضعف. كم سيارة عندها؟"
+      },
+      "pista": {
+        "es": "El doble es lo mismo otra vez: 7 y 7.",
+        "va": "El doble és el mateix una altra vegada: 7 i 7.",
+        "en": "Double is the same again: 7 and 7.",
+        "fr": "Le double, c'est la même chose encore une fois : 7 et 7.",
+        "ar": "الضعف هو العدد نفسه مرة أخرى: 7 و7."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 7",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Su prima tiene 14: {{7 + 7 = 14}}.",
+          "va": "Sa cosina en té 14: {{7 + 7 = 14}}.",
+          "en": "His cousin has 14: {{7 + 7 = 14}}.",
+          "fr": "Sa cousine en a 14 : {{7 + 7 = 14}}.",
+          "ar": "عندها 14: {{7 + 7 = 14}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el doble de tus juguetes favoritos.",
+        "va": "Inventa'n tu una altra amb el doble dels teus joguets preferits.",
+        "en": "Make up another one with double your favourite toys.",
+        "fr": "Invente-en une autre avec le double de tes jouets préférés.",
+        "ar": "لنخترع سؤالًا آخر بضعف ألعابنا المفضّلة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Fátima y su abuelo se reparten 16 uvas a partes iguales. ¿Cuántas le tocan a cada uno?",
+        "va": "Fátima i son iaio es repartixen 16 grans de raïm a parts iguals. Quants li'n toquen a cada u?",
+        "en": "Fátima and her grandad share 16 grapes equally. How many does each of them get?",
+        "fr": "Fátima et son grand-père se partagent 16 grains de raisin en parts égales. Combien chacun en reçoit-il ?",
+        "ar": "تتقاسم فاطمة وجدّها 16 حبّة عنب بالتساوي. كم حبّة لكلّ منهما؟"
+      },
+      "pista": {
+        "es": "Piensa en qué número tiene 16 como doble.",
+        "va": "Pensa quin nombre té 16 com a doble.",
+        "en": "Think which number has 16 as its double.",
+        "fr": "Pense au nombre dont le double est 16.",
+        "ar": "لنفكّر في العدد الذي ضعفه 16."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "16 - 8",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A cada uno le tocan 8: {{8 + 8 = 16}}. La mitad de 16 es 8.",
+          "va": "A cada u li'n toquen 8: {{8 + 8 = 16}}. La meitat de 16 és 8.",
+          "en": "Each of them gets 8: {{8 + 8 = 16}}. Half of 16 is 8.",
+          "fr": "Chacun en reçoit 8 : {{8 + 8 = 16}}. La moitié de 16, c'est 8.",
+          "ar": "لكلّ منهما 8: {{8 + 8 = 16}}. نصف 16 هو 8."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra repartiendo algo de la merienda.",
+        "va": "Inventa'n tu una altra repartint alguna cosa del berenar.",
+        "en": "Make up another one by sharing something at snack time.",
+        "fr": "Invente-en une autre en partageant quelque chose du goûter.",
+        "ar": "لنخترع سؤالًا آخر نوزّع فيه شيئًا من الوجبة الخفيفة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 21,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar: Valentina tiene 13 pegatinas y en su álbum caben 20. ¿Cuántas le faltan para llenarlo?",
+        "va": "Per a recordar: Valentina té 13 adhesius i en el seu àlbum en caben 20. Quants li'n falten per a omplir-lo?",
+        "en": "Let's remember: Valentina has 13 stickers and her album holds 20. How many more will fill it?",
+        "fr": "Pour se souvenir : Valentina a 13 autocollants et son album peut en contenir 20. Combien lui en manque-t-il pour le remplir ?",
+        "ar": "لنتذكّر: عند فالنتينا 13 ملصقًا، ويتّسع ألبومها لعشرين. كم ملصقًا ينقصها لتملأه؟"
+      },
+      "pista": {
+        "es": "Di «13» y cuenta hacia arriba con los dedos hasta el 20.",
+        "va": "Digues «13» i compta cap amunt amb els dits fins al 20.",
+        "en": "Say “13” and count up on your fingers to 20.",
+        "fr": "Dis « 13 » et compte sur tes doigts jusqu'à 20.",
+        "ar": "لنقل «13» ونعدّ صعودًا بالأصابع حتى 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 13",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 7: {{13 + 7 = 20}}.",
+          "va": "Li'n falten 7: {{13 + 7 = 20}}.",
+          "en": "She needs 7 more: {{13 + 7 = 20}}.",
+          "fr": "Il lui en manque 7 : {{13 + 7 = 20}}.",
+          "ar": "ينقصها 7: {{13 + 7 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo que quieras juntar hasta 20.",
+        "va": "Inventa'n tu una altra amb alguna cosa que vulgues ajuntar fins a 20.",
+        "en": "Make up another one with something you want to collect up to 20.",
+        "fr": "Invente-en une autre avec quelque chose que tu veux réunir jusqu'à 20.",
+        "ar": "لنخترع سؤالًا آخر بشيء نريد أن نجمع منه حتى 20."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué te resulta más fácil, el doble o la mitad? Explícamelo con legumbres o con los dedos.",
+        "va": "Què et resulta més fàcil, el doble o la meitat? Explica-m'ho amb llegums o amb els dits.",
+        "en": "Which do you find easier, double or half? Show me with beans or with your fingers.",
+        "fr": "Qu'est-ce qui est le plus facile pour toi, le double ou la moitié ? Explique-le-moi avec des haricots ou avec tes doigts.",
+        "ar": "أيّهما أسهل علينا: الضعف أم النصف؟ لنشرح ذلك بالبقوليات أو بالأصابع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me enseñas el doble de 3 y la mitad de 6?».",
+        "va": "Si no sap per on començar: «M'ensenyes el doble de 3 i la meitat de 6?».",
+        "en": "If they don't know where to start: “Can you show me double 3 and half of 6?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres le double de 3 et la moitié de 6 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نُري ضعف 3 ونصف 6؟»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si descubre que el doble de 3 es 6 y la mitad de 6 es 3, ¡qué buen descubrimiento! Escuchad y dad las gracias por la explicación.",
+          "va": "Si descobrix que el doble de 3 és 6 i la meitat de 6 és 3, quin bon descobriment! Escolteu i doneu les gràcies per l'explicació.",
+          "en": "If your child notices that double 3 is 6 and half of 6 is 3, what a great discovery! Listen and say thank you for the explanation.",
+          "fr": "Si votre enfant découvre que le double de 3 est 6 et que la moitié de 6 est 3, quelle belle découverte ! Écoutez et dites merci pour l'explication.",
+          "ar": "إذا اكتُشف أن ضعف 3 هو 6 وأن نصف 6 هو 3، فهذا اكتشاف رائع! استمعوا وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f0d9e7a5167e"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f0d9e7a5167e"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f0d9e7a5167e"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f0d9e7a5167e"
+      }
+    }
+  }
+}

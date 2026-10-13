@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s11",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 11,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuál es mayor?",
+    "va": "Quin és major?",
+    "en": "Which is greater?",
+    "fr": "Lequel est le plus grand ?",
+    "ar": "أيّهما أكبر؟"
+  },
+  "objetivo": {
+    "es": "Esta semana comparan y ordenan números hasta 99: cuál es mayor, cuál es menor o si son iguales. Para eso miran primero las decenas.",
+    "va": "Aquesta setmana comparen i ordenen nombres fins a 99: quin és major (mayor), quin és menor (menor) o si són iguals (iguales). Per a això miren primer les desenes (decenas).",
+    "en": "This week they compare and order numbers up to 99: which is greater (mayor), which is less (menor) or whether they are equal (iguales). To do it, they look at the tens (decenas) first.",
+    "fr": "Cette semaine, on compare et on range des nombres jusqu'à 99 : lequel est le plus grand (mayor), lequel est le plus petit (menor) ou s'ils sont égaux (iguales). Pour cela, on regarde d'abord les dizaines (decenas).",
+    "ar": "هذا الأسبوع يقارن الأطفال الأعداد حتى 99 ويرتّبونها: أيّها أكبر (mayor)، وأيّها أصغر (menor)، أو إن كانت متساوية (iguales). ولذلك ينظرون أولًا إلى العشرات (decenas)."
+  },
+  "comoAyudar": {
+    "es": "Si duda entre dos números, como 32 y 23, haced los dos con paquetes de 10 y sueltos: gana el que tiene más paquetes.",
+    "va": "Si dubta entre dos nombres, com 32 i 23, feu-los tots dos amb paquets de 10 i solts: guanya el que té més paquets.",
+    "en": "If they're unsure between two numbers, like 32 and 23, make both with bundles of 10 and loose ones: the one with more bundles wins.",
+    "fr": "En cas de doute entre deux nombres, comme 32 et 23, faites les deux avec des paquets de 10 et des éléments seuls : celui qui a le plus de paquets gagne.",
+    "ar": "عند التردّد بين عددين، مثل 32 و23، كوّنوا العددين بحزم من 10 وأشياء منفردة: يفوز العدد الذي فيه حزم أكثر."
+  },
+  "saberes": [
+    "matematicas.numeros.recta-comparar",
+    "matematicas.operaciones.igualdad"
+  ],
+  "criterios": [
+    "matematicas.c1.5.2",
+    "matematicas.c1.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La cuerda de los números",
+      "va": "La corda dels nombres",
+      "en": "The number line on a string",
+      "fr": "La corde des nombres",
+      "ar": "حبل الأعداد"
+    },
+    "material": [
+      {
+        "es": "Una cuerda o un cordón largo",
+        "va": "Una corda o un cordó llarg",
+        "en": "A long piece of string or cord",
+        "fr": "Une corde ou un long cordon",
+        "ar": "حبل أو خيط طويل"
+      },
+      {
+        "es": "Pinzas de la ropa y trocitos de papel con números del 0 al 50, escritos por una persona adulta",
+        "va": "Pinces de la roba i trossets de paper amb nombres del 0 al 50, escrits per una persona adulta",
+        "en": "Clothes pegs and small pieces of paper with numbers from 0 to 50, written by an adult",
+        "fr": "Des pinces à linge et des petits bouts de papier avec des nombres de 0 à 50, écrits par un adulte",
+        "ar": "ملاقط غسيل وقصاصات ورق صغيرة عليها أعداد من 0 إلى 50، يكتبها شخص بالغ"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Poned la cuerda en el suelo. Colgad con una pinza el 0 en una punta y el 50 en la otra.",
+          "va": "Poseu la corda en terra. Pengeu amb una pinça el 0 en una punta i el 50 en l'altra.",
+          "en": "Lay the string on the floor. Peg 0 at one end and 50 at the other.",
+          "fr": "Posez la corde par terre. Accrochez avec une pince le 0 à un bout et le 50 à l'autre.",
+          "ar": "ضعوا الحبل على الأرض. علّقوا بملقط العدد 0 في طرف والعدد 50 في الطرف الآخر."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Doblad los otros papelitos y metedlos en una bolsa. Sacad uno.",
+          "va": "Doblegueu els altres paperets i fiqueu-los en una bossa. Traieu-ne un.",
+          "en": "Fold the other pieces of paper and put them in a bag. Take one out.",
+          "fr": "Pliez les autres petits papiers et mettez-les dans un sac. Tirez-en un.",
+          "ar": "اطووا القصاصات الأخرى وضعوها في كيس. أخرجوا واحدة."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Colgadlo en su sitio: ¿va antes o después de los que ya están?",
+          "va": "Pengeu-lo al seu lloc: va abans o després dels que ja hi ha?",
+          "en": "Peg it in its place: does it go before or after the ones already there?",
+          "fr": "Accrochez-le à sa place : est-ce qu'il va avant ou après ceux qui sont déjà là ?",
+          "ar": "علّقوها في مكانها: هل تأتي قبل الأعداد الموجودة أم بعدها؟"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Cuando haya varios, elegid dos y decid cuál es mayor: «el 32 es mayor que el 23».",
+          "va": "Quan n'hi haja uns quants, trieu-ne dos i digueu quin és major: «el 32 és major que el 23».",
+          "en": "When there are several, choose two and say which is greater: “32 is greater than 23”.",
+          "fr": "Quand il y en a plusieurs, choisissez-en deux et dites lequel est le plus grand : « 32 est plus grand que 23 ».",
+          "ar": "عندما تصير هناك أعداد كثيرة، اختاروا عددين وقولوا أيّهما أكبر: «32 أكبر من 23»."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo números del 0 al 20.",
+      "va": "Feu servir només nombres del 0 al 20.",
+      "en": "Only use numbers from 0 to 20.",
+      "fr": "Utilisez seulement des nombres de 0 à 20.",
+      "ar": "استعملوا فقط الأعداد من 0 إلى 20."
+    },
+    "masDificil": {
+      "es": "Usad números hasta el 99, o quitad un papelito sin mirar y adivinad cuál falta.",
+      "va": "Feu servir nombres fins al 99, o lleveu un paperet sense mirar i endevineu quin falta.",
+      "en": "Use numbers up to 99, or take one piece of paper away without looking and guess which one is missing.",
+      "fr": "Utilisez des nombres jusqu'à 99, ou enlevez un petit papier sans regarder et devinez lequel manque.",
+      "ar": "استعملوا أعدادًا حتى 99، أو انزعوا قصاصة من دون نظر وخمّنوا أيّ عدد ناقص."
+    },
+    "paraQueSirve": {
+      "es": "Saber qué número es mayor sirve para ver quién tiene más cromos, en qué página del cuento vamos o qué piso es más alto.",
+      "va": "Saber quin nombre és major servix per a veure qui té més cromos, per quina pàgina del conte anem o quin pis és més alt.",
+      "en": "Knowing which number is greater helps you see who has more stickers, what page of the story you're on or which floor is higher.",
+      "fr": "Savoir quel nombre est le plus grand sert à voir qui a le plus d'images, à quelle page de l'histoire on en est ou quel étage est le plus haut.",
+      "ar": "معرفة أيّ عدد أكبر تساعد على معرفة من عنده صور أكثر، وفي أيّ صفحة من القصة نحن، وأيّ طابق أعلى."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Pablo tiene 36 cromos y Amaia tiene 46. ¿Quién tiene más, y cuántos más?",
+        "va": "Pablo té 36 cromos i Amaia en té 46. Qui en té més, i quants més?",
+        "en": "Pablo has 36 stickers and Amaia has 46. Who has more, and how many more?",
+        "fr": "Pablo a 36 images et Amaia en a 46. Qui en a le plus, et combien de plus ?",
+        "ar": "عند بابلو 36 صورة لاصقة وعند أمايا 46. من عنده أكثر، وكم أكثر؟"
+      },
+      "pista": {
+        "es": "Mira las decenas: ¿quién tiene más paquetes de 10?",
+        "va": "Mira les desenes: qui té més paquets de 10?",
+        "en": "Look at the tens: who has more bundles of 10?",
+        "fr": "Regarde les dizaines : qui a le plus de paquets de 10 ?",
+        "ar": "لننظر إلى العشرات: من عنده حزم أكثر من 10؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "46 - 36",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Amaia tiene 10 cromos más: una decena más.",
+          "va": "Amaia té 10 cromos més: una desena més.",
+          "en": "Amaia has 10 more stickers: one more ten.",
+          "fr": "Amaia a 10 images de plus : une dizaine de plus.",
+          "ar": "عند أمايا 10 صور أكثر: عشرة واحدة زيادة."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con los cuentos o los juguetes de casa.",
+        "va": "Ara inventa'n tu una amb els contes o els joguets de casa.",
+        "en": "Now you make one up with the storybooks or toys at home.",
+        "fr": "Maintenant, invente une question avec les livres ou les jouets de la maison.",
+        "ar": "والآن لنخترع سؤالًا بقصص البيت أو ألعابه."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Iker va por la página 28 del cuento y Fátima por la 82. ¿Quién ha leído más páginas?",
+        "va": "Iker va per la pàgina 28 del conte i Fátima per la 82. Qui ha llegit més pàgines?",
+        "en": "Iker is on page 28 of the story and Fátima is on page 82. Who has read more pages?",
+        "fr": "Iker en est à la page 28 de l'histoire et Fátima à la page 82. Qui a lu le plus de pages ?",
+        "ar": "إيكر في الصفحة 28 من القصة، وفاطمة في الصفحة 82. من قرأ صفحات أكثر؟"
+      },
+      "pista": {
+        "es": "Los dos números tienen un 2 y un 8: mira cuál va en el sitio de las decenas.",
+        "va": "Els dos nombres tenen un 2 i un 8: mira quin va al lloc de les desenes.",
+        "en": "Both numbers have a 2 and an 8: look at which one is in the tens place.",
+        "fr": "Les deux nombres ont un 2 et un 8 : regarde lequel est à la place des dizaines.",
+        "ar": "في العددين 2 و8: لننظر أيّهما في خانة العشرات."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Fátima, porque 82 es mayor que 28: tiene 8 decenas y 28 solo tiene 2. Si cuesta, haced los dos números con paquetes de 10.",
+          "va": "Fátima, perquè 82 és major que 28: té 8 desenes i 28 només en té 2. Si costa, feu els dos nombres amb paquets de 10.",
+          "en": "Fátima, because 82 is greater than 28: it has 8 tens and 28 only has 2. If it's tricky, make both numbers with bundles of 10.",
+          "fr": "Fátima, parce que 82 est plus grand que 28 : il a 8 dizaines et 28 n'en a que 2. Si c'est difficile, faites les deux nombres avec des paquets de 10.",
+          "ar": "فاطمة، لأن 82 أكبر من 28: فيه 8 عشرات، و28 فيه عشرتان فقط. إذا صعُب الأمر، كوّنوا العددين بحزم من 10."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos números que tengan las mismas cifras, como 15 y 51.",
+        "va": "Inventa'n tu una altra amb dos nombres que tinguen les mateixes xifres, com 15 i 51.",
+        "en": "Make up another one with two numbers that have the same digits, like 15 and 51.",
+        "fr": "Invente-en une autre avec deux nombres qui ont les mêmes chiffres, comme 15 et 51.",
+        "ar": "لنخترع سؤالًا آخر بعددين لهما الأرقام نفسها، مثل 15 و51."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En una caja hay 3 paquetes de 10 lápices. En otra, 30 lápices sueltos. ¿Dónde hay más?",
+        "va": "En una caixa hi ha 3 paquets de 10 llapis. En una altra, 30 llapis solts. On n'hi ha més?",
+        "en": "In one box there are 3 bundles of 10 pencils. In another, 30 loose pencils. Where are there more?",
+        "fr": "Dans une boîte, il y a 3 paquets de 10 crayons. Dans une autre, 30 crayons seuls. Où y en a-t-il le plus ?",
+        "ar": "في علبة 3 حزم في كل منها 10 أقلام. وفي علبة أخرى 30 قلمًا منفردًا. أين يوجد أكثر؟"
+      },
+      "pista": {
+        "es": "Cuenta los paquetes de diez en diez: 10, 20…",
+        "va": "Compta els paquets de deu en deu: 10, 20…",
+        "en": "Count the bundles in tens: 10, 20…",
+        "fr": "Compte les paquets de dix en dix : 10, 20…",
+        "ar": "لنعدّ الحزم عشرة عشرة: 10، 20…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 10",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay los mismos, {{10 + 10 + 10 = 30}}: son iguales.",
+          "va": "N'hi ha els mateixos, {{10 + 10 + 10 = 30}}: són iguals.",
+          "en": "There are the same, {{10 + 10 + 10 = 30}}: they are equal.",
+          "fr": "Il y en a autant, {{10 + 10 + 10 = 30}} : c'est égal.",
+          "ar": "العدد نفسه، {{10 + 10 + 10 = 30}}: هما متساويان."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra en la que haya lo mismo en las dos cajas.",
+        "va": "Inventa'n tu una altra en què hi haja el mateix en les dues caixes.",
+        "en": "Make up another one where there is the same amount in both boxes.",
+        "fr": "Invente-en une autre où il y a autant dans les deux boîtes.",
+        "ar": "لنخترع سؤالًا آخر يكون فيه العدد نفسه في العلبتين."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 8,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: tienes 5 vasos con 10 legumbres cada uno y 7 legumbres sueltas. ¿Qué número sale?",
+        "va": "Per a recordar: tens 5 gots amb 10 llegums cada un i 7 llegums solts. Quin nombre ix?",
+        "en": "Let's remember: you have 5 cups with 10 beans each and 7 loose beans. What number do you get?",
+        "fr": "Pour se souvenir : tu as 5 verres avec 10 légumes secs chacun et 7 légumes secs seuls. Quel nombre obtiens-tu ?",
+        "ar": "لنتذكّر: عندنا 5 أكواب في كل منها 10 حبّات من البقول، و7 حبّات منفردة. ما العدد الذي يخرج؟"
+      },
+      "pista": {
+        "es": "Los vasos son las decenas y las sueltas, las unidades.",
+        "va": "Els gots són les desenes i els solts, les unitats (unidades).",
+        "en": "The cups are the tens and the loose ones are the ones (unidades).",
+        "fr": "Les verres sont les dizaines et les éléments seuls, les unités (unidades).",
+        "ar": "الأكواب هي العشرات، والحبّات المنفردة هي الآحاد (unidades)."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 10 + 10 + 10 + 7",
+        "resultado": 57,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sale el 57: 5 decenas y 7 unidades.",
+          "va": "Ix el 57: 5 desenes i 7 unitats.",
+          "en": "You get 57: 5 tens and 7 ones.",
+          "fr": "On obtient 57 : 5 dizaines et 7 unités.",
+          "ar": "يخرج العدد 57: 5 عشرات و7 آحاد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con otros vasos y otras sueltas.",
+        "va": "Inventa'n tu una altra amb altres gots i altres solts.",
+        "en": "Make up another one with different cups and loose beans.",
+        "fr": "Invente-en une autre avec d'autres verres et d'autres éléments seuls.",
+        "ar": "لنخترع سؤالًا آخر بأكواب أخرى وحبّات منفردة أخرى."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes cuál de dos números es mayor? Explícamelo con el 45 y el 54.",
+        "va": "Com saps quin de dos nombres és major? Explica-m'ho amb el 45 i el 54.",
+        "en": "How do you know which of two numbers is greater? Explain it to me with 45 and 54.",
+        "fr": "Comment sais-tu lequel de deux nombres est le plus grand ? Explique-le-moi avec 45 et 54.",
+        "ar": "كيف نعرف أيّ العددين أكبر؟ لنشرح ذلك بالعددين 45 و54."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué miras primero, las decenas o las unidades?»",
+        "va": "Si no sap per on començar: «Què mires primer, les desenes o les unitats?»",
+        "en": "If they don't know where to start: “What do you look at first, the tens or the ones?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu regardes d'abord, les dizaines ou les unités ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إلى ماذا ننظر أولًا، العشرات أم الآحاد؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Puede contarlo con paquetes, con la cuerda o con palabras. Escuchad y preguntad «¿y luego?».",
+          "va": "No fa falta que ho diga perfecte. Pot contar-ho amb paquets, amb la corda o amb paraules. Escolteu i pregunteu «i després?».",
+          "en": "It doesn't need to be perfect. They can explain it with bundles, with the string or with words. Listen and ask “And then?”.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Votre enfant peut l'expliquer avec des paquets, avec la corde ou avec des mots. Écoutez et demandez « Et après ? ».",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. يمكن الشرح بالحزم أو بالحبل أو بالكلمات. استمعوا واسألوا «ثم ماذا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "e047da40ac71"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "e047da40ac71"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "e047da40ac71"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "e047da40ac71"
+      }
+    }
+  }
+}

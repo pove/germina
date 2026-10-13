@@ -339,6 +339,92 @@ describe('regla 9: pictogramas', () => {
   });
 });
 
+describe('regla 10: 1.er ciclo', () => {
+  const RUTA_1 = 'contenido/ciclo-1/matematicas/1/semana-01.json';
+  const EJEMPLO_1 = JSON.parse(readFileSync(join(RAIZ, RUTA_1), 'utf8'));
+
+  /** Monta un contenido con la semilla de 1.º (semana 1), como `validar` hace con la de 3.º. */
+  function validar1(cambiar, { curso = 1 } = {}) {
+    const raiz = mkdtempSync(join(tmpdir(), 'germina-'));
+    temporales.push(raiz);
+    for (const dir of ['config', 'src/assets/pictos', 'contenido/comun']) cpSync(join(RAIZ, dir), join(raiz, dir), { recursive: true });
+    for (const f of ['mapa-semanas.json', 'objetivos.json']) {
+      cpSync(join(RAIZ, 'contenido/ciclo-1/matematicas', f), join(raiz, 'contenido/ciclo-1/matematicas', f));
+    }
+    const s = structuredClone(EJEMPLO_1);
+    if (curso === 2) {
+      // La misma semilla como si fuera la semana 1 de 2.º, con lo del mapa de 2.º.
+      const mapa = JSON.parse(readFileSync(join(RAIZ, 'contenido/ciclo-1/matematicas/mapa-semanas.json'), 'utf8'));
+      const e = mapa.cursos['2'][0];
+      Object.assign(s, { id: '1.matematicas.2.s01', curso: 2, saberes: e.saberes, criterios: e.criterios });
+      s.titulo.es = e.titulo;
+    }
+    cambiar(s);
+    conHuellas(s);
+    const dir = join(raiz, `contenido/ciclo-1/matematicas/${curso}`);
+    mkdirSync(dir, { recursive: true });
+    writeFileSync(join(dir, 'semana-01.json'), JSON.stringify(s));
+    return validarContenido({ raiz });
+  }
+  const error1 = (r, parte) => {
+    const e = r.errores.find((x) => `${x.campo} ${x.motivo}`.includes(parte));
+    expect(e, `ningún error contiene «${parte}»: ${JSON.stringify(r.errores, null, 1)}`).toBeDefined();
+    return e;
+  };
+
+  it('la semilla real de 1.º pasa', () => {
+    const r = validar1(() => {});
+    expect(r.errores).toEqual([]);
+  });
+
+  it('reto de más de 10 minutos', () => {
+    error1(validar1((s) => (s.reto.minutos = 12)), '10 como mucho');
+  });
+
+  it('un número mayor que 99 en 1.º, en la operación o en «{{…}}»', () => {
+    const r = validar1((s) => {
+      s.preguntas[0].respuesta.operacion = '100 + 2';
+      s.preguntas[0].respuesta.resultado = 102;
+    });
+    expect(error1(r, 'hasta el 99').campo).toBe('preguntas[0].respuesta.operacion');
+    const r2 = validar1((s) => {
+      for (const i of ['es', 'va', 'en', 'fr', 'ar']) s.reto.masDificil[i] += ' {{120 + 5 = 125}}';
+    });
+    expect(error1(r2, 'hasta el 99').campo).toBe('reto.masDificil.es');
+  });
+
+  it('en 2.º se llega al 999 y aparece «×», pero no «:»', () => {
+    const r = validar1((s) => {
+      s.preguntas[0].respuesta.operacion = '4 × 2 + 900';
+      s.preguntas[0].respuesta.resultado = 908;
+    }, { curso: 2 });
+    expect(r.errores).toEqual([]);
+    error1(validar1((s) => {
+      s.preguntas[0].respuesta.operacion = '1000 - 1';
+      s.preguntas[0].respuesta.resultado = 999;
+    }, { curso: 2 }), 'hasta el 999');
+    error1(validar1((s) => {
+      s.preguntas[0].respuesta.operacion = '10 : 2';
+      s.preguntas[0].respuesta.resultado = 5;
+    }, { curso: 2 }), '«:»');
+  });
+
+  it('«×» en 1.º', () => {
+    const r = validar1((s) => {
+      s.preguntas[0].respuesta.operacion = '2 × 3';
+      s.preguntas[0].respuesta.resultado = 6;
+    });
+    error1(r, '«×»');
+  });
+
+  it('un número con coma decimal', () => {
+    const r = validar1((s) => {
+      for (const i of ['es', 'va', 'en', 'fr', 'ar']) s.reto.masFacil[i] += ' {{1,5 + 1,5 = 3}}';
+    });
+    error1(r, 'coma decimal');
+  });
+});
+
 // --- Archivos comunes y pictogramas ---
 
 /** Valida el contenido con una modificación en un archivo común (o en un pictograma). */

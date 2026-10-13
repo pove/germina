@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.v05",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "verano": 5,
+  "tipo": "verano",
+  "titulo": {
+    "es": "En el mercado",
+    "va": "Al mercat",
+    "en": "At the market",
+    "fr": "Au marché",
+    "ar": "في السوق"
+  },
+  "objetivo": {
+    "es": "En verano, el mercado o la tienda del barrio son un buen sitio para mirar precios en euros y pensar con qué monedas y billetes se paga justo.",
+    "va": "A l'estiu, el mercat o la botiga del barri són un bon lloc per a mirar preus en euros i pensar amb quines monedes (monedas) i bitllets (billetes) es paga just.",
+    "en": "In summer, the market or the local shop is a good place to look at prices in euros and think about which coins (monedas) and notes (billetes) pay the exact amount.",
+    "fr": "En été, le marché ou la boutique du quartier sont un bon endroit pour regarder des prix en euros et réfléchir aux pièces (monedas) et aux billets (billetes) qui permettent de payer juste.",
+    "ar": "في الصيف، السوق أو دكان الحيّ مكان جيّد لننظر إلى الأسعار باليورو ونفكّر بأيّ قطع نقدية (monedas) وأوراق نقدية (billetes) ندفع المبلغ تمامًا."
+  },
+  "comoAyudar": {
+    "es": "Dejad que toque las monedas y los billetes y que los cuente en voz alta. Si se lía, empezad por el billete o la moneda más grande.",
+    "va": "Deixeu que toque les monedes i els bitllets i que els compte en veu alta. Si s’embolica, comenceu pel bitllet o la moneda més gran.",
+    "en": "Let your child handle the coins and notes and count them out loud. If they get muddled, start with the biggest note or coin.",
+    "fr": "Laissez votre enfant toucher les pièces et les billets et les compter à voix haute. S'il ou elle s'embrouille, commencez par le plus gros billet ou la plus grosse pièce.",
+    "ar": "دعوا الطفل أو الطفلة يلمس القطع والأوراق النقدية ويعدّها بصوت عالٍ. وإذا حدث ارتباك، ابدؤوا بأكبر ورقة أو قطعة."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.numeros.usos-sociales"
+  ],
+  "criterios": [
+    "matematicas.c1.7.2",
+    "matematicas.c1.1.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Pagar justo",
+      "va": "Pagar just",
+      "en": "Paying the exact amount",
+      "fr": "Payer juste",
+      "ar": "ندفع المبلغ تمامًا"
+    },
+    "material": [
+      {
+        "es": "Monedas de 1 y 2 € y billetes de 5 y 10 €, de verdad o de juguete",
+        "va": "Monedes d’1 i 2 € i bitllets de 5 i 10 €, de veritat o de joguet",
+        "en": "1 € and 2 € coins and 5 € and 10 € notes, real or toy ones",
+        "fr": "Des pièces de 1 et 2 € et des billets de 5 et 10 €, vrais ou pour jouer",
+        "ar": "قطع نقدية من 1 و2 يورو وأوراق من 5 و10 يورو، حقيقية أو للّعب"
+      },
+      {
+        "es": "Un mercado o una tienda, o fruta de casa con precios inventados",
+        "va": "Un mercat o una botiga, o fruita de casa amb preus inventats",
+        "en": "A market or a shop, or fruit at home with made-up prices",
+        "fr": "Un marché ou un magasin, ou des fruits de la maison avec des prix inventés",
+        "ar": "سوق أو دكان، أو فاكهة من البيت بأسعار مخترعة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "fruta",
+        "texto": {
+          "es": "Mirad precios en euros enteros: 2 €, 3 €, 5 €… Si jugáis en casa, inventadlos para la fruta.",
+          "va": "Mireu preus en euros sencers: 2 €, 3 €, 5 €… Si jugueu a casa, inventeu-los per a la fruita.",
+          "en": "Look at prices in whole euros: 2 €, 3 €, 5 €… If you play at home, make them up for the fruit.",
+          "fr": "Regardez des prix en euros entiers : 2 €, 3 €, 5 €… Si vous jouez à la maison, inventez-les pour les fruits.",
+          "ar": "انظروا إلى أسعار باليورو الكامل: 2 €، 3 €، 5 €… وإذا لعبتم في البيت، اخترعوا أسعارًا للفاكهة."
+        }
+      },
+      {
+        "pictograma": "monedas",
+        "texto": {
+          "es": "Elegid algo y decid con qué monedas y billetes se paga justo, sin que sobre nada.",
+          "va": "Trieu alguna cosa i digueu amb quines monedes i bitllets es paga just, sense que en sobre res.",
+          "en": "Choose something and say which coins and notes pay the exact amount, with nothing left over.",
+          "fr": "Choisissez quelque chose et dites avec quelles pièces et quels billets on paie juste, sans rien de trop.",
+          "ar": "اختاروا شيئًا وقولوا بأيّ قطع وأوراق نقدية ندفع ثمنه تمامًا من دون زيادة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Buscad otra forma de pagar lo mismo: 5 € es un billete, o también {{2 + 2 + 1}}.",
+          "va": "Busqueu una altra manera de pagar el mateix: 5 € és un bitllet, o també {{2 + 2 + 1}}.",
+          "en": "Find another way to pay the same: 5 € is one note, or also {{2 + 2 + 1}}.",
+          "fr": "Cherchez une autre façon de payer la même chose : 5 €, c'est un billet, ou aussi {{2 + 2 + 1}}.",
+          "ar": "ابحثوا عن طريقة أخرى لدفع المبلغ نفسه: 5 € ورقة واحدة، أو أيضًا {{2 + 2 + 1}}."
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Cambiad los papeles: ahora quien pagaba vende y cuenta si el dinero que le dan es justo.",
+          "va": "Canvieu els papers: ara qui pagava ven i compta si els diners que li donen són justos.",
+          "en": "Swap roles: now whoever was paying sells, and counts whether the money they get is exact.",
+          "fr": "Échangez les rôles : celui ou celle qui payait vend maintenant et compte si l'argent reçu est juste.",
+          "ar": "تبادلوا الأدوار: من كان يدفع صار يبيع، ويعدّ هل المال الذي يأخذه مضبوط."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo monedas de 1 € y precios hasta 5 €.",
+      "va": "Feu servir només monedes d’1 € i preus fins a 5 €.",
+      "en": "Use only 1 € coins and prices up to 5 €.",
+      "fr": "Utilisez seulement des pièces de 1 € et des prix jusqu'à 5 €.",
+      "ar": "استعملوا قطعًا من 1 يورو فقط وأسعارًا حتى 5 €."
+    },
+    "masDificil": {
+      "es": "Comprad dos cosas a la vez y pagadlas juntas, justo, con el menor número de monedas y billetes.",
+      "va": "Compreu dues coses alhora i pagueu-les juntes, just, amb el menor nombre de monedes i bitllets.",
+      "en": "Buy two things at once and pay for them together, exactly, with as few coins and notes as possible.",
+      "fr": "Achetez deux choses à la fois et payez-les ensemble, juste, avec le moins de pièces et de billets possible.",
+      "ar": "اشتروا شيئين معًا وادفعوا ثمنهما معًا تمامًا، بأقل عدد من القطع والأوراق النقدية."
+    },
+    "paraQueSirve": {
+      "es": "Contar dinero es sumar con cosas de verdad, y descubrir que hay muchas maneras de hacer el mismo número.",
+      "va": "Comptar diners és sumar amb coses de veritat, i descobrir que hi ha moltes maneres de fer el mateix nombre.",
+      "en": "Counting money is adding with real things, and finding out that there are many ways to make the same number.",
+      "fr": "Compter de l'argent, c'est additionner avec de vraies choses, et découvrir qu'il y a plein de façons de faire le même nombre.",
+      "ar": "عدّ المال جمعٌ بأشياء حقيقية، واكتشافٌ أن هناك طرقًا كثيرة لتكوين العدد نفسه."
+    },
+    "aviso": {
+      "es": "Las monedas, lejos de hermanos o hermanas pequeños.",
+      "va": "Les monedes, lluny de germans o germanes menuts.",
+      "en": "Keep the coins away from younger brothers and sisters.",
+      "fr": "Les pièces, loin des petits frères et sœurs.",
+      "ar": "القطع النقدية بعيدًا عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Un melón cuesta 3 € y Aisha paga con monedas de 1 €. ¿Cuántas monedas da?",
+        "va": "Un meló costa 3 € i Aisha paga amb monedes d’1 €. Quantes monedes dona?",
+        "en": "A melon costs 3 € and Aisha pays with 1 € coins. How many coins does she give?",
+        "fr": "Un melon coûte 3 € et Aisha paie avec des pièces de 1 €. Combien de pièces donne-t-elle ?",
+        "ar": "ثمن البطيخة 3 € وتدفع عائشة بقطع من 1 €. كم قطعة تعطي؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos: 1 €, 2 €, 3 €.",
+        "va": "Compta amb els dits: 1 €, 2 €, 3 €.",
+        "en": "Count on your fingers: 1 €, 2 €, 3 €.",
+        "fr": "Compte sur tes doigts : 1 €, 2 €, 3 €.",
+        "ar": "لنعدّ بالأصابع: 1 €، 2 €، 3 €."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1 + 1 + 1",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Da 3 monedas de 1 €.",
+          "va": "Dona 3 monedes d’1 €.",
+          "en": "She gives 3 coins of 1 €.",
+          "fr": "Elle donne 3 pièces de 1 €.",
+          "ar": "تعطي 3 قطع من 1 €."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con monedas de 2 €.",
+        "va": "Ara inventa'n tu una amb monedes de 2 €.",
+        "en": "Now you make one up with 2 € coins.",
+        "fr": "Maintenant, invente une question avec des pièces de 2 €.",
+        "ar": "والآن لنخترع سؤالًا بقطع من 2 €."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Las fresas cuestan 4 € y las cerezas, 5 €. ¿Cuánto cuesta todo?",
+        "va": "Les maduixes costen 4 € i les cireres, 5 €. Quant costa tot?",
+        "en": "The strawberries cost 4 € and the cherries 5 €. How much is it all together?",
+        "fr": "Les fraises coûtent 4 € et les cerises, 5 €. Combien coûte le tout ?",
+        "ar": "ثمن الفراولة 4 € وثمن الكرز 5 €. كم ثمنها كلها؟"
+      },
+      "pista": {
+        "es": "Empieza en 5 y sigue contando 4 más con los dedos.",
+        "va": "Comença en 5 i continua comptant-ne 4 més amb els dits.",
+        "en": "Start at 5 and count on 4 more on your fingers.",
+        "fr": "Commence à 5 et continue à compter 4 de plus sur tes doigts.",
+        "ar": "لنبدأ من 5 ونتابع العدّ 4 أخرى بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 5",
+        "resultado": 9,
+        "unidad": "euros",
+        "texto": {
+          "es": "Cuesta 9 €.",
+          "va": "Costa 9 €.",
+          "en": "It’s 9 €.",
+          "fr": "Ça coûte 9 €.",
+          "ar": "الثمن 9 €."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos cosas que os gusten del mercado.",
+        "va": "Inventa'n tu una amb dues coses que vos agraden del mercat.",
+        "en": "Make one up with two things you like from the market.",
+        "fr": "Invente une question avec deux choses du marché que vous aimez.",
+        "ar": "لنخترع سؤالًا بشيئين نحبّهما من السوق."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Mateo y sus dos madres compran pan por 2 € y pagan con un billete de 10 €. ¿Cuánto les devuelven?",
+        "va": "Mateo i les seues dues mares compren pa per 2 € i paguen amb un bitllet de 10 €. Quant els tornen?",
+        "en": "Mateo and his two mums buy bread for 2 € and pay with a 10 € note. How much change do they get?",
+        "fr": "Mateo et ses deux mamans achètent du pain pour 2 € et paient avec un billet de 10 €. Combien leur rend-on ?",
+        "ar": "يشتري ماتيو وأمّاه خبزًا بـ2 € ويدفعون بورقة من 10 €. كم يُعاد إليهم؟"
+      },
+      "pista": {
+        "es": "Cuenta desde 2 hasta llegar a 10.",
+        "va": "Compta des de 2 fins a arribar a 10.",
+        "en": "Count up from 2 until you get to 10.",
+        "fr": "Compte à partir de 2 jusqu'à arriver à 10.",
+        "ar": "لنعدّ من 2 حتى نصل إلى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 2",
+        "resultado": 8,
+        "unidad": "euros",
+        "texto": {
+          "es": "Les devuelven 8 €: {{2 + 8 = 10}}.",
+          "va": "Els tornen 8 €: {{2 + 8 = 10}}.",
+          "en": "They get 8 € back: {{2 + 8 = 10}}.",
+          "fr": "On leur rend 8 € : {{2 + 8 = 10}}.",
+          "ar": "يُعاد إليهم 8 €: {{2 + 8 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que pagas con un billete de 5 €.",
+        "va": "Inventa'n tu una en què pagues amb un bitllet de 5 €.",
+        "en": "Make one up where you pay with a 5 € note.",
+        "fr": "Invente une question où tu paies avec un billet de 5 €.",
+        "ar": "لنخترع سؤالًا ندفع فيه بورقة من 5 €."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 27,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar: el mercado abre a las 9 en punto (9:00). ¿Dónde están las agujas del reloj?",
+        "va": "Per a recordar: el mercat obri a les 9 en punt (9:00). On estan les agulles del rellotge?",
+        "en": "Let’s remember: the market opens at 9 o’clock (en punto) (9:00). Where are the hands (agujas) of the clock?",
+        "fr": "Pour se souvenir : le marché ouvre à 9 heures pile (en punto) (9:00). Où sont les aiguilles (agujas) de l’horloge ?",
+        "ar": "لنتذكّر: يفتح السوق عند الساعة 9 تمامًا (en punto) (9:00). أين عقربا (agujas) الساعة؟"
+      },
+      "pista": {
+        "es": "En punto, la aguja larga siempre mira arriba.",
+        "va": "En punt, l’agulla llarga sempre mira cap amunt.",
+        "en": "At o’clock, the long hand always points up.",
+        "fr": "À l’heure pile, la grande aiguille regarde toujours en haut.",
+        "ar": "عند الساعة تمامًا، يشير العقرب الطويل دائمًا إلى الأعلى."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La aguja corta en el 9 y la larga en el 12. Si tenéis un reloj de agujas, ponedlo juntos así.",
+          "va": "L'agulla curta en el 9 i la llarga en el 12. Si teniu un rellotge d'agulles, poseu-lo junts així.",
+          "en": "The short hand on 9 and the long hand on 12. If you have a clock with hands, set it like that together.",
+          "fr": "La petite aiguille sur le 9 et la grande sur le 12. Si vous avez une horloge à aiguilles, réglez-la ainsi ensemble.",
+          "ar": "العقرب القصير على 9 والطويل على 12. وإذا كانت عندكم ساعة بعقارب، اضبطوها هكذا معًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la hora a la que cerráis la tienda de juguete.",
+        "va": "Inventa'n tu una altra amb l'hora a què tanqueu la botiga de joguet.",
+        "en": "Make up another one with the time your toy shop closes.",
+        "fr": "Invente-en une autre avec l'heure à laquelle votre magasin pour jouer ferme.",
+        "ar": "لنخترع سؤالًا آخر عن الساعة التي يُغلق فيها دكاننا للّعب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si tuvieras 10 € para el mercado, ¿qué comprarías? Explícame cómo lo pagarías.",
+        "va": "Si tingueres 10 € per al mercat, què compraries? Explica'm com ho pagaries.",
+        "en": "If you had 10 € for the market, what would you buy? Explain to me how you would pay.",
+        "fr": "Si tu avais 10 € pour le marché, qu'est-ce que tu achèterais ? Explique-moi comment tu paierais.",
+        "ar": "لو كان معنا 10 € للسوق، ماذا نشتري؟ لنشرح كيف ندفع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Te llega para dos cosas? ¿Cómo lo sabes?»",
+        "va": "Si no sap per on començar: «Et basta per a dues coses? Com ho saps?»",
+        "en": "If they don’t know where to start: “Is it enough for two things? How do you know?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Ça suffit pour deux choses ? Comment tu le sais ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل يكفي المال لشيئين؟ كيف نعرف؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "9c78416921fc"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "9c78416921fc"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "9c78416921fc"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "9c78416921fc"
+      }
+    }
+  }
+}
