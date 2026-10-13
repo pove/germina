@@ -16,6 +16,8 @@ export function T(clave: string, idioma: Idioma, valores: Record<string, string 
 /** Cuántas ideas tiene «Cómo ayudar», leído del contenido para no fijarlo en los tests. */
 export const IDEAS_AYUDA = (JSON.parse(readFileSync('contenido/comun/como-ayudar.json', 'utf8')) as { ideas: unknown[] }).ideas.length;
 
+export const CURSO_1 = '1/matematicas/1';
+export const CURSO_2 = '1/matematicas/2';
 export const CURSO_3 = '2/matematicas/3';
 export const CURSO_4 = '2/matematicas/4';
 

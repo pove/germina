@@ -1,6 +1,6 @@
 # Germina
 
-Una semilla de Matemáticas cada semana para que las familias de 3.º y 4.º de Primaria jueguen en casa, sin pantalla.
+Una semilla de Matemáticas cada semana para que las familias de 1.º a 4.º de Primaria jueguen en casa, sin pantalla.
 
 Germina es una web estática (PWA), sin cuentas ni datos personales, en español, valenciano, inglés, francés y árabe. Publicada en <https://pove.github.io/germina/>.
 
@@ -26,7 +26,7 @@ El trabajo va por etapas, en [docs/tareas.md](docs/tareas.md): esqueleto, valida
 
 - [docs/especificacion.md](docs/especificacion.md): qué se construye. Manda sobre todo lo demás.
 - [docs/tareas.md](docs/tareas.md): en qué orden.
-- [docs/mapa-semanas.md](docs/mapa-semanas.md): qué toca cada semana de 3.º y 4.º (se genera, no se edita a mano).
+- [docs/mapa-semanas.md](docs/mapa-semanas.md): qué toca cada semana de 1.º a 4.º (se genera, no se edita a mano).
 - [docs/revision-accesibilidad.md](docs/revision-accesibilidad.md): qué se ha revisado en accesibilidad y qué falta.
 - [CLAUDE.md](CLAUDE.md): reglas para quien colabore, personas o agentes.
 

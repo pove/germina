@@ -145,6 +145,20 @@ describe('formato binario (6.3)', () => {
     expect(decodificar(agruparCodigo(codigo).toLowerCase())).toEqual(decodificar(codigo));
   });
 
+  it('los cursos del 1.er ciclo viajan igual, también sin nada marcado', () => {
+    const d: Datos = {
+      ...datosVacios(),
+      cursos: ['1/matematicas/1', '1/matematicas/2'],
+      ultimoAnoCurso: 2026,
+      progreso: { '2026/1/matematicas/2': { s30: { hecho: ['reto', 'p5'] }, v01: { hecho: ['p1'] } } },
+    };
+    const r = decodificar(codigoDeDatos(d));
+    expect(r.ok).toBe(true);
+    if (!r.ok) return;
+    expect(r.recibido.cursos).toEqual(['1/matematicas/1', '1/matematicas/2']);
+    expect(r.recibido.progreso['2026/1/matematicas/2']).toEqual({ s30: { hecho: ['reto', 'p5'] }, v01: { hecho: ['p1'] } });
+  });
+
   it('un récord sin casillas marcadas viaja igual', () => {
     const d: Datos = { ...datosVacios(), progreso: { '2026/2/matematicas/3': { s05: { hecho: [], record: 0 }, v02: { hecho: [], record: 255 } } } };
     const r = decodificar(codigoDeDatos(d));

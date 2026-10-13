@@ -1,6 +1,6 @@
 import { expect, test, type Page } from '@playwright/test';
 import {
-  CURSO_3, CURSO_4, IDEAS_AYUDA, LUNES_SEMANA_1_2027, SABADO_SEMANA_7, T, guardado, irDesdeElMenu, objetivosTactiles, ocultarSemillas, preparar,
+  CURSO_1, CURSO_2, CURSO_3, CURSO_4, IDEAS_AYUDA, LUNES_SEMANA_1_2027, SABADO_SEMANA_7, T, guardado, irDesdeElMenu, objetivosTactiles, ocultarSemillas, preparar,
   sinProblemasDeAccesibilidad,
 } from './ayudas';
 
@@ -28,6 +28,25 @@ for (const idioma of IDIOMAS) {
       await expect(page.getByRole('heading', { level: 1 })).toContainText(idioma === 'ar' ? 'لا يكفي؟ نفتح عشرة' : 'Cuando no llega: abrir una decena');
       const guardados = await guardado(page);
       expect(guardados).toMatchObject({ v: 1, cursos: [CURSO_3], cursoActivo: CURSO_3, ultimoAnoCurso: 2026 });
+    });
+
+    test('bienvenida con 1.º → su semana actual, con la semilla en camino', async ({ page }) => {
+      await preparar(page);
+      await page.goto('./');
+      for (const curso of ['curso.1', 'curso.2', 'curso.3', 'curso.4']) {
+        await expect(page.getByRole('button', { name: T(curso, idioma), exact: true })).toBeVisible();
+      }
+      await page.getByRole('button', { name: T('curso.1', idioma), exact: true }).click();
+      await page.getByRole('button', { name: T('bienvenida.empezar', idioma), exact: true }).click();
+
+      await expect(page).toHaveURL(/#\/1\/matematicas\/1\/semana\/7$/);
+      await expect(page.getByRole('heading', { level: 1 })).toContainText('Paquetes de 10'); // título del mapa
+      await expect(page.getByText(T('semana.en_camino', idioma))).toBeVisible();
+      expect(await guardado(page)).toMatchObject({ cursos: [CURSO_1], cursoActivo: CURSO_1 });
+      await sinProblemasDeAccesibilidad(page);
+
+      await page.goto('./#/1/matematicas/1/aprenden');
+      await expect(page.getByRole('heading', { level: 2, name: T('aprenden.ciclo_titulo.1', idioma) })).toBeVisible();
     });
 
     test('marcar una pregunta y el reto y verlos en el jardín', async ({ page }) => {
@@ -264,7 +283,9 @@ test.describe('cursos y cambio de curso', () => {
     await expect(boton).toHaveAttribute('aria-expanded', 'false');
     await boton.click();
     await expect(boton).toHaveAttribute('aria-expanded', 'true');
-    await expect(banda.getByText(T('banda.vuestros', 'es'))).toHaveCount(0); // los dos son suyos: sin grupos
+    // Arriba los dos vuestros y debajo 1.º y 2.º, del otro ciclo.
+    await expect(banda.locator('.lista-cursos > div').first().getByRole('link')).toHaveText([/^3\.º/, '4.º']); // 3.º lleva ✓
+    await expect(banda.locator('.lista-cursos > div').last().getByRole('link')).toHaveText(['1.º', '2.º']);
     await expect(banda.getByRole('link', { name: '3.º' })).toHaveAttribute('aria-current', 'true');
     await sinProblemasDeAccesibilidad(page);
     await objetivosTactiles(page);
@@ -328,6 +349,17 @@ test.describe('cursos y cambio de curso', () => {
     await expect(page.getByRole('heading', { name: /¿Vuestro hijo o hija/ })).toHaveCount(0);
   });
 
+  test('septiembre: de 2.º se pasa a 3.º, que es del 2.º ciclo', async ({ page }) => {
+    const progreso = { [`2026/${CURSO_2}`]: { s05: { hecho: ['reto'] } } };
+    await preparar(page, { fecha: LUNES_SEMANA_1_2027, almacen: { idioma: 'es', cursos: [CURSO_2], cursoActivo: CURSO_2, progreso } });
+    await page.goto('./');
+    await expect(page.getByRole('heading', { name: T('cambio_curso.pregunta', 'es', { curso: '3.º' }) })).toBeVisible();
+    await page.getByRole('button', { name: T('cambio_curso.si', 'es', { curso: '3.º' }) }).click();
+    await page.getByRole('button', { name: T('cambio_curso.seguir', 'es') }).click();
+    await expect(page).toHaveURL(/\/2\/matematicas\/3\/semana\/1$/);
+    expect(await guardado(page)).toMatchObject({ cursos: [CURSO_3], cursoActivo: CURSO_3, ultimoAnoCurso: 2027, progreso });
+  });
+
   test('septiembre: No → sigue en 3.º', async ({ page }) => {
     await preparar(page, { fecha: LUNES_SEMANA_1_2027, almacen: { idioma: 'es' } });
     await page.goto('./');
@@ -358,7 +390,7 @@ test.describe('cursos y cambio de curso', () => {
 test.describe('rutas', () => {
   test('una ruta desconocida o un curso que no existe llevan a la semana actual', async ({ page }) => {
     await preparar(page, { almacen: { idioma: 'es' } });
-    for (const destino of ['./#/nada/de/nada', './#/2/matematicas/3/semana/99', './#/1/matematicas/1/semana/1', './#/2/lectura/3/jardin']) {
+    for (const destino of ['./#/nada/de/nada', './#/2/matematicas/3/semana/99', './#/3/matematicas/5/semana/1', './#/1/matematicas/3/semana/1', './#/2/lectura/3/jardin']) {
       await page.goto(destino);
       await expect(page).toHaveURL(/#\/2\/matematicas\/3\/semana\/7$/);
     }

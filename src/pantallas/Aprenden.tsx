@@ -1,7 +1,7 @@
 // «Qué aprenden este curso»: entrada, frases por trimestre, bloques del ciclo y fuentes.
 import { cargarObjetivos, useCarga } from '../contenido';
 import { situacionHoy } from '../estado';
-import { t } from '../idioma';
+import { t, tDinamico } from '../idioma';
 import { claveCurso, type Curso } from '../nucleo/tipos';
 import { Cargando } from '../piezas/Carga';
 import { Contenido } from '../piezas/Contenido';
@@ -45,7 +45,7 @@ export function Aprenden({ curso }: { curso: Curso }) {
                   </section>
                 ))}
               <section class="tarjeta" aria-labelledby="ciclo">
-                <h2 id="ciclo">{t('aprenden.ciclo_titulo')}</h2>
+                <h2 id="ciclo">{tDinamico(`aprenden.ciclo_titulo.${curso.ciclo}`)}</h2>
                 <ul>
                   {bloques.map((bloque, i) => (
                     <li key={i}>

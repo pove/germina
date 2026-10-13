@@ -94,7 +94,7 @@ Abre Germina a 1.º y 2.º con el mismo formato: una semilla por semana y lo jug
   - `contenido/ciclo-1/matematicas/objetivos.json`.
   - Términos de clase de 1.º y 2.º en `glosario.json` (decena, unidad, «uno más / uno menos», doble, mitad…).
   - En `como-ayudar.json`, lo propio de estas edades según la EEF (2020): contar con los dedos, cuentos y juegos de tablero, dejar que representen a su manera. Añadir esa guía a las fuentes.
-- [ ] **Aplicación:**
+- [x] **Aplicación:**
   - `matematicas` activa en el ciclo 1 de `config/catalogo.json`.
   - Bienvenida y Ajustes con los cuatro cursos.
   - Cambio de curso de un ciclo al siguiente: al acabar 2.º, «¿ha pasado a 3.º?» en vez de «el ciclo ha terminado», con `cursoSiguiente` y sus tests.

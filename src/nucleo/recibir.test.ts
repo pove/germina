@@ -12,14 +12,18 @@ const c3 = { ciclo: 2, area: 'matematicas', curso: 3 };
 describe('soloActivos', () => {
   it('quita los cursos y el progreso de lo que esta web no muestra', () => {
     const r: Recibido = {
-      cursos: ['2/matematicas/3', '2/lectura/3', '1/matematicas/2'],
+      cursos: ['2/matematicas/3', '2/lectura/3', '1/matematicas/2', '3/matematicas/5'],
       progreso: {
         '2026/2/matematicas/3': { s01: { hecho: ['reto'] } },
         '2026/2/lectura/3': { s01: { hecho: ['reto'] } },
         '2026/1/matematicas/2': { s01: { hecho: ['reto'] } },
+        '2026/3/matematicas/5': { s01: { hecho: ['reto'] } },
       },
     };
-    expect(soloActivos(r, catalogo)).toEqual({ cursos: ['2/matematicas/3'], progreso: { '2026/2/matematicas/3': { s01: { hecho: ['reto'] } } } });
+    expect(soloActivos(r, catalogo)).toEqual({
+      cursos: ['2/matematicas/3', '1/matematicas/2'],
+      progreso: { '2026/2/matematicas/3': { s01: { hecho: ['reto'] } }, '2026/1/matematicas/2': { s01: { hecho: ['reto'] } } },
+    });
   });
 });
 
