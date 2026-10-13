@@ -4,12 +4,11 @@ import type { Recibido } from './enlace';
 
 function unir(propia: Semilla | undefined, recibida: Semilla): Semilla {
   const hecho = ordenarElementos([...(propia?.hecho ?? []), ...recibida.hecho]);
-  const records = [propia?.record, recibida.record].filter((r): r is number => r !== undefined);
-  return records.length > 0 ? { hecho, record: Math.max(...records) } : { hecho };
+  return { hecho };
 }
 
 /**
- * Las casillas marcadas se suman y de cada récord se queda el mayor. Los cursos nuevos se añaden.
+ * Las casillas marcadas se suman. Los cursos nuevos se añaden.
  * El idioma, el curso activo y el último año de curso del móvil que recibe no cambian.
  */
 export function combinar(actual: Datos, recibido: Recibido): Datos {

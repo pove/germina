@@ -5,7 +5,6 @@ describe('estadoPlanta', () => {
   it('semilla: nada marcado', () => {
     expect(estadoPlanta(undefined)).toBe('semilla');
     expect(estadoPlanta({ hecho: [] })).toBe('semilla');
-    expect(estadoPlanta({ hecho: [], record: 9 })).toBe('semilla');
   });
   it('brote: alguna pregunta hablada', () => {
     expect(estadoPlanta({ hecho: ['p3'] })).toBe('brote');

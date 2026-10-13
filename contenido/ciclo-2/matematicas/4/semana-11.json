@@ -95,11 +95,11 @@
       {
         "pictograma": "lapiz",
         "texto": {
-          "es": "Contad las parejas acertadas: es vuestro récord. Apuntad las multiplicaciones que se han resistido y miradlas juntos con calma al acabar.",
-          "va": "Compteu les parelles encertades: és el vostre rècord. Apunteu les multiplicacions que s'han resistit i mireu-les junts amb calma en acabar.",
-          "en": "Count the pairs you got right: that's your record. Write down the multiplications that were tricky and look at them together calmly at the end.",
-          "fr": "Comptez les paires trouvées : c'est votre record. Notez les multiplications qui ont résisté et regardez-les ensemble tranquillement à la fin.",
-          "ar": "عدّوا الأزواج الصحيحة: هذا رقمكم القياسي. دوّنوا عمليات الضرب التي استعصت وانظروا إليها معًا بهدوء في النهاية."
+          "es": "Contad las parejas acertadas. Apuntad las multiplicaciones que se han resistido y miradlas juntos con calma al acabar.",
+          "va": "Compteu les parelles encertades. Apunteu les multiplicacions que s'han resistit i mireu-les junts amb calma en acabar.",
+          "en": "Count the pairs you got right. Write down the multiplications that were tricky and look at them together calmly at the end.",
+          "fr": "Comptez les paires trouvées. Notez les multiplications qui ont résisté et regardez-les ensemble tranquillement à la fin.",
+          "ar": "عدّوا الأزواج الصحيحة. دوّنوا عمليات الضرب التي استعصت وانظروا إليها معًا بهدوء في النهاية."
         }
       }
     ],
@@ -125,14 +125,7 @@
       "ar": "الاستراتيجيات تجعل جداول الضرب أكثر من مجرد حفظ: إذا نُسيت نتيجة، يمكن إعادة بنائها. ومعرفتها جيدًا تترك الذهن حرًّا لمسائل أكبر."
     },
     "rapidez": {
-      "segundos": 120,
-      "seCuenta": {
-        "es": "parejas de cartas acertadas",
-        "va": "parelles de cartes encertades",
-        "en": "pairs of cards you got right",
-        "fr": "paires de cartes trouvées",
-        "ar": "أزواج الأوراق الصحيحة"
-      }
+      "segundos": 120
     }
   },
   "preguntas": [
@@ -330,19 +323,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d110ae8a10e8"
+        "huella": "630c2d8e8388"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d110ae8a10e8"
+        "huella": "630c2d8e8388"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d110ae8a10e8"
+        "huella": "630c2d8e8388"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d110ae8a10e8"
+        "huella": "630c2d8e8388"
       }
     }
   }

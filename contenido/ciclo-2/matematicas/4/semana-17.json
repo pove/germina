@@ -21,11 +21,11 @@
     "ar": "هذا الأسبوع يعود الأطفال إلى الحساب الذهني (cálculo mental) وكل جداول الضرب (tablas) بالأوراق والنرد. غالبًا ما يكون أسبوع عطلة: تكفي بضع دقائق في اليوم."
   },
   "comoAyudar": {
-    "es": "Antes de poner el cronómetro, jugad una ronda tranquila. Si el récord no se mejora, contad las parejas que han salido sin dudar: eso también es mejorar.",
-    "va": "Abans de posar el cronòmetre, jugueu una ronda tranquil·la. Si el rècord no es millora, compteu les parelles que han eixit sense dubtar: això també és millorar.",
-    "en": "Before starting the stopwatch, play a calm round. If the record isn't beaten, count the pairs that came out without hesitating: that's getting better too.",
-    "fr": "Avant de lancer le chrono, jouez un tour tranquille. Si le record n'est pas battu, comptez les paires sorties sans hésiter : ça aussi, c'est s'améliorer.",
-    "ar": "قبل تشغيل المؤقّت، العبوا جولة هادئة. وإذا لم يتحسّن الرقم القياسي، عدّوا الأزواج التي خرجت دون تردّد: هذا أيضًا تحسّن."
+    "es": "Antes de poner el cronómetro, jugad una ronda tranquila. Después, contad las parejas que han salido sin dudar y celebradlo.",
+    "va": "Abans de posar el cronòmetre, jugueu una ronda tranquil·la. Després, compteu les parelles que han eixit sense dubtar i celebreu-ho.",
+    "en": "Before starting the stopwatch, play a calm round. Then count the pairs that came out without hesitating and celebrate that.",
+    "fr": "Avant de lancer le chrono, jouez un tour tranquille. Ensuite, comptez les paires sorties sans hésiter et fêtez-le.",
+    "ar": "قبل تشغيل المؤقّت، العبوا جولة هادئة. ثم عدّوا الأزواج التي خرجت دون تردّد واحتفلوا بها."
   },
   "saberes": [
     "matematicas.operaciones.calculo-mental",
@@ -94,11 +94,11 @@
       {
         "pictograma": "lapiz",
         "texto": {
-          "es": "Contad las parejas acertadas y miradlo junto al récord de la semana 11, si lo apuntasteis. Las que se dejaron a un lado, miradlas juntos con calma.",
-          "va": "Compteu les parelles encertades i mireu-ho al costat del rècord de la setmana 11, si el vau apuntar. Les que es van deixar a banda, mireu-les junts amb calma.",
-          "en": "Count the pairs you got right and look at it next to the record from week 11, if you wrote it down. Look calmly together at the ones you put to one side.",
-          "fr": "Comptez les paires trouvées et regardez-les à côté du record de la semaine 11, si vous l'avez noté. Celles qui ont été mises de côté, regardez-les ensemble tranquillement.",
-          "ar": "عدّوا الأزواج الصحيحة وقارنوا عددها بالرقم القياسي للأسبوع 11، إن كنتم دوّنتموه. أمّا التي وُضعت جانبًا، فانظروا إليها معًا بهدوء."
+          "es": "Contad las parejas acertadas. Las que se dejaron a un lado, miradlas juntos con calma.",
+          "va": "Compteu les parelles encertades. Les que es van deixar a banda, mireu-les junts amb calma.",
+          "en": "Count the pairs you got right. Look calmly together at the ones you put to one side.",
+          "fr": "Comptez les paires trouvées. Celles qui ont été mises de côté, regardez-les ensemble tranquillement.",
+          "ar": "عدّوا الأزواج الصحيحة. أمّا التي وُضعت جانبًا، فانظروا إليها معًا بهدوء."
         }
       }
     ],
@@ -131,14 +131,7 @@
       "ar": "إذا استعملتم النرد، فأبعدوه عن الإخوة والأخوات الصغار."
     },
     "rapidez": {
-      "segundos": 120,
-      "seCuenta": {
-        "es": "parejas de cartas acertadas",
-        "va": "parelles de cartes encertades",
-        "en": "pairs of cards you got right",
-        "fr": "paires de cartes trouvées",
-        "ar": "أزواج الأوراق الصحيحة"
-      }
+      "segundos": 120
     }
   },
   "preguntas": [
@@ -336,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d3bc6335ae25"
+        "huella": "20f7270b528f"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d3bc6335ae25"
+        "huella": "20f7270b528f"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d3bc6335ae25"
+        "huella": "20f7270b528f"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d3bc6335ae25"
+        "huella": "20f7270b528f"
       }
     }
   }

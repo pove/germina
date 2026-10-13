@@ -209,14 +209,6 @@
   "cronometro.tiempo": { "es": "Tiempo que queda: {tiempo}", "va": "Temps que queda: {tiempo}", "en": "Time left: {tiempo}", "fr": "Temps restant : {tiempo}", "ar": "الوقت المتبقي: {tiempo}" },
   "cronometro.fin": { "es": "¡Se acabó el tiempo!", "va": "S'ha acabat el temps!", "en": "Time's up!", "fr": "Le temps est écoulé !", "ar": "انتهى الوقت!" },
 
-  "record.titulo": { "es": "Récord", "va": "Rècord", "en": "Record", "fr": "Record", "ar": "الرقم القياسي" },
-  "record.cuenta": { "es": "Se cuenta: {que}", "va": "Es compta: {que}", "en": "What counts: {que}", "fr": "On compte : {que}", "ar": "ما يُحتسب: {que}" },
-  "record.apuntar": { "es": "Apuntad cuántos habéis conseguido", "va": "Apunteu quants heu aconseguit", "en": "Write down how many you got", "fr": "Notez combien vous en avez eu", "ar": "دوّنوا العدد الذي حقّقتموه" },
-  "record.hoy": { "es": "Hoy: {n}", "va": "Hui: {n}", "en": "Today: {n}", "fr": "Aujourd'hui : {n}", "ar": "اليوم: {n}" },
-  "record.mejor": { "es": "Vuestro récord: {n}", "va": "El vostre rècord: {n}", "en": "Your record: {n}", "fr": "Votre record : {n}", "ar": "رقمكم القياسي: {n}" },
-  "record.sin": { "es": "Todavía no hay récord", "va": "Encara no hi ha rècord", "en": "No record yet", "fr": "Pas encore de record", "ar": "لا يوجد رقم قياسي بعد" },
-  "record.guardar": { "es": "Guardar el resultado", "va": "Guardar el resultat", "en": "Save the result", "fr": "Enregistrer le résultat", "ar": "احفظوا النتيجة" },
-  "record.nuevo": { "es": "¡Nuevo récord!", "va": "Nou rècord!", "en": "New record!", "fr": "Nouveau record !", "ar": "رقم قياسي جديد!" },
 
   "jardin.titulo": { "es": "El jardín", "va": "El jardí", "en": "The garden", "fr": "Le jardin", "ar": "البستان" },
   "jardin.ayuda": { "es": "Qué es el jardín", "va": "Què és el jardí", "en": "What the garden is", "fr": "Ce qu'est le jardin", "ar": "ما هو البستان" },
@@ -243,7 +235,6 @@
   "ajustes.idioma": { "es": "Idioma", "va": "Idioma", "en": "Language", "fr": "Langue", "ar": "اللغة" },
   "ajustes.cursos": { "es": "Cursos", "va": "Cursos", "en": "Years", "fr": "Années", "ar": "الصفوف" },
   "ajustes.pasar": { "es": "Llevar el jardín a otro móvil", "va": "Portar el jardí a un altre mòbil", "en": "Take the garden to another phone", "fr": "Emporter le jardin sur un autre téléphone", "ar": "نقل البستان إلى هاتف آخر" },
-  "ajustes.records": { "es": "Hoja de récords para imprimir", "va": "Full de rècords per a imprimir", "en": "Record sheet to print", "fr": "Feuille de records à imprimer", "ar": "ورقة الأرقام القياسية للطباعة" },
   "ajustes.instalar": { "es": "Cómo instalar Germina", "va": "Com instal·lar Germina", "en": "How to install Germina", "fr": "Comment installer Germina", "ar": "كيف تثبّتون Germina" },
   "ajustes.privacidad": { "es": "Privacidad", "va": "Privadesa", "en": "Privacy", "fr": "Confidentialité", "ar": "الخصوصية" },
   "ajustes.accesibilidad": { "es": "Accesibilidad", "va": "Accessibilitat", "en": "Accessibility", "fr": "Accessibilité", "ar": "إمكانية الوصول" },
@@ -330,15 +321,6 @@
     "ar": "لم يُنسخ هذا الرمز جيدًا. هل تجرّبون إرساله مرة أخرى؟"
   },
 
-  "imprimir.titulo": { "es": "Hoja de récords", "va": "Full de rècords", "en": "Record sheet", "fr": "Feuille de records", "ar": "ورقة الأرقام القياسية" },
-  "imprimir.ayuda": {
-    "es": "Pegadla en la nevera y apuntad ahí vuestros récords.",
-    "va": "Enganxeu-la a la nevera i apunteu-hi els vostres rècords.",
-    "en": "Stick it on the fridge and write your records there.",
-    "fr": "Collez-la sur le frigo et notez-y vos records.",
-    "ar": "ألصقوها على الثلاجة ودوّنوا فيها أرقامكم القياسية."
-  },
-  "imprimir.imprimir": { "es": "Imprimir", "va": "Imprimir", "en": "Print", "fr": "Imprimer", "ar": "اطبعوا" },
 
   "boton.cancelar": { "es": "Cancelar", "va": "Cancel·lar", "en": "Cancel", "fr": "Annuler", "ar": "إلغاء" },
   "boton.cerrar": { "es": "Cerrar", "va": "Tancar", "en": "Close", "fr": "Fermer", "ar": "إغلاق" },
@@ -416,41 +398,6 @@
     "fr": "Voir le jardin",
     "ar": "شاهدوا البستان"
   },
-  "imprimir.semana": {
-    "es": "Semana",
-    "va": "Setmana",
-    "en": "Week",
-    "fr": "Semaine",
-    "ar": "الأسبوع"
-  },
-  "imprimir.juego": {
-    "es": "Juego",
-    "va": "Joc",
-    "en": "Game",
-    "fr": "Jeu",
-    "ar": "اللعبة"
-  },
-  "imprimir.record": {
-    "es": "Récord",
-    "va": "Rècord",
-    "en": "Record",
-    "fr": "Record",
-    "ar": "الرقم القياسي"
-  },
-  "imprimir.anotar": {
-    "es": "Anotad aquí",
-    "va": "Apunteu ací",
-    "en": "Write here",
-    "fr": "Notez ici",
-    "ar": "دوّنوا هنا"
-  },
-  "imprimir.sin_cursos": {
-    "es": "Elegid un curso en Ajustes para ver su hoja.",
-    "va": "Trieu un curs en Ajustos per a veure'n el full.",
-    "en": "Choose a year in Settings to see its sheet.",
-    "fr": "Choisissez une année dans les Réglages pour voir sa feuille.",
-    "ar": "اختاروا صفًا في الإعدادات لرؤية ورقته."
-  },
 
   "ajustes.legal": {
     "es": "Sobre Germina",
@@ -509,11 +456,11 @@
     "ar": "ما يُحفظ وأين"
   },
   "privacidad.guardado": {
-    "es": "Lo que marcáis (preguntas y retos), los récords, el idioma y los cursos se guardan solo en este móvil, en el almacenamiento del navegador. No sale de aquí: nadie más puede verlo. Si queréis llevarlo a otro móvil, lo hacéis vosotros con el enlace, el QR o el código que encontraréis en Ajustes.",
-    "va": "El que marqueu (preguntes i reptes), els rècords, l'idioma i els cursos es guarden només en aquest mòbil, a l'emmagatzematge del navegador. No ix d'ací: ningú més pot veure'l. Si el voleu portar a un altre mòbil, ho feu vosaltres amb l'enllaç, el QR o el codi que trobareu a Ajustos.",
-    "en": "What you tick off (questions and challenges), the records, the language and the years are saved only on this phone, in the browser's storage. It never leaves here: nobody else can see it. If you want to take it to another phone, you do it yourselves with the link, the QR or the code you'll find in Settings.",
-    "fr": "Ce que vous cochez (questions et défis), les records, la langue et les années sont enregistrés uniquement sur ce téléphone, dans le stockage du navigateur. Rien n'en sort : personne d'autre ne peut le voir. Si vous voulez l'emporter sur un autre téléphone, vous le faites vous-mêmes avec le lien, le QR ou le code que vous trouverez dans les Réglages.",
-    "ar": "ما تضعون عليه علامة (الأسئلة والتحدّيات) والأرقام القياسية واللغة والصفوف تُحفظ في هذا الهاتف فقط، في تخزين المتصفح. لا يخرج من هنا: لا يستطيع أحد آخر رؤيته. وإن أردتم نقله إلى هاتف آخر فأنتم من يفعل ذلك بالرابط أو برمز QR أو بالرمز الذي ستجدونه في الإعدادات."
+    "es": "Lo que marcáis (preguntas y retos), el idioma y los cursos se guardan solo en este móvil, en el almacenamiento del navegador. No sale de aquí: nadie más puede verlo. Si queréis llevarlo a otro móvil, lo hacéis vosotros con el enlace, el QR o el código que encontraréis en Ajustes.",
+    "va": "El que marqueu (preguntes i reptes), l'idioma i els cursos es guarden només en aquest mòbil, a l'emmagatzematge del navegador. No ix d'ací: ningú més pot veure'l. Si el voleu portar a un altre mòbil, ho feu vosaltres amb l'enllaç, el QR o el codi que trobareu a Ajustos.",
+    "en": "What you tick off (questions and challenges), the language and the years are saved only on this phone, in the browser's storage. It never leaves here: nobody else can see it. If you want to take it to another phone, you do it yourselves with the link, the QR or the code you'll find in Settings.",
+    "fr": "Ce que vous cochez (questions et défis), la langue et les années sont enregistrés uniquement sur ce téléphone, dans le stockage du navigateur. Rien n'en sort : personne d'autre ne peut le voir. Si vous voulez l'emporter sur un autre téléphone, vous le faites vous-mêmes avec le lien, le QR ou le code que vous trouverez dans les Réglages.",
+    "ar": "ما تضعون عليه علامة (الأسئلة والتحدّيات) واللغة والصفوف تُحفظ في هذا الهاتف فقط، في تخزين المتصفح. لا يخرج من هنا: لا يستطيع أحد آخر رؤيته. وإن أردتم نقله إلى هاتف آخر فأنتم من يفعل ذلك بالرابط أو برمز QR أو بالرمز الذي ستجدونه في الإعدادات."
   },
   "privacidad.borrar_titulo": {
     "es": "Cómo borrarlo",

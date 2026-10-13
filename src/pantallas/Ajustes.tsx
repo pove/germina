@@ -1,5 +1,5 @@
 // «Ajustes»: idioma, cursos, explicación de la semilla y el jardín, cómo instalar y empezar de cero.
-// Con enlaces a «Llevar el jardín a otro móvil», la hoja de récords, la privacidad y la accesibilidad.
+// Con enlaces a «Llevar el jardín a otro móvil», la privacidad y la accesibilidad.
 import catalogoJson from '../../config/catalogo.json';
 import { useState } from 'preact/hooks';
 import { anoCursoHoy, datos, guardar, almacen } from '../estado';
@@ -66,9 +66,6 @@ export function Ajustes() {
         <div class="acciones">
           <a class="boton" href={construir({ tipo: 'pasar' })}>
             {t('ajustes.pasar')}
-          </a>
-          <a class="boton" href={construir({ tipo: 'imprimirRecords' })}>
-            {t('ajustes.records')}
           </a>
         </div>
       </section>

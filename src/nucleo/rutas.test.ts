@@ -18,7 +18,6 @@ const rutas: [string, Ruta][] = [
   ['#/ajustes', { tipo: 'ajustes' }],
   ['#/ajustes/pasar', { tipo: 'pasar' }],
   ['#/recibir/ABCD-EF12', { tipo: 'recibir', codigo: 'ABCD-EF12' }],
-  ['#/imprimir/records', { tipo: 'imprimirRecords' }],
   ['#/privacidad', { tipo: 'privacidad' }],
   ['#/accesibilidad', { tipo: 'accesibilidad' }],
 ];

@@ -20,7 +20,6 @@ export interface Curso {
 /** Lo marcado en una semilla. */
 export interface Semilla {
   hecho: Elemento[];
-  record?: number;
 }
 
 /** Contenido de `localStorage` (formato versión 1). */

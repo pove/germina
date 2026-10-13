@@ -95,11 +95,11 @@
       {
         "pictograma": "barras",
         "texto": {
-          "es": "Contad las parejas de cartas del montón: es vuestro récord de equipo. ¿Jugáis otra vez?",
-          "va": "Compteu les parelles de cartes del munt: és el vostre rècord d'equip. Torneu a jugar?",
-          "en": "Count the pairs of cards in the pile: that's your team record. Want to play again?",
-          "fr": "Comptez les paires de cartes du tas : c'est votre record d'équipe. On rejoue ?",
-          "ar": "عدّوا أزواج الأوراق في الكومة: هذا رقمكم القياسي كفريق. هل نلعب مرة أخرى؟"
+          "es": "Contad las parejas de cartas del montón. ¿Jugáis otra vez?",
+          "va": "Compteu les parelles de cartes del munt. Torneu a jugar?",
+          "en": "Count the pairs of cards in the pile. Shall we play again?",
+          "fr": "Comptez les paires de cartes du tas. Vous rejouez ?",
+          "ar": "عدّوا أزواج الأوراق في الكومة. هل نلعب مرة أخرى؟"
         }
       }
     ],
@@ -125,14 +125,7 @@
       "ar": "قول نواتج الجمع من دون العدّ واحدًا واحدًا يترك الذهن حرًّا للتفكير في المسائل."
     },
     "rapidez": {
-      "segundos": 60,
-      "seCuenta": {
-        "es": "sumas acertadas",
-        "va": "sumes encertades",
-        "en": "additions you got right",
-        "fr": "additions trouvées",
-        "ar": "عمليات الجمع الصحيحة"
-      }
+      "segundos": 60
     }
   },
   "preguntas": [
@@ -330,19 +323,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "e3ea5d617a8d"
+        "huella": "ce98ed748208"
       },
       "en": {
         "estado": "automatica",
-        "huella": "e3ea5d617a8d"
+        "huella": "ce98ed748208"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "e3ea5d617a8d"
+        "huella": "ce98ed748208"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "e3ea5d617a8d"
+        "huella": "ce98ed748208"
       }
     }
   }

@@ -1,6 +1,6 @@
 // Lo que la familia ha marcado, en memoria y en el dispositivo, y la fecha de hoy.
 import { computed, signal } from '@preact/signals';
-import { CLAVE, almacenDelNavegador, claveProgreso, conElemento, conRecord, escribir, leer } from './nucleo/almacen';
+import { CLAVE, almacenDelNavegador, claveProgreso, conElemento, escribir, leer } from './nucleo/almacen';
 import { anoDeCurso, fechaDeDate, situacion, type Fecha } from './nucleo/calendario';
 import { claveCurso, type Curso, type Datos, type Elemento, type Semilla } from './nucleo/tipos';
 
@@ -66,10 +66,3 @@ export function alternarElemento(curso: Curso, claveSemilla: string, elemento: E
   return !antes;
 }
 
-/** Apunta un resultado. Solo se guarda si mejora el récord. Devuelve `true` si es un récord nuevo. */
-export function apuntarRecord(curso: Curso, claveSemilla: string, valor: number): boolean {
-  const anterior = marcadoDe(curso, claveSemilla)?.record;
-  if (anterior !== undefined && valor <= anterior) return false;
-  guardar(conRecord(datos.value, anoCursoHoy.value, curso, claveSemilla, valor));
-  return true;
-}

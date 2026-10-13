@@ -94,11 +94,11 @@
       {
         "pictograma": "manos",
         "texto": {
-          "es": "Contad las parejas: ese es vuestro récord. Mezclad y jugad otra vez, a ver si sale alguna más.",
-          "va": "Compteu les parelles: eixe és el vostre rècord. Barregeu i jugueu una altra vegada, a veure si n'ix alguna més.",
-          "en": "Count the pairs: that is your record. Shuffle and play again to see if you get one more.",
-          "fr": "Comptez les paires : c'est votre record. Mélangez et rejouez, pour voir s'il en sort une de plus.",
-          "ar": "عدّوا الأزواج: هذا هو رقمكم القياسي. اخلطوا الأوراق والعبوا من جديد، لنرى هل يخرج زوج إضافي."
+          "es": "Contad las parejas. Mezclad y jugad otra vez, a ver si sale alguna más.",
+          "va": "Compteu les parelles. Barregeu i jugueu una altra vegada, a veure si en surt alguna més.",
+          "en": "Count the pairs. Shuffle and play again, to see if one more comes up.",
+          "fr": "Comptez les paires. Mélangez et rejouez, pour voir s'il en sort une de plus.",
+          "ar": "عدّوا الأزواج. اخلطوا الأوراق والعبوا مرة أخرى لنرى إن ظهر زوج آخر."
         }
       }
     ],
@@ -124,14 +124,7 @@
       "ar": "معرفة العدد الذي يكمّل عددًا آخر ليصبح 10 عن ظهر قلب، ورؤية الأكبر بسرعة، يجعلان الجمع والطرح سهلين."
     },
     "rapidez": {
-      "segundos": 60,
-      "seCuenta": {
-        "es": "parejas que suman 10",
-        "va": "parelles que sumen 10",
-        "en": "pairs that make 10",
-        "fr": "paires qui font 10",
-        "ar": "أزواج مجموعها 10"
-      }
+      "segundos": 60
     }
   },
   "preguntas": [
@@ -326,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "04b4920d5a7f"
+        "huella": "e342d8f74cf9"
       },
       "en": {
         "estado": "automatica",
-        "huella": "04b4920d5a7f"
+        "huella": "e342d8f74cf9"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "04b4920d5a7f"
+        "huella": "e342d8f74cf9"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "04b4920d5a7f"
+        "huella": "e342d8f74cf9"
       }
     }
   }

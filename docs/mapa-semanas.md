@@ -2,7 +2,7 @@
 
 > Generado por `scripts/mapa-semanas.mjs` a partir del `mapa-semanas.json` de cada ciclo. No editar a mano.
 
-Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récord. Saberes sin el prefijo `matematicas.` y criterios sin el prefijo `matematicas.cN.` de su ciclo, tal como están en `config/curriculo/matematicas.json`.
+Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro. Saberes sin el prefijo `matematicas.` y criterios sin el prefijo `matematicas.cN.` de su ciclo, tal como están en `config/curriculo/matematicas.json`.
 
 ## 1.er ciclo (1.º y 2.º)
 
@@ -128,7 +128,7 @@ Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
 | 41 | computacional.juegos-estrategia, computacional.cooperativo | 4.4, 7.1 | abierta | Tres en raya con tapones: jugar varias partidas y hablar de qué casilla conviene ocupar primero. |
 | verano-01 | numeros.recuento, numeros.decena | 5.1, 7.1 | combinar | Conchas, piedras o palitos: recoger un montón, hacer grupos de 10 y decir cuántos hay. |
 | verano-02 | numeros.usos-sociales, numeros.recta-comparar | 7.2, 5.2 | comparar | Paseo de números: buscar números de portales y autobuses y decir cuál es mayor. |
-| verano-03 | operaciones.calculo-mental, numeros.estructura | 2.4, 8.2 | combinar | Un minuto en equipo con cartas: buscar parejas que sumen 10. ¿Mejoramos el récord del curso? |
+| verano-03 | operaciones.calculo-mental, numeros.estructura | 2.4, 8.2 | combinar | Un minuto en equipo con cartas: buscar parejas que sumen 10. |
 | verano-04 | geometria.orientacion, computacional.secuencias-figuras | 4.1, 6.2 | abierta | Esconder un tesoro y dibujar el camino con flechas para que otra persona lo encuentre. |
 | verano-05 | medida.magnitudes, numeros.usos-sociales | 7.2, 1.2 | dinero | En el mercado o la tienda: mirar precios en euros, elegir algo y decir con qué monedas y billetes se paga justo. |
 | verano-06 | geometria.poligonos, geometria.circunferencia | 7.1, 5.2 | abierta | Caza de formas por la calle: señales, ventanas, ruedas… y contar sus lados y esquinas. |
@@ -182,7 +182,7 @@ Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
 | 39 | geometria.lineas, geometria.usos | 7.3, 5.1 | abierta | Arte de líneas: hacer un dibujo solo con líneas rectas (con regla) y otro solo con curvas (con cuerda o tapas). |
 | 40 | operaciones.suma-resta, operaciones.doble-mitad, numeros.sistema-decimal, medida.cooperativo | 2.4, 8.3 | combinar, particion, medida<br>Recupera: 7, 15, 26, 30, 35, 36 | La gran tienda de la familia: un mercado con precios en euros, bolsas de un kilo y botellas de un litro. |
 | 41 | computacional.juegos-estrategia, computacional.cooperativo | 4.4, 8.3 | abierta | El último palillo: 15 palillos en la mesa, cada persona coge 1, 2 o 3 por turno y quien coge el último pierde; ¿hay una manera de ganar siempre? |
-| verano-01 | operaciones.calculo-mental, operaciones.doble-mitad | 2.4, 8.2 | suma-repetida | Un minuto en equipo diciendo la tabla del 2, del 5 o del 10, en la playa, el parque o la terraza. ¿Mejoramos el récord del curso? |
+| verano-01 | operaciones.calculo-mental, operaciones.doble-mitad | 2.4, 8.2 | suma-repetida | Un minuto en equipo diciendo la tabla del 2, del 5 o del 10, en la playa, el parque o la terraza. |
 | verano-02 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 7.2 | comparar | Paseo de números: buscar números de tres cifras (portales, matrículas, precios) y decir cuál es mayor. |
 | verano-03 | operaciones.calculo-mental, operaciones.suma-resta | 2.4, 1.2 | anadir, detraccion | Al 100 con dados en la playa o la terraza, sumando o quitando lo que sale. |
 | verano-04 | geometria.orientacion, computacional.secuencias-figuras | 4.1, 6.3 | abierta | Dibujar el plano del parque o de la casa del pueblo y esconder un tesoro con instrucciones de flechas. |
@@ -299,11 +299,11 @@ Fuente: `contenido/ciclo-2/matematicas/mapa-semanas.json`.
 | 10 | medida.magnitudes, medida.unidades, medida.instrumentos | 5.2, 3.2 | tiempo | Reloj de plato: un plato de papel con agujas de cartulina; una persona dice una hora y la otra la pone. |
 | 11 | operaciones.producto-cociente | 5.1, 2.3 | suma-repetida | La despensa en grupos: hueveras, packs de yogures, calcetines por pares; contar por grupos y escribir 3 + 3 + 3 + 3 = 4 × 3. |
 | 12 | operaciones.suma-resta, medida.magnitudes, operaciones.producto-cociente | 2.4, 8.1 | detraccion, tiempo, suma-repetida<br>Recupera: 7, 8, 9, 10, 11 | La oca de casa: un tablero dibujado en papel con una resta, una hora o un grupo en cada casilla. |
-| 13 | operaciones.producto-cociente, operaciones.calculo-mental, computacional.secuencias-numericas | 2.3, 4.2 | suma-repetida | Cartas rápidas con el 2 y el 10: se saca una carta y gana quien diga antes el doble o el número por diez. Dos minutos de cronómetro y récord personal. |
+| 13 | operaciones.producto-cociente, operaciones.calculo-mental, computacional.secuencias-numericas | 2.3, 4.2 | suma-repetida | Cartas rápidas con el 2 y el 10: se saca una carta y gana quien diga antes el doble o el número por diez. Dos minutos de cronómetro. |
 | 14 | operaciones.producto-cociente, computacional.secuencias-numericas, medida.magnitudes | 2.3, 4.2 | suma-repetida, tiempo | Manos y minutos: contar dedos de 5 en 5 y ver que son los mismos números que los minutos del reloj. |
 | 15 | medida.magnitudes, operaciones.suma-resta | 1.1, 7.2 | dinero, escala-ascendente | La tienda de casa con monedas: comprar con 5 € y calcular la vuelta contando hacia arriba. |
 | 16 | operaciones.suma-resta, operaciones.producto-cociente, operaciones.calculo-mental, numeros.cooperativo | 7.1, 8.2 | combinar, suma-repetida<br>Recupera: 4, 7, 11, 13, 14, 15 | Juegos de mesa de casa (parchís, oca, dominó): sumar los puntos de cada jugada y contar casillas de 5 en 5. |
-| 17 | operaciones.calculo-mental, operaciones.producto-cociente | 2.4, 8.2 | suma-repetida<br>Recupera: 9, 13, 14 | Cartas rápidas con el 2, el 5 y el 10: ¿mejoramos el récord de la semana 13? |
+| 17 | operaciones.calculo-mental, operaciones.producto-cociente | 2.4, 8.2 | suma-repetida<br>Recupera: 9, 13, 14 | Cartas rápidas con el 2, el 5 y el 10, como en la semana 13, pero con calma. |
 | 18 | operaciones.producto-cociente, operaciones.propiedades | 2.4, 2.2 | suma-repetida | Doblar tiras de papel: una vez salen 2 partes, otra vez 4; calcular 4 × 3 como el doble de 2 × 3 con galletas. |
 | 19 | operaciones.propiedades, operaciones.producto-cociente | 2.1, 5.1 | suma-repetida | Filas de botones en un plato: 3 filas de 4; se gira el plato y aparecen 4 filas de 3. ¿Cuántos hay ahora? |
 | 20 | operaciones.producto-cociente, operaciones.propiedades, computacional.secuencias-numericas | 2.3, 2.4 | suma-repetida | El dado doble: tirar un dado, multiplicar por 3 y después por 6. ¿Qué relación hay entre los dos números? |
@@ -320,7 +320,7 @@ Fuente: `contenido/ciclo-2/matematicas/mapa-semanas.json`.
 | 31 | operaciones.suma-resta, operaciones.producto-cociente, fracciones.perseverancia | 1.1, 6.3 | combinar, suma-repetida, dinero | Problemas con trampa: la persona adulta cuenta un problema con un dato que no sirve (la edad del perro, el color del coche) y hay que descubrirlo. |
 | 32 | fracciones.fraccion, fracciones.utilidad | 5.1, 5.2 | medida | Pizza de cartón o servilletas: partir en mitades y en cuartos; ¿cuántos cuartos hacen una mitad? |
 | 33 | fracciones.fraccion, fracciones.comparar | 2.1, 5.2 | comparar | Tiras iguales de papel dobladas en 2, 3 y 4 partes: ponerlas una encima de otra y comparar los trozos. |
-| 34 | operaciones.producto-cociente, fracciones.fraccion, fracciones.perseverancia | 2.4, 8.2 | suma-repetida, comparar<br>Recupera: 25, 26, 30, 31, 32, 33 | Cartas rápidas con todas las tablas y récord personal; después, partir una tortilla de papel para los que han jugado. |
+| 34 | operaciones.producto-cociente, fracciones.fraccion, fracciones.perseverancia | 2.4, 8.2 | suma-repetida, comparar<br>Recupera: 25, 26, 30, 31, 32, 33 | Cartas rápidas con todas las tablas; después, partir una tortilla de papel para los que han jugado. |
 | 35 | operaciones.producto-cociente, operaciones.calculo-mental | 3.4, 1.3 | suma-repetida, dinero | La excursión: 4 entradas de 18 €. Primero a ojo (¿más o menos de 80 €?) y después la cuenta. |
 | 36 | medida.instrumentos, medida.unidades, medida.no-convencionales | 3.4, 5.1 | medida | Palmos, pasos y metro: estimar cuánto mide la mesa o el pasillo, medir con el metro y ver quién se acercó más. |
 | 37 | medida.magnitudes, medida.unidades, medida.instrumentos | 3.2, 5.2 | medida | Etiquetas de la despensa (500 g, 1 kg, 1 l): ordenarlas y llenar una botella de litro con vasos de medio litro, siempre con una persona adulta. |
@@ -328,7 +328,7 @@ Fuente: `contenido/ciclo-2/matematicas/mapa-semanas.json`.
 | 39 | operaciones.suma-resta, operaciones.producto-cociente, fracciones.perseverancia | 1.1, 1.2, 6.3 | combinar, detraccion, suma-repetida, particion | Tarjetas de problemas cortos: clasificarlos en sumar, restar, multiplicar o repartir antes de resolverlos. |
 | 40 | operaciones.suma-resta, operaciones.producto-cociente, medida.unidades, fracciones.fraccion, medida.cooperativo | 2.4, 8.2 | combinar, particion, medida<br>Recupera: 7, 15, 25, 35, 36, 37, 38, 39 | La gymkana de casa: cinco puestos (medir, pesar, repartir, la tienda, la hora) y en cada uno una pregunta. |
 | 41 | computacional.juegos-estrategia, computacional.algoritmos | 4.4, 7.1 | abierta | Tres en raya y el juego de los palillos (quitar 1, 2 o 3; pierde quien coge el último): ¿hay una forma de ganar siempre? |
-| verano-01 | operaciones.producto-cociente, operaciones.calculo-mental | 2.4, 8.2 | suma-repetida | Cartas rápidas en la playa, el parque o la terraza: ¿mejoramos el récord del curso? |
+| verano-01 | operaciones.producto-cociente, operaciones.calculo-mental | 2.4, 8.2 | suma-repetida | Cartas rápidas en la playa, el parque o la terraza. |
 | verano-02 | numeros.millar, numeros.sistema-decimal | 5.2, 7.1 | comparar | Leer matrículas de cuatro cifras en un paseo y decir cuál es la mayor. |
 | verano-03 | geometria.transformaciones | 2.3, 7.1 | abierta | Pintar media mariposa, doblar el papel y abrirlo: buscar más simetrías en hojas, ventanas y letras. |
 | verano-04 | geometria.localizacion, computacional.algoritmos | 5.3, 4.1 | abierta | Esconder un objeto y dibujar un mapa con flechas (3 pasos al norte, 2 al este) para encontrarlo. |
@@ -353,13 +353,13 @@ Fuente: `contenido/ciclo-2/matematicas/mapa-semanas.json`.
 | 8 | operaciones.suma-resta, operaciones.calculo-mental | 1.3, 6.3 | escala-ascendente | Detectives de restas: la persona adulta hace tres restas y una tiene un despiste a propósito. ¿Cuál es y cómo lo sabéis? |
 | 9 | operaciones.calculo-mental, operaciones.propiedades | 2.4, 6.4 | anadir, detraccion | ¿Cómo lo has pensado?: cada persona calcula la misma suma de cabeza y cuenta su truco; se comparan los trucos. |
 | 10 | medida.magnitudes, medida.unidades | 3.2, 1.3 | tiempo, escala-ascendente | El horario del sábado: apuntar a qué hora empieza y acaba cada cosa y calcular cuánto dura. |
-| 11 | operaciones.producto-cociente, operaciones.calculo-mental, operaciones.propiedades | 2.4, 8.2 | suma-repetida | Cartas rápidas: se sacan dos cartas y gana quien diga antes el producto. Dos minutos de cronómetro y récord personal. |
+| 11 | operaciones.producto-cociente, operaciones.calculo-mental, operaciones.propiedades | 2.4, 8.2 | suma-repetida | Cartas rápidas: se sacan dos cartas y gana quien diga antes el producto. Dos minutos de cronómetro. |
 | 12 | operaciones.suma-resta, medida.magnitudes, operaciones.producto-cociente | 2.4, 8.1 | detraccion, tiempo, suma-repetida<br>Recupera: 7, 8, 9, 10, 11 | Dominó de tablas hecho en casa con cartulina: en un lado la multiplicación, en el otro un resultado. |
 | 13 | operaciones.producto-cociente, operaciones.propiedades | 5.3, 2.4 | suma-repetida, dinero | La merienda para 8: precios enteros del folleto multiplicados por el número de personas. |
 | 14 | operaciones.calculo-mental, operaciones.producto-cociente | 3.4, 1.3 | suma-repetida | Adivina antes de contar: estimar cuántas baldosas hay en el suelo y comprobarlo multiplicando filas por columnas. |
 | 15 | medida.magnitudes, operaciones.suma-resta, fracciones.utilidad | 1.1, 7.2 | dinero, combinar | La tienda: con 20 € de papel, comprar dos productos del folleto y calcular la vuelta, primero con monedas y después por escrito. |
 | 16 | operaciones.suma-resta, operaciones.producto-cociente, operaciones.calculo-mental, numeros.cooperativo | 7.1, 8.2 | combinar, suma-repetida, dinero<br>Recupera: 3, 4, 7, 11, 13, 15 | Juegos de mesa de casa con un cambio: cada casilla vale el doble, o los puntos se multiplican por el dado. |
-| 17 | operaciones.calculo-mental, operaciones.producto-cociente | 2.4, 8.2 | suma-repetida<br>Recupera: 9, 11, 14 | Cartas rápidas con todas las tablas: ¿mejoramos el récord de la semana 11? |
+| 17 | operaciones.calculo-mental, operaciones.producto-cociente | 2.4, 8.2 | suma-repetida<br>Recupera: 9, 11, 14 | Cartas rápidas con todas las tablas, como en la semana 11, pero con calma. |
 | 18 | operaciones.propiedades, operaciones.producto-cociente | 5.1, 2.4 | suma-repetida | Rectángulos en papel cuadriculado: dibujar uno de 23 × 14 y partirlo en trozos fáciles de contar. |
 | 19 | operaciones.propiedades, operaciones.calculo-mental | 2.2, 6.4 | suma-repetida | El camino más corto: con tres multiplicaciones, cada persona busca el orden que las hace más fáciles y lo explica. |
 | 20 | operaciones.producto-cociente, operaciones.calculo-mental | 3.4, 1.3 | suma-repetida, dinero | El pan de 12 semanas: ¿cuánto gasta la familia en pan en 12 semanas? Primero a ojo, después la cuenta. |
@@ -376,7 +376,7 @@ Fuente: `contenido/ciclo-2/matematicas/mapa-semanas.json`.
 | 31 | operaciones.suma-resta, operaciones.producto-cociente, fracciones.perseverancia | 1.1, 6.3 | combinar, particion, dinero | Una receta con trampa: responder preguntas sobre una receta y después inventar un dato que no sirva para nada. |
 | 32 | fracciones.fraccion, fracciones.utilidad | 5.1, 5.2 | medida | Recetas y tiras de papel: medio litro, un cuarto de kilo; doblar tiras en partes iguales y nombrar cada parte. |
 | 33 | fracciones.fraccion, fracciones.comparar, numeros.recta-comparar | 5.3, 2.1 | comparar | La cinta métrica de costura: marcar ½, ¼ y ¾ de un metro y colocar otras fracciones antes o después de la mitad. |
-| 34 | operaciones.producto-cociente, fracciones.fraccion, fracciones.perseverancia | 2.4, 8.2 | suma-repetida, comparar<br>Recupera: 25, 26, 30, 31, 32, 33 | Cartas rápidas con todas las tablas y récord personal; después, ordenar en la cinta tarjetas con fracciones. |
+| 34 | operaciones.producto-cociente, fracciones.fraccion, fracciones.perseverancia | 2.4, 8.2 | suma-repetida, comparar<br>Recupera: 25, 26, 30, 31, 32, 33 | Cartas rápidas con todas las tablas; después, ordenar en la cinta tarjetas con fracciones. |
 | 35 | fracciones.decimales, fracciones.fraccion, numeros.recta-comparar | 5.2, 5.3 | medida | El metro en diez trozos: cada trozo de 10 cm es 0,1 m; medir cosas de casa en décimas de metro. |
 | 36 | fracciones.decimales, medida.unidades, fracciones.utilidad | 5.2, 7.2 | medida, dinero | Las alturas de la familia: medirlas en metros con dos decimales y ordenarlas de mayor a menor. |
 | 37 | fracciones.por-10-100-1000, fracciones.decimales, medida.unidades | 2.3, 5.3 | medida | Etiquetas de la compra: 0,250 kg son 250 g; pasar pesos y medidas de una unidad a otra con la tabla de valor posicional. |
@@ -384,7 +384,7 @@ Fuente: `contenido/ciclo-2/matematicas/mapa-semanas.json`.
 | 39 | operaciones.suma-resta, operaciones.producto-cociente, fracciones.perseverancia | 1.1, 1.2, 6.4 | combinar, detraccion, suma-repetida, particion, dinero | Tarjetas de problemas cortos: clasificarlos por operación y explicar por qué antes de resolverlos. |
 | 40 | operaciones.suma-resta, operaciones.producto-cociente, fracciones.decimales, medida.unidades, medida.cooperativo | 2.4, 8.2 | combinar, particion, medida, dinero<br>Recupera: 7, 15, 25, 35, 36, 37, 38, 39 | La gymkana de casa: cinco puestos (medir, pesar, repartir, la tienda, la hora) y en cada uno una pregunta. |
 | 41 | computacional.juegos-estrategia, computacional.algoritmos | 4.4, 6.4 | abierta | El juego de los palillos con 15 (quitar 1, 2 o 3; pierde quien coge el último): descubrir cómo ganar siempre y explicar la regla. |
-| verano-01 | operaciones.producto-cociente, operaciones.calculo-mental | 2.4, 8.2 | suma-repetida | Cartas rápidas con todas las tablas: ¿mejoramos el récord del curso? |
+| verano-01 | operaciones.producto-cociente, operaciones.calculo-mental | 2.4, 8.2 | suma-repetida | Cartas rápidas con todas las tablas. |
 | verano-02 | numeros.multiplos-divisores, computacional.secuencias-numericas | 2.3, 4.2 | abierta | Contar por turnos del 1 en adelante y decir «¡pum!» en vez de los múltiplos de 3 (después, de 4 o de 6). |
 | verano-03 | fracciones.decimales, numeros.recta-comparar | 5.3, 5.2 | medida | Con una cinta métrica, colocar tarjetas como 0,5; 0,25; 1,1 y 0,75 en su sitio. |
 | verano-04 | geometria.transformaciones, geometria.poligonos, geometria.concavidad | 2.3, 7.3 | abierta | Buscar mosaicos en suelos y paredes y dibujar uno propio girando y moviendo una misma figura. ¿Alguna figura tiene «cueva» (cóncava)? |

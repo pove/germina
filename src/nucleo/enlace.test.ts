@@ -16,9 +16,9 @@ const ejemplo: Datos = {
   progreso: {
     '2026/2/matematicas/3': {
       s01: { hecho: ['reto'] },
-      s07: { hecho: ['reto', 'p1', 'p2'], record: 14 },
+      s07: { hecho: ['reto', 'p1', 'p2'] },
       s41: { hecho: ['p5'] },
-      v03: { hecho: ['reto'], record: 9 },
+      v03: { hecho: ['reto'] },
       v10: { hecho: ['p1', 'p2', 'p3', 'p4', 'p5', 'reto'] },
     },
     '2025/2/matematicas/3': { s02: { hecho: ['p3'] } },
@@ -103,7 +103,7 @@ describe('formato binario (6.3)', () => {
   it('cabecera, bloque y CRC a mano', () => {
     const datos: Datos = {
       ...datosVacios(),
-      progreso: { '2026/2/matematicas/3': { s01: { hecho: ['reto'] }, s09: { hecho: ['p1', 'p5'], record: 7 }, v10: { hecho: ['p3'] } } },
+      progreso: { '2026/2/matematicas/3': { s01: { hecho: ['reto'] }, s09: { hecho: ['p1', 'p5'] }, v10: { hecho: ['p3'] } } },
     };
     const esperado = conCrc([
       1, 1, // versión, bloques
@@ -112,10 +112,9 @@ describe('formato binario (6.3)', () => {
       0b100000, 0b010001, // s01: reto; s09: p1 y p5
       0, 0b01000000, // veranos: el 10
       0b000100, // v10: p3
-      1, 9, 7, // un récord: semana 9, valor 7
     ]);
     expect(codificar(datos)).toEqual(esperado);
-    expect(esperado).toHaveLength(22);
+    expect(esperado).toHaveLength(19);
   });
 
   it('sin nada: versión, cero bloques y CRC', () => {
@@ -130,9 +129,9 @@ describe('formato binario (6.3)', () => {
     expect(r.recibido.cursos).toEqual(['2/matematicas/3', '2/matematicas/4']);
     expect(r.recibido.progreso['2026/2/matematicas/3']).toEqual({
       s01: { hecho: ['reto'] },
-      s07: { hecho: ['reto', 'p1', 'p2'], record: 14 },
+      s07: { hecho: ['reto', 'p1', 'p2'] },
       s41: { hecho: ['p5'] },
-      v03: { hecho: ['reto'], record: 9 },
+      v03: { hecho: ['reto'] },
       v10: { hecho: ['reto', 'p1', 'p2', 'p3', 'p4', 'p5'] },
     });
     expect(r.recibido.progreso['2025/2/matematicas/3']).toEqual({ s02: { hecho: ['p3'] } });
@@ -157,12 +156,6 @@ describe('formato binario (6.3)', () => {
     if (!r.ok) return;
     expect(r.recibido.cursos).toEqual(['1/matematicas/1', '1/matematicas/2']);
     expect(r.recibido.progreso['2026/1/matematicas/2']).toEqual({ s30: { hecho: ['reto', 'p5'] }, v01: { hecho: ['p1'] } });
-  });
-
-  it('un récord sin casillas marcadas viaja igual', () => {
-    const d: Datos = { ...datosVacios(), progreso: { '2026/2/matematicas/3': { s05: { hecho: [], record: 0 }, v02: { hecho: [], record: 255 } } } };
-    const r = decodificar(codigoDeDatos(d));
-    expect(r.ok && r.recibido.progreso['2026/2/matematicas/3']).toEqual({ s05: { hecho: [], record: 0 }, v02: { hecho: [], record: 255 } });
   });
 
   it('varios cursos y áreas, en orden estable', () => {
@@ -230,7 +223,7 @@ describe('formato binario (6.3)', () => {
 
   it('cabe en un tamaño razonable con todo marcado', () => {
     const semillas: Datos['progreso'][string] = {};
-    for (let n = 1; n <= 41; n++) semillas[`s${String(n).padStart(2, '0')}`] = { hecho: ['reto', 'p1', 'p2', 'p3', 'p4', 'p5'], record: n };
+    for (let n = 1; n <= 41; n++) semillas[`s${String(n).padStart(2, '0')}`] = { hecho: ['reto', 'p1', 'p2', 'p3', 'p4', 'p5'] };
     const bytes = codificar({ ...datosVacios(), progreso: { '2026/2/matematicas/3': semillas } });
     expect(bytes.length).toBeLessThan(200);
   });
@@ -291,28 +284,23 @@ describe('códigos dañados', () => {
 
   it.each<[string, number[]]>([
     ['faltan bloques', [1, 1]],
-    ['ciclo 0', [1, 1, 26, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
-    ['ciclo 4', [1, 1, 26, 4, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
-    ['curso 0', [1, 1, 26, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
-    ['curso 7', [1, 1, 26, 2, 1, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
-    ['área desconocida', [1, 1, 26, 2, 99, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
-    ['relleno de semanas distinto de cero', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0b01000000, 0, 0, 0, 0]],
-    ['relleno de veranos distinto de cero', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 1, 0]],
-    ['semana marcada sin casillas', [1, 1, 26, 2, 1, 3, 0x80, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
-    ['casillas de más de 6 bits', [1, 1, 26, 2, 1, 3, 0x80, 0, 0, 0, 0, 0, 64, 0, 0, 0]],
-    ['récord en la semana 0', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 5]],
-    ['récord en la semana 42', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 42, 5]],
-    ['récord en el verano 0', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 100, 5]],
-    ['récord en el verano 11', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 111, 5]],
+    ['ciclo 0', [1, 1, 26, 0, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0]],
+    ['ciclo 4', [1, 1, 26, 4, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0]],
+    ['curso 0', [1, 1, 26, 2, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+    ['curso 7', [1, 1, 26, 2, 1, 7, 0, 0, 0, 0, 0, 0, 0, 0]],
+    ['área desconocida', [1, 1, 26, 2, 99, 3, 0, 0, 0, 0, 0, 0, 0, 0]],
+    ['relleno de semanas distinto de cero', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0b01000000, 0, 0]],
+    ['relleno de veranos distinto de cero', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 1]],
+    ['semana marcada sin casillas', [1, 1, 26, 2, 1, 3, 0x80, 0, 0, 0, 0, 0, 0, 0, 0]],
+    ['casillas de más de 6 bits', [1, 1, 26, 2, 1, 3, 0x80, 0, 0, 0, 0, 0, 64, 0, 0]],
     ['bytes de más', [1, 0, 7]],
-    ['récords que no caben', [1, 1, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 3, 1, 5]],
-    ['mismo curso y año repetido', [1, 2, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+    ['mismo curso y año repetido', [1, 2, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0]],
   ])('%s: formato', (_nombre, bytes) => {
     expect(decodificarBytes(conCrc(bytes))).toEqual({ ok: false, motivo: 'formato' });
   });
 
   it('el mismo curso en dos años distintos sí vale', () => {
-    const bytes = conCrc([1, 2, 25, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0]);
+    const bytes = conCrc([1, 2, 25, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0, 26, 2, 1, 3, 0, 0, 0, 0, 0, 0, 0, 0]);
     expect(decodificarBytes(bytes)).toMatchObject({ ok: true, recibido: { cursos: ['2/matematicas/3'] } });
   });
 });

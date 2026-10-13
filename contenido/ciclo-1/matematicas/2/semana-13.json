@@ -21,11 +21,11 @@
     "ar": "هذا الأسبوع يبحث الأطفال عن أزواج من الأعداد مجموعها 10، مثل 3 و7، ويكتشفون أن الأمر نفسه يحدث مع العشرات (decenas): 30 و70 مجموعهما 100. لعبة الأسبوع جماعية وضد الوقت."
   },
   "comoAyudar": {
-    "es": "Jugad en el mismo equipo: el récord es de los dos. Si una pareja no sale, contad con los dedos lo que falta hasta 10 antes de poner el cronómetro.",
-    "va": "Jugueu en el mateix equip: el rècord és de tots dos. Si una parella no ix, compteu amb els dits el que falta fins a 10 abans de posar el cronòmetre.",
-    "en": "Play on the same team: the record belongs to both of you. If a pair doesn't come, count on your fingers what's missing up to 10 before starting the timer.",
-    "fr": "Jouez dans la même équipe : le record est à vous deux. Si une paire ne vient pas, comptez sur les doigts ce qui manque jusqu'à 10 avant de lancer le chronomètre.",
-    "ar": "العبوا في الفريق نفسه: الرقم القياسي لكم معًا. وإذا لم يظهر زوج ما، فعدّوا بالأصابع ما ينقص حتى 10 قبل تشغيل المؤقّت."
+    "es": "Jugad en el mismo equipo: el juego es de los dos. Si una pareja no sale, contad con los dedos lo que falta hasta 10 antes de poner el cronómetro.",
+    "va": "Jugueu en el mateix equip: el joc és dels dos. Si una parella no ix, compteu amb els dits el que falta fins a 10 abans de posar el cronòmetre.",
+    "en": "Play on the same team: the game belongs to both of you. If a pair doesn't come up, count on your fingers what's missing to reach 10 before starting the stopwatch.",
+    "fr": "Jouez dans la même équipe : le jeu est à vous deux. Si une paire ne sort pas, comptez sur les doigts ce qui manque pour arriver à 10 avant de lancer le chrono.",
+    "ar": "العبوا في الفريق نفسه: اللعبة للاثنين معًا. وإذا لم يظهر زوج، عدّوا على الأصابع ما ينقص للوصول إلى 10 قبل تشغيل المؤقّت."
   },
   "saberes": [
     "matematicas.operaciones.calculo-mental",
@@ -131,14 +131,7 @@
       "ar": "حفظ أزواج العشرة يساعد على الجمع والطرح بسرعة. ومن يعرف أزواج العشرة يعرف أيضًا أزواج المئة."
     },
     "rapidez": {
-      "segundos": 60,
-      "seCuenta": {
-        "es": "parejas encontradas",
-        "va": "parelles trobades",
-        "en": "pairs found",
-        "fr": "paires trouvées",
-        "ar": "الأزواج التي وجدناها"
-      }
+      "segundos": 60
     }
   },
   "preguntas": [
@@ -336,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "cf415f3c042d"
+        "huella": "8747a0c9887a"
       },
       "en": {
         "estado": "automatica",
-        "huella": "cf415f3c042d"
+        "huella": "8747a0c9887a"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "cf415f3c042d"
+        "huella": "8747a0c9887a"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "cf415f3c042d"
+        "huella": "8747a0c9887a"
       }
     }
   }

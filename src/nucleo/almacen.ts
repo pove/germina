@@ -7,7 +7,6 @@ import { claveCurso } from './tipos';
 
 export const CLAVE = 'germina';
 export const VERSION = 1;
-export const RECORD_MAXIMO = 255;
 
 /** Lo mínimo que usamos de `localStorage`, para poder probarlo con uno falso. */
 export interface Almacenamiento {
@@ -54,8 +53,7 @@ function sanearSemillas(bruto: unknown): Record<string, Semilla> {
     if (!leerClaveSemilla(clave) || !esObjeto(valor)) continue;
     const hecho = Array.isArray(valor.hecho) ? ordenarElementos(valor.hecho.filter(esElemento)) : [];
     const semilla: Semilla = { hecho };
-    if (esEnteroEn(valor.record, 0, RECORD_MAXIMO)) semilla.record = valor.record;
-    if (hecho.length > 0 || semilla.record !== undefined) salida[clave] = semilla;
+    if (hecho.length > 0) salida[clave] = semilla;
   }
   return salida;
 }
@@ -136,17 +134,9 @@ export function conElemento(datos: Datos, ano: number, curso: Curso, claveSemill
   return conSemilla(datos, clave, claveSemilla, { ...antes, hecho: ordenarElementos(hecho) });
 }
 
-/** Apunta el récord de una semilla (entero de 0 a 255). */
-export function conRecord(datos: Datos, ano: number, curso: Curso, claveSemilla: string, record: number): Datos {
-  if (!esEnteroEn(record, 0, RECORD_MAXIMO)) throw new RangeError(`El récord debe ser un entero de 0 a ${RECORD_MAXIMO}`);
-  const clave = claveProgreso(ano, curso);
-  const antes = datos.progreso[clave]?.[claveSemilla];
-  return conSemilla(datos, clave, claveSemilla, { hecho: antes?.hecho ?? [], record });
-}
-
 function conSemilla(datos: Datos, clave: string, claveSemilla: string, semilla: Semilla): Datos {
   const semillas = { ...datos.progreso[clave] };
-  if (semilla.hecho.length === 0 && semilla.record === undefined) delete semillas[claveSemilla];
+  if (semilla.hecho.length === 0) delete semillas[claveSemilla];
   else semillas[claveSemilla] = semilla;
   const progreso = { ...datos.progreso, [clave]: semillas };
   if (Object.keys(semillas).length === 0) delete progreso[clave];

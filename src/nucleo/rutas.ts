@@ -15,7 +15,6 @@ export type Ruta =
   | { tipo: 'ajustes' }
   | { tipo: 'pasar' }
   | { tipo: 'recibir'; codigo: string }
-  | { tipo: 'imprimirRecords' }
   | { tipo: 'privacidad' }
   | { tipo: 'accesibilidad' }
   | { tipo: 'desconocida' };
@@ -79,7 +78,6 @@ export function interpretar(hash: string): Ruta {
     }
   }
   if (partes.length === 2 && a === 'ajustes' && b === 'pasar') return { tipo: 'pasar' };
-  if (partes.length === 2 && a === 'imprimir' && b === 'records') return { tipo: 'imprimirRecords' };
   if (partes.length === 2 && a === 'recibir' && b !== undefined) {
     let codigo: string;
     try {
@@ -110,7 +108,6 @@ export function construir(ruta: Ruta): string {
     case 'ajustes': return '#/ajustes';
     case 'pasar': return '#/ajustes/pasar';
     case 'recibir': return `#/recibir/${encodeURIComponent(ruta.codigo)}`;
-    case 'imprimirRecords': return '#/imprimir/records';
     case 'privacidad': return '#/privacidad';
     case 'accesibilidad': return '#/accesibilidad';
   }

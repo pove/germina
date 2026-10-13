@@ -11,42 +11,29 @@ const mio: Datos = {
   cursoActivo: '2/matematicas/3',
   ultimoAnoCurso: 2026,
   progreso: {
-    '2026/2/matematicas/3': { s07: { hecho: ['p1'], record: 10 }, s08: { hecho: ['reto'] } },
+    '2026/2/matematicas/3': { s07: { hecho: ['p1'] }, s08: { hecho: ['reto'] } },
   },
 };
 
 const recibido: Recibido = {
   cursos: ['2/matematicas/4', '2/matematicas/3'],
   progreso: {
-    '2026/2/matematicas/3': { s07: { hecho: ['reto', 'p2'], record: 14 }, s09: { hecho: ['p5'] } },
+    '2026/2/matematicas/3': { s07: { hecho: ['reto', 'p2'] }, s09: { hecho: ['p5'] } },
     '2026/2/matematicas/4': { s01: { hecho: ['reto'] } },
   },
 };
 
 describe('combinar', () => {
-  it('suma las casillas, se queda con el mejor récord y añade lo nuevo', () => {
+  it('suma las casillas y añade lo nuevo', () => {
     const r = combinar(mio, recibido);
     expect(r.progreso).toEqual({
       '2026/2/matematicas/3': {
-        s07: { hecho: ['reto', 'p1', 'p2'], record: 14 },
+        s07: { hecho: ['reto', 'p1', 'p2'] },
         s08: { hecho: ['reto'] },
         s09: { hecho: ['p5'] },
       },
       '2026/2/matematicas/4': { s01: { hecho: ['reto'] } },
     });
-  });
-
-  it('el récord propio mayor se conserva', () => {
-    const r = combinar({ ...mio, progreso: { '2026/2/matematicas/3': { s07: { hecho: [], record: 20 } } } }, recibido);
-    expect(r.progreso['2026/2/matematicas/3']!.s07).toEqual({ hecho: ['reto', 'p2'], record: 20 });
-  });
-
-  it('un récord solo en un lado se queda, y sin récord en ninguno no aparece', () => {
-    const r = combinar(
-      { ...mio, progreso: { '2026/2/matematicas/3': { s01: { hecho: ['reto'] } } } },
-      { cursos: [], progreso: { '2026/2/matematicas/3': { s01: { hecho: ['p1'], record: 0 }, s02: { hecho: ['p1'] } } } },
-    );
-    expect(r.progreso['2026/2/matematicas/3']).toEqual({ s01: { hecho: ['reto', 'p1'], record: 0 }, s02: { hecho: ['p1'] } });
   });
 
   it('añade los cursos nuevos sin repetir y sin cambiar el orden de los propios', () => {
@@ -89,6 +76,6 @@ describe('combinar', () => {
     const nuevo = combinar({ ...datosVacios(), idioma: 'ar' }, r.recibido);
     expect(nuevo.idioma).toBe('ar');
     expect(nuevo.cursos).toEqual(['2/matematicas/3', '2/matematicas/4']);
-    expect(nuevo.progreso['2026/2/matematicas/3']!.s07).toEqual({ hecho: ['p1'], record: 10 });
+    expect(nuevo.progreso['2026/2/matematicas/3']!.s07).toEqual({ hecho: ['p1'] });
   });
 });

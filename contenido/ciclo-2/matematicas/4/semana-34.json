@@ -21,11 +21,11 @@
     "ar": "هذا الأسبوع يعود الأطفال إلى كل جداول الضرب (tablas)، والضرب والقسمة على 10 و100 و1000، والمسائل ذات المعطيات الزائدة، والكسور (fracciones) على الشريط. لا جديد: الهدف أن يترسّخ ما تعلّموه."
   },
   "comoAyudar": {
-    "es": "En las cartas rápidas, lo que cuenta es acertar. Si el récord no se mejora, mirad cuántas parejas salieron sin dudar: eso también es avanzar.",
-    "va": "En les cartes ràpides, el que compta és encertar. Si el rècord no es millora, mireu quantes parelles van eixir sense dubtar: això també és avançar.",
-    "en": "In quick cards, what counts is getting it right. If the record isn't beaten, look at how many pairs came out without hesitating: that's moving forward too.",
-    "fr": "Aux cartes rapides, ce qui compte, c'est de trouver. Si le record n'est pas battu, regardez combien de paires sont sorties sans hésiter : ça aussi, c'est avancer.",
-    "ar": "في الأوراق السريعة، المهم هو الإجابة الصحيحة. وإذا لم يتحسّن الرقم القياسي، انظروا كم زوجًا خرج دون تردّد: هذه أيضًا خطوة إلى الأمام."
+    "es": "En las cartas rápidas, lo que cuenta es acertar. Mirad cuántas parejas salieron sin dudar: eso también es avanzar.",
+    "va": "En les cartes ràpides, el que compta és encertar. Mireu quantes parelles van eixir sense dubtar: això també és avançar.",
+    "en": "In quick cards, what counts is getting it right. Look at how many pairs came out without hesitating: that's moving forward too.",
+    "fr": "Aux cartes rapides, ce qui compte, c'est de trouver. Regardez combien de paires sont sorties sans hésiter : ça aussi, c'est avancer.",
+    "ar": "في الأوراق السريعة، المهم هو الإجابة الصحيحة. انظروا كم زوجًا خرج دون تردّد: هذه أيضًا خطوة إلى الأمام."
   },
   "saberes": [
     "matematicas.operaciones.producto-cociente",
@@ -99,11 +99,11 @@
       {
         "pictograma": "lapiz",
         "texto": {
-          "es": "Contad las parejas acertadas: es vuestro récord. Cambiad los papeles y jugad otra vez.",
-          "va": "Compteu les parelles encertades: és el vostre rècord. Canvieu els papers i jugueu una altra vegada.",
-          "en": "Count the pairs you got right: that's your record. Swap roles and play again.",
-          "fr": "Comptez les paires trouvées : c'est votre record. Échangez les rôles et rejouez.",
-          "ar": "عدّوا الأزواج الصحيحة: هذا رقمكم القياسي. تبادلوا الأدوار والعبوا مرة أخرى."
+          "es": "Contad las parejas acertadas. Cambiad los papeles y jugad otra vez.",
+          "va": "Compteu les parelles encertades. Canvieu els papers i jugueu una altra vegada.",
+          "en": "Count the pairs you got right. Swap roles and play again.",
+          "fr": "Comptez les paires trouvées. Échangez les rôles et rejouez.",
+          "ar": "عدّوا الأزواج الصحيحة. تبادلوا الأدوار والعبوا مرة أخرى."
         }
       },
       {
@@ -146,14 +146,7 @@
       "ar": "أبعدوا النرد عن الإخوة والأخوات الصغار."
     },
     "rapidez": {
-      "segundos": 120,
-      "seCuenta": {
-        "es": "parejas de cartas acertadas",
-        "va": "parelles de cartes encertades",
-        "en": "pairs of cards you got right",
-        "fr": "paires de cartes trouvées",
-        "ar": "أزواج الأوراق الصحيحة"
-      }
+      "segundos": 120
     }
   },
   "preguntas": [
@@ -351,19 +344,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "a35cc65166cd"
+        "huella": "fd04fd970500"
       },
       "en": {
         "estado": "automatica",
-        "huella": "a35cc65166cd"
+        "huella": "fd04fd970500"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "a35cc65166cd"
+        "huella": "fd04fd970500"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "a35cc65166cd"
+        "huella": "fd04fd970500"
       }
     }
   }

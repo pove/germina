@@ -84,21 +84,21 @@
       {
         "pictograma": "ojo",
         "texto": {
-          "es": "Cada acierto, una piedra al montón. Al final, contad las piedras: es vuestro récord de equipo.",
-          "va": "Cada encert, una pedra al munt. Al final, compteu les pedres: és el vostre rècord d'equip.",
-          "en": "Each right answer, one stone on the pile. At the end, count the stones: that is your team record.",
-          "fr": "À chaque bonne réponse, un caillou sur le tas. À la fin, comptez les cailloux : c'est votre record d'équipe.",
-          "ar": "مع كل إجابة صحيحة، حصاة إلى الكومة. في النهاية، عدّوا الحصى: هذا رقمكم القياسي كفريق."
+          "es": "Cada acierto, una piedra al montón. Al final, contad las piedras.",
+          "va": "Cada encert, una pedra al munt. Al final, compteu les pedres.",
+          "en": "Each right answer, one stone on the pile. At the end, count the stones.",
+          "fr": "Chaque bonne réponse, une pierre sur le tas. À la fin, comptez les pierres.",
+          "ar": "مع كل إجابة صحيحة، حجر في الكومة. وفي النهاية عدّوا الأحجار."
         }
       },
       {
         "pictograma": "sol",
         "texto": {
-          "es": "¿Mejora el récord del curso? Otro día, jugad con otra tabla.",
-          "va": "Millora el rècord del curs? Un altre dia, jugueu amb una altra taula.",
-          "en": "Does it beat your record from the school year? Another day, play with another table.",
-          "fr": "Est-il meilleur que le record de l'année ? Un autre jour, jouez avec une autre table.",
-          "ar": "هل هو أفضل من رقم السنة الدراسية؟ في يوم آخر، العبوا بجدول آخر."
+          "es": "Otro día, jugad con otra tabla.",
+          "va": "Un altre dia, jugueu amb una altra taula.",
+          "en": "Another day, play with a different table.",
+          "fr": "Un autre jour, jouez avec une autre table.",
+          "ar": "في يوم آخر، العبوا بجدول ضرب آخر."
         }
       }
     ],
@@ -131,14 +131,7 @@
       "ar": "العبوا في الظل ومعكم ماء قريب. أبعدوا الحصى والأصداف الصغيرة عن الإخوة والأخوات الصغار."
     },
     "rapidez": {
-      "segundos": 60,
-      "seCuenta": {
-        "es": "aciertos del equipo",
-        "va": "encerts de l'equip",
-        "en": "team's right answers",
-        "fr": "bonnes réponses de l'équipe",
-        "ar": "إجابات الفريق الصحيحة"
-      }
+      "segundos": 60
     }
   },
   "preguntas": [
@@ -336,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "be38b804e465"
+        "huella": "cf71cc4d7c68"
       },
       "en": {
         "estado": "automatica",
-        "huella": "be38b804e465"
+        "huella": "cf71cc4d7c68"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "be38b804e465"
+        "huella": "cf71cc4d7c68"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "be38b804e465"
+        "huella": "cf71cc4d7c68"
       }
     }
   }

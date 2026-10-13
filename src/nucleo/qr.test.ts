@@ -26,8 +26,8 @@ describe('qrSvg', () => {
 
   it('un enlace de progreso con todo marcado en dos cursos cabe', () => {
     const semillas: Datos['progreso'][string] = {};
-    for (let n = 1; n <= 41; n++) semillas[`s${String(n).padStart(2, '0')}`] = { hecho: ['reto', 'p1', 'p2', 'p3', 'p4', 'p5'], record: n };
-    for (let n = 1; n <= 10; n++) semillas[`v${String(n).padStart(2, '0')}`] = { hecho: ['reto', 'p1'], record: n };
+    for (let n = 1; n <= 41; n++) semillas[`s${String(n).padStart(2, '0')}`] = { hecho: ['reto', 'p1', 'p2', 'p3', 'p4', 'p5'] };
+    for (let n = 1; n <= 10; n++) semillas[`v${String(n).padStart(2, '0')}`] = { hecho: ['reto', 'p1'] };
     const datos: Datos = { ...datosVacios(), progreso: { '2026/2/matematicas/3': semillas, '2026/2/matematicas/4': semillas, '2025/2/matematicas/3': semillas } };
     const enlace = enlaceDe(codigoDeDatos(datos));
     expect(() => qrSvg(enlace)).not.toThrow();

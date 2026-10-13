@@ -21,11 +21,11 @@
     "ar": "هذا الأسبوع يعود الأطفال إلى الحساب الذهني (cálculo mental) وجداول ضرب (tablas) 2 و5 و10 بالأوراق والنرد. غالبًا ما يكون أسبوع عطلة: تكفي بضع دقائق في اليوم."
   },
   "comoAyudar": {
-    "es": "Si el récord no se mejora, no pasa nada: contad las cartas que han salido sin dudar y celebradlo. Lo que cuenta es acertar con calma, no correr.",
-    "va": "Si el rècord no es millora, no passa res: compteu les cartes que han eixit sense dubtar i celebreu-ho. El que compta és encertar amb calma, no córrer.",
-    "en": "If the record isn't beaten, that's fine: count the cards you answered without hesitating and celebrate that. What matters is getting them right calmly, not rushing.",
-    "fr": "Si le record n'est pas battu, ce n'est pas grave : comptez les cartes trouvées sans hésiter et fêtez-le. Ce qui compte, c'est de trouver avec calme, pas de courir.",
-    "ar": "إذا لم يتحسّن الرقم القياسي فلا بأس: عدّوا الأوراق التي أجبتم عنها دون تردّد واحتفلوا بها. المهم الإجابة الصحيحة بهدوء، لا السرعة."
+    "es": "Lo que cuenta es acertar con calma, no correr. Contad las cartas que han salido sin dudar y celebradlo.",
+    "va": "El que compta és encertar amb calma, no córrer. Compteu les cartes que han eixit sense dubtar i celebreu-ho.",
+    "en": "What matters is getting them right calmly, not rushing. Count the cards you answered without hesitating and celebrate that.",
+    "fr": "Ce qui compte, c'est de trouver avec calme, pas de courir. Comptez les cartes trouvées sans hésiter et fêtez-le.",
+    "ar": "المهم الإجابة الصحيحة بهدوء، لا السرعة. عدّوا الأوراق التي أجبتم عنها دون تردّد واحتفلوا بها."
   },
   "saberes": [
     "matematicas.operaciones.calculo-mental",
@@ -101,11 +101,11 @@
       {
         "pictograma": "lapiz",
         "texto": {
-          "es": "Contad las cartas acertadas y miradlo junto al récord de la semana 13, si lo apuntasteis. Las cartas que se han resistido, miradlas juntos con calma al acabar.",
-          "va": "Compteu les cartes encertades i mireu-ho al costat del rècord de la setmana 13, si el vau apuntar. Les cartes que s'han resistit, mireu-les junts amb calma en acabar.",
-          "en": "Count the cards you got right and look at it next to the record from week 13, if you wrote it down. Look at the tricky cards together calmly at the end.",
-          "fr": "Comptez les cartes trouvées et regardez-les à côté du record de la semaine 13, si vous l'avez noté. Les cartes qui ont résisté, regardez-les ensemble tranquillement à la fin.",
-          "ar": "عدّوا الأوراق الصحيحة وانظروا إليها بجانب الرقم القياسي للأسبوع 13، إن كنتم دوّنتموه. أمّا الأوراق التي استعصت، فانظروا إليها معًا بهدوء في النهاية."
+          "es": "Contad las cartas acertadas. Las cartas que se han resistido, miradlas juntos con calma al acabar.",
+          "va": "Compteu les cartes encertades. Les cartes que s'han resistit, mireu-les junts amb calma en acabar.",
+          "en": "Count the cards you got right. Look at the tricky cards together calmly at the end.",
+          "fr": "Comptez les cartes trouvées. Les cartes qui ont résisté, regardez-les ensemble tranquillement à la fin.",
+          "ar": "عدّوا الأوراق الصحيحة. أمّا الأوراق التي استعصت، فانظروا إليها معًا بهدوء في النهاية."
         }
       }
     ],
@@ -138,14 +138,7 @@
       "ar": "أبعدوا حجر النرد عن الإخوة والأخوات الصغار."
     },
     "rapidez": {
-      "segundos": 120,
-      "seCuenta": {
-        "es": "cartas acertadas",
-        "va": "cartes encertades",
-        "en": "cards you got right",
-        "fr": "cartes trouvées",
-        "ar": "الأوراق الصحيحة"
-      }
+      "segundos": 120
     }
   },
   "preguntas": [
@@ -343,19 +336,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "5cd3a4c987a2"
+        "huella": "7aac513683e8"
       },
       "en": {
         "estado": "automatica",
-        "huella": "5cd3a4c987a2"
+        "huella": "7aac513683e8"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "5cd3a4c987a2"
+        "huella": "7aac513683e8"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "5cd3a4c987a2"
+        "huella": "7aac513683e8"
       }
     }
   }

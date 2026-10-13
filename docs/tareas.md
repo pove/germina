@@ -47,13 +47,13 @@ Cada etapa cabe en una sesión de trabajo y termina con su comprobación. No se 
 
 ## Etapa 5. Pantallas
 
-**Entrega:** bienvenida, esta semana, pregunta del día, reto (con cronómetro y récord), jardín, qué aprenden, cómo ayudar y ajustes (sin «Llevar el jardín»), según el apartado 3. Incluye la pantalla «Esta semilla está en camino», el cambio de curso con un toque, la pregunta de septiembre sobre el paso a 4.º y el fin de semana.
+**Entrega:** bienvenida, esta semana, pregunta del día, reto (con cronómetro), jardín, qué aprenden, cómo ayudar y ajustes (sin «Llevar el jardín»), según el apartado 3. Incluye la pantalla «Esta semilla está en camino», el cambio de curso con un toque, la pregunta de septiembre sobre el paso a 4.º y el fin de semana.
 
 **Comprobación:** tests de extremo a extremo de los flujos del apartado 12 que no dependen de la etapa 6, en `es` y `ar`, a 375 × 812, y axe sin infracciones serias ni críticas.
 
 ## Etapa 6. Llevar el jardín a otro móvil
 
-**Entrega:** `#/ajustes/pasar` (enlace, botón de compartir con `navigator.share` si existe, QR y texto en grupos de 4), `#/recibir/{codigo}` con confirmación y combinación, y `#/imprimir/records`.
+**Entrega:** `#/ajustes/pasar` (enlace, botón de compartir con `navigator.share` si existe, QR y texto en grupos de 4), `#/recibir/{codigo}` con confirmación y combinación.
 
 **Comprobación:** test de extremo a extremo que marca cosas en un contexto del navegador, abre el enlace en otro contexto distinto y comprueba el jardín combinado. También un código dañado a mano.
 

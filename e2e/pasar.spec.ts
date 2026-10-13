@@ -11,7 +11,7 @@ async function otroMovil(browser: Browser, baseURL: string, almacen?: Almacen): 
 }
 
 const PROGRESO_A = {
-  [`2026/${CURSO_3}`]: { s07: { hecho: ['reto', 'p1'], record: 14 }, s08: { hecho: ['p2'] } },
+  [`2026/${CURSO_3}`]: { s07: { hecho: ['reto', 'p1'] }, s08: { hecho: ['p2'] } },
   [`2025/${CURSO_3}`]: { s02: { hecho: ['p3'] } },
 };
 
@@ -50,7 +50,7 @@ test.describe('llevar el jardín a otro móvil', () => {
     await otro.context().close();
   });
 
-  test('si el otro móvil ya tenía cosas, se suman y se queda el mejor récord', async ({ page, browser, baseURL }) => {
+  test('si el otro móvil ya tenía cosas, se suman', async ({ page, browser, baseURL }) => {
     await preparar(page, { almacen: { idioma: 'es', progreso: PROGRESO_A } });
     const { enlace } = await enlaceDe(page);
 
@@ -58,7 +58,7 @@ test.describe('llevar el jardín a otro móvil', () => {
       idioma: 'va',
       cursos: [CURSO_4],
       cursoActivo: CURSO_4,
-      progreso: { [`2026/${CURSO_3}`]: { s07: { hecho: ['p2', 'p5'], record: 20 } }, [`2026/${CURSO_4}`]: { s01: { hecho: ['reto'] } } },
+      progreso: { [`2026/${CURSO_3}`]: { s07: { hecho: ['p2', 'p5'] } }, [`2026/${CURSO_4}`]: { s01: { hecho: ['reto'] } } },
     });
     await otro.goto(enlace);
     await otro.getByRole('button', { name: T('recibir.anadir', 'va') }).click();
@@ -68,7 +68,7 @@ test.describe('llevar el jardín a otro móvil', () => {
       cursoActivo: CURSO_4,
       cursos: [CURSO_4, CURSO_3],
       progreso: {
-        [`2026/${CURSO_3}`]: { s07: { hecho: ['reto', 'p1', 'p2', 'p5'], record: 20 }, s08: { hecho: ['p2'] } },
+        [`2026/${CURSO_3}`]: { s07: { hecho: ['reto', 'p1', 'p2', 'p5'] }, s08: { hecho: ['p2'] } },
         [`2026/${CURSO_4}`]: { s01: { hecho: ['reto'] } },
         [`2025/${CURSO_3}`]: { s02: { hecho: ['p3'] } },
       },
@@ -221,49 +221,13 @@ test.describe('llevar el jardín a otro móvil', () => {
         await sinProblemasDeAccesibilidad(otro);
         await contexto.close();
       });
-
-      test('hoja de récords: axe y objetivos táctiles', async ({ page }) => {
-        await preparar(page, { almacen: { idioma, progreso: { [`2026/${CURSO_3}`]: { s13: { hecho: ['reto'], record: 14 } } } } });
-        await page.goto('./#/imprimir/records');
-        await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('imprimir.titulo', idioma));
-        await expect(page.locator('.tabla-records tbody tr')).toHaveCount(4); // semanas 13, 17 y 34 y el verano 1
-        await sinProblemasDeAccesibilidad(page);
-        await objetivosTactiles(page);
-      });
     });
   }
 });
 
-test.describe('hoja de récords', () => {
-  test('muestra el mejor récord, con huecos para anotar, y al imprimir solo queda la hoja', async ({ page }) => {
-    await preparar(page, {
-      almacen: { idioma: 'es', progreso: { [`2025/${CURSO_3}`]: { s13: { hecho: ['reto'], record: 9 } }, [`2026/${CURSO_3}`]: { s13: { hecho: ['reto'], record: 14 } } } },
-    });
-    await page.goto('./#/imprimir/records');
-    const fila = page.locator('.tabla-records tbody tr', { hasText: T('semana.titulo', 'es', { n: 13 }) });
-    await expect(fila.locator('td').nth(1)).toHaveText('14'); // el mejor de todos los años
-    await expect(page.locator('.tabla-records tbody tr', { hasText: T('semana.titulo', 'es', { n: 17 }) }).locator('td').nth(1)).toHaveText('');
-    await expect(page.locator('.tabla-records tbody tr', { hasText: T('verano.titulo', 'es', { n: 1 }) })).toBeVisible();
-
-    await page.emulateMedia({ media: 'print' });
-    await expect(page.locator('.cabecera')).toBeHidden();
-    await expect(page.getByRole('button', { name: T('imprimir.imprimir', 'es') })).toBeHidden();
-    await expect(page.locator('.tabla-records')).toBeVisible();
-  });
-
-  test('sin cursos, pide elegir uno', async ({ page }) => {
-    await preparar(page, { almacen: { idioma: 'es', cursos: [] } });
-    await page.goto('./#/imprimir/records');
-    await expect(page.getByText(T('imprimir.sin_cursos', 'es'))).toBeVisible();
-  });
-
-  test('desde ajustes se llega a «Llevar el jardín» y a la hoja', async ({ page }) => {
-    await preparar(page, { almacen: { idioma: 'es' } });
-    await page.goto('./#/ajustes');
-    await page.getByRole('link', { name: T('ajustes.records', 'es') }).click();
-    await expect(page).toHaveURL(/imprimir\/records$/);
-    await page.goto('./#/ajustes');
-    await page.getByRole('link', { name: T('ajustes.pasar', 'es'), exact: true }).first().click();
-    await expect(page).toHaveURL(/ajustes\/pasar$/);
-  });
+test('desde ajustes se llega a «Llevar el jardín»', async ({ page }) => {
+  await preparar(page, { almacen: { idioma: 'es' } });
+  await page.goto('./#/ajustes');
+  await page.getByRole('link', { name: T('ajustes.pasar', 'es'), exact: true }).first().click();
+  await expect(page).toHaveURL(/ajustes\/pasar$/);
 });

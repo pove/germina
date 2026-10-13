@@ -120,13 +120,12 @@
         "paraQueSirve": { "$ref": "#/$defs/texto" },
         "aviso": { "$ref": "#/$defs/texto", "description": "Aviso de seguridad (objetos pequeños, cocina con una persona adulta…)." },
         "rapidez": {
-          "description": "Solo si el reto es un juego de rapidez con cronómetro y récord personal.",
+          "description": "Solo si el reto es un juego de rapidez con cronómetro.",
           "type": "object",
           "additionalProperties": false,
-          "required": ["segundos", "seCuenta"],
+          "required": ["segundos"],
           "properties": {
-            "segundos": { "enum": [60, 120, 180] },
-            "seCuenta": { "$ref": "#/$defs/texto", "description": "Qué se cuenta para el récord, p. ej. «aciertos»." }
+            "segundos": { "enum": [60, 120, 180] }
           }
         }
       }

@@ -92,11 +92,11 @@
       {
         "pictograma": "lapiz",
         "texto": {
-          "es": "Contad las parejas acertadas: es vuestro récord. Cambiad los papeles y jugad otra vez.",
-          "va": "Compteu les parelles encertades: és el vostre rècord. Canvieu els papers i jugueu una altra vegada.",
-          "en": "Count the pairs you got right: that's your record. Swap roles and play again.",
-          "fr": "Comptez les paires trouvées : c'est votre record. Échangez les rôles et rejouez.",
-          "ar": "عدّوا الأزواج الصحيحة: هذا رقمكم القياسي. تبادلوا الأدوار والعبوا مرة أخرى."
+          "es": "Contad las parejas acertadas. Cambiad los papeles y jugad otra vez.",
+          "va": "Compteu les parelles encertades. Canvieu els papers i jugueu una altra vegada.",
+          "en": "Count the pairs you got right. Swap roles and play again.",
+          "fr": "Comptez les paires trouvées. Échangez les rôles et rejouez.",
+          "ar": "عدّوا الأزواج الصحيحة. تبادلوا الأدوار والعبوا مرة أخرى."
         }
       },
       {
@@ -139,14 +139,7 @@
       "ar": "المقص دائمًا بحضور شخص بالغ."
     },
     "rapidez": {
-      "segundos": 120,
-      "seCuenta": {
-        "es": "parejas de cartas acertadas",
-        "va": "parelles de cartes encertades",
-        "en": "pairs of cards you got right",
-        "fr": "paires de cartes trouvées",
-        "ar": "أزواج الأوراق الصحيحة"
-      }
+      "segundos": 120
     }
   },
   "preguntas": [
@@ -344,19 +337,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "f2ffcb927772"
+        "huella": "aa168713769c"
       },
       "en": {
         "estado": "automatica",
-        "huella": "f2ffcb927772"
+        "huella": "aa168713769c"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "f2ffcb927772"
+        "huella": "aa168713769c"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "f2ffcb927772"
+        "huella": "aa168713769c"
       }
     }
   }

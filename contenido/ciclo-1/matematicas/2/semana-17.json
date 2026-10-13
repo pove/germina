@@ -138,14 +138,7 @@
       "ar": "الأضعاف والأزواج التي مجموعها 10 طرق مختصرة للجمع والطرح في الذهن. كلما لعبنا بها أكثر، جاءت وحدها أسرع."
     },
     "rapidez": {
-      "segundos": 60,
-      "seCuenta": {
-        "es": "aciertos",
-        "va": "encerts",
-        "en": "right answers",
-        "fr": "bonnes réponses",
-        "ar": "الإجابات الصحيحة"
-      }
+      "segundos": 60
     }
   },
   "preguntas": [
@@ -343,19 +336,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "ad701dd99aff"
+        "huella": "0d96a73ecb4c"
       },
       "en": {
         "estado": "automatica",
-        "huella": "ad701dd99aff"
+        "huella": "0d96a73ecb4c"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "ad701dd99aff"
+        "huella": "0d96a73ecb4c"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "ad701dd99aff"
+        "huella": "0d96a73ecb4c"
       }
     }
   }
