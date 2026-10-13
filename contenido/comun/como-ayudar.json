@@ -87,6 +87,13 @@
       "ar": "إذا تعثّر الأطفال فاستعينوا بأشياء ورسوم: حبوب، قطع نقدية، أوراق لعب، خطوط على ورقة. ما نلمسه ونراه نفهمه أفضل."
     },
     {
+      "es": "Con los más pequeños, contar con los dedos está bien, y los cuentos, las canciones y los juegos de tablero como la oca también son matemáticas. Mejor ratos cortos y a menudo que uno largo.",
+      "va": "Amb els més menuts, comptar amb els dits està bé, i els contes, les cançons i els jocs de tauler com l'oca també són matemàtiques. Millor estones curtes i sovint que una de llarga.",
+      "en": "With younger children, counting on fingers is fine, and stories, songs and board games like snakes and ladders are maths too. Short, frequent moments work better than one long one.",
+      "fr": "Avec les plus petits, compter sur ses doigts, c'est bien, et les histoires, les chansons et les jeux de plateau comme le jeu de l'oie, ce sont aussi des maths. Mieux vaut des moments courts et fréquents qu'un seul long.",
+      "ar": "مع الأطفال الأصغر سنًّا، العدّ بالأصابع أمر جيّد، والقصص والأغاني وألعاب اللوح مثل لعبة الإوزّة هي أيضًا رياضيات. الأوقات القصيرة المتكرّرة أفضل من وقت واحد طويل."
+    },
+    {
       "es": "Si no sale, se da la pista y se sigue con lo que venga después. Las preguntas son para conversar, no para acertar a la primera.",
       "va": "Si no ix, es dona la pista i es continua amb el que vinga després. Les preguntes són per a conversar, no per a encertar a la primera.",
       "en": "If it doesn't come, give the hint and move on to whatever comes next. The questions are for chatting, not for getting right first time.",
@@ -160,6 +167,18 @@
         "en": "For pupils aged 7 to 14: objects and drawings, problem-solving strategies, fluent calculation and the wish to keep learning.",
         "fr": "Pour les élèves de 7 à 14 ans : objets et dessins, stratégies pour résoudre des problèmes, calcul fluide et envie de continuer à apprendre.",
         "ar": "للتلاميذ من 7 إلى 14 سنة: الأشياء والرسوم، واستراتيجيات حلّ المسائل، والحساب السلس، والرغبة في مواصلة التعلّم."
+      }
+    },
+    {
+      "cita": "Education Endowment Foundation (2020). Improving Mathematics in the Early Years and Key Stage 1. Guidance report.",
+      "idioma": "en",
+      "url": "https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/early-maths",
+      "apoya": {
+        "es": "Para niños y niñas de 3 a 7 años: ratos cortos de matemáticas cada día, contar con los dedos, objetos y dibujos, cuentos y juegos de tablero.",
+        "va": "Per a xiquets i xiquetes de 3 a 7 anys: estones curtes de matemàtiques cada dia, comptar amb els dits, objectes i dibuixos, contes i jocs de tauler.",
+        "en": "For children aged 3 to 7: short bursts of maths every day, counting on fingers, objects and drawings, stories and board games.",
+        "fr": "Pour les enfants de 3 à 7 ans : de courts moments de maths chaque jour, compter sur ses doigts, des objets et des dessins, des histoires et des jeux de plateau.",
+        "ar": "للأطفال من 3 إلى 7 سنوات: أوقات قصيرة من الرياضيات كل يوم، والعدّ بالأصابع، والأشياء والرسوم، والقصص وألعاب اللوح."
       }
     },
     {

@@ -90,7 +90,7 @@ Abre Germina a 1.º y 2.º con el mismo formato: una semilla por semana y lo jug
 - [x] Criterios de evaluación del 1.er ciclo en `config/curriculo/matematicas.json` (Decreto 96/2026, punto 28). Los saberes ya estaban.
 - [x] **Especificación.** Llevar el 1.er ciclo a los apartados que hoy dicen «3.º y 4.º»: alcance (1), bienvenida con los cursos de 1.º a 4.º (3), cambio de curso (4.2), `objetivos.json` (5) y reglas de la semilla para 6 a 8 años. Estas reglas son: el adulto lee en voz alta, los textos son más cortos que en el 2.º ciclo, hay pictograma en cada paso y la respuesta se dice o se señala, no se escribe. Hay que fijar también los rangos de números de cada curso y si en 1.º aparecen `×` y `:` o solo doble, mitad y repartos. **Lo aprueba una persona antes de seguir.**
 - [ ] **Mapa** `contenido/ciclo-1/matematicas/mapa-semanas.json`: 41 semanas y 10 retos de verano para 1.º y 2.º, con saberes y criterios del 1.er ciclo. Es una decisión del centro (art. 22.4): Claude lo propone y una persona lo revisa antes de escribir semillas. `scripts/mapa-semanas.mjs` valida y genera el documento de cada ciclo (hoy solo lee el del 2.º ciclo y escribe `docs/mapa-semanas.md`).
-- [ ] **Textos del ciclo:**
+- [x] **Textos del ciclo:**
   - `contenido/ciclo-1/matematicas/objetivos.json`.
   - Términos de clase de 1.º y 2.º en `glosario.json` (decena, unidad, «uno más / uno menos», doble, mitad…).
   - En `como-ayudar.json`, lo propio de estas edades según la EEF (2020): contar con los dedos, cuentos y juegos de tablero, dejar que representen a su manera. Añadir esa guía a las fuentes.

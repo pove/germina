@@ -4,7 +4,7 @@ import type { AddressInfo } from 'node:net';
 import { tmpdir } from 'node:os';
 import { extname, join, normalize } from 'node:path';
 import { expect, test, type Page } from '@playwright/test';
-import { CURSO_3, T, guardado, preparar, sinProblemasDeAccesibilidad } from './ayudas';
+import { CURSO_3, IDEAS_AYUDA, T, guardado, preparar, sinProblemasDeAccesibilidad } from './ayudas';
 
 // Aquí sí se usa el service worker (en el resto de pruebas está bloqueado).
 test.use({ serviceWorkers: 'allow' });
@@ -62,7 +62,7 @@ test.describe('sin conexión', () => {
     await page.goto('./#/2/matematicas/3/aprenden');
     await expect(page.getByRole('heading', { level: 2 })).toHaveCount(5);
     await page.goto('./#/ayuda');
-    await expect(page.locator('.ideas li')).toHaveCount(7);
+    await expect(page.locator('.ideas li')).toHaveCount(IDEAS_AYUDA);
     await page.goto('./#/ajustes/pasar');
     await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('pasar.titulo', 'es'));
 

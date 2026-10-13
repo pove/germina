@@ -74,13 +74,12 @@
       "properties": {
         "entrada": { "type": "array", "minItems": 1, "maxItems": 3, "items": { "$ref": "#/$defs/texto" } },
         "cursos": {
-          "description": "Por curso y trimestre, de tres a cinco frases en lenguaje de familia.",
+          "description": "Por curso y trimestre, de tres a cinco frases en lenguaje de familia. Los cursos son los del ciclo de la carpeta (config/catalogo.json); lo comprueba el validador.",
           "type": "object",
           "additionalProperties": false,
-          "required": ["3", "4"],
-          "properties": {
-            "3": { "$ref": "#/$defs/objetivosDeUnCurso" },
-            "4": { "$ref": "#/$defs/objetivosDeUnCurso" }
+          "minProperties": 1,
+          "patternProperties": {
+            "^[1-6]$": { "$ref": "#/$defs/objetivosDeUnCurso" }
           }
         },
         "bloques": {

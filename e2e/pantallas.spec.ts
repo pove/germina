@@ -1,6 +1,6 @@
 import { expect, test, type Page } from '@playwright/test';
 import {
-  CURSO_3, CURSO_4, LUNES_SEMANA_1_2027, SABADO_SEMANA_7, T, guardado, irDesdeElMenu, objetivosTactiles, ocultarSemillas, preparar,
+  CURSO_3, CURSO_4, IDEAS_AYUDA, LUNES_SEMANA_1_2027, SABADO_SEMANA_7, T, guardado, irDesdeElMenu, objetivosTactiles, ocultarSemillas, preparar,
   sinProblemasDeAccesibilidad,
 } from './ayudas';
 
@@ -196,7 +196,7 @@ for (const idioma of IDIOMAS) {
 
       await irDesdeElMenu(page, T('nav.ayuda', idioma), idioma);
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('ayuda.titulo', idioma));
-      await expect(page.locator('.ideas li')).toHaveCount(7);
+      await expect(page.locator('.ideas li')).toHaveCount(IDEAS_AYUDA);
       await expect(page.getByRole('heading', { level: 2, name: T('ayuda.porque_titulo', idioma) })).toBeVisible();
       await expect(page.locator('.fuentes a[href^="https://"]').first()).toBeVisible();
       await sinProblemasDeAccesibilidad(page);

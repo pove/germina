@@ -13,6 +13,9 @@ export function T(clave: string, idioma: Idioma, valores: Record<string, string 
   return texto.replace(/\{([a-z_]+)\}/g, (c, n: string) => (n in valores ? String(valores[n]) : c));
 }
 
+/** Cuántas ideas tiene «Cómo ayudar», leído del contenido para no fijarlo en los tests. */
+export const IDEAS_AYUDA = (JSON.parse(readFileSync('contenido/comun/como-ayudar.json', 'utf8')) as { ideas: unknown[] }).ideas.length;
+
 export const CURSO_3 = '2/matematicas/3';
 export const CURSO_4 = '2/matematicas/4';
 

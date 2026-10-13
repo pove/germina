@@ -476,6 +476,14 @@ describe('objetivos.json', () => {
     expect(comunError(r, archivo, '4').motivo).toMatch(/falta «2»/);
   });
 
+  it('cursos que no son los del ciclo', () => {
+    const r = validarComun(archivo, sobreJson((j) => {
+      j.cursos['1'] = j.cursos['3'];
+      delete j.cursos['4'];
+    }));
+    comunError(r, archivo, 'deben ser 3 y 4');
+  });
+
   it('pocas frases', () => {
     const r = validarComun(archivo, sobreJson((j) => (j.cursos['3']['1'] = j.cursos['3']['1'].slice(0, 2))));
     comunError(r, archivo, 'al menos 3');
