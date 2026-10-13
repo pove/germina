@@ -188,7 +188,8 @@ for (const idioma of IDIOMAS) {
 
       await irDesdeElMenu(page, T('nav.aprenden', idioma), idioma);
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('aprenden.titulo', idioma));
-      await expect(page.getByRole('heading', { level: 2 })).toHaveCount(3);
+      // Tres trimestres, los bloques del ciclo y las fuentes.
+      await expect(page.getByRole('heading', { level: 2 })).toHaveCount(5);
       await expect(page.locator('main li').first()).toBeVisible();
       await sinProblemasDeAccesibilidad(page);
       await objetivosTactiles(page);
@@ -196,7 +197,10 @@ for (const idioma of IDIOMAS) {
       await irDesdeElMenu(page, T('nav.ayuda', idioma), idioma);
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('ayuda.titulo', idioma));
       await expect(page.locator('.ideas li')).toHaveCount(7);
+      await expect(page.getByRole('heading', { level: 2, name: T('ayuda.porque_titulo', idioma) })).toBeVisible();
+      await expect(page.locator('.fuentes a[href^="https://"]').first()).toBeVisible();
       await sinProblemasDeAccesibilidad(page);
+      await objetivosTactiles(page);
 
       await irDesdeElMenu(page, T('nav.ajustes', idioma), idioma);
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('ajustes.titulo', idioma));

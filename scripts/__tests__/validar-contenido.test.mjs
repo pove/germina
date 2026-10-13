@@ -441,13 +441,24 @@ describe('contenido/comun/como-ayudar.json', () => {
   const archivo = 'contenido/comun/como-ayudar.json';
 
   it('entre 5 y 7 ideas', () => {
-    comunError(validarComun(archivo, (txt) => JSON.stringify(JSON.parse(txt).slice(0, 4))), archivo, 'al menos 5');
-    comunError(validarComun(archivo, (txt) => JSON.stringify([...JSON.parse(txt), ...JSON.parse(txt)])), archivo, 'como mucho 7');
+    comunError(validarComun(archivo, sobreJson((j) => (j.ideas = j.ideas.slice(0, 4)))), archivo, 'al menos 5');
+    comunError(validarComun(archivo, sobreJson((j) => (j.ideas = [...j.ideas, ...j.ideas]))), archivo, 'como mucho 7');
   });
 
   it('una idea con obligación', () => {
-    const r = validarComun(archivo, sobreJson((j) => (j[0].es = 'Hay que preguntar siempre.')));
+    const r = validarComun(archivo, sobreJson((j) => (j.ideas[0].es = 'Hay que preguntar siempre.')));
     comunError(r, archivo, 'hay que');
+  });
+
+  it('falta el porqué o las fuentes', () => {
+    comunError(validarComun(archivo, sobreJson((j) => delete j.porque)), archivo, 'falta «porque»');
+    comunError(validarComun(archivo, sobreJson((j) => (j.fuentes = []))), archivo, 'al menos 1');
+  });
+
+  it('una fuente sin https, sin traducción o con una palabra de Germina en la cita', () => {
+    comunError(validarComun(archivo, sobreJson((j) => (j.fuentes[0].url = 'http://ejemplo.org'))), archivo, 'formato esperado');
+    comunError(validarComun(archivo, sobreJson((j) => delete j.fuentes[0].apoya.ar)), archivo, 'falta «ar»');
+    comunError(validarComun(archivo, sobreJson((j) => (j.fuentes[0].cita = 'Parent involvement in homework.'))), archivo, 'homework');
   });
 });
 
@@ -456,18 +467,23 @@ describe('objetivos.json', () => {
 
   it('el real está completo: 2 cursos × 3 trimestres', () => {
     const j = JSON.parse(readFileSync(join(RAIZ, archivo), 'utf8'));
-    expect(Object.keys(j)).toEqual(['3', '4']);
-    for (const curso of Object.values(j)) expect(Object.keys(curso)).toEqual(['1', '2', '3']);
+    expect(Object.keys(j.cursos)).toEqual(['3', '4']);
+    for (const curso of Object.values(j.cursos)) expect(Object.keys(curso)).toEqual(['1', '2', '3']);
   });
 
   it('falta un trimestre', () => {
-    const r = validarComun(archivo, sobreJson((j) => delete j['4']['2']));
+    const r = validarComun(archivo, sobreJson((j) => delete j.cursos['4']['2']));
     expect(comunError(r, archivo, '4').motivo).toMatch(/falta «2»/);
   });
 
   it('pocas frases', () => {
-    const r = validarComun(archivo, sobreJson((j) => (j['3']['1'] = j['3']['1'].slice(0, 2))));
+    const r = validarComun(archivo, sobreJson((j) => (j.cursos['3']['1'] = j.cursos['3']['1'].slice(0, 2))));
     comunError(r, archivo, 'al menos 3');
+  });
+
+  it('faltan los bloques del ciclo o las fuentes', () => {
+    comunError(validarComun(archivo, sobreJson((j) => delete j.bloques)), archivo, 'falta «bloques»');
+    comunError(validarComun(archivo, sobreJson((j) => delete j.fuentes)), archivo, 'falta «fuentes»');
   });
 
   it('una operación que no cuadra o que cambia entre idiomas', () => {

@@ -2,8 +2,7 @@
 import { useEffect, useState } from 'preact/hooks';
 import { huella } from './nucleo/huella';
 import { claveSemana, claveVerano, type Curso } from './nucleo/tipos';
-import type { Mapa, Objetivos, SemillaContenido } from './nucleo/contenido';
-import type { Texto } from './nucleo/textos';
+import type { ComoAyudar, Mapa, Objetivos, SemillaContenido } from './nucleo/contenido';
 
 const base = import.meta.env.BASE_URL;
 const memoria = new Map<string, Promise<unknown>>();
@@ -51,7 +50,7 @@ export async function cargarSemilla(curso: Curso, verano: boolean, n: number): P
 
 export const cargarMapa = (c: Curso): Promise<Mapa> => pedir<Mapa>(`${carpeta(c)}/mapa-semanas.json`);
 export const cargarObjetivos = (c: Curso): Promise<Objetivos> => pedir<Objetivos>(`${carpeta(c)}/objetivos.json`);
-export const cargarComoAyudar = (): Promise<Texto[]> => pedir<Texto[]>('contenido/comun/como-ayudar.json');
+export const cargarComoAyudar = (): Promise<ComoAyudar> => pedir<ComoAyudar>('contenido/comun/como-ayudar.json');
 
 export type Carga<T> = { estado: 'cargando' } | { estado: 'error'; reintentar: () => void } | { estado: 'listo'; valor: T };
 

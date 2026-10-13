@@ -44,20 +44,70 @@
       }
     },
     "comoAyudar": {
-      "description": "Cinco a siete ideas cortas, siempre las mismas a lo largo del curso.",
-      "type": "array",
-      "minItems": 5,
-      "maxItems": 7,
-      "items": { "$ref": "#/$defs/texto" }
-    },
-    "objetivos": {
-      "description": "Por curso y trimestre, de tres a cinco frases en lenguaje de familia.",
+      "description": "Cómo ayudar: las ideas de siempre, por qué Germina y las fuentes que lo respaldan.",
       "type": "object",
       "additionalProperties": false,
-      "required": ["3", "4"],
+      "required": ["ideas", "porque", "fuentes"],
       "properties": {
-        "3": { "$ref": "#/$defs/objetivosDeUnCurso" },
-        "4": { "$ref": "#/$defs/objetivosDeUnCurso" }
+        "porque": {
+          "description": "Por qué Germina, en párrafos cortos: qué es, que no sustituye al cole y en qué se apoya.",
+          "type": "array",
+          "minItems": 3,
+          "maxItems": 8,
+          "items": { "$ref": "#/$defs/texto" }
+        },
+        "ideas": {
+          "description": "Cinco a siete ideas cortas, siempre las mismas a lo largo del curso.",
+          "type": "array",
+          "minItems": 5,
+          "maxItems": 7,
+          "items": { "$ref": "#/$defs/texto" }
+        },
+        "fuentes": { "$ref": "#/$defs/fuentes" }
+      }
+    },
+    "objetivos": {
+      "description": "Qué aprenden: entrada, frases por curso y trimestre, bloques de saberes del ciclo y fuentes.",
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["entrada", "cursos", "bloques", "fuentes"],
+      "properties": {
+        "entrada": { "type": "array", "minItems": 1, "maxItems": 3, "items": { "$ref": "#/$defs/texto" } },
+        "cursos": {
+          "description": "Por curso y trimestre, de tres a cinco frases en lenguaje de familia.",
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["3", "4"],
+          "properties": {
+            "3": { "$ref": "#/$defs/objetivosDeUnCurso" },
+            "4": { "$ref": "#/$defs/objetivosDeUnCurso" }
+          }
+        },
+        "bloques": {
+          "description": "Los bloques de saberes del ciclo, una frase cada uno.",
+          "type": "array",
+          "minItems": 4,
+          "maxItems": 8,
+          "items": { "$ref": "#/$defs/texto" }
+        },
+        "fuentes": { "$ref": "#/$defs/fuentes" }
+      }
+    },
+    "fuentes": {
+      "description": "Fuentes citadas. La cita va tal cual, en su idioma; «apoya» dice en los cinco idiomas qué respalda.",
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["cita", "idioma", "url", "apoya"],
+        "properties": {
+          "cita": { "type": "string", "minLength": 1 },
+          "idioma": { "description": "Idioma de la cita, para `lang`.", "enum": ["es", "va", "en", "fr", "ar"] },
+          "url": { "type": "string", "pattern": "^https://\\S+$" },
+          "apoya": { "$ref": "#/$defs/texto" }
+        }
       }
     },
     "objetivosDeUnCurso": {

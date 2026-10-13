@@ -1460,3 +1460,17 @@ a.planta {
     scroll-behavior: auto !important;
   }
 }
+
+/* Fuentes: la cita, que puede ser larga, se parte donde haga falta para no desbordar a 375 px */
+.fuentes ul {
+  padding-inline-start: 1.25rem;
+}
+
+.fuentes li + li {
+  margin-block-start: 0.75rem;
+}
+
+.fuente-cita {
+  margin-block-end: 0.25rem;
+  overflow-wrap: anywhere;
+}

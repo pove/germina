@@ -31,8 +31,8 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | `#/{ciclo}/{area}/{curso}/semana/{n}/reto` | **Reto**: material, minutos, pasos con pictograma, más fácil, más difícil, para qué sirve, aviso, cronómetro y récord si es de rapidez, «¡Lo hemos jugado!» |
 | `#/{ciclo}/{area}/{curso}/verano/{n}` y `…/verano/{n}/reto` | Igual que una semana, para los retos de verano |
 | `#/{ciclo}/{area}/{curso}/jardin` | **El jardín**: las 41 semanas y los 10 retos de verano; tocar una planta lleva a su semana. Botón «?» con la explicación de semilla y jardín |
-| `#/{ciclo}/{area}/{curso}/aprenden` | **Qué aprenden este curso**, por trimestre (`objetivos.json`) |
-| `#/ayuda` | **Cómo ayudar** (`contenido/comun/como-ayudar.json`) |
+| `#/{ciclo}/{area}/{curso}/aprenden` | **Qué aprenden este curso**: una entrada corta, las frases del curso por trimestre, los bloques de saberes del ciclo y las fuentes (`objetivos.json`) |
+| `#/ayuda` | **Cómo ayudar**: las ideas, «Por qué Germina» y las fuentes (`contenido/comun/como-ayudar.json`) |
 | `#/ajustes` | Idioma, cursos, «Llevar el jardín a otro móvil», empezar de cero, privacidad, accesibilidad, hoja de récords imprimible, cómo instalar |
 | `#/ajustes/pasar` | «Llevar el jardín a otro móvil»: enlace, QR y texto (6.3) |
 | `#/recibir/{codigo}` | Pregunta «¿Añadir este jardín al vuestro?» y lo combina (6.4) |
@@ -128,8 +128,9 @@ SVG propios en `src/assets/pictos/{nombre}.svg`, de un solo trazo, sin personas,
 ### 4.7 Otros archivos de contenido
 
 - `textos-interfaz.json`: `{ "clave": { "es": …, "va": …, "en": …, "fr": …, "ar": … } }`. Claves en español sin tildes (`boton.lo_hemos_jugado`).
-- `como-ayudar.json`: 5 a 7 ideas cortas (preguntar «¿cómo lo has pensado?», el error es parte de aprender, no resolverlo por el niño o niña, objetos y dibujos cuando se atasca, si no sale se da la pista y se sigue, no hace falta saber enseñar). Mismo formato de texto.
-- `objetivos.json`: por curso y trimestre, 3 a 5 frases en lenguaje de familia.
+- `como-ayudar.json`: `ideas`, 5 a 7 ideas cortas (preguntar «¿cómo lo has pensado?», el error es parte de aprender, no resolverlo por el niño o niña, objetos y dibujos cuando se atasca, si no sale se da la pista y se sigue, no hace falta saber enseñar); `porque`, 3 a 8 párrafos sobre por qué Germina (qué es, que no sustituye al cole y que solo acompaña en familia lo que se trabaja en clase, en qué estudios se apoya y con qué cautelas); y `fuentes`. Mismo formato de texto.
+- `objetivos.json`: `entrada` (1 a 3 párrafos: quién fija el currículo y que el reparto entre 3.º y 4.º lo decide el centro), `cursos` (por curso y trimestre, 3 a 5 frases en lenguaje de familia), `bloques` (los bloques de saberes del ciclo, una frase cada uno) y `fuentes`.
+- `fuentes` (en los dos anteriores): `[{ "cita": …, "idioma": "en", "url": "https://…", "apoya": { "es": …, … } }]`. La cita va tal cual, en su idioma, y sin palabras de Germina; `apoya` dice en los cinco idiomas qué respalda. Solo fuentes que se puedan comprobar (DOI, BOE, DOGV, guía oficial), y en el texto no se afirma más de lo que dicen. Los enlaces son navegación que decide la persona, no peticiones del sitio (2), y van con `rel="noreferrer"`.
 - `glosario.json`: `[{ "es": "llevada", "va": …, "en": …, "fr": …, "ar": …, "nota": … }]`. Es el vocabulario de clase; las traducciones usan estas equivalencias.
 
 ## 5. Idiomas, escritura y lenguaje

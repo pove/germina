@@ -60,7 +60,7 @@ test.describe('sin conexión', () => {
     await page.goto('./#/2/matematicas/3/jardin');
     await expect(page.locator('.planta')).toHaveCount(51);
     await page.goto('./#/2/matematicas/3/aprenden');
-    await expect(page.getByRole('heading', { level: 2 })).toHaveCount(3);
+    await expect(page.getByRole('heading', { level: 2 })).toHaveCount(5);
     await page.goto('./#/ayuda');
     await expect(page.locator('.ideas li')).toHaveCount(7);
     await page.goto('./#/ajustes/pasar');

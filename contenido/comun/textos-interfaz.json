@@ -227,8 +227,13 @@
   "aprenden.titulo": { "es": "Qué aprenden este curso", "va": "Què aprenen aquest curs", "en": "What they learn this year", "fr": "Ce qu'on apprend cette année", "ar": "ماذا يتعلمون هذه السنة" },
   "aprenden.ahora": { "es": "Ahora", "va": "Ara", "en": "Now", "fr": "En ce moment", "ar": "الآن" },
   "aprenden.trimestre": { "es": "Trimestre {n}", "va": "Trimestre {n}", "en": "Term {n}", "fr": "Trimestre {n}", "ar": "الفصل {n}" },
+  "aprenden.ciclo_titulo": { "es": "Lo que se trabaja en 3.º y 4.º", "va": "El que es treballa en 3r i 4t", "en": "What is covered in the 3rd and 4th years", "fr": "Ce qu'on travaille en 3e et 4e année", "ar": "ما يُعمل عليه في الصفّين الثالث والرابع" },
 
   "ayuda.titulo": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
+  "ayuda.ideas_titulo": { "es": "Ideas para acompañar", "va": "Idees per a acompanyar", "en": "Ideas for joining in", "fr": "Des idées pour accompagner", "ar": "أفكار للمرافقة" },
+  "ayuda.porque_titulo": { "es": "Por qué Germina", "va": "Per què Germina", "en": "Why Germina", "fr": "Pourquoi Germina", "ar": "لماذا Germina" },
+  "fuentes.titulo": { "es": "Fuentes", "va": "Fonts", "en": "Sources", "fr": "Sources", "ar": "المصادر" },
+  "fuentes.aviso": { "es": "Los enlaces abren la web de cada fuente, fuera de Germina.", "va": "Els enllaços obrin la web de cada font, fora de Germina.", "en": "The links open each source's website, outside Germina.", "fr": "Les liens ouvrent le site de chaque source, en dehors de Germina.", "ar": "تفتح الروابط موقع كل مصدر، خارج Germina." },
 
   "ajustes.titulo": { "es": "Ajustes", "va": "Ajustos", "en": "Settings", "fr": "Réglages", "ar": "الإعدادات" },
   "ajustes.idioma": { "es": "Idioma", "va": "Idioma", "en": "Language", "fr": "Langue", "ar": "اللغة" },
