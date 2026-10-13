@@ -81,6 +81,14 @@ function revisarGlosario({ datos, error, aviso }) {
   });
 }
 
+/** Textos en los cinco idiomas y, en las fuentes, la cita (que no se traduce) sin palabras de Germina. */
+function revisarConFuentes({ datos, error, aviso }) {
+  revisarTextos(datos, { error, aviso });
+  datos.fuentes.forEach((f, i) => {
+    for (const p of palabrasProhibidasEn(f.cita)) error(['fuentes', i, 'cita'], `aparece la palabra «${p}», que Germina no usa (especificación, 5.4)`);
+  });
+}
+
 /** Valida los archivos de `contenido/comun/` y los `objetivos.json` de cada área. */
 export function validarComunes({ raiz, ajv }) {
   const errores = [];
@@ -89,19 +97,18 @@ export function validarComunes({ raiz, ajv }) {
     errores.push(...r.errores);
     avisos.push(...r.avisos);
   };
-  const revisarTodo = ({ datos, error, aviso }) => revisarTextos(datos, { error, aviso });
   sumar(validarArchivo({
     raiz, rel: 'contenido/comun/textos-interfaz.json', ajv, definicion: 'textosInterfaz', requerido: true,
     revisar: ({ datos, error, aviso }) => revisarTextos(datos, { error, aviso, huecos: true }),
   }));
   sumar(validarArchivo({ raiz, rel: 'contenido/comun/glosario.json', ajv, definicion: 'glosario', requerido: true, revisar: revisarGlosario }));
-  sumar(validarArchivo({ raiz, rel: 'contenido/comun/como-ayudar.json', ajv, definicion: 'comoAyudar', requerido: true, revisar: revisarTodo }));
+  sumar(validarArchivo({ raiz, rel: 'contenido/comun/como-ayudar.json', ajv, definicion: 'comoAyudar', requerido: true, revisar: revisarConFuentes }));
   const base = join(raiz, 'contenido');
   const subcarpetas = (ruta) => (existsSync(ruta) ? readdirSync(ruta, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name) : []);
   for (const ciclo of subcarpetas(base).filter((c) => c.startsWith('ciclo-'))) {
     for (const area of subcarpetas(join(base, ciclo))) {
       sumar(validarArchivo({
-        raiz, rel: `contenido/${ciclo}/${area}/objetivos.json`, ajv, definicion: 'objetivos', requerido: false, revisar: revisarTodo,
+        raiz, rel: `contenido/${ciclo}/${area}/objetivos.json`, ajv, definicion: 'objetivos', requerido: false, revisar: revisarConFuentes,
       }));
     }
   }

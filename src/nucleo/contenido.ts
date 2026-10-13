@@ -74,8 +74,29 @@ export interface Mapa {
   verano: Record<string, EntradaMapa[]>;
 }
 
-/** `objetivos.json`: curso → trimestre → frases. */
-export type Objetivos = Record<string, Record<string, Texto[]>>;
+/** Una fuente citada: la cita tal cual, su enlace y qué respalda. */
+export interface Fuente {
+  cita: string;
+  /** Idioma de la cita, para `lang`. */
+  idioma: Idioma;
+  url: string;
+  apoya: Texto;
+}
+
+/** `objetivos.json`: entrada, curso → trimestre → frases, bloques del ciclo y fuentes. */
+export interface Objetivos {
+  entrada: Texto[];
+  cursos: Record<string, Record<string, Texto[]>>;
+  bloques: Texto[];
+  fuentes: Fuente[];
+}
+
+/** `como-ayudar.json`: las ideas, por qué Germina y las fuentes. */
+export interface ComoAyudar {
+  ideas: Texto[];
+  porque: Texto[];
+  fuentes: Fuente[];
+}
 
 /**
  * ¿Se ve el aviso de «traducción automática»? Sí si la traducción está sin revisar, o si estaba revisada

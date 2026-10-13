@@ -1,10 +1,11 @@
-// «Qué aprenden este curso», por trimestre.
+// «Qué aprenden este curso»: entrada, frases por trimestre, bloques del ciclo y fuentes.
 import { cargarObjetivos, useCarga } from '../contenido';
 import { situacionHoy } from '../estado';
 import { t } from '../idioma';
 import { claveCurso, type Curso } from '../nucleo/tipos';
 import { Cargando } from '../piezas/Carga';
 import { Contenido } from '../piezas/Contenido';
+import { Fuentes } from '../piezas/Fuentes';
 
 export function Aprenden({ curso }: { curso: Curso }) {
   const carga = useCarga(() => cargarObjetivos(curso), [claveCurso(curso)]);
@@ -15,10 +16,15 @@ export function Aprenden({ curso }: { curso: Curso }) {
       <h1 tabIndex={-1}>{t('aprenden.titulo')}</h1>
       <Cargando
         carga={carga}
-        hijo={(objetivos) => {
-          const delCurso = objetivos[String(curso.curso)] ?? {};
+        hijo={({ entrada, cursos, bloques, fuentes }) => {
+          const delCurso = cursos[String(curso.curso)] ?? {};
           return (
             <>
+              {entrada.map((parrafo, i) => (
+                <p key={i}>
+                  <Contenido texto={parrafo} />
+                </p>
+              ))}
               {Object.keys(delCurso)
                 .sort()
                 .map((trimestre) => (
@@ -38,6 +44,17 @@ export function Aprenden({ curso }: { curso: Curso }) {
                     </ul>
                   </section>
                 ))}
+              <section class="tarjeta" aria-labelledby="ciclo">
+                <h2 id="ciclo">{t('aprenden.ciclo_titulo')}</h2>
+                <ul>
+                  {bloques.map((bloque, i) => (
+                    <li key={i}>
+                      <Contenido texto={bloque} />
+                    </li>
+                  ))}
+                </ul>
+              </section>
+              <Fuentes fuentes={fuentes} />
             </>
           );
         }}

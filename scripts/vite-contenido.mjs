@@ -41,8 +41,10 @@ export function contenido() {
     configureServer(servidor) {
       const prefijo = `${base}contenido/`;
       servidor.middlewares.use((req, res, next) => {
-        const url = (req.url ?? '').split('?')[0];
-        if (!url.startsWith(prefijo)) return next();
+        const [url, consulta] = (req.url ?? '').split('?');
+        // Con consulta (`?import`, `?t=…`) es un import de módulo, como `textos-interfaz.json` en `idioma.ts`: lo sirve Vite como JavaScript.
+        // La app pide el contenido con `fetch` y sin consulta.
+        if (!url.startsWith(prefijo) || consulta !== undefined) return next();
         res.setHeader('Content-Type', 'application/json; charset=utf-8');
         if (url === `${prefijo}indice.json`) return void res.end(JSON.stringify(indiceDeSemillas(raiz)));
         const ruta = join(raiz, 'contenido', decodeURIComponent(url.slice(prefijo.length)));
