@@ -114,6 +114,7 @@
   "nav.aprenden": { "es": "Qué aprenden", "va": "Què aprenen", "en": "What they learn", "fr": "Ce qu'on apprend", "ar": "ماذا يتعلمون" },
   "nav.ayuda": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
   "nav.ajustes": { "es": "Ajustes", "va": "Ajustos", "en": "Settings", "fr": "Réglages", "ar": "الإعدادات" },
+  "nav.menu": { "es": "Menú", "va": "Menú", "en": "Menu", "fr": "Menu", "ar": "القائمة" },
   "nav.volver": { "es": "Volver", "va": "Tornar", "en": "Back", "fr": "Retour", "ar": "رجوع" },
 
   "semana.titulo": { "es": "Semana {n}", "va": "Setmana {n}", "en": "Week {n}", "fr": "Semaine {n}", "ar": "الأسبوع {n}" },

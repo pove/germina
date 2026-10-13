@@ -1,6 +1,6 @@
 import { expect, test, type Page } from '@playwright/test';
 import {
-  CURSO_3, CURSO_4, LUNES_SEMANA_1_2027, SABADO_SEMANA_7, T, guardado, objetivosTactiles, ocultarSemillas, preparar,
+  CURSO_3, CURSO_4, LUNES_SEMANA_1_2027, SABADO_SEMANA_7, T, guardado, irDesdeElMenu, objetivosTactiles, ocultarSemillas, preparar,
   sinProblemasDeAccesibilidad,
 } from './ayudas';
 
@@ -176,19 +176,29 @@ for (const idioma of IDIOMAS) {
       await sinProblemasDeAccesibilidad(page);
       await objetivosTactiles(page);
 
-      await page.getByRole('navigation').getByRole('link', { name: T('nav.aprenden', idioma) }).click();
+      // «☰ Menú» abre la lista; se cierra con Escape y el foco vuelve al botón.
+      const menu = page.getByRole('button', { name: T('nav.menu', idioma) });
+      await menu.click();
+      await expect(menu).toHaveAttribute('aria-expanded', 'true');
+      await sinProblemasDeAccesibilidad(page);
+      await objetivosTactiles(page);
+      await page.keyboard.press('Escape');
+      await expect(menu).toHaveAttribute('aria-expanded', 'false');
+      await expect(menu).toBeFocused();
+
+      await irDesdeElMenu(page, T('nav.aprenden', idioma), idioma);
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('aprenden.titulo', idioma));
       await expect(page.getByRole('heading', { level: 2 })).toHaveCount(3);
       await expect(page.locator('main li').first()).toBeVisible();
       await sinProblemasDeAccesibilidad(page);
       await objetivosTactiles(page);
 
-      await page.getByRole('navigation').getByRole('link', { name: T('nav.ayuda', idioma) }).click();
+      await irDesdeElMenu(page, T('nav.ayuda', idioma), idioma);
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('ayuda.titulo', idioma));
       await expect(page.locator('.ideas li')).toHaveCount(7);
       await sinProblemasDeAccesibilidad(page);
 
-      await page.getByRole('navigation').getByRole('link', { name: T('nav.ajustes', idioma) }).click();
+      await irDesdeElMenu(page, T('nav.ajustes', idioma), idioma);
       await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('ajustes.titulo', idioma));
       await sinProblemasDeAccesibilidad(page);
       await objetivosTactiles(page);

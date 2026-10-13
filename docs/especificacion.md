@@ -39,6 +39,8 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | `#/imprimir/records` | Hoja de récords para imprimir |
 | `#/privacidad`, `#/accesibilidad` | Páginas legales (9) |
 
+**Cabecera:** en una fila, el nombre (lleva a «Esta semana») y, en la esquina, el botón «☰ Menú» con Qué aprenden, Cómo ayudar y Ajustes, que abre una lista flotante y se cierra al elegir, al tocar fuera y con Escape. Debajo, siempre a la vista, las dos pestañas grandes: «Esta semana» y «El jardín».
+
 En las pantallas de un curso, bajo el menú, una **banda del curso** a todo el ancho: el área y un botón con el curso («Matemáticas · [3.º ▾]») que abre una lista propia, igual en el móvil y en el escritorio y válida con dos cursos o con seis. Arriba van los cursos que sigue la familia y debajo los demás (sin grupos si solo hay de una clase), con ✓ en el que se está viendo. Elegir un curso lleva a la misma pantalla en ese curso: si es de los suyos, pasa a ser el curso activo; si es otro, solo se mira y los cursos de la familia no cambian (se eligen en Ajustes). Se cierra al elegir, al tocar fuera y con Escape.
 
 Ejemplo: `#/2/matematicas/3/semana/7`. Una ruta desconocida o una semana inexistente lleva a `#/` sin error.

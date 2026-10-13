@@ -10,6 +10,7 @@ import { construir, type Ruta } from '../nucleo/rutas';
 import { claveCurso, leerClaveCurso, type Curso } from '../nucleo/tipos';
 import { BandaCurso } from './BandaCurso';
 import { Icono, type NombreIcono } from './Icono';
+import { useDesplegable } from './useDesplegable';
 
 const catalogo = catalogoJson as Catalogo;
 const avisoGuardadoVisto = signal(false);
@@ -59,10 +60,12 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
     return () => observador.disconnect();
   }, [hash.value, idioma.value]);
 
-  // Las dos primeras son las pestañas grandes, con dibujo; el resto va debajo, en pequeño.
-  const enlaces: { ruta: Ruta | null; texto: string; activo: boolean; icono?: NombreIcono }[] = [
+  // Las dos pestañas grandes, con dibujo, van siempre a la vista; el resto, en el menú de la esquina.
+  const pestanas: { ruta: Ruta | null; texto: string; activo: boolean; icono: NombreIcono }[] = [
     { ruta: { tipo: 'inicio' }, icono: 'brote', texto: t('nav.inicio'), activo: ['semana', 'pregunta', 'reto', 'verano', 'veranoReto'].includes(ruta.tipo) },
     { ruta: curso && { tipo: 'jardin', ...curso }, icono: 'jardin', texto: t('nav.jardin'), activo: ruta.tipo === 'jardin' },
+  ];
+  const otras: { ruta: Ruta | null; texto: string; activo: boolean }[] = [
     { ruta: curso && { tipo: 'aprenden', ...curso }, texto: t('nav.aprenden'), activo: ruta.tipo === 'aprenden' },
     { ruta: { tipo: 'ayuda' }, texto: t('nav.ayuda'), activo: ruta.tipo === 'ayuda' },
     { ruta: { tipo: 'ajustes' }, texto: t('nav.ajustes'), activo: ['ajustes', 'pasar', 'recibir', 'imprimirRecords', 'privacidad', 'accesibilidad'].includes(ruta.tipo) },
@@ -74,28 +77,31 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
         {t('a11y.contenido')}
       </button>
       <header class="cabecera">
-        {/* El nombre lleva a «Esta semana», salvo en la bienvenida y el cambio de curso, donde aún no hay adónde ir. */}
-        <p class="marca">
-          {sinMenu ? (
-            <>
-              <Icono nombre="marca" clase="icono-marca" />
-              {t('app.nombre')}
-            </>
-          ) : (
-            <a href={construir({ tipo: 'inicio' })}>
-              <Icono nombre="marca" clase="icono-marca" />
-              {t('app.nombre')}
-            </a>
-          )}
-        </p>
+        <div class="cabecera-fila">
+          {/* El nombre lleva a «Esta semana», salvo en la bienvenida y el cambio de curso, donde aún no hay adónde ir. */}
+          <p class="marca">
+            {sinMenu ? (
+              <>
+                <Icono nombre="marca" clase="icono-marca" />
+                {t('app.nombre')}
+              </>
+            ) : (
+              <a href={construir({ tipo: 'inicio' })}>
+                <Icono nombre="marca" clase="icono-marca" />
+                {t('app.nombre')}
+              </a>
+            )}
+          </p>
+          {!sinMenu && <MenuMas enlaces={otras} />}
+        </div>
         {!sinMenu && (
           <nav aria-label={t('a11y.menu')}>
             <ul class="menu">
-              {enlaces.map((e) =>
+              {pestanas.map((e) =>
                 e.ruta ? (
-                  <li key={e.texto} class={e.icono ? 'menu-principal' : 'menu-secundario'}>
+                  <li key={e.texto} class="menu-principal">
                     <a href={construir(e.ruta)} aria-current={e.activo ? 'page' : undefined}>
-                      {e.icono && <Icono nombre={e.icono} clase="icono-boton" />}
+                      <Icono nombre={e.icono} clase="icono-boton" />
                       {e.texto}
                     </a>
                   </li>
@@ -126,5 +132,41 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
         {children}
       </main>
     </>
+  );
+}
+
+/** «☰ Menú», en la esquina: qué aprenden, cómo ayudar y ajustes. */
+function MenuMas({ enlaces }: { enlaces: { ruta: Ruta | null; texto: string; activo: boolean }[] }) {
+  const { abierto, setAbierto, caja, boton, alPulsarTecla } = useDesplegable();
+  const algunoActivo = enlaces.some((e) => e.activo);
+  return (
+    <div class="menu-mas" ref={caja} onKeyDown={alPulsarTecla}>
+      <button
+        type="button"
+        ref={boton}
+        class={algunoActivo ? 'boton boton-menu activo' : 'boton boton-menu'}
+        aria-expanded={abierto}
+        aria-controls="menu-mas"
+        onClick={() => setAbierto(!abierto)}
+      >
+        <Icono nombre="menu" clase="icono-boton" />
+        {t('nav.menu')}
+      </button>
+      {abierto && (
+        <nav id="menu-mas" class="lista-flotante" aria-label={t('nav.menu')}>
+          <ul>
+            {enlaces.map((e) =>
+              e.ruta ? (
+                <li key={e.texto}>
+                  <a href={construir(e.ruta)} aria-current={e.activo ? 'page' : undefined} onClick={() => setAbierto(false)}>
+                    {e.texto}
+                  </a>
+                </li>
+              ) : null,
+            )}
+          </ul>
+        </nav>
+      )}
+    </div>
   );
 }
