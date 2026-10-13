@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s07",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 7,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Abrir una decena",
+    "va": "Obrir una desena",
+    "en": "Opening a ten",
+    "fr": "Ouvrir une dizaine",
+    "ar": "نفتح عشرة"
+  },
+  "objetivo": {
+    "es": "Esta semana restan con llevada: cuando no hay bastantes unidades para quitar, se abre una decena y salen 10 sueltas. También ven que equivocarse y volver a probar es parte del juego.",
+    "va": "Aquesta setmana resten amb llevada: quan no hi ha prou unitats (unidades) per a llevar, s'obri una desena (decena) i n'ixen 10 de soltes. També veuen que equivocar-se i tornar a provar és part del joc.",
+    "en": "This week they take away with regrouping (llevada): when there aren't enough ones (unidades) to take away, a ten (decena) is opened and 10 loose ones come out. They also see that getting it wrong and trying again is part of the game.",
+    "fr": "Cette semaine, on soustrait avec retenue (llevada) : quand il n'y a pas assez d'unités (unidades) à enlever, on ouvre une dizaine (decena) et on obtient 10 unités. On voit aussi que se tromper et réessayer fait partie du jeu.",
+    "ar": "هذا الأسبوع يطرح الأطفال مع الاستلاف (llevada): عندما لا تكفي الآحاد (unidades) للنزع، نفتح عشرة (decena) فتخرج 10 آحاد منفردة. ويرون أيضًا أن الخطأ والمحاولة من جديد جزء من اللعب."
+  },
+  "comoAyudar": {
+    "es": "Si se atasca o se enfada, parad un momento y volved a los palillos. Decir «probemos otra vez» ayuda más que dar la respuesta.",
+    "va": "Si s'embossa o s'enfada, pareu un moment i torneu als palets. Dir «tornem-ho a provar» ajuda més que donar la resposta.",
+    "en": "If they get stuck or upset, stop for a moment and go back to the sticks. Saying “Let's try again” helps more than giving the answer.",
+    "fr": "S'il ou elle bloque ou s'énerve, faites une pause et revenez aux bâtonnets. Dire « on essaie encore » aide plus que donner la réponse.",
+    "ar": "إذا حصل تعثّر أو انزعاج، توقّفوا قليلًا وعودوا إلى العيدان. قول «لنحاول مرة أخرى» يساعد أكثر من إعطاء الجواب."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.frustracion"
+  ],
+  "criterios": [
+    "matematicas.c1.5.1",
+    "matematicas.c1.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Paquetes de palillos",
+      "va": "Paquets de palets",
+      "en": "Bundles of sticks",
+      "fr": "Les paquets de bâtonnets",
+      "ar": "حزم العيدان"
+    },
+    "material": [
+      {
+        "es": "Unos 50 palillos, pajitas o lápices",
+        "va": "Uns 50 palets, canyetes o llapis",
+        "en": "About 50 sticks, straws or pencils",
+        "fr": "Environ 50 bâtonnets, pailles ou crayons",
+        "ar": "نحو 50 عودًا أو مصّاصة أو قلمًا"
+      },
+      {
+        "es": "Gomas elásticas",
+        "va": "Gomes elàstiques",
+        "en": "Rubber bands",
+        "fr": "Des élastiques",
+        "ar": "أربطة مطاطية"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "palillos",
+        "texto": {
+          "es": "Formad el 32: 3 paquetes de 10 palillos con su goma y 2 palillos sueltos.",
+          "va": "Formeu el 32: 3 paquets de 10 palets amb la seua goma i 2 palets solts.",
+          "en": "Make 32: 3 bundles of 10 sticks with their rubber bands and 2 loose sticks.",
+          "fr": "Formez 32 : 3 paquets de 10 bâtonnets avec leur élastique et 2 bâtonnets tout seuls.",
+          "ar": "كوّنوا 32: 3 حزم في كل منها 10 عيدان برباطها، وعودان منفردان."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Vamos a quitar 7. Con 2 sueltos no llega, así que soltad la goma de un paquete.",
+          "va": "Llevarem 7. Amb 2 solts no n'hi ha prou, així que lleveu la goma d'un paquet.",
+          "en": "Let's take away 7. 2 loose sticks aren't enough, so take the rubber band off one bundle.",
+          "fr": "On va enlever 7. Avec 2 bâtonnets tout seuls, ça ne suffit pas, alors retirez l'élastique d'un paquet.",
+          "ar": "سننزع 7. العودان المنفردان لا يكفيان، لذلك فكّوا رباط حزمة واحدة."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Ahora hay 2 paquetes y 12 sueltos. Quitad 7: ¿cuántos quedan?",
+          "va": "Ara hi ha 2 paquets i 12 solts. Lleveu-ne 7: quants en queden?",
+          "en": "Now there are 2 bundles and 12 loose sticks. Take away 7: how many are left?",
+          "fr": "Maintenant, il y a 2 paquets et 12 bâtonnets tout seuls. Enlevez-en 7 : combien en reste-t-il ?",
+          "ar": "الآن عندكم حزمتان و12 عودًا منفردًا. انزعوا 7: كم بقي؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decid el número que sale: {{32 − 7 = 25}}. Probad con otras, como {{41 − 6}} o {{50 − 8}}.",
+          "va": "Digueu el nombre que ix: {{32 − 7 = 25}}. Proveu amb altres, com ara {{41 − 6}} o {{50 − 8}}.",
+          "en": "Say the number you get: {{32 − 7 = 25}}. Try others, like {{41 − 6}} or {{50 − 8}}.",
+          "fr": "Dites le nombre obtenu : {{32 − 7 = 25}}. Essayez-en d'autres, comme {{41 − 6}} ou {{50 − 8}}.",
+          "ar": "قولوا العدد الناتج: {{32 − 7 = 25}}. جرّبوا غيرها، مثل {{41 − 6}} أو {{50 − 8}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con restas en las que falte poco, como {{21 − 3}}.",
+      "va": "Comenceu amb restes en què falte poc, com ara {{21 − 3}}.",
+      "en": "Start with subtractions where only a little is missing, like {{21 − 3}}.",
+      "fr": "Commencez par des soustractions où il manque peu, comme {{21 − 3}}.",
+      "ar": "ابدؤوا بعمليات طرح ينقص فيها القليل، مثل {{21 − 3}}."
+    },
+    "masDificil": {
+      "es": "Quitad paquetes y sueltos a la vez, como {{43 − 17}}: primero abrid un paquete y luego quitad.",
+      "va": "Lleveu paquets i solts alhora, com ara {{43 − 17}}: primer obriu un paquet i després lleveu.",
+      "en": "Take away bundles and loose sticks at the same time, like {{43 − 17}}: first open a bundle and then take away.",
+      "fr": "Enlevez des paquets et des bâtonnets seuls en même temps, comme {{43 − 17}} : ouvrez d'abord un paquet, puis enlevez.",
+      "ar": "انزعوا حزمًا وعيدانًا منفردة معًا، مثل {{43 − 17}}: افتحوا حزمة أولًا ثم انزعوا."
+    },
+    "paraQueSirve": {
+      "es": "Abrir un paquete es lo que en la resta en columna se llama «llevarse una». Verlo con palillos le da sentido.",
+      "va": "Obrir un paquet és el que en la resta en columna s'anomena «portar-se'n una». Veure-ho amb palets li dona sentit.",
+      "en": "Opening a bundle is what column subtraction calls “borrowing”. Seeing it with sticks makes it make sense.",
+      "fr": "Ouvrir un paquet, c'est ce qu'on appelle la retenue dans la soustraction en colonnes. Le voir avec des bâtonnets lui donne du sens.",
+      "ar": "فتح الحزمة هو ما يسمّى «الاستلاف» في الطرح العمودي. ورؤيته بالعيدان تجعله مفهومًا."
+    },
+    "aviso": {
+      "es": "Si usáis palillos con punta, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir palets amb punta, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use pointed sticks, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des bâtonnets pointus, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم عيدانًا مدبّبة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Darío tiene 34 canicas y pierde 8 en el parque. ¿Cuántas canicas le quedan?",
+        "va": "Darío té 34 bales i en perd 8 en el parc. Quantes bales li queden?",
+        "en": "Darío has 34 marbles and loses 8 in the park. How many marbles does he have left?",
+        "fr": "Darío a 34 billes et en perd 8 au parc. Combien de billes lui reste-t-il ?",
+        "ar": "عند داريو 34 كرة زجاجية، وأضاع 8 منها في الحديقة. كم كرة بقيت عنده؟"
+      },
+      "pista": {
+        "es": "Con 4 sueltas no puedes quitar 8, así que abre una decena.",
+        "va": "Amb 4 soltes no en pots llevar 8, així que obri una desena.",
+        "en": "You can't take 8 from 4 loose ones, so open a ten.",
+        "fr": "Avec 4 billes toutes seules, tu ne peux pas en enlever 8, alors ouvre une dizaine.",
+        "ar": "لا يمكن نزع 8 من 4 آحاد، فلنفتح عشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "34 - 8",
+        "resultado": 26,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le quedan 26 canicas: {{34 − 8 = 26}}.",
+          "va": "Li'n queden 26: {{34 − 8 = 26}}.",
+          "en": "He has 26 marbles left: {{34 − 8 = 26}}.",
+          "fr": "Il lui reste 26 billes : {{34 − 8 = 26}}.",
+          "ar": "بقيت عنده 26 كرة: {{34 − 8 = 26}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una en la que se abra una decena.",
+        "va": "Ara inventa'n tu una en què s'òbriga una desena.",
+        "en": "Now you make one up where a ten gets opened.",
+        "fr": "Maintenant, invente une question où l'on ouvre une dizaine.",
+        "ar": "والآن لنخترع سؤالًا نفتح فيه عشرة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En la panadería hay 52 barras de pan y por la mañana se venden 17. ¿Cuántas barras quedan?",
+        "va": "En la panaderia hi ha 52 barres de pa i al matí se'n venen 17. Quantes barres queden?",
+        "en": "The bakery has 52 loaves and sells 17 in the morning. How many loaves are left?",
+        "fr": "À la boulangerie, il y a 52 baguettes et on en vend 17 le matin. Combien de baguettes reste-t-il ?",
+        "ar": "في المخبز 52 رغيفًا، وبيع منها 17 في الصباح. كم رغيفًا بقي؟"
+      },
+      "pista": {
+        "es": "Abre una decena para tener 12 sueltas, quita 7 y luego quita la decena.",
+        "va": "Obri una desena per a tindre 12 soltes, lleva'n 7 i després lleva la desena.",
+        "en": "Open a ten to get 12 loose ones, take away 7 and then take away the ten.",
+        "fr": "Ouvre une dizaine pour avoir 12 unités, enlève 7, puis enlève la dizaine.",
+        "ar": "لنفتح عشرة لتصير عندنا 12 من الآحاد، ننزع 7، ثم ننزع العشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "52 - 17",
+        "resultado": 35,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 35 barras.",
+          "va": "En queden 35.",
+          "en": "There are 35 loaves left.",
+          "fr": "Il en reste 35.",
+          "ar": "بقي 35 رغيفًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra de una tienda de tu barrio.",
+        "va": "Inventa'n tu una altra d'una botiga del teu barri.",
+        "en": "Make up another one about a shop in your neighbourhood.",
+        "fr": "Invente-en une autre sur un magasin de ton quartier.",
+        "ar": "لنخترع سؤالًا آخر عن متجر في حيّنا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Nora quita 5 a 43 y le sale 42. ¿Qué crees que ha pensado? ¿Cuánto sale?",
+        "va": "Nora lleva 5 a 43 i li ix 42. Què creus que ha pensat? Quant ix?",
+        "en": "Nora takes 5 away from 43 and gets 42. What do you think she was thinking? What's the answer?",
+        "fr": "Nora enlève 5 à 43 et trouve 42. À ton avis, qu'a-t-elle pensé ? Combien ça fait ?",
+        "ar": "نزعت نورا 5 من 43 فحصلت على 42. بماذا فكّرت في رأينا؟ وكم الناتج؟"
+      },
+      "pista": {
+        "es": "Mira las unidades: ¿se pueden quitar 5 de 3 sin abrir una decena?",
+        "va": "Mira les unitats: es poden llevar 5 de 3 sense obrir una desena?",
+        "en": "Look at the ones: can you take 5 from 3 without opening a ten?",
+        "fr": "Regarde les unités : peut-on enlever 5 à 3 sans ouvrir une dizaine ?",
+        "ar": "لننظر إلى الآحاد: هل يمكن نزع 5 من 3 من دون فتح عشرة؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "43 - 5",
+        "resultado": 38,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sale 38. Seguramente Nora ha quitado 3 a 5 en vez de abrir una decena: es un despiste muy normal.",
+          "va": "Ix 38. Segurament Nora ha llevat 3 a 5 en lloc d'obrir una desena: és una distracció molt normal.",
+          "en": "It's 38. Nora probably took 3 from 5 instead of opening a ten: it's a very common slip.",
+          "fr": "Ça fait 38. Nora a sûrement enlevé 3 à 5 au lieu d'ouvrir une dizaine : c'est une étourderie très courante.",
+          "ar": "الناتج 38. على الأرجح نزعت نورا 3 من 5 بدل أن تفتح عشرة: إنه سهو شائع جدًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una resta con un despiste y pide a alguien de casa que lo encuentre.",
+        "va": "Inventa't tu una resta amb una distracció i demana a algú de casa que la trobe.",
+        "en": "Make up a subtraction with a slip in it and ask someone at home to find it.",
+        "fr": "Invente une soustraction avec une étourderie et demande à quelqu'un de la maison de la trouver.",
+        "ar": "لنخترع عملية طرح فيها سهو، ونطلب من أحد في البيت أن يجده."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 5,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: Youssef tiene 27 cromos y le dan 15 más. ¿Cuántos cromos tiene ahora?",
+        "va": "Per a recordar: Youssef té 27 cromos i li'n donen 15 més. Quants cromos té ara?",
+        "en": "Let's remember: Youssef has 27 stickers and gets 15 more. How many stickers does he have now?",
+        "fr": "Pour se souvenir : Youssef a 27 images et on lui en donne 15 de plus. Combien d'images a-t-il maintenant ?",
+        "ar": "لنتذكّر: عند يوسف 27 صورة، وأخذ 15 صورة أخرى. كم صورة عنده الآن؟"
+      },
+      "pista": {
+        "es": "7 y 5 son 12: con 10 de ellas haces una decena más.",
+        "va": "7 i 5 són 12: amb 10 d'ells fas una desena més.",
+        "en": "7 and 5 make 12: with 10 of them you make one more ten.",
+        "fr": "7 et 5, ça fait 12 : avec 10 d'entre elles, tu fais une dizaine de plus.",
+        "ar": "7 و5 تساوي 12: بعشرة منها نكوّن عشرة إضافية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "27 + 15",
+        "resultado": 42,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 42 cromos.",
+          "va": "Té 42 cromos.",
+          "en": "He has 42 stickers.",
+          "fr": "Il a 42 images.",
+          "ar": "عنده 42 صورة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra suma en la que te lleves una.",
+        "va": "Inventa't tu una altra suma en què te'n portes una.",
+        "en": "Make up another addition where you carry one.",
+        "fr": "Invente une autre addition avec une retenue.",
+        "ar": "لنخترع عملية جمع أخرى نحتفظ فيها بواحد."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuando algo no te sale a la primera, ¿qué haces? Explícame cómo has abierto una decena esta semana.",
+        "va": "Quan alguna cosa no t'ix a la primera, què fas? Explica'm com has obert una desena aquesta setmana.",
+        "en": "When something doesn't work out the first time, what do you do? Explain to me how you opened a ten this week.",
+        "fr": "Quand quelque chose ne marche pas du premier coup, que fais-tu ? Explique-moi comment tu as ouvert une dizaine cette semaine.",
+        "ar": "عندما لا ينجح شيء من المرة الأولى، ماذا نفعل؟ لنشرح كيف فتحنا عشرة هذا الأسبوع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me enseñas con los palillos qué pasa cuando no llegan los sueltos?»",
+        "va": "Si no sap per on començar: «M'ensenyes amb els palets què passa quan no n'hi ha prou amb els solts?»",
+        "en": "If they don't know where to start: “Can you show me with the sticks what happens when there aren't enough loose ones?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres avec les bâtonnets ce qui se passe quand il n'y en a pas assez de tout seuls ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نُريه بالعيدان ماذا يحدث عندما لا تكفي العيدان المنفردة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Contad también vosotros algo que no os salió a la primera. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "Conteu també vosaltres alguna cosa que no vos va eixir a la primera. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "Share something that didn't work out for you the first time, too. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Racontez aussi quelque chose qui n'a pas marché pour vous du premier coup. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "احكوا أنتم أيضًا عن شيء لم ينجح معكم من المرة الأولى. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "43f4248e275c"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "43f4248e275c"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "43f4248e275c"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "43f4248e275c"
+      }
+    }
+  }
+}

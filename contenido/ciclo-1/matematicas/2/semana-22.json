@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s22",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 22,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: grupos y tablas",
+    "va": "Setmana de recordar: grups i taules",
+    "en": "Remembering week: groups and times tables",
+    "fr": "Semaine de rappel : groupes et tables",
+    "ar": "أسبوع التذكّر: المجموعات وجداول الضرب"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a los grupos iguales y a las tablas del 2, del 5, del 10 y del 4, jugando al bingo. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen als grups iguals i a les taules del 2, del 5, del 10 i del 4 (tablas del 2, del 5, del 10 y del 4), jugant al bingo. No hi ha res de nou: és perquè s'assente.",
+    "en": "This week they go back to equal groups and to the 2, 5, 10 and 4 times tables (tablas del 2, del 5, del 10 y del 4), playing bingo. There is nothing new: it's so that it settles.",
+    "fr": "Cette semaine, on revient aux groupes égaux et aux tables de 2, de 5, de 10 et de 4 (tablas del 2, del 5, del 10 y del 4), en jouant au loto. Rien de nouveau : c'est pour que ça s'installe.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى المجموعات المتساوية وإلى جداول ضرب 2 و5 و10 و4 (tablas del 2, del 5, del 10 y del 4)، وهم يلعبون البينغو. لا شيء جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Si un resultado no sale, haced los grupos con legumbres o con los dedos y contadlos juntos. Equivocarse en el bingo forma parte del juego.",
+    "va": "Si un resultat no ix, feu els grups amb llegums o amb els dits i compteu-los junts. Equivocar-se en el bingo forma part del joc.",
+    "en": "If an answer doesn't come, make the groups with beans or fingers and count them together. Getting it wrong in bingo is part of the game.",
+    "fr": "Si un résultat ne vient pas, faites les groupes avec des légumes secs ou avec les doigts et comptez-les ensemble. Se tromper au loto, ça fait partie du jeu.",
+    "ar": "إذا لم تأتِ نتيجة، كوّنوا المجموعات بالبقول أو بالأصابع وعدّوها معًا. الخطأ في البينغو جزء من اللعب."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Bingo de tablas",
+      "va": "Bingo de taules",
+      "en": "Times table bingo",
+      "fr": "Loto des tables",
+      "ar": "بينغو جداول الضرب"
+    },
+    "material": [
+      {
+        "es": "Papel y lápiz para que la persona adulta haga los cartones y las tarjetas",
+        "va": "Paper i llapis perquè la persona adulta faça els cartons i les targetes",
+        "en": "Paper and a pencil for the adult to make the bingo cards and the call cards",
+        "fr": "Du papier et un crayon pour que l'adulte fasse les grilles et les cartes",
+        "ar": "ورق وقلم رصاص ليصنع الشخص البالغ بطاقات اللعب وبطاقات النداء"
+      },
+      {
+        "es": "Un puñado de legumbres o botones para tapar",
+        "va": "Un grapat de llegums o botons per a tapar",
+        "en": "A handful of dried beans or buttons for covering",
+        "fr": "Une poignée de légumes secs ou de boutons pour couvrir",
+        "ar": "حفنة من البقول المجففة أو الأزرار للتغطية"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "La persona adulta prepara un cartón para cada jugador o jugadora, con 6 resultados de las tablas del 2, del 5 y del 10: 4, 10, 15, 20, 30…",
+          "va": "La persona adulta prepara un cartó per a cada jugador o jugadora, amb 6 resultats de les taules del 2, del 5 i del 10: 4, 10, 15, 20, 30…",
+          "en": "The adult makes a card for each player, with 6 answers from the 2, 5 and 10 times tables: 4, 10, 15, 20, 30…",
+          "fr": "L'adulte prépare une grille pour chaque joueur ou joueuse, avec 6 résultats des tables de 2, de 5 et de 10 : 4, 10, 15, 20, 30…",
+          "ar": "يجهّز الشخص البالغ بطاقة لكل لاعب أو لاعبة، فيها 6 نتائج من جداول ضرب 2 و5 و10: 4، 10، 15، 20، 30…"
+        }
+      },
+      {
+        "pictograma": "tarjetas",
+        "texto": {
+          "es": "Haced tarjetas con multiplicaciones de esas tablas y ponedlas boca abajo. Quien canta saca una y la lee: «{{3 × 5}}».",
+          "va": "Feu targetes amb multiplicacions d'eixes taules i poseu-les boca avall. Qui canta en trau una i la llig: «{{3 × 5}}».",
+          "en": "Make cards with multiplications from those tables and put them face down. The caller draws one and reads it: “{{3 × 5}}”.",
+          "fr": "Faites des cartes avec des multiplications de ces tables et posez-les face cachée. La personne qui annonce en tire une et la lit : « {{3 × 5}} ».",
+          "ar": "اصنعوا بطاقات عليها عمليات ضرب من هذه الجداول، وضعوها مقلوبة. من ينادي يسحب بطاقة ويقرؤها: «{{3 × 5}}»."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Quien tiene el resultado en su cartón lo tapa con una legumbre. Si no sale, contad con los dedos o haced grupos.",
+          "va": "Qui té el resultat en el seu cartó el tapa amb un llegum. Si no ix, compteu amb els dits o feu grups.",
+          "en": "Whoever has the answer on their card covers it with a bean. If it doesn't come, count on your fingers or make groups.",
+          "fr": "Qui a le résultat sur sa grille le couvre avec un grain. Si ça ne vient pas, comptez sur les doigts ou faites des groupes.",
+          "ar": "من عنده النتيجة في بطاقته يغطّيها بحبّة من البقول. وإذا لم تأتِ، عدّوا بالأصابع أو كوّنوا مجموعات."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Quien tapa todo el cartón dice «¡Bingo!» y explica una de sus cuentas. Luego cambiad quién canta.",
+          "va": "Qui tapa tot el cartó diu «Bingo!» i explica un dels seus comptes. Després canvieu qui canta.",
+          "en": "Whoever covers the whole card says “Bingo!” and explains one of their sums. Then change who calls.",
+          "fr": "Qui couvre toute la grille dit « Loto ! » et explique un de ses calculs. Ensuite, changez de personne qui annonce.",
+          "ar": "من يغطّي البطاقة كلها يقول «بينغو!» ويشرح إحدى عملياته. ثم بدّلوا من ينادي."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo la tabla del 2 y la del 10, y tened las legumbres a mano para hacer los grupos.",
+      "va": "Feu servir només la taula del 2 i la del 10, i tingueu els llegums a mà per a fer els grups.",
+      "en": "Use only the 2 and 10 times tables, and keep the beans handy to make the groups.",
+      "fr": "Utilisez seulement la table de 2 et celle de 10, et gardez les grains à portée de main pour faire les groupes.",
+      "ar": "استعملوا جدولي ضرب 2 و10 فقط، وأبقوا البقول قريبة لتكوين المجموعات."
+    },
+    "masDificil": {
+      "es": "Añadid la tabla del 4 y, en lugar de multiplicaciones, cantad sumas repetidas: «{{4 + 4 + 4}}».",
+      "va": "Afegiu la taula del 4 i, en lloc de multiplicacions, canteu sumes repetides: «{{4 + 4 + 4}}».",
+      "en": "Add the 4 times table and, instead of multiplications, call out repeated additions: “{{4 + 4 + 4}}”.",
+      "fr": "Ajoutez la table de 4 et, au lieu de multiplications, annoncez des additions répétées : « {{4 + 4 + 4}} ».",
+      "ar": "أضيفوا جدول ضرب 4، وبدل عمليات الضرب نادوا جمعًا متكرّرًا: «{{4 + 4 + 4}}»."
+    },
+    "paraQueSirve": {
+      "es": "Volver a las tablas jugando ayuda a que los resultados salgan solos, sin perder de vista que son grupos iguales.",
+      "va": "Tornar a les taules jugant ajuda que els resultats isquen sols, sense perdre de vista que són grups iguals.",
+      "en": "Going back to the times tables through play helps the answers come by themselves, without forgetting that they are equal groups.",
+      "fr": "Revenir aux tables en jouant aide les résultats à venir tout seuls, sans oublier que ce sont des groupes égaux.",
+      "ar": "العودة إلى جداول الضرب باللعب تساعد على أن تأتي النتائج وحدها، من غير أن ننسى أنها مجموعات متساوية."
+    },
+    "aviso": {
+      "es": "Las legumbres y los botones son pequeños: guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Els llegums i els botons són menuts: guardeu-los lluny de germans o germanes menuts.",
+      "en": "Beans and buttons are small: keep them away from younger brothers and sisters.",
+      "fr": "Les grains et les boutons sont petits : gardez-les loin des petits frères et sœurs.",
+      "ar": "البقول والأزرار صغيرة: أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En una bandeja hay 4 filas de 3 magdalenas. ¿Cuántas magdalenas hay?",
+        "va": "En una safata hi ha 4 files de 3 magdalenes. Quantes magdalenes hi ha?",
+        "en": "On a tray there are 4 rows of 3 muffins. How many muffins are there?",
+        "fr": "Sur un plateau, il y a 4 rangées de 3 madeleines. Combien y a-t-il de madeleines ?",
+        "ar": "في صينية 4 صفوف، في كل صف 3 كعكات. كم كعكة يوجد؟"
+      },
+      "pista": {
+        "es": "Suma 3 cuatro veces, una fila cada vez.",
+        "va": "Suma 3 quatre vegades, una fila cada vegada.",
+        "en": "Add 3 four times, one row at a time.",
+        "fr": "Additionne 3 quatre fois, une rangée à la fois.",
+        "ar": "لنجمع 3 أربع مرّات، صفًّا بعد صف."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 3 + 3 + 3",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 12 magdalenas: {{3 + 3 + 3 + 3 = 12}}.",
+          "va": "Hi ha 12 magdalenes: {{3 + 3 + 3 + 3 = 12}}.",
+          "en": "There are 12 muffins: {{3 + 3 + 3 + 3 = 12}}.",
+          "fr": "Il y a 12 madeleines : {{3 + 3 + 3 + 3 = 12}}.",
+          "ar": "يوجد 12 كعكة: {{3 + 3 + 3 + 3 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con filas iguales de cosas de la cocina.",
+        "va": "Inventa'n tu una altra amb files iguals de coses de la cuina.",
+        "en": "Make up another one with equal rows of things from the kitchen.",
+        "fr": "Invente-en une autre avec des rangées égales de choses de la cuisine.",
+        "ar": "لنخترع سؤالًا آخر بصفوف متساوية من أشياء المطبخ."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En casa de Nora hay 6 personas y cada una enseña las dos manos abiertas. ¿Cuántos dedos hay?",
+        "va": "A casa de Nora hi ha 6 persones i cadascuna ensenya les dues mans obertes. Quants dits hi ha?",
+        "en": "At Nora's home there are 6 people and each one shows both hands open. How many fingers are there?",
+        "fr": "Chez Nora, il y a 6 personnes et chacune montre ses deux mains ouvertes. Combien y a-t-il de doigts ?",
+        "ar": "في بيت نورا 6 أشخاص، وكل واحد يُظهر يديه مفتوحتين. كم إصبعًا يوجد؟"
+      },
+      "pista": {
+        "es": "Cada persona tiene 10 dedos: cuenta de 10 en 10.",
+        "va": "Cada persona té 10 dits: compta de 10 en 10.",
+        "en": "Each person has 10 fingers: count in tens.",
+        "fr": "Chaque personne a 10 doigts : compte de 10 en 10.",
+        "ar": "لكل شخص 10 أصابع: لنعدّ عشرة عشرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 10",
+        "resultado": 60,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 60 dedos: {{6 × 10 = 60}}.",
+          "va": "Hi ha 60 dits: {{6 × 10 = 60}}.",
+          "en": "There are 60 fingers: {{6 × 10 = 60}}.",
+          "fr": "Il y a 60 doigts : {{6 × 10 = 60}}.",
+          "ar": "يوجد 60 إصبعًا: {{6 × 10 = 60}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las manos o los pies de tu familia.",
+        "va": "Inventa'n tu una altra amb les mans o els peus de la teua família.",
+        "en": "Make up another one with the hands or feet of your family.",
+        "fr": "Invente-en une autre avec les mains ou les pieds de ta famille.",
+        "ar": "لنخترع سؤالًا آخر بأيدي العائلة أو أقدامها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un coche tiene 4 ruedas. ¿Cuántas ruedas tienen 6 coches?",
+        "va": "Un cotxe té 4 rodes. Quantes rodes tenen 6 cotxes?",
+        "en": "A car has 4 wheels. How many wheels do 6 cars have?",
+        "fr": "Une voiture a 4 roues. Combien de roues ont 6 voitures ?",
+        "ar": "للسيارة 4 عجلات. كم عجلة لست سيارات؟"
+      },
+      "pista": {
+        "es": "Piensa en {{6 × 2 = 12}} y haz el doble.",
+        "va": "Pensa en {{6 × 2 = 12}} i fes el doble.",
+        "en": "Think of {{6 × 2 = 12}} and double it.",
+        "fr": "Pense à {{6 × 2 = 12}} et fais le double.",
+        "ar": "لنفكّر في {{6 × 2 = 12}} ونأخذ الضعف."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 4",
+        "resultado": 24,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 24 ruedas: {{6 × 4 = 24}}.",
+          "va": "Tenen 24 rodes: {{6 × 4 = 24}}.",
+          "en": "They have 24 wheels: {{6 × 4 = 24}}.",
+          "fr": "Elles ont 24 roues : {{6 × 4 = 24}}.",
+          "ar": "لها 24 عجلة: {{6 × 4 = 24}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con coches de juguete o con sillas.",
+        "va": "Inventa'n tu una altra amb cotxes de joguet o amb cadires.",
+        "en": "Make up another one with toy cars or with chairs.",
+        "fr": "Invente-en une autre avec des petites voitures ou avec des chaises.",
+        "ar": "لنخترع سؤالًا آخر بسيارات لعب أو بكراسٍ."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 19,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar: Ion guarda 7 parejas de zapatillas. ¿Cuántas zapatillas hay?",
+        "va": "Per a recordar: Ion guarda 7 parells de sabatilles. Quantes sabatilles hi ha?",
+        "en": "Let's remember: Ion puts away 7 pairs of trainers. How many trainers are there?",
+        "fr": "Pour se souvenir : Ion range 7 paires de baskets. Combien y a-t-il de baskets ?",
+        "ar": "لنتذكّر: يرتّب إيون 7 أزواج من الأحذية الرياضية. كم حذاءً يوجد؟"
+      },
+      "pista": {
+        "es": "Cuenta de 2 en 2, una pareja cada vez.",
+        "va": "Compta de 2 en 2, un parell cada vegada.",
+        "en": "Count in twos, one pair at a time.",
+        "fr": "Compte de 2 en 2, une paire à la fois.",
+        "ar": "لنعدّ اثنين اثنين، زوجًا بعد زوج."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 2",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 14 zapatillas: {{7 × 2 = 14}}.",
+          "va": "Hi ha 14 sabatilles: {{7 × 2 = 14}}.",
+          "en": "There are 14 trainers: {{7 × 2 = 14}}.",
+          "fr": "Il y a 14 baskets : {{7 × 2 = 14}}.",
+          "ar": "يوجد 14 حذاءً: {{7 × 2 = 14}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con parejas de cosas de tu armario.",
+        "va": "Inventa'n tu una altra amb parells de coses del teu armari.",
+        "en": "Make up another one with pairs of things from your wardrobe.",
+        "fr": "Invente-en une autre avec des paires de choses de ton placard.",
+        "ar": "لنخترع سؤالًا آخر بأزواج من أشياء الخزانة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De las tablas del 2, del 4, del 5 y del 10, ¿cuál te sale mejor? Enséñame cómo la piensas.",
+        "va": "De les taules del 2, del 4, del 5 i del 10, quina t'ix millor? Ensenya'm com la penses.",
+        "en": "Of the 2, 4, 5 and 10 times tables, which one comes easiest to you? Show me how you think about it.",
+        "fr": "Parmi les tables de 2, de 4, de 5 et de 10, laquelle te vient le mieux ? Montre-moi comment tu la penses.",
+        "ar": "من جداول ضرب 2 و4 و5 و10، أيّها يأتي أسهل علينا؟ لنُرِ كيف نفكّر فيه."
+      },
+      "pista": {
+        "es": "Podéis ayudar a recordar: «¿Te acuerdas de los calcetines? ¿Y de las patas de las sillas?»",
+        "va": "Podeu ajudar a recordar: «Te'n recordes dels calcetins? I de les potes de les cadires?»",
+        "en": "You can help them remember: “Do you remember the socks? And the chair legs?”",
+        "fr": "Vous pouvez aider à se souvenir : « Tu te rappelles les chaussettes ? Et les pieds des chaises ? »",
+        "ar": "يمكنكم المساعدة على التذكّر: «هل نتذكّر الجوارب؟ وأرجل الكراسي؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier respuesta vale. La tabla que cueste es una pista para jugar un poco más con ella en casa, sin prisa.",
+          "va": "Qualsevol resposta val. La taula que coste és una pista per a jugar una mica més amb ella a casa, sense pressa.",
+          "en": "Any answer works. The table that feels harder is a clue to play a bit more with it at home, without hurry.",
+          "fr": "Toutes les réponses conviennent. La table qui coûte plus est un indice pour jouer un peu plus avec elle à la maison, sans se presser.",
+          "ar": "كل إجابة تصلح. الجدول الأصعب تلميح لنلعب به قليلًا أكثر في البيت، من غير عجلة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "c36485ae0b9b"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "c36485ae0b9b"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "c36485ae0b9b"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "c36485ae0b9b"
+      }
+    }
+  }
+}

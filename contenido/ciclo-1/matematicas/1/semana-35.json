@@ -1,0 +1,329 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s35",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 35,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Rectas y curvas",
+    "va": "Rectes i corbes",
+    "en": "Straight and curved",
+    "fr": "Droites et courbes",
+    "ar": "مستقيمة ومنحنية"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren líneas rectas y curvas en casa y en la calle, y las hacen con una cuerda en el suelo.",
+    "va": "Aquesta setmana descobrixen línies rectes (línea recta) i corbes (línea curva) a casa i al carrer, i les fan amb una corda a terra.",
+    "en": "This week they discover straight lines (línea recta) and curved lines (línea curva) at home and in the street, and make them with a piece of string on the floor.",
+    "fr": "Cette semaine, on découvre des lignes droites (línea recta) et des lignes courbes (línea curva) à la maison et dans la rue, et on les fait avec une corde par terre.",
+    "ar": "هذا الأسبوع يكتشف الأطفال الخطوط المستقيمة (línea recta) والخطوط المنحنية (línea curva) في البيت وفي الشارع، ويصنعونها بحبل على الأرض."
+  },
+  "comoAyudar": {
+    "es": "Cuando paseéis, jugad a «veo, veo una línea curva». Dejad que la señale y lo diga con sus palabras.",
+    "va": "Quan passegeu, jugueu a «veig, veig una línia corba». Deixeu que l'assenyale i ho diga amb les seues paraules.",
+    "en": "When you go for a walk, play “I spy a curved line”. Let them point to it and say it in their own words.",
+    "fr": "En promenade, jouez à « je vois, je vois une ligne courbe ». Laissez votre enfant la montrer du doigt et le dire avec ses mots.",
+    "ar": "عندما تتنزّهون، العبوا «أرى، أرى خطًا منحنيًا». دعوا الإشارة إليه ووصفه يكونان بكلمات الطفل أو الطفلة."
+  },
+  "saberes": [
+    "matematicas.geometria.lineas",
+    "matematicas.geometria.usos"
+  ],
+  "criterios": [
+    "matematicas.c1.7.1",
+    "matematicas.c1.5.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Caminos de cuerda",
+      "va": "Camins de corda",
+      "en": "String roads",
+      "fr": "Chemins de corde",
+      "ar": "طرق من حبل"
+    },
+    "material": [
+      {
+        "es": "Una cuerda, un cordón largo o un trozo de lana",
+        "va": "Una corda, un cordó llarg o un tros de llana",
+        "en": "A piece of string, a long cord or a length of wool",
+        "fr": "Une corde, un long cordon ou un bout de laine",
+        "ar": "حبل أو رباط طويل أو قطعة من الصوف"
+      },
+      {
+        "es": "Un coche de juguete",
+        "va": "Un cotxe de joguet",
+        "en": "A toy car",
+        "fr": "Une petite voiture",
+        "ar": "سيارة لعبة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cuerda",
+        "texto": {
+          "es": "Poned la cuerda en el suelo bien estirada: es un camino recto.",
+          "va": "Poseu la corda a terra ben estirada: és un camí recte.",
+          "en": "Lay the string on the floor, pulled tight: it's a straight road.",
+          "fr": "Posez la corde par terre, bien tendue : c'est un chemin droit.",
+          "ar": "ضعوا الحبل على الأرض مشدودًا جيدًا: هذا طريق مستقيم."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Recorred el camino con el coche, por encima de la cuerda. Luego, moved la cuerda para hacer un camino con curvas, como una serpiente.",
+          "va": "Recorreu el camí amb el cotxe, per damunt de la corda. Després, moveu la corda per a fer un camí amb corbes, com una serp.",
+          "en": "Drive the car along the road, on top of the string. Then move the string to make a road with bends, like a snake.",
+          "fr": "Faites rouler la voiture sur le chemin, par-dessus la corde. Ensuite, bougez la corde pour faire un chemin avec des virages, comme un serpent.",
+          "ar": "سيروا بالسيارة على الطريق، فوق الحبل. ثم حرّكوا الحبل لتصنعوا طريقًا فيه منعطفات، مثل الأفعى."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Recorred también el camino de curvas. ¿Cuál es más fácil de seguir? ¿Por qué?",
+          "va": "Recorreu també el camí de corbes. Quin és més fàcil de seguir? Per què?",
+          "en": "Drive along the bendy road too. Which one is easier to follow? Why?",
+          "fr": "Parcourez aussi le chemin avec des virages. Lequel est le plus facile à suivre ? Pourquoi ?",
+          "ar": "سيروا أيضًا على الطريق المنحني. أيّ الطريقين أسهل؟ ولماذا؟"
+        }
+      },
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Buscad por casa una línea recta y una curva: el borde de la mesa, un plato, el asa de una taza…",
+          "va": "Busqueu per casa una línia recta i una de corba: la vora de la taula, un plat, l'ansa d'una tassa…",
+          "en": "Look around the house for a straight line and a curved one: the edge of the table, a plate, the handle of a mug…",
+          "fr": "Cherchez dans la maison une ligne droite et une ligne courbe : le bord de la table, une assiette, l'anse d'une tasse…",
+          "ar": "ابحثوا في البيت عن خط مستقيم وخط منحنٍ: حافة الطاولة، صحن، مقبض فنجان…"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced solo dos caminos, uno recto y uno curvo, y recorredlos con el dedo.",
+      "va": "Feu només dos camins, un de recte i un de corb, i recorreu-los amb el dit.",
+      "en": "Make just two roads, one straight and one curved, and follow them with your finger.",
+      "fr": "Faites seulement deux chemins, un droit et un courbe, et suivez-les avec le doigt.",
+      "ar": "اصنعوا طريقين فقط، واحدًا مستقيمًا وآخر منحنيًا، وتتبّعوهما بالإصبع."
+    },
+    "masDificil": {
+      "es": "Haced un camino con trozos rectos y trozos curvos. La otra persona dice dónde cambia de recto a curvo.",
+      "va": "Feu un camí amb trossos rectes i trossos corbs. L'altra persona diu on canvia de recte a corb.",
+      "en": "Make a road with straight bits and curved bits. The other person says where it changes from straight to curved.",
+      "fr": "Faites un chemin avec des morceaux droits et des morceaux courbes. L'autre personne dit où il passe de droit à courbe.",
+      "ar": "اصنعوا طريقًا فيه أجزاء مستقيمة وأجزاء منحنية. ويقول الشخص الآخر أين يتغيّر من مستقيم إلى منحنٍ."
+    },
+    "paraQueSirve": {
+      "es": "Distinguir líneas rectas y curvas ayuda a mirar las formas de alrededor y a describirlas con palabras.",
+      "va": "Distingir línies rectes i corbes ajuda a mirar les formes del voltant i a descriure-les amb paraules.",
+      "en": "Telling straight and curved lines apart helps them look at the shapes around them and describe them in words.",
+      "fr": "Distinguer les lignes droites et courbes aide à regarder les formes autour de soi et à les décrire avec des mots.",
+      "ar": "التمييز بين الخطوط المستقيمة والمنحنية يساعد على ملاحظة الأشكال من حولنا ووصفها بالكلمات."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Mira un plato y el borde de la mesa. ¿Cuál tiene una línea recta y cuál una curva?",
+        "va": "Mira un plat i la vora de la taula. Quin té una línia recta i quin una de corba?",
+        "en": "Look at a plate and the edge of the table. Which has a straight line and which has a curved one?",
+        "fr": "Regarde une assiette et le bord de la table. Lequel a une ligne droite et lequel une ligne courbe ?",
+        "ar": "لننظر إلى صحن وإلى حافة الطاولة. أيّهما فيه خط مستقيم وأيّهما فيه خط منحنٍ؟"
+      },
+      "pista": {
+        "es": "Pasa el dedo por el borde de cada uno y siente si gira o va derecho.",
+        "va": "Passa el dit per la vora de cada un i sent si gira o va dret.",
+        "en": "Run your finger along the edge of each one and feel whether it turns or goes straight.",
+        "fr": "Passe le doigt sur le bord de chacun et sens s'il tourne ou s'il va tout droit.",
+        "ar": "لنمرّر الإصبع على حافة كل منهما ونشعر هل تنعطف أم تمضي مستقيمة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El borde de la mesa suele ser recto y el del plato, curvo. Si vuestra mesa es redonda, ¡mejor aún: buscad juntos otra cosa recta!",
+          "va": "La vora de la taula sol ser recta i la del plat, corba. Si la vostra taula és redona, encara millor: busqueu junts una altra cosa recta!",
+          "en": "The edge of the table is usually straight and the plate's is curved. If your table is round, even better: look for something else straight together!",
+          "fr": "Le bord de la table est souvent droit et celui de l'assiette, courbe. Si votre table est ronde, c'est encore mieux : cherchez ensemble autre chose de droit !",
+          "ar": "حافة الطاولة مستقيمة في العادة، وحافة الصحن منحنية. وإذا كانت طاولتكم مستديرة، فهذا أفضل: ابحثوا معًا عن شيء آخر مستقيم!"
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con dos cosas de tu habitación.",
+        "va": "Ara inventa'n tu una amb dues coses de la teua habitació.",
+        "en": "Now you make one up with two things from your room.",
+        "fr": "Maintenant, invente une question avec deux choses de ta chambre.",
+        "ar": "والآن لنخترع سؤالًا عن شيئين من الغرفة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Busca en la cocina tres cosas con líneas curvas. ¿Cuáles has encontrado?",
+        "va": "Busca a la cuina tres coses amb línies corbes. Quines has trobat?",
+        "en": "Find three things in the kitchen with curved lines. Which ones did you find?",
+        "fr": "Cherche dans la cuisine trois choses avec des lignes courbes. Lesquelles as-tu trouvées ?",
+        "ar": "لنبحث في المطبخ عن ثلاثة أشياء فيها خطوط منحنية. ماذا وجدنا؟"
+      },
+      "pista": {
+        "es": "Mira los vasos, las tazas y las frutas.",
+        "va": "Mira els gots, les tasses i les fruites.",
+        "en": "Look at the cups, the mugs and the fruit.",
+        "fr": "Regarde les verres, les tasses et les fruits.",
+        "ar": "لننظر إلى الأكواب والفناجين والفواكه."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Valen muchas: el borde de un vaso, una naranja, el asa de una taza… Pedid que pase el dedo por la curva al enseñarla.",
+          "va": "En valen moltes: la vora d'un got, una taronja, l'ansa d'una tassa… Demaneu que passe el dit per la corba quan l'ensenye.",
+          "en": "Lots of things work: the rim of a cup, an orange, the handle of a mug… Ask them to run a finger along the curve as they show it.",
+          "fr": "Beaucoup de réponses sont bonnes : le bord d'un verre, une orange, l'anse d'une tasse… Demandez à votre enfant de passer le doigt sur la courbe en la montrant.",
+          "ar": "أشياء كثيرة تصلح: حافة كوب، برتقالة، مقبض فنجان… اطلبوا تمرير الإصبع على المنحنى عند الإشارة إليه."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra buscando líneas rectas en el baño.",
+        "va": "Inventa'n tu una altra buscant línies rectes al bany.",
+        "en": "Make up another one by looking for straight lines in the bathroom.",
+        "fr": "Invente-en une autre en cherchant des lignes droites dans la salle de bains.",
+        "ar": "لنخترع سؤالًا آخر نبحث فيه عن خطوط مستقيمة في الحمّام."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Fátima hace un camino recto con 7 palillos y lo alarga con 6 más. ¿Cuántos palillos tiene el camino?",
+        "va": "Fátima fa un camí recte amb 7 palets i l'allarga amb 6 més. Quants palets té el camí?",
+        "en": "Fátima makes a straight road with 7 sticks and makes it longer with 6 more. How many sticks does the road have?",
+        "fr": "Fátima fait un chemin droit avec 7 bâtonnets et l'allonge avec 6 de plus. Combien de bâtonnets a le chemin ?",
+        "ar": "تصنع فاطمة طريقًا مستقيمًا بسبعة عيدان، ثم تطيله بستة أخرى. كم عودًا في الطريق؟"
+      },
+      "pista": {
+        "es": "Completa primero el 10 con 3 de los 6 palillos.",
+        "va": "Completa primer el 10 amb 3 dels 6 palets.",
+        "en": "First make 10 using 3 of the 6 sticks.",
+        "fr": "Complète d'abord le 10 avec 3 des 6 bâtonnets.",
+        "ar": "لنكمل العشرة أولًا بثلاثة من العيدان الستة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 6",
+        "resultado": 13,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El camino tiene 13 palillos: {{7 + 3 = 10}} y {{10 + 3 = 13}}.",
+          "va": "El camí té 13 palets: {{7 + 3 = 10}} i {{10 + 3 = 13}}.",
+          "en": "The road has 13 sticks: {{7 + 3 = 10}} and {{10 + 3 = 13}}.",
+          "fr": "Le chemin a 13 bâtonnets : {{7 + 3 = 10}} et {{10 + 3 = 13}}.",
+          "ar": "في الطريق 13 عودًا: {{7 + 3 = 10}} و{{10 + 3 = 13}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una haciendo un camino con lápices o cucharas.",
+        "va": "Inventa'n tu una fent un camí amb llapis o culleres.",
+        "en": "Make one up by building a road with pencils or spoons.",
+        "fr": "Invente une question en faisant un chemin avec des crayons ou des cuillères.",
+        "ar": "لنخترع سؤالًا نصنع فيه طريقًا بالأقلام أو الملاعق."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Para recordar: ¿qué forma tiene una puerta? ¿Cuántos lados tiene?",
+        "va": "Per a recordar: quina forma té una porta? Quants costats té?",
+        "en": "Let's remember: what shape is a door? How many sides does it have?",
+        "fr": "Pour se souvenir : quelle forme a une porte ? Combien de côtés a-t-elle ?",
+        "ar": "لنتذكّر: ما شكل الباب؟ وكم ضلعًا له؟"
+      },
+      "pista": {
+        "es": "Recorre el borde de la puerta con el dedo y cuenta los lados.",
+        "va": "Recorre la vora de la porta amb el dit i compta els costats (lados).",
+        "en": "Trace the edge of the door with your finger and count the sides (lados).",
+        "fr": "Suis le bord de la porte avec le doigt et compte les côtés (lados).",
+        "ar": "لنتتبّع حافة الباب بالإصبع ونعدّ الأضلاع (lados)."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Casi todas las puertas son un rectángulo: 4 lados rectos y 4 esquinas. Si la vuestra tiene una curva arriba, ¡también vale contarlo!",
+          "va": "Quasi totes les portes són un rectangle (rectángulo): 4 costats rectes i 4 cantons. Si la vostra té una corba dalt, també val contar-ho!",
+          "en": "Almost all doors are a rectangle (rectángulo): 4 straight sides and 4 corners. If yours has a curve at the top, that's worth talking about too!",
+          "fr": "Presque toutes les portes sont un rectangle (rectángulo) : 4 côtés droits et 4 coins. Si la vôtre a une courbe en haut, ça vaut aussi la peine d'en parler !",
+          "ar": "معظم الأبواب مستطيلة (rectángulo): 4 أضلاع مستقيمة و4 زوايا. وإذا كان في أعلى بابكم منحنى، فمن الجميل الحديث عنه أيضًا!"
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la forma de una ventana o de un cuadro.",
+        "va": "Inventa'n tu una altra amb la forma d'una finestra o d'un quadre.",
+        "en": "Make up another one about the shape of a window or a picture.",
+        "fr": "Invente-en une autre avec la forme d'une fenêtre ou d'un tableau.",
+        "ar": "لنخترع سؤالًا آخر عن شكل نافذة أو لوحة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Enséñame una línea curva de tu ropa o de tus juguetes. Explícame cómo sabes que es curva.",
+        "va": "Ensenya'm una línia corba de la teua roba o dels teus joguets. Explica'm com saps que és corba.",
+        "en": "Show me a curved line on your clothes or your toys. Explain to me how you know it's curved.",
+        "fr": "Montre-moi une ligne courbe sur tes vêtements ou tes jouets. Explique-moi comment tu sais qu'elle est courbe.",
+        "ar": "لنُرِ خطًا منحنيًا في ملابسنا أو ألعابنا. ولنشرح كيف نعرف أنه منحنٍ."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Y si pasas el dedo por encima? ¿Va derecho o gira?»",
+        "va": "Si no sap per on començar: «I si hi passes el dit per damunt? Va dret o gira?»",
+        "en": "If they don't know where to start: “What if you run your finger over it? Does it go straight or does it turn?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Et si tu passais le doigt dessus ? Ça va tout droit ou ça tourne ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا لو مرّرنا الإصبع عليه؟ هل يمضي مستقيمًا أم ينعطف؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que «gira», que «es redonda» o que «no va derecha»: todo vale. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "Pot dir que «gira», que «és redona» o que «no va dreta»: tot val. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "They may say it “turns”, it's “round” or it “doesn't go straight”: all of that works. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Votre enfant peut dire que « ça tourne », que « c'est rond » ou que « ça ne va pas tout droit » : tout est bon. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "قد يُقال إنه «ينعطف» أو «مستدير» أو «لا يمضي مستقيمًا»: كل ذلك صحيح. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "303e846d90bf"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "303e846d90bf"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "303e846d90bf"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "303e846d90bf"
+      }
+    }
+  }
+}

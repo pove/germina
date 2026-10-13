@@ -1,0 +1,328 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s32",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 32,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuántos más?",
+    "va": "Quants més?",
+    "en": "How many more?",
+    "fr": "Combien de plus ?",
+    "ar": "كم أكثر؟"
+  },
+  "objetivo": {
+    "es": "Esta semana comparan dos cantidades y dicen cuántos más tiene una que otra, o cuántos menos. Lo ven primero con torres y filas, y luego con la resta.",
+    "va": "Aquesta setmana comparen (comparar) dues quantitats i diuen quants més en té una que l'altra, o quants menys. Ho veuen primer amb torres i files, i després amb la resta.",
+    "en": "This week they compare (comparar) two amounts and say how many more one has than the other, or how many fewer. They see it first with towers and rows, then with subtraction.",
+    "fr": "Cette semaine, on compare (comparar) deux quantités et on dit combien l'une a de plus que l'autre, ou de moins. On le voit d'abord avec des tours et des rangées, puis avec la soustraction.",
+    "ar": "هذا الأسبوع يقارن (comparar) الأطفال بين كمّيتين ويقولون كم في إحداهما أكثر من الأخرى، أو أقل. يرون ذلك أولًا بالأبراج والصفوف، ثم بالطرح."
+  },
+  "comoAyudar": {
+    "es": "Pedid que lo diga con una frase entera: «Tengo 3 más que tú» o «Tú tienes 3 menos». Las dos frases dicen lo mismo.",
+    "va": "Demaneu que ho diga amb una frase sencera: «En tinc 3 més que tu» o «Tu en tens 3 menys». Les dues frases diuen el mateix.",
+    "en": "Ask them to say it in a whole sentence: “I have 3 more than you” or “You have 3 fewer”. Both sentences say the same thing.",
+    "fr": "Demandez une phrase entière : « J'en ai 3 de plus que toi » ou « Tu en as 3 de moins ». Les deux phrases disent la même chose.",
+    "ar": "اطلبوا قول ذلك بجملة كاملة: «عندي 3 أكثر منك» أو «عندك 3 أقل». الجملتان تقولان الشيء نفسه."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c1.1.1",
+    "matematicas.c1.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Dos torres",
+      "va": "Dues torres",
+      "en": "Two towers",
+      "fr": "Deux tours",
+      "ar": "برجان"
+    },
+    "material": [
+      {
+        "es": "Piezas de construcción, tapones de botella o vasos de plástico",
+        "va": "Peces de construcció, taps de botella o gots de plàstic",
+        "en": "Building blocks, bottle tops or plastic cups",
+        "fr": "Des pièces de construction, des bouchons de bouteille ou des gobelets en plastique",
+        "ar": "قطع بناء أو أغطية قوارير أو أكواب بلاستيكية"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Cada persona coge un puñado de piezas y hace una torre, sin contarlas.",
+          "va": "Cada persona agafa un grapat de peces i fa una torre, sense comptar-les.",
+          "en": "Each person takes a handful of blocks and builds a tower, without counting them.",
+          "fr": "Chaque personne prend une poignée de pièces et fait une tour, sans les compter.",
+          "ar": "يأخذ كل شخص حفنة من القطع ويبني برجًا، من دون عدّها."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Poned las torres una al lado de la otra. ¿Cuál es más alta?",
+          "va": "Poseu les torres l'una al costat de l'altra. Quina és més alta?",
+          "en": "Put the towers side by side. Which one is taller?",
+          "fr": "Mettez les tours l'une à côté de l'autre. Laquelle est la plus haute ?",
+          "ar": "ضعوا البرجين جنبًا إلى جنب. أيّهما أطول؟"
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Contad las piezas de cada torre. Mirad las que sobresalen de la alta: ¿cuántas piezas más tiene?",
+          "va": "Compteu les peces de cada torre. Mireu les que sobreïxen de l'alta: quantes peces més té?",
+          "en": "Count the blocks in each tower. Look at the ones sticking up above the short tower: how many more blocks does the tall one have?",
+          "fr": "Comptez les pièces de chaque tour. Regardez celles qui dépassent sur la grande : combien de pièces a-t-elle en plus ?",
+          "ar": "عدّوا قطع كل برج. انظروا إلى القطع الزائدة في البرج الطويل: كم قطعة فيه أكثر؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decidlo con una frase: «La mía tiene 4 más que la tuya». Deshaced las torres y jugad otra vez.",
+          "va": "Digueu-ho amb una frase: «La meua en té 4 més que la teua». Desfeu les torres i jugueu una altra vegada.",
+          "en": "Say it in a sentence: “Mine has 4 more than yours”. Take the towers down and play again.",
+          "fr": "Dites-le avec une phrase : « La mienne en a 4 de plus que la tienne ». Défaites les tours et rejouez.",
+          "ar": "قولوا ذلك بجملة: «في برجي 4 قطع أكثر من برجك». فكّكوا البرجين والعبوا من جديد."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced torres de 10 piezas como mucho y contad juntos, tocando cada pieza.",
+      "va": "Feu torres de 10 peces com a molt i compteu junts, tocant cada peça.",
+      "en": "Make towers of 10 blocks at most and count together, touching each block.",
+      "fr": "Faites des tours de 10 pièces au plus et comptez ensemble, en touchant chaque pièce.",
+      "ar": "ابنوا أبراجًا من 10 قطع على الأكثر، وعدّوا معًا وأنتم تلمسون كل قطعة."
+    },
+    "masDificil": {
+      "es": "Antes de contar, intentad adivinar cuántas piezas más tiene la alta y luego comprobadlo.",
+      "va": "Abans de comptar, intenteu endevinar quantes peces més té l'alta i després comproveu-ho.",
+      "en": "Before counting, try to guess how many more blocks the tall one has, then check.",
+      "fr": "Avant de compter, essayez de deviner combien de pièces de plus a la grande, puis vérifiez.",
+      "ar": "قبل العدّ، حاولوا تخمين كم قطعة في البرج الطويل أكثر، ثم تحقّقوا."
+    },
+    "paraQueSirve": {
+      "es": "Comparar es otra forma de restar: «cuántos más» y «cuántos menos» son la misma pregunta, mirada desde cada torre.",
+      "va": "Comparar és una altra manera de restar: «quants més» i «quants menys» són la mateixa pregunta, mirada des de cada torre.",
+      "en": "Comparing is another way of subtracting: “how many more” and “how many fewer” are the same question, seen from each tower.",
+      "fr": "Comparer, c'est une autre façon de soustraire : « combien de plus » et « combien de moins » sont la même question, vue de chaque tour.",
+      "ar": "المقارنة طريقة أخرى للطرح: «كم أكثر» و«كم أقل» سؤال واحد، ننظر إليه من كل برج."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Amaia tiene 15 cromos y Darío tiene 9. ¿Cuántos cromos más tiene Amaia?",
+        "va": "Amaia té 15 cromos i Darío en té 9. Quants cromos més té Amaia?",
+        "en": "Amaia has 15 collector cards and Darío has 9. How many more cards does Amaia have?",
+        "fr": "Amaia a 15 images à collectionner et Darío en a 9. Combien d'images de plus a Amaia ?",
+        "ar": "عند أمايا 15 بطاقة صور وعند داريو 9. كم بطاقة عند أمايا أكثر؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 9 hasta el 15.",
+        "va": "Compta amb els dits des del 9 fins al 15.",
+        "en": "Count on your fingers from 9 up to 15.",
+        "fr": "Compte sur tes doigts de 9 jusqu'à 15.",
+        "ar": "لنعدّ بالأصابع من 9 حتى 15."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 - 9",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Amaia tiene 6 cromos más que Darío.",
+          "va": "Amaia té 6 cromos més que Darío.",
+          "en": "Amaia has 6 more cards than Darío.",
+          "fr": "Amaia a 6 images de plus que Darío.",
+          "ar": "عند أمايا 6 بطاقات أكثر من داريو."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con los juguetes de dos personas de casa.",
+        "va": "Ara inventa'n tu una amb els joguets de dues persones de casa.",
+        "en": "Now you make one up with the toys of two people at home.",
+        "fr": "Maintenant, invente une question avec les jouets de deux personnes de la maison.",
+        "ar": "والآن لنخترع سؤالًا عن ألعاب شخصين في البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En casa de Youssef hay 12 cuentos y 8 revistas. ¿Hay más cuentos o más revistas? ¿Cuántos más?",
+        "va": "A casa de Youssef hi ha 12 contes i 8 revistes. Hi ha més contes o més revistes? Quants més?",
+        "en": "At Youssef's house there are 12 storybooks and 8 magazines. Are there more books or more magazines? How many more?",
+        "fr": "Chez Youssef, il y a 12 livres d'histoires et 8 magazines. Y a-t-il plus de livres ou de magazines ? Combien de plus ?",
+        "ar": "في بيت يوسف 12 كتاب قصص و8 مجلات. أيّها أكثر، الكتب أم المجلات؟ وكم أكثر؟"
+      },
+      "pista": {
+        "es": "Haz dos filas con cosas, una frente a otra, y mira cuántas se quedan sin pareja.",
+        "va": "Fes dues files amb coses, una davant de l'altra, i mira quantes es queden sense parella.",
+        "en": "Make two rows of things facing each other and see how many are left without a partner.",
+        "fr": "Fais deux rangées d'objets, l'une en face de l'autre, et regarde combien restent sans partenaire.",
+        "ar": "لنصنع صفّين من الأشياء متقابلين، ونرى كم شيئًا بقي بلا شريك."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 8",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 4 cuentos más que revistas.",
+          "va": "Hi ha 4 contes més que revistes.",
+          "en": "There are 4 more books than magazines.",
+          "fr": "Il y a 4 livres de plus que de magazines.",
+          "ar": "الكتب أكثر من المجلات بـ 4."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos clases de cosas de tu estantería.",
+        "va": "Inventa'n tu una altra amb dues classes de coses de la teua prestatgeria.",
+        "en": "Make up another one with two kinds of things from your shelf.",
+        "fr": "Invente-en une autre avec deux sortes de choses de ton étagère.",
+        "ar": "لنخترع سؤالًا آخر بنوعين من الأشياء على الرفّ."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Valentina salta 20 veces a la comba y su madre, 17. ¿Cuántos saltos menos da su madre?",
+        "va": "Valentina bota 20 vegades a la corda i sa mare, 17. Quants bots menys fa sa mare?",
+        "en": "Valentina skips 20 times with the rope and her mum 17. How many fewer skips does her mum do?",
+        "fr": "Valentina saute 20 fois à la corde et sa mère, 17. Combien de sauts de moins fait sa mère ?",
+        "ar": "تقفز فالنتينا بالحبل 20 مرة وتقفز أمّها 17 مرة. كم قفزة أقل تقفز أمّها؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia arriba desde el 17 hasta el 20.",
+        "va": "Compta cap amunt des del 17 fins al 20.",
+        "en": "Count up from 17 to 20.",
+        "fr": "Compte en montant de 17 jusqu'à 20.",
+        "ar": "لنعدّ صعودًا من 17 حتى 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 17",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Su madre da 3 saltos menos.",
+          "va": "Sa mare fa 3 bots menys.",
+          "en": "Her mum does 3 fewer skips.",
+          "fr": "Sa mère fait 3 sauts de moins.",
+          "ar": "تقفز أمّها 3 قفزات أقل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con saltos o palmadas que deis en casa.",
+        "va": "Inventa'n tu una amb bots o palmades que feu a casa.",
+        "en": "Make one up with jumps or claps you do at home.",
+        "fr": "Invente une question avec des sauts ou des applaudissements que vous faites à la maison.",
+        "ar": "لنخترع سؤالًا عن قفزات أو تصفيقات نقوم بها في البيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 11,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: ¿qué número es mayor, el 46 o el 64? ¿Cómo lo sabes?",
+        "va": "Per a recordar: quin nombre és major, el 46 o el 64? Com ho saps?",
+        "en": "Let's remember: which number is greater, 46 or 64? How do you know?",
+        "fr": "Pour se souvenir : quel nombre est le plus grand, 46 ou 64 ? Comment le sais-tu ?",
+        "ar": "لنتذكّر: أيّ العددين أكبر، 46 أم 64؟ وكيف نعرف ذلك؟"
+      },
+      "pista": {
+        "es": "Mira primero cuántas decenas tiene cada número.",
+        "va": "Mira primer quantes desenes (decenas) té cada nombre.",
+        "en": "First look at how many tens (decenas) each number has.",
+        "fr": "Regarde d'abord combien de dizaines (decenas) a chaque nombre.",
+        "ar": "لننظر أولًا كم عشرة (decenas) في كل عدد."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El 64 es mayor: tiene 6 decenas y el 46 solo tiene 4. Si se lía con las cifras, contad juntos de 10 en 10 hasta cada número.",
+          "va": "El 64 és major: té 6 desenes i el 46 només en té 4. Si s'embolica amb les xifres, compteu junts de 10 en 10 fins a cada nombre.",
+          "en": "64 is greater: it has 6 tens and 46 has only 4. If they mix up the digits, count together in tens up to each number.",
+          "fr": "64 est plus grand : il a 6 dizaines et 46 n'en a que 4. Si votre enfant mélange les chiffres, comptez ensemble de 10 en 10 jusqu'à chaque nombre.",
+          "ar": "64 أكبر: فيه 6 عشرات، وفي 46 أربع عشرات فقط. وإذا حصل خلط بين الأرقام، عدّوا معًا عشرة عشرة حتى كل عدد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos números que tengan las mismas cifras.",
+        "va": "Inventa'n tu una altra amb dos nombres que tinguen les mateixes xifres.",
+        "en": "Make up another one with two numbers that have the same digits.",
+        "fr": "Invente-en une autre avec deux nombres qui ont les mêmes chiffres.",
+        "ar": "لنخترع سؤالًا آخر بعددين لهما الأرقام نفسها."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Pon dos grupos de cosas en la mesa. Explícame cómo sabes cuántas más hay en uno que en otro.",
+        "va": "Posa dos grups de coses a la taula. Explica'm com saps quantes més n'hi ha en un que en l'altre.",
+        "en": "Put two groups of things on the table. Explain to me how you know how many more there are in one than in the other.",
+        "fr": "Pose deux groupes d'objets sur la table. Explique-moi comment tu sais combien il y en a de plus dans l'un que dans l'autre.",
+        "ar": "لنضع مجموعتين من الأشياء على الطاولة. لنشرح كيف نعرف كم في إحداهما أكثر من الأخرى."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Y si los pones en dos filas?»",
+        "va": "Si no sap per on començar: «I si els poses en dues files?»",
+        "en": "If they don't know where to start: “What if you put them in two rows?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Et si tu les mettais en deux rangées ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا لو وضعناها في صفّين؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede hacer parejas, contar las dos filas o contar hacia arriba. Todo vale: preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "Pot fer parelles, comptar les dues files o comptar cap amunt. Tot val: pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "They may make pairs, count both rows or count up. Any way works: ask “And then?” and say thank you for the explanation.",
+          "fr": "Votre enfant peut faire des paires, compter les deux rangées ou compter en montant. Tout est bon : demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "يمكن تكوين أزواج، أو عدّ الصفّين، أو العدّ صعودًا. كل الطرق صحيحة: اسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "da0175ff6f3c"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "da0175ff6f3c"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "da0175ff6f3c"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "da0175ff6f3c"
+      }
+    }
+  }
+}

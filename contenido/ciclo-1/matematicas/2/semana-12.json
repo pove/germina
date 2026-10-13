@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s12",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 12,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: restas, horas y dobles",
+    "va": "Setmana de recordar: restes, hores i dobles",
+    "en": "Remembering week: subtraction, time and doubles",
+    "fr": "Semaine de rappel : soustractions, heures et doubles",
+    "ar": "أسبوع التذكّر: الطرح والساعات والأضعاف"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las últimas semanas: restar abriendo una decena, contar hacia atrás, la hora en el reloj de agujas y los dobles. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a allò de les últimes setmanes: restar obrint una desena (decena), comptar cap arrere, l'hora en el rellotge (reloj) d'agulles i els dobles (dobles). No hi ha res de nou: és perquè s'assente.",
+    "en": "This week they go back to the last few weeks: subtracting by opening a ten (decena), counting backwards, telling the time on a clock (reloj) with hands, and doubles (dobles). There's nothing new: it's so that it all settles.",
+    "fr": "Cette semaine, on revient sur les dernières semaines : soustraire en ouvrant une dizaine (decena), compter à rebours, l'heure sur l'horloge (reloj) à aiguilles et les doubles (dobles). Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الأخيرة: الطرح بفتح عشرة (decena)، والعدّ التنازلي، والوقت في الساعة (reloj) ذات العقارب، والأضعاف (dobles). لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Dejad que elija la hora que le apetezca. Si una resta se atasca, hacedla con las piezas en la mano, sin prisa.",
+    "va": "Deixeu que trie l'hora que li vinga de gust. Si una resta s'encalla, feu-la amb les peces a la mà, sense pressa.",
+    "en": "Let them choose whatever time they like. If a subtraction gets stuck, do it with the blocks in your hands, without rushing.",
+    "fr": "Laissez-le ou laissez-la choisir l'heure qui lui plaît. Si une soustraction bloque, faites-la avec les pièces dans les mains, sans se presser.",
+    "ar": "دعوا اختيار الوقت يكون حرًّا. وإذا تعثّرت عملية طرح، فأنجزوها بالقطع في اليد، من دون عجلة."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.medida.magnitudes",
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El reloj de las torres",
+      "va": "El rellotge de les torres",
+      "en": "The tower clock",
+      "fr": "L'horloge des tours",
+      "ar": "ساعة الأبراج"
+    },
+    "material": [
+      {
+        "es": "El reloj de plato de la semana 10 o un reloj de agujas de juguete",
+        "va": "El rellotge de plat de la setmana 10 o un rellotge d'agulles de joguet",
+        "en": "The paper-plate clock from week 10 or a toy clock with hands",
+        "fr": "L'horloge en assiette de la semaine 10 ou une horloge à aiguilles en jouet",
+        "ar": "ساعة الصحن من الأسبوع 10 أو ساعة لعبة بعقارب"
+      },
+      {
+        "es": "Unas 30 piezas de construcción o pinzas de la ropa",
+        "va": "Unes 30 peces de construcció o pinces de la roba",
+        "en": "About 30 building blocks or clothes pegs",
+        "fr": "Environ 30 pièces de construction ou pinces à linge",
+        "ar": "نحو 30 قطعة بناء أو ملقط غسيل"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "reloj",
+        "texto": {
+          "es": "Por turnos, una persona pone una hora en el reloj y la otra la dice: en punto, y media, y cuarto o menos cuarto.",
+          "va": "Per torns, una persona posa una hora en el rellotge i l'altra la diu: en punt, i mitja, i quart o menys quart.",
+          "en": "Take turns: one person sets a time on the clock and the other says it: o'clock, half past, quarter past or quarter to.",
+          "fr": "Chacun son tour : une personne met une heure sur l'horloge et l'autre la dit : pile, et demie, et quart ou moins le quart.",
+          "ar": "بالتناوب، يضع شخص وقتًا على الساعة ويقوله الآخر: تمامًا، أو والنصف، أو والربع، أو إلا ربعًا."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Haced una torre de 20 piezas. Quitad tantas como la hora: a las 7 y cuarto, quitad 7. ¿Cuántas quedan?",
+          "va": "Feu una torre de 20 peces. Lleveu-ne tantes com l'hora: a les 7 i quart, lleveu-ne 7. Quantes en queden?",
+          "en": "Build a tower of 20 blocks. Take away as many as the hour: at quarter past 7, take away 7. How many are left?",
+          "fr": "Faites une tour de 20 pièces. Enlevez-en autant que l'heure : à 7 heures et quart, enlevez-en 7. Combien en reste-t-il ?",
+          "ar": "ابنوا برجًا من 20 قطعة. انزعوا منه عددًا يساوي الساعة: في السابعة والربع، انزعوا 7. كم يبقى؟"
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Al lado, haced otra torre con el doble de esa hora: a las 7, 7 y 7 piezas.",
+          "va": "Al costat, feu una altra torre amb el doble d'eixa hora: a les 7, 7 i 7 peces.",
+          "en": "Next to it, build another tower with double that hour: at 7, 7 and 7 blocks.",
+          "fr": "À côté, faites une autre tour avec le double de cette heure : à 7 heures, 7 et 7 pièces.",
+          "ar": "بجانبه، ابنوا برجًا آخر بضعف تلك الساعة: في السابعة، 7 و7 قطع."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Comparad las dos torres. ¿Cuál es más alta? ¿Cuántas piezas tiene de más?",
+          "va": "Compareu les dues torres. Quina és més alta? Quantes peces té de més?",
+          "en": "Compare the two towers. Which one is taller? How many more blocks does it have?",
+          "fr": "Comparez les deux tours. Laquelle est la plus haute ? Combien de pièces a-t-elle de plus ?",
+          "ar": "قارنوا البرجين. أيّهما أعلى؟ وكم قطعة زائدة فيه؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo horas en punto del 1 al 6, y contad las piezas de una en una.",
+      "va": "Useu només hores en punt de l'1 al 6, i compteu les peces d'una en una.",
+      "en": "Use only o'clock times from 1 to 6, and count the blocks one by one.",
+      "fr": "Utilisez seulement les heures pile de 1 à 6, et comptez les pièces une par une.",
+      "ar": "استعملوا فقط الساعات تمامًا من 1 إلى 6، وعدّوا القطع واحدة واحدة."
+    },
+    "masDificil": {
+      "es": "Empezad con una torre de 30 piezas, o decid de cabeza cuántas quedarán antes de quitarlas.",
+      "va": "Comenceu amb una torre de 30 peces, o digueu de cap quantes en quedaran abans de llevar-les.",
+      "en": "Start with a tower of 30 blocks, or say in your head how many will be left before taking them away.",
+      "fr": "Commencez avec une tour de 30 pièces, ou dites de tête combien il en restera avant de les enlever.",
+      "ar": "ابدؤوا ببرج من 30 قطعة، أو قولوا ذهنيًا كم سيبقى قبل نزع القطع."
+    },
+    "paraQueSirve": {
+      "es": "Volver a lo ya jugado con un juego nuevo ayuda a que se quede: la resta, la hora y los dobles aparecen juntos, como en la vida.",
+      "va": "Tornar al que ja s'ha jugat amb un joc nou ajuda que es quede: la resta, l'hora i els dobles apareixen junts, com en la vida.",
+      "en": "Going back to what you've already played with a new game helps it stick: subtraction, time and doubles all turn up together, like in real life.",
+      "fr": "Revenir à ce qu'on a déjà joué avec un nouveau jeu aide à le retenir : la soustraction, l'heure et les doubles apparaissent ensemble, comme dans la vie.",
+      "ar": "العودة إلى ما لعبناه بلعبة جديدة تساعد على تثبيته: الطرح والساعة والأضعاف تظهر معًا، كما في الحياة."
+    },
+    "aviso": {
+      "es": "Si usáis piezas pequeñas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si useu peces menudes, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use small blocks, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Darío tiene 41 cromos y le regala 6 a su prima. ¿Cuántos le quedan?",
+        "va": "Darío té 41 cromos i en regala 6 a sa cosina. Quants li'n queden?",
+        "en": "Darío has 41 stickers and gives 6 to his cousin. How many does he have left?",
+        "fr": "Darío a 41 images et en donne 6 à sa cousine. Combien lui en reste-t-il ?",
+        "ar": "عند داريو 41 بطاقة صور، ويهدي 6 منها لابنة عمّه. كم يبقى عنده؟"
+      },
+      "pista": {
+        "es": "Con 1 suelto no llega: abre una decena y tendrás 11 sueltos.",
+        "va": "Amb 1 solt no n'hi ha prou: obri una desena i tindràs 11 solts.",
+        "en": "1 loose one isn't enough: open a ten and you'll have 11 loose ones.",
+        "fr": "Avec 1 seul, ça ne suffit pas : ouvre une dizaine et tu en auras 11.",
+        "ar": "واحدة منفردة لا تكفي: لنفتح عشرة فيصبح عندنا 11 منفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "41 - 6",
+        "resultado": 35,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le quedan 35 cromos: {{41 − 6 = 35}}.",
+          "va": "Li'n queden 35: {{41 − 6 = 35}}.",
+          "en": "He has 35 stickers left: {{41 − 6 = 35}}.",
+          "fr": "Il lui en reste 35 : {{41 − 6 = 35}}.",
+          "ar": "يبقى عنده 35 بطاقة: {{41 − 6 = 35}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una en la que haga falta abrir una decena.",
+        "va": "Ara inventa'n tu una en què faça falta obrir una desena.",
+        "en": "Now you make one up where you open a ten.",
+        "fr": "Maintenant, invente une question où on ouvre une dizaine.",
+        "ar": "والآن لنخترع سؤالًا نفتح فيه عشرة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En el parque hay 8 bicis y cada una tiene 2 ruedas. ¿Cuántas ruedas hay?",
+        "va": "Al parc hi ha 8 bicis i cada una té 2 rodes. Quantes rodes hi ha?",
+        "en": "In the park there are 8 bikes and each one has 2 wheels. How many wheels are there?",
+        "fr": "Au parc, il y a 8 vélos et chacun a 2 roues. Combien y a-t-il de roues ?",
+        "ar": "في الحديقة 8 درّاجات، ولكل واحدة عجلتان. كم عجلة هناك؟"
+      },
+      "pista": {
+        "es": "Piensa en el doble de 8, con los dedos de las dos manos.",
+        "va": "Pensa en el doble de 8, amb els dits de les dues mans.",
+        "en": "Think of double 8, using the fingers on both hands.",
+        "fr": "Pense au double de 8, avec les doigts des deux mains.",
+        "ar": "لنفكّر في ضعف 8، بأصابع اليدين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 8",
+        "resultado": 16,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 16 ruedas: {{8 + 8 = 16}}.",
+          "va": "Hi ha 16 rodes: {{8 + 8 = 16}}.",
+          "en": "There are 16 wheels: {{8 + 8 = 16}}.",
+          "fr": "Il y a 16 roues : {{8 + 8 = 16}}.",
+          "ar": "هناك 16 عجلة: {{8 + 8 = 16}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con cosas que van de dos en dos: ojos, orejas, guantes…",
+        "va": "Inventa'n tu una altra amb coses que van de dos en dos: ulls, orelles, guants…",
+        "en": "Make up another one with things that come in twos: eyes, ears, gloves…",
+        "fr": "Invente-en une autre avec des choses qui vont par deux : yeux, oreilles, gants…",
+        "ar": "لنخترع سؤالًا آخر بأشياء تأتي اثنين اثنين: العيون، الآذان، القفازات…"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-descendente",
+      "texto": {
+        "es": "Contamos hacia atrás de 10 en 10 desde 100. ¿Qué número decimos después del 40?",
+        "va": "Comptem cap arrere de 10 en 10 des de 100. Quin nombre diem després del 40?",
+        "en": "We count backwards in tens from 100. What number do we say after 40?",
+        "fr": "On compte à rebours de 10 en 10 à partir de 100. Quel nombre dit-on après 40 ?",
+        "ar": "نعدّ تنازليًا عشرة عشرة من 100. ما العدد الذي نقوله بعد 40؟"
+      },
+      "pista": {
+        "es": "Levanta 4 dedos, que valen 10 cada uno, y dobla uno.",
+        "va": "Alça 4 dits, que valen 10 cada un, i doblega'n un.",
+        "en": "Hold up 4 fingers, each worth 10, and bend one down.",
+        "fr": "Lève 4 doigts, qui valent 10 chacun, et plies-en un.",
+        "ar": "لنرفع 4 أصابع، كل واحد يساوي 10، ثم نثني واحدًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 - 10",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Decimos 30: {{40 − 10 = 30}}.",
+          "va": "Diem 30: {{40 − 10 = 30}}.",
+          "en": "We say 30: {{40 − 10 = 30}}.",
+          "fr": "On dit 30 : {{40 − 10 = 30}}.",
+          "ar": "نقول 30: {{40 − 10 = 30}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra cuenta atrás, de 10 en 10 o de 100 en 100.",
+        "va": "Inventa tu un altre compte arrere, de 10 en 10 o de 100 en 100.",
+        "en": "Make up another countdown, in tens or in hundreds.",
+        "fr": "Invente un autre compte à rebours, de 10 en 10 ou de 100 en 100.",
+        "ar": "لنخترع عدًّا تنازليًا آخر، عشرة عشرة أو مئة مئة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 10,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar: Lucía y su padre ven una película que empieza a las 6 y cuarto y dura media hora. ¿A qué hora termina?",
+        "va": "Per a recordar: Lucía i son pare veuen una pel·lícula que comença a les 6 i quart i dura mitja hora. A quina hora acaba?",
+        "en": "Let's remember: Lucía and her dad watch a film that starts at quarter past 6 and lasts half an hour. What time does it finish?",
+        "fr": "Pour se souvenir : Lucía et son père regardent un film qui commence à 6 heures et quart et dure une demi-heure. À quelle heure finit-il ?",
+        "ar": "لنتذكّر: تشاهد لوثيا ووالدها فيلمًا يبدأ في السادسة والربع ويستمرّ نصف ساعة. متى ينتهي؟"
+      },
+      "pista": {
+        "es": "En el reloj, mueve la aguja larga desde el 3 hasta el 9.",
+        "va": "En el rellotge, mou l'agulla llarga des del 3 fins al 9.",
+        "en": "On the clock, move the long hand from 3 to 9.",
+        "fr": "Sur l'horloge, bouge la grande aiguille du 3 jusqu'au 9.",
+        "ar": "لنحرّك العقرب الطويل في الساعة من 3 إلى 9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 + 30",
+        "resultado": 45,
+        "unidad": "min",
+        "texto": {
+          "es": "Termina a las 7 menos cuarto (6:45): {{15 + 30 = 45}} minutos.",
+          "va": "Acaba a les 7 menys quart (6:45): {{15 + 30 = 45}} minuts.",
+          "en": "It finishes at quarter to 7 (6:45): {{15 + 30 = 45}} minutes.",
+          "fr": "Il finit à 7 heures moins le quart (6:45) : {{15 + 30 = 45}} minutes.",
+          "ar": "ينتهي في السابعة إلا ربعًا (6:45): {{15 + 30 = 45}} دقيقة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con lo que dura vuestro programa o cuento favorito.",
+        "va": "Inventa'n tu una altra amb el que dura el vostre programa o conte preferit.",
+        "en": "Make up another one with how long your favourite programme or story lasts.",
+        "fr": "Invente-en une autre avec la durée de votre émission ou de votre histoire préférée.",
+        "ar": "لنخترع سؤالًا آخر بمدّة برنامجنا أو قصّتنا المفضّلة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas, ¿qué te ha resultado más fácil? ¿Y más difícil? Explícame por qué.",
+        "va": "De tot el d'aquestes setmanes, què t'ha resultat més fàcil? I més difícil? Explica'm per què.",
+        "en": "Of everything from these weeks, what was easiest for you? And hardest? Tell me why.",
+        "fr": "De tout ce qu'on a vu ces semaines-ci, qu'est-ce qui t'a paru le plus facile ? Et le plus difficile ? Explique-moi pourquoi.",
+        "ar": "من كل ما لعبناه في هذه الأسابيع، ما الأسهل؟ وما الأصعب؟ لنشرح السبب."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué te gusta más, el reloj, los dobles o las restas?»",
+        "va": "Si no sap per on començar: «Què t'agrada més, el rellotge, els dobles o les restes?»",
+        "en": "If they don't know where to start: “What do you like best: the clock, doubles or subtraction?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu préfères : l'horloge, les doubles ou les soustractions ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ما الأحبّ إلينا: الساعة أم الأضعاف أم الطرح؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Cualquier respuesta vale. Lo que cuente como difícil es una pista para jugar un poco más con eso en casa, sin prisa.",
+          "va": "Qualsevol resposta val. El que conte com a difícil és una pista per a jugar una mica més amb això a casa, sense pressa.",
+          "en": "Any answer is fine. Whatever they say is hard is a clue to play a bit more with that at home, without rushing.",
+          "fr": "Toute réponse est bonne. Ce qu'il ou elle trouve difficile est un indice pour jouer un peu plus avec ça à la maison, sans se presser.",
+          "ar": "كل إجابة مقبولة. ما يُذكر على أنه صعب هو إشارة إلى اللعب به قليلًا أكثر في البيت، من دون عجلة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "3a2ad388d675"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "3a2ad388d675"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "3a2ad388d675"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "3a2ad388d675"
+      }
+    }
+  }
+}

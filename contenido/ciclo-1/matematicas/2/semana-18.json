@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s18",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 18,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Grupos iguales",
+    "va": "Grups iguals",
+    "en": "Equal groups",
+    "fr": "Groupes égaux",
+    "ar": "مجموعات متساوية"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren que muchas cosas vienen en grupos iguales, como los huevos o los yogures, y las cuentan sumando el mismo número varias veces: 4 y 4 y 4.",
+    "va": "Aquesta setmana descobrixen que moltes coses vénen en grups iguals, com els ous o els iogurts, i les compten sumant el mateix nombre diverses vegades (veces): 4 i 4 i 4.",
+    "en": "This week they discover that lots of things come in equal groups, like eggs or yoghurts, and they count them by adding the same number several times (veces): 4 and 4 and 4.",
+    "fr": "Cette semaine, on découvre que beaucoup de choses viennent en groupes égaux, comme les œufs ou les yaourts, et on les compte en additionnant plusieurs fois (veces) le même nombre : 4 et 4 et 4.",
+    "ar": "هذا الأسبوع يكتشف الأطفال أن أشياء كثيرة تأتي في مجموعات متساوية، مثل البيض أو علب الزبادي، ويعدّونها بجمع العدد نفسه عدة مرّات (veces): 4 و4 و4."
+  },
+  "comoAyudar": {
+    "es": "Cuando saquéis algo de la nevera o del armario, preguntad «¿cuántos hay en cada grupo?» antes de «¿cuántos hay?». Contar grupo a grupo con los dedos está bien.",
+    "va": "Quan traieu alguna cosa de la nevera o de l'armari, pregunteu «quants n'hi ha en cada grup?» abans de «quants n'hi ha?». Comptar grup a grup amb els dits està bé.",
+    "en": "When you take something out of the fridge or the cupboard, ask “How many are in each group?” before “How many are there?”. Counting group by group on your fingers is fine.",
+    "fr": "Quand vous sortez quelque chose du frigo ou du placard, demandez « Combien il y en a dans chaque groupe ? » avant « Combien il y en a ? ». Compter groupe par groupe sur les doigts, c'est bien.",
+    "ar": "عندما تُخرجون شيئًا من الثلاجة أو الخزانة، اسألوا «كم يوجد في كل مجموعة؟» قبل «كم يوجد؟». العدّ مجموعة مجموعة بالأصابع أمر جيّد."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.operaciones.igualdad"
+  ],
+  "criterios": [
+    "matematicas.c1.5.1",
+    "matematicas.c1.2.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Hueveras y bandejas",
+      "va": "Oueres i safates",
+      "en": "Egg boxes and trays",
+      "fr": "Boîtes d'œufs et barquettes",
+      "ar": "علب البيض والصواني"
+    },
+    "material": [
+      {
+        "es": "Cosas de la cocina que vengan en grupos iguales: una huevera, un paquete de yogures, una bandeja de galletas…",
+        "va": "Coses de la cuina que vinguen en grups iguals: una ouera, un paquet de iogurts, una safata de galetes…",
+        "en": "Things from the kitchen that come in equal groups: an egg box, a pack of yoghurts, a tray of biscuits…",
+        "fr": "Des choses de la cuisine qui viennent en groupes égaux : une boîte d'œufs, un pack de yaourts, une barquette de biscuits…",
+        "ar": "أشياء من المطبخ تأتي في مجموعات متساوية: علبة بيض، رزمة زبادي، صينية بسكويت…"
+      },
+      {
+        "es": "Un papel y un lápiz",
+        "va": "Un paper i un llapis",
+        "en": "A piece of paper and a pencil",
+        "fr": "Une feuille et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "nevera",
+        "texto": {
+          "es": "Con una persona adulta, buscad en la cocina cosas que vienen en grupos iguales.",
+          "va": "Amb una persona adulta, busqueu en la cuina coses que vénen en grups iguals.",
+          "en": "With an adult, look in the kitchen for things that come in equal groups.",
+          "fr": "Avec un adulte, cherchez dans la cuisine des choses qui viennent en groupes égaux.",
+          "ar": "مع شخص بالغ، ابحثوا في المطبخ عن أشياء تأتي في مجموعات متساوية."
+        }
+      },
+      {
+        "pictograma": "huevera",
+        "texto": {
+          "es": "Mirad cómo están puestas. ¿Cuántos grupos hay? ¿Cuántas cosas hay en cada grupo?",
+          "va": "Mireu com estan posades. Quants grups hi ha? Quantes coses hi ha en cada grup?",
+          "en": "Look at how they are arranged. How many groups are there? How many things are in each group?",
+          "fr": "Regardez comment elles sont rangées. Combien de groupes y a-t-il ? Combien de choses dans chaque groupe ?",
+          "ar": "انظروا كيف وُضعت. كم مجموعة يوجد؟ وكم شيئًا في كل مجموعة؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad sumando grupo a grupo. En una huevera de 2 filas de 6: «6 y 6, 12», {{6 + 6 = 12}}.",
+          "va": "Compteu sumant grup a grup. En una ouera de 2 files de 6: «6 i 6, 12», {{6 + 6 = 12}}.",
+          "en": "Count by adding group by group. In an egg box with 2 rows of 6: “6 and 6, 12”, {{6 + 6 = 12}}.",
+          "fr": "Comptez en additionnant groupe par groupe. Dans une boîte de 2 rangées de 6 : « 6 et 6, 12 », {{6 + 6 = 12}}.",
+          "ar": "عدّوا بالجمع مجموعة مجموعة. في علبة بيض فيها صفّان من 6: «6 و6، 12»، {{6 + 6 = 12}}."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Dibujad los grupos como círculos con puntos dentro y decid cuántas cosas hay en total.",
+          "va": "Dibuixeu els grups com a cercles amb punts dins i digueu quantes coses hi ha en total.",
+          "en": "Draw the groups as circles with dots inside and say how many things there are altogether.",
+          "fr": "Dessinez les groupes comme des ronds avec des points dedans et dites combien de choses il y a en tout.",
+          "ar": "ارسموا المجموعات دوائرَ في داخلها نقاط، وقولوا كم شيئًا يوجد في المجموع."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con grupos de 2, como zapatos o calcetines, y contad tocando cada grupo.",
+      "va": "Comenceu amb grups de 2, com sabates o calcetins, i compteu tocant cada grup.",
+      "en": "Start with groups of 2, like shoes or socks, and count touching each group.",
+      "fr": "Commencez par des groupes de 2, comme des chaussures ou des chaussettes, et comptez en touchant chaque groupe.",
+      "ar": "ابدؤوا بمجموعات من 2، مثل الأحذية أو الجوارب، وعدّوا بلمس كل مجموعة."
+    },
+    "masDificil": {
+      "es": "Juntad varios paquetes iguales, por ejemplo 5 paquetes de 4 yogures, y contad cuántos hay sin abrirlos.",
+      "va": "Ajunteu uns quants paquets iguals, per exemple 5 paquets de 4 iogurts, i compteu quants n'hi ha sense obrir-los.",
+      "en": "Put several equal packs together, for example 5 packs of 4 yoghurts, and count how many there are without opening them.",
+      "fr": "Réunissez plusieurs packs pareils, par exemple 5 packs de 4 yaourts, et comptez combien il y en a sans les ouvrir.",
+      "ar": "اجمعوا عدة رزم متساوية، مثلًا 5 رزم في كل منها 4 علب زبادي، وعدّوا كم يوجد من دون فتحها."
+    },
+    "paraQueSirve": {
+      "es": "Sumar grupos iguales es el primer paso para multiplicar. Ver los grupos ayuda a contar más rápido y sin perderse.",
+      "va": "Sumar grups iguals és el primer pas per a multiplicar. Veure els grups ajuda a comptar més ràpid i sense perdre's.",
+      "en": "Adding equal groups is the first step towards multiplying. Seeing the groups helps you count faster without getting lost.",
+      "fr": "Additionner des groupes égaux, c'est le premier pas vers la multiplication. Voir les groupes aide à compter plus vite sans se perdre.",
+      "ar": "جمع المجموعات المتساوية هو الخطوة الأولى نحو الضرب. ورؤية المجموعات تساعد على العدّ بسرعة أكبر ومن غير أن نضيع."
+    },
+    "aviso": {
+      "es": "Si usáis huevos de verdad, que los coja la persona adulta, y lavaos las manos después.",
+      "va": "Si feu servir ous de veritat, que els agafe la persona adulta, i llaveu-vos les mans després.",
+      "en": "If you use real eggs, let the adult handle them, and wash your hands afterwards.",
+      "fr": "Si vous utilisez de vrais œufs, laissez l'adulte les prendre, et lavez-vous les mains après.",
+      "ar": "إذا استعملتم بيضًا حقيقيًّا، فليمسكه الشخص البالغ، واغسلوا أيديكم بعد ذلك."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Un paquete trae 4 yogures. Si compráis 3 paquetes, ¿cuántos yogures hay?",
+        "va": "Un paquet porta 4 iogurts. Si en compreu 3 paquets, quants iogurts hi ha?",
+        "en": "A pack has 4 yoghurts. If you buy 3 packs, how many yoghurts are there?",
+        "fr": "Un pack contient 4 yaourts. Si vous achetez 3 packs, combien y a-t-il de yaourts ?",
+        "ar": "في الرزمة 4 علب زبادي. إذا اشترينا 3 رزم، كم علبة زبادي يوجد؟"
+      },
+      "pista": {
+        "es": "Suma 4, luego 4 más y luego otros 4.",
+        "va": "Suma 4, després 4 més i després uns altres 4.",
+        "en": "Add 4, then 4 more, then another 4.",
+        "fr": "Additionne 4, puis 4 de plus, puis encore 4.",
+        "ar": "لنجمع 4، ثم 4 أخرى، ثم 4 أيضًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 4 + 4",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 12 yogures: {{4 + 4 + 4 = 12}}.",
+          "va": "Hi ha 12 iogurts: {{4 + 4 + 4 = 12}}.",
+          "en": "There are 12 yoghurts: {{4 + 4 + 4 = 12}}.",
+          "fr": "Il y a 12 yaourts : {{4 + 4 + 4 = 12}}.",
+          "ar": "يوجد 12 علبة زبادي: {{4 + 4 + 4 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo de la nevera que venga en paquetes.",
+        "va": "Inventa'n tu una altra amb alguna cosa de la nevera que vinga en paquets.",
+        "en": "Make up another one with something from the fridge that comes in packs.",
+        "fr": "Invente-en une autre avec quelque chose du frigo qui vient en packs.",
+        "ar": "لنخترع سؤالًا آخر بشيء من الثلاجة يأتي في رزم."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En la bandeja hay 3 filas de 5 galletas. ¿Cuántas galletas hay?",
+        "va": "En la safata hi ha 3 files de 5 galetes. Quantes galetes hi ha?",
+        "en": "On the tray there are 3 rows of 5 biscuits. How many biscuits are there?",
+        "fr": "Sur la barquette, il y a 3 rangées de 5 biscuits. Combien y a-t-il de biscuits ?",
+        "ar": "في الصينية 3 صفوف، في كل صف 5 قطع بسكويت. كم قطعة بسكويت يوجد؟"
+      },
+      "pista": {
+        "es": "Cuenta los dedos de una mano tres veces.",
+        "va": "Compta els dits d'una mà tres vegades.",
+        "en": "Count the fingers of one hand three times.",
+        "fr": "Compte les doigts d'une main trois fois.",
+        "ar": "لنعدّ أصابع يد واحدة ثلاث مرّات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 5 + 5",
+        "resultado": 15,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 15 galletas: {{5 + 5 + 5 = 15}}.",
+          "va": "Hi ha 15 galetes: {{5 + 5 + 5 = 15}}.",
+          "en": "There are 15 biscuits: {{5 + 5 + 5 = 15}}.",
+          "fr": "Il y a 15 biscuits : {{5 + 5 + 5 = 15}}.",
+          "ar": "يوجد 15 قطعة بسكويت: {{5 + 5 + 5 = 15}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con filas iguales de cosas de tu habitación.",
+        "va": "Inventa'n tu una altra amb files iguals de coses de la teua habitació.",
+        "en": "Make up another one with equal rows of things from your room.",
+        "fr": "Invente-en une autre avec des rangées égales de choses de ta chambre.",
+        "ar": "لنخترع سؤالًا آخر بصفوف متساوية من أشياء الغرفة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Darío prepara 5 bolsitas con 2 mandarinas en cada una. ¿Cuántas mandarinas usa?",
+        "va": "Darío prepara 5 bossetes amb 2 mandarines en cada una. Quantes mandarines fa servir?",
+        "en": "Darío gets 5 little bags ready with 2 tangerines in each. How many tangerines does he use?",
+        "fr": "Darío prépare 5 petits sacs avec 2 mandarines dans chacun. Combien de mandarines utilise-t-il ?",
+        "ar": "يجهّز داريو 5 أكياس صغيرة، في كل منها حبّتا يوسفي. كم حبّة يوسفي يستعمل؟"
+      },
+      "pista": {
+        "es": "Cuenta de 2 en 2, una bolsita cada vez: 2, 4, 6…",
+        "va": "Compta de 2 en 2, una bosseta cada vegada: 2, 4, 6…",
+        "en": "Count in twos, one bag at a time: 2, 4, 6…",
+        "fr": "Compte de 2 en 2, un sac à la fois : 2, 4, 6…",
+        "ar": "لنعدّ اثنين اثنين، كيسًا بعد كيس: 2، 4، 6…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 2 + 2 + 2 + 2",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Usa 10 mandarinas: {{2 + 2 + 2 + 2 + 2 = 10}}.",
+          "va": "Fa servir 10 mandarines: {{2 + 2 + 2 + 2 + 2 = 10}}.",
+          "en": "He uses 10 tangerines: {{2 + 2 + 2 + 2 + 2 = 10}}.",
+          "fr": "Il utilise 10 mandarines : {{2 + 2 + 2 + 2 + 2 = 10}}.",
+          "ar": "يستعمل 10 حبّات يوسفي: {{2 + 2 + 2 + 2 + 2 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con bolsitas o platos que tengan lo mismo.",
+        "va": "Inventa'n tu una altra amb bossetes o plats que tinguen el mateix.",
+        "en": "Make up another one with bags or plates that each have the same.",
+        "fr": "Invente-en une autre avec des sacs ou des assiettes qui ont chacun la même chose.",
+        "ar": "لنخترع سؤالًا آخر بأكياس أو صحون في كل منها العدد نفسه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: en la caja hay 32 pinzas. Mamá usa 7 para tender la ropa. ¿Cuántas quedan en la caja?",
+        "va": "Per a recordar: en la caixa hi ha 32 pinces. La mare en fa servir 7 per a estendre la roba. Quantes en queden en la caixa?",
+        "en": "Let's remember: there are 32 pegs in the box. Mum uses 7 to hang out the washing. How many are left in the box?",
+        "fr": "Pour se souvenir : dans la boîte, il y a 32 pinces. Maman en utilise 7 pour étendre le linge. Combien en reste-t-il dans la boîte ?",
+        "ar": "لنتذكّر: في العلبة 32 ملقطًا. استعملت الأم 7 لنشر الغسيل. كم ملقطًا بقي في العلبة؟"
+      },
+      "pista": {
+        "es": "Abre una decena: piensa en 2 decenas y 12 sueltas.",
+        "va": "Obri una desena (decena): pensa en 2 desenes i 12 soltes.",
+        "en": "Open up a ten (decena): think of 2 tens and 12 ones.",
+        "fr": "Ouvre une dizaine (decena) : pense à 2 dizaines et 12 unités.",
+        "ar": "لنفتح عشرة (decena): نفكّر في عشرتين و12 آحادًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "32 - 7",
+        "resultado": 25,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 25 pinzas: {{32 − 7 = 25}}.",
+          "va": "En queden 25: {{32 − 7 = 25}}.",
+          "en": "There are 25 pegs left: {{32 − 7 = 25}}.",
+          "fr": "Il en reste 25 : {{32 − 7 = 25}}.",
+          "ar": "بقي 25 ملقطًا: {{32 − 7 = 25}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra en la que se abra una decena.",
+        "va": "Inventa'n tu una altra en què s'òbriga una desena.",
+        "en": "Make up another one where you open up a ten.",
+        "fr": "Invente-en une autre où l'on ouvre une dizaine.",
+        "ar": "لنخترع سؤالًا آخر نفتح فيه عشرة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué cosas de casa vienen en grupos iguales? Enséñame cómo cuentas cuántas hay, grupo a grupo.",
+        "va": "Quines coses de casa vénen en grups iguals? Ensenya'm com comptes quantes n'hi ha, grup a grup.",
+        "en": "What things at home come in equal groups? Show me how you count how many there are, group by group.",
+        "fr": "Quelles choses de la maison viennent en groupes égaux ? Montre-moi comment tu comptes combien il y en a, groupe par groupe.",
+        "ar": "ما الأشياء في البيت التي تأتي في مجموعات متساوية؟ لنُرِ كيف نعدّها مجموعة مجموعة."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántos zapatos hay en la entrada? ¿Cómo los cuentas?»",
+        "va": "Si no sap per on començar: «Quantes sabates hi ha en l'entrada? Com les comptes?»",
+        "en": "If they don't know where to start: “How many shoes are there by the door? How do you count them?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de chaussures y a-t-il dans l'entrée ? Comment tu les comptes ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كم حذاءً يوجد عند المدخل؟ كيف نعدّها؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede contar de uno en uno o de grupo en grupo. Si cuenta por grupos, preguntad «¿cuántos grupos había?» y celebrad el atajo.",
+          "va": "Pot comptar d'un en un o de grup en grup. Si compta per grups, pregunteu «quants grups hi havia?» i celebreu la drecera.",
+          "en": "They may count one by one or group by group. If they count in groups, ask “How many groups were there?” and celebrate the shortcut.",
+          "fr": "Votre enfant peut compter un par un ou groupe par groupe. S'il ou elle compte par groupes, demandez « Combien de groupes il y avait ? » et fêtez le raccourci.",
+          "ar": "قد يكون العدّ واحدًا واحدًا أو مجموعة مجموعة. إذا كان العدّ بالمجموعات، اسألوا «كم مجموعة كانت؟» واحتفلوا بهذا الاختصار."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "60b651d18086"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "60b651d18086"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "60b651d18086"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "60b651d18086"
+      }
+    }
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s25",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 25,
+  "tipo": "tema",
+  "titulo": {
+    "es": "El robot de casa",
+    "va": "El robot de casa",
+    "en": "The home robot",
+    "fr": "Le robot de la maison",
+    "ar": "روبوت البيت"
+  },
+  "objetivo": {
+    "es": "Esta semana dan y siguen instrucciones en orden, como si programaran un robot: un paso adelante, girar a la derecha… Descubren que el orden de los pasos importa.",
+    "va": "Aquesta setmana donen i seguixen instruccions en orde, com si programaren un robot: un pas avant, girar a la dreta (derecha)… Descobrixen que l'orde dels passos importa.",
+    "en": "This week they give and follow instructions in order, as if they were programming a robot: one step forward, turn right (derecha)… They discover that the order of the steps matters.",
+    "fr": "Cette semaine, on donne et on suit des instructions dans l'ordre, comme pour programmer un robot : un pas en avant, tourner à droite (derecha)… On découvre que l'ordre des étapes compte.",
+    "ar": "هذا الأسبوع يعطي الأطفال تعليمات ويتّبعونها بالترتيب، كأنهم يبرمجون روبوتًا: خطوة إلى الأمام، دوران إلى اليمين (derecha)… ويكتشفون أن ترتيب الخطوات مهمّ."
+  },
+  "comoAyudar": {
+    "es": "Cuando hagáis de robot, seguid las instrucciones tal cual, aunque os lleven contra la pared: así se ve qué paso cambiar. Si se confunden derecha e izquierda, poned una pegatina en una mano.",
+    "va": "Quan feu de robot, seguiu les instruccions tal com són, encara que us porten contra la paret: així es veu quin pas convé canviar. Si es confonen dreta i esquerra (izquierda), poseu un adhesiu en una mà.",
+    "en": "When you play the robot, follow the instructions exactly, even if they take you into the wall: that way you see which step to change. If right and left (izquierda) get mixed up, put a sticker on one hand.",
+    "fr": "Quand vous faites le robot, suivez les instructions telles quelles, même si elles vous mènent contre le mur : on voit ainsi quelle étape changer. Si la droite et la gauche (izquierda) se mélangent, mettez un autocollant sur une main.",
+    "ar": "عندما تؤدّون دور الروبوت، اتّبعوا التعليمات كما هي، حتى لو قادتكم إلى الجدار: هكذا يظهر أيّ خطوة نغيّر. وإذا اختلط اليمين واليسار (izquierda)، ضعوا ملصقًا على إحدى اليدين."
+  },
+  "saberes": [
+    "matematicas.computacional.secuencias-figuras",
+    "matematicas.geometria.orientacion",
+    "matematicas.computacional.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c1.4.1",
+    "matematicas.c1.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El robot de casa",
+      "va": "El robot de casa",
+      "en": "The home robot",
+      "fr": "Le robot de la maison",
+      "ar": "روبوت البيت"
+    },
+    "material": [
+      {
+        "es": "Unos 10 papeles con flechas dibujadas: adelante, girar a la derecha y girar a la izquierda",
+        "va": "Uns 10 papers amb fletxes dibuixades: avant, girar a la dreta i girar a l'esquerra",
+        "en": "About 10 pieces of paper with arrows drawn on them: forward, turn right and turn left",
+        "fr": "Une dizaine de papiers avec des flèches dessinées : en avant, tourner à droite et tourner à gauche",
+        "ar": "نحو 10 أوراق مرسوم عليها أسهم: إلى الأمام، دوران إلى اليمين، دوران إلى اليسار"
+      },
+      {
+        "es": "Un cojín o un peluche para la meta",
+        "va": "Un coixí o un peluix per a la meta",
+        "en": "A cushion or a soft toy for the finish",
+        "fr": "Un coussin ou une peluche pour l'arrivée",
+        "ar": "وسادة أو دمية لتكون نقطة الوصول"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Dibujad las flechas en los papeles. Poned la meta en el suelo, a unos pasos.",
+          "va": "Dibuixeu les fletxes en els papers. Poseu la meta en terra, a uns quants passos.",
+          "en": "Draw the arrows on the papers. Put the finish on the floor, a few steps away.",
+          "fr": "Dessinez les flèches sur les papiers. Posez l'arrivée par terre, à quelques pas.",
+          "ar": "ارسموا الأسهم على الأوراق. ضعوا نقطة الوصول على الأرض، على بعد خطوات قليلة."
+        }
+      },
+      {
+        "pictograma": "mapa",
+        "texto": {
+          "es": "Una persona programa el camino: coloca las flechas en fila, en orden, de la primera a la última.",
+          "va": "Una persona programa el camí: col·loca les fletxes en fila, en orde, de la primera a l'última.",
+          "en": "One person programs the route: they lay the arrows in a row, in order, from first to last.",
+          "fr": "Une personne programme le chemin : elle pose les flèches en rang, dans l'ordre, de la première à la dernière.",
+          "ar": "يبرمج شخص الطريق: يضع الأسهم في صف، بالترتيب، من الأول إلى الأخير."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "La otra persona hace de robot: un paso o un giro por cada flecha, sin saltarse ninguna.",
+          "va": "L'altra persona fa de robot: un pas o un gir per cada fletxa, sense botar-se'n cap.",
+          "en": "The other person is the robot: one step or one turn for each arrow, without skipping any.",
+          "fr": "L'autre personne fait le robot : un pas ou un quart de tour pour chaque flèche, sans en sauter aucune.",
+          "ar": "يؤدّي الشخص الآخر دور الروبوت: خطوة أو دوران لكل سهم، من دون تجاوز أيّ سهم."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Si el robot no llega a la meta, buscad juntos qué flecha cambiar. Después, cambiad los papeles.",
+          "va": "Si el robot no arriba a la meta, busqueu junts quina fletxa canviar. Després, canvieu els papers.",
+          "en": "If the robot doesn't reach the finish, work out together which arrow to change. Then swap roles.",
+          "fr": "Si le robot n'arrive pas, cherchez ensemble quelle flèche changer. Ensuite, échangez les rôles.",
+          "ar": "إذا لم يصل الروبوت، ابحثوا معًا عن السهم الذي نغيّره. ثم تبادلوا الأدوار."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo flechas de ir adelante y poned la meta cerca, en línea recta.",
+      "va": "Feu servir només fletxes d'anar avant i poseu la meta a prop, en línia recta.",
+      "en": "Use only forward arrows and put the finish close by, in a straight line.",
+      "fr": "Utilisez seulement des flèches « en avant » et mettez l'arrivée tout près, en ligne droite.",
+      "ar": "استعملوا أسهم «إلى الأمام» فقط، وضعوا نقطة الوصول قريبة وعلى خط مستقيم."
+    },
+    "masDificil": {
+      "es": "Poned una silla en medio del camino, para que el robot gire y la rodee.",
+      "va": "Poseu una cadira enmig del camí, perquè el robot gire i la rodege.",
+      "en": "Put a chair in the middle of the route, so the robot turns and goes round it.",
+      "fr": "Mettez une chaise au milieu du chemin, pour que le robot tourne et la contourne.",
+      "ar": "ضعوا كرسيًا في وسط الطريق، ليدور الروبوت حوله."
+    },
+    "paraQueSirve": {
+      "es": "Dar instrucciones claras y en orden es la base de la programación, y además ayuda a orientarse: delante, detrás, derecha e izquierda.",
+      "va": "Donar instruccions clares i en orde és la base de la programació, i a més ajuda a orientar-se: davant, darrere, dreta i esquerra.",
+      "en": "Giving clear instructions in order is the basis of programming, and it also helps with finding your way: in front, behind, right and left.",
+      "fr": "Donner des instructions claires et dans l'ordre, c'est la base de la programmation, et ça aide aussi à s'orienter : devant, derrière, droite et gauche.",
+      "ar": "إعطاء تعليمات واضحة ومرتّبة هو أساس البرمجة، ويساعد أيضًا على تحديد الاتجاهات: أمام، خلف، يمين، يسار."
+    },
+    "aviso": {
+      "es": "Despejad el suelo del camino para no tropezar, y jugad lejos de las escaleras.",
+      "va": "Deixeu lliure el terra del camí per a no ensopegar, i jugueu lluny de les escales.",
+      "en": "Clear the floor along the route so nobody trips, and play away from the stairs.",
+      "fr": "Dégagez le sol sur le chemin pour ne pas trébucher, et jouez loin des escaliers.",
+      "ar": "أخلوا الأرض على طول الطريق حتى لا يتعثّر أحد، والعبوا بعيدًا عن الدرج."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "El robot mira hacia la puerta. Si gira a la derecha y luego a la izquierda, ¿hacia dónde mira ahora?",
+        "va": "El robot mira cap a la porta. Si gira a la dreta i després a l'esquerra, cap a on mira ara?",
+        "en": "The robot is facing the door. If it turns right and then left, which way is it facing now?",
+        "fr": "Le robot regarde la porte. S'il tourne à droite puis à gauche, de quel côté regarde-t-il maintenant ?",
+        "ar": "الروبوت ينظر نحو الباب. إذا دار إلى اليمين ثم إلى اليسار، إلى أين ينظر الآن؟"
+      },
+      "pista": {
+        "es": "Ponte de pie mirando una puerta y haz los dos giros.",
+        "va": "Posa't de peu mirant una porta i fes els dos girs.",
+        "en": "Stand up facing a door and do both turns.",
+        "fr": "Mets-toi debout face à une porte et fais les deux quarts de tour.",
+        "ar": "لنقف ونحن ننظر إلى باب، ونقوم بالدورتين."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Otra vez hacia la puerta: un giro deshace el otro. Si duda, probadlo de pie, girando el cuerpo.",
+          "va": "Una altra vegada cap a la porta: un gir desfà l'altre. Si dubta, proveu-ho de peu, girant el cos.",
+          "en": "Towards the door again: one turn undoes the other. If they're unsure, try it standing up, turning your body.",
+          "fr": "De nouveau vers la porte : un quart de tour défait l'autre. En cas de doute, essayez debout, en tournant le corps.",
+          "ar": "نحو الباب من جديد: دورة تلغي الأخرى. إذا كان هناك تردّد، جرّبوا ذلك وقوفًا وأنتم تديرون أجسامكم."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú otra con dos giros y que alguien adivine hacia dónde mira el robot.",
+        "va": "Ara inventa'n tu una altra amb dos girs i que algú endevine cap a on mira el robot.",
+        "en": "Now you make up another one with two turns and let someone guess which way the robot is facing.",
+        "fr": "Maintenant, invente-en une autre avec deux quarts de tour, et quelqu'un devine où regarde le robot.",
+        "ar": "والآن لنخترع سؤالًا آخر بدورتين، ونترك أحدًا يخمّن إلى أين ينظر الروبوت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Lucía programa al robot: 3 pasos adelante y luego 2 pasos más. ¿Cuántos pasos da en total?",
+        "va": "Lucía programa el robot: 3 passos avant i després 2 passos més. Quants passos fa en total?",
+        "en": "Lucía programs the robot: 3 steps forward and then 2 more steps. How many steps does it take altogether?",
+        "fr": "Lucía programme le robot : 3 pas en avant, puis 2 pas de plus. Combien de pas fait-il en tout ?",
+        "ar": "تبرمج لوسيا الروبوت: 3 خطوات إلى الأمام ثم خطوتان أخريان. كم خطوة يخطو في المجموع؟"
+      },
+      "pista": {
+        "es": "Da tú los pasos y cuéntalos en voz alta.",
+        "va": "Fes tu els passos i compta'ls en veu alta.",
+        "en": "Take the steps yourself and count them out loud.",
+        "fr": "Fais les pas toi-même et compte-les à voix haute.",
+        "ar": "لنخطُ الخطوات بأنفسنا ونعدّها بصوت عالٍ."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 2",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Da 5 pasos: {{3 + 2 = 5}}.",
+          "va": "Fa 5 passos: {{3 + 2 = 5}}.",
+          "en": "It takes 5 steps: {{3 + 2 = 5}}.",
+          "fr": "Il fait 5 pas : {{3 + 2 = 5}}.",
+          "ar": "يخطو 5 خطوات: {{3 + 2 = 5}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un camino con pasos adelante y que alguien de casa los cuente.",
+        "va": "Inventa tu un camí amb passos avant i que algú de casa els compte.",
+        "en": "Make up a route with steps forward and let someone at home count them.",
+        "fr": "Invente un chemin avec des pas en avant, et quelqu'un de la maison les compte.",
+        "ar": "لنخترع طريقًا بخطوات إلى الأمام، ونترك أحدًا في البيت يعدّها."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Darío programa: «girar a la izquierda, 4 pasos adelante». ¿Llega al mismo sitio con «4 pasos adelante, girar a la izquierda»?",
+        "va": "Darío programa: «girar a l'esquerra, 4 passos avant». Arriba al mateix lloc amb «4 passos avant, girar a l'esquerra»?",
+        "en": "Darío programs: “turn left, 4 steps forward”. Does he get to the same place with “4 steps forward, turn left”?",
+        "fr": "Darío programme : « tourner à gauche, 4 pas en avant ». Arrive-t-il au même endroit avec « 4 pas en avant, tourner à gauche » ?",
+        "ar": "يبرمج داريو: «دوران إلى اليسار، 4 خطوات إلى الأمام». هل يصل إلى المكان نفسه مع «4 خطوات إلى الأمام، دوران إلى اليسار»؟"
+      },
+      "pista": {
+        "es": "Haz de robot y recorre los dos caminos, uno detrás de otro.",
+        "va": "Fes de robot i recorre els dos camins, un darrere de l'altre.",
+        "en": "Be the robot and try both routes, one after the other.",
+        "fr": "Fais le robot et essaie les deux chemins, l'un après l'autre.",
+        "ar": "لنؤدِّ دور الروبوت ونجرّب الطريقين، واحدًا بعد الآخر."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No: con el segundo camino el robot acaba en otro sitio, porque el orden de los pasos importa. Probad los dos en el pasillo.",
+          "va": "No: amb el segon camí el robot acaba en un altre lloc, perquè l'orde dels passos importa. Proveu els dos al passadís.",
+          "en": "No: with the second route the robot ends up somewhere else, because the order of the steps matters. Try both in the hallway.",
+          "fr": "Non : avec le deuxième chemin, le robot arrive ailleurs, parce que l'ordre des étapes compte. Essayez les deux dans le couloir.",
+          "ar": "لا: في الطريق الثاني ينتهي الروبوت في مكان آخر، لأن ترتيب الخطوات مهمّ. جرّبوا الطريقين في الممرّ."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú dos caminos con los mismos pasos en otro orden.",
+        "va": "Inventa tu dos camins amb els mateixos passos en un altre orde.",
+        "en": "Make up two routes with the same steps in a different order.",
+        "fr": "Invente deux chemins avec les mêmes étapes dans un autre ordre.",
+        "ar": "لنخترع طريقين بالخطوات نفسها ولكن بترتيب مختلف."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 10,
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Ponte de pie en la cocina. ¿Qué tienes delante? ¿Y detrás?",
+        "va": "Posa't de peu a la cuina. Què tens davant (delante)? I darrere (detrás)?",
+        "en": "Stand up in the kitchen. What is in front of you (delante)? And behind you (detrás)?",
+        "fr": "Mets-toi debout dans la cuisine. Qu'as-tu devant (delante) ? Et derrière (detrás) ?",
+        "ar": "لنقف في المطبخ. ماذا يوجد أمامنا (delante)؟ وماذا يوجد خلفنا (detrás)؟"
+      },
+      "pista": {
+        "es": "Mira al frente y después gira la cabeza sin mover los pies.",
+        "va": "Mira al davant i després gira el cap sense moure els peus.",
+        "en": "Look straight ahead and then turn your head without moving your feet.",
+        "fr": "Regarde droit devant, puis tourne la tête sans bouger les pieds.",
+        "ar": "لننظر إلى الأمام، ثم ندير الرأس من دون تحريك القدمين."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale cualquier respuesta que encaje con lo que se ve. Después, que se dé la vuelta: ¿qué ha pasado con lo de delante y lo de detrás?",
+          "va": "Val qualsevol resposta que encaixe amb el que es veu. Després, que es done la volta: què ha passat amb el de davant i el de darrere?",
+          "en": "Any answer that matches what can be seen is fine. Then let them turn round: what happened to what was in front and what was behind?",
+          "fr": "Toute réponse qui correspond à ce qu'on voit convient. Ensuite, demandez de se retourner : qu'est-il arrivé à ce qui était devant et derrière ?",
+          "ar": "كل جواب يطابق ما نراه مقبول. ثم استديروا معًا: ماذا حدث لما كان أمامنا وما كان خلفنا؟"
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con «encima» y «debajo» para un juguete.",
+        "va": "Inventa'n tu una altra amb «damunt» (encima) i «davall» (debajo) per a un joguet.",
+        "en": "Make up another one with “on top of” (encima) and “under” (debajo) for a toy.",
+        "fr": "Invente-en une autre avec « sur » (encima) et « sous » (debajo) pour un jouet.",
+        "ar": "لنخترع سؤالًا آخر عن لعبة، بكلمتَي «فوق» (encima) و«تحت» (debajo)."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Programa un camino para ir de tu cama a la puerta. ¿Cómo lo has pensado?",
+        "va": "Programa un camí per a anar del teu llit a la porta. Com ho has pensat?",
+        "en": "Program a route to get from your bed to the door. How did you work it out?",
+        "fr": "Programme un chemin pour aller de ton lit à la porte. Comment as-tu réfléchi ?",
+        "ar": "لنبرمج طريقًا من السرير إلى الباب. كيف فكّرنا فيه؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar, preguntad: «¿Cuál es el primer paso del robot?»",
+        "va": "Si no sap per on començar, pregunteu: «Quin és el primer pas del robot?»",
+        "en": "If they don't know where to start, ask: “What is the robot's first step?”",
+        "fr": "S'il ou elle ne sait pas par où commencer, demandez : « Quelle est la première étape du robot ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ما أول خطوة للروبوت؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo que importa es que diga los pasos en orden. Si el camino no llega, recorredlo juntos y buscad qué paso cambiar.",
+          "va": "El que importa és que diga els passos en orde. Si el camí no arriba, recorreu-lo junts i busqueu quin pas convé canviar.",
+          "en": "What matters is saying the steps in order. If the route doesn't get there, walk it together and look for which step to change.",
+          "fr": "Ce qui compte, c'est de dire les étapes dans l'ordre. Si le chemin n'arrive pas, parcourez-le ensemble et cherchez quelle étape changer.",
+          "ar": "المهمّ أن تُقال الخطوات بالترتيب. إذا لم يصل الطريق، امشوه معًا وابحثوا عن الخطوة التي نغيّرها."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "cb749ea4f71b"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "cb749ea4f71b"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "cb749ea4f71b"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "cb749ea4f71b"
+      }
+    }
+  }
+}

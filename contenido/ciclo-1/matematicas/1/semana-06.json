@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s06",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 6,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: contar, sumar y quitar",
+    "va": "Setmana de recordar: comptar, sumar i llevar",
+    "en": "Remembering week: counting, adding and taking away",
+    "fr": "Semaine de rappel : compter, ajouter et enlever",
+    "ar": "أسبوع التذكّر: العدّ والجمع والنزع"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las cinco primeras: contar, uno más y uno menos, los amigos del 10, seguir contando y quitar. No hay nada nuevo: es para jugar otra vez y que se asiente.",
+    "va": "Aquesta setmana tornen a allò de les cinc primeres: comptar, un més (uno más) i un menys (uno menos), els amics del 10, continuar comptant i llevar (quitar). No hi ha res de nou: és per a jugar una altra vegada i que s'assente.",
+    "en": "This week they go back to the first five: counting, one more (uno más) and one less (uno menos), friends of 10, counting on and taking away (quitar). There's nothing new: it's to play again and let it all settle.",
+    "fr": "Cette semaine, on revient sur les cinq premières : compter, un de plus (uno más) et un de moins (uno menos), les amis du 10, continuer à compter et enlever (quitar). Rien de nouveau : c'est pour rejouer et que tout se mette en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما في الأسابيع الخمسة الأولى: العدّ، وواحد أكثر (uno más) وواحد أقل (uno menos)، وأصدقاء العدد 10، وإكمال العدّ، والنزع (quitar). لا جديد: إنه للّعب مرة أخرى حتى يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "Dejad que elija el juego que más le guste de estas semanas. Al terminar, preguntad «¿cómo lo has pensado?» y escuchad sin prisa.",
+    "va": "Deixeu que trie el joc que més li agrade d'aquestes setmanes. En acabar, pregunteu «com ho has pensat?» i escolteu sense pressa.",
+    "en": "Let them choose their favourite game from these weeks. When you finish, ask “How did you think about it?” and listen without rushing.",
+    "fr": "Laissez choisir le jeu préféré de ces semaines. À la fin, demandez « Comment tu as réfléchi ? » et écoutez sans vous presser.",
+    "ar": "دعوا الطفل أو الطفلة يختار اللعبة المفضّلة من هذه الأسابيع. وعند الانتهاء، اسألوا «كيف فكّرنا؟» واستمعوا بلا عجلة."
+  },
+  "saberes": [
+    "matematicas.numeros.recuento",
+    "matematicas.numeros.estructura",
+    "matematicas.operaciones.suma-resta"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Volvemos a la oca y a los bolos",
+      "va": "Tornem a l'oca i a les bitlles",
+      "en": "Back to the Goose game and skittles",
+      "fr": "Retour au jeu de l'oie et aux quilles",
+      "ar": "نعود إلى لعبة الإوزّة والبولينغ"
+    },
+    "material": [
+      {
+        "es": "El camino de la oca del 1 al 20 y dos dados",
+        "va": "El camí de l'oca de l'1 al 20 i dos daus",
+        "en": "The Goose game path from 1 to 20 and two dice",
+        "fr": "Le chemin du jeu de l'oie de 1 à 20 et deux dés",
+        "ar": "طريق لعبة الإوزّة من 1 إلى 20 ونردان"
+      },
+      {
+        "es": "12 botellas de plástico vacías y una pelota",
+        "va": "12 botelles de plàstic buides i una pilota",
+        "en": "12 empty plastic bottles and a ball",
+        "fr": "12 bouteilles en plastique vides et une balle",
+        "ar": "12 قارورة بلاستيكية فارغة وكرة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Volved a poner en el suelo el camino de la oca, del 1 al 20.",
+          "va": "Torneu a posar en terra el camí de l'oca, de l'1 al 20.",
+          "en": "Lay the Goose game path on the floor again, from 1 to 20.",
+          "fr": "Remettez par terre le chemin du jeu de l'oie, de 1 à 20.",
+          "ar": "ضعوا من جديد طريق لعبة الإوزّة على الأرض، من 1 إلى 20."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Tirad los dos dados, juntad los puntos y avanzad contando desde vuestra casilla.",
+          "va": "Tireu els dos daus, ajunteu els punts i avanceu comptant des de la vostra casella.",
+          "en": "Roll both dice, put the dots together and move on, counting from your square.",
+          "fr": "Lancez les deux dés, réunissez les points et avancez en comptant depuis votre case.",
+          "ar": "ارموا النردين، واجمعوا النقاط، وتقدّموا عادّين من خانتكم."
+        }
+      },
+      {
+        "pictograma": "botella",
+        "texto": {
+          "es": "Después, poned 12 botellas de pie. En cada tirada, decid cuántas han caído y cuántas quedan.",
+          "va": "Després, poseu 12 botelles dretes. En cada tirada, digueu quantes n'han caigut i quantes en queden.",
+          "en": "Then stand up 12 bottles. On each go, say how many fell and how many are left.",
+          "fr": "Ensuite, mettez 12 bouteilles debout. À chaque lancer, dites combien sont tombées et combien il en reste.",
+          "ar": "بعد ذلك، أوقفوا 12 قارورة. وفي كل رمية، قولوا كم سقط وكم بقي."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Al terminar, contad cómo lo habéis pensado: ¿habéis seguido contando o habéis empezado desde el 1?",
+          "va": "En acabar, conteu com ho heu pensat: heu continuat comptant o heu començat des de l'1?",
+          "en": "When you finish, talk about how you worked it out: did you count on or start from 1?",
+          "fr": "À la fin, racontez comment vous avez réfléchi : vous avez continué à compter ou recommencé à 1 ?",
+          "ar": "عند الانتهاء، احكوا كيف فكّرتم: هل أكملتم العدّ أم بدأتم من 1؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad un solo dado y 10 botellas, como en las semanas anteriores.",
+      "va": "Feu servir un sol dau i 10 botelles, com en les setmanes anteriors.",
+      "en": "Use just one dice and 10 bottles, like in the previous weeks.",
+      "fr": "Utilisez un seul dé et 10 bouteilles, comme les semaines précédentes.",
+      "ar": "استعملوا نردًا واحدًا و10 قوارير، كما في الأسابيع السابقة."
+    },
+    "masDificil": {
+      "es": "En los bolos, tirad dos veces seguidas sin volver a levantar las botellas: ¿cuántas quedan al final?",
+      "va": "En les bitlles, tireu dues vegades seguides sense tornar a alçar les botelles: quantes en queden al final?",
+      "en": "In skittles, roll twice in a row without standing the bottles back up: how many are left at the end?",
+      "fr": "Aux quilles, lancez deux fois de suite sans relever les bouteilles : combien en reste-t-il à la fin ?",
+      "ar": "في البولينغ، ارموا مرتين متتاليتين من دون إيقاف القوارير من جديد: كم بقي في النهاية؟"
+    },
+    "paraQueSirve": {
+      "es": "Volver a lo jugado hace que lo aprendido se quede: contar, sumar y quitar son la base de todo lo que viene.",
+      "va": "Tornar a allò que s'ha jugat fa que el que s'ha aprés es quede: comptar, sumar i llevar són la base de tot el que vindrà.",
+      "en": "Going back to games already played makes the learning stick: counting, adding and taking away are the basis for everything that follows.",
+      "fr": "Revenir sur ce qu'on a joué aide à le retenir : compter, ajouter et enlever, c'est la base de tout ce qui vient ensuite.",
+      "ar": "العودة إلى ما لعبناه تجعل ما تعلّمناه يبقى: العدّ والجمع والنزع أساس كل ما سيأتي."
+    },
+    "aviso": {
+      "es": "Pegad los papeles al suelo para no resbalar y jugad a los bolos lejos de cosas que se puedan romper.",
+      "va": "Apegueu els papers a terra per a no relliscar i jugueu a les bitlles lluny de coses que es puguen trencar.",
+      "en": "Stick the sheets to the floor so nobody slips, and play skittles away from anything that could break.",
+      "fr": "Collez les feuilles au sol pour ne pas glisser et jouez aux quilles loin des objets qui peuvent se casser.",
+      "ar": "ألصقوا الأوراق بالأرض حتى لا ينزلق أحد، والعبوا البولينغ بعيدًا عن الأشياء التي يمكن أن تنكسر."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En la mesa hay 6 platos. Pablo pone 1 más para la abuela. ¿Cuántos platos hay ahora?",
+        "va": "Damunt de la taula hi ha 6 plats. Pablo en posa 1 més per a la iaia. Quants plats hi ha ara?",
+        "en": "There are 6 plates on the table. Pablo puts out 1 more for Grandma. How many plates are there now?",
+        "fr": "Sur la table, il y a 6 assiettes. Pablo en met 1 de plus pour sa grand-mère. Combien d'assiettes y a-t-il maintenant ?",
+        "ar": "على الطاولة 6 صحون. وضع بابلو صحنًا آخر للجدّة. كم صحنًا يوجد الآن؟"
+      },
+      "pista": {
+        "es": "Uno más es el número siguiente: ¿qué viene después del 6?",
+        "va": "Un més és el nombre següent: què ve després del 6?",
+        "en": "One more is the next number: what comes after 6?",
+        "fr": "Un de plus, c'est le nombre d'après : qu'est-ce qui vient après 6 ?",
+        "ar": "واحد أكثر هو العدد التالي: ماذا يأتي بعد 6؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 1",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 7 platos.",
+          "va": "Hi ha 7 plats.",
+          "en": "There are 7 plates.",
+          "fr": "Il y a 7 assiettes.",
+          "ar": "يوجد 7 صحون."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una poniendo la mesa en casa.",
+        "va": "Ara inventa'n tu una parant la taula a casa.",
+        "en": "Now you make one up while laying the table at home.",
+        "fr": "Maintenant, invente une question en mettant la table à la maison.",
+        "ar": "والآن لنخترع سؤالًا ونحن نجهّز المائدة في البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Tienes 10 garbanzos escondidos en las dos manos. En una hay 7. ¿Cuántos hay en la otra?",
+        "va": "Tens 10 cigrons amagats en les dues mans. En una n'hi ha 7. Quants n'hi ha en l'altra?",
+        "en": "You have 10 chickpeas hidden in your two hands. There are 7 in one. How many are in the other?",
+        "fr": "Tu as 10 pois chiches cachés dans tes deux mains. Dans l'une, il y en a 7. Combien y en a-t-il dans l'autre ?",
+        "ar": "عندنا 10 حبّات حمّص مخبّأة في اليدين. في يد 7. كم حبّة في الأخرى؟"
+      },
+      "pista": {
+        "es": "Levanta 7 dedos y cuenta los que faltan para llegar a 10.",
+        "va": "Alça 7 dits i compta els que falten per a arribar a 10.",
+        "en": "Hold up 7 fingers and count on until you get to 10.",
+        "fr": "Lève 7 doigts et compte ceux qui manquent pour arriver à 10.",
+        "ar": "لنرفع 7 أصابع ونعدّ كم ينقص للوصول إلى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 7",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En la otra mano hay 3: {{7 + 3 = 10}}.",
+          "va": "En l'altra mà n'hi ha 3: {{7 + 3 = 10}}.",
+          "en": "There are 3 in the other hand: {{7 + 3 = 10}}.",
+          "fr": "Dans l'autre main, il y en a 3 : {{7 + 3 = 10}}.",
+          "ar": "في اليد الأخرى 3: {{7 + 3 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra escondiendo 10 cosas en las manos.",
+        "va": "Inventa'n tu una altra amagant 10 coses en les mans.",
+        "en": "Make up another one by hiding 10 things in your hands.",
+        "fr": "Invente-en une autre en cachant 10 choses dans tes mains.",
+        "ar": "لنخترع سؤالًا آخر نخبّئ فيه 10 أشياء في اليدين."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En un plato hay 9 galletas. Nora y su tía se comen 4. ¿Cuántas quedan?",
+        "va": "En un plat hi ha 9 galetes. Nora i la seua tia se'n mengen 4. Quantes en queden?",
+        "en": "There are 9 biscuits on a plate. Nora and her aunt eat 4. How many are left?",
+        "fr": "Dans une assiette, il y a 9 biscuits. Nora et sa tante en mangent 4. Combien en reste-t-il ?",
+        "ar": "في صحن 9 بسكويتات. أكلت نورا وخالتها 4. كم بسكويتة بقيت؟"
+      },
+      "pista": {
+        "es": "Pon 9 cosas, aparta 4 y cuenta las que quedan.",
+        "va": "Posa 9 coses, aparta'n 4 i compta les que queden.",
+        "en": "Put out 9 things, move 4 aside and count what's left.",
+        "fr": "Mets 9 choses, écartes-en 4 et compte celles qui restent.",
+        "ar": "لنضع 9 أشياء، ونبعد 4، ونعدّ ما بقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 4",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 5 galletas: {{9 − 4 = 5}}.",
+          "va": "En queden 5: {{9 − 4 = 5}}.",
+          "en": "There are 5 biscuits left: {{9 − 4 = 5}}.",
+          "fr": "Il reste 5 biscuits : {{9 − 4 = 5}}.",
+          "ar": "بقيت 5 بسكويتات: {{9 − 4 = 5}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que alguien se come algo.",
+        "va": "Inventa'n tu una en què algú es menja alguna cosa.",
+        "en": "Make one up where someone eats something.",
+        "fr": "Invente une question où quelqu'un mange quelque chose.",
+        "ar": "لنخترع سؤالًا يأكل فيه أحدهم شيئًا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 4,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: en la oca estás en la casilla 13 y sacas un 5. ¿A qué casilla llegas?",
+        "va": "Per a recordar: en l'oca estàs en la casella 13 i trus un 5. A quina casella arribes?",
+        "en": "Let's remember: in the Goose game you're on square 13 and roll a 5. Which square do you land on?",
+        "fr": "Pour se souvenir : au jeu de l'oie, tu es sur la case 13 et tu fais 5. Sur quelle case arrives-tu ?",
+        "ar": "لنتذكّر: في لعبة الإوزّة نحن على الخانة 13 وظهر لنا 5. إلى أي خانة نصل؟"
+      },
+      "pista": {
+        "es": "Di 13 y sigue contando 5 más con los dedos.",
+        "va": "Digues 13 i continua comptant-ne 5 més amb els dits.",
+        "en": "Say 13 and count on 5 more with your fingers.",
+        "fr": "Dis 13 et continue en comptant 5 de plus sur tes doigts.",
+        "ar": "لنقُل 13 ونكمل العدّ 5 أخرى بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "13 + 5",
+        "resultado": 18,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llegas a la casilla 18.",
+          "va": "Arribes a la casella 18.",
+          "en": "You land on square 18.",
+          "fr": "Tu arrives sur la case 18.",
+          "ar": "نصل إلى الخانة 18."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra tirando el dado de verdad.",
+        "va": "Inventa'n tu una altra tirant el dau de veritat.",
+        "en": "Make up another one by really rolling the dice.",
+        "fr": "Invente-en une autre en lançant vraiment le dé.",
+        "ar": "لنخترع سؤالًا آخر برمي النرد فعلًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo que hemos jugado estas semanas, ¿qué te ha gustado más? Enséñame cómo se juega.",
+        "va": "De tot el que hem jugat aquestes setmanes, què t'ha agradat més? Ensenya'm com es juga.",
+        "en": "Of everything we've played these weeks, what did you like best? Show me how to play it.",
+        "fr": "De tout ce qu'on a joué ces semaines-ci, qu'est-ce que tu as préféré ? Montre-moi comment on y joue.",
+        "ar": "من كل ما لعبناه في هذه الأسابيع، ما الذي أعجبنا أكثر؟ لنُرِ كيف نلعبه."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Te acuerdas de las pinzas, de los garbanzos o de los bolos?»",
+        "va": "Si no sap per on començar: «Te'n recordes de les pinces, dels cigrons o de les bitlles?»",
+        "en": "If they don't know where to start: “Do you remember the pegs, the chickpeas or the skittles?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu te souviens des pinces, des pois chiches ou des quilles ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نتذكّر الملاقط، أو حبّات الحمّص، أو البولينغ؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Dejad que os enseñe el juego como si no lo conocierais. Preguntad «¿y luego qué hago?» y jugad con sus reglas.",
+          "va": "Deixeu que vos ensenye el joc com si no el coneguéreu. Pregunteu «i després què faig?» i jugueu amb les seues regles.",
+          "en": "Let them teach you the game as if you didn't know it. Ask “And then what do I do?” and play by their rules.",
+          "fr": "Laissez-vous expliquer le jeu comme si vous ne le connaissiez pas. Demandez « Et après, je fais quoi ? » et jouez avec ses règles.",
+          "ar": "دعوا الطفل أو الطفلة يعلّمكم اللعبة كأنكم لا تعرفونها. اسألوا «وماذا أفعل بعد ذلك؟» والعبوا بقواعده أو قواعدها."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "ca63ddb392a9"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "ca63ddb392a9"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "ca63ddb392a9"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "ca63ddb392a9"
+      }
+    }
+  }
+}

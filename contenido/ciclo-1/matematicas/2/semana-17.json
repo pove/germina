@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s17",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 17,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: cartas y dados",
+    "va": "Setmana de recordar: cartes i daus",
+    "en": "Remembering week: cards and dice",
+    "fr": "Semaine de rappel : cartes et dés",
+    "ar": "أسبوع التذكّر: أوراق اللعب والنرد"
+  },
+  "objetivo": {
+    "es": "Esta semana juegan con cartas y dados a lo que ya conocen: el doble de un número, las parejas que suman 10 y contar hacia atrás. Es una semana ligera, para jugar en familia sin prisa.",
+    "va": "Aquesta setmana juguen amb cartes i daus a allò que ja coneixen: el doble (doble) d'un nombre, les parelles que sumen 10 i comptar cap arrere. És una setmana lleugera, per a jugar en família sense pressa.",
+    "en": "This week they play with cards and dice using what they already know: the double (doble) of a number, pairs that make 10 and counting backwards. It's a light week, for playing as a family without hurry.",
+    "fr": "Cette semaine, on joue avec des cartes et des dés à ce qu'on connaît déjà : le double (doble) d'un nombre, les paires qui font 10 et compter à rebours. C'est une semaine légère, pour jouer en famille sans se presser.",
+    "ar": "هذا الأسبوع يلعب الأطفال بأوراق اللعب والنرد بما يعرفونه من قبل: الضعف (doble) لعدد ما، والأزواج التي مجموعها 10، والعدّ إلى الوراء. إنه أسبوع خفيف، للّعب في العائلة من غير عجلة."
+  },
+  "comoAyudar": {
+    "es": "Jugad en el mismo equipo: si no sale, contad juntos con los dedos y seguid. Lo que cuenta es acertar, no correr.",
+    "va": "Jugueu en el mateix equip: si no ix, compteu junts amb els dits i seguiu. El que compta és encertar, no córrer.",
+    "en": "Play on the same team: if it doesn't come, count together on your fingers and carry on. What matters is getting it right, not rushing.",
+    "fr": "Jouez dans la même équipe : si ça ne vient pas, comptez ensemble sur les doigts et continuez. Ce qui compte, c'est de trouver, pas d'aller vite.",
+    "ar": "العبوا في الفريق نفسه: إذا لم يأتِ الجواب، عدّوا معًا بالأصابع وتابعوا. المهمّ أن نصيب، لا أن نسرع."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Un minuto en equipo",
+      "va": "Un minut en equip",
+      "en": "One minute as a team",
+      "fr": "Une minute en équipe",
+      "ar": "دقيقة واحدة كفريق"
+    },
+    "material": [
+      {
+        "es": "Una baraja sin figuras ni dieces, con las cartas del 1 al 9 (o cartas hechas en papel)",
+        "va": "Una baralla sense figures ni deus, amb les cartes de l'1 al 9 (o cartes fetes en paper)",
+        "en": "A pack of cards without picture cards or tens, with the cards from 1 to 9 (or cards made of paper)",
+        "fr": "Un jeu de cartes sans figures ni dix, avec les cartes de 1 à 9 (ou des cartes faites en papier)",
+        "ar": "مجموعة أوراق لعب من دون الأوراق المصوّرة ولا العشرات، فيها الأوراق من 1 إلى 9 (أو أوراق مصنوعة من الورق)"
+      },
+      {
+        "es": "Un dado",
+        "va": "Un dau",
+        "en": "A die",
+        "fr": "Un dé",
+        "ar": "حجر نرد"
+      },
+      {
+        "es": "Unas pinzas de la ropa",
+        "va": "Unes pinces de la roba",
+        "en": "Some clothes pegs",
+        "fr": "Quelques pinces à linge",
+        "ar": "بعض ملاقط الغسيل"
+      },
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina stopwatch",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت Germina"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Primero, sin reloj: tirad el dado y decid el doble. Si sale un 4, «{{4 + 4 = 8}}».",
+          "va": "Primer, sense rellotge: tireu el dau i digueu el doble. Si ix un 4, «{{4 + 4 = 8}}».",
+          "en": "First, without the clock: roll the die and say the double. If you get a 4, “{{4 + 4 = 8}}”.",
+          "fr": "D'abord, sans chrono : lancez le dé et dites le double. Si vous faites 4, « {{4 + 4 = 8}} ».",
+          "ar": "أولًا، بلا مؤقّت: ارموا حجر النرد وقولوا الضعف. إذا ظهر 4، نقول «{{4 + 4 = 8}}»."
+        }
+      },
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Luego sacad una carta y decid cuánto le falta para 10. Si sale un 7, faltan 3.",
+          "va": "Després traieu una carta i digueu quant falta (cuánto falta) per a 10. Si ix un 7, en falten 3.",
+          "en": "Then draw a card and say how many more (cuánto falta) make 10. If you get a 7, 3 more make 10.",
+          "fr": "Ensuite, tirez une carte et dites combien il manque (cuánto falta) pour faire 10. Si c'est un 7, il manque 3.",
+          "ar": "ثم اسحبوا ورقة وقولوا كم ينقص (cuánto falta) لتصل إلى 10. إذا كانت 7، ينقص 3."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Ahora, con el cronómetro en 1 minuto: la persona adulta tira el dado o saca carta y el niño o niña responde. Cada acierto, una pinza al montón.",
+          "va": "Ara, amb el cronòmetre en 1 minut: la persona adulta tira el dau o trau carta i el xiquet o la xiqueta respon. Cada encert, una pinça al munt.",
+          "en": "Now, with the stopwatch at 1 minute: the adult rolls the die or draws a card and the child answers. Each right answer, one peg on the pile.",
+          "fr": "Maintenant, avec le chrono sur 1 minute : l'adulte lance le dé ou tire une carte et l'enfant répond. À chaque bonne réponse, une pince sur le tas.",
+          "ar": "والآن، مع المؤقّت على دقيقة واحدة: يرمي الشخص البالغ حجر النرد أو يسحب ورقة، ويجيب الطفل أو الطفلة. مع كل إجابة صحيحة، نضع ملقطًا في الكومة."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Contad las pinzas del montón. Jugad otra vez, a ver si juntos llegáis a alguna más.",
+          "va": "Compteu les pinces del munt. Jugueu una altra vegada, a veure si junts n'arribeu a alguna més.",
+          "en": "Count the pegs on the pile. Play again and see if together you can get one more.",
+          "fr": "Comptez les pinces du tas. Rejouez, pour voir si ensemble vous en avez une de plus.",
+          "ar": "عدّوا الملاقط في الكومة. العبوا مرة أخرى، لنرى إن كنّا معًا نصل إلى ملقط إضافي."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad solo con el dado y decid el doble con los dedos de las dos manos.",
+      "va": "Jugueu només amb el dau i digueu el doble amb els dits de les dues mans.",
+      "en": "Play only with the die and say the double using the fingers of both hands.",
+      "fr": "Jouez seulement avec le dé et dites le double avec les doigts des deux mains.",
+      "ar": "العبوا بحجر النرد فقط، وقولوا الضعف بأصابع اليدين."
+    },
+    "masDificil": {
+      "es": "Pensad la carta como decenas: un 3 es 30. Decid cuánto le falta para 100.",
+      "va": "Penseu la carta com a desenes (decenas): un 3 és 30. Digueu quant li falta per a 100.",
+      "en": "Think of the card as tens (decenas): a 3 is 30. Say how many more make 100.",
+      "fr": "Pensez la carte en dizaines (decenas) : un 3, c'est 30. Dites combien il manque pour faire 100.",
+      "ar": "لنعتبر الورقة عشرات (decenas): الـ 3 تصبح 30. قولوا كم ينقص لتصل إلى 100."
+    },
+    "paraQueSirve": {
+      "es": "Los dobles y las parejas del 10 son atajos para sumar y restar de cabeza. Cuanto más se juegan, más rápido salen solos.",
+      "va": "Els dobles i les parelles del 10 són dreceres per a sumar i restar de memòria. Com més s'hi juga, més prompte ixen sols.",
+      "en": "Doubles and pairs that make 10 are shortcuts for adding and taking away in your head. The more you play them, the sooner they come by themselves.",
+      "fr": "Les doubles et les paires qui font 10 sont des raccourcis pour additionner et soustraire de tête. Plus on y joue, plus ils viennent tout seuls.",
+      "ar": "الأضعاف والأزواج التي مجموعها 10 طرق مختصرة للجمع والطرح في الذهن. كلما لعبنا بها أكثر، جاءت وحدها أسرع."
+    },
+    "rapidez": {
+      "segundos": 60,
+      "seCuenta": {
+        "es": "aciertos",
+        "va": "encerts",
+        "en": "right answers",
+        "fr": "bonnes réponses",
+        "ar": "الإجابات الصحيحة"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Lucía tira el dado y sale un 6. ¿Cuál es el doble de 6?",
+        "va": "Lucía tira el dau i ix un 6. Quin és el doble de 6?",
+        "en": "Lucía rolls the die and gets a 6. What is double 6?",
+        "fr": "Lucía lance le dé et fait 6. Quel est le double de 6 ?",
+        "ar": "رمت لوسيا حجر النرد فظهر 6. ما ضعف العدد 6؟"
+      },
+      "pista": {
+        "es": "Levanta 6 dedos, luego 6 más, y cuéntalos todos.",
+        "va": "Alça 6 dits, després 6 més, i compta'ls tots.",
+        "en": "Hold up 6 fingers, then 6 more, and count them all.",
+        "fr": "Lève 6 doigts, puis 6 de plus, et compte-les tous.",
+        "ar": "لنرفع 6 أصابع، ثم 6 أخرى، ونعدّها كلها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 6",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El doble de 6 es 12: {{6 + 6 = 12}}.",
+          "va": "El doble de 6 és 12: {{6 + 6 = 12}}.",
+          "en": "Double 6 is 12: {{6 + 6 = 12}}.",
+          "fr": "Le double de 6, c'est 12 : {{6 + 6 = 12}}.",
+          "ar": "ضعف 6 هو 12: {{6 + 6 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Tira tú el dado e inventa otra con el doble del número que salga.",
+        "va": "Tira tu el dau i inventa'n una altra amb el doble del nombre que isca.",
+        "en": "Roll the die yourself and make up another one with the double of the number you get.",
+        "fr": "Lance le dé et invente-en une autre avec le double du nombre qui sort.",
+        "ar": "لنرمِ حجر النرد ونخترع سؤالًا آخر بضعف العدد الذي يظهر."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Youssef saca un 7 de la baraja. ¿Cuánto le falta para llegar a 10?",
+        "va": "Youssef trau un 7 de la baralla. Quant li falta per a arribar a 10?",
+        "en": "Youssef draws a 7 from the pack. How many more make 10?",
+        "fr": "Youssef tire un 7 du paquet. Combien lui manque-t-il pour arriver à 10 ?",
+        "ar": "سحب يوسف الورقة 7. كم ينقصه ليصل إلى 10؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde 7 hasta 10.",
+        "va": "Compta amb els dits des de 7 fins a 10.",
+        "en": "Count on your fingers from 7 up to 10.",
+        "fr": "Compte sur tes doigts de 7 jusqu'à 10.",
+        "ar": "لنعدّ بالأصابع من 7 إلى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 7",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 3: {{7 + 3 = 10}}.",
+          "va": "Li'n falten 3: {{7 + 3 = 10}}.",
+          "en": "He needs 3: {{7 + 3 = 10}}.",
+          "fr": "Il lui manque 3 : {{7 + 3 = 10}}.",
+          "ar": "ينقصه 3: {{7 + 3 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Saca tú una carta e inventa otra pregunta para llegar a 10.",
+        "va": "Trau tu una carta i inventa't una altra pregunta per a arribar a 10.",
+        "en": "Draw a card yourself and make up another question to get to 10.",
+        "fr": "Tire une carte et invente une autre question pour arriver à 10.",
+        "ar": "لنسحب ورقة ونخترع سؤالًا آخر للوصول إلى 10."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Valentina tiene una carta de 60 y busca su pareja para llegar a 100. ¿Qué carta busca?",
+        "va": "Valentina té una carta de 60 i busca la seua parella per a arribar a 100. Quina carta busca?",
+        "en": "Valentina has a 60 card and is looking for its partner to make 100. Which card is she looking for?",
+        "fr": "Valentina a une carte de 60 et cherche sa paire pour arriver à 100. Quelle carte cherche-t-elle ?",
+        "ar": "مع فالنتينا ورقة عليها 60، وتبحث عن شريكتها لتصل إلى 100. أيّ ورقة تبحث عنها؟"
+      },
+      "pista": {
+        "es": "Piensa en 6 y 4, que juntos hacen 10.",
+        "va": "Pensa en 6 i 4, que junts fan 10.",
+        "en": "Think of 6 and 4, which make 10 together.",
+        "fr": "Pense à 6 et 4, qui font 10 ensemble.",
+        "ar": "لنفكّر في 6 و4، فمجموعهما 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 60",
+        "resultado": 40,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Busca la carta de 40: {{60 + 40 = 100}}.",
+          "va": "Busca la carta de 40: {{60 + 40 = 100}}.",
+          "en": "She's looking for the 40 card: {{60 + 40 = 100}}.",
+          "fr": "Elle cherche la carte de 40 : {{60 + 40 = 100}}.",
+          "ar": "تبحث عن الورقة 40: {{60 + 40 = 100}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pareja de decenas que llegue a 100.",
+        "va": "Inventa't tu una altra parella de desenes que arribe a 100.",
+        "en": "Make up another pair of tens that makes 100.",
+        "fr": "Invente une autre paire de dizaines qui fait 100.",
+        "ar": "لنخترع زوجًا آخر من العشرات مجموعه 100."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "escala-descendente",
+      "texto": {
+        "es": "Para recordar: cuenta hacia atrás de 10 en 10 desde 90. ¿Qué número dices justo después del 50?",
+        "va": "Per a recordar: compta cap arrere de 10 en 10 des de 90. Quin nombre dius just després del 50?",
+        "en": "Let's remember: count backwards in tens from 90. What number do you say right after 50?",
+        "fr": "Pour se souvenir : compte à rebours de 10 en 10 à partir de 90. Quel nombre dis-tu juste après 50 ?",
+        "ar": "لنتذكّر: لنعدّ إلى الوراء عشرة عشرة من 90. ما العدد الذي نقوله مباشرة بعد 50؟"
+      },
+      "pista": {
+        "es": "Di despacio: 90, 80, 70… y para al llegar al 50.",
+        "va": "Digues a poc a poc: 90, 80, 70… i para en arribar al 50.",
+        "en": "Say slowly: 90, 80, 70… and stop when you get to 50.",
+        "fr": "Dis lentement : 90, 80, 70… et arrête-toi en arrivant à 50.",
+        "ar": "لنقل ببطء: 90، 80، 70… ونتوقّف عند الوصول إلى 50."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "50 - 10",
+        "resultado": 40,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Después del 50 viene el 40.",
+          "va": "Després del 50 ve el 40.",
+          "en": "After 50 comes 40.",
+          "fr": "Après 50 vient 40.",
+          "ar": "بعد 50 يأتي 40."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra cuenta atrás de 10 en 10 desde otro número.",
+        "va": "Inventa't tu un altre compte arrere de 10 en 10 des d'un altre nombre.",
+        "en": "Make up another countdown in tens from a different number.",
+        "fr": "Invente un autre compte à rebours de 10 en 10 à partir d'un autre nombre.",
+        "ar": "لنخترع عدًّا آخر إلى الوراء عشرة عشرة من عدد آخر."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "En el juego del minuto, ¿qué te ha salido más fácil, los dobles o lo que falta para 10? Explícame por qué.",
+        "va": "En el joc del minut, què t'ha eixit més fàcil, els dobles o el que falta per a 10? Explica'm per què.",
+        "en": "In the one-minute game, what was easier for you, the doubles or what's missing to make 10? Tell me why.",
+        "fr": "Dans le jeu de la minute, qu'est-ce qui a été le plus facile, les doubles ou ce qui manque pour faire 10 ? Explique-moi pourquoi.",
+        "ar": "في لعبة الدقيقة، ما الأسهل علينا: الأضعاف أم ما ينقص للوصول إلى 10؟ لنشرح لماذا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cómo has sabido tan rápido el doble de 5?»",
+        "va": "Si no sap per on començar: «Com has sabut tan ràpid el doble de 5?»",
+        "en": "If they don't know where to start: “How did you know double 5 so fast?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Comment as-tu su si vite le double de 5 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كيف عرفنا ضعف 5 بهذه السرعة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir «me lo sé», «con los dedos» o «las dos manos». Todo vale: escuchad y dad las gracias por la explicación.",
+          "va": "Pot dir «me'l sé», «amb els dits» o «les dues mans». Tot val: escolteu i doneu les gràcies per l'explicació.",
+          "en": "They might say “I just know it”, “with my fingers” or “both hands”. Anything goes: listen and say thank you for the explanation.",
+          "fr": "Votre enfant peut dire « je le sais », « avec les doigts » ou « les deux mains ». Tout convient : écoutez et dites merci pour l'explication.",
+          "ar": "قد تكون الإجابة «أعرفه»، أو «بالأصابع»، أو «باليدين». كل إجابة تصلح: استمعوا وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "ad701dd99aff"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "ad701dd99aff"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "ad701dd99aff"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "ad701dd99aff"
+      }
+    }
+  }
+}

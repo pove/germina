@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s05",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 5,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Sumar y llevarse una",
+    "va": "Sumar i portar-se'n una",
+    "en": "Adding and carrying one",
+    "fr": "Additionner avec une retenue",
+    "ar": "الجمع مع الاحتفاظ بواحد"
+  },
+  "objetivo": {
+    "es": "Esta semana suman con llevada: cuando se juntan 10 unidades o más, se cambian por una decena. En clase lo llaman «llevarse una».",
+    "va": "Aquesta setmana sumen amb llevada: quan s'ajunten 10 unitats (unidades) o més, es canvien per una desena (decena). A classe ho diuen en castellà: «llevarse una».",
+    "en": "This week they add with regrouping (llevada): when 10 or more ones (unidades) come together, they are swapped for a ten (decena). In class, in Spanish, they call it «llevarse una» (carrying one).",
+    "fr": "Cette semaine, on additionne avec retenue (llevada) : quand on réunit 10 unités (unidades) ou plus, on les échange contre une dizaine (decena). En classe, en espagnol, on dit « llevarse una » (retenir un).",
+    "ar": "هذا الأسبوع يجمع الأطفال مع الاحتفاظ (llevada): عندما تجتمع 10 آحاد (unidades) أو أكثر، تُستبدل بعشرة (decena). في القسم يسمّونها بالإسبانية «llevarse una» (الاحتفاظ بواحد)."
+  },
+  "comoAyudar": {
+    "es": "Haced el cambio con las legumbres antes de hacer la cuenta: 10 sueltas por un vaso. Si se olvida de la que se lleva, contad juntos otra vez las sueltas.",
+    "va": "Feu el canvi amb els llegums abans de fer el compte: 10 solts per un got. Si s'oblida de la que se'n porta, torneu a comptar junts els solts.",
+    "en": "Do the swap with the beans before doing the sum: 10 loose beans for one cup. If they forget the one they carry, count the loose beans together again.",
+    "fr": "Faites l'échange avec les haricots avant de faire le calcul : 10 haricots tout seuls contre un verre. S'il ou elle oublie la retenue, recomptez ensemble les haricots tout seuls.",
+    "ar": "قوموا بالاستبدال بالبقول قبل الحساب: 10 حبات منفردة مقابل كوب. وإذا نُسي الواحد المحتفَظ به، فعدّوا الحبات المنفردة معًا من جديد."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c1.5.1",
+    "matematicas.c1.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El banco de las legumbres",
+      "va": "El banc dels llegums",
+      "en": "The bean bank",
+      "fr": "La banque des haricots",
+      "ar": "بنك البقول"
+    },
+    "material": [
+      {
+        "es": "Un buen puñado de legumbres secas",
+        "va": "Un bon grapat de llegums secs",
+        "en": "A good handful of dried beans",
+        "fr": "Une bonne poignée de légumes secs",
+        "ar": "حفنة كبيرة من البقول الجافة"
+      },
+      {
+        "es": "Unos 8 vasos pequeños",
+        "va": "Uns 8 gots menuts",
+        "en": "About 8 small cups",
+        "fr": "Environ 8 petits verres",
+        "ar": "نحو 8 أكواب صغيرة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "Formad el 28 con legumbres: 2 vasos de 10 y 8 sueltas. Al lado, formad el 15: 1 vaso y 5 sueltas.",
+          "va": "Formeu el 28 amb llegums: 2 gots de 10 i 8 solts. Al costat, formeu el 15: 1 got i 5 solts.",
+          "en": "Make 28 with beans: 2 cups of 10 and 8 loose ones. Beside it, make 15: 1 cup and 5 loose ones.",
+          "fr": "Formez 28 avec des haricots : 2 verres de 10 et 8 haricots tout seuls. À côté, formez 15 : 1 verre et 5 haricots tout seuls.",
+          "ar": "كوّنوا 28 بالبقول: كوبان في كل منهما 10، و8 حبات منفردة. وبجانبه كوّنوا 15: كوب و5 حبات منفردة."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Juntad las sueltas: 8 y 5 son 13. ¡Hay más de 10!",
+          "va": "Ajunteu els solts: 8 i 5 són 13. N'hi ha més de 10!",
+          "en": "Put the loose beans together: 8 and 5 make 13. That's more than 10!",
+          "fr": "Réunissez les haricots tout seuls : 8 et 5, ça fait 13. Il y en a plus de 10 !",
+          "ar": "اجمعوا الحبات المنفردة: 8 و5 تساوي 13. أكثر من 10!"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Id al banco: cambiad 10 sueltas por un vaso lleno. Ahora hay 4 vasos y 3 sueltas.",
+          "va": "Aneu al banc: canvieu 10 solts per un got ple. Ara hi ha 4 gots i 3 solts.",
+          "en": "Go to the bank: swap 10 loose beans for a full cup. Now there are 4 cups and 3 loose beans.",
+          "fr": "Allez à la banque : échangez 10 haricots tout seuls contre un verre plein. Maintenant, il y a 4 verres et 3 haricots tout seuls.",
+          "ar": "اذهبوا إلى البنك: استبدلوا 10 حبات منفردة بكوب ممتلئ. الآن عندكم 4 أكواب و3 حبات منفردة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decid el número que sale: {{28 + 15 = 43}}. Probad con otras sumas, como {{36 + 27}}.",
+          "va": "Digueu el nombre que ix: {{28 + 15 = 43}}. Proveu amb altres sumes, com ara {{36 + 27}}.",
+          "en": "Say the number you get: {{28 + 15 = 43}}. Try other additions, like {{36 + 27}}.",
+          "fr": "Dites le nombre obtenu : {{28 + 15 = 43}}. Essayez d'autres additions, comme {{36 + 27}}.",
+          "ar": "قولوا العدد الناتج: {{28 + 15 = 43}}. جرّبوا عمليات جمع أخرى، مثل {{36 + 27}}."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con sumas en las que se junten justo 10 sueltas, como {{24 + 16}}.",
+      "va": "Comenceu amb sumes en què s'ajunten just 10 solts, com ara {{24 + 16}}.",
+      "en": "Start with additions where exactly 10 loose beans come together, like {{24 + 16}}.",
+      "fr": "Commencez par des additions où l'on réunit juste 10 haricots tout seuls, comme {{24 + 16}}.",
+      "ar": "ابدؤوا بعمليات جمع تجتمع فيها 10 حبات منفردة بالضبط، مثل {{24 + 16}}."
+    },
+    "masDificil": {
+      "es": "Añadid un plato de 100 y sumad números más grandes, como {{145 + 38}}.",
+      "va": "Afegiu un plat de 100 i sumeu nombres més grans, com ara {{145 + 38}}.",
+      "en": "Add a plate of 100 and add bigger numbers, like {{145 + 38}}.",
+      "fr": "Ajoutez une assiette de 100 et additionnez des nombres plus grands, comme {{145 + 38}}.",
+      "ar": "أضيفوا صحنًا فيه 100 واجمعوا أعدادًا أكبر، مثل {{145 + 38}}."
+    },
+    "paraQueSirve": {
+      "es": "Cambiar 10 sueltas por un vaso es justo lo que significa «llevarse una». Si lo ven con las manos, la suma en columna tiene sentido.",
+      "va": "Canviar 10 solts per un got és just el que vol dir «portar-se'n una». Si ho veuen amb les mans, la suma en columna té sentit.",
+      "en": "Swapping 10 loose beans for a cup is exactly what “carrying one” means. If they see it with their hands, column addition makes sense.",
+      "fr": "Échanger 10 haricots tout seuls contre un verre, c'est exactement ce que veut dire « retenir un ». S'ils le voient avec les mains, l'addition en colonnes prend tout son sens.",
+      "ar": "استبدال 10 حبات منفردة بكوب هو بالضبط معنى «الاحتفاظ بواحد». وعندما يرى الأطفال ذلك بأيديهم، يصبح الجمع العمودي مفهومًا."
+    },
+    "aviso": {
+      "es": "Guardad las legumbres lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els llegums lluny de germans o germanes menuts.",
+      "en": "Keep the beans away from younger brothers and sisters.",
+      "fr": "Gardez les haricots loin des petits frères et sœurs.",
+      "ar": "أبعدوا البقول عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En la estantería hay 26 cuentos y la abuela trae 7 más. ¿Cuántos cuentos hay ahora?",
+        "va": "En la prestatgeria hi ha 26 contes i l'àvia en porta 7 més. Quants contes hi ha ara?",
+        "en": "There are 26 storybooks on the shelf and Grandma brings 7 more. How many storybooks are there now?",
+        "fr": "Sur l'étagère, il y a 26 contes et la grand-mère en apporte 7 de plus. Combien de contes y a-t-il maintenant ?",
+        "ar": "على الرفّ 26 قصة، وأحضرت الجدّة 7 قصص أخرى. كم قصة على الرفّ الآن؟"
+      },
+      "pista": {
+        "es": "6 y 7 son 13: con 10 de ellas haces una decena más.",
+        "va": "6 i 7 són 13: amb 10 d'elles fas una desena més.",
+        "en": "6 and 7 make 13: with 10 of them you make one more ten.",
+        "fr": "6 et 7, ça fait 13 : avec 10 d'entre elles, tu fais une dizaine de plus.",
+        "ar": "6 و7 تساوي 13: بعشرة منها نكوّن عشرة إضافية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "26 + 7",
+        "resultado": 33,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 33 cuentos.",
+          "va": "Hi ha 33 contes.",
+          "en": "There are 33 storybooks.",
+          "fr": "Il y a 33 contes.",
+          "ar": "على الرفّ 33 قصة."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una en la que, al juntar las unidades, pasen de 10.",
+        "va": "Ara inventa'n tu una en què, en ajuntar les unitats, passen de 10.",
+        "en": "Now you make one up where, when you put the ones together, they go past 10.",
+        "fr": "Maintenant, invente une question où, en réunissant les unités, on dépasse 10.",
+        "ar": "والآن لنخترع سؤالًا تتجاوز فيه الآحاد 10 عندما نجمعها."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el autobús van 38 personas sentadas y 14 de pie. ¿Cuántas personas van en el autobús?",
+        "va": "En l'autobús van 38 persones assegudes i 14 dretes. Quantes persones van en l'autobús?",
+        "en": "On the bus there are 38 people sitting and 14 standing. How many people are on the bus?",
+        "fr": "Dans le bus, il y a 38 personnes assises et 14 debout. Combien de personnes y a-t-il dans le bus ?",
+        "ar": "في الحافلة 38 شخصًا جالسًا و14 واقفًا. كم شخصًا في الحافلة؟"
+      },
+      "pista": {
+        "es": "Junta las unidades, 8 y 4, y si pasan de 10, haz una decena más.",
+        "va": "Ajunta les unitats, 8 i 4, i si passen de 10, fes una desena més.",
+        "en": "Put the ones together, 8 and 4, and if they go past 10, make one more ten.",
+        "fr": "Réunis les unités, 8 et 4, et si ça dépasse 10, fais une dizaine de plus.",
+        "ar": "لنجمع الآحاد، 8 و4، وإذا تجاوزت 10 نكوّن عشرة إضافية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "38 + 14",
+        "resultado": 52,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 52 personas: {{38 + 14 = 52}}.",
+          "va": "Hi van 52 persones: {{38 + 14 = 52}}.",
+          "en": "There are 52 people: {{38 + 14 = 52}}.",
+          "fr": "Il y a 52 personnes : {{38 + 14 = 52}}.",
+          "ar": "في الحافلة 52 شخصًا: {{38 + 14 = 52}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos grupos de personas o de cosas que se juntan.",
+        "va": "Inventa'n tu una altra amb dos grups de persones o de coses que s'ajunten.",
+        "en": "Make up another one with two groups of people or things that come together.",
+        "fr": "Invente-en une autre avec deux groupes de personnes ou de choses qu'on réunit.",
+        "ar": "لنخترع سؤالًا آخر بمجموعتين من الأشخاص أو الأشياء تجتمعان."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para una fiesta, el padre de Wei infla 45 globos y luego 27 más. ¿Cuántos globos ha inflado?",
+        "va": "Per a una festa, el pare de Wei infla 45 globus i després 27 més. Quants globus ha inflat?",
+        "en": "For a party, Wei's dad blows up 45 balloons and then 27 more. How many balloons has he blown up?",
+        "fr": "Pour une fête, le papa de Wei gonfle 45 ballons, puis 27 de plus. Combien de ballons a-t-il gonflés ?",
+        "ar": "لحفلة، نفخ والد وي 45 بالونًا، ثم 27 بالونًا آخر. كم بالونًا نفخ؟"
+      },
+      "pista": {
+        "es": "Junta las unidades, 5 y 7, y mira cuántas decenas salen.",
+        "va": "Ajunta les unitats, 5 i 7, i mira quantes desenes ixen.",
+        "en": "Put the ones together, 5 and 7, and see how many tens you get.",
+        "fr": "Réunis les unités, 5 et 7, et regarde combien de dizaines ça fait.",
+        "ar": "لنجمع الآحاد، 5 و7، ونرى كم عشرة تخرج."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "45 + 27",
+        "resultado": 72,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Ha inflado 72 globos.",
+          "va": "N'ha inflat 72.",
+          "en": "He has blown up 72 balloons.",
+          "fr": "Il a gonflé 72 ballons.",
+          "ar": "نفخ 72 بالونًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de una fiesta en la que se juntan cosas.",
+        "va": "Inventa'n tu una d'una festa on s'ajunten coses.",
+        "en": "Make one up about a party where things get put together.",
+        "fr": "Invente une question sur une fête où l'on réunit des choses.",
+        "ar": "لنخترع سؤالًا عن حفلة تُجمع فيها أشياء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 4,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: ¿qué número va justo antes del 600?",
+        "va": "Per a recordar: quin nombre va just abans del 600?",
+        "en": "Let's remember: what number comes just before 600?",
+        "fr": "Pour se souvenir : quel nombre vient juste avant 600 ?",
+        "ar": "لنتذكّر: ما العدد الذي يأتي مباشرة قبل 600؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia atrás, de uno en uno, desde el 600.",
+        "va": "Compta cap arrere, d'un en un, des del 600.",
+        "en": "Count backwards, one at a time, from 600.",
+        "fr": "Compte à rebours, un par un, à partir de 600.",
+        "ar": "لنعدّ تنازليًا، واحدًا واحدًا، من 600."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "600 - 1",
+        "resultado": 599,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Va el 599.",
+          "va": "Va el 599.",
+          "en": "It's 599.",
+          "fr": "C'est 599.",
+          "ar": "إنه 599."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un número redondo, como 300 o 800.",
+        "va": "Inventa'n tu una altra amb un nombre redó, com 300 o 800.",
+        "en": "Make up another one with a round number, like 300 or 800.",
+        "fr": "Invente-en une autre avec un nombre rond, comme 300 ou 800.",
+        "ar": "لنخترع سؤالًا آخر بعدد مدوّر، مثل 300 أو 800."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué quiere decir «llevarse una» en una suma? Explícamelo con legumbres, con dibujos o con los dedos.",
+        "va": "Què vol dir «portar-se'n una» en una suma? Explica-m'ho amb llegums, amb dibuixos o amb els dits.",
+        "en": "What does “carrying one” mean in an addition? Explain it to me with beans, drawings or your fingers.",
+        "fr": "Que veut dire « retenir un » dans une addition ? Explique-le-moi avec des haricots, des dessins ou tes doigts.",
+        "ar": "ماذا يعني «الاحتفاظ بواحد» في الجمع؟ لنشرح ذلك بالبقول أو بالرسوم أو بالأصابع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué hacías en el banco cuando tenías muchas sueltas?»",
+        "va": "Si no sap per on començar: «Què feies en el banc quan tenies molts solts?»",
+        "en": "If they don't know where to start: “What did you do at the bank when you had lots of loose beans?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Que faisais-tu à la banque quand tu avais beaucoup de haricots tout seuls ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا كنا نفعل في البنك عندما تكثر الحبات المنفردة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Si dice algo como «diez sueltas son un vaso», lo ha entendido aunque no use esas palabras. Escuchad y dad las gracias por la explicación.",
+          "va": "Si diu alguna cosa com «deu solts són un got», ho ha entés encara que no use eixes paraules. Escolteu i doneu les gràcies per l'explicació.",
+          "en": "If they say something like “ten loose ones make a cup”, they've understood it, even without those words. Listen and say thank you for the explanation.",
+          "fr": "S'il ou elle dit quelque chose comme « dix haricots tout seuls, c'est un verre », c'est compris, même sans ces mots-là. Écoutez et dites merci pour l'explication.",
+          "ar": "إذا قيل شيء مثل «عشر حبات منفردة تساوي كوبًا»، فالفكرة مفهومة حتى من دون تلك الكلمات. استمعوا وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "604cdd3c5e61"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "604cdd3c5e61"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "604cdd3c5e61"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "604cdd3c5e61"
+      }
+    }
+  }
+}

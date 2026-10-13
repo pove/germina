@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s24",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 24,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué viene después?",
+    "va": "Què ve després?",
+    "en": "What comes next?",
+    "fr": "Qu'est-ce qui vient après ?",
+    "ar": "ماذا يأتي بعد ذلك؟"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren los patrones: colores, formas o números que se repiten siempre igual. Dicen qué viene después e inventan los suyos.",
+    "va": "Aquesta setmana descobrixen els patrons (patrones): colors, formes o nombres que es repetixen sempre igual. Diuen què ve després i n'inventen de propis.",
+    "en": "This week they discover patterns (patrones): colours, shapes or numbers that always repeat in the same way. They say what comes next and make up their own.",
+    "fr": "Cette semaine, on découvre les motifs (patrones) : des couleurs, des formes ou des nombres qui se répètent toujours pareil. On dit ce qui vient après et on invente les siens.",
+    "ar": "هذا الأسبوع يكتشف الأطفال الأنماط (patrones): ألوان أو أشكال أو أعداد تتكرّر دائمًا بالطريقة نفسها. يقولون ماذا يأتي بعد ذلك ويخترعون أنماطهم."
+  },
+  "comoAyudar": {
+    "es": "Buscad patrones juntos por casa y por la calle: baldosas, rayas de una camiseta, una canción con palmas. Antes de decir nada, preguntad «¿cómo lo sabes?».",
+    "va": "Busqueu patrons junts per casa i pel carrer: rajoles, ratlles d'una samarreta, una cançó amb palmades. Abans de dir res, pregunteu «com ho saps?».",
+    "en": "Look for patterns together at home and in the street: floor tiles, stripes on a T-shirt, a song with claps. Before saying anything, ask “How do you know?”.",
+    "fr": "Cherchez des motifs ensemble à la maison et dans la rue : carrelage, rayures d'un tee-shirt, une chanson avec des claquements de mains. Avant de dire quoi que ce soit, demandez « Comment tu le sais ? ».",
+    "ar": "ابحثوا معًا عن أنماط في البيت وفي الشارع: البلاط، خطوط قميص، أغنية بالتصفيق. وقبل أن تقولوا شيئًا، اسألوا: «كيف عرفنا ذلك؟»."
+  },
+  "saberes": [
+    "matematicas.computacional.secuencias-figuras"
+  ],
+  "criterios": [
+    "matematicas.c1.2.3",
+    "matematicas.c1.4.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El collar de patrón",
+      "va": "El collaret de patró",
+      "en": "The pattern necklace",
+      "fr": "Le collier à motif",
+      "ar": "عقد النمط"
+    },
+    "material": [
+      {
+        "es": "Macarrones crudos y un cordón, o pinzas de dos o tres colores y el borde de una caja",
+        "va": "Macarrons crus i un cordó, o pinces de dos o tres colors i la vora d'una caixa",
+        "en": "Uncooked macaroni and a string, or clothes pegs in two or three colours and the edge of a box",
+        "fr": "Des macaronis crus et un cordon, ou des pinces à linge de deux ou trois couleurs et le bord d'une boîte",
+        "ar": "معكرونة غير مطبوخة وخيط، أو ملاقط غسيل بلونين أو ثلاثة وحافة علبة"
+      },
+      {
+        "es": "Papel y lápices de colores",
+        "va": "Paper i llapis de colors",
+        "en": "Paper and coloured pencils",
+        "fr": "Du papier et des crayons de couleur",
+        "ar": "ورق وأقلام ملوّنة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Una persona empieza un patrón con las pinzas o los macarrones: rojo, rojo, azul, rojo, rojo, azul…",
+          "va": "Una persona comença un patró amb les pinces o els macarrons: roig, roig, blau, roig, roig, blau…",
+          "en": "One person starts a pattern with the pegs or the macaroni: red, red, blue, red, red, blue…",
+          "fr": "Une personne commence un motif avec les pinces ou les macaronis : rouge, rouge, bleu, rouge, rouge, bleu…",
+          "ar": "يبدأ شخص نمطًا بالملاقط أو بالمعكرونة: أحمر، أحمر، أزرق، أحمر، أحمر، أزرق…"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "La otra persona lo mira, dice qué viene después y pone la pieza siguiente.",
+          "va": "L'altra persona el mira, diu què ve després i posa la peça següent.",
+          "en": "The other person looks at it, says what comes next and adds the next piece.",
+          "fr": "L'autre personne le regarde, dit ce qui vient après et ajoute la pièce suivante.",
+          "ar": "ينظر الشخص الآخر إليه، ويقول ماذا يأتي بعد ذلك، ويضع القطعة التالية."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Cambiad los papeles: ahora inventa el patrón quien antes adivinaba.",
+          "va": "Canvieu els papers: ara inventa el patró qui abans endevinava.",
+          "en": "Swap roles: now the person who was guessing makes up the pattern.",
+          "fr": "Échangez les rôles : maintenant, c'est la personne qui devinait qui invente le motif.",
+          "ar": "تبادلوا الأدوار: الآن يخترع النمط من كان يخمّن."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad vuestro patrón con bolitas de colores y seguidlo hasta el final del papel.",
+          "va": "Dibuixeu el vostre patró amb boletes de colors i continueu-lo fins al final del paper.",
+          "en": "Draw your pattern with coloured dots and carry it on to the end of the paper.",
+          "fr": "Dessinez votre motif avec des petits ronds de couleur et continuez-le jusqu'au bout de la feuille.",
+          "ar": "ارسموا نمطكم بدوائر صغيرة ملوّنة، وأكملوه حتى آخر الورقة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos colores que se turnan: rojo, azul, rojo, azul…",
+      "va": "Feu servir només dos colors que s'alternen: roig, blau, roig, blau…",
+      "en": "Use only two colours that take turns: red, blue, red, blue…",
+      "fr": "Utilisez seulement deux couleurs qui alternent : rouge, bleu, rouge, bleu…",
+      "ar": "استعملوا لونين فقط يتناوبان: أحمر، أزرق، أحمر، أزرق…"
+    },
+    "masDificil": {
+      "es": "Haced patrones de tres colores, o esconded una pieza que no encaja y que la otra persona la encuentre.",
+      "va": "Feu patrons de tres colors, o amagueu una peça que no encaixa i que l'altra persona la trobe.",
+      "en": "Make patterns with three colours, or hide a piece that doesn't fit and let the other person find it.",
+      "fr": "Faites des motifs à trois couleurs, ou cachez une pièce qui ne va pas et laissez l'autre personne la trouver.",
+      "ar": "اصنعوا أنماطًا بثلاثة ألوان، أو خبّئوا قطعة لا تناسب النمط ودعوا الشخص الآخر يجدها."
+    },
+    "paraQueSirve": {
+      "es": "Ver lo que se repite y adivinar lo que viene después ayuda a contar de 2 en 2 y de 5 en 5 y a pensar paso a paso.",
+      "va": "Veure el que es repetix i endevinar el que ve després ajuda a comptar de 2 en 2 i de 5 en 5 i a pensar pas a pas.",
+      "en": "Seeing what repeats and guessing what comes next helps with counting in 2s and 5s and with thinking step by step.",
+      "fr": "Voir ce qui se répète et deviner ce qui vient après aide à compter de 2 en 2 et de 5 en 5, et à réfléchir étape par étape.",
+      "ar": "رؤية ما يتكرّر وتخمين ما يأتي بعده يساعدان على العدّ اثنين اثنين وخمسة خمسة، وعلى التفكير خطوة خطوة."
+    },
+    "aviso": {
+      "es": "Guardad los macarrones y las pinzas lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els macarrons i les pinces lluny de germans o germanes menuts.",
+      "en": "Keep the macaroni and pegs away from younger brothers and sisters.",
+      "fr": "Gardez les macaronis et les pinces loin des petits frères et sœurs.",
+      "ar": "أبعدوا المعكرونة والملاقط عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Iker tiende calcetines así: azul, rojo, azul, rojo, azul… ¿De qué color es el siguiente?",
+        "va": "Iker estén calcetins així: blau, roig, blau, roig, blau… De quin color és el següent?",
+        "en": "Iker hangs up socks like this: blue, red, blue, red, blue… What colour is the next one?",
+        "fr": "Iker étend des chaussettes comme ça : bleu, rouge, bleu, rouge, bleu… De quelle couleur est la suivante ?",
+        "ar": "ينشر إيكر الجوارب هكذا: أزرق، أحمر، أزرق، أحمر، أزرق… ما لون الجورب التالي؟"
+      },
+      "pista": {
+        "es": "Di la serie en voz alta y escucha qué se repite.",
+        "va": "Digues la sèrie en veu alta i escolta què es repetix.",
+        "en": "Say the sequence out loud and listen for what repeats.",
+        "fr": "Dis la suite à voix haute et écoute ce qui se répète.",
+        "ar": "لنقل المتتالية بصوت عالٍ ونسمع ما يتكرّر."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Rojo: los dos colores se turnan. Si duda, ponedlo con calcetines de verdad o decidlo dando palmas.",
+          "va": "Roig: els dos colors s'alternen. Si dubta, feu-ho amb calcetins de veritat o digueu-ho donant palmades.",
+          "en": "Red: the two colours take turns. If they're unsure, do it with real socks or say it while clapping.",
+          "fr": "Rouge : les deux couleurs alternent. En cas de doute, faites-le avec de vraies chaussettes ou dites-le en tapant dans les mains.",
+          "ar": "أحمر: اللونان يتناوبان. إذا كان هناك تردّد، جرّبوا بجوارب حقيقية أو قولوها مع التصفيق."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú otra serie con dos colores de tu ropa.",
+        "va": "Ara inventa tu una altra sèrie amb dos colors de la teua roba.",
+        "en": "Now you make up another sequence with two colours from your clothes.",
+        "fr": "Maintenant, invente une autre suite avec deux couleurs de tes vêtements.",
+        "ar": "والآن لنخترع متتالية أخرى بلونين من ملابسنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Amaia pone en la mesa: cuchara, tenedor, tenedor, cuchara, tenedor, tenedor… ¿Qué pondrá después?",
+        "va": "Amaia posa en la taula: cullera, forquilla, forquilla, cullera, forquilla, forquilla… Què posarà després?",
+        "en": "Amaia lays the table: spoon, fork, fork, spoon, fork, fork… What will she put next?",
+        "fr": "Amaia met sur la table : cuillère, fourchette, fourchette, cuillère, fourchette, fourchette… Que va-t-elle mettre ensuite ?",
+        "ar": "تضع أمايا على الطاولة: ملعقة، شوكة، شوكة، ملعقة، شوكة، شوكة… ماذا ستضع بعد ذلك؟"
+      },
+      "pista": {
+        "es": "Busca el trozo que se repite y dilo dando palmas.",
+        "va": "Busca el tros que es repetix i digues-lo donant palmades.",
+        "en": "Find the part that repeats and say it while clapping.",
+        "fr": "Cherche le morceau qui se répète et dis-le en tapant dans tes mains.",
+        "ar": "لنبحث عن الجزء الذي يتكرّر ونقوله مع التصفيق."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Una cuchara: lo que se repite es «cuchara, tenedor, tenedor». Preguntad cuántas cosas tiene ese trozo.",
+          "va": "Una cullera: el que es repetix és «cullera, forquilla, forquilla». Pregunteu quantes coses té eixe tros.",
+          "en": "A spoon: what repeats is “spoon, fork, fork”. Ask how many things that part has.",
+          "fr": "Une cuillère : ce qui se répète, c'est « cuillère, fourchette, fourchette ». Demandez combien de choses il y a dans ce morceau.",
+          "ar": "ملعقة: ما يتكرّر هو «ملعقة، شوكة، شوكة». اسألوا: كم شيئًا في هذا الجزء؟"
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otro patrón con cubiertos o con juguetes.",
+        "va": "Inventa tu un altre patró amb coberts o amb joguets.",
+        "en": "Make up another pattern with cutlery or with toys.",
+        "fr": "Invente un autre motif avec des couverts ou avec des jouets.",
+        "ar": "لنخترع نمطًا آخر بأدوات المائدة أو بالألعاب."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Mateo cuenta saltando así: 2, 4, 6, 8… ¿Qué número dice después?",
+        "va": "Mateo compta botant així: 2, 4, 6, 8… Quin nombre diu després?",
+        "en": "Mateo counts with jumps like this: 2, 4, 6, 8… What number does he say next?",
+        "fr": "Mateo compte en sautant comme ça : 2, 4, 6, 8… Quel nombre dit-il ensuite ?",
+        "ar": "يعدّ ماتيو قافزًا هكذا: 2، 4، 6، 8… ما العدد الذي يقوله بعد ذلك؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos cuánto sube de un número al siguiente.",
+        "va": "Compta amb els dits quant puja d'un nombre al següent.",
+        "en": "Count on your fingers how much it goes up from one number to the next.",
+        "fr": "Compte sur tes doigts de combien ça monte d'un nombre au suivant.",
+        "ar": "لنعدّ بالأصابع كم يزيد من عدد إلى العدد التالي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 2",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Dice 10, porque cada vez sube 2: {{8 + 2 = 10}}.",
+          "va": "Diu 10, perquè cada vegada puja 2: {{8 + 2 = 10}}.",
+          "en": "He says 10, because it goes up by 2 each time: {{8 + 2 = 10}}.",
+          "fr": "Il dit 10, parce que ça monte de 2 à chaque fois : {{8 + 2 = 10}}.",
+          "ar": "يقول 10، لأنه يزيد 2 في كل مرة: {{8 + 2 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra serie de números que suba siempre lo mismo.",
+        "va": "Inventa tu una altra sèrie de nombres que puge sempre el mateix.",
+        "en": "Make up another number sequence that always goes up by the same amount.",
+        "fr": "Invente une autre suite de nombres qui monte toujours de la même façon.",
+        "ar": "لنخترع متتالية أعداد أخرى تزيد دائمًا بالمقدار نفسه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Dibuja en el aire un triángulo y un cuadrado. ¿Cuántas esquinas tienen entre los dos?",
+        "va": "Dibuixa en l'aire un triangle (triángulo) i un quadrat (cuadrado). Quants cantons tenen entre els dos?",
+        "en": "Draw a triangle (triángulo) and a square (cuadrado) in the air. How many corners do they have between them?",
+        "fr": "Dessine dans l'air un triangle (triángulo) et un carré (cuadrado). Combien de coins ont-ils à eux deux ?",
+        "ar": "لنرسم في الهواء مثلّثًا (triángulo) ومربّعًا (cuadrado). كم زاوية لهما معًا؟"
+      },
+      "pista": {
+        "es": "Cuenta las esquinas de cada forma con los dedos y luego júntalas.",
+        "va": "Compta els cantons de cada forma amb els dits i després ajunta'ls.",
+        "en": "Count the corners of each shape on your fingers and then put them together.",
+        "fr": "Compte les coins de chaque forme sur tes doigts, puis réunis-les.",
+        "ar": "لنعدّ زوايا كل شكل بالأصابع، ثم نجمعها."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 4",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 7 esquinas: {{3 + 4 = 7}}.",
+          "va": "Tenen 7 cantons: {{3 + 4 = 7}}.",
+          "en": "They have 7 corners: {{3 + 4 = 7}}.",
+          "fr": "Ils ont 7 coins : {{3 + 4 = 7}}.",
+          "ar": "لهما 7 زوايا: {{3 + 4 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las formas que veas en la cocina.",
+        "va": "Inventa'n tu una altra amb les formes que veges a la cuina.",
+        "en": "Make up another one with the shapes you can see in the kitchen.",
+        "fr": "Invente-en une autre avec les formes que tu vois dans la cuisine.",
+        "ar": "لنخترع سؤالًا آخر بالأشكال التي نراها في المطبخ."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Inventa un patrón con palmas y pies. ¿Cómo sabes qué viene después?",
+        "va": "Inventa un patró amb palmades i peus. Com saps què ve després?",
+        "en": "Make up a pattern with claps and stamps. How do you know what comes next?",
+        "fr": "Invente un motif avec des claquements de mains et de pieds. Comment sais-tu ce qui vient après ?",
+        "ar": "لنخترع نمطًا بالتصفيق والدقّ بالقدم. كيف نعرف ماذا يأتي بعد ذلك؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar, preguntad: «¿Qué trozo se repite?»",
+        "va": "Si no sap per on començar, pregunteu: «Quin tros es repetix?»",
+        "en": "If they don't know where to start, ask: “Which part repeats?”",
+        "fr": "S'il ou elle ne sait pas par où commencer, demandez : « Quel morceau se répète ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «أيّ جزء يتكرّر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede que diga «porque se repite» o que lo enseñe haciéndolo. Pedid que lo haga otra vez más despacio y dad las gracias por la explicación.",
+          "va": "Potser diu «perquè es repetix» o ho ensenya fent-ho. Demaneu que ho torne a fer més a poc a poc i doneu les gràcies per l'explicació.",
+          "en": "They may say “because it repeats” or show it by doing it. Ask them to do it again more slowly and say thank you for the explanation.",
+          "fr": "Il ou elle dira peut-être « parce que ça se répète » ou le montrera en le faisant. Demandez de recommencer plus lentement et dites merci pour l'explication.",
+          "ar": "قد يكون الجواب «لأنه يتكرّر»، أو يأتي بالفعل لا بالكلام. اطلبوا إعادته ببطء أكثر، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "1c1216a02ff9"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "1c1216a02ff9"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "1c1216a02ff9"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "1c1216a02ff9"
+      }
+    }
+  }
+}

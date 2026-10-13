@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s28",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 28,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Barras de colores",
+    "va": "Barres de colors",
+    "en": "Coloured bars",
+    "fr": "Barres de couleurs",
+    "ar": "أعمدة ملوّنة"
+  },
+  "objetivo": {
+    "es": "Esta semana hacen una encuesta en familia, cuentan las respuestas y las ponen en torres: es un gráfico de barras. Mirando las torres comparan qué gusta más y cuánto más.",
+    "va": "Aquesta setmana fan una enquesta (encuesta) en família, compten les respostes i les posen en torres: és un gràfic de barres (gráfico de barras). Mirant les torres comparen què agrada més i quant més.",
+    "en": "This week they do a family survey (encuesta), count the answers and put them in towers: it is a bar chart (gráfico de barras). Looking at the towers, they compare (comparar) what people like most and by how much.",
+    "fr": "Cette semaine, on fait une enquête (encuesta) en famille, on compte les réponses et on les met en tours : c'est un diagramme en barres (gráfico de barras). En regardant les tours, on compare (comparar) ce qui plaît le plus et de combien.",
+    "ar": "هذا الأسبوع يُجري الأطفال استطلاعًا (encuesta) في العائلة، ويعدّون الإجابات ويضعونها في أبراج: هذا مخطط أعمدة (gráfico de barras). وبالنظر إلى الأبراج يقارنون (comparar) ما هو المفضّل أكثر وبكم."
+  },
+  "comoAyudar": {
+    "es": "Dejad que haga las preguntas y ponga las piezas. Después preguntad: «¿Qué nos dicen las torres que no sabíamos?».",
+    "va": "Deixeu que faça les preguntes i pose les peces. Després pregunteu: «Què ens diuen les torres que no sabíem?».",
+    "en": "Let them ask the questions and add the pieces. Then ask: “What do the towers tell us that we didn't know?”",
+    "fr": "Laissez votre enfant poser les questions et placer les pièces. Ensuite, demandez : « Qu'est-ce que les tours nous disent qu'on ne savait pas ? »",
+    "ar": "دعوا طرح الأسئلة ووضع القطع يكونان من نصيب الطفل أو الطفلة. ثم اسألوا: «ماذا تخبرنا الأبراج ممّا لم نكن نعرفه؟»"
+  },
+  "saberes": [
+    "matematicas.datos.encuestas",
+    "matematicas.datos.frecuencias",
+    "matematicas.datos.barras",
+    "matematicas.datos.interpretacion"
+  ],
+  "criterios": [
+    "matematicas.c1.3.1",
+    "matematicas.c1.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Torres de la encuesta",
+      "va": "Torres de l'enquesta",
+      "en": "Survey towers",
+      "fr": "Les tours de l'enquête",
+      "ar": "أبراج الاستطلاع"
+    },
+    "material": [
+      {
+        "es": "Piezas de construcción que encajen, o pinzas para colgar en fila",
+        "va": "Peces de construcció que encaixen, o pinces per a penjar en fila",
+        "en": "Building blocks that click together, or clothes pegs to hang in a row",
+        "fr": "Des pièces de construction qui s'emboîtent, ou des pinces à linge à accrocher en rang",
+        "ar": "قطع بناء تتركّب بعضها فوق بعض، أو ملاقط غسيل تُعلّق في صف"
+      },
+      {
+        "es": "Papel y lápices de colores",
+        "va": "Paper i llapis de colors",
+        "en": "Paper and coloured pencils",
+        "fr": "Du papier et des crayons de couleur",
+        "ar": "ورق وأقلام ملوّنة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Elegid una pregunta, como «¿Qué fruta te gusta más?», y tres o cuatro respuestas para elegir.",
+          "va": "Trieu una pregunta, com ara «Quina fruita t'agrada més?», i tres o quatre respostes per a triar.",
+          "en": "Choose a question, like “Which fruit do you like best?”, and three or four answers to choose from.",
+          "fr": "Choisissez une question, comme « Quel fruit préfères-tu ? », et trois ou quatre réponses possibles.",
+          "ar": "اختاروا سؤالًا، مثل «أيّ فاكهة تحبّ أكثر؟»، وثلاث أو أربع إجابات للاختيار منها."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Preguntad a todas las personas de casa, y a quien queráis por teléfono. Por cada respuesta, poned una pieza en su torre.",
+          "va": "Pregunteu a totes les persones de casa, i a qui vulgueu per telèfon. Per cada resposta, poseu una peça en la seua torre.",
+          "en": "Ask everyone at home, and anyone you like by phone. For each answer, put a piece on its tower.",
+          "fr": "Posez la question à toutes les personnes de la maison, et à qui vous voulez par téléphone. Pour chaque réponse, mettez une pièce sur sa tour.",
+          "ar": "اسألوا كل من في البيت، ومن تشاؤون بالهاتف. ولكل إجابة، ضعوا قطعة في برجها."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Poned las torres en fila: es un gráfico de barras. ¿Cuál es la más alta? ¿Cuántas piezas le saca a la más baja?",
+          "va": "Poseu les torres en fila: és un gràfic de barres. Quina és la més alta? Quantes peces més té que la més baixa?",
+          "en": "Put the towers in a row: it is a bar chart. Which is the tallest? How many more pieces does it have than the shortest?",
+          "fr": "Mettez les tours en rang : c'est un diagramme en barres. Quelle est la plus haute ? Combien de pièces a-t-elle de plus que la plus basse ?",
+          "ar": "ضعوا الأبراج في صف: هذا مخطط أعمدة. أيّها الأعلى؟ كم قطعة يزيد على البرج الأقصر؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad las torres en un papel, cada una de un color, para guardar la encuesta.",
+          "va": "Dibuixeu les torres en un paper, cada una d'un color, per a guardar l'enquesta.",
+          "en": "Draw the towers on paper, each in a different colour, to keep the survey.",
+          "fr": "Dessinez les tours sur une feuille, chacune d'une couleur, pour garder l'enquête.",
+          "ar": "ارسموا الأبراج على ورقة، كل برج بلون، لتحتفظوا بالاستطلاع."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos respuestas para elegir, por ejemplo, perro o gato.",
+      "va": "Feu servir només dues respostes per a triar, per exemple, gos o gat.",
+      "en": "Use only two answers to choose from, for example, dog or cat.",
+      "fr": "Prenez seulement deux réponses possibles, par exemple chien ou chat.",
+      "ar": "استعملوا إجابتين فقط للاختيار، مثلًا: كلب أو قطّ."
+    },
+    "masDificil": {
+      "es": "Haced una segunda encuesta y comparad: ¿se parecen las torres? ¿A cuántas personas habéis preguntado en total?",
+      "va": "Feu una segona enquesta i compareu: s'assemblen les torres? A quantes persones heu preguntat en total?",
+      "en": "Do a second survey and compare: do the towers look alike? How many people did you ask altogether?",
+      "fr": "Faites une deuxième enquête et comparez : les tours se ressemblent-elles ? À combien de personnes avez-vous posé la question en tout ?",
+      "ar": "أجروا استطلاعًا ثانيًا وقارنوا: هل تتشابه الأبراج؟ كم شخصًا سألتم في المجموع؟"
+    },
+    "paraQueSirve": {
+      "es": "Contar respuestas y ponerlas en barras permite ver de un vistazo qué hay más y qué hay menos, como en las gráficas de las noticias.",
+      "va": "Comptar respostes i posar-les en barres permet veure d'un colp d'ull què n'hi ha més i què n'hi ha menys, com en les gràfiques de les notícies.",
+      "en": "Counting answers and putting them in bars lets you see at a glance what there is more and less of, like the charts on the news.",
+      "fr": "Compter les réponses et les mettre en barres permet de voir d'un coup d'œil ce qu'il y a le plus et le moins, comme dans les graphiques des informations.",
+      "ar": "عدّ الإجابات ووضعها في أعمدة يسمح برؤية الأكثر والأقل بنظرة واحدة، كما في الرسوم البيانية في الأخبار."
+    },
+    "aviso": {
+      "es": "Si usáis piezas pequeñas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir peces menudes, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use small pieces, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En una encuesta, 8 personas prefieren ir al parque y 5 a la piscina. ¿Cuántas personas más prefieren el parque?",
+        "va": "En una enquesta, 8 persones preferixen anar al parc i 5 a la piscina. Quantes persones més preferixen el parc?",
+        "en": "In a survey, 8 people would rather go to the park and 5 to the pool. How many more people prefer the park?",
+        "fr": "Dans une enquête, 8 personnes préfèrent aller au parc et 5 à la piscine. Combien de personnes de plus préfèrent le parc ?",
+        "ar": "في استطلاع، يفضّل 8 أشخاص الذهاب إلى الحديقة و5 إلى المسبح. كم شخصًا أكثر يفضّلون الحديقة؟"
+      },
+      "pista": {
+        "es": "Haz dos torres, de 8 y de 5, y mira cuánto sobresale la alta.",
+        "va": "Fes dues torres, de 8 i de 5, i mira quant sobreix l'alta.",
+        "en": "Build two towers of 8 and 5 and see how much taller the tall one is.",
+        "fr": "Fais deux tours, de 8 et de 5, et regarde de combien dépasse la plus haute.",
+        "ar": "لنبنِ برجين، من 8 و5، ونرى كم يزيد البرج العالي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 - 5",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Prefieren el parque 3 personas más: {{8 − 5 = 3}}.",
+          "va": "Preferixen el parc 3 persones més: {{8 − 5 = 3}}.",
+          "en": "3 more people prefer the park: {{8 − 5 = 3}}.",
+          "fr": "3 personnes de plus préfèrent le parc : {{8 − 5 = 3}}.",
+          "ar": "يفضّل الحديقةَ 3 أشخاص أكثر: {{8 − 5 = 3}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra preguntando en casa si prefieren el día o la noche.",
+        "va": "Inventa'n tu una altra preguntant a casa si preferixen el dia o la nit.",
+        "en": "Now you make one up by asking at home whether people prefer day or night.",
+        "fr": "Invente-en une autre en demandant à la maison si on préfère le jour ou la nuit.",
+        "ar": "لنخترع سؤالًا آخر نسأل فيه أهل البيت: هل يفضّلون النهار أم الليل؟"
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "La torre del rojo tiene 6 piezas y la del azul, 9. ¿Cuántas piezas le faltan a la roja para ser igual de alta?",
+        "va": "La torre del roig té 6 peces i la del blau, 9. Quantes peces li falten a la roja per a ser igual d'alta?",
+        "en": "The red tower has 6 pieces and the blue one has 9. How many more pieces does the red one need so it is just as tall?",
+        "fr": "La tour du rouge a 6 pièces et celle du bleu, 9. Combien de pièces manque-t-il à la rouge pour être aussi haute ?",
+        "ar": "في برج الأحمر 6 قطع وفي برج الأزرق 9. كم قطعة ينقص البرج الأحمر ليصبح بالطول نفسه؟"
+      },
+      "pista": {
+        "es": "Cuenta desde 6 hasta 9 con los dedos.",
+        "va": "Compta des de 6 fins a 9 amb els dits.",
+        "en": "Count from 6 up to 9 on your fingers.",
+        "fr": "Compte de 6 jusqu'à 9 sur tes doigts.",
+        "ar": "لنعدّ من 6 حتى 9 بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 6",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 3 piezas: {{6 + 3 = 9}}.",
+          "va": "Li falten 3 peces: {{6 + 3 = 9}}.",
+          "en": "It needs 3 more pieces: {{6 + 3 = 9}}.",
+          "fr": "Il lui manque 3 pièces : {{6 + 3 = 9}}.",
+          "ar": "ينقصه 3 قطع: {{6 + 3 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos torres de libros o de vasos de plástico.",
+        "va": "Inventa'n tu una altra amb dues torres de llibres o de gots de plàstic.",
+        "en": "Make up another one with two towers of books or plastic cups.",
+        "fr": "Invente-en une autre avec deux tours de livres ou de gobelets en plastique.",
+        "ar": "لنخترع سؤالًا آخر ببرجين من الكتب أو الأكواب البلاستيكية."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En una encuesta de fruta, el plátano tiene 4 votos, la manzana 7 y la fresa 3. ¿A cuántas personas se ha preguntado?",
+        "va": "En una enquesta de fruita, el plàtan té 4 vots, la poma 7 i la maduixa 3. A quantes persones s'ha preguntat?",
+        "en": "In a fruit survey, banana has 4 votes, apple 7 and strawberry 3. How many people were asked?",
+        "fr": "Dans une enquête sur les fruits, la banane a 4 voix, la pomme 7 et la fraise 3. Combien de personnes ont répondu ?",
+        "ar": "في استطلاع عن الفواكه، للموز 4 أصوات وللتفاح 7 وللفراولة 3. كم شخصًا سُئل؟"
+      },
+      "pista": {
+        "es": "Junta las tres torres en una sola y cuenta todas las piezas.",
+        "va": "Ajunta les tres torres en una de sola i compta totes les peces.",
+        "en": "Put the three towers together into one and count all the pieces.",
+        "fr": "Réunis les trois tours en une seule et compte toutes les pièces.",
+        "ar": "لنجمع الأبراج الثلاثة في برج واحد ونعدّ كل القطع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 7 + 3",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Se ha preguntado a 14 personas: {{4 + 7 + 3 = 14}}.",
+          "va": "S'ha preguntat a 14 persones: {{4 + 7 + 3 = 14}}.",
+          "en": "14 people were asked: {{4 + 7 + 3 = 14}}.",
+          "fr": "14 personnes ont répondu : {{4 + 7 + 3 = 14}}.",
+          "ar": "سُئل 14 شخصًا: {{4 + 7 + 3 = 14}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una encuesta de colores favoritos y pregunta cuántas personas han votado.",
+        "va": "Inventa'n tu una enquesta de colors preferits i pregunta quantes persones han votat.",
+        "en": "Make up a survey about favourite colours and ask how many people voted.",
+        "fr": "Invente une enquête sur les couleurs préférées et demande combien de personnes ont voté.",
+        "ar": "لنخترع استطلاعًا عن الألوان المفضّلة ونسأل كم شخصًا صوّت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 20,
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Para recordar la tabla del 5: en la mesa hay 4 manos. ¿Cuántos dedos hay?",
+        "va": "Per a recordar la taula del 5: damunt de la taula hi ha 4 mans. Quants dits hi ha?",
+        "en": "Let's remember the 5 times table (tabla del 5): there are 4 hands on the table. How many fingers are there?",
+        "fr": "Pour se souvenir de la table de 5 (tabla del 5) : il y a 4 mains sur la table. Combien de doigts y a-t-il ?",
+        "ar": "لنتذكّر جدول ضرب 5 (tabla del 5): على الطاولة 4 أيادٍ. كم إصبعًا هناك؟"
+      },
+      "pista": {
+        "es": "Cuenta de 5 en 5, una mano cada vez.",
+        "va": "Compta de 5 en 5, una mà cada vegada.",
+        "en": "Count in 5s, one hand at a time.",
+        "fr": "Compte de 5 en 5, une main à la fois.",
+        "ar": "لنعدّ خمسة خمسة، يدًا بعد يد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 5",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 20 dedos: {{5 + 5 + 5 + 5 = 20}}, es decir, {{4 × 5 = 20}}.",
+          "va": "Hi ha 20 dits: {{5 + 5 + 5 + 5 = 20}}, és a dir, {{4 × 5 = 20}}.",
+          "en": "There are 20 fingers: {{5 + 5 + 5 + 5 = 20}}, in other words {{4 × 5 = 20}}.",
+          "fr": "Il y a 20 doigts : {{5 + 5 + 5 + 5 = 20}}, c'est-à-dire {{4 × 5 = 20}}.",
+          "ar": "هناك 20 إصبعًا: {{5 + 5 + 5 + 5 = 20}}، أي {{4 × 5 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las manos de toda la familia.",
+        "va": "Inventa'n tu una altra amb les mans de tota la família.",
+        "en": "Make up another one with the hands of the whole family.",
+        "fr": "Invente-en une autre avec les mains de toute la famille.",
+        "ar": "لنخترع سؤالًا آخر بأيدي العائلة كلها."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Mira las torres de tu encuesta. Cuéntame qué has descubierto y cómo lo sabes.",
+        "va": "Mira les torres de la teua enquesta. Conta'm què has descobert i com ho saps.",
+        "en": "Look at the towers from your survey. Tell me what you found out and how you know.",
+        "fr": "Regarde les tours de ton enquête. Raconte-moi ce que tu as découvert et comment tu le sais.",
+        "ar": "لننظر إلى أبراج الاستطلاع. لنحكِ ماذا اكتشفنا وكيف عرفنا ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué es lo que más nos gusta en casa? ¿Cómo lo ves en las torres?».",
+        "va": "Si no sap per on començar: «Què és el que més ens agrada a casa? Com ho veus en les torres?».",
+        "en": "If they don't know where to start: “What do we like most at home? How can you see it in the towers?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce qu'on préfère à la maison ? Comment le vois-tu sur les tours ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ما الذي نحبّه أكثر في البيت؟ كيف نرى ذلك في الأبراج؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede hablar de la torre más alta, de la más baja o de dos que son iguales. Escuchad, preguntad «¿y qué más?» y dad las gracias por la explicación.",
+          "va": "Pot parlar de la torre més alta, de la més baixa o de dues que són iguals. Escolteu, pregunteu «i què més?» i doneu les gràcies per l'explicació.",
+          "en": "They might talk about the tallest tower, the shortest one or two that are the same. Listen, ask “What else?” and say thank you for the explanation.",
+          "fr": "Votre enfant peut parler de la tour la plus haute, de la plus basse ou de deux tours égales. Écoutez, demandez « Et quoi d'autre ? » et dites merci pour l'explication.",
+          "ar": "يمكن الحديث عن البرج الأعلى، أو الأقصر، أو عن برجين متساويين. استمعوا، واسألوا «وماذا أيضًا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "8e0f34a13dda"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "8e0f34a13dda"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "8e0f34a13dda"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "8e0f34a13dda"
+      }
+    }
+  }
+}

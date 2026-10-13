@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s19",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 19,
+  "tipo": "tema",
+  "titulo": {
+    "es": "El signo ×",
+    "va": "El signe ×",
+    "en": "The × sign",
+    "fr": "Le signe ×",
+    "ar": "إشارة ×"
+  },
+  "objetivo": {
+    "es": "Esta semana conocen el signo ×: 4 parejas son {{2 + 2 + 2 + 2}}, es decir, 4 veces 2, y se dice {{4 × 2 = 8}}. Empiezan por la tabla del 2.",
+    "va": "Aquesta setmana coneixen el signe ×: 4 parelles són {{2 + 2 + 2 + 2}}, és a dir, 4 vegades (veces) 2, i es diu {{4 × 2 = 8}}. Comencen per la taula del 2 (tabla del 2).",
+    "en": "This week they meet the × sign: 4 pairs are {{2 + 2 + 2 + 2}}, that is, 4 times (veces) 2, and you say {{4 × 2 = 8}}. They start with the 2 times table (tabla del 2).",
+    "fr": "Cette semaine, on découvre le signe × : 4 paires, c'est {{2 + 2 + 2 + 2}}, c'est-à-dire 4 fois (veces) 2, et on dit {{4 × 2 = 8}}. On commence par la table de 2 (tabla del 2).",
+    "ar": "هذا الأسبوع يتعرّف الأطفال على إشارة ×: 4 أزواج هي {{2 + 2 + 2 + 2}}، أي 4 مرّات (veces) 2، ونقول {{4 × 2 = 8}}. ويبدؤون بجدول ضرب 2 (tabla del 2)."
+  },
+  "comoAyudar": {
+    "es": "Leed el signo × como «veces»: «4 veces 2». Antes de decir la multiplicación, dejad que cuente las parejas con los dedos o tocándolas.",
+    "va": "Llegiu el signe × com «vegades»: «4 vegades 2». Abans de dir la multiplicació (multiplicación), deixeu que compte les parelles amb els dits o tocant-les.",
+    "en": "Read the × sign as “times”: “4 times 2”. Before saying the multiplication (multiplicación), let your child count the pairs on their fingers or by touching them.",
+    "fr": "Lisez le signe × comme « fois » : « 4 fois 2 ». Avant de dire la multiplication (multiplicación), laissez votre enfant compter les paires sur ses doigts ou en les touchant.",
+    "ar": "اقرؤوا إشارة × على أنها «مرّات»: «4 مرّات 2». وقبل قول عملية الضرب (multiplicación)، اتركوا للطفل أو الطفلة عدّ الأزواج بالأصابع أو بلمسها."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.computacional.secuencias-figuras"
+  ],
+  "criterios": [
+    "matematicas.c1.5.3",
+    "matematicas.c1.2.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Parejas de calcetines",
+      "va": "Parells de calcetins",
+      "en": "Pairs of socks",
+      "fr": "Paires de chaussettes",
+      "ar": "أزواج الجوارب"
+    },
+    "material": [
+      {
+        "es": "Parejas de calcetines limpios (hasta 10)",
+        "va": "Parells de calcetins nets (fins a 10)",
+        "en": "Pairs of clean socks (up to 10)",
+        "fr": "Des paires de chaussettes propres (jusqu'à 10)",
+        "ar": "أزواج من الجوارب النظيفة (حتى 10)"
+      },
+      {
+        "es": "Un papel y un lápiz",
+        "va": "Un paper i un llapis",
+        "en": "A piece of paper and a pencil",
+        "fr": "Une feuille et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "calcetin",
+        "texto": {
+          "es": "Sacad 4 parejas de calcetines y ponedlas en fila, cada pareja junta.",
+          "va": "Traieu 4 parells de calcetins i poseu-los en fila, cada parell junt.",
+          "en": "Take out 4 pairs of socks and lay them in a row, each pair together.",
+          "fr": "Sortez 4 paires de chaussettes et mettez-les en rang, chaque paire ensemble.",
+          "ar": "أخرجوا 4 أزواج من الجوارب وضعوها في صف، كل زوج معًا."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contadlos de 2 en 2, tocando cada pareja: 2, 4, 6, 8. Es {{2 + 2 + 2 + 2 = 8}}.",
+          "va": "Compteu-los de 2 en 2, tocant cada parell: 2, 4, 6, 8. És {{2 + 2 + 2 + 2 = 8}}.",
+          "en": "Count them in twos, touching each pair: 2, 4, 6, 8. That's {{2 + 2 + 2 + 2 = 8}}.",
+          "fr": "Comptez-les de 2 en 2, en touchant chaque paire : 2, 4, 6, 8. C'est {{2 + 2 + 2 + 2 = 8}}.",
+          "ar": "عدّوها اثنين اثنين، بلمس كل زوج: 2، 4، 6، 8. أي {{2 + 2 + 2 + 2 = 8}}."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Son 4 veces 2, y se dice con el signo ×: {{4 × 2 = 8}}. Dibujad las parejas y decid su multiplicación.",
+          "va": "Són 4 vegades 2, i es diu amb el signe ×: {{4 × 2 = 8}}. Dibuixeu els parells i digueu-ne la multiplicació.",
+          "en": "That's 4 times 2, and you say it with the × sign: {{4 × 2 = 8}}. Draw the pairs and say their multiplication.",
+          "fr": "C'est 4 fois 2, et on le dit avec le signe × : {{4 × 2 = 8}}. Dessinez les paires et dites leur multiplication.",
+          "ar": "إنها 4 مرّات 2، ونقولها بإشارة ×: {{4 × 2 = 8}}. ارسموا الأزواج وقولوا عملية الضرب."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Añadid una pareja más. ¿Cuántos calcetines hay ahora? Decidlo con la suma y con el signo ×.",
+          "va": "Afegiu un parell més. Quants calcetins hi ha ara? Digueu-ho amb la suma i amb el signe ×.",
+          "en": "Add one more pair. How many socks are there now? Say it with addition and with the × sign.",
+          "fr": "Ajoutez une paire de plus. Combien de chaussettes y a-t-il maintenant ? Dites-le avec l'addition et avec le signe ×.",
+          "ar": "أضيفوا زوجًا آخر. كم جوربًا يوجد الآن؟ قولوا ذلك بالجمع وبإشارة ×."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 2 o 3 parejas y contad cada calcetín tocándolo antes de decir el ×.",
+      "va": "Comenceu amb 2 o 3 parells i compteu cada calcetí tocant-lo abans de dir el ×.",
+      "en": "Start with 2 or 3 pairs and count each sock by touching it before saying the ×.",
+      "fr": "Commencez avec 2 ou 3 paires et comptez chaque chaussette en la touchant avant de dire le ×.",
+      "ar": "ابدؤوا بزوجين أو 3 أزواج، وعدّوا كل جورب بلمسه قبل قول ×."
+    },
+    "masDificil": {
+      "es": "Llegad hasta 10 parejas, {{10 × 2 = 20}}, y decid la tabla del 2 entera sin mirar.",
+      "va": "Arribeu fins a 10 parells, {{10 × 2 = 20}}, i digueu la taula del 2 sencera sense mirar.",
+      "en": "Go up to 10 pairs, {{10 × 2 = 20}}, and say the whole 2 times table without looking.",
+      "fr": "Allez jusqu'à 10 paires, {{10 × 2 = 20}}, et dites toute la table de 2 sans regarder.",
+      "ar": "صلوا حتى 10 أزواج، {{10 × 2 = 20}}، وقولوا جدول ضرب 2 كله من دون النظر."
+    },
+    "paraQueSirve": {
+      "es": "El signo × es una forma corta de decir una suma que se repite. Con la tabla del 2 se cuentan de golpe zapatos, ojos, ruedas de bici…",
+      "va": "El signe × és una manera curta de dir una suma que es repetix. Amb la taula del 2 es compten de colp sabates, ulls, rodes de bici…",
+      "en": "The × sign is a short way of saying an addition that repeats. With the 2 times table you count shoes, eyes, bike wheels… in one go.",
+      "fr": "Le signe × est une façon courte de dire une addition qui se répète. Avec la table de 2, on compte d'un coup les chaussures, les yeux, les roues de vélo…",
+      "ar": "إشارة × طريقة قصيرة لقول جمع يتكرّر. وبجدول ضرب 2 نعدّ دفعة واحدة الأحذية والعيون وعجلات الدرّاجة…"
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En el tendedero hay 3 parejas de calcetines. ¿Cuántos calcetines hay?",
+        "va": "En l'estenedor hi ha 3 parells de calcetins. Quants calcetins hi ha?",
+        "en": "On the washing line there are 3 pairs of socks. How many socks are there?",
+        "fr": "Sur l'étendoir, il y a 3 paires de chaussettes. Combien y a-t-il de chaussettes ?",
+        "ar": "على حبل الغسيل 3 أزواج من الجوارب. كم جوربًا يوجد؟"
+      },
+      "pista": {
+        "es": "Cuenta de 2 en 2: una pareja, otra pareja y otra más.",
+        "va": "Compta de 2 en 2: un parell, un altre parell i un altre més.",
+        "en": "Count in twos: one pair, another pair and one more.",
+        "fr": "Compte de 2 en 2 : une paire, une autre paire et encore une.",
+        "ar": "لنعدّ اثنين اثنين: زوج، ثم زوج آخر، ثم زوج ثالث."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 2",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 6 calcetines: {{3 × 2 = 6}}.",
+          "va": "Hi ha 6 calcetins: {{3 × 2 = 6}}.",
+          "en": "There are 6 socks: {{3 × 2 = 6}}.",
+          "fr": "Il y a 6 chaussettes : {{3 × 2 = 6}}.",
+          "ar": "يوجد 6 جوارب: {{3 × 2 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con parejas de zapatos de la entrada.",
+        "va": "Inventa'n tu una altra amb parells de sabates de l'entrada.",
+        "en": "Make up another one with pairs of shoes by the door.",
+        "fr": "Invente-en une autre avec les paires de chaussures de l'entrée.",
+        "ar": "لنخترع سؤالًا آخر بأزواج الأحذية عند المدخل."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En el parque hay 5 bicis aparcadas. Cada bici tiene 2 ruedas. ¿Cuántas ruedas hay?",
+        "va": "En el parc hi ha 5 bicis aparcades. Cada bici té 2 rodes. Quantes rodes hi ha?",
+        "en": "In the park there are 5 bikes parked. Each bike has 2 wheels. How many wheels are there?",
+        "fr": "Au parc, il y a 5 vélos garés. Chaque vélo a 2 roues. Combien y a-t-il de roues ?",
+        "ar": "في الحديقة 5 درّاجات متوقّفة. لكل درّاجة عجلتان. كم عجلة يوجد؟"
+      },
+      "pista": {
+        "es": "Di 5 veces 2 con los dedos: 2, 4, 6…",
+        "va": "Digues 5 vegades 2 amb els dits: 2, 4, 6…",
+        "en": "Say 5 times 2 on your fingers: 2, 4, 6…",
+        "fr": "Dis 5 fois 2 sur tes doigts : 2, 4, 6…",
+        "ar": "لنقل 5 مرّات 2 بالأصابع: 2، 4، 6…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 2",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 10 ruedas: {{5 × 2 = 10}}.",
+          "va": "Hi ha 10 rodes: {{5 × 2 = 10}}.",
+          "en": "There are 10 wheels: {{5 × 2 = 10}}.",
+          "fr": "Il y a 10 roues : {{5 × 2 = 10}}.",
+          "ar": "يوجد 10 عجلات: {{5 × 2 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con cosas que van de dos en dos: ojos, orejas, guantes…",
+        "va": "Inventa'n tu una altra amb coses que van de dos en dos: ulls, orelles, guants…",
+        "en": "Make up another one with things that come in twos: eyes, ears, gloves…",
+        "fr": "Invente-en une autre avec des choses qui vont par deux : yeux, oreilles, gants…",
+        "ar": "لنخترع سؤالًا آخر بأشياء تأتي أزواجًا: العيون، الآذان، القفّازات…"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Aisha dice que {{2 + 2 + 2 + 2 + 2 + 2}} es lo mismo que {{6 × 2}}. ¿Cuánto es?",
+        "va": "Aisha diu que {{2 + 2 + 2 + 2 + 2 + 2}} és el mateix que {{6 × 2}}. Quant és?",
+        "en": "Aisha says that {{2 + 2 + 2 + 2 + 2 + 2}} is the same as {{6 × 2}}. How much is it?",
+        "fr": "Aisha dit que {{2 + 2 + 2 + 2 + 2 + 2}}, c'est pareil que {{6 × 2}}. Ça fait combien ?",
+        "ar": "تقول عائشة إن {{2 + 2 + 2 + 2 + 2 + 2}} هو نفسه {{6 × 2}}. كم يساوي؟"
+      },
+      "pista": {
+        "es": "Cuenta cuántos 2 hay y luego súmalos de 2 en 2.",
+        "va": "Compta quants 2 hi ha i després suma'ls de 2 en 2.",
+        "en": "Count how many 2s there are, then add them up in twos.",
+        "fr": "Compte combien il y a de 2, puis additionne-les de 2 en 2.",
+        "ar": "لنعدّ كم مرة يتكرّر 2، ثم نجمعها اثنين اثنين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 2",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Aisha tiene razón: son 12, {{6 × 2 = 12}}.",
+          "va": "Aisha té raó: són 12, {{6 × 2 = 12}}.",
+          "en": "Aisha is right: it's 12, {{6 × 2 = 12}}.",
+          "fr": "Aisha a raison : ça fait 12, {{6 × 2 = 12}}.",
+          "ar": "عائشة على حق: إنه 12، {{6 × 2 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una suma de doses y di cómo es con el signo ×.",
+        "va": "Inventa't tu una suma de dosos i digues com és amb el signe ×.",
+        "en": "Make up an addition of 2s and say how it goes with the × sign.",
+        "fr": "Invente une addition de 2 et dis comment elle s'écrit avec le signe ×.",
+        "ar": "لنخترع جمعًا من الأعداد 2 ونقول كيف يصبح بإشارة ×."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Para recordar: tienes un billete de 5 € y tres monedas de 1 €. ¿Cuánto dinero tienes?",
+        "va": "Per a recordar: tens un bitllet de 5 € i tres monedes d'1 €. Quants diners tens?",
+        "en": "Let's remember: you have a 5 € note (billete) and three 1 € coins (monedas). How much money do you have?",
+        "fr": "Pour se souvenir : tu as un billet (billete) de 5 € et trois pièces (monedas) de 1 €. Combien d'argent as-tu ?",
+        "ar": "لنتذكّر: معنا ورقة نقدية (billete) من فئة 5 € وثلاث قطع نقدية (monedas) من فئة 1 €. كم معنا من المال؟"
+      },
+      "pista": {
+        "es": "Empieza en 5 y sigue contando una moneda cada vez.",
+        "va": "Comença en 5 i continua comptant una moneda cada vegada.",
+        "en": "Start at 5 and keep counting one coin at a time.",
+        "fr": "Commence à 5 et continue à compter une pièce à la fois.",
+        "ar": "لنبدأ من 5 ونتابع العدّ قطعة نقدية بعد أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 1 + 1 + 1",
+        "resultado": 8,
+        "unidad": "euros",
+        "texto": {
+          "es": "Tienes 8 €.",
+          "va": "Tens 8 €.",
+          "en": "You have 8 €.",
+          "fr": "Tu as 8 €.",
+          "ar": "معنا 8 €."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con billetes y monedas de juguete.",
+        "va": "Inventa'n tu una altra amb bitllets i monedes de joguet.",
+        "en": "Make up another one with toy notes and coins.",
+        "fr": "Invente-en une autre avec des billets et des pièces pour jouer.",
+        "ar": "لنخترع سؤالًا آخر بأوراق وقطع نقدية من الألعاب."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Para qué sirve el signo ×? Explícamelo con calcetines, con zapatos o con lo que quieras.",
+        "va": "Per a què servix el signe ×? Explica-m'ho amb calcetins, amb sabates o amb el que vulgues.",
+        "en": "What is the × sign for? Explain it to me with socks, shoes or anything you like.",
+        "fr": "À quoi sert le signe × ? Explique-le-moi avec des chaussettes, des chaussures ou ce que tu veux.",
+        "ar": "ما فائدة إشارة ×؟ لنشرحها بالجوارب أو بالأحذية أو بما نريد."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si te digo {{3 × 2}}, ¿cuántas parejas de calcetines saco?»",
+        "va": "Si no sap per on començar: «Si et dic {{3 × 2}}, quants parells de calcetins trac?»",
+        "en": "If they don't know where to start: “If I say {{3 × 2}}, how many pairs of socks do I take out?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si je te dis {{3 × 2}}, combien de paires de chaussettes je sors ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا قلت {{3 × 2}}، كم زوجًا من الجوارب أُخرج؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Basta con que relacione el × con «veces» o con grupos iguales. Si se lía, volved a los calcetines y contad juntos.",
+          "va": "N'hi ha prou que relacione el × amb «vegades» o amb grups iguals. Si s'embolica, torneu als calcetins i compteu junts.",
+          "en": "It's enough if they link the × with “times” or with equal groups. If they get muddled, go back to the socks and count together.",
+          "fr": "Il suffit que votre enfant relie le × à « fois » ou à des groupes égaux. S'il ou elle s'embrouille, revenez aux chaussettes et comptez ensemble.",
+          "ar": "يكفي أن تُربط إشارة × بكلمة «مرّات» أو بالمجموعات المتساوية. وإذا حصل خلط، ارجعوا إلى الجوارب وعدّوا معًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "0add3f517015"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "0add3f517015"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "0add3f517015"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "0add3f517015"
+      }
+    }
+  }
+}

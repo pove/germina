@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s01",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 1,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Decenas y unidades",
+    "va": "Desenes i unitats",
+    "en": "Tens and ones",
+    "fr": "Dizaines et unités",
+    "ar": "العشرات والآحاد"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a los números hasta 99: agrupan cosas de 10 en 10 y descubren que 47 son 4 decenas y 7 unidades.",
+    "va": "Aquesta setmana tornen als nombres fins a 99: agrupen coses de 10 en 10 i descobrixen que 47 són 4 desenes (decenas) i 7 unitats (unidades).",
+    "en": "This week they go back to numbers up to 99: they group things in tens and discover that 47 is 4 tens (decenas) and 7 ones (unidades).",
+    "fr": "Cette semaine, on revient aux nombres jusqu'à 99 : on regroupe des choses par 10 et on découvre que 47, c'est 4 dizaines (decenas) et 7 unités (unidades).",
+    "ar": "هذا الأسبوع يعود الأطفال إلى الأعداد حتى 99: يجمعون الأشياء عشرةً عشرةً، ويكتشفون أن 47 هي 4 عشرات (decenas) و7 آحاد (unidades)."
+  },
+  "comoAyudar": {
+    "es": "Dejad que cuente las legumbres de una en una para llenar cada vaso: contar con los dedos está bien. Después preguntad: «¿cuántos vasos y cuántas sueltas hay?».",
+    "va": "Deixeu que compte els llegums d'un en un per a omplir cada got: comptar amb els dits està bé. Després pregunteu: «quants gots i quants solts hi ha?».",
+    "en": "Let them count the beans one by one to fill each cup: counting on fingers is fine. Then ask: “How many cups and how many loose ones are there?”",
+    "fr": "Laissez-le ou laissez-la compter les haricots un par un pour remplir chaque verre : compter sur ses doigts, c'est bien. Ensuite, demandez : « Combien de verres et combien de haricots tout seuls ? »",
+    "ar": "دعوا العدّ يكون حبةً حبةً لملء كل كوب: العدّ بالأصابع أمر جيّد. ثم اسألوا: «كم كوبًا عندنا، وكم حبة منفردة؟»."
+  },
+  "saberes": [
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.numeros.usos-sociales"
+  ],
+  "criterios": [
+    "matematicas.c1.5.1",
+    "matematicas.c1.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Vasos de 10",
+      "va": "Gots de 10",
+      "en": "Cups of 10",
+      "fr": "Des verres de 10",
+      "ar": "أكواب العشرة"
+    },
+    "material": [
+      {
+        "es": "Un puñado grande de legumbres secas: lentejas, garbanzos o alubias",
+        "va": "Un bon grapat de llegums secs: llentilles, cigrons o fesols",
+        "en": "A big handful of dried pulses: lentils, chickpeas or beans",
+        "fr": "Une grosse poignée de légumes secs : lentilles, pois chiches ou haricots",
+        "ar": "حفنة كبيرة من البقول الجافة: عدس أو حمّص أو فاصوليا"
+      },
+      {
+        "es": "Varios vasos pequeños",
+        "va": "Uns quants gots menuts",
+        "en": "Several small cups",
+        "fr": "Plusieurs petits verres",
+        "ar": "عدة أكواب صغيرة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Echad un puñado de legumbres en la mesa. Antes de contar, decid cuántas creéis que hay.",
+          "va": "Tireu un grapat de llegums damunt de la taula. Abans de comptar, digueu quants creieu que n'hi ha.",
+          "en": "Pour a handful of beans onto the table. Before counting, say how many you think there are.",
+          "fr": "Versez une poignée de haricots sur la table. Avant de compter, dites combien vous pensez qu'il y en a.",
+          "ar": "ضعوا حفنة من البقول على الطاولة. قبل العدّ، قولوا كم حبة تظنّون أنها."
+        }
+      },
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "Meted 10 legumbres en cada vaso, contando de una en una. Las que no llegan a 10 se quedan sueltas al lado.",
+          "va": "Poseu 10 llegums en cada got, comptant d'un en un. Els que no arriben a 10 es queden solts al costat.",
+          "en": "Put 10 beans in each cup, counting one by one. The ones that don't make 10 stay loose beside the cups.",
+          "fr": "Mettez 10 haricots dans chaque verre, en comptant un par un. Ceux qui n'arrivent pas à 10 restent tout seuls à côté.",
+          "ar": "ضعوا 10 حبات في كل كوب، وعدّوها حبةً حبةً. الحبات التي لا تكمل 10 تبقى منفردة بجانب الأكواب."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad los vasos de 10 en 10: «diez, veinte, treinta…». Luego seguid con las sueltas, de una en una.",
+          "va": "Compteu els gots de 10 en 10: «deu, vint, trenta…». Després continueu amb els solts, d'un en un.",
+          "en": "Count the cups in tens: “ten, twenty, thirty…”. Then carry on with the loose ones, one by one.",
+          "fr": "Comptez les verres de 10 en 10 : « dix, vingt, trente… ». Puis continuez avec ceux qui sont tout seuls, un par un.",
+          "ar": "عدّوا الأكواب عشرةً عشرةً: «عشرة، عشرون، ثلاثون…». ثم تابعوا بالحبات المنفردة واحدةً واحدةً."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decid el número que sale: 3 vasos y 6 sueltas son 36. ¿Se parece a lo que creíais?",
+          "va": "Digueu el nombre que ix: 3 gots i 6 solts són 36. S'assembla al que creíeu?",
+          "en": "Say the number you get: 3 cups and 6 loose beans make 36. Is it close to what you thought?",
+          "fr": "Dites le nombre obtenu : 3 verres et 6 haricots tout seuls, ça fait 36. Est-ce proche de ce que vous pensiez ?",
+          "ar": "قولوا العدد الناتج: 3 أكواب و6 حبات منفردة تساوي 36. هل يشبه ما ظننتموه؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con un puñado pequeño, de menos de 30 legumbres.",
+      "va": "Comenceu amb un grapat menut, de menys de 30 llegums.",
+      "en": "Start with a small handful, fewer than 30 beans.",
+      "fr": "Commencez avec une petite poignée, de moins de 30 haricots.",
+      "ar": "ابدؤوا بحفنة صغيرة، أقل من 30 حبة."
+    },
+    "masDificil": {
+      "es": "Dibujad cada vaso con una raya y cada suelta con un punto, y decid el número mirando solo el dibujo.",
+      "va": "Dibuixeu cada got amb una ratlla i cada solt amb un punt, i digueu el nombre mirant només el dibuix.",
+      "en": "Draw each cup as a line and each loose bean as a dot, and say the number just by looking at the drawing.",
+      "fr": "Dessinez chaque verre par un trait et chaque haricot tout seul par un point, et dites le nombre en regardant seulement le dessin.",
+      "ar": "ارسموا كل كوب بخط وكل حبة منفردة بنقطة، وقولوا العدد بالنظر إلى الرسم فقط."
+    },
+    "paraQueSirve": {
+      "es": "Agrupar de 10 en 10 es la idea que hay detrás de todos los números grandes: este curso llegarán hasta el 999.",
+      "va": "Agrupar de 10 en 10 és la idea que hi ha darrere de tots els nombres grans: aquest curs arribaran fins al 999.",
+      "en": "Grouping in tens is the idea behind all big numbers: this year they will go up to 999.",
+      "fr": "Regrouper par 10, c'est l'idée qui se cache derrière tous les grands nombres : cette année, on ira jusqu'à 999.",
+      "ar": "التجميع عشرةً عشرةً هو الفكرة التي تقوم عليها كل الأعداد الكبيرة: هذه السنة سيصل الأطفال إلى 999."
+    },
+    "aviso": {
+      "es": "Guardad las legumbres lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els llegums lluny de germans o germanes menuts.",
+      "en": "Keep the beans away from younger brothers and sisters.",
+      "fr": "Gardez les haricots loin des petits frères et sœurs.",
+      "ar": "أبعدوا البقول عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Aisha tiene 4 sobres de 10 cromos y 3 cromos sueltos. ¿Cuántos cromos tiene?",
+        "va": "Aisha té 4 sobres de 10 cromos i 3 cromos solts. Quants cromos té?",
+        "en": "Aisha has 4 packets of 10 stickers and 3 loose stickers. How many stickers does she have?",
+        "fr": "Aisha a 4 pochettes de 10 images et 3 images toutes seules. Combien d'images a-t-elle ?",
+        "ar": "عند عائشة 4 أظرف في كل واحد منها 10 صور، و3 صور منفردة. كم صورة عندها؟"
+      },
+      "pista": {
+        "es": "Cuenta los sobres de 10 en 10, «diez, veinte…», y sigue con los sueltos.",
+        "va": "Compta els sobres de 10 en 10, «deu, vint…», i continua amb els solts.",
+        "en": "Count the packets in tens, “ten, twenty…”, and carry on with the loose ones.",
+        "fr": "Compte les pochettes de 10 en 10, « dix, vingt… », et continue avec les images toutes seules.",
+        "ar": "لنعدّ الأظرف عشرةً عشرةً، «عشرة، عشرون…»، ثم نتابع بالصور المنفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 + 3",
+        "resultado": 43,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 43 cromos: 4 decenas y 3 unidades.",
+          "va": "Té 43 cromos: 4 desenes i 3 unitats.",
+          "en": "She has 43 stickers: 4 tens and 3 ones.",
+          "fr": "Elle a 43 images : 4 dizaines et 3 unités.",
+          "ar": "عندها 43 صورة: 4 عشرات و3 آحاد."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con paquetes de 10 cosas de casa y algunas sueltas.",
+        "va": "Ara inventa'n tu una amb paquets de 10 coses de casa i algunes soltes.",
+        "en": "Now you make one up with packs of 10 things from home and a few loose ones.",
+        "fr": "Maintenant, invente une question avec des paquets de 10 choses de la maison et quelques-unes toutes seules.",
+        "ar": "والآن لنخترع سؤالًا بعلب فيها 10 أشياء من البيت، وبعض الأشياء المنفردة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Mateo pone sus 36 pinzas en grupos de 10. ¿Cuántas pinzas le faltan para completar otro grupo?",
+        "va": "Mateo posa les seues 36 pinces en grups de 10. Quantes pinces li falten per a completar un altre grup?",
+        "en": "Mateo puts his 36 clothes pegs in groups of 10. How many more pegs is he missing to make another group?",
+        "fr": "Mateo range ses 36 pinces à linge par groupes de 10. Combien de pinces lui manque-t-il pour faire un autre groupe ?",
+        "ar": "يضع ماتيو ملاقطه الـ36 في مجموعات من 10. كم ملقطًا ينقصه ليكمل مجموعة أخرى؟"
+      },
+      "pista": {
+        "es": "Mira cuántas quedan sueltas y cuenta con los dedos desde ahí hasta 10.",
+        "va": "Mira quantes en queden soltes i compta amb els dits des d'ací fins a 10.",
+        "en": "See how many are left loose and count on your fingers from there up to 10.",
+        "fr": "Regarde combien il en reste toutes seules et compte sur tes doigts à partir de là jusqu'à 10.",
+        "ar": "لننظر كم ملقطًا بقي منفردًا، ونعدّ بالأصابع من هناك حتى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 4 pinzas: tiene 6 sueltas y, con 4 más, tendría 40.",
+          "va": "Li falten 4 pinces: en té 6 de soltes i, amb 4 més, en tindria 40.",
+          "en": "He needs 4 more pegs: he has 6 loose ones and, with 4 more, he would have 40.",
+          "fr": "Il lui manque 4 pinces : il en a 6 toutes seules et, avec 4 de plus, il en aurait 40.",
+          "ar": "ينقصه 4 ملاقط: عنده 6 ملاقط منفردة، وبـ4 ملاقط أخرى يصبح عنده 40."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: elige un número y di cuánto le falta para el siguiente grupo de 10.",
+        "va": "Inventa'n tu una altra: tria un nombre i digues quant li falta per al següent grup de 10.",
+        "en": "Make up another one: choose a number and say how many are missing to reach the next group of 10.",
+        "fr": "Invente-en une autre : choisis un nombre et dis combien il lui manque pour le groupe de 10 suivant.",
+        "ar": "لنخترع سؤالًا آخر: نختار عددًا ونقول كم ينقصه ليصل إلى مجموعة العشرة التالية."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Lucía tiene 2 paquetes de 10 galletas. Su abuelo tiene 3 paquetes y 4 sueltas. ¿Cuántas galletas tienen entre los dos?",
+        "va": "Lucía té 2 paquets de 10 galetes. El seu avi té 3 paquets i 4 de soltes. Quantes galetes tenen entre els dos?",
+        "en": "Lucía has 2 packs of 10 biscuits. Her grandad has 3 packs and 4 loose ones. How many biscuits do they have altogether?",
+        "fr": "Lucía a 2 paquets de 10 biscuits. Son grand-père a 3 paquets et 4 biscuits tout seuls. Combien de biscuits ont-ils à eux deux ?",
+        "ar": "عند لوسيا علبتان في كل منهما 10 بسكويتات. وعند جدّها 3 علب و4 بسكويتات منفردة. كم بسكويتة عندهما معًا؟"
+      },
+      "pista": {
+        "es": "Junta primero los paquetes y luego las sueltas.",
+        "va": "Ajunta primer els paquets i després les soltes.",
+        "en": "Put the packs together first, and then the loose ones.",
+        "fr": "Réunis d'abord les paquets, puis les biscuits tout seuls.",
+        "ar": "لنجمع العلب أولًا، ثم البسكويتات المنفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 + 34",
+        "resultado": 54,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 54 galletas: 5 paquetes y 4 sueltas.",
+          "va": "Tenen 54 galetes: 5 paquets i 4 de soltes.",
+          "en": "They have 54 biscuits: 5 packs and 4 loose ones.",
+          "fr": "Ils ont 54 biscuits : 5 paquets et 4 biscuits tout seuls.",
+          "ar": "عندهما 54 بسكويتة: 5 علب و4 بسكويتات منفردة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que dos personas juntan sus paquetes de 10.",
+        "va": "Inventa'n tu una en què dues persones ajunten els seus paquets de 10.",
+        "en": "Make one up where two people put their packs of 10 together.",
+        "fr": "Invente une question où deux personnes réunissent leurs paquets de 10.",
+        "ar": "لنخترع سؤالًا يجمع فيه شخصان علبهما التي فيها 10."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 0,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar lo de 1.º: tienes 15 canicas y te dan 3 más. ¿Cuántas tienes ahora?",
+        "va": "Per a recordar allò de 1r: tens 15 bales i te'n donen 3 més. Quantes en tens ara?",
+        "en": "Let's remember something from Year 1: you have 15 marbles and you get 3 more. How many do you have now?",
+        "fr": "Pour se souvenir de l'an dernier : tu as 15 billes et on t'en donne 3 de plus. Combien en as-tu maintenant ?",
+        "ar": "لنتذكّر ما تعلّمناه في الصف الأول: عندنا 15 كرة زجاجية، وأخذنا 3 أخرى. كم كرة عندنا الآن؟"
+      },
+      "pista": {
+        "es": "Empieza en 15 y sigue contando 3 con los dedos.",
+        "va": "Comença en 15 i continua comptant-ne 3 amb els dits.",
+        "en": "Start at 15 and count on 3 more with your fingers.",
+        "fr": "Commence à 15 et continue de compter 3 sur tes doigts.",
+        "ar": "لنبدأ من 15 ونتابع العدّ 3 بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 + 3",
+        "resultado": 18,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienes 18 canicas.",
+          "va": "En tens 18.",
+          "en": "You have 18 marbles.",
+          "fr": "Tu en as 18.",
+          "ar": "عندنا 18 كرة زجاجية."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con cosas de tu habitación.",
+        "va": "Inventa'n tu una altra amb coses de la teua habitació.",
+        "en": "Make up another one with things from your room.",
+        "fr": "Invente-en une autre avec des choses de ta chambre.",
+        "ar": "لنخترع سؤالًا آخر بأشياء من الغرفة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Elige un número hasta 99, por ejemplo tu favorito. Explícame cuántas decenas y unidades tiene, y cómo lo sabes.",
+        "va": "Tria un nombre fins a 99, per exemple el teu preferit. Explica'm quantes desenes i unitats té, i com ho saps.",
+        "en": "Choose a number up to 99, for example your favourite one. Explain to me how many tens and ones it has, and how you know.",
+        "fr": "Choisis un nombre jusqu'à 99, par exemple ton préféré. Explique-moi combien il a de dizaines et d'unités, et comment tu le sais.",
+        "ar": "لنختر عددًا حتى 99، مثلًا العدد المفضّل عندنا. لنشرح كم فيه من العشرات والآحاد، وكيف عرفنا ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me lo enseñas con legumbres y vasos, o con los dedos?»",
+        "va": "Si no sap per on començar: «M'ho ensenyes amb llegums i gots, o amb els dits?»",
+        "en": "If they don't know where to start: “Can you show me with beans and cups, or with your fingers?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me le montres avec des haricots et des verres, ou avec tes doigts ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نُريه بالبقول والأكواب، أو بالأصابع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y cómo lo sabes?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i com ho saps?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And how do you know?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et comment tu le sais ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «وكيف عرفنا ذلك؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "25f9eb659559"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "25f9eb659559"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "25f9eb659559"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "25f9eb659559"
+      }
+    }
+  }
+}

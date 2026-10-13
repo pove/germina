@@ -1,0 +1,355 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.v01",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "verano": 1,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Tablas de verano",
+    "va": "Taules d'estiu",
+    "en": "Summer times tables",
+    "fr": "Les tables de l'été",
+    "ar": "جداول الصيف"
+  },
+  "objetivo": {
+    "es": "En verano, las tablas del 2, del 5 y del 10 se mantienen jugando: un minuto en equipo en la playa, el parque o la terraza basta para llegar a 3.º con ellas a mano.",
+    "va": "A l'estiu, les taules del 2, del 5 i del 10 (tablas del 2, del 5 y del 10) es mantenen jugant: un minut en equip a la platja, al parc o a la terrassa és suficient per a arribar a 3r amb elles a mà.",
+    "en": "In summer, the 2, 5 and 10 times tables (tablas del 2, del 5 y del 10) stay fresh through play: one minute as a team on the beach, in the park or on the terrace is enough to start 3rd year with them at hand.",
+    "fr": "En été, les tables de 2, de 5 et de 10 (tablas del 2, del 5 y del 10) se gardent en jouant : une minute en équipe à la plage, au parc ou en terrasse suffit pour arriver en 3e année en les ayant sous la main.",
+    "ar": "في الصيف، تبقى جداول ضرب 2 و5 و10 (tablas del 2, del 5 y del 10) حاضرة باللعب: دقيقة واحدة كفريق على الشاطئ أو في الحديقة أو على الشرفة تكفي لنصل إلى الصف الثالث وهي في متناولنا."
+  },
+  "comoAyudar": {
+    "es": "La primera vez, decid la tabla a la vez y sin prisa. Si un resultado se resiste, contad juntos de 2 en 2, de 5 en 5 o de 10 en 10 con los dedos.",
+    "va": "La primera vegada, digueu la taula alhora i sense pressa. Si un resultat es resistix, compteu junts de 2 en 2, de 5 en 5 o de 10 en 10 amb els dits.",
+    "en": "The first time, say the table together and without hurrying. If an answer won't come, count together in twos, fives or tens on your fingers.",
+    "fr": "La première fois, dites la table ensemble et sans vous presser. Si un résultat résiste, comptez ensemble de 2 en 2, de 5 en 5 ou de 10 en 10 sur les doigts.",
+    "ar": "في المرة الأولى، قولوا الجدول معًا ومن دون عجلة. وإذا استعصت نتيجة، عدّوا معًا 2 بـ2 أو 5 بـ5 أو 10 بـ10 على الأصابع."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Un minuto en equipo",
+      "va": "Un minut en equip",
+      "en": "One minute as a team",
+      "fr": "Une minute en équipe",
+      "ar": "دقيقة كفريق"
+    },
+    "material": [
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina timer",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت Germina"
+      },
+      {
+        "es": "Unas piedras o conchas para contar los aciertos",
+        "va": "Unes pedres o petxines per a comptar els encerts",
+        "en": "Some stones or shells to count the right answers",
+        "fr": "Quelques cailloux ou coquillages pour compter les bonnes réponses",
+        "ar": "بعض الحصى أو الأصداف لعدّ الإجابات الصحيحة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Elegid una tabla: la del 2, la del 5 o la del 10. Para calentar, decidla juntos sin reloj, contando con los dedos.",
+          "va": "Trieu una taula: la del 2, la del 5 o la del 10. Per a escalfar, digueu-la junts sense rellotge, comptant amb els dits.",
+          "en": "Choose a table: the 2, the 5 or the 10. To warm up, say it together without the timer, counting on your fingers.",
+          "fr": "Choisissez une table : celle de 2, de 5 ou de 10. Pour vous échauffer, dites-la ensemble sans chronomètre, en comptant sur les doigts.",
+          "ar": "اختاروا جدولًا: جدول 2 أو 5 أو 10. للإحماء، قولوه معًا بلا مؤقّت، وعدّوا على الأصابع."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Poned el cronómetro en 1 minuto. Por turnos, una persona dice una multiplicación de la tabla, como {{3 × 5}}, y la otra dice el resultado.",
+          "va": "Poseu el cronòmetre en 1 minut. Per torns, una persona diu una multiplicació (multiplicación) de la taula, com ara {{3 × 5}}, i l'altra diu el resultat.",
+          "en": "Set the timer to 1 minute. Taking turns, one person says a multiplication (multiplicación) from the table, like {{3 × 5}}, and the other says the answer.",
+          "fr": "Mettez le chronomètre sur 1 minute. Chacun son tour, une personne dit une multiplication (multiplicación) de la table, comme {{3 × 5}}, et l'autre dit le résultat.",
+          "ar": "اضبطوا المؤقّت على دقيقة واحدة. بالتناوب، يقول شخص عملية ضرب (multiplicación) من الجدول، مثل {{3 × 5}}، ويقول الآخر النتيجة."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Cada acierto, una piedra al montón. Al final, contad las piedras: es vuestro récord de equipo.",
+          "va": "Cada encert, una pedra al munt. Al final, compteu les pedres: és el vostre rècord d'equip.",
+          "en": "Each right answer, one stone on the pile. At the end, count the stones: that is your team record.",
+          "fr": "À chaque bonne réponse, un caillou sur le tas. À la fin, comptez les cailloux : c'est votre record d'équipe.",
+          "ar": "مع كل إجابة صحيحة، حصاة إلى الكومة. في النهاية، عدّوا الحصى: هذا رقمكم القياسي كفريق."
+        }
+      },
+      {
+        "pictograma": "sol",
+        "texto": {
+          "es": "¿Mejora el récord del curso? Otro día, jugad con otra tabla.",
+          "va": "Millora el rècord del curs? Un altre dia, jugueu amb una altra taula.",
+          "en": "Does it beat your record from the school year? Another day, play with another table.",
+          "fr": "Est-il meilleur que le record de l'année ? Un autre jour, jouez avec une autre table.",
+          "ar": "هل هو أفضل من رقم السنة الدراسية؟ في يوم آخر، العبوا بجدول آخر."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad solo con la tabla del 10 o la del 2, y contad con los dedos si os ayuda.",
+      "va": "Jugueu només amb la taula del 10 o la del 2, i compteu amb els dits si us ajuda.",
+      "en": "Play only with the 10 or the 2 times table, and count on your fingers if it helps.",
+      "fr": "Jouez seulement avec la table de 10 ou celle de 2, et comptez sur les doigts si ça aide.",
+      "ar": "العبوا بجدول 10 أو جدول 2 فقط، وعدّوا على الأصابع إذا ساعدكم ذلك."
+    },
+    "masDificil": {
+      "es": "Añadid la tabla del 4, que es el doble de la del 2: {{4 × 3}} es el doble de {{2 × 3}}.",
+      "va": "Afegiu la taula del 4, que és el doble (doble) de la del 2: {{4 × 3}} és el doble de {{2 × 3}}.",
+      "en": "Add the 4 times table, which is double (doble) the 2 times table: {{4 × 3}} is double {{2 × 3}}.",
+      "fr": "Ajoutez la table de 4, qui est le double (doble) de celle de 2 : {{4 × 3}}, c'est le double de {{2 × 3}}.",
+      "ar": "أضيفوا جدول 4، وهو ضعف (doble) جدول 2: {{4 × 3}} ضعف {{2 × 3}}."
+    },
+    "paraQueSirve": {
+      "es": "Lo que no se usa se olvida un poco. Unos minutos de juego de vez en cuando mantienen estas tablas a mano para 3.º, donde llegan las demás.",
+      "va": "El que no s'usa s'oblida una mica. Uns minuts de joc de tant en tant mantenen aquestes taules a mà per a 3r, on arriben les altres.",
+      "en": "What isn't used gets a little forgotten. A few minutes of play now and then keep these tables at hand for 3rd year, when the others arrive.",
+      "fr": "Ce qu'on n'utilise pas s'oublie un peu. Quelques minutes de jeu de temps en temps gardent ces tables sous la main pour la 3e année, où arrivent les autres.",
+      "ar": "ما لا نستعمله ننساه قليلًا. دقائق قليلة من اللعب بين حين وآخر تُبقي هذه الجداول في متناولنا للصف الثالث، حيث تأتي الجداول الأخرى."
+    },
+    "aviso": {
+      "es": "Jugad a la sombra y con agua cerca. Guardad las piedras y conchas pequeñas lejos de hermanos o hermanas pequeños.",
+      "va": "Jugueu a l'ombra i amb aigua a prop. Guardeu les pedres i petxines menudes lluny de germans o germanes menuts.",
+      "en": "Play in the shade with water nearby. Keep small stones and shells away from younger brothers and sisters.",
+      "fr": "Jouez à l'ombre avec de l'eau à portée de main. Gardez les petits cailloux et coquillages loin des petits frères et sœurs.",
+      "ar": "العبوا في الظل ومعكم ماء قريب. أبعدوا الحصى والأصداف الصغيرة عن الإخوة والأخوات الصغار."
+    },
+    "rapidez": {
+      "segundos": 60,
+      "seCuenta": {
+        "es": "aciertos del equipo",
+        "va": "encerts de l'equip",
+        "en": "team's right answers",
+        "fr": "bonnes réponses de l'équipe",
+        "ar": "إجابات الفريق الصحيحة"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En la toalla hay 4 pares de chanclas. ¿Cuántas chanclas hay?",
+        "va": "Damunt de la tovallola hi ha 4 parells de xancles. Quantes xancles hi ha?",
+        "en": "On the towel there are 4 pairs of flip-flops. How many flip-flops are there?",
+        "fr": "Sur la serviette, il y a 4 paires de tongs. Combien de tongs y a-t-il ?",
+        "ar": "على المنشفة 4 أزواج من الشباشب. كم شبشبًا يوجد؟"
+      },
+      "pista": {
+        "es": "Cuenta de 2 en 2 con los dedos: 2, 4, 6…",
+        "va": "Compta de 2 en 2 amb els dits: 2, 4, 6…",
+        "en": "Count in twos on your fingers: 2, 4, 6…",
+        "fr": "Compte de 2 en 2 sur tes doigts : 2, 4, 6…",
+        "ar": "لنعدّ 2 بـ2 على الأصابع: 2، 4، 6…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 2",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 8 chanclas: {{4 × 2 = 8}}.",
+          "va": "Hi ha 8 xancles: {{4 × 2 = 8}}.",
+          "en": "There are 8 flip-flops: {{4 × 2 = 8}}.",
+          "fr": "Il y a 8 tongs : {{4 × 2 = 8}}.",
+          "ar": "يوجد 8 شباشب: {{4 × 2 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con pares de cosas de la playa o de casa.",
+        "va": "Ara inventa'n tu una amb parells de coses de la platja o de casa.",
+        "en": "Now you make one up with pairs of things from the beach or from home.",
+        "fr": "Maintenant, invente une question avec des paires de choses de la plage ou de la maison.",
+        "ar": "والآن لنخترع سؤالًا عن أزواج من أشياء الشاطئ أو البيت."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Cada mano tiene 5 dedos. ¿Cuántos dedos hay en 6 manos?",
+        "va": "Cada mà té 5 dits. Quants dits hi ha en 6 mans?",
+        "en": "Each hand has 5 fingers. How many fingers are there on 6 hands?",
+        "fr": "Chaque main a 5 doigts. Combien de doigts y a-t-il sur 6 mains ?",
+        "ar": "في كل يد 5 أصابع. كم إصبعًا في 6 أيادٍ؟"
+      },
+      "pista": {
+        "es": "Cuenta de 5 en 5, como los minutos del reloj: 5, 10, 15…",
+        "va": "Compta de 5 en 5, com els minuts del rellotge: 5, 10, 15…",
+        "en": "Count in fives, like the minutes on a clock: 5, 10, 15…",
+        "fr": "Compte de 5 en 5, comme les minutes de l'horloge : 5, 10, 15…",
+        "ar": "لنعدّ 5 بـ5 مثل دقائق الساعة: 5، 10، 15…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 × 5",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 30 dedos: {{6 × 5 = 30}}.",
+          "va": "Hi ha 30 dits: {{6 × 5 = 30}}.",
+          "en": "There are 30 fingers: {{6 × 5 = 30}}.",
+          "fr": "Il y a 30 doigts : {{6 × 5 = 30}}.",
+          "ar": "يوجد 30 إصبعًا: {{6 × 5 = 30}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con las manos de tu familia o de tus amistades.",
+        "va": "Inventa'n tu una amb les mans de la teua família o de les teues amistats.",
+        "en": "Make one up with the hands of your family or your friends.",
+        "fr": "Invente une question avec les mains de ta famille ou de tes amis et amies.",
+        "ar": "لنخترع سؤالًا عن أيادي العائلة أو الأصدقاء."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Compramos 7 sobres de 10 cromos. ¿Cuántos cromos son?",
+        "va": "Comprem 7 sobres de 10 cromos. Quants cromos són?",
+        "en": "We buy 7 packets of 10 stickers. How many stickers is that?",
+        "fr": "Nous achetons 7 pochettes de 10 images. Combien d'images cela fait-il ?",
+        "ar": "اشترينا 7 أظرف في كل منها 10 ملصقات. كم ملصقًا عندنا؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10, como las decenas: 10, 20, 30…",
+        "va": "Compta de 10 en 10, com les desenes (decenas): 10, 20, 30…",
+        "en": "Count in tens, like the tens (decenas): 10, 20, 30…",
+        "fr": "Compte de 10 en 10, comme les dizaines (decenas) : 10, 20, 30…",
+        "ar": "لنعدّ 10 بـ10 مثل العشرات (decenas): 10، 20، 30…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 × 10",
+        "resultado": 70,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 70 cromos: {{7 × 10 = 70}}.",
+          "va": "Són 70 cromos: {{7 × 10 = 70}}.",
+          "en": "That's 70 stickers: {{7 × 10 = 70}}.",
+          "fr": "Cela fait 70 images : {{7 × 10 = 70}}.",
+          "ar": "عندنا 70 ملصقًا: {{7 × 10 = 70}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con cajas o paquetes de 10 cosas.",
+        "va": "Inventa'n tu una amb capses o paquets de 10 coses.",
+        "en": "Make one up with boxes or packs of 10 things.",
+        "fr": "Invente une question avec des boîtes ou des paquets de 10 choses.",
+        "ar": "لنخترع سؤالًا عن علب أو رزم فيها 10 أشياء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 13,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar las parejas del 10: Aisha tiene 6 conchas y Wei tiene 4. ¿Cuántas tienen entre los dos?",
+        "va": "Per a recordar les parelles del 10: Aisha té 6 petxines i Wei en té 4. Quantes en tenen entre tots dos?",
+        "en": "Let's remember pairs that make 10: Aisha has 6 shells and Wei has 4. How many do they have together?",
+        "fr": "Pour se souvenir des paires qui font 10 : Aisha a 6 coquillages et Wei en a 4. Combien en ont-ils à eux deux ?",
+        "ar": "لنتذكّر أزواج العشرة: عند عائشة 6 أصداف وعند وي 4. كم صدفة عندهما معًا؟"
+      },
+      "pista": {
+        "es": "Levanta 6 dedos y luego 4 más: mira cuántos quedan levantados.",
+        "va": "Alça 6 dits i després 4 més: mira quants en queden alçats.",
+        "en": "Hold up 6 fingers and then 4 more: see how many are up.",
+        "fr": "Lève 6 doigts, puis 4 de plus : regarde combien sont levés.",
+        "ar": "لنرفع 6 أصابع ثم 4 أخرى، ونرى كم إصبعًا صار مرفوعًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 4",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 10 conchas: 6 y 4 son pareja del 10.",
+          "va": "En tenen 10: 6 i 4 són parella del 10.",
+          "en": "They have 10 shells: 6 and 4 are a pair that makes 10.",
+          "fr": "Ils en ont 10 : 6 et 4 font une paire qui donne 10.",
+          "ar": "عندهما 10 أصداف: 6 و4 زوج يكمّل العشرة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos números que juntos hagan 10.",
+        "va": "Inventa'n tu una altra amb dos nombres que junts facen 10.",
+        "en": "Make up another one with two numbers that make 10 together.",
+        "fr": "Invente-en une autre avec deux nombres qui font 10 ensemble.",
+        "ar": "لنخترع سؤالًا آخر بعددين مجموعهما 10."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué tabla te sale ya sin pensar? Enséñame cómo sacas una multiplicación que se te resiste.",
+        "va": "Quina taula et ix ja sense pensar? Ensenya'm com traus una multiplicació que se't resistix.",
+        "en": "Which table comes to you without thinking now? Show me how you work out a multiplication that won't come.",
+        "fr": "Quelle table connais-tu déjà sans réfléchir ? Montre-moi comment tu trouves une multiplication qui te résiste.",
+        "ar": "أي جدول نعرفه الآن دون تفكير؟ لنُرِ كيف نجد عملية ضرب تستعصي علينا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cómo sacas {{6 × 5}} contando con los dedos?»",
+        "va": "Si no sap per on començar: «Com traus {{6 × 5}} comptant amb els dits?»",
+        "en": "If they don't know where to start: “How do you work out {{6 × 5}} counting on your fingers?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Comment tu trouves {{6 × 5}} en comptant sur tes doigts ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كيف نجد {{6 × 5}} بالعدّ على الأصابع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "efc64b9487a9"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "efc64b9487a9"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "efc64b9487a9"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "efc64b9487a9"
+      }
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.v02",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "verano": 2,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Números de la calle",
+    "va": "Nombres del carrer",
+    "en": "Street numbers",
+    "fr": "Les nombres de la rue",
+    "ar": "أعداد الشارع"
+  },
+  "objetivo": {
+    "es": "En verano, los paseos están llenos de números: portales, autobuses, tiendas. Leerlos y decir cuál es mayor mantiene fresco lo que vale cada cifra: no es lo mismo 27 que 72.",
+    "va": "A l'estiu, els passejos estan plens de nombres: portals, autobusos, botigues. Llegir-los i dir quin és major (mayor) manté fresc el que val cada xifra (cifra): no és el mateix 27 que 72.",
+    "en": "In summer, walks are full of numbers: doorways, buses, shops. Reading them and saying which is greater (mayor) keeps fresh what each digit (cifra) is worth: 27 is not the same as 72.",
+    "fr": "En été, les promenades sont pleines de nombres : portes d'immeubles, bus, magasins. Les lire et dire lequel est plus grand (mayor) garde en tête ce que vaut chaque chiffre (cifra) : 27, ce n'est pas 72.",
+    "ar": "في الصيف، النزهات مليئة بالأعداد: أرقام البيوت والحافلات والمحلات. قراءتها وقول أيّها أكبر (mayor) يُبقي قيمة كل رقم (cifra) حاضرة: 27 ليس مثل 72."
+  },
+  "comoAyudar": {
+    "es": "Dejad que sea quien encuentre los números y los lea. Si duda entre dos, preguntad «¿cuántas decenas tiene cada uno?».",
+    "va": "Deixeu que siga qui trobe els nombres i els llija. Si dubta entre dos, pregunteu «quantes desenes (decenas) té cada un?».",
+    "en": "Let your child be the one who finds and reads the numbers. If they hesitate between two, ask “How many tens (decenas) does each one have?”.",
+    "fr": "Laissez votre enfant trouver les nombres et les lire. S'il ou elle hésite entre deux, demandez « Combien de dizaines (decenas) a chacun ? ».",
+    "ar": "دعوا الطفل أو الطفلة يجد الأعداد ويقرؤها. وإذا تردّد بين عددين، اسألوا: «كم عشرة (decena) في كل واحد منهما؟»."
+  },
+  "saberes": [
+    "matematicas.numeros.usos-sociales",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c1.7.2",
+    "matematicas.c1.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Paseo de números",
+      "va": "Passeig de nombres",
+      "en": "Number walk",
+      "fr": "La promenade des nombres",
+      "ar": "نزهة الأعداد"
+    },
+    "material": [
+      {
+        "es": "Un paseo por el barrio o el pueblo, con una persona adulta",
+        "va": "Un passeig pel barri o el poble, amb una persona adulta",
+        "en": "A walk around the neighbourhood or town, with an adult",
+        "fr": "Une promenade dans le quartier ou le village, avec une personne adulte",
+        "ar": "نزهة في الحيّ أو البلدة مع شخص بالغ"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Salid juntos de paseo y buscad números hasta el 99: portales, autobuses, tiendas, plazas de aparcamiento…",
+          "va": "Eixiu junts a passejar i busqueu nombres fins al 99: portals, autobusos, botigues, places d'aparcament…",
+          "en": "Go for a walk together and look for numbers up to 99: doorways, buses, shops, parking spaces…",
+          "fr": "Partez en promenade ensemble et cherchez des nombres jusqu'à 99 : portes d'immeubles, bus, magasins, places de parking…",
+          "ar": "اخرجوا معًا في نزهة وابحثوا عن أعداد حتى 99: أرقام البيوت والحافلات والمحلات وأماكن ركن السيارات…"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Cada vez que encontréis dos números, leedlos en voz alta y decid cuál es mayor.",
+          "va": "Cada vegada que trobeu dos nombres, llegiu-los en veu alta i digueu quin és major.",
+          "en": "Each time you find two numbers, read them out loud and say which is greater.",
+          "fr": "Chaque fois que vous trouvez deux nombres, lisez-les à voix haute et dites lequel est plus grand.",
+          "ar": "كلما وجدتم عددين، اقرؤوهما بصوت عالٍ وقولوا أيّهما أكبر."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Si dudáis, mirad primero las decenas: 47 es mayor que 39 porque 4 decenas son más que 3.",
+          "va": "Si dubteu, mireu primer les desenes: 47 és major que 39 perquè 4 desenes són més que 3.",
+          "en": "If you’re not sure, look at the tens first: 47 is greater than 39 because 4 tens are more than 3.",
+          "fr": "Si vous hésitez, regardez d'abord les dizaines : 47 est plus grand que 39, car 4 dizaines, c'est plus que 3.",
+          "ar": "إذا تردّدتم، انظروا أولًا إلى العشرات: 47 أكبر من 39 لأن 4 عشرات أكثر من 3."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Al volver, decid de memoria el número más grande y el más pequeño que habéis visto.",
+          "va": "En tornar, digueu de memòria el nombre més gran i el més menut que heu vist.",
+          "en": "When you get back, say from memory the biggest and the smallest number you saw.",
+          "fr": "Au retour, dites de mémoire le plus grand et le plus petit nombre que vous avez vus.",
+          "ar": "عند العودة، قولوا من الذاكرة أكبر عدد وأصغر عدد رأيتموه."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Buscad solo números del 1 al 20.",
+      "va": "Busqueu només nombres de l'1 al 20.",
+      "en": "Only look for numbers from 1 to 20.",
+      "fr": "Cherchez seulement des nombres de 1 à 20.",
+      "ar": "ابحثوا فقط عن أعداد من 1 إلى 20."
+    },
+    "masDificil": {
+      "es": "Buscad un número entre 40 y 50, y decid qué número va justo antes y justo después.",
+      "va": "Busqueu un nombre entre 40 i 50, i digueu quin nombre va just abans i just després.",
+      "en": "Look for a number between 40 and 50, and say which number comes just before and just after it.",
+      "fr": "Cherchez un nombre entre 40 et 50, et dites quel nombre vient juste avant et juste après.",
+      "ar": "ابحثوا عن عدد بين 40 و50، وقولوا ما العدد الذي يأتي قبله مباشرة وبعده مباشرة."
+    },
+    "paraQueSirve": {
+      "es": "Los números están por todas partes. Leerlos y compararlos en la calle ayuda a entender que el sitio de cada cifra cambia lo que vale.",
+      "va": "Els nombres són per tot arreu. Llegir-los i comparar-los al carrer ajuda a entendre que el lloc de cada xifra canvia el que val.",
+      "en": "Numbers are everywhere. Reading and comparing them in the street helps to understand that where a digit sits changes what it is worth.",
+      "fr": "Les nombres sont partout. Les lire et les comparer dans la rue aide à comprendre que la place de chaque chiffre change ce qu'il vaut.",
+      "ar": "الأعداد في كل مكان. قراءتها ومقارنتها في الشارع تساعد على فهم أن مكان كل رقم يغيّر قيمته."
+    },
+    "aviso": {
+      "es": "Por la calle, siempre al lado de una persona adulta.",
+      "va": "Pel carrer, sempre al costat d’una persona adulta.",
+      "en": "In the street, always stay beside an adult.",
+      "fr": "Dans la rue, toujours à côté d'une personne adulte.",
+      "ar": "في الشارع، دائمًا بجانب شخص بالغ."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "El autobús de Lucía es el 27 y el de Darío es el 72. ¿Cuál es mayor?",
+        "va": "L'autobús de Lucía és el 27 i el de Darío és el 72. Quin és major?",
+        "en": "Lucía’s bus is number 27 and Darío’s is number 72. Which number is greater?",
+        "fr": "Le bus de Lucía est le 27 et celui de Darío est le 72. Lequel est le plus grand ?",
+        "ar": "حافلة لوسيا رقمها 27 وحافلة داريو رقمها 72. أيّ العددين أكبر؟"
+      },
+      "pista": {
+        "es": "Mira cuántas decenas tiene cada uno.",
+        "va": "Mira quantes desenes té cada un.",
+        "en": "Look at how many tens each one has.",
+        "fr": "Regarde combien de dizaines a chacun.",
+        "ar": "لننظر كم عشرة في كل عدد."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El 72, porque tiene 7 decenas y el 27 solo 2. Si duda, haced los dos números con palillos o dedos.",
+          "va": "El 72, perquè té 7 desenes i el 27 només 2. Si dubta, feu els dos nombres amb escuradents o dits.",
+          "en": "72, because it has 7 tens and 27 only has 2. If they’re unsure, make both numbers with sticks or fingers.",
+          "fr": "Le 72, parce qu'il a 7 dizaines et le 27 seulement 2. En cas de doute, faites les deux nombres avec des bâtonnets ou les doigts.",
+          "ar": "العدد 72، لأن فيه 7 عشرات وفي 27 عشرتان فقط. وإذا وُجد تردّد، كوّنوا العددين بالعيدان أو بالأصابع."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con dos números que tengan las mismas cifras cambiadas de sitio.",
+        "va": "Ara inventa'n tu una amb dos nombres que tinguen les mateixes xifres canviades de lloc.",
+        "en": "Now you make one up with two numbers that have the same digits in swapped places.",
+        "fr": "Maintenant, invente une question avec deux nombres qui ont les mêmes chiffres changés de place.",
+        "ar": "والآن لنخترع سؤالًا بعددين لهما الرقمان نفسهما في مكانين مختلفين."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Mateo vive en el portal 36 y su abuelo, en el 40. ¿Cuántos números van del 36 al 40?",
+        "va": "Mateo viu al portal 36 i el seu avi, al 40. Quants nombres van del 36 al 40?",
+        "en": "Mateo lives at number 36 and his grandad at number 40. How many numbers is it from 36 to 40?",
+        "fr": "Mateo habite au numéro 36 et son grand-père au 40. Combien de nombres y a-t-il du 36 au 40 ?",
+        "ar": "يسكن ماتيو في البيت رقم 36 وجدّه في الرقم 40. كم عددًا من 36 إلى 40؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 36: 37, 38…",
+        "va": "Compta amb els dits des del 36: 37, 38…",
+        "en": "Count on your fingers from 36: 37, 38…",
+        "fr": "Compte sur tes doigts à partir de 36 : 37, 38…",
+        "ar": "لنعدّ بالأصابع من 36: 37، 38…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 - 36",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 4: {{36 + 4 = 40}}.",
+          "va": "En van 4: {{36 + 4 = 40}}.",
+          "en": "It’s 4: {{36 + 4 = 40}}.",
+          "fr": "Il y en a 4 : {{36 + 4 = 40}}.",
+          "ar": "إنها 4: {{36 + 4 = 40}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con el número de tu portal y el de alguien que conozcas.",
+        "va": "Inventa'n tu una amb el número del teu portal i el d'algú que conegues.",
+        "en": "Make one up with your door number and that of someone you know.",
+        "fr": "Invente une question avec le numéro de ta porte et celui de quelqu'un que tu connais.",
+        "ar": "لنخترع سؤالًا برقم بيتنا ورقم بيت شخص نعرفه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En el mercado hay puestos con los números 45, 54 y 49. ¿Cuál es el mayor y cuál el menor?",
+        "va": "Al mercat hi ha parades amb els nombres 45, 54 i 49. Quin és el major i quin el menor (menor)?",
+        "en": "At the market there are stalls with the numbers 45, 54 and 49. Which is the greatest and which is the smallest (menor)?",
+        "fr": "Au marché, il y a des étals avec les nombres 45, 54 et 49. Lequel est le plus grand et lequel est le plus petit (menor) ?",
+        "ar": "في السوق أكشاك تحمل الأعداد 45 و54 و49. أيّها الأكبر وأيّها الأصغر (menor)؟"
+      },
+      "pista": {
+        "es": "Mira primero las decenas, y si son iguales, mira las unidades.",
+        "va": "Mira primer les desenes i, si són iguals, mira les unitats (unidades).",
+        "en": "Look at the tens first, and if they are the same, look at the ones (unidades).",
+        "fr": "Regarde d'abord les dizaines et, si elles sont pareilles, regarde les unités (unidades).",
+        "ar": "لننظر أولًا إلى العشرات، وإذا تساوت ننظر إلى الآحاد (unidades)."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El mayor es el 54 y el menor, el 45. Entre 45 y 49, las decenas son iguales y gana el que tiene más unidades.",
+          "va": "El major és el 54 i el menor, el 45. Entre 45 i 49, les desenes són iguals i guanya el que té més unitats.",
+          "en": "The greatest is 54 and the smallest is 45. Between 45 and 49 the tens are the same, so the one with more ones is greater.",
+          "fr": "Le plus grand est 54 et le plus petit, 45. Entre 45 et 49, les dizaines sont pareilles : c'est celui qui a le plus d'unités qui est le plus grand.",
+          "ar": "الأكبر 54 والأصغر 45. بين 45 و49 العشرات متساوية، فيكون الأكبر صاحب الآحاد الأكثر."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con tres números que veas hoy por la calle.",
+        "va": "Inventa'n tu una amb tres nombres que veges hui pel carrer.",
+        "en": "Make one up with three numbers you see in the street today.",
+        "fr": "Invente une question avec trois nombres que tu vois aujourd'hui dans la rue.",
+        "ar": "لنخترع سؤالًا بثلاثة أعداد نراها اليوم في الشارع."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 8,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: el portal de Fátima tiene 6 decenas y 3 unidades. ¿Qué número es?",
+        "va": "Per a recordar: el portal de Fátima té 6 desenes i 3 unitats. Quin nombre és?",
+        "en": "Let’s remember: Fátima’s door number has 6 tens and 3 ones. What number is it?",
+        "fr": "Pour se souvenir : le numéro de la porte de Fátima a 6 dizaines et 3 unités. Quel nombre est-ce ?",
+        "ar": "لنتذكّر: رقم بيت فاطمة فيه 6 عشرات و3 آحاد. ما هذا العدد؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10 seis veces y luego suma las 3 sueltas.",
+        "va": "Compta de 10 en 10 sis vegades i després suma les 3 soltes.",
+        "en": "Count in tens six times and then add the 3 loose ones.",
+        "fr": "Compte de 10 en 10 six fois, puis ajoute les 3 en vrac.",
+        "ar": "لنعدّ 10 بـ10 ست مرات ثم نضيف الثلاثة المنفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "60 + 3",
+        "resultado": 63,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es el 63.",
+          "va": "És el 63.",
+          "en": "It’s 63.",
+          "fr": "C'est 63.",
+          "ar": "إنه 63."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las decenas y unidades de tu número favorito.",
+        "va": "Inventa'n tu una altra amb les desenes i unitats del teu nombre preferit.",
+        "en": "Make up another one with the tens and ones of your favourite number.",
+        "fr": "Invente-en une autre avec les dizaines et les unités de ton nombre préféré.",
+        "ar": "لنخترع سؤالًا آخر بعشرات وآحاد عددنا المفضّل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué número de la calle te ha gustado más? Explícame si es grande o pequeño, y cómo lo sabes.",
+        "va": "Quin nombre del carrer t'ha agradat més? Explica'm si és gran o menut, i com ho saps.",
+        "en": "Which number in the street did you like best? Explain to me whether it’s big or small, and how you know.",
+        "fr": "Quel nombre de la rue t'a le plus plu ? Explique-moi s'il est grand ou petit, et comment tu le sais.",
+        "ar": "أيّ عدد في الشارع أعجبنا أكثر؟ لنشرح هل هو كبير أم صغير، وكيف نعرف ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Es mayor o menor que 50? ¿Cómo lo sabes?»",
+        "va": "Si no sap per on començar: «És major o menor que 50? Com ho saps?»",
+        "en": "If they don’t know where to start: “Is it greater or smaller than 50? How do you know?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Il est plus grand ou plus petit que 50 ? Comment tu le sais ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل هو أكبر من 50 أم أصغر؟ كيف نعرف؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "3318b3f40ec7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "3318b3f40ec7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "3318b3f40ec7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "3318b3f40ec7"
+      }
+    }
+  }
+}

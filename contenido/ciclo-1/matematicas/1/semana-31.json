@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s31",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 31,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Abrir un paquete",
+    "va": "Obrir un paquet",
+    "en": "Opening a bundle",
+    "fr": "Ouvrir un paquet",
+    "ar": "لنفتح الحزمة"
+  },
+  "objetivo": {
+    "es": "Esta semana restan quitando más de las que hay sueltas: para quitar 5 a 13, abren un paquete de 10. También ven que equivocarse y volver a empezar es parte del juego.",
+    "va": "Aquesta setmana resten llevant-ne més de les que hi ha soltes: per a llevar 5 a 13, obrin un paquet de 10. També veuen que equivocar-se i tornar a començar és part del joc.",
+    "en": "This week they subtract by taking away more than there are loose: to take 5 away from 13, they open a bundle of 10. They also see that making mistakes and starting again is part of the game.",
+    "fr": "Cette semaine, on soustrait en enlevant plus que ce qu'il y a à côté : pour enlever 5 à 13, on ouvre un paquet de 10. On voit aussi que se tromper et recommencer fait partie du jeu.",
+    "ar": "هذا الأسبوع يطرح الأطفال بنزع أكثر ممّا هو متفرّق: لنزع 5 من 13، يفتحون حزمة من 10. ويرون أيضًا أن الخطأ والبدء من جديد جزء من اللعب."
+  },
+  "comoAyudar": {
+    "es": "Si se atasca o se enfada, parad, respirad y volved a los palillos. Contadle que a vosotros también os cuesta a veces.",
+    "va": "Si s'encalla o s'enfada, pareu, respireu i torneu als palets. Conteu-li que a vosaltres també vos costa a vegades.",
+    "en": "If they get stuck or cross, stop, take a breath and go back to the sticks. Tell them that you find things hard sometimes too.",
+    "fr": "Si votre enfant bloque ou se fâche, arrêtez-vous, respirez et revenez aux bâtonnets. Dites-lui qu'à vous aussi, c'est parfois difficile.",
+    "ar": "إذا حصل تعثّر أو غضب، توقّفوا، وتنفّسوا، وعودوا إلى العيدان. وقولوا إن الأمر يصعب عليكم أنتم أيضًا أحيانًا."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.operaciones.frustracion"
+  ],
+  "criterios": [
+    "matematicas.c1.1.3",
+    "matematicas.c1.8.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Paquetes de palillos",
+      "va": "Paquets de palets",
+      "en": "Bundles of sticks",
+      "fr": "Des paquets de bâtonnets",
+      "ar": "حزم العيدان"
+    },
+    "material": [
+      {
+        "es": "Unos 25 palillos, pajitas o lápices",
+        "va": "Uns 25 palets, palletes o llapis",
+        "en": "About 25 sticks, straws or pencils",
+        "fr": "Environ 25 bâtonnets, pailles ou crayons",
+        "ar": "نحو 25 عودًا أو مصّاصة أو قلمًا"
+      },
+      {
+        "es": "Dos gomas de pelo",
+        "va": "Dos gomes de cabell",
+        "en": "Two hair bands",
+        "fr": "Deux élastiques à cheveux",
+        "ar": "ربطتا شعر مطّاطيتان"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "palillos",
+        "texto": {
+          "es": "Haced un paquete de 10 palillos con una goma. Poned 3 sueltos al lado: tenéis 13.",
+          "va": "Feu un paquet de 10 palets amb una goma. Poseu-ne 3 solts al costat: en teniu 13.",
+          "en": "Make a bundle of 10 sticks with a hair band. Put 3 loose ones next to it: you have 13.",
+          "fr": "Faites un paquet de 10 bâtonnets avec un élastique. Mettez-en 3 à côté : vous en avez 13.",
+          "ar": "اصنعوا حزمة من 10 عيدان بربطة مطّاطية. ضعوا 3 عيدان متفرّقة بجانبها: عندكم 13."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Ahora quitad 5. Con los 3 sueltos no llega: ¿qué podéis hacer?",
+          "va": "Ara lleveu-ne 5. Amb els 3 solts no n'hi ha prou: què podeu fer?",
+          "en": "Now take 5 away. The 3 loose ones are not enough: what can you do?",
+          "fr": "Maintenant, enlevez-en 5. Les 3 à côté ne suffisent pas : que pouvez-vous faire ?",
+          "ar": "الآن انزعوا 5. العيدان الثلاثة المتفرّقة لا تكفي: ماذا يمكن أن نفعل؟"
+        }
+      },
+      {
+        "pictograma": "palillos",
+        "texto": {
+          "es": "Soltad la goma del paquete y quitad 5. Contad los que quedan: {{13 − 5 = 8}}.",
+          "va": "Solteu la goma del paquet i lleveu-ne 5. Compteu els que queden: {{13 − 5 = 8}}.",
+          "en": "Take the band off the bundle and take 5 away. Count the ones left: {{13 − 5 = 8}}.",
+          "fr": "Enlevez l'élastique du paquet et retirez-en 5. Comptez ceux qui restent : {{13 − 5 = 8}}.",
+          "ar": "فكّوا الربطة عن الحزمة وانزعوا 5. عدّوا الباقي: {{13 − 5 = 8}}."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Rehaced el paquete y jugad con otras restas: 12 menos 4, 14 menos 6, 11 menos 3. Si os liáis, empezad otra vez sin prisa.",
+          "va": "Torneu a fer el paquet i jugueu amb altres restes: 12 menys 4, 14 menys 6, 11 menys 3. Si vos emboliqueu, torneu a començar sense pressa.",
+          "en": "Make the bundle again and play with other subtractions: 12 take away 4, 14 take away 6, 11 take away 3. If you get muddled, start again, no rush.",
+          "fr": "Refaites le paquet et jouez avec d'autres soustractions : 12 moins 4, 14 moins 6, 11 moins 3. Si vous vous embrouillez, recommencez sans vous presser.",
+          "ar": "أعيدوا صنع الحزمة والعبوا بعمليات طرح أخرى: 12 ناقص 4، 14 ناقص 6، 11 ناقص 3. وإذا حصل خلط، ابدؤوا من جديد بلا عجلة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 11 y quitad 2, abriendo el paquete juntos.",
+      "va": "Comenceu amb 11 i lleveu-ne 2, obrint el paquet junts.",
+      "en": "Start with 11 and take away 2, opening the bundle together.",
+      "fr": "Commencez avec 11 et enlevez-en 2, en ouvrant le paquet ensemble.",
+      "ar": "ابدؤوا بـ 11 وانزعوا 2، وافتحوا الحزمة معًا."
+    },
+    "masDificil": {
+      "es": "Haced dos paquetes y 3 sueltos, que son 23, y quitad 5. ¿Cuántos paquetes abrís?",
+      "va": "Feu dos paquets i 3 solts, que són 23, i lleveu-ne 5. Quants paquets obriu?",
+      "en": "Make two bundles and 3 loose ones, which is 23, and take away 5. How many bundles do you open?",
+      "fr": "Faites deux paquets et 3 à côté, ce qui fait 23, et enlevez-en 5. Combien de paquets ouvrez-vous ?",
+      "ar": "اصنعوا حزمتين و3 عيدان متفرّقة، أي 23، وانزعوا 5. كم حزمة تفتحون؟"
+    },
+    "paraQueSirve": {
+      "es": "Abrir un paquete de 10 es lo que en clase llamarán «llevarse una» en la resta. Si ahora lo hacen con las manos, luego tendrá sentido.",
+      "va": "Obrir un paquet de 10 és el que a classe anomenaran «portar-se'n una» (llevarse una) en la resta. Si ara ho fan amb les mans, després tindrà sentit.",
+      "en": "Opening a bundle of 10 is what they will call borrowing (llevarse una) in subtraction at school. If they do it with their hands now, it will make sense later.",
+      "fr": "Ouvrir un paquet de 10, c'est ce qu'on appellera la retenue (llevarse una) dans la soustraction en classe. S'ils le font avec les mains maintenant, ça aura du sens plus tard.",
+      "ar": "فتح حزمة من 10 هو ما سيسمّونه في القسم الاستلاف (llevarse una) في الطرح. إذا فعلوه الآن بالأيدي، سيصبح مفهومًا لاحقًا."
+    },
+    "aviso": {
+      "es": "Si usáis palillos de dientes, que tengan la punta roma y guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir escuradents, que tinguen la punta roma i guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use toothpicks, choose blunt ones and keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des cure-dents, prenez-les à bout rond et gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم أعواد الأسنان، فلتكن رؤوسها غير حادّة، وأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Tienes 12 pegatinas: un paquete de 10 y 2 sueltas. Regalas 5. ¿Cuántas te quedan?",
+        "va": "Tens 12 adhesius: un paquet de 10 i 2 solts. En regales 5. Quants te'n queden?",
+        "en": "You have 12 stickers: a pack of 10 and 2 loose ones. You give 5 away. How many do you have left?",
+        "fr": "Tu as 12 autocollants : un paquet de 10 et 2 à part. Tu en donnes 5. Combien t'en reste-t-il ?",
+        "ar": "عندنا 12 ملصقًا: حزمة من 10 وملصقان متفرّقان. نهدي 5. كم يبقى لنا؟"
+      },
+      "pista": {
+        "es": "Quita primero las 2 sueltas y luego abre el paquete para quitar 3 más.",
+        "va": "Lleva primer els 2 solts i després obri el paquet per a llevar-ne 3 més.",
+        "en": "First take away the 2 loose ones, then open the pack to take away 3 more.",
+        "fr": "Enlève d'abord les 2 à part, puis ouvre le paquet pour en enlever 3 de plus.",
+        "ar": "لننزع أولًا الملصقين المتفرّقين، ثم نفتح الحزمة لننزع 3 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 5",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Te quedan 7 pegatinas: {{12 − 2 = 10}} y {{10 − 3 = 7}}.",
+          "va": "Te'n queden 7: {{12 − 2 = 10}} i {{10 − 3 = 7}}.",
+          "en": "You have 7 stickers left: {{12 − 2 = 10}} and {{10 − 3 = 7}}.",
+          "fr": "Il te reste 7 autocollants : {{12 − 2 = 10}} et {{10 − 3 = 7}}.",
+          "ar": "يبقى لنا 7 ملصقات: {{12 − 2 = 10}} و{{10 − 3 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una regalando cosas de un paquete de 10.",
+        "va": "Ara inventa'n tu una regalant coses d'un paquet de 10.",
+        "en": "Now you make one up about giving away things from a pack of 10.",
+        "fr": "Maintenant, invente une question où tu donnes des choses d'un paquet de 10.",
+        "ar": "والآن لنخترع سؤالًا نهدي فيه أشياء من حزمة من 10."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En el plato hay 14 uvas. Ion se come 6. ¿Cuántas uvas quedan?",
+        "va": "En el plat hi ha 14 raïms. Ion se'n menja 6. Quants raïms queden?",
+        "en": "There are 14 grapes on the plate. Ion eats 6. How many grapes are left?",
+        "fr": "Dans l'assiette, il y a 14 raisins. Ion en mange 6. Combien de raisins reste-t-il ?",
+        "ar": "في الصحن 14 حبة عنب. يأكل يون 6. كم حبة تبقى؟"
+      },
+      "pista": {
+        "es": "Quita primero 4 para llegar a 10, y luego 2 más.",
+        "va": "Lleva primer 4 per a arribar a 10, i després 2 més.",
+        "en": "First take away 4 to get to 10, then 2 more.",
+        "fr": "Enlève d'abord 4 pour arriver à 10, puis encore 2.",
+        "ar": "لننزع أولًا 4 لنصل إلى 10، ثم 2 أخريين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "14 - 6",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 8 uvas: {{14 − 4 = 10}} y {{10 − 2 = 8}}.",
+          "va": "Queden 8 raïms: {{14 − 4 = 10}} i {{10 − 2 = 8}}.",
+          "en": "There are 8 grapes left: {{14 − 4 = 10}} and {{10 − 2 = 8}}.",
+          "fr": "Il reste 8 raisins : {{14 − 4 = 10}} et {{10 − 2 = 8}}.",
+          "ar": "تبقى 8 حبات: {{14 − 4 = 10}} و{{10 − 2 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la merienda de hoy.",
+        "va": "Inventa'n tu una altra amb el berenar de hui.",
+        "en": "Make up another one with today's snack.",
+        "fr": "Invente-en une autre avec le goûter d'aujourd'hui.",
+        "ar": "لنخترع سؤالًا آخر عن وجبة العصر اليوم."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En el parque hay 13 palomas y se van volando 7. ¿Cuántas palomas quedan?",
+        "va": "En el parc hi ha 13 coloms i se'n van volant 7. Quants coloms queden?",
+        "en": "There are 13 pigeons in the park and 7 fly away. How many pigeons are left?",
+        "fr": "Dans le parc, il y a 13 pigeons et 7 s'envolent. Combien de pigeons reste-t-il ?",
+        "ar": "في الحديقة 13 حمامة وتطير 7. كم حمامة تبقى؟"
+      },
+      "pista": {
+        "es": "Quita primero 3 para llegar a 10, y luego 4 más.",
+        "va": "Lleva primer 3 per a arribar a 10, i després 4 més.",
+        "en": "First take away 3 to get to 10, then 4 more.",
+        "fr": "Enlève d'abord 3 pour arriver à 10, puis encore 4.",
+        "ar": "لننزع أولًا 3 لنصل إلى 10، ثم 4 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "13 - 7",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 6 palomas: {{13 − 3 = 10}} y {{10 − 4 = 6}}.",
+          "va": "Queden 6 coloms: {{13 − 3 = 10}} i {{10 − 4 = 6}}.",
+          "en": "There are 6 pigeons left: {{13 − 3 = 10}} and {{10 − 4 = 6}}.",
+          "fr": "Il reste 6 pigeons : {{13 − 3 = 10}} et {{10 − 4 = 6}}.",
+          "ar": "تبقى 6 حمامات: {{13 − 3 = 10}} و{{10 − 4 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con pájaros o gatos que ves por la calle.",
+        "va": "Inventa'n tu una amb ocells o gats que veus pel carrer.",
+        "en": "Make one up with birds or cats you see in the street.",
+        "fr": "Invente une question avec des oiseaux ou des chats que tu vois dans la rue.",
+        "ar": "لنخترع سؤالًا عن طيور أو قطط نراها في الشارع."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 21,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar: tu torre tiene 6 piezas y la de tu abuelo, 9. ¿Cuántas piezas le faltan a la tuya para ser igual de alta?",
+        "va": "Per a recordar: la teua torre té 6 peces i la del teu iaio, 9. Quantes peces li falten a la teua per a ser igual d'alta?",
+        "en": "Let's remember: your tower has 6 blocks and your grandad's has 9. How many more blocks will make yours just as tall?",
+        "fr": "Pour se souvenir : ta tour a 6 pièces et celle de ton grand-père, 9. Combien de pièces manque-t-il à la tienne pour être aussi haute ?",
+        "ar": "لنتذكّر: في برجنا 6 قطع وفي برج الجدّ 9. كم قطعة تنقص برجنا ليصبح بالطول نفسه؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 6 hasta el 9.",
+        "va": "Compta amb els dits des del 6 fins al 9.",
+        "en": "Count on your fingers from 6 up to 9.",
+        "fr": "Compte sur tes doigts de 6 jusqu'à 9.",
+        "ar": "لنعدّ بالأصابع من 6 حتى 9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 6",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 3 piezas.",
+          "va": "Li'n falten 3.",
+          "en": "It needs 3 more blocks.",
+          "fr": "Il lui manque 3 pièces.",
+          "ar": "تنقصه 3 قطع."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos torres de cosas de casa.",
+        "va": "Inventa'n tu una altra amb dues torres de coses de casa.",
+        "en": "Make up another one with two towers of things from home.",
+        "fr": "Invente-en une autre avec deux tours de choses de la maison.",
+        "ar": "لنخترع سؤالًا آخر ببرجين من أشياء البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si una resta no te sale a la primera, ¿qué haces? Enséñame cómo la harías otra vez, con palillos o con los dedos.",
+        "va": "Si una resta no t'ix a la primera, què fas? Ensenya'm com la tornaries a fer, amb palets o amb els dits.",
+        "en": "If a subtraction doesn't work out the first time, what do you do? Show me how you would do it again, with sticks or with your fingers.",
+        "fr": "Si une soustraction ne marche pas du premier coup, que fais-tu ? Montre-moi comment tu la referais, avec des bâtonnets ou avec tes doigts.",
+        "ar": "إذا لم تنجح عملية طرح من أول مرة، ماذا نفعل؟ لنُرِ كيف نعيدها، بالعيدان أو بالأصابع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cómo quitarías 4 a 12 con los dedos?»",
+        "va": "Si no sap per on començar: «Com llevaries 4 a 12 amb els dits?»",
+        "en": "If they don't know where to start: “How would you take 4 away from 12 with your fingers?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Comment tu enlèverais 4 à 12 avec tes doigts ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كيف ننزع 4 من 12 بالأصابع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo importante es que vea que puede volver a empezar. Escuchad, preguntad «¿y luego?» y celebrad que lo intente otra vez.",
+          "va": "L'important és que veja que pot tornar a començar. Escolteu, pregunteu «i després?» i celebreu que ho intente una altra vegada.",
+          "en": "What matters is that they see they can start again. Listen, ask “And then?” and celebrate that they try again.",
+          "fr": "L'important, c'est que votre enfant voie qu'on peut recommencer. Écoutez, demandez « Et après ? » et félicitez-le ou félicitez-la d'essayer encore.",
+          "ar": "المهمّ أن يُدرَك أن البدء من جديد ممكن. استمعوا، واسألوا «ثم ماذا؟»، واحتفلوا بالمحاولة من جديد."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "d7b46f956c13"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "d7b46f956c13"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "d7b46f956c13"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "d7b46f956c13"
+      }
+    }
+  }
+}

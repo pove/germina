@@ -1,0 +1,336 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s41",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 41,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Juegos para pensar",
+    "va": "Jocs per a pensar",
+    "en": "Games for thinking",
+    "fr": "Des jeux pour réfléchir",
+    "ar": "ألعاب للتفكير"
+  },
+  "objetivo": {
+    "es": "Esta semana juegan al tres en raya y aprenden a pensar la jugada antes de hacerla: mirar dónde puede ganar la otra persona y dónde conviene poner el tapón.",
+    "va": "Aquesta setmana juguen a tres en ratlla i aprenen a pensar la jugada abans de fer-la: mirar on pot guanyar l'altra persona i on convé posar el tap.",
+    "en": "This week they play noughts and crosses and learn to think about a move before making it: looking at where the other person could win and where it's best to put their bottle top.",
+    "fr": "Cette semaine, on joue au morpion et on apprend à réfléchir avant de jouer : regarder où l'autre personne peut gagner et où il vaut mieux poser son bouchon.",
+    "ar": "هذا الأسبوع يلعب الأطفال لعبة إكس-أو، ويتعلّمون التفكير في الحركة قبل القيام بها: أين يمكن أن يفوز الشخص الآخر، وأين يحسن وضع الغطاء."
+  },
+  "comoAyudar": {
+    "es": "Antes de cada jugada, preguntad «¿dónde lo pondrías tú?» y pensadlo juntos en voz alta. Si pierde, que elija quién empieza la partida siguiente.",
+    "va": "Abans de cada jugada, pregunteu «on el posaries tu?» i penseu-ho junts en veu alta. Si perd, que trie qui comença la partida següent.",
+    "en": "Before each move, ask “Where would you put it?” and think it through together out loud. If your child loses, let them choose who starts the next game.",
+    "fr": "Avant chaque coup, demandez « Où le mettrais-tu ? » et réfléchissez ensemble à voix haute. En cas de défaite, votre enfant choisit qui commence la partie suivante.",
+    "ar": "قبل كل حركة، اسألوا «أين نضعه؟» وفكّروا معًا بصوت عالٍ. وفي حال الخسارة، يُترك للطفل أو للطفلة اختيار من يبدأ الجولة التالية."
+  },
+  "saberes": [
+    "matematicas.computacional.juegos-estrategia",
+    "matematicas.computacional.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c1.4.4",
+    "matematicas.c1.7.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Tres en raya con tapones",
+      "va": "Tres en ratlla amb taps",
+      "en": "Noughts and crosses with bottle tops",
+      "fr": "Le morpion avec des bouchons",
+      "ar": "إكس-أو بالأغطية"
+    },
+    "material": [
+      {
+        "es": "Un papel y un lápiz",
+        "va": "Un paper i un llapis",
+        "en": "A sheet of paper and a pencil",
+        "fr": "Une feuille et un crayon",
+        "ar": "ورقة وقلم"
+      },
+      {
+        "es": "5 tapones de un color y 5 de otro (o botones, o pinzas)",
+        "va": "5 taps d'un color i 5 d'un altre (o botons, o pinces)",
+        "en": "5 bottle tops of one colour and 5 of another (or buttons, or pegs)",
+        "fr": "5 bouchons d'une couleur et 5 d'une autre (ou des boutons, ou des pinces)",
+        "ar": "5 أغطية بلون و5 بلون آخر (أو أزرار، أو ملاقط)"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Dibujad en un papel un tablero de 3 filas de 3 casillas. Cada persona elige un color de tapón.",
+          "va": "Dibuixeu en un paper un tauler de 3 files de 3 caselles. Cada persona tria un color de tap.",
+          "en": "Draw a board on paper with 3 rows of 3 squares. Each person chooses a colour of bottle top.",
+          "fr": "Dessinez sur une feuille un plateau de 3 rangées de 3 cases. Chaque personne choisit une couleur de bouchon.",
+          "ar": "ارسموا على ورقة لوحة من 3 صفوف، في كل صف 3 خانات. يختار كل شخص لون غطاء."
+        }
+      },
+      {
+        "pictograma": "tablero",
+        "texto": {
+          "es": "Por turnos, poned un tapón en una casilla libre. Gana quien haga 3 en línea: de lado, de arriba abajo o en diagonal.",
+          "va": "Per torns, poseu un tap en una casella lliure. Guanya qui faça 3 en línia: de costat, de dalt a baix o en diagonal.",
+          "en": "Take turns putting a top on an empty square. Whoever gets 3 in a line wins: across, up and down or diagonally.",
+          "fr": "Chacun son tour, posez un bouchon sur une case libre. Celui ou celle qui aligne 3 bouchons gagne : en ligne, en colonne ou en diagonale.",
+          "ar": "بالتناوب، ضعوا غطاءً في خانة فارغة. يفوز من يصنع 3 في خط: أفقيًا أو عموديًا أو قطريًا."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Antes de poner el tapón, mirad: ¿puede la otra persona hacer 3 en línea en su turno? Si puede, tapadle el hueco.",
+          "va": "Abans de posar el tap, mireu: pot l'altra persona fer 3 en línia en el seu torn? Si pot, tapeu-li el forat.",
+          "en": "Before you put your top down, look: could the other person get 3 in a line on their turn? If so, block the gap.",
+          "fr": "Avant de poser votre bouchon, regardez : l'autre personne peut-elle aligner 3 bouchons à son tour ? Si oui, bouchez-lui le trou.",
+          "ar": "قبل وضع الغطاء، انظروا: هل يستطيع الشخص الآخر أن يصنع 3 في خط في دوره؟ إذا كان يستطيع، فسدّوا عليه الفراغ."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Después de unas partidas, hablad: ¿qué casilla conviene ocupar primero? ¿Por qué?",
+          "va": "Després d'unes quantes partides, parleu: quina casella convé ocupar primer? Per què?",
+          "en": "After a few games, talk about it: which square is best to take first? Why?",
+          "fr": "Après quelques parties, parlez-en : quelle case vaut-il mieux occuper en premier ? Pourquoi ?",
+          "ar": "بعد بضع جولات، تحدّثوا: أيّ خانة يحسن أن نشغلها أولًا؟ ولماذا؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad pensando en voz alta: «Si lo pongo aquí, ¿qué pasará?». La persona adulta cuenta lo que piensa antes de mover.",
+      "va": "Jugueu pensant en veu alta: «Si el pose ací, què passarà?». La persona adulta conta el que pensa abans de moure.",
+      "en": "Play while thinking out loud: “If I put it here, what will happen?” The adult says what they're thinking before each move.",
+      "fr": "Jouez en pensant à voix haute : « Si je le mets ici, que va-t-il se passer ? ». L'adulte dit ce qu'il ou elle pense avant de jouer.",
+      "ar": "العبوا وأنتم تفكّرون بصوت عالٍ: «إذا وضعناه هنا، ماذا سيحدث؟». ويقول الشخص البالغ ما يفكّر فيه قبل كل حركة."
+    },
+    "masDificil": {
+      "es": "Jugad con solo 3 tapones cada persona: cuando se acaban, en vuestro turno movéis uno que ya está puesto a una casilla libre.",
+      "va": "Jugueu amb només 3 taps per persona: quan s'acaben, en el vostre torn moveu un que ja està posat a una casella lliure.",
+      "en": "Play with only 3 tops each: when they run out, on your turn you move one that's already down to an empty square.",
+      "fr": "Jouez avec seulement 3 bouchons par personne : quand il n'y en a plus, à votre tour, déplacez-en un déjà posé vers une case libre.",
+      "ar": "العبوا بـ3 أغطية فقط لكل شخص: حين تنفد، يحرّك كل واحد في دوره غطاءً موضوعًا إلى خانة فارغة."
+    },
+    "paraQueSirve": {
+      "es": "Pensar antes de mover, mirar lo que puede hacer la otra persona y explicar por qué una casilla es mejor es pensar como en matemáticas.",
+      "va": "Pensar abans de moure, mirar el que pot fer l'altra persona i explicar per què una casella és millor és pensar com en matemàtiques.",
+      "en": "Thinking before moving, looking at what the other person could do and explaining why one square is better is thinking the way we do in maths.",
+      "fr": "Réfléchir avant de jouer, regarder ce que l'autre personne peut faire et expliquer pourquoi une case est meilleure, c'est penser comme en maths.",
+      "ar": "التفكير قبل الحركة، والنظر فيما يمكن أن يفعله الشخص الآخر، وشرح لماذا خانة ما أفضل، كلها طريقة تفكير رياضية."
+    },
+    "aviso": {
+      "es": "Si usáis botones o tapones pequeños, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir botons o taps menuts, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use buttons or small tops, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des boutons ou de petits bouchons, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم أزرارًا أو أغطية صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "El tablero del tres en raya tiene 3 filas de 3 casillas. ¿Cuántas casillas hay?",
+        "va": "El tauler del tres en ratlla té 3 files de 3 caselles. Quantes caselles hi ha?",
+        "en": "A noughts and crosses board has 3 rows of 3 squares. How many squares are there?",
+        "fr": "Le plateau du morpion a 3 rangées de 3 cases. Combien de cases y a-t-il ?",
+        "ar": "في لوحة إكس-أو 3 صفوف، في كل صف 3 خانات. كم خانة يوجد؟"
+      },
+      "pista": {
+        "es": "Cuenta las casillas fila a fila, señalando cada una.",
+        "va": "Compta les caselles fila a fila, assenyalant cada una.",
+        "en": "Count the squares row by row, pointing to each one.",
+        "fr": "Compte les cases rangée par rangée, en montrant chacune.",
+        "ar": "لنعدّ الخانات صفًّا صفًّا، ونشير إلى كل واحدة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 3 + 3",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 9 casillas: {{3 + 3 + 3 = 9}}.",
+          "va": "Hi ha 9 caselles: {{3 + 3 + 3 = 9}}.",
+          "en": "There are 9 squares: {{3 + 3 + 3 = 9}}.",
+          "fr": "Il y a 9 cases : {{3 + 3 + 3 = 9}}.",
+          "ar": "يوجد 9 خانات: {{3 + 3 + 3 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un tablero más grande y pregunta cuántas casillas tiene.",
+        "va": "Inventa tu un tauler més gran i pregunta quantes caselles té.",
+        "en": "Make up a bigger board and ask how many squares it has.",
+        "fr": "Invente un plateau plus grand et demande combien de cases il a.",
+        "ar": "لنخترع لوحة أكبر ونسأل: كم خانة فيها؟"
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Tienes 2 tapones en línea y la otra persona también, y te toca a ti. ¿Qué haces?",
+        "va": "Tens 2 taps en línia i l'altra persona també, i et toca a tu. Què fas?",
+        "en": "You have 2 tops in a line, so does the other person, and it's your turn. What do you do?",
+        "fr": "Tu as 2 bouchons alignés, l'autre personne aussi, et c'est ton tour. Que fais-tu ?",
+        "ar": "عندنا غطاءان في خط، وعند الشخص الآخر أيضًا، والدور لنا. ماذا نفعل؟"
+      },
+      "pista": {
+        "es": "Mira si puedes ganar tú antes de tapar a la otra persona.",
+        "va": "Mira si pots guanyar tu abans de tapar l'altra persona.",
+        "en": "See if you can win before you block the other person.",
+        "fr": "Regarde si tu peux gagner avant de bloquer l'autre personne.",
+        "ar": "لننظر هل يمكننا الفوز قبل أن نسدّ على الشخص الآخر."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Poner el tercero en su propia línea: así gana. Si prefiere tapar el hueco de la otra persona, preguntad «¿y si lo pones aquí?» y mirad juntos qué pasa.",
+          "va": "Posar el tercer en la seua pròpia línia: així guanya. Si prefereix tapar el forat de l'altra persona, pregunteu «i si el poses ací?» i mireu junts què passa.",
+          "en": "Put the third one in their own line: that wins. If they'd rather block the other person, ask “And what if you put it here?” and look together at what happens.",
+          "fr": "Poser le troisième sur sa propre ligne : c'est gagné. Si l'enfant préfère boucher le trou de l'autre personne, demandez « Et si tu le mettais ici ? » et regardez ensemble ce qui se passe.",
+          "ar": "وضع الغطاء الثالث في خطّنا: هكذا نفوز. وإذا كان الاختيار سدّ فراغ الشخص الآخر، فاسألوا «وإذا وضعناه هنا؟» وانظروا معًا ماذا يحدث."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra jugada en el papel y pregunta dónde pondría su tapón la persona adulta.",
+        "va": "Inventa tu una altra jugada en el paper i pregunta on posaria el seu tap la persona adulta.",
+        "en": "Set up another position on the paper and ask the adult where they would put their top.",
+        "fr": "Invente une autre partie sur le papier et demande à l'adulte où il ou elle mettrait son bouchon.",
+        "ar": "لنخترع وضعًا آخر على الورقة ونسأل الشخص البالغ: أين يضع غطاءه؟"
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Para empezar, ¿qué casilla te parece mejor: una esquina, la del centro o una del borde? ¿Por qué?",
+        "va": "Per a començar, quina casella et pareix millor: un cantó, la del centre o una de la vora? Per què?",
+        "en": "To start, which square do you think is best: a corner, the middle one or one on the edge? Why?",
+        "fr": "Pour commencer, quelle case te semble la meilleure : un coin, celle du milieu ou une du bord ? Pourquoi ?",
+        "ar": "للبداية، أيّ خانة تبدو أفضل: زاوية، أم الخانة الوسطى، أم خانة على الطرف؟ ولماذا؟"
+      },
+      "pista": {
+        "es": "Cuenta en cuántas líneas de 3 está cada casilla.",
+        "va": "Compta en quantes línies de 3 està cada casella.",
+        "en": "Count how many lines of 3 each square is part of.",
+        "fr": "Compte dans combien de lignes de 3 se trouve chaque case.",
+        "ar": "لنعدّ في كم خطًّا من 3 خانات تدخل كل خانة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La del centro está en 4 líneas; cada esquina, en 3, y las del borde, en 2. Por eso el centro suele ir bien. Si elige otra, jugad dos partidas y comparad.",
+          "va": "La del centre està en 4 línies; cada cantó, en 3, i les de la vora, en 2. Per això el centre sol anar bé. Si en tria una altra, jugueu dues partides i compareu.",
+          "en": "The middle one is in 4 lines; each corner in 3, and the edge ones in 2. That's why the middle usually works well. If they choose another, play two games and compare.",
+          "fr": "Celle du milieu est sur 4 lignes ; chaque coin sur 3, et celles du bord sur 2. C'est pour ça que le milieu marche souvent bien. Si l'enfant en choisit une autre, jouez deux parties et comparez.",
+          "ar": "الخانة الوسطى تدخل في 4 خطوط، وكل زاوية في 3، وخانات الطرف في 2. لذلك يكون الوسط عادةً خيارًا جيدًا. وإذا اختيرت غيرها، فالعبوا جولتين وقارنوا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una pregunta sobre otro juego de mesa que conozcas.",
+        "va": "Inventa tu una pregunta sobre un altre joc de taula que conegues.",
+        "en": "Make up a question about another board game you know.",
+        "fr": "Invente une question sur un autre jeu de société que tu connais.",
+        "ar": "لنخترع سؤالًا عن لعبة لوحية أخرى نعرفها."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 37,
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Para recordar: en una bolsa hay pinzas rojas y azules. Si sacas una sin mirar, ¿saldrá roja siempre, a veces o nunca?",
+        "va": "Per a recordar: en una bossa hi ha pinces roges i blaves. Si en traus una sense mirar, eixirà roja sempre, a vegades o mai?",
+        "en": "Let's remember: a bag has red and blue pegs. If you take one out without looking, will it be red always, sometimes or never?",
+        "fr": "Pour se souvenir : dans un sac, il y a des pinces rouges et bleues. Si tu en tires une sans regarder, sera-t-elle rouge toujours, parfois ou jamais ?",
+        "ar": "لنتذكّر: في كيس ملاقط حمراء وزرقاء. إذا سحبنا ملقطًا من دون نظر، هل يكون أحمر دائمًا أم أحيانًا أم أبدًا؟"
+      },
+      "pista": {
+        "es": "Piensa qué colores pueden salir de esa bolsa.",
+        "va": "Pensa quins colors poden eixir d'aquesta bossa.",
+        "en": "Think about which colours could come out of that bag.",
+        "fr": "Pense aux couleurs qui peuvent sortir de ce sac.",
+        "ar": "لنفكّر في الألوان التي يمكن أن تخرج من هذا الكيس."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "A veces: puede salir roja o azul. En el tres en raya, en cambio, no hay suerte: todo depende de las jugadas.",
+          "va": "A vegades: pot eixir roja o blava. En el tres en ratlla, en canvi, no hi ha sort: tot depén de les jugades.",
+          "en": "Sometimes: it could be red or blue. In noughts and crosses, on the other hand, there's no luck: it all depends on the moves.",
+          "fr": "Parfois : elle peut être rouge ou bleue. Au morpion, en revanche, il n'y a pas de chance : tout dépend des coups.",
+          "ar": "أحيانًا: قد يخرج أحمر أو أزرق. أما في إكس-أو فلا حظّ: كل شيء يتوقّف على الحركات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una bolsa de la que salga roja siempre.",
+        "va": "Inventa tu una bossa de la qual isca roja sempre.",
+        "en": "Make up a bag where a red one always comes out.",
+        "fr": "Invente un sac d'où sort toujours une rouge.",
+        "ar": "لنخترع كيسًا يخرج منه الأحمر دائمًا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame un truco para ganar al tres en raya, o para no perder. ¿Cómo lo descubriste?",
+        "va": "Explica'm un truc per a guanyar al tres en ratlla, o per a no perdre. Com el vas descobrir?",
+        "en": "Explain a trick for winning at noughts and crosses, or for not losing. How did you discover it?",
+        "fr": "Explique-moi une astuce pour gagner au morpion, ou pour ne pas perdre. Comment l'as-tu découverte ?",
+        "ar": "لنشرح حيلة للفوز في إكس-أو، أو لعدم الخسارة. كيف اكتشفناها؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué haces cuando ves que yo tengo 2 en línea?»",
+        "va": "Si no sap per on començar: «Què fas quan veus que jo tinc 2 en línia?»",
+        "en": "If they don't know where to start: “What do you do when you see I've got 2 in a line?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu fais quand tu vois que j'en ai 2 alignés ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا نفعل حين نرى غطاءين في خط عند الشخص الآخر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Valen trucos como empezar por el centro o tapar los huecos. Lo importante es que cuente cómo lo pensó; preguntad «¿y siempre funciona?».",
+          "va": "Valen trucs com començar pel centre o tapar els forats. L'important és que conte com ho va pensar; pregunteu «i sempre funciona?».",
+          "en": "Tricks like starting in the middle or blocking gaps are all fine. What matters is that they tell you how they worked it out; ask “And does it always work?”",
+          "fr": "Des astuces comme commencer par le milieu ou boucher les trous, c'est très bien. L'important, c'est que votre enfant raconte comment il ou elle l'a pensé ; demandez « Et ça marche toujours ? ».",
+          "ar": "حيل مثل البدء بالوسط أو سدّ الفراغات كلها مقبولة. المهمّ أن يُروى كيف جاءت الفكرة؛ اسألوا «وهل تنجح دائمًا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "05305e240ec0"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "05305e240ec0"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "05305e240ec0"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "05305e240ec0"
+      }
+    }
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s02",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 2,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Sumar y restar decenas",
+    "va": "Sumar i restar desenes",
+    "en": "Adding and taking away tens",
+    "fr": "Ajouter et enlever des dizaines",
+    "ar": "جمع العشرات وطرحها"
+  },
+  "objetivo": {
+    "es": "Esta semana suman y restan números hasta 99 sin llevada: decenas con decenas y unidades con unidades. También lo hacen de cabeza, con números redondos como 40 y 30.",
+    "va": "Aquesta setmana sumen i resten nombres fins a 99 sense llevada: desenes (decenas) amb desenes i unitats (unidades) amb unitats. També ho fan de cap, amb nombres redons com 40 i 30.",
+    "en": "This week they add and take away numbers up to 99 without regrouping (llevada): tens (decenas) with tens and ones (unidades) with ones. They also do it in their heads, with round numbers like 40 and 30.",
+    "fr": "Cette semaine, on ajoute et on enlève des nombres jusqu'à 99 sans retenue (llevada) : les dizaines (decenas) avec les dizaines et les unités (unidades) avec les unités. On le fait aussi de tête, avec des nombres ronds comme 40 et 30.",
+    "ar": "هذا الأسبوع يجمع الأطفال ويطرحون أعدادًا حتى 99 من دون استلاف أو احتفاظ (llevada): العشرات (decenas) مع العشرات، والآحاد (unidades) مع الآحاد. ويفعلون ذلك أيضًا ذهنيًا، بأعداد مدوّرة مثل 40 و30."
+  },
+  "comoAyudar": {
+    "es": "Dejad que lo haga primero con los paquetes de palillos: los paquetes con los paquetes y los sueltos con los sueltos. Preguntad «¿cuántos paquetes hay ahora?» antes de decir el número.",
+    "va": "Deixeu que ho faça primer amb els paquets de palets: els paquets amb els paquets i els solts amb els solts. Pregunteu «quants paquets hi ha ara?» abans de dir el nombre.",
+    "en": "Let them do it with the bundles of sticks first: bundles with bundles and loose sticks with loose sticks. Ask “How many bundles are there now?” before saying the number.",
+    "fr": "Laissez-le ou laissez-la d'abord le faire avec les paquets de bâtonnets : les paquets avec les paquets et les bâtonnets seuls avec les bâtonnets seuls. Demandez « Combien de paquets y a-t-il maintenant ? » avant de dire le nombre.",
+    "ar": "دعوا الحل يكون أولًا بحزم العيدان: الحزم مع الحزم، والعيدان المنفردة مع المنفردة. اسألوا «كم حزمة عندنا الآن؟» قبل قول العدد."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.1.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La tienda de paquetes",
+      "va": "La botiga de paquets",
+      "en": "The bundle shop",
+      "fr": "La boutique des paquets",
+      "ar": "متجر الحزم"
+    },
+    "material": [
+      {
+        "es": "Unos 60 palillos, pajitas o lápices",
+        "va": "Uns 60 palets, canyetes o llapis",
+        "en": "About 60 sticks, straws or pencils",
+        "fr": "Environ 60 bâtonnets, pailles ou crayons",
+        "ar": "نحو 60 عودًا أو مصّاصة أو قلمًا"
+      },
+      {
+        "es": "Gomas elásticas",
+        "va": "Gomes elàstiques",
+        "en": "Rubber bands",
+        "fr": "Des élastiques",
+        "ar": "أربطة مطاطية"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "palillos",
+        "texto": {
+          "es": "Haced paquetes de 10 palillos con una goma y dejad algunos sueltos. Esa es la tienda.",
+          "va": "Feu paquets de 10 palets amb una goma i deixeu-ne alguns de solts. Això és la botiga.",
+          "en": "Make bundles of 10 sticks with a rubber band and leave some loose. That's the shop.",
+          "fr": "Faites des paquets de 10 bâtonnets avec un élastique et laissez-en quelques-uns tout seuls. C'est la boutique.",
+          "ar": "اصنعوا حزمًا من 10 عيدان برباط مطاطي، واتركوا بعض العيدان منفردة. هذا هو المتجر."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Quien compra pide paquetes y sueltos, por ejemplo 2 paquetes y 3 sueltos, y dice cuántos se lleva: 23.",
+          "va": "Qui compra demana paquets i solts, per exemple 2 paquets i 3 solts, i diu quants se n'emporta: 23.",
+          "en": "The shopper asks for bundles and loose sticks, for example 2 bundles and 3 loose ones, and says how many that is: 23.",
+          "fr": "La personne qui achète demande des paquets et des bâtonnets seuls, par exemple 2 paquets et 3 bâtonnets, et dit combien elle en emporte : 23.",
+          "ar": "من يشتري يطلب حزمًا وعيدانًا منفردة، مثلًا حزمتين و3 عيدان، ويقول كم أخذ: 23."
+        }
+      },
+      {
+        "pictograma": "bolsa",
+        "texto": {
+          "es": "Comprad otra vez y juntad las dos compras: primero los paquetes y luego los sueltos. ¿Cuántos hay ahora?",
+          "va": "Torneu a comprar i ajunteu les dues compres: primer els paquets i després els solts. Quants n'hi ha ara?",
+          "en": "Buy again and put both purchases together: bundles first, then loose sticks. How many are there now?",
+          "fr": "Achetez encore et réunissez les deux achats : d'abord les paquets, puis les bâtonnets seuls. Combien y en a-t-il maintenant ?",
+          "ar": "اشتروا مرة أخرى واجمعوا المشتريات: الحزم أولًا ثم العيدان المنفردة. كم عودًا عندكم الآن؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Devolved a la tienda algunos paquetes y sueltos, y decid cuántos os quedan.",
+          "va": "Torneu a la botiga alguns paquets i solts, i digueu quants vos en queden.",
+          "en": "Give some bundles and loose sticks back to the shop, and say how many you have left.",
+          "fr": "Rendez à la boutique quelques paquets et bâtonnets seuls, et dites combien il vous en reste.",
+          "ar": "أعيدوا إلى المتجر بعض الحزم والعيدان المنفردة، وقولوا كم بقي عندكم."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Comprad y devolved solo paquetes enteros: 10, 20, 30…",
+      "va": "Compreu i torneu només paquets sencers: 10, 20, 30…",
+      "en": "Only buy and give back whole bundles: 10, 20, 30…",
+      "fr": "Achetez et rendez seulement des paquets entiers : 10, 20, 30…",
+      "ar": "اشتروا وأعيدوا حزمًا كاملة فقط: 10، 20، 30…"
+    },
+    "masDificil": {
+      "es": "Pensad el resultado de cabeza antes de tocar los palillos y comprobadlo después con los paquetes.",
+      "va": "Penseu el resultat de cap abans de tocar els palets i comproveu-lo després amb els paquets.",
+      "en": "Work out the answer in your heads before touching the sticks, then check it with the bundles.",
+      "fr": "Trouvez le résultat de tête avant de toucher les bâtonnets, puis vérifiez-le avec les paquets.",
+      "ar": "فكّروا في النتيجة ذهنيًا قبل لمس العيدان، ثم تحقّقوا منها بالحزم."
+    },
+    "paraQueSirve": {
+      "es": "Juntar decenas con decenas y unidades con unidades es el cálculo mental que usarán en la compra y, más adelante, en las sumas en columna.",
+      "va": "Ajuntar desenes amb desenes i unitats amb unitats és el càlcul mental que faran servir en la compra i, més avant, en les sumes en columna.",
+      "en": "Putting tens with tens and ones with ones is the mental calculation they will use when shopping and, later on, in column addition.",
+      "fr": "Réunir les dizaines avec les dizaines et les unités avec les unités, c'est le calcul mental qui servira pour les courses et, plus tard, pour les additions en colonnes.",
+      "ar": "جمع العشرات مع العشرات والآحاد مع الآحاد هو الحساب الذهني الذي سيستعمله الأطفال عند التسوّق، ثم لاحقًا في الجمع العمودي."
+    },
+    "aviso": {
+      "es": "Si usáis palillos con punta, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir palets amb punta, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use pointed sticks, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des bâtonnets pointus, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم عيدانًا مدبّبة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Iker tiene 23 cromos y su tía le regala 15 más. ¿Cuántos cromos tiene ahora?",
+        "va": "Iker té 23 cromos i la seua tia li'n regala 15 més. Quants cromos té ara?",
+        "en": "Iker has 23 stickers and his aunt gives him 15 more. How many stickers does he have now?",
+        "fr": "Iker a 23 images et sa tante lui en offre 15 de plus. Combien d'images a-t-il maintenant ?",
+        "ar": "عند إيكر 23 صورة، وأهدته خالته 15 صورة أخرى. كم صورة عنده الآن؟"
+      },
+      "pista": {
+        "es": "Suma primero las decenas, 20 y 10, y luego las unidades, 3 y 5.",
+        "va": "Suma primer les desenes, 20 i 10, i després les unitats, 3 i 5.",
+        "en": "Add the tens first, 20 and 10, and then the ones, 3 and 5.",
+        "fr": "Ajoute d'abord les dizaines, 20 et 10, puis les unités, 3 et 5.",
+        "ar": "لنجمع العشرات أولًا، 20 و10، ثم الآحاد، 3 و5."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "23 + 15",
+        "resultado": 38,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 38 cromos: {{23 + 15 = 38}}.",
+          "va": "Té 38 cromos: {{23 + 15 = 38}}.",
+          "en": "He has 38 stickers: {{23 + 15 = 38}}.",
+          "fr": "Il a 38 images : {{23 + 15 = 38}}.",
+          "ar": "عنده 38 صورة: {{23 + 15 = 38}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una en la que alguien recibe más cosas.",
+        "va": "Ara inventa'n tu una en què algú rep més coses.",
+        "en": "Now you make one up where someone gets more things.",
+        "fr": "Maintenant, invente une question où quelqu'un reçoit d'autres choses.",
+        "ar": "والآن لنخترع سؤالًا يحصل فيه شخص على أشياء أخرى."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En la frutería hay 47 naranjas y se venden 25. ¿Cuántas naranjas quedan?",
+        "va": "En la fruiteria hi ha 47 taronges i se'n venen 25. Quantes taronges queden?",
+        "en": "The greengrocer has 47 oranges and sells 25. How many oranges are left?",
+        "fr": "Chez le marchand de fruits, il y a 47 oranges et on en vend 25. Combien d'oranges reste-t-il ?",
+        "ar": "في محل الفواكه 47 برتقالة، وبيعت منها 25. كم برتقالة بقيت؟"
+      },
+      "pista": {
+        "es": "Quita primero 2 decenas y luego 5 unidades.",
+        "va": "Lleva primer 2 desenes i després 5 unitats.",
+        "en": "Take away 2 tens first and then 5 ones.",
+        "fr": "Enlève d'abord 2 dizaines, puis 5 unités.",
+        "ar": "لننزع أولًا عشرتين، ثم 5 آحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "47 - 25",
+        "resultado": 22,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 22 naranjas.",
+          "va": "Queden 22 taronges.",
+          "en": "There are 22 oranges left.",
+          "fr": "Il reste 22 oranges.",
+          "ar": "بقيت 22 برتقالة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra de una tienda en la que se venden cosas.",
+        "va": "Inventa'n tu una altra d'una botiga on es venen coses.",
+        "en": "Make up another one about a shop where things get sold.",
+        "fr": "Invente-en une autre sur un magasin où l'on vend des choses.",
+        "ar": "لنخترع سؤالًا آخر عن متجر تُباع فيه أشياء."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "En la hucha de Fátima hay 40 euros y su abuela mete 30 más. ¿Cuántos euros hay ahora?",
+        "va": "En la guardiola de Fátima hi ha 40 euros i la seua àvia n'hi posa 30 més. Quants euros hi ha ara?",
+        "en": "Fátima's money box has 40 euros in it and her grandma puts in 30 more. How many euros are there now?",
+        "fr": "Dans la tirelire de Fátima, il y a 40 euros et sa grand-mère en met 30 de plus. Combien d'euros y a-t-il maintenant ?",
+        "ar": "في حصّالة فاطمة 40 يورو، ووضعت جدّتها 30 يورو أخرى. كم يورو فيها الآن؟"
+      },
+      "pista": {
+        "es": "Piensa en 4 decenas y 3 decenas: ¿cuántas decenas son?",
+        "va": "Pensa en 4 desenes i 3 desenes: quantes desenes són?",
+        "en": "Think of 4 tens and 3 tens: how many tens is that?",
+        "fr": "Pense à 4 dizaines et 3 dizaines : ça fait combien de dizaines ?",
+        "ar": "لنفكّر في 4 عشرات و3 عشرات: كم عشرة تصبح؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 + 30",
+        "resultado": 70,
+        "unidad": "euros",
+        "texto": {
+          "es": "Hay 70 euros: 7 decenas.",
+          "va": "Hi ha 70 euros: 7 desenes.",
+          "en": "There are 70 euros: 7 tens.",
+          "fr": "Il y a 70 euros : 7 dizaines.",
+          "ar": "فيها 70 يورو: 7 عشرات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con números redondos, como 20, 50 o 60.",
+        "va": "Inventa'n tu una amb nombres redons, com 20, 50 o 60.",
+        "en": "Make one up with round numbers, like 20, 50 or 60.",
+        "fr": "Invente une question avec des nombres ronds, comme 20, 50 ou 60.",
+        "ar": "لنخترع سؤالًا بأعداد مدوّرة، مثل 20 أو 50 أو 60."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 1,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: Ion tiene 6 bolsas de 10 canicas y 4 canicas sueltas. ¿Cuántas canicas tiene?",
+        "va": "Per a recordar: Ion té 6 bosses de 10 bales i 4 bales soltes. Quantes bales té?",
+        "en": "Let's remember: Ion has 6 bags of 10 marbles and 4 loose marbles. How many marbles does he have?",
+        "fr": "Pour se souvenir : Ion a 6 sacs de 10 billes et 4 billes toutes seules. Combien de billes a-t-il ?",
+        "ar": "لنتذكّر: عند إيون 6 أكياس في كل منها 10 كرات زجاجية، و4 كرات منفردة. كم كرة عنده؟"
+      },
+      "pista": {
+        "es": "Cuenta las bolsas de 10 en 10 y sigue con las sueltas.",
+        "va": "Compta les bosses de 10 en 10 i continua amb les soltes.",
+        "en": "Count the bags in tens and carry on with the loose ones.",
+        "fr": "Compte les sacs de 10 en 10 et continue avec les billes toutes seules.",
+        "ar": "لنعدّ الأكياس عشرةً عشرةً، ثم نتابع بالكرات المنفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "60 + 4",
+        "resultado": 64,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 64 canicas: 6 decenas y 4 unidades.",
+          "va": "Té 64 bales: 6 desenes i 4 unitats.",
+          "en": "He has 64 marbles: 6 tens and 4 ones.",
+          "fr": "Il a 64 billes : 6 dizaines et 4 unités.",
+          "ar": "عنده 64 كرة: 6 عشرات و4 آحاد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con bolsas de 10 y algunas cosas sueltas.",
+        "va": "Inventa'n tu una altra amb bosses de 10 i algunes coses soltes.",
+        "en": "Make up another one with bags of 10 and a few loose things.",
+        "fr": "Invente-en une autre avec des sacs de 10 et quelques choses toutes seules.",
+        "ar": "لنخترع سؤالًا آخر بأكياس فيها 10 وبعض الأشياء المنفردة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sumarías 35 y 20 de cabeza? Explícame qué haces con las decenas y con las unidades.",
+        "va": "Com sumaries 35 i 20 de cap? Explica'm què fas amb les desenes i amb les unitats.",
+        "en": "How would you add 35 and 20 in your head? Explain to me what you do with the tens and with the ones.",
+        "fr": "Comment ajouterais-tu 35 et 20 de tête ? Explique-moi ce que tu fais avec les dizaines et avec les unités.",
+        "ar": "كيف نجمع 35 و20 ذهنيًا؟ لنشرح ماذا نفعل بالعشرات وبالآحاد."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me lo enseñas con los paquetes de palillos?»",
+        "va": "Si no sap per on començar: «M'ho ensenyes amb els paquets de palets?»",
+        "en": "If they don't know where to start: “Can you show me with the bundles of sticks?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me le montres avec les paquets de bâtonnets ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نُريه بحزم العيدان؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Hay muchas formas de hacerlo: contar de 10 en 10 desde 35 también vale. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "Hi ha moltes maneres de fer-ho: comptar de 10 en 10 des de 35 també val. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "There are many ways to do it: counting on in tens from 35 works too. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Il y a plein de façons de faire : compter de 10 en 10 à partir de 35, ça marche aussi. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "هناك طرق كثيرة: العدّ عشرةً عشرةً بدءًا من 35 طريقة صحيحة أيضًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "50f62821845f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "50f62821845f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "50f62821845f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "50f62821845f"
+      }
+    }
+  }
+}

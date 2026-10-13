@@ -1,0 +1,341 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.v08",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "verano": 8,
+  "tipo": "verano",
+  "titulo": {
+    "es": "El picnic",
+    "va": "El pícnic",
+    "en": "The picnic",
+    "fr": "Le pique-nique",
+    "ar": "النزهة"
+  },
+  "objetivo": {
+    "es": "En verano, preparar un picnic es repartir la comida a partes iguales, de una en una, y ver la mitad y el doble en cosas de comer.",
+    "va": "A l'estiu, preparar un pícnic és repartir (repartir) el menjar a parts iguals, d'una en una, i veure la meitat (mitad) i el doble (doble) en coses de menjar.",
+    "en": "In summer, getting a picnic ready means sharing out (repartir) the food equally, one at a time, and seeing half (mitad) and double (doble) in things to eat.",
+    "fr": "En été, préparer un pique-nique, c'est partager (repartir) la nourriture en parts égales, une par une, et voir la moitié (mitad) et le double (doble) dans des choses à manger.",
+    "ar": "في الصيف، تحضير نزهة يعني توزيع (repartir) الطعام بالتساوي، واحدة واحدة، ورؤية النصف (mitad) والضعف (doble) في أشياء نأكلها."
+  },
+  "comoAyudar": {
+    "es": "Dejad que reparta él o ella, de una en una, como las cartas. Si algo sobra, no lo resolváis vosotros: preguntad «¿qué podemos hacer con esta?».",
+    "va": "Deixeu que repartisca ell o ella, d’una en una, com les cartes. Si alguna cosa sobra, no ho resolgueu vosaltres: pregunteu «què podem fer amb esta?».",
+    "en": "Let your child do the sharing, one at a time, like dealing cards. If something is left over, don’t sort it out yourselves: ask “What can we do with this one?”.",
+    "fr": "Laissez votre enfant distribuer, une par une, comme des cartes. S'il en reste une, ne décidez pas à sa place : demandez « Qu'est-ce qu'on peut faire avec celle-ci ? ».",
+    "ar": "دعوا الطفل أو الطفلة يوزّع واحدة واحدة مثل الأوراق. وإذا تبقّى شيء، لا تحلّوا الأمر بأنفسكم: اسألوا «ماذا نفعل بهذه؟»."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad"
+  ],
+  "criterios": [
+    "matematicas.c1.1.2",
+    "matematicas.c1.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Repartir el picnic",
+      "va": "Repartir el pícnic",
+      "en": "Sharing out the picnic",
+      "fr": "Partager le pique-nique",
+      "ar": "نوزّع طعام النزهة"
+    },
+    "material": [
+      {
+        "es": "Comida que se reparta sin cortar: galletas, fresas, uvas, mandarinas…",
+        "va": "Menjar que es repartisca sense tallar: galetes, maduixes, raïm, mandarines…",
+        "en": "Food that can be shared without cutting: biscuits, strawberries, grapes, mandarins…",
+        "fr": "De la nourriture qu’on partage sans couper : biscuits, fraises, raisins, mandarines…",
+        "ar": "طعام يوزَّع من دون تقطيع: بسكويت، فراولة، عنب، يوسفي…"
+      },
+      {
+        "es": "Un plato o una servilleta para cada persona",
+        "va": "Un plat o un tovalló per a cada persona",
+        "en": "A plate or a napkin for each person",
+        "fr": "Une assiette ou une serviette par personne",
+        "ar": "صحن أو منديل لكل شخص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Poned un plato o una servilleta para cada persona del picnic.",
+          "va": "Poseu un plat o un tovalló per a cada persona del pícnic.",
+          "en": "Put out a plate or a napkin for each person at the picnic.",
+          "fr": "Mettez une assiette ou une serviette pour chaque personne du pique-nique.",
+          "ar": "ضعوا صحنًا أو منديلًا لكل شخص في النزهة."
+        }
+      },
+      {
+        "pictograma": "galleta",
+        "texto": {
+          "es": "Repartid las galletas de una en una, como las cartas: una para ti, una para ti…",
+          "va": "Repartiu les galetes d’una en una, com les cartes: una per a tu, una per a tu…",
+          "en": "Share out the biscuits one at a time, like cards: one for you, one for you…",
+          "fr": "Distribuez les biscuits un par un, comme des cartes : un pour toi, un pour toi…",
+          "ar": "وزّعوا البسكويت واحدة واحدة مثل الأوراق: واحدة لك، واحدة لك…"
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Contad lo que hay en cada plato: ¿todos tienen lo mismo? Si sobra alguna, decidid juntos qué hacer.",
+          "va": "Compteu el que hi ha en cada plat: tots tenen el mateix? Si en sobra alguna, decidiu junts què fer.",
+          "en": "Count what’s on each plate: does everyone have the same? If any are left over, decide together what to do.",
+          "fr": "Comptez ce qu'il y a dans chaque assiette : tout le monde a-t-il pareil ? S'il en reste, décidez ensemble quoi faire.",
+          "ar": "عدّوا ما في كل صحن: هل عند الجميع العدد نفسه؟ وإذا تبقّى شيء، قرّروا معًا ماذا تفعلون."
+        }
+      },
+      {
+        "pictograma": "fruta",
+        "texto": {
+          "es": "Ahora la fruta, entre dos personas: ¿cada una tiene la mitad? Contad para comprobarlo.",
+          "va": "Ara la fruita, entre dues persones: cada una té la meitat? Compteu per a comprovar-ho.",
+          "en": "Now the fruit, between two people: does each one have half? Count to check.",
+          "fr": "Maintenant les fruits, entre deux personnes : chacune a-t-elle la moitié ? Comptez pour vérifier.",
+          "ar": "والآن الفاكهة بين شخصين: هل مع كل واحد النصف؟ عدّوا لتتأكّدوا."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Repartid entre dos personas y pocas cosas, hasta 10.",
+      "va": "Repartiu entre dues persones i poques coses, fins a 10.",
+      "en": "Share between two people and only a few things, up to 10.",
+      "fr": "Partagez entre deux personnes et peu de choses, jusqu'à 10.",
+      "ar": "وزّعوا بين شخصين وأشياء قليلة، حتى 10."
+    },
+    "masDificil": {
+      "es": "Repartid entre 3 o 4 personas, y probad con un número de galletas en el que sobre alguna.",
+      "va": "Repartiu entre 3 o 4 persones, i proveu amb un nombre de galetes en què en sobre alguna.",
+      "en": "Share between 3 or 4 people, and try a number of biscuits where some are left over.",
+      "fr": "Partagez entre 3 ou 4 personnes, et essayez un nombre de biscuits où il en reste.",
+      "ar": "وزّعوا بين 3 أو 4 أشخاص، وجرّبوا عددًا من البسكويت يتبقّى منه شيء."
+    },
+    "paraQueSirve": {
+      "es": "Repartir a partes iguales, de una en una, es el primer paso para dividir, que llegará más adelante. Y la mitad y el doble aparecen en cada comida.",
+      "va": "Repartir a parts iguals, d’una en una, és el primer pas per a dividir, que arribarà més avant. I la meitat i el doble apareixen en cada menjar.",
+      "en": "Sharing equally, one at a time, is the first step towards dividing, which will come later. And half and double turn up at every meal.",
+      "fr": "Partager en parts égales, un par un, c'est le premier pas vers la division, qui viendra plus tard. Et la moitié et le double apparaissent à chaque repas.",
+      "ar": "التوزيع بالتساوي، واحدة واحدة، هو الخطوة الأولى نحو القسمة التي ستأتي لاحقًا. والنصف والضعف يظهران في كل وجبة."
+    },
+    "aviso": {
+      "es": "Elegid comida que se reparta sin cortar. Las uvas enteras, lejos de hermanos o hermanas pequeños.",
+      "va": "Trieu menjar que es repartisca sense tallar. El raïm sencer, lluny de germans o germanes menuts.",
+      "en": "Choose food that can be shared without cutting. Keep whole grapes away from younger brothers and sisters.",
+      "fr": "Choisissez de la nourriture qui se partage sans couper. Les raisins entiers, loin des petits frères et sœurs.",
+      "ar": "اختاروا طعامًا يوزَّع من دون تقطيع. والعنب الكامل بعيدًا عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Hay 8 galletas para Nora y Pablo, a partes iguales. ¿Cuántas le tocan a cada uno?",
+        "va": "Hi ha 8 galetes per a Nora i Pablo, a parts iguals. Quantes en toquen a cadascú?",
+        "en": "There are 8 biscuits for Nora and Pablo, shared equally. How many does each one get?",
+        "fr": "Il y a 8 biscuits pour Nora et Pablo, en parts égales. Combien chacun en reçoit-il ?",
+        "ar": "هناك 8 قطع بسكويت لنورا وبابلو بالتساوي. كم قطعة يأخذ كل واحد منهما؟"
+      },
+      "pista": {
+        "es": "Reparte de una en una con cosas de verdad o con los dedos.",
+        "va": "Repartix d’una en una amb coses de veritat o amb els dits.",
+        "en": "Share them out one at a time with real things or with your fingers.",
+        "fr": "Distribue un par un avec de vrais objets ou avec tes doigts.",
+        "ar": "لنوزّع واحدة واحدة بأشياء حقيقية أو بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "4 galletas cada uno: {{4 + 4 = 8}}. Si duda, repartid de verdad, una a una.",
+          "va": "4 galetes cadascú: {{4 + 4 = 8}}. Si dubta, repartiu de veritat, una a una.",
+          "en": "4 biscuits each: {{4 + 4 = 8}}. If your child is unsure, share them out for real, one by one.",
+          "fr": "4 biscuits chacun : {{4 + 4 = 8}}. En cas de doute, partagez pour de vrai, un par un.",
+          "ar": "4 قطع لكل واحد: {{4 + 4 = 8}}. وإذا وُجد تردّد، وزّعوا حقًّا، واحدة واحدة."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú un reparto entre dos con algo de la merienda.",
+        "va": "Ara inventa'n tu un repartiment entre dos amb alguna cosa del berenar.",
+        "en": "Now you make up a sharing problem between two with something from your snack.",
+        "fr": "Maintenant, invente un partage entre deux avec quelque chose du goûter.",
+        "ar": "والآن لنخترع مسألة توزيع بين شخصين بشيء من وجبة العصر."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Lucía lleva 5 fresas y su madre lleva el doble. ¿Cuántas fresas lleva su madre?",
+        "va": "Lucía porta 5 maduixes i sa mare en porta el doble. Quantes maduixes porta sa mare?",
+        "en": "Lucía brings 5 strawberries and her mum brings double. How many strawberries does her mum bring?",
+        "fr": "Lucía apporte 5 fraises et sa mère en apporte le double. Combien de fraises sa mère apporte-t-elle ?",
+        "ar": "تحمل لوسيا 5 حبات فراولة وتحمل أمّها الضعف. كم حبة تحمل أمّها؟"
+      },
+      "pista": {
+        "es": "El doble es lo mismo otra vez: 5 y 5.",
+        "va": "El doble és el mateix una altra vegada: 5 i 5.",
+        "en": "Double is the same again: 5 and 5.",
+        "fr": "Le double, c'est la même chose encore une fois : 5 et 5.",
+        "ar": "الضعف هو العدد نفسه مرة أخرى: 5 و5."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 + 5",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Su madre lleva 10 fresas.",
+          "va": "Sa mare en porta 10.",
+          "en": "Her mum brings 10 strawberries.",
+          "fr": "Sa mère apporte 10 fraises.",
+          "ar": "تحمل أمّها 10 حبات فراولة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con el doble de algo que tengas en las manos.",
+        "va": "Inventa'n tu una amb el doble d'alguna cosa que tingues a les mans.",
+        "en": "Make one up with double something you have in your hands.",
+        "fr": "Invente une question avec le double de quelque chose que tu as dans les mains.",
+        "ar": "لنخترع سؤالًا بضعف شيء في أيدينا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Darío tiene 10 mandarinas y da la mitad a su abuela. ¿Cuántas le quedan a Darío?",
+        "va": "Darío té 10 mandarines i dona la meitat a la seua àvia. Quantes li’n queden a Darío?",
+        "en": "Darío has 10 mandarins and gives half to his grandma. How many does Darío have left?",
+        "fr": "Darío a 10 mandarines et en donne la moitié à sa grand-mère. Combien en reste-t-il à Darío ?",
+        "ar": "عند داريو 10 حبات يوسفي ويعطي نصفها لجدّته. كم حبة بقيت مع داريو؟"
+      },
+      "pista": {
+        "es": "Haz dos montones iguales con tus dedos: 5 y 5.",
+        "va": "Fes dos munts iguals amb els dits: 5 i 5.",
+        "en": "Make two equal piles with your fingers: 5 and 5.",
+        "fr": "Fais deux tas égaux avec tes doigts : 5 et 5.",
+        "ar": "لنصنع كومتين متساويتين بالأصابع: 5 و5."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 5",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le quedan 5 mandarinas.",
+          "va": "Li’n queden 5.",
+          "en": "He has 5 left.",
+          "fr": "Il lui en reste 5.",
+          "ar": "بقيت معه 5 حبات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que regalas la mitad de algo.",
+        "va": "Inventa'n tu una en què regales la meitat d'alguna cosa.",
+        "en": "Make one up where you give away half of something.",
+        "fr": "Invente une question où tu donnes la moitié de quelque chose.",
+        "ar": "لنخترع سؤالًا نهدي فيه نصف شيء ما."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: las servilletas vienen en paquetes de 10. Si hay 3 paquetes, ¿cuántas servilletas hay?",
+        "va": "Per a recordar: els tovallons vénen en paquets de 10. Si hi ha 3 paquets, quants tovallons hi ha?",
+        "en": "Let’s remember: napkins come in packs of 10. If there are 3 packs, how many napkins are there?",
+        "fr": "Pour se souvenir : les serviettes sont vendues par paquets de 10. S’il y a 3 paquets, combien y a-t-il de serviettes ?",
+        "ar": "لنتذكّر: المناديل تأتي في رزم من 10. إذا كانت هناك 3 رزم، كم منديلًا يوجد؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10, un número por paquete.",
+        "va": "Compta de 10 en 10, un nombre per paquet.",
+        "en": "Count in tens, one number for each pack.",
+        "fr": "Compte de 10 en 10, un nombre par paquet.",
+        "ar": "لنعدّ 10 بـ10، عددًا لكل رزمة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 10",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 30 servilletas.",
+          "va": "Hi ha 30 tovallons.",
+          "en": "There are 30 napkins.",
+          "fr": "Il y a 30 serviettes.",
+          "ar": "يوجد 30 منديلًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con paquetes de 10 que haya en casa.",
+        "va": "Inventa'n tu una altra amb paquets de 10 que hi haja a casa.",
+        "en": "Make up another one with packs of 10 you have at home.",
+        "fr": "Invente-en une autre avec des paquets de 10 de la maison.",
+        "ar": "لنخترع سؤالًا آخر برزم من 10 موجودة في البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo repartirías 9 galletas entre 2 personas? Explícame qué harías con la que sobra.",
+        "va": "Com repartiries 9 galetes entre 2 persones? Explica'm què faries amb la que sobra.",
+        "en": "How would you share 9 biscuits between 2 people? Explain to me what you would do with the one left over.",
+        "fr": "Comment partagerais-tu 9 biscuits entre 2 personnes ? Explique-moi ce que tu ferais avec celui qui reste.",
+        "ar": "كيف نوزّع 9 قطع بسكويت على شخصين؟ لنشرح ماذا نفعل بالقطعة التي تتبقّى."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Repártelas de verdad y cuéntame qué pasa al final.»",
+        "va": "Si no sap per on començar: «Repartix-les de veritat i conta’m què passa al final.»",
+        "en": "If they don’t know where to start: “Share them out for real and tell me what happens at the end.”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Partage-les pour de vrai et raconte-moi ce qui se passe à la fin. »",
+        "ar": "إذا صعُبت البداية، قولوا: «لنوزّعها حقًّا ونحكي ماذا يحدث في النهاية.»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "4d3521d09bf7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "4d3521d09bf7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "4d3521d09bf7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "4d3521d09bf7"
+      }
+    }
+  }
+}

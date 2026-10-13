@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s34",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 34,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: sumas, restas y medidas",
+    "va": "Setmana de recordar: sumes, restes i mesures",
+    "en": "Remembering week: additions, subtractions and measuring",
+    "fr": "Semaine de rappel : additions, soustractions et mesures",
+    "ar": "أسبوع التذكّر: الجمع والطرح والقياس"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las últimas semanas: sumar y restar pasando de la decena, ver cuántos más tiene uno que otro y comparar pesos y capacidades. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a allò de les últimes setmanes: sumar i restar passant de la desena (decena), veure quants més en té un que l'altre i comparar pesos i capacitats. No hi ha res de nou: és perquè s'assente.",
+    "en": "This week they go back to the last few weeks: adding and subtracting past the ten (decena), seeing how many more one has than another, and comparing weights and capacities. There's nothing new: it's so that it all settles.",
+    "fr": "Cette semaine, on revient sur les dernières semaines : additionner et soustraire en passant la dizaine (decena), voir combien l'un a de plus que l'autre et comparer des poids et des capacités. Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الأخيرة: الجمع والطرح مع تجاوز العشرة (decena)، ومعرفة كم عند أحدهم أكثر من الآخر، ومقارنة الأوزان والسعات. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "En el juego de cartas sois un equipo: pensad en voz alta juntos. Si una suma cuesta, completad el 10 con los dedos y seguid sin prisa.",
+    "va": "En el joc de cartes sou un equip: penseu en veu alta junts. Si una suma costa, completeu el 10 amb els dits i continueu sense pressa.",
+    "en": "In the card game you are one team: think out loud together. If an addition is hard, make 10 on your fingers and carry on, no rush.",
+    "fr": "Dans le jeu de cartes, vous êtes une équipe : réfléchissez à voix haute ensemble. Si une addition est difficile, complétez le 10 sur les doigts et continuez sans vous presser.",
+    "ar": "في لعبة الأوراق أنتم فريق واحد: فكّروا بصوت عالٍ معًا. وإذا صعب جمعٌ ما، أكملوا العشرة بالأصابع وتابعوا بلا عجلة."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.medida.no-convencionales"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Un minuto en equipo",
+      "va": "Un minut en equip",
+      "en": "One minute as a team",
+      "fr": "Une minute en équipe",
+      "ar": "دقيقة واحدة كفريق"
+    },
+    "material": [
+      {
+        "es": "Una baraja con las cartas del 1 al 10 (o cartas del 1 al 10 hechas en papel)",
+        "va": "Una baralla amb les cartes de l'1 al 10 (o cartes de l'1 al 10 fetes de paper)",
+        "en": "A pack with the cards from 1 to 10 (or cards from 1 to 10 made of paper)",
+        "fr": "Un jeu avec les cartes de 1 à 10 (ou des cartes de 1 à 10 faites en papier)",
+        "ar": "مجموعة أوراق لعب من 1 إلى 10 (أو أوراق من 1 إلى 10 مصنوعة من الورق)"
+      },
+      {
+        "es": "El cronómetro de Germina",
+        "va": "El cronòmetre de Germina",
+        "en": "The Germina stopwatch",
+        "fr": "Le chronomètre de Germina",
+        "ar": "مؤقّت Germina"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Dejad solo las cartas del 1 al 10. Barajadlas y ponedlas boca abajo en un montón.",
+          "va": "Deixeu només les cartes de l'1 al 10. Barregeu-les i poseu-les boca avall en un munt.",
+          "en": "Keep only the cards from 1 to 10. Shuffle them and put them face down in a pile.",
+          "fr": "Gardez seulement les cartes de 1 à 10. Mélangez-les et posez-les face cachée en un tas.",
+          "ar": "اتركوا الأوراق من 1 إلى 10 فقط. اخلطوها وضعوها مقلوبة في كومة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Primero, sin reloj: dad la vuelta a dos cartas y decid juntos la suma. Si pasa de 10, completad primero el 10: {{8 + 5 = 13}}.",
+          "va": "Primer, sense rellotge: gireu dues cartes i digueu junts la suma. Si passa de 10, completeu primer el 10: {{8 + 5 = 13}}.",
+          "en": "First, without the clock: turn over two cards and say the total together. If it goes past 10, make 10 first: {{8 + 5 = 13}}.",
+          "fr": "D'abord, sans chrono : retournez deux cartes et dites ensemble la somme. Si ça dépasse 10, complétez d'abord le 10 : {{8 + 5 = 13}}.",
+          "ar": "أولًا، بلا مؤقّت: اقلبوا ورقتين وقولوا معًا ناتج الجمع. إذا تجاوز 10، أكملوا العشرة أولًا: {{8 + 5 = 13}}."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Ahora, con el cronómetro en 1 minuto: dad la vuelta a dos cartas y decid juntos la suma. Si acertáis, van a un montón aparte.",
+          "va": "Ara, amb el cronòmetre en 1 minut: gireu dues cartes i digueu junts la suma. Si l'encerteu, van a un munt a banda.",
+          "en": "Now, with the stopwatch on 1 minute: turn over two cards and say the total together. If you get it right, they go on a separate pile.",
+          "fr": "Maintenant, avec le chronomètre sur 1 minute : retournez deux cartes et dites ensemble la somme. Si c'est juste, elles vont sur un tas à part.",
+          "ar": "الآن، والمؤقّت على دقيقة واحدة: اقلبوا ورقتين وقولوا معًا ناتج الجمع. إذا أصبتم، توضعان في كومة جانبية."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Contad las parejas de cartas del montón: es vuestro récord de equipo. ¿Jugáis otra vez?",
+          "va": "Compteu les parelles de cartes del munt: és el vostre rècord d'equip. Torneu a jugar?",
+          "en": "Count the pairs of cards in the pile: that's your team record. Want to play again?",
+          "fr": "Comptez les paires de cartes du tas : c'est votre record d'équipe. On rejoue ?",
+          "ar": "عدّوا أزواج الأوراق في الكومة: هذا رقمكم القياسي كفريق. هل نلعب مرة أخرى؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad solo con las cartas del 1 al 5, sin cronómetro si os apetece.",
+      "va": "Jugueu només amb les cartes de l'1 al 5, sense cronòmetre si vos ve de gust.",
+      "en": "Play only with the cards from 1 to 5, without the stopwatch if you like.",
+      "fr": "Jouez seulement avec les cartes de 1 à 5, sans chronomètre si vous en avez envie.",
+      "ar": "العبوا بالأوراق من 1 إلى 5 فقط، ومن دون مؤقّت إن رغبتم."
+    },
+    "masDificil": {
+      "es": "Dad la vuelta a dos cartas y decid la resta: la grande menos la pequeña.",
+      "va": "Gireu dues cartes i digueu la resta: la gran menys la xicoteta.",
+      "en": "Turn over two cards and say the difference: the bigger one take away the smaller one.",
+      "fr": "Retournez deux cartes et dites la soustraction : la grande moins la petite.",
+      "ar": "اقلبوا ورقتين وقولوا ناتج الطرح: الكبرى ناقص الصغرى."
+    },
+    "paraQueSirve": {
+      "es": "Decir sumas sin contar de uno en uno deja la cabeza libre para pensar en los problemas.",
+      "va": "Dir sumes sense comptar d'un en un deixa el cap lliure per a pensar en els problemes.",
+      "en": "Saying additions without counting one by one leaves your head free to think about word problems.",
+      "fr": "Dire des additions sans compter un par un laisse la tête libre pour réfléchir aux problèmes.",
+      "ar": "قول نواتج الجمع من دون العدّ واحدًا واحدًا يترك الذهن حرًّا للتفكير في المسائل."
+    },
+    "rapidez": {
+      "segundos": 60,
+      "seCuenta": {
+        "es": "sumas acertadas",
+        "va": "sumes encertades",
+        "en": "additions you got right",
+        "fr": "additions trouvées",
+        "ar": "عمليات الجمع الصحيحة"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Nora tiene 9 lápices y su padre le da 6 más. ¿Cuántos lápices tiene ahora?",
+        "va": "Nora té 9 llapis i son pare li'n dona 6 més. Quants llapis té ara?",
+        "en": "Nora has 9 pencils and her dad gives her 6 more. How many pencils does she have now?",
+        "fr": "Nora a 9 crayons et son père lui en donne 6 de plus. Combien de crayons a-t-elle maintenant ?",
+        "ar": "عند نورا 9 أقلام ويعطيها أبوها 6 أخرى. كم قلمًا عندها الآن؟"
+      },
+      "pista": {
+        "es": "Con 1 llegas al 10; luego suma los que quedan.",
+        "va": "Amb 1 arribes al 10; després suma els que queden.",
+        "en": "1 gets you to 10; then add the ones that are left.",
+        "fr": "Avec 1, tu arrives à 10 ; ensuite, ajoute ceux qui restent.",
+        "ar": "بواحد نصل إلى 10، ثم نضيف الباقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 + 6",
+        "resultado": 15,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 15 lápices: {{9 + 1 = 10}} y {{10 + 5 = 15}}.",
+          "va": "Té 15 llapis: {{9 + 1 = 10}} i {{10 + 5 = 15}}.",
+          "en": "She has 15 pencils: {{9 + 1 = 10}} and {{10 + 5 = 15}}.",
+          "fr": "Elle a 15 crayons : {{9 + 1 = 10}} et {{10 + 5 = 15}}.",
+          "ar": "عندها 15 قلمًا: {{9 + 1 = 10}} و{{10 + 5 = 15}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una suma que pase del 10, con cosas de tu estuche.",
+        "va": "Ara inventa'n tu una suma que passe del 10, amb coses del teu estoig.",
+        "en": "Now you make up an addition that goes past 10, with things from your pencil case.",
+        "fr": "Maintenant, invente une addition qui dépasse 10, avec des choses de ta trousse.",
+        "ar": "والآن لنخترع عملية جمع تتجاوز 10، بأشياء من المقلمة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En la caja hay 16 galletas. La familia de Mateo se come 7. ¿Cuántas galletas quedan?",
+        "va": "En la caixa hi ha 16 galetes. La família de Mateo se'n menja 7. Quantes galetes queden?",
+        "en": "There are 16 biscuits in the box. Mateo's family eats 7. How many biscuits are left?",
+        "fr": "Dans la boîte, il y a 16 biscuits. La famille de Mateo en mange 7. Combien de biscuits reste-t-il ?",
+        "ar": "في العلبة 16 بسكويتة. تأكل عائلة ماتيو 7. كم بسكويتة تبقى؟"
+      },
+      "pista": {
+        "es": "Quita primero 6 para llegar a 10, y luego 1 más.",
+        "va": "Lleva primer 6 per a arribar a 10, i després 1 més.",
+        "en": "First take away 6 to get to 10, then 1 more.",
+        "fr": "Enlève d'abord 6 pour arriver à 10, puis encore 1.",
+        "ar": "لننزع أولًا 6 لنصل إلى 10، ثم واحدة أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "16 - 7",
+        "resultado": 9,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 9 galletas: {{16 − 6 = 10}} y {{10 − 1 = 9}}.",
+          "va": "Queden 9 galetes: {{16 − 6 = 10}} i {{10 − 1 = 9}}.",
+          "en": "There are 9 biscuits left: {{16 − 6 = 10}} and {{10 − 1 = 9}}.",
+          "fr": "Il reste 9 biscuits : {{16 − 6 = 10}} et {{10 − 1 = 9}}.",
+          "ar": "تبقى 9 بسكويتات: {{16 − 6 = 10}} و{{10 − 1 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo que se come en tu casa.",
+        "va": "Inventa'n tu una altra amb alguna cosa que es menja a casa teua.",
+        "en": "Make up another one with something that gets eaten at your house.",
+        "fr": "Invente-en une autre avec quelque chose qu'on mange chez toi.",
+        "ar": "لنخترع سؤالًا آخر عن شيء يُؤكل في بيتنا."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "En la botella grande caben 8 vasos de agua y en la pequeña, 5. Para llenar las dos, ¿cuántos vasos usas?",
+        "va": "En la botella gran hi caben 8 gots d'aigua i en la xicoteta, 5. Per a omplir-les totes dues, quants gots uses?",
+        "en": "The big bottle holds 8 cups of water and the small one 5. To fill both, how many cups do you use?",
+        "fr": "La grande bouteille contient 8 verres d'eau et la petite, 5. Pour remplir les deux, combien de verres utilises-tu ?",
+        "ar": "القارورة الكبيرة تسع 8 أكواب من الماء والصغيرة 5. لملء القارورتين، كم كوبًا نستعمل؟"
+      },
+      "pista": {
+        "es": "Completa primero el 10 con 2 de los 5 vasos.",
+        "va": "Completa primer el 10 amb 2 dels 5 gots.",
+        "en": "First make 10 using 2 of the 5 cups.",
+        "fr": "Complète d'abord le 10 avec 2 des 5 verres.",
+        "ar": "لنكمل العشرة أولًا بكوبين من الأكواب الخمسة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 5",
+        "resultado": 13,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Usas 13 vasos de agua.",
+          "va": "Uses 13 gots d'aigua.",
+          "en": "You use 13 cups of water.",
+          "fr": "Tu utilises 13 verres d'eau.",
+          "ar": "نستعمل 13 كوبًا من الماء."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos recipientes y vasos de agua.",
+        "va": "Inventa'n tu una amb dos recipients i gots d'aigua.",
+        "en": "Make one up with two containers and cups of water.",
+        "fr": "Invente une question avec deux récipients et des verres d'eau.",
+        "ar": "لنخترع سؤالًا عن وعاءين وأكواب من الماء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 32,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: Iker encuentra 13 conchas en la playa y Sara, 8. ¿Cuántas conchas más tiene Iker?",
+        "va": "Per a recordar: Iker troba 13 petxines a la platja i Sara, 8. Quantes petxines més té Iker?",
+        "en": "Let's remember: Iker finds 13 shells on the beach and Sara finds 8. How many more shells does Iker have?",
+        "fr": "Pour se souvenir : Iker trouve 13 coquillages sur la plage et Sara, 8. Combien de coquillages de plus a Iker ?",
+        "ar": "لنتذكّر: يجد إيكر 13 صدفة على الشاطئ وتجد سارة 8. كم صدفة عند إيكر أكثر؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 8 hasta el 13.",
+        "va": "Compta amb els dits des del 8 fins al 13.",
+        "en": "Count on your fingers from 8 up to 13.",
+        "fr": "Compte sur tes doigts de 8 jusqu'à 13.",
+        "ar": "لنعدّ بالأصابع من 8 حتى 13."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "13 - 8",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Iker tiene 5 conchas más que Sara.",
+          "va": "Iker té 5 petxines més que Sara.",
+          "en": "Iker has 5 more shells than Sara.",
+          "fr": "Iker a 5 coquillages de plus que Sara.",
+          "ar": "عند إيكر 5 أصداف أكثر من سارة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con cosas que recogéis en un paseo.",
+        "va": "Inventa'n tu una altra amb coses que arreplegueu en un passeig.",
+        "en": "Make up another one with things you pick up on a walk.",
+        "fr": "Invente-en une autre avec des choses que vous ramassez en promenade.",
+        "ar": "لنخترع سؤالًا آخر عن أشياء نجمعها في نزهة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De las sumas y restas de estas semanas, ¿cuál te parece más fácil? Enséñame cómo la haces.",
+        "va": "De les sumes i restes d'aquestes setmanes, quina et sembla més fàcil? Ensenya'm com la fas.",
+        "en": "Of the additions and subtractions from these weeks, which one seems easiest to you? Show me how you do it.",
+        "fr": "Parmi les additions et les soustractions de ces semaines, laquelle te semble la plus facile ? Montre-moi comment tu la fais.",
+        "ar": "من بين عمليات الجمع والطرح في هذه الأسابيع، أيّها نراها الأسهل؟ لنُرِ كيف نقوم بها."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cómo sumarías 9 y 2 con los dedos?»",
+        "va": "Si no sap per on començar: «Com sumaries 9 i 2 amb els dits?»",
+        "en": "If they don't know where to start: “How would you add 9 and 2 on your fingers?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Comment tu additionnerais 9 et 2 avec tes doigts ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كيف نجمع 9 و2 بالأصابع؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "e3ea5d617a8d"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "e3ea5d617a8d"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "e3ea5d617a8d"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "e3ea5d617a8d"
+      }
+    }
+  }
+}

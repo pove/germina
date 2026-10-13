@@ -1,0 +1,352 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s35",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 35,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué número falta?",
+    "va": "Quin nombre falta?",
+    "en": "What number is missing?",
+    "fr": "Quel nombre manque-t-il ?",
+    "ar": "ما العدد الناقص؟"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren que el signo = quiere decir «vale lo mismo», como una balanza recta. Buscan el número que falta para que los dos lados sean iguales.",
+    "va": "Aquesta setmana descobrixen que el signe = vol dir «val el mateix», com una balança recta. Busquen el nombre que falta perquè els dos costats siguen iguals.",
+    "en": "This week they discover that the = sign means “is worth the same”, like a level balance. They look for the missing number so that both sides are equal (igual).",
+    "fr": "Cette semaine, on découvre que le signe = veut dire « vaut autant », comme une balance bien droite. On cherche le nombre qui manque pour que les deux côtés soient égaux (igual).",
+    "ar": "هذا الأسبوع يكتشف الأطفال أن إشارة = تعني «يساوي (igual)»، مثل ميزان مستوٍ. ويبحثون عن العدد الناقص حتى يتساوى الطرفان."
+  },
+  "comoAyudar": {
+    "es": "Antes de contar, pedid que diga cuántas cree que faltan, y luego comprobadlo juntos con la percha. Si no acierta, decid «casi» y probad de una en una.",
+    "va": "Abans de comptar, demaneu que diga quantes creu que en falten, i després comproveu-ho junts amb la penja-robes. Si no l'encerta, digueu «quasi» i proveu d'una en una.",
+    "en": "Before counting, ask how many they think are missing, and then check together with the hanger. If they don't get it, say “nearly” and try one at a time.",
+    "fr": "Avant de compter, demandez combien il en manque d'après votre enfant, puis vérifiez ensemble avec le cintre. Si ce n'est pas ça, dites « presque » et essayez une par une.",
+    "ar": "قبل العدّ، اسألوا كم يُظَنّ أنه ينقص، ثم تحقّقوا معًا بالشمّاعة. وإذا لم يكن التخمين صحيحًا، قولوا «تقريبًا» وجرّبوا واحدة واحدة."
+  },
+  "saberes": [
+    "matematicas.operaciones.igualdad",
+    "matematicas.computacional.igualdades"
+  ],
+  "criterios": [
+    "matematicas.c1.2.2",
+    "matematicas.c1.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La balanza de percha",
+      "va": "La balança de penja-robes",
+      "en": "The coat-hanger balance",
+      "fr": "La balance cintre",
+      "ar": "ميزان الشمّاعة"
+    },
+    "material": [
+      {
+        "es": "Una percha",
+        "va": "Una penja-robes",
+        "en": "A coat hanger",
+        "fr": "Un cintre",
+        "ar": "شمّاعة ملابس"
+      },
+      {
+        "es": "Dos bolsas pequeñas iguales, de papel o de tela",
+        "va": "Dues bosses menudes iguals, de paper o de tela",
+        "en": "Two small identical bags, paper or cloth",
+        "fr": "Deux petits sacs identiques, en papier ou en tissu",
+        "ar": "كيسان صغيران متماثلان، من الورق أو القماش"
+      },
+      {
+        "es": "Pinzas de la ropa iguales",
+        "va": "Pinces de la roba iguals",
+        "en": "Identical clothes pegs",
+        "fr": "Des pinces à linge identiques",
+        "ar": "ملاقط غسيل متماثلة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "balanza",
+        "texto": {
+          "es": "Colgad una bolsa en cada punta de la percha, y la percha, del pomo de una puerta.",
+          "va": "Pengeu una bossa en cada punta de la penja-robes, i la penja-robes, del pom d'una porta.",
+          "en": "Hang a bag on each end of the hanger, and hang the hanger on a door handle.",
+          "fr": "Accrochez un sac à chaque bout du cintre, et le cintre à une poignée de porte.",
+          "ar": "علّقوا كيسًا في كل طرف من طرفي الشمّاعة، وعلّقوا الشمّاعة في مقبض باب."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Meted 7 pinzas en una bolsa y 4 en la otra. ¿Hacia dónde se inclina la percha?",
+          "va": "Fiqueu 7 pinces en una bossa i 4 en l'altra. Cap a on s'inclina la penja-robes?",
+          "en": "Put 7 pegs in one bag and 4 in the other. Which way does the hanger tip?",
+          "fr": "Mettez 7 pinces dans un sac et 4 dans l'autre. De quel côté penche le cintre ?",
+          "ar": "ضعوا 7 ملاقط في كيس و4 في الآخر. إلى أيّ جهة تميل الشمّاعة؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "¿Cuántas pinzas faltan en la bolsa de 4 para que quede recta? Decidlo antes y luego probad, de una en una.",
+          "va": "Quantes pinces falten en la bossa de 4 perquè quede recta? Digueu-ho abans i després proveu, d'una en una.",
+          "en": "How many pegs are missing from the bag with 4 for it to hang level? Say it first, then try, one at a time.",
+          "fr": "Combien de pinces manque-t-il dans le sac de 4 pour que le cintre soit droit ? Dites-le avant, puis essayez, une par une.",
+          "ar": "كم ملقطًا ينقص في كيس الأربعة حتى تستوي الشمّاعة؟ قولوا العدد أولًا، ثم جرّبوا واحدًا واحدًا."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decidlo en voz alta: «4 y 3 son 7». Cambiad los números y que adivine otra persona.",
+          "va": "Digueu-ho en veu alta: «4 i 3 són 7». Canvieu els nombres i que ho endevine una altra persona.",
+          "en": "Say it out loud: “4 and 3 make 7”. Change the numbers and let someone else guess.",
+          "fr": "Dites-le à voix haute : « 4 et 3, ça fait 7 ». Changez les nombres et laissez une autre personne deviner.",
+          "ar": "قولوا بصوت عالٍ: «4 و3 تساوي 7». غيّروا الأعداد ودعوا شخصًا آخر يخمّن."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad como mucho 5 pinzas en cada bolsa.",
+      "va": "Feu servir com a molt 5 pinces en cada bossa.",
+      "en": "Use no more than 5 pegs in each bag.",
+      "fr": "Utilisez au plus 5 pinces dans chaque sac.",
+      "ar": "استعملوا 5 ملاقط على الأكثر في كل كيس."
+    },
+    "masDificil": {
+      "es": "En una bolsa, poned 5 pinzas y luego 4 más; en la otra, 6. ¿Cuántas faltan para que quede recta?",
+      "va": "En una bossa, poseu 5 pinces i després 4 més; en l'altra, 6. Quantes en falten perquè quede recta?",
+      "en": "In one bag, put 5 pegs and then 4 more; in the other, 6. How many are missing for it to hang level?",
+      "fr": "Dans un sac, mettez 5 pinces puis 4 de plus ; dans l'autre, 6. Combien en manque-t-il pour que le cintre soit droit ?",
+      "ar": "في كيس، ضعوا 5 ملاقط ثم 4 أخرى، وفي الآخر 6. كم ملقطًا ينقص حتى تستوي الشمّاعة؟"
+    },
+    "paraQueSirve": {
+      "es": "El signo = quiere decir que los dos lados valen lo mismo, como la percha recta. Buscar el número que falta ayuda a pensar las cuentas al revés.",
+      "va": "El signe = vol dir que els dos costats valen el mateix, com la penja-robes recta. Buscar el nombre que falta ajuda a pensar els comptes al revés.",
+      "en": "The = sign means both sides are worth the same, like the level hanger. Looking for the missing number helps you think about sums backwards.",
+      "fr": "Le signe = veut dire que les deux côtés valent autant, comme le cintre bien droit. Chercher le nombre qui manque aide à penser les calculs à l'envers.",
+      "ar": "إشارة = تعني أن الطرفين متساويان، مثل الشمّاعة المستوية. والبحث عن العدد الناقص يساعد على التفكير في الحساب بالعكس."
+    },
+    "aviso": {
+      "es": "Si usáis pinzas pequeñas o botones, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir pinces menudes o botons, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use small pegs or buttons, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de petites pinces ou des boutons, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم ملاقط صغيرة أو أزرارًا، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Wei tiene 40 cromos y quiere llegar a 60. ¿Cuántos le faltan?",
+        "va": "Wei té 40 cromos i vol arribar a 60. Quants li'n falten?",
+        "en": "Wei has 40 trading cards and wants to get to 60. How many more does he need?",
+        "fr": "Wei a 40 images à collectionner et veut arriver à 60. Combien lui en manque-t-il ?",
+        "ar": "عند وي 40 بطاقة ويريد أن يصل إلى 60. كم بطاقة تنقصه؟"
+      },
+      "pista": {
+        "es": "Cuenta de 10 en 10 desde el 40: 50, 60…",
+        "va": "Compta de 10 en 10 des del 40: 50, 60…",
+        "en": "Count in tens from 40: 50, 60…",
+        "fr": "Compte de 10 en 10 à partir de 40 : 50, 60…",
+        "ar": "لنعدّ عشرة عشرة من 40: 50، 60…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "60 - 40",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 20: {{40 + 20 = 60}}.",
+          "va": "Li'n falten 20: {{40 + 20 = 60}}.",
+          "en": "He needs 20 more: {{40 + 20 = 60}}.",
+          "fr": "Il lui en manque 20 : {{40 + 20 = 60}}.",
+          "ar": "تنقصه 20 بطاقة: {{40 + 20 = 60}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo que coleccionas o te gustaría coleccionar.",
+        "va": "Inventa'n tu una altra amb alguna cosa que col·lecciones o que t'agradaria col·leccionar.",
+        "en": "Make up another one with something you collect or would like to collect.",
+        "fr": "Invente-en une autre avec quelque chose que tu collectionnes ou que tu aimerais collectionner.",
+        "ar": "لنخترع سؤالًا آخر بشيء نجمعه أو نحبّ أن نجمعه."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el estuche de Lucía hay 12 lápices, rojos y azules. 5 son azules. ¿Cuántos son rojos?",
+        "va": "En l'estoig de Lucía hi ha 12 llapis, rojos i blaus. 5 són blaus. Quants en són rojos?",
+        "en": "In Lucía's pencil case there are 12 pencils, red and blue. 5 are blue. How many are red?",
+        "fr": "Dans la trousse de Lucía, il y a 12 crayons, rouges et bleus. 5 sont bleus. Combien sont rouges ?",
+        "ar": "في مقلمة لوسيا 12 قلمًا، حمراء وزرقاء. 5 منها زرقاء. كم قلمًا أحمر؟"
+      },
+      "pista": {
+        "es": "Piensa qué número junto al 5 hace 12.",
+        "va": "Pensa quin nombre amb el 5 fa 12.",
+        "en": "Think which number goes with 5 to make 12.",
+        "fr": "Cherche quel nombre avec 5 fait 12.",
+        "ar": "لنفكّر: أيّ عدد مع 5 يساوي 12؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 5",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 7 rojos: {{7 + 5 = 12}}.",
+          "va": "N'hi ha 7 de rojos: {{7 + 5 = 12}}.",
+          "en": "There are 7 red ones: {{7 + 5 = 12}}.",
+          "fr": "Il y en a 7 rouges : {{7 + 5 = 12}}.",
+          "ar": "هناك 7 أقلام حمراء: {{7 + 5 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos colores de algo que tengas en casa.",
+        "va": "Inventa'n tu una altra amb dos colors d'alguna cosa que tingues a casa.",
+        "en": "Make up another one with two colours of something you have at home.",
+        "fr": "Invente-en une autre avec deux couleurs de quelque chose que tu as à la maison.",
+        "ar": "لنخترع سؤالًا آخر بلونين من شيء عندنا في البيت."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En una bolsa de la percha hay 10 pinzas y 5 más. En la otra hay 9. ¿Cuántas faltan para que quede recta?",
+        "va": "En una bossa de la penja-robes hi ha 10 pinces i 5 més. En l'altra n'hi ha 9. Quantes en falten perquè quede recta?",
+        "en": "In one bag on the hanger there are 10 pegs and 5 more. In the other there are 9. How many are missing for it to hang level?",
+        "fr": "Dans un sac du cintre, il y a 10 pinces et 5 de plus. Dans l'autre, il y en a 9. Combien en manque-t-il pour que le cintre soit droit ?",
+        "ar": "في كيس من كيسَي الشمّاعة 10 ملاقط و5 أخرى. وفي الآخر 9. كم ملقطًا ينقص حتى تستوي الشمّاعة؟"
+      },
+      "pista": {
+        "es": "Mira primero cuántas hay en la primera bolsa y luego sigue contando desde el 9.",
+        "va": "Mira primer quantes n'hi ha en la primera bossa i després continua comptant des del 9.",
+        "en": "First see how many are in the first bag, then keep counting from 9.",
+        "fr": "Regarde d'abord combien il y en a dans le premier sac, puis continue à compter à partir de 9.",
+        "ar": "لننظر أولًا كم ملقطًا في الكيس الأول، ثم نتابع العدّ من 9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 5 - 9",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 6 pinzas: {{10 + 5 = 9 + 6}}.",
+          "va": "En falten 6: {{10 + 5 = 9 + 6}}.",
+          "en": "6 pegs are missing: {{10 + 5 = 9 + 6}}.",
+          "fr": "Il manque 6 pinces : {{10 + 5 = 9 + 6}}.",
+          "ar": "تنقص 6 ملاقط: {{10 + 5 = 9 + 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra para la percha, con dos montones en un lado.",
+        "va": "Inventa'n tu una altra per a la penja-robes, amb dos munts en un costat.",
+        "en": "Make up another one for the hanger, with two piles on one side.",
+        "fr": "Invente-en une autre pour le cintre, avec deux tas d'un côté.",
+        "ar": "لنخترع سؤالًا آخر للشمّاعة، بكومتين في جهة واحدة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 32,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar el calendario: hoy es día 10 y la excursión es el día 17. ¿Cuántos días faltan?",
+        "va": "Per a recordar el calendari: hui és dia 10 i l'excursió és el dia 17. Quants dies falten?",
+        "en": "Let's remember the calendar: today is the 10th and the school trip is on the 17th. How many days are left?",
+        "fr": "Pour se souvenir du calendrier : aujourd'hui, on est le 10 et la sortie est le 17. Combien de jours reste-t-il ?",
+        "ar": "لنتذكّر التقويم: اليوم هو يوم 10، والرحلة يوم 17. كم يومًا بقي؟"
+      },
+      "pista": {
+        "es": "Busca el 10 en un calendario y cuenta con el dedo hasta el 17.",
+        "va": "Busca el 10 en un calendari i compta amb el dit fins al 17.",
+        "en": "Find the 10th on a calendar and count with your finger up to the 17th.",
+        "fr": "Cherche le 10 sur un calendrier et compte avec le doigt jusqu'au 17.",
+        "ar": "لنبحث عن يوم 10 في التقويم ونعدّ بالإصبع حتى يوم 17."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "17 - 10",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 7 días: una semana justa.",
+          "va": "Falten 7 dies: una setmana justa.",
+          "en": "There are 7 days left: exactly one week.",
+          "fr": "Il reste 7 jours : une semaine pile.",
+          "ar": "بقيت 7 أيام: أسبوع كامل."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el día de hoy y una fecha que esperas.",
+        "va": "Inventa'n tu una altra amb el dia de hui i una data que esperes.",
+        "en": "Make up another one with today's date and a date you're waiting for.",
+        "fr": "Invente-en une autre avec la date d'aujourd'hui et une date que tu attends.",
+        "ar": "لنخترع سؤالًا آخر بتاريخ اليوم وتاريخ ننتظره."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Con la percha, ¿cómo sabías cuántas pinzas faltaban? Enséñamelo con pinzas o con los dedos.",
+        "va": "Amb la penja-robes, com sabies quantes pinces faltaven? Ensenya-m'ho amb pinces o amb els dits.",
+        "en": "With the hanger, how did you know how many pegs were missing? Show me with pegs or with your fingers.",
+        "fr": "Avec le cintre, comment savais-tu combien de pinces manquaient ? Montre-le-moi avec des pinces ou avec tes doigts.",
+        "ar": "مع الشمّاعة، كيف عرفنا كم ملقطًا ينقص؟ لنُرِ ذلك بالملاقط أو بالأصابع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Contaste desde el número pequeño hasta el grande?»",
+        "va": "Si no sap per on començar: «Vas comptar des del nombre xicotet fins al gran?»",
+        "en": "If they don't know where to start: “Did you count from the small number up to the big one?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu as compté du petit nombre jusqu'au grand ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل عددنا من العدد الصغير حتى الكبير؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Hay varias maneras: seguir contando, quitar o probar de una en una. Todas valen; preguntad «¿y cómo lo comprobaste?».",
+          "va": "Hi ha diverses maneres: continuar comptant, llevar o provar d'una en una. Totes valen; pregunteu «i com ho vas comprovar?».",
+          "en": "There are several ways: counting on, taking away or trying one at a time. They all work; ask “And how did you check?”.",
+          "fr": "Il y a plusieurs façons : continuer à compter, enlever ou essayer une par une. Toutes conviennent ; demandez « Et comment as-tu vérifié ? ».",
+          "ar": "هناك طرق عدّة: متابعة العدّ، أو الطرح، أو التجريب واحدًا واحدًا. كلها صحيحة؛ اسألوا «وكيف تحقّقنا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "122353bff223"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "122353bff223"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "122353bff223"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "122353bff223"
+      }
+    }
+  }
+}

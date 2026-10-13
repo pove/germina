@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s32",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 32,
+  "tipo": "tema",
+  "titulo": {
+    "es": "El calendario",
+    "va": "El calendari",
+    "en": "The calendar",
+    "fr": "Le calendrier",
+    "ar": "التقويم"
+  },
+  "objetivo": {
+    "es": "Esta semana miran el calendario: los días de la semana, las semanas y los meses. Buscan los cumpleaños de la familia y cuentan cuánto falta para el próximo.",
+    "va": "Aquesta setmana miren el calendari (calendario): els dies de la setmana, les setmanes i els mesos. Busquen els aniversaris de la família i compten quant falta per al pròxim.",
+    "en": "This week they look at the calendar (calendario): the days of the week, the weeks and the months. They find the family's birthdays and count how long it is until the next one.",
+    "fr": "Cette semaine, on regarde le calendrier (calendario) : les jours de la semaine, les semaines et les mois. On cherche les anniversaires de la famille et on compte combien de temps il reste jusqu'au prochain.",
+    "ar": "هذا الأسبوع ينظر الأطفال إلى التقويم (calendario): أيام الأسبوع، والأسابيع، والشهور. ويبحثون عن أعياد ميلاد أفراد العائلة، ويعدّون كم بقي حتى أقربها."
+  },
+  "comoAyudar": {
+    "es": "Tened el calendario a la vista toda la semana y, cada mañana, buscad juntos qué día es. Para contar semanas, pasad el dedo fila a fila.",
+    "va": "Tingueu el calendari a la vista tota la setmana i, cada matí, busqueu junts quin dia és. Per a comptar setmanes, passeu el dit fila a fila.",
+    "en": "Keep the calendar where you can see it all week and, every morning, find today's date together. To count weeks, run a finger along it row by row.",
+    "fr": "Gardez le calendrier en vue toute la semaine et, chaque matin, cherchez ensemble quel jour on est. Pour compter les semaines, passez le doigt ligne par ligne.",
+    "ar": "ضعوا التقويم في مكان ظاهر طوال الأسبوع، وابحثوا معًا كل صباح عن تاريخ اليوم. ولعدّ الأسابيع، مرّروا الإصبع صفًا بعد صف."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.numeros.usos-sociales"
+  ],
+  "criterios": [
+    "matematicas.c1.7.1",
+    "matematicas.c1.6.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Los cumpleaños de la familia",
+      "va": "Els aniversaris de la família",
+      "en": "The family's birthdays",
+      "fr": "Les anniversaires de la famille",
+      "ar": "أعياد ميلاد العائلة"
+    },
+    "material": [
+      {
+        "es": "Un calendario de papel de este año",
+        "va": "Un calendari de paper d'enguany",
+        "en": "A paper calendar for this year",
+        "fr": "Un calendrier en papier de cette année",
+        "ar": "تقويم ورقي لهذه السنة"
+      },
+      {
+        "es": "Lápices de colores o pegatinas para marcar",
+        "va": "Llapis de colors o adhesius per a marcar",
+        "en": "Coloured pencils or stickers for marking",
+        "fr": "Des crayons de couleur ou des autocollants pour marquer",
+        "ar": "أقلام ملوّنة أو ملصقات لوضع علامات"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "calendario",
+        "texto": {
+          "es": "Buscad en el calendario el día de hoy y marcadlo con un dibujo.",
+          "va": "Busqueu en el calendari el dia de hui i marqueu-lo amb un dibuix.",
+          "en": "Find today in the calendar and mark it with a drawing.",
+          "fr": "Cherchez aujourd'hui sur le calendrier et marquez-le avec un dessin.",
+          "ar": "ابحثوا في التقويم عن تاريخ اليوم وضعوا عليه رسمًا."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decid los cumpleaños de la familia y buscad cada uno en su mes. Marcadlos con un color.",
+          "va": "Digueu els aniversaris de la família i busqueu cada un en el seu mes. Marqueu-los amb un color.",
+          "en": "Say the family's birthdays and find each one in its month. Mark them with a colour.",
+          "fr": "Dites les anniversaires de la famille et cherchez chacun dans son mois. Marquez-les d'une couleur.",
+          "ar": "قولوا أعياد ميلاد أفراد العائلة، وابحثوا عن كل واحد في شهره. ضعوا عليها علامة بلون."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "¿Cuál es el próximo? Contad con el dedo cuántas semanas faltan, fila a fila.",
+          "va": "Quin és el pròxim? Compteu amb el dit quantes setmanes falten, fila a fila.",
+          "en": "Which one is next? Count with your finger how many weeks to go, row by row.",
+          "fr": "Lequel est le prochain ? Comptez avec le doigt combien de semaines il reste, ligne par ligne.",
+          "ar": "أيّها الأقرب؟ عدّوا بالإصبع كم أسبوعًا بقي، صفًا بعد صف."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad también los meses: ¿qué cumpleaños queda más lejos?",
+          "va": "Mireu també els mesos: quin aniversari queda més lluny?",
+          "en": "Look at the months too: which birthday is furthest away?",
+          "fr": "Regardez aussi les mois : quel anniversaire est le plus loin ?",
+          "ar": "انظروا أيضًا إلى الشهور: أيّ عيد ميلاد هو الأبعد؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Contad solo los días que faltan para el domingo, o para un cumpleaños de este mes.",
+      "va": "Compteu només els dies que falten per a diumenge, o per a un aniversari d'este mes.",
+      "en": "Just count the days until Sunday, or until a birthday this month.",
+      "fr": "Comptez seulement les jours jusqu'à dimanche, ou jusqu'à un anniversaire de ce mois-ci.",
+      "ar": "عدّوا فقط الأيام الباقية حتى يوم الأحد، أو حتى عيد ميلاد في هذا الشهر."
+    },
+    "masDificil": {
+      "es": "Contad los meses que faltan para cada cumpleaños y ordenadlos del más cercano al más lejano.",
+      "va": "Compteu els mesos que falten per a cada aniversari i ordeneu-los del més pròxim al més llunyà.",
+      "en": "Count the months until each birthday and put them in order from nearest to furthest.",
+      "fr": "Comptez les mois qui restent avant chaque anniversaire et rangez-les du plus proche au plus lointain.",
+      "ar": "عدّوا الشهور الباقية حتى كل عيد ميلاد، ورتّبوها من الأقرب إلى الأبعد."
+    },
+    "paraQueSirve": {
+      "es": "El calendario ordena el tiempo en días, semanas y meses. Contar lo que falta ayuda a esperar con números.",
+      "va": "El calendari ordena el temps en dies, setmanes i mesos. Comptar el que falta ajuda a esperar amb nombres.",
+      "en": "The calendar puts time in order in days, weeks and months. Counting how long is left helps you wait with numbers.",
+      "fr": "Le calendrier range le temps en jours, semaines et mois. Compter ce qui reste aide à attendre avec des nombres.",
+      "ar": "التقويم يرتّب الوقت في أيام وأسابيع وشهور. وعدّ ما بقي يساعد على الانتظار بالأعداد."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Una semana tiene 7 días. ¿Cuántos días son 2 semanas?",
+        "va": "Una setmana té 7 dies. Quants dies són 2 setmanes?",
+        "en": "A week has 7 days. How many days are 2 weeks?",
+        "fr": "Une semaine a 7 jours. Combien de jours font 2 semaines ?",
+        "ar": "في الأسبوع 7 أيام. كم يومًا في أسبوعين؟"
+      },
+      "pista": {
+        "es": "Cuenta dos filas del calendario, día a día.",
+        "va": "Compta dues files del calendari, dia a dia.",
+        "en": "Count two rows of the calendar, day by day.",
+        "fr": "Compte deux lignes du calendrier, jour après jour.",
+        "ar": "لنعدّ صفّين من التقويم، يومًا بعد يوم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 7",
+        "resultado": 14,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 14 días: {{7 + 7 = 14}}.",
+          "va": "Són 14 dies: {{7 + 7 = 14}}.",
+          "en": "That's 14 days: {{7 + 7 = 14}}.",
+          "fr": "Ça fait 14 jours : {{7 + 7 = 14}}.",
+          "ar": "إنها 14 يومًا: {{7 + 7 = 14}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las semanas que faltan para algo que te apetece.",
+        "va": "Inventa'n tu una altra amb les setmanes que falten per a alguna cosa que et ve de gust.",
+        "en": "Make up another one with the weeks left until something you're looking forward to.",
+        "fr": "Invente-en une autre avec les semaines qui restent avant quelque chose dont tu as envie.",
+        "ar": "لنخترع سؤالًا آخر بعدد الأسابيع الباقية حتى شيء ننتظره."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Hoy es lunes. El cumpleaños de Ion es el jueves. ¿Cuántos días faltan?",
+        "va": "Hui és dilluns. L'aniversari d'Ion és dijous. Quants dies falten?",
+        "en": "Today is Monday. Ion's birthday is on Thursday. How many days are left?",
+        "fr": "Aujourd'hui, c'est lundi. L'anniversaire d'Ion est jeudi. Combien de jours reste-t-il ?",
+        "ar": "اليوم الاثنين. عيد ميلاد يون يوم الخميس. كم يومًا بقي؟"
+      },
+      "pista": {
+        "es": "Di los días desde el martes y levanta un dedo por cada uno, hasta el jueves.",
+        "va": "Digues els dies des de dimarts i alça un dit per cada un, fins a dijous.",
+        "en": "Say the days starting from Tuesday and hold up a finger for each one, up to Thursday.",
+        "fr": "Dis les jours à partir de mardi et lève un doigt pour chacun, jusqu'à jeudi.",
+        "ar": "لنقل الأيام بدءًا من الثلاثاء ونرفع إصبعًا لكل يوم، حتى الخميس."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "1 + 1 + 1",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 3 días: martes, miércoles y jueves.",
+          "va": "Falten 3 dies: dimarts, dimecres i dijous.",
+          "en": "There are 3 days left: Tuesday, Wednesday and Thursday.",
+          "fr": "Il reste 3 jours : mardi, mercredi et jeudi.",
+          "ar": "بقيت 3 أيام: الثلاثاء والأربعاء والخميس."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con el día de hoy y un día especial de esta semana.",
+        "va": "Inventa'n tu una altra amb el dia de hui i un dia especial d'esta setmana.",
+        "en": "Make up another one with today and a special day this week.",
+        "fr": "Invente-en une autre avec aujourd'hui et un jour spécial de cette semaine.",
+        "ar": "لنخترع سؤالًا آخر باليوم ويوم مميّز في هذا الأسبوع."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Fátima cumple años en mayo y su padre, en agosto. ¿Cuántos meses van de mayo a agosto?",
+        "va": "Fátima fa anys al maig i son pare, a l'agost. Quants mesos van de maig a agost?",
+        "en": "Fátima's birthday is in May and her dad's is in August. How many months is it from May to August?",
+        "fr": "L'anniversaire de Fátima est en mai et celui de son papa en août. Combien de mois y a-t-il de mai à août ?",
+        "ar": "عيد ميلاد فاطمة في مايو، وعيد ميلاد أبيها في أغسطس. كم شهرًا من مايو إلى أغسطس؟"
+      },
+      "pista": {
+        "es": "Di los meses desde mayo y levanta un dedo en junio, julio y agosto.",
+        "va": "Digues els mesos des de maig i alça un dit en juny, juliol i agost.",
+        "en": "Say the months from May and hold up a finger for June, July and August.",
+        "fr": "Dis les mois à partir de mai et lève un doigt pour juin, juillet et août.",
+        "ar": "لنقل الشهور من مايو ونرفع إصبعًا عند يونيو ويوليو وأغسطس."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 - 5",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 3 meses: junio, julio y agosto.",
+          "va": "Hi ha 3 mesos: juny, juliol i agost.",
+          "en": "It's 3 months: June, July and August.",
+          "fr": "Il y a 3 mois : juin, juillet et août.",
+          "ar": "إنها 3 شهور: يونيو ويوليو وأغسطس."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos cumpleaños de tu familia.",
+        "va": "Inventa'n tu una altra amb dos aniversaris de la teua família.",
+        "en": "Make up another one with two birthdays in your family.",
+        "fr": "Invente-en une autre avec deux anniversaires de ta famille.",
+        "ar": "لنخترع سؤالًا آخر بعيدَي ميلاد في عائلتنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 10,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar la hora: Darío empieza a jugar a las 5 en punto y para a las 6 menos cuarto. ¿Cuántos minutos juega?",
+        "va": "Per a recordar l'hora: Darío comença a jugar a les 5 en punt i para a les 6 menys quart. Quants minuts juga?",
+        "en": "Let's remember telling the time: Darío starts playing at 5 o'clock and stops at quarter to 6. How many minutes does he play?",
+        "fr": "Pour se souvenir de l'heure : Darío commence à jouer à 5 heures pile et s'arrête à 6 heures moins le quart. Combien de minutes joue-t-il ?",
+        "ar": "لنتذكّر الساعة: يبدأ داريو اللعب في الساعة 5 تمامًا ويتوقّف في الساعة 6 إلا ربعًا. كم دقيقة يلعب؟"
+      },
+      "pista": {
+        "es": "Mueve la aguja larga de cuarto en cuarto: cada cuarto son 15 minutos.",
+        "va": "Mou l'agulla llarga de quart en quart: cada quart són 15 minuts.",
+        "en": "Move the long hand a quarter at a time: each quarter is 15 minutes.",
+        "fr": "Avance la grande aiguille quart par quart : chaque quart, c'est 15 minutes.",
+        "ar": "لنحرّك العقرب الطويل ربعًا بعد ربع: كل ربع 15 دقيقة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 + 15 + 15",
+        "resultado": 45,
+        "unidad": "min",
+        "texto": {
+          "es": "De 5:00 a 5:45 juega 45 minutos: {{15 + 15 + 15 = 45}}.",
+          "va": "De 5:00 a 5:45 juga 45 minuts: {{15 + 15 + 15 = 45}}.",
+          "en": "From 5:00 to 5:45 he plays for 45 minutes: {{15 + 15 + 15 = 45}}.",
+          "fr": "De 5:00 à 5:45, il joue 45 minutes : {{15 + 15 + 15 = 45}}.",
+          "ar": "من 5:00 إلى 5:45 يلعب 45 دقيقة: {{15 + 15 + 15 = 45}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la hora a la que empieza y acaba algo que hacéis en casa.",
+        "va": "Inventa'n tu una altra amb l'hora en què comença i acaba alguna cosa que feu a casa.",
+        "en": "Make up another one with the time something you do at home starts and ends.",
+        "fr": "Invente-en une autre avec l'heure où commence et finit quelque chose que vous faites à la maison.",
+        "ar": "لنخترع سؤالًا آخر بساعة بداية ونهاية شيء نفعله في البيت."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Enséñame en el calendario cuántos días faltan para el sábado. ¿Cómo los has contado?",
+        "va": "Ensenya'm en el calendari quants dies falten per a dissabte. Com els has comptat?",
+        "en": "Show me on the calendar how many days are left until Saturday. How did you count them?",
+        "fr": "Montre-moi sur le calendrier combien de jours il reste jusqu'à samedi. Comment les as-tu comptés ?",
+        "ar": "لنُرِ في التقويم كم يومًا بقي حتى السبت. كيف عددناها؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Dónde está hoy? ¿Y el sábado?»",
+        "va": "Si no sap per on començar: «On és hui? I dissabte?»",
+        "en": "If they don't know where to start: “Where is today? And Saturday?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Où est aujourd'hui ? Et samedi ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «أين اليوم؟ وأين السبت؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede contar el día de hoy o no: si os sale un número distinto, hablad de desde dónde empezáis a contar. Lo importante es que lo explique.",
+          "va": "Pot comptar el dia de hui o no: si vos ix un nombre diferent, parleu de des d'on comenceu a comptar. El que importa és que ho explique.",
+          "en": "They may count today or not: if you get different numbers, talk about where you start counting from. What matters is that they explain it.",
+          "fr": "Votre enfant peut compter aujourd'hui ou non : si vous trouvez un nombre différent, parlez de l'endroit d'où vous commencez à compter. L'important, c'est l'explication.",
+          "ar": "قد يُحسب اليوم أو لا يُحسب: إذا خرج عدد مختلف، تحدّثوا عن اليوم الذي نبدأ منه العدّ. المهمّ هو الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "9a3470e3e7ef"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "9a3470e3e7ef"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "9a3470e3e7ef"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "9a3470e3e7ef"
+      }
+    }
+  }
+}

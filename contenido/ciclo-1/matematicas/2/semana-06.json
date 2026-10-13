@@ -1,0 +1,346 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s06",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 6,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: números y sumas",
+    "va": "Setmana de recordar: nombres i sumes",
+    "en": "Remembering week: numbers and additions",
+    "fr": "Semaine pour se souvenir : nombres et additions",
+    "ar": "أسبوع التذكّر: الأعداد والجمع"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las cinco primeras semanas: decenas y centenas, comparar números y sumar llevándose una.",
+    "va": "Aquesta setmana tornen al de les cinc primeres setmanes: desenes (decenas) i centenes (centenas), comparar nombres i sumar portant-se'n una.",
+    "en": "This week they go back to the first five weeks: tens (decenas) and hundreds (centenas), comparing numbers and adding with carrying (llevada).",
+    "fr": "Cette semaine, on revient sur les cinq premières semaines : dizaines (decenas) et centaines (centenas), comparer des nombres et additionner avec retenue (llevada).",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الخمسة الأولى: العشرات (decenas) والمئات (centenas)، ومقارنة الأعداد، والجمع مع الاحتفاظ (llevada)."
+  },
+  "comoAyudar": {
+    "es": "Si algo cuesta, volved a las legumbres y los vasos, sin prisa. Preguntad «¿cómo lo has pensado?» tanto si sale como si no.",
+    "va": "Si alguna cosa costa, torneu als llegums i als gots, sense pressa. Pregunteu «com ho has pensat?» tant si ix com si no.",
+    "en": "If something is tricky, go back to the beans and cups, with no rush. Ask “How did you work it out?” whether it comes out right or not.",
+    "fr": "Si quelque chose coince, revenez aux haricots et aux verres, sans vous presser. Demandez « Comment tu as réfléchi ? », que ça marche ou non.",
+    "ar": "إذا صعُب شيء، فعودوا إلى البقول والأكواب من دون استعجال. اسألوا «كيف فكّرت؟» سواء خرجت النتيجة أم لا."
+  },
+  "saberes": [
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Al 100 con dados",
+      "va": "Al 100 amb daus",
+      "en": "Race to 100 with dice",
+      "fr": "Jusqu'à 100 avec les dés",
+      "ar": "إلى 100 بالنرد"
+    },
+    "material": [
+      {
+        "es": "2 dados",
+        "va": "2 daus",
+        "en": "2 dice",
+        "fr": "2 dés",
+        "ar": "حجرا نرد"
+      },
+      {
+        "es": "Legumbres secas y unos 10 vasos pequeños por jugador o jugadora",
+        "va": "Llegums secs i uns 10 gots menuts per jugador o jugadora",
+        "en": "Dried beans and about 10 small cups for each player",
+        "fr": "Des légumes secs et environ 10 petits verres par joueur ou joueuse",
+        "ar": "بقول جافة ونحو 10 أكواب صغيرة لكل لاعب أو لاعبة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Por turnos, tirad los dos dados y sumad los puntos. Contarlos con el dedo está bien.",
+          "va": "Per torns, tireu els dos daus i sumeu els punts. Comptar-los amb el dit està bé.",
+          "en": "Take turns to roll both dice and add up the dots. Counting them with a finger is fine.",
+          "fr": "Chacun son tour, lancez les deux dés et additionnez les points. Les compter avec le doigt, c'est bien.",
+          "ar": "بالتناوب، ارموا حجري النرد واجمعوا النقاط. عدّها بالإصبع أمر جيّد."
+        }
+      },
+      {
+        "pictograma": "legumbres",
+        "texto": {
+          "es": "Coged tantas legumbres como puntos. Cuando tengáis 10 sueltas, metedlas en un vaso.",
+          "va": "Agafeu tants llegums com punts. Quan tingueu 10 solts, poseu-los en un got.",
+          "en": "Take as many beans as dots. When you have 10 loose ones, put them in a cup.",
+          "fr": "Prenez autant de haricots que de points. Quand vous en avez 10 tout seuls, mettez-les dans un verre.",
+          "ar": "خذوا من البقول بعدد النقاط. وعندما تصير عندكم 10 حبات منفردة، ضعوها في كوب."
+        }
+      },
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "Antes de cada tirada, decid cuántas lleváis: 3 vasos y 4 sueltas son 34.",
+          "va": "Abans de cada tirada, digueu quants en porteu: 3 gots i 4 solts són 34.",
+          "en": "Before each roll, say how many you have: 3 cups and 4 loose beans make 34.",
+          "fr": "Avant chaque lancer, dites combien vous en avez : 3 verres et 4 haricots tout seuls, ça fait 34.",
+          "ar": "قبل كل رمية، قولوا كم حبة عندكم: 3 أكواب و4 حبات منفردة تساوي 34."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "¿Quién llega antes a 100, es decir, a 10 vasos? Comparad los montones: ¿quién va por delante?",
+          "va": "Qui arriba abans a 100, és a dir, a 10 gots? Compareu els munts: qui va per davant?",
+          "en": "Who gets to 100, that is, 10 cups, first? Compare the piles: who is ahead?",
+          "fr": "Qui arrive le premier à 100, c'est-à-dire à 10 verres ? Comparez les tas : qui est en tête ?",
+          "ar": "من يصل أولًا إلى 100، أي إلى 10 أكواب؟ قارنوا الأكوام: من في المقدّمة؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad hasta 50, con un solo dado.",
+      "va": "Jugueu fins a 50, amb un sol dau.",
+      "en": "Play up to 50, with just one dice.",
+      "fr": "Jouez jusqu'à 50, avec un seul dé.",
+      "ar": "العبوا حتى 50، بحجر نرد واحد."
+    },
+    "masDificil": {
+      "es": "Antes de tirar, decid cuánto os falta para llegar a 100.",
+      "va": "Abans de tirar, digueu quant vos falta per a arribar a 100.",
+      "en": "Before rolling, say how many are missing to reach 100.",
+      "fr": "Avant de lancer, dites combien il vous manque pour arriver à 100.",
+      "ar": "قبل الرمي، قولوا كم ينقصكم للوصول إلى 100."
+    },
+    "paraQueSirve": {
+      "es": "Volver a lo de otras semanas jugando ayuda a que no se olvide, y este juego lo junta todo: contar, sumar, llevarse una y comparar.",
+      "va": "Tornar al d'altres setmanes jugant ajuda que no s'oblide, i aquest joc ho ajunta tot: comptar, sumar, portar-se'n una i comparar.",
+      "en": "Going back to other weeks through play helps it stick, and this game brings it all together: counting, adding, carrying and comparing.",
+      "fr": "Revenir en jouant sur les autres semaines aide à ne pas oublier, et ce jeu rassemble tout : compter, additionner, retenir et comparer.",
+      "ar": "العودة إلى ما تعلّمناه في أسابيع أخرى باللعب تساعد على عدم النسيان، وهذه اللعبة تجمع كل شيء: العدّ والجمع والاحتفاظ والمقارنة."
+    },
+    "aviso": {
+      "es": "Guardad las legumbres lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu els llegums lluny de germans o germanes menuts.",
+      "en": "Keep the beans away from younger brothers and sisters.",
+      "fr": "Gardez les haricots loin des petits frères et sœurs.",
+      "ar": "أبعدوا البقول عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "La abuela de Aisha guarda 2 cajas de 100 botones, 4 bolsitas de 10 y 7 sueltos. ¿Cuántos botones tiene?",
+        "va": "L'àvia d'Aisha guarda 2 caixes de 100 botons, 4 bossetes de 10 i 7 de solts. Quants botons té?",
+        "en": "Aisha's grandma keeps 2 boxes of 100 buttons, 4 little bags of 10 and 7 loose ones. How many buttons does she have?",
+        "fr": "La grand-mère d'Aisha garde 2 boîtes de 100 boutons, 4 petits sacs de 10 et 7 boutons tout seuls. Combien de boutons a-t-elle ?",
+        "ar": "تحتفظ جدّة عائشة بعلبتين في كل منهما 100 زر، و4 أكياس صغيرة في كل منها 10، و7 أزرار منفردة. كم زرًا عندها؟"
+      },
+      "pista": {
+        "es": "Di primero las centenas, luego las decenas y al final las unidades.",
+        "va": "Digues primer les centenes, després les desenes i al final les unitats.",
+        "en": "Say the hundreds first, then the tens and finally the ones.",
+        "fr": "Dis d'abord les centaines, puis les dizaines et enfin les unités.",
+        "ar": "لنقل المئات أولًا، ثم العشرات، وفي النهاية الآحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "200 + 40 + 7",
+        "resultado": 247,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 247 botones.",
+          "va": "Té 247 botons.",
+          "en": "She has 247 buttons.",
+          "fr": "Elle a 247 boutons.",
+          "ar": "عندها 247 زرًا."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con cajas de 100, bolsas de 10 y cosas sueltas.",
+        "va": "Ara inventa'n tu una amb caixes de 100, bosses de 10 i coses soltes.",
+        "en": "Now you make one up with boxes of 100, bags of 10 and loose things.",
+        "fr": "Maintenant, invente une question avec des boîtes de 100, des sacs de 10 et des choses toutes seules.",
+        "ar": "والآن لنخترع سؤالًا بعلب فيها 100، وأكياس فيها 10، وأشياء منفردة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Ion tiene 37 coches de juguete y su tío le da 18. ¿Cuántos coches tiene ahora?",
+        "va": "Ion té 37 cotxes de joguet i el seu tio li'n dona 18. Quants cotxes té ara?",
+        "en": "Ion has 37 toy cars and his uncle gives him 18. How many cars does he have now?",
+        "fr": "Ion a 37 petites voitures et son oncle lui en donne 18. Combien de voitures a-t-il maintenant ?",
+        "ar": "عند إيون 37 سيارة لعبة، وأعطاه خاله 18 سيارة. كم سيارة عنده الآن؟"
+      },
+      "pista": {
+        "es": "7 y 8 son 15: con 10 de ellas haces una decena más.",
+        "va": "7 i 8 són 15: amb 10 d'ells fas una desena més.",
+        "en": "7 and 8 make 15: with 10 of them you make one more ten.",
+        "fr": "7 et 8, ça fait 15 : avec 10 d'entre elles, tu fais une dizaine de plus.",
+        "ar": "7 و8 تساوي 15: بعشرة منها نكوّن عشرة إضافية."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "37 + 18",
+        "resultado": 55,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 55 coches: {{37 + 18 = 55}}.",
+          "va": "Té 55 cotxes: {{37 + 18 = 55}}.",
+          "en": "He has 55 cars: {{37 + 18 = 55}}.",
+          "fr": "Il a 55 voitures : {{37 + 18 = 55}}.",
+          "ar": "عنده 55 سيارة: {{37 + 18 = 55}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con juguetes en la que te lleves una.",
+        "va": "Inventa'n tu una altra amb joguets en què te'n portes una.",
+        "en": "Make up another one with toys where you carry one.",
+        "fr": "Invente-en une autre avec des jouets où il y a une retenue.",
+        "ar": "لنخترع سؤالًا آخر عن الألعاب نحتفظ فيه بواحد."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En un bote hay 68 pinzas y Sara usa 25 para tender la ropa. ¿Cuántas quedan en el bote?",
+        "va": "En un pot hi ha 68 pinces i Sara n'utilitza 25 per a estendre la roba. Quantes en queden en el pot?",
+        "en": "There are 68 clothes pegs in a tub and Sara uses 25 to hang out the washing. How many are left in the tub?",
+        "fr": "Dans une boîte, il y a 68 pinces à linge et Sara en utilise 25 pour étendre le linge. Combien en reste-t-il dans la boîte ?",
+        "ar": "في علبة 68 ملقط غسيل، واستعملت سارة 25 منها لنشر الغسيل. كم ملقطًا بقي في العلبة؟"
+      },
+      "pista": {
+        "es": "Quita primero las decenas y luego las unidades.",
+        "va": "Lleva primer les desenes i després les unitats.",
+        "en": "Take away the tens first and then the ones.",
+        "fr": "Enlève d'abord les dizaines, puis les unités.",
+        "ar": "لننزع العشرات أولًا، ثم الآحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "68 - 25",
+        "resultado": 43,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 43 pinzas.",
+          "va": "En queden 43.",
+          "en": "There are 43 pegs left.",
+          "fr": "Il en reste 43.",
+          "ar": "بقي 43 ملقطًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se usan cosas de casa y quedan menos.",
+        "va": "Inventa'n tu una en què es fan servir coses de casa i en queden menys.",
+        "en": "Make one up where things from home get used and fewer are left.",
+        "fr": "Invente une question où l'on utilise des choses de la maison et où il en reste moins.",
+        "ar": "لنخترع سؤالًا نستعمل فيه أشياء من البيت فيبقى منها أقل."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 3,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: ¿qué número es una decena más que 390?",
+        "va": "Per a recordar: quin nombre és una desena més que 390?",
+        "en": "Let's remember: what number is one ten more than 390?",
+        "fr": "Pour se souvenir : quel nombre fait une dizaine de plus que 390 ?",
+        "ar": "لنتذكّر: ما العدد الذي يزيد عشرة على 390؟"
+      },
+      "pista": {
+        "es": "390 son 39 decenas; añade una y piensa qué pasa con las centenas.",
+        "va": "390 són 39 desenes; afegix-ne una i pensa què passa amb les centenes.",
+        "en": "390 is 39 tens; add one more and think about what happens to the hundreds.",
+        "fr": "390, c'est 39 dizaines ; ajoutes-en une et pense à ce qui arrive aux centaines.",
+        "ar": "390 هي 39 عشرة؛ لنضف عشرة ونفكّر ماذا يحدث للمئات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "390 + 10",
+        "resultado": 400,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es 400: 4 centenas justas.",
+          "va": "És 400: 4 centenes justes.",
+          "en": "It's 400: exactly 4 hundreds.",
+          "fr": "C'est 400 : 4 centaines tout juste.",
+          "ar": "إنه 400: 4 مئات بالضبط."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: elige un número y di cuál es una decena más.",
+        "va": "Inventa'n tu una altra: tria un nombre i digues quin és una desena més.",
+        "en": "Make up another one: choose a number and say which number is one ten more.",
+        "fr": "Invente-en une autre : choisis un nombre et dis lequel fait une dizaine de plus.",
+        "ar": "لنخترع سؤالًا آخر: نختار عددًا ونقول ما العدد الذي يزيد عليه عشرة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De todo lo de estas semanas, ¿qué te ha resultado más fácil? ¿Y más difícil? Explícame por qué.",
+        "va": "De tot el d'aquestes setmanes, què t'ha resultat més fàcil? I més difícil? Explica'm per què.",
+        "en": "Of everything from these weeks, what was easiest for you? And hardest? Explain to me why.",
+        "fr": "De tout ce qu'on a vu ces semaines-ci, qu'est-ce qui a été le plus facile pour toi ? Et le plus difficile ? Explique-moi pourquoi.",
+        "ar": "من كل ما تعلّمناه في هذه الأسابيع، ما الأسهل؟ وما الأصعب؟ لنشرح لماذا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Te acuerdas de los vasos de 10, del plato de 100 o del banco de las legumbres?»",
+        "va": "Si no sap per on començar: «Te'n recordes dels gots de 10, del plat de 100 o del banc dels llegums?»",
+        "en": "If they don't know where to start: “Do you remember the cups of 10, the plate of 100 or the bean bank?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu te souviens des verres de 10, de l'assiette de 100 ou de la banque des haricots ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نتذكّر أكواب العشرة، أو صحن المئة، أو بنك البقول؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo que diga os ayuda a saber qué jugar otra vez. Escuchad sin juzgar, preguntad «¿por qué?» y dad las gracias por contarlo.",
+          "va": "El que diga vos ajuda a saber què tornar a jugar. Escolteu sense jutjar, pregunteu «per què?» i doneu les gràcies per contar-ho.",
+          "en": "What they say helps you know what to play again. Listen without judging, ask “Why?” and say thank you for sharing.",
+          "fr": "Ce qu'il ou elle dit vous aide à savoir à quoi rejouer. Écoutez sans juger, demandez « Pourquoi ? » et dites merci de l'avoir raconté.",
+          "ar": "ما يُقال يساعدكم على معرفة ما تلعبونه مرة أخرى. استمعوا من دون حكم، واسألوا «لماذا؟»، وقولوا شكرًا على المشاركة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "3cf9889f4fb6"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "3cf9889f4fb6"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "3cf9889f4fb6"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "3cf9889f4fb6"
+      }
+    }
+  }
+}

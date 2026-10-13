@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s36",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 36,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Qué operación toca?",
+    "va": "Quina operació toca?",
+    "en": "Which operation is it?",
+    "fr": "Quelle opération choisir ?",
+    "ar": "أيّ عملية حسابية نختار؟"
+  },
+  "objetivo": {
+    "es": "Esta semana escuchan historias cortas y deciden qué pasa en ellas: juntar, quitar, comparar, hacer grupos o repartir. Primero piensan qué operación toca y después hacen la cuenta.",
+    "va": "Aquesta setmana escolten històries curtes i decidixen què hi passa: ajuntar (juntar), llevar (quitar), comparar, fer grups o repartir. Primer pensen quina operació (operación) toca i després fan el compte.",
+    "en": "This week they listen to short stories and decide what happens in them: put together (juntar), take away (quitar), compare (comparar), make groups or share out (repartir). First they think about which operation (operación) it is, and then they work it out.",
+    "fr": "Cette semaine, on écoute de petites histoires et on décide ce qui s'y passe : réunir (juntar), enlever (quitar), comparer (comparar), faire des groupes ou partager (repartir). On pense d'abord à l'opération (operación) qui convient, puis on fait le calcul.",
+    "ar": "هذا الأسبوع يستمع الأطفال إلى قصص قصيرة ويقرّرون ماذا يحدث فيها: نجمع (juntar)، ننزع (quitar)، نقارن (comparar)، نصنع مجموعات أو نوزّع (repartir). يفكّرون أولًا في العملية الحسابية (operación) المناسبة، ثم يحسبون."
+  },
+  "comoAyudar": {
+    "es": "Antes de hacer la cuenta, preguntad: «¿Aquí juntamos, quitamos o repartimos?». Si duda, contad la historia otra vez moviendo juguetes de verdad.",
+    "va": "Abans de fer el compte, pregunteu: «Ací ajuntem, llevem o repartim?». Si dubta, conteu la història una altra vegada movent joguets de veritat.",
+    "en": "Before working it out, ask: “Are we putting together, taking away or sharing out here?” If they're not sure, tell the story again, moving real toys.",
+    "fr": "Avant de calculer, demandez : « Ici, on réunit, on enlève ou on partage ? ». S'il ou elle hésite, racontez l'histoire encore une fois en déplaçant de vrais jouets.",
+    "ar": "قبل الحساب، اسألوا: «هل نجمع هنا، أم ننزع، أم نوزّع؟». وإذا ظهر تردّد، احكوا القصة مرة أخرى وأنتم تحرّكون ألعابًا حقيقية."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c1.1.1",
+    "matematicas.c1.1.4",
+    "matematicas.c1.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Historias con juguetes",
+      "va": "Històries amb joguets",
+      "en": "Toy stories",
+      "fr": "Histoires de jouets",
+      "ar": "قصص بالألعاب"
+    },
+    "material": [
+      {
+        "es": "Unos cuantos juguetes pequeños: coches, muñecos, piezas de construcción, animales…",
+        "va": "Uns quants joguets menuts: cotxes, ninots, peces de construcció, animals…",
+        "en": "A few small toys: cars, figures, building blocks, animals…",
+        "fr": "Quelques petits jouets : voitures, figurines, pièces de construction, animaux…",
+        "ar": "بعض الألعاب الصغيرة: سيارات، دمى، قطع بناء، حيوانات…"
+      },
+      {
+        "es": "Una mesa o un trozo de suelo despejado",
+        "va": "Una taula o un tros de terra lliure",
+        "en": "A table or a clear patch of floor",
+        "fr": "Une table ou un coin de sol dégagé",
+        "ar": "طاولة أو جزء فارغ من الأرض"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "caja",
+        "texto": {
+          "es": "Sacad los juguetes y ponedlos en la mesa.",
+          "va": "Traeu els joguets i poseu-los damunt de la taula.",
+          "en": "Get the toys out and put them on the table.",
+          "fr": "Sortez les jouets et posez-les sur la table.",
+          "ar": "أخرجوا الألعاب وضعوها على الطاولة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "La persona adulta cuenta una historia corta: «Tengo 8 coches y llegan 5 más». Sin hacer la cuenta, decid si juntamos, quitamos, comparamos, hacemos grupos o repartimos.",
+          "va": "La persona adulta conta una història curta: «Tinc 8 cotxes i n'arriben 5 més». Sense fer el compte, digueu si ajuntem, llevem, comparem, fem grups o repartim.",
+          "en": "The adult tells a short story: “I've got 8 cars and 5 more arrive.” Without working it out, say whether we put together, take away, compare, make groups or share out.",
+          "fr": "L'adulte raconte une petite histoire : « J'ai 8 voitures et il en arrive 5 de plus. » Sans calculer, dites si on réunit, on enlève, on compare, on fait des groupes ou on partage.",
+          "ar": "يحكي الشخص البالغ قصة قصيرة: «عندي 8 سيارات وتصل 5 أخرى». من دون حساب، قولوا: هل نجمع، أم ننزع، أم نقارن، أم نصنع مجموعات، أم نوزّع؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Ahora moved los juguetes como dice la historia y contad cuántos hay al final.",
+          "va": "Ara moveu els joguets com diu la història i compteu quants n'hi ha al final.",
+          "en": "Now move the toys the way the story says and count how many there are at the end.",
+          "fr": "Maintenant, déplacez les jouets comme le dit l'histoire et comptez combien il y en a à la fin.",
+          "ar": "الآن حرّكوا الألعاب كما تقول القصة، وعدّوا كم يوجد في النهاية."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Cambiad los papeles: ahora el niño o la niña inventa la historia y la persona adulta dice qué operación toca.",
+          "va": "Canvieu els papers: ara el xiquet o la xiqueta inventa la història i la persona adulta diu quina operació toca.",
+          "en": "Swap roles: now your child makes up the story and the adult says which operation it is.",
+          "fr": "Échangez les rôles : maintenant, l'enfant invente l'histoire et l'adulte dit quelle opération convient.",
+          "ar": "تبادلوا الأدوار: الآن يخترع الطفل أو الطفلة القصة، ويقول الشخص البالغ أيّ عملية حسابية تناسبها."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo dos verbos, juntar y quitar, y números hasta 10.",
+      "va": "Feu servir només dos verbs, ajuntar i llevar, i nombres fins a 10.",
+      "en": "Use only two actions, put together and take away, and numbers up to 10.",
+      "fr": "Utilisez seulement deux actions, réunir et enlever, et des nombres jusqu'à 10.",
+      "ar": "استعملوا فعلين فقط، نجمع وننزع، وأعدادًا حتى 10."
+    },
+    "masDificil": {
+      "es": "Contad historias de dos pasos: «Tengo 12 coches, regalo 3 y luego me dan 5». ¿Qué operaciones tocan?",
+      "va": "Conteu històries de dos passos: «Tinc 12 cotxes, en regale 3 i després me'n donen 5». Quines operacions toquen?",
+      "en": "Tell two-step stories: “I've got 12 cars, I give away 3 and then I'm given 5.” Which operations are they?",
+      "fr": "Racontez des histoires en deux étapes : « J'ai 12 voitures, j'en donne 3, puis on m'en donne 5. » Quelles opérations conviennent ?",
+      "ar": "احكوا قصصًا من خطوتين: «عندي 12 سيارة، أهدي 3 ثم يعطونني 5». ما العمليات الحسابية المناسبة؟"
+    },
+    "paraQueSirve": {
+      "es": "Entender qué pasa en una historia antes de calcular ayuda a elegir bien la operación en cualquier problema, también fuera del cole.",
+      "va": "Entendre què passa en una història abans de calcular ajuda a triar bé l'operació en qualsevol problema, també fora de l'escola.",
+      "en": "Understanding what happens in a story before calculating helps you choose the right operation in any word problem (problema), also outside school.",
+      "fr": "Comprendre ce qui se passe dans une histoire avant de calculer aide à bien choisir l'opération dans n'importe quel problème (problema), aussi en dehors de l'école.",
+      "ar": "فهم ما يحدث في القصة قبل الحساب يساعد على اختيار العملية الحسابية المناسبة في أيّ مسألة (problema)، حتى خارج المدرسة."
+    },
+    "aviso": {
+      "es": "Si usáis piezas o juguetes muy pequeños, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir peces o joguets molt menuts, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use very small pieces or toys, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de très petites pièces ou de très petits jouets, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم قطعًا أو ألعابًا صغيرة جدًا، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En una caja hay 27 coches rojos y 15 azules. ¿Qué operación toca para saber cuántos coches hay?",
+        "va": "En una caixa hi ha 27 cotxes rojos i 15 blaus. Quina operació toca per a saber quants cotxes hi ha?",
+        "en": "In a box there are 27 red cars and 15 blue ones. Which operation do you use to find out how many cars there are?",
+        "fr": "Dans une boîte, il y a 27 voitures rouges et 15 bleues. Quelle opération choisir pour savoir combien il y a de voitures ?",
+        "ar": "في صندوق 27 سيارة حمراء و15 سيارة زرقاء. أيّ عملية حسابية نختار لنعرف كم سيارة يوجد؟"
+      },
+      "pista": {
+        "es": "Piensa si los coches se juntan, se van o se reparten.",
+        "va": "Pensa si els cotxes s'ajunten, se'n van o es repartixen.",
+        "en": "Think about whether the cars are put together, go away or are shared out.",
+        "fr": "Demande-toi si les voitures sont réunies, si elles s'en vont ou si on les partage.",
+        "ar": "لنفكّر: هل تجتمع السيارات، أم تذهب، أم نوزّعها؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "27 + 15",
+        "resultado": 42,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Juntamos, así que es una suma: {{27 + 15 = 42}}. Hay 42 coches.",
+          "va": "Ajuntem, així que és una suma: {{27 + 15 = 42}}. Hi ha 42 cotxes.",
+          "en": "We put them together, so it's an addition (suma): {{27 + 15 = 42}}. There are 42 cars.",
+          "fr": "On réunit, donc c'est une addition (suma) : {{27 + 15 = 42}}. Il y a 42 voitures.",
+          "ar": "نجمع، إذن هي عملية جمع (suma): {{27 + 15 = 42}}. يوجد 42 سيارة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una historia de juntar con tus juguetes.",
+        "va": "Inventa tu una història d'ajuntar amb els teus joguets.",
+        "en": "Make up your own putting-together story with your toys.",
+        "fr": "Invente une histoire où on réunit, avec tes jouets.",
+        "ar": "لنخترع قصة نجمع فيها بألعابنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Sara tiene 50 piezas de construcción y guarda 18 en la caja. ¿Qué operación toca para saber cuántas quedan fuera?",
+        "va": "Sara té 50 peces de construcció i en guarda 18 a la caixa. Quina operació toca per a saber quantes en queden fora?",
+        "en": "Sara has 50 building blocks and puts 18 away in the box. Which operation do you use to find out how many are left out?",
+        "fr": "Sara a 50 pièces de construction et en range 18 dans la boîte. Quelle opération choisir pour savoir combien il en reste dehors ?",
+        "ar": "عند سارة 50 قطعة بناء، وتضع 18 منها في الصندوق. أيّ عملية حسابية نختار لنعرف كم قطعة بقيت خارجه؟"
+      },
+      "pista": {
+        "es": "Las piezas que se guardan ya no están en la mesa: ¿juntamos o quitamos?",
+        "va": "Les peces que es guarden ja no estan damunt de la taula: ajuntem o llevem?",
+        "en": "The blocks that are put away aren't on the table any more: do we put together or take away?",
+        "fr": "Les pièces rangées ne sont plus sur la table : on réunit ou on enlève ?",
+        "ar": "القطع التي نضعها في الصندوق لم تعد على الطاولة: هل نجمع أم ننزع؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "50 - 18",
+        "resultado": 32,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quitamos, así que es una resta: {{50 − 18 = 32}}. Quedan 32 piezas fuera.",
+          "va": "Llevem, així que és una resta: {{50 − 18 = 32}}. En queden 32 fora.",
+          "en": "We take away, so it's a subtraction (resta): {{50 − 18 = 32}}. There are 32 blocks left out.",
+          "fr": "On enlève, donc c'est une soustraction (resta) : {{50 − 18 = 32}}. Il reste 32 pièces dehors.",
+          "ar": "ننزع، إذن هي عملية طرح (resta): {{50 − 18 = 32}}. بقيت 32 قطعة خارج الصندوق."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una historia de quitar con cosas de la cocina.",
+        "va": "Inventa tu una història de llevar amb coses de la cuina.",
+        "en": "Make up your own taking-away story with things from the kitchen.",
+        "fr": "Invente une histoire où on enlève, avec des choses de la cuisine.",
+        "ar": "لنخترع قصة ننزع فيها بأشياء من المطبخ."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Darío pone 4 platos con 5 galletas en cada uno. ¿Qué operación toca para saber cuántas galletas hay?",
+        "va": "Darío posa 4 plats amb 5 galetes en cada un. Quina operació toca per a saber quantes galetes hi ha?",
+        "en": "Darío puts out 4 plates with 5 biscuits on each one. Which operation do you use to find out how many biscuits there are?",
+        "fr": "Darío met 4 assiettes avec 5 biscuits sur chacune. Quelle opération choisir pour savoir combien il y a de biscuits ?",
+        "ar": "يضع داريو 4 صحون، في كل صحن 5 بسكويتات. أيّ عملية حسابية نختار لنعرف كم بسكويتة يوجد؟"
+      },
+      "pista": {
+        "es": "Mira si todos los platos tienen las mismas galletas.",
+        "va": "Mira si tots els plats tenen les mateixes galetes.",
+        "en": "Look at whether all the plates have the same number of biscuits.",
+        "fr": "Regarde si toutes les assiettes ont le même nombre de biscuits.",
+        "ar": "لننظر: هل في كل الصحون عدد البسكويت نفسه؟"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 × 5",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son grupos iguales, así que es una multiplicación: {{4 × 5 = 20}}. Hay 20 galletas.",
+          "va": "Són grups iguals, així que és una multiplicació (multiplicación): {{4 × 5 = 20}}. Hi ha 20 galetes.",
+          "en": "They're equal groups, so it's a multiplication (multiplicación): {{4 × 5 = 20}}. There are 20 biscuits.",
+          "fr": "Ce sont des groupes égaux, donc c'est une multiplication (multiplicación) : {{4 × 5 = 20}}. Il y a 20 biscuits.",
+          "ar": "هي مجموعات متساوية، إذن هي عملية ضرب (multiplicación): {{4 × 5 = 20}}. يوجد 20 بسكويتة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una historia de grupos iguales con calcetines o zapatos.",
+        "va": "Inventa tu una història de grups iguals amb calcetins o sabates.",
+        "en": "Make up your own equal-groups story with socks or shoes.",
+        "fr": "Invente une histoire de groupes égaux avec des chaussettes ou des chaussures.",
+        "ar": "لنخترع قصة فيها مجموعات متساوية بالجوارب أو الأحذية."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 23,
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Para recordar: Aisha reparte 12 fresas entre 3 personas, las mismas para cada una. ¿Cuántas le tocan a cada persona?",
+        "va": "Per a recordar: Aisha repartix 12 maduixes entre 3 persones, les mateixes per a cada una. Quantes en toquen a cada persona?",
+        "en": "Let's remember: Aisha shares out (repartir) 12 strawberries among 3 people, the same for each one. How many does each person get?",
+        "fr": "Pour se souvenir : Aisha partage (repartir) 12 fraises entre 3 personnes, autant pour chacune. Combien chaque personne en reçoit-elle ?",
+        "ar": "لنتذكّر: توزّع (repartir) عائشة 12 حبة فراولة على 3 أشخاص، بالعدد نفسه لكل واحد. كم حبة يأخذ كل شخص؟"
+      },
+      "pista": {
+        "es": "Da una fresa a cada persona por turnos, hasta que no quede ninguna.",
+        "va": "Dona una maduixa a cada persona per torns, fins que no en quede cap.",
+        "en": "Give one strawberry to each person in turn, until there are none left.",
+        "fr": "Donne une fraise à chaque personne à tour de rôle, jusqu'à ce qu'il n'en reste plus.",
+        "ar": "لنعطِ كل شخص حبة فراولة بالدور، حتى لا تبقى أيّ حبة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Le tocan 4 a cada una, porque {{4 + 4 + 4 = 12}}. Si se lía, repartid de verdad con legumbres o trocitos de papel.",
+          "va": "En toquen 4 a cada una, perquè {{4 + 4 + 4 = 12}}. Si s'embolica, repartiu de veritat amb llegums o trossets de paper.",
+          "en": "Each person gets 4, because {{4 + 4 + 4 = 12}}. If they get muddled, share out for real with dried beans or little bits of paper.",
+          "fr": "Chacune en reçoit 4, parce que {{4 + 4 + 4 = 12}}. S'il ou elle s'embrouille, partagez pour de vrai avec des légumes secs ou des petits bouts de papier.",
+          "ar": "يأخذ كل شخص 4، لأن {{4 + 4 + 4 = 12}}. وإذا اختلط الأمر، وزّعوا فعلًا بحبوب جافة أو قطع صغيرة من الورق."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otro reparto con las personas de tu casa.",
+        "va": "Inventa tu un altre repartiment amb les persones de casa teua.",
+        "en": "Make up another sharing-out story with the people in your home.",
+        "fr": "Invente un autre partage avec les personnes de ta maison.",
+        "ar": "لنخترع توزيعًا آخر على الأشخاص في بيتنا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuéntame una historia con números. ¿Cómo sabes si toca juntar, quitar o repartir?",
+        "va": "Conta'm una història amb nombres. Com saps si toca ajuntar, llevar o repartir?",
+        "en": "Tell me a story with numbers. How do you know whether to put together, take away or share out?",
+        "fr": "Raconte-moi une histoire avec des nombres. Comment sais-tu si on réunit, si on enlève ou si on partage ?",
+        "ar": "لنحكِ قصة فيها أعداد. كيف نعرف هل نجمع أم ننزع أم نوزّع؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si llegan más amigos a la fiesta, ¿hay más o menos personas?»",
+        "va": "Si no sap per on començar: «Si arriben més amics a la festa, hi ha més o menys persones?»",
+        "en": "If they don't know where to start: “If more friends come to the party, are there more people or fewer?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si d'autres amis arrivent à la fête, il y a plus ou moins de monde ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا وصل أصدقاء آخرون إلى الحفلة، هل يصبح عدد الأشخاص أكثر أم أقل؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Buscad pistas en sus palabras: «llegan», «se van», «para cada uno». No hace falta que lo diga perfecto; escuchad y preguntad «¿y luego?».",
+          "va": "Busqueu pistes en les seues paraules: «arriben», «se'n van», «per a cada u». No cal que ho diga perfecte; escolteu i pregunteu «i després?».",
+          "en": "Look for clues in their words: “arrive”, “go away”, “for each one”. It doesn't need to be perfect; listen and ask “And then?”",
+          "fr": "Cherchez des indices dans ses mots : « arrivent », « s'en vont », « pour chacun ». Ce n'est pas grave si ce n'est pas parfait ; écoutez et demandez « Et après ? ».",
+          "ar": "ابحثوا عن إشارات في الكلمات: «يصلون»، «يذهبون»، «لكل واحد». لا يلزم أن يكون الشرح مثاليًا؛ استمعوا واسألوا «ثم ماذا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "91a1ee41d48c"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "91a1ee41d48c"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "91a1ee41d48c"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "91a1ee41d48c"
+      }
+    }
+  }
+}

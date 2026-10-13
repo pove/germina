@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s05",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 5,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuántos quedan?",
+    "va": "Quants en queden?",
+    "en": "How many are left?",
+    "fr": "Combien en reste-t-il ?",
+    "ar": "كم بقي؟"
+  },
+  "objetivo": {
+    "es": "Esta semana restan quitando: tienen un grupo de hasta 10 cosas, quitan unas cuantas y cuentan cuántas quedan. Y aprenden que, si no sale a la primera, se vuelve a probar.",
+    "va": "Aquesta setmana resten llevant: tenen un grup de fins a 10 coses, en lleven (quitan) unes quantes i compten quantes en queden. I aprenen que, si no ix a la primera, es torna a provar.",
+    "en": "This week they subtract by taking away (quitar): they have a group of up to 10 things, take some away and count how many are left. And they learn that if it doesn't work the first time, you try again.",
+    "fr": "Cette semaine, on soustrait en enlevant (quitar) : on a un groupe de 10 choses au plus, on en enlève quelques-unes et on compte combien il en reste. Et on apprend que, si ça ne marche pas du premier coup, on réessaie.",
+    "ar": "هذا الأسبوع يطرح الأطفال بالنزع (quitar): عندهم مجموعة فيها حتى 10 أشياء، ينزعون بعضها ويعدّون كم بقي. ويتعلّمون أنه إذا لم تنجح المحاولة الأولى، نحاول من جديد."
+  },
+  "comoAyudar": {
+    "es": "Si se enfada porque no le sale, quitadle importancia: «casi, probemos otra vez». Que toque y aparte lo que quita, y luego cuente lo que queda.",
+    "va": "Si s'enfada perquè no li ix, lleveu-li importància: «quasi, provem una altra vegada». Que toque i aparte el que lleva, i després que compte el que queda.",
+    "en": "If they get cross because it isn't working, play it down: “Nearly! Let's try again.” Let them touch and move aside what they take away, then count what's left.",
+    "fr": "S'il ou elle se fâche parce que ça ne marche pas, dédramatisez : « Presque, on réessaie ? » Laissez toucher et mettre de côté ce qu'on enlève, puis compter ce qui reste.",
+    "ar": "إذا ظهر غضب لأن الأمر لا ينجح، خفّفوا من أهميته: «اقتربنا، لنحاول مرة أخرى». دعوا الطفل أو الطفلة يلمس ما ننزعه ويبعده، ثم يعدّ ما بقي."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.frustracion"
+  ],
+  "criterios": [
+    "matematicas.c1.1.2",
+    "matematicas.c1.1.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Bolos con botellas",
+      "va": "Bitlles amb botelles",
+      "en": "Bottle skittles",
+      "fr": "Quilles en bouteilles",
+      "ar": "بولينغ بالقوارير"
+    },
+    "material": [
+      {
+        "es": "10 botellas de plástico vacías",
+        "va": "10 botelles de plàstic buides",
+        "en": "10 empty plastic bottles",
+        "fr": "10 bouteilles en plastique vides",
+        "ar": "10 قوارير بلاستيكية فارغة"
+      },
+      {
+        "es": "Una pelota",
+        "va": "Una pilota",
+        "en": "A ball",
+        "fr": "Une balle",
+        "ar": "كرة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "botella",
+        "texto": {
+          "es": "Poned las 10 botellas de pie, juntas, como bolos.",
+          "va": "Poseu les 10 botelles dretes, juntes, com si foren bitlles.",
+          "en": "Stand the 10 bottles up close together, like skittles.",
+          "fr": "Mettez les 10 bouteilles debout, serrées, comme des quilles.",
+          "ar": "أوقفوا القوارير العشر متقاربة، مثل قطع البولينغ."
+        }
+      },
+      {
+        "pictograma": "pelota",
+        "texto": {
+          "es": "Desde unos pasos, haced rodar la pelota hacia las botellas.",
+          "va": "Des d'unes quantes passes, feu rodar la pilota cap a les botelles.",
+          "en": "From a few steps away, roll the ball towards the bottles.",
+          "fr": "À quelques pas, faites rouler la balle vers les bouteilles.",
+          "ar": "من بعد بضع خطوات، دحرجوا الكرة نحو القوارير."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Apartad las que han caído y contadlas. Antes de mirar, decid cuántas quedan de pie.",
+          "va": "Aparteu les que han caigut i compteu-les. Abans de mirar, digueu quantes en queden dretes.",
+          "en": "Move the fallen ones aside and count them. Before looking, say how many are still standing.",
+          "fr": "Mettez de côté celles qui sont tombées et comptez-les. Avant de regarder, dites combien restent debout.",
+          "ar": "أبعدوا القوارير التي سقطت وعدّوها. وقبل النظر، قولوا كم قارورة بقيت واقفة."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Contad las de pie para ver si habéis acertado. Si no, ¡casi! Otra tirada.",
+          "va": "Compteu les dretes per a veure si ho heu encertat. Si no, quasi! Una altra tirada.",
+          "en": "Count the standing ones to see if you were right. If not, nearly! Another go.",
+          "fr": "Comptez celles qui sont debout pour voir si vous aviez deviné. Sinon, presque ! Un autre lancer.",
+          "ar": "عدّوا القوارير الواقفة لتروا هل أصبتم. وإن لم تصيبوا، اقتربتم! رمية أخرى."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad con 5 botellas.",
+      "va": "Jugueu amb 5 botelles.",
+      "en": "Play with 5 bottles.",
+      "fr": "Jouez avec 5 bouteilles.",
+      "ar": "العبوا بـ5 قوارير."
+    },
+    "masDificil": {
+      "es": "Dejad las caídas fuera y tirad otra vez: ¿cuántas quedan ahora de pie?",
+      "va": "Deixeu fora les caigudes i tireu una altra vegada: quantes en queden dretes ara?",
+      "en": "Leave the fallen ones out and roll again: how many are standing now?",
+      "fr": "Laissez de côté celles qui sont tombées et relancez : combien en reste-t-il debout maintenant ?",
+      "ar": "اتركوا القوارير الساقطة جانبًا وارموا مرة أخرى: كم قارورة بقيت واقفة الآن؟"
+    },
+    "paraQueSirve": {
+      "es": "Restar empieza por quitar y ver cuántos quedan. Y fallar una tirada y volver a probar también es aprender.",
+      "va": "Restar comença per llevar i veure quants en queden. I fallar una tirada i tornar a provar també és aprendre.",
+      "en": "Subtracting starts with taking away and seeing how many are left. And missing a go and trying again is learning too.",
+      "fr": "Soustraire, ça commence par enlever et regarder combien il en reste. Et rater un lancer puis réessayer, c'est aussi apprendre.",
+      "ar": "الطرح يبدأ بالنزع ورؤية كم بقي. وإخفاق رمية ثم المحاولة من جديد تعلّم أيضًا."
+    },
+    "aviso": {
+      "es": "Jugad lejos de cosas que se puedan romper.",
+      "va": "Jugueu lluny de coses que es puguen trencar.",
+      "en": "Play away from anything that could break.",
+      "fr": "Jouez loin des objets qui peuvent se casser.",
+      "ar": "العبوا بعيدًا عن الأشياء التي يمكن أن تنكسر."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Hay 10 bolos de pie. La pelota tira 4. ¿Cuántos quedan de pie?",
+        "va": "Hi ha 10 bitlles dretes. La pilota en tomba 4. Quantes en queden dretes?",
+        "en": "There are 10 skittles standing. The ball knocks over 4. How many are still standing?",
+        "fr": "Il y a 10 quilles debout. La balle en fait tomber 4. Combien en reste-t-il debout ?",
+        "ar": "هناك 10 قطع بولينغ واقفة. أسقطت الكرة 4. كم قطعة بقيت واقفة؟"
+      },
+      "pista": {
+        "es": "Levanta 10 dedos, baja 4 y cuenta los que siguen de pie.",
+        "va": "Alça 10 dits, abaixa'n 4 i compta els que continuen alçats.",
+        "en": "Hold up 10 fingers, put 4 down and count the ones still up.",
+        "fr": "Lève 10 doigts, baisses-en 4 et compte ceux qui restent levés.",
+        "ar": "لنرفع 10 أصابع، ونثني 4، ونعدّ الأصابع التي بقيت مرفوعة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 4",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 6 bolos de pie: {{10 − 4 = 6}}.",
+          "va": "En queden 6 dretes: {{10 − 4 = 6}}.",
+          "en": "6 skittles are still standing: {{10 − 4 = 6}}.",
+          "fr": "Il reste 6 quilles debout : {{10 − 4 = 6}}.",
+          "ar": "بقيت 6 قطع واقفة: {{10 − 4 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con bolos o con tus juguetes.",
+        "va": "Ara inventa'n tu una amb bitlles o amb els teus joguets.",
+        "en": "Now you make one up with skittles or with your toys.",
+        "fr": "Maintenant, invente une question avec des quilles ou avec tes jouets.",
+        "ar": "والآن لنخترع سؤالًا بقطع البولينغ أو بألعابنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Fátima tiene 8 fresas y se come 3. ¿Cuántas le quedan?",
+        "va": "Fátima té 8 maduixes i se'n menja 3. Quantes li'n queden?",
+        "en": "Fátima has 8 strawberries and eats 3. How many does she have left?",
+        "fr": "Fátima a 8 fraises et en mange 3. Combien lui en reste-t-il ?",
+        "ar": "عند فاطمة 8 حبّات فراولة وأكلت 3. كم حبّة بقيت لها؟"
+      },
+      "pista": {
+        "es": "Pon 8 cosas en la mesa, aparta 3 y cuenta las que quedan.",
+        "va": "Posa 8 coses damunt de la taula, aparta'n 3 i compta les que queden.",
+        "en": "Put 8 things on the table, move 3 aside and count the ones left.",
+        "fr": "Mets 8 choses sur la table, écartes-en 3 et compte celles qui restent.",
+        "ar": "لنضع 8 أشياء على الطاولة، ونبعد 3، ونعدّ ما بقي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 - 3",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le quedan 5 fresas.",
+          "va": "Li'n queden 5.",
+          "en": "She has 5 strawberries left.",
+          "fr": "Il lui en reste 5.",
+          "ar": "بقيت لها 5 حبّات فراولة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo de comer de la merienda.",
+        "va": "Inventa'n tu una altra amb alguna cosa del berenar.",
+        "en": "Make up another one with something from your snack.",
+        "fr": "Invente-en une autre avec quelque chose de ton goûter.",
+        "ar": "لنخترع سؤالًا آخر بشيء من وجبة العصر."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En la percha hay 9 abrigos. Youssef y su padre cogen 2 para ir al parque. ¿Cuántos abrigos quedan?",
+        "va": "En el penjador hi ha 9 abrics. Youssef i son pare n'agafen 2 per a anar al parc. Quants abrics queden?",
+        "en": "There are 9 coats on the coat rack. Youssef and his dad take 2 to go to the park. How many coats are left?",
+        "fr": "Au portemanteau, il y a 9 manteaux. Youssef et son papa en prennent 2 pour aller au parc. Combien de manteaux reste-t-il ?",
+        "ar": "على المشجب 9 معاطف. أخذ يوسف وأبوه معطفين للذهاب إلى الحديقة. كم معطفًا بقي؟"
+      },
+      "pista": {
+        "es": "Cuenta hacia atrás 2 desde el 9 con los dedos.",
+        "va": "Compta 2 cap arrere des del 9 amb els dits.",
+        "en": "Count back 2 from 9 on your fingers.",
+        "fr": "Compte 2 en arrière à partir de 9 sur tes doigts.",
+        "ar": "لنعدّ إلى الوراء 2 من 9 بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 2",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 7 abrigos: {{9 − 2 = 7}}.",
+          "va": "Queden 7 abrics: {{9 − 2 = 7}}.",
+          "en": "There are 7 coats left: {{9 − 2 = 7}}.",
+          "fr": "Il reste 7 manteaux : {{9 − 2 = 7}}.",
+          "ar": "بقيت 7 معاطف: {{9 − 2 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con los zapatos de la entrada de casa.",
+        "va": "Inventa'n tu una amb les sabates de l'entrada de casa.",
+        "en": "Make one up with the shoes by your front door.",
+        "fr": "Invente une question avec les chaussures de l'entrée.",
+        "ar": "لنخترع سؤالًا بالأحذية التي عند باب البيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 4,
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Para recordar: en la oca estás en la casilla 11 y sacas un 4. ¿A qué casilla llegas?",
+        "va": "Per a recordar: en l'oca estàs en la casella 11 i trus un 4. A quina casella arribes?",
+        "en": "Let's remember: in the Game of the Goose you're on square 11 and roll a 4. Which square do you land on?",
+        "fr": "Pour se souvenir : au jeu de l'oie, tu es sur la case 11 et tu fais 4. Sur quelle case arrives-tu ?",
+        "ar": "لنتذكّر: في لعبة الإوزّة نحن على الخانة 11 وظهر لنا 4. إلى أي خانة نصل؟"
+      },
+      "pista": {
+        "es": "Sigue contando desde el 11: 12, 13…",
+        "va": "Continua comptant des de l'11: 12, 13…",
+        "en": "Count on from 11: 12, 13…",
+        "fr": "Continue à compter à partir de 11 : 12, 13…",
+        "ar": "لنكمل العدّ من 11: 12، 13…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "11 + 4",
+        "resultado": 15,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llegas a la casilla 15.",
+          "va": "Arribes a la casella 15.",
+          "en": "You land on square 15.",
+          "fr": "Tu arrives sur la case 15.",
+          "ar": "نصل إلى الخانة 15."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con otra casilla y otro número del dado.",
+        "va": "Inventa'n tu una altra amb una altra casella i un altre número del dau.",
+        "en": "Make up another one with a different square and dice number.",
+        "fr": "Invente-en une autre avec une autre case et un autre nombre sur le dé.",
+        "ar": "لنخترع سؤالًا آخر بخانة أخرى ورقم آخر على النرد."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Si tienes 10 cosas y quitas 3, ¿cómo sabes cuántas quedan? Enséñamelo con los dedos o con cosas.",
+        "va": "Si tens 10 coses i en lleves 3, com saps quantes en queden? Ensenya-m'ho amb els dits o amb coses.",
+        "en": "If you have 10 things and take 3 away, how do you know how many are left? Show me with your fingers or with things.",
+        "fr": "Si tu as 10 choses et que tu en enlèves 3, comment sais-tu combien il en reste ? Montre-moi avec tes doigts ou avec des objets.",
+        "ar": "إذا كان عندنا 10 أشياء ونزعنا 3، كيف نعرف كم بقي؟ لنُرِ ذلك بالأصابع أو بالأشياء."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Ponemos 10 cucharas en la mesa y quitas 3?»",
+        "va": "Si no sap per on començar: «Posem 10 culleres damunt de la taula i en lleves 3?»",
+        "en": "If they don't know where to start: “Shall we put 10 spoons on the table and you take 3 away?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « On met 10 cuillères sur la table et tu en enlèves 3 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نضع 10 ملاعق على الطاولة وننزع 3؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede contar lo que queda, contar hacia atrás o acordarse de que 3 y 7 son 10. Todo vale: preguntad «¿y cómo lo sabes?».",
+          "va": "Pot comptar el que queda, comptar cap arrere o recordar que 3 i 7 són 10. Tot val: pregunteu «i com ho saps?».",
+          "en": "They may count what's left, count backwards or remember that 3 and 7 make 10. It all works: ask “And how do you know?”",
+          "fr": "Il ou elle peut compter ce qui reste, compter à rebours ou se souvenir que 3 et 7 font 10. Tout va bien : demandez « Et comment tu le sais ? »",
+          "ar": "يمكن عدّ ما بقي، أو العدّ إلى الوراء، أو تذكّر أن 3 و7 يساويان 10. كل ذلك جيّد: اسألوا «وكيف عرفنا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "23201d5f8c29"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "23201d5f8c29"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "23201d5f8c29"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "23201d5f8c29"
+      }
+    }
+  }
+}

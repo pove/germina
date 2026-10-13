@@ -1,0 +1,353 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s29",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 29,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: repartir y problemas",
+    "va": "Setmana de recordar: repartir i problemes",
+    "en": "Remembering week: sharing out and word problems",
+    "fr": "Semaine pour se souvenir : partager et problèmes",
+    "ar": "أسبوع التذكّر: التوزيع والمسائل"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las últimas semanas: repartir a partes iguales, problemas de dos pasos, combinaciones y formas. El reto junta comprar y repartir en un mismo juego.",
+    "va": "Aquesta setmana tornen a allò de les últimes setmanes: repartir a parts iguals, problemes (problemas) de dos passos, combinacions i formes. El repte ajunta comprar i repartir en un mateix joc.",
+    "en": "This week they go back to the last few weeks: sharing out (repartir) equally, word problems (problemas) with two steps, combinations and shapes. The challenge puts buying and sharing out together in one game.",
+    "fr": "Cette semaine, on revient sur les dernières semaines : partager (repartir) en parts égales, problèmes (problemas) en deux étapes, combinaisons et formes. Le défi réunit acheter et partager dans un même jeu.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الأخيرة: التوزيع (repartir) بالتساوي، والمسائل (problemas) ذات الخطوتين، والتوافيق، والأشكال. ويجمع التحدّي بين الشراء والتوزيع في لعبة واحدة."
+  },
+  "comoAyudar": {
+    "es": "Cuando un problema tenga dos pasos, pedid que os lo cuente como una historia: «primero…, después…». Si algo no sale a la primera, decid «probemos otra vez» y volved a las cosas de la mesa.",
+    "va": "Quan un problema tinga dos passos, demaneu que vos el conte com una història: «primer…, després…». Si alguna cosa no ix a la primera, digueu «tornem a provar-ho» i torneu a les coses de la taula.",
+    "en": "When a problem has two steps, ask them to tell it to you like a story: “first…, then…”. If something doesn't work the first time, say “let's try again” and go back to the things on the table.",
+    "fr": "Quand un problème a deux étapes, demandez qu'on vous le raconte comme une histoire : « d'abord…, ensuite… ». Si quelque chose ne marche pas du premier coup, dites « essayons encore » et revenez aux objets sur la table.",
+    "ar": "عندما تكون للمسألة خطوتان، اطلبوا أن تُروى لكم كقصة: «أولًا…، ثم…». وإذا لم تنجح المحاولة الأولى، قولوا «لنجرّب مرة أخرى» وعودوا إلى الأشياء التي على الطاولة."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.fracciones.perseverancia",
+    "matematicas.geometria.poligonos"
+  ],
+  "criterios": [
+    "matematicas.c1.1.2",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Comprar y repartir",
+      "va": "Comprar i repartir",
+      "en": "Buy and share out",
+      "fr": "Acheter et partager",
+      "ar": "نشتري ونوزّع"
+    },
+    "material": [
+      {
+        "es": "Galletas, mandarinas o pinzas que hagan de galletas",
+        "va": "Galetes, mandarines o pinces que facen de galetes",
+        "en": "Biscuits, tangerines or clothes pegs pretending to be biscuits",
+        "fr": "Des biscuits, des mandarines ou des pinces à linge qui font semblant d'être des biscuits",
+        "ar": "بسكويت أو يوسفي أو ملاقط غسيل تقوم مقام البسكويت"
+      },
+      {
+        "es": "Un plato para cada persona de casa",
+        "va": "Un plat per a cada persona de casa",
+        "en": "A plate for each person at home",
+        "fr": "Une assiette pour chaque personne de la maison",
+        "ar": "صحن لكل شخص في البيت"
+      },
+      {
+        "es": "Papel y lápiz para dibujar",
+        "va": "Paper i llapis per a dibuixar",
+        "en": "Paper and a pencil for drawing",
+        "fr": "Du papier et un crayon pour dessiner",
+        "ar": "ورقة وقلم رصاص للرسم"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "bolsa",
+        "texto": {
+          "es": "La compra: poned en la mesa 2 paquetes de 6 galletas, o 12 pinzas. ¿Cuántas galletas hay?",
+          "va": "La compra: poseu en la taula 2 paquets de 6 galetes, o 12 pinces. Quantes galetes hi ha?",
+          "en": "The shopping: put 2 packets of 6 biscuits on the table, or 12 pegs. How many biscuits are there?",
+          "fr": "Les courses : posez sur la table 2 paquets de 6 biscuits, ou 12 pinces. Combien y a-t-il de biscuits ?",
+          "ar": "الشراء: ضعوا على الطاولة علبتين في كل منهما 6 بسكويتات، أو 12 ملقطًا. كم بسكويتة عندنا؟"
+        }
+      },
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "El reparto: poned un plato por persona y repartid las galletas de una en una, como las cartas.",
+          "va": "El repartiment: poseu un plat per persona i repartiu les galetes d'una en una, com les cartes.",
+          "en": "The sharing: put out one plate per person and share out the biscuits one at a time, like dealing cards.",
+          "fr": "Le partage : mettez une assiette par personne et distribuez les biscuits un par un, comme les cartes.",
+          "ar": "التوزيع: ضعوا صحنًا لكل شخص، ووزّعوا البسكويت واحدة واحدة، كما نوزّع أوراق اللعب."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Mirad los platos. ¿Cuántas tiene cada persona? ¿Sobra alguna?",
+          "va": "Mireu els plats. Quantes en té cada persona? En sobra alguna?",
+          "en": "Look at the plates. How many does each person have? Are any left over?",
+          "fr": "Regardez les assiettes. Combien chaque personne en a-t-elle ? Est-ce qu'il en reste ?",
+          "ar": "انظروا إلى الصحون. كم بسكويتة عند كل شخص؟ هل بقي شيء؟"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad los platos con una rayita por galleta. Contad la historia entera: «compramos…, repartimos…, a cada uno…».",
+          "va": "Dibuixeu els plats amb una ratlleta per galeta. Conteu la història sencera: «comprem…, repartim…, a cadascú…».",
+          "en": "Draw the plates with a little line for each biscuit. Tell the whole story: “we bought…, we shared out…, each person got…”.",
+          "fr": "Dessinez les assiettes avec un petit trait par biscuit. Racontez toute l'histoire : « on a acheté…, on a partagé…, chacun a… ».",
+          "ar": "ارسموا الصحون مع خط صغير لكل بسكويتة. واحكوا القصة كلها: «اشترينا…، وزّعنا…، لكل واحد…»."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad un solo paquete de 6 y repartid entre dos personas.",
+      "va": "Feu servir un sol paquet de 6 i repartiu entre dues persones.",
+      "en": "Use just one packet of 6 and share out between two people.",
+      "fr": "Prenez un seul paquet de 6 et partagez entre deux personnes.",
+      "ar": "استعملوا علبة واحدة فيها 6، ووزّعوا بين شخصين."
+    },
+    "masDificil": {
+      "es": "Comprad 3 paquetes de 6 y repartid entre 4 personas. ¿Sobra alguna? ¿Qué podéis hacer con las que sobran?",
+      "va": "Compreu 3 paquets de 6 i repartiu entre 4 persones. En sobra alguna? Què podeu fer amb les que sobren?",
+      "en": "Buy 3 packets of 6 and share out among 4 people. Are any left over? What could you do with the ones left over?",
+      "fr": "Achetez 3 paquets de 6 et partagez entre 4 personnes. Est-ce qu'il en reste ? Que pouvez-vous faire avec celles qui restent ?",
+      "ar": "اشتروا 3 علب في كل منها 6، ووزّعوا بين 4 أشخاص. هل بقي شيء؟ ماذا نفعل بما بقي؟"
+    },
+    "paraQueSirve": {
+      "es": "Muchos problemas de la vida tienen dos pasos: primero juntamos y luego repartimos. Contarlo en orden ayuda a no perderse.",
+      "va": "Molts problemes de la vida tenen dos passos: primer ajuntem i després repartim. Contar-ho en orde ajuda a no perdre's.",
+      "en": "Lots of everyday problems have two steps: first we put things together and then we share them out. Telling it in order helps you not get lost.",
+      "fr": "Beaucoup de problèmes de la vie ont deux étapes : d'abord on réunit, puis on partage. Le raconter dans l'ordre aide à ne pas se perdre.",
+      "ar": "كثير من مسائل الحياة لها خطوتان: أولًا نجمع، ثم نوزّع. وروايتها بالترتيب تساعد على ألّا نضيع."
+    },
+    "aviso": {
+      "es": "Si usáis pinzas pequeñas en lugar de galletas, guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Si feu servir pinces menudes en lloc de galetes, guardeu-les lluny de germans o germanes menuts.",
+      "en": "If you use small pegs instead of biscuits, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez de petites pinces à la place des biscuits, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم ملاقط صغيرة بدل البسكويت، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Sara reparte 13 uvas entre ella y su padre, de una en una. ¿Cuántas tocan a cada uno? ¿Sobra alguna?",
+        "va": "Sara reparteix 13 raïms entre ella i son pare, d'un en un. Quants en toquen a cadascú? En sobra algun?",
+        "en": "Sara shares out 13 grapes between herself and her dad, one at a time. How many does each get? Are any left over?",
+        "fr": "Sara partage 13 raisins entre elle et son papa, un par un. Combien chacun en a-t-il ? Est-ce qu'il en reste ?",
+        "ar": "توزّع سارة 13 حبة عنب بينها وبين أبيها، واحدة واحدة. كم حبة لكل واحد؟ هل بقي شيء؟"
+      },
+      "pista": {
+        "es": "Haz dos montones con 13 cosas, poniendo una en cada montón por turnos.",
+        "va": "Fes dos munts amb 13 coses, posant-ne una en cada munt per torns.",
+        "en": "Make two piles with 13 things, putting one in each pile in turn.",
+        "fr": "Fais deux tas avec 13 objets, en mettant un objet dans chaque tas, chacun son tour.",
+        "ar": "لنصنع كومتين من 13 شيئًا، ونضع شيئًا في كل كومة بالتناوب."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "13 - 6 - 6",
+        "resultado": 1,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tocan 6 a cada uno y sobra 1: {{13 − 6 − 6 = 1}}.",
+          "va": "En toquen 6 a cadascú i en sobra 1: {{13 − 6 − 6 = 1}}.",
+          "en": "Each gets 6 and 1 is left over: {{13 − 6 − 6 = 1}}.",
+          "fr": "Chacun en a 6 et il en reste 1 : {{13 − 6 − 6 = 1}}.",
+          "ar": "لكل واحد 6 حبات وتبقى حبة واحدة: {{13 − 6 − 6 = 1}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un reparto entre tres personas en el que sobre algo.",
+        "va": "Inventa'n tu un repartiment entre tres persones en què en sobre alguna cosa.",
+        "en": "Make up a sharing between three people where something is left over.",
+        "fr": "Invente un partage entre trois personnes où il reste quelque chose.",
+        "ar": "لنخترع توزيعًا بين ثلاثة أشخاص يبقى فيه شيء."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Iker tiene 20 €. Compra un libro de 8 € y una pelota de 7 €. ¿Cuánto dinero le queda?",
+        "va": "Iker té 20 €. Compra un llibre de 8 € i una pilota de 7 €. Quants diners li queden?",
+        "en": "Iker has 20 €. He buys a book for 8 € and a ball for 7 €. How much money does he have left?",
+        "fr": "Iker a 20 €. Il achète un livre à 8 € et un ballon à 7 €. Combien d'argent lui reste-t-il ?",
+        "ar": "مع إيكر 20 €. يشتري كتابًا بـ 8 € وكرة بـ 7 €. كم يبقى معه من المال؟"
+      },
+      "pista": {
+        "es": "Primero mira cuánto gasta en las dos cosas, y después cuánto le queda.",
+        "va": "Primer mira quant gasta en les dues coses, i després quant li queda.",
+        "en": "First work out how much he spends on the two things, and then how much he has left.",
+        "fr": "Regarde d'abord combien il dépense pour les deux choses, puis combien il lui reste.",
+        "ar": "لننظر أولًا كم ينفق على الشيئين، ثم كم يبقى معه."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 8 - 7",
+        "resultado": 5,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le quedan 5 €: {{20 − 8 − 7 = 5}}.",
+          "va": "Li queden 5 €: {{20 − 8 − 7 = 5}}.",
+          "en": "He has 5 € left: {{20 − 8 − 7 = 5}}.",
+          "fr": "Il lui reste 5 € : {{20 − 8 − 7 = 5}}.",
+          "ar": "يبقى معه 5 €: {{20 − 8 − 7 = 5}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una compra de dos cosas con un billete de 10 €.",
+        "va": "Inventa'n tu una compra de dues coses amb un bitllet de 10 €.",
+        "en": "Make up a shopping trip for two things with a 10 € note.",
+        "fr": "Invente un achat de deux choses avec un billet de 10 €.",
+        "ar": "لنخترع شراء شيئين بورقة نقدية من فئة 10 €."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Aisha hace 2 triángulos y 1 cuadrado con palillos, sin compartir ninguno. ¿Cuántos palillos usa?",
+        "va": "Aisha fa 2 triangles i 1 quadrat amb escuradents, sense compartir-ne cap. Quants escuradents fa servir?",
+        "en": "Aisha makes 2 triangles and 1 square with sticks, without sharing any. How many sticks does she use?",
+        "fr": "Aisha fait 2 triangles et 1 carré avec des bâtonnets, sans en partager aucun. Combien de bâtonnets utilise-t-elle ?",
+        "ar": "تصنع عائشة مثلّثين ومربّعًا واحدًا بالأعواد، من دون أن تشترك الأشكال في أي عود. كم عودًا تستعمل؟"
+      },
+      "pista": {
+        "es": "Cuenta los lados de cada forma: cada lado es un palillo.",
+        "va": "Compta els costats de cada forma: cada costat és un escuradents.",
+        "en": "Count the sides of each shape: each side is one stick.",
+        "fr": "Compte les côtés de chaque forme : chaque côté, c'est un bâtonnet.",
+        "ar": "لنعدّ أضلاع كل شكل: كل ضلع عود واحد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 3 + 4",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Usa 10 palillos: {{3 + 3 + 4 = 10}}.",
+          "va": "Fa servir 10 escuradents: {{3 + 3 + 4 = 10}}.",
+          "en": "She uses 10 sticks: {{3 + 3 + 4 = 10}}.",
+          "fr": "Elle utilise 10 bâtonnets : {{3 + 3 + 4 = 10}}.",
+          "ar": "تستعمل 10 أعواد: {{3 + 3 + 4 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las formas que quieras.",
+        "va": "Inventa'n tu una altra amb les formes que vulgues.",
+        "en": "Make up another one with any shapes you like.",
+        "fr": "Invente-en une autre avec les formes que tu veux.",
+        "ar": "لنخترع سؤالًا آخر بالأشكال التي نحبّها."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 24,
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Para recordar: el peluche tiene 2 gorros y 3 bufandas. ¿De cuántas maneras distintas puede vestirse?",
+        "va": "Per a recordar: el ninot de peluix té 2 gorres i 3 bufandes. De quantes maneres diferents es pot vestir?",
+        "en": "Let's remember: the teddy has 2 hats and 3 scarves. In how many different ways can it get dressed?",
+        "fr": "Pour se souvenir : la peluche a 2 bonnets et 3 écharpes. De combien de façons différentes peut-elle s'habiller ?",
+        "ar": "لنتذكّر: عند الدمية قبّعتان و3 أوشحة. بكم طريقة مختلفة يمكن أن تلبس؟"
+      },
+      "pista": {
+        "es": "Pon el primer gorro y cámbiale las 3 bufandas, una a una; luego, haz lo mismo con el otro gorro.",
+        "va": "Posa-li la primera gorra i canvia-li les 3 bufandes, una a una; després, fes el mateix amb l'altra gorra.",
+        "en": "Put on the first hat and try the 3 scarves; then do the same with the other hat.",
+        "fr": "Mets le premier bonnet et essaie les 3 écharpes ; ensuite, fais pareil avec l'autre bonnet.",
+        "ar": "لنضع القبّعة الأولى ونجرّب الأوشحة الثلاثة، ثم نفعل الشيء نفسه بالقبّعة الأخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 3",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "De 6 maneras: con cada gorro, 3 bufandas. {{2 × 3 = 6}}.",
+          "va": "De 6 maneres: amb cada gorra, 3 bufandes. {{2 × 3 = 6}}.",
+          "en": "In 6 ways: with each hat, 3 scarves. {{2 × 3 = 6}}.",
+          "fr": "De 6 façons : avec chaque bonnet, 3 écharpes. {{2 × 3 = 6}}.",
+          "ar": "بـ 6 طرق: مع كل قبّعة 3 أوشحة. {{2 × 3 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con tu ropa: camisetas y pantalones.",
+        "va": "Inventa'n tu una altra amb la teua roba: samarretes i pantalons.",
+        "en": "Make up another one with your clothes: T-shirts and trousers.",
+        "fr": "Invente-en une autre avec tes vêtements : tee-shirts et pantalons.",
+        "ar": "لنخترع سؤالًا آخر بملابسنا: قمصان وسراويل."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De estas semanas, ¿qué te ha gustado más: repartir, las formas o las torres de colores? Enséñame cómo lo hacías.",
+        "va": "D'estes setmanes, què t'ha agradat més: repartir, les formes o les torres de colors? Ensenya'm com ho feies.",
+        "en": "From these weeks, what did you like best: sharing out, the shapes or the coloured towers? Show me how you did it.",
+        "fr": "Dans ces semaines, qu'est-ce que tu as préféré : partager, les formes ou les tours de couleurs ? Montre-moi comment tu faisais.",
+        "ar": "من هذه الأسابيع، ماذا أحببنا أكثر: التوزيع، أم الأشكال، أم الأبراج الملوّنة؟ لنُرِ كيف كنّا نفعل ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me enseñas con estas pinzas cómo repartías la merienda?»",
+        "va": "Si no sap per on començar: «M'ensenyes amb estes pinces com repartires el berenar?»",
+        "en": "If they don't know where to start: “Can you show me with these pegs how you shared out the snack?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres avec ces pinces comment tu partageais le goûter ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نُري بهذه الملاقط كيف كنّا نوزّع اللمجة؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Si cuenta algo que al principio no salía, preguntad «¿y cómo lo probaste otra vez?» y celebrad que siguiera intentándolo.",
+          "va": "No cal que ho diga perfecte. Si conta alguna cosa que al principi no eixia, pregunteu «i com ho vas tornar a provar?» i celebreu que continuara intentant-ho.",
+          "en": "It doesn't need to be perfect. If they tell you about something that didn't work at first, ask “And how did you try again?” and celebrate that they kept trying.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Si votre enfant raconte quelque chose qui ne marchait pas au début, demandez « Et comment as-tu réessayé ? » et fêtez qu'il ou elle ait continué à essayer.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. إذا رُوي لكم شيء لم ينجح في البداية، فاسألوا «وكيف جرّبنا مرة أخرى؟» واحتفلوا بالاستمرار في المحاولة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "c8d73a670555"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "c8d73a670555"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "c8d73a670555"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "c8d73a670555"
+      }
+    }
+  }
+}

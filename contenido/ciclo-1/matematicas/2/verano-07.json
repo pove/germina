@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.v07",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "verano": 7,
+  "tipo": "verano",
+  "titulo": {
+    "es": "El reloj del verano",
+    "va": "El rellotge de l'estiu",
+    "en": "The summer clock",
+    "fr": "L'horloge de l'été",
+    "ar": "ساعة الصيف"
+  },
+  "objetivo": {
+    "es": "En verano dibujan a qué hora pasan las cosas de un día de vacaciones y cuentan en el calendario cuántos días faltan para volver al cole.",
+    "va": "A l'estiu dibuixen a quina hora passen les coses d'un dia de vacances i compten en el calendari (calendario) quants dies falten per a tornar a l'escola.",
+    "en": "In summer they draw what time things happen on a holiday day and count on the calendar (calendario) how many days are left until school starts again.",
+    "fr": "En été, on dessine à quelle heure se passent les choses d'une journée de vacances et on compte sur le calendrier (calendario) combien de jours il reste avant de retourner à l'école.",
+    "ar": "في الصيف يرسم الأطفال في أي ساعة تحدث أمور يوم من أيام العطلة، ويعدّون في التقويم (calendario) كم يومًا بقي للعودة إلى المدرسة."
+  },
+  "comoAyudar": {
+    "es": "Mirad juntos un reloj de agujas a lo largo del día y preguntad «¿qué hora es?»: en punto, y media, y cuarto o menos cuarto. Para los días, dejad que los cuente en el calendario señalando con el dedo.",
+    "va": "Mireu junts un rellotge d'agulles (reloj de agujas) al llarg del dia i pregunteu «quina hora és?»: en punt (en punto), i mitja (y media), i quart (y cuarto) o menys quart (menos cuarto). Per als dies, deixeu que els compte en el calendari assenyalant amb el dit.",
+    "en": "Look at a clock with hands (reloj de agujas) together during the day and ask “What time is it?”: o'clock (en punto), half past (y media), quarter past (y cuarto) or quarter to (menos cuarto). For the days, let them count on the calendar, pointing with a finger.",
+    "fr": "Regardez ensemble une horloge à aiguilles (reloj de agujas) au fil de la journée et demandez « Quelle heure est-il ? » : pile (en punto), et demie (y media), et quart (y cuarto) ou moins le quart (menos cuarto). Pour les jours, laissez-le ou laissez-la compter sur le calendrier en montrant du doigt.",
+    "ar": "انظروا معًا إلى ساعة بعقارب (reloj de agujas) خلال اليوم واسألوا «كم الساعة؟»: تمامًا (en punto)، والنصف (y media)، والربع (y cuarto) أو إلا ربعًا (menos cuarto). وللأيام، دعوا العدّ يكون في التقويم بالإشارة بالإصبع."
+  },
+  "saberes": [
+    "matematicas.medida.magnitudes",
+    "matematicas.medida.unidades"
+  ],
+  "criterios": [
+    "matematicas.c1.7.1",
+    "matematicas.c1.5.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Nuestro día de verano",
+      "va": "El nostre dia d'estiu",
+      "en": "Our summer day",
+      "fr": "Notre journée d'été",
+      "ar": "يومنا الصيفي"
+    },
+    "material": [
+      {
+        "es": "Un reloj de agujas, o el dibujo de uno",
+        "va": "Un rellotge d'agulles, o el dibuix d'un",
+        "en": "A clock with hands, or a drawing of one",
+        "fr": "Une horloge à aiguilles, ou le dessin d'une horloge",
+        "ar": "ساعة بعقارب، أو رسم لساعة"
+      },
+      {
+        "es": "Un papel y un lápiz para dibujar",
+        "va": "Un paper i un llapis per a dibuixar",
+        "en": "Paper and a pencil to draw",
+        "fr": "Une feuille et un crayon pour dessiner",
+        "ar": "ورقة وقلم رصاص للرسم"
+      },
+      {
+        "es": "Un calendario",
+        "va": "Un calendari",
+        "en": "A calendar",
+        "fr": "Un calendrier",
+        "ar": "تقويم"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "sol",
+        "texto": {
+          "es": "Elegid cuatro cosas de un día de verano: desayunar, ir a la piscina, comer, cenar…",
+          "va": "Trieu quatre coses d'un dia d'estiu: esmorzar, anar a la piscina, dinar, sopar…",
+          "en": "Choose four things from a summer day: breakfast, going to the pool, lunch, dinner…",
+          "fr": "Choisissez quatre choses d'une journée d'été : le petit-déjeuner, la piscine, le déjeuner, le dîner…",
+          "ar": "اختاروا أربعة أمور من يوم صيفي: الفطور، الذهاب إلى المسبح، الغداء، العشاء…"
+        }
+      },
+      {
+        "pictograma": "reloj",
+        "texto": {
+          "es": "Dibujad cada una con un reloj de agujas al lado que marque su hora.",
+          "va": "Dibuixeu cada una amb un rellotge d'agulles al costat que marque la seua hora.",
+          "en": "Draw each one with a clock with hands beside it showing its time.",
+          "fr": "Dessinez chacune avec une horloge à aiguilles à côté qui marque son heure.",
+          "ar": "ارسموا كل أمر وبجانبه ساعة بعقارب تشير إلى وقته."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Ordenad los dibujos del más temprano al más tarde. ¿Qué pasa primero?",
+          "va": "Ordeneu els dibuixos del més prompte al més tard. Què passa primer?",
+          "en": "Put the drawings in order from earliest to latest. What happens first?",
+          "fr": "Rangez les dessins du plus tôt au plus tard. Qu'est-ce qui se passe en premier ?",
+          "ar": "رتّبوا الرسوم من الأبكر إلى الأخير. ماذا يحدث أولًا؟"
+        }
+      },
+      {
+        "pictograma": "calendario",
+        "texto": {
+          "es": "En el calendario, contad con el dedo cuántos días faltan para volver al cole.",
+          "va": "En el calendari, compteu amb el dit quants dies falten per a tornar a l'escola.",
+          "en": "On the calendar, count with your finger how many days are left until school.",
+          "fr": "Sur le calendrier, comptez du doigt combien de jours il reste avant l'école.",
+          "ar": "في التقويم، عدّوا بالإصبع كم يومًا بقي للعودة إلى المدرسة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Dibujad solo horas en punto y y media, y contad los días de una sola semana.",
+      "va": "Dibuixeu només hores en punt i i mitja, i compteu els dies d'una sola setmana.",
+      "en": "Draw only o'clock and half past times, and count the days of just one week.",
+      "fr": "Dessinez seulement des heures pile et et demie, et comptez les jours d'une seule semaine.",
+      "ar": "ارسموا الساعات تمامًا والنصف فقط، وعدّوا أيام أسبوع واحد."
+    },
+    "masDificil": {
+      "es": "Contad los días que faltan de 7 en 7, por semanas, y luego los que sobran.",
+      "va": "Compteu els dies que falten de 7 en 7, per setmanes, i després els que sobren.",
+      "en": "Count the days left in sevens, week by week, and then the extra days.",
+      "fr": "Comptez les jours qui restent de 7 en 7, semaine par semaine, puis ceux en plus.",
+      "ar": "عدّوا الأيام الباقية 7 بـ7، أسبوعًا أسبوعًا، ثم الأيام الزائدة."
+    },
+    "paraQueSirve": {
+      "es": "Leer el reloj de agujas y contar días en el calendario ayuda a organizar el día y a saber cuánto falta para lo que esperamos.",
+      "va": "Llegir el rellotge d'agulles i comptar dies en el calendari ajuda a organitzar el dia i a saber quant falta per al que esperem.",
+      "en": "Reading a clock with hands and counting days on the calendar helps to plan the day and to know how long until what we are waiting for.",
+      "fr": "Lire l'horloge à aiguilles et compter les jours sur le calendrier aide à organiser la journée et à savoir combien de temps il reste avant ce qu'on attend.",
+      "ar": "قراءة الساعة ذات العقارب وعدّ الأيام في التقويم يساعدان على تنظيم اليوم وعلى معرفة كم بقي لما ننتظره."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Salimos de paseo a las 7:15 y volvemos a las 8:00. ¿Cuántos minutos hemos paseado?",
+        "va": "Eixim a passejar a les 7:15 i tornem a les 8:00. Quants minuts hem passejat?",
+        "en": "We go out for a walk at 7:15 and come back at 8:00. How many minutes did we walk?",
+        "fr": "Nous partons nous promener à 7:15 et nous rentrons à 8:00. Combien de minutes avons-nous marché ?",
+        "ar": "خرجنا في نزهة الساعة 7:15 وعدنا الساعة 8:00. كم دقيقة تنزّهنا؟"
+      },
+      "pista": {
+        "es": "Cuenta de cuarto en cuarto con los dedos: 7:30, 7:45, 8:00.",
+        "va": "Compta de quart en quart amb els dits: 7:30, 7:45, 8:00.",
+        "en": "Count in quarters of an hour on your fingers: 7:30, 7:45, 8:00.",
+        "fr": "Compte de quart d'heure en quart d'heure sur tes doigts : 7:30, 7:45, 8:00.",
+        "ar": "لنعدّ ربعًا ربعًا على الأصابع: 7:30، 7:45، 8:00."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 + 15 + 15",
+        "resultado": 45,
+        "unidad": "min",
+        "texto": {
+          "es": "Hemos paseado 45 minutos, tres cuartos de hora: {{15 + 15 + 15 = 45}}.",
+          "va": "Hem passejat 45 minuts, tres quarts d'hora: {{15 + 15 + 15 = 45}}.",
+          "en": "We walked for 45 minutes, three quarters of an hour: {{15 + 15 + 15 = 45}}.",
+          "fr": "Nous avons marché 45 minutes, trois quarts d'heure : {{15 + 15 + 15 = 45}}.",
+          "ar": "تنزّهنا 45 دقيقة، أي ثلاثة أرباع الساعة: {{15 + 15 + 15 = 45}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con la hora de ir a la playa o al parque.",
+        "va": "Ara inventa'n tu una amb l'hora d'anar a la platja o al parc.",
+        "en": "Now you make one up with the time you go to the beach or the park.",
+        "fr": "Maintenant, invente une question avec l'heure d'aller à la plage ou au parc.",
+        "ar": "والآن لنخترع سؤالًا عن موعد الذهاب إلى الشاطئ أو الحديقة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Cenamos a las 9:30. ¿Dónde están las agujas del reloj?",
+        "va": "Sopem a les 9:30. On estan les agulles del rellotge?",
+        "en": "We have dinner at 9:30. Where are the hands of the clock?",
+        "fr": "Nous dînons à 9:30. Où sont les aiguilles de l'horloge ?",
+        "ar": "نتعشّى الساعة 9:30. أين عقربا الساعة؟"
+      },
+      "pista": {
+        "es": "La aguja larga marca los minutos y la corta, las horas.",
+        "va": "L'agulla llarga marca els minuts i la curta, les hores.",
+        "en": "The long hand shows the minutes and the short one, the hours.",
+        "fr": "La grande aiguille marque les minutes et la petite, les heures.",
+        "ar": "العقرب الطويل يشير إلى الدقائق والقصير إلى الساعات."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "La aguja larga, en el 6; la corta, entre el 9 y el 10. Si tenéis un reloj de agujas, ponedlo así juntos.",
+          "va": "L'agulla llarga, en el 6; la curta, entre el 9 i el 10. Si teniu un rellotge d'agulles, poseu-lo així junts.",
+          "en": "The long hand on the 6; the short one between the 9 and the 10. If you have a clock with hands, set it like that together.",
+          "fr": "La grande aiguille sur le 6 ; la petite, entre le 9 et le 10. Si vous avez une horloge à aiguilles, réglez-la ainsi ensemble.",
+          "ar": "العقرب الطويل على 6، والقصير بين 9 و10. إذا كانت عندكم ساعة بعقارب، اضبطوها هكذا معًا."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con la hora a la que te levantas.",
+        "va": "Inventa'n tu una amb l'hora a què t'alces.",
+        "en": "Make one up with the time you get up.",
+        "fr": "Invente une question avec l'heure à laquelle tu te lèves.",
+        "ar": "لنخترع سؤالًا عن ساعة الاستيقاظ."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Faltan 2 semanas y 3 días para volver al cole. ¿Cuántos días faltan?",
+        "va": "Falten 2 setmanes i 3 dies per a tornar a l'escola. Quants dies falten?",
+        "en": "There are 2 weeks and 3 days until school starts again. How many days is that?",
+        "fr": "Il reste 2 semaines et 3 jours avant de retourner à l'école. Combien de jours reste-t-il ?",
+        "ar": "بقي أسبوعان و3 أيام للعودة إلى المدرسة. كم يومًا بقي؟"
+      },
+      "pista": {
+        "es": "Una semana tiene 7 días: cuenta 7 y 7, y luego 3 más.",
+        "va": "Una setmana té 7 dies: compta 7 i 7, i després 3 més.",
+        "en": "A week has 7 days: count 7 and 7, and then 3 more.",
+        "fr": "Une semaine a 7 jours : compte 7 et 7, puis 3 de plus.",
+        "ar": "في الأسبوع 7 أيام: لنعدّ 7 و7، ثم 3 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 7 + 3",
+        "resultado": 17,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 17 días: {{7 + 7 + 3 = 17}}.",
+          "va": "Falten 17 dies: {{7 + 7 + 3 = 17}}.",
+          "en": "There are 17 days to go: {{7 + 7 + 3 = 17}}.",
+          "fr": "Il reste 17 jours : {{7 + 7 + 3 = 17}}.",
+          "ar": "بقي 17 يومًا: {{7 + 7 + 3 = 17}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con los días que faltan para un cumpleaños.",
+        "va": "Inventa'n tu una amb els dies que falten per a un aniversari.",
+        "en": "Make one up with the days left until a birthday.",
+        "fr": "Invente une question avec les jours qui restent avant un anniversaire.",
+        "ar": "لنخترع سؤالًا عن الأيام الباقية حتى عيد ميلاد."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 24,
+      "tipoProblema": "producto-cartesiano",
+      "texto": {
+        "es": "Para recordar las combinaciones: tienes 2 gorras y 3 camisetas. ¿De cuántas maneras te puedes vestir?",
+        "va": "Per a recordar les combinacions: tens 2 gorres i 3 samarretes. De quantes maneres et pots vestir?",
+        "en": "Let's remember combinations: you have 2 caps and 3 T-shirts. How many ways can you get dressed?",
+        "fr": "Pour se souvenir des combinaisons : tu as 2 casquettes et 3 tee-shirts. De combien de façons peux-tu t'habiller ?",
+        "ar": "لنتذكّر التوافيق: عندنا قبّعتان و3 قمصان. بكم طريقة يمكننا أن نلبس؟"
+      },
+      "pista": {
+        "es": "Con cada gorra, ponte las 3 camisetas una por una.",
+        "va": "Amb cada gorra, posa't les 3 samarretes una per una.",
+        "en": "With each cap, put on the 3 T-shirts one by one.",
+        "fr": "Avec chaque casquette, mets les 3 tee-shirts un par un.",
+        "ar": "مع كل قبّعة، لنلبس القمصان الثلاثة واحدًا واحدًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 3",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "De 6 maneras: {{3 + 3 = 6}}.",
+          "va": "De 6 maneres: {{3 + 3 = 6}}.",
+          "en": "In 6 ways: {{3 + 3 = 6}}.",
+          "fr": "De 6 façons : {{3 + 3 = 6}}.",
+          "ar": "بـ6 طرق: {{3 + 3 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la ropa de la playa.",
+        "va": "Inventa'n tu una altra amb la roba de la platja.",
+        "en": "Make up another one with your beach clothes.",
+        "fr": "Invente-en une autre avec les vêtements de plage.",
+        "ar": "لنخترع سؤالًا آخر بملابس الشاطئ."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes qué hora es en un reloj de agujas? Explícamelo con el reloj de casa.",
+        "va": "Com saps quina hora és en un rellotge d'agulles? Explica-m'ho amb el rellotge de casa.",
+        "en": "How do you know what time it is on a clock with hands? Explain it to me with the clock at home.",
+        "fr": "Comment sais-tu quelle heure il est sur une horloge à aiguilles ? Explique-le-moi avec l'horloge de la maison.",
+        "ar": "كيف نعرف كم الساعة في ساعة بعقارب؟ لنشرح ذلك بساعة البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué aguja miras primero?»",
+        "va": "Si no sap per on començar: «Quina agulla mires primer?»",
+        "en": "If they don't know where to start: “Which hand do you look at first?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Quelle aiguille tu regardes en premier ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إلى أي عقرب ننظر أولًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "1d6cb74a89ce"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "1d6cb74a89ce"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "1d6cb74a89ce"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "1d6cb74a89ce"
+      }
+    }
+  }
+}

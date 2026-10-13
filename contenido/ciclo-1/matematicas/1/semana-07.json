@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s07",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 7,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Paquetes de 10",
+    "va": "Paquets de 10",
+    "en": "Bundles of 10",
+    "fr": "Paquets de 10",
+    "ar": "رزم من 10"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren la decena: hacen paquetes de 10 para contar montones grandes, primero los paquetes, «diez, veinte, treinta», y luego los sueltos.",
+    "va": "Aquesta setmana descobrixen la desena (decena): fan paquets de 10 per a comptar munts grans, primer els paquets, «deu, vint, trenta», i després els solts.",
+    "en": "This week they discover the ten (decena): they make bundles of 10 to count big piles, first the bundles, “ten, twenty, thirty”, and then the loose ones.",
+    "fr": "Cette semaine, on découvre la dizaine (decena) : on fait des paquets de 10 pour compter de gros tas, d'abord les paquets, « dix, vingt, trente », puis ceux qui restent seuls.",
+    "ar": "هذا الأسبوع يكتشف الأطفال العشرة (decena): يصنعون رزمًا من 10 ليعدّوا كومات كبيرة، الرزم أولًا، «عشرة، عشرون، ثلاثون»، ثم الأشياء المفردة."
+  },
+  "comoAyudar": {
+    "es": "Cuando haya muchas cosas que contar (pinzas, calcetines, cucharas), proponed hacer montones de 10. Si se pierde, volved a contar el último montón juntos.",
+    "va": "Quan hi haja moltes coses per comptar (pinces, calcetins, culleres), proposeu fer munts de 10. Si es perd, torneu a comptar junts l'últim munt.",
+    "en": "When there are lots of things to count (pegs, socks, spoons), suggest making piles of 10. If they lose track, count the last pile again together.",
+    "fr": "Quand il y a beaucoup de choses à compter (pinces, chaussettes, cuillères), proposez de faire des tas de 10. S'il ou elle se perd, recomptez ensemble le dernier tas.",
+    "ar": "عندما تكون هناك أشياء كثيرة للعدّ (ملاقط، جوارب، ملاعق)، اقترحوا صنع كومات من 10. وإذا ضاع العدّ، أعيدوا عدّ آخر كومة معًا."
+  },
+  "saberes": [
+    "matematicas.numeros.decena",
+    "matematicas.numeros.sistema-decimal"
+  ],
+  "criterios": [
+    "matematicas.c1.5.1",
+    "matematicas.c1.2.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Paquetes de pajitas",
+      "va": "Paquets de palletes",
+      "en": "Straw bundles",
+      "fr": "Paquets de pailles",
+      "ar": "رزم المصّاصات"
+    },
+    "material": [
+      {
+        "es": "Un montón de pajitas o lápices (entre 30 y 50)",
+        "va": "Un munt de palletes o llapis (entre 30 i 50)",
+        "en": "A pile of drinking straws or pencils (between 30 and 50)",
+        "fr": "Un tas de pailles ou de crayons (entre 30 et 50)",
+        "ar": "كومة من المصّاصات أو الأقلام (بين 30 و50)"
+      },
+      {
+        "es": "Gomas elásticas",
+        "va": "Gomes elàstiques",
+        "en": "Rubber bands",
+        "fr": "Des élastiques",
+        "ar": "أربطة مطّاطية"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "palillos",
+        "texto": {
+          "es": "Echad todas las pajitas en la mesa, sin contarlas. ¿Cuántas creéis que hay?",
+          "va": "Tireu totes les palletes damunt de la taula, sense comptar-les. Quantes creieu que n'hi ha?",
+          "en": "Tip all the straws onto the table without counting them. How many do you think there are?",
+          "fr": "Versez toutes les pailles sur la table, sans les compter. Combien pensez-vous qu'il y en a ?",
+          "ar": "ضعوا كل المصّاصات على الطاولة من دون عدّها. كم تظنّون أن عددها؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad 10 pajitas y atadlas con una goma: es un paquete de 10. Haced todos los que podáis.",
+          "va": "Compteu 10 palletes i lligueu-les amb una goma: és un paquet de 10. Feu-ne tots els que pugueu.",
+          "en": "Count 10 straws and put a rubber band round them: that's a bundle of 10. Make as many as you can.",
+          "fr": "Comptez 10 pailles et attachez-les avec un élastique : c'est un paquet de 10. Faites-en autant que possible.",
+          "ar": "عدّوا 10 مصّاصات واربطوها بربطة مطّاطية: هذه رزمة من 10. اصنعوا أكبر عدد ممكن من الرزم."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Contad los paquetes de 10 en 10, «diez, veinte, treinta», y luego seguid con las sueltas, de una en una.",
+          "va": "Compteu els paquets de 10 en 10, «deu, vint, trenta», i després continueu amb les soltes, d'una en una.",
+          "en": "Count the bundles in tens, “ten, twenty, thirty”, and then carry on with the loose ones, one by one.",
+          "fr": "Comptez les paquets de 10 en 10, « dix, vingt, trente », puis continuez avec les pailles seules, une par une.",
+          "ar": "عدّوا الرزم عشرة عشرة، «عشرة، عشرون، ثلاثون»، ثم أكملوا بالمصّاصات المفردة واحدة واحدة."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Comparad con lo que creíais al principio. ¿Os habéis acercado?",
+          "va": "Compareu amb el que creíeu al principi. Vos hi heu acostat?",
+          "en": "Compare with what you guessed at the start. Were you close?",
+          "fr": "Comparez avec ce que vous pensiez au début. Vous étiez près ?",
+          "ar": "قارنوا بما ظننتموه في البداية. هل اقتربتم؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con unas 20 pajitas y haced solo 1 o 2 paquetes.",
+      "va": "Comenceu amb unes 20 palletes i feu només 1 o 2 paquets.",
+      "en": "Start with about 20 straws and make just 1 or 2 bundles.",
+      "fr": "Commencez avec une vingtaine de pailles et faites seulement 1 ou 2 paquets.",
+      "ar": "ابدؤوا بنحو 20 مصّاصة واصنعوا رزمة أو رزمتين فقط."
+    },
+    "masDificil": {
+      "es": "Una persona dice un número, como 34, y la otra lo prepara con paquetes y sueltas.",
+      "va": "Una persona diu un nombre, com ara 34, i l'altra el prepara amb paquets i soltes.",
+      "en": "One person says a number, like 34, and the other makes it with bundles and loose straws.",
+      "fr": "Une personne dit un nombre, comme 34, et l'autre le prépare avec des paquets et des pailles seules.",
+      "ar": "يقول أحدنا عددًا، مثل 34، ويكوّنه الآخر برزم ومصّاصات مفردة."
+    },
+    "paraQueSirve": {
+      "es": "Agrupar de 10 en 10 es la idea que hay detrás de todos nuestros números: la decena.",
+      "va": "Agrupar de 10 en 10 és la idea que hi ha darrere de tots els nostres nombres: la desena.",
+      "en": "Grouping in tens is the idea behind all our numbers: the ten.",
+      "fr": "Regrouper par 10, c'est l'idée qui se cache derrière tous nos nombres : la dizaine.",
+      "ar": "التجميع عشرة عشرة هو الفكرة التي تقوم عليها كل أعدادنا: العشرة."
+    },
+    "aviso": {
+      "es": "Guardad las gomas elásticas lejos de hermanos o hermanas pequeños.",
+      "va": "Guardeu les gomes elàstiques lluny de germans o germanes menuts.",
+      "en": "Keep the rubber bands away from younger brothers and sisters.",
+      "fr": "Gardez les élastiques loin des petits frères et sœurs.",
+      "ar": "أبعدوا الأربطة المطّاطية عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Iker tiene 2 paquetes de 10 pajitas y 3 pajitas sueltas. ¿Cuántas pajitas tiene?",
+        "va": "Iker té 2 paquets de 10 palletes i 3 palletes soltes. Quantes palletes té?",
+        "en": "Iker has 2 bundles of 10 straws and 3 loose straws. How many straws does he have?",
+        "fr": "Iker a 2 paquets de 10 pailles et 3 pailles seules. Combien de pailles a-t-il ?",
+        "ar": "عند إيكر رزمتان من 10 مصّاصات و3 مصّاصات مفردة. كم مصّاصة عنده؟"
+      },
+      "pista": {
+        "es": "Cuenta los paquetes, «diez, veinte», y sigue con las sueltas.",
+        "va": "Compta els paquets, «deu, vint», i continua amb les soltes.",
+        "en": "Count the bundles, “ten, twenty”, and carry on with the loose ones.",
+        "fr": "Compte les paquets, « dix, vingt », et continue avec les pailles seules.",
+        "ar": "لنعدّ الرزم، «عشرة، عشرون»، ثم نكمل بالمفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 3",
+        "resultado": 23,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 23 pajitas: «diez, veinte, veintiuno, veintidós, veintitrés».",
+          "va": "En té 23: «deu, vint, vint-i-u, vint-i-dos, vint-i-tres».",
+          "en": "He has 23 straws: “ten, twenty, twenty-one, twenty-two, twenty-three”.",
+          "fr": "Il en a 23 : « dix, vingt, vingt et un, vingt-deux, vingt-trois ».",
+          "ar": "عنده 23 مصّاصة: «عشرة، عشرون، واحد وعشرون، اثنان وعشرون، ثلاثة وعشرون»."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con paquetes de 10 y algunas sueltas.",
+        "va": "Ara inventa'n tu una amb paquets de 10 i algunes soltes.",
+        "en": "Now you make one up with bundles of 10 and some loose ones.",
+        "fr": "Maintenant, invente une question avec des paquets de 10 et quelques objets seuls.",
+        "ar": "والآن لنخترع سؤالًا برزم من 10 وبعض الأشياء المفردة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En cada huevera caben 10 huevos. Si hay 2 hueveras llenas, ¿cuántos huevos hay?",
+        "va": "En cada ouera hi caben 10 ous. Si hi ha 2 oueres plenes, quants ous hi ha?",
+        "en": "Each egg box holds 10 eggs. If there are 2 full egg boxes, how many eggs are there?",
+        "fr": "Chaque boîte à œufs contient 10 œufs. S'il y a 2 boîtes pleines, combien d'œufs y a-t-il ?",
+        "ar": "تتّسع كل علبة بيض لـ10 بيضات. إذا كانت هناك علبتان ممتلئتان، كم بيضة يوجد؟"
+      },
+      "pista": {
+        "es": "Cada huevera es una decena: cuenta «diez, veinte».",
+        "va": "Cada ouera és una desena: compta «deu, vint».",
+        "en": "Each egg box is a ten: count “ten, twenty”.",
+        "fr": "Chaque boîte est une dizaine : compte « dix, vingt ».",
+        "ar": "كل علبة عشرة: لنعدّ «عشرة، عشرون»."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 20 huevos: {{10 + 10 = 20}}.",
+          "va": "Hi ha 20 ous: {{10 + 10 = 20}}.",
+          "en": "There are 20 eggs: {{10 + 10 = 20}}.",
+          "fr": "Il y a 20 œufs : {{10 + 10 = 20}}.",
+          "ar": "يوجد 20 بيضة: {{10 + 10 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con 3 o 4 cajas de 10.",
+        "va": "Inventa'n tu una altra amb 3 o 4 caixes de 10.",
+        "en": "Make up another one with 3 or 4 boxes of 10.",
+        "fr": "Invente-en une autre avec 3 ou 4 boîtes de 10.",
+        "ar": "لنخترع سؤالًا آخر بـ3 أو 4 علب من 10."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Sara tiene 14 lápices y hace un paquete de 10. ¿Cuántos lápices le quedan sueltos?",
+        "va": "Sara té 14 llapis i en fa un paquet de 10. Quants llapis li queden solts?",
+        "en": "Sara has 14 pencils and makes a bundle of 10. How many pencils are left loose?",
+        "fr": "Sara a 14 crayons et en fait un paquet de 10. Combien de crayons lui restent seuls ?",
+        "ar": "عند سارة 14 قلمًا وصنعت منها رزمة من 10. كم قلمًا بقي مفردًا؟"
+      },
+      "pista": {
+        "es": "Haz un paquete de 10 con cosas de casa y cuenta las que sobran.",
+        "va": "Fes un paquet de 10 amb coses de casa i compta les que sobren.",
+        "en": "Make a bundle of 10 with things at home and count the ones left over.",
+        "fr": "Fais un paquet de 10 avec des choses de la maison et compte celles qui restent.",
+        "ar": "لنصنع رزمة من 10 بأشياء من البيت ونعدّ ما زاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "14 - 10",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le quedan 4 sueltos: 14 es un paquete de 10 y 4 más.",
+          "va": "Li'n queden 4 de solts: 14 és un paquet de 10 i 4 més.",
+          "en": "4 are left loose: 14 is one bundle of 10 and 4 more.",
+          "fr": "Il lui en reste 4 seuls : 14, c'est un paquet de 10 et 4 de plus.",
+          "ar": "بقيت 4 أقلام مفردة: 14 هي رزمة من 10 و4 أخرى."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con los calcetines del cajón.",
+        "va": "Inventa'n tu una amb els calcetins del calaix.",
+        "en": "Make one up with the socks in the drawer.",
+        "fr": "Invente une question avec les chaussettes du tiroir.",
+        "ar": "لنخترع سؤالًا بالجوارب التي في الدرج."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 5,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: hay 10 bolos de pie y caen 6. ¿Cuántos quedan de pie?",
+        "va": "Per a recordar: hi ha 10 bitlles dretes i en cauen 6. Quantes en queden dretes?",
+        "en": "Let's remember: there are 10 skittles standing and 6 fall down. How many are still standing?",
+        "fr": "Pour se souvenir : il y a 10 quilles debout et 6 tombent. Combien en reste-t-il debout ?",
+        "ar": "لنتذكّر: هناك 10 قطع بولينغ واقفة وسقطت 6. كم قطعة بقيت واقفة؟"
+      },
+      "pista": {
+        "es": "Levanta 10 dedos, baja 6 y cuenta los que siguen arriba.",
+        "va": "Alça 10 dits, abaixa'n 6 i compta els que continuen alçats.",
+        "en": "Hold up 10 fingers, put 6 down and count the ones still up.",
+        "fr": "Lève 10 doigts, baisses-en 6 et compte ceux qui restent levés.",
+        "ar": "لنرفع 10 أصابع، ونثني 6، ونعدّ الأصابع التي بقيت مرفوعة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 4 bolos de pie.",
+          "va": "En queden 4 dretes.",
+          "en": "4 skittles are still standing.",
+          "fr": "Il reste 4 quilles debout.",
+          "ar": "بقيت 4 قطع واقفة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con bolos que caen.",
+        "va": "Inventa'n tu una altra amb bitlles que cauen.",
+        "en": "Make up another one with skittles falling down.",
+        "fr": "Invente-en une autre avec des quilles qui tombent.",
+        "ar": "لنخترع سؤالًا آخر بقطع بولينغ تسقط."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Por qué es más fácil contar muchas cosas haciendo paquetes de 10? Enséñamelo con cosas de casa.",
+        "va": "Per què és més fàcil comptar moltes coses fent paquets de 10? Ensenya-m'ho amb coses de casa.",
+        "en": "Why is it easier to count lots of things by making bundles of 10? Show me with things from home.",
+        "fr": "Pourquoi est-ce plus facile de compter beaucoup de choses en faisant des paquets de 10 ? Montre-moi avec des choses de la maison.",
+        "ar": "لماذا يصبح عدّ أشياء كثيرة أسهل عندما نصنع رزمًا من 10؟ لنُرِ ذلك بأشياء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Contamos estas pinzas de una en una y luego en paquetes de 10?»",
+        "va": "Si no sap per on començar: «Comptem aquestes pinces d'una en una i després en paquets de 10?»",
+        "en": "If they don't know where to start: “Shall we count these pegs one by one and then in bundles of 10?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « On compte ces pinces une par une, puis en paquets de 10 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نعدّ هذه الملاقط واحدًا واحدًا، ثم في رزم من 10؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede decir que así no se pierde, que se cuenta más rápido o que se ve mejor. Escuchad y preguntad «¿y si te equivocas en un paquete?».",
+          "va": "Pot dir que així no es perd, que es compta més ràpid o que es veu millor. Escolteu i pregunteu «i si t'equivoques en un paquet?».",
+          "en": "They may say you don't lose track, it's quicker or it's easier to see. Listen and ask “And what if you make a slip in one bundle?”",
+          "fr": "Il ou elle peut dire qu'on ne se perd pas, que c'est plus rapide ou qu'on voit mieux. Écoutez et demandez « Et si tu te trompes dans un paquet ? »",
+          "ar": "قد يكون الجواب أننا لا نضيع، أو أن العدّ أسرع، أو أن الرؤية أوضح. استمعوا واسألوا «وماذا لو أخطأنا في رزمة واحدة؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "837c7f5b56c7"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "837c7f5b56c7"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "837c7f5b56c7"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "837c7f5b56c7"
+      }
+    }
+  }
+}

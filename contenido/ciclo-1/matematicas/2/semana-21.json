@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s21",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 21,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Tabla del 4: doble del doble",
+    "va": "Taula del 4: doble del doble",
+    "en": "The 4 times table: double the double",
+    "fr": "Table de 4 : le double du double",
+    "ar": "جدول ضرب 4: ضعف الضعف"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren la tabla del 4 contando patas de sillas y mesas, y ven que es el doble de la tabla del 2: {{3 × 2 = 6}} y {{3 × 4 = 12}}.",
+    "va": "Aquesta setmana descobrixen la taula del 4 (tabla del 4) comptant potes de cadires i taules, i veuen que és el doble (doble) de la taula del 2 (tabla del 2): {{3 × 2 = 6}} i {{3 × 4 = 12}}.",
+    "en": "This week they discover the 4 times table (tabla del 4) by counting the legs of chairs and tables, and see that it's double (doble) the 2 times table (tabla del 2): {{3 × 2 = 6}} and {{3 × 4 = 12}}.",
+    "fr": "Cette semaine, on découvre la table de 4 (tabla del 4) en comptant les pieds des chaises et des tables, et on voit que c'est le double (doble) de la table de 2 (tabla del 2) : {{3 × 2 = 6}} et {{3 × 4 = 12}}.",
+    "ar": "هذا الأسبوع يكتشف الأطفال جدول ضرب 4 (tabla del 4) بعدّ أرجل الكراسي والطاولات، ويرون أنه الضعف (doble) لجدول ضرب 2 (tabla del 2): {{3 × 2 = 6}} و{{3 × 4 = 12}}."
+  },
+  "comoAyudar": {
+    "es": "Si no sale un resultado de la tabla del 4, preguntad «¿y en la del 2?» y luego «¿y el doble?». Contar las patas tocándolas también vale.",
+    "va": "Si no ix un resultat de la taula del 4, pregunteu «i en la del 2?» i després «i el doble?». Comptar les potes tocant-les també val.",
+    "en": "If an answer from the 4 times table doesn't come, ask “And in the 2 times table?” and then “And the double?”. Counting the legs by touching them works too.",
+    "fr": "Si un résultat de la table de 4 ne vient pas, demandez « Et dans la table de 2 ? » puis « Et le double ? ». Compter les pieds en les touchant, ça marche aussi.",
+    "ar": "إذا لم تأتِ نتيجة من جدول ضرب 4، اسألوا «وفي جدول 2؟» ثم «وما ضعفها؟». وعدّ الأرجل بلمسها يصلح أيضًا."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c1.2.2",
+    "matematicas.c1.2.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Patas por toda la casa",
+      "va": "Potes per tota la casa",
+      "en": "Legs all over the house",
+      "fr": "Des pieds partout dans la maison",
+      "ar": "أرجل في كل البيت"
+    },
+    "material": [
+      {
+        "es": "Las sillas, mesas y taburetes de casa",
+        "va": "Les cadires, taules i tamborets de casa",
+        "en": "The chairs, tables and stools at home",
+        "fr": "Les chaises, tables et tabourets de la maison",
+        "ar": "الكراسي والطاولات والمقاعد الصغيرة في البيت"
+      },
+      {
+        "es": "Un papel y un lápiz",
+        "va": "Un paper i un llapis",
+        "en": "A piece of paper and a pencil",
+        "fr": "Une feuille et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "casa",
+        "texto": {
+          "es": "Buscad por casa sillas, mesas o taburetes de 4 patas.",
+          "va": "Busqueu per casa cadires, taules o tamborets de 4 potes.",
+          "en": "Look around the house for chairs, tables or stools with 4 legs.",
+          "fr": "Cherchez dans la maison des chaises, des tables ou des tabourets à 4 pieds.",
+          "ar": "ابحثوا في البيت عن كراسٍ أو طاولات أو مقاعد صغيرة لها 4 أرجل."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad las patas de una silla de 2 en 2: las de delante y las de detrás. «2 y 2, 4»: es el doble de 2.",
+          "va": "Compteu les potes d'una cadira de 2 en 2: les de davant i les de darrere. «2 i 2, 4»: és el doble de 2.",
+          "en": "Count the legs of one chair in twos: the front ones and the back ones. “2 and 2, 4”: it's double 2.",
+          "fr": "Comptez les pieds d'une chaise de 2 en 2 : ceux de devant et ceux de derrière. « 2 et 2, 4 » : c'est le double de 2.",
+          "ar": "عدّوا أرجل كرسي واحد اثنين اثنين: الأماميتين والخلفيتين. «2 و2، 4»: إنها ضعف 2."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Poned 3 sillas juntas y contad sus patas de 4 en 4: 4, 8, 12. Es {{3 × 4 = 12}}.",
+          "va": "Poseu 3 cadires juntes i compteu-ne les potes de 4 en 4: 4, 8, 12. És {{3 × 4 = 12}}.",
+          "en": "Put 3 chairs together and count their legs in fours: 4, 8, 12. That's {{3 × 4 = 12}}.",
+          "fr": "Mettez 3 chaises ensemble et comptez leurs pieds de 4 en 4 : 4, 8, 12. C'est {{3 × 4 = 12}}.",
+          "ar": "ضعوا 3 كراسٍ معًا وعدّوا أرجلها أربعة أربعة: 4، 8، 12. أي {{3 × 4 = 12}}."
+        }
+      },
+      {
+        "pictograma": "papel",
+        "texto": {
+          "es": "Comprobadlo con el doble: las patas de delante son {{3 × 2 = 6}}, y el doble de 6 es 12. Si os ayuda, dibujad las sillas.",
+          "va": "Comproveu-ho amb el doble: les potes de davant són {{3 × 2 = 6}}, i el doble de 6 és 12. Si us ajuda, dibuixeu les cadires.",
+          "en": "Check it with the double: the front legs are {{3 × 2 = 6}}, and double 6 is 12. If it helps, draw the chairs.",
+          "fr": "Vérifiez avec le double : les pieds de devant font {{3 × 2 = 6}}, et le double de 6, c'est 12. Si ça vous aide, dessinez les chaises.",
+          "ar": "تأكّدوا بالضعف: الأرجل الأمامية {{3 × 2 = 6}}، وضعف 6 هو 12. وإن كان ذلك يساعد، ارسموا الكراسي."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 1 o 2 sillas y contad cada pata tocándola.",
+      "va": "Comenceu amb 1 o 2 cadires i compteu cada pota tocant-la.",
+      "en": "Start with 1 or 2 chairs and count each leg by touching it.",
+      "fr": "Commencez avec 1 ou 2 chaises et comptez chaque pied en le touchant.",
+      "ar": "ابدؤوا بكرسي أو كرسيين، وعدّوا كل رجل بلمسها."
+    },
+    "masDificil": {
+      "es": "Contad todas las patas de la casa, también las de la mesa, y decid la multiplicación de cada grupo.",
+      "va": "Compteu totes les potes de la casa, també les de la taula, i digueu la multiplicació (multiplicación) de cada grup.",
+      "en": "Count all the legs in the house, the table's too, and say the multiplication (multiplicación) for each group.",
+      "fr": "Comptez tous les pieds de la maison, ceux de la table aussi, et dites la multiplication (multiplicación) de chaque groupe.",
+      "ar": "عدّوا كل الأرجل في البيت، وأرجل الطاولة أيضًا، وقولوا عملية الضرب (multiplicación) لكل مجموعة."
+    },
+    "paraQueSirve": {
+      "es": "Si sabes la tabla del 2, ya tienes la del 4: basta con hacer el doble. Usar lo que ya sabes es un buen atajo para calcular.",
+      "va": "Si saps la taula del 2, ja tens la del 4: n'hi ha prou amb fer el doble. Fer servir el que ja saps és una bona drecera per a calcular.",
+      "en": "If you know the 2 times table, you already have the 4: just double it. Using what you already know is a good shortcut for working things out.",
+      "fr": "Si tu connais la table de 2, tu as déjà celle de 4 : il suffit de faire le double. Se servir de ce qu'on sait déjà, c'est un bon raccourci pour calculer.",
+      "ar": "إذا كنّا نعرف جدول ضرب 2، فعندنا جدول 4: يكفي أن نأخذ الضعف. استعمال ما نعرفه طريق مختصر جيّد للحساب."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "En la cocina de Amaia hay 2 sillas. ¿Cuántas patas tienen entre las dos?",
+        "va": "En la cuina d'Amaia hi ha 2 cadires. Quantes potes tenen entre les dues?",
+        "en": "In Amaia's kitchen there are 2 chairs. How many legs do they have altogether?",
+        "fr": "Dans la cuisine d'Amaia, il y a 2 chaises. Combien de pieds ont-elles en tout ?",
+        "ar": "في مطبخ أمايا كرسيّان. كم رجلًا لهما معًا؟"
+      },
+      "pista": {
+        "es": "Cuenta de 4 en 4: una silla y otra silla.",
+        "va": "Compta de 4 en 4: una cadira i una altra cadira.",
+        "en": "Count in fours: one chair and another chair.",
+        "fr": "Compte de 4 en 4 : une chaise et une autre chaise.",
+        "ar": "لنعدّ أربعة أربعة: كرسي ثم كرسي آخر."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 × 4",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienen 8 patas: {{2 × 4 = 8}}.",
+          "va": "Tenen 8 potes: {{2 × 4 = 8}}.",
+          "en": "They have 8 legs: {{2 × 4 = 8}}.",
+          "fr": "Elles ont 8 pieds : {{2 × 4 = 8}}.",
+          "ar": "لهما 8 أرجل: {{2 × 4 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las sillas de tu casa.",
+        "va": "Inventa'n tu una altra amb les cadires de ta casa.",
+        "en": "Make up another one with the chairs in your home.",
+        "fr": "Invente-en une autre avec les chaises de ta maison.",
+        "ar": "لنخترع سؤالًا آخر بكراسي بيتنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "El abuelo de Pablo tiene un gato, un perro y una tortuga. ¿Cuántas patas hay entre los tres?",
+        "va": "L'avi de Pablo té un gat, un gos i una tortuga. Quantes potes hi ha entre els tres?",
+        "en": "Pablo's grandad has a cat, a dog and a tortoise. How many legs are there among the three?",
+        "fr": "Le grand-père de Pablo a un chat, un chien et une tortue. Combien de pattes y a-t-il en tout ?",
+        "ar": "عند جدّ بابلو قطّ وكلب وسلحفاة. كم رجلًا لها جميعًا؟"
+      },
+      "pista": {
+        "es": "Cada animal tiene 4 patas: cuenta de 4 en 4 tres veces.",
+        "va": "Cada animal té 4 potes: compta de 4 en 4 tres vegades.",
+        "en": "Each animal has 4 legs: count in fours three times.",
+        "fr": "Chaque animal a 4 pattes : compte de 4 en 4 trois fois.",
+        "ar": "لكل حيوان 4 أرجل: لنعدّ أربعة أربعة ثلاث مرّات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 × 4",
+        "resultado": 12,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 12 patas: {{3 × 4 = 12}}.",
+          "va": "Hi ha 12 potes: {{3 × 4 = 12}}.",
+          "en": "There are 12 legs: {{3 × 4 = 12}}.",
+          "fr": "Il y a 12 pattes : {{3 × 4 = 12}}.",
+          "ar": "يوجد 12 رجلًا: {{3 × 4 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con animales de cuatro patas de un cuento.",
+        "va": "Inventa'n tu una altra amb animals de quatre potes d'un conte.",
+        "en": "Make up another one with four-legged animals from a story.",
+        "fr": "Invente-en une autre avec des animaux à quatre pattes d'une histoire.",
+        "ar": "لنخترع سؤالًا آخر بحيوانات لها أربع أرجل من قصة."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "suma-repetida",
+      "texto": {
+        "es": "Sabes que {{5 × 2 = 10}}. Entonces, ¿cuánto es {{5 × 4}}?",
+        "va": "Saps que {{5 × 2 = 10}}. Aleshores, quant és {{5 × 4}}?",
+        "en": "You know that {{5 × 2 = 10}}. So how much is {{5 × 4}}?",
+        "fr": "Tu sais que {{5 × 2 = 10}}. Alors, combien font {{5 × 4}} ?",
+        "ar": "نعرف أن {{5 × 2 = 10}}. إذن، كم يساوي {{5 × 4}}؟"
+      },
+      "pista": {
+        "es": "Piensa en el doble de 10.",
+        "va": "Pensa en el doble de 10.",
+        "en": "Think of double 10.",
+        "fr": "Pense au double de 10.",
+        "ar": "لنفكّر في ضعف 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "5 × 4",
+        "resultado": 20,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Es 20, el doble de 10: {{5 × 4 = 20}}.",
+          "va": "És 20, el doble de 10: {{5 × 4 = 20}}.",
+          "en": "It's 20, double 10: {{5 × 4 = 20}}.",
+          "fr": "Ça fait 20, le double de 10 : {{5 × 4 = 20}}.",
+          "ar": "إنه 20، ضعف 10: {{5 × 4 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: elige un número de la tabla del 2 y busca su doble.",
+        "va": "Inventa'n tu una altra: tria un nombre de la taula del 2 i busca'n el doble.",
+        "en": "Make up another one: pick a number from the 2 times table and find its double.",
+        "fr": "Invente-en une autre : choisis un nombre de la table de 2 et cherche son double.",
+        "ar": "لنخترع سؤالًا آخر: نختار عددًا من جدول ضرب 2 ونبحث عن ضعفه."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 13,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: ¿qué decena se junta con 30 para llegar a 100?",
+        "va": "Per a recordar: quina desena (decena) s'ajunta amb 30 per a arribar a 100?",
+        "en": "Let's remember: which ten (decena) goes with 30 to make 100?",
+        "fr": "Pour se souvenir : quelle dizaine (decena) va avec 30 pour arriver à 100 ?",
+        "ar": "لنتذكّر: أيّ عشرة (decena) نجمعها مع 30 لنصل إلى 100؟"
+      },
+      "pista": {
+        "es": "Piensa en 3 y su pareja del 10.",
+        "va": "Pensa en 3 i la seua parella del 10.",
+        "en": "Think of 3 and its partner to make 10.",
+        "fr": "Pense à 3 et à son complément pour faire 10.",
+        "ar": "لنفكّر في 3 وشريكه الذي يكمّله إلى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "100 - 30",
+        "resultado": 70,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 70: {{30 + 70 = 100}}.",
+          "va": "El 70: {{30 + 70 = 100}}.",
+          "en": "70: {{30 + 70 = 100}}.",
+          "fr": "70 : {{30 + 70 = 100}}.",
+          "ar": "العدد 70: {{30 + 70 = 100}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pareja de decenas que llegue a 100.",
+        "va": "Inventa't tu una altra parella de desenes que arribe a 100.",
+        "en": "Make up another pair of tens that makes 100.",
+        "fr": "Invente une autre paire de dizaines qui fait 100.",
+        "ar": "لنخترع زوجًا آخر من العشرات مجموعه 100."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes cuántas patas tienen 5 sillas sin contarlas una a una? Explícamelo.",
+        "va": "Com saps quantes potes tenen 5 cadires sense comptar-les una a una? Explica-m'ho.",
+        "en": "How do you know how many legs 5 chairs have without counting them one by one? Explain it to me.",
+        "fr": "Comment sais-tu combien de pieds ont 5 chaises sans les compter un par un ? Explique-le-moi.",
+        "ar": "كيف نعرف كم رجلًا لخمسة كراسٍ من غير أن نعدّها واحدة واحدة؟ لنشرح ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Y si primero cuentas solo las patas de delante?»",
+        "va": "Si no sap per on començar: «I si primer comptes només les potes de davant?»",
+        "en": "If they don't know where to start: “What if you count only the front legs first?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Et si tu comptais d'abord seulement les pieds de devant ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا لو عددنا الأرجل الأمامية فقط أولًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale contar de 4 en 4, hacer {{5 × 2 = 10}} y el doble, o cualquier otro camino. Preguntad «¿y cómo lo has pensado?».",
+          "va": "Val comptar de 4 en 4, fer {{5 × 2 = 10}} i el doble, o qualsevol altre camí. Pregunteu «i com ho has pensat?».",
+          "en": "Counting in fours, doing {{5 × 2 = 10}} and then the double, or any other way all work. Ask “And how did you think about it?”.",
+          "fr": "Compter de 4 en 4, faire {{5 × 2 = 10}} puis le double, ou tout autre chemin, ça marche. Demandez « Et comment tu as réfléchi ? ».",
+          "ar": "يصلح العدّ أربعة أربعة، أو حساب {{5 × 2 = 10}} ثم الضعف، أو أيّ طريق آخر. اسألوا «وكيف فكّرنا في ذلك؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "9474cb8ff55c"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "9474cb8ff55c"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "9474cb8ff55c"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "9474cb8ff55c"
+      }
+    }
+  }
+}

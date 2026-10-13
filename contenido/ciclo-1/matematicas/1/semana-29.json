@@ -1,0 +1,347 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s29",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 29,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: grupos, caminos y monedas",
+    "va": "Setmana de recordar: grups, camins i monedes",
+    "en": "Remembering week: groups, paths and coins",
+    "fr": "Semaine de rappel : groupes, chemins et pièces",
+    "ar": "أسبوع التذكّر: مجموعات ومسارات وقطع نقدية"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las últimas semanas: repartir y hacer grupos, patrones, caminos con flechas, los euros y la hora. No hay nada nuevo: es para que se asiente.",
+    "va": "Aquesta setmana tornen a allò de les últimes setmanes: repartir i fer grups, patrons (patrones), camins amb fletxes, els euros i l'hora. No hi ha res de nou: és perquè s'assente.",
+    "en": "This week they go back to the last few weeks: sharing out (repartir) and making groups, patterns (patrones), arrow paths, euros and telling the time. There's nothing new: it's so that it all settles.",
+    "fr": "Cette semaine, on revient sur les dernières semaines : partager (repartir) et faire des groupes, les motifs (patrones), les chemins avec des flèches, les euros et l'heure. Rien de nouveau : c'est pour que tout se mette bien en place.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الأخيرة: التوزيع (repartir) وتكوين المجموعات، والأنماط (patrones)، والمسارات بالأسهم، واليورو، والساعة. لا جديد: الهدف أن يترسّخ ما تعلّموه."
+  },
+  "comoAyudar": {
+    "es": "En la tienda, dejad que pague y cuente la vuelta con las monedas en la mano. Si se lía, contad juntos otra vez, despacio.",
+    "va": "A la botiga, deixeu que pague i compte el canvi (la vuelta) amb les monedes a la mà. Si s'embolica, compteu junts una altra vegada, a poc a poc.",
+    "en": "In the shop, let them pay and count the change (la vuelta) with the coins in their hand. If they get muddled, count together again, slowly.",
+    "fr": "Dans la boutique, laissez votre enfant payer et compter la monnaie (la vuelta) avec les pièces dans la main. S'il ou elle s'embrouille, recomptez ensemble, doucement.",
+    "ar": "في المتجر، دعوا الدفع وعدّ الباقي من المال (la vuelta) يكونان بالقطع النقدية في اليد. وإذا حصل خلط، لنعدّ معًا من جديد، ببطء."
+  },
+  "saberes": [
+    "matematicas.operaciones.doble-mitad",
+    "matematicas.computacional.secuencias-figuras",
+    "matematicas.medida.magnitudes"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La tienda y el reparto",
+      "va": "La botiga i el repartiment",
+      "en": "The shop and the share-out",
+      "fr": "La boutique et le partage",
+      "ar": "المتجر والتوزيع"
+    },
+    "material": [
+      {
+        "es": "Tres o cuatro juguetes y papelitos para poner los precios",
+        "va": "Tres o quatre joguets i paperets per a posar els preus",
+        "en": "Three or four toys and small pieces of paper for the prices",
+        "fr": "Trois ou quatre jouets et des petits papiers pour les prix",
+        "ar": "ثلاث أو أربع ألعاب وأوراق صغيرة لكتابة الأسعار"
+      },
+      {
+        "es": "Diez monedas de 1 € (de verdad o hechas en papel) y un billete de 10 € de papel",
+        "va": "Deu monedes d'1 € (de veritat o fetes de paper) i un bitllet de 10 € de paper",
+        "en": "Ten 1 € coins (real ones or made of paper) and a paper 10 € note",
+        "fr": "Dix pièces de 1 € (des vraies ou en papier) et un billet de 10 € en papier",
+        "ar": "عشر قطع نقدية من فئة 1 € (حقيقية أو من ورق) وورقة نقدية من فئة 10 € من ورق"
+      },
+      {
+        "es": "Dos platos",
+        "va": "Dos plats",
+        "en": "Two plates",
+        "fr": "Deux assiettes",
+        "ar": "صحنان"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Poned a cada juguete un precio de 1 a 9 euros. Una persona vende y la otra compra.",
+          "va": "Poseu a cada joguet un preu d'1 a 9 euros. Una persona ven i l'altra compra.",
+          "en": "Give each toy a price from 1 to 9 euros. One person sells and the other buys.",
+          "fr": "Donnez à chaque jouet un prix de 1 à 9 euros. Une personne vend et l'autre achète.",
+          "ar": "ضعوا لكل لعبة سعرًا من 1 إلى 9 يورو. شخص يبيع والآخر يشتري."
+        }
+      },
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Quien compra paga con el billete de 10 €. Quien vende devuelve la vuelta con monedas de 1 €, contando desde el precio hasta 10.",
+          "va": "Qui compra paga amb el bitllet de 10 €. Qui ven torna el canvi amb monedes d'1 €, comptant des del preu fins a 10.",
+          "en": "The buyer pays with the 10 € note. The seller gives back the change in 1 € coins, counting up from the price to 10.",
+          "fr": "Qui achète paie avec le billet de 10 €. Qui vend rend la monnaie en pièces de 1 €, en comptant du prix jusqu'à 10.",
+          "ar": "من يشتري يدفع بالورقة النقدية من فئة 10 €. ومن يبيع يُرجع الباقي بقطع من فئة 1 €، عادًّا من السعر حتى 10."
+        }
+      },
+      {
+        "pictograma": "plato",
+        "texto": {
+          "es": "Repartid las monedas de la vuelta entre los dos platos, de una en una. ¿Os toca lo mismo o sobra una?",
+          "va": "Repartiu les monedes del canvi entre els dos plats, d'una en una. Vos toca el mateix o en sobra una?",
+          "en": "Share out the change coins between the two plates, one at a time. Do you both get the same, or is there one left over?",
+          "fr": "Partagez les pièces de la monnaie entre les deux assiettes, une par une. Vous en avez autant chacun, ou il en reste une ?",
+          "ar": "وزّعوا قطع الباقي على الصحنين، قطعة قطعة. هل نحصل على العدد نفسه أم تبقى قطعة؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Cambiad los papeles y comprad otro juguete.",
+          "va": "Canvieu els papers i compreu un altre joguet.",
+          "en": "Swap roles and buy another toy.",
+          "fr": "Échangez les rôles et achetez un autre jouet.",
+          "ar": "تبادلوا الأدوار واشتروا لعبة أخرى."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad precios de 5 a 9 euros: la vuelta es pequeña y se cuenta con los dedos.",
+      "va": "Feu servir preus de 5 a 9 euros: el canvi és xicotet i es compta amb els dits.",
+      "en": "Use prices from 5 to 9 euros: the change is small and you can count it on your fingers.",
+      "fr": "Prenez des prix de 5 à 9 euros : la monnaie est petite et se compte sur les doigts.",
+      "ar": "استعملوا أسعارًا من 5 إلى 9 يورو: الباقي صغير ويُعدّ بالأصابع."
+    },
+    "masDificil": {
+      "es": "Comprad dos juguetes a la vez y pagad con el billete de 10 €. ¿Os llega? ¿Cuánto os devuelven?",
+      "va": "Compreu dos joguets alhora i pagueu amb el bitllet de 10 €. Vos arriba? Quant vos tornen?",
+      "en": "Buy two toys at once and pay with the 10 € note. Is it enough? How much change do you get?",
+      "fr": "Achetez deux jouets à la fois et payez avec le billet de 10 €. Ça suffit ? Combien vous rend-on ?",
+      "ar": "اشتروا لعبتين معًا وادفعوا بالورقة النقدية من فئة 10 €. هل تكفي؟ كم الباقي؟"
+    },
+    "paraQueSirve": {
+      "es": "Pagar, contar la vuelta y repartir a partes iguales junta en un solo juego lo de varias semanas, con cosas que se tocan.",
+      "va": "Pagar, comptar el canvi i repartir a parts iguals ajunta en un sol joc allò de diverses setmanes, amb coses que es toquen.",
+      "en": "Paying, counting the change and sharing out equally brings several weeks together in one game, with things you can touch.",
+      "fr": "Payer, compter la monnaie et partager en parts égales réunit en un seul jeu ce qu'on a vu pendant plusieurs semaines, avec des choses qu'on touche.",
+      "ar": "الدفع وعدّ الباقي والتوزيع بالتساوي تجمع في لعبة واحدة ما تعلّمناه في عدة أسابيع، بأشياء نلمسها."
+    },
+    "aviso": {
+      "es": "Las monedas son pequeñas: guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Les monedes són menudes: guardeu-les lluny de germans o germanes menuts.",
+      "en": "Coins are small: keep them away from younger brothers and sisters.",
+      "fr": "Les pièces sont petites : gardez-les loin des petits frères et sœurs.",
+      "ar": "القطع النقدية صغيرة: أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Mateo y su abuela reparten 10 uvas a partes iguales. ¿Cuántas uvas le tocan a cada persona?",
+        "va": "Mateo i la seua iaia reparteixen 10 raïms a parts iguals. Quants raïms li toquen a cada persona?",
+        "en": "Mateo and his grandma share out 10 grapes equally. How many grapes does each person get?",
+        "fr": "Mateo et sa grand-mère partagent 10 raisins en parts égales. Combien de raisins chaque personne a-t-elle ?",
+        "ar": "يوزّع ماتيو وجدّته 10 حبات عنب بالتساوي. كم حبة يأخذ كل واحد منهما؟"
+      },
+      "pista": {
+        "es": "Repártelas de una en una: una para ti, una para mí.",
+        "va": "Reparteix-los d'un en un: un per a tu, un per a mi.",
+        "en": "Share them out one at a time: one for you, one for me.",
+        "fr": "Partage-les un par un : un pour toi, un pour moi.",
+        "ar": "لنوزّعها حبة حبة: واحدة لك، وواحدة لي."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 5",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "A cada persona le tocan 5 uvas, porque {{5 + 5 = 10}}.",
+          "va": "A cada persona li toquen 5 raïms, perquè {{5 + 5 = 10}}.",
+          "en": "Each person gets 5 grapes, because {{5 + 5 = 10}}.",
+          "fr": "Chaque personne a 5 raisins, parce que {{5 + 5 = 10}}.",
+          "ar": "يأخذ كل واحد منهما 5 حبات، لأن {{5 + 5 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una para repartir algo de la cocina entre dos personas.",
+        "va": "Ara inventa'n tu una per a repartir alguna cosa de la cuina entre dues persones.",
+        "en": "Now you make one up about sharing something from the kitchen between two people.",
+        "fr": "Maintenant, invente une question pour partager quelque chose de la cuisine entre deux personnes.",
+        "ar": "والآن لنخترع سؤالًا عن توزيع شيء من المطبخ بين شخصين."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Un coche de juguete cuesta 7 euros. Lucía paga con un billete de 10 euros. ¿Cuánto le devuelven?",
+        "va": "Un cotxe de joguet costa 7 euros. Lucía paga amb un bitllet de 10 euros. Quant li tornen?",
+        "en": "A toy car costs 7 euros. Lucía pays with a 10-euro note. How much change does she get?",
+        "fr": "Une petite voiture coûte 7 euros. Lucía paie avec un billet de 10 euros. Combien lui rend-on ?",
+        "ar": "سيارة لعبة ثمنها 7 يورو. تدفع لوسيا بورقة نقدية من فئة 10 يورو. كم يُرجعون لها؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 7 hasta el 10.",
+        "va": "Compta amb els dits des del 7 fins al 10.",
+        "en": "Count on your fingers from 7 up to 10.",
+        "fr": "Compte sur tes doigts de 7 jusqu'à 10.",
+        "ar": "لنعدّ بالأصابع من 7 حتى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 7",
+        "resultado": 3,
+        "unidad": "euros",
+        "texto": {
+          "es": "Le devuelven 3 €.",
+          "va": "Li tornen 3 €.",
+          "en": "She gets 3 € back.",
+          "fr": "On lui rend 3 €.",
+          "ar": "يُرجعون لها 3 €."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: pon precio a un juguete tuyo y paga con 10 euros.",
+        "va": "Inventa'n tu una altra: posa preu a un joguet teu i paga amb 10 euros.",
+        "en": "Make up another one: put a price on one of your toys and pay with 10 euros.",
+        "fr": "Invente-en une autre : mets un prix sur un de tes jouets et paie avec 10 euros.",
+        "ar": "لنخترع سؤالًا آخر: نضع سعرًا لإحدى ألعابنا وندفع 10 يورو."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Aisha pone pinzas así: roja, azul, roja, azul, roja… ¿De qué color es la que viene después?",
+        "va": "Aisha posa pinces així: roja, blava, roja, blava, roja… De quin color és la que ve després?",
+        "en": "Aisha lays out pegs like this: red, blue, red, blue, red… What colour comes next?",
+        "fr": "Aisha pose des pinces comme ça : rouge, bleue, rouge, bleue, rouge… De quelle couleur est la suivante ?",
+        "ar": "تضع عائشة ملاقط هكذا: أحمر، أزرق، أحمر، أزرق، أحمر… ما لون الملقط التالي؟"
+      },
+      "pista": {
+        "es": "Dilo en voz alta, como una canción, y sigue el ritmo.",
+        "va": "Digues-ho en veu alta, com una cançó, i segueix el ritme.",
+        "en": "Say it out loud, like a song, and keep the rhythm going.",
+        "fr": "Dis-le à voix haute, comme une chanson, et suis le rythme.",
+        "ar": "لنقلها بصوت عالٍ، مثل أغنية، ونتابع الإيقاع."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Azul: el patrón es «roja, azul» y vuelve a empezar. Si dice otro color, decidlo juntos en voz alta desde el principio.",
+          "va": "Blava: el patró (patrón) és «roja, blava» i torna a començar. Si diu un altre color, digueu-ho junts en veu alta des del principi.",
+          "en": "Blue: the pattern (patrón) is “red, blue” and then it starts again. If they say another colour, say it together out loud from the beginning.",
+          "fr": "Bleue : le motif (patrón) est « rouge, bleue » et ça recommence. Si votre enfant dit une autre couleur, dites-le ensemble à voix haute depuis le début.",
+          "ar": "أزرق: النمط (patrón) هو «أحمر، أزرق» ثم يبدأ من جديد. إذا قيل لون آخر، قولوا السلسلة معًا بصوت عالٍ من أولها."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú un patrón con cucharas y tenedores y pregunta qué viene después.",
+        "va": "Inventa tu un patró amb culleres i forquetes i pregunta què ve després.",
+        "en": "Make up a pattern with spoons and forks and ask what comes next.",
+        "fr": "Invente un motif avec des cuillères et des fourchettes et demande ce qui vient après.",
+        "ar": "لنخترع نمطًا بالملاعق والشوكات ونسأل: ما التالي؟"
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 27,
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Para recordar: en el reloj, la aguja corta señala el 3 y la larga, el 12. ¿Qué hora es?",
+        "va": "Per a recordar: en el rellotge, l'agulla curta assenyala el 3 i la llarga, el 12. Quina hora és?",
+        "en": "Let's remember: on the clock, the short hand points to 3 and the long hand to 12. What time is it?",
+        "fr": "Pour se souvenir : sur l'horloge, la petite aiguille montre le 3 et la grande, le 12. Quelle heure est-il ?",
+        "ar": "لنتذكّر: في الساعة، يشير العقرب القصير إلى 3 والطويل إلى 12. كم الساعة؟"
+      },
+      "pista": {
+        "es": "Cuando la aguja larga está en el 12, la hora es en punto.",
+        "va": "Quan l'agulla llarga està en el 12, l'hora és en punt (en punto).",
+        "en": "When the long hand is on 12, it's o'clock (en punto).",
+        "fr": "Quand la grande aiguille est sur le 12, c'est l'heure pile (en punto).",
+        "ar": "عندما يكون العقرب الطويل على 12، تكون الساعة تمامًا (en punto)."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Son las 3 en punto (3:00). Si os apetece, poned juntos esa hora en un reloj de agujas o en el reloj de plato.",
+          "va": "Són les 3 en punt (3:00). Si vos ve de gust, poseu junts eixa hora en un rellotge d'agulles o en el rellotge de plat.",
+          "en": "It's 3 o'clock (3:00). If you like, set that time together on a clock with hands or on the paper-plate clock.",
+          "fr": "Il est 3 heures pile (3:00). Si vous en avez envie, mettez ensemble cette heure sur une horloge à aiguilles ou sur l'horloge en assiette.",
+          "ar": "الساعة 3 تمامًا (3:00). إن رغبتم، ضعوا هذه الساعة معًا على ساعة بعقارب أو على ساعة الصحن."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con la hora a la que cenáis.",
+        "va": "Inventa'n tu una altra amb l'hora a la qual sopeu.",
+        "en": "Make up another one with the time you have dinner.",
+        "fr": "Invente-en une autre avec l'heure à laquelle vous dînez.",
+        "ar": "لنخترع سؤالًا آخر عن ساعة العشاء."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Imagina que soy un robot. Explícame paso a paso cómo voy de tu cama a la puerta de casa.",
+        "va": "Imagina que soc un robot. Explica'm pas a pas com vaig del teu llit a la porta de casa.",
+        "en": "Imagine I'm a robot. Explain to me step by step how I get from your bed to the front door.",
+        "fr": "Imagine que je suis un robot. Explique-moi pas à pas comment je vais de ton lit à la porte de la maison.",
+        "ar": "لنتخيّل أنني روبوت. لنشرح خطوة بخطوة كيف أذهب من السرير إلى باب البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Doy pasos hacia delante? ¿Cuántos? ¿Y luego giro a qué lado?»",
+        "va": "Si no sap per on començar: «Faig passos cap avant? Quants? I després gire cap a quin costat?»",
+        "en": "If they don't know where to start: “Do I take steps forward? How many? And then which way do I turn?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « J'avance de quelques pas ? Combien ? Et ensuite je tourne de quel côté ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل أمشي خطوات إلى الأمام؟ كم خطوة؟ ثم إلى أي جهة أستدير؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Haced de robot de verdad: seguid sus órdenes al pie de la letra. Si chocáis con algo, reíos y buscad juntos qué orden cambiar.",
+          "va": "Feu de robot de veritat: seguiu les seues ordres al peu de la lletra. Si xoqueu amb alguna cosa, rieu i busqueu junts quina ordre canviar.",
+          "en": "Really be the robot: follow their instructions exactly. If you bump into something, laugh and look together for which instruction to change.",
+          "fr": "Faites vraiment le robot : suivez ses ordres à la lettre. Si vous vous cognez à quelque chose, riez et cherchez ensemble quel ordre changer.",
+          "ar": "كونوا روبوتًا حقيقيًا: نفّذوا التعليمات حرفيًا. وإذا اصطدمتم بشيء، اضحكوا وابحثوا معًا عن التعليمة التي نغيّرها."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "0a7f8ed2c205"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "0a7f8ed2c205"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "0a7f8ed2c205"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "0a7f8ed2c205"
+      }
+    }
+  }
+}

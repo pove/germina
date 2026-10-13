@@ -1,0 +1,349 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s33",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 33,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Pesa más, cabe más",
+    "va": "Pesa més, hi cap més",
+    "en": "Heavier, holds more",
+    "fr": "Plus lourd, plus de place",
+    "ar": "أثقل، يسع أكثر"
+  },
+  "objetivo": {
+    "es": "Esta semana comparan pesos y capacidades sin báscula: qué pesa más con una percha y en qué botella caben más vasos de agua.",
+    "va": "Aquesta setmana comparen pesos i capacitats (capacidades) sense bàscula: què pesa més amb una penja-robes i en quina botella caben més gots d'aigua.",
+    "en": "This week they compare weights and capacities (capacidades) without scales: what is heavier using a coat hanger, and which bottle holds more cups of water.",
+    "fr": "Cette semaine, on compare des poids et des capacités (capacidades) sans balance : ce qui pèse le plus avec un cintre, et dans quelle bouteille on peut verser le plus de verres d'eau.",
+    "ar": "هذا الأسبوع يقارن الأطفال الأوزان والسعات (capacidades) من دون ميزان: ما الأثقل باستعمال علّاقة ملابس، وأيّ قارورة تسع أكوابًا أكثر من الماء."
+  },
+  "comoAyudar": {
+    "es": "Antes de comprobar, preguntad «¿qué crees que pesa más?». Descubrir que lo grande no siempre pesa más es un buen hallazgo.",
+    "va": "Abans de comprovar-ho, pregunteu «què creus que pesa més?». Descobrir que allò gran no sempre pesa més és una bona troballa.",
+    "en": "Before checking, ask “What do you think is heavier?”. Finding out that big things are not always heavier is a great discovery.",
+    "fr": "Avant de vérifier, demandez « À ton avis, qu'est-ce qui pèse le plus ? ». Découvrir que ce qui est grand ne pèse pas toujours plus, c'est une belle trouvaille.",
+    "ar": "قبل التحقّق، اسألوا «ما رأيكم، ما الأثقل؟». اكتشاف أن الشيء الكبير ليس دائمًا الأثقل اكتشاف جميل."
+  },
+  "saberes": [
+    "matematicas.medida.no-convencionales",
+    "matematicas.medida.magnitudes"
+  ],
+  "criterios": [
+    "matematicas.c1.3.3",
+    "matematicas.c1.2.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La balanza de percha",
+      "va": "La balança de penja-robes",
+      "en": "The coat-hanger scales",
+      "fr": "La balance cintre",
+      "ar": "ميزان العلّاقة"
+    },
+    "material": [
+      {
+        "es": "Una percha y dos bolsas de tela iguales",
+        "va": "Una penja-robes i dues bosses de tela iguals",
+        "en": "A coat hanger and two identical cloth bags",
+        "fr": "Un cintre et deux sacs en tissu identiques",
+        "ar": "علّاقة ملابس وكيسان متماثلان من القماش"
+      },
+      {
+        "es": "Cosas de casa: una manzana, un libro, unos calcetines, una pelota…",
+        "va": "Coses de casa: una poma, un llibre, uns calcetins, una pilota…",
+        "en": "Things from home: an apple, a book, some socks, a ball…",
+        "fr": "Des choses de la maison : une pomme, un livre, des chaussettes, un ballon…",
+        "ar": "أشياء من البيت: تفاحة، كتاب، جوارب، كرة…"
+      },
+      {
+        "es": "Dos botellas de plástico distintas, vacías, y un vaso",
+        "va": "Dues botelles de plàstic diferents, buides, i un got",
+        "en": "Two different empty plastic bottles and a cup",
+        "fr": "Deux bouteilles en plastique différentes, vides, et un verre",
+        "ar": "قارورتان بلاستيكيتان مختلفتان فارغتان وكوب"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "balanza",
+        "texto": {
+          "es": "Una persona sujeta la percha por el gancho. Colgad una bolsa en cada punta.",
+          "va": "Una persona subjecta la penja-robes pel ganxo. Pengeu una bossa a cada punta.",
+          "en": "One person holds the hanger by its hook. Hang a bag from each end.",
+          "fr": "Une personne tient le cintre par le crochet. Accrochez un sac à chaque bout.",
+          "ar": "يمسك شخص العلّاقة من خطّافها. علّقوا كيسًا في كل طرف."
+        }
+      },
+      {
+        "pictograma": "bolsa",
+        "texto": {
+          "es": "Meted una cosa en cada bolsa. Antes de soltar, decid cuál creéis que pesa más. La bolsa que baja es la que pesa más.",
+          "va": "Fiqueu una cosa en cada bossa. Abans de deixar-les, digueu quina creieu que pesa més. La bossa que baixa és la que pesa més.",
+          "en": "Put one thing in each bag. Before letting go, say which one you think is heavier. The bag that goes down is the heavier one.",
+          "fr": "Mettez une chose dans chaque sac. Avant de lâcher, dites laquelle vous semble la plus lourde. Le sac qui descend est le plus lourd.",
+          "ar": "ضعوا شيئًا في كل كيس. قبل الإفلات، قولوا أيّهما تظنّون أنه الأثقل. الكيس الذي ينزل هو الأثقل."
+        }
+      },
+      {
+        "pictograma": "botella",
+        "texto": {
+          "es": "Ahora, en la cocina o en el baño: llenad una botella con vasos de agua y contad cuántos caben. Haced lo mismo con la otra.",
+          "va": "Ara, a la cuina o al bany: ompliu una botella amb gots d'aigua i compteu quants hi caben. Feu el mateix amb l'altra.",
+          "en": "Now, in the kitchen or the bathroom: fill one bottle with cups of water and count how many go in. Do the same with the other one.",
+          "fr": "Maintenant, à la cuisine ou dans la salle de bains : remplissez une bouteille avec des verres d'eau et comptez combien on peut en verser. Faites pareil avec l'autre.",
+          "ar": "الآن، في المطبخ أو الحمّام: املؤوا قارورة بأكواب الماء وعدّوا كم كوبًا تسع. افعلوا الشيء نفسه بالأخرى."
+        }
+      },
+      {
+        "pictograma": "barras",
+        "texto": {
+          "es": "Dibujad una rayita por cada vaso, una fila para cada botella. ¿En cuál caben más vasos? ¿Cuántos más?",
+          "va": "Dibuixeu una ratlleta per cada got, una fila per a cada botella. En quina hi caben més gots? Quants més?",
+          "en": "Draw a little line for each cup, one row for each bottle. Which one holds more cups? How many more?",
+          "fr": "Dessinez un petit trait par verre, une rangée pour chaque bouteille. Dans laquelle on en verse le plus ? Combien de plus ?",
+          "ar": "ارسموا خطًا صغيرًا لكل كوب، صفًا لكل قارورة. أيّ قارورة تسع أكوابًا أكثر؟ وكم أكثر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Comparad solo dos cosas muy distintas, como un libro y unos calcetines: primero con las manos y luego con la percha.",
+      "va": "Compareu només dues coses molt diferents, com un llibre i uns calcetins: primer amb les mans i després amb la penja-robes.",
+      "en": "Only compare two very different things, like a book and some socks: first with your hands, then with the hanger.",
+      "fr": "Comparez seulement deux choses très différentes, comme un livre et des chaussettes : d'abord avec les mains, puis avec le cintre.",
+      "ar": "قارنوا شيئين مختلفين جدًا فقط، مثل كتاب وجوارب: أولًا باليدين، ثم بالعلّاقة."
+    },
+    "masDificil": {
+      "es": "Antes de llenar cada botella, adivinad cuántos vasos caben y luego mirad cuánto os habéis acercado.",
+      "va": "Abans d'omplir cada botella, endevineu quants gots hi caben i després mireu quant vos hi heu acostat.",
+      "en": "Before filling each bottle, guess how many cups will go in, then see how close you were.",
+      "fr": "Avant de remplir chaque bouteille, devinez combien de verres on pourra y verser, puis regardez si vous étiez près.",
+      "ar": "قبل ملء كل قارورة، خمّنوا كم كوبًا تسع، ثم انظروا كم كان تخمينكم قريبًا."
+    },
+    "paraQueSirve": {
+      "es": "Comparar con las manos, con la percha y con vasos prepara para entender después el kilo y el litro.",
+      "va": "Comparar amb les mans, amb la penja-robes i amb gots prepara per a entendre després el quilo (kilo) i el litre (litro).",
+      "en": "Comparing with your hands, the hanger and cups gets them ready to understand the kilo (kilo) and the litre (litro) later on.",
+      "fr": "Comparer avec les mains, le cintre et des verres prépare à comprendre ensuite le kilo (kilo) et le litre (litro).",
+      "ar": "المقارنة باليدين وبالعلّاقة وبالأكواب تمهّد لفهم الكيلوغرام (kilo) واللتر (litro) لاحقًا."
+    },
+    "aviso": {
+      "es": "Con el agua, mejor en la cocina o en el baño y con una persona adulta; secad el suelo si se moja.",
+      "va": "Amb l'aigua, millor a la cuina o al bany i amb una persona adulta; eixugueu el terra si es banya.",
+      "en": "With water, it's best in the kitchen or bathroom with an adult; dry the floor if it gets wet.",
+      "fr": "Avec l'eau, mieux vaut être à la cuisine ou dans la salle de bains, avec une personne adulte ; essuyez le sol s'il est mouillé.",
+      "ar": "مع الماء، الأفضل أن يكون اللعب في المطبخ أو الحمّام ومع شخص بالغ؛ جفّفوا الأرض إذا ابتلّت."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "En una botella caben 6 vasos de agua y en otra, 9. ¿En cuál caben más? ¿Cuántos vasos más?",
+        "va": "En una botella hi caben 6 gots d'aigua i en una altra, 9. En quina en caben més? Quants gots més?",
+        "en": "One bottle holds 6 cups of water and another holds 9. Which one holds more? How many more cups?",
+        "fr": "Dans une bouteille, on peut verser 6 verres d'eau et dans une autre, 9. Laquelle en contient le plus ? Combien de verres de plus ?",
+        "ar": "قارورة تسع 6 أكواب من الماء وأخرى تسع 9. أيّهما تسع أكثر؟ وكم كوبًا أكثر؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 6 hasta el 9.",
+        "va": "Compta amb els dits des del 6 fins al 9.",
+        "en": "Count on your fingers from 6 up to 9.",
+        "fr": "Compte sur tes doigts de 6 jusqu'à 9.",
+        "ar": "لنعدّ بالأصابع من 6 حتى 9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 6",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En la segunda caben 3 vasos más.",
+          "va": "En la segona hi caben 3 gots més.",
+          "en": "The second one holds 3 more cups.",
+          "fr": "La deuxième contient 3 verres de plus.",
+          "ar": "الثانية تسع 3 أكواب أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con dos recipientes de la cocina.",
+        "va": "Ara inventa'n tu una amb dos recipients de la cuina.",
+        "en": "Now you make one up with two containers from the kitchen.",
+        "fr": "Maintenant, invente une question avec deux récipients de la cuisine.",
+        "ar": "والآن لنخترع سؤالًا عن وعاءين من المطبخ."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Un globo es grande y una piedra es pequeña. ¿Qué crees que pesa más? ¿Cómo lo comprobarías?",
+        "va": "Un globus és gran i una pedra és xicoteta. Què creus que pesa més? Com ho comprovaries?",
+        "en": "A balloon is big and a stone is small. Which do you think is heavier? How would you check?",
+        "fr": "Un ballon de baudruche est grand et un caillou est petit. Qu'est-ce qui pèse le plus, à ton avis ? Comment le vérifierais-tu ?",
+        "ar": "البالون كبير والحجر صغير. ما رأينا، أيّهما أثقل؟ وكيف نتحقّق من ذلك؟"
+      },
+      "pista": {
+        "es": "Piensa en cómo se notan en la mano o en la percha.",
+        "va": "Pensa en com es noten a la mà o en la penja-robes.",
+        "en": "Think about how they would feel in your hand or on the hanger.",
+        "fr": "Pense à ce que tu sentirais dans ta main ou sur le cintre.",
+        "ar": "لنفكّر كيف نشعر بهما في اليد أو على العلّاقة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Lo normal es que la piedra pese más: ser grande no quiere decir pesar más. Si podéis, comprobadlo con las manos o con la percha.",
+          "va": "El normal és que la pedra pese més: ser gran no vol dir pesar més. Si podeu, comproveu-ho amb les mans o amb la penja-robes.",
+          "en": "The stone is usually heavier: being big doesn't mean being heavier. If you can, check with your hands or the hanger.",
+          "fr": "En général, le caillou pèse plus : être grand ne veut pas dire être lourd. Si vous pouvez, vérifiez avec les mains ou avec le cintre.",
+          "ar": "في العادة يكون الحجر أثقل: الكِبَر لا يعني الثقل. إن أمكن، تحقّقوا باليدين أو بالعلّاقة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con una cosa grande y ligera y otra pequeña y pesada.",
+        "va": "Inventa'n tu una altra amb una cosa gran i lleugera i una altra xicoteta i pesada.",
+        "en": "Make up another one with something big and light and something small and heavy.",
+        "fr": "Invente-en une autre avec une chose grande et légère et une autre petite et lourde.",
+        "ar": "لنخترع سؤالًا آخر عن شيء كبير وخفيف وشيء صغير وثقيل."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para llenar la jarra, Wei echa 4 vasos de agua y luego 3 más. ¿Cuántos vasos caben en la jarra?",
+        "va": "Per a omplir la gerra, Wei hi tira 4 gots d'aigua i després 3 més. Quants gots hi caben, en la gerra?",
+        "en": "To fill the jug, Wei pours in 4 cups of water and then 3 more. How many cups does the jug hold?",
+        "fr": "Pour remplir la carafe, Wei verse 4 verres d'eau, puis encore 3. Combien de verres contient la carafe ?",
+        "ar": "لملء الإبريق، يصبّ وِي 4 أكواب من الماء ثم 3 أخرى. كم كوبًا يسع الإبريق؟"
+      },
+      "pista": {
+        "es": "Cuenta los vasos con los dedos: primero 4 y luego 3 más.",
+        "va": "Compta els gots amb els dits: primer 4 i després 3 més.",
+        "en": "Count the cups on your fingers: first 4, then 3 more.",
+        "fr": "Compte les verres sur tes doigts : d'abord 4, puis encore 3.",
+        "ar": "لنعدّ الأكواب بالأصابع: أولًا 4، ثم 3 أخرى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 3",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En la jarra caben 7 vasos.",
+          "va": "En la gerra hi caben 7 gots.",
+          "en": "The jug holds 7 cups.",
+          "fr": "La carafe contient 7 verres.",
+          "ar": "يسع الإبريق 7 أكواب."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una llenando una olla o un cubo con vasos de agua.",
+        "va": "Inventa'n tu una omplint una olla o un poal amb gots d'aigua.",
+        "en": "Make one up about filling a pot or a bucket with cups of water.",
+        "fr": "Invente une question où tu remplis une casserole ou un seau avec des verres d'eau.",
+        "ar": "لنخترع سؤالًا عن ملء قِدر أو دلو بأكواب الماء."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 15,
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "Para recordar: la cama mide 10 palmos y la mesa, 7. ¿Cuál es más larga? ¿Cuántos palmos más?",
+        "va": "Per a recordar: el llit mesura 10 pams i la taula, 7. Quin és més llarg? Quants pams més?",
+        "en": "Let's remember: the bed is 10 hand spans long and the table is 7. Which one is longer? How many more spans?",
+        "fr": "Pour se souvenir : le lit mesure 10 empans et la table, 7. Lequel est le plus long ? Combien d'empans de plus ?",
+        "ar": "لنتذكّر: طول السرير 10 أشبار وطول الطاولة 7. أيّهما أطول؟ وكم شبرًا أكثر؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde el 7 hasta el 10.",
+        "va": "Compta amb els dits des del 7 fins al 10.",
+        "en": "Count on your fingers from 7 up to 10.",
+        "fr": "Compte sur tes doigts de 7 jusqu'à 10.",
+        "ar": "لنعدّ بالأصابع من 7 حتى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 7",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "La cama es más larga: mide 3 palmos más.",
+          "va": "El llit és més llarg: mesura 3 pams (palmos) més.",
+          "en": "The bed is longer: it is 3 hand spans (palmos) more.",
+          "fr": "Le lit est plus long : il mesure 3 empans (palmos) de plus.",
+          "ar": "السرير أطول: يزيد بـ 3 أشبار (palmos)."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra midiendo dos muebles de casa con palmos.",
+        "va": "Inventa'n tu una altra mesurant dos mobles de casa amb pams.",
+        "en": "Make up another one by measuring two pieces of furniture at home in hand spans.",
+        "fr": "Invente-en une autre en mesurant deux meubles de la maison avec des empans.",
+        "ar": "لنخترع سؤالًا آخر نقيس فيه قطعتين من أثاث البيت بالأشبار."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame cómo sabrías qué pesa más, una manzana o una naranja, sin báscula.",
+        "va": "Explica'm com sabries què pesa més, una poma o una taronja, sense bàscula.",
+        "en": "Explain to me how you would find out which is heavier, an apple or an orange, without scales.",
+        "fr": "Explique-moi comment tu saurais ce qui pèse le plus, une pomme ou une orange, sans balance.",
+        "ar": "لنشرح كيف نعرف أيّهما أثقل، التفاحة أم البرتقالة، من دون ميزان."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Y si coges una en cada mano?»",
+        "va": "Si no sap per on començar: «I si n'agafes una en cada mà?»",
+        "en": "If they don't know where to start: “What if you hold one in each hand?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Et si tu en prenais une dans chaque main ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «ماذا لو أمسكنا واحدة في كل يد؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede hablar de las manos, de la percha o de otra idea suya. Escuchad, preguntad «¿y luego?» y, si os apetece, probadlo juntos.",
+          "va": "Pot parlar de les mans, de la penja-robes o d'una altra idea seua. Escolteu, pregunteu «i després?» i, si vos ve de gust, proveu-ho junts.",
+          "en": "They may talk about their hands, the hanger or another idea of their own. Listen, ask “And then?” and, if you like, try it together.",
+          "fr": "Votre enfant peut parler des mains, du cintre ou d'une autre idée à lui ou à elle. Écoutez, demandez « Et après ? » et, si vous en avez envie, essayez ensemble.",
+          "ar": "قد يكون الحديث عن اليدين أو العلّاقة أو فكرة أخرى. استمعوا، واسألوا «ثم ماذا؟»، وإن رغبتم جرّبوا ذلك معًا."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "f60da3165d68"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "f60da3165d68"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "f60da3165d68"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "f60da3165d68"
+      }
+    }
+  }
+}

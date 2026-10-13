@@ -1,0 +1,336 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.v04",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "verano": 4,
+  "tipo": "verano",
+  "titulo": {
+    "es": "El tesoro escondido",
+    "va": "El tresor amagat",
+    "en": "The hidden treasure",
+    "fr": "Le trésor caché",
+    "ar": "الكنز المخبّأ"
+  },
+  "objetivo": {
+    "es": "En verano dibujan el plano de un sitio que conocen y esconden un tesoro con instrucciones de flechas: delante, detrás, derecha e izquierda.",
+    "va": "A l'estiu dibuixen el plànol d'un lloc que coneixen i amaguen un tresor amb instruccions de fletxes: davant (delante), darrere (detrás), dreta (derecha) i esquerra (izquierda).",
+    "en": "In summer they draw a map of a place they know and hide a treasure with arrow instructions: in front (delante), behind (detrás), right (derecha) and left (izquierda).",
+    "fr": "En été, on dessine le plan d'un endroit qu'on connaît et on cache un trésor avec des consignes en flèches : devant (delante), derrière (detrás), droite (derecha) et gauche (izquierda).",
+    "ar": "في الصيف يرسم الأطفال مخطّط مكان يعرفونه ويخبّئون كنزًا بتعليمات من الأسهم: أمام (delante)، خلف (detrás)، اليمين (derecha) واليسار (izquierda)."
+  },
+  "comoAyudar": {
+    "es": "Seguid sus flechas tal cual, aunque os lleven a otro sitio. Si no llegáis al tesoro, buscad juntos qué flecha cambiar.",
+    "va": "Seguiu les seues fletxes tal com són, encara que vos porten a un altre lloc. Si no arribeu al tresor, busqueu junts quina fletxa canviar.",
+    "en": "Follow their arrows exactly as they are, even if they take you somewhere else. If you don't reach the treasure, look together for which arrow to change.",
+    "fr": "Suivez ses flèches telles quelles, même si elles vous mènent ailleurs. Si vous n'arrivez pas au trésor, cherchez ensemble quelle flèche changer.",
+    "ar": "اتّبعوا الأسهم كما هي، حتى لو أخذتكم إلى مكان آخر. وإذا لم تصلوا إلى الكنز، ابحثوا معًا عن السهم الذي نغيّره."
+  },
+  "saberes": [
+    "matematicas.geometria.orientacion",
+    "matematicas.computacional.secuencias-figuras"
+  ],
+  "criterios": [
+    "matematicas.c1.4.1",
+    "matematicas.c1.6.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Tesoro con flechas",
+      "va": "Tresor amb fletxes",
+      "en": "Treasure by arrows",
+      "fr": "Trésor en flèches",
+      "ar": "كنز بالأسهم"
+    },
+    "material": [
+      {
+        "es": "Un papel y un lápiz",
+        "va": "Un paper i un llapis",
+        "en": "Paper and a pencil",
+        "fr": "Une feuille et un crayon",
+        "ar": "ورقة وقلم رصاص"
+      },
+      {
+        "es": "Un tesoro: un juguete, una piedra bonita, una concha…",
+        "va": "Un tresor: un joguet, una pedra bonica, una petxina…",
+        "en": "A treasure: a toy, a pretty stone, a shell…",
+        "fr": "Un trésor : un jouet, un joli caillou, un coquillage…",
+        "ar": "كنز: لعبة، حجر جميل، صدفة…"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "mapa",
+        "texto": {
+          "es": "Dibujad juntos el plano del parque o de la casa del pueblo, con los bancos, los árboles o las puertas.",
+          "va": "Dibuixeu junts el plànol del parc o de la casa del poble, amb els bancs, els arbres o les portes.",
+          "en": "Draw a map together of the park or the house in the village, with the benches, trees or doors.",
+          "fr": "Dessinez ensemble le plan du parc ou de la maison du village, avec les bancs, les arbres ou les portes.",
+          "ar": "ارسموا معًا مخطّط الحديقة أو بيت القرية، مع المقاعد أو الأشجار أو الأبواب."
+        }
+      },
+      {
+        "pictograma": "caja",
+        "texto": {
+          "es": "Una persona esconde el tesoro sin que la otra mire. En el plano, dibuja el camino con flechas.",
+          "va": "Una persona amaga el tresor sense que l'altra mire. En el plànol, dibuixa el camí amb fletxes.",
+          "en": "One person hides the treasure without the other looking. On the map, they draw the path with arrows.",
+          "fr": "Une personne cache le trésor sans que l'autre regarde. Sur le plan, elle dessine le chemin avec des flèches.",
+          "ar": "يخبّئ شخص الكنز من دون أن ينظر الآخر. ثم يرسم على المخطّط الطريق بالأسهم."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "La otra persona sigue las flechas a pasos: «3 pasos delante, giro a la derecha, 2 pasos». ¿Encuentra el tesoro?",
+          "va": "L'altra persona seguix les fletxes a passos: «3 passos davant, gire a la dreta, 2 passos». Troba el tresor?",
+          "en": "The other person follows the arrows step by step: “3 steps forward, turn right, 2 steps”. Do they find the treasure?",
+          "fr": "L'autre personne suit les flèches pas à pas : « 3 pas devant, je tourne à droite, 2 pas ». Trouve-t-elle le trésor ?",
+          "ar": "يتبع الشخص الآخر الأسهم خطوة خطوة: «3 خطوات إلى الأمام، أستدير يمينًا، خطوتان». هل يجد الكنز؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Cambiad los papeles. Si un camino no llega, buscad juntos qué flecha cambiar.",
+          "va": "Canvieu els papers. Si un camí no arriba, busqueu junts quina fletxa canviar.",
+          "en": "Swap roles. If a path doesn't get there, look together for which arrow to change.",
+          "fr": "Échangez les rôles. Si un chemin n'arrive pas, cherchez ensemble quelle flèche changer.",
+          "ar": "تبادلوا الأدوار. وإذا لم يوصل طريق، ابحثوا معًا عن السهم الذي نغيّره."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Esconded el tesoro en una sola habitación y usad pocas flechas, con pocos pasos.",
+      "va": "Amagueu el tresor en una sola habitació i feu servir poques fletxes, amb pocs passos.",
+      "en": "Hide the treasure in just one room and use only a few arrows, with few steps.",
+      "fr": "Cachez le trésor dans une seule pièce et utilisez peu de flèches, avec peu de pas.",
+      "ar": "خبّئوا الكنز في غرفة واحدة فقط واستعملوا أسهمًا قليلة بخطوات قليلة."
+    },
+    "masDificil": {
+      "es": "Haced un camino más largo y buscad otro distinto que también llegue al tesoro.",
+      "va": "Feu un camí més llarg i busqueu-ne un altre de diferent que també arribe al tresor.",
+      "en": "Make a longer path and find a different one that also reaches the treasure.",
+      "fr": "Faites un chemin plus long et cherchez-en un autre qui arrive aussi au trésor.",
+      "ar": "اصنعوا طريقًا أطول وابحثوا عن طريق آخر مختلف يصل أيضًا إلى الكنز."
+    },
+    "paraQueSirve": {
+      "es": "Dar y seguir instrucciones paso a paso ayuda a orientarse en un plano y es la manera de pensar de la programación.",
+      "va": "Donar i seguir instruccions pas a pas ajuda a orientar-se en un plànol i és la manera de pensar de la programació.",
+      "en": "Giving and following step-by-step instructions helps you find your way on a map and is the way of thinking behind programming.",
+      "fr": "Donner et suivre des consignes pas à pas aide à s'orienter sur un plan, et c'est la façon de penser de la programmation.",
+      "ar": "إعطاء التعليمات واتّباعها خطوة خطوة يساعد على التوجّه في المخطّط، وهو طريقة التفكير في البرمجة."
+    },
+    "aviso": {
+      "es": "En el parque, siempre con una persona adulta cerca. Si el tesoro es pequeño, guardadlo lejos de hermanos o hermanas pequeños.",
+      "va": "Al parc, sempre amb una persona adulta a prop. Si el tresor és menut, guardeu-lo lluny de germans o germanes menuts.",
+      "en": "In the park, always with an adult nearby. If the treasure is small, keep it away from younger brothers and sisters.",
+      "fr": "Au parc, toujours avec une personne adulte à côté. Si le trésor est petit, gardez-le loin des petits frères et sœurs.",
+      "ar": "في الحديقة، دائمًا مع شخص بالغ قريب. وإذا كان الكنز صغيرًا، فأبعدوه عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Te pones de espaldas a la puerta. ¿La puerta está delante o detrás de ti?",
+        "va": "Et poses d'esquena a la porta. La porta està davant o darrere de tu?",
+        "en": "You stand with your back to the door. Is the door in front of you or behind you?",
+        "fr": "Tu te mets dos à la porte. La porte est-elle devant ou derrière toi ?",
+        "ar": "لنقف وظهرنا إلى الباب. هل الباب أمامنا أم خلفنا؟"
+      },
+      "pista": {
+        "es": "Hazlo de verdad y mira qué ves delante.",
+        "va": "Fes-ho de veritat i mira què veus davant.",
+        "en": "Do it for real and see what is in front of you.",
+        "fr": "Fais-le pour de vrai et regarde ce que tu vois devant.",
+        "ar": "لنفعل ذلك حقًّا ونرى ماذا يوجد أمامنا."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Detrás. Si duda, poneos así juntos y mirad qué hay delante y qué hay detrás.",
+          "va": "Darrere. Si dubta, poseu-vos així junts i mireu què hi ha davant i què hi ha darrere.",
+          "en": "Behind. If they're not sure, stand like that together and look at what is in front and what is behind.",
+          "fr": "Derrière. S'il ou elle hésite, mettez-vous comme ça ensemble et regardez ce qu'il y a devant et derrière.",
+          "ar": "خلفنا. وإذا كان هناك تردّد، قفوا هكذا معًا وانظروا ماذا يوجد أمامكم وماذا يوجد خلفكم."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con algo que esté a tu derecha o a tu izquierda.",
+        "va": "Ara inventa'n tu una amb alguna cosa que estiga a la teua dreta o a la teua esquerra.",
+        "en": "Now you make one up with something that is on your right or on your left.",
+        "fr": "Maintenant, invente une question avec quelque chose qui est à ta droite ou à ta gauche.",
+        "ar": "والآن لنخترع سؤالًا عن شيء على يميننا أو على يسارنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo se va de tu cama a la puerta? Dime las flechas en voz alta, como si me guiaras.",
+        "va": "Com es va del teu llit a la porta? Digues-me les fletxes en veu alta, com si em guiares.",
+        "en": "How do you get from your bed to the door? Tell me the arrows out loud, as if you were guiding me.",
+        "fr": "Comment va-t-on de ton lit à la porte ? Dis-moi les flèches à voix haute, comme si tu me guidais.",
+        "ar": "كيف نذهب من السرير إلى الباب؟ لنقل الأسهم بصوت عالٍ، كأننا نرشد أحدًا."
+      },
+      "pista": {
+        "es": "Di cuántos pasos y hacia dónde giras, uno por uno.",
+        "va": "Digues quants passos i cap a on gires, un per un.",
+        "en": "Say how many steps and which way you turn, one at a time.",
+        "fr": "Dis combien de pas et de quel côté tu tournes, un par un.",
+        "ar": "لنقل كم خطوة وإلى أين نستدير، واحدة واحدة."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Valen muchos caminos. Seguid sus instrucciones de verdad, paso a paso, y mirad si llegáis.",
+          "va": "Valen molts camins. Seguiu les seues instruccions de veritat, pas a pas, i mireu si arribeu.",
+          "en": "Many paths work. Follow the instructions for real, step by step, and see if you get there.",
+          "fr": "Beaucoup de chemins sont possibles. Suivez ses consignes pour de vrai, pas à pas, et regardez si vous arrivez.",
+          "ar": "طرق كثيرة تصلح. اتّبعوا التعليمات حقًّا، خطوة خطوة، وانظروا هل تصلون."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otro camino, de la cocina al baño.",
+        "va": "Inventa tu un altre camí, de la cuina al bany.",
+        "en": "Make up another path, from the kitchen to the bathroom.",
+        "fr": "Invente un autre chemin, de la cuisine à la salle de bains.",
+        "ar": "لنخترع طريقًا آخر، من المطبخ إلى الحمّام."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Mira esta serie de flechas: arriba, derecha, arriba, derecha… ¿Qué viene después?",
+        "va": "Mira aquesta sèrie (serie) de fletxes: amunt, dreta, amunt, dreta… Què ve després?",
+        "en": "Look at this pattern (serie) of arrows: up, right, up, right… What comes next?",
+        "fr": "Regarde cette suite (serie) de flèches : en haut, à droite, en haut, à droite… Qu'est-ce qui vient après ?",
+        "ar": "لننظر إلى هذه المتتالية (serie) من الأسهم: أعلى، يمين، أعلى، يمين… ماذا يأتي بعدها؟"
+      },
+      "pista": {
+        "es": "Hazla con pasos en el suelo y mira qué se repite.",
+        "va": "Fes-la amb passos a terra i mira què es repetix.",
+        "en": "Do it with steps on the floor and see what repeats.",
+        "fr": "Fais-la avec des pas sur le sol et regarde ce qui se répète.",
+        "ar": "لنمشِها بخطوات على الأرض ونرى ما الذي يتكرّر."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Arriba. Se repite «arriba, derecha», como una escalera. Podéis hacerla a pasos y ver que sube.",
+          "va": "Amunt. Es repetix «amunt, dreta», com una escala. Podeu fer-la a passos i veure que puja.",
+          "en": "Up. “Up, right” repeats, like a staircase. You can walk it and see that it climbs.",
+          "fr": "En haut. « En haut, à droite » se répète, comme un escalier. Vous pouvez la faire à pas et voir qu'elle monte.",
+          "ar": "أعلى. يتكرّر «أعلى، يمين» مثل الدرج. يمكنكم مشيها بالخطوات ورؤية أنها تصعد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una serie de flechas y dímela para que la siga.",
+        "va": "Inventa tu una sèrie de fletxes i digues-me-la perquè la seguisca.",
+        "en": "Make up a pattern of arrows and tell it to me so I can follow it.",
+        "fr": "Invente une suite de flèches et dis-la-moi pour que je la suive.",
+        "ar": "لنخترع متتالية من الأسهم ونقولها ليتبعها شخص آخر."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 7,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar las restas con llevada: el tesoro tiene 52 monedas y gastamos 18. ¿Cuántas quedan?",
+        "va": "Per a recordar les restes amb llevada: el tresor té 52 monedes i en gastem 18. Quantes en queden?",
+        "en": "Let's remember subtracting with regrouping (llevada): the treasure has 52 coins and we spend 18. How many are left?",
+        "fr": "Pour se souvenir des soustractions avec retenue (llevada) : le trésor a 52 pièces et nous en dépensons 18. Combien en reste-t-il ?",
+        "ar": "لنتذكّر الطرح مع الاستلاف (llevada): في الكنز 52 قطعة نقدية وصرفنا 18. كم قطعة بقيت؟"
+      },
+      "pista": {
+        "es": "De 2 no puedes quitar 8: abre una decena.",
+        "va": "De 2 no pots llevar 8: obri una desena (decena).",
+        "en": "You can't take 8 from 2: open up a ten (decena).",
+        "fr": "De 2, tu ne peux pas enlever 8 : ouvre une dizaine (decena).",
+        "ar": "لا نستطيع نزع 8 من 2: لنفتح عشرة (decena)."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "52 - 18",
+        "resultado": 34,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 34 monedas: {{52 − 18 = 34}}.",
+          "va": "En queden 34: {{52 − 18 = 34}}.",
+          "en": "34 coins are left: {{52 − 18 = 34}}.",
+          "fr": "Il reste 34 pièces : {{52 − 18 = 34}}.",
+          "ar": "بقيت 34 قطعة: {{52 − 18 = 34}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra resta con las monedas del tesoro.",
+        "va": "Inventa'n tu una altra resta amb les monedes del tresor.",
+        "en": "Make up another subtraction with the treasure coins.",
+        "fr": "Invente une autre soustraction avec les pièces du trésor.",
+        "ar": "لنخترع عملية طرح أخرى بقطع الكنز النقدية."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo has pensado las flechas para llegar al tesoro? Explícame el camino.",
+        "va": "Com has pensat les fletxes per a arribar al tresor? Explica'm el camí.",
+        "en": "How did you work out the arrows to reach the treasure? Explain the path to me.",
+        "fr": "Comment as-tu pensé les flèches pour arriver au trésor ? Explique-moi le chemin.",
+        "ar": "كيف فكّرنا في الأسهم للوصول إلى الكنز؟ لنشرح الطريق."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Por qué has girado aquí y no antes?»",
+        "va": "Si no sap per on començar: «Per què has girat ací i no abans?»",
+        "en": "If they don't know where to start: “Why did you turn here and not before?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Pourquoi tu as tourné ici et pas avant ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «لماذا استدرنا هنا وليس قبل ذلك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "0c9c5264e0a1"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "0c9c5264e0a1"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "0c9c5264e0a1"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "0c9c5264e0a1"
+      }
+    }
+  }
+}

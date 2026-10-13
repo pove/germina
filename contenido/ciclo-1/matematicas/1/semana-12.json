@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s12",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 12,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: decenas, parejas y sitios",
+    "va": "Setmana de recordar: desenes, parelles i llocs",
+    "en": "Remembering week: tens, pairs and places",
+    "fr": "Semaine pour se souvenir : dizaines, paires et places",
+    "ar": "أسبوع التذكّر: العشرات والأزواج والأماكن"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a lo de las últimas semanas: paquetes de 10, decenas y unidades, pares e impares, dónde está cada cosa y qué número es mayor.",
+    "va": "Aquesta setmana tornen al que han fet les últimes setmanes: paquets de 10, desenes (decenas) i unitats (unidades), parells (par) i imparells (impar), on està cada cosa i quin nombre és major (mayor).",
+    "en": "This week they go back to the last few weeks: bundles of 10, tens (decenas) and ones (unidades), even (par) and odd (impar), where things are and which number is greater (mayor).",
+    "fr": "Cette semaine, on revient sur les dernières semaines : paquets de 10, dizaines (decenas) et unités (unidades), pair (par) et impair (impar), où se trouve chaque chose et quel nombre est le plus grand (mayor).",
+    "ar": "هذا الأسبوع يعود الأطفال إلى ما تعلّموه في الأسابيع الأخيرة: حزم من 10، العشرات (decenas) والآحاد (unidades)، الزوجي (par) والفردي (impar)، مكان كل شيء، وأيّ عدد أكبر (mayor)."
+  },
+  "comoAyudar": {
+    "es": "Elegid el juego que más le guste y jugadlo otra vez, sin prisa. Si algo cuesta, volved a las legumbres y a los vasos.",
+    "va": "Trieu el joc que més li agrade i jugueu-lo una altra vegada, sense pressa. Si alguna cosa costa, torneu als llegums i als gots.",
+    "en": "Choose the game your child likes best and play it again, with no rush. If something is tricky, go back to the beans and the cups.",
+    "fr": "Choisissez le jeu que votre enfant préfère et rejouez-y, sans se presser. Si quelque chose est difficile, revenez aux légumes secs et aux verres.",
+    "ar": "اختاروا اللعبة المفضّلة عند ابنكم أو ابنتكم والعبوها مرة أخرى، بلا عجلة. إذا صعُب شيء، عودوا إلى حبّات البقول والأكواب."
+  },
+  "saberes": [
+    "matematicas.numeros.decena",
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.numeros.estructura",
+    "matematicas.geometria.orientacion"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.1"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "El tesoro de los vasos",
+      "va": "El tresor dels gots",
+      "en": "The treasure of the cups",
+      "fr": "Le trésor des verres",
+      "ar": "كنز الأكواب"
+    },
+    "material": [
+      {
+        "es": "Legumbres secas (garbanzos, alubias…) y algunos vasos de plástico",
+        "va": "Llegums secs (cigrons, fesols…) i alguns gots de plàstic",
+        "en": "Dried beans or chickpeas and a few plastic cups",
+        "fr": "Des légumes secs (pois chiches, haricots…) et quelques verres en plastique",
+        "ar": "بقول جافة (حمّص، فاصوليا…) وبعض الأكواب البلاستيكية"
+      },
+      {
+        "es": "Una caja con tapa",
+        "va": "Una caixa amb tapa",
+        "en": "A box with a lid",
+        "fr": "Une boîte avec un couvercle",
+        "ar": "علبة لها غطاء"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "vaso",
+        "texto": {
+          "es": "Preparad un tesoro: unos vasos con 10 legumbres cada uno y algunas sueltas, todo dentro de una caja.",
+          "va": "Prepareu un tresor: uns gots amb 10 llegums cada un i alguns solts, tot dins d'una caixa.",
+          "en": "Make a treasure: a few cups with 10 beans each and some loose ones, all inside a box.",
+          "fr": "Préparez un trésor : quelques verres avec 10 légumes secs chacun et quelques-uns seuls, le tout dans une boîte.",
+          "ar": "حضّروا كنزًا: بعض الأكواب في كل منها 10 حبّات، وبعض الحبّات المنفردة، وكل ذلك داخل علبة."
+        }
+      },
+      {
+        "pictograma": "caja",
+        "texto": {
+          "es": "Una persona esconde la caja y da pistas de sitio: «está encima de algo», «está detrás de la puerta».",
+          "va": "Una persona amaga la caixa i dona pistes de lloc: «està damunt d'alguna cosa», «està darrere de la porta».",
+          "en": "One person hides the box and gives place clues: “it's on top of something”, “it's behind the door”.",
+          "fr": "Une personne cache la boîte et donne des indices de place : « elle est sur quelque chose », « elle est derrière la porte ».",
+          "ar": "يخبّئ شخص العلبة ويعطي تلميحات عن المكان: «إنها فوق شيء ما»، «إنها خلف الباب»."
+        }
+      },
+      {
+        "pictograma": "lupa",
+        "texto": {
+          "es": "Quien busca sigue las pistas hasta encontrarla.",
+          "va": "Qui busca seguix les pistes fins que la troba.",
+          "en": "The seeker follows the clues until they find it.",
+          "fr": "La personne qui cherche suit les indices jusqu'à la trouver.",
+          "ar": "من يبحث يتبع التلميحات حتى يجدها."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Al abrirla, dice el número del tesoro: 3 vasos y 4 sueltas son 34. Cambiad los papeles: ¿qué tesoro es mayor?",
+          "va": "En obrir-la, diu el nombre del tresor: 3 gots i 4 solts són 34. Canvieu els papers: quin tresor és major?",
+          "en": "When they open it, they say the treasure's number: 3 cups and 4 loose ones make 34. Swap roles: which treasure is greater?",
+          "fr": "En l'ouvrant, on dit le nombre du trésor : 3 verres et 4 seuls, ça fait 34. Échangez les rôles : quel trésor est le plus grand ?",
+          "ar": "عند فتحها، نقول عدد الكنز: 3 أكواب و4 حبّات منفردة تساوي 34. تبادلوا الأدوار: أيّ كنز أكبر؟"
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Poned solo 1 o 2 vasos y pocas sueltas, y dad pistas solo con encima y debajo.",
+      "va": "Poseu només 1 o 2 gots i pocs solts, i doneu pistes només amb damunt i davall.",
+      "en": "Use only 1 or 2 cups and a few loose beans, and give clues with on top of and under only.",
+      "fr": "Mettez seulement 1 ou 2 verres et peu d'éléments seuls, et donnez des indices seulement avec sur et sous.",
+      "ar": "ضعوا كوبًا أو كوبين فقط وحبّات منفردة قليلة، وأعطوا تلميحات بكلمتي فوق وتحت فقط."
+    },
+    "masDificil": {
+      "es": "Al abrir el tesoro, decid también si el número es par o impar haciendo parejas con las sueltas.",
+      "va": "En obrir el tresor, digueu també si el nombre és parell o imparell fent parelles amb els solts.",
+      "en": "When you open the treasure, also say whether the number is even or odd by making pairs with the loose beans.",
+      "fr": "En ouvrant le trésor, dites aussi si le nombre est pair ou impair en faisant des paires avec les éléments seuls.",
+      "ar": "عند فتح الكنز، قولوا أيضًا إن كان العدد زوجيًا أو فرديًا بتكوين أزواج من الحبّات المنفردة."
+    },
+    "paraQueSirve": {
+      "es": "Volver a jugar lo de otras semanas ayuda a que se quede: los números grandes, las parejas y las palabras de sitio se usan cada día.",
+      "va": "Tornar a jugar al que s'ha fet altres setmanes ajuda a fixar-ho: els nombres grans, les parelles i les paraules de lloc s'usen cada dia.",
+      "en": "Playing again what you did in other weeks helps it stick: big numbers, pairs and place words are used every day.",
+      "fr": "Rejouer à ce qu'on a fait les autres semaines aide à le retenir : les grands nombres, les paires et les mots de place servent tous les jours.",
+      "ar": "اللعب مرة أخرى بما تعلّمناه في أسابيع سابقة يساعد على تثبيته: الأعداد الكبيرة والأزواج وكلمات المكان نستعملها كل يوم."
+    },
+    "aviso": {
+      "es": "Las legumbres son pequeñas: guardadlas lejos de hermanos o hermanas pequeños.",
+      "va": "Els llegums són menuts: guardeu-los lluny de germans o germanes menuts.",
+      "en": "Beans are small: keep them away from younger brothers and sisters.",
+      "fr": "Les légumes secs sont petits : gardez-les loin des petits frères et sœurs.",
+      "ar": "حبّات البقول صغيرة: أبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Darío tiene 4 paquetes de 10 palillos y 6 sueltos. ¿Cuántos palillos tiene?",
+        "va": "Darío té 4 paquets de 10 escuradents i 6 solts. Quants escuradents té?",
+        "en": "Darío has 4 bundles of 10 sticks and 6 loose ones. How many sticks does he have?",
+        "fr": "Darío a 4 paquets de 10 bâtonnets et 6 seuls. Combien de bâtonnets a-t-il ?",
+        "ar": "عند داريو 4 حزم في كل منها 10 أعواد، و6 أعواد منفردة. كم عودًا عنده؟"
+      },
+      "pista": {
+        "es": "Cuenta los paquetes de diez en diez y sigue con los sueltos.",
+        "va": "Compta els paquets de deu en deu i continua amb els solts.",
+        "en": "Count the bundles in tens and carry on with the loose ones.",
+        "fr": "Compte les paquets de dix en dix et continue avec ceux qui sont seuls.",
+        "ar": "لنعدّ الحزم عشرة عشرة، ثم نكمل بالأعواد المنفردة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 + 10 + 10 + 10 + 6",
+        "resultado": 46,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 46 palillos: 4 decenas y 6 unidades.",
+          "va": "Té 46 escuradents: 4 desenes i 6 unitats.",
+          "en": "He has 46 sticks: 4 tens and 6 ones.",
+          "fr": "Il a 46 bâtonnets : 4 dizaines et 6 unités.",
+          "ar": "عنده 46 عودًا: 4 عشرات و6 آحاد."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con paquetes de 10 de otra cosa.",
+        "va": "Ara inventa'n tu una amb paquets de 10 d'una altra cosa.",
+        "en": "Now you make one up with bundles of 10 of something else.",
+        "fr": "Maintenant, invente une question avec des paquets de 10 d'autre chose.",
+        "ar": "والآن لنخترع سؤالًا بحزم من 10 من شيء آخر."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "La abuela de Ion pone 9 tazas en la mesa, de dos en dos. ¿Sobra alguna?",
+        "va": "L'àvia d'Ion posa 9 tasses a la taula, de dues en dues. En sobra alguna?",
+        "en": "Ion's grandma puts 9 cups on the table, two by two. Is any left over?",
+        "fr": "La grand-mère d'Ion pose 9 tasses sur la table, deux par deux. Est-ce qu'il en reste une ?",
+        "ar": "تضع جدّة يون 9 فناجين على الطاولة، اثنين اثنين. هل يبقى فنجان؟"
+      },
+      "pista": {
+        "es": "Haz las parejas con 9 cosas de casa.",
+        "va": "Fes les parelles amb 9 coses de casa.",
+        "en": "Make the pairs with 9 things from home.",
+        "fr": "Fais les paires avec 9 choses de la maison.",
+        "ar": "لنكوّن الأزواج بتسعة أشياء من البيت."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 2 - 2 - 2 - 2",
+        "resultado": 1,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, sobra 1: salen 4 parejas. El 9 es impar.",
+          "va": "Sí, en sobra 1: ixen 4 parelles. El 9 és imparell.",
+          "en": "Yes, 1 is left over: you get 4 pairs. 9 is odd.",
+          "fr": "Oui, il en reste 1 : on obtient 4 paires. 9 est impair.",
+          "ar": "نعم، يبقى فنجان واحد: تخرج 4 أزواج. العدد 9 فردي."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un número par de tazas.",
+        "va": "Inventa'n tu una altra amb un nombre parell de tasses.",
+        "en": "Make up another one with an even number of cups.",
+        "fr": "Invente-en une autre avec un nombre pair de tasses.",
+        "ar": "لنخترع سؤالًا آخر بعدد زوجي من الفناجين."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Wei tiene 25 canicas y Sara tiene 28. ¿Quién tiene más, y cuántas más?",
+        "va": "Wei té 25 bales i Sara en té 28. Qui en té més, i quantes més?",
+        "en": "Wei has 25 marbles and Sara has 28. Who has more, and how many more?",
+        "fr": "Wei a 25 billes et Sara en a 28. Qui en a le plus, et combien de plus ?",
+        "ar": "عند وي 25 كرة زجاجية وعند سارة 28. من عنده أكثر، وكم أكثر؟"
+      },
+      "pista": {
+        "es": "Las decenas son iguales, así que mira las unidades.",
+        "va": "Les desenes són iguals, així que mira les unitats.",
+        "en": "The tens are the same, so look at the ones.",
+        "fr": "Les dizaines sont pareilles, alors regarde les unités.",
+        "ar": "العشرات متساوية، فلننظر إلى الآحاد."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "28 - 25",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sara tiene 3 canicas más que Wei.",
+          "va": "Sara té 3 bales més que Wei.",
+          "en": "Sara has 3 more marbles than Wei.",
+          "fr": "Sara a 3 billes de plus que Wei.",
+          "ar": "عند سارة 3 كرات أكثر من وي."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos números que tengan las mismas decenas.",
+        "va": "Inventa'n tu una altra amb dos nombres que tinguen les mateixes desenes.",
+        "en": "Make up another one with two numbers that have the same tens.",
+        "fr": "Invente-en une autre avec deux nombres qui ont les mêmes dizaines.",
+        "ar": "لنخترع سؤالًا آخر بعددين لهما العشرات نفسها."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 10,
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Para recordar: pon un vaso encima de un plato y una cuchara al lado. ¿Qué hay debajo del vaso?",
+        "va": "Per a recordar: posa un got damunt d'un plat i una cullera al costat. Què hi ha davall del got?",
+        "en": "Let's remember: put a glass on top of a plate and a spoon next to it. What is under the glass?",
+        "fr": "Pour se souvenir : mets un verre sur une assiette et une cuillère à côté. Qu'est-ce qu'il y a sous le verre ?",
+        "ar": "لنتذكّر: لنضع كوبًا فوق طبق وملعقة بجانبه. ماذا يوجد تحت الكوب؟"
+      },
+      "pista": {
+        "es": "Levanta el vaso y mira qué tenía debajo.",
+        "va": "Alça el got i mira què tenia davall.",
+        "en": "Lift the glass and see what was under it.",
+        "fr": "Soulève le verre et regarde ce qu'il y avait dessous.",
+        "ar": "لنرفع الكوب ونرى ماذا كان تحته."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El plato está debajo del vaso, y la cuchara, al lado. Si os apetece, cambiad las cosas de sitio y preguntad otra vez.",
+          "va": "El plat està davall del got, i la cullera, al costat. Si vos ve de gust, canvieu les coses de lloc i pregunteu una altra vegada.",
+          "en": "The plate is under the glass, and the spoon is next to it. If you like, move things around and ask again.",
+          "fr": "L'assiette est sous le verre, et la cuillère à côté. Si vous voulez, changez les choses de place et demandez encore.",
+          "ar": "الطبق تحت الكوب، والملعقة بجانبه. إن أحببتم، غيّروا أماكن الأشياء واسألوا مرة أخرى."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra y dame a mí las instrucciones.",
+        "va": "Inventa'n tu una altra i dona'm a mi les instruccions.",
+        "en": "Make up another one and give me the instructions.",
+        "fr": "Invente-en une autre et donne-moi les instructions.",
+        "ar": "لنخترع سؤالًا آخر ونعطي التعليمات لشخص آخر من العائلة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "De lo de estas semanas, ¿qué te ha gustado más? Enséñamelo con cosas de casa.",
+        "va": "De tot el d'aquestes setmanes, què t'ha agradat més? Ensenya-m'ho amb coses de casa.",
+        "en": "Of everything from these weeks, what did you like best? Show me with things from home.",
+        "fr": "De tout ce qu'on a vu ces semaines, qu'est-ce que tu as préféré ? Montre-le-moi avec des choses de la maison.",
+        "ar": "من كل ما تعلّمناه في هذه الأسابيع، ما الذي أعجبنا أكثر؟ لنُرِه بأشياء من البيت."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me enseñas cómo se hace un paquete de 10?»",
+        "va": "Si no sap per on començar: «M'ensenyes com es fa un paquet de 10?»",
+        "en": "If they don't know where to start: “Can you show me how to make a bundle of 10?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres comment on fait un paquet de 10 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نرى كيف نصنع حزمة من 10؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿cómo lo has pensado?» y dad las gracias por la explicación.",
+          "va": "No fa falta que ho diga perfecte. Escolteu, pregunteu «com ho has pensat?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “How did you think about it?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Comment tu as réfléchi ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «كيف فكّرنا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b4817402178c"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b4817402178c"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b4817402178c"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b4817402178c"
+      }
+    }
+  }
+}

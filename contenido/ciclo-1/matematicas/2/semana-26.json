@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s26",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 26,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Dos pasos",
+    "va": "Dos passos",
+    "en": "Two steps",
+    "fr": "Deux étapes",
+    "ar": "خطوتان"
+  },
+  "objetivo": {
+    "es": "Esta semana resuelven problemas de dos pasos: primero una suma o una resta, y con lo que sale, otra. Aprenden a no rendirse si el primer intento no sale.",
+    "va": "Aquesta setmana resolen problemes de dos passos: primer una suma o una resta, i amb el que ix, una altra. Aprenen a no rendir-se si el primer intent no ix.",
+    "en": "This week they work on two-step word problems (problemas): first an addition or a subtraction, and then another one with the result. They learn not to give up if the first try doesn't work out.",
+    "fr": "Cette semaine, on résout des problèmes (problemas) en deux étapes : d'abord une addition ou une soustraction, puis une autre avec ce qu'on a trouvé. On apprend à ne pas abandonner si le premier essai ne marche pas.",
+    "ar": "هذا الأسبوع يحلّ الأطفال مسائل (problemas) من خطوتين: أولًا جمع أو طرح، ثم عملية أخرى بما خرج منها. ويتعلّمون ألّا يستسلموا إذا لم تنجح المحاولة الأولى."
+  },
+  "comoAyudar": {
+    "es": "Preguntad «¿Qué sabemos ya?» después del primer paso, antes de seguir. Si se atasca, haced la compra con billetes de papel en la mano.",
+    "va": "Pregunteu «Què sabem ja?» després del primer pas, abans de continuar. Si s'encalla, feu la compra amb bitllets de paper a la mà.",
+    "en": "Ask “What do we know now?” after the first step, before going on. If they get stuck, do the shopping with paper notes in your hands.",
+    "fr": "Demandez « Qu'est-ce qu'on sait déjà ? » après la première étape, avant de continuer. Si votre enfant bloque, faites les courses avec des billets en papier dans la main.",
+    "ar": "اسألوا «ماذا نعرف الآن؟» بعد الخطوة الأولى وقبل المتابعة. وإذا حصل تعثّر، اشتروا بأوراق نقدية من ورق في اليد."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c1.1.2",
+    "matematicas.c1.1.3",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La compra de la semana",
+      "va": "La compra de la setmana",
+      "en": "The weekly shop",
+      "fr": "Les courses de la semaine",
+      "ar": "تسوّق الأسبوع"
+    },
+    "material": [
+      {
+        "es": "Un folleto del supermercado o una lista de precios inventados",
+        "va": "Un fullet del supermercat o una llista de preus inventats",
+        "en": "A supermarket leaflet or a list of made-up prices",
+        "fr": "Un prospectus de supermarché ou une liste de prix inventés",
+        "ar": "منشور إعلاني من السوبرماركت أو قائمة أسعار مخترعة"
+      },
+      {
+        "es": "Papel para hacer billetes de 10 € y de 5 €",
+        "va": "Paper per a fer bitllets de 10 € i de 5 €",
+        "en": "Paper to make 10 € and 5 € notes",
+        "fr": "Du papier pour faire des billets de 10 € et de 5 €",
+        "ar": "ورق لصنع أوراق نقدية من فئة 10 € و5 €"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "billete",
+        "texto": {
+          "es": "Haced con papel 20 €: un billete de 10 € y dos de 5 €.",
+          "va": "Feu amb paper 20 €: un bitllet de 10 € i dos de 5 €.",
+          "en": "Make 20 € out of paper: one 10 € note and two 5 € notes.",
+          "fr": "Fabriquez 20 € en papier : un billet de 10 € et deux de 5 €.",
+          "ar": "اصنعوا 20 € من الورق: ورقة من فئة 10 € وورقتين من فئة 5 €."
+        }
+      },
+      {
+        "pictograma": "folleto",
+        "texto": {
+          "es": "Elegid dos cosas del folleto y ponedles un precio redondo, sin céntimos: por ejemplo, 4 € y 7 €.",
+          "va": "Trieu dues coses del fullet i poseu-los un preu rodó, sense cèntims: per exemple, 4 € i 7 €.",
+          "en": "Choose two things from the leaflet and give them a round price, with no cents: for example, 4 € and 7 €.",
+          "fr": "Choisissez deux choses dans le prospectus et donnez-leur un prix rond, sans centimes : par exemple, 4 € et 7 €.",
+          "ar": "اختاروا شيئين من المنشور، وضعوا لهما سعرًا مدوّرًا بلا سنتات: مثلًا 4 € و7 €."
+        }
+      },
+      {
+        "pictograma": "ticket",
+        "texto": {
+          "es": "Primer paso: sumad lo que cuestan las dos cosas juntas.",
+          "va": "Primer pas: sumeu el que costen les dues coses juntes.",
+          "en": "First step: add up what the two things cost together.",
+          "fr": "Première étape : additionnez ce que coûtent les deux choses ensemble.",
+          "ar": "الخطوة الأولى: اجمعوا ثمن الشيئين معًا."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Segundo paso: pagad con los billetes y contad cuánto os queda de los 20 €.",
+          "va": "Segon pas: pagueu amb els bitllets i compteu quant vos queda dels 20 €.",
+          "en": "Second step: pay with the notes and count how much of the 20 € you have left.",
+          "fr": "Deuxième étape : payez avec les billets et comptez combien il vous reste sur les 20 €.",
+          "ar": "الخطوة الثانية: ادفعوا بالأوراق النقدية، وعدّوا كم بقي لكم من الـ20 €."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad precios pequeños, como 2 € y 3 €, y pagad con un solo billete de 10 €.",
+      "va": "Feu servir preus menuts, com ara 2 € i 3 €, i pagueu amb un sol bitllet de 10 €.",
+      "en": "Use small prices, like 2 € and 3 €, and pay with a single 10 € note.",
+      "fr": "Prenez de petits prix, comme 2 € et 3 €, et payez avec un seul billet de 10 €.",
+      "ar": "استعملوا أسعارًا صغيرة، مثل 2 € و3 €، وادفعوا بورقة واحدة من فئة 10 €."
+    },
+    "masDificil": {
+      "es": "Comprad tres cosas, o adivinad antes si os llegará el dinero para todo.",
+      "va": "Compreu tres coses, o endevineu abans si vos arribaran els diners per a tot.",
+      "en": "Buy three things, or guess first whether the money will be enough for everything.",
+      "fr": "Achetez trois choses, ou devinez d'abord si l'argent suffira pour tout.",
+      "ar": "اشتروا ثلاثة أشياء، أو خمّنوا قبل ذلك هل يكفي المال لكل شيء."
+    },
+    "paraQueSirve": {
+      "es": "Muchos problemas de la vida tienen más de un paso. Aprender a ir paso a paso, y a seguir aunque cueste, sirve para todo.",
+      "va": "Molts problemes de la vida tenen més d'un pas. Aprendre a anar pas a pas, i a continuar encara que coste, servix per a tot.",
+      "en": "Many everyday problems have more than one step. Learning to go step by step, and to keep going even when it is hard, is useful for everything.",
+      "fr": "Beaucoup de problèmes de la vie ont plus d'une étape. Apprendre à avancer étape par étape, et à continuer même quand c'est difficile, sert pour tout.",
+      "ar": "كثير من مسائل الحياة لها أكثر من خطوة. تعلُّم السير خطوة خطوة، والمتابعة حتى لو كان الأمر صعبًا، مفيد في كل شيء."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "dinero",
+      "texto": {
+        "es": "Tienes 20 €. Compras un libro de 8 € y un balón de 6 €. ¿Cuánto dinero te queda?",
+        "va": "Tens 20 €. Compres un llibre de 8 € i una pilota de 6 €. Quants diners et queden?",
+        "en": "You have 20 €. You buy a book for 8 € and a ball for 6 €. How much money do you have left?",
+        "fr": "Tu as 20 €. Tu achètes un livre à 8 € et un ballon à 6 €. Combien d'argent te reste-t-il ?",
+        "ar": "عندنا 20 €. نشتري كتابًا بـ8 € وكرة بـ6 €. كم يبقى لنا من المال؟"
+      },
+      "pista": {
+        "es": "Primero mira cuánto cuestan las dos cosas juntas, y luego quítalo de 20.",
+        "va": "Primer mira quant costen les dues coses juntes, i després lleva-ho de 20.",
+        "en": "First work out what the two things cost together, then take that away from 20.",
+        "fr": "Regarde d'abord combien coûtent les deux choses ensemble, puis enlève-le de 20.",
+        "ar": "لنحسب أولًا ثمن الشيئين معًا، ثم ننزعه من 20."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - (8 + 6)",
+        "resultado": 6,
+        "unidad": "euros",
+        "texto": {
+          "es": "Te quedan 6 €: {{8 + 6 = 14}} y {{20 − 14 = 6}}.",
+          "va": "Et queden 6 €: {{8 + 6 = 14}} i {{20 − 14 = 6}}.",
+          "en": "You have 6 € left: {{8 + 6 = 14}} and {{20 − 14 = 6}}.",
+          "fr": "Il te reste 6 € : {{8 + 6 = 14}} et {{20 − 14 = 6}}.",
+          "ar": "يبقى لنا 6 €: {{8 + 6 = 14}} و{{20 − 14 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos juguetes que te gusten y 20 €.",
+        "va": "Inventa'n tu una altra amb dos joguets que t'agraden i 20 €.",
+        "en": "Now you make one up with two toys you like and 20 €.",
+        "fr": "Invente-en une autre avec deux jouets qui te plaisent et 20 €.",
+        "ar": "لنخترع سؤالًا آخر بلعبتين نحبّهما و20 €."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En el autobús van 15 personas. En una parada suben 7 y bajan 4. ¿Cuántas personas van ahora?",
+        "va": "En l'autobús van 15 persones. En una parada pugen 7 i baixen 4. Quantes persones van ara?",
+        "en": "There are 15 people on the bus. At a stop, 7 get on and 4 get off. How many people are on it now?",
+        "fr": "Il y a 15 personnes dans le bus. À un arrêt, 7 montent et 4 descendent. Combien de personnes y a-t-il maintenant ?",
+        "ar": "في الحافلة 15 شخصًا. في إحدى المحطات يصعد 7 وينزل 4. كم شخصًا في الحافلة الآن؟"
+      },
+      "pista": {
+        "es": "Hazlo con muñecos o pinzas: pon 15, añade 7 y quita 4.",
+        "va": "Fes-ho amb ninots o pinces: posa'n 15, afig-ne 7 i lleva'n 4.",
+        "en": "Do it with toy figures or pegs: put out 15, add 7 and take away 4.",
+        "fr": "Fais-le avec des figurines ou des pinces : mets-en 15, ajoutes-en 7 et enlèves-en 4.",
+        "ar": "لنفعل ذلك بدمى صغيرة أو ملاقط: نضع 15، ونضيف 7، وننزع 4."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 + 7 - 4",
+        "resultado": 18,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Van 18 personas: {{15 + 7 = 22}} y {{22 − 4 = 18}}.",
+          "va": "Van 18 persones: {{15 + 7 = 22}} i {{22 − 4 = 18}}.",
+          "en": "There are 18 people: {{15 + 7 = 22}} and {{22 − 4 = 18}}.",
+          "fr": "Il y a 18 personnes : {{15 + 7 = 22}} et {{22 − 4 = 18}}.",
+          "ar": "في الحافلة 18 شخصًا: {{15 + 7 = 22}} و{{22 − 4 = 18}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con gente que sube y baja de un ascensor.",
+        "va": "Inventa'n tu una altra amb gent que puja i baixa d'un ascensor.",
+        "en": "Make up another one with people getting in and out of a lift.",
+        "fr": "Invente-en une autre avec des gens qui montent dans un ascenseur et qui en descendent.",
+        "ar": "لنخترع سؤالًا آخر عن أشخاص يدخلون المصعد ويخرجون منه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Fátima tiene 24 cromos. Su abuela le da 10 y ella le regala 5 a Ion. ¿Cuántos tiene ahora?",
+        "va": "Fátima té 24 cromos. La seua àvia li'n dona 10 i ella li'n regala 5 a Ion. Quants en té ara?",
+        "en": "Fátima has 24 stickers. Her grandma gives her 10 and she gives 5 to Ion. How many does she have now?",
+        "fr": "Fátima a 24 images. Sa grand-mère lui en donne 10 et elle en offre 5 à Ion. Combien en a-t-elle maintenant ?",
+        "ar": "عند فاطمة 24 بطاقة. تعطيها جدّتها 10، وتهدي هي 5 إلى إيون. كم بطاقة عندها الآن؟"
+      },
+      "pista": {
+        "es": "Cuenta primero lo que le da la abuela y después quita lo que regala.",
+        "va": "Compta primer el que li dona l'àvia i després lleva el que regala.",
+        "en": "First count what her grandma gives her, then take away what she gives.",
+        "fr": "Compte d'abord ce que lui donne sa grand-mère, puis enlève ce qu'elle offre.",
+        "ar": "لنعدّ أولًا ما أعطته الجدّة، ثم ننزع ما أهدته."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "24 + 10 - 5",
+        "resultado": 29,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tiene 29 cromos: {{24 + 10 = 34}} y {{34 − 5 = 29}}.",
+          "va": "Té 29 cromos: {{24 + 10 = 34}} i {{34 − 5 = 29}}.",
+          "en": "She has 29 stickers: {{24 + 10 = 34}} and {{34 − 5 = 29}}.",
+          "fr": "Elle a 29 images : {{24 + 10 = 34}} et {{34 − 5 = 29}}.",
+          "ar": "عندها 29 بطاقة: {{24 + 10 = 34}} و{{34 − 5 = 29}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una de dos pasos con las canicas o las piezas que tengas.",
+        "va": "Inventa'n tu una de dos passos amb les bales o les peces que tingues.",
+        "en": "Make up a two-step one with your marbles or building pieces.",
+        "fr": "Invente une question en deux étapes avec tes billes ou tes pièces de jeu.",
+        "ar": "لنخترع سؤالًا من خطوتين بالكُلل الزجاجية أو القطع التي عندنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 15,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar la vuelta: pagas un juguete de 7 € con un billete de 10 €. ¿Cuánto te devuelven?",
+        "va": "Per a recordar el canvi: pagues un joguet de 7 € amb un bitllet de 10 €. Quant et tornen?",
+        "en": "Let's remember change (la vuelta): you pay for a 7 € toy with a 10 € note. How much do you get back?",
+        "fr": "Pour se souvenir de la monnaie (la vuelta) : tu paies un jouet de 7 € avec un billet de 10 €. Combien te rend-on ?",
+        "ar": "لنتذكّر الباقي من المال (la vuelta): ندفع ثمن لعبة بـ7 € بورقة من فئة 10 €. كم يُعاد لنا؟"
+      },
+      "pista": {
+        "es": "Cuenta con los dedos desde 7 hasta llegar a 10.",
+        "va": "Compta amb els dits des de 7 fins a arribar a 10.",
+        "en": "Count on your fingers from 7 up to 10.",
+        "fr": "Compte sur tes doigts à partir de 7 jusqu'à 10.",
+        "ar": "لنعدّ بالأصابع من 7 حتى نصل إلى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 7",
+        "resultado": 3,
+        "unidad": "euros",
+        "texto": {
+          "es": "Te devuelven 3 €: {{7 + 3 = 10}}.",
+          "va": "Et tornen 3 €: {{7 + 3 = 10}}.",
+          "en": "You get 3 € back: {{7 + 3 = 10}}.",
+          "fr": "On te rend 3 € : {{7 + 3 = 10}}.",
+          "ar": "يُعاد لنا 3 €: {{7 + 3 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra pagando con un billete de 20 €.",
+        "va": "Inventa'n tu una altra pagant amb un bitllet de 20 €.",
+        "en": "Make up another one paying with a 20 € note.",
+        "fr": "Invente-en une autre en payant avec un billet de 20 €.",
+        "ar": "لنخترع سؤالًا آخر ندفع فيه بورقة من فئة 20 €."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Piensa una compra de dos cosas. Cuéntame qué haces primero, qué haces después y por qué.",
+        "va": "Pensa una compra de dues coses. Conta'm què fas primer, què fas després i per què.",
+        "en": "Think of buying two things. Tell me what you do first, what you do next and why.",
+        "fr": "Imagine un achat de deux choses. Raconte-moi ce que tu fais d'abord, ce que tu fais ensuite, et pourquoi.",
+        "ar": "لنفكّر في شراء شيئين. لنحكِ ماذا نفعل أولًا، وماذا نفعل بعد ذلك، ولماذا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si compras pan de 2 € y leche de 3 € con 10 €, ¿qué miras primero?».",
+        "va": "Si no sap per on començar: «Si compres pa de 2 € i llet de 3 € amb 10 €, què mires primer?».",
+        "en": "If they don't know where to start: “If you buy 2 € of bread and 3 € of milk with 10 €, what do you look at first?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si tu achètes du pain à 2 € et du lait à 3 € avec 10 €, qu'est-ce que tu regardes d'abord ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا اشترينا خبزًا بـ2 € وحليبًا بـ3 € ومعنا 10 €، فماذا نحسب أولًا؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Puede empezar sumando los precios o quitando uno y luego el otro: las dos maneras valen. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "Pot començar sumant els preus o llevant-ne un i després l'altre: les dues maneres valen. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "They may start by adding the prices or by taking away one and then the other: both ways work. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Votre enfant peut commencer par additionner les prix ou enlever l'un puis l'autre : les deux façons marchent. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "يمكن البدء بجمع السعرين، أو بنزع سعر ثم الآخر: الطريقتان صحيحتان. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "068407292dc1"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "068407292dc1"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "068407292dc1"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "068407292dc1"
+      }
+    }
+  }
+}

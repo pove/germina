@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s21",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 21,
+  "tipo": "tema",
+  "titulo": {
+    "es": "¿Cuánto falta?",
+    "va": "Quant falta?",
+    "en": "How many more?",
+    "fr": "Combien il manque ?",
+    "ar": "كم ينقص؟"
+  },
+  "objetivo": {
+    "es": "Esta semana averiguan cuánto falta para llegar a un número contando hacia arriba desde el más pequeño. Comparan dos torres y las igualan.",
+    "va": "Aquesta setmana esbrinen quant falta (cuánto falta) per a arribar a un nombre comptant cap amunt des del més menut. Comparen dues torres i les igualen.",
+    "en": "This week they work out how many more (cuánto falta) are needed to reach a number by counting up from the smaller one. They compare two towers and make them equal.",
+    "fr": "Cette semaine, on cherche combien il manque (cuánto falta) pour arriver à un nombre en comptant à partir du plus petit. On compare deux tours et on les rend égales.",
+    "ar": "هذا الأسبوع يكتشف الأطفال كم ينقص (cuánto falta) للوصول إلى عدد، بالعدّ صعودًا من العدد الأصغر. يقارنون برجين ويجعلونهما متساويين."
+  },
+  "comoAyudar": {
+    "es": "Animad a contar hacia arriba con los dedos desde el número pequeño: «6… 7, 8, 9, 10». Los dedos levantados dicen cuánto falta.",
+    "va": "Animeu a comptar cap amunt amb els dits des del nombre menut: «6… 7, 8, 9, 10». Els dits alçats diuen quant falta.",
+    "en": "Encourage counting up on fingers from the smaller number: “6… 7, 8, 9, 10”. The fingers held up tell you how many more.",
+    "fr": "Encouragez à compter vers le haut sur les doigts à partir du petit nombre : « 6… 7, 8, 9, 10 ». Les doigts levés disent combien il manque.",
+    "ar": "شجّعوا على العدّ صعودًا بالأصابع من العدد الصغير: «6… 7، 8، 9، 10». الأصابع المرفوعة تقول كم ينقص."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c1.1.1",
+    "matematicas.c1.1.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Torres iguales",
+      "va": "Torres iguals",
+      "en": "Equal towers",
+      "fr": "Des tours égales",
+      "ar": "برجان متساويان"
+    },
+    "material": [
+      {
+        "es": "Piezas de construcción o tapones de botella",
+        "va": "Peces de construcció o taps de botella",
+        "en": "Building blocks or bottle tops",
+        "fr": "Des pièces de construction ou des bouchons de bouteille",
+        "ar": "قطع بناء أو أغطية قوارير"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "caja",
+        "texto": {
+          "es": "Haced dos torres de piezas o tapones: una pequeña y otra grande, de hasta 20.",
+          "va": "Feu dues torres de peces o taps: una menuda i una altra gran, de fins a 20.",
+          "en": "Build two towers of blocks or bottle tops: a small one and a big one, of up to 20.",
+          "fr": "Construisez deux tours de pièces ou de bouchons : une petite et une grande, jusqu'à 20.",
+          "ar": "ابنوا برجين من القطع أو الأغطية: واحدًا صغيرًا وآخر كبيرًا، حتى 20."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Ponedlas juntas y contad las piezas de cada una. ¿Cuál es más alta?",
+          "va": "Poseu-les juntes i compteu les peces de cada una. Quina és més alta?",
+          "en": "Put them side by side and count the pieces in each. Which is taller?",
+          "fr": "Mettez-les côte à côte et comptez les pièces de chacune. Laquelle est la plus haute ?",
+          "ar": "ضعوهما متجاورين وعدّوا قطع كل برج. أيّهما أعلى؟"
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Añadid piezas a la pequeña de una en una, contando hacia arriba, hasta que sea igual de alta.",
+          "va": "Afegiu peces a la menuda d'una en una, comptant cap amunt, fins que siga igual d'alta.",
+          "en": "Add pieces to the small one one at a time, counting up, until it is just as tall.",
+          "fr": "Ajoutez des pièces à la petite une par une, en comptant vers le haut, jusqu'à ce qu'elle soit aussi haute.",
+          "ar": "أضيفوا قطعًا إلى البرج الصغير واحدة واحدة، عادّين صعودًا، حتى يصبح بالارتفاع نفسه."
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "¿Cuántas piezas habéis puesto? Eso es lo que faltaba. Haced otras dos torres y probad otra vez.",
+          "va": "Quantes peces heu posat? Això és el que faltava. Feu altres dues torres i proveu una altra vegada.",
+          "en": "How many pieces did you add? That is how many were missing. Build two more towers and try again.",
+          "fr": "Combien de pièces avez-vous ajoutées ? C'est ce qui manquait. Faites deux autres tours et essayez encore.",
+          "ar": "كم قطعة أضفتم؟ هذا ما كان ينقص. ابنوا برجين آخرين وجرّبوا من جديد."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Haced torres de hasta 10 y contad con los dedos las piezas que añadís.",
+      "va": "Feu torres de fins a 10 i compteu amb els dits les peces que afegiu.",
+      "en": "Build towers of up to 10 and count the pieces you add on your fingers.",
+      "fr": "Faites des tours jusqu'à 10 et comptez sur vos doigts les pièces que vous ajoutez.",
+      "ar": "ابنوا أبراجًا حتى 10، وعدّوا بالأصابع القطع التي تضيفونها."
+    },
+    "masDificil": {
+      "es": "Decid cuántas faltan antes de añadirlas, y luego comprobadlo poniéndolas.",
+      "va": "Digueu quantes en falten abans d'afegir-les, i després comproveu-ho posant-les.",
+      "en": "Say how many are missing before adding them, then check by putting them on.",
+      "fr": "Dites combien il en manque avant de les ajouter, puis vérifiez en les posant.",
+      "ar": "قولوا كم قطعة تنقص قبل إضافتها، ثم تأكّدوا بوضعها."
+    },
+    "paraQueSirve": {
+      "es": "Saber cuánto falta sirve cada día: cuántas cucharas faltan para poner la mesa o cuántas páginas quedan del cuento. Y es otra manera de restar.",
+      "va": "Saber quant falta servix cada dia: quantes culleres falten per a parar taula o quantes pàgines queden del conte. I és una altra manera de restar.",
+      "en": "Knowing how many more are needed is useful every day: how many spoons are missing to lay the table, or how many pages are left in the story. And it is another way of subtracting.",
+      "fr": "Savoir combien il manque sert tous les jours : combien de cuillères manquent pour mettre la table ou combien de pages il reste dans l'histoire. Et c'est une autre façon de soustraire.",
+      "ar": "معرفة كم ينقص مفيدة كل يوم: كم ملعقة تنقص لتجهيز المائدة، أو كم صفحة بقيت من القصة. وهي طريقة أخرى للطرح."
+    },
+    "aviso": {
+      "es": "Si usáis tapones o piezas pequeñas, guardadlos lejos de hermanos o hermanas pequeños.",
+      "va": "Si utilitzeu taps o peces menudes, guardeu-los lluny de germans o germanes menuts.",
+      "en": "If you use bottle tops or small pieces, keep them away from younger brothers and sisters.",
+      "fr": "Si vous utilisez des bouchons ou de petites pièces, gardez-les loin des petits frères et sœurs.",
+      "ar": "إذا استعملتم أغطية أو قطعًا صغيرة، فأبعدوها عن الإخوة والأخوات الصغار."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Tienes 6 tapones y quieres tener 10. ¿Cuántos te faltan?",
+        "va": "Tens 6 taps i en vols tindre 10. Quants te'n falten?",
+        "en": "You have 6 bottle tops and you want 10. How many more do you need?",
+        "fr": "Tu as 6 bouchons et tu veux en avoir 10. Combien t'en manque-t-il ?",
+        "ar": "عندنا 6 أغطية ونريد 10. كم غطاءً ينقصنا؟"
+      },
+      "pista": {
+        "es": "Di «6» y sigue contando con los dedos hasta llegar al 10.",
+        "va": "Digues «6» i continua comptant amb els dits fins a arribar al 10.",
+        "en": "Say “6” and count on with your fingers until you reach 10.",
+        "fr": "Dis « 6 » et continue à compter sur tes doigts jusqu'à 10.",
+        "ar": "لنقل «6» ونتابع العدّ بالأصابع حتى نصل إلى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Te faltan 4: {{6 + 4 = 10}}.",
+          "va": "Te'n falten 4: {{6 + 4 = 10}}.",
+          "en": "You need 4 more: {{6 + 4 = 10}}.",
+          "fr": "Il t'en manque 4 : {{6 + 4 = 10}}.",
+          "ar": "ينقصنا 4: {{6 + 4 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con cucharas para poner la mesa.",
+        "va": "Inventa'n tu una altra amb culleres per a parar taula.",
+        "en": "Make up another one with spoons for laying the table.",
+        "fr": "Invente-en une autre avec des cuillères pour mettre la table.",
+        "ar": "لنخترع سؤالًا آخر بملاعق لتجهيز المائدة."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "La torre de Amaia tiene 9 piezas y la de Youssef, 12. ¿Cuántas le faltan a Amaia para tener las mismas?",
+        "va": "La torre d'Amaia té 9 peces i la de Youssef, 12. Quantes li'n falten a Amaia per a tindre les mateixes?",
+        "en": "Amaia's tower has 9 pieces and Youssef's has 12. How many more pieces will make her tower the same height?",
+        "fr": "La tour d'Amaia a 9 pièces et celle de Youssef, 12. Combien en manque-t-il à Amaia pour en avoir autant ?",
+        "ar": "برج أمايا فيه 9 قطع وبرج يوسف 12. كم قطعة تنقص أمايا ليصبح عندها العدد نفسه؟"
+      },
+      "pista": {
+        "es": "Empieza en el 9 y cuenta hacia arriba hasta el 12.",
+        "va": "Comença en el 9 i compta cap amunt fins al 12.",
+        "en": "Start at 9 and count up to 12.",
+        "fr": "Commence à 9 et compte jusqu'à 12.",
+        "ar": "لنبدأ من 9 ونعدّ صعودًا حتى 12."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 9",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 3: {{9 + 3 = 12}}.",
+          "va": "Li'n falten 3: {{9 + 3 = 12}}.",
+          "en": "She needs 3 more: {{9 + 3 = 12}}.",
+          "fr": "Il lui en manque 3 : {{9 + 3 = 12}}.",
+          "ar": "ينقصها 3: {{9 + 3 = 12}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos torres de verdad.",
+        "va": "Inventa'n tu una altra amb dues torres de veritat.",
+        "en": "Make up another one with two real towers.",
+        "fr": "Invente-en une autre avec deux vraies tours.",
+        "ar": "لنخترع سؤالًا آخر ببرجين حقيقيين."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Ion ha leído 15 páginas de un cuento de 20. ¿Cuántas le faltan para acabarlo?",
+        "va": "Ion ha llegit 15 pàgines d'un conte de 20. Quantes li'n falten per a acabar-lo?",
+        "en": "Ion has read 15 pages of a 20-page story. How many more pages until he finishes it?",
+        "fr": "Ion a lu 15 pages d'une histoire de 20. Combien lui en manque-t-il pour la finir ?",
+        "ar": "قرأ إيون 15 صفحة من قصة فيها 20. كم صفحة تنقصه لينهيها؟"
+      },
+      "pista": {
+        "es": "Di «15» y cuenta con los dedos: 16, 17…",
+        "va": "Digues «15» i compta amb els dits: 16, 17…",
+        "en": "Say “15” and count on your fingers: 16, 17…",
+        "fr": "Dis « 15 » et compte sur tes doigts : 16, 17…",
+        "ar": "لنقل «15» ونعدّ بالأصابع: 16، 17…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "20 - 15",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le faltan 5 páginas: {{15 + 5 = 20}}.",
+          "va": "Li'n falten 5 pàgines: {{15 + 5 = 20}}.",
+          "en": "He has 5 pages left: {{15 + 5 = 20}}.",
+          "fr": "Il lui manque 5 pages : {{15 + 5 = 20}}.",
+          "ar": "تنقصه 5 صفحات: {{15 + 5 = 20}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un cuento de casa.",
+        "va": "Inventa'n tu una altra amb un conte de casa.",
+        "en": "Make up another one with a storybook from home.",
+        "fr": "Invente-en une autre avec une histoire de la maison.",
+        "ar": "لنخترع سؤالًا آخر بقصة من البيت."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 14,
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Para recordar las formas: ¿cuántas esquinas tiene un triángulo? ¿Y un cuadrado?",
+        "va": "Per a recordar les formes: quants cantons té un triangle (triángulo)? I un quadrat (cuadrado)?",
+        "en": "Let's remember shapes: how many corners does a triangle (triángulo) have? And a square (cuadrado)?",
+        "fr": "Pour se souvenir des formes : combien de coins a un triangle (triángulo) ? Et un carré (cuadrado) ?",
+        "ar": "لنتذكّر الأشكال: كم زاوية في المثلّث (triángulo)؟ وفي المربّع (cuadrado)؟"
+      },
+      "pista": {
+        "es": "Busca algo de casa con esa forma y toca cada esquina.",
+        "va": "Busca alguna cosa de casa amb eixa forma i toca cada cantó.",
+        "en": "Find something at home with that shape and touch each corner.",
+        "fr": "Cherche quelque chose à la maison qui a cette forme et touche chaque coin.",
+        "ar": "لنبحث عن شيء في البيت بهذا الشكل ونلمس كل زاوية."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El triángulo tiene 3 esquinas y el cuadrado, 4. Vale que las cuente tocándolas en una servilleta, un plato o una ventana.",
+          "va": "El triangle té 3 cantons i el quadrat, 4. Val que els compte tocant-los en un tovalló, un plat o una finestra.",
+          "en": "A triangle has 3 corners and a square has 4. It's fine to count them by touching a napkin, a plate or a window.",
+          "fr": "Le triangle a 3 coins et le carré, 4. On peut les compter en touchant une serviette, une assiette ou une fenêtre.",
+          "ar": "في المثلّث 3 زوايا وفي المربّع 4. يمكن عدّها بلمسها على منديل أو صحن أو نافذة."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un rectángulo o un círculo.",
+        "va": "Inventa'n tu una altra amb un rectangle o un cercle.",
+        "en": "Make up another one with a rectangle or a circle.",
+        "fr": "Invente-en une autre avec un rectangle ou un disque.",
+        "ar": "لنخترع سؤالًا آخر بمستطيل أو دائرة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuando quieres saber cuánto falta, ¿cuentas hacia arriba o hacia abajo? Enséñame cómo lo haces.",
+        "va": "Quan vols saber quant falta, comptes cap amunt o cap avall? Ensenya'm com ho fas.",
+        "en": "When you want to know how many more, do you count up or down? Show me how you do it.",
+        "fr": "Quand tu veux savoir combien il manque, tu comptes vers le haut ou vers le bas ? Montre-moi comment tu fais.",
+        "ar": "عندما نريد معرفة كم ينقص، هل نعدّ صعودًا أم نزولًا؟ لنُرِ كيف نفعل ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Tengo 7 cucharas y somos 9. ¿Cuántas me faltan?».",
+        "va": "Si no sap per on començar: «Tinc 7 culleres i som 9. Quantes me'n falten?».",
+        "en": "If they don't know where to start: “I have 7 spoons and there are 9 of us. How many more do I need?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « J'ai 7 cuillères et nous sommes 9. Combien m'en manque-t-il ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «عندي 7 ملاعق ونحن 9. كم ملعقة تنقصني؟»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Las dos maneras valen. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "Les dues maneres valen. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "Both ways are fine. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Les deux façons sont bonnes. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "الطريقتان جيّدتان. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "29ee2e846651"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "29ee2e846651"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "29ee2e846651"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "29ee2e846651"
+      }
+    }
+  }
+}

@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s39",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 39,
+  "tipo": "tema",
+  "titulo": {
+    "es": "Igual a cada lado",
+    "va": "Igual a cada costat",
+    "en": "The same on each side",
+    "fr": "Pareil de chaque côté",
+    "ar": "الشيء نفسه في الجهتين"
+  },
+  "objetivo": {
+    "es": "Esta semana descubren que el signo igual quiere decir «lo mismo a un lado y al otro». Lo ven con una percha que se queda recta cuando los dos lados tienen lo mismo.",
+    "va": "Aquesta setmana descobrixen que el signe igual vol dir «el mateix a un costat i a l'altre». Ho veuen amb una perxa que es queda recta quan els dos costats tenen el mateix.",
+    "en": "This week they discover that the equals sign (igual) means “the same on one side and on the other”. They see it with a coat hanger that stays level when both sides have the same.",
+    "fr": "Cette semaine, on découvre que le signe égal (igual) veut dire « la même chose d'un côté et de l'autre ». On le voit avec un cintre qui reste droit quand les deux côtés ont la même chose.",
+    "ar": "هذا الأسبوع يكتشف الأطفال أن إشارة يساوي (igual) تعني «الشيء نفسه في الجهتين». ويرون ذلك بشمّاعة ملابس تبقى مستوية حين يكون في الجهتين الشيء نفسه."
+  },
+  "comoAyudar": {
+    "es": "Si dice que después del igual va siempre «lo que da», jugad con la percha: {{7 = 3 + 4}} también se queda recta.",
+    "va": "Si diu que després de l'igual va sempre «el que dona», jugueu amb la perxa: {{7 = 3 + 4}} també es queda recta.",
+    "en": "If your child says that what comes after the equals sign is always “what it makes”, play with the hanger: {{7 = 3 + 4}} stays level too.",
+    "fr": "Si votre enfant dit qu'après le signe égal vient toujours « ce que ça fait », jouez avec le cintre : {{7 = 3 + 4}} reste droit aussi.",
+    "ar": "إذا قيل إن ما بعد إشارة يساوي هو دائمًا «الناتج»، فالعبوا بالشمّاعة: {{7 = 3 + 4}} تبقى مستوية أيضًا."
+  },
+  "saberes": [
+    "matematicas.operaciones.igualdad",
+    "matematicas.computacional.igualdades"
+  ],
+  "criterios": [
+    "matematicas.c1.2.2",
+    "matematicas.c1.5.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "La balanza de pinzas",
+      "va": "La balança de pinces",
+      "en": "The peg balance",
+      "fr": "La balance à pinces",
+      "ar": "ميزان الملاقط"
+    },
+    "material": [
+      {
+        "es": "Una percha con una barra abajo",
+        "va": "Una perxa amb una barra a baix",
+        "en": "A coat hanger with a bar along the bottom",
+        "fr": "Un cintre avec une barre en bas",
+        "ar": "شمّاعة ملابس فيها قضيب في الأسفل"
+      },
+      {
+        "es": "Unas 15 pinzas de la ropa iguales",
+        "va": "Unes 15 pinces de la roba iguals",
+        "en": "About 15 matching clothes pegs",
+        "fr": "Environ 15 pinces à linge identiques",
+        "ar": "نحو 15 ملقط غسيل متشابهة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "balanza",
+        "texto": {
+          "es": "Colgad la percha del pomo de una puerta. Mirad que la barra se queda recta.",
+          "va": "Pengeu la perxa del pom d'una porta. Mireu que la barra es queda recta.",
+          "en": "Hang the hanger from a door handle. Check that the bar stays level.",
+          "fr": "Accrochez le cintre à une poignée de porte. Regardez si la barre reste droite.",
+          "ar": "علّقوا الشمّاعة على مقبض باب. انظروا هل يبقى القضيب مستويًا."
+        }
+      },
+      {
+        "pictograma": "pinza",
+        "texto": {
+          "es": "Cerca de una punta de la barra, poned 3 pinzas y luego 4 más. La percha se inclina.",
+          "va": "Prop d'una punta de la barra, poseu 3 pinces i després 4 més. La perxa s'inclina.",
+          "en": "Near one end of the bar, put on 3 pegs and then 4 more. The hanger tips.",
+          "fr": "Près d'un bout de la barre, mettez 3 pinces puis 4 de plus. Le cintre penche.",
+          "ar": "قرب أحد طرفي القضيب، ضعوا 3 ملاقط ثم 4 أخرى. تميل الشمّاعة."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Cerca de la otra punta, id poniendo pinzas de una en una hasta que la barra vuelva a quedarse recta. ¿Cuántas habéis puesto?",
+          "va": "Prop de l'altra punta, aneu posant pinces d'una en una fins que la barra torne a quedar-se recta. Quantes n'heu posat?",
+          "en": "Near the other end, add pegs one at a time until the bar is level again. How many did you put on?",
+          "fr": "Près de l'autre bout, ajoutez des pinces une par une jusqu'à ce que la barre soit de nouveau droite. Combien en avez-vous mis ?",
+          "ar": "قرب الطرف الآخر، ضعوا الملاقط واحدًا واحدًا حتى يعود القضيب مستويًا. كم ملقطًا وضعتم؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Decidlo con números: {{3 + 4 = 7}}. Probad otra vez con 5 y 2, o con 6 y 1.",
+          "va": "Digueu-ho amb nombres: {{3 + 4 = 7}}. Torneu-ho a fer amb 5 i 2, o amb 6 i 1.",
+          "en": "Say it with numbers: {{3 + 4 = 7}}. Try again with 5 and 2, or with 6 and 1.",
+          "fr": "Dites-le avec des nombres : {{3 + 4 = 7}}. Essayez encore avec 5 et 2, ou avec 6 et 1.",
+          "ar": "قولوا ذلك بالأعداد: {{3 + 4 = 7}}. جرّبوا مرة أخرى بـ5 و2، أو بـ6 و1."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Empezad con 2 y 1 pinzas en un lado y contad con los dedos cuántas faltan en el otro.",
+      "va": "Comenceu amb 2 i 1 pinces en un costat i compteu amb els dits quantes en falten en l'altre.",
+      "en": "Start with 2 and 1 pegs on one side and count on your fingers how many are missing on the other.",
+      "fr": "Commencez avec 2 et 1 pinces d'un côté et comptez sur vos doigts combien il en manque de l'autre.",
+      "ar": "ابدؤوا بملقطين وملقط واحد في جهة، وعدّوا بالأصابع كم ينقص في الجهة الأخرى."
+    },
+    "masDificil": {
+      "es": "Poned 5 y 4 pinzas en un lado y 6 en el otro. ¿Cuántas faltan junto a las 6? Decidlo así: {{5 + 4 = 6 + 3}}.",
+      "va": "Poseu 5 i 4 pinces en un costat i 6 en l'altre. Quantes en falten al costat de les 6? Digueu-ho així: {{5 + 4 = 6 + 3}}.",
+      "en": "Put 5 and 4 pegs on one side and 6 on the other. How many are missing next to the 6? Say it like this: {{5 + 4 = 6 + 3}}.",
+      "fr": "Mettez 5 et 4 pinces d'un côté et 6 de l'autre. Combien en manque-t-il à côté des 6 ? Dites-le ainsi : {{5 + 4 = 6 + 3}}.",
+      "ar": "ضعوا 5 و4 ملاقط في جهة و6 في الجهة الأخرى. كم ينقص بجانب الستة؟ قولوها هكذا: {{5 + 4 = 6 + 3}}."
+    },
+    "paraQueSirve": {
+      "es": "Entender que el igual quiere decir «lo mismo a los dos lados», y no solo «ahora viene lo que da», ayuda mucho cuando llegan cuentas más largas.",
+      "va": "Entendre que l'igual vol dir «el mateix als dos costats», i no només «ara ve el que dona», ajuda molt quan arriben comptes més llargs.",
+      "en": "Understanding that equals means “the same on both sides”, and not just “here comes what it makes”, helps a lot when longer sums come along.",
+      "fr": "Comprendre que égal veut dire « la même chose des deux côtés », et pas seulement « voici ce que ça fait », aide beaucoup quand arrivent des calculs plus longs.",
+      "ar": "فهم أن يساوي تعني «الشيء نفسه في الجهتين»، وليس فقط «الآن يأتي الناتج»، يساعد كثيرًا حين تأتي عمليات أطول."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En un plato hay 4 galletas de chocolate y 2 de limón, y en otro hay 6. ¿Hay lo mismo en los dos platos?",
+        "va": "En un plat hi ha 4 galetes de xocolate i 2 de llima, i en un altre n'hi ha 6. Hi ha el mateix en els dos plats?",
+        "en": "On one plate there are 4 chocolate biscuits and 2 lemon ones, and on another there are 6. Is there the same on both plates?",
+        "fr": "Dans une assiette, il y a 4 biscuits au chocolat et 2 au citron, et dans une autre, il y en a 6. Y en a-t-il autant dans les deux assiettes ?",
+        "ar": "في صحن 4 قطع بسكويت بالشوكولاتة و2 بالليمون، وفي صحن آخر 6. هل في الصحنين العدد نفسه؟"
+      },
+      "pista": {
+        "es": "Cuenta las galletas de cada plato por separado.",
+        "va": "Compta les galetes de cada plat per separat.",
+        "en": "Count the biscuits on each plate separately.",
+        "fr": "Compte les biscuits de chaque assiette séparément.",
+        "ar": "لنعدّ البسكويت في كل صحن على حدة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "4 + 2",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, hay lo mismo: {{4 + 2 = 6}}.",
+          "va": "Sí, n'hi ha el mateix: {{4 + 2 = 6}}.",
+          "en": "Yes, there's the same: {{4 + 2 = 6}}.",
+          "fr": "Oui, il y en a autant : {{4 + 2 = 6}}.",
+          "ar": "نعم، العدد نفسه: {{4 + 2 = 6}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú dos platos con lo mismo, con cosas de la cocina.",
+        "va": "Inventa tu dos plats amb el mateix, amb coses de la cuina.",
+        "en": "Make up two plates with the same amount, using things from the kitchen.",
+        "fr": "Invente deux assiettes avec la même quantité, avec des choses de la cuisine.",
+        "ar": "لنخترع صحنين فيهما العدد نفسه، بأشياء من المطبخ."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Nora tiene 5 pinzas y Youssef tiene 8. ¿Cuántas más necesita Nora para tener las mismas que Youssef?",
+        "va": "Nora té 5 pinces i Youssef en té 8. Quantes més en necessita Nora per a tindre les mateixes que Youssef?",
+        "en": "Nora has 5 pegs and Youssef has 8. How many more would give Nora the same as Youssef?",
+        "fr": "Nora a 5 pinces et Youssef en a 8. Combien lui en manque-t-il pour en avoir autant que Youssef ?",
+        "ar": "عند نورا 5 ملاقط وعند يوسف 8. كم ملقطًا ينقص نورا ليصبح عندها مثل يوسف؟"
+      },
+      "pista": {
+        "es": "Cuenta desde el 5 hasta el 8 levantando un dedo cada vez.",
+        "va": "Compta des del 5 fins al 8 alçant un dit cada vegada.",
+        "en": "Count from 5 up to 8, raising a finger each time.",
+        "fr": "Compte de 5 jusqu'à 8 en levant un doigt à chaque fois.",
+        "ar": "لنعدّ من 5 إلى 8، ونرفع إصبعًا في كل مرة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 - 5",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Necesita 3 más: {{5 + 3 = 8}}.",
+          "va": "En necessita 3 més: {{5 + 3 = 8}}.",
+          "en": "3 more: {{5 + 3 = 8}}.",
+          "fr": "Il lui en manque 3 : {{5 + 3 = 8}}.",
+          "ar": "ينقصها 3: {{5 + 3 = 8}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra en la que dos personas acaben con lo mismo.",
+        "va": "Inventa tu una altra en què dues persones acaben amb el mateix.",
+        "en": "Make up another one where two people end up with the same.",
+        "fr": "Invente-en une autre où deux personnes finissent avec la même quantité.",
+        "ar": "لنخترع سؤالًا آخر ينتهي فيه شخصان بالعدد نفسه."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Una percha tiene 2 y 5 pinzas en un lado, y 4 en el otro. ¿Cuántas más pones junto a las 4 para que quede recta?",
+        "va": "Una perxa té 2 i 5 pinces en un costat, i 4 en l'altre. Quantes més en poses al costat de les 4 perquè quede recta?",
+        "en": "A hanger has 2 and 5 pegs on one side and 4 on the other. How many more do you put next to the 4 so it's level?",
+        "fr": "Un cintre a 2 et 5 pinces d'un côté, et 4 de l'autre. Combien en ajoutes-tu à côté des 4 pour qu'il soit droit ?",
+        "ar": "على شمّاعة ملقطان و5 ملاقط في جهة، و4 في الجهة الأخرى. كم ملقطًا نضيف بجانب الأربعة لتصبح مستوية؟"
+      },
+      "pista": {
+        "es": "Primero cuenta cuántas hay en el lado de 2 y 5.",
+        "va": "Primer compta quantes n'hi ha al costat del 2 i el 5.",
+        "en": "First count how many there are on the side with 2 and 5.",
+        "fr": "Compte d'abord combien il y en a du côté du 2 et du 5.",
+        "ar": "لنعدّ أولًا كم ملقطًا في جهة الاثنين والخمسة."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "2 + 5 - 4",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "3 más: {{2 + 5 = 4 + 3}}.",
+          "va": "3 més: {{2 + 5 = 4 + 3}}.",
+          "en": "3 more: {{2 + 5 = 4 + 3}}.",
+          "fr": "3 de plus : {{2 + 5 = 4 + 3}}.",
+          "ar": "3 ملاقط إضافية: {{2 + 5 = 4 + 3}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra percha con pinzas a los dos lados.",
+        "va": "Inventa tu una altra perxa amb pinces als dos costats.",
+        "en": "Make up another hanger with pegs on both sides.",
+        "fr": "Invente un autre cintre avec des pinces des deux côtés.",
+        "ar": "لنخترع شمّاعة أخرى فيها ملاقط في الجهتين."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 31,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar: tienes un paquete de 10 palillos y 4 sueltos. Si regalas 6, ¿cuántos te quedan?",
+        "va": "Per a recordar: tens un paquet de 10 escuradents i 4 solts. Si en regales 6, quants te'n queden?",
+        "en": "Let's remember: you have a bundle of 10 sticks and 4 loose ones. If you give away 6, how many do you have left?",
+        "fr": "Pour se souvenir : tu as un paquet de 10 bâtonnets et 4 à part. Si tu en donnes 6, combien t'en reste-t-il ?",
+        "ar": "لنتذكّر: عندنا حزمة من 10 أعواد و4 أعواد منفردة. إذا أعطينا 6، كم عودًا يبقى؟"
+      },
+      "pista": {
+        "es": "Quita primero los 4 sueltos y luego abre el paquete para quitar 2 más.",
+        "va": "Lleva primer els 4 solts i després obri el paquet per a llevar-ne 2 més.",
+        "en": "First take away the 4 loose ones, then open the bundle to take away 2 more.",
+        "fr": "Enlève d'abord les 4 à part, puis ouvre le paquet pour en enlever 2 de plus.",
+        "ar": "لننزع أولًا الأعواد الأربعة المنفردة، ثم نفتح الحزمة لننزع 2 أخريين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "14 - 6",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Te quedan 8 palillos.",
+          "va": "Te'n queden 8.",
+          "en": "You have 8 sticks left.",
+          "fr": "Il t'en reste 8.",
+          "ar": "يبقى 8 أعواد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra en la que haga falta abrir el paquete.",
+        "va": "Inventa tu una altra en què faça falta obrir el paquet.",
+        "en": "Make up another one where the bundle gets opened.",
+        "fr": "Invente-en une autre où on ouvre le paquet.",
+        "ar": "لنخترع سؤالًا آخر نفتح فيه الحزمة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Explícame qué quiere decir el signo igual. Puedes usar la percha, los dedos o lo que quieras.",
+        "va": "Explica'm què vol dir el signe igual. Pots fer servir la perxa, els dits o el que vulgues.",
+        "en": "Explain to me what the equals sign means. You can use the hanger, your fingers or anything you like.",
+        "fr": "Explique-moi ce que veut dire le signe égal. Tu peux utiliser le cintre, tes doigts ou ce que tu veux.",
+        "ar": "لنشرح معنى إشارة يساوي. يمكن أن نستعمل الشمّاعة أو الأصابع أو أي شيء."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿{{3 + 4}} y 7 son lo mismo? ¿Cómo lo sabes?»",
+        "va": "Si no sap per on començar: «{{3 + 4}} i 7 són el mateix? Com ho saps?»",
+        "en": "If they don't know where to start: “Are {{3 + 4}} and 7 the same? How do you know?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « {{3 + 4}} et 7, c'est pareil ? Comment tu le sais ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل {{3 + 4}} و7 الشيء نفسه؟ كيف نعرف ذلك؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Muchos niños y niñas dicen que el igual es «lo que da». Si sale así, volved a la percha: lo importante es que haya lo mismo a cada lado.",
+          "va": "Molts xiquets i xiquetes diuen que l'igual és «el que dona». Si ix així, torneu a la perxa: l'important és que hi haja el mateix a cada costat.",
+          "en": "Many children say that equals means “what it makes”. If that comes up, go back to the hanger: what matters is that there's the same on each side.",
+          "fr": "Beaucoup d'enfants disent que égal, c'est « ce que ça fait ». Si c'est le cas, revenez au cintre : l'important, c'est qu'il y ait la même chose de chaque côté.",
+          "ar": "يقول كثير من الأطفال إن يساوي هي «الناتج». إذا حدث ذلك، فعودوا إلى الشمّاعة: المهمّ أن يكون الشيء نفسه في كل جهة."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "29ecf3b73b6b"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "29ecf3b73b6b"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "29ecf3b73b6b"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "29ecf3b73b6b"
+      }
+    }
+  }
+}

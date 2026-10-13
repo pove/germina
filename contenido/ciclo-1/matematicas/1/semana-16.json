@@ -1,0 +1,339 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s16",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 16,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: juegos en familia",
+    "va": "Setmana de recordar: jocs en família",
+    "en": "Remembering week: family games",
+    "fr": "Semaine de rappel : jeux en famille",
+    "ar": "أسبوع التذكّر: ألعاب عائلية"
+  },
+  "objetivo": {
+    "es": "Esta semana no hay nada nuevo: vuelven a contar, sumar y quitar jugando a juegos de mesa de casa. Seguir contando desde una casilla y juntar los puntos de dos dados es cálculo mental de verdad.",
+    "va": "Aquesta setmana no hi ha res de nou: tornen a comptar, sumar i llevar jugant a jocs de taula de casa. Continuar comptant des d'una casella i ajuntar els punts de dos daus és càlcul mental (cálculo mental) de veritat.",
+    "en": "There is nothing new this week: they go back to counting, adding and taking away by playing board games at home. Counting on from a square and putting together the dots on two dice is real mental calculation (cálculo mental).",
+    "fr": "Rien de nouveau cette semaine : on revient à compter, ajouter et enlever en jouant à des jeux de société de la maison. Continuer à compter depuis une case et réunir les points de deux dés, c'est du vrai calcul mental (cálculo mental).",
+    "ar": "لا جديد هذا الأسبوع: يعود الأطفال إلى العدّ والجمع والطرح وهم يلعبون ألعاب الطاولة في البيت. متابعة العدّ من خانة، وجمع نقاط نردين، هما حساب ذهني (cálculo mental) حقيقي."
+  },
+  "comoAyudar": {
+    "es": "Si os apetece, jugad a lo que tengáis en casa y dejad que cuente los puntos y las casillas. Si se equivoca, decid «casi» y contad juntos otra vez, despacio.",
+    "va": "Si vos ve de gust, jugueu al que tingueu a casa i deixeu que compte els punts i les caselles. Si s'equivoca, digueu «quasi» i compteu junts una altra vegada, a poc a poc.",
+    "en": "If you feel like it, play whatever you have at home and let your child count the dots and the squares. If they slip up, say “almost” and count together again, slowly.",
+    "fr": "Si vous en avez envie, jouez à ce que vous avez à la maison et laissez votre enfant compter les points et les cases. S'il ou elle se trompe, dites « presque » et recomptez ensemble, doucement.",
+    "ar": "إن رغبتم، العبوا بما عندكم في البيت، واتركوا عدّ النقاط والخانات لابنكم أو ابنتكم. وإذا حصل خطأ، قولوا «تقريبًا» وعدّوا معًا من جديد، ببطء."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.cooperativo"
+  ],
+  "criterios": [
+    "matematicas.c1.7.1",
+    "matematicas.c1.8.3"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Tarde de juegos de mesa",
+      "va": "Vesprada de jocs de taula",
+      "en": "Board game afternoon",
+      "fr": "Après-midi jeux de société",
+      "ar": "عصر ألعاب الطاولة"
+    },
+    "material": [
+      {
+        "es": "Un juego de mesa de casa: la oca, el parchís o el dominó",
+        "va": "Un joc de taula de casa: l'oca, el parxís o el dòmino",
+        "en": "A board game from home: snakes and ladders, ludo or dominoes",
+        "fr": "Un jeu de société de la maison : le jeu de l'oie, les petits chevaux ou les dominos",
+        "ar": "لعبة طاولة من البيت: لعبة الإوزّة أو الليدو أو الدومينو"
+      },
+      {
+        "es": "Dos dados",
+        "va": "Dos daus",
+        "en": "Two dice",
+        "fr": "Deux dés",
+        "ar": "نردان"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "tablero",
+        "texto": {
+          "es": "Sacad un juego de mesa de casa. Si no tenéis, dibujad en un papel un camino de 20 casillas numeradas.",
+          "va": "Traieu un joc de taula de casa. Si no en teniu, dibuixeu en un paper un camí de 20 caselles numerades.",
+          "en": "Get out a board game from home. If you don't have one, draw a path of 20 numbered squares on a piece of paper.",
+          "fr": "Sortez un jeu de société de la maison. Si vous n'en avez pas, dessinez sur une feuille un chemin de 20 cases numérotées.",
+          "ar": "أخرجوا لعبة طاولة من البيت. وإن لم تكن عندكم، ارسموا على ورقة طريقًا من 20 خانة مرقّمة."
+        }
+      },
+      {
+        "pictograma": "dado",
+        "texto": {
+          "es": "Tirad los dos dados y juntad los puntos. Empezad por el dado más grande y seguid contando los puntos del otro.",
+          "va": "Tireu els dos daus i ajunteu els punts. Comenceu pel dau més gran i continueu comptant els punts de l'altre.",
+          "en": "Roll both dice and put the dots together. Start with the bigger one and count on the dots of the other.",
+          "fr": "Lancez les deux dés et réunissez les points. Commencez par le plus grand dé et continuez à compter les points de l'autre.",
+          "ar": "ارموا النردين واجمعوا النقاط. ابدؤوا بالنرد الأكبر، ثم تابعوا عدّ نقاط النرد الآخر."
+        }
+      },
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "Avanzad esas casillas contando desde donde estáis, no desde el principio.",
+          "va": "Avanceu eixes caselles comptant des d'on esteu, no des del principi.",
+          "en": "Move forward that many squares, counting on from where you are, not from the start.",
+          "fr": "Avancez de ce nombre de cases en comptant depuis là où vous êtes, pas depuis le début.",
+          "ar": "تقدّموا بعدد تلك الخانات، وعدّوا من حيث أنتم، لا من البداية."
+        }
+      },
+      {
+        "pictograma": "domino",
+        "texto": {
+          "es": "Con el dominó: buscad piezas que entre las dos mitades tengan 10 puntos.",
+          "va": "Amb el dòmino: busqueu peces que entre les dues meitats tinguen 10 punts.",
+          "en": "With the dominoes: look for dominoes that have 10 dots between their two halves.",
+          "fr": "Avec les dominos : cherchez des dominos qui ont 10 points en tout sur leurs deux moitiés.",
+          "ar": "بالدومينو: ابحثوا عن قطع فيها 10 نقاط في نصفيها معًا."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Jugad con un solo dado y contad los puntos tocándolos con el dedo.",
+      "va": "Jugueu amb un sol dau i compteu els punts tocant-los amb el dit.",
+      "en": "Play with just one die and count the dots, touching them with a finger.",
+      "fr": "Jouez avec un seul dé et comptez les points en les touchant du doigt.",
+      "ar": "العبوا بنرد واحد فقط، وعدّوا النقاط بلمسها بالإصبع."
+    },
+    "masDificil": {
+      "es": "Decid cuántos puntos hay entre los dos dados solo mirándolos, sin contar de uno en uno.",
+      "va": "Digueu quants punts hi ha entre els dos daus només mirant-los, sense comptar d'un en un.",
+      "en": "Say how many dots there are on the two dice just by looking, without counting one by one.",
+      "fr": "Dites combien de points il y a sur les deux dés juste en les regardant, sans compter un par un.",
+      "ar": "قولوا كم نقطة في النردين معًا بالنظر فقط، من دون العدّ واحدًا واحدًا."
+    },
+    "paraQueSirve": {
+      "es": "Jugar en familia a juegos de tablero ayuda a ver los números en orden y a sumar de cabeza, y además se aprende a esperar el turno y a jugar en equipo.",
+      "va": "Jugar en família a jocs de tauler ajuda a veure els nombres en orde i a sumar de cap, i a més s'aprén a esperar el torn i a jugar en equip.",
+      "en": "Playing board games as a family helps children see numbers in order and add in their heads, and they also learn to wait their turn and play as a team.",
+      "fr": "Jouer en famille à des jeux de plateau aide à voir les nombres dans l'ordre et à additionner de tête, et on apprend aussi à attendre son tour et à jouer en équipe.",
+      "ar": "اللعب في العائلة بألعاب الطاولة يساعد على رؤية الأعداد بالترتيب وعلى الجمع في الذهن، ونتعلّم أيضًا انتظار الدور واللعب كفريق."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "anadir",
+      "texto": {
+        "es": "Darío está en la casilla 8 de la oca y saca un 3. ¿A qué casilla llega?",
+        "va": "Darío és a la casella 8 de l'oca i trau un 3. A quina casella arriba?",
+        "en": "Darío is on square 8 and rolls a 3. Which square does he land on?",
+        "fr": "Darío est sur la case 8 du jeu de l'oie et fait un 3. Sur quelle case arrive-t-il ?",
+        "ar": "دارِيو في الخانة 8 من لعبة الإوزّة، وحصل على 3 في النرد. إلى أيّ خانة يصل؟"
+      },
+      "pista": {
+        "es": "Pon el dedo en el 8 y sigue contando tres saltos.",
+        "va": "Posa el dit en el 8 i continua comptant tres salts.",
+        "en": "Put your finger on 8 and count on three jumps.",
+        "fr": "Mets ton doigt sur le 8 et continue à compter trois sauts.",
+        "ar": "لنضع الإصبع على 8 ونتابع العدّ ثلاث قفزات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "8 + 3",
+        "resultado": 11,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llega a la casilla 11: {{8 + 3 = 11}}.",
+          "va": "Arriba a la casella 11: {{8 + 3 = 11}}.",
+          "en": "He lands on square 11: {{8 + 3 = 11}}.",
+          "fr": "Il arrive sur la case 11 : {{8 + 3 = 11}}.",
+          "ar": "يصل إلى الخانة 11: {{8 + 3 = 11}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: elige una casilla y tira el dado.",
+        "va": "Inventa'n tu una altra: tria una casella i tira el dau.",
+        "en": "Make up another one: choose a square and roll the die.",
+        "fr": "Invente-en une autre : choisis une case et lance le dé.",
+        "ar": "لنخترع سؤالًا آخر: نختار خانة ونرمي النرد."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Sacas un 6 en un dado y un 4 en el otro. ¿Cuántos puntos tienes en total?",
+        "va": "Traus un 6 en un dau i un 4 en l'altre. Quants punts tens en total?",
+        "en": "You roll a 6 on one die and a 4 on the other. How many dots do you have altogether?",
+        "fr": "Tu fais 6 sur un dé et 4 sur l'autre. Combien de points as-tu en tout ?",
+        "ar": "حصلنا على 6 في نرد و4 في الآخر. كم نقطة عندنا في المجموع؟"
+      },
+      "pista": {
+        "es": "Empieza por el 6 y sigue contando con los dedos.",
+        "va": "Comença pel 6 i continua comptant amb els dits.",
+        "en": "Start at 6 and count on with your fingers.",
+        "fr": "Commence par le 6 et continue à compter sur tes doigts.",
+        "ar": "لنبدأ من 6 ونتابع العدّ بالأصابع."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 4",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Tienes 10 puntos: {{6 + 4 = 10}}. ¡Son amigos del 10!",
+          "va": "Tens 10 punts: {{6 + 4 = 10}}. Són amics del 10!",
+          "en": "You have 10 dots: {{6 + 4 = 10}}. They are friends of 10!",
+          "fr": "Tu as 10 points : {{6 + 4 = 10}}. Ce sont des amis du 10 !",
+          "ar": "عندنا 10 نقاط: {{6 + 4 = 10}}. إنهما صديقان للعدد 10!"
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos dados de verdad.",
+        "va": "Inventa'n tu una altra amb dos daus de veritat.",
+        "en": "Make up another one with two real dice.",
+        "fr": "Invente-en une autre avec deux vrais dés.",
+        "ar": "لنخترع سؤالًا آخر بنردين حقيقيين."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Escondes 10 legumbres entre tus dos manos. En una hay 7. ¿Cuántas hay en la otra?",
+        "va": "Amagues 10 llegums entre les teues dues mans. En una n'hi ha 7. Quants n'hi ha en l'altra?",
+        "en": "You hide 10 beans in your two hands. One hand has 7. How many are in the other?",
+        "fr": "Tu caches 10 haricots dans tes deux mains. Dans l'une, il y en a 7. Combien y en a-t-il dans l'autre ?",
+        "ar": "نخبّئ 10 حبّات بقول في يدينا. في يد 7. كم حبّة في اليد الأخرى؟"
+      },
+      "pista": {
+        "es": "Levanta 7 dedos y mira cuántos faltan para llegar a 10.",
+        "va": "Alça 7 dits i mira quants en falten per a arribar a 10.",
+        "en": "Hold up 7 fingers and see how many more make 10.",
+        "fr": "Lève 7 doigts et regarde combien il en manque pour arriver à 10.",
+        "ar": "لنرفع 7 أصابع ونرى كم ينقص لنصل إلى 10."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 7",
+        "resultado": 3,
+        "unidad": "unidades",
+        "texto": {
+          "es": "En la otra mano hay 3: {{7 + 3 = 10}}.",
+          "va": "En l'altra mà n'hi ha 3: {{7 + 3 = 10}}.",
+          "en": "There are 3 in the other hand: {{7 + 3 = 10}}.",
+          "fr": "Dans l'autre main, il y en a 3 : {{7 + 3 = 10}}.",
+          "ar": "في اليد الأخرى 3: {{7 + 3 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra escondiendo las legumbres a una persona de tu familia.",
+        "va": "Inventa'n tu una altra amagant els llegums a una persona de la teua família.",
+        "en": "Make up another one by hiding the beans from someone in your family.",
+        "fr": "Invente-en une autre en cachant les haricots à quelqu'un de ta famille.",
+        "ar": "لنخترع سؤالًا آخر نخبّئ فيه الحبّات عن شخص من العائلة."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 5,
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Para recordar los bolos: hay 10 botellas de pie y Aisha tira 6. ¿Cuántas quedan de pie?",
+        "va": "Per a recordar els bitlles: hi ha 10 botelles dretes i Aisha en tomba 6. Quantes en queden dretes?",
+        "en": "Let's remember skittles: there are 10 bottles standing and Aisha knocks down 6. How many are still standing?",
+        "fr": "Pour se souvenir des quilles : il y a 10 bouteilles debout et Aisha en fait tomber 6. Combien en reste-t-il debout ?",
+        "ar": "لنتذكّر لعبة البولينغ: هناك 10 قوارير واقفة، وأسقطت عائشة 6. كم قارورة بقيت واقفة؟"
+      },
+      "pista": {
+        "es": "Levanta 10 dedos y baja 6.",
+        "va": "Alça 10 dits i abaixa'n 6.",
+        "en": "Hold up 10 fingers and put 6 down.",
+        "fr": "Lève 10 doigts et baisses-en 6.",
+        "ar": "لنرفع 10 أصابع ثم نُنزل 6."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 6",
+        "resultado": 4,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 4 botellas de pie: {{10 − 6 = 4}}.",
+          "va": "En queden 4 dretes: {{10 − 6 = 4}}.",
+          "en": "4 bottles are still standing: {{10 − 6 = 4}}.",
+          "fr": "Il en reste 4 debout : {{10 − 6 = 4}}.",
+          "ar": "بقيت 4 قوارير واقفة: {{10 − 6 = 4}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las botellas que caen en tu tirada.",
+        "va": "Inventa'n tu una altra amb les botelles que cauen en la teua tirada.",
+        "en": "Make up another one with the bottles that fall on your throw.",
+        "fr": "Invente-en une autre avec les bouteilles qui tombent à ton lancer.",
+        "ar": "لنخترع سؤالًا آخر بالقوارير التي تسقط في رميتنا."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿A qué juego te gusta jugar en familia? Explícame cómo cuentas las casillas o los puntos.",
+        "va": "A quin joc t'agrada jugar en família? Explica'm com comptes les caselles o els punts.",
+        "en": "Which game do you like playing with your family? Tell me how you count the squares or the dots.",
+        "fr": "À quel jeu aimes-tu jouer en famille ? Explique-moi comment tu comptes les cases ou les points.",
+        "ar": "أيّ لعبة نحبّ أن نلعبها في العائلة؟ لنشرح كيف نعدّ الخانات أو النقاط."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Tira el dado y enséñame cómo avanzas».",
+        "va": "Si no sap per on començar: «Tira el dau i ensenya'm com avances».",
+        "en": "If they don't know where to start: “Roll the die and show me how you move forward.”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Lance le dé et montre-moi comment tu avances. »",
+        "ar": "إذا صعُبت البداية، قولوا: «لنرمِ النرد ونُرِ كيف نتقدّم»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Fijaos en si cuenta desde la casilla en la que está o desde la siguiente. Escuchad y preguntad «¿y luego?».",
+          "va": "Fixeu-vos si compta des de la casella on està o des de la següent. Escolteu i pregunteu «i després?».",
+          "en": "Notice whether they count from the square they are on or from the next one. Listen and ask “And then?”.",
+          "fr": "Remarquez s'il ou elle compte depuis la case où il ou elle est ou depuis la suivante. Écoutez et demandez « Et après ? ».",
+          "ar": "لاحظوا هل يبدأ العدّ من الخانة الحالية أم من التي بعدها. استمعوا واسألوا «ثم ماذا؟»."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "d593ee33e999"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "d593ee33e999"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "d593ee33e999"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "d593ee33e999"
+      }
+    }
+  }
+}

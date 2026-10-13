@@ -1,0 +1,342 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.v02",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "verano": 2,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Números de tres cifras",
+    "va": "Nombres de tres xifres",
+    "en": "Three-digit numbers",
+    "fr": "Les nombres à trois chiffres",
+    "ar": "أعداد من ثلاثة أرقام"
+  },
+  "objetivo": {
+    "es": "En verano buscan números de tres cifras por la calle, los leen y dicen cuál es mayor, mirando primero las centenas.",
+    "va": "A l'estiu busquen nombres de tres xifres (cifras) pel carrer, els lligen i diuen quin és major, mirant primer les centenes (centenas).",
+    "en": "In summer they look for three-digit (cifras) numbers in the street, read them and say which is greater, looking at the hundreds (centenas) first.",
+    "fr": "En été, on cherche des nombres à trois chiffres (cifras) dans la rue, on les lit et on dit lequel est le plus grand, en regardant d'abord les centaines (centenas).",
+    "ar": "في الصيف يبحث الأطفال في الشارع عن أعداد من ثلاثة أرقام (cifras)، ويقرؤونها ويقولون أيّها أكبر، بالنظر أولًا إلى المئات (centenas)."
+  },
+  "comoAyudar": {
+    "es": "Leed juntos cada número y preguntad «¿cuántas centenas tiene?» antes de comparar. Si se lía, dibujad el número: un cuadrado por centena, una raya por decena y un punto por unidad.",
+    "va": "Llegiu junts cada nombre i pregunteu «quantes centenes té?» abans de comparar. Si s'embolica, dibuixeu el nombre: un quadrat per centena, una ratlla per desena (decena) i un punt per unitat (unidad).",
+    "en": "Read each number together and ask “How many hundreds does it have?” before comparing. If they get muddled, draw the number: a square for each hundred, a line for each ten (decena) and a dot for each one (unidad).",
+    "fr": "Lisez chaque nombre ensemble et demandez « Combien de centaines a-t-il ? » avant de comparer. S'il ou elle s'embrouille, dessinez le nombre : un carré par centaine, un trait par dizaine (decena) et un point par unité (unidad).",
+    "ar": "اقرؤوا كل عدد معًا واسألوا «كم مئة فيه؟» قبل المقارنة. وإذا اختلطت الأمور، ارسموا العدد: مربّع لكل مئة، وخط لكل عشرة (decena)، ونقطة لكل وحدة (unidad)."
+  },
+  "saberes": [
+    "matematicas.numeros.sistema-decimal",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c1.5.2",
+    "matematicas.c1.7.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Paseo de números",
+      "va": "Passeig de nombres",
+      "en": "Number walk",
+      "fr": "Promenade des nombres",
+      "ar": "نزهة الأعداد"
+    },
+    "material": [
+      {
+        "es": "Los números de la calle: portales, matrículas, precios…",
+        "va": "Els nombres del carrer: portals, matrícules, preus…",
+        "en": "The numbers in the street: doorways, number plates, prices…",
+        "fr": "Les nombres de la rue : portes d'immeubles, plaques d'immatriculation, prix…",
+        "ar": "أعداد الشارع: أبواب العمارات، لوحات السيارات، الأسعار…"
+      },
+      {
+        "es": "Un papel y un lápiz para dibujar en casa",
+        "va": "Un paper i un llapis per a dibuixar a casa",
+        "en": "Paper and a pencil to draw at home",
+        "fr": "Une feuille et un crayon pour dessiner à la maison",
+        "ar": "ورقة وقلم رصاص للرسم في البيت"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "huellas",
+        "texto": {
+          "es": "En un paseo juntos, buscad un número de tres cifras: un portal, una matrícula, un precio.",
+          "va": "En un passeig junts, busqueu un nombre de tres xifres: un portal, una matrícula, un preu.",
+          "en": "On a walk together, look for a three-digit number: a doorway, a number plate, a price.",
+          "fr": "Pendant une promenade ensemble, cherchez un nombre à trois chiffres : une porte, une plaque, un prix.",
+          "ar": "في نزهة معًا، ابحثوا عن عدد من ثلاثة أرقام: باب عمارة، لوحة سيارة، سعر."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Leedlo en voz alta. ¿Cuántas centenas tiene? ¿Y cuántas decenas?",
+          "va": "Llegiu-lo en veu alta. Quantes centenes té? I quantes desenes?",
+          "en": "Read it out loud. How many hundreds does it have? And how many tens?",
+          "fr": "Lisez-le à voix haute. Combien de centaines a-t-il ? Et combien de dizaines ?",
+          "ar": "اقرؤوه بصوت عالٍ. كم مئة فيه؟ وكم عشرة؟"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Buscad otro y decid cuál es mayor. Mirad primero las centenas y, si son iguales, las decenas.",
+          "va": "Busqueu-ne un altre i digueu quin és major. Mireu primer les centenes i, si són iguals, les desenes.",
+          "en": "Find another one and say which is greater. Look at the hundreds first and, if they are the same, at the tens.",
+          "fr": "Cherchez-en un autre et dites lequel est le plus grand. Regardez d'abord les centaines et, si elles sont pareilles, les dizaines.",
+          "ar": "ابحثوا عن عدد آخر وقولوا أيّهما أكبر. انظروا أولًا إلى المئات، وإذا تساوت، فإلى العشرات."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "En casa, dibujad los dos números: un cuadrado por centena, una raya por decena y un punto por unidad.",
+          "va": "A casa, dibuixeu els dos nombres: un quadrat per centena, una ratlla per desena i un punt per unitat.",
+          "en": "At home, draw both numbers: a square for each hundred, a line for each ten and a dot for each one.",
+          "fr": "À la maison, dessinez les deux nombres : un carré par centaine, un trait par dizaine et un point par unité.",
+          "ar": "في البيت، ارسموا العددين: مربّع لكل مئة، وخط لكل عشرة، ونقطة لكل وحدة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Comparad solo las centenas: 300 y 500, 700 y 200…",
+      "va": "Compareu només les centenes: 300 i 500, 700 i 200…",
+      "en": "Compare only the hundreds: 300 and 500, 700 and 200…",
+      "fr": "Comparez seulement les centaines : 300 et 500, 700 et 200…",
+      "ar": "قارنوا المئات فقط: 300 و500، 700 و200…"
+    },
+    "masDificil": {
+      "es": "Buscad tres números y ordenadlos de menor a mayor. ¿Cuál está más cerca de 500?",
+      "va": "Busqueu tres nombres i ordeneu-los de menor a major. Quin està més prop de 500?",
+      "en": "Find three numbers and put them in order from smallest to greatest. Which one is closest to 500?",
+      "fr": "Cherchez trois nombres et rangez-les du plus petit au plus grand. Lequel est le plus près de 500 ?",
+      "ar": "ابحثوا عن ثلاثة أعداد ورتّبوها من الأصغر إلى الأكبر. أيّها أقرب إلى 500؟"
+    },
+    "paraQueSirve": {
+      "es": "Saber cuántas centenas, decenas y unidades tiene un número ayuda a compararlos y a sumar y restar en 3.º, donde los números siguen creciendo.",
+      "va": "Saber quantes centenes, desenes i unitats té un nombre ajuda a comparar-los i a sumar i restar a 3r, on els nombres continuen creixent.",
+      "en": "Knowing how many hundreds, tens and ones a number has helps to compare numbers and to add and subtract in 3rd year, where numbers keep growing.",
+      "fr": "Savoir combien de centaines, de dizaines et d'unités a un nombre aide à comparer et à additionner et soustraire en 3e année, où les nombres continuent de grandir.",
+      "ar": "معرفة عدد المئات والعشرات والوحدات في العدد تساعد على المقارنة وعلى الجمع والطرح في الصف الثالث، حيث تواصل الأعداد الكبر."
+    },
+    "aviso": {
+      "es": "Por la calle, siempre con una persona adulta al lado.",
+      "va": "Pel carrer, sempre amb una persona adulta al costat.",
+      "en": "In the street, always with an adult beside you.",
+      "fr": "Dans la rue, toujours avec une personne adulte à côté.",
+      "ar": "في الشارع، دائمًا مع شخص بالغ بجانبكم."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "El portal de Lucía es el 245 y el de Iker, el 275. ¿Cuál es mayor, y cuánto más?",
+        "va": "El portal de Lucía és el 245 i el d'Iker, el 275. Quin és major, i quant més?",
+        "en": "Lucía's doorway is number 245 and Iker's is 275. Which is greater, and by how much?",
+        "fr": "La porte de Lucía porte le 245 et celle d'Iker, le 275. Lequel est le plus grand, et de combien ?",
+        "ar": "باب عمارة لوسيا رقمه 245 وباب إيكر رقمه 275. أيّهما أكبر، وبكم؟"
+      },
+      "pista": {
+        "es": "Las centenas son iguales: mira las decenas.",
+        "va": "Les centenes són iguals: mira les desenes.",
+        "en": "The hundreds are the same: look at the tens.",
+        "fr": "Les centaines sont pareilles : regarde les dizaines.",
+        "ar": "المئات متساوية: لننظر إلى العشرات."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "275 - 245",
+        "resultado": 30,
+        "unidad": "unidades",
+        "texto": {
+          "es": "El 275 es mayor: tiene 3 decenas más, 30 más.",
+          "va": "El 275 és major: té 3 desenes més, 30 més.",
+          "en": "275 is greater: it has 3 more tens, 30 more.",
+          "fr": "Le 275 est plus grand : il a 3 dizaines de plus, 30 de plus.",
+          "ar": "العدد 275 أكبر: فيه 3 عشرات أكثر، أي 30 أكثر."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una con los números de dos portales de tu calle.",
+        "va": "Ara inventa'n tu una amb els nombres de dos portals del teu carrer.",
+        "en": "Now you make one up with the numbers of two doorways in your street.",
+        "fr": "Maintenant, invente une question avec les numéros de deux portes de ta rue.",
+        "ar": "والآن لنخترع سؤالًا بأرقام بابين في شارعنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "En la tienda, una bici cuesta 189 euros y un patinete, 120 euros. ¿Cuál cuesta más, y cuánto más?",
+        "va": "A la botiga, una bici costa 189 euros i un patinet, 120 euros. Quin costa més, i quant més?",
+        "en": "In the shop, a bike costs 189 euros and a scooter costs 120 euros. Which costs more, and how much more?",
+        "fr": "Au magasin, un vélo coûte 189 euros et une trottinette, 120 euros. Lequel coûte le plus, et combien de plus ?",
+        "ar": "في المتجر، ثمن الدراجة 189 يورو وثمن السكوتر 120 يورو. أيّهما أغلى، وبكم؟"
+      },
+      "pista": {
+        "es": "Cuenta desde 120 hasta 189: primero de 10 en 10 y luego de 1 en 1.",
+        "va": "Compta des de 120 fins a 189: primer de 10 en 10 i després d'1 en 1.",
+        "en": "Count from 120 up to 189: first in tens and then in ones.",
+        "fr": "Compte de 120 jusqu'à 189 : d'abord de 10 en 10, puis de 1 en 1.",
+        "ar": "لنعدّ من 120 إلى 189: أولًا 10 بـ10 ثم 1 بـ1."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "189 - 120",
+        "resultado": 69,
+        "unidad": "euros",
+        "texto": {
+          "es": "La bici cuesta 69 euros más: {{189 − 120 = 69}}.",
+          "va": "La bici costa 69 euros més: {{189 − 120 = 69}}.",
+          "en": "The bike costs 69 euros more: {{189 − 120 = 69}}.",
+          "fr": "Le vélo coûte 69 euros de plus : {{189 − 120 = 69}}.",
+          "ar": "الدراجة أغلى بـ69 يورو: {{189 − 120 = 69}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una con dos precios que veas en un escaparate.",
+        "va": "Inventa'n tu una amb dos preus que veges en un aparador.",
+        "en": "Make one up with two prices you see in a shop window.",
+        "fr": "Invente une question avec deux prix que tu vois dans une vitrine.",
+        "ar": "لنخترع سؤالًا بسعرين نراهما في واجهة متجر."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Mateo dice que 309 es mayor que 390, porque acaba en 9. ¿Tiene razón?",
+        "va": "Mateo diu que 309 és major que 390, perquè acaba en 9. Té raó?",
+        "en": "Mateo says 309 is greater than 390 because it ends in 9. Is he right?",
+        "fr": "Mateo dit que 309 est plus grand que 390, parce qu'il finit par 9. A-t-il raison ?",
+        "ar": "يقول ماتيو إن 309 أكبر من 390 لأنه ينتهي بـ9. هل هو محقّ؟"
+      },
+      "pista": {
+        "es": "Mira cuántas decenas tiene cada número.",
+        "va": "Mira quantes desenes té cada nombre.",
+        "en": "Look at how many tens each number has.",
+        "fr": "Regarde combien de dizaines a chaque nombre.",
+        "ar": "لننظر كم عشرة في كل عدد."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No: 390 es mayor, porque tiene 9 decenas y 309 no tiene ninguna. Preguntad cómo lo ha pensado y dibujad los dos números si ayuda.",
+          "va": "No: 390 és major, perquè té 9 desenes i 309 no en té cap. Pregunteu com ho ha pensat i dibuixeu els dos nombres si ajuda.",
+          "en": "No: 390 is greater, because it has 9 tens and 309 has none. Ask how they thought it through and draw both numbers if it helps.",
+          "fr": "Non : 390 est plus grand, car il a 9 dizaines et 309 n'en a aucune. Demandez comment il ou elle a réfléchi et dessinez les deux nombres si ça aide.",
+          "ar": "لا: 390 أكبر، لأن فيه 9 عشرات و309 ليس فيه أي عشرة. اسألوا كيف كان التفكير، وارسموا العددين إذا ساعد ذلك."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú dos números con las mismas cifras y pregunta cuál es mayor.",
+        "va": "Inventa tu dos nombres amb les mateixes xifres i pregunta quin és major.",
+        "en": "Make up two numbers with the same digits and ask which is greater.",
+        "fr": "Invente deux nombres avec les mêmes chiffres et demande lequel est le plus grand.",
+        "ar": "لنخترع عددين بالأرقام نفسها ونسأل أيّهما أكبر."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 9,
+      "tipoProblema": "escala-descendente",
+      "texto": {
+        "es": "Para recordar la cuenta atrás: estás en el 700 y bajas de 100 en 100 tres veces. ¿A qué número llegas?",
+        "va": "Per a recordar el compte arrere: estàs en el 700 i baixes de 100 en 100 tres vegades. A quin nombre arribes?",
+        "en": "Let's remember counting back: you are on 700 and go down in hundreds three times. Which number do you reach?",
+        "fr": "Pour se souvenir du compte à rebours : tu es sur 700 et tu descends de 100 en 100 trois fois. À quel nombre arrives-tu ?",
+        "ar": "لنتذكّر العدّ التنازلي: نحن عند 700 وننزل 100 بـ100 ثلاث مرات. إلى أي عدد نصل؟"
+      },
+      "pista": {
+        "es": "Dobla un dedo por cada salto y di los números: 600…",
+        "va": "Doblega un dit per cada salt i digues els nombres: 600…",
+        "en": "Bend a finger for each jump and say the numbers: 600…",
+        "fr": "Plie un doigt à chaque saut et dis les nombres : 600…",
+        "ar": "لنثنِ إصبعًا مع كل قفزة ونقول الأعداد: 600…"
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "700 - 100 - 100 - 100",
+        "resultado": 400,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Llegas al 400: 600, 500, 400.",
+          "va": "Arribes al 400: 600, 500, 400.",
+          "en": "You reach 400: 600, 500, 400.",
+          "fr": "Tu arrives à 400 : 600, 500, 400.",
+          "ar": "نصل إلى 400: 600، 500، 400."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra cuenta atrás, de 10 en 10.",
+        "va": "Inventa tu un altre compte arrere, de 10 en 10.",
+        "en": "Make up another countdown, in tens.",
+        "fr": "Invente un autre compte à rebours, de 10 en 10.",
+        "ar": "لنخترع عدًّا تنازليًا آخر، 10 بـ10."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Cómo sabes cuál de dos números es mayor? Explícamelo con los portales de tu calle.",
+        "va": "Com saps quin de dos nombres és major? Explica-m'ho amb els portals del teu carrer.",
+        "en": "How do you know which of two numbers is greater? Explain it to me with the doorways in your street.",
+        "fr": "Comment sais-tu lequel de deux nombres est le plus grand ? Explique-le-moi avec les portes de ta rue.",
+        "ar": "كيف نعرف أيّ العددين أكبر؟ لنشرح ذلك بأرقام أبواب شارعنا."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Qué miras primero en 345 y en 354?»",
+        "va": "Si no sap per on començar: «Què mires primer en 345 i en 354?»",
+        "en": "If they don't know where to start: “What do you look at first in 345 and 354?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Qu'est-ce que tu regardes en premier dans 345 et 354 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إلى ماذا ننظر أولًا في 345 و354؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "277c2a2c01ed"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "277c2a2c01ed"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "277c2a2c01ed"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "277c2a2c01ed"
+      }
+    }
+  }
+}

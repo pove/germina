@@ -1,0 +1,356 @@
+{
+  "version": 1,
+  "id": "1.matematicas.2.s34",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 2,
+  "semana": 34,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: medidas, tiempo y caminos",
+    "va": "Setmana de recordar: mesures, temps i camins",
+    "en": "Remembering week: measures, time and paths",
+    "fr": "Semaine pour se souvenir : mesures, temps et chemins",
+    "ar": "أسبوع التذكّر: القياسات والوقت والطرق"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven al metro, el kilo y el litro, al calendario y a los caminos con flechas. El reto es un minuto en equipo diciendo los días y los meses en orden.",
+    "va": "Aquesta setmana tornen al metre (metro), el quilo (kilo) i el litre (litro), al calendari (calendario) i als camins amb fletxes. El repte és un minut en equip dient els dies i els mesos en orde.",
+    "en": "This week they go back to the metre (metro), the kilo and the litre (litro), the calendar (calendario) and paths with arrows. The challenge is one minute as a team saying the days and the months in order.",
+    "fr": "Cette semaine, on revient au mètre (metro), au kilo et au litre (litro), au calendrier (calendario) et aux chemins avec des flèches. Le défi, c'est une minute en équipe pour dire les jours et les mois dans l'ordre.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى المتر (metro) والكيلوغرام (kilo) واللتر (litro)، وإلى التقويم (calendario) والطرق بالأسهم. والتحدّي دقيقة واحدة كفريق نقول فيها الأيام والشهور بالترتيب."
+  },
+  "comoAyudar": {
+    "es": "En el minuto, jugad en el mismo equipo: si se atasca en un mes, decid la primera sílaba y seguid. Lo que cuenta es decirlos en orden, no correr.",
+    "va": "En el minut, jugueu en el mateix equip: si s'encalla en un mes, digueu la primera síl·laba i continueu. El que compta és dir-los en orde, no córrer.",
+    "en": "During the minute, play on the same team: if they get stuck on a month, say the first syllable and carry on. What counts is saying them in order, not rushing.",
+    "fr": "Pendant la minute, jouez dans la même équipe : si votre enfant bloque sur un mois, dites la première syllabe et continuez. Ce qui compte, c'est l'ordre, pas la vitesse.",
+    "ar": "في الدقيقة، العبوا في الفريق نفسه: إذا حصل توقّف عند شهر، فقولوا المقطع الأول وتابعوا. المهمّ هو الترتيب، لا السرعة."
+  },
+  "saberes": [
+    "matematicas.medida.unidades",
+    "matematicas.medida.magnitudes",
+    "matematicas.operaciones.calculo-mental"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Un minuto de días y meses",
+      "va": "Un minut de dies i mesos",
+      "en": "A minute of days and months",
+      "fr": "Une minute de jours et de mois",
+      "ar": "دقيقة للأيام والشهور"
+    },
+    "material": [
+      {
+        "es": "Un reloj o un cronómetro para contar un minuto",
+        "va": "Un rellotge o un cronòmetre per a comptar un minut",
+        "en": "A clock or a stopwatch to time one minute",
+        "fr": "Une montre ou un chronomètre pour compter une minute",
+        "ar": "ساعة أو ساعة توقيت لحساب دقيقة واحدة"
+      },
+      {
+        "es": "Papel y lápiz para hacer rayitas",
+        "va": "Paper i llapis per a fer ratlletes",
+        "en": "Paper and a pencil for making little lines",
+        "fr": "Du papier et un crayon pour faire des petits traits",
+        "ar": "ورقة وقلم رصاص لرسم خطوط صغيرة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Poned un minuto. Por turnos, decid los días de la semana en orden: lunes, martes… Al llegar al domingo, volved a empezar.",
+          "va": "Poseu un minut. Per torns, digueu els dies de la setmana en orde: dilluns, dimarts… En arribar a diumenge, torneu a començar.",
+          "en": "Set one minute. Taking turns, say the days of the week in order: Monday, Tuesday… When you reach Sunday, start again.",
+          "fr": "Lancez une minute. Chacun son tour, dites les jours de la semaine dans l'ordre : lundi, mardi… Arrivés à dimanche, recommencez.",
+          "ar": "اضبطوا دقيقة واحدة. بالتناوب، قولوا أيام الأسبوع بالترتيب: الاثنين، الثلاثاء… وعند الوصول إلى الأحد، ابدؤوا من جديد."
+        }
+      },
+      {
+        "pictograma": "calendario",
+        "texto": {
+          "es": "Otro minuto con los meses: enero, febrero… Y otro hacia atrás: diciembre, noviembre…",
+          "va": "Un altre minut amb els mesos: gener, febrer… I un altre cap arrere: desembre, novembre…",
+          "en": "Another minute with the months: January, February… And another one backwards: December, November…",
+          "fr": "Une autre minute avec les mois : janvier, février… Et une autre à l'envers : décembre, novembre…",
+          "ar": "دقيقة أخرى للشهور: يناير، فبراير… وأخرى بالعكس: ديسمبر، نوفمبر…"
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Haced una rayita por cada nombre dicho en orden. Mañana, ¿llegáis a más?",
+          "va": "Feu una ratlleta per cada nom dit en orde. Demà, hi arribareu a més?",
+          "en": "Make a little line for each name said in order. Tomorrow, can you get more?",
+          "fr": "Faites un petit trait pour chaque nom dit dans l'ordre. Demain, en direz-vous plus ?",
+          "ar": "ارسموا خطًا صغيرًا لكل اسم قيل بالترتيب. وغدًا، هل نصل إلى عدد أكبر؟"
+        }
+      },
+      {
+        "pictograma": "mapa",
+        "texto": {
+          "es": "Otro día, en un paseo con una persona adulta, dibujad con flechas el camino de casa al parque.",
+          "va": "Un altre dia, en un passeig amb una persona adulta, dibuixeu amb fletxes el camí de casa al parc.",
+          "en": "Another day, on a walk with a grown-up, draw the way from home to the park with arrows.",
+          "fr": "Un autre jour, pendant une promenade avec un adulte, dessinez avec des flèches le chemin de la maison au parc.",
+          "ar": "في يوم آخر، خلال نزهة مع شخص بالغ، ارسموا بالأسهم الطريق من البيت إلى الحديقة."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Solo los días de la semana, hacia delante, y con el calendario delante.",
+      "va": "Només els dies de la setmana, cap avant, i amb el calendari davant.",
+      "en": "Just the days of the week, forwards, with the calendar in front of you.",
+      "fr": "Seulement les jours de la semaine, dans l'ordre, avec le calendrier sous les yeux.",
+      "ar": "أيام الأسبوع فقط، إلى الأمام، والتقويم أمامكم."
+    },
+    "masDificil": {
+      "es": "Empezad por un mes cualquiera, por ejemplo agosto, y seguid desde ahí hacia delante o hacia atrás.",
+      "va": "Comenceu per un mes qualsevol, per exemple agost, i continueu des d'ahí cap avant o cap arrere.",
+      "en": "Start from any month, for example August, and carry on from there forwards or backwards.",
+      "fr": "Commencez par n'importe quel mois, par exemple août, et continuez à partir de là dans l'ordre ou à l'envers.",
+      "ar": "ابدؤوا من أيّ شهر، مثلًا أغسطس، وتابعوا منه إلى الأمام أو إلى الخلف."
+    },
+    "paraQueSirve": {
+      "es": "Saber los días y los meses en orden ayuda a usar el calendario y a calcular cuánto falta para algo.",
+      "va": "Saber els dies i els mesos en orde ajuda a fer servir el calendari i a calcular quant falta per a alguna cosa.",
+      "en": "Knowing the days and months in order helps you use the calendar and work out how long until something happens.",
+      "fr": "Connaître les jours et les mois dans l'ordre aide à utiliser le calendrier et à calculer combien de temps il reste avant quelque chose.",
+      "ar": "معرفة الأيام والشهور بالترتيب تساعد على استعمال التقويم وحساب ما بقي من وقت حتى شيء ما."
+    },
+    "aviso": {
+      "es": "El paseo, siempre con una persona adulta y por sitios sin peligro de coches.",
+      "va": "El passeig, sempre amb una persona adulta i per llocs sense perill de cotxes.",
+      "en": "Always go on the walk with a grown-up, in places that are safe from cars.",
+      "fr": "La promenade, toujours avec un adulte et dans des endroits sans danger de voitures.",
+      "ar": "النزهة دائمًا مع شخص بالغ، وفي أماكن آمنة من السيارات."
+    },
+    "rapidez": {
+      "segundos": 60,
+      "seCuenta": {
+        "es": "nombres dichos en orden",
+        "va": "noms dits en orde",
+        "en": "names said in order",
+        "fr": "noms dits dans l'ordre",
+        "ar": "الأسماء التي قيلت بالترتيب"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "La valla del parque mide 40 metros y la del huerto, 25 metros. ¿Cuántos metros más mide la del parque?",
+        "va": "La tanca del parc mesura 40 metres i la de l'hort, 25 metres. Quants metres més mesura la del parc?",
+        "en": "The park fence is 40 metres long and the vegetable garden fence is 25 metres. How many metres longer is the park fence?",
+        "fr": "La clôture du parc mesure 40 mètres et celle du potager 25 mètres. Combien de mètres de plus mesure celle du parc ?",
+        "ar": "طول سياج الحديقة 40 مترًا، وطول سياج البستان 25 مترًا. كم مترًا يزيد سياج الحديقة؟"
+      },
+      "pista": {
+        "es": "Cuenta desde 25 hasta 40: primero hasta 30 y luego hasta 40.",
+        "va": "Compta des de 25 fins a 40: primer fins a 30 i després fins a 40.",
+        "en": "Count on from 25 to 40: first to 30 and then to 40.",
+        "fr": "Compte de 25 jusqu'à 40 : d'abord jusqu'à 30, puis jusqu'à 40.",
+        "ar": "لنعدّ من 25 حتى 40: أولًا حتى 30، ثم حتى 40."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "40 - 25",
+        "resultado": 15,
+        "unidad": "m",
+        "texto": {
+          "es": "Mide 15 metros más: {{40 − 25 = 15}}.",
+          "va": "Mesura 15 metres més: {{40 − 25 = 15}}.",
+          "en": "It's 15 metres longer: {{40 − 25 = 15}}.",
+          "fr": "Elle mesure 15 mètres de plus : {{40 − 25 = 15}}.",
+          "ar": "يزيد 15 مترًا: {{40 − 25 = 15}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos cosas largas de tu barrio.",
+        "va": "Inventa'n tu una altra amb dues coses llargues del teu barri.",
+        "en": "Make up another one with two long things in your neighbourhood.",
+        "fr": "Invente-en une autre avec deux choses longues de ton quartier.",
+        "ar": "لنخترع سؤالًا آخر بشيئين طويلين في حيّنا."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "medida",
+      "texto": {
+        "es": "En el saco hay 10 kilos de patatas. La abuela de Nora usa 3 kilos esta semana. ¿Cuántos kilos quedan?",
+        "va": "En el sac hi ha 10 quilos de creïlles. L'àvia de Nora en gasta 3 quilos esta setmana. Quants quilos en queden?",
+        "en": "There are 10 kilos of potatoes in the sack. Nora's grandma uses 3 kilos this week. How many kilos are left?",
+        "fr": "Dans le sac, il y a 10 kilos de pommes de terre. La grand-mère de Nora en utilise 3 kilos cette semaine. Combien de kilos reste-t-il ?",
+        "ar": "في الكيس 10 كيلوغرامات من البطاطا. تستعمل جدّة نورا 3 كيلوغرامات هذا الأسبوع. كم كيلوغرامًا يبقى؟"
+      },
+      "pista": {
+        "es": "Levanta los 10 dedos y baja 3.",
+        "va": "Alça els 10 dits i abaixa'n 3.",
+        "en": "Hold up all 10 fingers and put down 3.",
+        "fr": "Lève tes 10 doigts et baisses-en 3.",
+        "ar": "لنرفع الأصابع العشرة ونُنزل 3."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 3",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 7 kilos: {{10 − 3 = 7}}.",
+          "va": "En queden 7 quilos: {{10 − 3 = 7}}.",
+          "en": "There are 7 kilos left: {{10 − 3 = 7}}.",
+          "fr": "Il reste 7 kilos : {{10 − 3 = 7}}.",
+          "ar": "يبقى 7 كيلوغرامات: {{10 − 3 = 7}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con algo de la cocina que se compre por kilos o por litros.",
+        "va": "Inventa'n tu una altra amb alguna cosa de la cuina que es compre per quilos o per litres.",
+        "en": "Make up another one with something from the kitchen that you buy by the kilo or by the litre.",
+        "fr": "Invente-en une autre avec quelque chose de la cuisine qu'on achète au kilo ou au litre.",
+        "ar": "لنخترع سؤالًا آخر بشيء من المطبخ نشتريه بالكيلوغرام أو باللتر."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "tiempo",
+      "texto": {
+        "es": "Faltan 3 semanas para las vacaciones. ¿Cuántos días son?",
+        "va": "Falten 3 setmanes per a les vacances. Quants dies són?",
+        "en": "There are 3 weeks until the holidays. How many days is that?",
+        "fr": "Il reste 3 semaines avant les vacances. Ça fait combien de jours ?",
+        "ar": "بقيت 3 أسابيع حتى العطلة. كم يومًا هذه؟"
+      },
+      "pista": {
+        "es": "Cada semana tiene 7 días: cuenta tres filas del calendario.",
+        "va": "Cada setmana té 7 dies: compta tres files del calendari.",
+        "en": "Each week has 7 days: count three rows of the calendar.",
+        "fr": "Chaque semaine a 7 jours : compte trois lignes du calendrier.",
+        "ar": "في كل أسبوع 7 أيام: لنعدّ ثلاثة صفوف من التقويم."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 + 7 + 7",
+        "resultado": 21,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Son 21 días: {{7 + 7 + 7 = 21}}.",
+          "va": "Són 21 dies: {{7 + 7 + 7 = 21}}.",
+          "en": "That's 21 days: {{7 + 7 + 7 = 21}}.",
+          "fr": "Ça fait 21 jours : {{7 + 7 + 7 = 21}}.",
+          "ar": "إنها 21 يومًا: {{7 + 7 + 7 = 21}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con las semanas que faltan para tu cumpleaños.",
+        "va": "Inventa'n tu una altra amb les setmanes que falten per al teu aniversari.",
+        "en": "Make up another one with the weeks left until your birthday.",
+        "fr": "Invente-en une autre avec les semaines qui restent avant ton anniversaire.",
+        "ar": "لنخترع سؤالًا آخر بعدد الأسابيع الباقية حتى عيد ميلادنا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 33,
+      "tipoProblema": "escala-ascendente",
+      "texto": {
+        "es": "Para recordar el mapa del tesoro: de la puerta al tesoro hay 9 pasos. Ya has dado 4. ¿Cuántos te faltan?",
+        "va": "Per a recordar el mapa del tresor: de la porta al tresor hi ha 9 passos. Ja n'has fet 4. Quants te'n falten?",
+        "en": "Let's remember the treasure map: it's 9 steps from the door to the treasure. You've taken 4. How many more do you need?",
+        "fr": "Pour se souvenir de la carte au trésor : de la porte au trésor, il y a 9 pas. Tu en as déjà fait 4. Combien t'en manque-t-il ?",
+        "ar": "لنتذكّر خريطة الكنز: من الباب إلى الكنز 9 خطوات. خطونا 4. كم خطوة بقيت؟"
+      },
+      "pista": {
+        "es": "Sigue contando con los dedos desde el 4 hasta el 9.",
+        "va": "Continua comptant amb els dits des del 4 fins al 9.",
+        "en": "Keep counting on your fingers from 4 up to 9.",
+        "fr": "Continue à compter sur tes doigts de 4 jusqu'à 9.",
+        "ar": "لنتابع العدّ بالأصابع من 4 حتى 9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 4",
+        "resultado": 5,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Faltan 5 pasos: {{4 + 5 = 9}}.",
+          "va": "En falten 5: {{4 + 5 = 9}}.",
+          "en": "You need 5 more steps: {{4 + 5 = 9}}.",
+          "fr": "Il manque 5 pas : {{4 + 5 = 9}}.",
+          "ar": "بقيت 5 خطوات: {{4 + 5 = 9}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: cuenta los pasos de tu cama a la puerta y para a la mitad.",
+        "va": "Inventa'n tu una altra: compta els passos del teu llit a la porta i para a la meitat.",
+        "en": "Make up another one: count the steps from your bed to the door and stop halfway.",
+        "fr": "Invente-en une autre : compte les pas de ton lit à la porte et arrête-toi au milieu.",
+        "ar": "لنخترع سؤالًا آخر: نعدّ الخطوات من السرير إلى الباب ونتوقّف في المنتصف."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "¿Qué te ha gustado más de estas semanas: medir, pesar, el calendario o el mapa del tesoro? Explícame cómo lo hacías.",
+        "va": "Què t'ha agradat més d'estes setmanes: mesurar, pesar, el calendari o el mapa del tresor? Explica'm com ho feies.",
+        "en": "What did you like best in these weeks: measuring, weighing, the calendar or the treasure map? Explain to me how you did it.",
+        "fr": "Qu'est-ce que tu as préféré ces semaines-ci : mesurer, peser, le calendrier ou la carte au trésor ? Explique-moi comment tu faisais.",
+        "ar": "ماذا أحببنا أكثر في هذه الأسابيع: القياس، أم الوزن، أم التقويم، أم خريطة الكنز؟ لنشرح كيف كنّا نفعل ذلك."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Me enseñas cuántos palmos mide tu cama?»",
+        "va": "Si no sap per on començar: «M'ensenyes quants pams mesura el teu llit?»",
+        "en": "If they don't know where to start: “Can you show me how many hand spans long your bed is?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres combien d'empans mesure ton lit ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نُري كم شبرًا طول السرير؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "b2e91f7c4ed5"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "b2e91f7c4ed5"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "b2e91f7c4ed5"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "b2e91f7c4ed5"
+      }
+    }
+  }
+}

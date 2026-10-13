@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.s17",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "semana": 17,
+  "tipo": "recordar",
+  "titulo": {
+    "es": "Semana de recordar: cartas y dados",
+    "va": "Setmana de recordar: cartes i daus",
+    "en": "Remembering week: cards and dice",
+    "fr": "Semaine de rappel : cartes et dés",
+    "ar": "أسبوع التذكّر: الأوراق والنرد"
+  },
+  "objetivo": {
+    "es": "Esta semana vuelven a comparar números, a buscar parejas que suman 10 y a mirar si un número es par o impar, jugando a las cartas. No hay nada nuevo: es para jugar juntos.",
+    "va": "Aquesta setmana tornen a comparar nombres, a buscar parelles que sumen 10 i a mirar si un nombre és parell (par) o imparell (impar), jugant a les cartes. No hi ha res de nou: és per a jugar junts.",
+    "en": "This week they go back to comparing numbers, finding pairs that make 10 and checking whether a number is even (par) or odd (impar), by playing cards. There is nothing new: it is for playing together.",
+    "fr": "Cette semaine, on revient à comparer des nombres, à chercher des paires qui font 10 et à voir si un nombre est pair (par) ou impair (impar), en jouant aux cartes. Rien de nouveau : c'est pour jouer ensemble.",
+    "ar": "هذا الأسبوع يعود الأطفال إلى مقارنة الأعداد، والبحث عن أزواج مجموعها 10، ومعرفة هل العدد زوجي (par) أو فردي (impar)، وهم يلعبون بالأوراق. لا جديد: إنه للّعب معًا."
+  },
+  "comoAyudar": {
+    "es": "En el minuto de las parejas, jugad en el mismo equipo y buscad juntos. Si una pareja no suma 10, contad con los dedos y probad otra carta.",
+    "va": "En el minut de les parelles, jugueu en el mateix equip i busqueu junts. Si una parella no suma 10, compteu amb els dits i proveu una altra carta.",
+    "en": "In the pairs minute, play on the same team and look together. If a pair does not make 10, count on your fingers and try another card.",
+    "fr": "Pendant la minute des paires, jouez dans la même équipe et cherchez ensemble. Si une paire ne fait pas 10, comptez sur vos doigts et essayez une autre carte.",
+    "ar": "في دقيقة الأزواج، العبوا في الفريق نفسه وابحثوا معًا. وإذا كان مجموع زوج ليس 10، عدّوا بالأصابع وجرّبوا ورقة أخرى."
+  },
+  "saberes": [
+    "matematicas.operaciones.calculo-mental",
+    "matematicas.numeros.recta-comparar"
+  ],
+  "criterios": [
+    "matematicas.c1.2.4",
+    "matematicas.c1.8.2"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Carta más alta y un minuto juntos",
+      "va": "Carta més alta i un minut junts",
+      "en": "Highest card and one minute together",
+      "fr": "Plus haute carte et une minute ensemble",
+      "ar": "الورقة الأعلى ودقيقة معًا"
+    },
+    "material": [
+      {
+        "es": "Una baraja con las cartas del 1 al 9 (sin figuras)",
+        "va": "Una baralla amb les cartes de l'1 al 9 (sense figures)",
+        "en": "A pack of cards with the cards from 1 to 9 (no picture cards)",
+        "fr": "Un jeu de cartes avec les cartes de 1 à 9 (sans figures)",
+        "ar": "مجموعة أوراق لعب من 1 إلى 9 (من دون الصور)"
+      },
+      {
+        "es": "Un reloj o un móvil para contar un minuto",
+        "va": "Un rellotge o un mòbil per a comptar un minut",
+        "en": "A clock or a phone to time one minute",
+        "fr": "Une montre ou un téléphone pour compter une minute",
+        "ar": "ساعة أو هاتف لحساب دقيقة واحدة"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "cartas",
+        "texto": {
+          "es": "Cada persona saca una carta y la pone boca arriba. Quien tiene la más alta se lleva las dos.",
+          "va": "Cada persona trau una carta i la posa cap per amunt. Qui té la més alta s'emporta les dues.",
+          "en": "Each person turns over a card. Whoever has the highest one takes both.",
+          "fr": "Chaque personne retourne une carte. Celle qui a la plus haute prend les deux.",
+          "ar": "يسحب كل شخص ورقة ويقلبها. من عنده الورقة الأعلى يأخذ الورقتين."
+        }
+      },
+      {
+        "pictograma": "ojo",
+        "texto": {
+          "es": "Si salen dos iguales, decid «¡iguales!» y sacad otra. Jugad unas cuantas rondas.",
+          "va": "Si n'ixen dues iguals, digueu «iguals!» i traieu-ne una altra. Jugueu unes quantes rondes.",
+          "en": "If two cards are the same, say “equal!” and turn over another one. Play a few rounds.",
+          "fr": "Si deux cartes sont pareilles, dites « égales ! » et retournez-en une autre. Jouez quelques tours.",
+          "ar": "إذا خرجت ورقتان متساويتان، قولوا «متساويتان!» واسحبوا ورقة أخرى. العبوا بضع جولات."
+        }
+      },
+      {
+        "pictograma": "cronometro",
+        "texto": {
+          "es": "Ahora, en equipo: poned 10 cartas boca arriba. En un minuto, buscad juntos parejas que sumen 10.",
+          "va": "Ara, en equip: poseu 10 cartes cap per amunt. En un minut, busqueu junts parelles que sumen 10.",
+          "en": "Now, as a team: put 10 cards face up. In one minute, look together for pairs that make 10.",
+          "fr": "Maintenant, en équipe : posez 10 cartes face visible. En une minute, cherchez ensemble des paires qui font 10.",
+          "ar": "الآن، كفريق: ضعوا 10 أوراق مكشوفة. في دقيقة واحدة، ابحثوا معًا عن أزواج مجموعها 10."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Contad las parejas: ese es vuestro récord. Mezclad y jugad otra vez, a ver si sale alguna más.",
+          "va": "Compteu les parelles: eixe és el vostre rècord. Barregeu i jugueu una altra vegada, a veure si n'ix alguna més.",
+          "en": "Count the pairs: that is your record. Shuffle and play again to see if you get one more.",
+          "fr": "Comptez les paires : c'est votre record. Mélangez et rejouez, pour voir s'il en sort une de plus.",
+          "ar": "عدّوا الأزواج: هذا هو رقمكم القياسي. اخلطوا الأوراق والعبوا من جديد، لنرى هل يخرج زوج إضافي."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad solo las cartas del 1 al 5 en «carta más alta» y, en el minuto, levantad dedos para ver cuánto falta para 10.",
+      "va": "Utilitzeu només les cartes de l'1 al 5 en «carta més alta» i, en el minut, alceu dits per a veure quant falta per a 10.",
+      "en": "Use only the cards from 1 to 5 for “highest card” and, in the minute, hold up fingers to see how many more make 10.",
+      "fr": "Utilisez seulement les cartes de 1 à 5 pour « plus haute carte » et, pendant la minute, levez des doigts pour voir combien il manque pour 10.",
+      "ar": "استعملوا الأوراق من 1 إلى 5 فقط في «الورقة الأعلى»، وفي الدقيقة ارفعوا الأصابع لتروا كم ينقص لنصل إلى 10."
+    },
+    "masDificil": {
+      "es": "En «carta más alta», cada persona saca dos cartas y gana la que suma más.",
+      "va": "En «carta més alta», cada persona trau dues cartes i guanya qui suma més.",
+      "en": "In “highest card”, each person turns over two cards and the bigger total wins.",
+      "fr": "Pour « plus haute carte », chaque personne retourne deux cartes et le plus grand total gagne.",
+      "ar": "في «الورقة الأعلى»، يسحب كل شخص ورقتين، ويفوز صاحب المجموع الأكبر."
+    },
+    "paraQueSirve": {
+      "es": "Saber de memoria qué número va con otro para hacer 10 y ver enseguida cuál es mayor hace que las sumas y las restas salgan solas.",
+      "va": "Saber de memòria quin nombre va amb un altre per a fer 10 i veure de seguida quin és major fa que les sumes i les restes isquen soles.",
+      "en": "Knowing by heart which number goes with another to make 10, and seeing straight away which is greater, makes additions and subtractions come easily.",
+      "fr": "Savoir par cœur quel nombre va avec un autre pour faire 10, et voir tout de suite lequel est plus grand, rend les additions et les soustractions faciles.",
+      "ar": "معرفة العدد الذي يكمّل عددًا آخر ليصبح 10 عن ظهر قلب، ورؤية الأكبر بسرعة، يجعلان الجمع والطرح سهلين."
+    },
+    "rapidez": {
+      "segundos": 60,
+      "seCuenta": {
+        "es": "parejas que suman 10",
+        "va": "parelles que sumen 10",
+        "en": "pairs that make 10",
+        "fr": "paires qui font 10",
+        "ar": "أزواج مجموعها 10"
+      }
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Nora saca un 7 y su padre saca un 9. ¿Quién tiene la carta más alta? ¿Cuánto más?",
+        "va": "Nora trau un 7 i son pare trau un 9. Qui té la carta més alta? Quant més?",
+        "en": "Nora turns over a 7 and her dad turns over a 9. Who has the higher card? How much higher?",
+        "fr": "Nora retourne un 7 et son papa retourne un 9. Qui a la carte la plus haute ? De combien ?",
+        "ar": "سحبت نورا 7 وسحب أبوها 9. من عنده الورقة الأعلى؟ وبكم؟"
+      },
+      "pista": {
+        "es": "Empieza en el 7 y cuenta con los dedos hasta llegar al 9.",
+        "va": "Comença en el 7 i compta amb els dits fins a arribar al 9.",
+        "en": "Start at 7 and count on your fingers until you reach 9.",
+        "fr": "Commence à 7 et compte sur tes doigts jusqu'à 9.",
+        "ar": "لنبدأ من 7 ونعدّ بالأصابع حتى نصل إلى 9."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "9 - 7",
+        "resultado": 2,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Su padre tiene la más alta: el 9 es 2 más que el 7.",
+          "va": "Son pare té la més alta: el 9 és 2 més que el 7.",
+          "en": "Her dad has the higher card: 9 is 2 more than 7.",
+          "fr": "Son papa a la plus haute : 9, c'est 2 de plus que 7.",
+          "ar": "عند الأب الورقة الأعلى: 9 أكثر من 7 باثنين."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra sacando dos cartas de verdad.",
+        "va": "Inventa'n tu una altra traient dues cartes de veritat.",
+        "en": "Make up another one by turning over two real cards.",
+        "fr": "Invente-en une autre en retournant deux vraies cartes.",
+        "ar": "لنخترع سؤالًا آخر بسحب ورقتين حقيقيتين."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Tienes un 4. ¿Qué carta buscas para que entre las dos sumen 10?",
+        "va": "Tens un 4. Quina carta busques perquè entre les dues sumen 10?",
+        "en": "You have a 4. Which card do you look for so the two make 10?",
+        "fr": "Tu as un 4. Quelle carte cherches-tu pour que les deux fassent 10 ?",
+        "ar": "عندنا 4. أيّ ورقة نبحث عنها ليكون مجموع الورقتين 10؟"
+      },
+      "pista": {
+        "es": "Levanta 4 dedos y mira cuántos se quedan bajados.",
+        "va": "Alça 4 dits i mira quants en queden abaixats.",
+        "en": "Hold up 4 fingers and see how many are still down.",
+        "fr": "Lève 4 doigts et regarde combien restent baissés.",
+        "ar": "لنرفع 4 أصابع ونرى كم إصبعًا بقي منخفضًا."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "10 - 4",
+        "resultado": 6,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Buscas un 6: {{4 + 6 = 10}}.",
+          "va": "Busques un 6: {{4 + 6 = 10}}.",
+          "en": "You look for a 6: {{4 + 6 = 10}}.",
+          "fr": "Tu cherches un 6 : {{4 + 6 = 10}}.",
+          "ar": "نبحث عن 6: {{4 + 6 = 10}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra: saca una carta y pregunta qué otra hace 10.",
+        "va": "Inventa'n tu una altra: trau una carta i pregunta quina altra fa 10.",
+        "en": "Make up another one: turn over a card and ask which other one makes 10.",
+        "fr": "Invente-en une autre : retourne une carte et demande quelle autre fait 10.",
+        "ar": "لنخترع سؤالًا آخر: نسحب ورقة ونسأل أيّ ورقة أخرى تكمّلها إلى 10."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "particion",
+      "texto": {
+        "es": "Tienes 7 cartas y las pones por parejas. ¿Sobra alguna?",
+        "va": "Tens 7 cartes i les poses per parelles. En sobra alguna?",
+        "en": "You have 7 cards and put them in pairs. Is one left over?",
+        "fr": "Tu as 7 cartes et tu les ranges par paires. Est-ce qu'il en reste une ?",
+        "ar": "عندنا 7 أوراق ونضعها أزواجًا. هل تبقى ورقة؟"
+      },
+      "pista": {
+        "es": "Haz las parejas con 7 cosas de verdad y mira qué pasa.",
+        "va": "Fes les parelles amb 7 coses de veritat i mira què passa.",
+        "en": "Make the pairs with 7 real things and see what happens.",
+        "fr": "Fais les paires avec 7 vraies choses et regarde ce qui se passe.",
+        "ar": "لنصنع الأزواج بسبعة أشياء حقيقية ونرى ما يحدث."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "7 - 6",
+        "resultado": 1,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, sobra 1: salen 3 parejas y una suelta, {{2 + 2 + 2 + 1 = 7}}. El 7 es impar.",
+          "va": "Sí, en sobra 1: ixen 3 parelles i una de solta, {{2 + 2 + 2 + 1 = 7}}. El 7 és imparell.",
+          "en": "Yes, 1 is left over: you get 3 pairs and one on its own, {{2 + 2 + 2 + 1 = 7}}. 7 is odd.",
+          "fr": "Oui, il en reste 1 : on fait 3 paires et une toute seule, {{2 + 2 + 2 + 1 = 7}}. 7 est impair.",
+          "ar": "نعم، تبقى ورقة واحدة: 3 أزواج وورقة وحدها، {{2 + 2 + 2 + 1 = 7}}. العدد 7 فردي."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con un puñado de cartas.",
+        "va": "Inventa'n tu una altra amb un grapat de cartes.",
+        "en": "Make up another one with a handful of cards.",
+        "fr": "Invente-en une autre avec une poignée de cartes.",
+        "ar": "لنخترع سؤالًا آخر بحفنة من الأوراق."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 11,
+      "tipoProblema": "comparar",
+      "texto": {
+        "es": "Para recordar: ¿qué número es mayor, el 38 o el 83? ¿Cómo lo sabes?",
+        "va": "Per a recordar: quin nombre és major (mayor), el 38 o el 83? Com ho saps?",
+        "en": "Let's remember: which number is greater (mayor), 38 or 83? How do you know?",
+        "fr": "Pour se souvenir : quel nombre est plus grand (mayor), 38 ou 83 ? Comment le sais-tu ?",
+        "ar": "لنتذكّر: أيّ العددين أكبر (mayor)، 38 أم 83؟ كيف نعرف؟"
+      },
+      "pista": {
+        "es": "Mira primero cuántas decenas tiene cada número.",
+        "va": "Mira primer quantes desenes (decenas) té cada nombre.",
+        "en": "Look first at how many tens (decenas) each number has.",
+        "fr": "Regarde d'abord combien de dizaines (decenas) a chaque nombre.",
+        "ar": "لننظر أولًا كم عشرة (decenas) في كل عدد."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "El 83 es mayor: tiene 8 decenas y el 38 solo 3. Si duda, haced los dos números con paquetes de 10 palillos.",
+          "va": "El 83 és major: té 8 desenes i el 38 només 3. Si dubta, feu els dos nombres amb paquets de 10 palets.",
+          "en": "83 is greater: it has 8 tens and 38 has only 3. If your child is unsure, make both numbers with bundles of 10 sticks.",
+          "fr": "83 est plus grand : il a 8 dizaines et 38 seulement 3. En cas de doute, faites les deux nombres avec des paquets de 10 bâtonnets.",
+          "ar": "العدد 83 أكبر: فيه 8 عشرات، وفي 38 ثلاث فقط. وعند التردّد، اصنعوا العددين بحزم من 10 أعواد."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos números que tengan las mismas cifras.",
+        "va": "Inventa'n tu una altra amb dos nombres que tinguen les mateixes xifres.",
+        "en": "Make up another one with two numbers that have the same digits.",
+        "fr": "Invente-en une autre avec deux nombres qui ont les mêmes chiffres.",
+        "ar": "لنخترع سؤالًا آخر بعددين لهما الأرقام نفسها."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuando buscas la pareja que suma 10, ¿cómo sabes qué carta buscar? Explícamelo con los dedos.",
+        "va": "Quan busques la parella que suma 10, com saps quina carta buscar? Explica-m'ho amb els dits.",
+        "en": "When you look for the pair that makes 10, how do you know which card to look for? Show me with your fingers.",
+        "fr": "Quand tu cherches la paire qui fait 10, comment sais-tu quelle carte chercher ? Explique-le-moi avec tes doigts.",
+        "ar": "عندما نبحث عن الزوج الذي مجموعه 10، كيف نعرف أيّ ورقة نبحث عنها؟ لنشرح ذلك بالأصابع."
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «Si tengo un 3, ¿cuántos dedos me faltan para 10?».",
+        "va": "Si no sap per on començar: «Si tinc un 3, quants dits em falten per a 10?».",
+        "en": "If they don't know where to start: “If I have a 3, how many more fingers make 10?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Si j'ai un 3, combien de doigts me manquent pour 10 ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «إذا كان عندي 3، كم إصبعًا ينقصني لأصل إلى 10؟»."
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "Vale contar con los dedos o saberlo de memoria. Escuchad cómo lo hace y dad las gracias por la explicación.",
+          "va": "Val comptar amb els dits o saber-ho de memòria. Escolteu com ho fa i doneu les gràcies per l'explicació.",
+          "en": "Counting on fingers and knowing it by heart are both fine. Listen to how your child does it and say thank you for the explanation.",
+          "fr": "Compter sur ses doigts ou le savoir par cœur, les deux vont bien. Écoutez comment votre enfant fait et dites merci pour l'explication.",
+          "ar": "العدّ بالأصابع والحفظ عن ظهر قلب كلاهما جيّد. استمعوا إلى الطريقة وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "04b4920d5a7f"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "04b4920d5a7f"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "04b4920d5a7f"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "04b4920d5a7f"
+      }
+    }
+  }
+}

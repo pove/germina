@@ -1,0 +1,338 @@
+{
+  "version": 1,
+  "id": "1.matematicas.1.v10",
+  "ciclo": 1,
+  "area": "matematicas",
+  "curso": 1,
+  "verano": 10,
+  "tipo": "verano",
+  "titulo": {
+    "es": "Historias con números",
+    "va": "Històries amb nombres",
+    "en": "Stories with numbers",
+    "fr": "Des histoires avec des nombres",
+    "ar": "حكايات بالأعداد"
+  },
+  "objetivo": {
+    "es": "En verano, cada día deja historias con números: helados, chapuzones, conchas. Inventar un problema con ellas es pensar qué se sabe y qué se pregunta, y probar otra vez si la primera respuesta no sale.",
+    "va": "A l'estiu, cada dia deixa històries amb nombres: gelats, capbussons, petxines. Inventar un problema (problema) amb elles és pensar què se sap i què es pregunta, i tornar-ho a intentar si la primera resposta no ix.",
+    "en": "In summer, every day leaves stories with numbers: ice creams, dips in the water, shells. Making up a word problem (problema) with them means thinking about what you know and what you ask, and trying again if the first answer doesn’t work.",
+    "fr": "En été, chaque jour laisse des histoires avec des nombres : glaces, baignades, coquillages. Inventer un problème (problema) avec elles, c'est penser à ce qu'on sait et à ce qu'on demande, et réessayer si la première réponse ne vient pas.",
+    "ar": "في الصيف، يترك كل يوم حكايات بالأعداد: مثلّجات، وغطسات في الماء، وأصداف. اختراع مسألة (problema) منها هو التفكير فيما نعرفه وفيما نسأل عنه، والمحاولة من جديد إن لم تخرج الإجابة الأولى."
+  },
+  "comoAyudar": {
+    "es": "Inventad vosotros la primera historia y dejad que haga la pregunta. Si la respuesta no sale, dibujad juntos la historia y probad otra vez.",
+    "va": "Inventeu vosaltres la primera història i deixeu que faça la pregunta. Si la resposta no ix, dibuixeu junts la història i torneu-ho a intentar.",
+    "en": "Make up the first story yourselves and let your child ask the question. If the answer doesn’t come, draw the story together and try again.",
+    "fr": "Inventez vous-mêmes la première histoire et laissez votre enfant poser la question. Si la réponse ne vient pas, dessinez l'histoire ensemble et réessayez.",
+    "ar": "اخترعوا أنتم الحكاية الأولى ودعوا الطفل أو الطفلة يطرح السؤال. وإذا لم تخرج الإجابة، ارسموا الحكاية معًا وجرّبوا من جديد."
+  },
+  "saberes": [
+    "matematicas.operaciones.suma-resta",
+    "matematicas.fracciones.perseverancia"
+  ],
+  "criterios": [
+    "matematicas.c1.1.4",
+    "matematicas.c1.6.4"
+  ],
+  "reto": {
+    "titulo": {
+      "es": "Cuentos de verano",
+      "va": "Contes d'estiu",
+      "en": "Summer stories",
+      "fr": "Contes d'été",
+      "ar": "حكايات الصيف"
+    },
+    "material": [
+      {
+        "es": "Lo que ha pasado hoy",
+        "va": "El que ha passat hui",
+        "en": "What happened today",
+        "fr": "Ce qui s'est passé aujourd'hui",
+        "ar": "ما حدث اليوم"
+      },
+      {
+        "es": "Papel y lápiz para dibujar",
+        "va": "Paper i llapis per a dibuixar",
+        "en": "Paper and a pencil for drawing",
+        "fr": "Du papier et un crayon pour dessiner",
+        "ar": "ورقة وقلم رصاص للرسم"
+      }
+    ],
+    "minutos": 10,
+    "pasos": [
+      {
+        "pictograma": "sol",
+        "texto": {
+          "es": "Al final del día, recordad juntos algo con números: helados, chapuzones, conchas, personas en la mesa…",
+          "va": "Al final del dia, recordeu junts alguna cosa amb nombres: gelats, capbussons, petxines, persones a la taula…",
+          "en": "At the end of the day, remember together something with numbers: ice creams, dips, shells, people at the table…",
+          "fr": "À la fin de la journée, rappelez-vous ensemble quelque chose avec des nombres : glaces, baignades, coquillages, personnes à table…",
+          "ar": "في آخر اليوم، تذكّروا معًا شيئًا فيه أعداد: مثلّجات، غطسات، أصداف، أشخاص حول المائدة…"
+        }
+      },
+      {
+        "pictograma": "conversacion",
+        "texto": {
+          "es": "Contad una historia corta con dos números: «Por la mañana vimos 4 barcos y por la tarde, 3».",
+          "va": "Conteu una història curta amb dos nombres: «Pel matí vam veure 4 barques i per la vesprada, 3».",
+          "en": "Tell a short story with two numbers: “In the morning we saw 4 boats and in the afternoon, 3”.",
+          "fr": "Racontez une petite histoire avec deux nombres : « Le matin, on a vu 4 bateaux et l'après-midi, 3 ».",
+          "ar": "احكوا حكاية قصيرة فيها عددان: «في الصباح رأينا 4 قوارب وفي المساء 3»."
+        }
+      },
+      {
+        "pictograma": "lapiz",
+        "texto": {
+          "es": "Dibujad la historia con dibujos o rayitas y pensad una pregunta: «¿Cuántos barcos vimos en total?».",
+          "va": "Dibuixeu la història amb dibuixos o ratlletes i penseu una pregunta: «Quantes barques vam veure en total?».",
+          "en": "Draw the story with pictures or little lines and think of a question: “How many boats did we see in all?”.",
+          "fr": "Dessinez l'histoire avec des dessins ou des petits traits et pensez à une question : « Combien de bateaux avons-nous vus en tout ? ».",
+          "ar": "ارسموا الحكاية برسوم أو خطوط صغيرة وفكّروا في سؤال: «كم قاربًا رأينا في المجموع؟»."
+        }
+      },
+      {
+        "pictograma": "manos",
+        "texto": {
+          "es": "Responded con los dedos, con cosas o con el dibujo. Luego la historia la inventa la otra persona.",
+          "va": "Responeu amb els dits, amb coses o amb el dibuix. Després la història la inventa l’altra persona.",
+          "en": "Answer with your fingers, with things or with the drawing. Then the other person makes up the story.",
+          "fr": "Répondez avec les doigts, avec des objets ou avec le dessin. Ensuite, c'est l'autre personne qui invente l'histoire.",
+          "ar": "أجيبوا بالأصابع أو بالأشياء أو بالرسم. ثم يخترع الشخص الآخر الحكاية."
+        }
+      }
+    ],
+    "masFacil": {
+      "es": "Usad números hasta 10 e historias de juntar.",
+      "va": "Feu servir nombres fins a 10 i històries d’ajuntar (juntar).",
+      "en": "Use numbers up to 10 and stories about putting together (juntar).",
+      "fr": "Utilisez des nombres jusqu'à 10 et des histoires où on réunit (juntar).",
+      "ar": "استعملوا أعدادًا حتى 10 وحكايات فيها جمع الأشياء (juntar)."
+    },
+    "masDificil": {
+      "es": "Haced historias de quitar, o con números de dos cifras, como 25 y 12.",
+      "va": "Feu històries de llevar (quitar), o amb nombres de dues xifres, com 25 i 12.",
+      "en": "Make up take-away (quitar) stories, or ones with two-digit numbers, like 25 and 12.",
+      "fr": "Faites des histoires où on enlève (quitar), ou avec des nombres à deux chiffres, comme 25 et 12.",
+      "ar": "اخترعوا حكايات فيها نزع (quitar)، أو بأعداد من رقمين، مثل 25 و12."
+    },
+    "paraQueSirve": {
+      "es": "Quien inventa problemas entiende mejor los que le cuentan: sabe qué datos hacen falta y qué se pregunta. Y si algo no sale a la primera, se vuelve a intentar.",
+      "va": "Qui inventa problemes entén millor els que li conten: sap quines dades fan falta i què es pregunta. I si alguna cosa no ix a la primera, es torna a intentar.",
+      "en": "Whoever makes up word problems understands the ones they’re told better: they know what information is useful and what is being asked. And if something doesn’t work first time, you try again.",
+      "fr": "Qui invente des problèmes comprend mieux ceux qu'on lui raconte : il ou elle sait quelles données sont utiles et ce qu'on demande. Et si ça ne marche pas du premier coup, on réessaie.",
+      "ar": "من يخترع المسائل يفهم أفضل المسائل التي تُحكى له: يعرف المعطيات المفيدة وما المطلوب. وإذا لم ينجح شيء من المرة الأولى، نجرّب من جديد."
+    }
+  },
+  "preguntas": [
+    {
+      "id": "p1",
+      "rol": "tema",
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "En la piscina hay 6 niñas y 5 niños. ¿Cuántos niños y niñas hay en total?",
+        "va": "A la piscina hi ha 6 xiquetes i 5 xiquets. Quants xiquets i xiquetes hi ha en total?",
+        "en": "At the pool there are 6 girls and 5 boys. How many children are there in all?",
+        "fr": "À la piscine, il y a 6 filles et 5 garçons. Combien d’enfants y a-t-il en tout ?",
+        "ar": "في المسبح 6 بنات و5 أولاد. كم طفلًا وطفلة في المجموع؟"
+      },
+      "pista": {
+        "es": "Completa el 10: 6 y 4 son 10, y te queda 1.",
+        "va": "Completa el 10: 6 i 4 són 10, i et queda 1.",
+        "en": "Make 10: 6 and 4 make 10, and you have 1 left.",
+        "fr": "Complète le 10 : 6 et 4 font 10, et il te reste 1.",
+        "ar": "لنكمل العشرة: 6 و4 يساويان 10، ويبقى 1."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "6 + 5",
+        "resultado": 11,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Hay 11 niños y niñas.",
+          "va": "Hi ha 11 xiquets i xiquetes.",
+          "en": "There are 11 children.",
+          "fr": "Il y a 11 enfants.",
+          "ar": "هناك 11 طفلًا وطفلة."
+        }
+      },
+      "inventala": {
+        "es": "Ahora inventa tú una historia de juntar con algo que hayas visto hoy.",
+        "va": "Ara inventa'n tu una història d'ajuntar amb alguna cosa que hages vist hui.",
+        "en": "Now you make up a putting-together story with something you saw today.",
+        "fr": "Maintenant, invente une histoire où on réunit, avec quelque chose que tu as vu aujourd'hui.",
+        "ar": "والآن لنخترع حكاية جمع بشيء رأيناه اليوم."
+      }
+    },
+    {
+      "id": "p2",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "Ion tenía 15 conchas y regaló 5 a su hermana. ¿Cuántas conchas le quedan?",
+        "va": "Ion tenia 15 petxines i en va regalar 5 a sa germana. Quantes petxines li queden?",
+        "en": "Ion had 15 shells and gave 5 to his sister. How many shells does he have left?",
+        "fr": "Ion avait 15 coquillages et en a donné 5 à sa sœur. Combien de coquillages lui reste-t-il ?",
+        "ar": "كان عند إيون 15 صدفة وأهدى أخته 5. كم صدفة بقيت معه؟"
+      },
+      "pista": {
+        "es": "Quita las 5 sueltas y mira lo que queda.",
+        "va": "Lleva les 5 soltes i mira el que queda.",
+        "en": "Take away the 5 loose ones and see what’s left.",
+        "fr": "Enlève les 5 en vrac et regarde ce qui reste.",
+        "ar": "لننزع الخمس المنفردة ونرى ما يبقى."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "15 - 5",
+        "resultado": 10,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Le quedan 10 conchas.",
+          "va": "Li’n queden 10.",
+          "en": "He has 10 left.",
+          "fr": "Il lui en reste 10.",
+          "ar": "بقيت معه 10 أصداف."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una historia de quitar con algo de la merienda.",
+        "va": "Inventa'n tu una història de llevar amb alguna cosa del berenar.",
+        "en": "Make up a take-away story with something from your snack.",
+        "fr": "Invente une histoire où on enlève quelque chose du goûter.",
+        "ar": "لنخترع حكاية نزع بشيء من وجبة العصر."
+      }
+    },
+    {
+      "id": "p3",
+      "rol": "tema",
+      "tipoProblema": "detraccion",
+      "texto": {
+        "es": "En el congelador había 12 polos y nos hemos comido 4. ¿Cuántos quedan?",
+        "va": "En el congelador hi havia 12 polos i ens n’hem menjat 4. Quants en queden?",
+        "en": "There were 12 ice lollies in the freezer and we’ve eaten 4. How many are left?",
+        "fr": "Il y avait 12 glaces à l'eau au congélateur et nous en avons mangé 4. Combien en reste-t-il ?",
+        "ar": "كان في الثلاجة 12 مثلّجة وأكلنا 4. كم بقي؟"
+      },
+      "pista": {
+        "es": "Quita 2 para llegar a 10, y luego 2 más.",
+        "va": "Lleva’n 2 per a arribar a 10, i després 2 més.",
+        "en": "Take away 2 to get to 10, and then 2 more.",
+        "fr": "Enlèves-en 2 pour arriver à 10, puis encore 2.",
+        "ar": "لننزع 2 لنصل إلى 10، ثم 2 أخريين."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "12 - 4",
+        "resultado": 8,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Quedan 8 polos.",
+          "va": "En queden 8.",
+          "en": "There are 8 left.",
+          "fr": "Il en reste 8.",
+          "ar": "بقيت 8 مثلّجات."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú una en la que se acaba casi todo.",
+        "va": "Inventa'n tu una en què s'acaba quasi tot.",
+        "en": "Make one up where almost everything gets used up.",
+        "fr": "Invente une histoire où presque tout est fini.",
+        "ar": "لنخترع حكاية ينفد فيها كل شيء تقريبًا."
+      }
+    },
+    {
+      "id": "p4",
+      "rol": "recordar",
+      "recupera": 39,
+      "tipoProblema": "combinar",
+      "texto": {
+        "es": "Para recordar: en un plato hay {{3 + 4}} fresas y en otro, {{5 + 2}}. ¿Hay lo mismo en los dos?",
+        "va": "Per a recordar: en un plat hi ha {{3 + 4}} maduixes i en un altre, {{5 + 2}}. N’hi ha el mateix en tots dos?",
+        "en": "Let’s remember: one plate has {{3 + 4}} strawberries and another has {{5 + 2}}. Is there the same on both?",
+        "fr": "Pour se souvenir : dans une assiette, il y a {{3 + 4}} fraises et dans une autre, {{5 + 2}}. Y en a-t-il autant dans les deux ?",
+        "ar": "لنتذكّر: في صحن {{3 + 4}} حبات فراولة وفي آخر {{5 + 2}}. هل في الصحنين العدد نفسه؟"
+      },
+      "pista": {
+        "es": "Cuenta cada plato con los dedos y compara.",
+        "va": "Compta cada plat amb els dits i compara.",
+        "en": "Count each plate on your fingers and compare.",
+        "fr": "Compte chaque assiette sur tes doigts et compare.",
+        "ar": "لنعدّ كل صحن بالأصابع ونقارن."
+      },
+      "respuesta": {
+        "tipo": "calculo",
+        "operacion": "3 + 4",
+        "resultado": 7,
+        "unidad": "unidades",
+        "texto": {
+          "es": "Sí, 7 en cada plato: {{3 + 4 = 5 + 2}}.",
+          "va": "Sí, 7 en cada plat: {{3 + 4 = 5 + 2}}.",
+          "en": "Yes, 7 on each plate: {{3 + 4 = 5 + 2}}.",
+          "fr": "Oui, 7 dans chaque assiette : {{3 + 4 = 5 + 2}}.",
+          "ar": "نعم، 7 في كل صحن: {{3 + 4 = 5 + 2}}."
+        }
+      },
+      "inventala": {
+        "es": "Inventa tú otra con dos platos que tengan lo mismo de otra manera.",
+        "va": "Inventa'n tu una altra amb dos plats que tinguen el mateix d'una altra manera.",
+        "en": "Make up another one with two plates that have the same amount in a different way.",
+        "fr": "Invente-en une autre avec deux assiettes qui ont autant, mais autrement.",
+        "ar": "لنخترع سؤالًا آخر بصحنين فيهما العدد نفسه بطريقة مختلفة."
+      }
+    },
+    {
+      "id": "p5",
+      "rol": "explicamelo",
+      "tipoProblema": "abierta",
+      "texto": {
+        "es": "Cuéntame una historia con números de hoy y hazme tú la pregunta. ¿Cómo sabes la respuesta?",
+        "va": "Conta’m una història amb nombres de hui i fes-me tu la pregunta. Com saps la resposta?",
+        "en": "Tell me a story with numbers from today and you ask me the question. How do you know the answer?",
+        "fr": "Raconte-moi une histoire avec des nombres d'aujourd'hui et pose-moi la question. Comment sais-tu la réponse ?",
+        "ar": "لنحكِ حكاية بأعداد من اليوم ونطرح السؤال. كيف نعرف الإجابة؟"
+      },
+      "pista": {
+        "es": "Si no sabe por dónde empezar: «¿Cuántas personas hemos comido hoy juntas? ¿Y si viene alguien más?»",
+        "va": "Si no sap per on començar: «Quantes persones hem dinat hui juntes? I si en ve alguna més?»",
+        "en": "If they don’t know where to start: “How many of us ate together today? And what if someone else comes?”",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Combien de personnes ont mangé ensemble aujourd'hui ? Et si quelqu'un d'autre arrive ? »",
+        "ar": "إذا صعُبت البداية، اسألوا: «كم شخصًا أكلنا معًا اليوم؟ وماذا لو جاء شخص آخر؟»"
+      },
+      "respuesta": {
+        "tipo": "abierta",
+        "orientacion": {
+          "es": "No hace falta que lo diga perfecto. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "No cal que ho diga perfecte. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It doesn't need to be perfect. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Ce n'est pas grave si ce n'est pas parfait. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "ar": "لا يلزم أن يكون الشرح مثاليًا. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
+        }
+      }
+    }
+  ],
+  "revision": {
+    "docente": {
+      "revisada": false
+    },
+    "traducciones": {
+      "va": {
+        "estado": "automatica",
+        "huella": "8a5d03f64a69"
+      },
+      "en": {
+        "estado": "automatica",
+        "huella": "8a5d03f64a69"
+      },
+      "fr": {
+        "estado": "automatica",
+        "huella": "8a5d03f64a69"
+      },
+      "ar": {
+        "estado": "automatica",
+        "huella": "8a5d03f64a69"
+      }
+    }
+  }
+}
