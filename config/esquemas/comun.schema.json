@@ -57,10 +57,10 @@
           "items": { "$ref": "#/$defs/texto" }
         },
         "ideas": {
-          "description": "Cinco a siete ideas cortas, siempre las mismas a lo largo del curso.",
+          "description": "Cinco a ocho ideas cortas, siempre las mismas a lo largo del curso.",
           "type": "array",
           "minItems": 5,
-          "maxItems": 7,
+          "maxItems": 8,
           "items": { "$ref": "#/$defs/texto" }
         },
         "fuentes": { "$ref": "#/$defs/fuentes" }
