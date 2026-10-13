@@ -126,7 +126,7 @@ Esquema: [config/esquemas/semilla.schema.json](../config/esquemas/semilla.schema
 
 Los niños y niñas de 6 a 8 años aún leen poco y escriben despacio, y en el 1.er ciclo el aula evalúa observando y escuchando, sin pruebas escritas (Decreto 106/2022, art. 26.6). Además de lo anterior:
 
-- **Lo lee una persona adulta en voz alta.** Las preguntas y pistas siguen hablando al niño o niña de tú, pero son cortas: la pregunta, como mucho dos frases y unas 25 palabras; la pista, una frase.
+- **Lo lee una persona adulta en voz alta.** Las preguntas y pistas siguen hablando al niño o niña de tú, pero son cortas: la pregunta, unas 25 palabras como mucho, en frases cortas (dato, dato y pregunta se lee mejor que una frase larga); la pista, una frase.
 - **La respuesta se dice, se señala o se hace con objetos**, nunca se escribe. Nada de «apunta» o «escribe» en las preguntas; en los retos, como mucho dibujar o hacer marcas (rayitas, flechas).
 - **Reto de 5 a 10 minutos**, con 3 o 4 pasos de una o dos frases cortas, cada uno con su pictograma. Material de casa y fácil de manejar con las manos.
 - **Material y dedos.** Contar con los dedos está bien y se dice así. Primero objetos (legumbres, pinzas, cucharas), luego dibujos y marcas y al final la operación: es el paso de lo manipulativo a lo numérico que pide el anexo III (CE5).
@@ -272,7 +272,8 @@ por bloque:
 ## 7. Funcionamiento sin conexión y rendimiento
 
 - PWA instalable (`vite-plugin-pwa`, Workbox `generateSW`), con manifiesto en los cinco idiomas (nombre «Germina», el lema como descripción) e iconos propios.
-- **Precarga:** la aplicación y todo el contenido activo (semillas, textos, configuración). Funciona sin conexión desde la primera visita completa.
+- **Precarga:** la aplicación y el contenido común (textos, configuración, mapas, objetivos y el índice de semillas). Las semillas no se precargan: el service worker las guarda en su caché (`germina-semillas`) al pedirlas, y la aplicación pide en segundo plano las de los cursos que sigue la familia al abrir la web y cada vez que cambian sus cursos. Así funciona sin conexión desde la primera visita completa para los cursos de la familia; las de otros cursos, en cuanto se han mirado una vez.
+- **Semillas con versión:** `contenido/indice.json` lleva la huella de cada semilla y la aplicación las pide como `…/semana-07.json?v=<huella>`, de modo que una semilla corregida nunca se sirve vieja desde la caché.
 - **Actualizaciones:** modo `prompt`. Si hay versión nueva, aviso discreto «Hay novedades · Ver ahora»; si no se pulsa, se aplica la próxima vez que se abra la web.
 - **Presupuesto:** la primera carga de la página de inicio pesa como mucho 200 KB comprimidos (JS + CSS + HTML + fuente latina), y el conjunto precargado, 1,5 MB comprimidos como mucho. Lo comprueba un script en la integración continua.
 - Navegadores: Safari iOS 16.4 o superior y Chrome Android de los últimos tres años.

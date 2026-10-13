@@ -16,8 +16,20 @@ export default defineConfig({
       injectRegister: false,
       manifest: false, // los manifiestos (uno por idioma) los emite `manifiestos()`
       workbox: {
-        // La aplicación y todo el contenido activo: funciona sin conexión desde la primera visita completa.
+        // La aplicación y el contenido común (textos, mapas, objetivos, índice). Las semillas no: con cuatro cursos
+        // pasarían del presupuesto (especificación, 7). Se guardan en `germina-semillas` al pedirlas, y la aplicación
+        // pide en segundo plano las de los cursos de la familia (src/precarga.ts).
         globPatterns: ['**/*.{js,css,html,json,svg,png,woff2,webmanifest}'],
+        globIgnores: ['**/contenido/ciclo-*/*/*/semana-*.json', '**/contenido/ciclo-*/*/*/verano-*.json'],
+        runtimeCaching: [
+          {
+            // Se piden con su huella (`?v=…`), así que lo guardado nunca es una versión vieja. Las versiones que ya no
+            // están en el índice las quita la aplicación (src/precarga.ts).
+            urlPattern: ({ url }) => /\/contenido\/ciclo-\d\/[^/]+\/\d\/(semana|verano)-\d\d\.json$/.test(url.pathname),
+            handler: 'CacheFirst',
+            options: { cacheName: 'germina-semillas' },
+          },
+        ],
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,
       },
