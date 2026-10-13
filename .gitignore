@@ -6,3 +6,6 @@ dist/
 test-results/
 playwright-report/
 coverage/
+
+# Configuración local de Claude Code (vista previa, permisos): cada cual la suya
+.claude/

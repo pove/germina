@@ -8,22 +8,22 @@
       "ar": "ما يُتعلَّم في الرياضيات يحدّده منهاج مجتمع فالنسيا للحلقة الثانية، وهي الصفّان الثالث والرابع معًا. القانون لا يفصل بين الصفّين: الفريق التعليمي في كل مدرسة يقرّر ما يُعمل عليه في كل صف وبأي ترتيب. هنا تجدون التوزيع الذي تتبعه Germina، فصلًا بعد فصل؛ وقد يأتي في الصف قبل ذلك بقليل أو بعده بقليل."
     },
     {
-      "es": "En clase se va de lo que se toca a lo que se dibuja y, al final, a lo que se escribe. También se aprende a explicar cómo se ha pensado, a no rendirse cuando algo cuesta y a trabajar en equipo: eso forma parte de las matemáticas igual que las cuentas.",
-      "va": "A classe es va del que es toca al que es dibuixa i, al final, al que s'escriu. També s'aprén a explicar com s'ha pensat, a no rendir-se quan una cosa costa i a treballar en equip: això forma part de les matemàtiques igual que els comptes.",
-      "en": "In class, children go from what they can touch to what they draw and, finally, to what they write. They also learn to explain how they worked something out, not to give up when something is hard, and to work as a team: that is part of maths just as much as the sums.",
-      "fr": "En classe, on part de ce qu'on touche, puis de ce qu'on dessine et, enfin, de ce qu'on écrit. On apprend aussi à expliquer comment on a réfléchi, à ne pas abandonner quand c'est difficile et à travailler en équipe : cela fait partie des maths autant que les calculs.",
-      "ar": "في الصف ينتقل الأطفال مما يلمسونه إلى ما يرسمونه، ثم في النهاية إلى ما يكتبونه. ويتعلّمون أيضًا أن يشرحوا كيف فكّروا، وألّا يستسلموا حين يصعب أمر ما، وأن يعملوا في فريق: هذا جزء من الرياضيات مثل الحساب تمامًا."
+      "es": "Se va de lo que se toca a lo que se dibuja y, al final, a lo que se escribe. También se aprende a explicar cómo se ha pensado, a no rendirse cuando algo cuesta y a trabajar en equipo: eso forma parte de las matemáticas igual que las cuentas.",
+      "va": "Es va del que es toca al que es dibuixa i, al final, al que s'escriu. També s'aprén a explicar com s'ha pensat, a no rendir-se quan una cosa costa i a treballar en equip: això forma part de les matemàtiques igual que els comptes.",
+      "en": "Children go from what they can touch to what they draw and, finally, to what they write. They also learn to explain how they worked something out, not to give up when something is hard, and to work as a team: that is part of maths just as much as the sums.",
+      "fr": "On part de ce qu'on touche, puis de ce qu'on dessine et, enfin, de ce qu'on écrit. On apprend aussi à expliquer comment on a réfléchi, à ne pas abandonner quand c'est difficile et à travailler en équipe : cela fait partie des maths autant que les calculs.",
+      "ar": "ينتقل الأطفال مما يلمسونه إلى ما يرسمونه، ثم في النهاية إلى ما يكتبونه. ويتعلّمون أيضًا أن يشرحوا كيف فكّروا، وألّا يستسلموا حين يصعب أمر ما، وأن يعملوا في فريق: هذا جزء من الرياضيات مثل الحساب تمامًا."
     }
   ],
   "cursos": {
     "3": {
       "1": [
         {
-          "es": "Leen y escriben números hasta el 999 y llegan al 1000, entendiendo qué vale cada cifra.",
-          "va": "Lligen i escriuen nombres fins al 999 i arriben al 1000, entenent què val cada xifra.",
-          "en": "They read and write numbers up to 999 and reach 1000, understanding what each digit is worth.",
-          "fr": "On lit et on écrit les nombres jusqu'à 999 et on arrive à 1000, en comprenant la valeur de chaque chiffre.",
-          "ar": "يقرؤون الأعداد ويكتبونها حتى 999 ثم يصلون إلى 1000، ويفهمون قيمة كل رقم."
+          "es": "Leen y escriben números de tres cifras y, después, de cuatro (a partir del 1000), entendiendo qué vale cada cifra.",
+          "va": "Lligen i escriuen nombres de tres xifres i, després, de quatre (a partir del 1000), entenent què val cada xifra.",
+          "en": "They read and write three-digit numbers and then four-digit ones (from 1000 onwards), understanding what each digit is worth.",
+          "fr": "On lit et on écrit des nombres à trois chiffres, puis à quatre chiffres (à partir de 1000), en comprenant la valeur de chaque chiffre.",
+          "ar": "يقرؤون الأعداد المكوّنة من ثلاثة أرقام ويكتبونها، ثم من أربعة أرقام (ابتداءً من 1000)، ويفهمون قيمة كل رقم."
         },
         {
           "es": "Suman y restan con llevada, primero con material (legumbres, vasos), luego con dibujos y por último en papel.",
