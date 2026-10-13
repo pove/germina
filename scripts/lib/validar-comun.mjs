@@ -105,10 +105,18 @@ export function validarComunes({ raiz, ajv }) {
   sumar(validarArchivo({ raiz, rel: 'contenido/comun/como-ayudar.json', ajv, definicion: 'comoAyudar', requerido: true, revisar: revisarConFuentes }));
   const base = join(raiz, 'contenido');
   const subcarpetas = (ruta) => (existsSync(ruta) ? readdirSync(ruta, { withFileTypes: true }).filter((d) => d.isDirectory()).map((d) => d.name) : []);
+  const catalogo = JSON.parse(readFileSync(join(raiz, 'config/catalogo.json'), 'utf8'));
   for (const ciclo of subcarpetas(base).filter((c) => c.startsWith('ciclo-'))) {
+    const cursos = (catalogo.ciclos.find((c) => `ciclo-${c.ciclo}` === ciclo)?.cursos ?? []).map(String);
     for (const area of subcarpetas(join(base, ciclo))) {
       sumar(validarArchivo({
-        raiz, rel: `contenido/${ciclo}/${area}/objetivos.json`, ajv, definicion: 'objetivos', requerido: false, revisar: revisarConFuentes,
+        raiz, rel: `contenido/${ciclo}/${area}/objetivos.json`, ajv, definicion: 'objetivos', requerido: false,
+        revisar: (r) => {
+          revisarConFuentes(r);
+          // Los cursos son los del ciclo, todos y en orden.
+          const tiene = Object.keys(r.datos.cursos);
+          if (tiene.join() !== cursos.join()) r.error(['cursos'], `los cursos deben ser ${cursos.join(' y ')} (los del ${ciclo}), no ${tiene.join(' y ') || 'ninguno'}`);
+        },
       }));
     }
   }

@@ -440,9 +440,9 @@ describe('contenido/comun/glosario.json', () => {
 describe('contenido/comun/como-ayudar.json', () => {
   const archivo = 'contenido/comun/como-ayudar.json';
 
-  it('entre 5 y 7 ideas', () => {
+  it('entre 5 y 8 ideas', () => {
     comunError(validarComun(archivo, sobreJson((j) => (j.ideas = j.ideas.slice(0, 4)))), archivo, 'al menos 5');
-    comunError(validarComun(archivo, sobreJson((j) => (j.ideas = [...j.ideas, ...j.ideas]))), archivo, 'como mucho 7');
+    comunError(validarComun(archivo, sobreJson((j) => (j.ideas = [...j.ideas, ...j.ideas]))), archivo, 'como mucho 8');
   });
 
   it('una idea con obligación', () => {
@@ -474,6 +474,14 @@ describe('objetivos.json', () => {
   it('falta un trimestre', () => {
     const r = validarComun(archivo, sobreJson((j) => delete j.cursos['4']['2']));
     expect(comunError(r, archivo, '4').motivo).toMatch(/falta «2»/);
+  });
+
+  it('cursos que no son los del ciclo', () => {
+    const r = validarComun(archivo, sobreJson((j) => {
+      j.cursos['1'] = j.cursos['3'];
+      delete j.cursos['4'];
+    }));
+    comunError(r, archivo, 'deben ser 3 y 4');
   });
 
   it('pocas frases', () => {

@@ -46,11 +46,11 @@
     "ar": "في أي صف ابنكم أو ابنتكم؟"
   },
   "bienvenida.curso_ayuda": {
-    "es": "Podéis elegir los dos si tenéis hijos o hijas en 3.º y en 4.º.",
-    "va": "Podeu triar-los tots dos si teniu fills o filles en 3r i en 4t.",
-    "en": "You can choose both if you have children in 3rd and 4th year.",
-    "fr": "Vous pouvez choisir les deux si vous avez des enfants en 3e et en 4e année.",
-    "ar": "يمكنكم اختيار الصفين معًا إذا كان لديكم أبناء وبنات في الثالث والرابع."
+    "es": "Podéis elegir más de uno si tenéis hijos o hijas en cursos distintos.",
+    "va": "Podeu triar-ne més d'un si teniu fills o filles en cursos diferents.",
+    "en": "You can choose more than one if you have children in different years.",
+    "fr": "Vous pouvez en choisir plusieurs si vous avez des enfants dans des années différentes.",
+    "ar": "يمكنكم اختيار أكثر من صف إذا كان لديكم أبناء وبنات في صفوف مختلفة."
   },
   "bienvenida.empezar": { "es": "Empezar", "va": "Començar", "en": "Start", "fr": "Commencer", "ar": "ابدؤوا" },
 
@@ -83,11 +83,14 @@
     "ar": "بلا استعجال: إذا لم يكن ممكنًا في أسبوع ما، فالبذرة تنتظر."
   },
 
+  "curso.1": { "es": "1.º", "va": "1r", "en": "1st year", "fr": "1re année", "ar": "الصف الأول" },
+  "curso.2": { "es": "2.º", "va": "2n", "en": "2nd year", "fr": "2e année", "ar": "الصف الثاني" },
   "curso.3": { "es": "3.º", "va": "3r", "en": "3rd year", "fr": "3e année", "ar": "الصف الثالث" },
   "curso.4": { "es": "4.º", "va": "4t", "en": "4th year", "fr": "4e année", "ar": "الصف الرابع" },
   "banda.vuestros": { "es": "Vuestros cursos", "va": "Els vostres cursos", "en": "Your years", "fr": "Vos années", "ar": "صفوفكم" },
   "banda.otros": { "es": "Otros cursos", "va": "Altres cursos", "en": "Other years", "fr": "Autres années", "ar": "صفوف أخرى" },
   "curso.etiqueta": { "es": "Curso", "va": "Curs", "en": "Year", "fr": "Année", "ar": "الصف" },
+  "ciclo.1": { "es": "1.er ciclo", "va": "1r cicle", "en": "1st cycle", "fr": "1er cycle", "ar": "الحلقة الأولى" },
   "ciclo.2": { "es": "2.º ciclo", "va": "2n cicle", "en": "2nd cycle", "fr": "2e cycle", "ar": "الحلقة الثانية" },
 
   "cambio_curso.pregunta": {
@@ -227,7 +230,8 @@
   "aprenden.titulo": { "es": "Qué aprenden este curso", "va": "Què aprenen aquest curs", "en": "What they learn this year", "fr": "Ce qu'on apprend cette année", "ar": "ماذا يتعلمون هذه السنة" },
   "aprenden.ahora": { "es": "Ahora", "va": "Ara", "en": "Now", "fr": "En ce moment", "ar": "الآن" },
   "aprenden.trimestre": { "es": "Trimestre {n}", "va": "Trimestre {n}", "en": "Term {n}", "fr": "Trimestre {n}", "ar": "الفصل {n}" },
-  "aprenden.ciclo_titulo": { "es": "Lo que se trabaja en 3.º y 4.º", "va": "El que es treballa en 3r i 4t", "en": "What is covered in the 3rd and 4th years", "fr": "Ce qu'on travaille en 3e et 4e année", "ar": "ما يُعمل عليه في الصفّين الثالث والرابع" },
+  "aprenden.ciclo_titulo.1": { "es": "Lo que se trabaja en 1.º y 2.º", "va": "El que es treballa en 1r i 2n", "en": "What is covered in the 1st and 2nd years", "fr": "Ce qu'on travaille en 1re et 2e année", "ar": "ما يُعمل عليه في الصفّين الأول والثاني" },
+  "aprenden.ciclo_titulo.2": { "es": "Lo que se trabaja en 3.º y 4.º", "va": "El que es treballa en 3r i 4t", "en": "What is covered in the 3rd and 4th years", "fr": "Ce qu'on travaille en 3e et 4e année", "ar": "ما يُعمل عليه في الصفّين الثالث والرابع" },
 
   "ayuda.titulo": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
   "ayuda.ideas_titulo": { "es": "Ideas para acompañar", "va": "Idees per a acompanyar", "en": "Ideas for joining in", "fr": "Des idées pour accompagner", "ar": "أفكار للمرافقة" },

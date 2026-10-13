@@ -4,10 +4,10 @@ Qué hay que construir y con qué reglas. Este documento manda sobre cualquier o
 
 ## 1. Qué es
 
-Germina es una web estática, sin registro ni datos personales, para las familias del 2.º ciclo de Primaria (3.º y 4.º) de un centro público de la Comunitat Valenciana. Cada semana del curso trae una **semilla**: un reto de unos 10 minutos para jugar en familia, sin pantalla, y una pregunta para cada día de lunes a viernes, para la comida o la cena. Las semillas jugadas forman el **jardín** de la familia.
+Germina es una web estática, sin registro ni datos personales, para las familias del 1.er y del 2.º ciclo de Primaria (de 1.º a 4.º) de un centro público de la Comunitat Valenciana. Cada semana del curso trae una **semilla**: un reto de unos 10 minutos para jugar en familia, sin pantalla, y una pregunta para cada día de lunes a viernes, para la comida o la cena. Las semillas jugadas forman el **jardín** de la familia.
 
 - Idiomas: español (por defecto), valenciano, inglés, francés y árabe (de derecha a izquierda). En el aula todo se da en español; los otros idiomas sirven para que las familias entiendan.
-- Primera versión: solo «2.º ciclo · Matemáticas». La estructura admite otros ciclos y áreas añadiendo archivos de contenido, sin reprogramar.
+- Primera versión: «2.º ciclo · Matemáticas»; después, «1.er ciclo · Matemáticas» (etapa 10 de las tareas). La estructura admite otros ciclos y áreas añadiendo archivos de contenido, sin reprogramar.
 - Es un recurso voluntario. No hay entregas, notas ni seguimiento por parte del centro.
 
 ## 2. Principios que no se negocian
@@ -25,7 +25,7 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | Ruta | Pantalla |
 | --- | --- |
 | `#/` | Redirige a la semana actual del curso activo, o a `#/bienvenida` si no hay curso elegido |
-| `#/bienvenida` | Idioma (preseleccionado el del navegador si es uno de los cinco), curso o cursos (3.º, 4.º o los dos) y las tres frases de semilla y jardín (5.5) |
+| `#/bienvenida` | Idioma (preseleccionado el del navegador si es uno de los cinco), curso o cursos (uno o varios de 1.º a 4.º) y las tres frases de semilla y jardín (5.5) |
 | `#/{ciclo}/{area}/{curso}/semana/{n}` | **Esta semana** (inicio): título, objetivo, pregunta de hoy, acceso al reto, selector ◀ semana n ▶ con los días de lunes a viernes y «Esta semana» si es la actual, «Volver a esta semana» si no lo es |
 | `#/{ciclo}/{area}/{curso}/semana/{n}/pregunta/{1-5}` | **Pregunta del día**: texto, botón «Pista», botón «Ver la respuesta», «Invéntala tú», «¡Lo hemos hablado!», arriba la vuelta a la semana y abajo las cinco preguntas en fila (la actual resaltada y las habladas con ✓) |
 | `#/{ciclo}/{area}/{curso}/semana/{n}/reto` | **Reto**: material, minutos, pasos con pictograma, más fácil, más difícil, para qué sirve, aviso, cronómetro y récord si es de rapidez, «¡Lo hemos jugado!» |
@@ -57,12 +57,13 @@ Ejemplo: `#/2/matematicas/3/semana/7`. Una ruta desconocida o una semana inexist
 
 ```
 config/
-  catalogo.json            ciclos y áreas; cuáles están activos (v1: solo 2 · matematicas)
+  catalogo.json            ciclos y áreas; cuáles están activos (matematicas en los ciclos 1 y 2)
   curso.json               regla de la semana 1, 41 semanas, trimestres
   idiomas.json             es, va, en, fr, ar (dir: rtl)
   curriculo/matematicas.json  saberes de los tres ciclos y criterios por ciclo
   esquemas/semilla.schema.json  esquema JSON de una semilla
 contenido/
+  ciclo-1/matematicas/     igual que ciclo-2, con las carpetas 1/ y 2/
   ciclo-2/matematicas/
     mapa-semanas.json      tema, saberes y criterios de cada semana (fuente de verdad del orden)
     objetivos.json         qué aprenden, por curso y trimestre
@@ -86,7 +87,7 @@ Sin calendario por año, sin festivos ni vacaciones.
 - **Semanas 1 a 41:** curso. **Desde la 42 hasta la nueva semana 1:** verano (el inicio abre `…/verano/1` y el jardín muestra los 10 retos de verano).
 - **Trimestres:** semanas 1–15, 16–28 y 29–41 (solo para «Qué aprenden» y el mapa).
 - Fechas locales del dispositivo, calculadas con año, mes y día (sin horas) para evitar los saltos del horario de verano. Funciones puras y con tests.
-- **Cambio de curso:** la primera vez que se abre la web en un año de curso nuevo, se pregunta por cada curso guardado «¿Vuestro hijo o hija ha pasado a 4.º?». Si un curso era 4.º, se dice que el ciclo ha terminado y se ofrecen los retos de verano de 4.º. El progreso del año anterior se conserva.
+- **Cambio de curso:** la primera vez que se abre la web en un año de curso nuevo, se pregunta por cada curso guardado si ha pasado al siguiente («¿Vuestro hijo o hija ha pasado a 2.º?»). El curso siguiente puede ser de otro ciclo: de 2.º se pasa a 3.º (de `1/matematicas/2` a `2/matematicas/3`) si el área está activa en ese ciclo. Si el curso siguiente no está en Germina (hoy, después de 4.º), se dice que el ciclo ha terminado y se ofrecen los retos de verano de ese curso. El progreso del año anterior se conserva.
 
 ### 4.3 Identificadores del currículo
 
@@ -101,7 +102,7 @@ Una semilla solo puede citar saberes cuyo `ciclos` incluya su ciclo y criterios 
 
 ### 4.4 La semilla
 
-Esquema: [config/esquemas/semilla.schema.json](../config/esquemas/semilla.schema.json). Ejemplo de referencia: [contenido/ciclo-2/matematicas/3/semana-07.json](../contenido/ciclo-2/matematicas/3/semana-07.json). Toda semilla nueva imita ese ejemplo en tono, longitud y estructura.
+Esquema: [config/esquemas/semilla.schema.json](../config/esquemas/semilla.schema.json). Ejemplo de referencia: [contenido/ciclo-2/matematicas/3/semana-07.json](../contenido/ciclo-2/matematicas/3/semana-07.json). Toda semilla nueva imita ese ejemplo en tono, longitud y estructura. En el 1.er ciclo imita la estructura y el tono, con las reglas propias de 4.5; la primera semilla de 1.º, una vez revisada por una persona, pasa a ser el ejemplo de ese ciclo.
 
 - **Coherencia con el mapa:** `titulo.es`, `tipo`, `saberes` y `criterios` coinciden con la entrada de esa semana en `mapa-semanas.json`. El reto desarrolla la idea de reto del mapa.
 - **Cinco preguntas, en este orden:** p1, p2 y p3 del tema de la semana (con «Invéntala tú»); p4 recupera una semana anterior (`recupera` < semana; en la semana 1, `recupera: 0` = curso anterior); p5 es «Explícamelo» (`rol: explicamelo`, respuesta abierta).
@@ -121,6 +122,22 @@ Esquema: [config/esquemas/semilla.schema.json](../config/esquemas/semilla.schema
 - Reparto equilibrado de niños y niñas y de familias diversas en los ejemplos (madre, padre, abuelas, una sola persona adulta…). Ver 5.3.
 - Juegos de rapidez (`reto.rapidez`): 1 a 3 minutos, sobre contenido ya trabajado, y lo que cuenta es acertar, no solo correr.
 
+#### 1.er ciclo (1.º y 2.º)
+
+Los niños y niñas de 6 a 8 años aún leen poco y escriben despacio, y en el 1.er ciclo el aula evalúa observando y escuchando, sin pruebas escritas (Decreto 106/2022, art. 26.6). Además de lo anterior:
+
+- **Lo lee una persona adulta en voz alta.** Las preguntas y pistas siguen hablando al niño o niña de tú, pero son cortas: la pregunta, como mucho dos frases y unas 25 palabras; la pista, una frase.
+- **La respuesta se dice, se señala o se hace con objetos**, nunca se escribe. Nada de «apunta» o «escribe» en las preguntas; en los retos, como mucho dibujar o hacer marcas (rayitas, flechas).
+- **Reto de 5 a 10 minutos**, con 3 o 4 pasos de una o dos frases cortas, cada uno con su pictograma. Material de casa y fácil de manejar con las manos.
+- **Material y dedos.** Contar con los dedos está bien y se dice así. Primero objetos (legumbres, pinzas, cucharas), luego dibujos y marcas y al final la operación: es el paso de lo manipulativo a lo numérico que pide el anexo III (CE5).
+- **Cuentos, canciones y juegos de tablero** como contexto (EEF, 2020), por ejemplo la oca o un recorrido de casillas iguales numeradas para «seguir contando».
+- **Números:** en 1.º, hasta el 99; en 2.º, hasta el 999. Suma y resta: en 1.º sin llevada y, en el tercer trimestre, con llevada; en 2.º, con llevada.
+- **Multiplicar y dividir, solo como iniciación** (el decreto habla de doble y mitad, suma reiterada, reparto y agrupación). En 1.º no aparecen `×` ni `:`: se dice doble, mitad, repartir y hacer grupos, y la operación es una suma o una resta. En 2.º aparece `×` como suma repetida (tablas del 2, del 5 y del 10, y la del 4 como doble de la del 2); `:` todavía no aparece y el reparto se cuenta.
+- **Medida:** primero con el cuerpo y con objetos (palmos, pasos, vasos); después metro, kilo y litro, sin pasar de una unidad a otra. **Dinero en euros enteros**, sin céntimos (`operacion` en euros). **Hora:** en punto y y media en 1.º; también y cuarto y menos cuarto en 2.º, en el reloj de agujas y con la forma de clase (8:30).
+- **Sin fracciones ni decimales:** en el 1.er ciclo no hay saberes de ese bloque que trabajar.
+- **Rapidez:** como arriba, pero de 1 minuto y mejor en equipo con la persona adulta que contra ella.
+- **p5, «Explícamelo»,** pesa más aquí: contar cómo lo ha hecho es un criterio del ciclo (`matematicas.c1.1.4`, `matematicas.c1.6.3`).
+
 ### 4.6 Pictogramas
 
 SVG propios en `src/assets/pictos/{nombre}.svg`, de un solo trazo, sin personas, que hereden `currentColor` y lleven `aria-hidden` (el texto del paso ya dice lo que muestran). La lista cerrada está en el esquema (`$defs.pictograma`). Añadir uno significa añadirlo al esquema y crear su SVG.
@@ -128,8 +145,8 @@ SVG propios en `src/assets/pictos/{nombre}.svg`, de un solo trazo, sin personas,
 ### 4.7 Otros archivos de contenido
 
 - `textos-interfaz.json`: `{ "clave": { "es": …, "va": …, "en": …, "fr": …, "ar": … } }`. Claves en español sin tildes (`boton.lo_hemos_jugado`).
-- `como-ayudar.json`: `ideas`, 5 a 7 ideas cortas (preguntar «¿cómo lo has pensado?», el error es parte de aprender, no resolverlo por el niño o niña, objetos y dibujos cuando se atasca, si no sale se da la pista y se sigue, no hace falta saber enseñar); `porque`, 3 a 8 párrafos sobre por qué Germina (qué es, que no sustituye al cole y que solo acompaña en familia lo que se trabaja en clase, en qué estudios se apoya y con qué cautelas); y `fuentes`. Mismo formato de texto.
-- `objetivos.json`: `entrada` (1 a 3 párrafos: quién fija el currículo y que el reparto entre 3.º y 4.º lo decide el centro), `cursos` (por curso y trimestre, 3 a 5 frases en lenguaje de familia), `bloques` (los bloques de saberes del ciclo, una frase cada uno) y `fuentes`.
+- `como-ayudar.json`: `ideas`, 5 a 8 ideas cortas (preguntar «¿cómo lo has pensado?», el error es parte de aprender, no resolverlo por el niño o niña, objetos y dibujos cuando se atasca, si no sale se da la pista y se sigue, no hace falta saber enseñar; con los más pequeños, contar con los dedos está bien y los cuentos y juegos de tablero también son matemáticas); `porque`, 3 a 8 párrafos sobre por qué Germina (qué es, que no sustituye al cole y que solo acompaña en familia lo que se trabaja en clase, en qué estudios se apoya y con qué cautelas); y `fuentes`. Mismo formato de texto.
+- `objetivos.json`: `entrada` (1 a 3 párrafos: quién fija el currículo y que el reparto entre los dos cursos del ciclo lo decide el centro), `cursos` (por curso y trimestre, 3 a 5 frases en lenguaje de familia), `bloques` (los bloques de saberes del ciclo, una frase cada uno) y `fuentes`.
 - `fuentes` (en los dos anteriores): `[{ "cita": …, "idioma": "en", "url": "https://…", "apoya": { "es": …, … } }]`. La cita va tal cual, en su idioma, y sin palabras de Germina; `apoya` dice en los cinco idiomas qué respalda. Solo fuentes que se puedan comprobar (DOI, BOE, DOGV, guía oficial), y en el texto no se afirma más de lo que dicen. Los enlaces son navegación que decide la persona, no peticiones del sitio (2), y van con `rel="noreferrer"`.
 - `glosario.json`: `[{ "es": "llevada", "va": …, "en": …, "fr": …, "ar": …, "nota": … }]`. Es el vocabulario de clase; las traducciones usan estas equivalencias.
 
@@ -309,8 +326,9 @@ No se añaden otras dependencias de ejecución sin justificarlo; cada una debe t
 7. Una traducción `revisada` tiene una huella que no coincide (en este caso es un **aviso**, no un error).
 8. Falta algún texto en algún idioma, o algún `{{…}}` está desequilibrado o difiere entre idiomas (las operaciones deben ser idénticas en los cinco).
 9. Un pictograma no tiene su SVG.
+10. Una semilla del 1.er ciclo se sale de lo que se puede comprobar de sus reglas (4.5): más de 10 minutos de reto, más de 4 pasos, un número mayor que 99 en 1.º o que 999 en 2.º dentro de `operacion` o de `{{…}}`, `×` en 1.º, `:` en cualquiera de los dos cursos o un número con coma decimal.
 
-También se ejecuta `node scripts/mapa-semanas.mjs`, que valida el mapa y genera `docs/mapa-semanas.md`.
+También se ejecuta `node scripts/mapa-semanas.mjs`, que valida el mapa de cada ciclo activo y genera `docs/mapa-semanas.md`, con un apartado por ciclo.
 
 ## 12. Cuándo está terminado
 
@@ -318,6 +336,6 @@ Una tarea está terminada cuando:
 
 - `npm run check` pasa: tipos, tests de unidad, validación, construcción, presupuesto de peso y tests de extremo a extremo.
 - Las funciones con lógica tienen tests de unidad: cálculo de la semana y del año de curso (incluido el cambio de año y los límites 41/42), «hoy» y fin de semana, rutas, lectura y escritura del almacenamiento, codificación y decodificación del enlace (ida y vuelta, código dañado, versión desconocida), combinación de progresos y evaluación de operaciones.
-- Los tests de extremo a extremo cubren, en móvil (375 × 812) y en `es` y `ar`: bienvenida → semana actual; marcar una pregunta y el reto y verlos en el jardín; ir a otra semana y volver; enviar el progreso y recibirlo en otro contexto del navegador; funcionar sin conexión tras la primera visita; y axe sin infracciones serias ni críticas en cada pantalla.
+- Los tests de extremo a extremo cubren, en móvil (375 × 812) y en `es` y `ar`: bienvenida → semana actual (con un curso de cada ciclo); el cambio de curso de 2.º a 3.º; marcar una pregunta y el reto y verlos en el jardín; ir a otra semana y volver; enviar el progreso y recibirlo en otro contexto del navegador; funcionar sin conexión tras la primera visita; y axe sin infracciones serias ni críticas en cada pantalla.
 - No hay peticiones a otros dominios (lo comprueba un test de extremo a extremo).
 - Ningún texto nuevo de interfaz falta en ningún idioma.

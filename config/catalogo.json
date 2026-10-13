@@ -10,7 +10,7 @@
     { "id": "lectura", "codigo": 6, "tiempoEspecifico": true, "nombre": { "es": "Tiempo de lectura", "va": "Temps de lectura", "en": "Reading time", "fr": "Temps de lecture", "ar": "وقت القراءة" } }
   ],
   "ciclos": [
-    { "ciclo": 1, "cursos": [1, 2], "areasActivas": [] },
+    { "ciclo": 1, "cursos": [1, 2], "areasActivas": ["matematicas"] },
     { "ciclo": 2, "cursos": [3, 4], "areasActivas": ["matematicas"] },
     { "ciclo": 3, "cursos": [5, 6], "areasActivas": [] }
   ],

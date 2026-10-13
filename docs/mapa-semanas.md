@@ -1,12 +1,218 @@
-# Mapa de semanas · Matemáticas · 2.º ciclo
+# Mapa de semanas · Matemáticas
 
-> Generado por `scripts/mapa-semanas.mjs` a partir de `contenido/ciclo-2/matematicas/mapa-semanas.json`. No editar a mano.
+> Generado por `scripts/mapa-semanas.mjs` a partir del `mapa-semanas.json` de cada ciclo. No editar a mano.
+
+Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récord. Saberes sin el prefijo `matematicas.` y criterios sin el prefijo `matematicas.cN.` de su ciclo, tal como están en `config/curriculo/matematicas.json`.
+
+## 1.er ciclo (1.º y 2.º)
+
+Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
+
+**Estado:** propuesta. Propuesta de Claude, pendiente de validar por el equipo de ciclo. El decreto asigna los saberes por ciclo; el reparto entre 1.º y 2.º es del centro. Sigue las reglas del 1.er ciclo de la especificación (4.5): números hasta 99 en 1.º y hasta 999 en 2.º, sin × en 1.º, sin : en el ciclo, euros enteros, y la hora en punto y y media en 1.º y también los cuartos en 2.º. Las semanas 16 y 17 suelen coincidir con Navidad y llevan propuestas ligeras de juego; Pascua cambia de semana cada año y no se tiene en cuenta.
+
+### 1.º trimestre (semanas 1–15)
+
+| Sem. | 1.º | 2.º |
+| :-: | --- | --- |
+| 1 | **¿Cuántos hay?**<br>Contar objetos hasta 20: el último número que se dice es cuántos hay | **Decenas y unidades**<br>Números hasta 99: decenas y unidades (lo que ya traen de 1.º) |
+| 2 | **Uno más, uno menos**<br>Los números hasta 20 en orden: el siguiente es uno más y el anterior, uno menos | **Sumar y restar decenas**<br>Sumar y restar sin llevada: decenas con decenas, unidades con unidades |
+| 3 | **Los amigos del 10**<br>Formar y descomponer números hasta 10 de muchas maneras | **¡Cien!**<br>La centena: números hasta 999 |
+| 4 | **Seguir contando**<br>Sumar como añadir: contar a partir del número en el que estamos | **Cada número en su sitio**<br>Comparar y ordenar números hasta 999 |
+| 5 | **¿Cuántos quedan?**<br>Restar como quitar, con números hasta 10 | **Sumar y llevarse una**<br>Sumar con llevada: diez unidades forman una decena |
+| 6 | **Semana de recordar: contar, sumar y quitar** ↺<br>Contar, uno más y uno menos, formar el 10, sumar y quitar | **Semana de recordar: números y sumas** ↺<br>Decenas, centenas, comparar y sumar |
+| 7 | **Paquetes de 10**<br>La decena: hacer grupos de 10 para contar mejor | **Abrir una decena**<br>Restar con llevada: cuando no llega, se abre una decena |
+| 8 | **Decenas y unidades**<br>Los números hasta 99: cuántas decenas y cuántas unidades | **Tres formas de restar**<br>La resta: quitar, comparar y ¿cuánto falta? |
+| 9 | **Pares y nones**<br>Par e impar: ¿se pueden hacer parejas sin que sobre ninguno? | **Cuenta atrás**<br>Contar hacia atrás de 1 en 1, de 10 en 10 y de 100 en 100 |
+| 10 | **Arriba, abajo, delante, detrás**<br>Orientarse: dónde está cada cosa respecto a otra | **¿Qué hora es?**<br>La hora en el reloj de agujas: en punto, y media, y cuarto y menos cuarto |
+| 11 | **¿Cuál es mayor?**<br>Comparar y ordenar números hasta 99: mayor, menor e igual | **Pares, nones y dobles**<br>Par e impar y los dobles de los números hasta 10 |
+| 12 | **Semana de recordar: decenas, parejas y sitios** ↺<br>Decenas y unidades, par e impar, orientarse y comparar | **Semana de recordar: restas, horas y dobles** ↺<br>Restar con llevada, cuenta atrás, la hora y los dobles |
+| 13 | **Parejas que suman 10** ⏱<br>Cálculo mental: las parejas de números que suman 10 | **Parejas del 10 y del 100** ⏱<br>Cálculo mental: parejas que suman 10 y decenas que suman 100 |
+| 14 | **Formas de casa**<br>Círculo, cuadrado, triángulo y rectángulo: lados y esquinas | **Monedas y billetes**<br>Pagar justo con monedas y billetes, en euros enteros |
+| 15 | **Palmos y pasos**<br>Medir con el cuerpo: más largo, más corto, ¿cuántos palmos? | **La vuelta**<br>¿Cuánto me devuelven? Contar hacia arriba desde el precio |
+
+### 2.º trimestre (semanas 16–28)
+
+| Sem. | 1.º | 2.º |
+| :-: | --- | --- |
+| 16 | **Semana de recordar: juegos en familia** ↺<br>Contar, sumar y quitar jugando | **Semana de recordar: juegos en familia** ↺<br>Sumar, restar y contar dinero jugando |
+| 17 | **Semana de recordar: cartas y dados** ↺ ⏱<br>Parejas del 10, comparar y par e impar con cartas | **Semana de recordar: cartas y dados** ↺ ⏱<br>Parejas del 10, dobles y comparar con cartas y dados |
+| 18 | **De 2 en 2, de 5 en 5**<br>Contar de 2 en 2, de 5 en 5 y de 10 en 10 | **Grupos iguales**<br>Grupos iguales: sumar el mismo número varias veces |
+| 19 | **El doble**<br>El doble: lo mismo otra vez | **El signo ×**<br>Multiplicar como suma repetida: la tabla del 2 |
+| 20 | **La mitad**<br>La mitad: repartir en dos partes iguales | **Tablas del 5 y del 10** ⏱<br>Las tablas del 5 y del 10: contar de 5 en 5 y de 10 en 10 |
+| 21 | **¿Cuánto falta?**<br>Completar hasta un número: contar hacia arriba | **Tabla del 4: doble del doble**<br>La tabla del 4 como el doble de la del 2 |
+| 22 | **Semana de recordar: dobles, mitades y cuánto falta** ↺<br>Contar de 2 en 2 y de 5 en 5, dobles, mitades y completar | **Semana de recordar: grupos y tablas** ↺<br>Grupos iguales y tablas del 2, 5, 10 y 4 |
+| 23 | **Grupos iguales**<br>Hacer grupos iguales y repartir entre varias personas | **Repartir a partes iguales**<br>Repartir: a cada uno lo mismo; a veces sobra algo |
+| 24 | **¿Qué viene después?**<br>Series y patrones con colores, formas y números | **¿De cuántas maneras?**<br>Combinaciones: con 2 camisetas y 3 pantalones, ¿cuántas maneras de vestirse? |
+| 25 | **El robot de casa**<br>Caminos con flechas: dar y seguir instrucciones en orden | **Escaleras de números**<br>Series de números y figuras que crecen |
+| 26 | **Monedas y billetes**<br>Los euros: monedas de 1 y 2 € y billetes de 5 y 10 € | **Dos pasos**<br>Problemas de dos pasos con sumas y restas |
+| 27 | **La hora en punto**<br>Días de la semana y la hora en punto y y media en el reloj de agujas | **Lados y esquinas**<br>Polígonos: lados y vértices; círculo y circunferencia |
+| 28 | **Preguntar y contar**<br>Hacer una pregunta a la familia, contar las respuestas y dibujarlas | **Barras de colores**<br>Encuestas, tablas de recuento y diagramas de barras |
+
+### 3.º trimestre (semanas 29–41)
+
+| Sem. | 1.º | 2.º |
+| :-: | --- | --- |
+| 29 | **Semana de recordar: grupos, caminos y monedas** ↺<br>Grupos iguales, patrones, caminos con flechas, euros y horas | **Semana de recordar: repartir y problemas** ↺<br>Repartir, combinaciones, series, dos pasos y formas |
+| 30 | **Llenar la decena**<br>Sumar pasando de la decena: completar el 10 y seguir | **¿Cuánto mide?**<br>Medir con palmos y pasos, y con el metro |
+| 31 | **Abrir un paquete**<br>Restar pasando de la decena: quitar más de las que hay sueltas | **Kilos y litros**<br>¿Cuánto pesa? ¿Cuánto cabe? El kilo y el litro |
+| 32 | **¿Cuántos más?**<br>Comparar dos cantidades: cuántos más tiene uno que otro | **El calendario**<br>Días, semanas y meses en el calendario |
+| 33 | **Pesa más, cabe más**<br>Comparar pesos y capacidades sin báscula | **El mapa del tesoro**<br>Orientarse y seguir caminos con flechas |
+| 34 | **Semana de recordar: sumas, restas y medidas** ↺ ⏱<br>Sumar y restar pasando de la decena, comparar y medir | **Semana de recordar: medidas, tiempo y caminos** ↺ ⏱<br>Metro, kilo y litro, calendario y caminos con flechas |
+| 35 | **Rectas y curvas**<br>Líneas rectas y curvas en casa y en la calle | **¿Qué número falta?**<br>Igualdades: averiguar el número que falta |
+| 36 | **Historias con números**<br>Problemas de una frase: qué se sabe y qué se pregunta | **¿Qué operación toca?**<br>Elegir la operación: juntar, quitar, comparar, grupos o repartir |
+| 37 | **Siempre, a veces, nunca**<br>Lo que pasa siempre, a veces o nunca | **¿Seguro, posible o imposible?**<br>Lo seguro, lo posible y lo imposible |
+| 38 | **Números por la calle**<br>Los números en la vida: portales, precios y calendario | **Más o menos cuántos**<br>Estimar cantidades y comprobarlo contando de 10 en 10 |
+| 39 | **Igual a cada lado**<br>La igualdad: lo mismo a un lado y al otro | **Dibujar con líneas**<br>Líneas rectas y curvas para dibujar y construir |
+| 40 | **Semana de recordar: todo el curso** ↺<br>Números hasta 99, sumar, restar, dobles, mitades y medidas | **Semana de recordar: todo el curso** ↺<br>Números hasta 999, sumar y restar con llevada, tablas, repartir y medidas |
+| 41 | **Juegos para pensar**<br>Juegos de estrategia: pensar la jugada antes de hacerla | **Juegos para pensar**<br>Juegos de estrategia: buscar una manera de ganar |
+
+### Verano
+
+| | 1.º (prepara 2.º) | 2.º (prepara el 2.º ciclo) |
+| :-: | --- | --- |
+| 1 | **Contar en la playa**<br>Contar y hacer grupos de 10 con lo que se encuentra | **Tablas de verano** ⏱<br>Tablas del 2, del 5 y del 10 |
+| 2 | **Números de la calle**<br>Leer y comparar números hasta 99 en la calle | **Números de tres cifras**<br>Leer y comparar números hasta 999 |
+| 3 | **Sumas de verano** ⏱<br>Parejas que suman 10 y sumas de cabeza | **Sumar y restar de cabeza**<br>Sumar y restar decenas y centenas de cabeza |
+| 4 | **El tesoro escondido**<br>Orientarse y dar instrucciones con flechas | **El tesoro escondido**<br>Planos y caminos con flechas |
+| 5 | **En el mercado**<br>Precios en euros enteros y pagar justo | **En el mercado**<br>Pagar y calcular la vuelta en euros enteros |
+| 6 | **Formas por la calle**<br>Buscar círculos, cuadrados, triángulos y rectángulos | **Formas y caminos**<br>Polígonos, líneas rectas y curvas |
+| 7 | **Collares con patrón**<br>Series y patrones | **El reloj del verano**<br>La hora y el calendario de las vacaciones |
+| 8 | **El picnic**<br>Repartir a partes iguales, dobles y mitades | **El picnic**<br>Repartir y hacer grupos iguales |
+| 9 | **Medir con el cuerpo**<br>Medir con pasos y palmos | **Encuesta de vacaciones**<br>Preguntar, contar y hacer barras |
+| 10 | **Historias con números**<br>Inventar problemas de sumar y quitar | **Juegos de estrategia**<br>Juegos de estrategia en familia |
+
+### Detalle de 1.º
+
+| Sem. | Saberes | Criterios | Tipos de problema | Idea de reto |
+| :-: | --- | --- | --- | --- |
+| 1 | numeros.recuento, numeros.usos-sociales | 7.1, 5.2 | comparar | La caza de números: buscar por casa grupos de 1 a 10 cosas iguales (3 cucharas, 5 pinzas…) y ponerlos en fila, del más pequeño al más grande. |
+| 2 | numeros.recta-comparar, numeros.estructura | 2.3, 5.1 | anadir, detraccion | La escalera de pinzas: colgar pinzas en una cuerda, de una en una, y decir cuántas hay al poner una más y al quitar una. |
+| 3 | numeros.estructura, operaciones.calculo-mental | 2.2, 5.1 | combinar | Diez legumbres y dos manos: esconder las 10 entre las dos manos, enseñar una y adivinar cuántas hay en la otra. |
+| 4 | operaciones.suma-resta, operaciones.igualdad | 1.2, 5.3 | anadir, combinar | La oca de casa: un camino de 20 casillas iguales y numeradas en el suelo, tirar un dado y avanzar contando desde la casilla en la que se está. |
+| 5 | operaciones.suma-resta, operaciones.frustracion | 1.2, 1.3 | detraccion | Bolos con botellas: 10 botellas de plástico de pie, lanzar una pelota y decir cuántas han caído y cuántas quedan de pie. |
+| 6 | numeros.recuento, numeros.estructura, operaciones.suma-resta | 2.4, 8.2 | anadir, detraccion<br>Recupera: 1, 2, 3, 4, 5 | Volvemos a la oca de casa y a los bolos, ahora con dos dados o con 12 botellas. |
+| 7 | numeros.decena, numeros.sistema-decimal | 5.1, 2.2 | combinar | Paquetes de palillos: atar palillos o pajitas de 10 en 10 con una goma y contar un montón grande por paquetes y sueltos. |
+| 8 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 5.1 | combinar | Vasos de 10: meter legumbres de 10 en 10 en vasos, dejar las sueltas al lado y decir el número que sale (3 vasos y 4 sueltas: 34). |
+| 9 | numeros.estructura, computacional.secuencias-figuras | 2.3, 2.1 | particion | Calcetines por parejas: sacar un puñado de calcetines o de pinzas, hacer parejas y ver si sobra uno. |
+| 10 | geometria.orientacion | 6.2, 3.1 | abierta | El juguete escondido: una persona esconde un juguete y da pistas (encima de, debajo de, detrás de, al lado de) hasta que lo encuentran. |
+| 11 | numeros.recta-comparar, operaciones.igualdad | 5.2, 2.4 | comparar | La cuerda de los números: una cuerda en el suelo y pinzas con números del 0 al 50 para colgar cada uno en su sitio. |
+| 12 | numeros.decena, numeros.sistema-decimal, numeros.estructura, geometria.orientacion | 2.4, 8.1 | combinar, comparar<br>Recupera: 7, 8, 9, 10, 11 | Los vasos de 10 con un tesoro: esconder un vaso y dar pistas de dónde está; quien lo encuentra dice el número. |
+| 13 | operaciones.calculo-mental, numeros.estructura | 2.4, 8.2 | combinar | Un minuto juntos: cartas del 1 al 9 boca arriba y buscar entre los dos todas las parejas que suman 10 antes de que acabe el minuto. |
+| 14 | geometria.poligonos, geometria.vertices-lados, geometria.circunferencia | 7.1, 5.2 | abierta | Caza de formas: buscar por casa cosas con forma de círculo, cuadrado, triángulo y rectángulo, y dibujar su silueta en un papel. |
+| 15 | medida.cuerpo, medida.no-convencionales | 3.2, 6.2 | medida | ¿Cuántos palmos mide la mesa? Medirla con el palmo de cada persona de la familia y hablar de por qué no sale lo mismo. |
+| 16 | operaciones.suma-resta, operaciones.calculo-mental, numeros.cooperativo | 7.1, 8.3 | anadir, combinar<br>Recupera: 3, 4, 5, 13 | Juegos de mesa de casa (oca, parchís, dominó): contar casillas y sumar los puntos de los dados. |
+| 17 | operaciones.calculo-mental, numeros.recta-comparar | 2.4, 8.2 | comparar, combinar<br>Recupera: 9, 11, 13 | Carta más alta: cada persona saca una carta y gana la mayor; luego, un minuto en equipo para formar parejas que sumen 10. |
+| 18 | computacional.secuencias-figuras, operaciones.calculo-mental, numeros.decena | 2.3, 4.2 | suma-repetida | Contar sin contar de uno en uno: zapatos de 2 en 2, dedos de las manos de 5 en 5 y paquetes de palillos de 10 en 10. |
+| 19 | operaciones.doble-mitad | 2.2, 5.1 | suma-repetida | El espejo: una persona pone unas legumbres en un plato y la otra pone las mismas en otro plato; ¿cuántas hay en total? |
+| 20 | operaciones.doble-mitad | 1.2, 5.3 | particion | Para ti y para mí: repartir galletas, uvas o legumbres entre dos platos, de una en una, y ver si sale igual o sobra una. |
+| 21 | operaciones.suma-resta, numeros.recta-comparar | 1.1, 1.2 | escala-ascendente, comparar | Torres iguales: hacer dos torres de piezas o tapones y averiguar cuántas faltan para que la pequeña sea igual de alta que la grande. |
+| 22 | operaciones.doble-mitad, operaciones.suma-resta | 2.4, 8.2 | suma-repetida, particion<br>Recupera: 18, 19, 20, 21 | El espejo y las torres otra vez, ahora con números hasta 20. |
+| 23 | operaciones.doble-mitad, operaciones.igualdad | 3.2, 5.1 | particion, suma-repetida | Repartir las cartas: repartir una baraja pequeña entre 2, 3 o 4 personas, de una en una, y ver si a todas les toca lo mismo. |
+| 24 | computacional.secuencias-figuras | 2.3, 4.2 | abierta | El collar de patrón: ensartar macarrones o poner pinzas siguiendo un patrón (rojo, rojo, azul…) y que la otra persona adivine qué viene después. |
+| 25 | computacional.secuencias-figuras, geometria.orientacion, computacional.cooperativo | 4.1, 6.3 | abierta | El robot de casa: con flechas de papel en el suelo, una persona programa un camino y la otra lo recorre paso a paso como un robot. |
+| 26 | medida.magnitudes, numeros.usos-sociales | 7.2, 5.2 | dinero | La tienda de juguetes: poner precio en euros enteros a unos juguetes y pagar con monedas de 1 y 2 € y billetes de 5 y 10 €. |
+| 27 | medida.magnitudes, medida.unidades | 7.1, 6.2 | tiempo | El reloj de plato: hacer un reloj con un plato de cartón y dos agujas, y poner la hora de comer, de bañarse y de dormir. |
+| 28 | datos.encuestas, datos.frecuencias, datos.representaciones, datos.interpretacion | 3.1, 5.3 | comparar | La encuesta de la fruta: preguntar a la familia qué fruta prefiere, dibujar una cara por cada respuesta y ver cuál gana. |
+| 29 | operaciones.doble-mitad, computacional.secuencias-figuras, medida.magnitudes | 2.4, 8.2 | particion, dinero<br>Recupera: 23, 24, 25, 26, 27, 28 | La tienda de juguetes otra vez, y con lo que sobra, repartir a partes iguales. |
+| 30 | operaciones.suma-resta, numeros.sistema-decimal | 5.1, 8.1 | anadir | Vasos de 10: para sumar 8 y 5, completar primero el vaso de 10 con legumbres y ver cuántas quedan sueltas. |
+| 31 | operaciones.suma-resta, operaciones.calculo-mental, operaciones.frustracion | 1.3, 8.4 | detraccion | Paquetes de palillos: para quitar 5 a 13 (un paquete y 3 sueltos), hay que soltar la goma del paquete. |
+| 32 | operaciones.suma-resta, numeros.recta-comparar | 1.1, 6.3 | comparar | Dos torres: hacer dos torres de piezas, ponerlas al lado y decir cuántas piezas más tiene la alta. |
+| 33 | medida.no-convencionales, medida.magnitudes | 3.3, 2.1 | medida | La balanza de percha: colgar dos bolsas de una percha, meter cosas en cada una y ver cuál baja; luego, contar cuántos vasos de agua caben en cada botella. |
+| 34 | operaciones.suma-resta, operaciones.calculo-mental, medida.no-convencionales | 2.4, 8.2 | anadir, detraccion<br>Recupera: 30, 31, 32, 33 | Un minuto en equipo: sacar dos cartas y decir juntos la suma; contar cuántas salen bien en un minuto. |
+| 35 | geometria.lineas, geometria.usos | 7.1, 5.1 | abierta | Caminos de cuerda: hacer en el suelo caminos rectos y curvos con una cuerda y recorrerlos con un coche de juguete. |
+| 36 | operaciones.suma-resta, fracciones.perseverancia | 1.1, 1.4 | combinar, detraccion | Cuentos con juguetes: inventar entre todos una historia con juguetes y números, y que quien escucha haga la pregunta. |
+| 37 | probabilidad.intuitiva, probabilidad.aleatorio, probabilidad.emociones | 3.4, 8.1 | abierta | La bolsa de pinzas: meter pinzas de dos colores en una bolsa, decir qué puede salir y sacar unas cuantas para ver qué pasa. |
+| 38 | numeros.usos-sociales, numeros.recta-comparar | 7.2, 7.3 | comparar | Paseo de números: buscar números en los portales y decir cuál será el siguiente y el anterior. |
+| 39 | operaciones.igualdad, computacional.igualdades | 2.2, 5.3 | combinar | La balanza de pinzas: poner 3 y 4 pinzas a un lado de una percha y averiguar cuántas hay que poner al otro para que quede recta. |
+| 40 | operaciones.suma-resta, numeros.sistema-decimal, operaciones.doble-mitad, medida.cooperativo | 2.4, 8.3 | combinar, detraccion<br>Recupera: 30, 31, 36, 38, 39 | La gran oca de la familia: un camino de 50 casillas con un reto de números en algunas casillas. |
+| 41 | computacional.juegos-estrategia, computacional.cooperativo | 4.4, 7.1 | abierta | Tres en raya con tapones: jugar varias partidas y hablar de qué casilla conviene ocupar primero. |
+| verano-01 | numeros.recuento, numeros.decena | 5.1, 7.1 | combinar | Conchas, piedras o palitos: recoger un montón, hacer grupos de 10 y decir cuántos hay. |
+| verano-02 | numeros.usos-sociales, numeros.recta-comparar | 7.2, 5.2 | comparar | Paseo de números: buscar números de portales y autobuses y decir cuál es mayor. |
+| verano-03 | operaciones.calculo-mental, numeros.estructura | 2.4, 8.2 | combinar | Un minuto en equipo con cartas: buscar parejas que sumen 10. ¿Mejoramos el récord del curso? |
+| verano-04 | geometria.orientacion, computacional.secuencias-figuras | 4.1, 6.2 | abierta | Esconder un tesoro y dibujar el camino con flechas para que otra persona lo encuentre. |
+| verano-05 | medida.magnitudes, numeros.usos-sociales | 7.2, 1.2 | dinero | En el mercado o la tienda: mirar precios en euros, elegir algo y decir con qué monedas y billetes se paga justo. |
+| verano-06 | geometria.poligonos, geometria.circunferencia | 7.1, 5.2 | abierta | Caza de formas por la calle: señales, ventanas, ruedas… y contar sus lados y esquinas. |
+| verano-07 | computacional.secuencias-figuras | 2.3, 4.2 | abierta | Collares o pulseras con patrón (con cuentas, macarrones o conchas) y adivinar qué viene después. |
+| verano-08 | operaciones.doble-mitad | 1.2, 5.3 | particion | Preparar un picnic y repartir la comida a partes iguales entre todas las personas. |
+| verano-09 | medida.cuerpo, medida.no-convencionales | 3.2, 6.2 | medida | ¿Cuántos pasos hay hasta la esquina? ¿Y cuántos palmos mide la toalla? Comparar los de cada persona. |
+| verano-10 | operaciones.suma-resta, fracciones.perseverancia | 1.4, 6.4 | combinar, detraccion | Cuentos de verano: inventar una historia con números de lo que ha pasado en el día y hacer la pregunta. |
+
+### Detalle de 2.º
+
+| Sem. | Saberes | Criterios | Tipos de problema | Idea de reto |
+| :-: | --- | --- | --- | --- |
+| 1 | numeros.sistema-decimal, numeros.usos-sociales | 5.1, 5.2 | combinar | Vasos de 10: meter legumbres de 10 en 10 en vasos, dejar las sueltas al lado y decir el número que sale. |
+| 2 | operaciones.suma-resta, operaciones.calculo-mental | 2.4, 1.2 | anadir, detraccion | La tienda de paquetes: paquetes de 10 palillos y sueltos; comprar y vender juntando y quitando paquetes y sueltos. |
+| 3 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 2.3 | combinar | Platos de 100: llenar 10 vasos de 10 legumbres, ponerlos en un plato y descubrir que en el plato hay 100. |
+| 4 | numeros.recta-comparar, operaciones.igualdad | 5.2, 2.4 | comparar | Cartas de cifras: sacar tres cartas del 0 al 9 y formar el número más grande y el más pequeño posibles. |
+| 5 | operaciones.suma-resta, numeros.sistema-decimal | 5.1, 2.4 | anadir, combinar | El banco de las legumbres: sumar con vasos de 10 y, cuando hay 10 sueltas, cambiarlas por un vaso. |
+| 6 | numeros.sistema-decimal, operaciones.suma-resta, numeros.recta-comparar | 2.4, 8.2 | combinar, anadir<br>Recupera: 1, 2, 3, 4, 5 | Al 100 con dados: tirar dos dados por turnos, sumar los puntos y ver quién llega antes a 100. |
+| 7 | operaciones.suma-resta, operaciones.frustracion | 5.1, 8.1 | detraccion | Paquetes de palillos: para quitar 7 a 32, soltar la goma de un paquete y contar las sueltas. |
+| 8 | operaciones.suma-resta | 1.1, 1.2 | detraccion, comparar, escala-ascendente | Torres de pinzas o piezas: quitar de una torre, comparar dos torres y ver cuánto le falta a la pequeña para igualar a la grande. |
+| 9 | operaciones.calculo-mental, computacional.secuencias-figuras | 2.3, 2.4 | escala-descendente, anadir | El cohete: cuenta atrás de 10 en 10 desde 100 para despegar, y después de 100 en 100 desde 900. |
+| 10 | medida.magnitudes, medida.unidades | 5.2, 7.1 | tiempo | El reloj de plato: hacer un reloj de cartón y poner las horas de un día de la familia, también las de y cuarto y menos cuarto. |
+| 11 | numeros.estructura, operaciones.doble-mitad | 2.3, 2.2 | suma-repetida | Dobles con dados: tirar un dado, decir el doble y comprobarlo poniendo legumbres en dos platos. |
+| 12 | operaciones.suma-resta, medida.magnitudes, operaciones.doble-mitad | 2.4, 8.1 | detraccion, tiempo, suma-repetida<br>Recupera: 7, 8, 9, 10, 11 | El reloj de plato y las torres otra vez: cada hora del reloj trae una resta para hacer con piezas. |
+| 13 | operaciones.calculo-mental, numeros.estructura | 2.4, 8.2 | combinar | Un minuto en equipo: cartas del 1 al 9 y buscar parejas que sumen 10; luego, con cartas de decenas, parejas que sumen 100. |
+| 14 | medida.magnitudes, numeros.usos-sociales | 7.2, 1.2 | dinero | La tienda: poner precio en euros enteros a unos juguetes y pagar justo con monedas de 1 y 2 € y billetes de 5, 10 y 20 €. |
+| 15 | operaciones.suma-resta, operaciones.calculo-mental | 1.3, 2.4 | escala-ascendente, dinero | La tienda con vuelta: pagar con un billete de 10 o de 20 € y dar la vuelta contando desde el precio hasta lo que se ha pagado. |
+| 16 | operaciones.suma-resta, operaciones.calculo-mental, numeros.cooperativo | 7.1, 8.3 | combinar, dinero<br>Recupera: 5, 8, 13, 14, 15 | Juegos de mesa de casa (oca, parchís, dominó): sumar los puntos de cada jugada y llevar la cuenta de la partida. |
+| 17 | operaciones.calculo-mental, operaciones.doble-mitad | 2.4, 8.2 | combinar, suma-repetida<br>Recupera: 9, 11, 13 | Un minuto en equipo: tirar un dado y decir el doble, o sacar una carta y decir cuánto le falta para 10. |
+| 18 | operaciones.doble-mitad, operaciones.igualdad | 5.1, 2.3 | suma-repetida | Hueveras y bandejas: contar huevos, yogures o galletas que vienen en grupos iguales sumando grupo a grupo. |
+| 19 | operaciones.doble-mitad, computacional.secuencias-figuras | 5.3, 2.3 | suma-repetida | Parejas de calcetines: 4 parejas son 2 + 2 + 2 + 2, es decir, 4 veces 2; contar calcetines y decirlo con el signo ×. |
+| 20 | operaciones.calculo-mental, computacional.secuencias-figuras | 2.3, 4.2 | suma-repetida | Manos y paquetes: contar dedos de manos de 5 en 5 y paquetes de palillos de 10 en 10; un minuto en equipo para decir la tabla del 5 en orden. |
+| 21 | operaciones.doble-mitad, operaciones.calculo-mental | 2.2, 2.4 | suma-repetida | Patas de mesas y sillas: contar patas de 4 en 4 y comprobar que es el doble de contar de 2 en 2. |
+| 22 | operaciones.doble-mitad, operaciones.calculo-mental | 2.4, 8.2 | suma-repetida<br>Recupera: 18, 19, 20, 21 | Bingo de tablas: cartones con resultados de las tablas del 2, 5 y 10 y una persona que canta multiplicaciones. |
+| 23 | operaciones.doble-mitad | 1.2, 5.1 | particion | Repartir la merienda: repartir galletas o uvas entre la familia, de una en una, y ver cuántas tocan a cada persona y cuántas sobran. |
+| 24 | operaciones.doble-mitad | 3.2, 1.2 | producto-cartesiano | El vestidor del peluche: recortar camisetas y pantalones de papel y buscar todas las maneras de combinarlos. |
+| 25 | computacional.secuencias-figuras, computacional.igualdades | 2.3, 4.2 | abierta | Escaleras de piezas: hacer escalones que crecen de 2 en 2 o de 5 en 5 y adivinar cuántas piezas tendrá el escalón siguiente. |
+| 26 | operaciones.suma-resta, fracciones.perseverancia | 1.2, 1.3, 8.2 | combinar, dinero | La compra de la semana: con 20 € de papel, comprar dos cosas de un folleto y ver cuánto queda. |
+| 27 | geometria.poligonos, geometria.vertices-lados, geometria.circunferencia | 5.2, 7.1 | abierta | Formas de palillos: hacer triángulos, cuadrados y otras formas con palillos y plastilina, y contar lados y vértices. |
+| 28 | datos.encuestas, datos.frecuencias, datos.barras, datos.interpretacion | 3.1, 5.3 | comparar | Torres de la encuesta: preguntar a la familia algo (juego, color, comida favorita) y hacer una torre de piezas por cada respuesta. |
+| 29 | operaciones.doble-mitad, fracciones.perseverancia, geometria.poligonos | 1.2, 8.2 | particion, combinar<br>Recupera: 23, 24, 25, 26, 27, 28 | Repartir la merienda otra vez, ahora con un problema de dos pasos: lo que se compra y lo que se reparte. |
+| 30 | medida.no-convencionales, medida.unidades, medida.cuerpo | 3.4, 5.1 | medida | Medir la habitación: primero en pasos y palmos, y después con una cinta métrica; ¿cuántos palmos tiene un metro? |
+| 31 | medida.magnitudes, medida.unidades | 3.2, 5.2 | medida | La despensa: buscar paquetes de un kilo y botellas de un litro, y comprobar con vasos cuántos caben en un litro. |
+| 32 | medida.magnitudes, numeros.usos-sociales | 7.1, 6.2 | tiempo | El calendario de la familia: buscar los cumpleaños y contar cuántas semanas faltan para el próximo. |
+| 33 | geometria.orientacion, computacional.secuencias-figuras | 4.1, 6.3 | abierta | El mapa del tesoro: dibujar un plano de casa, esconder algo y dibujar el camino con flechas para que otra persona lo encuentre. |
+| 34 | medida.unidades, medida.magnitudes, operaciones.calculo-mental | 2.4, 8.2 | medida, tiempo<br>Recupera: 30, 31, 32, 33 | Un minuto en equipo: decir juntos los días de la semana y los meses en orden, hacia delante y hacia atrás; luego, el mapa del tesoro en la calle. |
+| 35 | operaciones.igualdad, computacional.igualdades | 2.2, 5.3 | combinar, escala-ascendente | La balanza de percha: poner pinzas a un lado y a otro y averiguar cuántas faltan para que quede recta. |
+| 36 | operaciones.suma-resta, operaciones.doble-mitad, fracciones.perseverancia | 1.1, 1.4, 6.3 | combinar, detraccion, suma-repetida, particion | Historias con juguetes: inventar problemas con juguetes y decir, sin calcular, si hay que juntar, quitar, comparar, hacer grupos o repartir. |
+| 37 | probabilidad.intuitiva, probabilidad.aleatorio, probabilidad.emociones | 3.4, 8.1 | abierta | La bolsa misteriosa: meter pinzas de colores en una bolsa, decir si es seguro, posible o imposible sacar cada color y comprobarlo. |
+| 38 | operaciones.calculo-mental, numeros.sistema-decimal | 3.4, 1.3 | comparar | El tarro de legumbres: cada persona dice cuántas cree que hay y luego se cuentan haciendo grupos de 10. |
+| 39 | geometria.lineas, geometria.usos | 7.3, 5.1 | abierta | Arte de líneas: hacer un dibujo solo con líneas rectas (con regla) y otro solo con curvas (con cuerda o tapas). |
+| 40 | operaciones.suma-resta, operaciones.doble-mitad, numeros.sistema-decimal, medida.cooperativo | 2.4, 8.3 | combinar, particion, medida<br>Recupera: 7, 15, 26, 30, 35, 36 | La gran tienda de la familia: un mercado con precios en euros, bolsas de un kilo y botellas de un litro. |
+| 41 | computacional.juegos-estrategia, computacional.cooperativo | 4.4, 8.3 | abierta | El último palillo: 15 palillos en la mesa, cada persona coge 1, 2 o 3 por turno y quien coge el último pierde; ¿hay una manera de ganar siempre? |
+| verano-01 | operaciones.calculo-mental, operaciones.doble-mitad | 2.4, 8.2 | suma-repetida | Un minuto en equipo diciendo la tabla del 2, del 5 o del 10, en la playa, el parque o la terraza. ¿Mejoramos el récord del curso? |
+| verano-02 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 7.2 | comparar | Paseo de números: buscar números de tres cifras (portales, matrículas, precios) y decir cuál es mayor. |
+| verano-03 | operaciones.calculo-mental, operaciones.suma-resta | 2.4, 1.2 | anadir, detraccion | Al 100 con dados en la playa o la terraza, sumando o quitando lo que sale. |
+| verano-04 | geometria.orientacion, computacional.secuencias-figuras | 4.1, 6.3 | abierta | Dibujar el plano del parque o de la casa del pueblo y esconder un tesoro con instrucciones de flechas. |
+| verano-05 | medida.magnitudes, operaciones.suma-resta | 1.3, 7.2 | dinero, escala-ascendente | En el mercado: pagar con un billete y adivinar la vuelta antes de que nos la den. |
+| verano-06 | geometria.poligonos, geometria.lineas | 5.2, 7.1 | abierta | Dibujar en la arena o con tiza formas de 3, 4, 5 y 6 lados y caminos rectos y curvos. |
+| verano-07 | medida.magnitudes, medida.unidades | 7.1, 5.2 | tiempo | Dibujar a qué hora pasan las cosas de un día de verano y contar en el calendario cuántos días faltan para volver al cole. |
+| verano-08 | operaciones.doble-mitad | 1.2, 5.1 | particion, suma-repetida | Preparar un picnic: repartir la comida a partes iguales y contar lo que hay por grupos. |
+| verano-09 | datos.encuestas, datos.barras | 3.1, 5.3 | comparar | Preguntar a la familia y a las amistades qué les gusta más del verano y hacer barras con piedras o piezas. |
+| verano-10 | computacional.juegos-estrategia, computacional.cooperativo | 4.4, 8.3 | abierta | El último palillo, el tres en raya o las damas en familia: buscar una manera de ganar. |
+
+### Saberes del ciclo que no aparecen en el mapa
+
+Son sobre todo saberes de actitud, historia o herramientas digitales, que encajan mejor en «Cómo ayudar» o en el aula que en un reto en casa.
+
+- `operaciones.genero`: Contribución de la humanidad al desarrollo numérico incorporando la perspectiva de género
+- `fracciones.utilidad`: Valoración de situaciones en las que es útil el uso de fracciones y decimales
+- `medida.historia`: Contribución de la humanidad a la unificación de sistemas de medida y magnitudes, y valoración de sus usos sociales y científicos
+- `geometria.programas`: Programas informáticos de geometría dinámica
+- `geometria.estrategias`: Estrategias de aprendizaje de conceptos geométricos y aceptación de dificultades
+- `datos.historia`: Contribución de la humanidad al desarrollo y evolución de la estadística, incorporando la perspectiva de género
+- `datos.respeto`: Respeto, sensibilidad y tolerancia ante diferentes interpretaciones sobre resultados estadísticos
+- `computacional.historia`: Valoración de la evolución del pensamiento computacional y su repercusión social, incorporando la perspectiva de género
+
+## 2.º ciclo (3.º y 4.º)
+
+Fuente: `contenido/ciclo-2/matematicas/mapa-semanas.json`.
 
 **Estado:** propuesta. Propuesta de Claude, pendiente de validar por el equipo de ciclo. El decreto asigna los saberes por ciclo; el reparto entre 3.º y 4.º es del centro. Las semanas 16 y 17 suelen coincidir con Navidad y llevan propuestas ligeras de juego; Pascua cambia de semana cada año y no se tiene en cuenta.
 
-Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récord. Saberes y criterios sin el prefijo `matematicas.` (criterios: `matematicas.c2.`), tal como están en `config/curriculo/matematicas.json`.
-
-## 1.º trimestre (semanas 1–15)
+### 1.º trimestre (semanas 1–15)
 
 | Sem. | 3.º | 4.º |
 | :-: | --- | --- |
@@ -26,7 +232,7 @@ Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récor
 | 14 | **Tabla del 5**<br>Tabla del 5 y el reloj: de 5 en 5 | **¿Cuánto saldrá, más o menos?**<br>Estimar productos y comprobar si el resultado es razonable |
 | 15 | **La tienda**<br>Euros y céntimos: pagar y dar la vuelta | **Con 20 € en el súper**<br>Presupuesto y vuelta con euros y céntimos |
 
-## 2.º trimestre (semanas 16–28)
+### 2.º trimestre (semanas 16–28)
 
 | Sem. | 3.º | 4.º |
 | :-: | --- | --- |
@@ -44,7 +250,7 @@ Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récor
 | 27 | **Formas y bordes**<br>Polígonos: lados, vértices y perímetro | **Bordes y superficies**<br>Perímetro y área contando cuadrados; ángulos rectos |
 | 28 | **Preguntar y contar**<br>Encuesta familiar y gráfico de barras | **Lo que cuentan los datos**<br>Gráfico de barras, moda y rango |
 
-## 3.º trimestre (semanas 29–41)
+### 3.º trimestre (semanas 29–41)
 
 | Sem. | 3.º | 4.º |
 | :-: | --- | --- |
@@ -62,7 +268,7 @@ Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récor
 | 40 | **Semana de recordar: todo el curso** ↺<br>Todo el curso: números, operaciones, medida y fracciones | **Semana de recordar: todo el curso** ↺<br>Todo el curso: números grandes, operaciones, decimales y medida |
 | 41 | **Juegos para pensar**<br>Juegos de estrategia sin azar | **Juegos para pensar**<br>Estrategias ganadoras en juegos sin azar |
 
-## Verano
+### Verano
 
 | | 3.º (prepara 4.º) | 4.º (prepara el 3.er ciclo) |
 | :-: | --- | --- |
@@ -77,7 +283,7 @@ Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récor
 | 9 | **El reloj del verano**<br>Horarios y duraciones | **Lo normal**<br>La media aritmética |
 | 10 | **Historias con números**<br>Inventar problemas | **El robot de casa**<br>Algoritmos con instrucciones |
 
-## Detalle de 3.º
+### Detalle de 3.º
 
 | Sem. | Saberes | Criterios | Tipos de problema | Idea de reto |
 | :-: | --- | --- | --- | --- |
@@ -133,7 +339,7 @@ Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récor
 | verano-09 | medida.magnitudes, medida.unidades | 3.2, 5.2 | tiempo | Apuntar a qué hora sale y se pone el sol tres días seguidos: ¿cuánto dura el día? |
 | verano-10 | fracciones.perseverancia, operaciones.suma-resta, operaciones.producto-cociente | 1.4, 6.2 | abierta | Inventar un problema sobre un viaje o una excursión del verano y que lo resuelva otra persona de casa. |
 
-## Detalle de 4.º
+### Detalle de 4.º
 
 | Sem. | Saberes | Criterios | Tipos de problema | Idea de reto |
 | :-: | --- | --- | --- | --- |
@@ -189,7 +395,7 @@ Leyenda: ↺ semana de recordar · ⏱ juego de rapidez con cronómetro y récor
 | verano-09 | datos.medidas-centrales, datos.frecuencias | 3.2, 6.3 | abierta | Apuntar cuántos minutos se lee cada día durante una semana y repartir el total a partes iguales entre los días: eso es la media. |
 | verano-10 | computacional.algoritmos, computacional.cooperativo | 4.1, 6.2 | abierta | Una persona hace de robot y la otra le da instrucciones exactas para dibujar una figura o llegar a la cocina. |
 
-## Saberes del ciclo que no aparecen en el mapa
+### Saberes del ciclo que no aparecen en el mapa
 
 Son sobre todo saberes de actitud, historia o herramientas digitales, que encajan mejor en «Cómo ayudar» o en el aula que en un reto en casa.
 

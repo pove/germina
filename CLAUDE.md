@@ -1,6 +1,6 @@
 # Germina
 
-Web estática (PWA) para que las familias de 3.º y 4.º de Primaria acompañen las Matemáticas en casa: cada semana, una **semilla** con un reto sin pantalla y una pregunta diaria; lo jugado forma su **jardín**. Cinco idiomas (es, va, en, fr, ar). Sin datos personales.
+Web estática (PWA) para que las familias de 1.º a 4.º de Primaria acompañen las Matemáticas en casa: cada semana, una **semilla** con un reto sin pantalla y una pregunta diaria; lo jugado forma su **jardín**. Cinco idiomas (es, va, en, fr, ar). Sin datos personales.
 
 - **Qué construir:** [docs/especificacion.md](docs/especificacion.md). Manda sobre todo lo demás.
 - **En qué orden:** [docs/tareas.md](docs/tareas.md). Trabaja una etapa cada vez y marca sus casillas al terminar.
@@ -15,7 +15,7 @@ Web estática (PWA) para que las familias de 3.º y 4.º de Primaria acompañen 
 5. **Árabe de derecha a izquierda:** `dir="rtl"` en `<html>`, CSS con propiedades lógicas, nunca `left`/`right` para maquetar.
 6. **Sin castigo:** sin rachas, rankings, puntos ni notificaciones. El jardín no tiene plantas secas.
 7. **Identificadores del currículo completos:** `matematicas.numeros.sistema-decimal`, `matematicas.c2.5.1`. Una semilla solo cita saberes y criterios de su ciclo.
-8. **El contenido manda en el mapa:** cada semilla coincide con su semana en `contenido/ciclo-2/matematicas/mapa-semanas.json` (título en español, tipo, saberes, criterios). Si crees que el mapa está mal, dilo; no lo cambies por tu cuenta.
+8. **El contenido manda en el mapa:** cada semilla coincide con su semana en el mapa de su ciclo, `contenido/ciclo-N/matematicas/mapa-semanas.json` (título en español, tipo, saberes, criterios). Si crees que el mapa está mal, dilo; no lo cambies por tu cuenta.
 9. **Dependencias:** solo las de la especificación (apartado 10). Para añadir otra, hay que justificarla, con licencia compatible con MIT y sin peticiones de red.
 10. **Accesibilidad:** WCAG 2.1 AA, objetivos táctiles de 44 px o más y botones con texto.
 

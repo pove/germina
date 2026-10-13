@@ -1,4 +1,4 @@
-// Cambio de curso en septiembre: «¿Vuestro hijo o hija ha pasado a 4.º?» por cada curso guardado.
+// Cambio de curso en septiembre: «¿Vuestro hijo o hija ha pasado a 2.º?» por cada curso guardado (de 2.º se pasa a 3.º, en el ciclo siguiente).
 import catalogoJson from '../../config/catalogo.json';
 import { useState } from 'preact/hooks';
 import { irA } from '../enrutador';

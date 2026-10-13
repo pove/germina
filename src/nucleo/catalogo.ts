@@ -20,9 +20,12 @@ export function nombreDeArea(area: string, idioma: Idioma, catalogo: Catalogo): 
   return a ? a.nombre[idioma] || a.nombre.es : area;
 }
 
-/** El curso siguiente dentro del mismo ciclo y área, si existe (3.º → 4.º). */
+/**
+ * El curso siguiente en la misma área, si está en Germina: dentro del ciclo (1.º → 2.º)
+ * o en el ciclo siguiente si el área está activa en él (2.º → 3.º). Después de 4.º, hoy, `null`.
+ */
 export function cursoSiguiente(curso: Curso, catalogo: Catalogo): Curso | null {
-  const ciclo = catalogo.ciclos.find((c) => c.ciclo === curso.ciclo);
-  if (!ciclo?.cursos.includes(curso.curso + 1)) return null;
-  return { ...curso, curso: curso.curso + 1 };
+  if (!catalogo.ciclos.some((c) => c.ciclo === curso.ciclo && c.cursos.includes(curso.curso))) return null;
+  const destino = catalogo.ciclos.find((c) => c.cursos.includes(curso.curso + 1) && c.areasActivas.includes(curso.area));
+  return destino ? { ciclo: destino.ciclo, area: curso.area, curso: curso.curso + 1 } : null;
 }
