@@ -196,7 +196,7 @@
       },
       "inventala": {
         "es": "Inventa tú otra para comparar dos cosas de tu casa.",
-        "va": "Inventa'n tu una altra per a comparar dues coses de ta casa.",
+        "va": "Inventa'n tu una altra per a comparar dues coses de casa.",
         "en": "Make up another one to compare two things at home.",
         "fr": "Invente-en une autre pour comparer deux choses de ta maison.",
         "ar": "لنخترع سؤالًا آخر نقارن فيه شيئين في البيت."
@@ -254,11 +254,11 @@
         "ar": "لنتذكّر: عند فاطمة 48 خرزة لعقد، وأعطتها خالتها 25 خرزة. كم خرزة عندها الآن؟"
       },
       "pista": {
-        "es": "8 y 5 son 13: con 10 de ellas haces una decena más.",
-        "va": "8 i 5 són 13: amb 10 d'elles fas una desena més.",
-        "en": "8 and 5 make 13: with 10 of them you make one more ten.",
-        "fr": "8 et 5, ça fait 13 : avec 10 d'entre elles, tu fais une dizaine de plus.",
-        "ar": "8 و5 تساوي 13: بعشرة منها نكوّن عشرة إضافية."
+        "es": "8 y 5 son 13 unidades: con 10 haces una decena más.",
+        "va": "8 i 5 són 13 unitats: amb 10 en fas una desena més.",
+        "en": "8 and 5 make 13 ones: with 10 of them you make one more ten.",
+        "fr": "8 et 5, ça fait 13 unités : avec 10 d'entre elles, tu fais une dizaine de plus.",
+        "ar": "8 آحاد و5 آحاد تساوي 13: بعشرة منها نكوّن عشرة إضافية."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -302,10 +302,10 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Basta con que note que en una se quita y en la otra se miran dos cosas. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
-          "va": "N'hi ha prou que note que en una es lleva i en l'altra es miren dues coses. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
-          "en": "It's enough if they notice that in one something is taken away and in the other two things are looked at. Listen, ask “And then?” and say thank you for the explanation.",
-          "fr": "Il suffit qu'il ou elle remarque que dans l'une on enlève et dans l'autre on regarde deux choses. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
+          "es": "Basta con que note que en una se quita y en la otra se comparan dos cosas. Escuchad, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "N'hi ha prou que note que en una es lleva i en l'altra es comparen dues coses. Escolteu, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "en": "It's enough if they notice that in one you take something away and in the other you compare two things. Listen, ask “And then?” and say thank you for the explanation.",
+          "fr": "Il suffit qu'il ou elle remarque que dans l'une on enlève et dans l'autre on compare deux choses. Écoutez, demandez « Et après ? » et dites merci pour l'explication.",
           "ar": "يكفي أن يُلاحَظ أن في الأولى نزعًا وفي الثانية مقارنة بين شيئين. استمعوا، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
         }
       }
@@ -318,19 +318,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "8856386f6747"
+        "huella": "db8a204857da"
       },
       "en": {
         "estado": "automatica",
-        "huella": "8856386f6747"
+        "huella": "db8a204857da"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "8856386f6747"
+        "huella": "db8a204857da"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "8856386f6747"
+        "huella": "db8a204857da"
       }
     }
   }

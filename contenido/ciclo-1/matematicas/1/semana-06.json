@@ -186,7 +186,7 @@
       "pista": {
         "es": "Levanta 7 dedos y cuenta los que faltan para llegar a 10.",
         "va": "Alça 7 dits i compta els que falten per a arribar a 10.",
-        "en": "Hold up 7 fingers and count on until you get to 10.",
+        "en": "Hold up 7 fingers and count how many more it takes to get to 10.",
         "fr": "Lève 7 doigts et compte ceux qui manquent pour arriver à 10.",
         "ar": "لنرفع 7 أصابع ونعدّ كم ينقص للوصول إلى 10."
       },
@@ -258,7 +258,7 @@
       "texto": {
         "es": "Para recordar: en la oca estás en la casilla 13 y sacas un 5. ¿A qué casilla llegas?",
         "va": "Per a recordar: en l'oca estàs en la casella 13 i trus un 5. A quina casella arribes?",
-        "en": "Let's remember: in the Goose game you're on square 13 and roll a 5. Which square do you land on?",
+        "en": "Let's remember: in the Game of the Goose you're on square 13 and roll a 5. Which square do you land on?",
         "fr": "Pour se souvenir : au jeu de l'oie, tu es sur la case 13 et tu fais 5. Sur quelle case arrives-tu ?",
         "ar": "لنتذكّر: في لعبة الإوزّة نحن على الخانة 13 وظهر لنا 5. إلى أي خانة نصل؟"
       },

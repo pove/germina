@@ -17,7 +17,7 @@
     "es": "Esta semana descubren la decena: hacen paquetes de 10 para contar montones grandes, primero los paquetes, «diez, veinte, treinta», y luego los sueltos.",
     "va": "Aquesta setmana descobrixen la desena (decena): fan paquets de 10 per a comptar munts grans, primer els paquets, «deu, vint, trenta», i després els solts.",
     "en": "This week they discover the ten (decena): they make bundles of 10 to count big piles, first the bundles, “ten, twenty, thirty”, and then the loose ones.",
-    "fr": "Cette semaine, on découvre la dizaine (decena) : on fait des paquets de 10 pour compter de gros tas, d'abord les paquets, « dix, vingt, trente », puis ceux qui restent seuls.",
+    "fr": "Cette semaine, on découvre la dizaine (decena) : on fait des paquets de 10 pour compter de gros tas, d'abord les paquets, « dix, vingt, trente », puis ceux qui restent tout seuls.",
     "ar": "هذا الأسبوع يكتشف الأطفال العشرة (decena): يصنعون رزمًا من 10 ليعدّوا كومات كبيرة، الرزم أولًا، «عشرة، عشرون، ثلاثون»، ثم الأشياء المفردة."
   },
   "comoAyudar": {
@@ -87,7 +87,7 @@
           "es": "Contad los paquetes de 10 en 10, «diez, veinte, treinta», y luego seguid con las sueltas, de una en una.",
           "va": "Compteu els paquets de 10 en 10, «deu, vint, trenta», i després continueu amb les soltes, d'una en una.",
           "en": "Count the bundles in tens, “ten, twenty, thirty”, and then carry on with the loose ones, one by one.",
-          "fr": "Comptez les paquets de 10 en 10, « dix, vingt, trente », puis continuez avec les pailles seules, une par une.",
+          "fr": "Comptez les paquets de 10 en 10, « dix, vingt, trente », puis continuez avec les pailles toutes seules, une par une.",
           "ar": "عدّوا الرزم عشرة عشرة، «عشرة، عشرون، ثلاثون»، ثم أكملوا بالمصّاصات المفردة واحدة واحدة."
         }
       },
@@ -113,7 +113,7 @@
       "es": "Una persona dice un número, como 34, y la otra lo prepara con paquetes y sueltas.",
       "va": "Una persona diu un nombre, com ara 34, i l'altra el prepara amb paquets i soltes.",
       "en": "One person says a number, like 34, and the other makes it with bundles and loose straws.",
-      "fr": "Une personne dit un nombre, comme 34, et l'autre le prépare avec des paquets et des pailles seules.",
+      "fr": "Une personne dit un nombre, comme 34, et l'autre le prépare avec des paquets et des pailles toutes seules.",
       "ar": "يقول أحدنا عددًا، مثل 34، ويكوّنه الآخر برزم ومصّاصات مفردة."
     },
     "paraQueSirve": {
@@ -140,14 +140,14 @@
         "es": "Iker tiene 2 paquetes de 10 pajitas y 3 pajitas sueltas. ¿Cuántas pajitas tiene?",
         "va": "Iker té 2 paquets de 10 palletes i 3 palletes soltes. Quantes palletes té?",
         "en": "Iker has 2 bundles of 10 straws and 3 loose straws. How many straws does he have?",
-        "fr": "Iker a 2 paquets de 10 pailles et 3 pailles seules. Combien de pailles a-t-il ?",
+        "fr": "Iker a 2 paquets de 10 pailles et 3 pailles toutes seules. Combien de pailles a-t-il ?",
         "ar": "عند إيكر رزمتان من 10 مصّاصات و3 مصّاصات مفردة. كم مصّاصة عنده؟"
       },
       "pista": {
         "es": "Cuenta los paquetes, «diez, veinte», y sigue con las sueltas.",
         "va": "Compta els paquets, «deu, vint», i continua amb les soltes.",
         "en": "Count the bundles, “ten, twenty”, and carry on with the loose ones.",
-        "fr": "Compte les paquets, « dix, vingt », et continue avec les pailles seules.",
+        "fr": "Compte les paquets, « dix, vingt », et continue avec les pailles toutes seules.",
         "ar": "لنعدّ الرزم، «عشرة، عشرون»، ثم نكمل بالمفردة."
       },
       "respuesta": {
@@ -167,7 +167,7 @@
         "es": "Ahora inventa tú una con paquetes de 10 y algunas sueltas.",
         "va": "Ara inventa'n tu una amb paquets de 10 i algunes soltes.",
         "en": "Now you make one up with bundles of 10 and some loose ones.",
-        "fr": "Maintenant, invente une question avec des paquets de 10 et quelques objets seuls.",
+        "fr": "Maintenant, invente une question avec des paquets de 10 et quelques objets tout seuls.",
         "ar": "والآن لنخترع سؤالًا برزم من 10 وبعض الأشياء المفردة."
       }
     },
@@ -176,17 +176,17 @@
       "rol": "tema",
       "tipoProblema": "combinar",
       "texto": {
-        "es": "En cada huevera caben 10 huevos. Si hay 2 hueveras llenas, ¿cuántos huevos hay?",
-        "va": "En cada ouera hi caben 10 ous. Si hi ha 2 oueres plenes, quants ous hi ha?",
-        "en": "Each egg box holds 10 eggs. If there are 2 full egg boxes, how many eggs are there?",
-        "fr": "Chaque boîte à œufs contient 10 œufs. S'il y a 2 boîtes pleines, combien d'œufs y a-t-il ?",
-        "ar": "تتّسع كل علبة بيض لـ10 بيضات. إذا كانت هناك علبتان ممتلئتان، كم بيضة يوجد؟"
+        "es": "Un paquete de pañuelos trae 10. Si hay 2 paquetes, ¿cuántos pañuelos hay?",
+        "va": "Un paquet de mocadors de paper en porta 10. Si hi ha 2 paquets, quants mocadors hi ha?",
+        "en": "A packet of tissues has 10 in it. If there are 2 packets, how many tissues are there?",
+        "fr": "Un paquet de mouchoirs en contient 10. S'il y a 2 paquets, combien de mouchoirs y a-t-il ?",
+        "ar": "في كل علبة مناديل 10 مناديل. إذا كانت هناك علبتان، كم منديلًا يوجد؟"
       },
       "pista": {
-        "es": "Cada huevera es una decena: cuenta «diez, veinte».",
-        "va": "Cada ouera és una desena: compta «deu, vint».",
-        "en": "Each egg box is a ten: count “ten, twenty”.",
-        "fr": "Chaque boîte est une dizaine : compte « dix, vingt ».",
+        "es": "Cada paquete es una decena: cuenta «diez, veinte».",
+        "va": "Cada paquet és una desena: compta «deu, vint».",
+        "en": "Each packet is a ten: count “ten, twenty”.",
+        "fr": "Chaque paquet est une dizaine : compte « dix, vingt ».",
         "ar": "كل علبة عشرة: لنعدّ «عشرة، عشرون»."
       },
       "respuesta": {
@@ -195,11 +195,11 @@
         "resultado": 20,
         "unidad": "unidades",
         "texto": {
-          "es": "Hay 20 huevos: {{10 + 10 = 20}}.",
-          "va": "Hi ha 20 ous: {{10 + 10 = 20}}.",
-          "en": "There are 20 eggs: {{10 + 10 = 20}}.",
-          "fr": "Il y a 20 œufs : {{10 + 10 = 20}}.",
-          "ar": "يوجد 20 بيضة: {{10 + 10 = 20}}."
+          "es": "Hay 20 pañuelos: {{10 + 10 = 20}}.",
+          "va": "Hi ha 20 mocadors: {{10 + 10 = 20}}.",
+          "en": "There are 20 tissues: {{10 + 10 = 20}}.",
+          "fr": "Il y a 20 mouchoirs : {{10 + 10 = 20}}.",
+          "ar": "يوجد 20 منديلًا: {{10 + 10 = 20}}."
         }
       },
       "inventala": {
@@ -218,7 +218,7 @@
         "es": "Sara tiene 14 lápices y hace un paquete de 10. ¿Cuántos lápices le quedan sueltos?",
         "va": "Sara té 14 llapis i en fa un paquet de 10. Quants llapis li queden solts?",
         "en": "Sara has 14 pencils and makes a bundle of 10. How many pencils are left loose?",
-        "fr": "Sara a 14 crayons et en fait un paquet de 10. Combien de crayons lui restent seuls ?",
+        "fr": "Sara a 14 crayons et en fait un paquet de 10. Combien de crayons lui restent tout seuls ?",
         "ar": "عند سارة 14 قلمًا وصنعت منها رزمة من 10. كم قلمًا بقي مفردًا؟"
       },
       "pista": {
@@ -237,7 +237,7 @@
           "es": "Le quedan 4 sueltos: 14 es un paquete de 10 y 4 más.",
           "va": "Li'n queden 4 de solts: 14 és un paquet de 10 i 4 més.",
           "en": "4 are left loose: 14 is one bundle of 10 and 4 more.",
-          "fr": "Il lui en reste 4 seuls : 14, c'est un paquet de 10 et 4 de plus.",
+          "fr": "Il lui en reste 4 tout seuls : 14, c'est un paquet de 10 et 4 de plus.",
           "ar": "بقيت 4 أقلام مفردة: 14 هي رزمة من 10 و4 أخرى."
         }
       },
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "837c7f5b56c7"
+        "huella": "b1483f44f635"
       },
       "en": {
         "estado": "automatica",
-        "huella": "837c7f5b56c7"
+        "huella": "b1483f44f635"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "837c7f5b56c7"
+        "huella": "b1483f44f635"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "837c7f5b56c7"
+        "huella": "b1483f44f635"
       }
     }
   }

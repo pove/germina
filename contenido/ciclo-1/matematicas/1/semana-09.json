@@ -133,7 +133,7 @@
         "es": "Lucía tiene 8 calcetines sueltos. ¿Puede hacer parejas sin que sobre ninguno?",
         "va": "Lucía té 8 calcetins solts. Pot fer parelles sense que en sobre cap?",
         "en": "Lucía has 8 loose socks. Can she make pairs without any left over?",
-        "fr": "Lucía a 8 chaussettes dépareillées. Peut-elle faire des paires sans qu'il en reste ?",
+        "fr": "Lucía a 8 chaussettes en vrac. Peut-elle faire des paires sans qu'il en reste ?",
         "ar": "عند لوسيا 8 جوارب متفرّقة. هل تستطيع تكوين أزواج من دون أن يبقى أيّ جورب؟"
       },
       "pista": {
@@ -206,7 +206,7 @@
     {
       "id": "p3",
       "rol": "tema",
-      "tipoProblema": "anadir",
+      "tipoProblema": "suma-repetida",
       "texto": {
         "es": "Cuenta saltando de dos en dos, como una rana: 2, 4, 6, 8… ¿Qué número viene después?",
         "va": "Compta botant de dos en dos, com una granota: 2, 4, 6, 8… Quin nombre ve després?",
@@ -223,7 +223,7 @@
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "8 + 2",
+        "operacion": "2 + 2 + 2 + 2 + 2",
         "resultado": 10,
         "unidad": "unidades",
         "texto": {
@@ -251,14 +251,14 @@
         "es": "Para recordar: tienes 2 paquetes de 10 palillos y 3 palillos sueltos. ¿Cuántos palillos tienes?",
         "va": "Per a recordar: tens 2 paquets de 10 escuradents i 3 escuradents solts. Quants escuradents tens?",
         "en": "Let's remember: you have 2 bundles of 10 sticks and 3 loose sticks. How many sticks do you have?",
-        "fr": "Pour se souvenir : tu as 2 paquets de 10 bâtonnets et 3 bâtonnets seuls. Combien de bâtonnets as-tu ?",
+        "fr": "Pour se souvenir : tu as 2 paquets de 10 bâtonnets et 3 bâtonnets tout seuls. Combien de bâtonnets as-tu ?",
         "ar": "لنتذكّر: عندنا حزمتان في كل منهما 10 أعواد، و3 أعواد منفردة. كم عودًا عندنا؟"
       },
       "pista": {
         "es": "Cuenta los paquetes de diez en diez y luego sigue con los sueltos.",
         "va": "Compta els paquets de deu en deu i després continua amb els solts.",
         "en": "Count the bundles in tens and then carry on with the loose ones.",
-        "fr": "Compte les paquets de dix en dix, puis continue avec ceux qui sont seuls.",
+        "fr": "Compte les paquets de dix en dix, puis continue avec ceux qui sont tout seuls.",
         "ar": "لنعدّ الحزم عشرة عشرة، ثم نكمل بالأعواد المنفردة."
       },
       "respuesta": {
@@ -279,7 +279,7 @@
         "va": "Inventa'n tu una altra amb més paquets de 10.",
         "en": "Make up another one with more bundles of 10.",
         "fr": "Invente-en une autre avec plus de paquets de 10.",
-        "ar": "لنخترع سؤالًا آخر بحزم أكثر من 10."
+        "ar": "لنخترع سؤالًا آخر بعدد أكبر من حزم العشرة."
       }
     },
     {

@@ -113,7 +113,7 @@
       "es": "Quitad paquetes y sueltos a la vez, como {{43 − 17}}: primero abrid un paquete y luego quitad.",
       "va": "Lleveu paquets i solts alhora, com ara {{43 − 17}}: primer obriu un paquet i després lleveu.",
       "en": "Take away bundles and loose sticks at the same time, like {{43 − 17}}: first open a bundle and then take away.",
-      "fr": "Enlevez des paquets et des bâtonnets seuls en même temps, comme {{43 − 17}} : ouvrez d'abord un paquet, puis enlevez.",
+      "fr": "Enlevez des paquets et des bâtonnets tout seuls en même temps, comme {{43 − 17}} : ouvrez d'abord un paquet, puis enlevez.",
       "ar": "انزعوا حزمًا وعيدانًا منفردة معًا، مثل {{43 − 17}}: افتحوا حزمة أولًا ثم انزعوا."
     },
     "paraQueSirve": {
@@ -262,11 +262,11 @@
         "ar": "لنتذكّر: عند يوسف 27 صورة، وأخذ 15 صورة أخرى. كم صورة عنده الآن؟"
       },
       "pista": {
-        "es": "7 y 5 son 12: con 10 de ellas haces una decena más.",
-        "va": "7 i 5 són 12: amb 10 d'ells fas una desena més.",
-        "en": "7 and 5 make 12: with 10 of them you make one more ten.",
-        "fr": "7 et 5, ça fait 12 : avec 10 d'entre elles, tu fais une dizaine de plus.",
-        "ar": "7 و5 تساوي 12: بعشرة منها نكوّن عشرة إضافية."
+        "es": "7 y 5 son 12 unidades: con 10 haces una decena más.",
+        "va": "7 i 5 són 12 unitats: amb 10 en fas una desena més.",
+        "en": "7 and 5 make 12 ones: with 10 of them you make one more ten.",
+        "fr": "7 et 5, ça fait 12 unités : avec 10 d'entre elles, tu fais une dizaine de plus.",
+        "ar": "7 آحاد و5 آحاد تساوي 12: بعشرة منها نكوّن عشرة إضافية."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "43f4248e275c"
+        "huella": "d7acb6d69cfb"
       },
       "en": {
         "estado": "automatica",
-        "huella": "43f4248e275c"
+        "huella": "d7acb6d69cfb"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "43f4248e275c"
+        "huella": "d7acb6d69cfb"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "43f4248e275c"
+        "huella": "d7acb6d69cfb"
       }
     }
   }

@@ -162,7 +162,7 @@
         "va": "En la fila, Wei va davant de Sara i darrere d'Ion. Qui va el primer?",
         "en": "In the line, Wei is in front of Sara and behind Ion. Who is first?",
         "fr": "Dans le rang, Wei est devant Sara et derrière Ion. Qui est le premier ?",
-        "ar": "في الصف، وي أمام سارة وخلف يون. من الأول؟"
+        "ar": "في الصف، وي أمام سارة وخلف إيون. من الأول؟"
       },
       "pista": {
         "es": "Haz la fila con tres juguetes y ponles nombre.",
@@ -174,16 +174,16 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Ion va el primero, luego Wei y al final Sara. Si cuesta, moved los juguetes hasta que la fila cuadre con las dos pistas.",
-          "va": "Ion va el primer, després Wei i al final Sara. Si costa, moveu els joguets fins que la fila quadre amb les dues pistes.",
-          "en": "Ion is first, then Wei and last Sara. If it's tricky, move the toys until the line matches both clues.",
-          "fr": "Ion est le premier, puis Wei et enfin Sara. Si c'est difficile, déplacez les jouets jusqu'à ce que le rang corresponde aux deux indices.",
-          "ar": "يون هو الأول، ثم وي، وفي الآخر سارة. إذا صعُب الأمر، حرّكوا الألعاب حتى يوافق الصف التلميحين."
+          "es": "Ion va el primero, luego Wei y al final Sara. Si cuesta, moved los juguetes hasta que la fila cuadre con los dos datos.",
+          "va": "Ion va el primer, després Wei i al final Sara. Si costa, moveu els joguets fins que la fila quadre amb les dues dades.",
+          "en": "Ion is first, then Wei and last Sara. If it's tricky, move the toys until the line matches both facts.",
+          "fr": "Ion est le premier, puis Wei et enfin Sara. Si c'est difficile, déplacez les jouets jusqu'à ce que le rang corresponde aux deux informations.",
+          "ar": "إيون هو الأول، ثم وي، وفي الآخر سارة. إذا صعُب الأمر، حرّكوا الألعاب حتى يوافق الصف المعطيين."
         }
       },
       "inventala": {
         "es": "Inventa tú otra fila con las personas de tu casa.",
-        "va": "Inventa tu una altra fila amb les persones de ta casa.",
+        "va": "Inventa tu una altra fila amb les persones de casa.",
         "en": "Make up another line with the people in your home.",
         "fr": "Invente un autre rang avec les personnes de ta maison.",
         "ar": "لنخترع صفًا آخر بأفراد البيت."
@@ -218,11 +218,11 @@
         }
       },
       "inventala": {
-        "es": "Inventa tú otra con dos juguetes: uno encima y otro debajo.",
-        "va": "Inventa'n tu una altra amb dos joguets: un damunt i un altre davall.",
-        "en": "Make up another one with two toys: one on top and one under.",
-        "fr": "Invente-en une autre avec deux jouets : un dessus et un dessous.",
-        "ar": "لنخترع سؤالًا آخر بلعبتين: واحدة فوق وأخرى تحت."
+        "es": "Inventa tú otra con dos juguetes: uno delante y otro detrás.",
+        "va": "Inventa'n tu una altra amb dos joguets: un davant i un altre darrere.",
+        "en": "Make up another one with two toys: one in front and one behind.",
+        "fr": "Invente-en une autre avec deux jouets : un devant et un derrière.",
+        "ar": "لنخترع سؤالًا آخر بلعبتين: واحدة أمام وأخرى خلف."
       }
     },
     {
@@ -277,10 +277,10 @@
         "ar": "لنشرح كيف نذهب من السرير إلى باب الغرفة، بكلمات مثل أمام وبجانب وخلف."
       },
       "pista": {
-        "es": "Si no sabe por dónde empezar: «Haz tú el camino y ve diciendo lo que pasas».",
+        "es": "Si no sabe por dónde empezar: «Haz tú el camino y ve diciendo por dónde pasas».",
         "va": "Si no sap per on començar: «Fes tu el camí i ves dient per on passes».",
-        "en": "If they don't know where to start: “Walk the way yourself and say what you go past”.",
-        "fr": "S'il ou elle ne sait pas par où commencer : « Fais toi-même le chemin et dis ce que tu dépasses ».",
+        "en": "If they don't know where to start: “Walk the way yourself and say where you go”.",
+        "fr": "S'il ou elle ne sait pas par où commencer : « Fais toi-même le chemin et dis par où tu passes ».",
         "ar": "إذا صعُبت البداية، قولوا: «لنمشِ الطريق ونقول ما نمرّ به»."
       },
       "respuesta": {
@@ -302,19 +302,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "9964abe1a909"
+        "huella": "fa2c4af1444c"
       },
       "en": {
         "estado": "automatica",
-        "huella": "9964abe1a909"
+        "huella": "fa2c4af1444c"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "9964abe1a909"
+        "huella": "fa2c4af1444c"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "9964abe1a909"
+        "huella": "fa2c4af1444c"
       }
     }
   }

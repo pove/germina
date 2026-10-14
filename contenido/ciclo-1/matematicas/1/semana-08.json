@@ -17,7 +17,7 @@
     "es": "Esta semana ven que los números hasta 99 se forman con decenas y unidades: 3 vasos de 10 y 4 sueltas son 34. También comparan qué número es mayor mirando las decenas.",
     "va": "Aquesta setmana veuen que els nombres fins a 99 es formen amb desenes (decenas) i unitats (unidades): 3 gots de 10 i 4 soltes són 34. També comparen quin nombre és major (mayor) mirant les desenes.",
     "en": "This week they see that numbers up to 99 are made of tens (decenas) and ones (unidades): 3 cups of 10 and 4 loose ones make 34. They also compare which number is greater (mayor) by looking at the tens.",
-    "fr": "Cette semaine, on voit que les nombres jusqu'à 99 se forment avec des dizaines (decenas) et des unités (unidades) : 3 verres de 10 et 4 seuls, ça fait 34. On compare aussi quel nombre est le plus grand (mayor) en regardant les dizaines.",
+    "fr": "Cette semaine, on voit que les nombres jusqu'à 99 se forment avec des dizaines (decenas) et des unités (unidades) : 3 verres de 10 et 4 tout seuls, ça fait 34. On compare aussi quel nombre est le plus grand (mayor) en regardant les dizaines.",
     "ar": "هذا الأسبوع يرى الأطفال أن الأعداد حتى 99 تتكوّن من عشرات (decenas) وآحاد (unidades): 3 أكواب فيها 10 و4 مفردة تساوي 34. ويقارنون أيضًا أي عدد أكبر (mayor) بالنظر إلى العشرات."
   },
   "comoAyudar": {
@@ -87,7 +87,7 @@
           "es": "Decid el número que sale: 3 vasos y 4 sueltas son 34.",
           "va": "Digueu el nombre que ix: 3 gots i 4 solts són 34.",
           "en": "Say the number you get: 3 cups and 4 loose ones make 34.",
-          "fr": "Dites le nombre obtenu : 3 verres et 4 seuls, ça fait 34.",
+          "fr": "Dites le nombre obtenu : 3 verres et 4 tout seuls, ça fait 34.",
           "ar": "قولوا العدد الذي يظهر: 3 أكواب و4 مفردة تساوي 34."
         }
       },
@@ -113,7 +113,7 @@
       "es": "Una persona dice un número, como 56, y la otra lo prepara con vasos y sueltas.",
       "va": "Una persona diu un nombre, com ara 56, i l'altra el prepara amb gots i solts.",
       "en": "One person says a number, like 56, and the other makes it with cups and loose beans.",
-      "fr": "Une personne dit un nombre, comme 56, et l'autre le prépare avec des verres et des légumes secs seuls.",
+      "fr": "Une personne dit un nombre, comme 56, et l'autre le prépare avec des verres et des légumes secs tout seuls.",
       "ar": "يقول أحدنا عددًا، مثل 56، ويكوّنه الآخر بأكواب وحبّات مفردة."
     },
     "paraQueSirve": {
@@ -140,14 +140,14 @@
         "es": "Hay 4 vasos con 10 garbanzos cada uno y 5 garbanzos sueltos. ¿Cuántos garbanzos hay?",
         "va": "Hi ha 4 gots amb 10 cigrons cada un i 5 cigrons solts. Quants cigrons hi ha?",
         "en": "There are 4 cups with 10 chickpeas in each and 5 loose chickpeas. How many chickpeas are there?",
-        "fr": "Il y a 4 verres avec 10 pois chiches chacun et 5 pois chiches seuls. Combien de pois chiches y a-t-il ?",
+        "fr": "Il y a 4 verres avec 10 pois chiches chacun et 5 pois chiches tout seuls. Combien de pois chiches y a-t-il ?",
         "ar": "هناك 4 أكواب في كل منها 10 حبّات حمّص، و5 حبّات مفردة. كم حبّة حمّص يوجد؟"
       },
       "pista": {
         "es": "Cuenta los vasos de 10 en 10 y luego sigue con los sueltos.",
         "va": "Compta els gots de 10 en 10 i després continua amb els solts.",
         "en": "Count the cups in tens and then carry on with the loose ones.",
-        "fr": "Compte les verres de 10 en 10, puis continue avec ceux qui sont seuls.",
+        "fr": "Compte les verres de 10 en 10, puis continue avec ceux qui sont tout seuls.",
         "ar": "لنعدّ الأكواب عشرة عشرة، ثم نكمل بالحبّات المفردة."
       },
       "respuesta": {
@@ -167,7 +167,7 @@
         "es": "Ahora inventa tú una con vasos de 10 y algunas sueltas.",
         "va": "Ara inventa'n tu una amb gots de 10 i alguns solts.",
         "en": "Now you make one up with cups of 10 and a few loose ones.",
-        "fr": "Maintenant, invente une question avec des verres de 10 et quelques objets seuls.",
+        "fr": "Maintenant, invente une question avec des verres de 10 et quelques objets tout seuls.",
         "ar": "والآن لنخترع سؤالًا بأكواب من 10 وبعض الحبّات المفردة."
       }
     },
@@ -218,7 +218,7 @@
         "es": "Lucía tiene 3 paquetes de 10 cromos. Wei tiene 2 paquetes de 10 y 9 sueltos. ¿Quién tiene más?",
         "va": "Lucía té 3 paquets de 10 cromos. Wei té 2 paquets de 10 i 9 solts. Qui en té més?",
         "en": "Lucía has 3 bundles of 10 stickers. Wei has 2 bundles of 10 and 9 loose ones. Who has more?",
-        "fr": "Lucía a 3 paquets de 10 images. Wei a 2 paquets de 10 et 9 images seules. Qui en a le plus ?",
+        "fr": "Lucía a 3 paquets de 10 images. Wei a 2 paquets de 10 et 9 images toutes seules. Qui en a le plus ?",
         "ar": "عند لوسيا 3 رزم من 10 بطاقات صور. وعند وي رزمتان من 10 و9 بطاقات مفردة. من عنده أكثر؟"
       },
       "pista": {
@@ -245,7 +245,7 @@
         "es": "Inventa tú una para ver quién tiene más, con paquetes y sueltos.",
         "va": "Inventa'n tu una per a veure qui en té més, amb paquets i solts.",
         "en": "Make one up to see who has more, with bundles and loose ones.",
-        "fr": "Invente une question pour voir qui en a le plus, avec des paquets et des objets seuls.",
+        "fr": "Invente une question pour voir qui en a le plus, avec des paquets et des objets tout seuls.",
         "ar": "لنخترع سؤالًا لنعرف من عنده أكثر، برزم وأشياء مفردة."
       }
     },
@@ -313,7 +313,7 @@
           "es": "Puede usar vasos, paquetes, dedos o dibujos. Lo importante es que diga «4 de 10 y 7 sueltos» a su manera. Preguntad «¿cómo lo sabes?».",
           "va": "Pot fer servir gots, paquets, dits o dibuixos. L'important és que diga «4 de 10 i 7 solts» a la seua manera. Pregunteu «com ho saps?».",
           "en": "They can use cups, bundles, fingers or drawings. What matters is that they say “4 tens and 7 loose ones” in their own way. Ask “How do you know?”",
-          "fr": "Il ou elle peut utiliser des verres, des paquets, ses doigts ou des dessins. L'important, c'est de dire « 4 de 10 et 7 seuls » à sa façon. Demandez « Comment tu le sais ? »",
+          "fr": "Il ou elle peut utiliser des verres, des paquets, ses doigts ou des dessins. L'important, c'est de dire « 4 de 10 et 7 tout seuls » à sa façon. Demandez « Comment tu le sais ? »",
           "ar": "يمكن استعمال الأكواب أو الرزم أو الأصابع أو الرسوم. المهم أن يُقال «4 من 10 و7 مفردة» بطريقة خاصة. اسألوا «كيف عرفنا؟»."
         }
       }

@@ -248,9 +248,9 @@
       "recupera": 8,
       "tipoProblema": "escala-ascendente",
       "texto": {
-        "es": "Para recordar: la torre de Fátima tiene 15 piezas y la de Pablo, 9. ¿Cuántas le faltan a la de Pablo para ser igual de alta?",
-        "va": "Per a recordar: la torre de Fátima té 15 peces i la de Pablo, 9. Quantes li'n falten a la de Pablo per a ser igual d'alta?",
-        "en": "Let's remember: Fátima's tower has 15 blocks and Pablo's has 9. How many blocks is Pablo's tower missing to be just as tall?",
+        "es": "Para recordar: la torre de Fátima tiene 15 piezas y la de Pablo, 9. ¿Cuántas le faltan a la de Pablo para igualarla?",
+        "va": "Per a recordar: la torre de Fátima té 15 peces i la de Pablo, 9. Quantes li'n falten a la de Pablo per a igualar-la?",
+        "en": "Let's remember: Fátima's tower has 15 blocks and Pablo's has 9. How many more blocks would make Pablo's tower just as tall?",
         "fr": "Pour se souvenir : la tour de Fátima a 15 pièces et celle de Pablo, 9. Combien en manque-t-il à celle de Pablo pour être aussi haute ?",
         "ar": "لنتذكّر: برج فاطمة فيه 15 قطعة وبرج بابلو فيه 9. كم قطعة تنقص برج بابلو ليصبح بالطول نفسه؟"
       },
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "5481f4890cc7"
+        "huella": "9dca0ce4efb6"
       },
       "en": {
         "estado": "automatica",
-        "huella": "5481f4890cc7"
+        "huella": "9dca0ce4efb6"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "5481f4890cc7"
+        "huella": "9dca0ce4efb6"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "5481f4890cc7"
+        "huella": "9dca0ce4efb6"
       }
     }
   }
