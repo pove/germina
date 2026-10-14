@@ -21,6 +21,7 @@
           "matematicas.c1.5.2"
         ],
         "tiposProblema": [
+          "combinar",
           "comparar"
         ],
         "reto": "La caza de números: buscar por casa grupos de 1 a 10 cosas iguales (3 cucharas, 5 pinzas…) y ponerlos en fila, del más pequeño al más grande."
@@ -881,7 +882,8 @@
           "matematicas.c1.5.2"
         ],
         "tiposProblema": [
-          "combinar"
+          "combinar",
+          "escala-ascendente"
         ],
         "reto": "Vasos de 10: meter legumbres de 10 en 10 en vasos, dejar las sueltas al lado y decir el número que sale."
       },
@@ -920,7 +922,8 @@
           "matematicas.c1.2.3"
         ],
         "tiposProblema": [
-          "combinar"
+          "combinar",
+          "anadir"
         ],
         "reto": "Platos de 100: llenar 10 vasos de 10 legumbres, ponerlos en un plato y descubrir que en el plato hay 100."
       },
@@ -939,7 +942,8 @@
           "matematicas.c1.2.4"
         ],
         "tiposProblema": [
-          "comparar"
+          "comparar",
+          "combinar"
         ],
         "reto": "Cartas de cifras: sacar tres cartas del 0 al 9 y formar el número más grande y el más pequeño posibles."
       },

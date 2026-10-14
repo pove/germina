@@ -229,7 +229,7 @@
         "ar": "في صحن بسكويتتان وفي صحن آخر 7. كم بسكويتة يوجد في المجموع؟ ومن أي عدد من الأفضل أن نبدأ العدّ؟"
       },
       "pista": {
-        "es": "Empieza por el 7 y cuenta 2 más.",
+        "es": "¿Y si empiezas por el 7 y cuentas 2 más?",
         "va": "Mira de començar pel 7 i comptar-ne 2 més.",
         "en": "Try starting at 7 and counting 2 more.",
         "fr": "Essaie de commencer par 7 et de compter 2 de plus.",
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "c31617920aa8"
+        "huella": "3fe40df72c18"
       },
       "en": {
         "estado": "automatica",
-        "huella": "c31617920aa8"
+        "huella": "3fe40df72c18"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "c31617920aa8"
+        "huella": "3fe40df72c18"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "c31617920aa8"
+        "huella": "3fe40df72c18"
       }
     }
   }
