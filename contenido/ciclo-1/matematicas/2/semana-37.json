@@ -212,14 +212,14 @@
       "texto": {
         "es": "Tiras un dado normal. ¿Es posible sacar un 4? ¿Y un 9?",
         "va": "Tires un dau normal. És possible traure un 4? I un 9?",
-        "en": "You roll an ordinary dice. Is it possible to get a 4? And a 9?",
+        "en": "You roll an ordinary die. Is it possible to get a 4? And a 9?",
         "fr": "Tu lances un dé normal. Est-ce possible de faire 4 ? Et 9 ?",
         "ar": "نرمي نردًا عاديًا. هل من الممكن أن نحصل على 4؟ وعلى 9؟"
       },
       "pista": {
         "es": "Mira qué números tiene el dado en sus caras.",
         "va": "Mira quins nombres té el dau en les seues cares.",
-        "en": "Look at which numbers the dice has on its faces.",
+        "en": "Look at which numbers the die has on its faces.",
         "fr": "Regarde quels nombres il y a sur les faces du dé.",
         "ar": "لننظر إلى الأعداد على وجوه النرد."
       },
@@ -228,7 +228,7 @@
         "orientacion": {
           "es": "Sacar un 4 es posible. Sacar un 9 es imposible, porque el dado va del 1 al 6.",
           "va": "Traure un 4 és possible. Traure un 9 és impossible, perquè el dau va de l'1 al 6.",
-          "en": "Getting a 4 is possible. Getting a 9 is impossible, because the dice goes from 1 to 6.",
+          "en": "Getting a 4 is possible. Getting a 9 is impossible, because the die goes from 1 to 6.",
           "fr": "Faire 4, c'est possible. Faire 9, c'est impossible, parce que le dé va de 1 à 6.",
           "ar": "الحصول على 4 ممكن. والحصول على 9 مستحيل، لأن النرد من 1 إلى 6."
         }
@@ -236,7 +236,7 @@
       "inventala": {
         "es": "Inventa tú otra pregunta con el dado: algo seguro, algo posible o algo imposible.",
         "va": "Inventa tu una altra pregunta amb el dau: una cosa segura, una cosa possible o una cosa impossible.",
-        "en": "Make up another question with the dice: something certain, possible or impossible.",
+        "en": "Make up another question with the die: something certain, possible or impossible.",
         "fr": "Invente une autre question avec le dé : quelque chose de certain, de possible ou d'impossible.",
         "ar": "لنخترع سؤالًا آخر بالنرد: شيء مؤكّد، أو ممكن، أو مستحيل."
       }

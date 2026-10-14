@@ -56,7 +56,7 @@
       {
         "es": "Un dado",
         "va": "Un dau",
-        "en": "A dice",
+        "en": "A die",
         "fr": "Un dé",
         "ar": "حجر نرد"
       },
@@ -222,7 +222,7 @@
     {
       "id": "p3",
       "rol": "tema",
-      "tipoProblema": "combinar",
+      "tipoProblema": "suma-repetida",
       "texto": {
         "es": "El abuelo de Iker pone 6 fresas en su plato y el doble en el de Iker. ¿Cuántas fresas tiene Iker?",
         "va": "L'avi d'Iker posa 6 maduixes en el seu plat i el doble en el d'Iker. Quantes maduixes té Iker?",
@@ -264,7 +264,7 @@
       "recupera": 39,
       "tipoProblema": "combinar",
       "texto": {
-        "es": "Para recordar: una percha tiene 6 pinzas en un lado y 2 en el otro. ¿Cuántas más pones junto a las 2 para que quede recta?",
+        "es": "Para recordar: una percha tiene 6 pinzas en un lado y 2 en el otro. ¿Cuántas pones junto a las 2 para que quede recta?",
         "va": "Per a recordar: una perxa té 6 pinces en un costat i 2 en l'altre. Quantes més en poses al costat de les 2 perquè quede recta?",
         "en": "Let's remember: a hanger has 6 pegs on one side and 2 on the other. How many more do you put next to the 2 so it's level?",
         "fr": "Pour se souvenir : un cintre a 6 pinces d'un côté et 2 de l'autre. Combien en ajoutes-tu à côté des 2 pour qu'il soit droit ?",
@@ -320,7 +320,7 @@
         "tipo": "abierta",
         "orientacion": {
           "es": "Escuchad sin prisa. Si os enseña un juego, jugadlo con sus reglas: explicarlo es otra forma de entenderlo.",
-          "va": "Escolteu sense pressa. Si us ensenya un joc, jugueu-lo amb les seues regles: explicar-lo és una altra manera d'entendre'l.",
+          "va": "Escolteu sense pressa. Si vos ensenya un joc, jugueu-lo amb les seues regles: explicar-lo és una altra manera d'entendre'l.",
           "en": "Listen without rushing. If they show you a game, play it by their rules: explaining it is another way of understanding it.",
           "fr": "Écoutez sans vous presser. Si votre enfant vous montre un jeu, jouez-y avec ses règles : l'expliquer, c'est une autre façon de le comprendre.",
           "ar": "استمعوا من دون استعجال. وإذا عُرضت عليكم لعبة، فالعبوها بقواعدها: شرحها طريقة أخرى لفهمها."
@@ -335,19 +335,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "dd03ab3878de"
+        "huella": "04212e95c5e0"
       },
       "en": {
         "estado": "automatica",
-        "huella": "dd03ab3878de"
+        "huella": "04212e95c5e0"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "dd03ab3878de"
+        "huella": "04212e95c5e0"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "dd03ab3878de"
+        "huella": "04212e95c5e0"
       }
     }
   }
