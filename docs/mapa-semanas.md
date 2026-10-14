@@ -90,10 +90,10 @@ Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
 | 3 | numeros.estructura, operaciones.calculo-mental | 2.2, 5.1 | combinar | Diez legumbres y dos manos: esconder las 10 entre las dos manos, enseñar una y adivinar cuántas hay en la otra. |
 | 4 | operaciones.suma-resta, operaciones.igualdad | 1.2, 5.3 | anadir, combinar | La oca de casa: un camino de 20 casillas iguales y numeradas en el suelo, tirar un dado y avanzar contando desde la casilla en la que se está. |
 | 5 | operaciones.suma-resta, operaciones.frustracion | 1.2, 1.3 | detraccion | Bolos con botellas: 10 botellas de plástico de pie, lanzar una pelota y decir cuántas han caído y cuántas quedan de pie. |
-| 6 | numeros.recuento, numeros.estructura, operaciones.suma-resta | 2.4, 8.2 | anadir, detraccion<br>Recupera: 1, 2, 3, 4, 5 | Volvemos a la oca de casa y a los bolos, ahora con dos dados o con 12 botellas. |
+| 6 | numeros.recuento, numeros.estructura, operaciones.suma-resta | 2.4, 8.2 | anadir, detraccion, combinar<br>Recupera: 1, 2, 3, 4, 5 | Volvemos a la oca de casa y a los bolos, ahora con dos dados o con 12 botellas. |
 | 7 | numeros.decena, numeros.sistema-decimal | 5.1, 2.2 | combinar | Paquetes de palillos: atar palillos o pajitas de 10 en 10 con una goma y contar un montón grande por paquetes y sueltos. |
-| 8 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 5.1 | combinar | Vasos de 10: meter legumbres de 10 en 10 en vasos, dejar las sueltas al lado y decir el número que sale (3 vasos y 4 sueltas: 34). |
-| 9 | numeros.estructura, computacional.secuencias-figuras | 2.3, 2.1 | particion | Calcetines por parejas: sacar un puñado de calcetines o de pinzas, hacer parejas y ver si sobra uno. |
+| 8 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 5.1 | combinar, comparar | Vasos de 10: meter legumbres de 10 en 10 en vasos, dejar las sueltas al lado y decir el número que sale (3 vasos y 4 sueltas: 34). |
+| 9 | numeros.estructura, computacional.secuencias-figuras | 2.3, 2.1 | particion, suma-repetida | Calcetines por parejas: sacar un puñado de calcetines o de pinzas, hacer parejas y ver si sobra uno. |
 | 10 | geometria.orientacion | 6.2, 3.1 | abierta | El juguete escondido: una persona esconde un juguete y da pistas (encima de, debajo de, detrás de, al lado de) hasta que lo encuentran. |
 | 11 | numeros.recta-comparar, operaciones.igualdad | 5.2, 2.4 | comparar | La cuerda de los números: una cuerda en el suelo y pinzas con números del 0 al 50 para colgar cada uno en su sitio. |
 | 12 | numeros.decena, numeros.sistema-decimal, numeros.estructura, geometria.orientacion | 2.4, 8.1 | combinar, comparar<br>Recupera: 7, 8, 9, 10, 11 | Los vasos de 10 con un tesoro: esconder un vaso y dar pistas de dónde está; quien lo encuentra dice el número. |
@@ -146,7 +146,7 @@ Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
 | 3 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 2.3 | combinar, anadir | Platos de 100: llenar 10 vasos de 10 legumbres, ponerlos en un plato y descubrir que en el plato hay 100. |
 | 4 | numeros.recta-comparar, operaciones.igualdad | 5.2, 2.4 | comparar, combinar | Cartas de cifras: sacar tres cartas del 0 al 9 y formar el número más grande y el más pequeño posibles. |
 | 5 | operaciones.suma-resta, numeros.sistema-decimal | 5.1, 2.4 | anadir, combinar | El banco de las legumbres: sumar con vasos de 10 y, cuando hay 10 sueltas, cambiarlas por un vaso. |
-| 6 | numeros.sistema-decimal, operaciones.suma-resta, numeros.recta-comparar | 2.4, 8.2 | combinar, anadir<br>Recupera: 1, 2, 3, 4, 5 | Al 100 con dados: tirar dos dados por turnos, sumar los puntos y ver quién llega antes a 100. |
+| 6 | numeros.sistema-decimal, operaciones.suma-resta, numeros.recta-comparar | 2.4, 8.2 | combinar, anadir, detraccion<br>Recupera: 1, 2, 3, 4, 5 | Al 100 con dados: tirar dos dados por turnos, sumar los puntos y ver quién llega antes a 100. |
 | 7 | operaciones.suma-resta, operaciones.frustracion | 5.1, 8.1 | detraccion | Paquetes de palillos: para quitar 7 a 32, soltar la goma de un paquete y contar las sueltas. |
 | 8 | operaciones.suma-resta | 1.1, 1.2 | detraccion, comparar, escala-ascendente | Torres de pinzas o piezas: quitar de una torre, comparar dos torres y ver cuánto le falta a la pequeña para igualar a la grande. |
 | 9 | operaciones.calculo-mental, computacional.secuencias-figuras | 2.3, 2.4 | escala-descendente, anadir | El cohete: cuenta atrás de 10 en 10 desde 100 para despegar, y después de 100 en 100 desde 900. |

@@ -262,14 +262,14 @@
         "es": "Para recordar: tienes 4 paquetes de 10 palillos y 3 sueltos. Si quitas 8, ¿cuántos quedan?",
         "va": "Per a recordar: tens 4 paquets de 10 escuradents i 3 solts. Si en lleves 8, quants en queden?",
         "en": "Let's remember: you have 4 bundles of 10 sticks and 3 loose ones. If you take away 8, how many are left?",
-        "fr": "Pour se souvenir : tu as 4 paquets de 10 bâtonnets et 3 bâtonnets seuls. Si tu en enlèves 8, combien en reste-t-il ?",
+        "fr": "Pour se souvenir : tu as 4 paquets de 10 bâtonnets et 3 bâtonnets tout seuls. Si tu en enlèves 8, combien en reste-t-il ?",
         "ar": "لنتذكّر: عندنا 4 حزم في كل واحدة 10 أعواد، و3 أعواد منفردة. إذا نزعنا 8، كم يبقى؟"
       },
       "pista": {
         "es": "Con 3 sueltos no llega: suelta la goma de un paquete.",
         "va": "Amb 3 solts no n'hi ha prou: solta la goma d'un paquet.",
         "en": "3 loose ones aren't enough: take the band off one bundle.",
-        "fr": "Avec 3 bâtonnets seuls, ça ne suffit pas : enlève l'élastique d'un paquet.",
+        "fr": "Avec 3 bâtonnets tout seuls, ça ne suffit pas : enlève l'élastique d'un paquet.",
         "ar": "3 أعواد منفردة لا تكفي: لنفكّ المطاط عن حزمة واحدة."
       },
       "respuesta": {

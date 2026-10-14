@@ -184,11 +184,11 @@
         "ar": "عند إيون 37 سيارة لعبة، وأعطاه خاله 18 سيارة. كم سيارة عنده الآن؟"
       },
       "pista": {
-        "es": "7 y 8 son 15: con 10 de ellas haces una decena más.",
-        "va": "7 i 8 són 15: amb 10 d'ells fas una desena més.",
-        "en": "7 and 8 make 15: with 10 of them you make one more ten.",
-        "fr": "7 et 8, ça fait 15 : avec 10 d'entre elles, tu fais une dizaine de plus.",
-        "ar": "7 و8 تساوي 15: بعشرة منها نكوّن عشرة إضافية."
+        "es": "7 y 8 son 15 unidades: con 10 haces una decena más.",
+        "va": "7 i 8 són 15 unitats: amb 10 en fas una desena més.",
+        "en": "7 and 8 make 15 ones: with 10 of them you make one more ten.",
+        "fr": "7 et 8, ça fait 15 unités : avec 10 d'entre elles, tu fais une dizaine de plus.",
+        "ar": "7 آحاد و8 آحاد تساوي 15: بعشرة منها نكوّن عشرة إضافية."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -327,19 +327,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "3cf9889f4fb6"
+        "huella": "f7a715661c4b"
       },
       "en": {
         "estado": "automatica",
-        "huella": "3cf9889f4fb6"
+        "huella": "f7a715661c4b"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "3cf9889f4fb6"
+        "huella": "f7a715661c4b"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "3cf9889f4fb6"
+        "huella": "f7a715661c4b"
       }
     }
   }
