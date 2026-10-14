@@ -145,7 +145,7 @@
       },
       "pista": {
         "es": "Cuenta de 10 en 10 y luego sigue de uno en uno: 10, 20, 21…",
-        "va": "Compta de 10 en 10 i després segueix d’un en un: 10, 20, 21…",
+        "va": "Compta de 10 en 10 i després seguix d’un en un: 10, 20, 21…",
         "en": "Count in tens and then carry on in ones: 10, 20, 21…",
         "fr": "Compte de 10 en 10, puis continue de 1 en 1 : 10, 20, 21…",
         "ar": "لنعدّ 10 بـ10 ثم نتابع واحدًا واحدًا: 10، 20، 21…"
@@ -217,9 +217,9 @@
       "texto": {
         "es": "Wei tiene 4 grupos de 10 palitos y su tía le da otro grupo de 10. ¿Cuántos palitos tiene ahora?",
         "va": "Wei té 4 grups de 10 branquetes i la seua tia li dona un altre grup de 10. Quantes branquetes té ara?",
-        "en": "Wei has 4 groups of 10 sticks and her aunt gives her another group of 10. How many sticks does she have now?",
-        "fr": "Wei a 4 groupes de 10 bâtonnets et sa tante lui donne un autre groupe de 10. Combien de bâtonnets a-t-elle maintenant ?",
-        "ar": "عند وي 4 مجموعات من 10 عيدان، وتعطيها خالتها مجموعة أخرى من 10. كم عودًا عندها الآن؟"
+        "en": "Wei has 4 groups of 10 sticks and his aunt gives him another group of 10. How many sticks does he have now?",
+        "fr": "Wei a 4 groupes de 10 bâtonnets et sa tante lui donne un autre groupe de 10. Combien de bâtonnets a-t-il maintenant ?",
+        "ar": "عند وي 4 مجموعات من 10 عيدان، وتعطيه خالته مجموعة أخرى من 10. كم عودًا عنده الآن؟"
       },
       "pista": {
         "es": "Cuenta los grupos de 10 en 10: 10, 20, 30…",
@@ -236,9 +236,9 @@
         "texto": {
           "es": "Tiene 50 palitos: 5 grupos de 10.",
           "va": "Té 50 branquetes: 5 grups de 10.",
-          "en": "She has 50 sticks: 5 groups of 10.",
-          "fr": "Elle a 50 bâtonnets : 5 groupes de 10.",
-          "ar": "عندها 50 عودًا: 5 مجموعات من 10."
+          "en": "He has 50 sticks: 5 groups of 10.",
+          "fr": "Il a 50 bâtonnets : 5 groupes de 10.",
+          "ar": "عنده 50 عودًا: 5 مجموعات من 10."
         }
       },
       "inventala": {

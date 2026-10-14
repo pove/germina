@@ -130,11 +130,11 @@
       "rol": "tema",
       "tipoProblema": "abierta",
       "texto": {
-        "es": "Quedan 3 palillos y te toca. Puedes quitar 1 o 2. ¿Puedes ganar?",
-        "va": "Queden 3 palets i et toca. Pots llevar-ne 1 o 2. Pots guanyar?",
-        "en": "There are 3 sticks left and it's your turn. You can take 1 or 2. Can you win?",
-        "fr": "Il reste 3 bâtonnets et c'est ton tour. Tu peux en enlever 1 ou 2. Peux-tu gagner ?",
-        "ar": "بقيت 3 أعواد والدور علينا. نستطيع نزع عود أو عودين. هل نستطيع الفوز؟"
+        "es": "Quedan 3 palillos y te toca. Puedes quitar 1 o 2, y gana quien coge el último. ¿Puedes ganar?",
+        "va": "Queden 3 palets i et toca. Pots llevar-ne 1 o 2, i guanya qui agafa l'últim. Pots guanyar?",
+        "en": "There are 3 sticks left and it's your turn. You can take 1 or 2, and whoever takes the last one wins. Can you win?",
+        "fr": "Il reste 3 bâtonnets et c'est ton tour. Tu peux en enlever 1 ou 2, et celui ou celle qui prend le dernier gagne. Peux-tu gagner ?",
+        "ar": "بقيت 3 أعواد والدور علينا. نستطيع نزع عود أو عودين، ومن يأخذ العود الأخير يفوز. هل نستطيع الفوز؟"
       },
       "pista": {
         "es": "Hazlo con 3 palillos de verdad y mira las dos maneras.",
@@ -164,7 +164,7 @@
     {
       "id": "p2",
       "rol": "tema",
-      "tipoProblema": "abierta",
+      "tipoProblema": "detraccion",
       "texto": {
         "es": "Quedan 5 palillos y te toca. ¿Cuántos quitas para dejar 3 a la otra persona?",
         "va": "Queden 5 palets i et toca. Quants en lleves per a deixar-ne 3 a l'altra persona?",
@@ -212,20 +212,20 @@
         "ar": "في لعبة إكس-أو، أي خانة نحبّ أن نبدأ بها؟ لماذا؟"
       },
       "pista": {
-        "es": "Cuenta cuántas filas pasan por cada casilla.",
-        "va": "Compta quantes files passen per cada casella.",
+        "es": "Cuenta cuántas líneas pasan por cada casilla.",
+        "va": "Compta quantes línies passen per cada casella.",
         "en": "Count how many lines go through each square.",
         "fr": "Compte combien de lignes passent par chaque case.",
-        "ar": "لنعدّ كم صفًّا يمرّ بكل خانة."
+        "ar": "لنعدّ كم خطًّا يمرّ بكل خانة."
       },
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Muchas personas empiezan por el centro, porque por ahí pasan más filas. Vale cualquier idea si la explica.",
-          "va": "Moltes persones comencen pel centre, perquè per ahí passen més files. Val qualsevol idea si l'explica.",
+          "es": "Muchas personas empiezan por el centro, porque por ahí pasan más líneas. Vale cualquier idea si la explica.",
+          "va": "Moltes persones comencen pel centre, perquè per ahí passen més línies. Val qualsevol idea si l'explica.",
           "en": "Many people start in the middle, because more lines go through it. Any idea is fine if they explain it.",
           "fr": "Beaucoup de personnes commencent par le centre, parce que plus de lignes y passent. Toute idée convient si elle est expliquée.",
-          "ar": "كثير من الناس يبدؤون بالوسط، لأن صفوفًا أكثر تمرّ به. كل فكرة مقبولة إذا شُرحت."
+          "ar": "كثير من الناس يبدؤون بالوسط، لأن خطوطًا أكثر تمرّ به. كل فكرة مقبولة إذا شُرحت."
         }
       },
       "inventala": {
@@ -313,19 +313,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "6892b6385a33"
+        "huella": "3e878e78545e"
       },
       "en": {
         "estado": "automatica",
-        "huella": "6892b6385a33"
+        "huella": "3e878e78545e"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "6892b6385a33"
+        "huella": "3e878e78545e"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "6892b6385a33"
+        "huella": "3e878e78545e"
       }
     }
   }

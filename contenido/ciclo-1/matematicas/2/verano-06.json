@@ -132,7 +132,7 @@
       "texto": {
         "es": "Una forma tiene 5 lados rectos. ¿Cuántos vértices tiene?",
         "va": "Una forma té 5 costats rectes. Quants vèrtexs té?",
-        "en": "A shape has 5 straight sides. How many corners does it have?",
+        "en": "A shape has 5 straight sides. How many vertices does it have?",
         "fr": "Une forme a 5 côtés droits. Combien de sommets a-t-elle ?",
         "ar": "لشكل 5 أضلاع مستقيمة. كم رأسًا له؟"
       },
@@ -148,7 +148,7 @@
         "orientacion": {
           "es": "5 vértices: en un polígono hay tantos vértices como lados. Contadlos juntos tocándolos.",
           "va": "5 vèrtexs: en un polígon hi ha tants vèrtexs com costats. Compteu-los junts tocant-los.",
-          "en": "5 corners: a polygon has as many corners as sides. Count them together, touching each one.",
+          "en": "5 vertices: a polygon has as many vertices as sides. Count them together, touching each one.",
           "fr": "5 sommets : un polygone a autant de sommets que de côtés. Comptez-les ensemble en les touchant.",
           "ar": "5 رؤوس: في المضلّع عدد الرؤوس يساوي عدد الأضلاع. عدّوها معًا وأنتم تلمسونها."
         }

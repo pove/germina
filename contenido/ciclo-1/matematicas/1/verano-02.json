@@ -166,11 +166,11 @@
       "rol": "tema",
       "tipoProblema": "comparar",
       "texto": {
-        "es": "Mateo vive en el portal 36 y su abuelo, en el 40. ¿Cuántos números van del 36 al 40?",
-        "va": "Mateo viu al portal 36 i el seu avi, al 40. Quants nombres van del 36 al 40?",
-        "en": "Mateo lives at number 36 and his grandad at number 40. How many numbers is it from 36 to 40?",
-        "fr": "Mateo habite au numéro 36 et son grand-père au 40. Combien de nombres y a-t-il du 36 au 40 ?",
-        "ar": "يسكن ماتيو في البيت رقم 36 وجدّه في الرقم 40. كم عددًا من 36 إلى 40؟"
+        "es": "En el mercado, Mateo tiene el turno 36 y su abuelo, el 40. ¿Cuántos números van del 36 al 40?",
+        "va": "Al mercat, Mateo té el torn 36 i el seu avi, el 40. Quants nombres van del 36 al 40?",
+        "en": "At the market, Mateo has ticket 36 and his grandad has ticket 40. How many numbers is it from 36 to 40?",
+        "fr": "Au marché, Mateo a le ticket 36 et son grand-père, le 40. Combien de nombres y a-t-il du 36 au 40 ?",
+        "ar": "في السوق، دور ماتيو رقم 36 ودور جدّه رقم 40. كم عددًا من 36 إلى 40؟"
       },
       "pista": {
         "es": "Cuenta con los dedos desde el 36: 37, 38…",
@@ -193,11 +193,11 @@
         }
       },
       "inventala": {
-        "es": "Inventa tú una con el número de tu portal y el de alguien que conozcas.",
-        "va": "Inventa'n tu una amb el número del teu portal i el d'algú que conegues.",
-        "en": "Make one up with your door number and that of someone you know.",
-        "fr": "Invente une question avec le numéro de ta porte et celui de quelqu'un que tu connais.",
-        "ar": "لنخترع سؤالًا برقم بيتنا ورقم بيت شخص نعرفه."
+        "es": "Inventa tú una con dos números que veas por la calle.",
+        "va": "Inventa'n tu una amb dos números que veges pel carrer.",
+        "en": "Make one up with two numbers you see in the street.",
+        "fr": "Invente une question avec deux numéros que tu vois dans la rue.",
+        "ar": "لنخترع سؤالًا برقمين نراهما في الشارع."
       }
     },
     {
@@ -313,19 +313,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "3318b3f40ec7"
+        "huella": "f5a8e92b7883"
       },
       "en": {
         "estado": "automatica",
-        "huella": "3318b3f40ec7"
+        "huella": "f5a8e92b7883"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "3318b3f40ec7"
+        "huella": "f5a8e92b7883"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "3318b3f40ec7"
+        "huella": "f5a8e92b7883"
       }
     }
   }

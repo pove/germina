@@ -1845,7 +1845,8 @@
           "matematicas.c1.6.2"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "anadir"
         ],
         "reto": "Esconder un tesoro y dibujar el camino con flechas para que otra persona lo encuentre."
       },
@@ -1879,7 +1880,8 @@
           "matematicas.c1.5.2"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "combinar"
         ],
         "reto": "Caza de formas por la calle: señales, ventanas, ruedas… y contar sus lados y esquinas."
       },
@@ -1895,7 +1897,8 @@
           "matematicas.c1.4.2"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "suma-repetida"
         ],
         "reto": "Collares o pulseras con patrón (con cuentas, macarrones o conchas) y adivinar qué viene después."
       },
@@ -1911,7 +1914,8 @@
           "matematicas.c1.5.3"
         ],
         "tiposProblema": [
-          "particion"
+          "particion",
+          "suma-repetida"
         ],
         "reto": "Preparar un picnic y repartir la comida a partes iguales entre todas las personas."
       },
@@ -2104,7 +2108,8 @@
           "matematicas.c1.5.3"
         ],
         "tiposProblema": [
-          "comparar"
+          "comparar",
+          "combinar"
         ],
         "reto": "Preguntar a la familia y a las amistades qué les gusta más del verano y hacer barras con piedras o piezas."
       },
@@ -2121,7 +2126,8 @@
           "matematicas.c1.8.3"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "detraccion"
         ],
         "reto": "El último palillo, el tres en raya o las damas en familia: buscar una manera de ganar."
       }
