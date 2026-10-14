@@ -129,11 +129,11 @@ Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
 | verano-01 | numeros.recuento, numeros.decena | 5.1, 7.1 | combinar | Conchas, piedras o palitos: recoger un montón, hacer grupos de 10 y decir cuántos hay. |
 | verano-02 | numeros.usos-sociales, numeros.recta-comparar | 7.2, 5.2 | comparar | Paseo de números: buscar números de portales y autobuses y decir cuál es mayor. |
 | verano-03 | operaciones.calculo-mental, numeros.estructura | 2.4, 8.2 | combinar | Un minuto en equipo con cartas: buscar parejas que sumen 10. |
-| verano-04 | geometria.orientacion, computacional.secuencias-figuras | 4.1, 6.2 | abierta | Esconder un tesoro y dibujar el camino con flechas para que otra persona lo encuentre. |
+| verano-04 | geometria.orientacion, computacional.secuencias-figuras | 4.1, 6.2 | abierta, anadir | Esconder un tesoro y dibujar el camino con flechas para que otra persona lo encuentre. |
 | verano-05 | medida.magnitudes, numeros.usos-sociales | 7.2, 1.2 | dinero | En el mercado o la tienda: mirar precios en euros, elegir algo y decir con qué monedas y billetes se paga justo. |
-| verano-06 | geometria.poligonos, geometria.circunferencia | 7.1, 5.2 | abierta | Caza de formas por la calle: señales, ventanas, ruedas… y contar sus lados y esquinas. |
-| verano-07 | computacional.secuencias-figuras | 2.3, 4.2 | abierta | Collares o pulseras con patrón (con cuentas, macarrones o conchas) y adivinar qué viene después. |
-| verano-08 | operaciones.doble-mitad | 1.2, 5.3 | particion | Preparar un picnic y repartir la comida a partes iguales entre todas las personas. |
+| verano-06 | geometria.poligonos, geometria.circunferencia | 7.1, 5.2 | abierta, combinar | Caza de formas por la calle: señales, ventanas, ruedas… y contar sus lados y esquinas. |
+| verano-07 | computacional.secuencias-figuras | 2.3, 4.2 | abierta, suma-repetida | Collares o pulseras con patrón (con cuentas, macarrones o conchas) y adivinar qué viene después. |
+| verano-08 | operaciones.doble-mitad | 1.2, 5.3 | particion, suma-repetida | Preparar un picnic y repartir la comida a partes iguales entre todas las personas. |
 | verano-09 | medida.cuerpo, medida.no-convencionales | 3.2, 6.2 | medida | ¿Cuántos pasos hay hasta la esquina? ¿Y cuántos palmos mide la toalla? Comparar los de cada persona. |
 | verano-10 | operaciones.suma-resta, fracciones.perseverancia | 1.4, 6.4 | combinar, detraccion | Cuentos de verano: inventar una historia con números de lo que ha pasado en el día y hacer la pregunta. |
 
@@ -190,8 +190,8 @@ Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
 | verano-06 | geometria.poligonos, geometria.lineas | 5.2, 7.1 | abierta | Dibujar en la arena o con tiza formas de 3, 4, 5 y 6 lados y caminos rectos y curvos. |
 | verano-07 | medida.magnitudes, medida.unidades | 7.1, 5.2 | tiempo | Dibujar a qué hora pasan las cosas de un día de verano y contar en el calendario cuántos días faltan para volver al cole. |
 | verano-08 | operaciones.doble-mitad | 1.2, 5.1 | particion, suma-repetida | Preparar un picnic: repartir la comida a partes iguales y contar lo que hay por grupos. |
-| verano-09 | datos.encuestas, datos.barras | 3.1, 5.3 | comparar | Preguntar a la familia y a las amistades qué les gusta más del verano y hacer barras con piedras o piezas. |
-| verano-10 | computacional.juegos-estrategia, computacional.cooperativo | 4.4, 8.3 | abierta | El último palillo, el tres en raya o las damas en familia: buscar una manera de ganar. |
+| verano-09 | datos.encuestas, datos.barras | 3.1, 5.3 | comparar, combinar | Preguntar a la familia y a las amistades qué les gusta más del verano y hacer barras con piedras o piezas. |
+| verano-10 | computacional.juegos-estrategia, computacional.cooperativo | 4.4, 8.3 | abierta, detraccion | El último palillo, el tres en raya o las damas en familia: buscar una manera de ganar. |
 
 ### Saberes del ciclo que no aparecen en el mapa
 
