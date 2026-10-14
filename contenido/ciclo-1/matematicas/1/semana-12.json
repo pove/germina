@@ -69,7 +69,7 @@
           "es": "Preparad un tesoro: unos vasos con 10 legumbres cada uno y algunas sueltas, todo dentro de una caja.",
           "va": "Prepareu un tresor: uns gots amb 10 llegums cada un i alguns solts, tot dins d'una caixa.",
           "en": "Make a treasure: a few cups with 10 beans each and some loose ones, all inside a box.",
-          "fr": "Préparez un trésor : quelques verres avec 10 légumes secs chacun et quelques-uns seuls, le tout dans une boîte.",
+          "fr": "Préparez un trésor : quelques verres avec 10 légumes secs chacun et quelques-uns tout seuls, le tout dans une boîte.",
           "ar": "حضّروا كنزًا: بعض الأكواب في كل منها 10 حبّات، وبعض الحبّات المنفردة، وكل ذلك داخل علبة."
         }
       },
@@ -99,7 +99,7 @@
           "es": "Al abrirla, dice el número del tesoro: 3 vasos y 4 sueltas son 34. Cambiad los papeles: ¿qué tesoro es mayor?",
           "va": "En obrir-la, diu el nombre del tresor: 3 gots i 4 solts són 34. Canvieu els papers: quin tresor és major?",
           "en": "When they open it, they say the treasure's number: 3 cups and 4 loose ones make 34. Swap roles: which treasure is greater?",
-          "fr": "En l'ouvrant, on dit le nombre du trésor : 3 verres et 4 seuls, ça fait 34. Échangez les rôles : quel trésor est le plus grand ?",
+          "fr": "En l'ouvrant, on dit le nombre du trésor : 3 verres et 4 tout seuls, ça fait 34. Échangez les rôles : quel trésor est le plus grand ?",
           "ar": "عند فتحها، نقول عدد الكنز: 3 أكواب و4 حبّات منفردة تساوي 34. تبادلوا الأدوار: أيّ كنز أكبر؟"
         }
       }
@@ -108,14 +108,14 @@
       "es": "Poned solo 1 o 2 vasos y pocas sueltas, y dad pistas solo con encima y debajo.",
       "va": "Poseu només 1 o 2 gots i pocs solts, i doneu pistes només amb damunt i davall.",
       "en": "Use only 1 or 2 cups and a few loose beans, and give clues with on top of and under only.",
-      "fr": "Mettez seulement 1 ou 2 verres et peu d'éléments seuls, et donnez des indices seulement avec sur et sous.",
+      "fr": "Mettez seulement 1 ou 2 verres et peu d'éléments tout seuls, et donnez des indices seulement avec sur et sous.",
       "ar": "ضعوا كوبًا أو كوبين فقط وحبّات منفردة قليلة، وأعطوا تلميحات بكلمتي فوق وتحت فقط."
     },
     "masDificil": {
       "es": "Al abrir el tesoro, decid también si el número es par o impar haciendo parejas con las sueltas.",
       "va": "En obrir el tresor, digueu també si el nombre és parell o imparell fent parelles amb els solts.",
       "en": "When you open the treasure, also say whether the number is even or odd by making pairs with the loose beans.",
-      "fr": "En ouvrant le trésor, dites aussi si le nombre est pair ou impair en faisant des paires avec les éléments seuls.",
+      "fr": "En ouvrant le trésor, dites aussi si le nombre est pair ou impair en faisant des paires avec les éléments tout seuls.",
       "ar": "عند فتح الكنز، قولوا أيضًا إن كان العدد زوجيًا أو فرديًا بتكوين أزواج من الحبّات المنفردة."
     },
     "paraQueSirve": {
@@ -142,14 +142,14 @@
         "es": "Darío tiene 4 paquetes de 10 palillos y 6 sueltos. ¿Cuántos palillos tiene?",
         "va": "Darío té 4 paquets de 10 escuradents i 6 solts. Quants escuradents té?",
         "en": "Darío has 4 bundles of 10 sticks and 6 loose ones. How many sticks does he have?",
-        "fr": "Darío a 4 paquets de 10 bâtonnets et 6 seuls. Combien de bâtonnets a-t-il ?",
+        "fr": "Darío a 4 paquets de 10 bâtonnets et 6 tout seuls. Combien de bâtonnets a-t-il ?",
         "ar": "عند داريو 4 حزم في كل منها 10 أعواد، و6 أعواد منفردة. كم عودًا عنده؟"
       },
       "pista": {
         "es": "Cuenta los paquetes de diez en diez y sigue con los sueltos.",
         "va": "Compta els paquets de deu en deu i continua amb els solts.",
         "en": "Count the bundles in tens and carry on with the loose ones.",
-        "fr": "Compte les paquets de dix en dix et continue avec ceux qui sont seuls.",
+        "fr": "Compte les paquets de dix en dix et continue avec ceux qui sont tout seuls.",
         "ar": "لنعدّ الحزم عشرة عشرة، ثم نكمل بالأعواد المنفردة."
       },
       "respuesta": {
@@ -182,7 +182,7 @@
         "va": "L'àvia d'Ion posa 9 tasses a la taula, de dues en dues. En sobra alguna?",
         "en": "Ion's grandma puts 9 cups on the table, two by two. Is any left over?",
         "fr": "La grand-mère d'Ion pose 9 tasses sur la table, deux par deux. Est-ce qu'il en reste une ?",
-        "ar": "تضع جدّة يون 9 فناجين على الطاولة، اثنين اثنين. هل يبقى فنجان؟"
+        "ar": "تضع جدّة إيون 9 فناجين على الطاولة، اثنين اثنين. هل يبقى فنجان؟"
       },
       "pista": {
         "es": "Haz las parejas con 9 cosas de casa.",

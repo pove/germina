@@ -24,7 +24,7 @@
     "es": "Si duda entre dos números, como 32 y 23, haced los dos con paquetes de 10 y sueltos: gana el que tiene más paquetes.",
     "va": "Si dubta entre dos nombres, com 32 i 23, feu-los tots dos amb paquets de 10 i solts: guanya el que té més paquets.",
     "en": "If they're unsure between two numbers, like 32 and 23, make both with bundles of 10 and loose ones: the one with more bundles wins.",
-    "fr": "En cas de doute entre deux nombres, comme 32 et 23, faites les deux avec des paquets de 10 et des éléments seuls : celui qui a le plus de paquets gagne.",
+    "fr": "En cas de doute entre deux nombres, comme 32 et 23, faites les deux avec des paquets de 10 et des éléments tout seuls : celui qui a le plus de paquets gagne.",
     "ar": "عند التردّد بين عددين، مثل 32 و23، كوّنوا العددين بحزم من 10 وأشياء منفردة: يفوز العدد الذي فيه حزم أكثر."
   },
   "saberes": [
@@ -141,7 +141,7 @@
         "va": "Mira les desenes: qui té més paquets de 10?",
         "en": "Look at the tens: who has more bundles of 10?",
         "fr": "Regarde les dizaines : qui a le plus de paquets de 10 ?",
-        "ar": "لننظر إلى العشرات: من عنده حزم أكثر من 10؟"
+        "ar": "لننظر إلى العشرات: من عنده عدد أكبر من حزم العشرة؟"
       },
       "respuesta": {
         "tipo": "calculo",
@@ -208,7 +208,7 @@
         "es": "En una caja hay 3 paquetes de 10 lápices. En otra, 30 lápices sueltos. ¿Dónde hay más?",
         "va": "En una caixa hi ha 3 paquets de 10 llapis. En una altra, 30 llapis solts. On n'hi ha més?",
         "en": "In one box there are 3 bundles of 10 pencils. In another, 30 loose pencils. Where are there more?",
-        "fr": "Dans une boîte, il y a 3 paquets de 10 crayons. Dans une autre, 30 crayons seuls. Où y en a-t-il le plus ?",
+        "fr": "Dans une boîte, il y a 3 paquets de 10 crayons. Dans une autre, 30 crayons tout seuls. Où y en a-t-il le plus ?",
         "ar": "في علبة 3 حزم في كل منها 10 أقلام. وفي علبة أخرى 30 قلمًا منفردًا. أين يوجد أكثر؟"
       },
       "pista": {
@@ -248,14 +248,14 @@
         "es": "Para recordar: tienes 5 vasos con 10 legumbres cada uno y 7 legumbres sueltas. ¿Qué número sale?",
         "va": "Per a recordar: tens 5 gots amb 10 llegums cada un i 7 llegums solts. Quin nombre ix?",
         "en": "Let's remember: you have 5 cups with 10 beans each and 7 loose beans. What number do you get?",
-        "fr": "Pour se souvenir : tu as 5 verres avec 10 légumes secs chacun et 7 légumes secs seuls. Quel nombre obtiens-tu ?",
+        "fr": "Pour se souvenir : tu as 5 verres avec 10 légumes secs chacun et 7 légumes secs tout seuls. Quel nombre obtiens-tu ?",
         "ar": "لنتذكّر: عندنا 5 أكواب في كل منها 10 حبّات من البقول، و7 حبّات منفردة. ما العدد الذي يخرج؟"
       },
       "pista": {
         "es": "Los vasos son las decenas y las sueltas, las unidades.",
         "va": "Els gots són les desenes i els solts, les unitats (unidades).",
         "en": "The cups are the tens and the loose ones are the ones (unidades).",
-        "fr": "Les verres sont les dizaines et les éléments seuls, les unités (unidades).",
+        "fr": "Les verres sont les dizaines et les légumes secs tout seuls, les unités (unidades).",
         "ar": "الأكواب هي العشرات، والحبّات المنفردة هي الآحاد (unidades)."
       },
       "respuesta": {
@@ -275,7 +275,7 @@
         "es": "Inventa tú otra con otros vasos y otras sueltas.",
         "va": "Inventa'n tu una altra amb altres gots i altres solts.",
         "en": "Make up another one with different cups and loose beans.",
-        "fr": "Invente-en une autre avec d'autres verres et d'autres éléments seuls.",
+        "fr": "Invente-en une autre avec d'autres verres et d'autres légumes secs tout seuls.",
         "ar": "لنخترع سؤالًا آخر بأكواب أخرى وحبّات منفردة أخرى."
       }
     },

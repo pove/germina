@@ -247,7 +247,9 @@
         ],
         "tiposProblema": [
           "combinar",
-          "comparar"
+          "comparar",
+          "particion",
+          "abierta"
         ],
         "recupera": [
           7,
@@ -273,7 +275,8 @@
           "matematicas.c1.8.2"
         ],
         "tiposProblema": [
-          "combinar"
+          "combinar",
+          "escala-ascendente"
         ],
         "rapidez": true,
         "reto": "Un minuto juntos: cartas del 1 al 9 boca arriba y buscar entre los dos todas las parejas que suman 10 antes de que acabe el minuto."
@@ -1092,7 +1095,8 @@
           "matematicas.c1.2.2"
         ],
         "tiposProblema": [
-          "suma-repetida"
+          "suma-repetida",
+          "particion"
         ],
         "reto": "Dobles con dados: tirar un dado, decir el doble y comprobarlo poniendo legumbres en dos platos."
       },
@@ -1114,7 +1118,8 @@
         "tiposProblema": [
           "detraccion",
           "tiempo",
-          "suma-repetida"
+          "suma-repetida",
+          "escala-descendente"
         ],
         "recupera": [
           7,
@@ -1140,7 +1145,8 @@
           "matematicas.c1.8.2"
         ],
         "tiposProblema": [
-          "combinar"
+          "combinar",
+          "escala-ascendente"
         ],
         "rapidez": true,
         "reto": "Un minuto en equipo: cartas del 1 al 9 y buscar parejas que sumen 10; luego, con cartas de decenas, parejas que sumen 100."
