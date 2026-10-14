@@ -241,11 +241,11 @@
       "recupera": 11,
       "tipoProblema": "comparar",
       "texto": {
-        "es": "Para recordar: ¿qué número es mayor, el 46 o el 64? ¿Cómo lo sabes?",
-        "va": "Per a recordar: quin nombre és major, el 46 o el 64? Com ho saps?",
-        "en": "Let's remember: which number is greater, 46 or 64? How do you know?",
-        "fr": "Pour se souvenir : quel nombre est le plus grand, 46 ou 64 ? Comment le sais-tu ?",
-        "ar": "لنتذكّر: أيّ العددين أكبر، 46 أم 64؟ وكيف نعرف ذلك؟"
+        "es": "Para recordar: ¿qué número es mayor, el 57 o el 75? ¿Cómo lo sabes?",
+        "va": "Per a recordar: quin nombre és major, el 57 o el 75? Com ho saps?",
+        "en": "Let's remember: which number is greater, 57 or 75? How do you know?",
+        "fr": "Pour se souvenir : quel nombre est le plus grand, 57 ou 75 ? Comment le sais-tu ?",
+        "ar": "لنتذكّر: أيّ العددين أكبر، 57 أم 75؟ وكيف نعرف ذلك؟"
       },
       "pista": {
         "es": "Mira primero cuántas decenas tiene cada número.",
@@ -257,11 +257,11 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "El 64 es mayor: tiene 6 decenas y el 46 solo tiene 4. Si se lía con las cifras, contad juntos de 10 en 10 hasta cada número.",
-          "va": "El 64 és major: té 6 desenes i el 46 només en té 4. Si s'embolica amb les xifres, compteu junts de 10 en 10 fins a cada nombre.",
-          "en": "64 is greater: it has 6 tens and 46 has only 4. If they mix up the digits, count together in tens up to each number.",
-          "fr": "64 est plus grand : il a 6 dizaines et 46 n'en a que 4. Si votre enfant mélange les chiffres, comptez ensemble de 10 en 10 jusqu'à chaque nombre.",
-          "ar": "64 أكبر: فيه 6 عشرات، وفي 46 أربع عشرات فقط. وإذا حصل خلط بين الأرقام، عدّوا معًا عشرة عشرة حتى كل عدد."
+          "es": "El 75 es mayor: tiene 7 decenas y el 57 solo tiene 5. Si se lía con las cifras, contad juntos de 10 en 10 hasta cada número.",
+          "va": "El 75 és major: té 7 desenes i el 57 només en té 5. Si s'embolica amb les xifres, compteu junts de 10 en 10 fins a cada nombre.",
+          "en": "75 is greater: it has 7 tens and 57 has only 5. If they mix up the digits, count together in tens up to each number.",
+          "fr": "75 est plus grand : il a 7 dizaines et 57 n'en a que 5. Si votre enfant mélange les chiffres, comptez ensemble de 10 en 10 jusqu'à chaque nombre.",
+          "ar": "75 أكبر: فيه 7 عشرات، وفي 57 خمس عشرات فقط. وإذا حصل خلط بين الأرقام، عدّوا معًا عشرة عشرة حتى كل عدد."
         }
       },
       "inventala": {
@@ -309,19 +309,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "da0175ff6f3c"
+        "huella": "1fd5b031aa78"
       },
       "en": {
         "estado": "automatica",
-        "huella": "da0175ff6f3c"
+        "huella": "1fd5b031aa78"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "da0175ff6f3c"
+        "huella": "1fd5b031aa78"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "da0175ff6f3c"
+        "huella": "1fd5b031aa78"
       }
     }
   }

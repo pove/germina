@@ -222,11 +222,11 @@
       "rol": "tema",
       "tipoProblema": "combinar",
       "texto": {
-        "es": "En una bolsa de la percha hay 10 pinzas y 5 más. En la otra hay 9. ¿Cuántas faltan para que quede recta?",
-        "va": "En una bossa de la penja-robes hi ha 10 pinces i 5 més. En l'altra n'hi ha 9. Quantes en falten perquè quede recta?",
-        "en": "In one bag on the hanger there are 10 pegs and 5 more. In the other there are 9. How many are missing for it to hang level?",
-        "fr": "Dans un sac du cintre, il y a 10 pinces et 5 de plus. Dans l'autre, il y en a 9. Combien en manque-t-il pour que le cintre soit droit ?",
-        "ar": "في كيس من كيسَي الشمّاعة 10 ملاقط و5 أخرى. وفي الآخر 9. كم ملقطًا ينقص حتى تستوي الشمّاعة؟"
+        "es": "En una bolsa de la percha hay 10 pinzas y 5 más. En la otra hay 9. ¿Cuántas faltan en esa para que quede recta?",
+        "va": "En una bossa de la penja-robes hi ha 10 pinces i 5 més. En l'altra n'hi ha 9. Quantes en falten en eixa perquè quede recta?",
+        "en": "In one bag on the hanger there are 10 pegs and 5 more. In the other there are 9. How many are missing from that one for it to hang level?",
+        "fr": "Dans un sac du cintre, il y a 10 pinces et 5 de plus. Dans l'autre, il y en a 9. Combien en manque-t-il dans celui-là pour que le cintre soit droit ?",
+        "ar": "في كيس من كيسَي الشمّاعة 10 ملاقط و5 أخرى. وفي الآخر 9. كم ملقطًا ينقصه حتى تستوي الشمّاعة؟"
       },
       "pista": {
         "es": "Mira primero cuántas hay en la primera bolsa y luego sigue contando desde el 9.",
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "5793602c0947"
+        "huella": "d6d745b5a34a"
       },
       "en": {
         "estado": "automatica",
-        "huella": "5793602c0947"
+        "huella": "d6d745b5a34a"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "5793602c0947"
+        "huella": "d6d745b5a34a"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "5793602c0947"
+        "huella": "d6d745b5a34a"
       }
     }
   }
