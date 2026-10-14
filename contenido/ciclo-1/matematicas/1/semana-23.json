@@ -210,9 +210,9 @@
       "texto": {
         "es": "La abuela de Wei reparte 9 cerezas a partes iguales entre Wei y sus dos primas. ¿Cuántas le tocan a cada persona?",
         "va": "L'àvia de Wei repartix 9 cireres a parts iguals entre Wei i les seues dues cosines. Quantes li'n toquen a cada persona?",
-        "en": "Wei's grandma shares out 9 cherries equally between Wei and her two cousins. How many does each person get?",
+        "en": "Wei's grandma shares out 9 cherries equally between Wei and his two cousins. How many does each person get?",
         "fr": "La grand-mère de Wei partage 9 cerises en parts égales entre Wei et ses deux cousines. Combien chaque personne en reçoit-elle ?",
-        "ar": "توزّع جدّة وي 9 حبّات كرز بالتساوي على وي وابنتَي عمّها. كم حبّة لكل واحدة؟"
+        "ar": "توزّع جدّة وي 9 حبّات كرز بالتساوي على وي وابنتَي عمّه. كم حبّة لكلّ واحد منهم؟"
       },
       "pista": {
         "es": "Haz tres montones y pon una cosa en cada uno, por turnos, hasta que no quede ninguna.",
@@ -231,12 +231,12 @@
           "va": "A cada persona li'n toquen 3: {{3 + 3 + 3 = 9}}.",
           "en": "Each person gets 3 cherries: {{3 + 3 + 3 = 9}}.",
           "fr": "Chaque personne en reçoit 3 : {{3 + 3 + 3 = 9}}.",
-          "ar": "لكل واحدة 3 حبّات: {{3 + 3 + 3 = 9}}."
+          "ar": "لكلّ واحد منهم 3 حبّات: {{3 + 3 + 3 = 9}}."
         }
       },
       "inventala": {
         "es": "Inventa tú otra repartiendo algo entre las personas de tu casa.",
-        "va": "Inventa'n tu una altra repartint alguna cosa entre les persones de ta casa.",
+        "va": "Inventa'n tu una altra repartint alguna cosa entre les persones de casa.",
         "en": "Make up another one, sharing something out between the people in your home.",
         "fr": "Invente-en une autre en partageant quelque chose entre les personnes de ta maison.",
         "ar": "لنخترع سؤالًا آخر نوزّع فيه شيئًا على من يعيشون معنا في البيت."
@@ -248,11 +248,11 @@
       "recupera": 19,
       "tipoProblema": "suma-repetida",
       "texto": {
-        "es": "Pablo tiene 5 coches de juguete y Sara tiene el doble. ¿Cuántos coches tiene Sara?",
-        "va": "Pablo té 5 cotxes de joguet i Sara en té el doble. Quants cotxes té Sara?",
-        "en": "Pablo has 5 toy cars and Sara has double (doble). How many cars does Sara have?",
-        "fr": "Pablo a 5 petites voitures et Sara en a le double (doble). Combien de voitures Sara a-t-elle ?",
-        "ar": "عند بابلو 5 سيارات ألعاب، وعند سارة الضعف (doble). كم سيارة عند سارة؟"
+        "es": "Para recordar: Pablo tiene 5 coches de juguete y Sara tiene el doble. ¿Cuántos coches tiene Sara?",
+        "va": "Per a recordar: Pablo té 5 cotxes de joguet i Sara en té el doble. Quants cotxes té Sara?",
+        "en": "Let's remember: Pablo has 5 toy cars and Sara has double (doble). How many cars does Sara have?",
+        "fr": "Pour se souvenir : Pablo a 5 petites voitures et Sara en a le double (doble). Combien de voitures Sara a-t-elle ?",
+        "ar": "لنتذكّر: عند بابلو 5 سيارات ألعاب، وعند سارة الضعف (doble). كم سيارة عند سارة؟"
       },
       "pista": {
         "es": "Levanta 5 dedos de una mano y 5 de la otra, y cuéntalos todos.",
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "d543deca8f8d"
+        "huella": "dc7d6ef27d45"
       },
       "en": {
         "estado": "automatica",
-        "huella": "d543deca8f8d"
+        "huella": "dc7d6ef27d45"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "d543deca8f8d"
+        "huella": "dc7d6ef27d45"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "d543deca8f8d"
+        "huella": "dc7d6ef27d45"
       }
     }
   }

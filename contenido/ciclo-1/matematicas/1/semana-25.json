@@ -250,11 +250,11 @@
       "recupera": 10,
       "tipoProblema": "abierta",
       "texto": {
-        "es": "Ponte de pie en la cocina. ¿Qué tienes delante? ¿Y detrás?",
-        "va": "Posa't de peu a la cuina. Què tens davant (delante)? I darrere (detrás)?",
-        "en": "Stand up in the kitchen. What is in front of you (delante)? And behind you (detrás)?",
-        "fr": "Mets-toi debout dans la cuisine. Qu'as-tu devant (delante) ? Et derrière (detrás) ?",
-        "ar": "لنقف في المطبخ. ماذا يوجد أمامنا (delante)؟ وماذا يوجد خلفنا (detrás)؟"
+        "es": "Para recordar: ponte de pie en la cocina. ¿Qué tienes delante? ¿Y detrás?",
+        "va": "Per a recordar: posa't de peu a la cuina. Què tens davant (delante)? I darrere (detrás)?",
+        "en": "Let's remember: stand up in the kitchen. What is in front of you (delante)? And behind you (detrás)?",
+        "fr": "Pour se souvenir : mets-toi debout dans la cuisine. Qu'as-tu devant (delante) ? Et derrière (detrás) ?",
+        "ar": "لنتذكّر: لنقف في المطبخ. ماذا يوجد أمامنا (delante)؟ وماذا يوجد خلفنا (detrás)؟"
       },
       "pista": {
         "es": "Mira al frente y después gira la cabeza sin mover los pies.",
@@ -318,19 +318,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "cb749ea4f71b"
+        "huella": "81a7360f8f8e"
       },
       "en": {
         "estado": "automatica",
-        "huella": "cb749ea4f71b"
+        "huella": "81a7360f8f8e"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "cb749ea4f71b"
+        "huella": "81a7360f8f8e"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "cb749ea4f71b"
+        "huella": "81a7360f8f8e"
       }
     }
   }
