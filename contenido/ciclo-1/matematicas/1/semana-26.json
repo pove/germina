@@ -255,11 +255,11 @@
       "recupera": 18,
       "tipoProblema": "suma-repetida",
       "texto": {
-        "es": "En la entrada hay 4 pares de zapatos. Cuenta de 2 en 2: ¿cuántos zapatos hay?",
-        "va": "A l'entrada hi ha 4 parells de sabates. Compta de 2 en 2: quantes sabates hi ha?",
-        "en": "There are 4 pairs of shoes by the front door. Count in 2s: how many shoes are there?",
-        "fr": "Dans l'entrée, il y a 4 paires de chaussures. Compte de 2 en 2 : combien y a-t-il de chaussures ?",
-        "ar": "عند المدخل 4 أزواج من الأحذية. لنعدّ اثنين اثنين: كم فردة حذاء يوجد؟"
+        "es": "Para recordar: en la entrada hay 4 pares de zapatos. Cuenta de 2 en 2: ¿cuántos zapatos hay?",
+        "va": "Per a recordar: a l'entrada hi ha 4 parells de sabates. Compta de 2 en 2: quantes sabates hi ha?",
+        "en": "Let's remember: there are 4 pairs of shoes by the front door. Count in 2s: how many shoes are there?",
+        "fr": "Pour se souvenir : dans l'entrée, il y a 4 paires de chaussures. Compte de 2 en 2 : combien y a-t-il de chaussures ?",
+        "ar": "لنتذكّر: عند المدخل 4 أزواج من الأحذية. لنعدّ اثنين اثنين: كم فردة حذاء يوجد؟"
       },
       "pista": {
         "es": "Di en voz alta «2, 4…» y levanta un dedo por cada par.",
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "0d9a8576b313"
+        "huella": "b8c03364f69e"
       },
       "en": {
         "estado": "automatica",
-        "huella": "0d9a8576b313"
+        "huella": "b8c03364f69e"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "0d9a8576b313"
+        "huella": "b8c03364f69e"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "0d9a8576b313"
+        "huella": "b8c03364f69e"
       }
     }
   }

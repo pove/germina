@@ -593,7 +593,8 @@
           "matematicas.c1.5.3"
         ],
         "tiposProblema": [
-          "comparar"
+          "comparar",
+          "combinar"
         ],
         "reto": "La encuesta de la fruta: preguntar a la familia qué fruta prefiere, dibujar una cara por cada respuesta y ver cuál gana."
       },
@@ -614,7 +615,9 @@
         ],
         "tiposProblema": [
           "particion",
-          "dinero"
+          "dinero",
+          "abierta",
+          "tiempo"
         ],
         "recupera": [
           23,
@@ -1447,7 +1450,8 @@
           "matematicas.c1.7.1"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "combinar"
         ],
         "reto": "Formas de palillos: hacer triángulos, cuadrados y otras formas con palillos y plastilina, y contar lados y vértices."
       },
@@ -1468,7 +1472,8 @@
           "matematicas.c1.5.3"
         ],
         "tiposProblema": [
-          "comparar"
+          "comparar",
+          "combinar"
         ],
         "reto": "Torres de la encuesta: preguntar a la familia algo (juego, color, comida favorita) y hacer una torre de piezas por cada respuesta."
       },
@@ -1489,7 +1494,9 @@
         ],
         "tiposProblema": [
           "particion",
-          "combinar"
+          "combinar",
+          "dinero",
+          "producto-cartesiano"
         ],
         "recupera": [
           23,

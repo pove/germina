@@ -256,11 +256,11 @@
       "recupera": 15,
       "tipoProblema": "medida",
       "texto": {
-        "es": "Amaia mide la alfombra y le salen 5 pasos. Si la mide su abuelo, con pasos más largos, ¿le saldrán más o menos?",
-        "va": "Amaia mesura la catifa i li n'ixen 5 passos. Si la mesura son avi, amb passos més llargs, n'eixiran més o menys?",
-        "en": "Amaia measures the rug and gets 5 steps. If her grandad measures it, with longer steps, will he get more or fewer?",
-        "fr": "Amaia mesure le tapis et trouve 5 pas. Si son grand-père le mesure, avec des pas plus longs, en trouvera-t-il plus ou moins ?",
-        "ar": "تقيس أمايا السجّادة فتجدها 5 خطوات. إذا قاسها جدّها بخطوات أطول، هل سيجد خطوات أكثر أم أقل؟"
+        "es": "Para recordar: Amaia mide la alfombra y le salen 5 pasos. Si la mide su abuelo, con pasos más largos, ¿le saldrán más o menos?",
+        "va": "Per a recordar: Amaia mesura la catifa i li n'ixen 5 passos. Si la mesura son avi, amb passos més llargs, n'eixiran més o menys?",
+        "en": "Let's remember: Amaia measures the rug and gets 5 steps. If her grandad measures it, with longer steps, will he get more or fewer?",
+        "fr": "Pour se souvenir : Amaia mesure le tapis et trouve 5 pas. Si son grand-père le mesure, avec des pas plus longs, en trouvera-t-il plus ou moins ?",
+        "ar": "لنتذكّر: تقيس أمايا السجّادة فتجدها 5 خطوات. إذا قاسها جدّها بخطوات أطول، هل سيجد خطوات أكثر أم أقل؟"
       },
       "pista": {
         "es": "Mide una alfombra con pasos cortitos y luego con pasos largos.",
@@ -324,19 +324,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "05b9816b8363"
+        "huella": "1e0263a0b643"
       },
       "en": {
         "estado": "automatica",
-        "huella": "05b9816b8363"
+        "huella": "1e0263a0b643"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "05b9816b8363"
+        "huella": "1e0263a0b643"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "05b9816b8363"
+        "huella": "1e0263a0b643"
       }
     }
   }
