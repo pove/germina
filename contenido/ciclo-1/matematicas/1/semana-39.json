@@ -215,7 +215,7 @@
       "rol": "tema",
       "tipoProblema": "combinar",
       "texto": {
-        "es": "Una percha tiene 2 y 5 pinzas en un lado, y 4 en el otro. ¿Cuántas más pones junto a las 4 para que quede recta?",
+        "es": "Una percha tiene 2 y 5 pinzas en un lado, y 4 en el otro. ¿Cuántas pones junto a las 4 para que quede recta?",
         "va": "Una perxa té 2 i 5 pinces en un costat, i 4 en l'altre. Quantes més en poses al costat de les 4 perquè quede recta?",
         "en": "A hanger has 2 and 5 pegs on one side and 4 on the other. How many more do you put next to the 4 so it's level?",
         "fr": "Un cintre a 2 et 5 pinces d'un côté, et 4 de l'autre. Combien en ajoutes-tu à côté des 4 pour qu'il soit droit ?",
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "314f53cf607d"
+        "huella": "337a949f432b"
       },
       "en": {
         "estado": "automatica",
-        "huella": "314f53cf607d"
+        "huella": "337a949f432b"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "314f53cf607d"
+        "huella": "337a949f432b"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "314f53cf607d"
+        "huella": "337a949f432b"
       }
     }
   }

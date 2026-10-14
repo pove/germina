@@ -212,14 +212,14 @@
       "texto": {
         "es": "Si tiras un dado, ¿sale un 6 siempre, a veces o nunca? ¿Y un 9?",
         "va": "Si tires un dau, ix un 6 sempre, a vegades o mai? I un 9?",
-        "en": "If you roll a dice, does a 6 come up always, sometimes or never? And a 9?",
+        "en": "If you roll a die, does a 6 come up always, sometimes or never? And a 9?",
         "fr": "Si tu lances un dé, est-ce que le 6 sort toujours, parfois ou jamais ? Et le 9 ?",
         "ar": "إذا رمينا حجر النرد، هل يظهر 6 دائمًا أم أحيانًا أم أبدًا؟ و9؟"
       },
       "pista": {
         "es": "Mira las caras de un dado y cuenta los puntos de cada una.",
         "va": "Mira les cares d'un dau i compta els punts de cada una.",
-        "en": "Look at the faces of a dice and count the dots on each one.",
+        "en": "Look at the faces of a die and count the dots on each one.",
         "fr": "Regarde les faces d'un dé et compte les points de chacune.",
         "ar": "لننظر إلى أوجه حجر النرد ونعدّ النقاط في كل وجه."
       },
@@ -228,7 +228,7 @@
         "orientacion": {
           "es": "El 6 sale a veces. El 9, nunca: el dado solo tiene del 1 al 6.",
           "va": "El 6 ix a vegades. El 9, mai: el dau només té de l'1 al 6.",
-          "en": "A 6 comes up sometimes. A 9, never: the dice only has 1 to 6.",
+          "en": "A 6 comes up sometimes. A 9, never: the die only has 1 to 6.",
           "fr": "Le 6 sort parfois. Le 9, jamais : le dé n'a que de 1 à 6.",
           "ar": "يظهر 6 أحيانًا. أما 9 فلا يظهر أبدًا: في حجر النرد من 1 إلى 6 فقط."
         }
@@ -236,7 +236,7 @@
       "inventala": {
         "es": "Inventa tú otra pregunta con el dado, de algo que salga a veces o que no salga nunca.",
         "va": "Inventa tu una altra pregunta amb el dau, d'alguna cosa que isca a vegades o que no isca mai.",
-        "en": "Make up another question with the dice, about something that comes up sometimes or never.",
+        "en": "Make up another question with the die, about something that comes up sometimes or never.",
         "fr": "Invente une autre question avec le dé, sur quelque chose qui sort parfois ou jamais.",
         "ar": "لنخترع سؤالًا آخر بحجر النرد، عن شيء يظهر أحيانًا أو لا يظهر أبدًا."
       }

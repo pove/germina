@@ -130,11 +130,11 @@
       "rol": "tema",
       "tipoProblema": "comparar",
       "texto": {
-        "es": "Estás delante del portal 39. ¿Qué número va justo después? ¿Y justo antes?",
-        "va": "Estàs davant del portal 39. Quin nombre va just després? I just abans?",
-        "en": "You're in front of door number 39. Which number comes just after? And just before?",
-        "fr": "Tu es devant la porte numéro 39. Quel nombre vient juste après ? Et juste avant ?",
-        "ar": "نحن أمام المدخل رقم 39. ما العدد الذي يأتي بعده مباشرة؟ وقبله مباشرة؟"
+        "es": "En la panadería tienes el número 39. ¿Qué número va justo después? ¿Y justo antes?",
+        "va": "Al forn tens el número 39. Quin número va just després? I just abans?",
+        "en": "At the bakery you have ticket number 39. Which number comes just after? And just before?",
+        "fr": "À la boulangerie, tu as le numéro 39. Quel numéro vient juste après ? Et juste avant ?",
+        "ar": "في المخبز معنا الرقم 39. ما الرقم الذي يأتي بعده مباشرة؟ وقبله مباشرة؟"
       },
       "pista": {
         "es": "Cuenta en voz alta desde el 36 y fíjate en qué número viene después del 39.",
@@ -154,11 +154,11 @@
         }
       },
       "inventala": {
-        "es": "Inventa tú otra con el número de tu portal.",
-        "va": "Inventa tu una altra amb el número del teu portal.",
-        "en": "Make up another one with the number of your own front door.",
-        "fr": "Invente-en une autre avec le numéro de ta porte.",
-        "ar": "لنخترع سؤالًا آخر برقم مدخل بيتنا."
+        "es": "Inventa tú otra con un número que veas por la calle.",
+        "va": "Inventa tu una altra amb un número que veges pel carrer.",
+        "en": "Make up another one with a number you see in the street.",
+        "fr": "Invente-en une autre avec un numéro que tu vois dans la rue.",
+        "ar": "لنخترع سؤالًا آخر برقم نراه في الشارع."
       }
     },
     {
@@ -316,19 +316,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "aab5d8cec549"
+        "huella": "de4a3f2df1a7"
       },
       "en": {
         "estado": "automatica",
-        "huella": "aab5d8cec549"
+        "huella": "de4a3f2df1a7"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "aab5d8cec549"
+        "huella": "de4a3f2df1a7"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "aab5d8cec549"
+        "huella": "de4a3f2df1a7"
       }
     }
   }

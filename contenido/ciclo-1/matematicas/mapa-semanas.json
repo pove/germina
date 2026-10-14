@@ -811,7 +811,8 @@
           "matematicas.c1.7.3"
         ],
         "tiposProblema": [
-          "comparar"
+          "comparar",
+          "escala-ascendente"
         ],
         "reto": "Paseo de números: buscar números en los portales y decir cuál será el siguiente y el anterior."
       },
@@ -852,7 +853,8 @@
         ],
         "tiposProblema": [
           "combinar",
-          "detraccion"
+          "detraccion",
+          "suma-repetida"
         ],
         "recupera": [
           30,
@@ -878,7 +880,8 @@
           "matematicas.c1.7.1"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "suma-repetida"
         ],
         "reto": "Tres en raya con tapones: jugar varias partidas y hablar de qué casilla conviene ocupar primero."
       }
@@ -1697,7 +1700,8 @@
           "matematicas.c1.1.3"
         ],
         "tiposProblema": [
-          "comparar"
+          "comparar",
+          "combinar"
         ],
         "reto": "El tarro de legumbres: cada persona dice cuántas cree que hay y luego se cuentan haciendo grupos de 10."
       },
@@ -1739,7 +1743,8 @@
         "tiposProblema": [
           "combinar",
           "particion",
-          "medida"
+          "medida",
+          "escala-ascendente"
         ],
         "recupera": [
           7,
@@ -1766,7 +1771,8 @@
           "matematicas.c1.8.3"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "detraccion"
         ],
         "reto": "El último palillo: 15 palillos en la mesa, cada persona coge 1, 2 o 3 por turno y quien coge el último pierde; ¿hay una manera de ganar siempre?"
       }
