@@ -248,11 +248,11 @@
       "recupera": 14,
       "tipoProblema": "combinar",
       "texto": {
-        "es": "Dibuja en el aire un triángulo y un cuadrado. ¿Cuántas esquinas tienen entre los dos?",
-        "va": "Dibuixa en l'aire un triangle (triángulo) i un quadrat (cuadrado). Quants cantons tenen entre els dos?",
-        "en": "Draw a triangle (triángulo) and a square (cuadrado) in the air. How many corners do they have between them?",
-        "fr": "Dessine dans l'air un triangle (triángulo) et un carré (cuadrado). Combien de coins ont-ils à eux deux ?",
-        "ar": "لنرسم في الهواء مثلّثًا (triángulo) ومربّعًا (cuadrado). كم زاوية لهما معًا؟"
+        "es": "Para recordar: dibuja en el aire un triángulo y un cuadrado. ¿Cuántas esquinas tienen entre los dos?",
+        "va": "Per a recordar: dibuixa en l'aire un triangle (triángulo) i un quadrat (cuadrado). Quants cantons tenen entre els dos?",
+        "en": "Let's remember: draw a triangle (triángulo) and a square (cuadrado) in the air. How many corners do they have between them?",
+        "fr": "Pour se souvenir : dessine dans l'air un triangle (triángulo) et un carré (cuadrado). Combien de coins ont-ils à eux deux ?",
+        "ar": "لنتذكّر: لنرسم في الهواء مثلّثًا (triángulo) ومربّعًا (cuadrado). كم زاوية لهما معًا؟"
       },
       "pista": {
         "es": "Cuenta las esquinas de cada forma con los dedos y luego júntalas.",
@@ -319,19 +319,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "1c1216a02ff9"
+        "huella": "9c355b7aa92d"
       },
       "en": {
         "estado": "automatica",
-        "huella": "1c1216a02ff9"
+        "huella": "9c355b7aa92d"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "1c1216a02ff9"
+        "huella": "9c355b7aa92d"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "1c1216a02ff9"
+        "huella": "9c355b7aa92d"
       }
     }
   }

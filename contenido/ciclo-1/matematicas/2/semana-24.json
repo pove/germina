@@ -208,14 +208,14 @@
       "tipoProblema": "producto-cartesiano",
       "texto": {
         "es": "Iker tiene 3 gorros y 3 bufandas. Si se pone un gorro y una bufanda, ¿de cuántas maneras puede ir abrigado?",
-        "va": "Iker té 3 gorres i 3 bufandes. Si es posa una gorra i una bufanda, de quantes maneres pot anar abrigat?",
+        "va": "Iker té 3 gorros i 3 bufandes. Si es posa un gorro i una bufanda, de quantes maneres pot anar abrigat?",
         "en": "Iker has 3 hats and 3 scarves. If he wears one hat and one scarf, how many ways can he wrap up warm?",
         "fr": "Iker a 3 bonnets et 3 écharpes. S'il met un bonnet et une écharpe, de combien de façons peut-il se couvrir ?",
         "ar": "عند إيكر 3 قبّعات و3 أوشحة. إذا لبس قبّعة ووشاحًا، فبكم طريقة يمكن أن يتدفّأ؟"
       },
       "pista": {
         "es": "Dibuja los 3 gorros y une cada uno con flechas a las 3 bufandas.",
-        "va": "Dibuixa les 3 gorres i uneix cada una amb fletxes a les 3 bufandes.",
+        "va": "Dibuixa els 3 gorros i uneix cada un amb fletxes a les 3 bufandes.",
         "en": "Draw the 3 hats and join each one with arrows to the 3 scarves.",
         "fr": "Dessine les 3 bonnets et relie chacun par des flèches aux 3 écharpes.",
         "ar": "لنرسم القبّعات الثلاث ونصل كل واحدة بأسهم إلى الأوشحة الثلاثة."

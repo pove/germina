@@ -467,7 +467,8 @@
         ],
         "tiposProblema": [
           "suma-repetida",
-          "particion"
+          "particion",
+          "escala-ascendente"
         ],
         "recupera": [
           18,
@@ -511,7 +512,8 @@
           "matematicas.c1.4.2"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "anadir"
         ],
         "reto": "El collar de patrón: ensartar macarrones o poner pinzas siguiendo un patrón (rojo, rojo, azul…) y que la otra persona adivine qué viene después."
       },
@@ -531,7 +533,8 @@
           "matematicas.c1.6.3"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "anadir"
         ],
         "reto": "El robot de casa: con flechas de papel en el suelo, una persona programa un camino y la otra lo recorre paso a paso como un robot."
       },
@@ -1401,7 +1404,9 @@
           "matematicas.c1.4.2"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "escala-ascendente",
+          "suma-repetida"
         ],
         "reto": "Escaleras de piezas: hacer escalones que crecen de 2 en 2 o de 5 en 5 y adivinar cuántas piezas tendrá el escalón siguiente."
       },
