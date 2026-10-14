@@ -178,10 +178,10 @@
       "tipoProblema": "detraccion",
       "texto": {
         "es": "En el plato hay 14 uvas. Ion se come 6. ¿Cuántas uvas quedan?",
-        "va": "En el plat hi ha 14 raïms. Ion se'n menja 6. Quants raïms queden?",
+        "va": "En el plat hi ha 14 grans de raïm. Ion se'n menja 6. Quants grans queden?",
         "en": "There are 14 grapes on the plate. Ion eats 6. How many grapes are left?",
-        "fr": "Dans l'assiette, il y a 14 raisins. Ion en mange 6. Combien de raisins reste-t-il ?",
-        "ar": "في الصحن 14 حبة عنب. يأكل يون 6. كم حبة تبقى؟"
+        "fr": "Dans l'assiette, il y a 14 grains de raisin. Ion en mange 6. Combien de grains reste-t-il ?",
+        "ar": "في الصحن 14 حبة عنب. يأكل إيون 6. كم حبة تبقى؟"
       },
       "pista": {
         "es": "Quita primero 4 para llegar a 10, y luego 2 más.",
@@ -197,9 +197,9 @@
         "unidad": "unidades",
         "texto": {
           "es": "Quedan 8 uvas: {{14 − 4 = 10}} y {{10 − 2 = 8}}.",
-          "va": "Queden 8 raïms: {{14 − 4 = 10}} i {{10 − 2 = 8}}.",
+          "va": "Queden 8 grans: {{14 − 4 = 10}} i {{10 − 2 = 8}}.",
           "en": "There are 8 grapes left: {{14 − 4 = 10}} and {{10 − 2 = 8}}.",
-          "fr": "Il reste 8 raisins : {{14 − 4 = 10}} et {{10 − 2 = 8}}.",
+          "fr": "Il reste 8 grains de raisin : {{14 − 4 = 10}} et {{10 − 2 = 8}}.",
           "ar": "تبقى 8 حبات: {{14 − 4 = 10}} و{{10 − 2 = 8}}."
         }
       },

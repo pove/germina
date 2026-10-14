@@ -723,7 +723,9 @@
         ],
         "tiposProblema": [
           "anadir",
-          "detraccion"
+          "detraccion",
+          "medida",
+          "comparar"
         ],
         "recupera": [
           30,
@@ -749,7 +751,8 @@
           "matematicas.c1.5.1"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "anadir"
         ],
         "reto": "Caminos de cuerda: hacer en el suelo caminos rectos y curvos con una cuerda y recorrerlos con un coche de juguete."
       },
@@ -1581,7 +1584,8 @@
           "matematicas.c1.6.3"
         ],
         "tiposProblema": [
-          "abierta"
+          "abierta",
+          "combinar"
         ],
         "reto": "El mapa del tesoro: dibujar un plano de casa, esconder algo y dibujar el camino con flechas para que otra persona lo encuentre."
       },
@@ -1602,7 +1606,8 @@
         ],
         "tiposProblema": [
           "medida",
-          "tiempo"
+          "tiempo",
+          "escala-ascendente"
         ],
         "recupera": [
           30,
