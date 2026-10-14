@@ -133,9 +133,9 @@
       "texto": {
         "es": "Darío está en la casilla 8 de la oca y saca un 3. ¿A qué casilla llega?",
         "va": "Darío és a la casella 8 de l'oca i trau un 3. A quina casella arriba?",
-        "en": "Darío is on square 8 and rolls a 3. Which square does he land on?",
+        "en": "Darío is on square 8 in the Game of the Goose and rolls a 3. Which square does he land on?",
         "fr": "Darío est sur la case 8 du jeu de l'oie et fait un 3. Sur quelle case arrive-t-il ?",
-        "ar": "دارِيو في الخانة 8 من لعبة الإوزّة، وحصل على 3 في النرد. إلى أيّ خانة يصل؟"
+        "ar": "داريو في الخانة 8 من لعبة الإوزّة، وحصل على 3 في النرد. إلى أيّ خانة يصل؟"
       },
       "pista": {
         "es": "Pon el dedo en el 8 y sigue contando tres saltos.",
@@ -250,7 +250,7 @@
       "tipoProblema": "detraccion",
       "texto": {
         "es": "Para recordar los bolos: hay 10 botellas de pie y Aisha tira 6. ¿Cuántas quedan de pie?",
-        "va": "Per a recordar els bitlles: hi ha 10 botelles dretes i Aisha en tomba 6. Quantes en queden dretes?",
+        "va": "Per a recordar les bitlles: hi ha 10 botelles dretes i Aisha en tomba 6. Quantes en queden dretes?",
         "en": "Let's remember skittles: there are 10 bottles standing and Aisha knocks down 6. How many are still standing?",
         "fr": "Pour se souvenir des quilles : il y a 10 bouteilles debout et Aisha en fait tomber 6. Combien en reste-t-il debout ?",
         "ar": "لنتذكّر لعبة البولينغ: هناك 10 قوارير واقفة، وأسقطت عائشة 6. كم قارورة بقيت واقفة؟"

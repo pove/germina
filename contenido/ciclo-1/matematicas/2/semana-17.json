@@ -225,11 +225,11 @@
       "rol": "tema",
       "tipoProblema": "combinar",
       "texto": {
-        "es": "Valentina tiene una carta de 60 y busca su pareja para llegar a 100. ¿Qué carta busca?",
-        "va": "Valentina té una carta de 60 i busca la seua parella per a arribar a 100. Quina carta busca?",
-        "en": "Valentina has a 60 card and is looking for its partner to make 100. Which card is she looking for?",
-        "fr": "Valentina a une carte de 60 et cherche sa paire pour arriver à 100. Quelle carte cherche-t-elle ?",
-        "ar": "مع فالنتينا ورقة عليها 60، وتبحث عن شريكتها لتصل إلى 100. أيّ ورقة تبحث عنها؟"
+        "es": "Valentina saca un 6 y lo piensa como 60. ¿Cuánto le falta para llegar a 100?",
+        "va": "Valentina trau un 6 i el pensa com a 60. Quant li falta per a arribar a 100?",
+        "en": "Valentina draws a 6 and thinks of it as 60. How much more makes 100?",
+        "fr": "Valentina tire un 6 et le compte comme 60. Combien lui manque-t-il pour arriver à 100 ?",
+        "ar": "تسحب فالنتينا الورقة 6 وتعدّها 60. كم ينقصها لتصل إلى 100؟"
       },
       "pista": {
         "es": "Piensa en 6 y 4, que juntos hacen 10.",
@@ -244,11 +244,11 @@
         "resultado": 40,
         "unidad": "unidades",
         "texto": {
-          "es": "Busca la carta de 40: {{60 + 40 = 100}}.",
-          "va": "Busca la carta de 40: {{60 + 40 = 100}}.",
-          "en": "She's looking for the 40 card: {{60 + 40 = 100}}.",
-          "fr": "Elle cherche la carte de 40 : {{60 + 40 = 100}}.",
-          "ar": "تبحث عن الورقة 40: {{60 + 40 = 100}}."
+          "es": "Le faltan 40: {{60 + 40 = 100}}.",
+          "va": "Li'n falten 40: {{60 + 40 = 100}}.",
+          "en": "40 more: {{60 + 40 = 100}}.",
+          "fr": "Il lui manque 40 : {{60 + 40 = 100}}.",
+          "ar": "ينقصها 40: {{60 + 40 = 100}}."
         }
       },
       "inventala": {
@@ -336,19 +336,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "0d96a73ecb4c"
+        "huella": "798fcbfb0eb5"
       },
       "en": {
         "estado": "automatica",
-        "huella": "0d96a73ecb4c"
+        "huella": "798fcbfb0eb5"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "0d96a73ecb4c"
+        "huella": "798fcbfb0eb5"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "0d96a73ecb4c"
+        "huella": "798fcbfb0eb5"
       }
     }
   }
