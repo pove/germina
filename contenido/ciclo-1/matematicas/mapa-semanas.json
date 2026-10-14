@@ -337,7 +337,8 @@
         ],
         "tiposProblema": [
           "anadir",
-          "combinar"
+          "combinar",
+          "detraccion"
         ],
         "recupera": [
           3,
@@ -363,7 +364,8 @@
         ],
         "tiposProblema": [
           "comparar",
-          "combinar"
+          "combinar",
+          "particion"
         ],
         "recupera": [
           9,
@@ -1207,7 +1209,8 @@
         ],
         "tiposProblema": [
           "combinar",
-          "dinero"
+          "dinero",
+          "comparar"
         ],
         "recupera": [
           5,
@@ -1234,7 +1237,8 @@
         ],
         "tiposProblema": [
           "combinar",
-          "suma-repetida"
+          "suma-repetida",
+          "escala-descendente"
         ],
         "recupera": [
           9,

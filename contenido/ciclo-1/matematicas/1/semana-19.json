@@ -255,16 +255,16 @@
       "tipoProblema": "combinar",
       "texto": {
         "es": "Para recordar: tienes 3 vasos con 10 legumbres cada uno y 4 legumbres sueltas. ¿Qué número es?",
-        "va": "Per a recordar: tens 3 gots amb 10 llegums cada un i 4 llegums soltes. Quin nombre és?",
+        "va": "Per a recordar: tens 3 gots amb 10 llegums cada un i 4 llegums solts. Quin nombre és?",
         "en": "Let's remember: you have 3 cups with 10 beans each and 4 loose beans. What number is that?",
         "fr": "Pour se souvenir : tu as 3 verres avec 10 haricots chacun et 4 haricots tout seuls. Quel nombre est-ce ?",
         "ar": "لنتذكّر: عندنا 3 أكواب في كل منها 10 حبّات، و4 حبّات وحدها. ما العدد؟"
       },
       "pista": {
         "es": "Cada vaso es una decena: cuenta los vasos de 10 en 10 y luego las sueltas.",
-        "va": "Cada got és una desena: compta els gots de 10 en 10 i després les soltes.",
+        "va": "Cada got és una desena: compta els gots de 10 en 10 i després els solts.",
         "en": "Each cup is a ten: count the cups in 10s and then the loose ones.",
-        "fr": "Chaque verre est une dizaine : compte les verres de 10 en 10, puis ceux qui sont seuls.",
+        "fr": "Chaque verre est une dizaine : compte les verres de 10 en 10, puis ceux qui sont tout seuls.",
         "ar": "كل كوب عشرة: لنعدّ الأكواب عشرة عشرة، ثم الحبّات الوحيدة."
       },
       "respuesta": {
