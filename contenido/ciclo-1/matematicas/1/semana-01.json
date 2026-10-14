@@ -137,11 +137,11 @@
       "rol": "tema",
       "tipoProblema": "combinar",
       "texto": {
-        "es": "En el frutero hay 3 manzanas y 2 plátanos. ¿Cuántas frutas hay?",
-        "va": "En el fruiter hi ha 3 pomes i 2 plàtans. Quantes fruites hi ha?",
-        "en": "In the fruit bowl there are 3 apples and 2 bananas. How many pieces of fruit are there?",
-        "fr": "Dans la corbeille, il y a 3 pommes et 2 bananes. Combien de fruits y a-t-il ?",
-        "ar": "في سلة الفواكه 3 تفاحات وموزتان. كم فاكهة يوجد؟"
+        "es": "En el frutero hay 8 manzanas y 4 plátanos. ¿Cuántas frutas hay?",
+        "va": "En el fruiter hi ha 8 pomes i 4 plàtans. Quantes fruites hi ha?",
+        "en": "In the fruit bowl there are 8 apples and 4 bananas. How many pieces of fruit are there?",
+        "fr": "Dans la corbeille, il y a 8 pommes et 4 bananes. Combien de fruits y a-t-il ?",
+        "ar": "في سلة الفواكه 8 تفاحات و4 موزات. كم فاكهة يوجد؟"
       },
       "pista": {
         "es": "Señala cada fruta una sola vez y di los números en voz alta.",
@@ -152,15 +152,15 @@
       },
       "respuesta": {
         "tipo": "calculo",
-        "operacion": "3 + 2",
-        "resultado": 5,
+        "operacion": "8 + 4",
+        "resultado": 12,
         "unidad": "unidades",
         "texto": {
-          "es": "Hay 5 frutas.",
-          "va": "Hi ha 5 fruites.",
-          "en": "There are 5 pieces of fruit.",
-          "fr": "Il y a 5 fruits.",
-          "ar": "يوجد 5 فواكه."
+          "es": "Hay 12 frutas.",
+          "va": "Hi ha 12 fruites.",
+          "en": "There are 12 pieces of fruit.",
+          "fr": "Il y a 12 fruits.",
+          "ar": "يوجد 12 فاكهة."
         }
       },
       "inventala": {
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "3051cc5e52c4"
+        "huella": "30e387030779"
       },
       "en": {
         "estado": "automatica",
-        "huella": "3051cc5e52c4"
+        "huella": "30e387030779"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "3051cc5e52c4"
+        "huella": "30e387030779"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "3051cc5e52c4"
+        "huella": "30e387030779"
       }
     }
   }

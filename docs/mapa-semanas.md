@@ -85,7 +85,7 @@ Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
 
 | Sem. | Saberes | Criterios | Tipos de problema | Idea de reto |
 | :-: | --- | --- | --- | --- |
-| 1 | numeros.recuento, numeros.usos-sociales | 7.1, 5.2 | comparar | La caza de números: buscar por casa grupos de 1 a 10 cosas iguales (3 cucharas, 5 pinzas…) y ponerlos en fila, del más pequeño al más grande. |
+| 1 | numeros.recuento, numeros.usos-sociales | 7.1, 5.2 | combinar, comparar | La caza de números: buscar por casa grupos de 1 a 10 cosas iguales (3 cucharas, 5 pinzas…) y ponerlos en fila, del más pequeño al más grande. |
 | 2 | numeros.recta-comparar, numeros.estructura | 2.3, 5.1 | anadir, detraccion | La escalera de pinzas: colgar pinzas en una cuerda, de una en una, y decir cuántas hay al poner una más y al quitar una. |
 | 3 | numeros.estructura, operaciones.calculo-mental | 2.2, 5.1 | combinar | Diez legumbres y dos manos: esconder las 10 entre las dos manos, enseñar una y adivinar cuántas hay en la otra. |
 | 4 | operaciones.suma-resta, operaciones.igualdad | 1.2, 5.3 | anadir, combinar | La oca de casa: un camino de 20 casillas iguales y numeradas en el suelo, tirar un dado y avanzar contando desde la casilla en la que se está. |
@@ -141,10 +141,10 @@ Fuente: `contenido/ciclo-1/matematicas/mapa-semanas.json`.
 
 | Sem. | Saberes | Criterios | Tipos de problema | Idea de reto |
 | :-: | --- | --- | --- | --- |
-| 1 | numeros.sistema-decimal, numeros.usos-sociales | 5.1, 5.2 | combinar | Vasos de 10: meter legumbres de 10 en 10 en vasos, dejar las sueltas al lado y decir el número que sale. |
+| 1 | numeros.sistema-decimal, numeros.usos-sociales | 5.1, 5.2 | combinar, escala-ascendente | Vasos de 10: meter legumbres de 10 en 10 en vasos, dejar las sueltas al lado y decir el número que sale. |
 | 2 | operaciones.suma-resta, operaciones.calculo-mental | 2.4, 1.2 | anadir, detraccion | La tienda de paquetes: paquetes de 10 palillos y sueltos; comprar y vender juntando y quitando paquetes y sueltos. |
-| 3 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 2.3 | combinar | Platos de 100: llenar 10 vasos de 10 legumbres, ponerlos en un plato y descubrir que en el plato hay 100. |
-| 4 | numeros.recta-comparar, operaciones.igualdad | 5.2, 2.4 | comparar | Cartas de cifras: sacar tres cartas del 0 al 9 y formar el número más grande y el más pequeño posibles. |
+| 3 | numeros.sistema-decimal, numeros.recta-comparar | 5.2, 2.3 | combinar, anadir | Platos de 100: llenar 10 vasos de 10 legumbres, ponerlos en un plato y descubrir que en el plato hay 100. |
+| 4 | numeros.recta-comparar, operaciones.igualdad | 5.2, 2.4 | comparar, combinar | Cartas de cifras: sacar tres cartas del 0 al 9 y formar el número más grande y el más pequeño posibles. |
 | 5 | operaciones.suma-resta, numeros.sistema-decimal | 5.1, 2.4 | anadir, combinar | El banco de las legumbres: sumar con vasos de 10 y, cuando hay 10 sueltas, cambiarlas por un vaso. |
 | 6 | numeros.sistema-decimal, operaciones.suma-resta, numeros.recta-comparar | 2.4, 8.2 | combinar, anadir<br>Recupera: 1, 2, 3, 4, 5 | Al 100 con dados: tirar dos dados por turnos, sumar los puntos y ver quién llega antes a 100. |
 | 7 | operaciones.suma-resta, operaciones.frustracion | 5.1, 8.1 | detraccion | Paquetes de palillos: para quitar 7 a 32, soltar la goma de un paquete y contar las sueltas. |

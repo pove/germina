@@ -162,11 +162,11 @@
       "rol": "tema",
       "tipoProblema": "comparar",
       "texto": {
-        "es": "En la calle de Wei, los portales van del 409 al 411. ¿Qué número tiene el portal de en medio?",
-        "va": "En el carrer de Wei, els portals van del 409 al 411. Quin nombre té el portal del mig?",
-        "en": "On Wei's street, the doors go from 409 to 411. What number is the door in the middle?",
-        "fr": "Dans la rue de Wei, les portes vont du 409 au 411. Quel numéro a la porte du milieu ?",
-        "ar": "في شارع وي، أرقام المداخل من 409 إلى 411. ما رقم المدخل الذي في الوسط؟"
+        "es": "Wei espera su turno en la carnicería. La pantalla pasa del 409 al 411. ¿Qué número se ha saltado?",
+        "va": "Wei espera el seu torn en la carnisseria. La pantalla passa del 409 al 411. Quin número s'ha botat?",
+        "en": "Wei is waiting for his turn at the butcher's. The screen goes from 409 to 411. Which number has it skipped?",
+        "fr": "Wei attend son tour à la boucherie. L'écran passe du 409 au 411. Quel numéro a-t-il sauté ?",
+        "ar": "ينتظر وي دوره في الملحمة. تنتقل الشاشة من 409 إلى 411. ما الرقم الذي تخطّته؟"
       },
       "pista": {
         "es": "Cuenta hacia arriba desde el 409, de uno en uno.",
@@ -181,11 +181,11 @@
         "resultado": 410,
         "unidad": "unidades",
         "texto": {
-          "es": "Es el portal 410.",
-          "va": "És el portal 410.",
-          "en": "It's door number 410.",
-          "fr": "C'est la porte 410.",
-          "ar": "إنه المدخل رقم 410."
+          "es": "Se ha saltado el 410.",
+          "va": "S'ha botat el 410.",
+          "en": "It has skipped 410.",
+          "fr": "Il a sauté le 410.",
+          "ar": "تخطّت الرقم 410."
         }
       },
       "inventala": {
@@ -312,19 +312,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "8cd6fea070b3"
+        "huella": "778322023ee3"
       },
       "en": {
         "estado": "automatica",
-        "huella": "8cd6fea070b3"
+        "huella": "778322023ee3"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "8cd6fea070b3"
+        "huella": "778322023ee3"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "8cd6fea070b3"
+        "huella": "778322023ee3"
       }
     }
   }

@@ -167,7 +167,7 @@
           "va": "Té 132 adhesius: 1 centena, 3 desenes i 2 unitats.",
           "en": "She has 132 stickers: 1 hundred, 3 tens and 2 ones.",
           "fr": "Elle a 132 autocollants : 1 centaine, 3 dizaines et 2 unités.",
-          "ar": "عندها 132 ملصقًا: مئة واحدة و3 عشرات و2 من الآحاد."
+          "ar": "عندها 132 ملصقًا: مئة واحدة و3 عشرات و2 آحاد."
         }
       },
       "inventala": {
@@ -301,10 +301,10 @@
       "rol": "explicamelo",
       "tipoProblema": "abierta",
       "texto": {
-        "es": "¿Qué cosas de casa crees que podrían ser 100? Explícame cómo lo comprobarías.",
-        "va": "Quines coses de casa creus que podrien ser 100? Explica'm com ho comprovaries.",
+        "es": "¿De qué cosas de casa crees que podría haber 100? Explícame cómo lo comprobarías.",
+        "va": "De quines coses de casa creus que n'hi podria haver 100? Explica'm com ho comprovaries.",
         "en": "What things at home do you think there could be 100 of? Explain to me how you would check.",
-        "fr": "Quelles choses de la maison pourraient être 100, d'après toi ? Explique-moi comment tu le vérifierais.",
+        "fr": "De quelles choses pourrait-il y avoir 100 à la maison, d'après toi ? Explique-moi comment tu le vérifierais.",
         "ar": "ما الأشياء في البيت التي قد يكون عددها 100؟ لنشرح كيف نتحقّق من ذلك."
       },
       "pista": {
@@ -317,8 +317,8 @@
       "respuesta": {
         "tipo": "abierta",
         "orientacion": {
-          "es": "Cualquier idea vale: pinzas, cuentas, páginas… Escuchad cómo piensa contarlas, preguntad «¿y luego?» y dad las gracias por la explicación.",
-          "va": "Qualsevol idea val: pinces, comptes, pàgines… Escolteu com pensa comptar-les, pregunteu «i després?» i doneu les gràcies per l'explicació.",
+          "es": "Cualquier idea vale: pinzas, bolitas de un collar, páginas… Escuchad cómo piensa contarlas, preguntad «¿y luego?» y dad las gracias por la explicación.",
+          "va": "Qualsevol idea val: pinces, boletes d'un collar, pàgines… Escolteu com pensa comptar-les, pregunteu «i després?» i doneu les gràcies per l'explicació.",
           "en": "Any idea is fine: pegs, beads, pages… Listen to how they plan to count them, ask “And then?” and say thank you for the explanation.",
           "fr": "Toutes les idées sont bonnes : pinces, perles, pages… Écoutez comment il ou elle compte s'y prendre, demandez « Et après ? » et dites merci pour l'explication.",
           "ar": "كل فكرة مقبولة: ملاقط، خرز، صفحات… استمعوا إلى طريقة العدّ المقترحة، واسألوا «ثم ماذا؟»، وقولوا شكرًا على الشرح."
@@ -333,19 +333,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "a27d815425e1"
+        "huella": "691dcd3976aa"
       },
       "en": {
         "estado": "automatica",
-        "huella": "a27d815425e1"
+        "huella": "691dcd3976aa"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "a27d815425e1"
+        "huella": "691dcd3976aa"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "a27d815425e1"
+        "huella": "691dcd3976aa"
       }
     }
   }

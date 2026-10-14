@@ -144,11 +144,11 @@
         "ar": "على الرفّ 26 قصة، وأحضرت الجدّة 7 قصص أخرى. كم قصة على الرفّ الآن؟"
       },
       "pista": {
-        "es": "6 y 7 son 13: con 10 de ellas haces una decena más.",
-        "va": "6 i 7 són 13: amb 10 d'elles fas una desena més.",
-        "en": "6 and 7 make 13: with 10 of them you make one more ten.",
-        "fr": "6 et 7, ça fait 13 : avec 10 d'entre elles, tu fais une dizaine de plus.",
-        "ar": "6 و7 تساوي 13: بعشرة منها نكوّن عشرة إضافية."
+        "es": "6 y 7 son 13 unidades: con 10 haces una decena más.",
+        "va": "6 i 7 són 13 unitats: amb 10 en fas una desena més.",
+        "en": "6 and 7 make 13 ones: with 10 of them you make one more ten.",
+        "fr": "6 et 7, ça fait 13 unités : avec 10 d'entre elles, tu fais une dizaine de plus.",
+        "ar": "6 آحاد و7 آحاد تساوي 13: بعشرة منها نكوّن عشرة إضافية."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -286,7 +286,7 @@
         "va": "Inventa'n tu una altra amb un nombre redó, com 300 o 800.",
         "en": "Make up another one with a round number, like 300 or 800.",
         "fr": "Invente-en une autre avec un nombre rond, comme 300 ou 800.",
-        "ar": "لنخترع سؤالًا آخر بعدد مدوّر، مثل 300 أو 800."
+        "ar": "لنخترع سؤالًا آخر بعدد من المئات الكاملة، مثل 300 أو 800."
       }
     },
     {
@@ -326,19 +326,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "604cdd3c5e61"
+        "huella": "98ae5bb0d70d"
       },
       "en": {
         "estado": "automatica",
-        "huella": "604cdd3c5e61"
+        "huella": "98ae5bb0d70d"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "604cdd3c5e61"
+        "huella": "98ae5bb0d70d"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "604cdd3c5e61"
+        "huella": "98ae5bb0d70d"
       }
     }
   }
