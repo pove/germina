@@ -172,7 +172,7 @@
       },
       "inventala": {
         "es": "Ahora inventa tú una con los pares de zapatos de tu casa.",
-        "va": "Ara inventa'n tu una amb els parells de sabates de ta casa.",
+        "va": "Ara inventa'n tu una amb els parells de sabates de casa.",
         "en": "Now you make one up with the pairs of shoes in your home.",
         "fr": "Maintenant, invente une question avec les paires de chaussures de ta maison.",
         "ar": "والآن لنخترع سؤالًا بأزواج الأحذية في البيت."
@@ -181,7 +181,7 @@
     {
       "id": "p2",
       "rol": "tema",
-      "tipoProblema": "suma-repetida",
+      "tipoProblema": "particion",
       "texto": {
         "es": "En el cumpleaños de Fátima hay 9 niños y niñas. Si se ponen por parejas, ¿sobra alguien?",
         "va": "En l'aniversari de Fátima hi ha 9 xiquets i xiquetes. Si es posen per parelles, en sobra algun?",

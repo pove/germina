@@ -172,18 +172,18 @@
       "rol": "tema",
       "tipoProblema": "escala-ascendente",
       "texto": {
-        "es": "En la huevera caben 10 huevos y hay 8. ¿Cuántos faltan para llenarla?",
-        "va": "En l'ouera caben 10 ous i n'hi ha 8. Quants en falten per a omplir-la?",
-        "en": "The egg box holds 10 eggs and there are 8. How many more to fill it?",
-        "fr": "La boîte à œufs peut contenir 10 œufs et il y en a 8. Combien en manque-t-il pour la remplir ?",
-        "ar": "علبة البيض تتّسع لـ10 بيضات وفيها 8. كم بيضة تنقص لتمتلئ؟"
+        "es": "En el juego de bolos hay 10 bolos. Ya has puesto 8 de pie. ¿Cuántos faltan por poner?",
+        "va": "En el joc de bitlles hi ha 10 bitlles. Ja n'has posat 8 dretes. Quantes en falten per posar?",
+        "en": "A skittles set has 10 skittles. You've already stood up 8. How many more are there to stand up?",
+        "fr": "Un jeu de quilles a 10 quilles. Tu en as déjà mis 8 debout. Combien en reste-t-il à mettre ?",
+        "ar": "في لعبة البولينغ 10 قطع. وقد أوقفنا 8 منها. كم قطعة بقيت لنوقفها؟"
       },
       "pista": {
-        "es": "Cuenta los huecos vacíos de la huevera.",
-        "va": "Compta els buits de l'ouera.",
-        "en": "Count the empty spaces in the egg box.",
-        "fr": "Compte les places vides dans la boîte.",
-        "ar": "لنعدّ الأماكن الفارغة في العلبة."
+        "es": "Cuenta con los dedos desde el 8 hasta el 10.",
+        "va": "Compta amb els dits des del 8 fins al 10.",
+        "en": "Count on your fingers from 8 to 10.",
+        "fr": "Compte sur tes doigts de 8 jusqu'à 10.",
+        "ar": "لنعدّ بالأصابع من 8 إلى 10."
       },
       "respuesta": {
         "tipo": "calculo",
@@ -191,11 +191,11 @@
         "resultado": 2,
         "unidad": "unidades",
         "texto": {
-          "es": "Faltan 2 huevos, porque {{8 + 2 = 10}}.",
+          "es": "Faltan 2 bolos, porque {{8 + 2 = 10}}.",
           "va": "En falten 2, perquè {{8 + 2 = 10}}.",
-          "en": "2 eggs are missing, because {{8 + 2 = 10}}.",
-          "fr": "Il manque 2 œufs, parce que {{8 + 2 = 10}}.",
-          "ar": "تنقص بيضتان، لأن {{8 + 2 = 10}}."
+          "en": "There are 2 more to stand up, because {{8 + 2 = 10}}.",
+          "fr": "Il en reste 2, parce que {{8 + 2 = 10}}.",
+          "ar": "بقيت قطعتان، لأن {{8 + 2 = 10}}."
         }
       },
       "inventala": {
@@ -254,7 +254,7 @@
         "es": "Para recordar: en el cajón hay 10 calcetines sueltos. ¿Puedes hacer parejas sin que sobre ninguno?",
         "va": "Per a recordar: al calaix hi ha 10 calcetins solts. Pots fer parelles sense que en sobre cap?",
         "en": "Let's remember: there are 10 loose socks in the drawer. Can you make pairs without any left over?",
-        "fr": "Pour se souvenir : dans le tiroir, il y a 10 chaussettes dépareillées. Peux-tu faire des paires sans qu'il en reste ?",
+        "fr": "Pour se souvenir : dans le tiroir, il y a 10 chaussettes en vrac. Peux-tu faire des paires sans qu'il en reste ?",
         "ar": "لنتذكّر: في الدرج 10 جوارب متفرّقة. هل نستطيع تكوين أزواج من دون أن يبقى شيء؟"
       },
       "pista": {
@@ -322,19 +322,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "6cf16dbab946"
+        "huella": "c684c4d8f576"
       },
       "en": {
         "estado": "automatica",
-        "huella": "6cf16dbab946"
+        "huella": "c684c4d8f576"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "6cf16dbab946"
+        "huella": "c684c4d8f576"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "6cf16dbab946"
+        "huella": "c684c4d8f576"
       }
     }
   }

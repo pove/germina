@@ -216,13 +216,13 @@
     {
       "id": "p3",
       "rol": "tema",
-      "tipoProblema": "combinar",
+      "tipoProblema": "escala-ascendente",
       "texto": {
-        "es": "Valentina y su tía quieren juntar 100 piezas de puzle. Ya tienen 60. ¿Cuántas les faltan?",
-        "va": "Valentina i sa tia volen ajuntar 100 peces de trencaclosques. Ja en tenen 60. Quantes els en falten?",
-        "en": "Valentina and her aunt want to collect 100 jigsaw pieces. They already have 60. How many are they missing?",
-        "fr": "Valentina et sa tante veulent réunir 100 pièces de puzzle. Elles en ont déjà 60. Combien leur en manque-t-il ?",
-        "ar": "تريد فالنتينا وعمّتها جمع 100 قطعة من الأحجية. عندهما 60. كم قطعة تنقصهما؟"
+        "es": "Valentina y su tía hacen un puzle de 100 piezas. Ya han colocado 60. ¿Cuántas les faltan?",
+        "va": "Valentina i sa tia fan un trencaclosques de 100 peces. Ja n'han col·locat 60. Quantes els en falten?",
+        "en": "Valentina and her aunt are doing a 100-piece jigsaw. They've already put in 60. How many pieces are left?",
+        "fr": "Valentina et sa tante font un puzzle de 100 pièces. Elles en ont déjà posé 60. Combien leur en manque-t-il ?",
+        "ar": "تركّب فالنتينا وعمّتها أحجية من 100 قطعة. وضعتا 60 قطعة حتى الآن. كم قطعة تنقصهما؟"
       },
       "pista": {
         "es": "Piensa en la pareja del 6 para llegar a 10.",
@@ -239,7 +239,7 @@
         "texto": {
           "es": "Les faltan 40 piezas: {{60 + 40 = 100}}.",
           "va": "Els en falten 40: {{60 + 40 = 100}}.",
-          "en": "They're 40 pieces short: {{60 + 40 = 100}}.",
+          "en": "There are 40 pieces left: {{60 + 40 = 100}}.",
           "fr": "Il leur en manque 40 : {{60 + 40 = 100}}.",
           "ar": "تنقصهما 40 قطعة: {{60 + 40 = 100}}."
         }
@@ -329,19 +329,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "8747a0c9887a"
+        "huella": "0da288d58d75"
       },
       "en": {
         "estado": "automatica",
-        "huella": "8747a0c9887a"
+        "huella": "0da288d58d75"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "8747a0c9887a"
+        "huella": "0da288d58d75"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "8747a0c9887a"
+        "huella": "0da288d58d75"
       }
     }
   }
