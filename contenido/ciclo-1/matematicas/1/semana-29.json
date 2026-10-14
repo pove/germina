@@ -146,14 +146,14 @@
       "tipoProblema": "particion",
       "texto": {
         "es": "Mateo y su abuela reparten 10 uvas a partes iguales. ¿Cuántas uvas le tocan a cada persona?",
-        "va": "Mateo i la seua iaia reparteixen 10 raïms a parts iguals. Quants raïms li toquen a cada persona?",
+        "va": "Mateo i la seua iaia repartixen 10 grans de raïm a parts iguals. Quants grans li'n toquen a cada persona?",
         "en": "Mateo and his grandma share out 10 grapes equally. How many grapes does each person get?",
-        "fr": "Mateo et sa grand-mère partagent 10 raisins en parts égales. Combien de raisins chaque personne a-t-elle ?",
+        "fr": "Mateo et sa grand-mère partagent 10 grains de raisin en parts égales. Combien de grains chaque personne a-t-elle ?",
         "ar": "يوزّع ماتيو وجدّته 10 حبات عنب بالتساوي. كم حبة يأخذ كل واحد منهما؟"
       },
       "pista": {
         "es": "Repártelas de una en una: una para ti, una para mí.",
-        "va": "Reparteix-los d'un en un: un per a tu, un per a mi.",
+        "va": "Repartix-los d'un en un: un per a tu, un per a mi.",
         "en": "Share them out one at a time: one for you, one for me.",
         "fr": "Partage-les un par un : un pour toi, un pour moi.",
         "ar": "لنوزّعها حبة حبة: واحدة لك، وواحدة لي."
@@ -165,9 +165,9 @@
         "unidad": "unidades",
         "texto": {
           "es": "A cada persona le tocan 5 uvas, porque {{5 + 5 = 10}}.",
-          "va": "A cada persona li toquen 5 raïms, perquè {{5 + 5 = 10}}.",
+          "va": "A cada persona li'n toquen 5, perquè {{5 + 5 = 10}}.",
           "en": "Each person gets 5 grapes, because {{5 + 5 = 10}}.",
-          "fr": "Chaque personne a 5 raisins, parce que {{5 + 5 = 10}}.",
+          "fr": "Chaque personne a 5 grains de raisin, parce que {{5 + 5 = 10}}.",
           "ar": "يأخذ كل واحد منهما 5 حبات، لأن {{5 + 5 = 10}}."
         }
       },
@@ -231,7 +231,7 @@
       },
       "pista": {
         "es": "Dilo en voz alta, como una canción, y sigue el ritmo.",
-        "va": "Digues-ho en veu alta, com una cançó, i segueix el ritme.",
+        "va": "Digues-ho en veu alta, com una cançó, i seguix el ritme.",
         "en": "Say it out loud, like a song, and keep the rhythm going.",
         "fr": "Dis-le à voix haute, comme une chanson, et suis le rythme.",
         "ar": "لنقلها بصوت عالٍ، مثل أغنية، ونتابع الإيقاع."
@@ -248,7 +248,7 @@
       },
       "inventala": {
         "es": "Inventa tú un patrón con cucharas y tenedores y pregunta qué viene después.",
-        "va": "Inventa tu un patró amb culleres i forquetes i pregunta què ve després.",
+        "va": "Inventa tu un patró amb culleres i forquilles i pregunta què ve després.",
         "en": "Make up a pattern with spoons and forks and ask what comes next.",
         "fr": "Invente un motif avec des cuillères et des fourchettes et demande ce qui vient après.",
         "ar": "لنخترع نمطًا بالملاعق والشوكات ونسأل: ما التالي؟"
@@ -285,7 +285,7 @@
       },
       "inventala": {
         "es": "Inventa tú otra con la hora a la que cenáis.",
-        "va": "Inventa'n tu una altra amb l'hora a la qual sopeu.",
+        "va": "Inventa'n tu una altra amb l'hora a què sopeu.",
         "en": "Make up another one with the time you have dinner.",
         "fr": "Invente-en une autre avec l'heure à laquelle vous dînez.",
         "ar": "لنخترع سؤالًا آخر عن ساعة العشاء."

@@ -146,9 +146,9 @@
       "tipoProblema": "particion",
       "texto": {
         "es": "Sara reparte 13 uvas entre ella y su padre, de una en una. ¿Cuántas tocan a cada uno? ¿Sobra alguna?",
-        "va": "Sara reparteix 13 raïms entre ella i son pare, d'un en un. Quants en toquen a cadascú? En sobra algun?",
+        "va": "Sara repartix 13 grans de raïm entre ella i son pare, d'un en un. Quants en toquen a cadascú? En sobra algun?",
         "en": "Sara shares out 13 grapes between herself and her dad, one at a time. How many does each get? Are any left over?",
-        "fr": "Sara partage 13 raisins entre elle et son papa, un par un. Combien chacun en a-t-il ? Est-ce qu'il en reste ?",
+        "fr": "Sara partage 13 grains de raisin entre elle et son papa, un par un. Combien chacun en a-t-il ? Est-ce qu'il en reste ?",
         "ar": "توزّع سارة 13 حبة عنب بينها وبين أبيها، واحدة واحدة. كم حبة لكل واحد؟ هل بقي شيء؟"
       },
       "pista": {
@@ -264,14 +264,14 @@
       "tipoProblema": "producto-cartesiano",
       "texto": {
         "es": "Para recordar: el peluche tiene 2 gorros y 3 bufandas. ¿De cuántas maneras distintas puede vestirse?",
-        "va": "Per a recordar: el ninot de peluix té 2 gorres i 3 bufandes. De quantes maneres diferents es pot vestir?",
+        "va": "Per a recordar: el ninot de peluix té 2 gorros i 3 bufandes. De quantes maneres diferents es pot vestir?",
         "en": "Let's remember: the teddy has 2 hats and 3 scarves. In how many different ways can it get dressed?",
         "fr": "Pour se souvenir : la peluche a 2 bonnets et 3 écharpes. De combien de façons différentes peut-elle s'habiller ?",
         "ar": "لنتذكّر: عند الدمية قبّعتان و3 أوشحة. بكم طريقة مختلفة يمكن أن تلبس؟"
       },
       "pista": {
         "es": "Pon el primer gorro y cámbiale las 3 bufandas, una a una; luego, haz lo mismo con el otro gorro.",
-        "va": "Posa-li la primera gorra i canvia-li les 3 bufandes, una a una; després, fes el mateix amb l'altra gorra.",
+        "va": "Posa-li el primer gorro i canvia-li les 3 bufandes, una a una; després, fes el mateix amb l'altre gorro.",
         "en": "Put on the first hat and try the 3 scarves; then do the same with the other hat.",
         "fr": "Mets le premier bonnet et essaie les 3 écharpes ; ensuite, fais pareil avec l'autre bonnet.",
         "ar": "لنضع القبّعة الأولى ونجرّب الأوشحة الثلاثة، ثم نفعل الشيء نفسه بالقبّعة الأخرى."
@@ -283,7 +283,7 @@
         "unidad": "unidades",
         "texto": {
           "es": "De 6 maneras: con cada gorro, 3 bufandas. {{2 × 3 = 6}}.",
-          "va": "De 6 maneres: amb cada gorra, 3 bufandes. {{2 × 3 = 6}}.",
+          "va": "De 6 maneres: amb cada gorro, 3 bufandes. {{2 × 3 = 6}}.",
           "en": "In 6 ways: with each hat, 3 scarves. {{2 × 3 = 6}}.",
           "fr": "De 6 façons : avec chaque bonnet, 3 écharpes. {{2 × 3 = 6}}.",
           "ar": "بـ 6 طرق: مع كل قبّعة 3 أوشحة. {{2 × 3 = 6}}."
@@ -310,10 +310,10 @@
       },
       "pista": {
         "es": "Si no sabe por dónde empezar: «¿Me enseñas con estas pinzas cómo repartías la merienda?»",
-        "va": "Si no sap per on començar: «M'ensenyes amb estes pinces com repartires el berenar?»",
+        "va": "Si no sap per on començar: «M'ensenyes amb estes pinces com repartíes el berenar?»",
         "en": "If they don't know where to start: “Can you show me with these pegs how you shared out the snack?”",
         "fr": "S'il ou elle ne sait pas par où commencer : « Tu me montres avec ces pinces comment tu partageais le goûter ? »",
-        "ar": "إذا صعُبت البداية، اسألوا: «هل نُري بهذه الملاقط كيف كنّا نوزّع اللمجة؟»"
+        "ar": "إذا صعُبت البداية، اسألوا: «هل نُري بهذه الملاقط كيف كنّا نوزّع الوجبة الخفيفة؟»"
       },
       "respuesta": {
         "tipo": "abierta",

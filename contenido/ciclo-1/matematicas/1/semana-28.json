@@ -247,11 +247,11 @@
       "recupera": 11,
       "tipoProblema": "comparar",
       "texto": {
-        "es": "¿Qué número es mayor, 46 o 64? ¿Cómo lo sabes?",
-        "va": "Quin nombre és major (mayor), 46 o 64? Com ho saps?",
-        "en": "Which number is greater (mayor), 46 or 64? How do you know?",
-        "fr": "Quel nombre est le plus grand (mayor), 46 ou 64 ? Comment le sais-tu ?",
-        "ar": "أيّ العددين أكبر (mayor)، 46 أم 64؟ كيف نعرف؟"
+        "es": "Para recordar: ¿qué número es mayor, 46 o 64? ¿Cómo lo sabes?",
+        "va": "Per a recordar: quin nombre és major (mayor), 46 o 64? Com ho saps?",
+        "en": "Let's remember: which number is greater (mayor), 46 or 64? How do you know?",
+        "fr": "Pour se souvenir : quel nombre est le plus grand (mayor), 46 ou 64 ? Comment le sais-tu ?",
+        "ar": "لنتذكّر: أيّ العددين أكبر (mayor)، 46 أم 64؟ كيف نعرف؟"
       },
       "pista": {
         "es": "Piensa en paquetes de 10: ¿cuántos paquetes tiene cada número?",
@@ -315,19 +315,19 @@
     "traducciones": {
       "va": {
         "estado": "automatica",
-        "huella": "c80e0232c4bf"
+        "huella": "55542e7ce6f0"
       },
       "en": {
         "estado": "automatica",
-        "huella": "c80e0232c4bf"
+        "huella": "55542e7ce6f0"
       },
       "fr": {
         "estado": "automatica",
-        "huella": "c80e0232c4bf"
+        "huella": "55542e7ce6f0"
       },
       "ar": {
         "estado": "automatica",
-        "huella": "c80e0232c4bf"
+        "huella": "55542e7ce6f0"
       }
     }
   }
