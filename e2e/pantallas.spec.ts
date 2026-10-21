@@ -239,9 +239,8 @@ for (const idioma of IDIOMAS) {
       await page.getByRole('searchbox', { name: T('buscar.etiqueta', idioma) }).fill('millar');
       await page.getByRole('button', { name: T('buscar.boton', idioma), exact: true }).click();
       await expect(page.getByRole('status')).toContainText(T('buscar.encontradas', idioma, { n: '' }).trim());
-      // Primero el curso de la familia (3.º), y nada del 1.er ciclo, que no llega al millar.
-      await expect(page.getByRole('heading', { level: 2 }).first()).toHaveText(new RegExp(`${T('curso.3', idioma)}$`));
-      await expect(page.getByRole('heading', { level: 2, name: new RegExp(T('ciclo.1', idioma)) })).toHaveCount(0);
+      // Por curso, sin hablar de ciclos: primero el de la familia (3.º), luego 4.º, y nada de 1.º ni 2.º, que no llegan al millar.
+      await expect(page.getByRole('heading', { level: 2 })).toHaveText([3, 4].map((n) => `${idioma === 'ar' ? 'الرياضيات' : 'Matemáticas'} · ${T(`curso.${n}`, idioma)}`));
       const semana2 = page.getByRole('link', { name: new RegExp(`^${T('semana.titulo', idioma, { n: 2 })} · `) }).first();
       await expect(semana2).toBeVisible();
       await sinProblemasDeAccesibilidad(page);
