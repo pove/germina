@@ -32,7 +32,7 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | `#/{ciclo}/{area}/{curso}/verano/{n}` y `…/verano/{n}/reto` | Igual que una semana, para los retos de verano |
 | `#/{ciclo}/{area}/{curso}/jardin` | **El jardín**: las 41 semanas y los 10 retos de verano; tocar una planta lleva a su semana. Botón «?» con la explicación de semilla y jardín |
 | `#/{ciclo}/{area}/{curso}/aprenden` | **Qué aprenden este curso**: una entrada corta, las frases del curso por trimestre, los bloques de saberes del ciclo y las fuentes (`objetivos.json`) |
-| `#/buscar` | **Buscar en las semillas**: un campo y el botón «Buscar»; salen las semanas y los retos de verano donde aparecen las palabras, agrupados por curso (primero los de la familia), cada uno con su enlace y dónde sale (lo que descubren, el reto, la pregunta n.º) |
+| `#/buscar` | **Buscar en las semillas**: un campo y el botón «Buscar»; salen las semanas y los retos de verano donde aparecen las palabras, agrupados por curso, con el área y el curso y sin hablar de ciclos («Matemáticas · 3.º»; primero los de la familia), cada uno con su enlace y dónde sale (lo que descubren, el reto, la pregunta n.º) |
 | `#/ayuda` | **Cómo ayudar**: las ideas, «Por qué Germina» y las fuentes (`contenido/comun/como-ayudar.json`) |
 | `#/ajustes` | Idioma, cursos, «Llevar el jardín a otro móvil», empezar de cero, privacidad, accesibilidad, cómo instalar |
 | `#/ajustes/pasar` | «Llevar el jardín a otro móvil»: enlace, QR y texto (6.3) |

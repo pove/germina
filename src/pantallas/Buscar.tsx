@@ -6,11 +6,11 @@ import { cargarBusqueda, useCarga } from '../contenido';
 import { datos } from '../estado';
 import { idioma, t } from '../idioma';
 import { buscar, porCurso, type Coincidencia, type Resultado } from '../nucleo/buscar';
-import { esCursoActivo, type Catalogo } from '../nucleo/catalogo';
+import { esCursoActivo, nombreDeArea, type Catalogo } from '../nucleo/catalogo';
 import { construir } from '../nucleo/rutas';
 import { leerClaveCurso, leerClaveSemilla, type Curso } from '../nucleo/tipos';
 import { Cargando } from '../piezas/Carga';
-import { contexto } from '../piezas/Layout';
+import { rotuloCurso } from '../piezas/Layout';
 import { Marcado } from '../piezas/Marcado';
 
 const catalogo = catalogoJson as Catalogo;
@@ -110,7 +110,10 @@ export function Buscar() {
         const id = `curso-${curso.ciclo}-${curso.area}-${curso.curso}`;
         return (
           <section key={id} class="tarjeta" aria-labelledby={id}>
-            <h2 id={id}>{contexto(curso)}</h2>
+            {/* Las familias conocen el curso, no el ciclo: «Matemáticas · 3.º», como en la banda del curso. */}
+            <h2 id={id}>
+              {nombreDeArea(curso.area, idioma.value, catalogo)} · {rotuloCurso(curso)}
+            </h2>
             <ul class="resultados">
               {resultados.map((r) => (
                 <Semilla key={r.clave} curso={curso} resultado={r} />
