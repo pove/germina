@@ -103,6 +103,16 @@ Abre Germina a 1.º y 2.º con el mismo formato: una semilla por semana y lo jug
 
 **Comprobación:** `npm run check` pasa. Los tests de extremo a extremo cubren, en `es` y `ar`: bienvenida con 1.º → semana actual; marcar algo y verlo en el jardín; el cambio de 2.º a 3.º. axe sin infracciones serias ni críticas.
 
+## Etapa 11. Buscar en las semillas
+
+Una opción «Buscar» en el menú para saber en qué semanas y cursos sale un tema (por ejemplo, el millar).
+
+- [x] **Especificación:** la ruta `#/buscar`, el menú, qué se busca y la caché de los índices (3 y 7).
+- [x] **Índices:** `scripts/lib/busqueda.mjs` genera `contenido/busqueda-{idioma}.json` al construir y en desarrollo, con sus tests.
+- [x] **Aplicación:** `src/nucleo/buscar.ts` (normalizar, palabras, buscar y agrupar por curso, con tests), la pantalla `src/pantallas/Buscar.tsx` y sus textos en los cinco idiomas.
+
+**Comprobación:** `npm run check` pasa. Los tests de extremo a extremo cubren, en `es` y `ar`: abrir Buscar desde el menú, encontrar el millar en 3.º y no en el 1.er ciclo, ir a la semana y volver con la búsqueda intacta, y una búsqueda sin nada. axe sin infracciones serias ni críticas.
+
 ## Fuera de la primera versión
 
 Audio, otras áreas y el 3.er ciclo (la estructura sí está preparada), notificaciones, cuentas o sincronización automática, y cualquier juego en pantalla aparte del cronómetro.

@@ -2,7 +2,8 @@
 import { useEffect, useState } from 'preact/hooks';
 import { huella } from './nucleo/huella';
 import { rutaSemilla, type Indice } from './nucleo/semillas';
-import { claveSemana, claveVerano, type Curso } from './nucleo/tipos';
+import { claveSemana, claveVerano, type Curso, type Idioma } from './nucleo/tipos';
+import type { IndiceBusqueda } from './nucleo/buscar';
 import type { ComoAyudar, Mapa, Objetivos, SemillaContenido } from './nucleo/contenido';
 
 const base = import.meta.env.BASE_URL;
@@ -56,6 +57,11 @@ export async function cargarSemilla(curso: Curso, verano: boolean, n: number): P
 
 export const cargarMapa = (c: Curso): Promise<Mapa> => pedir<Mapa>(`${carpeta(c)}/mapa-semanas.json`);
 export const cargarObjetivos = (c: Curso): Promise<Objetivos> => pedir<Objetivos>(`${carpeta(c)}/objetivos.json`);
+/** El índice para buscar en el idioma elegido y, si es otro, también el de español. */
+export const cargarBusqueda = (idioma: Idioma): Promise<{ indice: IndiceBusqueda; espanol: IndiceBusqueda | null }> =>
+  Promise.all([pedir<IndiceBusqueda>(`contenido/busqueda-${idioma}.json`), idioma === 'es' ? null : pedir<IndiceBusqueda>('contenido/busqueda-es.json')]).then(
+    ([indice, espanol]) => ({ indice, espanol }),
+  );
 export const cargarComoAyudar = (): Promise<ComoAyudar> => pedir<ComoAyudar>('contenido/comun/como-ayudar.json');
 
 export type Carga<T> = { estado: 'cargando' } | { estado: 'error'; reintentar: () => void } | { estado: 'listo'; valor: T };

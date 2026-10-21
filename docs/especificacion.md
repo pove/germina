@@ -32,13 +32,14 @@ Navegación con almohadilla (GitHub Pages solo sirve archivos estáticos). Sitio
 | `#/{ciclo}/{area}/{curso}/verano/{n}` y `…/verano/{n}/reto` | Igual que una semana, para los retos de verano |
 | `#/{ciclo}/{area}/{curso}/jardin` | **El jardín**: las 41 semanas y los 10 retos de verano; tocar una planta lleva a su semana. Botón «?» con la explicación de semilla y jardín |
 | `#/{ciclo}/{area}/{curso}/aprenden` | **Qué aprenden este curso**: una entrada corta, las frases del curso por trimestre, los bloques de saberes del ciclo y las fuentes (`objetivos.json`) |
+| `#/buscar` | **Buscar en las semillas**: un campo y el botón «Buscar»; salen las semanas y los retos de verano donde aparecen las palabras, agrupados por curso (primero los de la familia), cada uno con su enlace y dónde sale (lo que descubren, el reto, la pregunta n.º) |
 | `#/ayuda` | **Cómo ayudar**: las ideas, «Por qué Germina» y las fuentes (`contenido/comun/como-ayudar.json`) |
 | `#/ajustes` | Idioma, cursos, «Llevar el jardín a otro móvil», empezar de cero, privacidad, accesibilidad, cómo instalar |
 | `#/ajustes/pasar` | «Llevar el jardín a otro móvil»: enlace, QR y texto (6.3) |
 | `#/recibir/{codigo}` | Pregunta «¿Añadir este jardín al vuestro?» y lo combina (6.4) |
 | `#/privacidad`, `#/accesibilidad` | Páginas legales (9) |
 
-**Cabecera:** en una fila, el nombre (lleva a «Esta semana») y, en la esquina, el botón «☰ Menú» con Qué aprenden, Cómo ayudar y Ajustes, que abre una lista flotante y se cierra al elegir, al tocar fuera y con Escape. Debajo, siempre a la vista, las dos pestañas grandes: «Esta semana» y «El jardín».
+**Cabecera:** en una fila, el nombre (lleva a «Esta semana») y, en la esquina, el botón «☰ Menú» con Qué aprenden, Buscar, Cómo ayudar y Ajustes, que abre una lista flotante y se cierra al elegir, al tocar fuera y con Escape. Debajo, siempre a la vista, las dos pestañas grandes: «Esta semana» y «El jardín».
 
 En las pantallas de un curso, bajo el menú, una **banda del curso** a todo el ancho: el área y un botón con el curso («Matemáticas · [3.º ▾]») que abre una lista propia, igual en el móvil y en el escritorio y válida con dos cursos o con seis. Arriba van los cursos que sigue la familia y debajo los demás (sin grupos si solo hay de una clase), con ✓ en el que se está viendo. Elegir un curso lleva a la misma pantalla en ese curso: si es de los suyos, pasa a ser el curso activo; si es otro, solo se mira y los cursos de la familia no cambian (se eligen en Ajustes). Se cierra al elegir, al tocar fuera y con Escape.
 
@@ -49,6 +50,8 @@ Ejemplo: `#/2/matematicas/3/semana/7`. Una ruta desconocida o una semana inexist
 - **Fin de semana:** sábado y domingo no hay pregunta del día; la pantalla de inicio destaca el reto.
 - **Hoy:** lunes = pregunta 1 … viernes = pregunta 5, según la fecha local del dispositivo.
 - Un único botón principal por pantalla, letra de 16 px como mínimo, iconos con texto.
+
+**Buscar.** Se busca en el título, lo que descubren, el título del reto y las cinco preguntas de cada semilla publicada de los cursos activos, en el idioma elegido y, si es otro, también en español (en clase todo se nombra en español, así que «millar» se encuentra en cualquier idioma); en español, además, en el tema del mapa y los saberes del currículo, que solo se enseñan si no sale en la semilla. Sin mayúsculas ni tildes, y cada palabra de tres letras o más (o un número) tiene que salir en la semilla. Lo buscado no se guarda ni sale del móvil: el índice (`contenido/busqueda-{idioma}.json`, uno por idioma) lo genera la construcción a partir del contenido, y la búsqueda se hace en el propio móvil.
 
 ## 4. Contenido
 
@@ -269,6 +272,7 @@ por bloque:
 
 - PWA instalable (`vite-plugin-pwa`, Workbox `generateSW`), con manifiesto en los cinco idiomas (nombre «Germina», el lema como descripción) e iconos propios.
 - **Precarga:** la aplicación y el contenido común (textos, configuración, mapas, objetivos y el índice de semillas). Las semillas no se precargan: el service worker las guarda en su caché (`germina-semillas`) al pedirlas, y la aplicación pide en segundo plano las de los cursos que sigue la familia al abrir la web y cada vez que cambian sus cursos. Así funciona sin conexión desde la primera visita completa para los cursos de la familia; las de otros cursos, en cuanto se han mirado una vez.
+- **Índices para buscar:** no se precargan; el service worker los guarda en su caché (`germina-busqueda`) la primera vez que se busca y los renueva por detrás.
 - **Semillas con versión:** `contenido/indice.json` lleva la huella de cada semilla y la aplicación las pide como `…/semana-07.json?v=<huella>`, de modo que una semilla corregida nunca se sirve vieja desde la caché.
 - **Actualizaciones:** modo `prompt`. Si hay versión nueva, aviso discreto «Hay novedades · Ver ahora»; si no se pulsa, se aplica la próxima vez que se abra la web.
 - **Presupuesto:** la primera carga de la página de inicio pesa como mucho 200 KB comprimidos (JS + CSS + HTML + fuente latina), y el conjunto precargado, 1,5 MB comprimidos como mucho. Lo comprueba un script en la integración continua.

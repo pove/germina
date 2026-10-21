@@ -14,6 +14,7 @@ const rutas: [string, Ruta][] = [
   ['#/2/matematicas/3/jardin', { tipo: 'jardin', ...curso }],
   ['#/2/matematicas/3/aprenden', { tipo: 'aprenden', ...curso }],
   ['#/2/conocimiento-medio/4/jardin', { tipo: 'jardin', ciclo: 2, area: 'conocimiento-medio', curso: 4 }],
+  ['#/buscar', { tipo: 'buscar' }],
   ['#/ayuda', { tipo: 'ayuda' }],
   ['#/ajustes', { tipo: 'ajustes' }],
   ['#/ajustes/pasar', { tipo: 'pasar' }],
@@ -61,6 +62,7 @@ describe('rutas desconocidas', () => {
   it.each([
     '#/nada',
     '#/ayuda/mas',
+    '#/buscar/millar',
     '#/ajustes/otra',
     '#/imprimir',
     '#/2/matematicas/3',

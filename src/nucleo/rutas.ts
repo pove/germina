@@ -11,6 +11,7 @@ export type Ruta =
   | ({ tipo: 'veranoReto'; n: number } & Curso)
   | ({ tipo: 'jardin' } & Curso)
   | ({ tipo: 'aprenden' } & Curso)
+  | { tipo: 'buscar' }
   | { tipo: 'ayuda' }
   | { tipo: 'ajustes' }
   | { tipo: 'pasar' }
@@ -71,6 +72,7 @@ export function interpretar(hash: string): Ruta {
   if (partes.length === 1) {
     switch (a) {
       case 'bienvenida': return { tipo: 'bienvenida' };
+      case 'buscar': return { tipo: 'buscar' };
       case 'ayuda': return { tipo: 'ayuda' };
       case 'ajustes': return { tipo: 'ajustes' };
       case 'privacidad': return { tipo: 'privacidad' };
@@ -104,6 +106,7 @@ export function construir(ruta: Ruta): string {
     case 'veranoReto': return `#/${deCurso(ruta)}/verano/${ruta.n}/reto`;
     case 'jardin': return `#/${deCurso(ruta)}/jardin`;
     case 'aprenden': return `#/${deCurso(ruta)}/aprenden`;
+    case 'buscar': return '#/buscar';
     case 'ayuda': return '#/ayuda';
     case 'ajustes': return '#/ajustes';
     case 'pasar': return '#/ajustes/pasar';
