@@ -9,6 +9,7 @@ import { construir, cursoDe, type Ruta } from './nucleo/rutas';
 import { Aprenden } from './pantallas/Aprenden';
 import { Ajustes } from './pantallas/Ajustes';
 import { Ayuda } from './pantallas/Ayuda';
+import { Buscar } from './pantallas/Buscar';
 import { Bienvenida } from './pantallas/Bienvenida';
 import { CambioDeCurso } from './pantallas/CambioDeCurso';
 import { Jardin } from './pantallas/Jardin';
@@ -46,6 +47,8 @@ function Pantalla({ r }: { r: Ruta }) {
       return <Jardin curso={cursoDe(r)} />;
     case 'aprenden':
       return <Aprenden curso={cursoDe(r)} />;
+    case 'buscar':
+      return <Buscar />;
     case 'ayuda':
       return <Ayuda />;
     case 'ajustes':

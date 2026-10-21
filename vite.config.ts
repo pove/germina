@@ -20,7 +20,8 @@ export default defineConfig({
         // pasarían del presupuesto (especificación, 7). Se guardan en `germina-semillas` al pedirlas, y la aplicación
         // pide en segundo plano las de los cursos de la familia (src/precarga.ts).
         globPatterns: ['**/*.{js,css,html,json,svg,png,woff2,webmanifest}'],
-        globIgnores: ['**/contenido/ciclo-*/*/*/semana-*.json', '**/contenido/ciclo-*/*/*/verano-*.json'],
+        // Los índices para buscar tampoco (uno por idioma): se guardan en `germina-busqueda` la primera vez que se busca.
+        globIgnores: ['**/contenido/ciclo-*/*/*/semana-*.json', '**/contenido/ciclo-*/*/*/verano-*.json', '**/contenido/busqueda-*.json'],
         runtimeCaching: [
           {
             // Se piden con su huella (`?v=…`), así que lo guardado nunca es una versión vieja. Las versiones que ya no
@@ -28,6 +29,12 @@ export default defineConfig({
             urlPattern: ({ url }) => /\/contenido\/ciclo-\d\/[^/]+\/\d\/(semana|verano)-\d\d\.json$/.test(url.pathname),
             handler: 'CacheFirst',
             options: { cacheName: 'germina-semillas' },
+          },
+          {
+            // Sin huella en la ruta: se sirve lo guardado y se renueva por detrás para la próxima vez.
+            urlPattern: ({ url }) => /\/contenido\/busqueda-[a-z]{2}\.json$/.test(url.pathname),
+            handler: 'StaleWhileRevalidate',
+            options: { cacheName: 'germina-busqueda' },
           },
         ],
         navigateFallback: 'index.html',

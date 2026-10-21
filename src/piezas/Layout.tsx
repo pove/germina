@@ -67,6 +67,7 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
   ];
   const otras: { ruta: Ruta | null; texto: string; activo: boolean }[] = [
     { ruta: curso && { tipo: 'aprenden', ...curso }, texto: t('nav.aprenden'), activo: ruta.tipo === 'aprenden' },
+    { ruta: { tipo: 'buscar' }, texto: t('nav.buscar'), activo: ruta.tipo === 'buscar' },
     { ruta: { tipo: 'ayuda' }, texto: t('nav.ayuda'), activo: ruta.tipo === 'ayuda' },
     { ruta: { tipo: 'ajustes' }, texto: t('nav.ajustes'), activo: ['ajustes', 'pasar', 'recibir', 'privacidad', 'accesibilidad'].includes(ruta.tipo) },
   ];
@@ -135,7 +136,7 @@ export function Layout({ ruta, children, sinMenu = false }: Props) {
   );
 }
 
-/** «☰ Menú», en la esquina: qué aprenden, cómo ayudar y ajustes. */
+/** «☰ Menú», en la esquina: qué aprenden, buscar, cómo ayudar y ajustes. */
 function MenuMas({ enlaces }: { enlaces: { ruta: Ruta | null; texto: string; activo: boolean }[] }) {
   const { abierto, setAbierto, caja, boton, alPulsarTecla } = useDesplegable();
   const algunoActivo = enlaces.some((e) => e.activo);

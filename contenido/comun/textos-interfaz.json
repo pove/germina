@@ -115,6 +115,7 @@
   "nav.inicio": { "es": "Esta semana", "va": "Aquesta setmana", "en": "This week", "fr": "Cette semaine", "ar": "هذا الأسبوع" },
   "nav.jardin": { "es": "El jardín", "va": "El jardí", "en": "The garden", "fr": "Le jardin", "ar": "البستان" },
   "nav.aprenden": { "es": "Qué aprenden", "va": "Què aprenen", "en": "What they learn", "fr": "Ce qu'on apprend", "ar": "ماذا يتعلمون" },
+  "nav.buscar": { "es": "Buscar", "va": "Cercar", "en": "Search", "fr": "Rechercher", "ar": "البحث" },
   "nav.ayuda": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
   "nav.ajustes": { "es": "Ajustes", "va": "Ajustos", "en": "Settings", "fr": "Réglages", "ar": "الإعدادات" },
   "nav.menu": { "es": "Menú", "va": "Menú", "en": "Menu", "fr": "Menu", "ar": "القائمة" },
@@ -224,6 +225,28 @@
   "aprenden.trimestre": { "es": "Trimestre {n}", "va": "Trimestre {n}", "en": "Term {n}", "fr": "Trimestre {n}", "ar": "الفصل {n}" },
   "aprenden.ciclo_titulo.1": { "es": "Lo que se trabaja en 1.º y 2.º", "va": "El que es treballa en 1r i 2n", "en": "What is covered in the 1st and 2nd years", "fr": "Ce qu'on travaille en 1re et 2e année", "ar": "ما يُعمل عليه في الصفّين الأول والثاني" },
   "aprenden.ciclo_titulo.2": { "es": "Lo que se trabaja en 3.º y 4.º", "va": "El que es treballa en 3r i 4t", "en": "What is covered in the 3rd and 4th years", "fr": "Ce qu'on travaille en 3e et 4e année", "ar": "ما يُعمل عليه في الصفّين الثالث والرابع" },
+
+  "buscar.titulo": { "es": "Buscar en las semillas", "va": "Cercar en les llavors", "en": "Search the seeds", "fr": "Rechercher dans les graines", "ar": "البحث في البذور" },
+  "buscar.etiqueta": { "es": "¿Qué queréis buscar?", "va": "Què voleu cercar?", "en": "What would you like to find?", "fr": "Que voulez-vous chercher ?", "ar": "عمّ تريدون البحث؟" },
+  "buscar.ejemplo": {
+    "es": "Una o dos palabras, por ejemplo: millar, reloj, fracciones. Sale en qué semana y en qué curso aparecen.",
+    "va": "Una o dues paraules, per exemple: miler, rellotge, fraccions. Ix en quina setmana i en quin curs apareixen.",
+    "en": "One or two words, for example: thousand, clock, fractions. You will see the week and the year group where they appear.",
+    "fr": "Un ou deux mots, par exemple : millier, horloge, fractions. Vous verrez la semaine et la classe où ils apparaissent.",
+    "ar": "كلمة أو كلمتان، مثلًا: ألف، ساعة، كسور. سترون الأسبوع والصف اللذين تظهر فيهما."
+  },
+  "buscar.boton": { "es": "Buscar", "va": "Cercar", "en": "Search", "fr": "Rechercher", "ar": "ابحثوا" },
+  "buscar.encontradas": { "es": "Semillas encontradas: {n}", "va": "Llavors trobades: {n}", "en": "Seeds found: {n}", "fr": "Graines trouvées : {n}", "ar": "البذور التي وجدناها: {n}" },
+  "buscar.nada": {
+    "es": "No hemos encontrado ninguna semilla con «{texto}». ¿Probáis con otra palabra?",
+    "va": "No hem trobat cap llavor amb «{texto}». Proveu amb una altra paraula?",
+    "en": "We couldn't find any seed with “{texto}”. Would you like to try another word?",
+    "fr": "Nous n'avons trouvé aucune graine avec « {texto} ». Voulez-vous essayer un autre mot ?",
+    "ar": "لم نجد أي بذرة فيها «{texto}». هل تجرّبون كلمة أخرى؟"
+  },
+  "buscar.tema": { "es": "Tema de la semana", "va": "Tema de la setmana", "en": "Topic of the week", "fr": "Thème de la semaine", "ar": "موضوع الأسبوع" },
+  "buscar.saber": { "es": "Lo que dice el currículo", "va": "El que diu el currículum", "en": "What the curriculum says", "fr": "Ce que dit le programme", "ar": "ما يقوله المنهاج" },
+  "buscar.en_espanol": { "es": "En español", "va": "En castellà", "en": "In Spanish", "fr": "En espagnol", "ar": "بالإسبانية" },
 
   "ayuda.titulo": { "es": "Cómo ayudar", "va": "Com ajudar", "en": "How to help", "fr": "Comment aider", "ar": "كيف نساعد" },
   "ayuda.ideas_titulo": { "es": "Ideas para acompañar", "va": "Idees per a acompanyar", "en": "Ideas for joining in", "fr": "Des idées pour accompagner", "ar": "أفكار للمرافقة" },

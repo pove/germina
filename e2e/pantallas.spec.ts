@@ -227,6 +227,37 @@ for (const idioma of IDIOMAS) {
       await objetivosTactiles(page);
     });
 
+    test('buscar: en qué semanas y cursos sale el millar', async ({ page }) => {
+      await preparar(page, { almacen: { idioma } });
+      await page.goto(SEMANA_7);
+      await irDesdeElMenu(page, T('nav.buscar', idioma), idioma);
+      await expect(page.getByRole('heading', { level: 1 })).toHaveText(T('buscar.titulo', idioma));
+      await sinProblemasDeAccesibilidad(page);
+      await objetivosTactiles(page);
+
+      // «millar» se encuentra también en árabe: se busca siempre en español, que es como se dice en clase.
+      await page.getByRole('searchbox', { name: T('buscar.etiqueta', idioma) }).fill('millar');
+      await page.getByRole('button', { name: T('buscar.boton', idioma), exact: true }).click();
+      await expect(page.getByRole('status')).toContainText(T('buscar.encontradas', idioma, { n: '' }).trim());
+      // Primero el curso de la familia (3.º), y nada del 1.er ciclo, que no llega al millar.
+      await expect(page.getByRole('heading', { level: 2 }).first()).toHaveText(new RegExp(`${T('curso.3', idioma)}$`));
+      await expect(page.getByRole('heading', { level: 2, name: new RegExp(T('ciclo.1', idioma)) })).toHaveCount(0);
+      const semana2 = page.getByRole('link', { name: new RegExp(`^${T('semana.titulo', idioma, { n: 2 })} · `) }).first();
+      await expect(semana2).toBeVisible();
+      await sinProblemasDeAccesibilidad(page);
+      await objetivosTactiles(page);
+
+      await semana2.click();
+      await expect(page).toHaveURL(/#\/2\/matematicas\/3\/semana\/2$/);
+      await page.goBack();
+      await expect(page.getByRole('searchbox')).toHaveValue('millar');
+      await expect(page.getByRole('heading', { level: 2 }).first()).toBeVisible();
+
+      await page.getByRole('searchbox').fill('dinosaurio');
+      await page.getByRole('searchbox').press('Enter');
+      await expect(page.getByRole('status')).toHaveText(T('buscar.nada', idioma, { texto: 'dinosaurio' }));
+    });
+
     test('la semana: axe y objetivos táctiles', async ({ page }) => {
       await preparar(page, { almacen: { idioma } });
       await page.goto(SEMANA_7);
